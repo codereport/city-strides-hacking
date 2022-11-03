@@ -1,16 +1,20 @@
 import requests
 from cookies_headers import cookies, headers
 
+
 def parse_nodes(r):
-    nodes = []  
+    nodes = []
     for i, data in enumerate(str(response.content).split("],[")):
         try:
-            lon, lat, id, name = data.split(',')[:4]
+            lon, lat, id, name = data.split(",")[:4]
             start = 4 if i == 0 else 0
-            nodes.append([float(lon[start:]), float(lat), 2, f"{name} ({int(id[-3:])})"])
+            nodes.append(
+                [float(lon[start:]), float(lat), 2, f"{name} ({int(id[-3:])})"]
+            )
         except:
             continue
     return nodes
+
 
 start_nelng = -79.33955958805103
 start_nelat = 43.72040452083706
@@ -19,7 +23,7 @@ start_swlat = 43.63008386434698
 
 nodes = []
 
-delta    = 0.012 
+delta = 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
 lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
@@ -34,14 +38,19 @@ for x in range(0, lat_tile):
         d = b - delta
 
         params = {
-            'city': '0',
-            'nelng': str(a),
-            'nelat': str(b),
-            'swlng': str(c),
-            'swlat': str(d),
+            "city": "0",
+            "nelng": str(a),
+            "nelat": str(b),
+            "swlng": str(c),
+            "swlat": str(d),
         }
 
-        response = requests.get('https://citystrides.com/nodes.json', params=params, cookies=cookies, headers=headers)
+        response = requests.get(
+            "https://citystrides.com/nodes.json",
+            params=params,
+            cookies=cookies,
+            headers=headers,
+        )
 
         temp = parse_nodes(response)
         print(len(temp))

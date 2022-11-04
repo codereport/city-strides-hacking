@@ -16,12 +16,15 @@ def parse_nodes(r):
     return nodes
 
 
-start_nelng = -79.33955958805103
-start_nelat = 43.72040452083706
-start_swlng = -79.46570302381091
-start_swlat = 43.63008386434698
+start_nelng = -79.4057
+start_nelat = 43.686
+start_swlng = -79.4511
+start_swlat = 43.655
 
-nodes = []
+# start_nelng = -79.33955958805103
+# start_nelat = 43.72040452083706
+# start_swlng = -79.46570302381091
+# start_swlat = 43.63008386434698
 
 delta = 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
@@ -29,6 +32,7 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
 
+nodes = []
 for x in range(0, lat_tile):
     for y in range(0, lng_tile):
 
@@ -57,10 +61,10 @@ for x in range(0, lat_tile):
 
         nodes = nodes + temp
 
-# TODO: add titles to nodes: ['lat', 'lon', 'sz', 'names']
+titles = [["lat", "lon", "sz", "names"]]
 
 import csv
 
 with open("nodes.csv", "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerows(nodes)
+    writer.writerows(titles + nodes)

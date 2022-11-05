@@ -16,15 +16,15 @@ def parse_nodes(r):
     return nodes
 
 
-start_nelng = -79.4057
-start_nelat = 43.686
-start_swlng = -79.4511
-start_swlat = 43.655
+# start_nelng = -79.3957
+# start_nelat = 43.686
+# start_swlng = -79.4511
+# start_swlat = 43.655
 
-# start_nelng = -79.33955958805103
-# start_nelat = 43.72040452083706
-# start_swlng = -79.46570302381091
-# start_swlat = 43.63008386434698
+start_nelng = -79.33955958805103
+start_nelat = 43.72040452083706
+start_swlng = -79.475302381091
+start_swlat = 43.63008386434698
 
 delta = 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1

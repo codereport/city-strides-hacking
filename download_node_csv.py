@@ -16,15 +16,23 @@ def parse_nodes(r):
     return nodes
 
 
+# Smaller toronto
 # start_nelng = -79.3957
 # start_nelat = 43.686
 # start_swlng = -79.4511
 # start_swlat = 43.655
 
-start_nelng = -79.33955958805103
-start_nelat = 43.72040452083706
-start_swlng = -79.475302381091
-start_swlat = 43.63008386434698
+# Larger toronto
+# start_nelng = -79.280
+# start_nelat = 43.72040452083706
+# start_swlng = -79.475302381091
+# start_swlat = 43.63008386434698
+
+# All old toronto
+start_nelng = -79.27
+start_nelat = 43.75
+start_swlng = -79.49
+start_swlat = 43.61
 
 delta = 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
@@ -42,7 +50,8 @@ for x in range(0, lat_tile):
         d = b - delta
 
         params = {
-            "city": "0",
+            "city": "38121",  # Old Toronto
+            # "city": "0",
             "nelng": str(a),
             "nelat": str(b),
             "swlng": str(c),

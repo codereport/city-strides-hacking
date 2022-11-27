@@ -40,6 +40,12 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
 
+cache = set()
+with open("cache.csv", "r", newline="") as f:
+    for line in f:
+        [a, b, c, d] = line.strip().split(',')
+        cache.add((a, b, c, d))
+
 nodes = []
 for x in range(0, lat_tile):
     for y in range(0, lng_tile):
@@ -58,17 +64,22 @@ for x in range(0, lat_tile):
             "swlat": str(d),
         }
 
-        response = requests.get(
-            "https://citystrides.com/nodes.json",
-            params=params,
-            cookies=cookies,
-            headers=headers,
-        )
+        grid = (str(a), str(b), str(c), str(d))
+        if grid not in cache:
 
-        temp = parse_nodes(response)
-        print(len(temp))
+            response = requests.get(
+                "https://citystrides.com/nodes.json",
+                params=params,
+                cookies=cookies,
+                headers=headers,
+            )
 
-        nodes = nodes + temp
+            temp = parse_nodes(response)
+            print(len(temp))
+            if len(temp) == 0:
+                cache.add(grid)
+
+            nodes = nodes + temp
 
 titles = [["lat", "lon", "sz", "names"]]
 
@@ -77,3 +88,7 @@ import csv
 with open("nodes.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(titles + nodes)
+
+with open("cache.csv", "w", newline="") as f:
+    writer = csv.writer(f)
+    writer.writerows([list(grid) for grid in cache])

@@ -38,57 +38,71 @@ delta = 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
 lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
+print("Choose a city:")
+print("1. Old Toronto")
+print("2. East York\n")
+
+city = int(input("Choice: "))
+city_ids = {1: "38121", 2: "38114", 3: "0"}
+
 print(lng_tile, lat_tile)
 
-cache = set()
-with open("cache.csv", "r", newline="") as f:
-    for line in f:
-        [a, b, c, d] = line.strip().split(',')
-        cache.add((a, b, c, d))
+if city not in [1, 2, 3]:
+    print("Invalid input")
+else:
+    city_id = city_ids[city]
 
-nodes = []
-for x in range(0, lat_tile):
-    for y in range(0, lng_tile):
+    cache = set()
+    cache_file = city_id + "_cache.csv"
+    open(cache_file, 'a').close()
 
-        a = start_nelng - y * delta
-        b = start_nelat - x * delta
-        c = a - delta
-        d = b - delta
+    with open(cache_file, "r", newline="") as f:
+        for line in f:
+            [a, b, c, d] = line.strip().split(',')
+            cache.add((a, b, c, d))
 
-        params = {
-            "city": "38121",  # Old Toronto
-            # "city": "0",
-            "nelng": str(a),
-            "nelat": str(b),
-            "swlng": str(c),
-            "swlat": str(d),
-        }
+    nodes = []
+    for x in range(0, lat_tile):
+        for y in range(0, lng_tile):
 
-        grid = (str(a), str(b), str(c), str(d))
-        if grid not in cache:
+            a = start_nelng - y * delta
+            b = start_nelat - x * delta
+            c = a - delta
+            d = b - delta
 
-            response = requests.get(
-                "https://citystrides.com/nodes.json",
-                params=params,
-                cookies=cookies,
-                headers=headers,
-            )
+            params = {
+                "city": city_id,
+                "nelng": str(a),
+                "nelat": str(b),
+                "swlng": str(c),
+                "swlat": str(d),
+            }
 
-            temp = parse_nodes(response)
-            print(len(temp))
-            if len(temp) == 0:
-                cache.add(grid)
+            grid = (str(a), str(b), str(c), str(d))
+            if grid not in cache:
 
-            nodes = nodes + temp
+                response = requests.get(
+                    "https://citystrides.com/nodes.json",
+                    params=params,
+                    cookies=cookies,
+                    headers=headers,
+                )
 
-titles = [["lat", "lon", "sz", "names"]]
+                temp = parse_nodes(response)
+                print(len(temp))
+                if len(temp) == 0:
+                    cache.add(grid)
 
-import csv
+                nodes = nodes + temp
 
-with open("nodes.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerows(titles + nodes)
+    titles = [["lat", "lon", "sz", "names"]]
 
-with open("cache.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerows([list(grid) for grid in cache])
+    import csv
+
+    with open("nodes.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows(titles + nodes)
+
+    with open(cache_file, "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows([list(grid) for grid in cache])

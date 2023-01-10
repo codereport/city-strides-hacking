@@ -40,7 +40,8 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print("Choose a city:")
 print("1. Old Toronto")
-print("2. East York\n")
+print("2. East York")
+print("3. All\n")
 
 city = int(input("Choice: "))
 city_ids = {1: "38121", 2: "38114", 3: "0"}
@@ -53,7 +54,7 @@ else:
     city_id = city_ids[city]
 
     cache = set()
-    cache_file = city_id + "_cache.csv"
+    cache_file = "./cache/" + city_id + "_cache.csv"
     open(cache_file, 'a').close()
 
     with open(cache_file, "r", newline="") as f:

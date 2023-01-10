@@ -41,10 +41,12 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 print("Choose a city:")
 print("1. Old Toronto")
 print("2. East York")
-print("3. All\n")
+print("3. York")
+print("4. North York")
+print("5. All\n")
 
 city = int(input("Choice: "))
-city_ids = {1: "38121", 2: "38114", 3: "0"}
+city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "0"}
 
 print(lng_tile, lat_tile)
 

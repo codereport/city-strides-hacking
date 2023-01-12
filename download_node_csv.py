@@ -28,16 +28,6 @@ def parse_nodes(r):
 # start_swlng = -79.475302381091
 # start_swlat = 43.63008386434698
 
-# All old toronto
-start_nelng = -79.27
-start_nelat = 43.75
-start_swlng = -79.49
-start_swlat = 43.61
-
-delta = 0.012
-lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
-lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
-
 print("Choose a city:")
 print("1. Old Toronto")
 print("2. East York")
@@ -47,6 +37,23 @@ print("5. All\n")
 
 city = int(input("Choice: "))
 city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "0"}
+
+if city == 3:
+    # York
+    start_nelng = -79.3829
+    start_nelat = 43.7206
+    start_swlng = -79.5560
+    start_swlat = 43.6424
+else:
+    # All old toronto
+    start_nelng = -79.27
+    start_nelat = 43.75
+    start_swlng = -79.49
+    start_swlat = 43.61
+
+delta = 0.012
+lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
+lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
 

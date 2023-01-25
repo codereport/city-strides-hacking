@@ -57,7 +57,7 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
 
-if city not in [1, 2, 3]:
+if city not in [1, 2, 3, 4, 5]:
     print("Invalid input")
 else:
     city_id = city_ids[city]

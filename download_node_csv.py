@@ -33,10 +33,11 @@ print("1. Old Toronto")
 print("2. East York")
 print("3. York")
 print("4. North York")
-print("5. All\n")
+print("5. Wroclaw")
+print("6. All\n")
 
 city = int(input("Choice: "))
-city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "0"}
+city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "0"}
 
 if city == 3:
     # York
@@ -44,6 +45,11 @@ if city == 3:
     start_nelat = 43.7206
     start_swlng = -79.5560
     start_swlat = 43.6424
+elif city == 5:
+    start_nelng=17.078224311098552
+    start_nelat=51.13988879756559
+    start_swlng=17.00226573206399
+    start_swlat=51.09263199227115
 else:
     # All old toronto
     start_nelng = -79.27

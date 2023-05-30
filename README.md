@@ -21,7 +21,7 @@ headers = {
 }
 ```
 * Generate the above by doing the following:
-   * Go to www.citystrides.com
+   * Go to www.citystrides.com (on Firedox)
    * `Ctrl + Shift + I` to open the Web Developer Tools
    * Choose a city on CityStrides, and click the 'Show Nodes" button (need to subscride for access to nodes)
    * Copy the `GET` command using the `Copy Value` -> `Copy as Curl` 

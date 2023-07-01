@@ -37,10 +37,11 @@ print("5. Wroclaw")
 print("6. Kraków")
 print("7. Rome")
 print("8. Venice")
-print("9. All\n")
+print("9. Folkestone")
+print("10. All\n")
 
 city = int(input("Choice: "))
-city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "190608", 7: "94322", 8: "93031", 9: "0"}
+city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "190608", 7: "94322", 8: "93031", 9: "131165", 10: "0"}
 
 if city == 3:
     # York
@@ -68,6 +69,11 @@ elif city == 8:
     start_nelat=45.451386491714715
     start_swlng=12.316599314442499
     start_swlat=45.42077976598716
+elif city == 9:
+    start_nelng=1.2028963028344322
+    start_nelat=51.11176465501126
+    start_swlng=1.1199095563368644
+    start_swlat=51.05639602006997
 else:
     # All old toronto
     start_nelng = -79.27
@@ -81,7 +87,7 @@ lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
 
-if city not in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+if city not in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]:
     print("Invalid input")
 else:
     city_id = city_ids[city]

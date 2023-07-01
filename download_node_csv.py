@@ -35,18 +35,6 @@ def name(city: City):
 def file_name(city: City):
     return str(city)[5:].lower()
 
-# Smaller toronto
-# start_nelng = -79.3957
-# start_nelat = 43.686
-# start_swlng = -79.4511
-# start_swlat = 43.655
-
-# Larger toronto
-# start_nelng = -79.280
-# start_nelat = 43.72040452083706
-# start_swlng = -79.475302381091
-# start_swlat = 43.63008386434698
-
 print("Choose a city:")
 for i, c in enumerate(City):
     print(f"{i + 1}. {name(c)}")

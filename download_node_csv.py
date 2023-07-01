@@ -62,41 +62,15 @@ except:
     sys.exit()
 city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "190608", 7: "94322", 8: "93031", 9: "131165", 10: "0"}
 
-if city == City.YORK:
-    start_nelng = -79.3829
-    start_nelat = 43.7206
-    start_swlng = -79.5560
-    start_swlat = 43.6424
-elif city == City.WROCLAW:
-    start_nelng=17.078224311098552
-    start_nelat=51.13988879756559
-    start_swlng=17.00226573206399
-    start_swlat=51.09263199227115
-elif city == City.KRAKOW:
-    start_nelng=19.979436306324942
-    start_nelat=50.08859858611942
-    start_swlng=19.90053987336441
-    start_swlat=50.034804024531525
-elif city == City.ROME:
-    start_nelng=12.519622013860925
-    start_nelat=41.91439535724936
-    start_swlng=12.443743029831694
-    start_swlat=41.85439499689079
-elif city == City.VENICE:
-    start_nelng=12.357666134722393
-    start_nelat=45.451386491714715
-    start_swlng=12.316599314442499
-    start_swlat=45.42077976598716
-elif city == City.FOLKESTONE:
-    start_nelng=1.2028963028344322
-    start_nelat=51.11176465501126
-    start_swlng=1.1199095563368644
-    start_swlat=51.05639602006997
-else:
-    start_nelng = -79.27
-    start_nelat = 43.75
-    start_swlng = -79.49
-    start_swlat = 43.61
+if   city == City.YORK:        lon_lats = [-79.3829, 43.7206, -79.5560, 43.6424]
+elif city == City.WROCLAW:     lon_lats = [17.078224311098552, 51.13988879756559, 17.00226573206399, 51.09263199227115]
+elif city == City.KRAKOW:      lon_lats = [19.979436306324942, 50.08859858611942, 19.90053987336441, 50.034804024531525]
+elif city == City.ROME:        lon_lats = [12.519622013860925, 41.91439535724936, 12.443743029831694, 41.85439499689079]
+elif city == City.VENICE:      lon_lats = [12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716]
+elif city == City.FOLKESTONE:  lon_lats = [1.2028963028344322, 51.11176465501126, 1.1199095563368644, 51.05639602006997]
+else:                          lon_lats = [-79.27, 43.75, -79.49, 43.61]
+
+[start_nelng, start_nelat, start_swlng, start_swlat] = lon_lats
 
 delta = 0.004 if city == City.VENICE else 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1

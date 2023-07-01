@@ -16,8 +16,24 @@ def parse_nodes(r):
             continue
     return nodes
 
-def name(city):
-    return str(city)[5:]
+
+class City(Enum):
+    OLD_TORONTO = 1  # 🇨🇦
+    EAST_YORK   = 2  # 🇨🇦
+    YORK        = 3  # 🇨🇦
+    NORTH_YORK  = 4  # 🇨🇦
+    WROCLAW     = 5  # 🇵🇱
+    KRAKOW      = 6  # 🇵🇱
+    ROME        = 7  # 🇮🇹
+    VENICE      = 8  # 🇮🇹
+    FOLKESTONE  = 9  # 🇬🇧
+    ALL_TORONTO = 10 # 🇨🇦
+
+def name(city: City):
+    return str(city)[5:].title().replace('_', ' ')
+
+def file_name(city: City):
+    return str(city)[5:].lower()
 
 # Smaller toronto
 # start_nelng = -79.3957
@@ -32,28 +48,8 @@ def name(city):
 # start_swlat = 43.63008386434698
 
 print("Choose a city:")
-print("1. Old Toronto")    # 🇨🇦 
-print("2. East York")      # 🇨🇦 
-print("3. York")           # 🇨🇦 
-print("4. North York")     # 🇨🇦 
-print("5. Wroclaw")        # 🇵🇱 
-print("6. Kraków")         # 🇵🇱 
-print("7. Rome")           # 🇮🇹 
-print("8. Venice")         # 🇮🇹 
-print("9. Folkestone")     # 🇬🇧 
-print("10. All Toronto\n") # 🇨🇦
-
-class City(Enum):
-    OLD_TORONTO = 1
-    EAST_YORK   = 2
-    YORK        = 3
-    NORTH_YORK  = 4
-    WROCLAW     = 5
-    KRAKOW      = 6
-    ROME        = 7
-    VENICE      = 8
-    FOLKESTONE  = 9
-    ALL_TORONTO = 10
+for i, c in enumerate(City):
+    print(f"{i + 1}. {name(c)}")
 
 try:
     city = City(int(input("Choice: ")))
@@ -81,7 +77,7 @@ print(lng_tile, lat_tile)
 city_id = city_ids[city.value]
 
 cache = set()
-cache_file = "./cache/" + name(city) + "_cache.csv"
+cache_file = "./cache/" + file_name(city) + "_cache.csv"
 open(cache_file, 'a').close()
 
 with open(cache_file, "r", newline="") as f:

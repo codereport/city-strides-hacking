@@ -15,7 +15,6 @@ def parse_nodes(r):
             continue
     return nodes
 
-
 # Smaller toronto
 # start_nelng = -79.3957
 # start_nelat = 43.686
@@ -29,16 +28,16 @@ def parse_nodes(r):
 # start_swlat = 43.63008386434698
 
 print("Choose a city:")
-print("1. Old Toronto") # 🇨🇦 
-print("2. East York")   # 🇨🇦 
-print("3. York")        # 🇨🇦 
-print("4. North York")  # 🇨🇦 
-print("5. Wroclaw")     # 🇵🇱 
-print("6. Kraków")      # 🇵🇱 
-print("7. Rome")        # 🇮🇹 
-print("8. Venice")      # 🇮🇹 
-print("9. Folkestone")  # 🇬🇧 
-print("10. All\n")      # 🇨🇦
+print("1. Old Toronto")    # 🇨🇦 
+print("2. East York")      # 🇨🇦 
+print("3. York")           # 🇨🇦 
+print("4. North York")     # 🇨🇦 
+print("5. Wroclaw")        # 🇵🇱 
+print("6. Kraków")         # 🇵🇱 
+print("7. Rome")           # 🇮🇹 
+print("8. Venice")         # 🇮🇹 
+print("9. Folkestone")     # 🇬🇧 
+print("10. All Toronto\n") # 🇨🇦
 
 city = int(input("Choice: "))
 city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "190608", 7: "94322", 8: "93031", 9: "131165", 10: "0"}

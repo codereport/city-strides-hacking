@@ -65,7 +65,7 @@ print(lng_tile, lat_tile)
 city_id = city_ids[city.value]
 
 cache = set()
-cache_file = "./cache/" + file_name(city) + "_cache.csv"
+cache_file = f"./cache/{file_name(city)}.csv"
 open(cache_file, 'a').close()
 
 with open(cache_file, "r", newline="") as f:

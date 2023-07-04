@@ -18,16 +18,16 @@ def parse_nodes(r):
 
 
 class City(Enum):
-    OLD_TORONTO = 1  # 🇨🇦
-    EAST_YORK   = 2  # 🇨🇦
-    YORK        = 3  # 🇨🇦
-    NORTH_YORK  = 4  # 🇨🇦
-    WROCLAW     = 5  # 🇵🇱
-    KRAKOW      = 6  # 🇵🇱
-    ROME        = 7  # 🇮🇹
-    VENICE      = 8  # 🇮🇹
-    FOLKESTONE  = 9  # 🇬🇧
-    ALL_TORONTO = 10 # 🇨🇦
+    OLD_TORONTO = 38121  # 🇨🇦
+    EAST_YORK   = 38114  # 🇨🇦
+    YORK        = 38102  # 🇨🇦
+    NORTH_YORK  = 38108  # 🇨🇦
+    WROCLAW     = 191289 # 🇵🇱
+    KRAKOW      = 190608 # 🇵🇱
+    ROME        = 94322  # 🇮🇹
+    VENICE      = 93031  # 🇮🇹
+    FOLKESTONE  = 131165 # 🇬🇧
+    ALL_TORONTO = 0      # 🇨🇦
 
 def name(city: City):
     return str(city)[5:].title().replace('_', ' ')
@@ -40,11 +40,10 @@ for i, c in enumerate(City):
     print(f"{i + 1}. {name(c)}")
 
 try:
-    city = City(int(input("\nChoice: ")))
+    city = list(City)[int(input("\nChoice: ")) - 1]
 except:
-    print(f"Invalid input: Number must be <= {City.ALL_TORONTO.value}")
+    print(f"Invalid input: Number must be <= {len(City)}")
     sys.exit()
-city_ids = {1: "38121", 2: "38114", 3: "38102", 4: "38108", 5: "191289", 6: "190608", 7: "94322", 8: "93031", 9: "131165", 10: "0"}
 
 if   city == City.YORK:        lon_lats = [-79.3829, 43.7206, -79.5560, 43.6424]
 elif city == City.WROCLAW:     lon_lats = [17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ]
@@ -61,8 +60,6 @@ lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
 lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 
 print(lng_tile, lat_tile)
-
-city_id = city_ids[city.value]
 
 cache = set()
 cache_file = f"./cache/{file_name(city)}.csv"
@@ -83,7 +80,7 @@ for x in range(0, lat_tile):
         d = b - delta
 
         params = {
-            "city": city_id,
+            "city": city.value,
             "nelng": str(a),
             "nelat": str(b),
             "swlng": str(c),

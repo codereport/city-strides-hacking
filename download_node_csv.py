@@ -16,7 +16,6 @@ def parse_nodes(r):
             continue
     return nodes
 
-
 class City(Enum):
     OLD_TORONTO = 38121  # 🇨🇦
     EAST_YORK   = 38114  # 🇨🇦
@@ -27,6 +26,7 @@ class City(Enum):
     ROME        = 94322  # 🇮🇹
     VENICE      = 93031  # 🇮🇹
     FOLKESTONE  = 131165 # 🇬🇧
+    MEAFORD     = 39015  # 🇨🇦
     ALL_TORONTO = 0      # 🇨🇦
 
 def name(city: City):
@@ -51,11 +51,12 @@ elif city == City.KRAKOW:      coordinates = [19.979436306324942, 50.08859858611
 elif city == City.ROME:        coordinates = [12.519622013860925, 41.91439535724936,  12.443743029831694, 41.85439499689079 ]
 elif city == City.VENICE:      coordinates = [12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ]
 elif city == City.FOLKESTONE:  coordinates = [1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ]
+elif city == City.MEAFORD:     coordinates = [-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ]
 else:                          coordinates = [-79.27, 43.75, -79.49, 43.61]
 
 [start_nelng, start_nelat, start_swlng, start_swlat] = coordinates
 
-delta = 0.004 if city == City.VENICE else 0.012
+delta = 0.004 if city == City.VENICE else 0.02 if city == City.MEAFORD else 0.012
 lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
 lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
 

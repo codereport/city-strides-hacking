@@ -52,7 +52,7 @@ elif city == City.ROME:        coordinates = [12.519622013860925, 41.91439535724
 elif city == City.VENICE:      coordinates = [12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ]
 elif city == City.FOLKESTONE:  coordinates = [1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ]
 elif city == City.MEAFORD:     coordinates = [-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ]
-else:                          coordinates = [-79.27, 43.75, -79.49, 43.61]
+else:                          coordinates = [-79.20, 43.8, -79.556, 43.61]
 
 [start_nelng, start_nelat, start_swlng, start_swlat] = coordinates
 

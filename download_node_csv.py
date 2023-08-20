@@ -10,7 +10,7 @@ def parse_nodes(r):
             lon, lat, id, name = data.split(",")[:4]
             start = 4 if i == 0 else 0
             nodes.append(
-                [float(lon[start:]), float(lat), 2, f"{name} ({int(id[-3:])})"]
+                [float(lon[start:]), float(lat), 2, f"{name} ({int(id[-3:])})", 'a']
             )
         except:
             continue
@@ -101,7 +101,7 @@ import csv
 
 with open("nodes.csv", "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerows([["lat", "lon", "sz", "names"]] + nodes)
+    writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)
 
 with open(cache_file, "w", newline="") as f:
     writer = csv.writer(f)

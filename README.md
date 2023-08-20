@@ -1,5 +1,4 @@
-![image](https://github.com/codereport/city-strides-hacking/assets/36027403/6773b990-c8b7-4411-8469-898f4c597c96)
-
+![image](https://github.com/codereport/city-strides-hacking/assets/36027403/cfcbdaef-86ec-4017-8392-6eb8c0ef8e99)
 
 # How to Use the Python Scripts
 

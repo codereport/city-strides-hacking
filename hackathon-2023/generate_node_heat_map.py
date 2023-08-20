@@ -4,15 +4,10 @@ from math import sqrt
 from itertools import chain
 from collections import defaultdict
 
-# read file
-with open('data/venice.json', 'r') as f:
-    data=f.read()
+with open('data/etobicoke.json', 'r') as f:
+    data=f.read() # read file
 
-# parse file
-obj = json.loads(data)
-
-i = 0
-streets = defaultdict(list)
+obj = json.loads(data) # parse file
 
 def node_dict(obj):
     d = {}
@@ -29,7 +24,7 @@ nodes = node_dict(obj)
 
 def length(l):
     res = 0
-    for a, b in zip(l[:-1], l[1:]):
+    for a, b in zip(l, l[1:], strict=False):
         (x1, y1) = nodes[a]
         (x2, y2) = nodes[b]
         res += dist(x1, x2, y1, y2)
@@ -38,21 +33,17 @@ def length(l):
 def total_length(ls):
     return sum(length(l) for l in ls)
 
-shortest_nodes = set()
-shorter_nodes = set()
-short_nodes = set()
-
+streets = defaultdict(list)
 for e in obj['elements']:
     if e['type'] == 'way':
         streets[e['tags']['name']].append((e['nodes']))
+
+a, b, c = set(), set(), set()
 for s, n in streets.items():
     tl = total_length(n)
-    if tl < 0.05:
-        shortest_nodes |= set(chain(*n))
-    elif tl < 0.1: 
-        shorter_nodes |= set(chain(*n))
-    elif tl < 0.2: 
-        short_nodes |= set(chain(*n))
+    if   tl < 0.05: a |= set(chain(*n))
+    elif tl < 0.1:  b |= set(chain(*n))
+    elif tl < 0.2:  c |= set(chain(*n))
     print(f"{s}, Number of nodes: {len(set(chain(*n)))}, Length: {round(tl, 3)}")
 print(f"# of Streets: {len(streets)}")
 print(f"# of Nodes From Streets: {sum(len(s) for s in streets.values())}")
@@ -64,17 +55,10 @@ nodes = []
 for e in obj['elements']:
     if e['type'] == 'node':
         id = e['id']
-        len_cat = 'a' if id in shortest_nodes else 'b' if id in shorter_nodes else 'c' if id in short_nodes else 'd'
+        len_cat = 'a' if id in a else 'b' if id in b else 'c' if id in c else 'd'
         nodes.append([float(e['lat']), float(e['lon']), 2, f"\"Name: {e['id']}\"", len_cat])
 
 # copy and pasted from download_node_csv.py
 with open("../nodes.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)
-
-
-# with open('pg_nodes.json', 'r') as f:
-#     data=f.read()
-
-# print(len([n for e in obj['elements'] if e['type'] == 'node']))    
-

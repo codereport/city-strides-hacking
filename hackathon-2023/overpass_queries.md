@@ -1,6 +1,13 @@
 ### Querying Streets from City (in this case Prince George)
 
 Use at: http://overpass-turbo.eu/
+Get city names at: https://www.openstreetmap.org/
+
+```
+Cities:
+Bangkok: กรุงเทพมหานคร
+Nha Trang: Thành phố Nha Trang
+```
 
 ```
 [out:json];
@@ -21,6 +28,7 @@ area[name = "Prince George"];
     ['highway' !~ 'elevator']
     ['highway' !~ 'bus_guideway']
     ['highway' !~ 'footway']
+    ['highway' !~ 'cycleway']
     ['highway' !~ 'trunk']
     ['foot' !~ 'no']
     ['access' !~ 'private']

@@ -5,7 +5,7 @@ from itertools import chain
 from collections import defaultdict
 
 # read file
-with open('venice.json', 'r') as f:
+with open('data/venice.json', 'r') as f:
     data=f.read()
 
 # parse file

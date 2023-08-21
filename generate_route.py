@@ -3,7 +3,6 @@ import utils
 import random
 from itertools import chain
 from collections import defaultdict
-from statistics import mean
 
 obj     = utils.load_json('bangkok')
 nodes   = utils.node_dictionary(obj)
@@ -19,24 +18,16 @@ for n, (x1, y1) in nodes.items():
     if utils.dist(x, x1, y, y1) < RANGE_IN_KM:
         filtered_nodes[n] = (x1, y1)
 
-def adjacency_list(nodes, streets):
+def adjacency_list(streets):
     adj_list = defaultdict(set)
     for _, snodes in streets.items():
         for ssnodes in snodes:
             for a, b in zip(ssnodes, ssnodes[1:]):
-                # if a in nodes and b in nodes:
                 adj_list[a].add(b)
                 adj_list[b].add(a)
     return adj_list
 
-# for name, snodes in streets.items():
-#     if START_NODE_ID in set(chain(*snodes)):
-#         print(name, snodes)
-
-adj_list = adjacency_list(nodes, streets)
-
-# for a, b in adj_list.items():
-#     print(a, b)
+adj_list = adjacency_list(streets)
 
 def streets_completed(path, streets):
     count = 0
@@ -68,89 +59,76 @@ def determine_next_choice_via_random_but_prioritize_new(path, last, adj_list):
         else:
             return random.choice(choices)
 
-def determine_next_choice_via_mcts(path, last, adj_list, steps, iterations):
-    stats = {}
-    best_option = None
-    best_score = (0, 0, 0, 0)
-    choices = adj_list[path[-1]]
-    if last in choices:
-        choices.remove(last)
-    for option in adj_list[path[-1]]:
-        completed = []
-        total_distances = []
-        total_scores = []
-        for _ in range(iterations):
-            _path = path.copy()
-            # _seen = seen.copy()
-            _last = last
-            total_distance = 0
-            total_score = 0
-            #######
-            for _ in range(steps):
-                id = _path[-1]
-                next_id = determine_next_choice_via_random_but_prioritize_new(_path, _last, adj_list)
-                total_distance += utils.node_dist(id, next_id, nodes)
-                total_score += ns[next_id]
-                _path.append(next_id)
-                # _seen.add(next_id)
-                _last = id
-            completed.append(streets_completed(_path, streets))
-            total_scores.append(total_score)
-            total_distances.append(total_distance)
-            #######
-        print(f"{last=}")
-        score = max((c / dist) * (1 + s) for c, dist, s in zip(completed, total_distances, total_scores))
-        print(completed)
-        # print(total_scores)
-        # print(total_distances)
-        stat = (score, mean(completed), mean(total_scores), -mean(total_distances))
-        stats[option] = stat
-        if best_option is None or stat > best_score:
-            best_option = option
-            best_score = stat
-    print(stats)
-    # if all_equal(stats.values()):
-    #     return determine_next_choice_via_random_but_prioritize_new(path, _last, adj_list)
-    return best_option
+prev_distance, prev_completed = 0, 0
+best_path, best_completed, best_score = "", 0, 0
+
+def distance_of_path(p):
+    return sum(utils.node_dist(a, b, nodes) for a, b in zip(p, p[1:]))
+
+def path_bfs(path_: list, dist: float, choices_left: int):
+    global best_completed, best_path, best_score
+    path = path_.copy()
+    if choices_left == 0:
+        done = streets_completed(path, streets)
+        done_delta = done - prev_completed
+        score = done_delta / dist
+
+        if score > best_score:
+            best_completed = done
+            best_score = score
+            best_path = path
+            print(score, done)
+        return
+    id = path[-1]
+    choices = list(adj_list[id])
+    if len(choices) == 1:
+        next_id = choices[0]
+        path.append(next_id)
+        path_bfs(path, dist + utils.node_dist(id, next_id, nodes), choices_left)
+    else:
+        if len(path) > 1:
+            last = path[-2]
+            if last in choices:
+                choices.remove(last)
+        if len(choices) == 1:
+            next_id = choices[0]
+            path.append(next_id)
+            path_bfs(path, dist + utils.node_dist(id, next_id, nodes), choices_left)
+        else:
+            for choice in choices:
+                new_path = path.copy()
+                new_path.append(choice)
+                path_bfs(new_path, dist + utils.node_dist(id, choice, nodes), choices_left - 1)
+
+
+def determine_next_choice_via_mcts(path, steps):
+    global best_completed, best_path, best_score
+    best_path, best_completed, best_score = [], 0, 0
+    path_bfs(path, 0, steps)
+    print(f"{best_path=}")
+    print(f"{best_completed=}")
+    return best_path
+
+def node_list_for_csv(p):
+    nodes = []
+    for i, id in enumerate(p):
+        (lat, lon) = filtered_nodes[id]
+        nodes.append([float(lat), float(lon), 2, f"\"Name: {id}\"", i])
+    return nodes
 
 path = [START_NODE_ID]
 total_distance = 0
-# seen = set(path)
-last = -1
 
-while total_distance < 5:
-    id = path[-1]
-    # next_id = determine_next_choice_via_random_but_prioritize_new(path, seen, adj_list)
-    choices = list(adj_list[id])
-    # new_choices = [c for c in choices if c not in seen]
-    if len(choices) == 1:
-        next_id = choices[0]
-    # elif len(new_choices) == 1:
-    #     next_id = new_choices[0]
-    else:
-        if last in choices:
-            choices.remove(last)
-        if len(choices) == 1:
-            next_id = choices[0]
-        else:
-            next_id = determine_next_choice_via_mcts(path, last, adj_list, 50, 1000)
-    total_distance += utils.node_dist(id, next_id, nodes)
-    path.append(next_id)
-    # seen.add(next_id)
-    last = id
+while total_distance < 40:
+    path = determine_next_choice_via_mcts(path, 8)[:-3]
+    total_distance = distance_of_path(path)
     print(total_distance)
-
-nodes = []
-for i, id in enumerate(path):
-    (lat, lon) = filtered_nodes[id]
-        # id = e['id']
-        # len_cat = 'a' if id in a else 'b' if id in b else 'c' if id in c else 'd'
-        # l = lengths[e['id']]
-        # if (l < 1):
-    nodes.append([float(lat), float(lon), 2, f"\"Name: {id}\"", i])
+    prev_completed = best_completed
+    prev_distance = total_distance
+    utils.write_nodes_csv(node_list_for_csv(path))
 
 print(path)
 print(len(path))
 print(f"{streets_completed(path, streets)=}")
 
-utils.write_nodes_csv(nodes)
+utils.write_nodes_csv(node_list_for_csv(path))

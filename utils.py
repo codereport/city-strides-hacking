@@ -3,6 +3,7 @@ import json
 from math import sqrt
 from itertools import chain
 from collections import defaultdict
+from geopy.distance import geodesic
 
 def load_json(city):
     with open(f"data/{city}.json", 'r') as f:
@@ -49,7 +50,7 @@ def node_dist(a, b, nodes):
     return dist(x1, x2, y1, y2)
 
 def distance_of_path(p, nodes):
-    return sum(node_dist(a, b, nodes) for a, b in zip(p, p[1:]))
+    return sum(geodesic(nodes[a], nodes[b]).kilometers for a, b in zip(p, p[1:]))
 
 def length(l, nodes):
     res = 0

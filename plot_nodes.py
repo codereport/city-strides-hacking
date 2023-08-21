@@ -1,9 +1,6 @@
 import pandas as pd
 import plotly.express as px
 
-# TODO: https://plotly.com/python/lines-on-mapbox/
-#       Update to "go" so I can do traces & markers at same time
-
 style = "stamen-terrain"
 
 cities = pd.read_csv("nodes.csv")

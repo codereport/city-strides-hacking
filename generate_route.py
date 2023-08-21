@@ -1,99 +1,68 @@
-
 import utils
-from itertools import chain
-from collections import defaultdict
+from collections import deque
 
 obj      = utils.load_json('bangkok')
 nodes    = utils.node_dictionary(obj)
 streets  = utils.street_dictionary(obj)
 adj_list = utils.adjacency_list(streets)
 
-START_NODE_ID = 702209198 # 2385175793 # 4634907181
-RANGE_IN_KM   = 8
+START_NODE_ID = 702209198
+MAX_DISTANCE  = 40
 
-x, y = nodes[START_NODE_ID]
-filtered_nodes = {}
-for n, (x1, y1) in nodes.items():
-    if utils.dist(x, x1, y, y1) < RANGE_IN_KM:
-        filtered_nodes[n] = (x1, y1)
-
-def node_scores():
-    scores = defaultdict(int)
-    for _, n in streets.items():
-        tl = utils.total_length(n, nodes)
-        for node in set(chain(*n)):
-            scores[node] = max(scores[node], (100 * (0.2 - min(tl, 0.2))) // 10)
-    return scores
-
-ns = node_scores()
-
-prev_distance, prev_completed = 0, 0
-best_path, best_completed, best_score = "", 0, 0
-
-def path_bfs(path_: list, dist: float, choices_left: int):
-    global best_completed, best_path, best_score
-    path = path_.copy()
-    if choices_left == 0:
-        done = utils.streets_completed(path, streets)
-        done_delta = done - prev_completed
-        score = done_delta / dist
-
-        if score > best_score:
-            best_completed = done
-            best_score = score
-            best_path = path
-            print(score, done)
-        return
-    id = path[-1]
-    choices = list(adj_list[id])
-    if len(choices) == 1:
-        next_id = choices[0]
-        path.append(next_id)
-        path_bfs(path, dist + utils.node_dist(id, next_id, nodes), choices_left)
-    else:
-        if len(path) > 1:
-            last = path[-2]
-            if last in choices:
-                choices.remove(last)
-        if len(choices) == 1:
-            next_id = choices[0]
-            path.append(next_id)
-            path_bfs(path, dist + utils.node_dist(id, next_id, nodes), choices_left)
-        else:
-            for choice in choices:
-                new_path = path.copy()
-                new_path.append(choice)
-                path_bfs(new_path, dist + utils.node_dist(id, choice, nodes), choices_left - 1)
-
-
-def determine_next_choice_via_bfs(path, steps):
-    global best_completed, best_path, best_score
+def path_bfs(starting_path, steps):
     best_path, best_completed, best_score = [], 0, 0
-    path_bfs(path, 0, steps)
-    print(f"{best_path=}")
-    print(f"{best_completed=}")
+    queue = deque([(starting_path[:], 0, steps)])
+    done_at_start = utils.streets_completed(starting_path, streets)
+
+    while queue:
+        path, dist, steps_left = queue.popleft()
+
+        if steps_left == 0:
+            done = utils.streets_completed(path, streets)
+            done_delta = done - done_at_start
+            score = done_delta / dist
+
+            if score > best_score:
+                best_completed = done
+                best_score = score
+                best_path = path[:]
+                print(best_score, best_completed)
+            continue
+
+        curr = path[-1]
+        prev = path[-2] if len(path) > 1 else None
+
+        choices = list(adj_list[curr])
+        if len(choices) > 1 and prev in choices:
+            choices.remove(prev)
+
+        delta = 0 if len(choices) == 1 else 1
+
+        for next in choices:
+            queue.append((path + [next],
+                          dist + utils.node_dist(curr, next, nodes),
+                          steps_left - delta))
+
     return best_path
 
-def node_list_for_csv(p):
-    nodes = []
-    for i, id in enumerate(p):
-        (lat, lon) = filtered_nodes[id]
-        nodes.append([float(lat), float(lon), 2, f"\"Name: {id}\"", i])
-    return nodes
+def node_list_for_csv(path):
+    res = []
+    for i, node_id in enumerate(path):
+        lat, lon = nodes[node_id]
+        res.append([float(lat), float(lon), 2, f"\"Name: {node_id}\"", i])
+    return res
 
-path = [START_NODE_ID]
-total_distance = 0
+current_node = START_NODE_ID
+current_distance = 0
+path = [current_node]
 
-while total_distance < 40:
-    path = determine_next_choice_via_bfs(path, 8)[:-3]
-    total_distance = utils.distance_of_path(path, nodes)
-    print(total_distance)
-    prev_completed = best_completed
-    prev_distance = total_distance
+while current_distance < MAX_DISTANCE:
+    path = path_bfs(path[:], 8)[:-3]
+    print(f"{path=}")
+    current_distance = utils.distance_of_path(path, nodes)
+    print(current_distance)
     utils.write_nodes_csv(node_list_for_csv(path))
 
 print(path)
 print(len(path))
 print(best_completed)
-
-utils.write_nodes_csv(node_list_for_csv(path))

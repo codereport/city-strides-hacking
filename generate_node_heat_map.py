@@ -1,7 +1,7 @@
 from itertools import chain
 import utils
 
-obj     = utils.load_json('bangkok')
+obj     = utils.load_json('etobicoke')
 nodes   = utils.node_dictionary(obj)
 streets = utils.street_dictionary(obj)
 

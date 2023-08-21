@@ -1,40 +1,21 @@
 
 import utils
-import random
 from itertools import chain
 from collections import defaultdict
 
-obj     = utils.load_json('bangkok')
-nodes   = utils.node_dictionary(obj)
-streets = utils.street_dictionary(obj)
+obj      = utils.load_json('bangkok')
+nodes    = utils.node_dictionary(obj)
+streets  = utils.street_dictionary(obj)
+adj_list = utils.adjacency_list(streets)
 
 START_NODE_ID = 702209198 # 2385175793 # 4634907181
 RANGE_IN_KM   = 8
 
-# first, filter out nodes
 x, y = nodes[START_NODE_ID]
 filtered_nodes = {}
 for n, (x1, y1) in nodes.items():
     if utils.dist(x, x1, y, y1) < RANGE_IN_KM:
         filtered_nodes[n] = (x1, y1)
-
-def adjacency_list(streets):
-    adj_list = defaultdict(set)
-    for _, snodes in streets.items():
-        for ssnodes in snodes:
-            for a, b in zip(ssnodes, ssnodes[1:]):
-                adj_list[a].add(b)
-                adj_list[b].add(a)
-    return adj_list
-
-adj_list = adjacency_list(streets)
-
-def streets_completed(path, streets):
-    count = 0
-    for _, snodes in streets.items():
-        if all(node in path for node in chain(*snodes)):
-            count += 1
-    return count
 
 def node_scores():
     scores = defaultdict(int)
@@ -46,30 +27,14 @@ def node_scores():
 
 ns = node_scores()
 
-def determine_next_choice_via_random_but_prioritize_new(path, last, adj_list):
-    id = path[-1]
-    choices = list(adj_list[id])
-    if len(choices) == 1:
-        return choices[0]
-    else:
-        if last in choices:
-            choices.remove(last)
-        if len(choices) == 1:
-            return choices[0]
-        else:
-            return random.choice(choices)
-
 prev_distance, prev_completed = 0, 0
 best_path, best_completed, best_score = "", 0, 0
-
-def distance_of_path(p):
-    return sum(utils.node_dist(a, b, nodes) for a, b in zip(p, p[1:]))
 
 def path_bfs(path_: list, dist: float, choices_left: int):
     global best_completed, best_path, best_score
     path = path_.copy()
     if choices_left == 0:
-        done = streets_completed(path, streets)
+        done = utils.streets_completed(path, streets)
         done_delta = done - prev_completed
         score = done_delta / dist
 
@@ -101,7 +66,7 @@ def path_bfs(path_: list, dist: float, choices_left: int):
                 path_bfs(new_path, dist + utils.node_dist(id, choice, nodes), choices_left - 1)
 
 
-def determine_next_choice_via_mcts(path, steps):
+def determine_next_choice_via_bfs(path, steps):
     global best_completed, best_path, best_score
     best_path, best_completed, best_score = [], 0, 0
     path_bfs(path, 0, steps)
@@ -120,8 +85,8 @@ path = [START_NODE_ID]
 total_distance = 0
 
 while total_distance < 40:
-    path = determine_next_choice_via_mcts(path, 8)[:-3]
-    total_distance = distance_of_path(path)
+    path = determine_next_choice_via_bfs(path, 8)[:-3]
+    total_distance = utils.distance_of_path(path, nodes)
     print(total_distance)
     prev_completed = best_completed
     prev_distance = total_distance
@@ -129,6 +94,6 @@ while total_distance < 40:
 
 print(path)
 print(len(path))
-print(f"{streets_completed(path, streets)=}")
+print(best_completed)
 
 utils.write_nodes_csv(node_list_for_csv(path))

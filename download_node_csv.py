@@ -2,6 +2,7 @@ import requests
 from cookies_headers import cookies, headers
 from enum import Enum
 import sys
+import utils
 
 def parse_nodes(r):
     nodes = []
@@ -99,9 +100,7 @@ for x in range(0, lat_tile):
 
 import csv
 
-with open("nodes.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)
+utils.write_nodes_csv(nodes, False)
 
 with open(cache_file, "w", newline="") as f:
     writer = csv.writer(f)

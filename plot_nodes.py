@@ -15,10 +15,10 @@ fig = px.scatter_mapbox(
     lat="lat",
     lon="lon",
     size="sz",
-    size_max=5,
+    size_max=8,
     hover_name="names",
     color="len_cat",
-    color_discrete_map=color_map,
+    # color_discrete_map=color_map,
     zoom=14,
     height=1300,
 )

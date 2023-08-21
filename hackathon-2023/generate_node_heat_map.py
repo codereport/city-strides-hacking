@@ -2,7 +2,7 @@ import csv
 from itertools import chain
 import utils
 
-obj     = utils.load_json('bangkok')
+obj     = utils.load_json('new_york')
 nodes   = utils.node_dictionary(obj)
 streets = utils.street_dictionary(obj)
 
@@ -32,6 +32,4 @@ for e in obj['elements']:
             nodes.append([float(e['lat']), float(e['lon']), 2, f"\"Name: {e['id']}\"", l])
 
 # copy and pasted from download_node_csv.py
-with open("../nodes.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)
+utils.write_nodes_csv(nodes, True)

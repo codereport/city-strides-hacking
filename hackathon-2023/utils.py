@@ -1,3 +1,4 @@
+import csv
 import json
 from math import sqrt
 from collections import defaultdict
@@ -25,6 +26,11 @@ def dist(x1, x2, y1, y2):
     dx, dy = x2 - x1, y2 - y1
     return sqrt(dx * dx + dy * dy) * 111
 
+def node_dist(a, b, nodes):
+    (x1, y1) = nodes[a]
+    (x2, y2) = nodes[b]
+    return dist(x1, x2, y1, y2)
+
 def length(l, nodes):
     res = 0
     for a, b in zip(l, l[1:], strict=False):
@@ -35,3 +41,9 @@ def length(l, nodes):
 
 def total_length(ls, nodes):
     return sum(length(l, nodes) for l in ls)
+
+def write_nodes_csv(nodes, in_subdir: bool):
+    prefix = "../" if in_subdir else ""
+    with open(prefix + "nodes.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)

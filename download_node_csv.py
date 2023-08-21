@@ -100,7 +100,7 @@ for x in range(0, lat_tile):
 
 import csv
 
-utils.write_nodes_csv(nodes, False)
+utils.write_nodes_csv(nodes)
 
 with open(cache_file, "w", newline="") as f:
     writer = csv.writer(f)

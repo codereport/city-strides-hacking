@@ -42,8 +42,7 @@ def length(l, nodes):
 def total_length(ls, nodes):
     return sum(length(l, nodes) for l in ls)
 
-def write_nodes_csv(nodes, in_subdir: bool):
-    prefix = "../" if in_subdir else ""
-    with open(prefix + "nodes.csv", "w", newline="") as f:
+def write_nodes_csv(nodes):
+    with open("nodes.csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)

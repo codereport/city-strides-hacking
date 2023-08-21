@@ -154,4 +154,4 @@ print(path)
 print(len(path))
 print(f"{streets_completed(path, streets)=}")
 
-utils.write_nodes_csv(nodes, True)
+utils.write_nodes_csv(nodes)

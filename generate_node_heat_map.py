@@ -1,4 +1,3 @@
-import csv
 from itertools import chain
 import utils
 

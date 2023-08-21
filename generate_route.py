@@ -2,7 +2,6 @@
 import utils
 import random
 from itertools import chain
-from more_itertools import all_equal
 from collections import defaultdict
 from statistics import mean
 
@@ -48,7 +47,7 @@ def streets_completed(path, streets):
 
 def node_scores():
     scores = defaultdict(int)
-    for s, n in streets.items():
+    for _, n in streets.items():
         tl = utils.total_length(n, nodes)
         for node in set(chain(*n)):
             scores[node] = max(scores[node], (100 * (0.2 - min(tl, 0.2))) // 10)
@@ -66,7 +65,7 @@ def determine_next_choice_via_random_but_prioritize_new(path, last, adj_list):
             choices.remove(last)
         if len(choices) == 1:
             return choices[0]
-        else: 
+        else:
             return random.choice(choices)
 
 def determine_next_choice_via_mcts(path, last, adj_list, steps, iterations):
@@ -106,13 +105,13 @@ def determine_next_choice_via_mcts(path, last, adj_list, steps, iterations):
         # print(total_distances)
         stat = (score, mean(completed), mean(total_scores), -mean(total_distances))
         stats[option] = stat
-        if best_option == None or stat > best_score:
+        if best_option is None or stat > best_score:
             best_option = option
             best_score = stat
     print(stats)
     # if all_equal(stats.values()):
     #     return determine_next_choice_via_random_but_prioritize_new(path, _last, adj_list)
-    return best_option    
+    return best_option
 
 path = [START_NODE_ID]
 total_distance = 0
@@ -133,7 +132,7 @@ while total_distance < 5:
             choices.remove(last)
         if len(choices) == 1:
             next_id = choices[0]
-        else: 
+        else:
             next_id = determine_next_choice_via_mcts(path, last, adj_list, 50, 1000)
     total_distance += utils.node_dist(id, next_id, nodes)
     path.append(next_id)

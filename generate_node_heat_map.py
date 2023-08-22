@@ -8,7 +8,7 @@ streets = utils.street_dictionary(obj)
 a, b, c = set(), set(), set()
 lengths = {}
 for s, n in streets.items():
-    tl = utils.total_length(n, nodes)
+    tl = utils.total_distance_of_paths(n, nodes)
     if   tl < 0.05: a |= set(chain(*n))
     elif tl < 0.1:  b |= set(chain(*n))
     elif tl < 0.2:  c |= set(chain(*n))

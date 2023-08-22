@@ -49,10 +49,13 @@ def node_dist(a, b, nodes):
     (x2, y2) = nodes[b]
     return dist(x1, x2, y1, y2)
 
-def distance_of_path(p, nodes):
-    return sum(geodesic(nodes[a], nodes[b]).kilometers for a, b in zip(p, p[1:]))
+def node_geodist(a, b, nodes):
+    return geodesic(nodes[a], nodes[b]).kilometers
 
-def length(l, nodes):
+def distance_of_path_precise(p, nodes):
+    return sum(node_geodist(a, b, nodes) for a, b in zip(p, p[1:]))
+
+def distance_of_path(l, nodes):
     res = 0
     for a, b in zip(l, l[1:], strict=False):
         (x1, y1) = nodes[a]
@@ -60,8 +63,8 @@ def length(l, nodes):
         res += dist(x1, x2, y1, y2)
     return res
 
-def total_length(ls, nodes):
-    return sum(length(l, nodes) for l in ls)
+def total_distance_of_paths(ls, nodes):
+    return sum(distance_of_path(l, nodes) for l in ls)
 
 def write_nodes_csv(nodes):
     with open("nodes.csv", "w", newline="") as f:

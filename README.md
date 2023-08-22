@@ -1,4 +1,10 @@
-![image](https://github.com/codereport/city-strides-hacking/assets/36027403/cfcbdaef-86ec-4017-8392-6eb8c0ef8e99)
+### Node Preview 
+
+![image](https://github.com/codereport/city-strides-hacking/assets/36027403/ef99afe0-82e4-49a1-9358-1b741179635b)
+
+### Route Generation
+
+![image](https://github.com/codereport/city-strides-hacking/assets/36027403/ae71254c-8f82-40ba-9a7a-ac5811ee005b)
 
 # How to Use the Python Scripts
 

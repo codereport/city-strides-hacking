@@ -2,3 +2,6 @@ cookies_headers.py
 __pycache__/
 .vscode/
 nodes.csv
+city_strides_route_generator
+Cargo.lock
+target/*

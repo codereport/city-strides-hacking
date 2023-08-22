@@ -1,0 +1,15 @@
+[package]
+name = "city_strides_route_generator"
+version = "0.0.1"
+
+[[bin]]
+name = "city_strides_route_generator"
+path = "utils.rs"                     # "./generate_route.rs"
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
+itertools = "0.11"
+csv = "1.1"
+haversine = "0.2.1"
+serde_derive = "1.0" # Add this line

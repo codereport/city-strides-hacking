@@ -24,7 +24,7 @@ fn path_bfs(
     while let Some((mut path, dist, steps_left)) = queue.pop_front() {
         let done = cs::streets_completed(&path, streets);
         let done_delta = done - done_at_start;
-        let score = done_delta as f64 / dist;
+        let score = done_delta as f64 / dist; // PARAMETER TO PLAY WITH (FORMULA)
 
         if steps_left == 0 {
             if score >= best_score {
@@ -65,7 +65,8 @@ fn path_bfs(
                 path.pop();
             }
 
-            if removed && choices.len() == 1 && dist_to_next > 0.02 {
+            const DIST_TO_ALLOW_BACKTRACK: f64 = 0.02; // PARAMTER TO PLAY WITH
+            if removed && choices.len() == 1 && dist_to_next > DIST_TO_ALLOW_BACKTRACK {
                 path.push(prev);
                 queue.push_back((
                     path.clone(),
@@ -131,7 +132,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     while total_distance < MAX_DISTANCE {
         // Calculate the best path using BFS
-        path = path_bfs(&path, 8, &alist_all, &nodes_all, &streets);
+        const STEPS: i32 = 8; // PARAMTER TO PLAY WITH
+        path = path_bfs(&path, STEPS, &alist_all, &nodes_all, &streets);
         total_distance = cs::distance_of_path_precise(&path, &nodes_all);
         println!("\ntotal_distance = {}\n", total_distance);
 

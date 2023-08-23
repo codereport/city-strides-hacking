@@ -7,14 +7,13 @@ extern crate serde_json;
 
 pub mod cs_utils {
 
-    use csv::Writer;
     use haversine::Location;
     use itertools::Itertools;
     use serde_derive::Deserialize;
     use std::collections::{BTreeMap, HashMap, HashSet};
     use std::error::Error;
     use std::fs::File;
-    use std::io::{self, Read};
+    use std::io::Read;
     use std::vec::Vec;
 
     #[derive(Debug, Deserialize)]
@@ -161,7 +160,7 @@ pub mod cs_utils {
     // }
 
     // Function to write nodes to CSV
-    pub fn write_nodes_csv(nodes: &Vec<Vec<String>>) -> Result<(), Box<dyn Error>> {
+    pub fn write_nodes_csv(nodes: &[Vec<String>]) -> Result<(), Box<dyn Error>> {
         let file = File::create("nodes.csv")?;
         let mut writer = csv::Writer::from_writer(file);
         writer.write_record(["lat", "lon", "sz", "names", "len_cat"])?;

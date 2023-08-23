@@ -1,6 +1,6 @@
 extern crate city_strides_utils;
 
-use city_strides_utils::cs_utils;
+use city_strides_utils::cs;
 use std::collections::VecDeque;
 use std::collections::{HashMap, HashSet};
 use std::error::Error;
@@ -17,25 +17,29 @@ fn path_bfs(
     let mut best_completed;
     let mut best_score = 0.0;
     let mut queue = VecDeque::new();
-    let done_at_start = cs_utils::streets_completed(starting_path, streets);
+    let done_at_start = cs::streets_completed(starting_path, streets);
 
     queue.push_back((starting_path.to_vec(), 0.0, steps));
 
     while let Some((mut path, dist, steps_left)) = queue.pop_front() {
-        if steps_left == 0 {
-            let done = cs_utils::streets_completed(&path, streets);
-            let score = (done - done_at_start) as f64 / dist;
+        let done = cs::streets_completed(&path, streets);
+        let done_delta = done - done_at_start;
+        let score = done_delta as f64 / dist;
 
+        if steps_left == 0 {
             if score >= best_score {
                 best_completed = done;
                 best_score = score;
                 best_path = path.clone();
 
                 if best_score > 0.0 {
-                    println!("{} {}", best_score, best_completed);
+                    println!(
+                        "{:.2} {} {} / {:.2}",
+                        best_score, best_completed, done_delta, dist
+                    );
                 }
             }
-        } else {
+        } else if best_score == 0.0 || best_score - score < 1.0 {
             let curr = path.last().cloned().unwrap_or_default();
             let prev = path.iter().rev().nth(1).cloned().unwrap_or_default();
             let mut choices: Vec<i64> = adj_list_all[&curr].iter().cloned().collect();
@@ -51,8 +55,8 @@ fn path_bfs(
             let mut dist_to_next = 0.0;
 
             for next in choices.iter() {
-                dist_to_next = cs_utils::node_geodist(curr, *next, nodes_all);
                 path.push(*next);
+                dist_to_next = cs::dist(curr, *next, nodes_all);
                 queue.push_back((
                     path.clone(),
                     dist + dist_to_next,
@@ -61,15 +65,20 @@ fn path_bfs(
                 path.pop();
             }
 
-            if removed && choices.len() == 1 && dist_to_next > 0.1 {
+            if removed && choices.len() == 1 && dist_to_next > 0.02 {
                 path.push(prev);
                 queue.push_back((
                     path.clone(),
-                    dist + cs_utils::node_geodist(curr, prev, nodes_all),
+                    dist + cs::dist(curr, prev, nodes_all),
                     steps_left - 1,
                 ));
             }
         }
+    }
+
+    if best_score == 0.0 {
+        println!("increasing steps to {}", steps + 2);
+        best_path = path_bfs(starting_path, steps + 2, adj_list_all, nodes_all, streets);
     }
 
     best_path
@@ -91,31 +100,43 @@ fn node_list_for_csv(path: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> Vec<Vec<
         .collect()
 }
 
+#[allow(clippy::enum_clike_unportable_variant)]
+#[allow(dead_code)]
+enum StartLocations {
+    BangkokMarket = 4634908009,
+    BangkokDT = 9038489299,
+    BangkokDT2 = 3918038819,
+    BangkokDT3 = 619810486,
+    BangkokDT4 = 2109346563,
+    BangkokMarketFar = 1692740969,
+    BangkokMarketNear = 1692805767,
+    Etobicoke = 21098692,
+}
+
 fn main() -> Result<(), Box<dyn Error>> {
     let city = "bangkok"; // Replace with the desired city name.
 
     // Load JSON data and build dictionaries
-    let elements = cs_utils::load_json(city)?;
-    let streets = cs_utils::street_dictionary(&elements);
-    let elements_all = cs_utils::load_json(format!("{}_all", city).as_str())?;
-    let nodes_all = cs_utils::node_dictionary(&elements_all);
-    let adj_list_all = cs_utils::adjacency_list(&cs_utils::street_dictionary(&elements_all));
+    let elements = cs::load_json(city)?;
+    let streets = cs::street_dictionary(&elements);
 
-    // Define constants
-    const START_NODE_ID: i64 = 702209198;
-    const MAX_DISTANCE: f64 = 15.0;
+    let elems_all = cs::load_json(format!("{}_all", city).as_str())?;
+    let nodes_all = cs::node_dictionary(&elems_all);
+    let alist_all = cs::adjacency_list(&cs::street_dictionary(&elems_all));
+
+    const MAX_DISTANCE: f64 = 20.0;
 
     let mut total_distance = 0.0;
-    let mut path = vec![START_NODE_ID];
+    let mut path = vec![StartLocations::BangkokMarketNear as i64];
 
     while total_distance < MAX_DISTANCE {
         // Calculate the best path using BFS
-        path = path_bfs(&path, 5, &adj_list_all, &nodes_all, &streets);
-        total_distance = cs_utils::distance_of_path_precise(&path, &nodes_all);
-        println!("total_distance={}", total_distance);
+        path = path_bfs(&path, 8, &alist_all, &nodes_all, &streets);
+        total_distance = cs::distance_of_path_precise(&path, &nodes_all);
+        println!("\ntotal_distance = {}\n", total_distance);
 
         // Write nodes to CSV
-        cs_utils::write_nodes_csv(&node_list_for_csv(&path, &nodes_all))?;
+        cs::write_nodes_csv(&node_list_for_csv(&path, &nodes_all))?;
     }
 
     Ok(())

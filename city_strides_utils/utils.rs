@@ -5,7 +5,7 @@ extern crate serde;
 extern crate serde_derive;
 extern crate serde_json;
 
-pub mod cs_utils {
+pub mod cs {
 
     use haversine::Location;
     use itertools::Itertools;
@@ -64,6 +64,11 @@ pub mod cs_utils {
                             .entry(name.to_string())
                             .or_insert_with(Vec::new)
                             .push(e.nodes.clone().unwrap_or_default());
+                    } else {
+                        streets
+                            .entry(format!("unnamed_{}", e.id))
+                            .or_insert_with(Vec::new)
+                            .push(e.nodes.clone().unwrap_or_default());
                     }
                 }
             }
@@ -112,7 +117,7 @@ pub mod cs_utils {
         count
     }
 
-    pub fn node_geodist(a: i64, b: i64, nodes: &HashMap<i64, (f64, f64)>) -> f64 {
+    pub fn dist(a: i64, b: i64, nodes: &HashMap<i64, (f64, f64)>) -> f64 {
         let haversine_location = |node_id| Location {
             latitude: nodes[&node_id].0,
             longitude: nodes[&node_id].1,
@@ -129,7 +134,7 @@ pub mod cs_utils {
     pub fn distance_of_path_precise(p: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> f64 {
         p.iter()
             .tuple_windows()
-            .map(|(&a, &b)| node_geodist(a, b, nodes))
+            .map(|(&a, &b)| dist(a, b, nodes))
             .sum()
     }
 

@@ -38,3 +38,22 @@ area[name = "Prince George"];
 // node(w); // Uncomment if you want to see just nodes.
 out;
 ```
+
+### Querying ALL Streets from City (in this case Etobicoke)
+#### Necessary to build routes correctly
+
+```
+[out:json];
+area[name = "Etobicoke"];
+(
+  way(area)
+    ['highway']
+    // everything below is to exclude certain types of "highways"
+    ['foot' !~ 'no']
+    ['access' !~ 'private']
+    ['access' !~ 'no'];
+  >;
+);
+// node(w); // Uncomment if you want to see just nodes.
+out;
+```

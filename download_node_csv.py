@@ -1,23 +1,27 @@
+#! /usr/bin/env python3
+
 import requests
-from cookies_headers import cookies, headers
 from enum import Enum
 import sys
-import utils
+import argparse
+from pathlib import Path
+from dataclasses import dataclass, fields, asdict
+from typing import Dict, Any
+import json
+from ast import literal_eval
+import pandas as pd
 
-def parse_nodes(r):
-    nodes = []
-    for i, data in enumerate(str(response.content).split("],[")):
-        try:
-            lon, lat, id, name = data.split(",")[:4]
-            start = 4 if i == 0 else 0
-            nodes.append(
-                [float(lon[start:]), float(lat), 2, f"{name} ({int(id[-3:])})", 'a']
-            )
-        except:
-            continue
-    return nodes
+NODES_FILE = Path(__file__).parent / "nodes.csv"
 
-class City(Enum):
+@dataclass
+class Node:
+    lat: float
+    lon: float
+    sz: int = 2
+    names: str = ''
+    len_cat: str = 'a'
+
+class City(str, Enum):
     OLD_TORONTO = 38121  # 🇨🇦
     EAST_YORK   = 38114  # 🇨🇦
     YORK        = 38102  # 🇨🇦
@@ -30,78 +34,129 @@ class City(Enum):
     MEAFORD     = 39015  # 🇨🇦
     ALL_TORONTO = 0      # 🇨🇦
 
-def name(city: City):
-    return str(city)[5:].title().replace('_', ' ')
+def parse_options():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('cookies_path', type=Path, help='path to cookie')
+    return parser.parse_args()
 
-def file_name(city: City):
-    return str(city)[5:].lower()
+def parse_nodes(r: str):
+    nodes = []
+    for node in literal_eval(r):
+        nodes.append(Node(lat=node[0], lon=node[1], names=f'{node[3]} ({str(node[2])[-3:]})'))
+    return nodes
 
-print("Choose a city:")
-for i, c in enumerate(City):
-    print(f"{i + 1}. {name(c)}")
+def enum_to_cityname(city: City):
+    return city.name.title().replace('_', ' ')
 
-try:
-    city = list(City)[int(input("\nChoice: ")) - 1]
-except:
-    print(f"Invalid input: Number must be <= {len(City)}")
-    sys.exit()
+def cache_filename(city: City):
+    return city.name.lower()
 
-if   city == City.YORK:        coordinates = [-79.3829, 43.7206, -79.5560, 43.6424]
-elif city == City.WROCLAW:     coordinates = [17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ]
-elif city == City.KRAKOW:      coordinates = [19.979436306324942, 50.08859858611942,  19.90053987336441,  50.034804024531525]
-elif city == City.ROME:        coordinates = [12.519622013860925, 41.91439535724936,  12.443743029831694, 41.85439499689079 ]
-elif city == City.VENICE:      coordinates = [12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ]
-elif city == City.FOLKESTONE:  coordinates = [1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ]
-elif city == City.MEAFORD:     coordinates = [-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ]
-else:                          coordinates = [-79.20, 43.8, -79.556, 43.61]
+@dataclass
+class CityGrid:
+    nelng: float
+    nelat: float
+    swlng: float
+    swlat: float
 
-[start_nelng, start_nelat, start_swlng, start_swlat] = coordinates
+    def __post_init__(self):
+        for k in fields(self):
+            value = getattr(self, k.name)
+            if not isinstance(value, k.type):
+                setattr(self, k.name, k.type(value))
 
-delta = 0.004 if city == City.VENICE else 0.02 if city == City.MEAFORD else 0.012
-lng_tile = int(abs(start_nelng - start_swlng) // delta) + 1
-lat_tile = int(abs(start_nelat - start_swlat) // delta) + 1
+    def __hash__(self):
+        return hash((self.nelng, self.nelat, self.swlng, self.swlat))
 
-print(lng_tile, lat_tile)
 
-cache = set()
-cache_file = f"./cache/{file_name(city)}.csv"
-open(cache_file, 'a').close()
+CityGrids = {
+    City.YORK:        CityGrid(-79.3829, 43.7206, -79.5560, 43.6424),
+    City.WROCLAW:     CityGrid(17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ),
+    City.KRAKOW:      CityGrid(19.979436306324942, 50.08859858611942,  19.90053987336441,  50.034804024531525),
+    City.ROME:        CityGrid(12.519622013860925, 41.91439535724936,  12.443743029831694, 41.85439499689079 ),
+    City.VENICE:      CityGrid(12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ),
+    City.FOLKESTONE:  CityGrid(1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ),
+    City.MEAFORD:     CityGrid(-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ),
+    City.OLD_TORONTO: CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.NORTH_YORK:  CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.EAST_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.ALL_TORONTO: CityGrid(-79.20, 43.8, -79.556, 43.61)
+}
 
-with open(cache_file, "r", newline="") as f:
-    for line in f:
-        [a, b, c, d] = line.strip().split(',')
-        cache.add((a, b, c, d))
 
-nodes = []
-for x in range(0, lat_tile):
-    for y in range(0, lng_tile):
+def get_city_from_user():
+    print("Choose a city:")
+    for i, c in enumerate(City):
+        print(f"{i + 1}. {enum_to_cityname(c)}")
 
-        a = start_nelng - y * delta
-        b = start_nelat - x * delta
-        c = a - delta
-        d = b - delta
+    try:
+        city = list(City)[int(input("\nChoice: ")) - 1]
+    except:
+        print(f"Invalid input: Number must be <= {len(City)}")
+        sys.exit()
 
-        coordinates = (str(a), str(b), str(c), str(d))
+    return city
+
+
+def citygrid_to_str(g: CityGrid) -> Dict[str, str]:
+    return {k:str(v) for k, v in asdict(g).items()}
+
+
+def make_grid_steps(grid: CityGrid, delta: float):
+    lng_tile = int(abs(grid.nelng - grid.swlng) // delta) + 1
+    lat_tile = int(abs(grid.nelat - grid.swlat) // delta) + 1
+
+    print(lng_tile, lat_tile)
+    for x in range(0, lat_tile):
+        for y in range(0, lng_tile):
+            nelng = grid.nelng - y * delta
+            nelat = grid.nelat - x * delta
+            swlng = nelng - delta
+            swlat = nelat - delta
+            yield CityGrid(nelng=nelng, nelat=nelat, swlng=swlng, swlat=swlat)
+
+
+def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
+    grid= CityGrids[city]
+
+    nodes = []
+    cache = set()
+    cache_file = Path(__file__).parent / f"./cache/{cache_filename(city)}.csv"
+    cache_file.touch()
+
+    with open(cache_file, "r") as f:
+        for line in f.read().splitlines():
+            cache.add(CityGrid(*line.strip().split(',')))
+
+    delta = 0.004 if city == City.VENICE else 0.02 if city == City.MEAFORD else 0.012
+
+    for coordinates in make_grid_steps(grid, delta):
         if coordinates not in cache:
-            params = { "city": city.value, "nelng": str(a), "nelat": str(b), "swlng": str(c), "swlat": str(d), }
+            params = { "city": city.value, **citygrid_to_str(coordinates) }
             response = requests.get(
                 "https://citystrides.com/nodes.json",
                 params=params,
-                cookies=cookies,
-                headers=headers,
+                cookies=cookies
             )
 
-            temp = parse_nodes(response)
+            temp = parse_nodes(response.text)
             print(len(temp))
             if len(temp) == 0:
                 cache.add(coordinates)
+            nodes.extend(temp)
 
-            nodes = nodes + temp
+    return nodes, cache, cache_file
 
-import csv
 
-utils.write_nodes_csv(nodes)
+if __name__ == '__main__':
+    args = parse_options()
+    with open(args.cookies_path, 'r') as f:
+        cookies = json.load(f)
 
-with open(cache_file, "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerows([list(grid) for grid in cache])
+    city = get_city_from_user()
+    nodes, cache, cache_file = download_nodes_of_city(city, cookies)
+
+    df = pd.DataFrame(nodes)
+    df.to_csv(NODES_FILE, index=True)
+
+    df = pd.DataFrame(cache)
+    df.to_csv(cache_file, index=False, header=False)

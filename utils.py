@@ -66,7 +66,3 @@ def distance_of_path(l, nodes):
 def total_distance_of_paths(ls, nodes):
     return sum(distance_of_path(l, nodes) for l in ls)
 
-def write_nodes_csv(nodes):
-    with open("nodes.csv", "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)

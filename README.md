@@ -4,7 +4,7 @@
 
 ### Route Generation
 
-![image](https://github.com/codereport/city-strides-hacking/assets/36027403/ae71254c-8f82-40ba-9a7a-ac5811ee005b)
+![image](https://github.com/codereport/city-strides-hacking/assets/36027403/aa60b8a6-4d5a-4d0a-9f92-a9f9856a106a)
 
 # How to Use the Python Scripts
 

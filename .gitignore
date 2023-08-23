@@ -5,3 +5,4 @@ nodes.csv
 city_strides_route_generator
 Cargo.lock
 target/*
+map.png

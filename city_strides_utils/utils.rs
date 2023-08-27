@@ -43,6 +43,9 @@ pub mod cs {
         tags: Option<BTreeMap<String, String>>,
     }
 
+    type NodeHashMap = HashMap<i64, (f64, f64)>;
+    type StreetHashMap = HashMap<String, Vec<Vec<i64>>>;
+
     // Function to load JSON data
     pub fn load_json(city: &str) -> Result<Vec<JsonElement>, Box<dyn Error>> {
         let mut data = String::new();
@@ -54,7 +57,7 @@ pub mod cs {
     }
 
     // Function to create a dictionary of streets
-    pub fn street_dictionary(elements: &[JsonElement]) -> HashMap<String, Vec<Vec<i64>>> {
+    pub fn street_dictionary(elements: &[JsonElement]) -> StreetHashMap {
         let mut streets = HashMap::new();
         for e in elements {
             if e.r#type == "way" {
@@ -77,7 +80,7 @@ pub mod cs {
     }
 
     // Function to create a dictionary of nodes
-    pub fn node_dictionary(elements: &[JsonElement]) -> HashMap<i64, (f64, f64)> {
+    pub fn node_dictionary(elements: &[JsonElement]) -> NodeHashMap {
         let mut node_dict = HashMap::new();
         for e in elements {
             if e.r#type == "node" {
@@ -90,7 +93,7 @@ pub mod cs {
     }
 
     // Function to create an adjacency list
-    pub fn adjacency_list(streets: &HashMap<String, Vec<Vec<i64>>>) -> HashMap<i64, HashSet<i64>> {
+    pub fn adjacency_list(streets: &StreetHashMap) -> HashMap<i64, HashSet<i64>> {
         let mut adj_list = HashMap::new();
         for snodes in streets.values() {
             for ssnodes in snodes {
@@ -104,7 +107,7 @@ pub mod cs {
     }
 
     // Function to count completed streets
-    pub fn streets_completed(path: &[i64], streets: &HashMap<String, Vec<Vec<i64>>>) -> usize {
+    pub fn streets_completed(path: &[i64], streets: &StreetHashMap) -> usize {
         let mut count = 0;
         for snodes in streets.values() {
             if snodes
@@ -117,7 +120,55 @@ pub mod cs {
         count
     }
 
-    pub fn dist(a: i64, b: i64, nodes: &HashMap<i64, (f64, f64)>) -> f64 {
+    pub fn dist_node_lat_lon(node: i64, lat: f64, lon: f64, nodes: &NodeHashMap) -> f64 {
+        let haversine_location = |node_id| Location {
+            latitude: nodes[&node_id].0,
+            longitude: nodes[&node_id].1,
+        };
+
+        haversine::distance(
+            haversine_location(node),
+            Location {
+                latitude: lat,
+                longitude: lon,
+            },
+            haversine::Units::Kilometers,
+        )
+    }
+
+    fn hot_spot_count(lat: f64, lon: f64, nodes: &NodeHashMap, streets: &StreetHashMap) -> usize {
+        let filtered_nodes: Vec<i64> = nodes
+            .keys()
+            .filter(|&&node_id| dist_node_lat_lon(node_id, lat, lon, nodes) < 1.0)
+            .cloned()
+            .collect();
+
+        streets_completed(&filtered_nodes, streets)
+    }
+
+    pub fn hot_spots(
+        node: i64,
+        nodes: &NodeHashMap,
+        streets: &StreetHashMap,
+    ) -> Vec<(usize, (f64, f64))> {
+        let (lat, lon) = nodes[&node];
+        let mut hot_spot_counts = Vec::new();
+
+        for i in (-5..=5).map(|x| x as f64 / 100.0) {
+            for j in (-5..=5).map(|y| y as f64 / 100.0) {
+                let new_lat = lat + i;
+                let new_lon = lon + j;
+
+                let hot_spot_count = hot_spot_count(new_lat, new_lon, nodes, streets);
+                hot_spot_counts.push((hot_spot_count, (new_lat, new_lon)));
+            }
+        }
+
+        hot_spot_counts.sort_by(|a, b| b.0.cmp(&a.0));
+        hot_spot_counts
+    }
+
+    pub fn dist(a: i64, b: i64, nodes: &NodeHashMap) -> f64 {
         let haversine_location = |node_id| Location {
             latitude: nodes[&node_id].0,
             longitude: nodes[&node_id].1,
@@ -131,7 +182,7 @@ pub mod cs {
     }
 
     // Function to calculate the distance of a path using Haversine formula
-    pub fn distance_of_path_precise(p: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> f64 {
+    pub fn distance_of_path_precise(p: &[i64], nodes: &NodeHashMap) -> f64 {
         p.iter()
             .tuple_windows()
             .map(|(&a, &b)| dist(a, b, nodes))
@@ -139,7 +190,7 @@ pub mod cs {
     }
 
     // Function to calculate the distance of a path using Euclidean distance
-    // pub fn distance_of_path(l: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> f64 {
+    // pub fn distance_of_path(l: &[i64], nodes: &NodeHashMap) -> f64 {
     //     let mut res = 0.0;
     //     for (&a, &b) in l.iter().tuple_windows() {
     //         let (x1, y1) = nodes[&a];
@@ -160,7 +211,7 @@ pub mod cs {
     // }
 
     // Function to calculate the total distance of paths
-    // fn total_distance_of_paths(ls: &[Vec<i64>], nodes: &HashMap<i64, (f64, f64)>) -> f64 {
+    // fn total_distance_of_paths(ls: &[Vec<i64>], nodes: &NodeHashMap) -> f64 {
     //     ls.iter().map(|l| distance_of_path(l, nodes)).sum()
     // }
 

@@ -79,7 +79,6 @@ pub mod cs {
         streets
     }
 
-    // Function to create a dictionary of nodes
     pub fn node_dictionary(elements: &[JsonElement]) -> NodeHashMap {
         let mut node_dict = HashMap::new();
         for e in elements {
@@ -92,7 +91,6 @@ pub mod cs {
         node_dict
     }
 
-    // Function to create an adjacency list
     pub fn adjacency_list(streets: &StreetHashMap) -> HashMap<i64, HashSet<i64>> {
         let mut adj_list = HashMap::new();
         for snodes in streets.values() {
@@ -106,18 +104,24 @@ pub mod cs {
         adj_list
     }
 
-    // Function to count completed streets
+    pub fn streets_completed_names(
+        path: &[i64],
+        streets: &StreetHashMap,
+        nodes: &NodeHashMap,
+    ) -> HashSet<String> {
+        let in_path = |x: &Vec<Vec<i64>>| x.iter().all(|ns| ns.iter().all(|n| path.contains(n)));
+
+        streets
+            .iter()
+            .filter(|(_, snodes)| in_path(snodes) && total_distance_of_paths(&snodes, nodes) < 0.2)
+            .map(|(name, _)| name.clone())
+            .collect()
+    }
+
     pub fn streets_completed(path: &[i64], streets: &StreetHashMap) -> usize {
-        let mut count = 0;
-        for snodes in streets.values() {
-            if snodes
-                .iter()
-                .all(|nodes| nodes.iter().all(|node| path.contains(node)))
-            {
-                count += 1;
-            }
-        }
-        count
+        let in_path = |x: &Vec<Vec<i64>>| x.iter().all(|ns| ns.iter().all(|n| path.contains(n)));
+
+        streets.values().filter(|snodes| in_path(snodes)).count()
     }
 
     pub fn dist_node_lat_lon(node: i64, lat: f64, lon: f64, nodes: &NodeHashMap) -> f64 {
@@ -136,30 +140,44 @@ pub mod cs {
         )
     }
 
-    fn hot_spot_count(lat: f64, lon: f64, nodes: &NodeHashMap, streets: &StreetHashMap) -> usize {
+    fn hot_spot_count(
+        lat: f64,
+        lon: f64,
+        nodes: &NodeHashMap,
+        streets: &StreetHashMap,
+        streets_done: &HashSet<String>,
+    ) -> usize {
         let filtered_nodes: Vec<i64> = nodes
             .keys()
-            .filter(|&&node_id| dist_node_lat_lon(node_id, lat, lon, nodes) < 1.0)
+            .filter(|&&node_id| dist_node_lat_lon(node_id, lat, lon, nodes) < 0.75)
             .cloned()
             .collect();
 
-        streets_completed(&filtered_nodes, streets)
+        streets_completed_names(&filtered_nodes, streets, &nodes)
+            .difference(&streets_done)
+            .count()
     }
 
     pub fn hot_spots(
         node: i64,
         nodes: &NodeHashMap,
         streets: &StreetHashMap,
+        path: &[i64],
     ) -> Vec<(usize, (f64, f64))> {
         let (lat, lon) = nodes[&node];
         let mut hot_spot_counts = Vec::new();
 
-        for i in (-5..=5).map(|x| x as f64 / 100.0) {
+        let streets_done = streets_completed_names(path, streets, &nodes);
+
+        println!("Calcuating hotspots...");
+        for (idx, i) in (-5..=5).map(|x| x as f64 / 100.0).enumerate() {
+            println!("{:.2} % done", idx as f64 * 100.0 / 10.0);
             for j in (-5..=5).map(|y| y as f64 / 100.0) {
                 let new_lat = lat + i;
                 let new_lon = lon + j;
 
-                let hot_spot_count = hot_spot_count(new_lat, new_lon, nodes, streets);
+                let hot_spot_count =
+                    hot_spot_count(new_lat, new_lon, nodes, streets, &streets_done);
                 hot_spot_counts.push((hot_spot_count, (new_lat, new_lon)));
             }
         }
@@ -211,9 +229,9 @@ pub mod cs {
     // }
 
     // Function to calculate the total distance of paths
-    // fn total_distance_of_paths(ls: &[Vec<i64>], nodes: &NodeHashMap) -> f64 {
-    //     ls.iter().map(|l| distance_of_path(l, nodes)).sum()
-    // }
+    fn total_distance_of_paths(ls: &[Vec<i64>], nodes: &NodeHashMap) -> f64 {
+        ls.iter().map(|l| distance_of_path_precise(l, nodes)).sum()
+    }
 
     // Function to write nodes to CSV
     pub fn write_nodes_csv(nodes: &[Vec<String>]) -> Result<(), Box<dyn Error>> {

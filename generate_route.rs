@@ -13,7 +13,7 @@ use std::vec::Vec;
 
 fn path_bfs(
     starting_path: &[i64],
-    steps: i32,
+    params: &Parameters,
     adj_list_all: &HashMap<i64, HashSet<i64>>,
     nodes_all: &HashMap<i64, (f64, f64)>,
     streets: &HashMap<String, Vec<Vec<i64>>>,
@@ -31,14 +31,19 @@ fn path_bfs(
     );
     let done_at_start = cs::streets_completed(starting_path, streets);
 
-    queue.push_back((starting_path.to_vec(), 0.0, steps));
+    queue.push_back((starting_path.to_vec(), 0.0, params.steps));
 
     while let Some((mut path, dist, steps_left)) = queue.pop_front() {
         let done = cs::streets_completed(&path, streets);
         let done_delta = done - done_at_start;
         let dist_to_hot_spot =
             cs::dist_node_lat_lon(*path.last().unwrap(), hot_spot.0, hot_spot.1, nodes_all);
-        let score = done_delta as f64 / dist + (start_dist_to_hot_spot - dist_to_hot_spot) / dist; // PARAMETER TO PLAY WITH (FORMULA)
+        let hot_spot_adj = if params.hot_spots {
+            (start_dist_to_hot_spot - dist_to_hot_spot) / dist
+        } else {
+            0.0
+        };
+        let score = done_delta as f64 / dist + hot_spot_adj;
 
         if steps_left == 0 {
             if score >= best_score {
@@ -96,17 +101,17 @@ fn path_bfs(
         }
     }
 
-    if best_score == 0.0 {
-        println!("increasing steps to {}", steps + 2);
-        best_path = path_bfs(
-            starting_path,
-            steps + 2,
-            adj_list_all,
-            nodes_all,
-            streets,
-            hot_spot,
-        );
-    }
+    // if best_score == 0.0 {
+    //     println!("increasing steps to {}", params.steps + 2);
+    //     best_path = path_bfs(
+    //         starting_path,
+    //         params.steps + 2,
+    //         adj_list_all,
+    //         nodes_all,
+    //         streets,
+    //         hot_spot,
+    //     );
+    // }
 
     best_path
 }
@@ -148,6 +153,8 @@ struct Parameters {
     start_node: i64,
     max_distance: f64,
     steps: i32,
+    hot_spots: bool,
+    hot_spot_n: i32,
 }
 
 fn read_parameters_from_yaml() -> Result<Parameters, Box<dyn std::error::Error>> {
@@ -174,7 +181,13 @@ fn main() -> Result<(), Box<dyn Error>> {
     let mut total_distance = 0.0;
     let mut path = vec![params.start_node];
 
-    let hot_spots = cs::hot_spots(params.start_node, &nodes_all, &streets, &path);
+    let hot_spots = cs::hot_spots(
+        params.start_node,
+        &nodes_all,
+        &streets,
+        &path,
+        params.hot_spot_n,
+    );
     let (_, mut hottest_spot) = hot_spots.first().unwrap();
 
     let _ = cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
@@ -182,7 +195,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     while total_distance < params.max_distance {
         path = path_bfs(
             &path,
-            params.steps,
+            &params,
             &alist_all,
             &nodes_all,
             &streets,
@@ -198,7 +211,13 @@ fn main() -> Result<(), Box<dyn Error>> {
             &nodes_all,
         ) < 0.5
         {
-            let hot_spots = cs::hot_spots(*path.last().unwrap(), &nodes_all, &streets, &path);
+            let hot_spots = cs::hot_spots(
+                *path.last().unwrap(),
+                &nodes_all,
+                &streets,
+                &path,
+                params.hot_spot_n,
+            );
             (_, hottest_spot) = *hot_spots.first().unwrap();
             // cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
             // return Ok(());

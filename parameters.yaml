@@ -1,6 +1,8 @@
 city: bangkok
 max_distance: 10.0
-steps: 8
+steps: 10
+hot_spots: true
+hot_spot_n: 3
 start_node: 9038489299
 # BangkokMarket      : 4634908009,
 # BangkokDT          : 9038489299,

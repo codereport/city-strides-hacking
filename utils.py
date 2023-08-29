@@ -14,7 +14,10 @@ def street_dictionary(obj):
     streets = defaultdict(list)
     for e in obj['elements']:
         if e['type'] == 'way':
-            streets[e['tags']['name']].append((e['nodes']))
+            if 'name' in e['tags']:
+                streets[e['tags']['name']].append((e['nodes']))
+            else:
+                streets['unnamed'].append((e['nodes']))
     return streets
 
 def node_dictionary(obj):
@@ -66,3 +69,7 @@ def distance_of_path(l, nodes):
 def total_distance_of_paths(ls, nodes):
     return sum(distance_of_path(l, nodes) for l in ls)
 
+def write_nodes_csv(nodes):
+    with open("nodes.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)

@@ -9,7 +9,7 @@ path = "generate_route.rs"
 [dependencies]
 city_strides_utils = { path = "./city_strides_utils" }
 serde = "1.0"
-serde_json = "1.0"
+serde_yaml = "0.8"
 itertools = "0.11"
 csv = "1.1"
 haversine = "0.2.1"

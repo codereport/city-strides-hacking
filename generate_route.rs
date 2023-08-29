@@ -1,9 +1,14 @@
 extern crate city_strides_utils;
+extern crate serde_derive;
+extern crate serde_yaml;
 
 use city_strides_utils::cs;
+use serde_derive::Deserialize;
 use std::collections::VecDeque;
 use std::collections::{HashMap, HashSet};
 use std::error::Error;
+use std::fs::File;
+use std::io::Read;
 use std::vec::Vec;
 
 fn path_bfs(
@@ -137,47 +142,47 @@ fn node_list_for_csv(path: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> Vec<Vec<
         .collect()
 }
 
-#[allow(clippy::enum_clike_unportable_variant)]
-#[allow(dead_code)]
-enum StartLocations {
-    BangkokMarket = 4634908009,
-    BangkokDT = 9038489299,
-    BangkokDT2 = 3918038819,
-    BangkokDT3 = 619810486,
-    BangkokDT4 = 2109346563,
-    BangkokMarketFar = 1692740969,
-    BangkokMarketNear = 1692805767,
-    Etobicoke = 21098692,
-    Austin = 152731816,
-    Austin2 = 7850917923,
+#[derive(Debug, Deserialize)]
+struct Parameters {
+    city: String,
+    start_node: i64,
+    max_distance: f64,
+    steps: i32,
+}
+
+fn read_parameters_from_yaml() -> Result<Parameters, Box<dyn std::error::Error>> {
+    // Open and read the JSON file
+    let mut file = File::open("parameters.yaml")?;
+    let mut json_data = String::new();
+    file.read_to_string(&mut json_data)?;
+
+    // Deserialize the JSON into your struct and return it
+    let parameters: Parameters = serde_yaml::from_str(&json_data)?;
+    Ok(parameters)
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let city = "bangkok";
-    const START_NODE: i64 = StartLocations::BangkokDT3 as i64;
+    let params = read_parameters_from_yaml()?;
 
-    let elements = cs::load_json(city)?;
+    let elements = cs::load_json(&params.city)?;
     let streets = cs::street_dictionary(&elements);
 
-    let elems_all = cs::load_json(format!("{}_all", city).as_str())?;
+    let elems_all = cs::load_json(format!("{}_all", params.city).as_str())?;
     let nodes_all = cs::node_dictionary(&elems_all);
     let alist_all = cs::adjacency_list(&cs::street_dictionary(&elems_all));
 
-    const MAX_DISTANCE: f64 = 20.0;
-
     let mut total_distance = 0.0;
-    let mut path = vec![START_NODE];
+    let mut path = vec![params.start_node];
 
-    let hot_spots = cs::hot_spots(START_NODE, &nodes_all, &streets, &path);
+    let hot_spots = cs::hot_spots(params.start_node, &nodes_all, &streets, &path);
     let (_, mut hottest_spot) = hot_spots.first().unwrap();
 
     let _ = cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
 
-    while total_distance < MAX_DISTANCE {
-        const STEPS: i32 = 8; // PARAMTER TO PLAY WITH
+    while total_distance < params.max_distance {
         path = path_bfs(
             &path,
-            STEPS,
+            params.steps,
             &alist_all,
             &nodes_all,
             &streets,

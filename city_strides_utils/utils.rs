@@ -163,6 +163,7 @@ pub mod cs {
         nodes: &NodeHashMap,
         streets: &StreetHashMap,
         path: &[i64],
+        n: i32,
     ) -> Vec<(usize, (f64, f64))> {
         let (lat, lon) = nodes[&node];
         let mut hot_spot_counts = Vec::new();
@@ -170,9 +171,9 @@ pub mod cs {
         let streets_done = streets_completed_names(path, streets, &nodes);
 
         println!("Calcuating hotspots...");
-        for (idx, i) in (-5..=5).map(|x| x as f64 / 100.0).enumerate() {
+        for (idx, i) in (-n..=n).map(|x| x as f64 / 100.0).enumerate() {
             println!("{:.2} % done", idx as f64 * 100.0 / 10.0);
-            for j in (-5..=5).map(|y| y as f64 / 100.0) {
+            for j in (-n..=n).map(|y| y as f64 / 100.0) {
                 let new_lat = lat + i;
                 let new_lon = lon + j;
 

@@ -1,9 +1,9 @@
-city: bangkok
-max_distance: 10.0
-steps: 10
+city: north_york
+max_distance: 20.0
+steps: 12
 hot_spots: true
-hot_spot_n: 3
-start_node: 9038489299
+hot_spot_n: 5
+start_node: 29656997
 # BangkokMarket      : 4634908009,
 # BangkokDT          : 9038489299,
 # BangkokDT2         : 3918038819,

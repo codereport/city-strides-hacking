@@ -1,7 +1,9 @@
+#! /usr/bin/env python3
+
 from itertools import chain
 import utils
 
-obj     = utils.load_json('etobicoke')
+obj     = utils.load_json('north_york')
 nodes   = utils.node_dictionary(obj)
 streets = utils.street_dictionary(obj)
 
@@ -24,8 +26,8 @@ print(len(nodes))
 nodes = []
 for e in obj['elements']:
     if e['type'] == 'node':
-        # id = e['id']
-        # len_cat = 'a' if id in a else 'b' if id in b else 'c' if id in c else 'd'
+        id = e['id']
+        len_cat = 'a' if id in a else 'b' if id in b else 'c' if id in c else 'd'
         l = lengths[e['id']]
         if (l < 1):
             nodes.append([float(e['lat']), float(e['lon']), 2, f"\"Name: {e['id']}\"", l])

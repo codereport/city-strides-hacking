@@ -13,6 +13,7 @@ import threading
 
 csv_changed = False
 GIF_GENERATION = False
+ZOOM_LEVEL = 13 if GIF_GENERATION else 14
 
 # Function to update the Plotly figure
 def update_plot():
@@ -36,7 +37,7 @@ def update_plot():
                 mapbox=dict(
                     style="stamen-terrain",
                     center=dict(lat=cities["lat"].mean(), lon=cities["lon"].mean()),
-                    zoom=13,))
+                    zoom=ZOOM_LEVEL,))
 
 # Create a Dash app
 app = dash.Dash(__name__)
@@ -78,7 +79,7 @@ fig.update_layout(
     mapbox=dict(
         style="stamen-terrain",
         center=dict(lat=cities["lat"].mean(), lon=cities["lon"].mean()),
-        zoom=13,
+        zoom=ZOOM_LEVEL,
     ),
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
 )

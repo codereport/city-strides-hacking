@@ -32,6 +32,7 @@ class City(str, Enum):
     VENICE      = 93031  # 🇮🇹
     FOLKESTONE  = 131165 # 🇬🇧
     MEAFORD     = 39015  # 🇨🇦
+    BANGKOK     = 223551 # 🇹🇭
     ALL_TORONTO = 0      # 🇨🇦
 
 def parse_options():
@@ -48,7 +49,7 @@ def parse_nodes(r: str):
 def enum_to_cityname(city: City):
     return city.name.title().replace('_', ' ')
 
-def cache_filename(city: City):
+def filename(city: City):
     return city.name.lower()
 
 @dataclass
@@ -67,7 +68,6 @@ class CityGrid:
     def __hash__(self):
         return hash((self.nelng, self.nelat, self.swlng, self.swlat))
 
-
 CityGrids = {
     City.YORK:        CityGrid(-79.3829, 43.7206, -79.5560, 43.6424),
     City.WROCLAW:     CityGrid(17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ),
@@ -76,6 +76,7 @@ CityGrids = {
     City.VENICE:      CityGrid(12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ),
     City.FOLKESTONE:  CityGrid(1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ),
     City.MEAFORD:     CityGrid(-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ),
+    City.BANGKOK:     CityGrid(100.63077252004365, 13.847639730527689, 100.43201063327376, 13.638682174742826),
     City.OLD_TORONTO: CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.NORTH_YORK:  CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.EAST_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
@@ -120,14 +121,18 @@ def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
 
     nodes = []
     cache = set()
-    cache_file = Path(__file__).parent / f"./cache/{cache_filename(city)}.csv"
+    cache_file = Path(__file__).parent / f"./cache/{filename(city)}.csv"
     cache_file.touch()
 
     with open(cache_file, "r") as f:
         for line in f.read().splitlines():
             cache.add(CityGrid(*line.strip().split(',')))
 
-    delta = 0.004 if city == City.VENICE else 0.02 if city == City.MEAFORD else 0.012
+
+    delta = 0.012
+    if city == City.VENICE:  delta = 0.004
+    if city == City.MEAFORD: delta = 0.02
+    if city == City.BANGKOK: delta = 0.006
 
     for coordinates in make_grid_steps(grid, delta):
         if coordinates not in cache:
@@ -138,11 +143,11 @@ def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
                 cookies=cookies
             )
 
-            temp = parse_nodes(response.text)
-            print(len(temp))
-            if len(temp) == 0:
+            lat_lons = parse_nodes(response.text)
+            print(len(lat_lons))
+            if len(lat_lons) == 0:
                 cache.add(coordinates)
-            nodes.extend(temp)
+            nodes.extend(lat_lons)
 
     return nodes, cache, cache_file
 

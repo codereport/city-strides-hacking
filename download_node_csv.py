@@ -175,8 +175,14 @@ if __name__ == '__main__':
     city = get_city_from_user()
     nodes, cache, cache_file = download_nodes_of_city(city)
 
+    # Write to nodes.csv
     df = pd.DataFrame(nodes)
     df.to_csv(NODES_FILE, index=True)
 
+    # Write to csnodes/<city>.csv
+    csnodes_file = Path(__file__).parent / "csnodes" / f"{city}.csv"
+    df.to_csv(csnodes_file, index=True)
+
+    # Write to cache/<city>.csv
     df = pd.DataFrame(cache)
     df.to_csv(cache_file, index=False, header=False)

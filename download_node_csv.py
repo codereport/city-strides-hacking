@@ -10,6 +10,9 @@ from typing import Dict, Any
 import json
 from ast import literal_eval
 import pandas as pd
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
+from tqdm import tqdm
 
 NODES_FILE = Path(__file__).parent / "nodes.csv"
 
@@ -116,8 +119,25 @@ def make_grid_steps(grid: CityGrid, delta: float):
             yield CityGrid(nelng=nelng, nelat=nelat, swlng=swlng, swlat=swlat)
 
 
+def download_nodes_of_coordinates(city, coordinates, cache):
+    params = {"city": city.value, **citygrid_to_str(coordinates)}
+    response = requests.get(
+        "https://citystrides.com/nodes.json",
+        params=params,
+        cookies=cookies
+    )
+
+    try:
+        lat_lons = parse_nodes(response.text)
+        # print(len(lat_lons))
+        if len(lat_lons) == 0:
+            cache.add(coordinates)
+        return lat_lons
+    except:
+        return []
+
 def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
-    grid= CityGrids[city]
+    grid = CityGrids[city]
 
     nodes = []
     cache = set()
@@ -128,26 +148,20 @@ def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
         for line in f.read().splitlines():
             cache.add(CityGrid(*line.strip().split(',')))
 
-
     delta = 0.012
     if city == City.VENICE:  delta = 0.004
     if city == City.MEAFORD: delta = 0.02
     if city == City.BANGKOK: delta = 0.006
 
-    for coordinates in make_grid_steps(grid, delta):
-        if coordinates not in cache:
-            params = { "city": city.value, **citygrid_to_str(coordinates) }
-            response = requests.get(
-                "https://citystrides.com/nodes.json",
-                params=params,
-                cookies=cookies
-            )
+    with ThreadPoolExecutor(max_workers=12) as executor:  # Adjust max_workers as needed
+        download_func = partial(download_nodes_of_coordinates, city, cache=cache)
+        futures = [executor.submit(download_func, coordinates) for coordinates in make_grid_steps(grid, delta)]
 
-            lat_lons = parse_nodes(response.text)
-            print(len(lat_lons))
-            if len(lat_lons) == 0:
-                cache.add(coordinates)
-            nodes.extend(lat_lons)
+        with tqdm(total=len(futures), desc="Downloading Nodes") as pbar:
+            for future in futures:
+                lat_lons = future.result()
+                nodes.extend(lat_lons)
+                pbar.update(1)
 
     return nodes, cache, cache_file
 

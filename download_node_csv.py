@@ -6,7 +6,7 @@ import sys
 import argparse
 from pathlib import Path
 from dataclasses import dataclass, fields, asdict
-from typing import Dict, Any
+from typing import Dict
 import json
 from ast import literal_eval
 import pandas as pd

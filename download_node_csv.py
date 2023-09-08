@@ -13,6 +13,7 @@ import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 from functools import partial
 from tqdm import tqdm
+import time
 
 NODES_FILE = Path(__file__).parent / "nodes.csv"
 
@@ -129,14 +130,14 @@ def download_nodes_of_coordinates(city, coordinates, cache):
 
     try:
         lat_lons = parse_nodes(response.text)
-        # print(len(lat_lons))
         if len(lat_lons) == 0:
             cache.add(coordinates)
         return lat_lons
-    except:
-        return []
+    except Exception:
+        time.sleep(1)
+        return download_nodes_of_coordinates(city, coordinates, cache)
 
-def download_nodes_of_city(city: City, cookies: Dict[str, Any]):
+def download_nodes_of_city(city: City):
     grid = CityGrids[city]
 
     nodes = []
@@ -172,7 +173,7 @@ if __name__ == '__main__':
         cookies = json.load(f)
 
     city = get_city_from_user()
-    nodes, cache, cache_file = download_nodes_of_city(city, cookies)
+    nodes, cache, cache_file = download_nodes_of_city(city)
 
     df = pd.DataFrame(nodes)
     df.to_csv(NODES_FILE, index=True)

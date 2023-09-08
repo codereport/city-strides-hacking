@@ -26,7 +26,19 @@
    * Copy the `GET` command using the `Copy Value` -> `Copy as Curl` 
    * Paste the curl command to https://curlconverter.com/python/
    * Your `cookies` can be found in the generated command
-3. You can now run:
+
+3. Add a `parameters.yaml`. Example below.
+
+```yaml
+city: bangkok
+max_distance: 25.0
+steps: 9
+hot_spots: true
+hot_spot_n: 2
+hot_spot_delta: 0.05
+start_node: 1692740969
+```
+4. You can now run:
    * `./download_node_csv.py cookie.json` to scrape all the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
   

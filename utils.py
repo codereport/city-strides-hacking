@@ -20,6 +20,25 @@ def street_dictionary(obj):
                 streets['unnamed'].append((e['nodes']))
     return streets
 
+def point_hash(p):
+    return (round(float(p[0]), 3), round(float(p[1]), 3)) #, round(float(p[1]), 2))
+
+def load_completed_csnodes(csnodes_file) -> set:
+    points = defaultdict(set)
+    with open(csnodes_file, "r") as f:
+        for line in f.read().splitlines():
+            temp = line.strip().split(',')
+            if temp[1] == 'lat': continue
+            p = (float(temp[1]), float(temp[2]))
+            points[point_hash(p)].add(p)
+    return points
+
+def is_close(d, p, threshold):
+    points = d[point_hash(p)]
+    if not points: return False
+    closest = min(geodesic(p, p2).kilometers for p2 in points)
+    return closest < threshold
+
 def node_dictionary(obj):
     d = {}
     for e in obj['elements']:

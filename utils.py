@@ -4,11 +4,16 @@ from math import sqrt
 from itertools import chain
 from collections import defaultdict
 from geopy.distance import geodesic
+import yaml
 
 def load_json(city):
     with open(f"data/{city}.json", 'r') as f:
         data=f.read()
     return json.loads(data)
+
+def load_parameters():
+    with open('parameters.yaml', 'r') as file:
+        return yaml.safe_load(file)
 
 def street_dictionary(obj):
     streets = defaultdict(list)

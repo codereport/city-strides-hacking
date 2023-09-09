@@ -6,8 +6,7 @@ import os
 import utils
 from tqdm import tqdm
 
-city = 'nha_trang'
-
+city    = utils.load_parameters()['city']
 obj     = utils.load_json(city)
 nodes   = utils.node_dictionary(obj)
 streets = utils.street_dictionary(obj)

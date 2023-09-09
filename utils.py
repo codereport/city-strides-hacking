@@ -5,6 +5,7 @@ from itertools import chain
 from collections import defaultdict
 from geopy.distance import geodesic
 import yaml
+import pandas as pd
 
 def load_json(city):
     with open(f"data/{city}.json", 'r') as f:
@@ -97,3 +98,24 @@ def write_nodes_csv(nodes):
     with open("nodes.csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows([["lat", "lon", "sz", "names", "len_cat"]] + nodes)
+
+def calculate_zoom_level(latitudes, longitudes):
+    max_lat = max(latitudes)
+    min_lat = min(latitudes)
+    max_lon = max(longitudes)
+    min_lon = min(longitudes)
+
+    lat_span = max_lat - min_lat
+    lon_span = max_lon - min_lon
+
+    # Adjust these factors to control the padding around the nodes
+    lat_padding = 0.098
+    lon_padding = 0.098
+
+    # Calculate the zoom level based on latitude or longitude span (whichever is larger)
+    zoom_lat = (360 / lat_span) * lat_padding / 100
+    zoom_lon = (360 / lon_span) * lon_padding / 100
+
+    print(min(zoom_lat, zoom_lon))
+
+    return min(zoom_lat, zoom_lon)

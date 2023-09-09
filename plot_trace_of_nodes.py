@@ -10,10 +10,14 @@ from dash.dependencies import Input, Output
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import threading
+import utils
+import sys
 
 csv_changed = False
-GIF_GENERATION = False
-ZOOM_LEVEL = 13 if GIF_GENERATION else 14
+GIF_GENERATION = True
+
+def mid_point(vals):
+    return (vals.max() + vals.min()) / 2
 
 # Function to update the Plotly figure
 def update_plot():
@@ -36,8 +40,8 @@ def update_plot():
             fig.update_layout(
                 mapbox=dict(
                     style="stamen-terrain",
-                    center=dict(lat=cities["lat"].mean(), lon=cities["lon"].mean()),
-                    zoom=ZOOM_LEVEL,))
+                    center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
+                    zoom=utils.calculate_zoom_level(cities["lat"], cities["lon"]),))
 
 # Create a Dash app
 app = dash.Dash(__name__)
@@ -78,8 +82,8 @@ fig.add_trace(go.Scattermapbox(
 fig.update_layout(
     mapbox=dict(
         style="stamen-terrain",
-        center=dict(lat=cities["lat"].mean(), lon=cities["lon"].mean()),
-        zoom=ZOOM_LEVEL,
+        center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
+        zoom=utils.calculate_zoom_level(cities["lat"], cities["lon"]),
     ),
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
 )
@@ -89,7 +93,7 @@ app.layout = html.Div([
     dcc.Graph(id='map-graph', figure=fig, style={'width': '180vh', 'height': '90vh'}),
     dcc.Interval(
         id='interval-component',
-        interval=1000,
+        interval=3000,
         n_intervals=0
     )
 ])
@@ -115,27 +119,33 @@ def update_graph(n_intervals):
     return fig
 
 def start_dash_app():
-    app.run_server(debug=True, use_reloader=False)
+    app.run_server(debug=False)
 
 if __name__ == '__main__':
 
-    # Start Dash app in a separate thread
-    dash_thread = threading.Thread(target=start_dash_app)
-    dash_thread.daemon = True
-    dash_thread.start()
+    if sys.argv[1] == "img":
+        pio.write_image(fig, 'map.png', width=1000, height=1000)
+    else:
 
-    # Watchdog file monitoring
-    observer = Observer()
-    event_handler = CSVFileHandler()
-    observer.schedule(event_handler, path='nodes.csv', recursive=False)
+        start_dash_app()
 
-    # Start the observer
-    observer.start()
+        # Start Dash app in a separate thread
+        dash_thread = threading.Thread(target=start_dash_app)
+        dash_thread.daemon = True
+        dash_thread.start()
 
-    try:
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        observer.stop()
+        # Watchdog file monitoring
+        observer = Observer()
+        event_handler = CSVFileHandler()
+        observer.schedule(event_handler, path='nodes.csv', recursive=False)
 
-    observer.join()
+        # Start the observer
+        observer.start()
+
+        try:
+            while True:
+                time.sleep(1)
+        except KeyboardInterrupt:
+            observer.stop()
+
+        observer.join()

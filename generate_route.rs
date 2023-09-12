@@ -136,7 +136,7 @@ fn node_list_for_csv_from_hot_spots(hot_spots: &[(usize, (f64, f64))]) -> Vec<Ve
                 lat.to_string(),
                 lon.to_string(),
                 format!("{}", streets / 10),
-                format!("\"Streets Completed: {}\"", streets),
+                format!("\"Streets Completed: {streets}\""),
                 "5".to_string(),
             ]
         })
@@ -152,7 +152,7 @@ fn node_list_for_csv(path: &[i64], nodes: &HashMap<i64, (f64, f64)>) -> Vec<Vec<
                 lat.to_string(),
                 lon.to_string(),
                 "2".to_string(),
-                format!("\"Name: {}\"", id),
+                format!("\"Name: {id}\""),
                 i.to_string(),
             ]
         })
@@ -168,6 +168,7 @@ struct Parameters {
     hot_spots: bool,
     hot_spot_n: i32,
     hot_spot_delta: f64,
+    #[allow(dead_code)]
     heat_map_max_length: f64,
 }
 
@@ -222,28 +223,27 @@ fn main() -> Result<(), Box<dyn Error>> {
             &hottest_spot,
         );
         total_distance = cs::distance_of_path_precise(&path, &nodes_all);
-        println!("\ntotal_distance = {}\n", total_distance);
+        println!("\ntotal_distance = {total_distance}\n");
 
-        if params.hot_spots {
-            if cs::dist_node_lat_lon(
+        if params.hot_spots
+            && cs::dist_node_lat_lon(
                 *path.last().unwrap(),
                 hottest_spot.unwrap().0,
                 hottest_spot.unwrap().1,
                 &nodes_all,
             ) < params.hot_spot_delta
-            {
-                let hot_spots = cs::hot_spots(
-                    *path.last().unwrap(),
-                    &nodes_all,
-                    &streets,
-                    &path,
-                    params.hot_spot_n,
-                );
-                let (_, temp) = *hot_spots.first().unwrap();
-                hottest_spot = Some(temp);
-                // cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
-                // return Ok(());
-            }
+        {
+            let hot_spots = cs::hot_spots(
+                *path.last().unwrap(),
+                &nodes_all,
+                &streets,
+                &path,
+                params.hot_spot_n,
+            );
+            let (_, temp) = *hot_spots.first().unwrap();
+            hottest_spot = Some(temp);
+            // cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
+            // return Ok(());
         }
 
         // Write nodes to CSV

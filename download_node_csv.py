@@ -26,18 +26,19 @@ class Node:
     len_cat: str = 'a'
 
 class City(str, Enum):
-    OLD_TORONTO = 38121  # 🇨🇦
-    EAST_YORK   = 38114  # 🇨🇦
-    YORK        = 38102  # 🇨🇦
-    NORTH_YORK  = 38108  # 🇨🇦
-    WROCLAW     = 191289 # 🇵🇱
-    KRAKOW      = 190608 # 🇵🇱
-    ROME        = 94322  # 🇮🇹
-    VENICE      = 93031  # 🇮🇹
-    FOLKESTONE  = 131165 # 🇬🇧
-    MEAFORD     = 39015  # 🇨🇦
-    BANGKOK     = 223551 # 🇹🇭
-    ALL_TORONTO = 0      # 🇨🇦
+    OLD_TORONTO  = 38121  # 🇨🇦
+    EAST_YORK    = 38114  # 🇨🇦
+    YORK         = 38102  # 🇨🇦
+    NORTH_YORK   = 38108  # 🇨🇦
+    WROCLAW      = 191289 # 🇵🇱
+    KRAKOW       = 190608 # 🇵🇱
+    ROME         = 94322  # 🇮🇹
+    VENICE       = 93031  # 🇮🇹
+    FOLKESTONE   = 131165 # 🇬🇧
+    MEAFORD      = 39015  # 🇨🇦
+    BANGKOK      = 223551 # 🇹🇭
+    KUALA_LUMPUR = 225540 
+    ALL_TORONTO  = 0      # 🇨🇦
 
 def parse_options():
     parser = argparse.ArgumentParser()
@@ -73,18 +74,19 @@ class CityGrid:
         return hash((self.nelng, self.nelat, self.swlng, self.swlat))
 
 CityGrids = {
-    City.YORK:        CityGrid(-79.3829, 43.7206, -79.5560, 43.6424),
-    City.WROCLAW:     CityGrid(17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ),
-    City.KRAKOW:      CityGrid(19.979436306324942, 50.08859858611942,  19.90053987336441,  50.034804024531525),
-    City.ROME:        CityGrid(12.519622013860925, 41.91439535724936,  12.443743029831694, 41.85439499689079 ),
-    City.VENICE:      CityGrid(12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ),
-    City.FOLKESTONE:  CityGrid(1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ),
-    City.MEAFORD:     CityGrid(-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ),
-    City.BANGKOK:     CityGrid(100.63077252004365, 13.847639730527689, 100.43201063327376, 13.638682174742826),
-    City.OLD_TORONTO: CityGrid(-79.20, 43.8, -79.556, 43.61),
-    City.NORTH_YORK:  CityGrid(-79.20, 43.8, -79.556, 43.61),
-    City.EAST_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
-    City.ALL_TORONTO: CityGrid(-79.20, 43.8, -79.556, 43.61)
+    City.YORK:         CityGrid(-79.3829, 43.7206, -79.5560, 43.6424),
+    City.WROCLAW:      CityGrid(17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ),
+    City.KRAKOW:       CityGrid(19.979436306324942, 50.08859858611942,  19.90053987336441,  50.034804024531525),
+    City.ROME:         CityGrid(12.519622013860925, 41.91439535724936,  12.443743029831694, 41.85439499689079 ),
+    City.VENICE:       CityGrid(12.357666134722393, 45.451386491714715, 12.316599314442499, 45.42077976598716 ),
+    City.FOLKESTONE:   CityGrid(1.2028963028344322, 51.11176465501126,  1.1199095563368644, 51.05639602006997 ),
+    City.MEAFORD:      CityGrid(-80.49028489574928, 44.754231277837675, -80.94388807383417, 44.44134084860639 ),
+    City.BANGKOK:      CityGrid(100.63077252004365, 13.847639730527689, 100.43201063327376, 13.638682174742826),
+    City.KUALA_LUMPUR: CityGrid(101.77057184116842, 3.2535737239631857, 101.60542181002302, 3.019316817120796),
+    City.OLD_TORONTO:  CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.NORTH_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.EAST_YORK:    CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.ALL_TORONTO:  CityGrid(-79.20, 43.8, -79.556, 43.61)
 }
 
 
@@ -132,6 +134,8 @@ def download_nodes_of_coordinates(city, coordinates, cache):
         lat_lons = parse_nodes(response.text)
         if len(lat_lons) == 0:
             cache.add(coordinates)
+        elif len(lat_lons) > 1000:
+            print(len(lat_lons))
         return lat_lons
     except Exception:
         time.sleep(1)
@@ -180,7 +184,7 @@ if __name__ == '__main__':
     df.to_csv(NODES_FILE, index=True)
 
     # Write to csnodes/<city>.csv
-    csnodes_file = Path(__file__).parent / "csnodes" / f"{city}.csv"
+    csnodes_file = Path(__file__).parent / "csnodes" / f"{filename(city)}.csv"
     df.to_csv(csnodes_file, index=True)
 
     # Write to cache/<city>.csv

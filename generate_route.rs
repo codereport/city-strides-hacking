@@ -17,18 +17,22 @@ fn path_bfs(
     adj_list_all: &HashMap<i64, HashSet<i64>>,
     nodes_all: &HashMap<i64, (f64, f64)>,
     streets: &HashMap<String, Vec<Vec<i64>>>,
-    hot_spot: &(f64, f64),
+    hot_spot: &Option<(f64, f64)>,
 ) -> Vec<i64> {
     let mut best_path = Vec::new();
     let mut best_completed;
     let mut best_score = 0.0;
     let mut queue = VecDeque::new();
-    let start_dist_to_hot_spot = cs::dist_node_lat_lon(
-        *starting_path.last().unwrap(),
-        hot_spot.0,
-        hot_spot.1,
-        nodes_all,
-    );
+    let start_dist_to_hot_spot = if params.hot_spots {
+        cs::dist_node_lat_lon(
+            *starting_path.last().unwrap(),
+            hot_spot.unwrap().0,
+            hot_spot.unwrap().1,
+            nodes_all,
+        )
+    } else {
+        0.0
+    };
     let done_at_start = cs::streets_completed(starting_path, streets);
 
     queue.push_back((starting_path.to_vec(), 0.0, params.steps));
@@ -36,8 +40,16 @@ fn path_bfs(
     while let Some((mut path, dist, steps_left)) = queue.pop_front() {
         let done = cs::streets_completed(&path, streets);
         let done_delta = done - done_at_start;
-        let dist_to_hot_spot =
-            cs::dist_node_lat_lon(*path.last().unwrap(), hot_spot.0, hot_spot.1, nodes_all);
+        let dist_to_hot_spot = if params.hot_spots {
+            cs::dist_node_lat_lon(
+                *path.last().unwrap(),
+                hot_spot.unwrap().0,
+                hot_spot.unwrap().1,
+                nodes_all,
+            )
+        } else {
+            0.0
+        };
         let hot_spot_adj = if params.hot_spots {
             (start_dist_to_hot_spot - dist_to_hot_spot) / dist
         } else {
@@ -155,6 +167,8 @@ struct Parameters {
     steps: i32,
     hot_spots: bool,
     hot_spot_n: i32,
+    hot_spot_delta: f64,
+    heat_map_max_length: f64,
 }
 
 fn read_parameters_from_yaml() -> Result<Parameters, Box<dyn std::error::Error>> {
@@ -181,16 +195,22 @@ fn main() -> Result<(), Box<dyn Error>> {
     let mut total_distance = 0.0;
     let mut path = vec![params.start_node];
 
-    let hot_spots = cs::hot_spots(
-        params.start_node,
-        &nodes_all,
-        &streets,
-        &path,
-        params.hot_spot_n,
-    );
-    let (_, mut hottest_spot) = hot_spots.first().unwrap();
+    let mut hottest_spot: Option<(f64, f64)>;
+    if params.hot_spots {
+        let hot_spots = cs::hot_spots(
+            params.start_node,
+            &nodes_all,
+            &streets,
+            &path,
+            params.hot_spot_n,
+        );
+        let (_, temp) = hot_spots.first().unwrap();
+        hottest_spot = Some(*temp);
 
-    let _ = cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
+        let _ = cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
+    } else {
+        hottest_spot = None;
+    }
 
     while total_distance < params.max_distance {
         path = path_bfs(
@@ -204,23 +224,26 @@ fn main() -> Result<(), Box<dyn Error>> {
         total_distance = cs::distance_of_path_precise(&path, &nodes_all);
         println!("\ntotal_distance = {}\n", total_distance);
 
-        if cs::dist_node_lat_lon(
-            *path.last().unwrap(),
-            hottest_spot.0,
-            hottest_spot.1,
-            &nodes_all,
-        ) < 0.5
-        {
-            let hot_spots = cs::hot_spots(
+        if params.hot_spots {
+            if cs::dist_node_lat_lon(
                 *path.last().unwrap(),
+                hottest_spot.unwrap().0,
+                hottest_spot.unwrap().1,
                 &nodes_all,
-                &streets,
-                &path,
-                params.hot_spot_n,
-            );
-            (_, hottest_spot) = *hot_spots.first().unwrap();
-            // cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
-            // return Ok(());
+            ) < params.hot_spot_delta
+            {
+                let hot_spots = cs::hot_spots(
+                    *path.last().unwrap(),
+                    &nodes_all,
+                    &streets,
+                    &path,
+                    params.hot_spot_n,
+                );
+                let (_, temp) = *hot_spots.first().unwrap();
+                hottest_spot = Some(temp);
+                // cs::write_nodes_csv(&node_list_for_csv_from_hot_spots(&hot_spots));
+                // return Ok(());
+            }
         }
 
         // Write nodes to CSV

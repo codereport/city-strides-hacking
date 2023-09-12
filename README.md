@@ -36,6 +36,7 @@ steps: 9
 hot_spots: true
 hot_spot_n: 2
 hot_spot_delta: 0.05
+heat_map_max_length: 1
 start_node: 1692740969
 ```
 4. You can now run:

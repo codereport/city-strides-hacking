@@ -37,7 +37,7 @@ class City(str, Enum):
     FOLKESTONE   = 131165 # 🇬🇧
     MEAFORD      = 39015  # 🇨🇦
     BANGKOK      = 223551 # 🇹🇭
-    KUALA_LUMPUR = 225540 
+    KUALA_LUMPUR = 225540
     ALL_TORONTO  = 0      # 🇨🇦
 
 def parse_options():

@@ -4,44 +4,33 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.io as pio
 import dash
-import time
 from dash import dcc, html
 from dash.dependencies import Input, Output
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
-import threading
-import utils
-import sys
-
-csv_changed = False
-GIF_GENERATION = True
 
 def mid_point(vals):
     return (vals.max() + vals.min()) / 2
 
 # Function to update the Plotly figure
 def update_plot():
-    global fig, csv_changed
-    if csv_changed:
-        csv_changed = False
-        cities = pd.read_csv("nodes.csv")  # Load the updated CSV data
+    global fig
+    cities = pd.read_csv("nodes.csv")  # Load the updated CSV data
 
-        for trace in fig.data:
-            trace.update(lat=cities["lat"], lon=cities["lon"])
-            if trace.name == "MARKERS":
-                trace.update(
-                    marker=dict(
-                        size=10,
-                        sizemode="diameter",
-                        color=cities["len_cat"],
-                        colorscale="Jet",
-                        colorbar=dict(title="len_cat")))
+    for trace in fig.data:
+        trace.update(lat=cities["lat"], lon=cities["lon"])
+        if trace.name == "MARKERS":
+            trace.update(
+                marker=dict(
+                    size=10,
+                    sizemode="diameter",
+                    color=cities["len_cat"],
+                    colorscale="Jet",
+                    colorbar=dict(title="len_cat")))
 
-            fig.update_layout(
-                mapbox=dict(
-                    style="stamen-terrain",
-                    center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
-                    zoom=utils.calculate_zoom_level(cities["lat"], cities["lon"]),))
+        fig.update_layout(
+            mapbox=dict(
+                style="stamen-terrain",
+                center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
+                zoom=15))
 
 # Create a Dash app
 app = dash.Dash(__name__)
@@ -83,7 +72,7 @@ fig.update_layout(
     mapbox=dict(
         style="stamen-terrain",
         center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
-        zoom=utils.calculate_zoom_level(cities["lat"], cities["lon"]),
+        zoom=15
     ),
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
 )
@@ -93,21 +82,10 @@ app.layout = html.Div([
     dcc.Graph(id='map-graph', figure=fig, style={'width': '180vh', 'height': '90vh'}),
     dcc.Interval(
         id='interval-component',
-        interval=3000,
+        interval=1000,
         n_intervals=0
     )
 ])
-
-class CSVFileHandler(FileSystemEventHandler):
-    def on_modified(self, event):
-        global i, fig, csv_changed
-        csv_changed = True
-        if GIF_GENERATION:
-            print("CSV file has changed. Exporting figure...")
-            pio.write_image(fig, f'imgs/map_{i}.png', width=1000, height=1000)
-            i += 1
-
-i = 0
 
 # Callback to update the plot on an interval
 @app.callback(
@@ -123,29 +101,5 @@ def start_dash_app():
 
 if __name__ == '__main__':
 
-    if sys.argv[1] == "img":
-        pio.write_image(fig, 'map.png', width=1000, height=1000)
-    else:
-
-        start_dash_app()
-
-        # Start Dash app in a separate thread
-        dash_thread = threading.Thread(target=start_dash_app)
-        dash_thread.daemon = True
-        dash_thread.start()
-
-        # Watchdog file monitoring
-        observer = Observer()
-        event_handler = CSVFileHandler()
-        observer.schedule(event_handler, path='nodes.csv', recursive=False)
-
-        # Start the observer
-        observer.start()
-
-        try:
-            while True:
-                time.sleep(1)
-        except KeyboardInterrupt:
-            observer.stop()
-
-        observer.join()
+    pio.write_image(fig, 'map.png', width=1000, height=1000)
+    start_dash_app()

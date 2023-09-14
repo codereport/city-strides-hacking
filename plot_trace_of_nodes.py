@@ -30,7 +30,7 @@ def update_plot():
             mapbox=dict(
                 style="stamen-terrain",
                 center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
-                zoom=15))
+                zoom=17))
 
 # Create a Dash app
 app = dash.Dash(__name__)

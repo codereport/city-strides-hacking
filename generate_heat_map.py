@@ -31,12 +31,13 @@ if remove_nodes:
     points_done = utils.load_completed_csnodes(csnodes_file)
 print("Determining which nodes to show...")
 max_len = utils.load_parameters()['heat_map_max_length']
+exclude_csnodes = utils.load_parameters()['head_map_exclude_csnodes']
 for e in tqdm(obj['elements']):
     if e['type'] == 'node':
         id = e['id']
         l = lengths[id]
         point = (float(e['lat']), float(e['lon']))
-        if (l < max_len) and (not remove_nodes or points_done and utils.is_close(points_done, point, 0.01)):
+        if (l < max_len) and (not remove_nodes or not exclude_csnodes or points_done and utils.is_close(points_done, point, 0.01)):
             nodes_to_write.append([float(e['lat']), float(e['lon']), 2, f"\"Name: {id}\"", l])
 
 utils.write_nodes_csv(nodes_to_write)

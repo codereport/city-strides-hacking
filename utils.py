@@ -26,7 +26,7 @@ def street_dictionary(obj):
     return streets
 
 def point_hash(p):
-    return (round(float(p[0]), 3), round(float(p[1]), 3)) #, round(float(p[1]), 2))
+    return (round(float(p[0]), 3), round(float(p[1]), 3))
 
 def load_completed_csnodes(csnodes_file) -> set:
     points = defaultdict(set)

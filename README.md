@@ -44,4 +44,9 @@ start_node: 1692740969
    * `./download_node_csv.py cookie.json` to scrape all the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
   
-TODO: Add graph algorithm that builds routes. Need to query "path API" though. Straight lines isn't enough.
+### Useful Links
+
+* [Details about CS OSM Data](https://community.citystrides.com/t/about-the-node-street-and-city-data/19802)
+* [OSM Tag Info](https://taginfo.openstreetmap.org/keys)
+* [Overpass](http://overpass-turbo.eu/)
+* [Data by Region/Country](https://download.geofabrik.de/)

@@ -31,7 +31,7 @@ if remove_nodes:
     points_done = utils.load_completed_csnodes(csnodes_file)
 print("Determining which nodes to show...")
 max_len = utils.load_parameters()['heat_map_max_length']
-exclude_csnodes = utils.load_parameters()['head_map_exclude_csnodes']
+exclude_csnodes = utils.load_parameters()['heat_map_exclude_csnodes']
 for e in tqdm(obj['elements']):
     if e['type'] == 'node':
         id = e['id']

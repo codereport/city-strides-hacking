@@ -123,6 +123,8 @@ def make_grid_steps(grid: CityGrid, delta: float):
 
 
 def download_nodes_of_coordinates(city, coordinates, cache):
+    if coordinates in cache:
+        return []
     params = {"city": city.value, **citygrid_to_str(coordinates)}
     response = requests.get(
         "https://citystrides.com/nodes.json",

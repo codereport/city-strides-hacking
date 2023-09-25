@@ -38,7 +38,7 @@ class City(str, Enum):
     MEAFORD      = 39015  # 🇨🇦
     BANGKOK      = 223551 # 🇹🇭
     KUALA_LUMPUR = 225540
-    ALL_TORONTO  = 0      # 🇨🇦
+    ALL_TORONTO  = 131268 # 🇨🇦
 
 def parse_options():
     parser = argparse.ArgumentParser()
@@ -86,7 +86,7 @@ CityGrids = {
     City.OLD_TORONTO:  CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.NORTH_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.EAST_YORK:    CityGrid(-79.20, 43.8, -79.556, 43.61),
-    City.ALL_TORONTO:  CityGrid(-79.20, 43.8, -79.556, 43.61)
+    City.ALL_TORONTO:  CityGrid(-79.10207774524551, 43.874371274629254, -79.64422630796089, 43.553523478901695)
 }
 
 

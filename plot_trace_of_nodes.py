@@ -6,6 +6,7 @@ import plotly.io as pio
 import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
+import utils
 
 def mid_point(vals):
     return (vals.max() + vals.min()) / 2
@@ -28,7 +29,7 @@ def update_plot():
 
         fig.update_layout(
             mapbox=dict(
-                style="stamen-terrain",
+                style=utils.load_parameters()['map_style'],
                 center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
                 zoom=17))
 
@@ -70,7 +71,7 @@ fig.add_trace(go.Scattermapbox(
 # Set map layout
 fig.update_layout(
     mapbox=dict(
-        style="stamen-terrain",
+        style=utils.load_parameters()['map_style'],
         center=dict(lat=mid_point(cities["lat"]), lon=mid_point(cities["lon"])),
         zoom=15
     ),

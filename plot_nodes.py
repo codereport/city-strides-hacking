@@ -2,8 +2,9 @@
 
 import pandas as pd
 import plotly.express as px
+import utils
 
-style  = "stamen-terrain"
+style  = utils.load_parameters()['map_style']
 cities = pd.read_csv("nodes.csv")
 
 fig = px.scatter_mapbox(

@@ -31,6 +31,7 @@ class City(str, Enum):
     EAST_YORK    = 38114  # 🇨🇦
     YORK         = 38102  # 🇨🇦
     NORTH_YORK   = 38108  # 🇨🇦
+    CALGARY      = 171388 # 🇨🇦
     WROCLAW      = 191289 # 🇵🇱
     KRAKOW       = 190608 # 🇵🇱
     ROME         = 94322  # 🇮🇹
@@ -38,9 +39,9 @@ class City(str, Enum):
     FOLKESTONE   = 131165 # 🇬🇧
     MEAFORD      = 39015  # 🇨🇦
     BANGKOK      = 223551 # 🇹🇭
-    KUALA_LUMPUR = 225540
+    KUALA_LUMPUR = 225540 # 🇲🇾
     YELLOWKNIFE  = 188033 # 🇨🇦
-    MANHATTAN    = 171333
+    MANHATTAN    = 171333 # 🇺🇸
 
 def parse_options():
     parser = argparse.ArgumentParser()
@@ -90,7 +91,8 @@ CityGrids = {
     City.EAST_YORK:    CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.YELLOWKNIFE:  CityGrid(-114.27992785264068, 62.54634422107276,  -114.53535016375272, 62.40108397535985),
     City.MANHATTAN:    CityGrid(-73.85718821472695,  40.88516054351777,  -74.06031270089198,  40.695918553464935),
-    City.ALL_TORONTO:  CityGrid(-79.10207774524551,  43.874371274629254, -79.64422630796089,  43.553523478901695)
+    City.ALL_TORONTO:  CityGrid(-79.10207774524551,  43.874371274629254, -79.64422630796089,  43.553523478901695),
+    City.CALGARY:      CityGrid(-113.84035843838264, 51.21489889420778,  -114.31427300643004, 50.83873600399619)
 }
 
 

@@ -26,6 +26,7 @@ class Node:
     len_cat: str = 'a'
 
 class City(str, Enum):
+    ALL_TORONTO  = 131268 # 🇨🇦
     OLD_TORONTO  = 38121  # 🇨🇦
     EAST_YORK    = 38114  # 🇨🇦
     YORK         = 38102  # 🇨🇦
@@ -40,7 +41,6 @@ class City(str, Enum):
     KUALA_LUMPUR = 225540
     YELLOWKNIFE  = 188033 # 🇨🇦
     MANHATTAN    = 171333
-    ALL_TORONTO  = 131268 # 🇨🇦
 
 def parse_options():
     parser = argparse.ArgumentParser()

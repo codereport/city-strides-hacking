@@ -31,6 +31,7 @@
 
 ```yaml
 city: bangkok
+map_style: 'open-street-map'
 max_distance: 25.0
 steps: 9
 hot_spots: true

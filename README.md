@@ -44,7 +44,13 @@ start_node: 1692740969
 4. You can now run:
    * `./download_node_csv.py cookie.json` to scrape all the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
-  
+
+# How to use the Rust route generator
+
+1. Compile the Rust code: `cargo build`, this creates executable `./city_strides_route_generator`
+2. Download the file `data/bangkok.json` and `data/bangkok_all.json` by querying <https://overpass-api.de> with the queries of [overpass_queries.md](overpass_queries.md) (assuming you set bangkok in `parameters.yaml`)  
+3. Call `././city_strides_route_generator`
+
 ### Useful Links
 
 * [Details about CS OSM Data](https://community.citystrides.com/t/about-the-node-street-and-city-data/19802)

@@ -14,6 +14,8 @@ from concurrent.futures import ThreadPoolExecutor
 from functools import partial
 from tqdm import tqdm
 import time
+import shutil
+from math import ceil
 
 NODES_FILE = Path(__file__).parent / "nodes.csv"
 
@@ -49,7 +51,8 @@ class City(str, Enum):
     SQUAMISH     = 38119  # 🇨🇦
     CADIZ        = 115116 # 🇪🇸 
     SEVILLE      = 110445 # 🇪🇸
-    GIBRALTAR    = 216411 # 
+    GIBRALTAR    = 216411 # 🇬🇮
+    TARIFA       = 115036 # 🇪🇸
 
 def parse_options():
     parser = argparse.ArgumentParser()
@@ -108,13 +111,43 @@ CityGrids = {
     City.SQUAMISH:     CityGrid(-123.00275292414716, 49.872944599999016, -123.27484497585226, 49.63859249999908),
     City.CADIZ:        CityGrid(-6.2157077258520985, 36.54331932565229,  -6.32122728321167,   36.44340232630665),
     City.SEVILLE:      CityGrid(-5.883170845478531,  37.461184756279934, -6.027356115149104,  37.30844723005012),
-    City.GIBRALTAR:    CityGrid(-5.3294080533749195, 36.155189618243924, -5.372301431021356,  36.1090038077334)
+    City.GIBRALTAR:    CityGrid(-5.3294080533749195, 36.155189618243924, -5.372301431021356,  36.1090038077334),
+    City.TARIFA:       CityGrid(-5.589701126793301,   36.034916173782904, -5.619875614059367,  36.00237863180827)
 }
 
+
 def get_city_from_user():
-    print("Choose a city:")
-    for i, c in enumerate(City):
-        print(f"{i + 1}. {enum_to_cityname(c)}")
+    # Get the terminal width
+    terminal_size = shutil.get_terminal_size((80, 20))  # Default size if terminal size can't be determined
+    max_width = terminal_size.columns
+
+    # List of city names (replace this with actual enum or data)
+    cities = [enum_to_cityname(c) for c in City]
+
+    # Estimate the maximum width per column, including some spacing
+    max_city_name_length = max(len(city) for city in cities) + 7  # Adjust for city name + index length
+    num_columns = max(1, max_width // max_city_name_length)
+
+    # Calculate the number of rows needed to display all cities in the desired number of columns
+    num_rows = ceil(len(cities) / num_columns)
+
+    # Fill in the cities row-wise
+    table = []
+    for i in range(num_rows):
+        row = []
+        for j in range(num_columns):
+            idx = i + j * num_rows
+            if idx < len(cities):
+                row.append(f"{idx + 1}. {cities[idx]}")
+            else:
+                row.append("")  # Empty string for balancing the table
+        table.append(row)
+
+    # Print the table
+    for row in table:
+        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
+
+
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]

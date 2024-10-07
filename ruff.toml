@@ -1,4 +1,4 @@
-select = ["E", "F", "B", "W"]
+select = ["E", "F", "B", "W", "ERA", "RET", "UP", "I", "N", "Q"]
 
 ignore = [
     "E501", # Never enforce `E501` (line length violations).

@@ -1,32 +1,36 @@
 #! /usr/bin/env python3
 
-import requests
-from enum import Enum
-import sys
 import argparse
-from pathlib import Path
-from dataclasses import dataclass, fields, asdict
-from typing import Dict
 import json
-from ast import literal_eval
-import pandas as pd
-from concurrent.futures import ThreadPoolExecutor
-from functools import partial
-from tqdm import tqdm
-import time
 import shutil
+import sys
+import time
+from ast import literal_eval
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import asdict, dataclass, fields
+from enum import Enum
+from functools import partial
 from math import ceil
+from pathlib import Path
+from typing import Dict
+
+import pandas as pd
+import requests
+from tqdm import tqdm
 
 NODES_FILE = Path(__file__).parent / "nodes.csv"
+
 
 @dataclass
 class Node:
     lat: float
     lon: float
     sz: int = 2
-    names: str = ''
-    len_cat: str = 'a'
+    names: str = ""
+    len_cat: str = "a"
 
+
+# fmt: off
 class City(str, Enum):
     ALL_TORONTO  = 131268 # 🇨🇦
     OLD_TORONTO  = 38121  # 🇨🇦
@@ -49,27 +53,35 @@ class City(str, Enum):
     VANCOUVER    = 37612  # 🇨🇦
     BURNABY      = 37754  # 🇨🇦
     SQUAMISH     = 38119  # 🇨🇦
-    CADIZ        = 115116 # 🇪🇸 
+    CADIZ        = 115116 # 🇪🇸
     SEVILLE      = 110445 # 🇪🇸
     GIBRALTAR    = 216411 # 🇬🇮
     TARIFA       = 115036 # 🇪🇸
+# fmt: on
+
 
 def parse_options():
     parser = argparse.ArgumentParser()
-    parser.add_argument('cookies_path', type=Path, help='path to cookie')
+    parser.add_argument("cookies_path", type=Path, help="path to cookie")
     return parser.parse_args()
+
 
 def parse_nodes(r: str):
     nodes = []
     for node in literal_eval(r):
-        nodes.append(Node(lat=node[0], lon=node[1], names=f'{node[3]} ({str(node[2])[-3:]})'))
+        nodes.append(
+            Node(lat=node[0], lon=node[1], names=f"{node[3]} ({str(node[2])[-3:]})")
+        )
     return nodes
 
+
 def enum_to_cityname(city: City):
-    return city.name.title().replace('_', ' ')
+    return city.name.title().replace("_", " ")
+
 
 def filename(city: City):
     return city.name.lower()
+
 
 @dataclass
 class CityGrid:
@@ -87,6 +99,8 @@ class CityGrid:
     def __hash__(self):
         return hash((self.nelng, self.nelat, self.swlng, self.swlat))
 
+
+# fmt: off
 CityGrids = {
     City.YORK:         CityGrid(-79.3829, 43.7206, -79.5560, 43.6424),
     City.WROCLAW:      CityGrid(17.078224311098552, 51.13988879756559,  17.00226573206399,  51.09263199227115 ),
@@ -114,40 +128,28 @@ CityGrids = {
     City.GIBRALTAR:    CityGrid(-5.3294080533749195, 36.155189618243924, -5.372301431021356,  36.1090038077334),
     City.TARIFA:       CityGrid(-5.589701126793301,   36.034916173782904, -5.619875614059367,  36.00237863180827)
 }
+# fmt: on
 
 
 def get_city_from_user():
-    # Get the terminal width
-    terminal_size = shutil.get_terminal_size((80, 20))  # Default size if terminal size can't be determined
+    terminal_size = shutil.get_terminal_size((80, 20))
     max_width = terminal_size.columns
-
-    # List of city names (replace this with actual enum or data)
     cities = [enum_to_cityname(c) for c in City]
-
-    # Estimate the maximum width per column, including some spacing
-    max_city_name_length = max(len(city) for city in cities) + 7  # Adjust for city name + index length
+    max_city_name_length = max(len(city) for city in cities) + 7
     num_columns = max(1, max_width // max_city_name_length)
-
-    # Calculate the number of rows needed to display all cities in the desired number of columns
     num_rows = ceil(len(cities) / num_columns)
 
-    # Fill in the cities row-wise
     table = []
     for i in range(num_rows):
         row = []
         for j in range(num_columns):
             idx = i + j * num_rows
-            if idx < len(cities):
-                row.append(f"{idx + 1}. {cities[idx]}")
-            else:
-                row.append("")  # Empty string for balancing the table
+            to_add = f"{idx + 1}. {cities[idx]}" if idx < len(cities) else ""
+            row.append(to_add)
         table.append(row)
 
-    # Print the table
     for row in table:
         print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
-
-
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]
@@ -159,7 +161,7 @@ def get_city_from_user():
 
 
 def citygrid_to_str(g: CityGrid) -> Dict[str, str]:
-    return {k:str(v) for k, v in asdict(g).items()}
+    return {k: str(v) for k, v in asdict(g).items()}
 
 
 def make_grid_steps(grid: CityGrid, delta: float):
@@ -181,9 +183,7 @@ def download_nodes_of_coordinates(city, coordinates, cache):
         return []
     params = {"city": city.value, **citygrid_to_str(coordinates)}
     response = requests.get(
-        "https://citystrides.com/nodes.json",
-        params=params,
-        cookies=cookies
+        "https://citystrides.com/nodes.json", params=params, cookies=cookies
     )
 
     try:
@@ -197,6 +197,7 @@ def download_nodes_of_coordinates(city, coordinates, cache):
         time.sleep(1)
         return download_nodes_of_coordinates(city, coordinates, cache)
 
+
 def download_nodes_of_city(city: City):
     grid = CityGrids[city]
 
@@ -205,18 +206,23 @@ def download_nodes_of_city(city: City):
     cache_file = Path(__file__).parent / f"./cache/{filename(city)}.csv"
     cache_file.touch()
 
-    with open(cache_file, "r") as f:
+    with open(cache_file) as f:
         for line in f.read().splitlines():
-            cache.add(CityGrid(*line.strip().split(',')))
+            cache.add(CityGrid(*line.strip().split(",")))
 
+    # fmt: off
     delta = 0.012
     if city == City.VENICE:  delta = 0.004
     if city == City.MEAFORD: delta = 0.02
     if city == City.BANGKOK: delta = 0.006
+    # fmt: on
 
     with ThreadPoolExecutor(max_workers=12) as executor:  # Adjust max_workers as needed
         download_func = partial(download_nodes_of_coordinates, city, cache=cache)
-        futures = [executor.submit(download_func, coordinates) for coordinates in make_grid_steps(grid, delta)]
+        futures = [
+            executor.submit(download_func, coordinates)
+            for coordinates in make_grid_steps(grid, delta)
+        ]
 
         with tqdm(total=len(futures), desc="Downloading Nodes") as pbar:
             for future in futures:
@@ -227,9 +233,9 @@ def download_nodes_of_city(city: City):
     return nodes, cache, cache_file
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     args = parse_options()
-    with open(args.cookies_path, 'r') as f:
+    with open(args.cookies_path) as f:
         cookies = json.load(f)
 
     city = get_city_from_user()

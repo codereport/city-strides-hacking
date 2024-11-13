@@ -9,6 +9,13 @@ Bangkok: กรุงเทพมหานคร
 Nha Trang: Thành phố Nha Trang
 ```
 
+Note if you get multiple city hits (i.e. many for Hamilton), you can refine your search with info from https://www.openstreetmap.org, such as using `offical_name` or adding `admin_level`, example below.
+
+```
+[out:json];
+area[official_name = "City of Hamilton"]["admin_level"="6"];
+```
+
 ```
 [out:json];
 area[name = "Prince George"];

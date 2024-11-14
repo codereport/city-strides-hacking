@@ -59,6 +59,7 @@ class City(str, Enum):
     TARIFA       = 115036 # 🇪🇸
     AMSTERDAM    = 97421  # 🇳🇱
     BREDA        = 95743  # 🇳🇱
+    HAMILTON     = 132379 # 🇨🇦
 # fmt: on
 
 
@@ -130,7 +131,8 @@ CityGrids = {
     City.GIBRALTAR:    CityGrid(-5.3294080533749195, 36.155189618243924, -5.372301431021356,  36.1090038077334),
     City.TARIFA:       CityGrid(-5.589701126793301,  36.034916173782904, -5.619875614059367,  36.00237863180827),
     City.AMSTERDAM:    CityGrid(4.987117281815472,   52.44980292925038,   4.807865173264588,  52.30391661971481),
-    City.BREDA:        CityGrid(4.859945675727062,   51.64319800000035,   4.669720224275039,  51.485548200000665)
+    City.BREDA:        CityGrid(4.859945675727062,   51.64319800000035,   4.669720224275039,  51.485548200000665),
+    City.HAMILTON:     CityGrid(-79.57586910948109,  43.4981101475974,   -80.28768504749316,  43.02415307269649)
 }
 # fmt: on
 
@@ -198,7 +200,7 @@ def download_nodes_of_coordinates(city, coordinates, cache):
             print(len(lat_lons))
         return lat_lons
     except Exception:
-        time.sleep(1)
+        time.sleep(10)
         return download_nodes_of_coordinates(city, coordinates, cache)
 
 

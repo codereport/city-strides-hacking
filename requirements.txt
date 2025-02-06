@@ -1,4 +1,6 @@
 pandas
 requests
 plotly
-
+geopy
+pyyaml
+tqdm

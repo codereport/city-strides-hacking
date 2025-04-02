@@ -16,6 +16,14 @@ Note if you get multiple city hits (i.e. many for Hamilton), you can refine your
 area[official_name = "City of Hamilton"]["admin_level"="6"];
 ```
 
+Or an even better way is to get the relation id from https://www.openstreetmap.org and use that in the query below.
+
+```
+[out:json];
+rel(112145);
+map_to_area;
+```
+
 ```
 [out:json];
 area[name = "Prince George"];

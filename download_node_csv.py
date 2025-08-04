@@ -69,6 +69,7 @@ class City(str, Enum):
     KYOTO        = 86675  # 🇯🇵
     HIROSHIMA    = 88900  # 🇯🇵
     MIDLAND      = 38950  # 🇨🇦
+    GRAVENHURST  = 38911  # 🇨🇦
 # fmt: on
 
 
@@ -82,9 +83,8 @@ def parse_nodes(r: str):
     nodes = []
     for node in literal_eval(r):
         nodes.append(
-            Node(lat=node[0],
-                 lon=node[1],
-                 names=f"{node[3]} ({str(node[2])[-3:]})"))
+            Node(lat=node[0], lon=node[1], names=f"{node[3]} ({str(node[2])[-3:]})")
+        )
     return nodes
 
 
@@ -152,6 +152,7 @@ CityGrids = {
     City.KYOTO:        CityGrid(135.87139975892916, 35.0922704545566, 135.60905189575635, 34.86600122511402),
     City.HIROSHIMA:    CityGrid(132.5776755786111, 34.495663440816756, 132.34632233314363, 34.294713844366186),
     City.MIDLAND:      CityGrid(-79.81294917205652, 44.80296510000011, -79.94869932794363, 44.70148789999999),
+    City.GRAVENHURST:  CityGrid(-79.09692823367787, 45.04850762481331, -79.51196302783767, 44.70501592785783),
 }
 # fmt: on
 
@@ -174,8 +175,7 @@ def get_city_from_user():
         table.append(row)
 
     for row in table:
-        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row
-                        if cell))
+        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]
@@ -208,9 +208,9 @@ def download_nodes_of_coordinates(city, coordinates, cache):
     if coordinates in cache:
         return []
     params = {"city": city.value, **citygrid_to_str(coordinates)}
-    response = requests.get("https://citystrides.com/nodes.json",
-                            params=params,
-                            cookies=cookies)
+    response = requests.get(
+        "https://citystrides.com/nodes.json", params=params, cookies=cookies
+    )
 
     try:
         lat_lons = parse_nodes(response.text)
@@ -243,11 +243,8 @@ def download_nodes_of_city(city: City):
     if city == City.BANGKOK: delta = 0.006
     # fmt: on
 
-    with ThreadPoolExecutor(
-            max_workers=12) as executor:  # Adjust max_workers as needed
-        download_func = partial(download_nodes_of_coordinates,
-                                city,
-                                cache=cache)
+    with ThreadPoolExecutor(max_workers=12) as executor:  # Adjust max_workers as needed
+        download_func = partial(download_nodes_of_coordinates, city, cache=cache)
         futures = [
             executor.submit(download_func, coordinates)
             for coordinates in make_grid_steps(grid, delta)

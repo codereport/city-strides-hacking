@@ -56,8 +56,22 @@ config = {
     },
 }
 
-# Generate HTML with custom styling
+# Generate HTML with custom styling and include original data for filtering
 html_content = fig.to_html(include_plotlyjs="cdn", config=config, div_id="heat-map-div")
+
+# Store original data for filtering
+original_data_script = f"""
+<script>
+// Store original data for filtering
+window.originalData = {{
+    lat: {cities["lat"].tolist()},
+    lon: {cities["lon"].tolist()},
+    sz: {cities["sz"].tolist()},
+    names: {cities["names"].tolist()},
+    len_cat: {cities["len_cat"].tolist()}
+}};
+</script>
+"""
 
 # Add custom CSS for better responsive behavior
 custom_css = """
@@ -147,17 +161,60 @@ custom_css = """
             }, { passive: false });
         }
     });
+    
+    // Filter function for maximum street length
+    function filterByLength() {
+        var maxLength = parseFloat(document.getElementById('maxLengthFilter').value);
+        var filteredData = {
+            lat: [],
+            lon: [],
+            marker: {
+                size: [],
+                color: []
+            },
+            hovertext: []
+        };
+        
+        // Filter data based on maximum length
+        for (let i = 0; i < window.originalData.lat.length; i++) {
+            if (window.originalData.len_cat[i] <= maxLength) {
+                filteredData.lat.push(window.originalData.lat[i]);
+                filteredData.lon.push(window.originalData.lon[i]);
+                filteredData.marker.size.push(window.originalData.sz[i]);
+                filteredData.marker.color.push(window.originalData.len_cat[i]);
+                filteredData.hovertext.push(window.originalData.names[i]);
+            }
+        }
+        
+        // Update the plot
+        var plotDiv = document.getElementById('heat-map-div');
+        Plotly.restyle(plotDiv, {
+            'lat': [filteredData.lat],
+            'lon': [filteredData.lon],
+            'marker.size': [filteredData.marker.size],
+            'marker.color': [filteredData.marker.color],
+            'hovertext': [filteredData.hovertext]
+        }, 0);
+    }
 </script>
 """
 
-# Insert custom CSS and info before closing head tag
-html_content = html_content.replace("</head>", custom_css + "\n</head>")
+# Insert custom CSS and original data script before closing head tag
+html_content = html_content.replace("</head>", custom_css + original_data_script + "\n</head>")
 
 # Add helpful controls info after body tag
 controls_info = """
 <div class="controls-info">
     <strong>🗺️ Interactive Heat Map Controls</strong><br>
-    🖱️ Click & drag to pan • 🔍 Scroll to zoom • 📱 Double-click to reset • 🛠️ Use toolbar for tools
+    🖱️ Click & drag to pan • 🔍 Scroll to zoom • 📱 Double-click to reset • 🛠️ Use toolbar for tools<br>
+    <div style="margin-top: 8px;">
+        <label for="maxLengthFilter" style="margin-right: 8px;"><strong>Max Street Length:</strong></label>
+        <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc;">
+            <option value="0.5">0.5 km</option>
+            <option value="1" selected>1.0 km</option>
+            <option value="2">2.0 km</option>
+        </select>
+    </div>
 </div>
 """
 

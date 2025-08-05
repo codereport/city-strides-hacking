@@ -13,8 +13,8 @@
         border-radius: 8px;
         background-color: white;
         box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        height: 85vh !important;
-        max-height: 800px !important;
+        height: 100vh !important;
+        max-height: 860px !important;
         min-height: 500px !important;
     }
     
@@ -138,16 +138,12 @@ window.originalData = {
 <body>
 
 <div class="controls-info">
-    <strong>🗺️ Interactive Heat Map Controls</strong><br>
-    🖱️ Click & drag to pan • 🔍 Scroll to zoom • 📱 Double-click to reset • 🛠️ Use toolbar for tools<br>
-    <div style="margin-top: 8px;">
-        <label for="maxLengthFilter" style="margin-right: 8px;"><strong>Max Street Length:</strong></label>
-        <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc;">
-            <option value="0.5">0.5 km</option>
-            <option value="1" selected>1.0 km</option>
-            <option value="2">2.0 km</option>
-        </select>
-    </div>
+    <strong>🗺️ Interactive Heat Map Controls</strong> | <strong>Max Street Length:</strong> 
+    <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc; margin-left: 8px;">
+        <option value="0.5">0.5 km</option>
+        <option value="1" selected>1.0 km</option>
+        <option value="2">2.0 km</option>
+    </select>
 </div>
 
     <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>

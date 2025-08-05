@@ -88,8 +88,8 @@ custom_css = """
         border-radius: 8px;
         background-color: white;
         box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        height: 85vh !important;
-        max-height: 800px !important;
+        height: 100vh !important;
+        max-height: 860px !important;
         min-height: 500px !important;
     }
     
@@ -200,21 +200,19 @@ custom_css = """
 """
 
 # Insert custom CSS and original data script before closing head tag
-html_content = html_content.replace("</head>", custom_css + original_data_script + "\n</head>")
+html_content = html_content.replace(
+    "</head>", custom_css + original_data_script + "\n</head>"
+)
 
 # Add helpful controls info after body tag
 controls_info = """
 <div class="controls-info">
-    <strong>🗺️ Interactive Heat Map Controls</strong><br>
-    🖱️ Click & drag to pan • 🔍 Scroll to zoom • 📱 Double-click to reset • 🛠️ Use toolbar for tools<br>
-    <div style="margin-top: 8px;">
-        <label for="maxLengthFilter" style="margin-right: 8px;"><strong>Max Street Length:</strong></label>
-        <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc;">
-            <option value="0.5">0.5 km</option>
-            <option value="1" selected>1.0 km</option>
-            <option value="2">2.0 km</option>
-        </select>
-    </div>
+    <strong>🗺️ Interactive Heat Map Controls</strong> | Max Street Length:
+    <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc; margin-left: 8px;">
+        <option value="0.5">0.5 km</option>
+        <option value="1" selected>1.0 km</option>
+        <option value="2">2.0 km</option>
+    </select>
 </div>
 """
 

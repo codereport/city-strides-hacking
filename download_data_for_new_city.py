@@ -4,17 +4,48 @@ import argparse
 import json
 import os
 import requests
+import shutil
 import sys
 from pathlib import Path
 from urllib.parse import quote
 
 
-def find_osm_relation(city_name):
+# City name aliases mapping - maps common names to their official City Strides names
+# Add aliases manually as needed
+CITY_ALIASES = {
+    "aarhus": "aarhus_kommune",
+    "copenhagen": "københavns_kommune",
+}
+
+
+def find_city_alias(user_input):
+    """
+    Try to find the official city name for a user input.
+    Returns tuple of (official_name, display_name) or (None, None) if not found.
+    """
+    normalized_input = user_input.lower().replace(" ", "_").replace("-", "_")
+
+    # Check direct alias mapping
+    if normalized_input in CITY_ALIASES:
+        official_name = CITY_ALIASES[normalized_input]
+        print(f"Found alias mapping: '{user_input}' -> '{official_name}'")
+        return official_name, user_input
+
+    # No alias found, return None
+    return None, None
+
+
+def find_osm_relation(city_name, original_name=None):
     """
     Search for a city on OpenStreetMap using Nominatim API.
     Returns a list of potential matches with their relation IDs.
+
+    Args:
+        city_name: The city name to search for
+        original_name: The original user input (for display purposes)
     """
-    print(f"Searching for '{city_name}' on OpenStreetMap...")
+    display_name = original_name if original_name else city_name
+    print(f"Searching for '{display_name}' on OpenStreetMap...")
 
     # Use Nominatim API to search for the city
     nominatim_url = "https://nominatim.openstreetmap.org/search"
@@ -143,14 +174,18 @@ def fetch_overpass_data(query):
         return None
 
 
-def save_city_data(city_name, data):
+def save_city_data(city_name, data, original_name=None):
     """
     Save the fetched data to the data directory.
+    Uses original_name for filename if provided, otherwise uses city_name.
     """
     data_dir = Path(__file__).parent / "data"
     data_dir.mkdir(exist_ok=True)
 
-    output_file = data_dir / f"{city_name}.json"
+    # Use original name for filename if provided, otherwise use city_name
+    filename = original_name if original_name else city_name
+    filename = filename.lower().replace(" ", "_").replace("-", "_")
+    output_file = data_dir / f"{filename}.json"
 
     try:
         with open(output_file, "w") as f:
@@ -182,24 +217,84 @@ def main():
 
     args = parser.parse_args()
 
-    # Normalize city name (lowercase, replace spaces with underscores)
-    city_name = args.city_name.lower().replace(" ", "_").replace("-", "_")
+    # Try to find alias for the city name
+    official_city_name, user_city_name = find_city_alias(args.city_name)
 
-    # Check if data already exists
-    data_file = Path(__file__).parent / "data" / f"{city_name}.json"
+    # Normalize the user input for filename
+    normalized_user_input = args.city_name.lower().replace(" ", "_").replace("-", "_")
+
+    # Determine which name to use for search and which for filename
+    if official_city_name:
+        # Found an alias or existing city
+        search_name = official_city_name
+        filename_base = normalized_user_input
+        print(
+            f"Using official name '{search_name}' for search, will save as '{filename_base}'"
+        )
+    else:
+        # No alias found, use original input
+        search_name = normalized_user_input
+        filename_base = normalized_user_input
+
+    # Check if data already exists (check both possible filenames)
+    data_file = Path(__file__).parent / "data" / f"{filename_base}.json"
+    alt_data_file = (
+        Path(__file__).parent / "data" / f"{search_name}.json"
+        if search_name != filename_base
+        else None
+    )
+
     if data_file.exists() and not args.force:
-        print(f"Data file for '{city_name}' already exists. Use --force to overwrite.")
-        print(f"To generate a heatmap, run: python3 create_heat_map.py {city_name}")
+        print(
+            f"Data file for '{filename_base}' already exists. Use --force to overwrite."
+        )
+        print(f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}")
+        return True
+    elif alt_data_file and alt_data_file.exists() and not data_file.exists():
+        # We have data with the official name but not the user's preferred name
+        # Copy the official data to the user's preferred filename
+        try:
+            shutil.copy2(alt_data_file, data_file)
+            print(
+                f"Found existing data for '{search_name}', copied to '{filename_base}.json'"
+            )
+            print(
+                f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}"
+            )
+            return True
+        except IOError as e:
+            print(f"Warning: Could not copy {alt_data_file} to {data_file}: {e}")
+            print(
+                f"Data exists as '{search_name}.json' but couldn't create '{filename_base}.json'"
+            )
+            print(
+                f"To generate a heatmap, run: python3 create_heat_map.py {search_name}"
+            )
+            return True
+    elif (
+        alt_data_file
+        and alt_data_file.exists()
+        and data_file.exists()
+        and not args.force
+    ):
+        print(
+            f"Data files for both '{filename_base}' and '{search_name}' already exist. Use --force to overwrite."
+        )
+        print(f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}")
         return True
 
     relation_id = args.relation_id
 
     # If no relation ID provided, search for the city
     if not relation_id:
-        city_results = find_osm_relation(args.city_name)
+        # Use the search name (official name if alias found) for the actual search
+        search_city_name = search_name if official_city_name else args.city_name
+        city_results = find_osm_relation(search_city_name, args.city_name)
 
         if not city_results:
             print(f"No administrative boundaries found for '{args.city_name}'")
+            if official_city_name:
+                print(f"(Searched using alias: '{search_city_name}')")
             print("Please provide a specific relation ID using --relation-id")
             return False
 
@@ -238,13 +333,16 @@ def main():
     if not data:
         return False
 
-    # Save data
-    if not save_city_data(city_name, data):
+    # Save data using the user's original input as filename
+    if not save_city_data(search_name, data, filename_base):
         return False
 
-    print(f"\n✓ Successfully downloaded data for {city_name}")
+    print(f"\n✓ Successfully downloaded data for {args.city_name}")
+    if official_city_name:
+        print(f"   (Used official name '{search_name}' for search)")
+    print(f"   Saved as: {filename_base}.json")
     print(f"Next steps:")
-    print(f"  1. Generate heatmap: python3 create_heat_map.py {city_name}")
+    print(f"  1. Generate heatmap: python3 create_heat_map.py {filename_base}")
     print(f"  2. Optionally add to download_node_csv.py for future processing")
 
     return True

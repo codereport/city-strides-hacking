@@ -273,9 +273,9 @@ if __name__ == "__main__":
     # Write to nodes.csv
     df = pd.DataFrame(nodes)
     # Sort by lat, lon for consistent ordering and round coordinates to 7 decimal places
-    df['lat'] = df['lat'].round(7)
-    df['lon'] = df['lon'].round(7)
-    df = df.sort_values(['lat', 'lon', 'names']).reset_index(drop=True)
+    df["lat"] = df["lat"].round(7)
+    df["lon"] = df["lon"].round(7)
+    df = df.sort_values(["lat", "lon", "names"]).reset_index(drop=True)
     df.to_csv(NODES_FILE, index=False)
 
     # Write to csnodes/<city>.csv

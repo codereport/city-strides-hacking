@@ -236,7 +236,8 @@ def download_nodes_of_city(city: City):
 
     with open(cache_file) as f:
         for line in f.read().splitlines():
-            cache.add(CityGrid(*line.strip().split(",")))
+            if line.strip():  # Skip empty lines
+                cache.add(CityGrid(*line.strip().split(",")))
 
     # fmt: off
     delta = 0.012
@@ -271,12 +272,19 @@ if __name__ == "__main__":
 
     # Write to nodes.csv
     df = pd.DataFrame(nodes)
-    df.to_csv(NODES_FILE, index=True)
+    # Sort by lat, lon for consistent ordering and round coordinates to 7 decimal places
+    df['lat'] = df['lat'].round(7)
+    df['lon'] = df['lon'].round(7)
+    df = df.sort_values(['lat', 'lon', 'names']).reset_index(drop=True)
+    df.to_csv(NODES_FILE, index=False)
 
     # Write to csnodes/<city>.csv
     csnodes_file = Path(__file__).parent / "csnodes" / f"{filename(city)}.csv"
-    df.to_csv(csnodes_file, index=True)
+    df.to_csv(csnodes_file, index=False)
 
     # Write to cache/<city>.csv
-    df = pd.DataFrame(cache)
-    df.to_csv(cache_file, index=False, header=False)
+    df_cache = pd.DataFrame(cache)
+    # Sort cache entries for consistent ordering
+    if not df_cache.empty:
+        df_cache = df_cache.sort_values(list(df_cache.columns)).reset_index(drop=True)
+    df_cache.to_csv(cache_file, index=False, header=False)

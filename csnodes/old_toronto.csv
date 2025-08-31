@@ -1,43 +1,43 @@
-,lat,lon,sz,names,len_cat
-0,43.7023338,-79.3966172,2,Tullis Drive (800),a
-1,43.7022955,-79.3965696,2,Tullis Drive (801),a
-2,43.7023338,-79.3966172,2,Tullis Drive (002),a
-3,43.7022955,-79.3965696,2,Tullis Drive (003),a
-4,43.6819744,-79.3134607,2,Aldergrove Avenue (230),a
-5,43.6819744,-79.3134607,2,Aldergrove Avenue (229),a
-6,43.6819213,-79.3502069,2,Thomas McClintock Lane (275),a
-7,43.6687767,-79.3076508,2,Inuksuk Lane (395),a
-8,43.6687767,-79.3076508,2,Dominic Parker Lane (290),a
-9,43.6696812,-79.3080298,2,Dominic Parker Lane (289),a
-10,43.6793257,-79.3492399,2,Thomas McClintock Lane (277),a
-11,43.6789749,-79.3491059,2,Thomas McClintock Lane (278),a
-12,43.6788684,-79.3490691,2,Thomas McClintock Lane (276),a
-13,43.6778107,-79.4281999,2,Robert Zend Lane (841),a
-14,43.6778107,-79.4281999,2,Robert Zend Lane (984),a
-15,43.6698187,-79.4490324,2,Foundry Avenue (964),a
-16,43.6712905,-79.4493945,2,Foundry Avenue (966),a
-17,43.6700718,-79.4491362,2,Foundry Avenue (962),a
-18,43.6697744,-79.449008,2,Foundry Avenue (965),a
-19,43.6696147,-79.4489287,2,Foundry Avenue (963),a
-20,43.6728936,-79.4621517,2,Ford Street (076),a
-21,43.6728936,-79.4621517,2,Ford Street (867),a
-22,43.6663328,-79.3033177,2,Andy Olvet Lane (285),a
-23,43.6661381,-79.4122448,2,Ryva Novick Lane (953),a
-24,43.6563711,-79.4136421,2,Morley Safer Lane (971),a
-25,43.6571624,-79.413963,2,Morley Safer Lane (830),a
-26,43.6571624,-79.413963,2,Morley Safer Lane (969),a
-27,43.6563711,-79.4136421,2,Morley Safer Lane (834),a
-28,43.6661381,-79.4122448,2,Ryva Novick Lane (820),a
-29,43.6563711,-79.4136421,2,Morley Safer Lane (832),a
-30,43.6563711,-79.4136421,2,Morley Safer Lane (973),a
-31,43.658948,-79.4263195,2,Billy Bryans Lane (262),a
-32,43.6575632,-79.4259076,2,Billy Bryans Lane (264),a
-33,43.6584062,-79.4262324,2,Billy Bryans Lane (263),a
-34,43.6588796,-79.4266714,2,Billy Bryans Lane (260),a
-35,43.6575729,-79.4259113,2,Billy Bryans Lane (266),a
-36,43.6589281,-79.4264221,2,Billy Bryans Lane (261),a
-37,43.6584062,-79.4262324,2,Billy Bryans Lane (268),a
-38,43.6589281,-79.4264221,2,Billy Bryans Lane (265),a
-39,43.6671759,-79.429754,2,Pura Vida Lane (220),a
-40,43.655867,-79.4134379,2,Morley Safer Lane (970),a
-41,43.655867,-79.4134379,2,Morley Safer Lane (831),a
+lat,lon,sz,names,len_cat
+43.655867,-79.4134379,2,Morley Safer Lane (831),a
+43.655867,-79.4134379,2,Morley Safer Lane (970),a
+43.6563711,-79.4136421,2,Morley Safer Lane (832),a
+43.6563711,-79.4136421,2,Morley Safer Lane (834),a
+43.6563711,-79.4136421,2,Morley Safer Lane (971),a
+43.6563711,-79.4136421,2,Morley Safer Lane (973),a
+43.6571624,-79.413963,2,Morley Safer Lane (830),a
+43.6571624,-79.413963,2,Morley Safer Lane (969),a
+43.6575632,-79.4259076,2,Billy Bryans Lane (264),a
+43.6575729,-79.4259113,2,Billy Bryans Lane (266),a
+43.6584062,-79.4262324,2,Billy Bryans Lane (263),a
+43.6584062,-79.4262324,2,Billy Bryans Lane (268),a
+43.6588796,-79.4266714,2,Billy Bryans Lane (260),a
+43.6589281,-79.4264221,2,Billy Bryans Lane (261),a
+43.6589281,-79.4264221,2,Billy Bryans Lane (265),a
+43.658948,-79.4263195,2,Billy Bryans Lane (262),a
+43.6661381,-79.4122448,2,Ryva Novick Lane (820),a
+43.6661381,-79.4122448,2,Ryva Novick Lane (953),a
+43.6663328,-79.3033177,2,Andy Olvet Lane (285),a
+43.6671759,-79.429754,2,Pura Vida Lane (220),a
+43.6687767,-79.3076508,2,Dominic Parker Lane (290),a
+43.6687767,-79.3076508,2,Inuksuk Lane (395),a
+43.6696147,-79.4489287,2,Foundry Avenue (963),a
+43.6696812,-79.3080298,2,Dominic Parker Lane (289),a
+43.6697744,-79.449008,2,Foundry Avenue (965),a
+43.6698187,-79.4490324,2,Foundry Avenue (964),a
+43.6700718,-79.4491362,2,Foundry Avenue (962),a
+43.6712905,-79.4493945,2,Foundry Avenue (966),a
+43.6728936,-79.4621517,2,Ford Street (076),a
+43.6728936,-79.4621517,2,Ford Street (867),a
+43.6778107,-79.4281999,2,Robert Zend Lane (841),a
+43.6778107,-79.4281999,2,Robert Zend Lane (984),a
+43.6788684,-79.3490691,2,Thomas McClintock Lane (276),a
+43.6789749,-79.3491059,2,Thomas McClintock Lane (278),a
+43.6793257,-79.3492399,2,Thomas McClintock Lane (277),a
+43.6819213,-79.3502069,2,Thomas McClintock Lane (275),a
+43.6819744,-79.3134607,2,Aldergrove Avenue (229),a
+43.6819744,-79.3134607,2,Aldergrove Avenue (230),a
+43.7022955,-79.3965696,2,Tullis Drive (003),a
+43.7022955,-79.3965696,2,Tullis Drive (801),a
+43.7023338,-79.3966172,2,Tullis Drive (002),a
+43.7023338,-79.3966172,2,Tullis Drive (800),a

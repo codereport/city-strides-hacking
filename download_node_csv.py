@@ -275,7 +275,8 @@ if __name__ == "__main__":
     # Sort by lat, lon for consistent ordering and round coordinates to 7 decimal places
     df["lat"] = df["lat"].round(7)
     df["lon"] = df["lon"].round(7)
-    df = df.sort_values(["lat", "lon", "names"]).reset_index(drop=True)
+    # Use stable sort with all columns for deterministic ordering
+    df = df.sort_values(["lat", "lon", "names", "sz", "len_cat"], kind='stable').reset_index(drop=True)
     df.to_csv(NODES_FILE, index=False)
 
     # Write to csnodes/<city>.csv
@@ -284,7 +285,7 @@ if __name__ == "__main__":
 
     # Write to cache/<city>.csv
     df_cache = pd.DataFrame(cache)
-    # Sort cache entries for consistent ordering
+    # Sort cache entries for consistent ordering using stable sort
     if not df_cache.empty:
-        df_cache = df_cache.sort_values(list(df_cache.columns)).reset_index(drop=True)
+        df_cache = df_cache.sort_values(list(df_cache.columns), kind='stable').reset_index(drop=True)
     df_cache.to_csv(cache_file, index=False, header=False)

@@ -11,6 +11,31 @@ import requests
 from tqdm import tqdm
 
 
+# City name aliases mapping - maps common names to their official City Strides names
+# Add aliases manually as needed
+CITY_ALIASES = {
+    "aarhus": "aarhus_kommune",
+    "copenhagen": "københavns_kommune",
+}
+
+
+def find_city_alias(user_input: str) -> Tuple[Optional[str], Optional[str]]:
+    """
+    Try to find the official city name for a user input.
+    Returns tuple of (official_name, display_name) or (None, None) if not found.
+    """
+    normalized_input = user_input.lower().replace(" ", "_").replace("-", "_")
+
+    # Check direct alias mapping
+    if normalized_input in CITY_ALIASES:
+        official_name = CITY_ALIASES[normalized_input]
+        print(f"Found alias mapping: '{user_input}' -> '{official_name}'")
+        return official_name, user_input
+
+    # No alias found, return None
+    return None, None
+
+
 def load_cookies() -> Dict[str, str]:
     """Load cookies from cookies.json file"""
     cookies_file = Path(__file__).parent / "cookies.json"
@@ -287,27 +312,36 @@ def main():
     # Load cookies for City Strides API calls
     cookies = load_cookies()
 
+    # Try to find alias for the city name
+    official_city_name, user_city_name = find_city_alias(args.city_name)
+    
+    # Determine which name to use for City Strides search
+    search_name = official_city_name if official_city_name else args.city_name
+    display_name = args.city_name  # Always use original input for display
+
     city_id = args.city_id
     bbox = None
 
     # Step 1: Try to find city on City Strides
     if not city_id:
-        result = search_city_on_citystrides(args.city_name, cookies)
+        result = search_city_on_citystrides(search_name, cookies)
         if result:
             city_id, bbox = result
 
     # Step 2: If not found on City Strides or no bbox, try Nominatim
     if not bbox:
-        nominatim_result = search_city_on_nominatim(args.city_name)
+        nominatim_result = search_city_on_nominatim(search_name)
         if nominatim_result:
             bbox = estimate_bbox_from_nominatim(nominatim_result)
             print(f"Using bounding box from Nominatim: {bbox}")
+            if official_city_name:
+                print(f"   (Used official name '{search_name}' for search)")
 
             # If we still don't have a city_id, we'll need to make an educated guess
             # or prompt the user to provide it
             if not city_id:
                 print(
-                    f"\nWarning: Could not automatically determine City Strides ID for '{args.city_name}'"
+                    f"\nWarning: Could not automatically determine City Strides ID for '{display_name}'"
                 )
                 print("You can find the city ID by:")
                 print("1. Going to citystrides.com")
@@ -325,25 +359,30 @@ def main():
         return False
 
     print(f"\nCity Information:")
-    print(f"  Name: {args.city_name}")
+    print(f"  Name: {display_name}")
+    if official_city_name:
+        print(f"  Official Name: {search_name}")
     print(f"  City ID: {city_id}")
     print(f"  Bounding Box: {bbox}")
 
-    # Step 3: Update download_node_csv.py
-    if not update_download_node_csv(args.city_name, city_id, bbox, args.force):
+    # Step 3: Update download_node_csv.py - use the search name (official name if available)
+    city_name_for_enum = search_name
+    if not update_download_node_csv(city_name_for_enum, city_id, bbox, args.force):
         return False
 
     print("\n" + "=" * 50)
-    print(f"✓ Successfully added {args.city_name} to the system!")
+    print(f"✓ Successfully added {display_name} to the system!")
+    if official_city_name:
+        print(f"   (Used official name '{search_name}' for City Strides integration)")
     print(f"\nNext steps:")
-    file_name = format_city_name_for_file(args.city_name)
+    file_name = format_city_name_for_file(display_name)
     print(
-        f'  1. Download OpenStreetMap data: python3 download_data_for_new_city.py "{args.city_name}"'
+        f'  1. Download OpenStreetMap data: python3 download_data_for_new_city.py "{display_name}"'
     )
     print(
         f"  2. Download City Strides nodes: python3 download_node_csv.py cookies.json"
     )
-    print(f"     (Select {format_city_name_for_enum(args.city_name)} from the list)")
+    print(f"     (Select {format_city_name_for_enum(city_name_for_enum)} from the list)")
     print(f"  3. Generate heat map: python3 create_heat_map.py {file_name}")
 
     return True

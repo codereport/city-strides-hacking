@@ -71,6 +71,7 @@ class City(str, Enum):
     MIDLAND      = 38950  # 🇨🇦
     GRAVENHURST  = 38911  # 🇨🇦
     PENETANGUISHENE = 38946  # 🇨🇦
+    AARHUS_KOMMUNE = 48154  # 🇩🇰
 # fmt: on
 
 
@@ -84,8 +85,9 @@ def parse_nodes(r: str):
     nodes = []
     for node in literal_eval(r):
         nodes.append(
-            Node(lat=node[0], lon=node[1], names=f"{node[3]} ({str(node[2])[-3:]})")
-        )
+            Node(lat=node[0],
+                 lon=node[1],
+                 names=f"{node[3]} ({str(node[2])[-3:]})"))
     return nodes
 
 
@@ -155,6 +157,7 @@ CityGrids = {
     City.MIDLAND:      CityGrid(-79.81294917205652, 44.80296510000011, -79.94869932794363, 44.70148789999999),
     City.GRAVENHURST:  CityGrid(-79.09692823367787, 45.04850762481331, -79.51196302783767, 44.70501592785783),
     City.PENETANGUISHENE: CityGrid(-79.8420437, 44.829947, -79.9598692, 44.7524894),
+    City.AARHUS_KOMMUNE: CityGrid(10.389087, 56.3304744, 9.9485638, 55.9957249),
 }
 # fmt: on
 
@@ -177,7 +180,8 @@ def get_city_from_user():
         table.append(row)
 
     for row in table:
-        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
+        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row
+                        if cell))
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]
@@ -210,9 +214,9 @@ def download_nodes_of_coordinates(city, coordinates, cache):
     if coordinates in cache:
         return []
     params = {"city": city.value, **citygrid_to_str(coordinates)}
-    response = requests.get(
-        "https://citystrides.com/nodes.json", params=params, cookies=cookies
-    )
+    response = requests.get("https://citystrides.com/nodes.json",
+                            params=params,
+                            cookies=cookies)
 
     try:
         lat_lons = parse_nodes(response.text)
@@ -221,7 +225,12 @@ def download_nodes_of_coordinates(city, coordinates, cache):
         elif len(lat_lons) > 1000:
             print(len(lat_lons))
         return lat_lons
-    except Exception:
+    except Exception as e:
+        # Only print debug info if we have authentication issues or parsing errors
+        if response.status_code != 200 or "error" in response.text.lower():
+            print(f"Error parsing nodes: {e}")
+            print(f"Response status: {response.status_code}")
+            print(f"Response text: {response.text[:500]}")
         time.sleep(10)
         return download_nodes_of_coordinates(city, coordinates, cache)
 
@@ -246,8 +255,11 @@ def download_nodes_of_city(city: City):
     if city == City.BANGKOK: delta = 0.006
     # fmt: on
 
-    with ThreadPoolExecutor(max_workers=12) as executor:  # Adjust max_workers as needed
-        download_func = partial(download_nodes_of_coordinates, city, cache=cache)
+    with ThreadPoolExecutor(
+            max_workers=12) as executor:  # Adjust max_workers as needed
+        download_func = partial(download_nodes_of_coordinates,
+                                city,
+                                cache=cache)
         futures = [
             executor.submit(download_func, coordinates)
             for coordinates in make_grid_steps(grid, delta)
@@ -271,12 +283,29 @@ if __name__ == "__main__":
     nodes, cache, cache_file = download_nodes_of_city(city)
 
     # Write to nodes.csv
+    print(f"Downloaded {len(nodes)} nodes")
+
+    if not nodes:
+        print("ERROR: No nodes were downloaded!")
+        print("This could be due to:")
+        print(
+            "1. Incorrect city ID - check citystrides.com for the correct ID")
+        print("2. Authentication issues with cookies.json")
+        print("3. Incorrect bounding box coordinates")
+        print("4. City not available on City Strides")
+        print(f"\nFor {city.name}, please verify:")
+        print(f"- City ID: {city.value}")
+        print(f"- Bounding box: {CityGrids[city]}")
+        sys.exit(1)
+
     df = pd.DataFrame(nodes)
+
     # Sort by lat, lon for consistent ordering and round coordinates to 7 decimal places
     df["lat"] = df["lat"].round(7)
     df["lon"] = df["lon"].round(7)
     # Use stable sort with all columns for deterministic ordering
-    df = df.sort_values(["lat", "lon", "names", "sz", "len_cat"], kind='stable').reset_index(drop=True)
+    df = df.sort_values(["lat", "lon", "names", "sz", "len_cat"],
+                        kind='stable').reset_index(drop=True)
     df.to_csv(NODES_FILE, index=False)
 
     # Write to csnodes/<city>.csv
@@ -287,5 +316,6 @@ if __name__ == "__main__":
     df_cache = pd.DataFrame(cache)
     # Sort cache entries for consistent ordering using stable sort
     if not df_cache.empty:
-        df_cache = df_cache.sort_values(list(df_cache.columns), kind='stable').reset_index(drop=True)
+        df_cache = df_cache.sort_values(list(df_cache.columns),
+                                        kind='stable').reset_index(drop=True)
     df_cache.to_csv(cache_file, index=False, header=False)

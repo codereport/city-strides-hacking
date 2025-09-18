@@ -28,12 +28,15 @@ def process_city_data(city_name):
     lengths = {}
     for s, n in streets.items():
         tl = utils.total_distance_of_paths(n, nodes)
-        print(f"  {s}, Number of nodes: {len(set(chain(*n)))}, Length: {round(tl, 3)}")
+        print(
+            f"  {s}, Number of nodes: {len(set(chain(*n)))}, Length: {round(tl, 3)}"
+        )
         for node in set(chain(*n)):
             lengths[node] = tl
 
     print(f"  # of Streets: {len(streets)}")
-    print(f"  # of Nodes From Streets: {sum(len(s) for s in streets.values())}")
+    print(
+        f"  # of Nodes From Streets: {sum(len(s) for s in streets.values())}")
     print(
         f"  # of Nodes From Query: {len([e for e in obj['elements'] if e['type'] == 'node'])}"
     )
@@ -41,10 +44,20 @@ def process_city_data(city_name):
     # Determine which nodes to include (same logic as generate_heat_map.py)
     nodes_to_include = []
 
+    # Try different naming patterns for csnodes file
     csnodes_file = Path(__file__).parent / "csnodes" / f"{city_name}.csv"
+    if not csnodes_file.exists():
+        # Try with _kommune suffix (for cities like aarhus)
+        csnodes_file = Path(
+            __file__).parent / "csnodes" / f"{city_name}_kommune.csv"
+
     remove_nodes = os.path.exists(csnodes_file)
     if remove_nodes:
         points_done = utils.load_completed_csnodes(csnodes_file)
+        print(f"  ✓ Found csnodes file: {csnodes_file}")
+        print(f"  ✓ Loaded {len(points_done)} completed csnode groups")
+    else:
+        print(f"  ℹ No csnodes file found for {city_name}")
 
     max_len = utils.load_parameters()["heat_map_max_length"]
     exclude_csnodes = utils.load_parameters()["heat_map_exclude_csnodes"]
@@ -55,21 +68,16 @@ def process_city_data(city_name):
             if id in lengths:  # Only include nodes that are part of streets
                 l = lengths[id]
                 point = (float(e["lat"]), float(e["lon"]))
-                if (l < max_len) and (
-                    not remove_nodes
-                    or not exclude_csnodes
-                    or points_done
-                    and utils.is_close(points_done, point, 0.01)
-                ):
-                    nodes_to_include.append(
-                        [
-                            float(e["lat"]),
-                            float(e["lon"]),
-                            2,
-                            f'"Name: {id} ({city_name})"',
-                            l,
-                        ]
-                    )
+                if (l < max_len) and (not remove_nodes or not exclude_csnodes
+                                      or points_done and utils.is_close(
+                                          points_done, point, 0.01)):
+                    nodes_to_include.append([
+                        float(e["lat"]),
+                        float(e["lon"]),
+                        2,
+                        f'"Name: {id} ({city_name})"',
+                        l,
+                    ])
 
     print(f"  ✓ Included {len(nodes_to_include)} nodes from {city_name}")
     return nodes_to_include
@@ -96,9 +104,10 @@ def generate_fused_heat_map(cities):
 def run_script(script_name):
     """Run a Python script and handle errors"""
     try:
-        result = subprocess.run(
-            [sys.executable, script_name], capture_output=True, text=True, check=True
-        )
+        result = subprocess.run([sys.executable, script_name],
+                                capture_output=True,
+                                text=True,
+                                check=True)
         print(f"✓ Successfully ran {script_name}")
         return True
     except subprocess.CalledProcessError as e:
@@ -135,8 +144,7 @@ def move_heat_map(cities):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Create a fused heat map for multiple cities"
-    )
+        description="Create a fused heat map for multiple cities")
     parser.add_argument(
         "cities",
         nargs="+",
@@ -157,7 +165,9 @@ def main():
             missing_cities.append(city)
 
     if missing_cities:
-        print(f"✗ Error: Missing data files for cities: {', '.join(missing_cities)}")
+        print(
+            f"✗ Error: Missing data files for cities: {', '.join(missing_cities)}"
+        )
         sys.exit(1)
 
     # Step 1: Generate fused heat map data (replaces generate_heat_map.py)

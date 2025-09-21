@@ -10,6 +10,22 @@ from itertools import chain
 from tqdm import tqdm
 import utils
 
+# City name aliases mapping - maps common names to their official City Strides names
+# Keep this in sync with add_new_city.py
+CITY_ALIASES = {
+    "aarhus": "aarhus_kommune",
+    "copenhagen": "københavns_kommune",
+}
+
+
+def resolve_city_name(user_input: str) -> str:
+    """
+    Resolve a user input city name to the official name used for files.
+    Returns the official name if an alias exists, otherwise returns the input unchanged.
+    """
+    normalized_input = user_input.lower().replace(" ", "_").replace("-", "_")
+    return CITY_ALIASES.get(normalized_input, user_input)
+
 
 def process_city_data(city_name):
     """Process data for a single city and return nodes to include in heat map"""
@@ -44,12 +60,19 @@ def process_city_data(city_name):
     # Determine which nodes to include (same logic as generate_heat_map.py)
     nodes_to_include = []
 
+    # Resolve city name to handle aliases (e.g., copenhagen -> københavns_kommune)
+    official_city_name = resolve_city_name(city_name)
+
     # Try different naming patterns for csnodes file
-    csnodes_file = Path(__file__).parent / "csnodes" / f"{city_name}.csv"
+    csnodes_file = Path(
+        __file__).parent / "csnodes" / f"{official_city_name}.csv"
     if not csnodes_file.exists():
-        # Try with _kommune suffix (for cities like aarhus)
-        csnodes_file = Path(
-            __file__).parent / "csnodes" / f"{city_name}_kommune.csv"
+        # Try with the original city name if official name didn't work
+        csnodes_file = Path(__file__).parent / "csnodes" / f"{city_name}.csv"
+        if not csnodes_file.exists():
+            # Try with _kommune suffix (for cities like aarhus)
+            csnodes_file = Path(
+                __file__).parent / "csnodes" / f"{city_name}_kommune.csv"
 
     remove_nodes = os.path.exists(csnodes_file)
     if remove_nodes:

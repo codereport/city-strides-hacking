@@ -74,6 +74,7 @@ class City(str, Enum):
     AARHUS_KOMMUNE = 48154  # 🇩🇰
     KØBENHAVNS_KOMMUNE = 44104  # 🌍
     KONGSBERG    = 96374  # 🌍
+    ULLENSAKER   = 95510  # 🌍
 # fmt: on
 
 
@@ -162,6 +163,7 @@ CityGrids = {
     City.AARHUS_KOMMUNE: CityGrid(10.389087, 56.3304744, 9.9485638, 55.9957249),
     City.KØBENHAVNS_KOMMUNE:CityGrid(12.7342464, 55.7327115, 12.4529977, 55.6128612),
     City.KONGSBERG:      CityGrid(10.0599676, 59.7813389, 9.3332915, 59.407871),
+    City.ULLENSAKER:     CityGrid(11.3357242, 60.2565723, 11.0408568, 60.0516074),
 }
 # fmt: on
 

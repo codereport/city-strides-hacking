@@ -38607,7 +38607,6 @@ lat,lon,sz,names,len_cat
 59.6691971,9.6797302,2,Sølvposten (570),a
 59.6692,9.552424,2,Knuteveien (332),a
 59.6692051,9.6072557,2,Korsveien (150),a
-59.669211,9.6484225,2,Tinius Olsens gate (690),a
 59.6692175,9.71203,2,Drammensveien (166),a
 59.6692175,9.71203,2,Drammensveien (166),a
 59.6692207,9.6679551,2,Alf Prøysens vei (377),a
@@ -38631,7 +38630,6 @@ lat,lon,sz,names,len_cat
 59.6692539,9.6794647,2,Sølvposten (438),a
 59.669256,9.6794006,2,Sølvposten (568),a
 59.6692588,9.7060538,2,Minde (027),a
-59.669261,9.648297,2,Tinius Olsens gate (689),a
 59.6692622,9.5779046,2,Eriksløypa (927),a
 59.6692675,9.6401637,2,Mauritz Hansens gate (466),a
 59.6692675,9.6401637,2,Mauritz Hansens gate (466),a
@@ -38662,7 +38660,6 @@ lat,lon,sz,names,len_cat
 59.66936,9.545231,2,Knuteveien (374),a
 59.66936,9.545231,2,Knuteveien (374),a
 59.6693832,9.6565173,2,Klems gate (902),a
-59.669387,9.6480799,2,Tinius Olsens gate (688),a
 59.6693872,9.7058851,2,Minde (028),a
 59.669392,9.57781,2,Eriksløypa (926),a
 59.669392,9.641483,2,Numedalsveien (738),a
@@ -38675,8 +38672,6 @@ lat,lon,sz,names,len_cat
 59.669412,9.6748796,2,Kongsbakken (147),a
 59.669412,9.6748796,2,Kongsbakken (147),a
 59.6694139,9.6677145,2,Alf Prøysens vei (376),a
-59.6694316,9.6480393,2,Nymoens torg (747),a
-59.6694316,9.6480393,2,Tinius Olsens gate (687),a
 59.669432,9.545168,2,Knuteveien (375),a
 59.669432,9.545168,2,Knuteveien (375),a
 59.669433,9.553292,2,Knuteveien (328),a
@@ -38704,7 +38699,6 @@ lat,lon,sz,names,len_cat
 59.669499,9.556642,2,Knuteveien (308),a
 59.6695099,9.6069067,2,Korsveien (148),a
 59.6695104,9.6570016,2,Wergelands vei (693),a
-59.6695148,9.6479808,2,Nymoens torg (764),a
 59.6695164,9.6578834,2,Wergelands vei (690),a
 59.6695183,9.6588993,2,Wergelands vei (686),a
 59.6695247,9.641146,2,Numedalsveien (384),a
@@ -38828,7 +38822,6 @@ lat,lon,sz,names,len_cat
 59.6698086,9.6778569,2,Kongsbakken (179),a
 59.6698324,9.6604563,2,Wergelands vei (713),a
 59.6698338,9.6561221,2,Wergelands vei (701),a
-59.6698385,9.6477555,2,Nymoens torg (765),a
 59.6698419,9.6149661,2,Kampenhaugveien (537),a
 59.6698419,9.6149661,2,Kampenhaugveien (537),a
 59.669842,9.54478,2,Knuteveien (379),a
@@ -39061,14 +39054,10 @@ lat,lon,sz,names,len_cat
 59.6709635,9.6786947,2,Budstikka (992),a
 59.6709635,9.6786947,2,Budstikka (992),a
 59.6709685,9.6676897,2,Alf Prøysens vei (370),a
-59.6709698,9.6465341,2,Stiksrudgata (691),a
 59.67097,9.543292,2,Knuteveien (393),a
 59.67097,9.543292,2,Knuteveien (393),a
-59.6709764,9.6470742,2,Nymoens torg (775),a
 59.6709788,9.6805876,2,Budstikka (004),a
 59.670995,9.543237,2,Knuteveien (394),a
-59.6709979,9.6465101,2,Stiksrudgata (683),a
-59.6709979,9.6465101,2,Stiksrudgata (690),a
 59.6710022,9.6788076,2,Budstikka (446),a
 59.6710049,9.6805484,2,Budstikka (448),a
 59.6710187,9.5750434,2,Eriksløypa (899),a
@@ -39083,7 +39072,6 @@ lat,lon,sz,names,len_cat
 59.6710356,9.6053408,2,Korsveien (134),a
 59.6710428,9.6791194,2,Budstikka (995),a
 59.671047,9.639194,2,Numedalsveien (889),a
-59.6710503,9.6470573,2,Nymoens torg (771),a
 59.6710507,9.5748382,2,Eriksløypa (897),a
 59.6710514,9.5749486,2,Eriksløypa (898),a
 59.6710538,9.6804,2,Budstikka (999),a
@@ -39092,15 +39080,11 @@ lat,lon,sz,names,len_cat
 59.671073,9.6678067,2,Alf Prøysens vei (369),a
 59.67108,9.543085,2,Knuteveien (395),a
 59.6711035,9.7038511,2,Minde (056),a
-59.6711427,9.6470103,2,Dyrmyrgata (735),a
-59.6711427,9.6470103,2,Kongens gate (754),a
-59.6711427,9.6470103,2,Nymoens torg (750),a
 59.6711572,9.7037447,2,Minde (058),a
 59.6711583,9.6051766,2,Korsveien (073),a
 59.6711583,9.6051766,2,Korsveien (073),a
 59.6711593,9.6129006,2,Kampenhaugveien (550),a
 59.6711603,9.6690917,2,Skarpåsveien (522),a
-59.6711694,9.6471732,2,Kongens gate (753),a
 59.6711721,9.6679723,2,Alf Prøysens vei (368),a
 59.6711725,9.6693517,2,Skarpåsveien (525),a
 59.6711766,9.6664123,2,Asbjørnsens vei (665),a
@@ -39108,18 +39092,14 @@ lat,lon,sz,names,len_cat
 59.6711766,9.6664123,2,Heltzens vei (296),a
 59.6711766,9.6664123,2,Heltzens vei (296),a
 59.6711772,9.6688644,2,Skarpåsveien (520),a
-59.6711859,9.6472596,2,Kongens gate (752),a
 59.6711913,9.7035813,2,Minde (061),a
 59.6711926,9.6694987,2,Skarpåsveien (528),a
 59.6711957,9.6662588,2,Heltzens vei (297),a
 59.6711957,9.6662588,2,Heltzens vei (297),a
 59.671216,9.542758,2,Knuteveien (396),a
 59.6712182,9.6686822,2,Skarpåsveien (482),a
-59.6712349,9.6469486,2,Dyrmyrgata (734),a
-59.6712381,9.6473546,2,Kongens gate (751),a
 59.671243,9.542679,2,Knuteveien (397),a
 59.6712432,9.6696806,2,Skarpåsveien (531),a
-59.6712438,9.6462981,2,Stiksrudgata (682),a
 59.6712524,9.6659737,2,Heltzens vei (298),a
 59.6712524,9.6659737,2,Heltzens vei (298),a
 59.6712555,9.662312,2,Uelands gate (222),a
@@ -39132,7 +39112,6 @@ lat,lon,sz,names,len_cat
 59.6712893,9.6653241,2,Heltzens vei (405),a
 59.6712956,9.6656305,2,Heltzens vei (300),a
 59.6712956,9.6656305,2,Heltzens vei (300),a
-59.6712969,9.6468922,2,Dyrmyrgata (733),a
 59.671297,9.6654916,2,Heltzens vei (301),a
 59.671297,9.6654916,2,Heltzens vei (301),a
 59.6712974,9.6651712,2,Heltzens vei (406),a
@@ -39145,10 +39124,8 @@ lat,lon,sz,names,len_cat
 59.6713275,9.7028081,2,Minde (070),a
 59.6713279,9.6650072,2,Heltzens vei (302),a
 59.6713279,9.6650072,2,Heltzens vei (302),a
-59.6713283,9.6474589,2,Kongens gate (750),a
 59.671343,9.542259,2,Knuteveien (400),a
 59.6713537,9.6698704,2,Skarpåsveien (483),a
-59.671365,9.6468314,2,Dyrmyrgata (732),a
 59.6713722,9.6683319,2,Alf Prøysens vei (366),a
 59.6713722,9.6683319,2,Skarpåsveien (515),a
 59.6713943,9.7025305,2,Minde (072),a
@@ -39181,7 +39158,6 @@ lat,lon,sz,names,len_cat
 59.6715337,9.6530264,2,Baneveien (672),a
 59.6715337,9.6530264,2,Eikerveien (194),a
 59.6715337,9.6530264,2,Eikerveien (194),a
-59.6715394,9.6476954,2,Kongens gate (749),a
 59.6715449,9.6535881,2,Eikerveien (206),a
 59.6715449,9.6535881,2,Eikerveien (206),a
 59.6715463,9.7022348,2,Minde (076),a
@@ -41111,7 +41087,6 @@ lat,lon,sz,names,len_cat
 59.677742,9.684899,2,Hornsvingen (960),a
 59.6777469,9.6282903,2,Stollveien (128),a
 59.6777469,9.6282903,2,Stollveien (128),a
-59.677747,9.682134,2,Steneplassveien (021),a
 59.677754,9.679644,2,Lurdalsveien (987),a
 59.677759,9.684268,2,Hornhellinga (007),a
 59.677759,9.684268,2,Hornsvingen (992),a
@@ -41166,7 +41141,6 @@ lat,lon,sz,names,len_cat
 59.67785,9.5999995,2,Korsveien (083),a
 59.67785,9.689233,2,Krummeløkka (810),a
 59.67785,9.689233,2,Krummeløkka (810),a
-59.677855,9.682139,2,Steneplassveien (022),a
 59.6778558,9.6525861,2,Aalls gate (121),a
 59.6778558,9.6525861,2,Aalls gate (121),a
 59.6778558,9.6525861,2,Aalls gate (122),a
@@ -41202,7 +41176,6 @@ lat,lon,sz,names,len_cat
 59.677918,9.650122,2,Prahms gate (617),a
 59.677918,9.650122,2,Prahms gate (617),a
 59.6779263,9.6320496,2,Brennerigata (483),a
-59.677935,9.682132,2,Steneplassveien (033),a
 59.6779404,9.6318581,2,Stollveien (506),a
 59.677942,9.685599,2,Rødshøgdveien (668),a
 59.6779428,9.6000185,2,Korsveien (081),a
@@ -41243,7 +41216,6 @@ lat,lon,sz,names,len_cat
 59.678029,9.689569,2,Krummeløkka (807),a
 59.67803,9.688048,2,Krummekollen (328),a
 59.67803,9.688048,2,Krummekollen (328),a
-59.678033,9.68211,2,Steneplassveien (023),a
 59.678035,9.685535,2,Rødshøgdveien (720),a
 59.678041,9.689635,2,Krummeløkka (761),a
 59.678053,9.689765,2,Krummeløkka (762),a
@@ -41280,7 +41252,6 @@ lat,lon,sz,names,len_cat
 59.6781324,9.6539115,2,Raumyrveien (729),a
 59.6781341,9.6039321,2,Kampenhaugveien (586),a
 59.6781341,9.6039321,2,Kampenhaugveien (586),a
-59.678137,9.682071,2,Steneplassveien (024),a
 59.6781371,9.6450919,2,Saxilds gate (899),a
 59.678141,9.630831,2,Stollveien (018),a
 59.678141,9.679722,2,Lurdalsveien (985),a
@@ -41313,7 +41284,6 @@ lat,lon,sz,names,len_cat
 59.6782059,9.6224088,2,Stollveien (452),a
 59.678208,9.6454832,2,Dyrskuveien (797),a
 59.678208,9.6454832,2,Saxilds gate (975),a
-59.678208,9.682034,2,Steneplassveien (025),a
 59.6782085,9.6001785,2,Korsveien (076),a
 59.6782141,9.6797531,2,Lurdalsveien (983),a
 59.678218,9.690613,2,Krummeløkka (802),a
@@ -41373,7 +41343,6 @@ lat,lon,sz,names,len_cat
 59.6783485,9.6440353,2,Baneveien (161),a
 59.678352,9.621959,2,Stollveien (457),a
 59.6783532,9.6322144,2,Henrik Ibsens gate (442),a
-59.678362,9.681939,2,Steneplassveien (026),a
 59.6783646,9.6738508,2,Røkaasløkka (880),a
 59.678368,9.690675,2,Krummeløkka (801),a
 59.67838,9.6722242,2,Stretaliveien (448),a
@@ -41429,7 +41398,6 @@ lat,lon,sz,names,len_cat
 59.6784605,9.6519266,2,Christies vei (289),a
 59.6784632,9.6500943,2,Falsens vei (893),a
 59.6784632,9.6500943,2,Falsens vei (893),a
-59.678468,9.681896,2,Steneplassveien (027),a
 59.6784692,9.6278162,2,Idrettsveien (501),a
 59.6784692,9.6278162,2,Idrettsveien (501),a
 59.6784692,9.6278162,2,Stollveien (015),a
@@ -41486,7 +41454,6 @@ lat,lon,sz,names,len_cat
 59.678561,9.688721,2,Krummeløkka (790),a
 59.678562,9.690613,2,Krummeløkka (799),a
 59.6785655,9.6013388,2,Korsveien (070),a
-59.678567,9.681878,2,Steneplassveien (032),a
 59.678567,9.686206,2,Rødshøgdtoppen (691),a
 59.678567,9.686206,2,Rødshøgdtoppen (691),a
 59.6785704,9.6507466,2,Falsens vei (887),a
@@ -41544,7 +41511,6 @@ lat,lon,sz,names,len_cat
 59.6786767,9.6747186,2,Røkaasløkka (894),a
 59.6786767,9.6747186,2,Røkaasløkka (894),a
 59.678678,9.685525,2,Rødshøgdveien (713),a
-59.678682,9.6818817,2,Steneplassveien (030),a
 59.678683,9.680265,2,Lurdalsveien (977),a
 59.678684,9.688917,2,Krummeløkka (792),a
 59.678684,9.688917,2,Krummeløkka (792),a
@@ -41571,7 +41537,6 @@ lat,lon,sz,names,len_cat
 59.6787161,9.6413586,2,Dyrmyrgata (231),a
 59.678719,9.689059,2,Krummeløkka (794),a
 59.678719,9.689059,2,Krummeløkka (794),a
-59.67872,9.681888,2,Steneplassveien (028),a
 59.6787208,9.6303278,2,Brennerigata (480),a
 59.678721,9.690239,2,Krummeløkka (797),a
 59.678726,9.685479,2,Rødshøgdveien (712),a
@@ -41628,7 +41593,6 @@ lat,lon,sz,names,len_cat
 59.67882,9.6279065,2,Idrettsveien (499),a
 59.678823,9.680384,2,Lurdalsveien (975),a
 59.678824,9.685331,2,Rødshøgdveien (710),a
-59.678833,9.681919,2,Steneplassveien (029),a
 59.6788402,9.6413618,2,Bævergrendveien (430),a
 59.6788402,9.6413618,2,Bævergrendveien (430),a
 59.6788402,9.6413618,2,Dyrmyrgata (232),a

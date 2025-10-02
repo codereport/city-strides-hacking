@@ -10,7 +10,6 @@ from typing import Optional, Tuple, Dict, Any
 import requests
 from tqdm import tqdm
 
-
 # City name aliases mapping - maps common names to their official City Strides names
 # Add aliases manually as needed
 CITY_ALIASES = {
@@ -80,10 +79,10 @@ def search_city_on_nominatim(city_name: str) -> Optional[Dict[str, Any]]:
         city_results = []
         for result in results:
             if result.get("osm_type") == "relation" and result.get("type") in [
-                "administrative",
-                "city",
-                "town",
-                "municipality",
+                    "administrative",
+                    "city",
+                    "town",
+                    "municipality",
             ]:
                 city_results.append(result)
 
@@ -103,7 +102,8 @@ def search_city_on_nominatim(city_name: str) -> Optional[Dict[str, Any]]:
                 )
 
             try:
-                choice = int(input(f"\nSelect option (1-{len(city_results)}): ")) - 1
+                choice = int(
+                    input(f"\nSelect option (1-{len(city_results)}): ")) - 1
                 if 0 <= choice < len(city_results):
                     selected = city_results[choice]
                     print(f"Selected: {selected['display_name']}")
@@ -121,8 +121,8 @@ def search_city_on_nominatim(city_name: str) -> Optional[Dict[str, Any]]:
 
 
 def search_city_on_citystrides(
-    city_name: str, cookies: Dict[str, str]
-) -> Optional[Tuple[int, Dict[str, float]]]:
+        city_name: str,
+        cookies: Dict[str, str]) -> Optional[Tuple[int, Dict[str, float]]]:
     """
     Search for a city on City Strides to get the city ID and bounding box.
 
@@ -139,7 +139,8 @@ def search_city_on_citystrides(
     search_url = "https://citystrides.com/cities"
     headers = {
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept":
+        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.5",
         "Accept-Encoding": "gzip, deflate",
         "Referer": "https://citystrides.com/",
@@ -162,7 +163,9 @@ def search_city_on_citystrides(
             # Now try to get the bounding box by accessing the city's node page
             # This simulates what happens when you go to the node search
             nodes_url = f"https://citystrides.com/cities/{city_id}/nodes"
-            nodes_response = requests.get(nodes_url, headers=headers, cookies=cookies)
+            nodes_response = requests.get(nodes_url,
+                                          headers=headers,
+                                          cookies=cookies)
             nodes_response.raise_for_status()
 
             # Look for bounding box in the JavaScript or HTML
@@ -185,7 +188,9 @@ def search_city_on_citystrides(
                 print(f"Found bounding box: {bbox}")
                 return city_id, bbox
             else:
-                print("Could not extract complete bounding box from City Strides")
+                print(
+                    "Could not extract complete bounding box from City Strides"
+                )
                 return city_id, None
         else:
             print(f"Could not find '{city_name}' on City Strides cities page")
@@ -196,7 +201,8 @@ def search_city_on_citystrides(
         return None
 
 
-def estimate_bbox_from_nominatim(nominatim_result: Dict[str, Any]) -> Dict[str, float]:
+def estimate_bbox_from_nominatim(
+        nominatim_result: Dict[str, Any]) -> Dict[str, float]:
     """
     Extract bounding box from Nominatim result and convert to City Strides format
     """
@@ -224,9 +230,10 @@ def format_city_name_for_file(city_name: str) -> str:
     return city_name.lower().replace(" ", "_").replace("-", "_")
 
 
-def update_download_node_csv(
-    city_name: str, city_id: int, bbox: Dict[str, float], force: bool = False
-):
+def update_download_node_csv(city_name: str,
+                             city_id: int,
+                             bbox: Dict[str, float],
+                             force: bool = False):
     """
     Update download_node_csv.py to add the new city to the enum and grid
     """
@@ -260,16 +267,19 @@ def update_download_node_csv(
 
     # Add new city entry
     new_city_line = f"    {enum_name:<12} = {city_id}  # 🌍\n"
-    new_enum_content = enum_match.group(1) + new_city_line + enum_match.group(2)
+    new_enum_content = enum_match.group(1) + new_city_line + enum_match.group(
+        2)
     content = content.replace(enum_match.group(0), new_enum_content)
 
     # Add to CityGrids dictionary
-    # Find the CityGrids dictionary
-    grid_pattern = r"(CityGrids = \{.*?)(# fmt: on)"
+    # Find the CityGrids dictionary - capture up to and including the last newline before closing brace
+    grid_pattern = r"(CityGrids = \{.*\n)(\})"
     grid_match = re.search(grid_pattern, content, re.DOTALL)
 
     if not grid_match:
-        print("Error: Could not find CityGrids dictionary in download_node_csv.py")
+        print(
+            "Error: Could not find CityGrids dictionary in download_node_csv.py"
+        )
         return False
 
     # Add new grid entry
@@ -278,7 +288,8 @@ def update_download_node_csv(
     spaces_needed = max(0, 15 - len(enum_name))
     new_grid_line = new_grid_line.replace("<spaces>", " " * spaces_needed)
 
-    new_grid_content = grid_match.group(1) + new_grid_line + grid_match.group(2)
+    new_grid_content = grid_match.group(1) + new_grid_line + grid_match.group(
+        2)
     content = content.replace(grid_match.group(0), new_grid_content)
 
     # Write back to file
@@ -294,15 +305,14 @@ def update_download_node_csv(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Add a new city to the City Strides download system"
-    )
+        description="Add a new city to the City Strides download system")
     parser.add_argument("city_name", help="Name of the city to add")
-    parser.add_argument(
-        "--city-id", type=int, help="Specific City Strides city ID (if known)"
-    )
-    parser.add_argument(
-        "--force", action="store_true", help="Force update even if city already exists"
-    )
+    parser.add_argument("--city-id",
+                        type=int,
+                        help="Specific City Strides city ID (if known)")
+    parser.add_argument("--force",
+                        action="store_true",
+                        help="Force update even if city already exists")
 
     args = parser.parse_args()
 
@@ -314,7 +324,7 @@ def main():
 
     # Try to find alias for the city name
     official_city_name, user_city_name = find_city_alias(args.city_name)
-    
+
     # Determine which name to use for City Strides search
     search_name = official_city_name if official_city_name else args.city_name
     display_name = args.city_name  # Always use original input for display
@@ -349,7 +359,8 @@ def main():
                 print("3. Looking at the URL (e.g., /cities/12345)")
 
                 try:
-                    city_id = int(input("Please enter the City Strides city ID: "))
+                    city_id = int(
+                        input("Please enter the City Strides city ID: "))
                 except (ValueError, KeyboardInterrupt):
                     print("Invalid input or cancelled")
                     return False
@@ -367,13 +378,16 @@ def main():
 
     # Step 3: Update download_node_csv.py - use the search name (official name if available)
     city_name_for_enum = search_name
-    if not update_download_node_csv(city_name_for_enum, city_id, bbox, args.force):
+    if not update_download_node_csv(city_name_for_enum, city_id, bbox,
+                                    args.force):
         return False
 
     print("\n" + "=" * 50)
     print(f"✓ Successfully added {display_name} to the system!")
     if official_city_name:
-        print(f"   (Used official name '{search_name}' for City Strides integration)")
+        print(
+            f"   (Used official name '{search_name}' for City Strides integration)"
+        )
     print(f"\nNext steps:")
     file_name = format_city_name_for_file(display_name)
     print(
@@ -382,7 +396,9 @@ def main():
     print(
         f"  2. Download City Strides nodes: python3 download_node_csv.py cookies.json"
     )
-    print(f"     (Select {format_city_name_for_enum(city_name_for_enum)} from the list)")
+    print(
+        f"     (Select {format_city_name_for_enum(city_name_for_enum)} from the list)"
+    )
     print(f"  3. Generate heat map: python3 create_heat_map.py {file_name}")
 
     return True

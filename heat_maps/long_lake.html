@@ -85,6 +85,11 @@
                 e.preventDefault();
             }, { passive: false });
         }
+        
+        // Apply initial filter on page load
+        setTimeout(function() {
+            filterByLength();
+        }, 500);
     });
     
     // Filter function for maximum street length
@@ -140,8 +145,8 @@ window.originalData = {
 <div class="controls-info">
     <strong>🗺️ Interactive Heat Map Controls</strong> | Max Street Length:
     <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc; margin-left: 8px;">
-        <option value="0.5">0.5 km</option>
-        <option value="1" selected>1.0 km</option>
+        <option value="0.5" selected>0.5 km</option>
+        <option value="1">1.0 km</option>
         <option value="2">2.0 km</option>
     </select>
 </div>

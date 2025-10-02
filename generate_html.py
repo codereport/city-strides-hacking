@@ -20,13 +20,21 @@ fig = px.scatter_mapbox(
     hover_name="names",
     color="len_cat",
     zoom=12,  # Slightly zoomed out for better overview
-    center={"lat": center_lat, "lon": center_lon},  # Center on data
+    center={
+        "lat": center_lat,
+        "lon": center_lon
+    },  # Center on data
 )
 
 # Configure map style and layout for better responsiveness
 fig.update_layout(
     mapbox_style=style,
-    margin={"r": 5, "t": 30, "l": 5, "b": 5},  # Small margins
+    margin={
+        "r": 5,
+        "t": 30,
+        "l": 5,
+        "b": 5
+    },  # Small margins
     showlegend=True,
     autosize=True,  # Enable responsive sizing
     height=None,  # Let CSS control height completely
@@ -34,7 +42,9 @@ fig.update_layout(
         "text": "City Strides Heat Map",
         "x": 0.5,
         "xanchor": "center",
-        "font": {"size": 16},
+        "font": {
+            "size": 16
+        },
     },
 )
 
@@ -57,7 +67,9 @@ config = {
 }
 
 # Generate HTML with custom styling and include original data for filtering
-html_content = fig.to_html(include_plotlyjs="cdn", config=config, div_id="heat-map-div")
+html_content = fig.to_html(include_plotlyjs="cdn",
+                           config=config,
+                           div_id="heat-map-div")
 
 # Store original data for filtering
 original_data_script = f"""
@@ -160,6 +172,11 @@ custom_css = """
                 e.preventDefault();
             }, { passive: false });
         }
+        
+        // Apply initial filter on page load
+        setTimeout(function() {
+            filterByLength();
+        }, 500);
     });
     
     // Filter function for maximum street length
@@ -201,16 +218,15 @@ custom_css = """
 
 # Insert custom CSS and original data script before closing head tag
 html_content = html_content.replace(
-    "</head>", custom_css + original_data_script + "\n</head>"
-)
+    "</head>", custom_css + original_data_script + "\n</head>")
 
 # Add helpful controls info after body tag
 controls_info = """
 <div class="controls-info">
     <strong>🗺️ Interactive Heat Map Controls</strong> | Max Street Length:
     <select id="maxLengthFilter" onchange="filterByLength()" style="padding: 4px 8px; border-radius: 4px; border: 1px solid #ccc; margin-left: 8px;">
-        <option value="0.5">0.5 km</option>
-        <option value="1" selected>1.0 km</option>
+        <option value="0.5" selected>0.5 km</option>
+        <option value="1">1.0 km</option>
         <option value="2">2.0 km</option>
     </select>
 </div>

@@ -76,6 +76,7 @@ class City(str, Enum):
     KONGSBERG    = 96374  # 🌍
     ULLENSAKER   = 95510  # 🌍
     LONG_LAKE    = 1101  # 🌍
+    INDIAN_LAKE  = 1096  # 🌍
 # fmt: on
 
 
@@ -166,6 +167,7 @@ CityGrids = {
     City.KONGSBERG:      CityGrid(10.0599676, 59.7813389, 9.3332915, 59.407871),
     City.ULLENSAKER:     CityGrid(11.3357242, 60.2565723, 11.0408568, 60.0516074),
     City.LONG_LAKE:      CityGrid(-74.255668, 44.12041, -74.854117, 43.730977),
+    City.INDIAN_LAKE:    CityGrid(-74.046098, 43.952775, -74.559351, 43.619659),
 }
 # fmt: on
 

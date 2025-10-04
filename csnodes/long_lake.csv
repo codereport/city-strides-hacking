@@ -1090,29 +1090,15 @@ lat,lon,sz,names,len_cat
 43.9321171,-74.4621456,2,South Pond Road (211),a
 43.9321249,-74.4625077,2,South Pond Road (210),a
 43.9321867,-74.4631836,2,South Pond Road (209),a
-43.9322576,-74.4639452,2,North Point Road (713),a
-43.9322576,-74.4639452,2,South Pond Road (712),a
 43.9322803,-74.7022713,2,Brandreth Park Road (555),a
 43.9322803,-74.7022713,2,Landing Way (646),a
-43.9324014,-74.46384,2,North Point Road (714),a
-43.9324014,-74.46384,2,Old Steamboat Road (813),a
-43.9324725,-74.4643423,2,Old Steamboat Road (048),a
-43.9325749,-74.4646347,2,Old Steamboat Road (049),a
-43.932658,-74.4648197,2,Old Steamboat Road (050),a
-43.932687,-74.4650182,2,Old Steamboat Road (051),a
-43.9327494,-74.4654511,2,Old Steamboat Road (821),a
-43.9328341,-74.4655309,2,Old Steamboat Road (822),a
 43.9329239,-74.4693449,2,Old Steamboat Lane (477),a
-43.9330133,-74.4632989,2,North Point Road (717),a
 43.9333377,-74.702672,2,Brandreth Park Road (556),a
-43.9334615,-74.4631112,2,Hummingbird Way (311),a
-43.9334615,-74.4631112,2,North Point Road (718),a
 43.9336064,-74.4634753,2,Hummingbird Way (310),a
 43.933659,-74.4635866,2,Hummingbird Way (309),a
 43.933703,-74.463661,2,Hummingbird Way (308),a
 43.933724,-74.4517471,2,Deerland Road (403),a
 43.9337241,-74.7027226,2,Brandreth Park Road (557),a
-43.933861,-74.4629397,2,North Point Road (719),a
 43.933885,-74.4639051,2,Hummingbird Way (307),a
 43.933971,-74.4639775,2,Hummingbird Way (306),a
 43.9340512,-74.4521725,2,Deerland Road (404),a
@@ -1125,15 +1111,12 @@ lat,lon,sz,names,len_cat
 43.9343899,-74.4526493,2,Deerland Road (405),a
 43.9343925,-74.4639661,2,Hummingbird Way (301),a
 43.9345369,-74.4638468,2,Hummingbird Way (300),a
-43.934546,-74.462573,2,North Point Road (720),a
 43.9346359,-74.4637656,2,Hummingbird Way (299),a
-43.934637,-74.462478,2,North Point Road (722),a
 43.9346871,-74.4637334,2,Hummingbird Way (298),a
 43.934688,-74.704227,2,Brandreth Park Road (559),a
 43.9347119,-74.4532483,2,Deerland Road (406),a
 43.9347465,-74.46372,2,Hummingbird Way (297),a
 43.9348194,-74.4637354,2,Hummingbird Way (296),a
-43.9348574,-74.4621934,2,North Point Road (724),a
 43.9348749,-74.463781,2,Hummingbird Way (295),a
 43.9348815,-74.4535976,2,Deerland Road (407),a
 43.9349256,-74.4638488,2,Hummingbird Way (294),a
@@ -1142,194 +1125,55 @@ lat,lon,sz,names,len_cat
 43.9349971,-74.4644201,2,Hummingbird Way (291),a
 43.9350671,-74.4539191,2,Deerland Road (408),a
 43.9353671,-74.4543737,2,Deerland Road (409),a
-43.9353736,-74.4618859,2,North Point Road (459),a
 43.935455,-74.705167,2,Brandreth Park Road (560),a
-43.9357071,-74.4547963,2,Deerland Road (410),a
 43.935884,-74.710631,2,Brandreth Park Road (566),a
 43.935884,-74.710631,2,Brandreth Park Road (566),a
 43.936142,-74.710511,2,Brandreth Park Road (565),a
 43.936142,-74.710511,2,Brandreth Park Road (565),a
-43.9363764,-74.4611541,2,North Point Road (726),a
-43.9366749,-74.4559016,2,Deerland Road (411),a
-43.9366893,-74.4608487,2,North Point Road (728),a
 43.936708,-74.706297,2,Brandreth Park Road (561),a
 43.936772,-74.709231,2,Brandreth Park Road (564),a
-43.9368295,-74.456134,2,Deerland Road (412),a
-43.9368822,-74.4607696,2,North Point Road (731),a
-43.9369824,-74.4564284,2,Deerland Road (413),a
 43.937017,-74.708103,2,Brandreth Park Road (563),a
 43.937026,-74.706691,2,Brandreth Park Road (562),a
-43.9370787,-74.4567552,2,Deerland Road (414),a
-43.9370816,-74.460802,2,North Point Road (733),a
-43.9371462,-74.457112,2,Deerland Road (415),a
-43.937152,-74.4584105,2,Deerland Road (417),a
-43.937152,-74.4584105,2,Deerland Road (417),a
-43.9371548,-74.4577638,2,Deerland Road (416),a
-43.9371548,-74.4577638,2,Deerland Road (416),a
-43.9371826,-74.4587956,2,Deerland Road (418),a
-43.9371826,-74.4587956,2,Deerland Road (418),a
-43.9372188,-74.4608505,2,North Point Road (736),a
-43.9372545,-74.4591164,2,Deerland Road (419),a
-43.9372545,-74.4591164,2,Deerland Road (419),a
-43.9373748,-74.4594464,2,Deerland Road (420),a
-43.9373748,-74.4594464,2,Deerland Road (420),a
-43.9374532,-74.4608613,2,North Point Road (738),a
-43.9375328,-74.4597279,2,Deerland Road (421),a
-43.9375328,-74.4597279,2,Deerland Road (421),a
-43.9376007,-74.4608074,2,North Point Road (740),a
-43.9378402,-74.4601113,2,Deerland Road (422),a
-43.9378402,-74.4601113,2,Deerland Road (422),a
-43.938048,-74.460313,2,Deerland Road (423),a
 43.938132,-74.8358934,2,Adirondack Park Preserve (192),a
-43.9382671,-74.4604451,2,Deerland Road (424),a
-43.9382671,-74.4604451,2,North Point Road (742),a
-43.9383638,-74.4604779,2,Deerland Road (425),a
-43.9384671,-74.4604957,2,Deerland Road (426),a
-43.9385784,-74.4604937,2,Deerland Road (427),a
-43.9386855,-74.4604758,2,Deerland Road (428),a
-43.9388302,-74.4604211,2,Deerland Road (429),a
-43.9389524,-74.4603569,2,Deerland Road (430),a
 43.9392971,-74.5826119,2,Whitney-Deerland Road (490),a
-43.9395727,-74.4528276,2,Heathfield Park Lane (329),a
-43.939586,-74.4598876,2,Deerland Road (431),a
-43.939586,-74.4598876,2,Deerland Road (431),a
-43.9395863,-74.4532809,2,Heathfield Park Lane (328),a
-43.9396152,-74.4523957,2,Heathfield Park Lane (330),a
-43.9396229,-74.4520792,2,Heathfield Park Lane (808),a
-43.9396693,-74.4536886,2,Heathfield Park Lane (327),a
 43.939749,-74.582557,2,Whitney-Deerland Road (492),a
-43.9398234,-74.4538939,2,Heathfield Park Lane (807),a
-43.9398285,-74.4596927,2,Deerland Road (432),a
-43.9398285,-74.4596927,2,Deerland Road (432),a
-43.9400899,-74.4594387,2,Deerland Road (433),a
-43.9400899,-74.4594387,2,Deerland Road (433),a
-43.9401037,-74.4540425,2,Heathfield Park Lane (806),a
-43.9402057,-74.4542124,2,Heathfield Park Lane (805),a
-43.940277,-74.4544531,2,Heathfield Park Lane (804),a
-43.9403937,-74.4591066,2,Deerland Road (434),a
-43.9403943,-74.455437,2,Heathfield Park Lane (803),a
-43.9404707,-74.4557838,2,Heathfield Park Lane (802),a
-43.9405778,-74.4560174,2,Heathfield Park Lane (801),a
-43.9407205,-74.4561731,2,Heathfield Park Lane (800),a
-43.9407829,-74.4586414,2,Deerland Road (435),a
-43.9408836,-74.4562935,2,Heathfield Park Lane (799),a
 43.940938,-74.581987,2,Whitney-Deerland Road (494),a
-43.9409855,-74.4563076,2,Heathfield Park Lane (798),a
-43.9410976,-74.4562864,2,Heathfield Park Lane (797),a
-43.9414881,-74.4577846,2,Deerland Road (436),a
-43.9416226,-74.4560245,2,Heathfield Park Lane (796),a
 43.941762,-74.581956,2,Whitney-Deerland Road (495),a
 43.941762,-74.581956,2,Whitney-Deerland Road (495),a
-43.9418265,-74.455982,2,Heathfield Park Lane (795),a
-43.9418441,-74.4573702,2,Deerland Road (437),a
-43.9419845,-74.4560174,2,Heathfield Park Lane (794),a
-43.9420182,-74.4571661,2,Deerland Road (438),a
-43.9421272,-74.4561448,2,Heathfield Park Lane (793),a
-43.9422106,-74.4569661,2,Deerland Road (439),a
-43.9422546,-74.456343,2,Heathfield Park Lane (792),a
-43.9423683,-74.4568299,2,Deerland Road (440),a
-43.9424575,-74.456765,2,Deerland Road (441),a
-43.9424575,-74.456765,2,Heathfield Park Lane (791),a
-43.9427204,-74.4565737,2,Deerland Road (442),a
-43.9433092,-74.456154,2,Deerland Road (443),a
-43.9436469,-74.455875,2,Deerland Road (444),a
 43.943797,-74.581735,2,Whitney-Deerland Road (497),a
 43.943797,-74.581735,2,Whitney-Deerland Road (497),a
-43.9440737,-74.455521,2,Deerland Road (445),a
-43.94441,-74.4552578,2,Deerland Road (446),a
 43.944437,-74.581071,2,Whitney-Deerland Road (499),a
 43.944437,-74.581071,2,Whitney-Deerland Road (499),a
-43.9445729,-74.4551531,2,Deerland Road (447),a
-43.9445729,-74.4551531,2,Van Husen Way (866),a
-43.9445883,-74.4553784,2,Van Husen Way (867),a
-43.9446038,-74.45555,2,Van Husen Way (868),a
-43.9446173,-74.455711,2,Van Husen Way (869),a
-43.9446231,-74.456301,2,Van Husen Way (873),a
-43.9446289,-74.4562072,2,Van Husen Way (872),a
-43.9446385,-74.4560033,2,Van Husen Way (871),a
-43.9446385,-74.4558987,2,Van Husen Way (870),a
-43.9447818,-74.4550165,2,Deerland Road (448),a
 43.944918,-74.580786,2,Whitney-Deerland Road (501),a
 43.944918,-74.580786,2,Whitney-Deerland Road (501),a
-43.9453129,-74.4547263,2,Deerland Road (449),a
-43.9455797,-74.4545827,2,Deerland Road (450),a
-43.9458374,-74.454411,2,Deerland Road (451),a
-43.9460876,-74.4541678,2,Deerland Road (452),a
-43.9463245,-74.4539142,2,Deerland Road (453),a
-43.946793,-74.453407,2,Deerland Road (454),a
-43.9473734,-74.4527878,2,Deerland Road (455),a
 43.947594,-74.576577,2,Whitney-Deerland Road (502),a
-43.9476627,-74.4524611,2,Deerland Road (456),a
-43.9479125,-74.4521204,2,Deerland Road (457),a
-43.9485585,-74.4510952,2,Deerland Road (458),a
 43.948692,-74.575216,2,Whitney-Deerland Road (505),a
-43.9488278,-74.4506597,2,Deerland Road (459),a
-43.9491301,-74.4501824,2,Deerland Road (460),a
-43.9496921,-74.4492847,2,Deerland Road (461),a
 43.94995,-74.573982,2,Whitney-Deerland Road (508),a
-43.9502602,-74.4480348,2,Emerson Road (984),a
-43.9502602,-74.4480348,2,Emerson Road (984),a
-43.950286,-74.4476923,2,Emerson Road (983),a
-43.950286,-74.4476923,2,Emerson Road (983),a
-43.9503788,-74.448198,2,Deerland Road (462),a
-43.9503788,-74.448198,2,Deerland Road (462),a
-43.9503788,-74.448198,2,Emerson Road (985),a
-43.9503788,-74.448198,2,Emerson Road (985),a
-43.9504452,-74.447286,2,Emerson Road (982),a
-43.9504452,-74.447286,2,Emerson Road (982),a
 43.950567,-74.573602,2,Elk Pond Road (360),a
 43.950567,-74.573602,2,Whitney-Deerland Road (509),a
-43.950618,-74.4469224,2,Emerson Road (981),a
-43.950618,-74.4469224,2,Emerson Road (981),a
-43.9506835,-74.4477109,2,Deerland Road (463),a
-43.9506835,-74.4477109,2,Deerland Road (463),a
-43.9509796,-74.4472477,2,Deerland Road (464),a
-43.9509796,-74.4472477,2,Deerland Road (464),a
-43.9510008,-74.4464838,2,Emerson Road (980),a
-43.9510008,-74.4464838,2,Emerson Road (980),a
-43.9513585,-74.4467504,2,Deerland Road (465),a
-43.9513585,-74.4467504,2,Deerland Road (465),a
-43.9513718,-74.4462587,2,Emerson Road (979),a
-43.9513718,-74.4462587,2,Emerson Road (979),a
 43.951459,-74.573824,2,Elk Pond Road (361),a
-43.951781,-74.446103,2,Emerson Road (978),a
-43.951781,-74.446103,2,Emerson Road (978),a
-43.9519441,-74.4459808,2,Emerson Road (977),a
-43.9521152,-74.4459672,2,Deerland Road (466),a
-43.9521152,-74.4459672,2,Emerson Road (976),a
 43.952168,-74.573824,2,Elk Pond Road (362),a
-43.9527531,-74.4453124,2,Deerland Road (467),a
-43.9527531,-74.4453124,2,Deerland Road (496),a
 43.952786,-74.573318,2,Elk Pond Road (363),a
 43.95322,-74.572526,2,Elk Pond Road (364),a
-43.9535475,-74.4445064,2,Deerland Road (498),a
 43.953769,-74.572147,2,Elk Pond Road (365),a
 43.9539508,-74.837988,2,Nehasane Lake Road (240),a
 43.9541702,-74.8376533,2,Nehasane Lake Road (086),a
 43.954249,-74.57221,2,Elk Pond Road (366),a
-43.9543523,-74.4436952,2,Deerland Road (500),a
-43.9547768,-74.4432532,2,Deerland Road (502),a
 43.9548286,-74.8367714,2,Nehasane Lake Road (087),a
 43.955004,-74.572527,2,Elk Pond Road (367),a
-43.9550308,-74.4429948,2,Deerland Road (503),a
 43.9551629,-74.836241,2,Nehasane Lake Road (088),a
-43.9552711,-74.4427915,2,Deerland Road (505),a
 43.9554078,-74.8355925,2,Nehasane Lake Road (494),a
-43.9554303,-74.4426709,2,Deerland Road (507),a
-43.9556194,-74.4425642,2,Deerland Road (509),a
 43.9556352,-74.8349531,2,Nehasane Lake Road (089),a
 43.95569,-74.572527,2,Elk Pond Road (368),a
 43.9556918,-74.4479996,2,Talbot Way (988),a
 43.9556918,-74.4479996,2,Talbot Way (988),a
 43.9558579,-74.4480693,2,Talbot Way (989),a
 43.9558579,-74.4480693,2,Talbot Way (989),a
-43.9558608,-74.4424022,2,Deerland Road (510),a
 43.9559505,-74.4481954,2,Talbot Way (990),a
 43.9559505,-74.4481954,2,Talbot Way (990),a
 43.9560428,-74.8342017,2,Nehasane Lake Road (090),a
 43.9560471,-74.4483912,2,Talbot Way (991),a
 43.9560471,-74.4483912,2,Talbot Way (991),a
-43.9560631,-74.4422051,2,Deerland Road (511),a
 43.9560799,-74.4500542,2,Talbot Way (995),a
 43.9560799,-74.4493648,2,Talbot Way (994),a
 43.9560799,-74.4493648,2,Talbot Way (994),a
@@ -1339,21 +1183,16 @@ lat,lon,sz,names,len_cat
 43.9561108,-74.4489303,2,Talbot Way (993),a
 43.9561621,-74.8338265,2,Nehasane Lake Road (091),a
 43.9561707,-74.4505101,2,Talbot Way (996),a
-43.9562197,-74.4420133,2,Deerland Road (512),a
 43.956254,-74.833421,2,Nehasane Lake Road (092),a
 43.956254,-74.833421,2,Nehasane Lake Road (092),a
-43.9563436,-74.4418459,2,Deerland Road (513),a
 43.9563446,-74.8328723,2,Nehasane Lake Road (093),a
 43.9563446,-74.8328723,2,Nehasane Lake Road (093),a
 43.9563888,-74.4509366,2,Talbot Way (997),a
 43.9564527,-74.832365,2,Nehasane Lake Road (094),a
 43.9564527,-74.832365,2,Nehasane Lake Road (094),a
-43.956471,-74.4416284,2,Deerland Road (514),a
 43.9565317,-74.4511619,2,Talbot Way (998),a
-43.9565599,-74.4414376,2,Deerland Road (954),a
 43.956619,-74.8315447,2,Nehasane Lake Road (095),a
 43.956619,-74.8315447,2,Nehasane Lake Road (095),a
-43.9566344,-74.4412776,2,Deerland Road (515),a
 43.9567676,-74.8306051,2,Nehasane Lake Road (096),a
 43.9567676,-74.8306051,2,Nehasane Lake Road (096),a
 43.9567924,-74.451406,2,Talbot Way (999),a
@@ -1361,32 +1200,18 @@ lat,lon,sz,names,len_cat
 43.9570209,-74.4467512,2,Endion Lane (239),a
 43.9570209,-74.4467512,2,Endion Lane (239),a
 43.9570426,-74.8299864,2,Nehasane Lake Road (097),a
-43.9570636,-74.4400355,2,Deerland Road (516),a
 43.9570897,-74.451516,2,Talbot Way (001),a
-43.9572377,-74.439622,2,Deerland Road (517),a
 43.9572816,-74.8293035,2,Nehasane Lake Road (098),a
 43.957314,-74.572211,2,Elk Pond Road (369),a
-43.9573494,-74.4393613,2,Deerland Road (518),a
-43.957362,-74.434533,2,Birch Mt Circle (579),a
-43.957362,-74.434533,2,Birch Mt Circle (579),a
-43.957404,-74.435113,2,Birch Mt Circle (578),a
-43.957404,-74.435113,2,Birch Mt Circle (578),a
 43.957449,-74.4476293,2,Endion Lane (243),a
 43.957449,-74.4476293,2,Endion Lane (243),a
 43.9574949,-74.828194,2,Nehasane Lake Road (479),a
-43.9575663,-74.4389068,2,Deerland Road (519),a
 43.9575665,-74.4478173,2,Endion Lane (245),a
 43.9575665,-74.4478173,2,Endion Lane (245),a
-43.957696,-74.434127,2,Birch Mt Circle (580),a
-43.9576973,-74.4386232,2,Deerland Road (520),a
 43.9577373,-74.4479282,2,Endion Lane (247),a
 43.9577373,-74.4479282,2,Endion Lane (247),a
-43.957738,-74.435519,2,Birch Mt Circle (577),a
-43.957738,-74.435519,2,Birch Mt Circle (577),a
 43.9577548,-74.8273481,2,Nehasane Lake Road (099),a
 43.9577766,-74.5720502,2,Elk Pond Road (370),a
-43.9577888,-74.438416,2,Deerland Road (521),a
-43.9578685,-74.4382031,2,Deerland Road (522),a
 43.9579377,-74.4511775,2,Talbot Way (002),a
 43.9580241,-74.4464774,2,Alice Bissell Road (780),a
 43.9580241,-74.4464774,2,Alice Bissell Road (780),a
@@ -1396,34 +1221,18 @@ lat,lon,sz,names,len_cat
 43.9580899,-74.446269,2,Alice Bissell Road (779),a
 43.9580899,-74.446269,2,Alice Bissell Road (779),a
 43.9581438,-74.827042,2,Nehasane Lake Road (100),a
-43.9581819,-74.4370711,2,Deerland Road (523),a
-43.9581819,-74.4370711,2,Deerland Road (523),a
-43.9581992,-74.437004,2,Deerland Road (524),a
-43.9581992,-74.437004,2,Deerland Road (524),a
 43.9582784,-74.5714238,2,Elk Pond Road (372),a
-43.9582832,-74.4366787,2,Deerland Road (955),a
-43.9582832,-74.4366787,2,Deerland Road (955),a
 43.9582918,-74.4456698,2,Alice Bissell Road (778),a
 43.9582926,-74.4505745,2,Talbot Way (003),a
-43.958322,-74.434185,2,Birch Mt Circle (581),a
-43.958322,-74.434185,2,Birch Mt Circle (581),a
 43.9584138,-74.4480607,2,Endion Lane (252),a
 43.9584138,-74.4480607,2,Endion Lane (252),a
 43.9584279,-74.5709883,2,Elk Pond Road (373),a
-43.9584482,-74.4362324,2,Birch Mt Circle (576),a
-43.9584482,-74.4362324,2,Birch Mt Circle (576),a
-43.9584482,-74.4362324,2,Deerland Road (525),a
-43.9584482,-74.4362324,2,Deerland Road (525),a
 43.9584803,-74.4455496,2,Alice Bissell Road (777),a
 43.9585654,-74.570775,2,Elk Pond Road (374),a
 43.9585834,-74.8267845,2,Nehasane Lake Road (480),a
 43.9586156,-74.4481469,2,Endion Lane (254),a
 43.9586156,-74.4481469,2,Endion Lane (254),a
 43.9586821,-74.4454849,2,Alice Bissell Road (776),a
-43.958698,-74.434649,2,Birch Mt Circle (582),a
-43.958698,-74.434649,2,Birch Mt Circle (582),a
-43.958723,-74.4356432,2,Deerland Road (526),a
-43.958723,-74.4356432,2,Deerland Road (526),a
 43.9588196,-74.4483595,2,Endion Lane (256),a
 43.9588196,-74.4483595,2,Endion Lane (256),a
 43.9589787,-74.8262441,2,Nehasane Lake Road (481),a
@@ -1433,10 +1242,6 @@ lat,lon,sz,names,len_cat
 43.9590553,-74.4492924,2,Endion Lane (259),a
 43.9590553,-74.4492924,2,Talbot Way (004),a
 43.9590614,-74.4454942,2,Alice Bissell Road (775),a
-43.9590806,-74.4349943,2,Birch Mt Circle (583),a
-43.9590806,-74.4349943,2,Birch Mt Circle (583),a
-43.9590806,-74.4349943,2,Deerland Road (527),a
-43.9590806,-74.4349943,2,Deerland Road (527),a
 43.9591767,-74.4455619,2,Alice Bissell Road (774),a
 43.9591912,-74.449517,2,Endion Lane (260),a
 43.959322,-74.570312,2,Elk Pond Road (375),a
@@ -1447,12 +1252,8 @@ lat,lon,sz,names,len_cat
 43.9593907,-74.4457637,2,Alice Bissell Road (772),a
 43.9594251,-74.4459378,2,Alice Bissell Road (771),a
 43.9594251,-74.4459378,2,Alice Bissell Road (771),a
-43.9594652,-74.4343607,2,Deerland Road (528),a
-43.9594652,-74.4343607,2,Deerland Road (528),a
 43.959566,-74.8254332,2,Nehasane Lake Road (102),a
 43.9596769,-74.4498089,2,Endion Lane (261),a
-43.9598098,-74.4338016,2,Deerland Road (529),a
-43.9598098,-74.4338016,2,Deerland Road (529),a
 43.95985,-74.4487275,2,Alice Bissell Road (766),a
 43.95985,-74.4487275,2,Alice Bissell Road (766),a
 43.959881,-74.8246092,2,Nehasane Lake Road (103),a
@@ -1464,33 +1265,22 @@ lat,lon,sz,names,len_cat
 43.9599165,-74.4483755,2,Alice Bissell Road (770),a
 43.9599178,-74.4484905,2,Alice Bissell Road (769),a
 43.9599178,-74.4484905,2,Alice Bissell Road (769),a
-43.9600534,-74.4333981,2,Deerland Road (530),a
-43.9603296,-74.4328853,2,Deerland Road (468),a
-43.9603296,-74.4328853,2,Deerland Road (531),a
 43.9603384,-74.8237195,2,Nehasane Lake Road (104),a
 43.9604029,-74.4503009,2,Endion Lane (262),a
-43.9604637,-74.4325717,2,Deerland Road (948),a
 43.9606806,-74.8233296,2,Nehasane Lake Road (105),a
 43.9608916,-74.5702657,2,Elk Pond Road (376),a
-43.9609768,-74.4313723,2,Deerland Road (469),a
-43.9611259,-74.4310526,2,Deerland Road (470),a
 43.9611338,-74.8230716,2,Nehasane Lake Road (482),a
 43.9612138,-74.570099,2,Elk Pond Road (377),a
-43.9612878,-74.43075,2,Deerland Road (471),a
 43.9614733,-74.5698202,2,Elk Pond Road (378),a
-43.9615289,-74.4304219,2,Deerland Road (472),a
 43.9615597,-74.4513927,2,Endion Lane (263),a
 43.9617498,-74.5691199,2,Elk Pond Road (379),a
 43.9617505,-74.822662,2,Nehasane Lake Road (483),a
 43.9618985,-74.4518616,2,Endion Lane (264),a
 43.9620578,-74.4519908,2,Endion Lane (265),a
-43.9620748,-74.4297329,2,Deerland Road (949),a
 43.9620999,-74.5685344,2,Elk Pond Road (380),a
 43.9621667,-74.8223542,2,Nehasane Lake Road (484),a
 43.9622539,-74.4521058,2,Endion Lane (266),a
-43.962375,-74.4293541,2,Deerland Road (473),a
 43.9624106,-74.4522403,2,Endion Lane (267),a
-43.9624619,-74.429243,2,Deerland Road (950),a
 43.9624832,-74.452366,2,Endion Lane (268),a
 43.9625647,-74.45255,2,Endion Lane (269),a
 43.9626679,-74.4526668,2,Endion Lane (270),a
@@ -1498,7 +1288,6 @@ lat,lon,sz,names,len_cat
 43.9628607,-74.2691526,2,Cold Spring (692),a
 43.9628915,-74.5669094,2,Elk Pond Road (381),a
 43.9628915,-74.5669094,2,Elk Pond Road (381),a
-43.9629908,-74.4285672,2,Deerland Road (474),a
 43.9630309,-74.4528243,2,Endion Lane (272),a
 43.9630545,-74.8221393,2,Nehasane Lake Road (106),a
 43.9631464,-74.2692599,2,Cold Spring (691),a
@@ -1523,7 +1312,6 @@ lat,lon,sz,names,len_cat
 43.9635808,-74.4412257,2,Linden Way (983),a
 43.9636039,-74.4424126,2,Linden Way (977),a
 43.9636078,-74.4526228,2,Endion Lane (276),a
-43.9636198,-74.4277825,2,Deerland Road (475),a
 43.9636588,-74.4524173,2,Endion Lane (277),a
 43.9637082,-74.2696166,2,Cold Spring (688),a
 43.9637213,-74.45212,2,Endion Lane (278),a
@@ -1531,7 +1319,6 @@ lat,lon,sz,names,len_cat
 43.9638096,-74.4427123,2,Linden Way (976),a
 43.9638713,-74.442784,2,Linden Way (975),a
 43.9639128,-74.4428337,2,Linden Way (974),a
-43.963954,-74.427349,2,Deerland Road (476),a
 43.9639852,-74.4429061,2,Linden Way (973),a
 43.963988,-74.8175779,2,Nehasane Lake Road (109),a
 43.9640625,-74.4429651,2,Linden Way (972),a
@@ -1543,26 +1330,21 @@ lat,lon,sz,names,len_cat
 43.9644317,-74.4505234,2,Endion Lane (280),a
 43.9644437,-74.2699197,2,Cold Spring (682),a
 43.9645326,-74.2700297,2,Cold Spring (680),a
-43.9645524,-74.4266045,2,Deerland Road (477),a
 43.964565,-74.815891,2,Nehasane Lake Road (110),a
 43.9645755,-74.4432554,2,Linden Way (969),a
 43.964604,-74.4432709,2,Linden Way (968),a
 43.9646387,-74.2703971,2,Cold Spring (679),a
 43.9646489,-74.4432849,2,Linden Way (967),a
-43.9646677,-74.4200939,2,Pavilion Lane (428),a
 43.9646957,-74.4432863,2,Linden Way (966),a
-43.9647222,-74.4201349,2,Pavilion Lane (429),a
 43.9647241,-74.4498089,2,Endion Lane (281),a
 43.9647403,-74.8154019,2,Nehasane Lake Road (488),a
 43.9647493,-74.4432709,2,Linden Way (965),a
 43.9647946,-74.4432454,2,Linden Way (964),a
 43.9649233,-74.8151656,2,Nehasane Lake Road (111),a
-43.9649457,-74.4203032,2,Pavilion Lane (427),a
 43.9649669,-74.2709443,2,Cold Spring (678),a
 43.9650113,-74.443126,2,Linden Way (963),a
 43.9650192,-74.449593,2,Endion Lane (282),a
 43.9650192,-74.449593,2,Endion Lane (282),a
-43.9650384,-74.4259276,2,Deerland Road (478),a
 43.9650828,-74.4430456,2,Linden Way (962),a
 43.9651388,-74.442957,2,Linden Way (961),a
 43.9652373,-74.8147133,2,Nehasane Lake Road (489),a
@@ -1570,9 +1352,6 @@ lat,lon,sz,names,len_cat
 43.965251,-74.4492674,2,Endion Lane (283),a
 43.9654004,-74.4489456,2,Endion Lane (284),a
 43.9654004,-74.4489456,2,Endion Lane (284),a
-43.9654032,-74.4206653,2,Pavilion Lane (426),a
-43.965412,-74.4254042,2,Deerland Road (479),a
-43.965412,-74.4254042,2,Deerland Road (479),a
 43.9654206,-74.4423401,2,Linden Way (960),a
 43.9654539,-74.4422892,2,Linden Way (959),a
 43.965492,-74.4422489,2,Linden Way (958),a
@@ -1582,17 +1361,13 @@ lat,lon,sz,names,len_cat
 43.9655673,-74.4134514,2,Stone Road (758),a
 43.9655702,-74.4133066,2,Stone Road (759),a
 43.9655702,-74.4133066,2,Stone Road (759),a
-43.9655745,-74.4177295,2,South Hill Road (589),a
-43.9655894,-74.4178725,2,South Hill Road (588),a
 43.9655934,-74.4136472,2,Stone Road (757),a
 43.9655934,-74.4136472,2,Stone Road (757),a
 43.965603,-74.4129807,2,Stone Road (760),a
 43.965603,-74.4129807,2,Stone Road (760),a
-43.9656033,-74.4175779,2,South Hill Road (590),a
 43.9656262,-74.4137719,2,Stone Road (756),a
 43.9656262,-74.4137719,2,Stone Road (756),a
 43.9656291,-74.4421631,2,Linden Way (956),a
-43.9656387,-74.4208959,2,Pavilion Lane (425),a
 43.9656436,-74.4128251,2,Stone Road (761),a
 43.9656436,-74.4128251,2,Stone Road (761),a
 43.9656716,-74.2718294,2,Cold Spring (677),a
@@ -1605,8 +1380,6 @@ lat,lon,sz,names,len_cat
 43.9657942,-74.4122726,2,Stone Road (762),a
 43.9657942,-74.4122726,2,Stone Road (762),a
 43.9658064,-74.8144006,2,Nehasane Lake Road (490),a
-43.965818,-74.424893,2,Deerland Road (480),a
-43.965818,-74.424893,2,Deerland Road (480),a
 43.9658641,-74.4123476,2,Cementery Road (080),a
 43.9658641,-74.4123476,2,Cementery Road (080),a
 43.9658641,-74.4123476,2,Cementery Road (085),a
@@ -1614,7 +1387,6 @@ lat,lon,sz,names,len_cat
 43.9658884,-74.4120298,2,Stone Road (763),a
 43.9658884,-74.4120298,2,Stone Road (763),a
 43.9659032,-74.272103,2,Cold Spring (676),a
-43.9659071,-74.4210864,2,Pavilion Lane (424),a
 43.9659129,-74.4415408,2,Abanaki Trail Road (940),a
 43.9659168,-74.4421712,2,Linden Way (953),a
 43.9659226,-74.4414175,2,Abanaki Trail Road (937),a
@@ -1641,7 +1413,6 @@ lat,lon,sz,names,len_cat
 43.9661203,-74.442247,2,Linden Way (952),a
 43.9661546,-74.4442032,2,Abanaki Trail Road (965),a
 43.9661581,-74.4423884,2,Abanaki Trail Road (948),a
-43.9661619,-74.4213304,2,Pavilion Lane (423),a
 43.9661759,-74.4428618,2,Abanaki Trail Road (956),a
 43.9661832,-74.4120151,2,Cementery Road (084),a
 43.9661832,-74.4120151,2,Cementery Road (084),a
@@ -1649,48 +1420,24 @@ lat,lon,sz,names,len_cat
 43.9661948,-74.4427197,2,Abanaki Trail Road (954),a
 43.9661967,-74.4426084,2,Abanaki Trail Road (952),a
 43.9662044,-74.272339,2,Cold Spring (674),a
-43.966218,-74.4186117,2,South Hill Road (587),a
 43.9662202,-74.8138613,2,Nehasane Lake Road (492),a
-43.9662541,-74.4243344,2,Deerland Road (481),a
-43.9662541,-74.4243344,2,Deerland Road (481),a
 43.9662546,-74.4407201,2,Abanaki Trail Road (933),a
 43.9663353,-74.4146704,2,Stone Road (753),a
 43.9663534,-74.4448663,2,Abanaki Trail Road (967),a
 43.966382,-74.2723659,2,Cold Spring (673),a
-43.9663966,-74.4241096,2,Deerland Road (482),a
-43.9663966,-74.4241096,2,Deerland Road (482),a
 43.9664022,-74.446576,2,Endion Lane (286),a
-43.9664153,-74.4159272,2,South Hill Road (592),a
-43.9664153,-74.4159272,2,Tifani Lane (806),a
 43.966416,-74.564993,2,Elk Pond Road (383),a
-43.9664554,-74.421604,2,Pavilion Lane (422),a
-43.9664562,-74.4276463,2,Owl's Head Lane (423),a
 43.9664863,-74.2723551,2,Cold Spring (671),a
-43.9665029,-74.415766,2,South Hill Road (593),a
 43.9665155,-74.4151167,2,Stone Road (752),a
-43.9665204,-74.4238644,2,Deerland Road (483),a
-43.9665204,-74.4238644,2,Deerland Road (483),a
 43.9665369,-74.4451191,2,Abanaki Trail Road (969),a
 43.9665678,-74.4131024,2,Cementery Road (824),a
 43.9665678,-74.4131024,2,Cementery Road (824),a
 43.9665678,-74.4131024,2,Cementery Road (840),a
 43.9665678,-74.4131024,2,Cementery Road (840),a
-43.9666122,-74.415606,2,South Hill Road (594),a
-43.9666122,-74.415606,2,Stone Road (751),a
-43.9666716,-74.4217489,2,Pavilion Lane (421),a
 43.9666755,-74.2723256,2,Cold Spring (670),a
-43.9666793,-74.4235082,2,Deerland Road (484),a
-43.9666793,-74.4235082,2,Deerland Road (484),a
 43.9667114,-74.8131661,2,Nehasane Lake Road (112),a
-43.9667146,-74.4206708,2,South Hill Road (584),a
 43.9667547,-74.413337,2,Cementery Road (838),a
 43.9667547,-74.413337,2,Cementery Road (838),a
-43.9667701,-74.4209796,2,South Hill Road (583),a
-43.9667843,-74.4270623,2,Owl's Head Lane (421),a
-43.966827,-74.419344,2,South Hill Road (586),a
-43.9668318,-74.4219205,2,Pavilion Lane (420),a
-43.9668449,-74.4230641,2,Deerland Road (485),a
-43.9668449,-74.4230641,2,Deerland Road (485),a
 43.9668568,-74.4453396,2,Abanaki Trail Road (971),a
 43.9668568,-74.4453396,2,Endion Lane (287),a
 43.9668673,-74.4125479,2,Cementery Road (827),a
@@ -1701,156 +1448,73 @@ lat,lon,sz,names,len_cat
 43.9668801,-74.272221,2,Cold Spring (669),a
 43.9669276,-74.8122787,2,Nehasane Lake Road (493),a
 43.9669606,-74.4451286,2,Endion Lane (288),a
-43.9669629,-74.4198854,2,Jazmin Way (941),a
-43.9669629,-74.4198854,2,South Hill Road (585),a
-43.9669686,-74.4195475,2,South Hill Road (947),a
-43.9670306,-74.421883,2,Pavilion Lane (419),a
-43.9670847,-74.4224202,2,Deerland Road (951),a
 43.9670847,-74.2720145,2,Cold Spring (668),a
-43.9670922,-74.4265576,2,Owl's Head Lane (419),a
-43.9671213,-74.4223219,2,Deerland Road (952),a
-43.9671801,-74.4221642,2,Deerland Road (486),a
 43.9672231,-74.8118137,2,Nehasane Lake Road (113),a
 43.9672378,-74.4394864,2,Abanaki Trail Road (930),a
 43.9672411,-74.2719206,2,Cold Spring (667),a
 43.9672422,-74.4130249,2,Cementery Road (833),a
 43.9672422,-74.4130249,2,Cementery Road (833),a
-43.9672439,-74.424948,2,Owl's Head Lane (414),a
-43.9672439,-74.424948,2,Owl's Head Lane (414),a
-43.9672476,-74.4242996,2,Owl's Head Lane (411),a
-43.9672476,-74.4242996,2,Owl's Head Lane (411),a
-43.9672697,-74.425859,2,Owl's Head Lane (417),a
-43.9672697,-74.425859,2,Owl's Head Lane (417),a
-43.9672761,-74.4215826,2,Pavilion Lane (418),a
-43.9672761,-74.4215826,2,South Hill Road (582),a
 43.9672994,-74.413921,2,Cementery Road (836),a
 43.9672994,-74.413921,2,Cementery Road (836),a
-43.9673013,-74.4218365,2,Deerland Road (487),a
-43.9673013,-74.4218365,2,Owl's Head Lane (400),a
 43.9673415,-74.2719126,2,Cold Spring (666),a
-43.9673615,-74.421676,2,Deerland Road (488),a
-43.9673615,-74.421676,2,South Hill Road (581),a
 43.967377,-74.564708,2,Elk Pond Road (384),a
 43.9674456,-74.812443,2,Partlow Lake Road (500),a
-43.9674855,-74.4221256,2,Owl's Head Lane (404),a
 43.9674909,-74.8118908,2,Partlow Lake Road (501),a
 43.9674959,-74.2719394,2,Cold Spring (665),a
-43.9675121,-74.4202274,2,Jazmin Way (942),a
 43.9675436,-74.8114715,2,Lake Lila Access (115),a
 43.9675436,-74.8114715,2,Nehasane Lake Road (114),a
 43.9675436,-74.8114715,2,Partlow Lake Road (310),a
-43.9675579,-74.4231488,2,Owl's Head Lane (409),a
-43.9675579,-74.4231488,2,Owl's Head Lane (409),a
 43.9675809,-74.4441025,2,Endion Lane (289),a
 43.9675831,-74.8127297,2,Partlow Lake Road (311),a
 43.9676174,-74.4134706,2,Cementery Road (835),a
 43.9676174,-74.4134706,2,Cementery Road (835),a
 43.9676272,-74.271926,2,Cold Spring (664),a
-43.9676341,-74.4224842,2,Owl's Head Lane (406),a
 43.9677384,-74.8111018,2,Lake Lila Access (116),a
-43.967786,-74.417027,2,Tifani Lane (807),a
 43.9678337,-74.2717195,2,Cold Spring (663),a
-43.9678403,-74.4205278,2,Deerland Road (489),a
-43.9678403,-74.4205278,2,Jazmin Way (943),a
-43.9678584,-74.4144355,2,South Hill Road (595),a
 43.9680125,-74.8171745,2,Partlow Lake Road (314),a
 43.968041,-74.818107,2,Partlow Lake Road (315),a
-43.9681098,-74.419876,2,Deerland Road (491),a
-43.9681152,-74.4128522,2,State Highway 28N (179),a
-43.9681152,-74.4128522,2,State Highway 28N (179),a
 43.9681185,-74.4430611,2,Endion Lane (290),a
-43.9681343,-74.4132109,2,State Highway 28N (178),a
-43.9681343,-74.4132109,2,State Highway 28N (178),a
-43.9681368,-74.4124454,2,State Highway 28N (180),a
-43.9681368,-74.4124454,2,State Highway 28N (180),a
 43.968178,-74.818487,2,Partlow Lake Road (316),a
-43.9682095,-74.4120146,2,State Highway 28N (181),a
-43.9682095,-74.4120146,2,State Highway 28N (181),a
 43.9682237,-74.2710838,2,Cold Spring (662),a
 43.968224,-74.813136,2,Partlow Lake Road (312),a
-43.9682409,-74.4142559,2,South Hill Road (132),a
-43.9682698,-74.411797,2,State Highway 28N (182),a
-43.9682698,-74.411797,2,State Highway 28N (182),a
 43.9683164,-74.5641755,2,Elk Pond Road (385),a
 43.9683216,-74.8144913,2,Partlow Lake Road (502),a
-43.968324,-74.4192808,2,Deerland Road (492),a
-43.9683287,-74.4142146,2,South Hill Road (596),a
-43.9683287,-74.4142146,2,State Highway 28N (177),a
 43.968338,-74.813548,2,Partlow Lake Road (313),a
-43.9683413,-74.4115849,2,State Highway 28N (183),a
-43.9683413,-74.4115849,2,State Highway 28N (183),a
-43.9683413,-74.4115849,2,State Highway 28N (184),a
-43.9683413,-74.4115849,2,State Highway 28N (184),a
-43.9683664,-74.4191518,2,Deerland Road (946),a
-43.9683735,-74.4114946,2,State Highway 28N (185),a
-43.9683735,-74.4114946,2,State Highway 28N (185),a
-43.9684237,-74.4189775,2,Deerland Road (953),a
-43.9684894,-74.4150706,2,State Highway 28N (176),a
-43.9684992,-74.4187478,2,Adirondack Trail (254),a
-43.9684992,-74.4187478,2,Deerland Road (494),a
-43.9684992,-74.4187478,2,State Highway 28N (169),a
 43.968521,-74.2705151,2,Cold Spring (661),a
-43.9685372,-74.4185186,2,State Highway 28N (128),a
-43.9685502,-74.4184402,2,State Highway 28N (170),a
-43.9685553,-74.4183866,2,State Highway 28N (766),a
-43.9685758,-74.4110381,2,State Highway 28N (186),a
-43.9685758,-74.4110381,2,State Highway 28N (186),a
-43.9685954,-74.4157319,2,State Highway 28N (175),a
 43.9685989,-74.56394,2,Elk Pond Road (386),a
 43.9685989,-74.56394,2,Elk Pond Road (401),a
-43.968616,-74.4188223,2,Adirondack Trail (127),a
-43.9686426,-74.4160645,2,State Highway 28N (174),a
-43.968655,-74.417348,2,State Highway 28N (171),a
 43.9686611,-74.4422448,2,Endion Lane (291),a
-43.9686775,-74.4164052,2,State Highway 28N (173),a
-43.9686801,-74.4168613,2,State Highway 28N (172),a
 43.9687391,-74.2701048,2,Cold Spring (660),a
-43.9687672,-74.410594,2,State Highway 28N (187),a
-43.9687672,-74.410594,2,State Highway 28N (187),a
 43.9688337,-74.2699572,2,Cold Spring (659),a
 43.968842,-74.809527,2,Lake Lila Access (117),a
 43.968842,-74.809527,2,Lake Lila Access (117),a
-43.9688654,-74.4103401,2,State Highway 28N (188),a
 43.9688988,-74.5634871,2,Elk Pond Road (402),a
 43.968909,-74.269799,2,Cold Spring (658),a
-43.9689095,-74.4190094,2,Adirondack Trail (255),a
-43.9689685,-74.4099788,2,State Highway 28N (189),a
 43.9689978,-74.2694798,2,Cold Spring (657),a
 43.9689978,-74.2694798,2,Cold Spring (657),a
 43.9690152,-74.2691472,2,Cold Spring (656),a
 43.9690152,-74.2691472,2,Cold Spring (656),a
-43.9690436,-74.409549,2,State Highway 28N (190),a
 43.969048,-74.268997,2,Cold Spring (655),a
 43.969048,-74.268997,2,Cold Spring (655),a
-43.9690747,-74.4090685,2,State Highway 28N (191),a
-43.9691079,-74.4087708,2,Cooney Way (539),a
-43.9691079,-74.4087708,2,State Highway 28N (192),a
 43.9691379,-74.5631429,2,Elk Pond Road (403),a
 43.9691656,-74.4082541,2,State Highway 28N (193),a
 43.9691677,-74.2686912,2,Cold Spring (654),a
 43.9691677,-74.2686912,2,Cold Spring (654),a
-43.9692323,-74.4088085,2,Cooney Way (538),a
 43.9692741,-74.4077972,2,State Highway 28N (194),a
 43.9693649,-74.4419425,2,Endion Lane (292),a
 43.9693742,-74.2682514,2,Cold Spring (653),a
 43.9693742,-74.2682514,2,Cold Spring (653),a
-43.9694051,-74.4089037,2,Cooney Way (537),a
 43.9694502,-74.4073105,2,State Highway 28N (195),a
 43.969459,-74.819912,2,Partlow Lake Road (317),a
 43.969459,-74.819912,2,Partlow Lake Road (317),a
 43.9694978,-74.2678732,2,Cold Spring (652),a
 43.9694978,-74.2678732,2,Cold Spring (652),a
-43.9695151,-74.4195039,2,Adirondack Trail (256),a
-43.9695258,-74.4090647,2,Cooney Way (536),a
 43.9695742,-74.407037,2,State Highway 28N (196),a
 43.9696194,-74.2673609,2,Cold Spring (651),a
 43.9696194,-74.2673609,2,Cold Spring (651),a
-43.9696204,-74.4092926,2,Cooney Way (535),a
 43.9696802,-74.4098948,2,Cooney Way (532),a
 43.9696812,-74.2669719,2,Cold Spring (650),a
 43.9696812,-74.2669719,2,Cold Spring (650),a
-43.9696966,-74.4095863,2,Cooney Way (534),a
-43.9697043,-74.409699,2,Cooney Way (533),a
 43.9697043,-74.2667761,2,Cold Spring (649),a
 43.9697043,-74.2667761,2,Cold Spring (649),a
 43.9697314,-74.2666608,2,Cold Spring (648),a
@@ -1863,7 +1527,6 @@ lat,lon,sz,names,len_cat
 43.9699421,-74.2589117,2,State Highway 28N (057),a
 43.9699573,-74.2592648,2,State Highway 28N (058),a
 43.9699711,-74.2594477,2,State Highway 28N (060),a
-43.969987,-74.4199414,2,Adirondack Trail (257),a
 43.9699889,-74.2567469,2,State Highway 28N (055),a
 43.9699964,-74.2596254,2,State Highway 28N (061),a
 43.970008,-74.820862,2,Partlow Lake Road (319),a

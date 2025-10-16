@@ -9,7 +9,6 @@ import sys
 from pathlib import Path
 from urllib.parse import quote
 
-
 # City name aliases mapping - maps common names to their official City Strides names
 # Add aliases manually as needed
 CITY_ALIASES = {
@@ -69,21 +68,21 @@ def find_osm_relation(city_name, original_name=None):
         city_results = []
         for result in results:
             if result.get("osm_type") == "relation" and result.get("type") in [
-                "administrative",
-                "city",
-                "town",
-                "municipality",
+                    "administrative",
+                    "city",
+                    "town",
+                    "municipality",
             ]:
-                city_results.append(
-                    {
-                        "relation_id": result["osm_id"],
-                        "display_name": result["display_name"],
-                        "type": result.get("type", "unknown"),
-                        "admin_level": result.get("extratags", {}).get(
-                            "admin_level", "unknown"
-                        ),
-                    }
-                )
+                city_results.append({
+                    "relation_id":
+                    result["osm_id"],
+                    "display_name":
+                    result["display_name"],
+                    "type":
+                    result.get("type", "unknown"),
+                    "admin_level": (result.get("extratags")
+                                    or {}).get("admin_level", "unknown"),
+                })
 
         return city_results
 
@@ -158,12 +157,17 @@ def fetch_overpass_data(query):
     headers = {"User-Agent": "CityStrides-Heatmap-Generator/1.0"}
 
     try:
-        response = requests.post(overpass_url, data=query, headers=headers, timeout=300)
+        response = requests.post(overpass_url,
+                                 data=query,
+                                 headers=headers,
+                                 timeout=300)
         response.raise_for_status()
 
         # Parse JSON response
         data = response.json()
-        print(f"✓ Retrieved {len(data.get('elements', []))} elements from Overpass API")
+        print(
+            f"✓ Retrieved {len(data.get('elements', []))} elements from Overpass API"
+        )
         return data
 
     except requests.RequestException as e:
@@ -199,21 +203,21 @@ def save_city_data(city_name, data, original_name=None):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Download OpenStreetMap data for a new city"
-    )
-    parser.add_argument("city_name", help="Name of the city to download data for")
-    parser.add_argument(
-        "--relation-id", type=int, help="Specific OpenStreetMap relation ID to use"
-    )
+        description="Download OpenStreetMap data for a new city")
+    parser.add_argument("city_name",
+                        help="Name of the city to download data for")
+    parser.add_argument("--relation-id",
+                        type=int,
+                        help="Specific OpenStreetMap relation ID to use")
     parser.add_argument(
         "--query-type",
         choices=["named", "all"],
         default="named",
         help="Type of streets to query: 'named' (default) or 'all'",
     )
-    parser.add_argument(
-        "--force", action="store_true", help="Overwrite existing data file if it exists"
-    )
+    parser.add_argument("--force",
+                        action="store_true",
+                        help="Overwrite existing data file if it exists")
 
     args = parser.parse_args()
 
@@ -221,7 +225,8 @@ def main():
     official_city_name, user_city_name = find_city_alias(args.city_name)
 
     # Normalize the user input for filename
-    normalized_user_input = args.city_name.lower().replace(" ", "_").replace("-", "_")
+    normalized_user_input = args.city_name.lower().replace(" ", "_").replace(
+        "-", "_")
 
     # Determine which name to use for search and which for filename
     if official_city_name:
@@ -238,17 +243,16 @@ def main():
 
     # Check if data already exists (check both possible filenames)
     data_file = Path(__file__).parent / "data" / f"{filename_base}.json"
-    alt_data_file = (
-        Path(__file__).parent / "data" / f"{search_name}.json"
-        if search_name != filename_base
-        else None
-    )
+    alt_data_file = (Path(__file__).parent / "data" / f"{search_name}.json"
+                     if search_name != filename_base else None)
 
     if data_file.exists() and not args.force:
         print(
             f"Data file for '{filename_base}' already exists. Use --force to overwrite."
         )
-        print(f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}")
+        print(
+            f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}"
+        )
         return True
     elif alt_data_file and alt_data_file.exists() and not data_file.exists():
         # We have data with the official name but not the user's preferred name
@@ -263,7 +267,8 @@ def main():
             )
             return True
         except IOError as e:
-            print(f"Warning: Could not copy {alt_data_file} to {data_file}: {e}")
+            print(
+                f"Warning: Could not copy {alt_data_file} to {data_file}: {e}")
             print(
                 f"Data exists as '{search_name}.json' but couldn't create '{filename_base}.json'"
             )
@@ -271,16 +276,14 @@ def main():
                 f"To generate a heatmap, run: python3 create_heat_map.py {search_name}"
             )
             return True
-    elif (
-        alt_data_file
-        and alt_data_file.exists()
-        and data_file.exists()
-        and not args.force
-    ):
+    elif (alt_data_file and alt_data_file.exists() and data_file.exists()
+          and not args.force):
         print(
             f"Data files for both '{filename_base}' and '{search_name}' already exist. Use --force to overwrite."
         )
-        print(f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}")
+        print(
+            f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}"
+        )
         return True
 
     relation_id = args.relation_id
@@ -312,7 +315,8 @@ def main():
                 )
 
             try:
-                choice = int(input(f"\nSelect option (1-{len(city_results)}): ")) - 1
+                choice = int(
+                    input(f"\nSelect option (1-{len(city_results)}): ")) - 1
                 if 0 <= choice < len(city_results):
                     relation_id = city_results[choice]["relation_id"]
                     print(f"Selected: {city_results[choice]['display_name']}")

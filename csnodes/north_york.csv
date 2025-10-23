@@ -30027,6 +30027,7 @@ lat,lon,sz,names,len_cat
 43.7760753,-79.4970794,2,Vanier Lane (308),a
 43.7760753,-79.4970794,2,Vanier Lane (477),a
 43.7760795,-79.3392919,2,Sheppard Avenue East (196),a
+43.7760795,-79.3392919,2,Sheppard Avenue East (647),a
 43.7760795,-79.3392919,2,Sheppard Avenue East (847),a
 43.7760795,-79.3392919,2,Sheppard Avenue East (866),a
 43.7760841,-79.4970478,2,Vanier Lane (311),a
@@ -30065,6 +30066,7 @@ lat,lon,sz,names,len_cat
 43.7761703,-79.3277126,2,Hazelnut Crescent (596),a
 43.7761733,-79.3269848,2,Hickorynut Drive (118),a
 43.7761733,-79.3269848,2,Hickorynut Drive (208),a
+43.776181,-79.3402418,2,Sheppard Avenue East (198),a
 43.776181,-79.3402418,2,Sheppard Avenue East (374),a
 43.776181,-79.3402418,2,Sheppard Avenue East (550),a
 43.776181,-79.3402418,2,Sheppard Avenue East (849),a
@@ -30379,6 +30381,7 @@ lat,lon,sz,names,len_cat
 43.776808,-79.4943461,2,Keele Street (184),a
 43.776808,-79.4943461,2,Keele Street (532),a
 43.7768118,-79.3340995,2,Boneset Road (144),a
+43.7768118,-79.3340995,2,Boneset Road (942),a
 43.7768218,-79.4942881,2,Keele Street (160),a
 43.7768218,-79.4942881,2,Keele Street (185),a
 43.7768218,-79.4942881,2,Keele Street (481),a
@@ -30560,6 +30563,7 @@ lat,lon,sz,names,len_cat
 43.7772585,-79.5035021,2,Ottawa Road (512),a
 43.7772719,-79.5035082,2,Ottawa Road (205),a
 43.7772719,-79.5035082,2,Ottawa Road (870),a
+43.7772732,-79.3320878,2,Wagon Trailway (094),a
 43.7772732,-79.3320878,2,Wagon Trailway (094),a
 43.7772732,-79.3320878,2,Wagon Trailway (809),a
 43.7772732,-79.3320878,2,Wagon Trailway (809),a
@@ -30909,6 +30913,7 @@ lat,lon,sz,names,len_cat
 43.7779063,-79.3371371,2,Muirhead Road (470),a
 43.7779063,-79.3371371,2,Muirhead Road (520),a
 43.7779063,-79.3371371,2,Old Sheppard Avenue (079),a
+43.7779063,-79.3371371,2,Old Sheppard Avenue (401),a
 43.7779089,-79.3369977,2,Old Sheppard Avenue (080),a
 43.7779089,-79.3369977,2,Old Sheppard Avenue (402),a
 43.7779211,-79.327378,2,Pindar Crescent (363),a
@@ -31189,22 +31194,8 @@ lat,lon,sz,names,len_cat
 43.7788276,-79.332625,2,Old Sheppard Avenue (233),a
 43.7788276,-79.332625,2,Old Sheppard Avenue (595),a
 43.7788276,-79.332625,2,Old Sheppard Avenue (595),a
-43.7788277,-79.3512155,2,Esterbrooke Avenue (632),a
-43.7788277,-79.3512155,2,Esterbrooke Avenue (642),a
-43.7788288,-79.3510559,2,Esterbrooke Avenue (496),a
-43.7788288,-79.3510559,2,Esterbrooke Avenue (703),a
-43.778829,-79.3510209,2,Esterbrooke Avenue (631),a
-43.778829,-79.3510209,2,Esterbrooke Avenue (641),a
-43.7788309,-79.3512907,2,Esterbrooke Avenue (187),a
-43.7788309,-79.3512907,2,Esterbrooke Avenue (705),a
 43.7788397,-79.496745,2,Rideau Road (263),a
 43.7788397,-79.496745,2,Rideau Road (396),a
-43.7788408,-79.3506822,2,Esterbrooke Avenue (629),a
-43.7788408,-79.3506822,2,Esterbrooke Avenue (640),a
-43.778844,-79.3515993,2,Esterbrooke Avenue (186),a
-43.778844,-79.3515993,2,Esterbrooke Avenue (704),a
-43.7788461,-79.3516477,2,Esterbrooke Avenue (634),a
-43.7788461,-79.3516477,2,Esterbrooke Avenue (643),a
 43.7788593,-79.3324699,2,Brian Drive (105),a
 43.7788593,-79.3324699,2,Brian Drive (105),a
 43.7788593,-79.3324699,2,Brian Drive (189),a
@@ -31225,46 +31216,28 @@ lat,lon,sz,names,len_cat
 43.7788847,-79.3323526,2,Old Sheppard Avenue (594),a
 43.7788865,-79.3275126,2,Pindar Crescent (391),a
 43.7788865,-79.3275126,2,Pindar Crescent (858),a
-43.7788883,-79.3519677,2,Esterbrooke Avenue (495),a
-43.7788883,-79.3519677,2,Esterbrooke Avenue (702),a
 43.7788932,-79.4971191,2,Rideau Road (265),a
 43.7788932,-79.4971191,2,Rideau Road (398),a
 43.7788949,-79.3385844,2,Muirhead Road (480),a
 43.7788949,-79.3385844,2,Muirhead Road (530),a
-43.7789002,-79.3502587,2,Esterbrooke Avenue (628),a
-43.7789002,-79.3502587,2,Esterbrooke Avenue (639),a
 43.7789356,-79.4970472,2,Rideau Road (491),a
 43.7789356,-79.4970472,2,Rideau Road (975),a
 43.7789381,-79.3273496,2,Pindar Crescent (390),a
 43.7789381,-79.3273496,2,Pindar Crescent (857),a
 43.778946,-79.4944202,2,Keele Street (166),a
 43.778946,-79.4944202,2,Keele Street (493),a
-43.7789496,-79.3522853,2,Esterbrooke Avenue (636),a
-43.7789496,-79.3522853,2,Esterbrooke Avenue (644),a
 43.7789508,-79.3325064,2,Brian Drive (034),a
 43.7789508,-79.3325064,2,Brian Drive (034),a
 43.7789508,-79.3325064,2,Brian Drive (143),a
 43.7789508,-79.3325064,2,Brian Drive (143),a
-43.77896,-79.3497522,2,Esterbrooke Avenue (627),a
-43.77896,-79.3497522,2,Esterbrooke Avenue (638),a
 43.778982,-79.3272738,2,Pindar Crescent (389),a
 43.778982,-79.3272738,2,Pindar Crescent (856),a
-43.7789895,-79.3495483,2,Esterbrooke Avenue (625),a
-43.7789895,-79.3495483,2,Esterbrooke Avenue (637),a
 43.7789954,-79.4970183,2,Rideau Road (492),a
 43.7789954,-79.4970183,2,Rideau Road (976),a
 43.7789956,-79.331302,2,Doubletree Road (052),a
 43.7789956,-79.331302,2,Doubletree Road (089),a
-43.7789995,-79.348766,2,Don Mills Road (472),a
-43.7789995,-79.348766,2,Don Mills Road (690),a
 43.7790137,-79.3387054,2,Muirhead Road (481),a
 43.7790137,-79.3387054,2,Muirhead Road (531),a
-43.7790159,-79.3485738,2,Don Mills Road (629),a
-43.7790159,-79.3485738,2,Don Mills Road (791),a
-43.7790276,-79.3492795,2,Esterbrooke Avenue (622),a
-43.7790276,-79.3492795,2,Esterbrooke Avenue (636),a
-43.7790276,-79.3492795,2,Esterbrooke Avenue (650),a
-43.7790276,-79.3492795,2,Esterbrooke Avenue (652),a
 43.7790283,-79.3313139,2,Doubletree Road (053),a
 43.7790283,-79.3313139,2,Doubletree Road (090),a
 43.7790382,-79.504868,2,Steeles Avenue West (551),a
@@ -31275,24 +31248,12 @@ lat,lon,sz,names,len_cat
 43.779057,-79.4946876,2,Keele Street (725),a
 43.7790577,-79.5043506,2,Founders Road (138),a
 43.7790577,-79.5043506,2,Founders Road (171),a
-43.7790612,-79.3527308,2,Esterbrooke Avenue (638),a
-43.7790612,-79.3527308,2,Esterbrooke Avenue (645),a
 43.7790697,-79.5042422,2,Founders Road (135),a
 43.7790697,-79.5042422,2,Founders Road (168),a
 43.7790764,-79.3355846,2,Crossbow Crescent (039),a
 43.7790764,-79.3355846,2,Crossbow Crescent (741),a
-43.7790766,-79.348928,2,Esterbrooke Avenue (648),a
-43.7790766,-79.348928,2,Esterbrooke Avenue (651),a
 43.7790843,-79.3355098,2,Crossbow Crescent (038),a
 43.7790843,-79.3355098,2,Crossbow Crescent (740),a
-43.7790844,-79.348802,2,Don Mills Road (471),a
-43.7790844,-79.348802,2,Don Mills Road (684),a
-43.7790844,-79.348802,2,Don Mills Road West (052),a
-43.7790844,-79.348802,2,Don Mills Road West (309),a
-43.7790844,-79.348802,2,Esterbrooke Avenue (644),a
-43.7790844,-79.348802,2,Esterbrooke Avenue (646),a
-43.7790844,-79.348802,2,Esterbrooke Avenue (649),a
-43.7790844,-79.348802,2,Esterbrooke Avenue (650),a
 43.7790859,-79.3356216,2,Crossbow Crescent (040),a
 43.7790859,-79.3356216,2,Crossbow Crescent (742),a
 43.7790933,-79.3262642,2,Pindar Crescent (377),a
@@ -31307,16 +31268,6 @@ lat,lon,sz,names,len_cat
 43.7791037,-79.3313415,2,Old Sheppard Avenue (394),a
 43.7791102,-79.3354345,2,Crossbow Crescent (037),a
 43.7791102,-79.3354345,2,Crossbow Crescent (739),a
-43.7791128,-79.3486155,2,Don Mills Road (001),a
-43.7791128,-79.3486155,2,Don Mills Road (633),a
-43.7791128,-79.3486155,2,Don Mills Road (792),a
-43.7791128,-79.3486155,2,Don Mills Road (978),a
-43.7791128,-79.3486155,2,Don Mills Road East (402),a
-43.7791128,-79.3486155,2,Don Mills Road East (420),a
-43.7791128,-79.3486155,2,Esterbrooke Avenue (643),a
-43.7791128,-79.3486155,2,Esterbrooke Avenue (648),a
-43.7791128,-79.3486155,2,Fairview Mall Drive (287),a
-43.7791128,-79.3486155,2,Fairview Mall Drive (485),a
 43.7791135,-79.3356581,2,Crossbow Crescent (041),a
 43.7791135,-79.3356581,2,Crossbow Crescent (743),a
 43.7791142,-79.338802,2,Muirhead Road (482),a
@@ -31327,16 +31278,8 @@ lat,lon,sz,names,len_cat
 43.7791185,-79.3353846,2,Crossbow Crescent (738),a
 43.7791205,-79.3262758,2,Pindar Crescent (378),a
 43.7791205,-79.3262758,2,Pindar Crescent (845),a
-43.779133,-79.3485214,2,Fairview Mall Drive (286),a
-43.779133,-79.3485214,2,Fairview Mall Drive (288),a
-43.779133,-79.3485214,2,Fairview Mall Drive (295),a
-43.779133,-79.3485214,2,Fairview Mall Drive (484),a
-43.779133,-79.3485214,2,Fairview Mall Drive (486),a
-43.779133,-79.3485214,2,Fairview Mall Drive (493),a
 43.7791395,-79.3269588,2,Pindar Crescent (386),a
 43.7791395,-79.3269588,2,Pindar Crescent (853),a
-43.7791413,-79.3483486,2,Fairview Mall Drive (289),a
-43.7791413,-79.3483486,2,Fairview Mall Drive (487),a
 43.7791462,-79.5043815,2,Founders Road (131),a
 43.7791462,-79.5043815,2,Founders Road (137),a
 43.7791462,-79.5043815,2,Founders Road (164),a
@@ -31361,42 +31304,22 @@ lat,lon,sz,names,len_cat
 43.7791686,-79.5042564,2,Steeles Avenue West (695),a
 43.7791748,-79.3262992,2,Pindar Crescent (379),a
 43.7791748,-79.3262992,2,Pindar Crescent (846),a
-43.7791868,-79.3488479,2,Don Mills Road West (051),a
-43.7791868,-79.3488479,2,Don Mills Road West (308),a
 43.7791876,-79.5041703,2,Steeles Avenue West (489),a
 43.7791876,-79.5041703,2,Steeles Avenue West (676),a
 43.7791948,-79.3313787,2,Cairnside Crescent (124),a
 43.7791948,-79.3313787,2,Cairnside Crescent (988),a
 43.7791996,-79.3313806,2,Cairnside Crescent (125),a
 43.7791996,-79.3313806,2,Cairnside Crescent (989),a
-43.7792014,-79.3480429,2,Fairview Mall Drive (290),a
-43.7792014,-79.3480429,2,Fairview Mall Drive (488),a
-43.7792102,-79.3483645,2,Fairview Mall Drive (294),a
-43.7792102,-79.3483645,2,Fairview Mall Drive (492),a
 43.7792128,-79.3356802,2,Crossbow Crescent (043),a
 43.7792128,-79.3356802,2,Crossbow Crescent (745),a
 43.7792163,-79.4970357,2,Rideau Road (291),a
 43.7792163,-79.4970357,2,Rideau Road (424),a
-43.7792243,-79.3486615,2,Don Mills Road East (403),a
-43.7792243,-79.3486615,2,Don Mills Road East (422),a
 43.779229,-79.3263101,2,Pindar Crescent (380),a
 43.779229,-79.3263101,2,Pindar Crescent (847),a
-43.7792378,-79.3472454,2,Fairview Library (482),a
-43.7792378,-79.3472454,2,Fairview Library (601),a
 43.7792501,-79.3265208,2,Pindar Crescent (384),a
 43.7792501,-79.3265208,2,Pindar Crescent (851),a
 43.7792504,-79.3388853,2,Muirhead Road (484),a
 43.7792504,-79.3388853,2,Muirhead Road (534),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (255),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (291),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (292),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (453),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (489),a
-43.7792657,-79.3479061,2,Fairview Mall Drive (490),a
-43.7792717,-79.3480719,2,Fairview Mall Drive (293),a
-43.7792717,-79.3480719,2,Fairview Mall Drive (491),a
-43.779272,-79.3472576,2,Fairview Library (483),a
-43.779272,-79.3472576,2,Fairview Library (602),a
 43.779276,-79.3264455,2,Pindar Crescent (383),a
 43.779276,-79.3264455,2,Pindar Crescent (850),a
 43.7792836,-79.3263459,2,Pindar Crescent (381),a
@@ -31405,23 +31328,11 @@ lat,lon,sz,names,len_cat
 43.7792933,-79.3263953,2,Pindar Crescent (849),a
 43.7793004,-79.4943277,2,Keele Street (167),a
 43.7793004,-79.4943277,2,Keele Street (495),a
-43.7793004,-79.3472678,2,Fairview Library (484),a
-43.7793004,-79.3472678,2,Fairview Library (603),a
 43.7793063,-79.3249361,2,Victoria Park Avenue (043),a
-43.7793083,-79.3477075,2,Fairview Mall Drive (254),a
-43.7793083,-79.3477075,2,Fairview Mall Drive (452),a
 43.7793402,-79.494612,2,Keele Street (496),a
 43.7793402,-79.494612,2,Keele Street (779),a
-43.7793417,-79.3475516,2,Fairview Mall Drive (253),a
-43.7793417,-79.3475516,2,Fairview Mall Drive (451),a
 43.779368,-79.3389193,2,Muirhead Road (485),a
 43.779368,-79.3389193,2,Muirhead Road (535),a
-43.7793975,-79.3489424,2,Don Mills Road West (050),a
-43.7793975,-79.3489424,2,Don Mills Road West (307),a
-43.7794011,-79.3472705,2,Fairview Library (485),a
-43.7794011,-79.3472705,2,Fairview Library (604),a
-43.7794011,-79.3472705,2,Fairview Mall Drive (252),a
-43.7794011,-79.3472705,2,Fairview Mall Drive (450),a
 43.7794638,-79.3337471,2,Crossbow Crescent (035),a
 43.7794638,-79.3337471,2,Crossbow Crescent (737),a
 43.7794665,-79.3250134,2,Victoria Park Avenue (042),a
@@ -31430,6 +31341,8 @@ lat,lon,sz,names,len_cat
 43.7794873,-79.3335104,2,Crossbow Crescent (033),a
 43.7794873,-79.3335104,2,Crossbow Crescent (033),a
 43.7794873,-79.3335104,2,Crossbow Crescent (735),a
+43.7794873,-79.3335104,2,Crossbow Crescent (735),a
+43.7794889,-79.3336222,2,Crossbow Crescent (034),a
 43.7794889,-79.3336222,2,Crossbow Crescent (736),a
 43.7794947,-79.3333983,2,Crossbow Crescent (032),a
 43.7794947,-79.3333983,2,Crossbow Crescent (032),a
@@ -31445,20 +31358,14 @@ lat,lon,sz,names,len_cat
 43.7795175,-79.3331119,2,Crossbow Crescent (030),a
 43.7795175,-79.3331119,2,Crossbow Crescent (732),a
 43.7795175,-79.3331119,2,Crossbow Crescent (732),a
-43.7795197,-79.3467216,2,Fairview Mall Drive (251),a
-43.7795197,-79.3467216,2,Fairview Mall Drive (449),a
 43.7795463,-79.3329497,2,Crossbow Crescent (029),a
 43.7795463,-79.3329497,2,Crossbow Crescent (029),a
 43.7795463,-79.3329497,2,Crossbow Crescent (731),a
 43.7795463,-79.3329497,2,Crossbow Crescent (731),a
-43.7795533,-79.3465427,2,Fairview Mall Drive (250),a
-43.7795533,-79.3465427,2,Fairview Mall Drive (448),a
 43.7795543,-79.3329074,2,Crossbow Crescent (057),a
 43.7795543,-79.3329074,2,Crossbow Crescent (057),a
 43.7795543,-79.3329074,2,Crossbow Crescent (235),a
 43.7795543,-79.3329074,2,Crossbow Crescent (235),a
-43.7795648,-79.3490798,2,Don Mills Road West (049),a
-43.7795648,-79.3490798,2,Don Mills Road West (306),a
 43.7795846,-79.332759,2,Brian Drive (106),a
 43.7795846,-79.332759,2,Brian Drive (106),a
 43.7795846,-79.332759,2,Brian Drive (190),a
@@ -31467,8 +31374,6 @@ lat,lon,sz,names,len_cat
 43.7795846,-79.332759,2,Crossbow Crescent (028),a
 43.7795846,-79.332759,2,Crossbow Crescent (730),a
 43.7795846,-79.332759,2,Crossbow Crescent (730),a
-43.7795896,-79.3487879,2,Don Mills Road East (404),a
-43.7795896,-79.3487879,2,Don Mills Road East (423),a
 43.7795897,-79.3291001,2,Ladner Drive (194),a
 43.7795897,-79.3291001,2,Ladner Drive (464),a
 43.7795897,-79.3291001,2,Old Sheppard Avenue (073),a
@@ -31477,58 +31382,16 @@ lat,lon,sz,names,len_cat
 43.7795897,-79.3291001,2,Old Sheppard Avenue (406),a
 43.7796122,-79.329003,2,Old Sheppard Avenue (280),a
 43.7796122,-79.329003,2,Old Sheppard Avenue (596),a
-43.7796257,-79.3458687,2,Fairview Mall Drive (015),a
-43.7796257,-79.3458687,2,Fairview Mall Drive (045),a
 43.7796294,-79.3389369,2,Muirhead Road (487),a
 43.7796294,-79.3389369,2,Muirhead Road (537),a
-43.7796442,-79.3457384,2,Fairview Mall Drive (249),a
-43.7796442,-79.3457384,2,Fairview Mall Drive (277),a
-43.7796442,-79.3457384,2,Fairview Mall Drive (447),a
-43.7796442,-79.3457384,2,Fairview Mall Drive (475),a
-43.7796442,-79.3457384,2,Godstone Road (067),a
-43.7796442,-79.3457384,2,Godstone Road (179),a
-43.7796646,-79.3455729,2,Fairview Mall Drive (144),a
-43.7796646,-79.3455729,2,Fairview Mall Drive (169),a
 43.7797012,-79.3358282,2,Crossbow Crescent (044),a
 43.7797012,-79.3358282,2,Crossbow Crescent (746),a
-43.7797157,-79.3426248,2,Fairview Mall Drive (256),a
-43.7797157,-79.3426248,2,Fairview Mall Drive (273),a
-43.7797157,-79.3426248,2,Fairview Mall Drive (454),a
-43.7797157,-79.3426248,2,Fairview Mall Drive (471),a
-43.7797177,-79.3457585,2,Godstone Road (068),a
-43.7797177,-79.3457585,2,Godstone Road (180),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (248),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (248),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (276),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (446),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (446),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (474),a
-43.7797183,-79.3450061,2,Fairview Mall Drive (474),a
 43.779724,-79.4942245,2,Keele Street (168),a
 43.779724,-79.4942245,2,Keele Street (497),a
 43.7797463,-79.3358394,2,Crossbow Crescent (045),a
 43.7797463,-79.3358394,2,Crossbow Crescent (747),a
-43.7797547,-79.3446853,2,Fairview Mall Drive (838),a
-43.7797547,-79.3446853,2,Fairview Mall Drive (838),a
-43.7797547,-79.3446853,2,Fairview Mall Drive (996),a
-43.7797547,-79.3446853,2,Fairview Mall Drive (996),a
-43.779757,-79.3427325,2,Fairview Mall Drive (257),a
-43.779757,-79.3427325,2,Fairview Mall Drive (455),a
-43.779765,-79.3488045,2,Don Mills Road East (405),a
-43.779765,-79.3488045,2,Don Mills Road East (424),a
-43.7797756,-79.3425772,2,Fairview Mall Drive (470),a
 43.7798009,-79.3358752,2,Crossbow Crescent (046),a
 43.7798009,-79.3358752,2,Crossbow Crescent (748),a
-43.7798048,-79.3493839,2,Don Mills Road West (048),a
-43.7798048,-79.3493839,2,Don Mills Road West (305),a
-43.779829,-79.3457443,2,Godstone Road (069),a
-43.779829,-79.3457443,2,Godstone Road (181),a
-43.7798478,-79.3430181,2,Fairview Mall Drive (258),a
-43.7798478,-79.3430181,2,Fairview Mall Drive (456),a
-43.7798523,-79.3438263,2,Fairview Mall Drive (247),a
-43.7798523,-79.3438263,2,Fairview Mall Drive (247),a
-43.7798523,-79.3438263,2,Fairview Mall Drive (445),a
-43.7798523,-79.3438263,2,Fairview Mall Drive (445),a
 43.7798553,-79.3389928,2,Muirhead Road (488),a
 43.7798553,-79.3389928,2,Muirhead Road (538),a
 43.7798553,-79.3358985,2,Crossbow Crescent (047),a
@@ -31545,71 +31408,34 @@ lat,lon,sz,names,len_cat
 43.7798563,-79.3316485,2,Painswick Crescent (665),a
 43.7798563,-79.3316485,2,Painswick Crescent (711),a
 43.7798563,-79.3316485,2,Painswick Crescent (711),a
-43.7798623,-79.3488137,2,Don Mills Road East (406),a
-43.7798623,-79.3488137,2,Don Mills Road East (425),a
 43.7798754,-79.5012049,2,Steeles Avenue West (599),a
 43.7798754,-79.5012049,2,Steeles Avenue West (599),a
 43.7798754,-79.5012049,2,Steeles Avenue West (898),a
 43.7798754,-79.5012049,2,Steeles Avenue West (898),a
 43.7798769,-79.3278635,2,Old Sheppard Avenue (281),a
 43.7798769,-79.3278635,2,Old Sheppard Avenue (597),a
-43.779881,-79.343161,2,Fairview Mall Drive (259),a
-43.779881,-79.343161,2,Fairview Mall Drive (457),a
-43.7798853,-79.3424725,2,Fairview Mall Drive (271),a
-43.7798853,-79.3424725,2,Fairview Mall Drive (469),a
 43.779886,-79.3315188,2,Painswick Crescent (077),a
 43.779886,-79.3315188,2,Painswick Crescent (077),a
 43.779886,-79.3315188,2,Painswick Crescent (731),a
 43.779886,-79.3315188,2,Painswick Crescent (731),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (246),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (260),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (260),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (444),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (444),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (458),a
-43.7798925,-79.3433438,2,Fairview Mall Drive (458),a
 43.7799085,-79.3358473,2,Crossbow Crescent (048),a
 43.7799085,-79.3358473,2,Crossbow Crescent (750),a
-43.7799095,-79.3495345,2,Don Mills Road West (047),a
-43.7799095,-79.3495345,2,Don Mills Road West (054),a
-43.7799095,-79.3495345,2,Don Mills Road West (303),a
-43.7799095,-79.3495345,2,Don Mills Road West (311),a
 43.7799251,-79.3357475,2,Crossbow Crescent (049),a
 43.7799251,-79.3357475,2,Crossbow Crescent (751),a
-43.7799398,-79.3423937,2,Fairview Mall Drive (270),a
-43.7799398,-79.3423937,2,Fairview Mall Drive (468),a
 43.779961,-79.3329355,2,Brian Drive (107),a
 43.779961,-79.3329355,2,Brian Drive (107),a
 43.779961,-79.3329355,2,Brian Drive (191),a
 43.779961,-79.3329355,2,Brian Drive (191),a
 43.7799784,-79.4944612,2,Keele Street (495),a
 43.7799784,-79.4944612,2,Keele Street (778),a
-43.7799883,-79.3422795,2,Fairview Mall Drive (839),a
-43.7799883,-79.3422795,2,Fairview Mall Drive (997),a
 43.7800091,-79.4941832,2,Keele Street (169),a
 43.7800091,-79.4941832,2,Keele Street (500),a
 43.7800284,-79.3317183,2,Cairnside Crescent (713),a
 43.7800284,-79.3317183,2,Cairnside Crescent (713),a
 43.7800284,-79.3317183,2,Cairnside Crescent (745),a
 43.7800284,-79.3317183,2,Cairnside Crescent (745),a
-43.7800322,-79.3497154,2,Don Mills Road West (046),a
-43.7800322,-79.3497154,2,Don Mills Road West (053),a
-43.7800322,-79.3497154,2,Don Mills Road West (302),a
-43.7800322,-79.3497154,2,Don Mills Road West (310),a
-43.7800335,-79.3419326,2,Fairview Mall Drive (267),a
-43.7800335,-79.3419326,2,Fairview Mall Drive (268),a
-43.7800335,-79.3419326,2,Fairview Mall Drive (465),a
-43.7800335,-79.3419326,2,Fairview Mall Drive (466),a
 43.7800341,-79.3308731,2,Painswick Crescent (666),a
 43.7800341,-79.3308731,2,Painswick Crescent (712),a
-43.7800745,-79.3415213,2,Fairview Mall Drive (245),a
-43.7800745,-79.3415213,2,Fairview Mall Drive (266),a
-43.7800745,-79.3415213,2,Fairview Mall Drive (443),a
-43.7800745,-79.3415213,2,Fairview Mall Drive (464),a
-43.7800855,-79.3498781,2,Don Mills Road West (045),a
-43.7800855,-79.3498781,2,Don Mills Road West (300),a
-43.7801337,-79.3411056,2,Fairview Mall Drive (244),a
-43.7801337,-79.3411056,2,Fairview Mall Drive (442),a
 43.7801459,-79.3317523,2,Cairnside Crescent (714),a
 43.7801459,-79.3317523,2,Cairnside Crescent (714),a
 43.7801459,-79.3317523,2,Cairnside Crescent (746),a
@@ -31632,21 +31458,18 @@ lat,lon,sz,names,len_cat
 43.7801958,-79.332961,2,Brian Drive (192),a
 43.7801967,-79.4940378,2,Carmen Principato Way (392),a
 43.7801967,-79.4940378,2,Carmen Principato Way (975),a
-43.7802071,-79.3487288,2,Don Mills Road East (724),a
-43.7802071,-79.3487288,2,Don Mills Road East (815),a
 43.7802363,-79.3317747,2,Cairnside Crescent (715),a
 43.7802363,-79.3317747,2,Cairnside Crescent (715),a
 43.7802363,-79.3317747,2,Cairnside Crescent (747),a
 43.7802363,-79.3317747,2,Cairnside Crescent (747),a
 43.7802385,-79.4943931,2,Keele Street (391),a
 43.7802385,-79.4943931,2,Keele Street (724),a
-43.7802487,-79.3457068,2,Godstone Road (070),a
-43.7802487,-79.3457068,2,Godstone Road (182),a
 43.7802687,-79.3253527,2,Victoria Park Avenue (041),a
 43.7802828,-79.4941594,2,Keele Street (171),a
 43.7802828,-79.4941594,2,Keele Street (504),a
 43.7803507,-79.3255722,2,Old Sheppard Avenue (077),a
 43.7803507,-79.3255722,2,Old Sheppard Avenue (399),a
+43.7803531,-79.331759,2,Cairnside Crescent (716),a
 43.7803531,-79.331759,2,Cairnside Crescent (716),a
 43.7803531,-79.331759,2,Cairnside Crescent (748),a
 43.7803531,-79.331759,2,Cairnside Crescent (748),a
@@ -31666,10 +31489,6 @@ lat,lon,sz,names,len_cat
 43.7803877,-79.3329403,2,Crossbow Crescent (757),a
 43.7803882,-79.3335475,2,Crossbow Crescent (051),a
 43.7803882,-79.3335475,2,Crossbow Crescent (753),a
-43.7803915,-79.3457366,2,Godstone Road (071),a
-43.7803915,-79.3457366,2,Godstone Road (183),a
-43.7803915,-79.3457366,2,Kingslake Road (233),a
-43.7803915,-79.3457366,2,Kingslake Road (235),a
 43.7803957,-79.4891153,2,Petrolia Road (468),a
 43.7803957,-79.4891153,2,Petrolia Road (468),a
 43.7803957,-79.4891153,2,Petrolia Road (994),a
@@ -31678,8 +31497,6 @@ lat,lon,sz,names,len_cat
 43.7804044,-79.3334228,2,Crossbow Crescent (754),a
 43.780417,-79.4943695,2,Keele Street (494),a
 43.780417,-79.4943695,2,Keele Street (777),a
-43.7804196,-79.350898,2,Don Mills Road West (044),a
-43.7804196,-79.350898,2,Don Mills Road West (299),a
 43.7804199,-79.3332483,2,Crossbow Crescent (054),a
 43.7804199,-79.3332483,2,Crossbow Crescent (054),a
 43.7804199,-79.3332483,2,Crossbow Crescent (756),a
@@ -31693,46 +31510,20 @@ lat,lon,sz,names,len_cat
 43.7804222,-79.3331368,2,Crossbow Crescent (981),a
 43.7804222,-79.3331368,2,Crossbow Crescent (981),a
 43.780427,-79.3330939,2,Crossbow Crescent (058),a
+43.780427,-79.3330939,2,Crossbow Crescent (058),a
 43.780427,-79.3330939,2,Crossbow Crescent (236),a
 43.780427,-79.3330939,2,Crossbow Crescent (236),a
 43.7804306,-79.3290478,2,Painswick Crescent (668),a
 43.7804306,-79.3290478,2,Painswick Crescent (715),a
-43.780433,-79.3437598,2,Allenbury Gardens (248),a
-43.780433,-79.3437598,2,Allenbury Gardens (248),a
-43.780433,-79.3437598,2,Allenbury Gardens (437),a
-43.780433,-79.3437598,2,Allenbury Gardens (437),a
-43.7804376,-79.3436661,2,Allenbury Gardens (250),a
-43.7804376,-79.3436661,2,Allenbury Gardens (250),a
-43.7804376,-79.3436661,2,Allenbury Gardens (438),a
-43.7804376,-79.3436661,2,Allenbury Gardens (438),a
-43.7804397,-79.3456217,2,Kingslake Road (234),a
-43.7804397,-79.3456217,2,Kingslake Road (236),a
 43.7804422,-79.3316944,2,Cairnside Crescent (717),a
 43.7804422,-79.3316944,2,Cairnside Crescent (717),a
 43.7804422,-79.3316944,2,Cairnside Crescent (749),a
 43.7804422,-79.3316944,2,Cairnside Crescent (749),a
 43.780446,-79.4941776,2,Keele Street (064),a
 43.780446,-79.4941776,2,Keele Street (813),a
-43.7804486,-79.3438604,2,Allenbury Gardens (246),a
-43.7804486,-79.3438604,2,Allenbury Gardens (246),a
-43.7804486,-79.3438604,2,Allenbury Gardens (436),a
-43.7804486,-79.3438604,2,Allenbury Gardens (436),a
 43.7804548,-79.3254338,2,Victoria Park Avenue (291),a
-43.7804602,-79.3435715,2,Allenbury Gardens (252),a
-43.7804602,-79.3435715,2,Allenbury Gardens (252),a
-43.7804602,-79.3435715,2,Allenbury Gardens (439),a
 43.78047,-79.3391622,2,Muirhead Road (489),a
 43.78047,-79.3391622,2,Muirhead Road (539),a
-43.7804712,-79.3455465,2,Kingslake Road (002),a
-43.7804712,-79.3455465,2,Kingslake Road (817),a
-43.7805031,-79.3454706,2,Kingslake Road (235),a
-43.7805031,-79.3454706,2,Kingslake Road (237),a
-43.7805222,-79.3457743,2,Godstone Road (072),a
-43.7805222,-79.3457743,2,Godstone Road (184),a
-43.780554,-79.3433586,2,Allenbury Gardens (256),a
-43.780554,-79.3433586,2,Allenbury Gardens (256),a
-43.780554,-79.3433586,2,Allenbury Gardens (441),a
-43.780554,-79.3433586,2,Allenbury Gardens (441),a
 43.7805555,-79.4926341,2,Carmen Principato Way (923),a
 43.7805555,-79.4926341,2,Carmen Principato Way (956),a
 43.7805573,-79.3365004,2,Ipswich Crescent (542),a
@@ -31747,12 +31538,8 @@ lat,lon,sz,names,len_cat
 43.7805742,-79.3364254,2,Ipswich Crescent (703),a
 43.7805897,-79.4943663,2,Keele Street (390),a
 43.7805897,-79.4943663,2,Keele Street (723),a
-43.7805974,-79.3458413,2,Godstone Road (073),a
-43.7805974,-79.3458413,2,Godstone Road (185),a
 43.7806048,-79.336673,2,Ipswich Crescent (545),a
 43.7806048,-79.336673,2,Ipswich Crescent (707),a
-43.7806245,-79.3513371,2,Don Mills Road West (043),a
-43.7806245,-79.3513371,2,Don Mills Road West (298),a
 43.7806251,-79.3392009,2,Edmonton Drive (056),a
 43.7806251,-79.3392009,2,Edmonton Drive (429),a
 43.7806251,-79.3392009,2,Muirhead Road (465),a
@@ -31761,8 +31548,6 @@ lat,lon,sz,names,len_cat
 43.7806251,-79.3392009,2,Muirhead Road (540),a
 43.7806324,-79.3367096,2,Ipswich Crescent (546),a
 43.7806324,-79.3367096,2,Ipswich Crescent (708),a
-43.7806334,-79.3485335,2,Don Mills Road East (725),a
-43.7806334,-79.3485335,2,Don Mills Road East (816),a
 43.780638,-79.3315398,2,Cairnside Crescent (718),a
 43.780638,-79.3315398,2,Cairnside Crescent (718),a
 43.780638,-79.3315398,2,Cairnside Crescent (750),a
@@ -31801,10 +31586,6 @@ lat,lon,sz,names,len_cat
 43.7807722,-79.4973384,2,Steeles Avenue West (899),a
 43.7807895,-79.3277329,2,Painswick Crescent (675),a
 43.7807895,-79.3277329,2,Painswick Crescent (728),a
-43.7807897,-79.3441459,2,Allenbury Gardens (044),a
-43.7807897,-79.3441459,2,Allenbury Gardens (044),a
-43.7807897,-79.3441459,2,Allenbury Gardens (929),a
-43.7807897,-79.3441459,2,Allenbury Gardens (929),a
 43.7807931,-79.331339,2,Cairnside Crescent (720),a
 43.7807931,-79.331339,2,Cairnside Crescent (720),a
 43.7807931,-79.331339,2,Cairnside Crescent (752),a
@@ -31819,25 +31600,15 @@ lat,lon,sz,names,len_cat
 43.7808407,-79.3312359,2,Cairnside Crescent (721),a
 43.7808407,-79.3312359,2,Cairnside Crescent (753),a
 43.7808407,-79.3312359,2,Cairnside Crescent (753),a
-43.7808538,-79.3516289,2,Don Mills Road West (042),a
-43.7808538,-79.3516289,2,Don Mills Road West (297),a
 43.7808653,-79.3310737,2,Cairnside Crescent (722),a
 43.7808653,-79.3310737,2,Cairnside Crescent (754),a
 43.7808684,-79.3256298,2,Victoria Park Avenue (290),a
 43.7808747,-79.3385704,2,Edmonton Drive (057),a
 43.7808747,-79.3385704,2,Edmonton Drive (430),a
-43.7808804,-79.3516501,2,Don Mills Road West (335),a
-43.7808804,-79.3516501,2,Don Mills Road West (835),a
-43.780897,-79.3484017,2,Don Mills Road East (726),a
-43.780897,-79.3484017,2,Don Mills Road East (817),a
 43.7809072,-79.3308613,2,Cairnside Crescent (723),a
 43.7809072,-79.3308613,2,Cairnside Crescent (755),a
 43.7809074,-79.3277918,2,Painswick Crescent (677),a
 43.7809074,-79.3277918,2,Painswick Crescent (732),a
-43.7809293,-79.3442628,2,Allenbury Gardens (043),a
-43.7809293,-79.3442628,2,Allenbury Gardens (043),a
-43.7809293,-79.3442628,2,Allenbury Gardens (928),a
-43.7809293,-79.3442628,2,Allenbury Gardens (928),a
 43.7809416,-79.4942579,2,Keele Street (173),a
 43.7809416,-79.4942579,2,Keele Street (508),a
 43.7809529,-79.3278278,2,Painswick Crescent (678),a
@@ -31846,20 +31617,8 @@ lat,lon,sz,names,len_cat
 43.7809582,-79.3306486,2,Cairnside Crescent (756),a
 43.7809677,-79.3384674,2,Edmonton Drive (058),a
 43.7809677,-79.3384674,2,Edmonton Drive (431),a
-43.7809957,-79.3443184,2,Allenbury Gardens (242),a
-43.7809957,-79.3443184,2,Allenbury Gardens (242),a
-43.7809957,-79.3443184,2,Allenbury Gardens (435),a
-43.7809957,-79.3443184,2,Allenbury Gardens (435),a
-43.7809957,-79.3443184,2,Kingslake Road (236),a
-43.7809957,-79.3443184,2,Kingslake Road (236),a
-43.7809957,-79.3443184,2,Kingslake Road (238),a
-43.7809957,-79.3443184,2,Kingslake Road (238),a
 43.780999,-79.3303616,2,Cairnside Crescent (725),a
 43.780999,-79.3303616,2,Cairnside Crescent (757),a
-43.7810038,-79.3462039,2,Godstone Road (074),a
-43.7810038,-79.3462039,2,Godstone Road (186),a
-43.7810335,-79.3483245,2,Don Mills Road East (727),a
-43.7810335,-79.3483245,2,Don Mills Road East (818),a
 43.7810414,-79.3344986,2,Ipswich Crescent (538),a
 43.7810414,-79.3344986,2,Ipswich Crescent (700),a
 43.7810502,-79.4944352,2,Keele Street (389),a
@@ -31874,10 +31633,6 @@ lat,lon,sz,names,len_cat
 43.7810668,-79.3325344,2,Pondsview Drive (107),a
 43.7810668,-79.3325344,2,Pondsview Drive (139),a
 43.7810668,-79.3325344,2,Pondsview Drive (139),a
-43.781067,-79.3462602,2,Godstone Road (075),a
-43.781067,-79.3462602,2,Godstone Road (187),a
-43.781067,-79.3462602,2,Lisburn Crescent (170),a
-43.781067,-79.3462602,2,Lisburn Crescent (301),a
 43.7810853,-79.3368958,2,Ipswich Crescent (549),a
 43.7810853,-79.3368958,2,Ipswich Crescent (711),a
 43.7811139,-79.3326388,2,Pondsview Drive (318),a
@@ -31885,16 +31640,16 @@ lat,lon,sz,names,len_cat
 43.781116,-79.3384731,2,Edmonton Drive (060),a
 43.781116,-79.3384731,2,Edmonton Drive (433),a
 43.781116,-79.3384731,2,Endsleigh Crescent (206),a
+43.781116,-79.3384731,2,Endsleigh Crescent (724),a
 43.7811176,-79.3341734,2,Endsleigh Crescent (194),a
 43.7811176,-79.3341734,2,Endsleigh Crescent (712),a
 43.7811176,-79.3341734,2,Ipswich Crescent (537),a
 43.7811176,-79.3341734,2,Ipswich Crescent (551),a
 43.7811176,-79.3341734,2,Ipswich Crescent (699),a
 43.7811176,-79.3341734,2,Ipswich Crescent (713),a
-43.7811283,-79.3461177,2,Lisburn Crescent (171),a
-43.7811283,-79.3461177,2,Lisburn Crescent (302),a
 43.7811304,-79.3383586,2,Endsleigh Crescent (089),a
 43.7811304,-79.3383586,2,Endsleigh Crescent (744),a
+43.7811304,-79.3326644,2,Pondsview Drive (099),a
 43.7811304,-79.3326644,2,Pondsview Drive (099),a
 43.7811313,-79.3381994,2,Endsleigh Crescent (208),a
 43.7811313,-79.3381994,2,Endsleigh Crescent (726),a
@@ -31904,18 +31659,13 @@ lat,lon,sz,names,len_cat
 43.781136,-79.3326878,2,Pondsview Drive (140),a
 43.7811364,-79.4894475,2,Petrolia Road (471),a
 43.7811364,-79.4894475,2,Petrolia Road (997),a
-43.7811381,-79.3420064,2,Allenbury Gardens (260),a
-43.7811381,-79.3420064,2,Allenbury Gardens (442),a
 43.7811386,-79.3380873,2,Endsleigh Crescent (209),a
 43.7811386,-79.3380873,2,Endsleigh Crescent (727),a
 43.7811422,-79.3326935,2,Pondsview Drive (108),a
+43.7811422,-79.3326935,2,Pondsview Drive (108),a
 43.7811687,-79.3339944,2,Ipswich Crescent (552),a
 43.7811687,-79.3339944,2,Ipswich Crescent (714),a
-43.7811689,-79.3460266,2,Lisburn Crescent (000),a
-43.7811689,-79.3460266,2,Lisburn Crescent (815),a
 43.7811758,-79.3257821,2,Victoria Park Avenue (289),a
-43.781176,-79.3518864,2,Don Mills Road West (041),a
-43.781176,-79.3518864,2,Don Mills Road West (296),a
 43.7811932,-79.3328537,2,Pondsview Drive (109),a
 43.7811932,-79.3328537,2,Pondsview Drive (109),a
 43.7811932,-79.3328537,2,Pondsview Drive (141),a
@@ -31932,8 +31682,6 @@ lat,lon,sz,names,len_cat
 43.7812112,-79.3328956,2,Pondsview Drive (142),a
 43.7812197,-79.3342212,2,Endsleigh Crescent (274),a
 43.7812197,-79.3342212,2,Endsleigh Crescent (818),a
-43.7812285,-79.3463842,2,Godstone Road (076),a
-43.7812285,-79.3463842,2,Godstone Road (188),a
 43.7812293,-79.3329189,2,Pondsview Drive (111),a
 43.7812293,-79.3329189,2,Pondsview Drive (111),a
 43.7812293,-79.3329189,2,Pondsview Drive (143),a
@@ -31944,12 +31692,6 @@ lat,lon,sz,names,len_cat
 43.7812473,-79.3329584,2,Pondsview Drive (112),a
 43.7812473,-79.3329584,2,Pondsview Drive (144),a
 43.7812473,-79.3329584,2,Pondsview Drive (144),a
-43.7812628,-79.3482644,2,Don Mills Road East (728),a
-43.7812628,-79.3482644,2,Don Mills Road East (819),a
-43.7812647,-79.3418884,2,Allenbury Gardens (262),a
-43.7812647,-79.3418884,2,Allenbury Gardens (443),a
-43.781292,-79.3519595,2,Don Mills Road West (040),a
-43.781292,-79.3519595,2,Don Mills Road West (295),a
 43.7813018,-79.4895217,2,Petrolia Road (470),a
 43.7813018,-79.4895217,2,Petrolia Road (996),a
 43.7813104,-79.3330452,2,Pondsview Drive (114),a
@@ -31974,8 +31716,6 @@ lat,lon,sz,names,len_cat
 43.7813555,-79.3331026,2,Pondsview Drive (147),a
 43.7813566,-79.3336501,2,Ipswich Crescent (554),a
 43.7813566,-79.3336501,2,Ipswich Crescent (716),a
-43.7813655,-79.341887,2,Allenbury Gardens (264),a
-43.7813655,-79.341887,2,Allenbury Gardens (444),a
 43.7813663,-79.3370247,2,Endsleigh Crescent (203),a
 43.7813663,-79.3370247,2,Endsleigh Crescent (210),a
 43.7813663,-79.3370247,2,Endsleigh Crescent (721),a
@@ -31998,7 +31738,6 @@ lat,lon,sz,names,len_cat
 43.7814317,-79.333475,2,Ipswich Crescent (717),a
 43.781437,-79.4895823,2,Petrolia Road (467),a
 43.781437,-79.4895823,2,Petrolia Road (993),a
-43.7814506,-79.3419232,2,Allenbury Gardens (266),a
 43.7814559,-79.4943781,2,Keele Street (175),a
 43.7814559,-79.4943781,2,Keele Street (347),a
 43.7814559,-79.4943781,2,Keele Street (512),a
@@ -32023,22 +31762,12 @@ lat,lon,sz,names,len_cat
 43.7814821,-79.4896025,2,Petrolia Road (998),a
 43.7814838,-79.4942591,2,Steeles Avenue West (479),a
 43.7814838,-79.4942591,2,Steeles Avenue West (672),a
-43.7814859,-79.3482386,2,Don Mills Road East (729),a
-43.7814859,-79.3482386,2,Don Mills Road East (820),a
 43.7814967,-79.3280736,2,Cairnside Crescent (727),a
 43.7814967,-79.3280736,2,Cairnside Crescent (759),a
 43.7814967,-79.3280736,2,Painswick Crescent (663),a
 43.7814967,-79.3280736,2,Painswick Crescent (680),a
 43.7814967,-79.3280736,2,Painswick Crescent (708),a
 43.7814967,-79.3280736,2,Painswick Crescent (738),a
-43.7815318,-79.3430759,2,Kingslake Road (237),a
-43.7815318,-79.3430759,2,Kingslake Road (237),a
-43.7815318,-79.3430759,2,Kingslake Road (239),a
-43.7815318,-79.3430759,2,Kingslake Road (239),a
-43.7815318,-79.3430759,2,Lisburn Crescent (362),a
-43.7815318,-79.3430759,2,Lisburn Crescent (362),a
-43.7815318,-79.3430759,2,Lisburn Crescent (962),a
-43.7815318,-79.3430759,2,Lisburn Crescent (962),a
 43.7815597,-79.3384496,2,Edmonton Drive (061),a
 43.7815597,-79.3384496,2,Edmonton Drive (434),a
 43.7815597,-79.3384496,2,Edmonton Road (127),a
@@ -32081,14 +31810,6 @@ lat,lon,sz,names,len_cat
 43.7816216,-79.4936545,2,Steeles Avenue West (893),a
 43.7816348,-79.333254,2,Pondsview Drive (088),a
 43.7816348,-79.333254,2,Pondsview Drive (120),a
-43.7816488,-79.3432375,2,Lisburn Crescent (001),a
-43.7816488,-79.3432375,2,Lisburn Crescent (001),a
-43.7816488,-79.3432375,2,Lisburn Crescent (816),a
-43.7816488,-79.3432375,2,Lisburn Crescent (816),a
-43.7816743,-79.342724,2,Kingslake Road (238),a
-43.7816743,-79.342724,2,Kingslake Road (240),a
-43.7816942,-79.3421999,2,Allenbury Gardens (268),a
-43.7816942,-79.3421999,2,Allenbury Gardens (446),a
 43.7816963,-79.335574,2,Endsleigh Crescent (202),a
 43.7816963,-79.335574,2,Endsleigh Crescent (205),a
 43.7816963,-79.335574,2,Endsleigh Crescent (720),a
@@ -32099,10 +31820,6 @@ lat,lon,sz,names,len_cat
 43.7817051,-79.3320731,2,Brian Drive (114),a
 43.7817051,-79.3320731,2,Brian Drive (198),a
 43.7817051,-79.3320731,2,Brian Drive (198),a
-43.7817487,-79.3467838,2,Godstone Road (077),a
-43.7817487,-79.3467838,2,Godstone Road (189),a
-43.7817487,-79.3467838,2,Kempsell Crescent (161),a
-43.7817487,-79.3467838,2,Kempsell Crescent (941),a
 43.7817749,-79.4934327,2,Steeles Avenue West (445),a
 43.7817749,-79.4934327,2,Steeles Avenue West (481),a
 43.7817749,-79.4934327,2,Steeles Avenue West (674),a
@@ -32110,25 +31827,14 @@ lat,lon,sz,names,len_cat
 43.781787,-79.3356212,2,Margaret Avenue (631),a
 43.781797,-79.3356263,2,Margaret Avenue (273),a
 43.781797,-79.3356263,2,Margaret Avenue (817),a
-43.7817974,-79.3466673,2,Kempsell Crescent (160),a
-43.7817974,-79.3466673,2,Kempsell Crescent (940),a
-43.7818092,-79.3423718,2,Allenbury Gardens (045),a
-43.7818092,-79.3423718,2,Allenbury Gardens (930),a
-43.781818,-79.3466181,2,Kempsell Crescent (814),a
-43.781818,-79.3466181,2,Kempsell Crescent (999),a
 43.7818196,-79.3304506,2,Clydesdale Drive (139),a
 43.7818196,-79.3304506,2,Clydesdale Drive (268),a
 43.781829,-79.338476,2,Edmonton Road (128),a
 43.781829,-79.338476,2,Edmonton Road (857),a
-43.7818329,-79.3483416,2,Don Mills Road East (730),a
-43.7818329,-79.3483416,2,Don Mills Road East (821),a
 43.7818337,-79.3345015,2,Endsleigh Crescent (195),a
 43.7818337,-79.3345015,2,Endsleigh Crescent (713),a
 43.7818566,-79.3348364,2,Endsleigh Crescent (201),a
 43.7818566,-79.3348364,2,Endsleigh Crescent (719),a
-43.7818726,-79.3424665,2,Allenbury Gardens (270),a
-43.7818726,-79.3424665,2,Kingslake Road (239),a
-43.7818726,-79.3424665,2,Kingslake Road (241),a
 43.7818739,-79.3347862,2,Endsleigh Crescent (200),a
 43.7818739,-79.3347862,2,Endsleigh Crescent (718),a
 43.7818794,-79.4897807,2,Petrolia Road (688),a
@@ -32149,43 +31855,21 @@ lat,lon,sz,names,len_cat
 43.7820134,-79.329538,2,Clydesdale Drive (269),a
 43.7820277,-79.4898432,2,Petrolia Road (361),a
 43.7820277,-79.4898432,2,Petrolia Road (791),a
-43.7820336,-79.3423306,2,Kingslake Road (240),a
-43.7820336,-79.3423306,2,Kingslake Road (242),a
 43.782038,-79.3293758,2,Clydesdale Drive (141),a
 43.782038,-79.3293758,2,Clydesdale Drive (270),a
-43.7820435,-79.3437828,2,Lisburn Crescent (360),a
-43.7820435,-79.3437828,2,Lisburn Crescent (360),a
-43.7820435,-79.3437828,2,Lisburn Crescent (361),a
-43.7820435,-79.3437828,2,Lisburn Crescent (361),a
-43.7820435,-79.3437828,2,Lisburn Crescent (960),a
-43.7820435,-79.3437828,2,Lisburn Crescent (960),a
-43.7820435,-79.3437828,2,Lisburn Crescent (961),a
 43.7820621,-79.3291763,2,Clydesdale Drive (142),a
 43.7820621,-79.3291763,2,Clydesdale Drive (271),a
-43.7820622,-79.3440253,2,Lisburn Crescent (172),a
-43.7820622,-79.3440253,2,Lisburn Crescent (172),a
-43.7820622,-79.3440253,2,Lisburn Crescent (303),a
-43.7820622,-79.3440253,2,Lisburn Crescent (303),a
 43.7820742,-79.3289531,2,Clydesdale Drive (143),a
 43.7820742,-79.3289531,2,Clydesdale Drive (272),a
-43.7820767,-79.3438702,2,Lisburn Crescent (359),a
-43.7820767,-79.3438702,2,Lisburn Crescent (359),a
-43.7820767,-79.3438702,2,Lisburn Crescent (959),a
-43.7820767,-79.3438702,2,Lisburn Crescent (959),a
 43.7820869,-79.3288357,2,Clydesdale Drive (144),a
 43.7820869,-79.3288357,2,Clydesdale Drive (273),a
-43.7821104,-79.3521791,2,Don Mills Road West (038),a
-43.7821104,-79.3521791,2,Don Mills Road West (293),a
 43.7821421,-79.3284906,2,Clydesdale Drive (145),a
 43.7821421,-79.3284906,2,Clydesdale Drive (274),a
 43.7821547,-79.3373757,2,Flintwood Court (192),a
 43.7821547,-79.3373757,2,Flintwood Court (630),a
-43.7821576,-79.3422691,2,Kingslake Road (241),a
-43.7821576,-79.3422691,2,Kingslake Road (243),a
-43.7821596,-79.3485459,2,Don Mills Road East (731),a
-43.7821596,-79.3485459,2,Don Mills Road East (822),a
 43.7821624,-79.3372885,2,Flintwood Court (191),a
 43.7821624,-79.3372885,2,Flintwood Court (629),a
+43.7821646,-79.3374376,2,Flintwood Court (193),a
 43.7821646,-79.3374376,2,Flintwood Court (631),a
 43.7821676,-79.3283505,2,Clydesdale Drive (116),a
 43.7821676,-79.3283505,2,Clydesdale Drive (146),a
@@ -32193,24 +31877,18 @@ lat,lon,sz,names,len_cat
 43.7821676,-79.3283505,2,Clydesdale Drive (275),a
 43.7821676,-79.3283505,2,Painswick Crescent (664),a
 43.7821676,-79.3283505,2,Painswick Crescent (709),a
-43.7821968,-79.3471518,2,Godstone Road (827),a
-43.7821968,-79.3471518,2,Godstone Road (895),a
 43.782201,-79.3374614,2,Flintwood Court (194),a
 43.782201,-79.3374614,2,Flintwood Court (632),a
-43.7822048,-79.3522021,2,Don Mills Road West (334),a
-43.7822048,-79.3522021,2,Don Mills Road West (834),a
-43.7822171,-79.3485819,2,Don Mills Road East (732),a
-43.7822171,-79.3485819,2,Don Mills Road East (823),a
 43.7822222,-79.3370631,2,Flintwood Court (190),a
 43.7822222,-79.3370631,2,Flintwood Court (628),a
 43.782228,-79.3374607,2,Flintwood Court (195),a
 43.782228,-79.3374607,2,Flintwood Court (633),a
 43.7822519,-79.3396521,2,Muirhead Road (468),a
+43.7822519,-79.3396521,2,Muirhead Road (518),a
+43.782255,-79.3374599,2,Flintwood Court (196),a
 43.782255,-79.3374599,2,Flintwood Court (634),a
 43.7822948,-79.3394787,2,Muirhead Road (469),a
 43.7822948,-79.3394787,2,Muirhead Road (519),a
-43.7823001,-79.3522253,2,Don Mills Road West (037),a
-43.7823001,-79.3522253,2,Don Mills Road West (292),a
 43.7823091,-79.3374708,2,Flintwood Court (197),a
 43.7823091,-79.3374708,2,Flintwood Court (635),a
 43.7823375,-79.3275929,2,Clydesdale Drive (118),a
@@ -32227,14 +31905,10 @@ lat,lon,sz,names,len_cat
 43.7823465,-79.3275463,2,Clydesdale Drive (248),a
 43.7823643,-79.3274259,2,Clydesdale Drive (121),a
 43.7823643,-79.3274259,2,Clydesdale Drive (250),a
-43.7823652,-79.3522415,2,Don Mills Road West (036),a
-43.7823652,-79.3522415,2,Don Mills Road West (291),a
 43.7823682,-79.4905449,2,Steeles Avenue West (429),a
 43.7823682,-79.4905449,2,Steeles Avenue West (619),a
 43.7823732,-79.3273809,2,Clydesdale Drive (122),a
 43.7823732,-79.3273809,2,Clydesdale Drive (251),a
-43.7824055,-79.3452131,2,Kempsell Crescent (159),a
-43.7824055,-79.3452131,2,Kempsell Crescent (939),a
 43.7824092,-79.3273489,2,Clydesdale Drive (123),a
 43.7824092,-79.3273489,2,Clydesdale Drive (252),a
 43.7824194,-79.490008,2,Petrolia Road (689),a
@@ -32244,18 +31918,10 @@ lat,lon,sz,names,len_cat
 43.782428,-79.4906964,2,Steeles Avenue West (618),a
 43.7824359,-79.337517,2,Flintwood Court (198),a
 43.7824359,-79.337517,2,Flintwood Court (636),a
-43.7824489,-79.3473588,2,Godstone Road (078),a
-43.7824489,-79.3473588,2,Godstone Road (079),a
-43.7824489,-79.3473588,2,Godstone Road (190),a
-43.7824489,-79.3473588,2,Godstone Road (191),a
-43.7824489,-79.3473588,2,Kempsell Crescent (151),a
-43.7824489,-79.3473588,2,Kempsell Crescent (931),a
 43.7824537,-79.4901894,2,Steeles Avenue West (430),a
 43.7824537,-79.4901894,2,Steeles Avenue West (620),a
 43.7824632,-79.3273464,2,Clydesdale Drive (124),a
 43.7824632,-79.3273464,2,Clydesdale Drive (253),a
-43.7824799,-79.3421747,2,Kingslake Road (242),a
-43.7824799,-79.3421747,2,Kingslake Road (244),a
 43.7824919,-79.4900399,2,Petrolia Road (686),a
 43.7824919,-79.4900399,2,Petrolia Road (690),a
 43.7824919,-79.4900399,2,Petrolia Road (841),a
@@ -32264,37 +31930,17 @@ lat,lon,sz,names,len_cat
 43.7824919,-79.4900399,2,Steeles Avenue West (431),a
 43.7824919,-79.4900399,2,Steeles Avenue West (540),a
 43.7824919,-79.4900399,2,Steeles Avenue West (621),a
-43.7824975,-79.3472428,2,Kempsell Crescent (152),a
-43.7824975,-79.3472428,2,Kempsell Crescent (932),a
 43.7824992,-79.3375401,2,Flintwood Court (199),a
 43.7824992,-79.3375401,2,Flintwood Court (637),a
 43.7825082,-79.3273712,2,Clydesdale Drive (125),a
 43.7825082,-79.3273712,2,Clydesdale Drive (254),a
 43.7825112,-79.326436,2,Victoria Park Avenue (288),a
-43.7825171,-79.3450671,2,Kempsell Crescent (158),a
-43.7825171,-79.3450671,2,Kempsell Crescent (169),a
-43.7825171,-79.3450671,2,Kempsell Crescent (938),a
-43.7825171,-79.3450671,2,Kempsell Crescent (949),a
 43.7825218,-79.4899063,2,Steeles Avenue West (351),a
 43.7825218,-79.4899063,2,Steeles Avenue West (541),a
 43.7825623,-79.3274044,2,Clydesdale Drive (126),a
 43.7825623,-79.3274044,2,Clydesdale Drive (255),a
 43.7825716,-79.337563,2,Flintwood Court (200),a
 43.7825716,-79.337563,2,Flintwood Court (638),a
-43.7825914,-79.3448697,2,Kempsell Crescent (168),a
-43.7825914,-79.3448697,2,Kempsell Crescent (168),a
-43.7825914,-79.3448697,2,Kempsell Crescent (948),a
-43.7825914,-79.3448697,2,Kempsell Crescent (948),a
-43.7826224,-79.34505,2,Kempsell Crescent (157),a
-43.7826224,-79.34505,2,Kempsell Crescent (937),a
-43.7826348,-79.3447582,2,Kempsell Crescent (167),a
-43.7826348,-79.3447582,2,Kempsell Crescent (167),a
-43.7826348,-79.3447582,2,Kempsell Crescent (947),a
-43.7826348,-79.3447582,2,Kempsell Crescent (947),a
-43.7826348,-79.343093,2,Gleneagle Crescent (357),a
-43.7826348,-79.343093,2,Gleneagle Crescent (357),a
-43.7826348,-79.343093,2,Gleneagle Crescent (485),a
-43.7826348,-79.343093,2,Gleneagle Crescent (485),a
 43.7826348,-79.3375737,2,Flintwood Court (201),a
 43.7826348,-79.3375737,2,Flintwood Court (639),a
 43.7826369,-79.3324852,2,Brian Drive (116),a
@@ -32303,74 +31949,27 @@ lat,lon,sz,names,len_cat
 43.7826369,-79.3324852,2,Brian Drive (200),a
 43.782661,-79.4893228,2,Steeles Avenue West (352),a
 43.782661,-79.4893228,2,Steeles Avenue West (542),a
-43.7826844,-79.3432475,2,Gleneagle Crescent (358),a
-43.7826844,-79.3432475,2,Gleneagle Crescent (358),a
-43.7826844,-79.3432475,2,Gleneagle Crescent (486),a
-43.7826844,-79.3432475,2,Gleneagle Crescent (486),a
 43.7826978,-79.3375719,2,Flintwood Court (202),a
 43.7826978,-79.3375719,2,Flintwood Court (640),a
-43.7827083,-79.3490382,2,Don Mills Road East (733),a
-43.7827083,-79.3490382,2,Don Mills Road East (824),a
-43.7827092,-79.3447152,2,Kempsell Crescent (166),a
-43.7827092,-79.3447152,2,Kempsell Crescent (166),a
-43.7827092,-79.3447152,2,Kempsell Crescent (946),a
-43.7827092,-79.3447152,2,Kempsell Crescent (946),a
 43.7827123,-79.3348623,2,Thane Court (276),a
 43.7827123,-79.3348623,2,Thane Court (938),a
-43.7827215,-79.3450929,2,Kempsell Crescent (156),a
-43.7827215,-79.3450929,2,Kempsell Crescent (162),a
-43.7827215,-79.3450929,2,Kempsell Crescent (936),a
-43.7827215,-79.3450929,2,Kempsell Crescent (942),a
-43.7827222,-79.3423129,2,Gleneagle Crescent (005),a
-43.7827222,-79.3423129,2,Gleneagle Crescent (820),a
 43.7827286,-79.3325286,2,Brian Drive (117),a
 43.7827286,-79.3325286,2,Brian Drive (117),a
 43.7827286,-79.3325286,2,Brian Drive (201),a
 43.7827286,-79.3325286,2,Brian Drive (201),a
-43.7827339,-79.342209,2,Gleneagle Crescent (356),a
-43.7827339,-79.342209,2,Gleneagle Crescent (484),a
-43.7827339,-79.342209,2,Kingslake Road (243),a
-43.7827339,-79.342209,2,Kingslake Road (245),a
-43.7827401,-79.3449556,2,Kempsell Crescent (163),a
-43.7827401,-79.3449556,2,Kempsell Crescent (943),a
 43.7827422,-79.3375334,2,Flintwood Court (203),a
 43.7827422,-79.3375334,2,Flintwood Court (641),a
+43.7827595,-79.3374832,2,Flintwood Court (204),a
 43.7827595,-79.3374832,2,Flintwood Court (642),a
-43.7827649,-79.3447582,2,Kempsell Crescent (165),a
-43.7827649,-79.3447582,2,Kempsell Crescent (165),a
-43.7827649,-79.3447582,2,Kempsell Crescent (945),a
-43.7827649,-79.3447582,2,Kempsell Crescent (945),a
 43.7827678,-79.3374333,2,Flintwood Court (205),a
 43.7827678,-79.3374333,2,Flintwood Court (643),a
-43.7827711,-79.3448526,2,Kempsell Crescent (164),a
-43.7827711,-79.3448526,2,Kempsell Crescent (164),a
-43.7827711,-79.3448526,2,Kempsell Crescent (944),a
-43.7827711,-79.3448526,2,Kempsell Crescent (944),a
 43.7827773,-79.4891963,2,Steeles Avenue West (353),a
 43.7827773,-79.4891963,2,Steeles Avenue West (394),a
 43.7827773,-79.4891963,2,Steeles Avenue West (543),a
-43.7827826,-79.3476265,2,Godstone Road (080),a
-43.7827826,-79.3476265,2,Godstone Road (192),a
-43.7827833,-79.3491113,2,Don Mills Road East (734),a
-43.7827833,-79.3491113,2,Don Mills Road East (825),a
-43.7827833,-79.3491113,2,Godstone Road (092),a
-43.7827833,-79.3491113,2,Godstone Road (204),a
 43.7827845,-79.3373458,2,Flintwood Court (206),a
 43.7827845,-79.3373458,2,Flintwood Court (644),a
-43.7827977,-79.3476399,2,Godstone Road (081),a
-43.7827977,-79.3476399,2,Godstone Road (193),a
 43.7828066,-79.3370097,2,Flintwood Court (207),a
 43.7828066,-79.3370097,2,Flintwood Court (645),a
-43.782812,-79.3523499,2,Don Mills Road West (035),a
-43.782812,-79.3523499,2,Don Mills Road West (290),a
-43.7828145,-79.3433076,2,Gleneagle Crescent (359),a
-43.7828145,-79.3433076,2,Gleneagle Crescent (359),a
-43.7828145,-79.3433076,2,Gleneagle Crescent (487),a
-43.7828145,-79.3433076,2,Gleneagle Crescent (487),a
-43.7828262,-79.3490222,2,Godstone Road (091),a
-43.7828262,-79.3490222,2,Godstone Road (203),a
-43.782831,-79.3476694,2,Godstone Road (082),a
-43.782831,-79.3476694,2,Godstone Road (194),a
 43.7828394,-79.3367851,2,Flintwood Court (208),a
 43.7828394,-79.3367851,2,Flintwood Court (646),a
 43.7828732,-79.336635,2,Flintwood Court (209),a
@@ -32379,8 +31978,6 @@ lat,lon,sz,names,len_cat
 43.7829324,-79.3363724,2,Flintwood Court (648),a
 43.7829581,-79.3362847,2,Flintwood Court (211),a
 43.7829581,-79.3362847,2,Flintwood Court (649),a
-43.7829601,-79.3477899,2,Godstone Road (083),a
-43.7829601,-79.3477899,2,Godstone Road (195),a
 43.7829814,-79.3361921,2,Flintwood Court (212),a
 43.7829814,-79.3361921,2,Flintwood Court (650),a
 43.7829814,-79.3361921,2,Margaret Avenue (506),a
@@ -32393,45 +31990,18 @@ lat,lon,sz,names,len_cat
 43.783007,-79.3402601,2,Pleasant View Drive (928),a
 43.783007,-79.3402601,2,Squirewood Road (140),a
 43.783007,-79.3402601,2,Squirewood Road (799),a
-43.7830131,-79.3478506,2,Godstone Road (084),a
-43.7830131,-79.3478506,2,Godstone Road (196),a
 43.7830146,-79.3360047,2,Pondsview Drive (103),a
 43.7830146,-79.3360047,2,Pondsview Drive (135),a
-43.7830447,-79.3479101,2,Godstone Road (085),a
-43.7830447,-79.3479101,2,Godstone Road (197),a
-43.78305,-79.3459255,2,Kempsell Crescent (153),a
-43.78305,-79.3459255,2,Kempsell Crescent (933),a
-43.7830562,-79.3455735,2,Kempsell Crescent (155),a
-43.7830562,-79.3455735,2,Kempsell Crescent (935),a
 43.7830571,-79.3350392,2,Thane Court (277),a
 43.7830571,-79.3350392,2,Thane Court (939),a
-43.7830624,-79.348577,2,Godstone Road (090),a
-43.7830624,-79.348577,2,Godstone Road (202),a
-43.7830872,-79.3480197,2,Godstone Road (086),a
-43.7830872,-79.3480197,2,Godstone Road (198),a
 43.7830896,-79.340284,2,Squirewood Road (531),a
 43.7830896,-79.340284,2,Squirewood Road (537),a
-43.7830933,-79.3457538,2,Kempsell Crescent (154),a
-43.7830933,-79.3457538,2,Kempsell Crescent (934),a
 43.7831045,-79.3355994,2,Pondsview Drive (104),a
 43.7831045,-79.3355994,2,Pondsview Drive (136),a
-43.7831152,-79.3483804,2,Godstone Road (089),a
-43.7831152,-79.3483804,2,Godstone Road (201),a
-43.7831174,-79.3481382,2,Godstone Road (087),a
-43.7831174,-79.3481382,2,Godstone Road (199),a
-43.7831259,-79.3482468,2,Godstone Road (088),a
-43.7831259,-79.3482468,2,Godstone Road (200),a
-43.7831278,-79.3494206,2,Don Mills Road East (735),a
-43.7831278,-79.3494206,2,Don Mills Road East (826),a
 43.7831339,-79.3354947,2,Pondsview Drive (105),a
 43.7831339,-79.3354947,2,Pondsview Drive (137),a
-43.7832173,-79.3434106,2,Gleneagle Crescent (360),a
-43.7832173,-79.3434106,2,Gleneagle Crescent (360),a
-43.7832173,-79.3434106,2,Gleneagle Crescent (488),a
 43.7832288,-79.3277014,2,Clydesdale Drive (127),a
 43.7832288,-79.3277014,2,Clydesdale Drive (256),a
-43.7832396,-79.3495261,2,Don Mills Road East (736),a
-43.7832396,-79.3495261,2,Don Mills Road East (827),a
 43.783242,-79.3403281,2,Squirewood Road (141),a
 43.783242,-79.3403281,2,Squirewood Road (800),a
 43.783246,-79.3351114,2,Pondsview Drive (101),a
@@ -32452,24 +32022,12 @@ lat,lon,sz,names,len_cat
 43.7833038,-79.3388194,2,Pleasant View Drive (091),a
 43.7833038,-79.3388194,2,Pleasant View Drive (904),a
 43.7833038,-79.3388194,2,Pleasant View Drive (927),a
-43.7833102,-79.343505,2,Gleneagle Crescent (361),a
-43.7833102,-79.343505,2,Gleneagle Crescent (361),a
-43.7833102,-79.343505,2,Gleneagle Crescent (489),a
-43.7833102,-79.343505,2,Gleneagle Crescent (489),a
-43.78332,-79.3423268,2,Kingslake Road (340),a
-43.78332,-79.3423268,2,Kingslake Road (596),a
 43.7833256,-79.3387248,2,Pleasant View Drive (038),a
 43.7833256,-79.3387248,2,Pleasant View Drive (102),a
 43.7833281,-79.3340351,2,Pondsview Drive (090),a
 43.7833281,-79.3340351,2,Pondsview Drive (122),a
 43.7833294,-79.3348994,2,Pondsview Drive (100),a
 43.7833294,-79.3348994,2,Pondsview Drive (132),a
-43.7833419,-79.3496158,2,Don Mills Road East (737),a
-43.7833419,-79.3496158,2,Don Mills Road East (828),a
-43.7833784,-79.3436424,2,Gleneagle Crescent (362),a
-43.7833784,-79.3436424,2,Gleneagle Crescent (362),a
-43.7833784,-79.3436424,2,Gleneagle Crescent (490),a
-43.7833784,-79.3436424,2,Gleneagle Crescent (490),a
 43.7834002,-79.3340691,2,Pondsview Drive (091),a
 43.7834002,-79.3340691,2,Pondsview Drive (123),a
 43.783401,-79.3346569,2,Pondsview Drive (099),a
@@ -32487,9 +32045,9 @@ lat,lon,sz,names,len_cat
 43.783481,-79.3278335,2,Clydesdale Drive (128),a
 43.783481,-79.3278335,2,Clydesdale Drive (257),a
 43.7834903,-79.3341271,2,Pondsview Drive (094),a
-43.7834929,-79.342396,2,Kingslake Road (244),a
-43.7834929,-79.342396,2,Kingslake Road (246),a
+43.7834903,-79.3341271,2,Pondsview Drive (126),a
 43.7834995,-79.3342971,2,Pondsview Drive (097),a
+43.7834995,-79.3342971,2,Pondsview Drive (129),a
 43.7835174,-79.3341946,2,Pondsview Drive (095),a
 43.7835174,-79.3341946,2,Pondsview Drive (127),a
 43.7835175,-79.3342505,2,Pondsview Drive (096),a
@@ -32500,10 +32058,9 @@ lat,lon,sz,names,len_cat
 43.7835584,-79.3377151,2,Pleasant View Drive (908),a
 43.7835584,-79.3377151,2,Sanwin Court (117),a
 43.7835584,-79.3377151,2,Sanwin Court (266),a
-43.7835819,-79.352673,2,Don Mills Road West (034),a
-43.7835819,-79.352673,2,Don Mills Road West (289),a
 43.7836074,-79.3279171,2,Clydesdale Drive (129),a
 43.7836074,-79.3279171,2,Clydesdale Drive (258),a
+43.7836215,-79.3404171,2,Squirewood Road (143),a
 43.7836215,-79.3404171,2,Squirewood Road (802),a
 43.7836258,-79.3283622,2,Kathrose Drive (203),a
 43.7836258,-79.3283622,2,Kathrose Drive (796),a
@@ -32511,14 +32068,14 @@ lat,lon,sz,names,len_cat
 43.7836259,-79.3284147,2,Kathrose Drive (795),a
 43.7836364,-79.328309,2,Kathrose Drive (204),a
 43.7836364,-79.328309,2,Kathrose Drive (797),a
+43.7836471,-79.3377566,2,Sanwin Court (530),a
 43.7836471,-79.3377566,2,Sanwin Court (536),a
 43.7836531,-79.3285086,2,Kathrose Drive (201),a
 43.7836531,-79.3285086,2,Kathrose Drive (794),a
-43.7836541,-79.3424985,2,Kingslake Road (339),a
-43.7836541,-79.3424985,2,Kingslake Road (595),a
 43.7836593,-79.3281838,2,Kathrose Drive (205),a
 43.7836593,-79.3281838,2,Kathrose Drive (798),a
 43.7836661,-79.340391,2,Squirewood Road (144),a
+43.7836661,-79.340391,2,Squirewood Road (803),a
 43.7836801,-79.3285357,2,Kathrose Drive (200),a
 43.7836801,-79.3285357,2,Kathrose Drive (793),a
 43.7836941,-79.3329882,2,Brian Drive (118),a
@@ -32537,8 +32094,6 @@ lat,lon,sz,names,len_cat
 43.7837251,-79.3285581,2,Kathrose Drive (792),a
 43.7837278,-79.3328441,2,Kathrose Drive (070),a
 43.7837278,-79.3328441,2,Kathrose Drive (729),a
-43.7837291,-79.3499552,2,Don Mills Road East (738),a
-43.7837291,-79.3499552,2,Don Mills Road East (829),a
 43.7837346,-79.3328148,2,Kathrose Drive (698),a
 43.7837346,-79.3328148,2,Kathrose Drive (982),a
 43.7837528,-79.3365506,2,Margaret Avenue (140),a
@@ -32546,6 +32101,7 @@ lat,lon,sz,names,len_cat
 43.7837732,-79.3403259,2,Squirewood Road (146),a
 43.7837732,-79.3403259,2,Squirewood Road (805),a
 43.7838171,-79.3270309,2,Victoria Park Avenue (285),a
+43.7838173,-79.3402625,2,Squirewood Road (147),a
 43.7838173,-79.3402625,2,Squirewood Road (806),a
 43.7838202,-79.3365793,2,Margaret Avenue (507),a
 43.7838202,-79.3365793,2,Margaret Avenue (520),a
@@ -32553,12 +32109,6 @@ lat,lon,sz,names,len_cat
 43.7838202,-79.3365793,2,Margaret Avenue (647),a
 43.7838202,-79.3365793,2,Pleasant View Drive (084),a
 43.7838202,-79.3365793,2,Pleasant View Drive (911),a
-43.7838208,-79.3426556,2,Kingslake Road (245),a
-43.7838208,-79.3426556,2,Kingslake Road (245),a
-43.7838208,-79.3426556,2,Kingslake Road (247),a
-43.7838208,-79.3426556,2,Kingslake Road (247),a
-43.7838245,-79.3448097,2,Gleneagle Crescent (363),a
-43.7838245,-79.3448097,2,Gleneagle Crescent (491),a
 43.7838432,-79.3401872,2,Squirewood Road (148),a
 43.7838432,-79.3401872,2,Squirewood Road (807),a
 43.7838563,-79.3272121,2,Clydesdale Drive (132),a
@@ -32573,58 +32123,28 @@ lat,lon,sz,names,len_cat
 43.7838904,-79.3366145,2,Margaret Avenue (507),a
 43.7839224,-79.3400608,2,Squirewood Road (150),a
 43.7839224,-79.3400608,2,Squirewood Road (809),a
-43.7839299,-79.3449642,2,Gleneagle Crescent (364),a
-43.7839299,-79.3449642,2,Gleneagle Crescent (492),a
 43.7839487,-79.3359887,2,Pleasant View Drive (085),a
 43.7839487,-79.3359887,2,Pleasant View Drive (915),a
 43.7839647,-79.3271032,2,Victoria Park Avenue (910),a
-43.7839671,-79.3428527,2,Kingslake Road (246),a
-43.7839671,-79.3428527,2,Kingslake Road (246),a
-43.7839671,-79.3428527,2,Kingslake Road (248),a
-43.7839671,-79.3428527,2,Kingslake Road (248),a
-43.7839671,-79.3428527,2,Koven Place (259),a
-43.7839671,-79.3428527,2,Koven Place (259),a
-43.7839671,-79.3428527,2,Koven Place (371),a
-43.7839671,-79.3428527,2,Koven Place (371),a
 43.7839671,-79.3400347,2,Squirewood Road (151),a
 43.7839671,-79.3400347,2,Squirewood Road (810),a
-43.7840228,-79.3449727,2,Gleneagle Crescent (365),a
-43.7840228,-79.3449727,2,Gleneagle Crescent (493),a
-43.7840375,-79.3427772,2,Koven Place (007),a
-43.7840375,-79.3427772,2,Koven Place (007),a
-43.7840375,-79.3427772,2,Koven Place (822),a
-43.7840375,-79.3427772,2,Koven Place (822),a
 43.7840481,-79.3400324,2,Squirewood Road (152),a
 43.7840481,-79.3400324,2,Squirewood Road (811),a
 43.7840663,-79.3313947,2,Kathrose Drive (184),a
 43.7840663,-79.3313947,2,Kathrose Drive (184),a
 43.7840663,-79.3313947,2,Kathrose Drive (777),a
+43.7840663,-79.3313947,2,Kathrose Drive (777),a
 43.7840991,-79.337968,2,Sanwin Court (118),a
 43.7840991,-79.337968,2,Sanwin Court (267),a
-43.7841592,-79.3426467,2,Koven Place (258),a
-43.7841592,-79.3426467,2,Koven Place (258),a
-43.7841592,-79.3426467,2,Koven Place (370),a
-43.7841592,-79.3426467,2,Koven Place (370),a
-43.7842211,-79.3448011,2,Gleneagle Crescent (366),a
-43.7842211,-79.3448011,2,Gleneagle Crescent (494),a
 43.7842218,-79.3272363,2,Altair Avenue (763),a
 43.7842218,-79.3272363,2,Altair Avenue (993),a
 43.7842218,-79.3272363,2,Victoria Park Avenue (909),a
-43.7842496,-79.3502471,2,Don Mills Road East (739),a
-43.7842496,-79.3502471,2,Don Mills Road East (830),a
-43.7842645,-79.3426296,2,Koven Place (257),a
-43.7842645,-79.3426296,2,Koven Place (257),a
-43.7842645,-79.3426296,2,Koven Place (369),a
-43.7842645,-79.3426296,2,Koven Place (369),a
 43.784346,-79.3400863,2,Squirewood Road (153),a
 43.784346,-79.3400863,2,Squirewood Road (812),a
 43.7843763,-79.3273033,2,Victoria Park Avenue (908),a
 43.7843807,-79.3288756,2,Kathrose Drive (198),a
 43.7843807,-79.3288756,2,Kathrose Drive (791),a
-43.7844256,-79.3426725,2,Koven Place (254),a
-43.7844256,-79.3426725,2,Koven Place (254),a
-43.7844256,-79.3426725,2,Koven Place (368),a
-43.7844256,-79.3426725,2,Koven Place (368),a
+43.7844272,-79.3400965,2,Squirewood Road (154),a
 43.7844272,-79.3400965,2,Squirewood Road (813),a
 43.7844277,-79.3288947,2,Kathrose Drive (197),a
 43.7844277,-79.3288947,2,Kathrose Drive (790),a
@@ -32632,14 +32152,12 @@ lat,lon,sz,names,len_cat
 43.7844429,-79.3296743,2,Kathrose Drive (778),a
 43.7844491,-79.3333365,2,Brian Drive (417),a
 43.7844491,-79.3333365,2,Brian Drive (492),a
-43.7844648,-79.3445121,2,Gleneagle Crescent (006),a
-43.7844648,-79.3445121,2,Gleneagle Crescent (821),a
-43.7844648,-79.3445121,2,Gleneagle Crescent (821),a
 43.7844714,-79.3400456,2,Squirewood Road (155),a
 43.7844714,-79.3400456,2,Squirewood Road (814),a
 43.7844817,-79.3289023,2,Kathrose Drive (196),a
 43.7844817,-79.3289023,2,Kathrose Drive (789),a
 43.7844846,-79.3334981,2,Pleasant View Drive (039),a
+43.7844846,-79.3334981,2,Pleasant View Drive (103),a
 43.7845035,-79.3397713,2,Squirewood Road (159),a
 43.7845035,-79.3397713,2,Squirewood Road (818),a
 43.7845046,-79.3398458,2,Squirewood Road (158),a
@@ -32650,22 +32168,12 @@ lat,lon,sz,names,len_cat
 43.784513,-79.333366,2,Brian Drive (119),a
 43.784513,-79.333366,2,Brian Drive (177),a
 43.784513,-79.333366,2,Brian Drive (203),a
+43.784513,-79.333366,2,Pleasant View Drive (086),a
 43.784513,-79.333366,2,Pleasant View Drive (087),a
 43.784513,-79.333366,2,Pleasant View Drive (917),a
 43.784513,-79.333366,2,Pleasant View Drive (919),a
+43.7845145,-79.3399077,2,Squirewood Road (157),a
 43.7845145,-79.3399077,2,Squirewood Road (816),a
-43.784531,-79.3444234,2,Gleneagle Crescent (367),a
-43.784531,-79.3444234,2,Gleneagle Crescent (367),a
-43.784531,-79.3444234,2,Gleneagle Crescent (495),a
-43.784531,-79.3444234,2,Gleneagle Crescent (495),a
-43.784531,-79.3444234,2,Kingslake Road (363),a
-43.784531,-79.3444234,2,Kingslake Road (363),a
-43.784531,-79.3444234,2,Kingslake Road (963),a
-43.784531,-79.3444234,2,Kingslake Road (963),a
-43.784531,-79.3444234,2,Waddington Crescent (389),a
-43.784531,-79.3444234,2,Waddington Crescent (389),a
-43.784531,-79.3444234,2,Waddington Crescent (394),a
-43.784531,-79.3444234,2,Waddington Crescent (394),a
 43.7845358,-79.3289037,2,Kathrose Drive (195),a
 43.7845358,-79.3289037,2,Kathrose Drive (788),a
 43.7845411,-79.333239,2,Pleasant View Drive (087),a
@@ -32683,42 +32191,35 @@ lat,lon,sz,names,len_cat
 43.784597,-79.3334059,2,Brian Drive (089),a
 43.784597,-79.3334059,2,Brian Drive (139),a
 43.7846125,-79.336977,2,Kamloops Drive (420),a
+43.7846125,-79.336977,2,Kamloops Drive (577),a
 43.7846125,-79.336977,2,Margaret Avenue (508),a
 43.7846125,-79.336977,2,Margaret Avenue (635),a
 43.7846168,-79.3288918,2,Kathrose Drive (193),a
 43.7846168,-79.3288918,2,Kathrose Drive (786),a
 43.7846169,-79.3290005,2,Kathrose Drive (190),a
 43.7846169,-79.3290005,2,Kathrose Drive (783),a
-43.7846186,-79.3443228,2,Waddington Crescent (020),a
-43.7846186,-79.3443228,2,Waddington Crescent (020),a
-43.7846186,-79.3443228,2,Waddington Crescent (083),a
-43.7846186,-79.3443228,2,Waddington Crescent (083),a
 43.7846258,-79.3289484,2,Kathrose Drive (191),a
 43.7846258,-79.3289484,2,Kathrose Drive (784),a
 43.7846258,-79.3289088,2,Kathrose Drive (192),a
 43.7846258,-79.3289088,2,Kathrose Drive (785),a
-43.7846338,-79.35039,2,Don Mills Road East (740),a
-43.7846338,-79.35039,2,Don Mills Road East (831),a
+43.7846445,-79.3392025,2,Squirewood Road (063),a
 43.7846445,-79.3392025,2,Squirewood Road (707),a
 43.7846671,-79.3391112,2,Edmonton Road (130),a
 43.7846671,-79.3391112,2,Edmonton Road (859),a
 43.7846671,-79.3391112,2,Squirewood Road (160),a
 43.7846671,-79.3391112,2,Squirewood Road (819),a
-43.7847273,-79.3448451,2,Kingslake Road (369),a
-43.7847273,-79.3448451,2,Kingslake Road (969),a
 43.7847334,-79.3391241,2,Edmonton Road (710),a
 43.7847334,-79.3391241,2,Edmonton Road (938),a
 43.7847389,-79.3364312,2,Kamloops Drive (421),a
 43.7847389,-79.3364312,2,Kamloops Drive (578),a
 43.7847447,-79.3362515,2,Kamloops Drive (422),a
 43.7847447,-79.3362515,2,Kamloops Drive (579),a
+43.7847534,-79.3360128,2,Kamloops Drive (423),a
 43.7847534,-79.3360128,2,Kamloops Drive (580),a
 43.7847776,-79.3359135,2,Kamloops Drive (424),a
 43.7847776,-79.3359135,2,Kamloops Drive (581),a
 43.7848067,-79.3358746,2,Kamloops Drive (425),a
 43.7848067,-79.3358746,2,Kamloops Drive (582),a
-43.7848078,-79.3449376,2,Kingslake Road (370),a
-43.7848078,-79.3449376,2,Kingslake Road (970),a
 43.784856,-79.3358545,2,Kamloops Drive (426),a
 43.784856,-79.3358545,2,Kamloops Drive (583),a
 43.7849006,-79.3358639,2,Kamloops Drive (427),a
@@ -32727,121 +32228,48 @@ lat,lon,sz,names,len_cat
 43.7849154,-79.337759,2,Salinger Court (511),a
 43.7849462,-79.3380191,2,Salinger Court (450),a
 43.7849462,-79.3380191,2,Salinger Court (510),a
-43.7849651,-79.3505152,2,Don Mills Road East (741),a
-43.7849651,-79.3505152,2,Don Mills Road East (832),a
-43.7849913,-79.3475171,2,Houston Crescent (276),a
-43.7849913,-79.3475171,2,Houston Crescent (389),a
-43.7849958,-79.3476531,2,Houston Crescent (277),a
-43.7849958,-79.3476531,2,Houston Crescent (390),a
-43.7850019,-79.3438827,2,Waddington Crescent (390),a
-43.7850019,-79.3438827,2,Waddington Crescent (395),a
-43.7850019,-79.3438827,2,Waddington Crescent (395),a
-43.7850202,-79.3505336,2,Don Mills Road East (742),a
-43.7850202,-79.3505336,2,Don Mills Road East (833),a
 43.7850329,-79.3371716,2,Margaret Avenue (509),a
 43.7850329,-79.3371716,2,Margaret Avenue (636),a
 43.7850329,-79.3371716,2,Salinger Court (452),a
 43.7850329,-79.3371716,2,Salinger Court (512),a
-43.7850406,-79.3477376,2,Houston Crescent (278),a
-43.7850406,-79.3477376,2,Houston Crescent (391),a
 43.7850431,-79.3347843,2,Kamloops Drive (435),a
 43.7850431,-79.3347843,2,Kamloops Drive (592),a
-43.7850489,-79.3505489,2,Don Mills Road East (743),a
-43.7850489,-79.3505489,2,Don Mills Road East (834),a
 43.7850586,-79.33485,2,Kamloops Drive (434),a
 43.7850586,-79.33485,2,Kamloops Drive (591),a
 43.7850599,-79.3346977,2,Kamloops Drive (436),a
 43.7850599,-79.3346977,2,Kamloops Drive (593),a
 43.7850637,-79.3391884,2,Edmonton Road (131),a
 43.7850637,-79.3391884,2,Edmonton Road (860),a
-43.7850899,-79.343628,2,Waddington Crescent (391),a
-43.7850899,-79.343628,2,Waddington Crescent (391),a
-43.7850899,-79.343628,2,Waddington Crescent (396),a
-43.7850899,-79.343628,2,Waddington Crescent (396),a
-43.7850992,-79.3452534,2,Kingslake Road (372),a
-43.7850992,-79.3452534,2,Kingslake Road (972),a
 43.7851012,-79.334905,2,Kamloops Drive (433),a
 43.7851012,-79.334905,2,Kamloops Drive (590),a
-43.7851028,-79.3477939,2,Houston Crescent (279),a
-43.7851028,-79.3477939,2,Houston Crescent (392),a
-43.7851649,-79.3429726,2,Waddington Crescent (392),a
-43.7851649,-79.3429726,2,Waddington Crescent (392),a
-43.7851649,-79.3429726,2,Waddington Crescent (397),a
-43.7851649,-79.3429726,2,Waddington Crescent (397),a
 43.7851729,-79.3344155,2,Kamloops Drive (437),a
 43.7851729,-79.3344155,2,Kamloops Drive (594),a
-43.7852064,-79.342827,2,Waddington Crescent (393),a
-43.7852064,-79.342827,2,Waddington Crescent (393),a
-43.7852064,-79.342827,2,Waddington Crescent (398),a
-43.7852064,-79.342827,2,Waddington Crescent (398),a
-43.7852106,-79.3492887,2,Deerford Road (190),a
-43.7852106,-79.3492887,2,Deerford Road (281),a
 43.7852157,-79.3342709,2,Kamloops Drive (438),a
 43.7852157,-79.3342709,2,Kamloops Drive (595),a
-43.785223,-79.3493402,2,Deerford Road (189),a
-43.785223,-79.3493402,2,Deerford Road (280),a
-43.785251,-79.3454182,2,Kingslake Road (342),a
-43.785251,-79.3454182,2,Kingslake Road (598),a
-43.785254,-79.3491857,2,Deerford Road (191),a
-43.785254,-79.3491857,2,Deerford Road (282),a
-43.7852621,-79.3470155,2,Houston Crescent (275),a
-43.7852621,-79.3470155,2,Houston Crescent (388),a
-43.7852849,-79.3493917,2,Deerford Road (188),a
-43.7852849,-79.3493917,2,Deerford Road (279),a
 43.7852867,-79.3392914,2,Edmonton Road (132),a
 43.7852867,-79.3392914,2,Edmonton Road (861),a
 43.7852928,-79.3339234,2,Kamloops Drive (395),a
 43.7852928,-79.3339234,2,Kamloops Drive (617),a
-43.7852993,-79.3454706,2,Kingslake Road (364),a
-43.7852993,-79.3454706,2,Kingslake Road (964),a
-43.7852993,-79.3454706,2,Waddington Crescent (400),a
-43.7852993,-79.3454706,2,Waddington Crescent (405),a
 43.7853011,-79.3338862,2,Kamloops Drive (211),a
 43.7853011,-79.3338862,2,Kamloops Drive (892),a
-43.7853303,-79.3427583,2,Waddington Crescent (394),a
-43.7853303,-79.3427583,2,Waddington Crescent (394),a
-43.7853303,-79.3427583,2,Waddington Crescent (399),a
-43.7853303,-79.3427583,2,Waddington Crescent (399),a
 43.785331,-79.3337516,2,Brian Drive (094),a
 43.785331,-79.3337516,2,Brian Drive (178),a
 43.785331,-79.3337516,2,Kamloops Drive (439),a
 43.785331,-79.3337516,2,Kamloops Drive (596),a
-43.7853345,-79.3491514,2,Deerford Road (192),a
-43.7853345,-79.3491514,2,Deerford Road (283),a
-43.7853456,-79.3453872,2,Waddington Crescent (396),a
-43.7853456,-79.3453872,2,Waddington Crescent (618),a
-43.7853489,-79.3468953,2,Houston Crescent (274),a
-43.7853489,-79.3468953,2,Houston Crescent (387),a
-43.7853534,-79.3455229,2,Kingslake Road (341),a
-43.7853534,-79.3455229,2,Kingslake Road (597),a
 43.7853602,-79.3361066,2,Kamloops Drive (428),a
 43.7853602,-79.3361066,2,Kamloops Drive (585),a
 43.7853859,-79.3394202,2,Edmonton Road (133),a
 43.7853859,-79.3394202,2,Edmonton Road (862),a
 43.7854153,-79.3292874,2,Pleasant View Drive (416),a
 43.7854153,-79.3292874,2,Pleasant View Drive (491),a
-43.7854269,-79.3506848,2,Deerford Road (186),a
-43.7854269,-79.3506848,2,Deerford Road (277),a
-43.7854269,-79.3506848,2,Don Mills Road East (744),a
-43.7854269,-79.3506848,2,Don Mills Road East (835),a
 43.785434,-79.3292031,2,Clipper Road (498),a
 43.785434,-79.3292031,2,Clipper Road (591),a
 43.785434,-79.3292031,2,Pleasant View Drive (088),a
 43.785434,-79.3292031,2,Pleasant View Drive (921),a
-43.7854424,-79.3506222,2,Deerford Road (185),a
-43.7854424,-79.3506222,2,Deerford Road (276),a
-43.7854464,-79.3456129,2,Kingslake Road (371),a
-43.7854464,-79.3456129,2,Kingslake Road (971),a
 43.785455,-79.3399446,2,Edmonton Drive (062),a
 43.785455,-79.3399446,2,Edmonton Drive (435),a
 43.7854611,-79.3290863,2,Pleasant View Drive (415),a
 43.7854611,-79.3290863,2,Pleasant View Drive (490),a
-43.7854614,-79.3456349,2,Kingslake Road (368),a
-43.7854614,-79.3456349,2,Kingslake Road (968),a
-43.7854666,-79.346861,2,Houston Crescent (273),a
-43.7854666,-79.346861,2,Houston Crescent (386),a
-43.7854788,-79.3507234,2,Don Mills Road East (399),a
-43.7854788,-79.3507234,2,Don Mills Road East (488),a
 43.7854834,-79.3373867,2,Margaret Avenue (510),a
 43.7854834,-79.3373867,2,Margaret Avenue (637),a
 43.7855212,-79.3292399,2,Clipper Road (522),a
@@ -32851,16 +32279,13 @@ lat,lon,sz,names,len_cat
 43.7855375,-79.3292468,2,Clipper Road (500),a
 43.7855375,-79.3292468,2,Clipper Road (592),a
 43.7855511,-79.3325713,2,Bowhill Crescent (745),a
-43.7855526,-79.3501123,2,Deerford Road (184),a
-43.7855526,-79.3501123,2,Deerford Road (275),a
+43.7855511,-79.3325713,2,Bowhill Crescent (809),a
 43.7855562,-79.3398152,2,Edmonton Drive (238),a
 43.7855562,-79.3398152,2,Edmonton Drive (570),a
 43.7855608,-79.3326208,2,Bowhill Crescent (746),a
 43.7855608,-79.3326208,2,Bowhill Crescent (810),a
 43.7855655,-79.3325186,2,Bowhill Crescent (527),a
 43.7855655,-79.3325186,2,Bowhill Crescent (533),a
-43.7855663,-79.3500487,2,Deerford Road (183),a
-43.7855663,-79.3500487,2,Deerford Road (274),a
 43.7855679,-79.3351075,2,Kamloops Drive (431),a
 43.7855679,-79.3351075,2,Kamloops Drive (588),a
 43.7855682,-79.3325087,2,Bowhill Crescent (744),a
@@ -32887,8 +32312,6 @@ lat,lon,sz,names,len_cat
 43.785602,-79.3323587,2,Bowhill Crescent (806),a
 43.7856064,-79.3326568,2,Bowhill Crescent (747),a
 43.7856064,-79.3326568,2,Bowhill Crescent (811),a
-43.7856091,-79.3449127,2,Waddington Crescent (399),a
-43.7856091,-79.3449127,2,Waddington Crescent (404),a
 43.7856191,-79.332296,2,Bowhill Crescent (741),a
 43.7856191,-79.332296,2,Bowhill Crescent (741),a
 43.7856191,-79.332296,2,Bowhill Crescent (805),a
@@ -32896,18 +32319,11 @@ lat,lon,sz,names,len_cat
 43.7856366,-79.3292887,2,Clipper Road (518),a
 43.7856366,-79.3292887,2,Clipper Road (524),a
 43.785638,-79.3326733,2,Bowhill Crescent (526),a
-43.7856472,-79.3457942,2,Kingslake Road (365),a
-43.7856472,-79.3457942,2,Kingslake Road (965),a
-43.7856491,-79.3508502,2,Don Mills Road East (400),a
-43.7856491,-79.3508502,2,Don Mills Road East (489),a
+43.785638,-79.3326733,2,Bowhill Crescent (532),a
 43.7856517,-79.3326804,2,Bowhill Crescent (748),a
 43.7856517,-79.3326804,2,Bowhill Crescent (812),a
 43.7856812,-79.3281371,2,Pleasant View Drive (089),a
 43.7856812,-79.3281371,2,Pleasant View Drive (923),a
-43.7856877,-79.3494947,2,Deerford Road (182),a
-43.7856877,-79.3494947,2,Deerford Road (187),a
-43.7856877,-79.3494947,2,Deerford Road (273),a
-43.7856877,-79.3494947,2,Deerford Road (278),a
 43.7856927,-79.328091,2,Pleasant View Drive (088),a
 43.7856927,-79.328091,2,Pleasant View Drive (105),a
 43.785729,-79.3318083,2,Bowhill Crescent (740),a
@@ -32918,24 +32334,12 @@ lat,lon,sz,names,len_cat
 43.7857298,-79.3279426,2,Pleasant View Drive (926),a
 43.7857298,-79.3279426,2,Victoria Park Avenue (264),a
 43.7857298,-79.3279426,2,Victoria Park Avenue (907),a
-43.7857373,-79.3493058,2,Deerford Road (181),a
-43.7857373,-79.3493058,2,Deerford Road (193),a
-43.7857373,-79.3493058,2,Deerford Road (272),a
-43.7857373,-79.3493058,2,Deerford Road (284),a
-43.7857455,-79.3445522,2,Waddington Crescent (398),a
-43.7857455,-79.3445522,2,Waddington Crescent (403),a
 43.7857638,-79.3317203,2,Bowhill Crescent (739),a
 43.7857638,-79.3317203,2,Bowhill Crescent (739),a
 43.7857638,-79.3317203,2,Bowhill Crescent (803),a
 43.7857638,-79.3317203,2,Bowhill Crescent (803),a
 43.7857768,-79.3374109,2,Margaret Avenue (513),a
 43.7857768,-79.3374109,2,Margaret Avenue (640),a
-43.7857804,-79.3458501,2,Kingslake Road (373),a
-43.7857804,-79.3458501,2,Kingslake Road (973),a
-43.7857888,-79.3428527,2,Waddington Crescent (395),a
-43.7857888,-79.3428527,2,Waddington Crescent (395),a
-43.7857888,-79.3428527,2,Waddington Crescent (400),a
-43.7857888,-79.3428527,2,Waddington Crescent (400),a
 43.7857949,-79.3293556,2,Clipper Road (519),a
 43.7857949,-79.3293556,2,Clipper Road (525),a
 43.7857987,-79.3316448,2,Bowhill Crescent (738),a
@@ -32946,36 +32350,22 @@ lat,lon,sz,names,len_cat
 43.785801,-79.3399866,2,Edmonton Road (864),a
 43.7858148,-79.329364,2,Clipper Road (517),a
 43.7858148,-79.329364,2,Clipper Road (523),a
-43.7858198,-79.3469554,2,Houston Crescent (272),a
-43.7858198,-79.3469554,2,Houston Crescent (385),a
 43.7858246,-79.3315695,2,Bowhill Crescent (737),a
 43.7858246,-79.3315695,2,Bowhill Crescent (737),a
 43.7858246,-79.3315695,2,Bowhill Crescent (801),a
 43.7858246,-79.3315695,2,Bowhill Crescent (801),a
-43.7858451,-79.3510095,2,Don Mills Road East (745),a
-43.7858451,-79.3510095,2,Don Mills Road East (836),a
 43.7858556,-79.3293813,2,Clipper Road (502),a
 43.7858556,-79.3293813,2,Clipper Road (593),a
 43.7858595,-79.331494,2,Bowhill Crescent (736),a
 43.7858595,-79.331494,2,Bowhill Crescent (736),a
 43.7858595,-79.331494,2,Bowhill Crescent (800),a
-43.7858818,-79.3429128,2,Waddington Crescent (396),a
-43.7858818,-79.3429128,2,Waddington Crescent (396),a
-43.7858818,-79.3429128,2,Waddington Crescent (401),a
-43.7858818,-79.3429128,2,Waddington Crescent (401),a
+43.7858595,-79.331494,2,Bowhill Crescent (800),a
 43.7858823,-79.3373411,2,Margaret Avenue (514),a
 43.7858823,-79.3373411,2,Margaret Avenue (641),a
 43.7858854,-79.3314187,2,Bowhill Crescent (735),a
 43.7858854,-79.3314187,2,Bowhill Crescent (735),a
 43.7858854,-79.3314187,2,Bowhill Crescent (799),a
-43.7858942,-79.3458568,2,Kingslake Road (366),a
-43.7858942,-79.3458568,2,Kingslake Road (966),a
-43.7859022,-79.3510911,2,Don Mills Road East (746),a
-43.7859022,-79.3510911,2,Don Mills Road East (837),a
-43.7859128,-79.343093,2,Waddington Crescent (397),a
-43.7859128,-79.343093,2,Waddington Crescent (397),a
-43.7859128,-79.343093,2,Waddington Crescent (402),a
-43.7859128,-79.343093,2,Waddington Crescent (402),a
+43.7858854,-79.3314187,2,Bowhill Crescent (799),a
 43.7859651,-79.3294357,2,Clipper Road (520),a
 43.7859651,-79.3294357,2,Clipper Road (526),a
 43.7859656,-79.3372405,2,Margaret Avenue (515),a
@@ -32984,25 +32374,18 @@ lat,lon,sz,names,len_cat
 43.7860033,-79.3294547,2,Clipper Road (522),a
 43.786014,-79.3371373,2,Margaret Avenue (516),a
 43.786014,-79.3371373,2,Margaret Avenue (643),a
+43.7860489,-79.340124,2,Edmonton Road (136),a
 43.7860489,-79.340124,2,Edmonton Road (865),a
-43.7860553,-79.3469468,2,Houston Crescent (271),a
-43.7860553,-79.3469468,2,Houston Crescent (384),a
 43.7860714,-79.3305932,2,Bowhill Crescent (734),a
 43.7860714,-79.3305932,2,Bowhill Crescent (734),a
 43.7860714,-79.3305932,2,Bowhill Crescent (798),a
 43.7860714,-79.3305932,2,Bowhill Crescent (798),a
-43.7861049,-79.3480712,2,Houston Crescent (280),a
-43.7861049,-79.3480712,2,Houston Crescent (393),a
 43.7861315,-79.3295184,2,Clipper Road (521),a
 43.7861315,-79.3295184,2,Clipper Road (527),a
-43.7861358,-79.3458225,2,Kingslake Road (367),a
-43.7861358,-79.3458225,2,Kingslake Road (967),a
 43.7861371,-79.3281334,2,Victoria Park Avenue (229),a
 43.7861371,-79.3281334,2,Victoria Park Avenue (263),a
 43.7861522,-79.3295287,2,Clipper Road (515),a
 43.7861522,-79.3295287,2,Clipper Road (521),a
-43.7861762,-79.3514585,2,Don Mills Road East (747),a
-43.7861762,-79.3514585,2,Don Mills Road East (838),a
 43.7862047,-79.3295547,2,Clipper Road (514),a
 43.7862047,-79.3295547,2,Clipper Road (520),a
 43.7862315,-79.3329253,2,Bowhill Crescent (749),a
@@ -33013,31 +32396,16 @@ lat,lon,sz,names,len_cat
 43.7862587,-79.3329369,2,Bowhill Crescent (814),a
 43.7862623,-79.3296861,2,Bowhill Crescent (524),a
 43.7862623,-79.3296861,2,Bowhill Crescent (530),a
-43.7862722,-79.3480455,2,Houston Crescent (281),a
-43.7862722,-79.3480455,2,Houston Crescent (394),a
-43.7862722,-79.3468181,2,Houston Crescent (270),a
-43.7862722,-79.3468181,2,Houston Crescent (383),a
 43.7862819,-79.3295931,2,Bowhill Crescent (733),a
 43.7862819,-79.3295931,2,Bowhill Crescent (797),a
 43.7862819,-79.3295931,2,Clipper Road (494),a
 43.7862819,-79.3295931,2,Clipper Road (504),a
 43.7862819,-79.3295931,2,Clipper Road (589),a
 43.7862819,-79.3295931,2,Clipper Road (594),a
-43.7862888,-79.3494689,2,Deerford Road (194),a
-43.7862888,-79.3494689,2,Deerford Road (285),a
 43.7862951,-79.3329608,2,Bowhill Crescent (751),a
-43.7862966,-79.3516506,2,Don Mills Road East (748),a
-43.7862966,-79.3516506,2,Don Mills Road East (839),a
-43.7863237,-79.3442497,2,Van Horne Avenue (339),a
-43.7863237,-79.3442497,2,Van Horne Avenue (339),a
-43.7863237,-79.3442497,2,Van Horne Avenue (522),a
-43.7863237,-79.3442497,2,Van Horne Avenue (522),a
-43.7863361,-79.3435802,2,Van Horne Avenue (340),a
-43.7863361,-79.3435802,2,Van Horne Avenue (340),a
-43.7863361,-79.3435802,2,Van Horne Avenue (523),a
-43.7863361,-79.3435802,2,Van Horne Avenue (523),a
-43.7863505,-79.3517557,2,Don Mills Road East (749),a
-43.7863505,-79.3517557,2,Don Mills Road East (840),a
+43.7862951,-79.3329608,2,Bowhill Crescent (815),a
+43.7863406,-79.3329968,2,Bowhill Crescent (752),a
+43.7863406,-79.3329968,2,Bowhill Crescent (816),a
 43.7863572,-79.3329963,2,Bowhill Crescent (529),a
 43.7863572,-79.3329963,2,Bowhill Crescent (535),a
 43.7863696,-79.3296335,2,Clipper Road (507),a
@@ -33047,40 +32415,23 @@ lat,lon,sz,names,len_cat
 43.7863784,-79.3296375,2,Clipper Road (512),a
 43.7863784,-79.3296375,2,Clipper Road (518),a
 43.7864121,-79.3329575,2,Bowhill Crescent (754),a
+43.7864121,-79.3329575,2,Bowhill Crescent (818),a
 43.7864295,-79.3329155,2,Bowhill Crescent (528),a
 43.7864295,-79.3329155,2,Bowhill Crescent (534),a
 43.7864382,-79.3328947,2,Bowhill Crescent (755),a
 43.7864382,-79.3328947,2,Bowhill Crescent (819),a
 43.7864461,-79.3328199,2,Bowhill Crescent (756),a
 43.7864461,-79.3328199,2,Bowhill Crescent (820),a
-43.7864479,-79.3448763,2,Van Horne Avenue (338),a
-43.7864479,-79.3448763,2,Van Horne Avenue (521),a
-43.7864742,-79.3519969,2,Don Mills Road East (401),a
-43.7864742,-79.3519969,2,Don Mills Road East (490),a
-43.7864747,-79.3494346,2,Deerford Road (195),a
-43.7864747,-79.3494346,2,Deerford Road (286),a
-43.7864747,-79.3494346,2,Hobart Drive (178),a
-43.7864747,-79.3494346,2,Hobart Drive (289),a
 43.7864808,-79.3296848,2,Clipper Road (508),a
 43.7864808,-79.3296848,2,Clipper Road (514),a
 43.786513,-79.3422024,2,Van Horne Avenue (398),a
 43.786513,-79.3422024,2,Van Horne Avenue (398),a
 43.786513,-79.3422024,2,Van Horne Avenue (923),a
 43.786513,-79.3422024,2,Van Horne Avenue (923),a
-43.7865138,-79.3479682,2,Houston Crescent (282),a
-43.7865138,-79.3479682,2,Houston Crescent (395),a
-43.7865306,-79.352107,2,Don Mills Road East (750),a
-43.7865306,-79.352107,2,Don Mills Road East (755),a
-43.7865306,-79.352107,2,Don Mills Road East (841),a
-43.7865306,-79.352107,2,Don Mills Road East (846),a
 43.7865367,-79.3297105,2,Clipper Road (506),a
 43.7865367,-79.3297105,2,Clipper Road (512),a
-43.7865839,-79.3454166,2,Kingslake Road (374),a
-43.7865839,-79.3454166,2,Kingslake Road (974),a
 43.786603,-79.3344976,2,Margaret Avenue (017),a
 43.786603,-79.3344976,2,Margaret Avenue (686),a
-43.7866069,-79.3452773,2,Van Horne Avenue (345),a
-43.7866069,-79.3452773,2,Van Horne Avenue (528),a
 43.7866184,-79.3412747,2,Van Horne Avenue (399),a
 43.7866184,-79.3412747,2,Van Horne Avenue (400),a
 43.7866184,-79.3412747,2,Van Horne Avenue (924),a
@@ -33091,22 +32442,13 @@ lat,lon,sz,names,len_cat
 43.7866325,-79.3343653,2,Margaret Avenue (644),a
 43.786633,-79.3297549,2,Clipper Road (509),a
 43.786633,-79.3297549,2,Clipper Road (515),a
-43.7866438,-79.3453703,2,Kingslake Road (259),a
-43.7866438,-79.3453703,2,Kingslake Road (261),a
-43.7866438,-79.3453703,2,Van Horne Avenue (429),a
-43.7866438,-79.3453703,2,Van Horne Avenue (974),a
-43.786678,-79.345445,2,Van Horne Avenue (379),a
-43.786678,-79.345445,2,Van Horne Avenue (871),a
 43.7866853,-79.3407749,2,Van Horne Avenue (401),a
 43.7866853,-79.3407749,2,Van Horne Avenue (926),a
-43.7867038,-79.3453077,2,Kingslake Road (056),a
-43.7867038,-79.3453077,2,Kingslake Road (941),a
 43.7867057,-79.3283998,2,Victoria Park Avenue (228),a
 43.7867214,-79.3297957,2,Clipper Road (505),a
 43.7867214,-79.3297957,2,Clipper Road (511),a
-43.7867555,-79.3524005,2,Don Mills Road East (756),a
-43.7867555,-79.3524005,2,Don Mills Road East (847),a
 43.7867571,-79.3402807,2,Edmonton Road (044),a
+43.7867571,-79.3402807,2,Edmonton Road (716),a
 43.7867728,-79.3405179,2,Van Horne Avenue (402),a
 43.7867728,-79.3405179,2,Van Horne Avenue (927),a
 43.7867848,-79.3298249,2,Clipper Road (510),a
@@ -33114,73 +32456,30 @@ lat,lon,sz,names,len_cat
 43.7867902,-79.3313438,2,Bowhill Crescent (757),a
 43.7867902,-79.3313438,2,Bowhill Crescent (757),a
 43.7867902,-79.3313438,2,Bowhill Crescent (821),a
-43.786805,-79.3439342,2,Oldborough Circle (421),a
-43.786805,-79.3439342,2,Oldborough Circle (421),a
-43.786805,-79.3439342,2,Oldborough Circle (739),a
-43.786805,-79.3439342,2,Oldborough Circle (739),a
+43.7867902,-79.3313438,2,Bowhill Crescent (821),a
 43.7868127,-79.3404012,2,Van Horne Avenue (148),a
 43.7868127,-79.3404012,2,Van Horne Avenue (460),a
-43.7868154,-79.350147,2,Hobart Drive (179),a
-43.7868154,-79.350147,2,Hobart Drive (290),a
 43.7868593,-79.3402973,2,Edmonton Drive (064),a
 43.7868593,-79.3402973,2,Edmonton Drive (437),a
 43.7868593,-79.3402973,2,Edmonton Road (137),a
 43.7868593,-79.3402973,2,Edmonton Road (866),a
 43.7868593,-79.3402973,2,Van Horne Avenue (403),a
 43.7868593,-79.3402973,2,Van Horne Avenue (928),a
-43.786875,-79.3432551,2,Oldborough Circle (420),a
-43.786875,-79.3432551,2,Oldborough Circle (420),a
-43.786875,-79.3432551,2,Oldborough Circle (738),a
-43.786875,-79.3432551,2,Oldborough Circle (738),a
 43.7868811,-79.328482,2,Victoria Park Avenue (227),a
-43.7868856,-79.3445264,2,Oldborough Circle (422),a
-43.7868856,-79.3445264,2,Oldborough Circle (740),a
 43.7868976,-79.3344878,2,Brian Drive (096),a
 43.7868976,-79.3344878,2,Brian Drive (180),a
 43.7869001,-79.3402135,2,Van Horne Avenue (331),a
 43.7869001,-79.3402135,2,Van Horne Avenue (807),a
-43.7869022,-79.3502157,2,Hobart Drive (180),a
-43.7869022,-79.3502157,2,Hobart Drive (291),a
-43.7869042,-79.3431188,2,Oldborough Circle (419),a
-43.7869042,-79.3431188,2,Oldborough Circle (419),a
-43.7869042,-79.3431188,2,Oldborough Circle (737),a
 43.7869062,-79.3298809,2,Clipper Road (504),a
 43.7869062,-79.3298809,2,Clipper Road (510),a
-43.7869141,-79.3526074,2,Don Mills Road East (751),a
-43.7869141,-79.3526074,2,Don Mills Road East (757),a
-43.7869141,-79.3526074,2,Don Mills Road East (842),a
-43.7869141,-79.3526074,2,Don Mills Road East (848),a
 43.786927,-79.3298904,2,Clipper Road (511),a
 43.786927,-79.3298904,2,Clipper Road (517),a
-43.7869333,-79.3462556,2,Houston Crescent (008),a
-43.7869333,-79.3462556,2,Houston Crescent (823),a
+43.7869539,-79.3403221,2,Edmonton Drive (365),a
 43.7869539,-79.3403221,2,Edmonton Drive (571),a
 43.7869557,-79.3399153,2,Van Horne Avenue (315),a
 43.7869557,-79.3399153,2,Van Horne Avenue (500),a
-43.7869621,-79.3462287,2,Houston Crescent (141),a
-43.7869621,-79.3462287,2,Houston Crescent (873),a
-43.7869723,-79.343033,2,Oldborough Circle (418),a
-43.7869723,-79.343033,2,Oldborough Circle (418),a
-43.7869723,-79.343033,2,Oldborough Circle (736),a
-43.7869723,-79.343033,2,Oldborough Circle (736),a
-43.7869904,-79.3448653,2,Oldborough Circle (010),a
-43.7869904,-79.3448653,2,Oldborough Circle (825),a
-43.7870157,-79.3461829,2,Houston Crescent (269),a
-43.7870157,-79.3461829,2,Houston Crescent (382),a
-43.7870157,-79.3461829,2,Van Horne Avenue (428),a
-43.7870157,-79.3461829,2,Van Horne Avenue (972),a
 43.7870294,-79.3299376,2,Clipper Road (513),a
 43.7870294,-79.3299376,2,Clipper Road (519),a
-43.7870343,-79.3450071,2,Kingslake Road (260),a
-43.7870343,-79.3450071,2,Kingslake Road (262),a
-43.7870343,-79.3450071,2,Oldborough Circle (423),a
-43.7870343,-79.3450071,2,Oldborough Circle (741),a
-43.7870571,-79.3501212,2,Hobart Drive (181),a
-43.7870571,-79.3501212,2,Hobart Drive (292),a
-43.7870715,-79.34299,2,Oldborough Circle (417),a
-43.7870715,-79.34299,2,Oldborough Circle (417),a
-43.7870715,-79.34299,2,Oldborough Circle (735),a
-43.7870715,-79.34299,2,Oldborough Circle (735),a
 43.7870869,-79.3300759,2,Bowhill Crescent (525),a
 43.7870869,-79.3300759,2,Bowhill Crescent (525),a
 43.7870869,-79.3300759,2,Bowhill Crescent (531),a
@@ -33197,34 +32496,17 @@ lat,lon,sz,names,len_cat
 43.7871654,-79.3299995,2,Clipper Road (502),a
 43.7871654,-79.3299995,2,Clipper Road (508),a
 43.7871654,-79.3299995,2,Clipper Road (508),a
-43.7871748,-79.3488424,2,Deerford Road (196),a
-43.7871748,-79.3488424,2,Deerford Road (287),a
 43.7872448,-79.3403948,2,Edmonton Drive (065),a
 43.7872448,-79.3403948,2,Edmonton Drive (438),a
 43.7873136,-79.3300656,2,Clipper Road (472),a
 43.7873136,-79.3300656,2,Clipper Road (472),a
 43.7873136,-79.3300656,2,Clipper Road (577),a
-43.7873528,-79.3471601,2,Houston Crescent (009),a
-43.7873528,-79.3471601,2,Houston Crescent (824),a
-43.7873813,-79.3446552,2,Kingslake Road (261),a
-43.7873813,-79.3446552,2,Kingslake Road (263),a
-43.7873923,-79.347122,2,Houston Crescent (142),a
-43.7873923,-79.347122,2,Houston Crescent (874),a
-43.7873956,-79.352782,2,Van Horne Avenue (341),a
-43.7873956,-79.352782,2,Van Horne Avenue (524),a
+43.7873136,-79.3300656,2,Clipper Road (577),a
 43.7873982,-79.3287242,2,Victoria Park Avenue (988),a
 43.7874059,-79.3301087,2,Clipper Road (474),a
 43.7874059,-79.3301087,2,Clipper Road (474),a
 43.7874059,-79.3301087,2,Clipper Road (578),a
 43.7874059,-79.3301087,2,Clipper Road (578),a
-43.7874379,-79.352584,2,Van Horne Avenue (344),a
-43.7874379,-79.352584,2,Van Horne Avenue (527),a
-43.7874448,-79.352984,2,Don Mills Road (723),a
-43.7874448,-79.352984,2,Don Mills Road (834),a
-43.7874494,-79.347067,2,Houston Crescent (283),a
-43.7874494,-79.347067,2,Houston Crescent (396),a
-43.7874494,-79.347067,2,Van Horne Avenue (427),a
-43.7874494,-79.347067,2,Van Horne Avenue (970),a
 43.7874541,-79.3377592,2,Lucifer Drive (172),a
 43.7874541,-79.3377592,2,Lucifer Drive (261),a
 43.7874541,-79.3377592,2,Van Horne Avenue (316),a
@@ -33235,14 +32517,6 @@ lat,lon,sz,names,len_cat
 43.78746,-79.3301442,2,Clipper Road (579),a
 43.7874656,-79.3376812,2,Van Horne Avenue (330),a
 43.7874656,-79.3376812,2,Van Horne Avenue (806),a
-43.787468,-79.3431445,2,Oldborough Circle (416),a
-43.787468,-79.3431445,2,Oldborough Circle (416),a
-43.787468,-79.3431445,2,Oldborough Circle (734),a
-43.787468,-79.3431445,2,Oldborough Circle (734),a
-43.7874804,-79.3444406,2,Kingslake Road (262),a
-43.7874804,-79.3444406,2,Kingslake Road (264),a
-43.7875097,-79.3522481,2,Van Horne Avenue (343),a
-43.7875097,-79.3522481,2,Van Horne Avenue (526),a
 43.7875117,-79.3405148,2,Edmonton Drive (066),a
 43.7875117,-79.3405148,2,Edmonton Drive (439),a
 43.787515,-79.3301802,2,Clipper Road (478),a
@@ -33251,171 +32525,29 @@ lat,lon,sz,names,len_cat
 43.787515,-79.3301802,2,Clipper Road (580),a
 43.787529,-79.3377775,2,Lucifer Drive (299),a
 43.787529,-79.3377775,2,Lucifer Drive (743),a
-43.7875466,-79.3486965,2,Deerford Road (197),a
-43.7875466,-79.3486965,2,Deerford Road (288),a
-43.7875672,-79.3458654,2,Mosedale Crescent (114),a
-43.7875672,-79.3458654,2,Mosedale Crescent (469),a
 43.7875685,-79.328804,2,Victoria Park Avenue (226),a
-43.7875734,-79.3460199,2,Mosedale Crescent (115),a
-43.7875734,-79.3460199,2,Mosedale Crescent (470),a
-43.787592,-79.3439943,2,Kingslake Road (263),a
-43.787592,-79.3439943,2,Kingslake Road (263),a
-43.787592,-79.3439943,2,Kingslake Road (265),a
-43.787592,-79.3439943,2,Kingslake Road (265),a
-43.787592,-79.3439943,2,Mosedale Crescent (106),a
-43.787592,-79.3439943,2,Mosedale Crescent (106),a
-43.787592,-79.3439943,2,Mosedale Crescent (461),a
-43.787592,-79.3439943,2,Mosedale Crescent (461),a
-43.7875962,-79.3496921,2,Hobart Drive (182),a
-43.7875962,-79.3496921,2,Hobart Drive (293),a
 43.7875973,-79.3302649,2,Clipper Road (480),a
 43.7875973,-79.3302649,2,Clipper Road (480),a
 43.7875973,-79.3302649,2,Clipper Road (581),a
-43.7876085,-79.3517806,2,Van Horne Avenue (342),a
-43.7876085,-79.3517806,2,Van Horne Avenue (525),a
+43.7875973,-79.3302649,2,Clipper Road (581),a
 43.7876086,-79.3370215,2,Van Horne Avenue (326),a
 43.7876086,-79.3370215,2,Van Horne Avenue (511),a
-43.7876261,-79.3530433,2,Don Mills Road (190),a
-43.7876261,-79.3530433,2,Don Mills Road (609),a
-43.7876311,-79.3474169,2,Van Horne Avenue (426),a
-43.7876311,-79.3474169,2,Van Horne Avenue (968),a
-43.7876415,-79.3516246,2,Axsmith Crescent (324),a
-43.7876415,-79.3516246,2,Axsmith Crescent (724),a
-43.7876415,-79.3516246,2,Van Horne Avenue (412),a
-43.7876415,-79.3516246,2,Van Horne Avenue (940),a
-43.7876477,-79.3457452,2,Mosedale Crescent (113),a
-43.7876477,-79.3457452,2,Mosedale Crescent (468),a
-43.7876597,-79.3440314,2,Mosedale Crescent (012),a
-43.7876597,-79.3440314,2,Mosedale Crescent (827),a
-43.7876597,-79.3440314,2,Mosedale Crescent (827),a
-43.7876663,-79.3437711,2,Kingslake Road (264),a
-43.7876663,-79.3437711,2,Kingslake Road (264),a
-43.7876663,-79.3437711,2,Kingslake Road (266),a
-43.7876663,-79.3437711,2,Kingslake Road (266),a
-43.7876666,-79.3532441,2,Don Mills Road (482),a
-43.7876666,-79.3532441,2,Don Mills Road (772),a
-43.7876725,-79.3433162,2,Oldborough Circle (415),a
-43.7876725,-79.3433162,2,Oldborough Circle (415),a
-43.7876725,-79.3433162,2,Oldborough Circle (733),a
-43.7876725,-79.3433162,2,Oldborough Circle (733),a
 43.7876889,-79.3303742,2,Clipper Road (482),a
 43.7876889,-79.3303742,2,Clipper Road (482),a
 43.7876889,-79.3303742,2,Clipper Road (582),a
-43.7876992,-79.3530672,2,Don Mills Road (725),a
-43.7876992,-79.3530672,2,Don Mills Road (835),a
-43.7877032,-79.3476491,2,Van Horne Avenue (425),a
-43.7877032,-79.3476491,2,Van Horne Avenue (967),a
-43.7877271,-79.3516557,2,Axsmith Crescent (092),a
-43.7877271,-79.3516557,2,Axsmith Crescent (864),a
-43.7877412,-79.3434214,2,Oldborough Circle (011),a
-43.7877412,-79.3434214,2,Oldborough Circle (011),a
-43.7877412,-79.3434214,2,Oldborough Circle (826),a
-43.7877412,-79.3434214,2,Oldborough Circle (826),a
-43.7877469,-79.3435909,2,Kingslake Road (265),a
-43.7877469,-79.3435909,2,Kingslake Road (265),a
-43.7877469,-79.3435909,2,Kingslake Road (267),a
-43.7877469,-79.3435909,2,Kingslake Road (267),a
-43.7877497,-79.3477591,2,Van Horne Avenue (424),a
-43.7877497,-79.3477591,2,Van Horne Avenue (965),a
+43.7876889,-79.3303742,2,Clipper Road (582),a
 43.787757,-79.3406456,2,Edmonton Drive (067),a
 43.787757,-79.3406456,2,Edmonton Drive (440),a
 43.787757,-79.3406456,2,Sepia Drive (255),a
 43.787757,-79.3406456,2,Sepia Drive (677),a
-43.7877577,-79.3511745,2,Van Horne Avenue (313),a
-43.7877577,-79.3511745,2,Van Horne Avenue (773),a
-43.7877608,-79.3516679,2,Axsmith Crescent (323),a
-43.7877608,-79.3516679,2,Axsmith Crescent (723),a
-43.7877716,-79.3511206,2,Van Horne Avenue (413),a
-43.7877716,-79.3511206,2,Van Horne Avenue (942),a
-43.7877786,-79.3496958,2,Hobart Drive (183),a
-43.7877786,-79.3496958,2,Hobart Drive (294),a
-43.7877902,-79.3434964,2,Kingslake Road (266),a
-43.7877902,-79.3434964,2,Kingslake Road (266),a
-43.7877902,-79.3434964,2,Kingslake Road (268),a
-43.7877902,-79.3434964,2,Kingslake Road (268),a
-43.7877902,-79.3434964,2,Oldborough Circle (414),a
-43.7877902,-79.3434964,2,Oldborough Circle (414),a
-43.7877902,-79.3434964,2,Oldborough Circle (732),a
-43.7877902,-79.3434964,2,Oldborough Circle (732),a
-43.7877951,-79.3531883,2,Don Mills Road (481),a
-43.7877951,-79.3531883,2,Don Mills Road (727),a
-43.7877951,-79.3531883,2,Don Mills Road (765),a
-43.7877951,-79.3531883,2,Don Mills Road (836),a
-43.7877962,-79.3479066,2,Van Horne Avenue (423),a
-43.7877962,-79.3479066,2,Van Horne Avenue (963),a
 43.7878034,-79.3360917,2,Van Horne Avenue (325),a
 43.7878034,-79.3360917,2,Van Horne Avenue (510),a
-43.7878048,-79.3479496,2,Van Horne Avenue (422),a
-43.7878048,-79.3479496,2,Van Horne Avenue (961),a
-43.7878282,-79.3486277,2,Deerford Road (808),a
-43.7878282,-79.3486277,2,Deerford Road (989),a
 43.7878458,-79.3305965,2,Clipper Road (484),a
 43.7878458,-79.3305965,2,Clipper Road (583),a
-43.787875,-79.3506894,2,Axsmith Crescent (303),a
-43.787875,-79.3506894,2,Axsmith Crescent (703),a
-43.787875,-79.3506894,2,Van Horne Avenue (414),a
-43.787875,-79.3506894,2,Van Horne Avenue (944),a
-43.7878763,-79.3486159,2,Deerford Road (587),a
-43.7878763,-79.3486159,2,Deerford Road (847),a
-43.7878789,-79.3497017,2,Hobart Drive (810),a
-43.7878789,-79.3497017,2,Hobart Drive (991),a
-43.7878956,-79.3455049,2,Mosedale Crescent (112),a
-43.7878956,-79.3455049,2,Mosedale Crescent (467),a
-43.7879018,-79.351719,2,Axsmith Crescent (322),a
-43.7879018,-79.351719,2,Axsmith Crescent (722),a
-43.7879018,-79.350568,2,Van Horne Avenue (415),a
-43.7879018,-79.350568,2,Van Horne Avenue (946),a
-43.7879018,-79.3467494,2,Mosedale Crescent (116),a
-43.7879018,-79.3467494,2,Mosedale Crescent (117),a
-43.7879018,-79.3467494,2,Mosedale Crescent (126),a
-43.7879018,-79.3467494,2,Mosedale Crescent (471),a
-43.7879018,-79.3467494,2,Mosedale Crescent (472),a
-43.7879018,-79.3467494,2,Mosedale Crescent (481),a
 43.7879276,-79.3349904,2,Brian Drive (361),a
 43.7879276,-79.3349904,2,Brian Drive (607),a
-43.7879361,-79.349705,2,Hobart Drive (601),a
-43.7879361,-79.349705,2,Hobart Drive (878),a
-43.7879389,-79.3484403,2,Ashstead Place (487),a
-43.7879389,-79.3484403,2,Ashstead Place (955),a
-43.7879389,-79.3484403,2,Van Horne Avenue (421),a
-43.7879389,-79.3484403,2,Van Horne Avenue (959),a
-43.7879421,-79.3507122,2,Axsmith Crescent (091),a
-43.7879421,-79.3507122,2,Axsmith Crescent (863),a
-43.7879451,-79.3433934,2,Kingslake Road (267),a
-43.7879451,-79.3433934,2,Kingslake Road (269),a
+43.7879502,-79.3350001,2,Brian Drive (090),a
 43.7879502,-79.3350001,2,Brian Drive (140),a
-43.7879679,-79.3485935,2,Deerford Road (198),a
-43.7879679,-79.3485935,2,Deerford Road (289),a
-43.7879679,-79.3485935,2,Van Horne Avenue (420),a
-43.7879679,-79.3485935,2,Van Horne Avenue (957),a
-43.7879791,-79.3507248,2,Axsmith Crescent (004),a
-43.7879791,-79.3507248,2,Axsmith Crescent (819),a
-43.7879794,-79.3501009,2,Van Horne Avenue (416),a
-43.7879794,-79.3501009,2,Van Horne Avenue (948),a
-43.7879803,-79.3487253,2,Ashstead Place (493),a
-43.7879803,-79.3487253,2,Ashstead Place (961),a
-43.7879803,-79.3487253,2,Van Horne Avenue (419),a
-43.7879803,-79.3487253,2,Van Horne Avenue (955),a
-43.7879957,-79.348422,2,Ashstead Place (174),a
-43.7879957,-79.348422,2,Ashstead Place (174),a
-43.7879957,-79.348422,2,Ashstead Place (881),a
-43.7879957,-79.348422,2,Ashstead Place (881),a
-43.7879967,-79.3497085,2,Hobart Drive (184),a
-43.7879967,-79.3497085,2,Hobart Drive (184),a
-43.7879967,-79.3497085,2,Hobart Drive (295),a
-43.7879967,-79.3497085,2,Hobart Drive (295),a
-43.7879967,-79.3497085,2,Van Horne Avenue (417),a
-43.7879967,-79.3497085,2,Van Horne Avenue (417),a
-43.7879967,-79.3497085,2,Van Horne Avenue (950),a
-43.7879967,-79.3497085,2,Van Horne Avenue (950),a
-43.7879987,-79.3532811,2,Don Mills Road (019),a
-43.7879987,-79.3532811,2,Don Mills Road (019),a
-43.7879987,-79.3532811,2,Don Mills Road (020),a
-43.7879987,-79.3532811,2,Don Mills Road (020),a
-43.7879987,-79.3532811,2,Don Mills Road (933),a
-43.7879987,-79.3532811,2,Don Mills Road (933),a
-43.7879987,-79.3532811,2,Don Mills Road (934),a
-43.7879987,-79.3532811,2,Don Mills Road (934),a
 43.7879987,-79.3351594,2,Van Horne Avenue (322),a
 43.7879987,-79.3351594,2,Van Horne Avenue (322),a
 43.7879987,-79.3351594,2,Van Horne Avenue (507),a
@@ -33427,72 +32559,19 @@ lat,lon,sz,names,len_cat
 43.7880242,-79.3350376,2,Brian Drive (097),a
 43.7880242,-79.3350376,2,Van Horne Avenue (318),a
 43.7880242,-79.3350376,2,Van Horne Avenue (503),a
-43.7880409,-79.348695,2,Ashstead Place (175),a
-43.7880409,-79.348695,2,Ashstead Place (882),a
-43.7880567,-79.3470928,2,Mosedale Crescent (127),a
-43.7880567,-79.3470928,2,Mosedale Crescent (482),a
-43.7880567,-79.3452989,2,Mosedale Crescent (111),a
-43.7880567,-79.3452989,2,Mosedale Crescent (466),a
+43.7880441,-79.3393086,2,Sepia Drive (676),a
 43.7880588,-79.3348873,2,Van Horne Avenue (323),a
 43.7880588,-79.3348873,2,Van Horne Avenue (508),a
 43.7880689,-79.339197,2,Sepia Drive (675),a
-43.7880691,-79.3466293,2,Mosedale Crescent (118),a
-43.7880691,-79.3466293,2,Mosedale Crescent (131),a
-43.7880691,-79.3466293,2,Mosedale Crescent (473),a
-43.7880691,-79.3466293,2,Mosedale Crescent (486),a
-43.7880833,-79.3497046,2,Hobart Drive (602),a
-43.7880833,-79.3497046,2,Hobart Drive (879),a
-43.7880942,-79.3486737,2,Ashstead Place (014),a
-43.7880942,-79.3486737,2,Ashstead Place (829),a
-43.7881248,-79.3442861,2,Mosedale Crescent (107),a
-43.7881248,-79.3442861,2,Mosedale Crescent (462),a
-43.7881248,-79.3442861,2,Mosedale Crescent (462),a
-43.7881265,-79.3518758,2,Axsmith Crescent (321),a
-43.7881265,-79.3518758,2,Axsmith Crescent (721),a
-43.788131,-79.3450929,2,Mosedale Crescent (110),a
-43.788131,-79.3450929,2,Mosedale Crescent (465),a
-43.7881494,-79.3497016,2,Hobart Drive (809),a
-43.7881494,-79.3497016,2,Hobart Drive (990),a
-43.7881496,-79.3471528,2,Mosedale Crescent (128),a
-43.7881496,-79.3471528,2,Mosedale Crescent (483),a
 43.7881618,-79.3391283,2,Sepia Drive (252),a
-43.7881826,-79.3533649,2,Don Mills Road (008),a
-43.7881826,-79.3533649,2,Don Mills Road (021),a
-43.7881826,-79.3533649,2,Don Mills Road (922),a
-43.7881826,-79.3533649,2,Don Mills Road (935),a
-43.7881868,-79.3433763,2,Kingslake Road (270),a
-43.788193,-79.3443977,2,Mosedale Crescent (108),a
-43.788193,-79.3443977,2,Mosedale Crescent (463),a
-43.788193,-79.3443977,2,Mosedale Crescent (463),a
-43.7882054,-79.3486291,2,Ashstead Place (492),a
-43.7882054,-79.3486291,2,Ashstead Place (960),a
-43.7882054,-79.3483545,2,Ashstead Place (488),a
-43.7882054,-79.3483545,2,Ashstead Place (956),a
-43.7882054,-79.3470842,2,Mosedale Crescent (129),a
-43.7882054,-79.3470842,2,Mosedale Crescent (484),a
-43.7882116,-79.3469812,2,Mosedale Crescent (130),a
-43.7882116,-79.3469812,2,Mosedale Crescent (485),a
-43.7882116,-79.3445951,2,Mosedale Crescent (109),a
-43.7882116,-79.3445951,2,Mosedale Crescent (109),a
-43.7882116,-79.3445951,2,Mosedale Crescent (464),a
 43.7882249,-79.3311351,2,Clipper Road (486),a
 43.7882249,-79.3311351,2,Clipper Road (584),a
-43.7882252,-79.3520109,2,Axsmith Crescent (320),a
-43.7882252,-79.3520109,2,Axsmith Crescent (720),a
 43.7882424,-79.3340901,2,Bickerton Crescent (238),a
 43.7882424,-79.3340901,2,Bickerton Crescent (531),a
 43.7882424,-79.3340901,2,Van Horne Avenue (317),a
 43.7882424,-79.3340901,2,Van Horne Avenue (502),a
-43.7882673,-79.3483888,2,Ashstead Place (489),a
-43.7882673,-79.3483888,2,Ashstead Place (957),a
 43.7882679,-79.3339742,2,Van Horne Avenue (327),a
 43.7882679,-79.3339742,2,Van Horne Avenue (512),a
-43.7882797,-79.3485605,2,Ashstead Place (491),a
-43.7882797,-79.3485605,2,Ashstead Place (959),a
-43.7882921,-79.3484575,2,Ashstead Place (490),a
-43.7882921,-79.3484575,2,Ashstead Place (958),a
-43.7883058,-79.3521689,2,Axsmith Crescent (319),a
-43.7883058,-79.3521689,2,Axsmith Crescent (719),a
 43.7883224,-79.3337271,2,Van Horne Avenue (320),a
 43.7883298,-79.3379732,2,Lucifer Drive (170),a
 43.7883298,-79.3379732,2,Lucifer Drive (171),a
@@ -33504,21 +32583,13 @@ lat,lon,sz,names,len_cat
 43.7883389,-79.3341305,2,Bickerton Crescent (770),a
 43.7883503,-79.3378823,2,Warfield Drive (024),a
 43.7883503,-79.3378823,2,Warfield Drive (837),a
-43.7883541,-79.3508521,2,Axsmith Crescent (304),a
-43.7883541,-79.3508521,2,Axsmith Crescent (704),a
 43.7883601,-79.331325,2,Clipper Road (487),a
 43.7883601,-79.331325,2,Clipper Road (585),a
 43.7883671,-79.3291779,2,Victoria Park Avenue (987),a
 43.7884054,-79.3313859,2,Clipper Road (489),a
 43.7884054,-79.3313859,2,Clipper Road (586),a
-43.7884184,-79.3525602,2,Axsmith Crescent (318),a
-43.7884184,-79.3525602,2,Axsmith Crescent (718),a
-43.7884761,-79.3527074,2,Axsmith Crescent (317),a
-43.7884761,-79.3527074,2,Axsmith Crescent (717),a
 43.7884789,-79.3314459,2,Clipper Road (490),a
 43.7884789,-79.3314459,2,Clipper Road (587),a
-43.7885197,-79.3527574,2,Axsmith Crescent (316),a
-43.7885197,-79.3527574,2,Axsmith Crescent (716),a
 43.788533,-79.3535247,2,Don Mills Road (702),a
 43.788533,-79.3535247,2,Don Mills Road (823),a
 43.7885417,-79.3314774,2,Clipper Road (632),a
@@ -33527,18 +32598,10 @@ lat,lon,sz,names,len_cat
 43.7885608,-79.3326669,2,Van Horne Avenue (321),a
 43.7885608,-79.3326669,2,Van Horne Avenue (506),a
 43.7885608,-79.3326669,2,Van Horne Avenue (506),a
-43.7885896,-79.3527886,2,Axsmith Crescent (315),a
-43.7885896,-79.3527886,2,Axsmith Crescent (715),a
-43.7885957,-79.3508436,2,Axsmith Crescent (305),a
-43.7885957,-79.3508436,2,Axsmith Crescent (705),a
 43.7886079,-79.340802,2,Edmonton Drive (068),a
 43.7886079,-79.340802,2,Faye Drive (173),a
 43.7886079,-79.340802,2,Faye Drive (795),a
 43.7886364,-79.3406682,2,Faye Drive (758),a
-43.7886515,-79.3460714,2,Mosedale Crescent (119),a
-43.7886515,-79.3460714,2,Mosedale Crescent (474),a
-43.7886894,-79.3527964,2,Axsmith Crescent (314),a
-43.7886894,-79.3527964,2,Axsmith Crescent (714),a
 43.7886959,-79.3315548,2,Clipper Road (009),a
 43.7886959,-79.3315548,2,Clipper Road (716),a
 43.7887096,-79.3293386,2,Victoria Park Avenue (225),a
@@ -33547,14 +32610,6 @@ lat,lon,sz,names,len_cat
 43.7887577,-79.4624345,2,Steeles Avenue West (578),a
 43.7887712,-79.3316914,2,Van Horne Avenue (329),a
 43.7887712,-79.3316914,2,Van Horne Avenue (514),a
-43.7887715,-79.3527691,2,Axsmith Crescent (313),a
-43.7887715,-79.3527691,2,Axsmith Crescent (713),a
-43.7887806,-79.3496732,2,Hobart Drive (185),a
-43.7887806,-79.3496732,2,Hobart Drive (296),a
-43.7887816,-79.3458568,2,Mosedale Crescent (120),a
-43.7887816,-79.3458568,2,Mosedale Crescent (120),a
-43.7887816,-79.3458568,2,Mosedale Crescent (475),a
-43.7887816,-79.3458568,2,Mosedale Crescent (475),a
 43.7887904,-79.3316022,2,Clipper Road (492),a
 43.7887904,-79.3316022,2,Clipper Road (588),a
 43.7887904,-79.3316022,2,Taverly Road (164),a
@@ -33563,114 +32618,61 @@ lat,lon,sz,names,len_cat
 43.7887904,-79.3316022,2,Van Horne Avenue (504),a
 43.7888134,-79.3314974,2,Van Horne Avenue (328),a
 43.7888134,-79.3314974,2,Van Horne Avenue (513),a
-43.7888436,-79.3455135,2,Mosedale Crescent (121),a
-43.7888436,-79.3455135,2,Mosedale Crescent (121),a
-43.7888436,-79.3455135,2,Mosedale Crescent (476),a
 43.7888491,-79.4623288,2,Steeles Avenue West (369),a
 43.7888491,-79.4623288,2,Steeles Avenue West (377),a
 43.7888491,-79.4623288,2,Steeles Avenue West (389),a
 43.7888491,-79.4623288,2,Steeles Avenue West (559),a
 43.7888491,-79.4623288,2,Steeles Avenue West (567),a
 43.7888491,-79.4623288,2,Steeles Avenue West (579),a
-43.7888564,-79.3526243,2,Axsmith Crescent (312),a
-43.7888564,-79.3526243,2,Axsmith Crescent (712),a
 43.7888774,-79.3294172,2,Victoria Park Avenue (905),a
 43.7888921,-79.3316451,2,Taverly Road (620),a
 43.7888921,-79.3316451,2,Taverly Road (994),a
-43.7889345,-79.3496663,2,Hobart Drive (186),a
-43.7889345,-79.3496663,2,Hobart Drive (297),a
-43.7889365,-79.3449127,2,Mosedale Crescent (122),a
-43.7889365,-79.3449127,2,Mosedale Crescent (122),a
-43.7889365,-79.3449127,2,Mosedale Crescent (477),a
-43.7889365,-79.3449127,2,Mosedale Crescent (477),a
 43.7889507,-79.3391928,2,Faye Drive (174),a
 43.7889507,-79.3391928,2,Faye Drive (796),a
 43.7889507,-79.3391928,2,Sepia Drive (251),a
 43.7889507,-79.3391928,2,Sepia Drive (673),a
-43.7889731,-79.3446953,2,Mosedale Crescent (123),a
-43.7889731,-79.3446953,2,Mosedale Crescent (123),a
-43.7889731,-79.3446953,2,Mosedale Crescent (478),a
-43.7889974,-79.3520145,2,Axsmith Crescent (311),a
-43.7889974,-79.3520145,2,Axsmith Crescent (711),a
-43.7889985,-79.3508006,2,Axsmith Crescent (306),a
-43.7889985,-79.3508006,2,Axsmith Crescent (706),a
 43.7890047,-79.3306267,2,Van Horne Avenue (324),a
 43.7890047,-79.3306267,2,Van Horne Avenue (509),a
-43.7890306,-79.3518753,2,Axsmith Crescent (310),a
-43.7890306,-79.3518753,2,Axsmith Crescent (710),a
 43.7890392,-79.3304696,2,Bickerton Crescent (226),a
 43.7890392,-79.3304696,2,Bickerton Crescent (519),a
 43.7890392,-79.3304696,2,Van Horne Avenue (024),a
 43.7890392,-79.3304696,2,Van Horne Avenue (470),a
 43.7890482,-79.3304284,2,Van Horne Avenue (025),a
 43.7890482,-79.3304284,2,Van Horne Avenue (471),a
-43.7890622,-79.3444545,2,Mosedale Crescent (124),a
-43.7890622,-79.3444545,2,Mosedale Crescent (124),a
-43.7890622,-79.3444545,2,Mosedale Crescent (479),a
-43.7890622,-79.3444545,2,Mosedale Crescent (479),a
 43.7890877,-79.3537503,2,Don Mills Road (704),a
 43.7890877,-79.3537503,2,Don Mills Road (824),a
 43.789094,-79.3381661,2,Lucifer Drive (021),a
 43.789094,-79.3381661,2,Lucifer Drive (836),a
-43.7890976,-79.3508607,2,Axsmith Crescent (307),a
-43.7890976,-79.3508607,2,Axsmith Crescent (707),a
 43.789124,-79.3344594,2,Bickerton Crescent (236),a
 43.789124,-79.3344594,2,Bickerton Crescent (237),a
 43.789124,-79.3344594,2,Bickerton Crescent (530),a
 43.789124,-79.3344594,2,Warfield Drive (249),a
 43.789124,-79.3344594,2,Warfield Drive (403),a
-43.7891348,-79.3435994,2,Kingslake Road (269),a
 43.7891404,-79.3305165,2,Bickerton Crescent (175),a
 43.7891404,-79.3305165,2,Bickerton Crescent (769),a
 43.7891624,-79.3305267,2,Bickerton Crescent (227),a
 43.7891624,-79.3305267,2,Bickerton Crescent (520),a
 43.7891656,-79.3381842,2,Faye Drive (797),a
 43.7891656,-79.3381842,2,Lucifer Drive (169),a
-43.7891658,-79.3509466,2,Axsmith Crescent (308),a
-43.7891658,-79.3509466,2,Axsmith Crescent (708),a
+43.7891656,-79.3381842,2,Lucifer Drive (258),a
 43.7891687,-79.3295536,2,Victoria Park Avenue (904),a
-43.7891844,-79.3511182,2,Axsmith Crescent (309),a
-43.7891844,-79.3511182,2,Axsmith Crescent (709),a
 43.7891945,-79.3297625,2,Van Horne Avenue (026),a
 43.7891945,-79.3297625,2,Van Horne Avenue (472),a
-43.789201,-79.3497264,2,Hobart Drive (187),a
-43.789201,-79.3497264,2,Hobart Drive (298),a
-43.7892215,-79.3471099,2,Sandbourne Crescent (520),a
-43.7892215,-79.3471099,2,Sandbourne Crescent (566),a
 43.7892337,-79.329584,2,Ferncrest Gate (124),a
 43.7892337,-79.329584,2,Ferncrest Gate (620),a
 43.7892337,-79.329584,2,Van Horne Avenue (027),a
 43.7892337,-79.329584,2,Van Horne Avenue (473),a
 43.7892337,-79.329584,2,Victoria Park Avenue (232),a
 43.7892337,-79.329584,2,Victoria Park Avenue (903),a
-43.789257,-79.347229,2,Sandbourne Crescent (519),a
-43.789257,-79.347229,2,Sandbourne Crescent (565),a
-43.7892587,-79.3469211,2,Sandbourne Crescent (521),a
-43.7892587,-79.3469211,2,Sandbourne Crescent (567),a
-43.7893083,-79.3473159,2,Sandbourne Crescent (518),a
-43.7893083,-79.3473159,2,Sandbourne Crescent (564),a
-43.7893289,-79.3438856,2,Mosedale Crescent (013),a
-43.7893289,-79.3438856,2,Mosedale Crescent (013),a
-43.7893289,-79.3438856,2,Mosedale Crescent (828),a
-43.7893289,-79.3438856,2,Mosedale Crescent (828),a
 43.7893434,-79.3296364,2,Victoria Park Avenue (231),a
 43.7893763,-79.333206,2,Taverly Road (168),a
 43.7893763,-79.333206,2,Taverly Road (168),a
 43.7893763,-79.333206,2,Taverly Road (426),a
 43.7893763,-79.333206,2,Taverly Road (426),a
-43.7893826,-79.3437711,2,Kingslake Road (270),a
-43.7893826,-79.3437711,2,Kingslake Road (270),a
-43.7893826,-79.3437711,2,Kingslake Road (272),a
-43.7893826,-79.3437711,2,Kingslake Road (272),a
-43.7893826,-79.3437711,2,Mosedale Crescent (125),a
-43.7893826,-79.3437711,2,Mosedale Crescent (125),a
-43.7893826,-79.3437711,2,Mosedale Crescent (480),a
-43.7893826,-79.3437711,2,Mosedale Crescent (480),a
 43.789401,-79.3333004,2,Taverly Road (169),a
 43.789401,-79.3333004,2,Taverly Road (427),a
 43.789401,-79.3333004,2,Taverly Road (427),a
-43.7895189,-79.3463632,2,Sandbourne Crescent (522),a
-43.7895189,-79.3463632,2,Sandbourne Crescent (569),a
+43.7895202,-79.3409853,2,Edmonton Drive (069),a
 43.7895202,-79.3409853,2,Ernest Avenue (402),a
 43.7895202,-79.3409853,2,Ernest Avenue (802),a
 43.7895312,-79.3334292,2,Taverly Road (170),a
@@ -33688,8 +32690,6 @@ lat,lon,sz,names,len_cat
 43.7895932,-79.3576537,2,Seneca Hill Drive (084),a
 43.7895932,-79.3576537,2,Seneca Hill Drive (955),a
 43.7895932,-79.3576537,2,Seneca Hill Drive (955),a
-43.7895933,-79.34608,2,Sandbourne Crescent (523),a
-43.7895933,-79.34608,2,Sandbourne Crescent (570),a
 43.7896117,-79.3321417,2,Taverly Road (167),a
 43.7896117,-79.3321417,2,Taverly Road (167),a
 43.7896117,-79.3321417,2,Taverly Road (425),a
@@ -33698,10 +32698,6 @@ lat,lon,sz,names,len_cat
 43.7896241,-79.3319872,2,Taverly Road (166),a
 43.7896241,-79.3319872,2,Taverly Road (424),a
 43.7896241,-79.3319872,2,Taverly Road (424),a
-43.7896615,-79.3453418,2,Sandbourne Crescent (524),a
-43.7896615,-79.3453418,2,Sandbourne Crescent (524),a
-43.7896615,-79.3453418,2,Sandbourne Crescent (572),a
-43.7896615,-79.3453418,2,Sandbourne Crescent (572),a
 43.7896675,-79.335944,2,Faye Drive (798),a
 43.7897028,-79.3572795,2,Seneca Hill Drive (085),a
 43.7897028,-79.3572795,2,Seneca Hill Drive (085),a
@@ -33710,71 +32706,29 @@ lat,lon,sz,names,len_cat
 43.789717,-79.3358582,2,Cherokee Boulevard (389),a
 43.789717,-79.3358582,2,Faye Drive (177),a
 43.789717,-79.3358582,2,Faye Drive (799),a
-43.7897296,-79.3450071,2,Sandbourne Crescent (525),a
-43.7897296,-79.3450071,2,Sandbourne Crescent (525),a
-43.7897296,-79.3450071,2,Sandbourne Crescent (574),a
 43.7897422,-79.3298269,2,Victoria Park Avenue (115),a
 43.7897422,-79.3298269,2,Victoria Park Avenue (230),a
 43.789779,-79.3347338,2,Bickerton Crescent (528),a
-43.7897916,-79.347582,2,Sandbourne Crescent (517),a
-43.7897916,-79.347582,2,Sandbourne Crescent (563),a
 43.7898286,-79.3358496,2,Cherokee Boulevard (390),a
 43.7898286,-79.3358496,2,Cherokee Boulevard (996),a
-43.7898721,-79.3475992,2,Sandbourne Crescent (516),a
-43.7898721,-79.3475992,2,Sandbourne Crescent (562),a
-43.7899045,-79.3518117,2,Hobart Drive (191),a
-43.7899045,-79.3518117,2,Hobart Drive (302),a
 43.7899073,-79.3561809,2,Seneca Hill Drive (086),a
 43.7899073,-79.3561809,2,Seneca Hill Drive (086),a
 43.7899073,-79.3561809,2,Seneca Hill Drive (957),a
 43.7899073,-79.3561809,2,Seneca Hill Drive (957),a
 43.7899091,-79.3347166,2,Bickerton Crescent (234),a
 43.7899091,-79.3347166,2,Bickerton Crescent (527),a
-43.7899103,-79.3445899,2,Sandbourne Crescent (016),a
-43.7899103,-79.3445899,2,Sandbourne Crescent (016),a
-43.7899103,-79.3445899,2,Sandbourne Crescent (831),a
-43.7899103,-79.3445899,2,Sandbourne Crescent (831),a
-43.7899231,-79.351992,2,Hobart Drive (192),a
-43.7899231,-79.351992,2,Hobart Drive (303),a
 43.7899302,-79.3560329,2,Seneca Hill Drive (087),a
 43.7899302,-79.3560329,2,Seneca Hill Drive (087),a
 43.7899302,-79.3560329,2,Seneca Hill Drive (958),a
 43.7899302,-79.3560329,2,Seneca Hill Drive (958),a
-43.7899403,-79.3474962,2,Sandbourne Crescent (515),a
-43.7899403,-79.3474962,2,Sandbourne Crescent (561),a
-43.7899527,-79.3444921,2,Baroness Crescent (437),a
-43.7899527,-79.3444921,2,Baroness Crescent (437),a
-43.7899527,-79.3444921,2,Baroness Crescent (792),a
-43.7899527,-79.3444921,2,Baroness Crescent (792),a
-43.7899527,-79.3444921,2,Kingslake Road (271),a
-43.7899527,-79.3444921,2,Kingslake Road (273),a
-43.7899527,-79.3444921,2,Kingslake Road (273),a
-43.7899527,-79.3444921,2,Sandbourne Crescent (526),a
-43.7899527,-79.3444921,2,Sandbourne Crescent (526),a
-43.7899527,-79.3444921,2,Sandbourne Crescent (575),a
-43.7899527,-79.3444921,2,Sandbourne Crescent (575),a
 43.7899649,-79.3346308,2,Bickerton Crescent (233),a
 43.7899649,-79.3346308,2,Bickerton Crescent (526),a
-43.7899693,-79.3503959,2,Hobart Drive (188),a
-43.7899693,-79.3503959,2,Hobart Drive (299),a
-43.7900052,-79.3443768,2,Baroness Crescent (049),a
-43.7900052,-79.3443768,2,Baroness Crescent (049),a
-43.7900052,-79.3443768,2,Baroness Crescent (962),a
-43.7900052,-79.3443768,2,Baroness Crescent (962),a
-43.7900098,-79.3520864,2,Hobart Drive (193),a
-43.7900098,-79.3520864,2,Hobart Drive (304),a
 43.7900123,-79.3555372,2,Seneca Hill Drive (088),a
 43.7900123,-79.3555372,2,Seneca Hill Drive (959),a
 43.7900307,-79.3554241,2,Seneca Hill Drive (089),a
 43.7900307,-79.3554241,2,Seneca Hill Drive (960),a
 43.7900636,-79.3552226,2,Seneca Hill Drive (090),a
 43.7900636,-79.3552226,2,Seneca Hill Drive (961),a
-43.7900982,-79.3505683,2,Hobart Drive (189),a
-43.7900982,-79.3505683,2,Hobart Drive (300),a
-43.7901407,-79.3507641,2,Hobart Drive (190),a
-43.7901407,-79.3507641,2,Hobart Drive (301),a
-43.7901509,-79.3469726,2,Sandbourne Crescent (514),a
-43.7901509,-79.3469726,2,Sandbourne Crescent (560),a
 43.7901631,-79.3337038,2,Bickerton Crescent (231),a
 43.7901631,-79.3337038,2,Bickerton Crescent (231),a
 43.7901631,-79.3337038,2,Bickerton Crescent (232),a
@@ -33785,291 +32739,92 @@ lat,lon,sz,names,len_cat
 43.7901631,-79.3337038,2,Taverly Road (171),a
 43.7901631,-79.3337038,2,Taverly Road (429),a
 43.7901631,-79.3337038,2,Taverly Road (429),a
-43.790174,-79.3541073,2,Don Mills Road (708),a
-43.790174,-79.3541073,2,Don Mills Road (826),a
-43.7901757,-79.3440028,2,Baroness Crescent (438),a
-43.7901757,-79.3440028,2,Baroness Crescent (438),a
-43.7901757,-79.3440028,2,Baroness Crescent (793),a
-43.7901757,-79.3440028,2,Baroness Crescent (793),a
-43.7902334,-79.3543278,2,Seneca Hill Drive (091),a
-43.7902334,-79.3543278,2,Seneca Hill Drive (962),a
-43.7902501,-79.3466293,2,Sandbourne Crescent (513),a
-43.7902501,-79.3466293,2,Sandbourne Crescent (559),a
-43.7902529,-79.3439034,2,Baroness Crescent (439),a
-43.7902529,-79.3439034,2,Baroness Crescent (439),a
-43.7902529,-79.3439034,2,Baroness Crescent (794),a
-43.7902529,-79.3439034,2,Baroness Crescent (794),a
-43.7902773,-79.3541441,2,Don Mills Road (710),a
-43.7902773,-79.3541441,2,Don Mills Road (827),a
-43.7902773,-79.3541441,2,Seneca Hill Drive (063),a
-43.7902773,-79.3541441,2,Seneca Hill Drive (092),a
-43.7902773,-79.3541441,2,Seneca Hill Drive (934),a
-43.7902773,-79.3541441,2,Seneca Hill Drive (963),a
-43.7903047,-79.3539635,2,Seneca Hill Drive (064),a
-43.7903047,-79.3539635,2,Seneca Hill Drive (935),a
-43.7903244,-79.3459426,2,Sandbourne Crescent (512),a
-43.7903244,-79.3459426,2,Sandbourne Crescent (558),a
-43.790374,-79.3456765,2,Sandbourne Crescent (511),a
-43.790374,-79.3456765,2,Sandbourne Crescent (511),a
-43.790374,-79.3456765,2,Sandbourne Crescent (557),a
-43.790374,-79.3456765,2,Sandbourne Crescent (557),a
-43.7903742,-79.3541612,2,Don Mills Road (711),a
-43.7903742,-79.3541612,2,Don Mills Road (828),a
-43.790405,-79.343917,2,Baroness Crescent (440),a
-43.790405,-79.343917,2,Baroness Crescent (440),a
-43.790405,-79.343917,2,Baroness Crescent (795),a
-43.7904669,-79.3454877,2,Sandbourne Crescent (510),a
-43.7904669,-79.3454877,2,Sandbourne Crescent (510),a
-43.7904669,-79.3454877,2,Sandbourne Crescent (556),a
-43.7904669,-79.3454877,2,Sandbourne Crescent (556),a
-43.7904767,-79.3530264,2,Seneca Hill Drive (065),a
-43.7904767,-79.3530264,2,Seneca Hill Drive (936),a
-43.7905221,-79.3528268,2,Seneca Hill Drive (066),a
-43.7905221,-79.3528268,2,Seneca Hill Drive (937),a
-43.7905421,-79.3453786,2,Sandbourne Crescent (015),a
-43.7905421,-79.3453786,2,Sandbourne Crescent (015),a
-43.7905421,-79.3453786,2,Sandbourne Crescent (830),a
-43.7905421,-79.3453786,2,Sandbourne Crescent (830),a
-43.7905436,-79.3523122,2,Hobart Drive (194),a
-43.7905436,-79.3523122,2,Hobart Drive (305),a
 43.7905484,-79.3361885,2,Cherokee Boulevard (392),a
 43.7905484,-79.3361885,2,Ernest Avenue (403),a
-43.7905653,-79.35232,2,Hobart Drive (195),a
-43.7905653,-79.35232,2,Hobart Drive (306),a
-43.790573,-79.3526461,2,Seneca Hill Drive (067),a
-43.790573,-79.3526461,2,Seneca Hill Drive (938),a
-43.790597,-79.3452989,2,Kingslake Road (272),a
-43.790597,-79.3452989,2,Kingslake Road (272),a
-43.790597,-79.3452989,2,Kingslake Road (274),a
-43.790597,-79.3452989,2,Kingslake Road (274),a
-43.790597,-79.3452989,2,Sandbourne Crescent (509),a
-43.790597,-79.3452989,2,Sandbourne Crescent (509),a
-43.790597,-79.3452989,2,Sandbourne Crescent (555),a
-43.790597,-79.3452989,2,Sandbourne Crescent (555),a
 43.7906092,-79.3311976,2,Bickerton Crescent (228),a
 43.7906092,-79.3311976,2,Bickerton Crescent (521),a
-43.7906392,-79.3523454,2,Hobart Drive (196),a
-43.7906392,-79.3523454,2,Hobart Drive (307),a
-43.7906392,-79.3523454,2,Seneca Hill Drive (068),a
-43.7906392,-79.3523454,2,Seneca Hill Drive (069),a
-43.7906392,-79.3523454,2,Seneca Hill Drive (939),a
-43.7906392,-79.3523454,2,Seneca Hill Drive (940),a
 43.7906421,-79.3357668,2,Ernest Avenue (023),a
 43.7906421,-79.3357668,2,Ernest Avenue (667),a
 43.7906754,-79.3312797,2,Bickerton Crescent (229),a
 43.7906754,-79.3312797,2,Bickerton Crescent (522),a
 43.7906774,-79.3313864,2,Bickerton Crescent (230),a
 43.7906774,-79.3313864,2,Bickerton Crescent (523),a
+43.7907011,-79.3355016,2,Ernest Avenue (419),a
 43.7907011,-79.3355016,2,Ernest Avenue (600),a
-43.7907272,-79.3481056,2,Tepee Court (264),a
-43.7907272,-79.3481056,2,Tepee Court (552),a
-43.7907581,-79.3478996,2,Tepee Court (263),a
-43.7907581,-79.3478996,2,Tepee Court (551),a
-43.7909006,-79.3456851,2,Kingslake Road (273),a
-43.7909006,-79.3456851,2,Kingslake Road (275),a
-43.7909006,-79.3456851,2,Medaca Street (548),a
-43.7909006,-79.3456851,2,Medaca Street (683),a
-43.7909392,-79.3510385,2,Seneca Hill Drive (070),a
-43.7909392,-79.3510385,2,Seneca Hill Drive (941),a
-43.7909624,-79.3456009,2,Medaca Street (017),a
-43.7909624,-79.3456009,2,Medaca Street (017),a
-43.7909624,-79.3456009,2,Medaca Street (832),a
-43.7909624,-79.3456009,2,Medaca Street (832),a
-43.7910287,-79.3508849,2,Seneca Hill Drive (071),a
-43.7910287,-79.3508849,2,Seneca Hill Drive (942),a
-43.7910803,-79.3466636,2,Tepee Court (262),a
-43.7910803,-79.3466636,2,Tepee Court (550),a
-43.7911464,-79.3507223,2,Seneca Hill Drive (072),a
-43.7911464,-79.3507223,2,Seneca Hill Drive (943),a
-43.7911741,-79.3543514,2,Don Mills Road (713),a
-43.7911741,-79.3543514,2,Don Mills Road (829),a
 43.7912335,-79.3365111,2,Cherokee Boulevard (899),a
 43.7912533,-79.3330171,2,Chalet Road (275),a
 43.7912533,-79.3330171,2,Chalet Road (275),a
 43.7912533,-79.3330171,2,Chalet Road (651),a
 43.7912533,-79.3330171,2,Chalet Road (651),a
 43.7912533,-79.3330171,2,Ernest Avenue (414),a
+43.7912533,-79.3330171,2,Ernest Avenue (414),a
 43.7912533,-79.3330171,2,Ernest Avenue (595),a
 43.7912533,-79.3330171,2,Ernest Avenue (595),a
-43.7912662,-79.3451873,2,Medaca Street (547),a
-43.7912662,-79.3451873,2,Medaca Street (547),a
-43.7912662,-79.3451873,2,Medaca Street (682),a
-43.7912662,-79.3451873,2,Medaca Street (682),a
-43.7912818,-79.3506255,2,Seneca Hill Drive (073),a
-43.7912818,-79.3506255,2,Seneca Hill Drive (944),a
 43.7912979,-79.3413426,2,Edmonton Drive (070),a
 43.7912979,-79.3413426,2,Edmonton Drive (443),a
 43.7912979,-79.3413426,2,Pinto Drive (168),a
 43.7912979,-79.3413426,2,Pinto Drive (620),a
 43.7913356,-79.3412399,2,Pinto Drive (167),a
 43.7913356,-79.3412399,2,Pinto Drive (619),a
-43.7913715,-79.3460027,2,Kingslake Road (274),a
-43.7913715,-79.3460027,2,Kingslake Road (276),a
-43.7913715,-79.3460027,2,Tepee Court (261),a
-43.7913715,-79.3460027,2,Tepee Court (549),a
-43.7913901,-79.3449127,2,Medaca Street (546),a
-43.7913901,-79.3449127,2,Medaca Street (681),a
-43.7913901,-79.3449127,2,Medaca Street (681),a
-43.7913997,-79.3505868,2,Seneca Hill Drive (074),a
-43.7913997,-79.3505868,2,Seneca Hill Drive (945),a
 43.7914611,-79.3366183,2,Chalet Road (269),a
 43.7914611,-79.3366183,2,Chalet Road (645),a
 43.7914611,-79.3366183,2,Cherokee Boulevard (393),a
-43.7914837,-79.3505673,2,Seneca Hill Drive (075),a
-43.7914837,-79.3505673,2,Seneca Hill Drive (946),a
 43.7914891,-79.3364965,2,Chalet Road (025),a
 43.7914891,-79.3364965,2,Chalet Road (838),a
-43.791522,-79.3544403,2,1555 Finch Avenue East (360),a
-43.791522,-79.3544403,2,1555 Finch Avenue East (544),a
-43.791522,-79.3544403,2,Don Mills Road (715),a
-43.791522,-79.3544403,2,Don Mills Road (830),a
 43.7915249,-79.3366462,2,Cherokee Boulevard (898),a
-43.7915388,-79.3441659,2,Baroness Crescent (441),a
-43.7915388,-79.3441659,2,Baroness Crescent (796),a
-43.7915388,-79.3441659,2,Baroness Crescent (796),a
-43.7915388,-79.3441659,2,Medaca Street (545),a
-43.7915388,-79.3441659,2,Medaca Street (680),a
-43.7915388,-79.3441659,2,Medaca Street (680),a
 43.7915424,-79.3317164,2,Ernest Avenue (416),a
 43.7915424,-79.3317164,2,Ernest Avenue (416),a
 43.7915424,-79.3317164,2,Ernest Avenue (597),a
 43.7915424,-79.3317164,2,Ernest Avenue (597),a
-43.7915548,-79.3542627,2,1555 Finch Avenue East (361),a
-43.7915548,-79.3542627,2,1555 Finch Avenue East (545),a
 43.7915594,-79.331639,2,Ernest Avenue (417),a
 43.7915594,-79.331639,2,Ernest Avenue (417),a
 43.7915594,-79.331639,2,Ernest Avenue (598),a
 43.7915594,-79.331639,2,Ernest Avenue (598),a
-43.7915713,-79.3505756,2,Seneca Hill Drive (076),a
-43.7915713,-79.3505756,2,Seneca Hill Drive (947),a
-43.7915822,-79.3484918,2,Kingslake Road (280),a
-43.7915822,-79.3484918,2,Kingslake Road (282),a
-43.7915884,-79.3483201,2,Kingslake Road (279),a
-43.7915884,-79.3483201,2,Kingslake Road (281),a
-43.7915884,-79.3483201,2,Whitehorn Crescent (567),a
-43.7915884,-79.3483201,2,Whitehorn Crescent (572),a
 43.7916006,-79.3360127,2,Chalet Road (270),a
 43.7916006,-79.3360127,2,Chalet Road (646),a
-43.7916059,-79.3541201,2,1555 Finch Avenue East (362),a
-43.7916059,-79.3541201,2,1555 Finch Avenue East (546),a
-43.791607,-79.3481227,2,Kingslake Road (278),a
-43.791607,-79.3481227,2,Kingslake Road (280),a
 43.791613,-79.3355578,2,Chalet Road (271),a
 43.791613,-79.3355578,2,Chalet Road (647),a
 43.7917042,-79.3309886,2,Ernest Avenue (415),a
 43.7917042,-79.3309886,2,Ernest Avenue (596),a
-43.791705,-79.3544987,2,Don Mills Road (533),a
-43.791705,-79.3544987,2,Don Mills Road (534),a
-43.791705,-79.3544987,2,Don Mills Road (957),a
-43.791705,-79.3544987,2,Don Mills Road (959),a
-43.7917113,-79.3483371,2,Whitehorn Crescent (018),a
-43.7917113,-79.3483371,2,Whitehorn Crescent (833),a
 43.7917177,-79.3309288,2,Ernest Avenue (418),a
 43.7917177,-79.3309288,2,Ernest Avenue (599),a
 43.7917239,-79.3401811,2,Chipwood Crescent (087),a
 43.7917239,-79.3401811,2,Chipwood Crescent (097),a
 43.7917239,-79.3401811,2,Pinto Drive (166),a
-43.7917244,-79.3540159,2,1555 Finch Avenue East (363),a
-43.7917244,-79.3540159,2,1555 Finch Avenue East (547),a
 43.7917385,-79.3367572,2,Cherokee Boulevard (000),a
 43.7917385,-79.3367572,2,Cherokee Boulevard (394),a
 43.7917493,-79.3307856,2,Ernest Avenue (413),a
 43.7917493,-79.3307856,2,Ernest Avenue (594),a
 43.7917493,-79.3307856,2,Victoria Park Avenue (114),a
-43.7917804,-79.3496419,2,Kingslake Road (281),a
-43.7917804,-79.3496419,2,Kingslake Road (283),a
-43.7917804,-79.3496419,2,Whitehorn Crescent (585),a
-43.7917804,-79.3496419,2,Whitehorn Crescent (586),a
-43.7917983,-79.3544388,2,Don Mills Road (535),a
-43.7917983,-79.3544388,2,Don Mills Road (962),a
-43.791799,-79.3546063,2,Don Mills Road (532),a
-43.791799,-79.3546063,2,Don Mills Road (953),a
-43.7918176,-79.3462173,2,Baroness Crescent (448),a
-43.7918176,-79.3462173,2,Baroness Crescent (803),a
-43.7918176,-79.3462173,2,Kingslake Road (275),a
-43.7918176,-79.3462173,2,Kingslake Road (277),a
-43.7918821,-79.3461143,2,Baroness Crescent (048),a
-43.7918821,-79.3461143,2,Baroness Crescent (961),a
-43.7918857,-79.3496013,2,Whitehorn Crescent (019),a
-43.7918857,-79.3496013,2,Whitehorn Crescent (834),a
-43.7919218,-79.3503661,2,Kingslake Road (282),a
-43.7919218,-79.3503661,2,Kingslake Road (284),a
-43.7919225,-79.3504759,2,Kingslake Road (003),a
-43.7919225,-79.3504759,2,Kingslake Road (818),a
-43.7919229,-79.3505353,2,Kingslake Road (283),a
-43.7919229,-79.3505353,2,Kingslake Road (285),a
-43.7919353,-79.3464748,2,Kingslake Road (276),a
-43.7919353,-79.3464748,2,Kingslake Road (278),a
-43.7919368,-79.3506399,2,Kingslake Road (284),a
-43.7919368,-79.3506399,2,Kingslake Road (286),a
-43.7919368,-79.3506399,2,Seneca Hill Drive (077),a
-43.7919368,-79.3506399,2,Seneca Hill Drive (093),a
-43.7919368,-79.3506399,2,Seneca Hill Drive (948),a
-43.7919368,-79.3506399,2,Seneca Hill Drive (965),a
 43.7919373,-79.3403424,2,Chipwood Crescent (096),a
-43.7919415,-79.3467838,2,Kingslake Road (277),a
-43.7919415,-79.3467838,2,Kingslake Road (279),a
-43.7919787,-79.3459598,2,Baroness Crescent (447),a
-43.7919787,-79.3459598,2,Baroness Crescent (802),a
 43.7919909,-79.3333605,2,Chalet Road (274),a
 43.7919909,-79.3333605,2,Chalet Road (274),a
 43.7919909,-79.3333605,2,Chalet Road (650),a
 43.7919909,-79.3333605,2,Chalet Road (650),a
-43.7920664,-79.3540427,2,1555 Finch Avenue East (364),a
-43.7920664,-79.3540427,2,1555 Finch Avenue East (548),a
 43.7920715,-79.3334635,2,Chalet Road (273),a
 43.7920715,-79.3334635,2,Chalet Road (649),a
-43.7920902,-79.3457109,2,Baroness Crescent (446),a
-43.7920902,-79.3457109,2,Baroness Crescent (801),a
 43.7920962,-79.3335493,2,Chalet Road (272),a
 43.7920962,-79.3335493,2,Chalet Road (648),a
 43.792123,-79.3369496,2,Cherokee Boulevard (395),a
-43.792146,-79.3483974,2,Whitehorn Crescent (569),a
-43.792146,-79.3483974,2,Whitehorn Crescent (573),a
-43.7921894,-79.3442861,2,Baroness Crescent (442),a
-43.7921894,-79.3442861,2,Baroness Crescent (442),a
-43.7921894,-79.3442861,2,Baroness Crescent (797),a
-43.7921894,-79.3442861,2,Baroness Crescent (797),a
-43.7922228,-79.3539815,2,1555 Finch Avenue East (365),a
-43.7922228,-79.3539815,2,1555 Finch Avenue East (549),a
-43.7922619,-79.3506745,2,Seneca Hill Drive (094),a
-43.7922619,-79.3506745,2,Seneca Hill Drive (966),a
+43.7922665,-79.3370215,2,Cherokee Boulevard (002),a
 43.7922665,-79.3370215,2,Cherokee Boulevard (396),a
 43.7922779,-79.3310436,2,Victoria Park Avenue (113),a
 43.7922779,-79.3310436,2,Victoria Park Avenue (239),a
 43.7922779,-79.3310436,2,Victoria Park Avenue (245),a
 43.7922779,-79.3310436,2,Victoria Park Avenue (796),a
 43.7922779,-79.3310436,2,Victoria Park Avenue (943),a
-43.7923009,-79.3444063,2,Baroness Crescent (443),a
-43.7923009,-79.3444063,2,Baroness Crescent (443),a
-43.7923009,-79.3444063,2,Baroness Crescent (798),a
-43.7923009,-79.3444063,2,Baroness Crescent (798),a
 43.7923297,-79.3370531,2,Cherokee Boulevard (003),a
 43.7923297,-79.3370531,2,Cherokee Boulevard (397),a
 43.7923441,-79.3404244,2,Chipwood Crescent (085),a
 43.7923441,-79.3404244,2,Chipwood Crescent (095),a
-43.7923467,-79.3539128,2,1555 Finch Avenue East (366),a
-43.7923467,-79.3539128,2,1555 Finch Avenue East (550),a
-43.7923752,-79.3483545,2,Whitehorn Crescent (571),a
-43.7923752,-79.3483545,2,Whitehorn Crescent (574),a
-43.7923752,-79.3446723,2,Baroness Crescent (445),a
-43.7923752,-79.3446723,2,Baroness Crescent (445),a
-43.7923752,-79.3446723,2,Baroness Crescent (800),a
-43.7923752,-79.3445436,2,Baroness Crescent (444),a
-43.7923752,-79.3445436,2,Baroness Crescent (444),a
-43.7923752,-79.3445436,2,Baroness Crescent (799),a
 43.7924095,-79.3311746,2,Victoria Park Avenue (002),a
 43.7924095,-79.3311746,2,Victoria Park Avenue (106),a
-43.7924166,-79.3506445,2,Seneca Hill Drive (095),a
-43.7924166,-79.3506445,2,Seneca Hill Drive (968),a
 43.7924166,-79.338288,2,Courville Coachway (974),a
 43.7924166,-79.338288,2,Pinto Drive (165),a
 43.7924406,-79.3555611,2,Finch Avenue East (778),a
 43.7924406,-79.3555611,2,Finch Avenue East (778),a
 43.7924406,-79.3555611,2,Finch Avenue East (948),a
 43.7924406,-79.3555611,2,Finch Avenue East (948),a
-43.7924707,-79.3536896,2,1555 Finch Avenue East (367),a
-43.7924707,-79.3536896,2,1555 Finch Avenue East (551),a
 43.7924741,-79.3557144,2,Finch Avenue East (061),a
 43.7924741,-79.3557144,2,Finch Avenue East (061),a
 43.7924741,-79.3557144,2,Finch Avenue East (777),a
@@ -34086,25 +32841,16 @@ lat,lon,sz,names,len_cat
 43.7924905,-79.3547608,2,Don Mills Road (950),a
 43.7925052,-79.3404072,2,Chipwood Crescent (084),a
 43.7925052,-79.3404072,2,Chipwood Crescent (094),a
-43.792514,-79.3530545,2,1555 Finch Avenue East (369),a
-43.792514,-79.3530545,2,1555 Finch Avenue East (553),a
 43.792521,-79.3546094,2,Don Mills Road (536),a
 43.792521,-79.3546094,2,Don Mills Road (965),a
-43.792537,-79.3533893,2,1555 Finch Avenue East (368),a
-43.792537,-79.3533893,2,1555 Finch Avenue East (552),a
-43.7925487,-79.3481742,2,Whitehorn Crescent (573),a
-43.7925487,-79.3481742,2,Whitehorn Crescent (575),a
 43.792563,-79.3556136,2,Finch Avenue East (789),a
 43.792563,-79.3556136,2,Finch Avenue East (789),a
 43.792563,-79.3556136,2,Finch Avenue East (955),a
 43.792563,-79.3556136,2,Finch Avenue East (955),a
-43.7925703,-79.3505759,2,Seneca Hill Drive (096),a
-43.7925703,-79.3505759,2,Seneca Hill Drive (971),a
 43.7925715,-79.3549331,2,Finch Avenue East (779),a
 43.7925715,-79.3549331,2,Finch Avenue East (949),a
+43.7925902,-79.3389121,2,Courville Coachway (734),a
 43.792594,-79.3388885,2,Courville Coachway (001),a
-43.7925946,-79.3528657,2,1555 Finch Avenue East (370),a
-43.7925946,-79.3528657,2,1555 Finch Avenue East (554),a
 43.792597,-79.3389455,2,Courville Coachway (735),a
 43.7925979,-79.3547891,2,Don Mills Road (529),a
 43.7925979,-79.3547891,2,Don Mills Road (530),a
@@ -34116,13 +32862,10 @@ lat,lon,sz,names,len_cat
 43.7925979,-79.3547891,2,Finch Avenue East (951),a
 43.7926006,-79.3388659,2,Courville Coachway (000),a
 43.7926006,-79.3388659,2,Courville Coachway (732),a
-43.7926094,-79.3528421,2,1555 Finch Avenue East (371),a
-43.7926094,-79.3528421,2,1555 Finch Avenue East (555),a
 43.7926095,-79.3388429,2,Courville Coachway (731),a
 43.7926095,-79.3388429,2,Courville Coachway (999),a
 43.7926117,-79.3389783,2,Courville Coachway (004),a
-43.7926169,-79.3479768,2,Whitehorn Crescent (575),a
-43.7926169,-79.3479768,2,Whitehorn Crescent (576),a
+43.7926229,-79.3416088,2,Chipwood Crescent (076),a
 43.7926229,-79.3416088,2,Chipwood Crescent (077),a
 43.7926235,-79.338797,2,Courville Coachway (729),a
 43.7926235,-79.338797,2,Courville Coachway (997),a
@@ -34140,23 +32883,25 @@ lat,lon,sz,names,len_cat
 43.7926514,-79.3387054,2,Courville Coachway (725),a
 43.7926584,-79.3386825,2,Courville Coachway (724),a
 43.7926584,-79.3386825,2,Courville Coachway (992),a
+43.7926595,-79.3384091,2,Courville Coachway (710),a
 43.7926595,-79.3384091,2,Courville Coachway (978),a
 43.7926605,-79.3390116,2,Courville Coachway (739),a
 43.7926612,-79.3384118,2,Courville Coachway (671),a
 43.7926612,-79.3384118,2,Courville Coachway (980),a
 43.7926654,-79.3386596,2,Courville Coachway (723),a
 43.7926654,-79.3386596,2,Courville Coachway (991),a
+43.7926711,-79.3384312,2,Courville Coachway (713),a
 43.7926711,-79.3384312,2,Courville Coachway (981),a
 43.7926724,-79.3386367,2,Courville Coachway (722),a
 43.7926724,-79.3371886,2,Cherokee Boulevard (004),a
 43.7926724,-79.3371886,2,Cherokee Boulevard (398),a
 43.7926724,-79.3371886,2,Pinto Drive (164),a
+43.7926724,-79.3371886,2,Pinto Drive (616),a
 43.7926769,-79.3390218,2,Courville Coachway (008),a
 43.7926769,-79.3390218,2,Courville Coachway (740),a
+43.7926795,-79.3386139,2,Courville Coachway (721),a
 43.7926795,-79.3386139,2,Courville Coachway (989),a
 43.7926813,-79.3384517,2,Courville Coachway (982),a
-43.792685,-79.3474103,2,Whitehorn Crescent (576),a
-43.792685,-79.3474103,2,Whitehorn Crescent (577),a
 43.7926871,-79.3385915,2,Courville Coachway (720),a
 43.7926876,-79.354971,2,Finch Avenue East (787),a
 43.7926876,-79.354971,2,Finch Avenue East (954),a
@@ -34173,8 +32918,6 @@ lat,lon,sz,names,len_cat
 43.7927099,-79.3390362,2,Courville Coachway (742),a
 43.79271,-79.3344026,2,Finch Avenue East (055),a
 43.79271,-79.3344026,2,Finch Avenue East (146),a
-43.7927185,-79.3526683,2,1555 Finch Avenue East (372),a
-43.7927185,-79.3526683,2,1555 Finch Avenue East (556),a
 43.7927192,-79.3383169,2,Courville Coachway (672),a
 43.7927192,-79.3383169,2,Courville Coachway (940),a
 43.7927199,-79.3334439,2,Finch Avenue East (050),a
@@ -34186,16 +32929,12 @@ lat,lon,sz,names,len_cat
 43.7927572,-79.3331638,2,Finch Avenue East (017),a
 43.7927572,-79.3331638,2,Finch Avenue East (810),a
 43.7927572,-79.3331638,2,Finch Avenue East (810),a
-43.7927627,-79.3504558,2,Seneca Hill Drive (097),a
-43.7927627,-79.3504558,2,Seneca Hill Drive (973),a
 43.7927694,-79.3382067,2,Courville Coachway (673),a
 43.7927694,-79.3382067,2,Courville Coachway (941),a
 43.7927733,-79.3349521,2,Finch Avenue East (058),a
 43.7927733,-79.3349521,2,Finch Avenue East (147),a
 43.7927877,-79.3329352,2,Finch Avenue East (048),a
 43.7927877,-79.3329352,2,Finch Avenue East (143),a
-43.7928114,-79.3523764,2,1555 Finch Avenue East (373),a
-43.7928114,-79.3523764,2,1555 Finch Avenue East (557),a
 43.7928118,-79.3390154,2,Courville Coachway (014),a
 43.7928118,-79.3390154,2,Courville Coachway (746),a
 43.7928149,-79.3415659,2,Chipwood Crescent (080),a
@@ -34229,8 +32968,6 @@ lat,lon,sz,names,len_cat
 43.7928954,-79.3321758,2,Finch Avenue East (037),a
 43.7928954,-79.3321758,2,Finch Avenue East (068),a
 43.7929107,-79.3377976,2,Courville Coachway (949),a
-43.7929168,-79.3521704,2,1555 Finch Avenue East (374),a
-43.7929168,-79.3521704,2,1555 Finch Avenue East (558),a
 43.7929197,-79.3377914,2,Courville Coachway (682),a
 43.7929197,-79.3377914,2,Courville Coachway (950),a
 43.7929203,-79.3372572,2,Cherokee Boulevard (005),a
@@ -34264,17 +33001,10 @@ lat,lon,sz,names,len_cat
 43.7929832,-79.3322423,2,Finch Avenue East (678),a
 43.7929852,-79.3388358,2,Courville Coachway (024),a
 43.7929852,-79.3388358,2,Courville Coachway (756),a
-43.7929869,-79.3532673,2,Finch Avenue East (181),a
-43.7929869,-79.3532673,2,Finch Avenue East (199),a
-43.7929869,-79.3532673,2,Finch Avenue East (366),a
-43.7929869,-79.3532673,2,Finch Avenue East (381),a
 43.7930052,-79.3377717,2,Courville Coachway (690),a
 43.7930139,-79.3388058,2,Courville Coachway (026),a
 43.7930139,-79.3388058,2,Courville Coachway (758),a
-43.7930152,-79.3455374,2,Whitehorn Crescent (577),a
-43.7930152,-79.3455374,2,Whitehorn Crescent (578),a
-43.7930215,-79.3503542,2,Seneca Hill Drive (098),a
-43.7930215,-79.3503542,2,Seneca Hill Drive (975),a
+43.7930232,-79.3377721,2,Courville Coachway (691),a
 43.7930232,-79.3377721,2,Courville Coachway (959),a
 43.7930297,-79.3315983,2,Finch Avenue East (147),a
 43.7930297,-79.3315983,2,Finch Avenue East (147),a
@@ -34283,8 +33013,6 @@ lat,lon,sz,names,len_cat
 43.7930427,-79.3387759,2,Courville Coachway (028),a
 43.7930427,-79.3387759,2,Courville Coachway (760),a
 43.7930457,-79.3377716,2,Courville Coachway (960),a
-43.7930469,-79.3521361,2,1555 Finch Avenue East (375),a
-43.7930469,-79.3521361,2,1555 Finch Avenue East (559),a
 43.7930519,-79.3314827,2,Finch Avenue East (148),a
 43.7930519,-79.3314827,2,Finch Avenue East (148),a
 43.7930519,-79.3314827,2,Finch Avenue East (216),a
@@ -34296,38 +33024,27 @@ lat,lon,sz,names,len_cat
 43.7930519,-79.3314827,2,Victoria Park Avenue (243),a
 43.7930519,-79.3314827,2,Victoria Park Avenue (938),a
 43.7930519,-79.3314827,2,Victoria Park Avenue (938),a
-43.7930547,-79.3526772,2,Finch Avenue East (185),a
-43.7930547,-79.3526772,2,Finch Avenue East (370),a
+43.793057,-79.3387609,2,Courville Coachway (761),a
 43.7930682,-79.33777,2,Courville Coachway (693),a
 43.7930682,-79.33777,2,Courville Coachway (961),a
-43.7930792,-79.3528157,2,Finch Avenue East (184),a
-43.7930792,-79.3528157,2,Finch Avenue East (198),a
-43.7930792,-79.3528157,2,Finch Avenue East (201),a
-43.7930792,-79.3528157,2,Finch Avenue East (369),a
-43.7930792,-79.3528157,2,Finch Avenue East (380),a
-43.7930792,-79.3528157,2,Finch Avenue East (382),a
+43.7930714,-79.3387459,2,Courville Coachway (762),a
 43.7930811,-79.3360594,2,Finch Avenue East (149),a
 43.7930858,-79.3387309,2,Courville Coachway (763),a
 43.7930907,-79.337768,2,Courville Coachway (694),a
 43.7930907,-79.337768,2,Courville Coachway (962),a
+43.7931001,-79.3387159,2,Courville Coachway (764),a
 43.7931132,-79.3377649,2,Courville Coachway (695),a
 43.7931132,-79.3377649,2,Courville Coachway (963),a
 43.7931145,-79.3387009,2,Courville Coachway (033),a
 43.7931145,-79.3387009,2,Courville Coachway (765),a
-43.793116,-79.3455251,2,Whitehorn Crescent (578),a
-43.793116,-79.3455251,2,Whitehorn Crescent (579),a
-43.7931226,-79.3523674,2,Finch Avenue East (186),a
-43.7931226,-79.3523674,2,Finch Avenue East (371),a
 43.7931244,-79.3316456,2,Finch Avenue East (261),a
 43.7931244,-79.3316456,2,Finch Avenue East (261),a
 43.7931244,-79.3316456,2,Finch Avenue East (444),a
 43.7931244,-79.3316456,2,Finch Avenue East (444),a
 43.7931288,-79.3386859,2,Courville Coachway (034),a
-43.7931341,-79.3527442,2,Finch Avenue East (196),a
-43.7931341,-79.3527442,2,Finch Avenue East (379),a
+43.7931288,-79.3386859,2,Courville Coachway (766),a
 43.7931357,-79.3377609,2,Courville Coachway (696),a
-43.7931373,-79.3491184,2,Whitehorn Crescent (584),a
-43.7931373,-79.3491184,2,Whitehorn Crescent (585),a
+43.7931371,-79.3372401,2,Cherokee Boulevard (453),a
 43.7931432,-79.3386709,2,Courville Coachway (035),a
 43.7931432,-79.3386709,2,Courville Coachway (767),a
 43.7931507,-79.3315281,2,Finch Avenue East (150),a
@@ -34343,6 +33060,8 @@ lat,lon,sz,names,len_cat
 43.7931507,-79.3315281,2,Victoria Park Avenue (895),a
 43.7931537,-79.3377562,2,Courville Coachway (697),a
 43.7931569,-79.3386559,2,Courville Coachway (036),a
+43.7931694,-79.3386378,2,Courville Coachway (769),a
+43.7931774,-79.3362547,2,Finch Avenue East (072),a
 43.7931774,-79.3362547,2,Finch Avenue East (150),a
 43.7931774,-79.3362547,2,Finch Avenue East (169),a
 43.7931807,-79.3377507,2,Courville Coachway (698),a
@@ -34352,8 +33071,6 @@ lat,lon,sz,names,len_cat
 43.7931987,-79.3377441,2,Courville Coachway (699),a
 43.7932063,-79.3385843,2,Courville Coachway (040),a
 43.7932063,-79.3385843,2,Courville Coachway (772),a
-43.7932105,-79.3524246,2,Finch Avenue East (195),a
-43.7932105,-79.3524246,2,Finch Avenue East (378),a
 43.7932197,-79.3385638,2,Courville Coachway (041),a
 43.7932197,-79.3385638,2,Courville Coachway (773),a
 43.7932212,-79.3377366,2,Courville Coachway (700),a
@@ -34363,12 +33080,10 @@ lat,lon,sz,names,len_cat
 43.7932311,-79.3315651,2,Victoria Park Avenue (111),a
 43.7932311,-79.3315651,2,Victoria Park Avenue (111),a
 43.7932311,-79.3315651,2,Victoria Park Avenue (892),a
-43.7932364,-79.3490411,2,Whitehorn Crescent (583),a
-43.7932364,-79.3490411,2,Whitehorn Crescent (584),a
 43.7932372,-79.3385225,2,Courville Coachway (043),a
-43.7932426,-79.3456422,2,Whitehorn Crescent (579),a
-43.7932426,-79.3456422,2,Whitehorn Crescent (580),a
+43.7932372,-79.3385225,2,Courville Coachway (775),a
 43.7932437,-79.3377284,2,Courville Coachway (969),a
+43.7932473,-79.3385015,2,Courville Coachway (776),a
 43.7932552,-79.3384805,2,Courville Coachway (045),a
 43.7932552,-79.3384805,2,Courville Coachway (777),a
 43.7932634,-79.3384586,2,Courville Coachway (778),a
@@ -34378,19 +33093,16 @@ lat,lon,sz,names,len_cat
 43.7932731,-79.3371796,2,Cherokee Boulevard (454),a
 43.7932731,-79.3371796,2,Courville Coachway (086),a
 43.7932731,-79.3371796,2,Courville Coachway (818),a
-43.7932827,-79.3503368,2,Seneca Hill Drive (099),a
-43.7932827,-79.3503368,2,Seneca Hill Drive (978),a
 43.7932836,-79.3383887,2,Courville Coachway (048),a
 43.7932836,-79.3383887,2,Courville Coachway (780),a
 43.7932841,-79.3377096,2,Courville Coachway (703),a
 43.7932841,-79.3377096,2,Courville Coachway (971),a
-43.793286,-79.3488952,2,Whitehorn Crescent (582),a
-43.793286,-79.3488952,2,Whitehorn Crescent (583),a
 43.7932881,-79.3383651,2,Courville Coachway (049),a
 43.7932881,-79.3383651,2,Courville Coachway (781),a
 43.7932954,-79.3383425,2,Courville Coachway (050),a
 43.7932954,-79.3383425,2,Courville Coachway (782),a
 43.7933027,-79.3383197,2,Courville Coachway (783),a
+43.7933042,-79.3376882,2,Courville Coachway (704),a
 43.793309,-79.3382972,2,Courville Coachway (052),a
 43.793309,-79.3382972,2,Courville Coachway (784),a
 43.7933161,-79.3382744,2,Courville Coachway (785),a
@@ -34400,6 +33112,7 @@ lat,lon,sz,names,len_cat
 43.7933194,-79.3376594,2,Courville Coachway (973),a
 43.7933253,-79.338253,2,Courville Coachway (054),a
 43.7933253,-79.338253,2,Courville Coachway (786),a
+43.793333,-79.3376836,2,Courville Coachway (816),a
 43.7933362,-79.3382324,2,Courville Coachway (787),a
 43.7933426,-79.3377047,2,Courville Coachway (815),a
 43.7933433,-79.3340824,2,Apache Trail (412),a
@@ -34425,9 +33138,12 @@ lat,lon,sz,names,len_cat
 43.793403,-79.3381535,2,Courville Coachway (059),a
 43.793403,-79.3381535,2,Courville Coachway (791),a
 43.7934094,-79.3378228,2,Courville Coachway (077),a
+43.7934094,-79.3378228,2,Courville Coachway (809),a
 43.7934175,-79.3378449,2,Courville Coachway (076),a
 43.7934175,-79.3378449,2,Courville Coachway (808),a
 43.7934179,-79.3381427,2,Courville Coachway (060),a
+43.7934247,-79.3370647,2,Cherokee Boulevard (455),a
+43.7934256,-79.3378672,2,Courville Coachway (807),a
 43.7934335,-79.3378895,2,Courville Coachway (074),a
 43.7934335,-79.3378895,2,Courville Coachway (806),a
 43.7934357,-79.3381381,2,Courville Coachway (061),a
@@ -34444,8 +33160,6 @@ lat,lon,sz,names,len_cat
 43.7934571,-79.3379567,2,Courville Coachway (071),a
 43.7934571,-79.3379567,2,Courville Coachway (803),a
 43.7934631,-79.336931,2,Finch Avenue East (071),a
-43.7934643,-79.3508369,2,Finch Avenue East (770),a
-43.7934643,-79.3508369,2,Finch Avenue East (940),a
 43.7934651,-79.337979,2,Courville Coachway (802),a
 43.7934708,-79.3381272,2,Courville Coachway (795),a
 43.7934731,-79.3380012,2,Courville Coachway (801),a
@@ -34460,10 +33174,10 @@ lat,lon,sz,names,len_cat
 43.7934912,-79.3369974,2,Cherokee Boulevard (450),a
 43.7934912,-79.3369974,2,Cherokee Boulevard (456),a
 43.7934912,-79.3369974,2,Finch Avenue East (069),a
+43.7934912,-79.3369974,2,Finch Avenue East (075),a
 43.7934912,-79.3369974,2,Finch Avenue East (167),a
+43.7934912,-79.3369974,2,Finch Avenue East (172),a
 43.7934917,-79.3380657,2,Courville Coachway (798),a
-43.7935141,-79.3503979,2,Seneca Hill Drive (329),a
-43.7935141,-79.3503979,2,Seneca Hill Drive (886),a
 43.7935262,-79.332595,2,Apache Trail (414),a
 43.7935262,-79.332595,2,Apache Trail (414),a
 43.7935262,-79.332595,2,Apache Trail (797),a
@@ -34474,6 +33188,7 @@ lat,lon,sz,names,len_cat
 43.7935455,-79.3316952,2,Victoria Park Avenue (325),a
 43.7935455,-79.3316952,2,Victoria Park Avenue (340),a
 43.7935455,-79.3316952,2,Victoria Park Avenue (340),a
+43.7935455,-79.3316952,2,Victoria Park Avenue (885),a
 43.7935455,-79.3316952,2,Victoria Park Avenue (885),a
 43.7935576,-79.3371266,2,Finch Avenue East (074),a
 43.7935576,-79.3371266,2,Finch Avenue East (171),a
@@ -34502,10 +33217,6 @@ lat,lon,sz,names,len_cat
 43.7936482,-79.3370258,2,Finch Avenue East (960),a
 43.7936683,-79.3368424,2,Cherokee Boulevard (008),a
 43.7936683,-79.3368424,2,Cherokee Boulevard (402),a
-43.7936825,-79.3463117,2,Whitehorn Crescent (580),a
-43.7936825,-79.3463117,2,Whitehorn Crescent (581),a
-43.7937073,-79.3465864,2,Whitehorn Crescent (581),a
-43.7937073,-79.3465864,2,Whitehorn Crescent (582),a
 43.7937093,-79.3498754,2,Finch Avenue East (144),a
 43.7937093,-79.3498754,2,Finch Avenue East (212),a
 43.7937195,-79.3357552,2,Apache Trail (369),a
@@ -34525,6 +33236,7 @@ lat,lon,sz,names,len_cat
 43.7937641,-79.3353642,2,Apache Trail (710),a
 43.7937745,-79.3374998,2,Finch Avenue East (073),a
 43.7937745,-79.3374998,2,Finch Avenue East (081),a
+43.7938124,-79.3392399,2,Chipwood Crescent (081),a
 43.7938124,-79.3392399,2,Chipwood Crescent (091),a
 43.7938201,-79.3352872,2,Apache Trail (374),a
 43.7938201,-79.3352872,2,Apache Trail (722),a
@@ -34541,10 +33253,12 @@ lat,lon,sz,names,len_cat
 43.793964,-79.3340402,2,Inca Road (964),a
 43.7939753,-79.3365766,2,Cherokee Boulevard (009),a
 43.7939753,-79.3365766,2,Cherokee Boulevard (403),a
+43.7939772,-79.3378921,2,Finch Avenue East (079),a
 43.7939772,-79.3378921,2,Finch Avenue East (174),a
 43.7939787,-79.3317915,2,Victoria Park Avenue (029),a
 43.7939787,-79.3317915,2,Victoria Park Avenue (029),a
 43.7939787,-79.3317915,2,Victoria Park Avenue (897),a
+43.7940107,-79.3403042,2,Chipwood Crescent (078),a
 43.7940107,-79.3403042,2,Chipwood Crescent (084),a
 43.7940417,-79.3399437,2,Chipwood Crescent (080),a
 43.7940479,-79.3401926,2,Chipwood Crescent (086),a
@@ -34554,6 +33268,7 @@ lat,lon,sz,names,len_cat
 43.7940541,-79.3340502,2,Inca Road (965),a
 43.7941276,-79.3318582,2,Victoria Park Avenue (576),a
 43.7941509,-79.3351289,2,Apache Trail (376),a
+43.7941592,-79.3382515,2,Finch Avenue East (077),a
 43.7941592,-79.3382515,2,Finch Avenue East (197),a
 43.7942244,-79.347962,2,Finch Avenue East (053),a
 43.7942244,-79.347962,2,Finch Avenue East (175),a
@@ -34577,22 +33292,27 @@ lat,lon,sz,names,len_cat
 43.7944345,-79.3342012,2,Inca Road (653),a
 43.7944619,-79.3348468,2,Yucatan Road (612),a
 43.7944635,-79.3349586,2,Yucatan Road (586),a
+43.7944641,-79.3349959,2,Yucatan Road (610),a
 43.7944647,-79.3362761,2,Cherokee Boulevard (011),a
+43.7944647,-79.3362761,2,Cherokee Boulevard (405),a
 43.7944698,-79.334772,2,Yucatan Road (588),a
 43.7944698,-79.334772,2,Yucatan Road (613),a
 43.7944702,-79.33894,2,Finch Avenue East (103),a
 43.7944702,-79.33894,2,Finch Avenue East (195),a
+43.7944747,-79.3351074,2,Apache Trail (730),a
 43.7944747,-79.3351074,2,Yucatan Road (584),a
 43.7944747,-79.3351074,2,Yucatan Road (603),a
 43.7944747,-79.3351074,2,Yucatan Road (609),a
 43.7944774,-79.3386825,2,Finch Avenue East (113),a
 43.7944774,-79.3386825,2,Finch Avenue East (972),a
 43.7944945,-79.3352312,2,Yucatan Road (579),a
+43.7944945,-79.3352312,2,Yucatan Road (604),a
 43.794495,-79.334647,2,Yucatan Road (589),a
 43.7945004,-79.3371296,2,Micmac Crescent (599),a
 43.7945116,-79.3345471,2,Yucatan Road (615),a
 43.7945195,-79.3370545,2,Micmac Crescent (598),a
 43.7945197,-79.3344847,2,Yucatan Road (616),a
+43.7945614,-79.3342598,2,Inca Road (654),a
 43.7945614,-79.3342598,2,Inca Road (968),a
 43.7945614,-79.3342598,2,Yucatan Road (582),a
 43.7945614,-79.3342598,2,Yucatan Road (592),a
@@ -34636,6 +33356,7 @@ lat,lon,sz,names,len_cat
 43.7947826,-79.3398688,2,Finch Avenue East (192),a
 43.7947897,-79.3450554,2,Finch Avenue East (029),a
 43.7947897,-79.3450554,2,Finch Avenue East (135),a
+43.7948243,-79.3331463,2,Apache Trail (415),a
 43.7948243,-79.3331463,2,Apache Trail (425),a
 43.7948243,-79.3331463,2,Apache Trail (798),a
 43.7948243,-79.3331463,2,Apache Trail (808),a
@@ -34652,6 +33373,7 @@ lat,lon,sz,names,len_cat
 43.7949343,-79.3443559,2,Finch Avenue East (127),a
 43.7949396,-79.3373568,2,Micmac Crescent (588),a
 43.7949396,-79.3373568,2,Micmac Crescent (976),a
+43.7949898,-79.3407942,2,Finch Avenue East (190),a
 43.795,-79.344103,2,Finch Avenue East (019),a
 43.795,-79.344103,2,Finch Avenue East (019),a
 43.795,-79.344103,2,Finch Avenue East (129),a
@@ -34668,10 +33390,12 @@ lat,lon,sz,names,len_cat
 43.7950198,-79.3439744,2,Finch Avenue East (654),a
 43.7950198,-79.3439744,2,Finch Avenue East (654),a
 43.7950536,-79.3412227,2,Finch Avenue East (010),a
+43.7950536,-79.3412227,2,Finch Avenue East (087),a
 43.795055,-79.3404021,2,Finch Avenue East (034),a
 43.795055,-79.3404021,2,Finch Avenue East (115),a
 43.795055,-79.3404021,2,Finch Avenue East (138),a
 43.795055,-79.3404021,2,Finch Avenue East (978),a
+43.7950671,-79.3413274,2,Finch Avenue East (124),a
 43.7950671,-79.3413274,2,Gordon Baker Road (999),a
 43.7950763,-79.3436074,2,Finch Avenue East (052),a
 43.7950763,-79.3436074,2,Finch Avenue East (052),a
@@ -34701,6 +33425,7 @@ lat,lon,sz,names,len_cat
 43.7951202,-79.3430885,2,Finch Avenue East (202),a
 43.7951202,-79.3430885,2,Finch Avenue East (202),a
 43.7951202,-79.3430885,2,Finch Avenue East (990),a
+43.7951202,-79.3430885,2,Finch Avenue East (990),a
 43.7951213,-79.3440149,2,Finch Avenue East (106),a
 43.7951213,-79.3440149,2,Finch Avenue East (106),a
 43.7951213,-79.3440149,2,Finch Avenue East (950),a
@@ -34714,6 +33439,7 @@ lat,lon,sz,names,len_cat
 43.7951725,-79.3412106,2,Gordon Baker Road (944),a
 43.7951846,-79.3413262,2,Finch Avenue East (043),a
 43.7951846,-79.3413262,2,Finch Avenue East (127),a
+43.7951846,-79.3413262,2,Finch Avenue East (141),a
 43.7951846,-79.3413262,2,Finch Avenue East (203),a
 43.7951846,-79.3413262,2,Gordon Baker Road (830),a
 43.7951846,-79.3413262,2,Gordon Baker Road (834),a
@@ -34741,6 +33467,7 @@ lat,lon,sz,names,len_cat
 43.7952749,-79.3413257,2,Gordon Baker Road (993),a
 43.795298,-79.337235,2,Micmac Crescent (590),a
 43.795298,-79.337235,2,Micmac Crescent (978),a
+43.7953712,-79.3413253,2,Gordon Baker Road (828),a
 43.7953712,-79.3413253,2,Gordon Baker Road (992),a
 43.7953771,-79.3389605,2,Micmac Crescent (563),a
 43.7953771,-79.3389605,2,Micmac Crescent (949),a
@@ -34804,6 +33531,7 @@ lat,lon,sz,names,len_cat
 43.7957901,-79.3401175,2,Micmac Crescent (569),a
 43.7957901,-79.3401175,2,Micmac Crescent (957),a
 43.7958364,-79.3402033,2,Micmac Crescent (570),a
+43.7958364,-79.3402033,2,Micmac Crescent (958),a
 43.7958373,-79.337258,2,Micmac Crescent (593),a
 43.7958373,-79.337258,2,Shawnee Circle (513),a
 43.7958373,-79.337258,2,Shawnee Circle (818),a
@@ -34818,6 +33546,7 @@ lat,lon,sz,names,len_cat
 43.7958736,-79.3402892,2,Micmac Crescent (572),a
 43.7958872,-79.3415305,2,Gordon Baker Road (790),a
 43.7958872,-79.3415305,2,Gordon Baker Road (958),a
+43.7958886,-79.3377273,2,Shawnee Circle (522),a
 43.7959022,-79.3414442,2,Gordon Baker Road (787),a
 43.7959116,-79.3404249,2,Micmac Crescent (962),a
 43.7959315,-79.3329449,2,Hare Gate (624),a
@@ -34848,6 +33577,7 @@ lat,lon,sz,names,len_cat
 43.796058,-79.3405825,2,Micmac Crescent (965),a
 43.7960718,-79.336133,2,Cherokee Boulevard (076),a
 43.7960718,-79.336133,2,Cherokee Boulevard (080),a
+43.7960718,-79.336133,2,Cherokee Boulevard (325),a
 43.7960718,-79.336133,2,Shawnee Circle (327),a
 43.7961649,-79.3349362,2,Tuscarora Drive (405),a
 43.7961649,-79.3349362,2,Tuscarora Drive (637),a
@@ -34861,6 +33591,7 @@ lat,lon,sz,names,len_cat
 43.7962845,-79.3407802,2,Micmac Crescent (968),a
 43.7963358,-79.3408309,2,Micmac Crescent (581),a
 43.7964066,-79.3408187,2,Micmac Crescent (582),a
+43.7964066,-79.3408187,2,Micmac Crescent (970),a
 43.7964262,-79.3392795,2,Shawnee Circle (524),a
 43.796438,-79.3407241,2,Micmac Crescent (583),a
 43.796438,-79.3407241,2,Micmac Crescent (971),a
@@ -34906,6 +33637,7 @@ lat,lon,sz,names,len_cat
 43.7970661,-79.3341449,2,Apache Trail (812),a
 43.7970661,-79.3341449,2,Tuscarora Drive (646),a
 43.7970746,-79.3398364,2,Shawnee Circle (506),a
+43.7970746,-79.3398364,2,Shawnee Circle (805),a
 43.7970887,-79.3414986,2,Shawnee Circle (462),a
 43.7970887,-79.3414986,2,Shawnee Circle (761),a
 43.7970968,-79.3414363,2,Shawnee Circle (461),a
@@ -34929,6 +33661,7 @@ lat,lon,sz,names,len_cat
 43.7972861,-79.336646,2,Cherokee Boulevard (054),a
 43.7972861,-79.336646,2,Cherokee Boulevard (448),a
 43.7973304,-79.3420264,2,Shawnee Circle (468),a
+43.7973304,-79.3420264,2,Shawnee Circle (767),a
 43.7973645,-79.3366864,2,Cherokee Boulevard (077),a
 43.7973645,-79.3366864,2,Cherokee Boulevard (326),a
 43.7973645,-79.3366864,2,Cherokee Boulevard (330),a
@@ -34988,6 +33721,7 @@ lat,lon,sz,names,len_cat
 43.7980231,-79.3413609,2,Nootka Crescent (658),a
 43.7980236,-79.3413982,2,Nootka Crescent (512),a
 43.7980236,-79.3413982,2,Nootka Crescent (659),a
+43.7980243,-79.3414479,2,Nootka Crescent (660),a
 43.7980312,-79.3412985,2,Nootka Crescent (510),a
 43.7980312,-79.3412985,2,Nootka Crescent (657),a
 43.7980393,-79.3412361,2,Nootka Crescent (656),a
@@ -35012,12 +33746,14 @@ lat,lon,sz,names,len_cat
 43.7982164,-79.3404731,2,Nootka Crescent (237),a
 43.7982164,-79.3404731,2,Nootka Crescent (593),a
 43.7982426,-79.3403604,2,Nootka Crescent (655),a
+43.7982426,-79.3403604,2,Shawnee Circle (508),a
 43.7982426,-79.3403604,2,Shawnee Circle (531),a
 43.7982426,-79.3403604,2,Shawnee Circle (807),a
 43.798318,-79.3362562,2,Navaho Drive (107),a
 43.7983349,-79.3361811,2,Navaho Drive (538),a
 43.7983419,-79.3360442,2,Navaho Drive (110),a
 43.7983419,-79.3360442,2,Navaho Drive (540),a
+43.798343,-79.3361188,2,Navaho Drive (539),a
 43.79835,-79.3359818,2,Navaho Drive (111),a
 43.7983588,-79.3427811,2,Shawnee Circle (478),a
 43.7983588,-79.3427811,2,Shawnee Circle (478),a
@@ -35058,6 +33794,7 @@ lat,lon,sz,names,len_cat
 43.7988392,-79.3405179,2,Cherokee Boulevard (013),a
 43.7988392,-79.3405179,2,Cherokee Boulevard (407),a
 43.7988392,-79.3405179,2,Shawnee Circle (491),a
+43.7988392,-79.3405179,2,Shawnee Circle (790),a
 43.7988392,-79.3405179,2,Shawnee Circle (811),a
 43.7988532,-79.340244,2,Cherokee Boulevard (015),a
 43.7988532,-79.340244,2,Cherokee Boulevard (409),a
@@ -35108,6 +33845,7 @@ lat,lon,sz,names,len_cat
 43.7991458,-79.3393161,2,Cherokee Boulevard (415),a
 43.7992365,-79.341837,2,Nootka Crescent (670),a
 43.7992365,-79.341837,2,Shawnee Circle (503),a
+43.7992365,-79.341837,2,Shawnee Circle (802),a
 43.7992787,-79.3389672,2,Cherokee Boulevard (047),a
 43.7993186,-79.3394356,2,Apache Trail (380),a
 43.7993186,-79.3394356,2,Apache Trail (734),a
@@ -35135,6 +33873,7 @@ lat,lon,sz,names,len_cat
 43.7996202,-79.3378858,2,Cherokee Boulevard (044),a
 43.7996202,-79.3378858,2,Cherokee Boulevard (438),a
 43.7996254,-79.3407199,2,Shawnee Circle (499),a
+43.7996254,-79.3407199,2,Shawnee Circle (798),a
 43.7996257,-79.3395016,2,Apache Trail (382),a
 43.7996257,-79.3395016,2,Apache Trail (738),a
 43.7996277,-79.3700831,2,Dexter Boulevard (522),a
@@ -35157,6 +33896,7 @@ lat,lon,sz,names,len_cat
 43.7997341,-79.3395235,2,Apache Trail (742),a
 43.7997378,-79.3695939,2,Dexter Boulevard (523),a
 43.7997378,-79.3695939,2,Dexter Boulevard (698),a
+43.7997631,-79.3365642,2,Navaho Drive (547),a
 43.7997793,-79.3395347,2,Apache Trail (385),a
 43.7997793,-79.3395347,2,Apache Trail (744),a
 43.7997815,-79.3693807,2,Dexter Boulevard (524),a

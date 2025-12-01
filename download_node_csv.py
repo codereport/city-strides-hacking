@@ -79,6 +79,7 @@ class City(str, Enum):
     INDIAN_LAKE  = 1096  # 🌍
     MONTREAL     = 37756  # 🌍
     WESTMOUNT    = 37575  # 🌍
+    MELBOURNE    = 25801  # 🌍
 # fmt: on
 
 
@@ -172,6 +173,7 @@ CityGrids = {
     City.INDIAN_LAKE:    CityGrid(-74.046098, 43.952775, -74.559351, 43.619659),
     City.MONTREAL:       CityGrid(-73.4742952, 45.7047897, -73.9958013, 45.3984821),
     City.WESTMOUNT:      CityGrid(-73.5806481, 45.4952907, -73.6184918, 45.4743981),
+    City.MELBOURNE:      CityGrid(144.989097, -37.799446, 144.9514311, -37.855527),
 }
 # fmt: on
 

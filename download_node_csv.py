@@ -80,6 +80,8 @@ class City(str, Enum):
     MONTREAL     = 37756  # 🌍
     WESTMOUNT    = 37575  # 🌍
     MELBOURNE    = 25801  # 🌍
+    PORT_PHILLIP = 25802  # 🌍
+    STONNINGTON  = 25803  # 🌍
 # fmt: on
 
 
@@ -174,6 +176,8 @@ CityGrids = {
     City.MONTREAL:       CityGrid(-73.4742952, 45.7047897, -73.9958013, 45.3984821),
     City.WESTMOUNT:      CityGrid(-73.5806481, 45.4952907, -73.6184918, 45.4743981),
     City.MELBOURNE:      CityGrid(144.989097, -37.799446, 144.9514311, -37.855527),
+    City.PORT_PHILLIP: CityGrid(145.0105292, -37.825882, 144.912468, -37.891737),
+    City.STONNINGTON:    CityGrid(145.0921533, -37.8296366, 144.983322, -37.8930026),
 }
 # fmt: on
 

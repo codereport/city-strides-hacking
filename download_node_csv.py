@@ -82,6 +82,7 @@ class City(str, Enum):
     MELBOURNE    = 25801  # 🌍
     PORT_PHILLIP = 25802  # 🌍
     STONNINGTON  = 25803  # 🌍
+    BRISBANE     = 188747  # 🌍
 # fmt: on
 
 
@@ -178,6 +179,8 @@ CityGrids = {
     City.MELBOURNE:      CityGrid(144.989097, -37.799446, 144.9514311, -37.855527),
     City.PORT_PHILLIP: CityGrid(145.0105292, -37.825882, 144.912468, -37.891737),
     City.STONNINGTON:    CityGrid(145.0921533, -37.8296366, 144.983322, -37.8930026),
+    # City.BRISBANE:       CityGrid(153.4682348, -27.0215438, 152.679693, -27.660219),
+    City.BRISBANE:     CityGrid(153.05461658208168, -27.43741488882217, 152.99859216080006, -27.492890497167053),
 }
 # fmt: on
 

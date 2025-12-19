@@ -27681,7 +27681,6 @@ lat,lon,sz,names,len_cat
 43.7776709,-79.4947076,2,Keele Street (784),a
 43.7776709,-79.4947076,2,The Chimneystack Road (148),a
 43.7776709,-79.4947076,2,The Chimneystack Road (417),a
-43.7776723,-79.3241348,2,Victoria Park Avenue (303),a
 43.7776765,-79.5039519,2,Ian Macdonald Boulevard (341),a
 43.7776765,-79.5039519,2,Ian Macdonald Boulevard (474),a
 43.7776765,-79.5039519,2,Ian Macdonald Boulevard (488),a
@@ -27706,7 +27705,6 @@ lat,lon,sz,names,len_cat
 43.7777065,-79.5039042,2,Ian Macdonald Boulevard (487),a
 43.7777065,-79.5039042,2,Ian Macdonald Boulevard (730),a
 43.7777065,-79.5039042,2,Ian Macdonald Boulevard (948),a
-43.7777086,-79.3243698,2,Patrick Boulevard (115),a
 43.7777133,-79.502736,2,Ian Macdonald Boulevard (004),a
 43.7777133,-79.502736,2,Ian Macdonald Boulevard (497),a
 43.7777238,-79.4883317,2,Petrolia Road (003),a
@@ -27723,9 +27721,6 @@ lat,lon,sz,names,len_cat
 43.7777488,-79.5037308,2,Ian Macdonald Boulevard (961),a
 43.7777511,-79.4907399,2,Wildcat Road (330),a
 43.7777511,-79.4907399,2,Wildcat Road (496),a
-43.7777515,-79.3241713,2,Patrick Boulevard (116),a
-43.7777515,-79.3241713,2,Victoria Park Avenue (302),a
-43.7777515,-79.3241713,2,Victoria Park Avenue (307),a
 43.7777569,-79.5033134,2,Ian Macdonald Boulevard (789),a
 43.7777569,-79.5033134,2,Ian Macdonald Boulevard (822),a
 43.7777573,-79.5023634,2,Ian Macdonald Boulevard (304),a
@@ -27763,7 +27758,6 @@ lat,lon,sz,names,len_cat
 43.7778146,-79.5032215,2,Ian Macdonald Boulevard (699),a
 43.777815,-79.5027867,2,Ian Macdonald Boulevard (514),a
 43.777815,-79.5027867,2,Ian Macdonald Boulevard (808),a
-43.7778211,-79.3242061,2,Victoria Park Avenue (306),a
 43.7778223,-79.5030833,2,Ian Macdonald Boulevard (515),a
 43.7778223,-79.5030833,2,Ian Macdonald Boulevard (809),a
 43.7778235,-79.5029179,2,Ian Macdonald Boulevard (152),a
@@ -27866,8 +27860,6 @@ lat,lon,sz,names,len_cat
 43.7782925,-79.4994859,2,Albany Road (836),a
 43.7783029,-79.499481,2,Albany Road (002),a
 43.7783029,-79.499481,2,Albany Road (837),a
-43.7783045,-79.3244474,2,Victoria Park Avenue (101),a
-43.7783045,-79.3244474,2,Victoria Park Avenue (305),a
 43.7783132,-79.4994753,2,Albany Road (003),a
 43.7783132,-79.4994753,2,Albany Road (838),a
 43.7783187,-79.4994718,2,Albany Road (004),a
@@ -27934,8 +27926,6 @@ lat,lon,sz,names,len_cat
 43.7785037,-79.5072046,2,Steeles Avenue West (750),a
 43.7785066,-79.4979876,2,Severn Road (240),a
 43.7785066,-79.4979876,2,Severn Road (440),a
-43.778564,-79.324578,2,Victoria Park Avenue (044),a
-43.778564,-79.324578,2,Victoria Park Avenue (100),a
 43.7786079,-79.4945025,2,Keele Street (164),a
 43.7786079,-79.4945025,2,Keele Street (489),a
 43.7786264,-79.5042082,2,Founders Road (139),a
@@ -28000,169 +27990,56 @@ lat,lon,sz,names,len_cat
 43.7792163,-79.4970357,2,Rideau Road (424),a
 43.7793004,-79.4943277,2,Keele Street (167),a
 43.7793004,-79.4943277,2,Keele Street (495),a
-43.7793063,-79.3249361,2,Victoria Park Avenue (043),a
 43.7793402,-79.494612,2,Keele Street (496),a
 43.7793402,-79.494612,2,Keele Street (779),a
-43.7794665,-79.3250134,2,Victoria Park Avenue (042),a
 43.779724,-79.4942245,2,Keele Street (168),a
 43.779724,-79.4942245,2,Keele Street (497),a
-43.7798563,-79.3316485,2,Cairnside Crescent (712),a
-43.7798563,-79.3316485,2,Cairnside Crescent (712),a
-43.7798563,-79.3316485,2,Cairnside Crescent (729),a
-43.7798563,-79.3316485,2,Cairnside Crescent (729),a
-43.7798563,-79.3316485,2,Cairnside Crescent (744),a
-43.7798563,-79.3316485,2,Cairnside Crescent (744),a
-43.7798563,-79.3316485,2,Cairnside Crescent (761),a
-43.7798563,-79.3316485,2,Cairnside Crescent (761),a
-43.7798563,-79.3316485,2,Painswick Crescent (665),a
-43.7798563,-79.3316485,2,Painswick Crescent (665),a
-43.7798563,-79.3316485,2,Painswick Crescent (711),a
-43.7798563,-79.3316485,2,Painswick Crescent (711),a
 43.7798754,-79.5012049,2,Steeles Avenue West (599),a
 43.7798754,-79.5012049,2,Steeles Avenue West (599),a
 43.7798754,-79.5012049,2,Steeles Avenue West (898),a
 43.7798754,-79.5012049,2,Steeles Avenue West (898),a
-43.7798769,-79.3278635,2,Old Sheppard Avenue (281),a
-43.7798769,-79.3278635,2,Old Sheppard Avenue (597),a
-43.779886,-79.3315188,2,Painswick Crescent (077),a
-43.779886,-79.3315188,2,Painswick Crescent (077),a
-43.779886,-79.3315188,2,Painswick Crescent (731),a
-43.779886,-79.3315188,2,Painswick Crescent (731),a
 43.7799784,-79.4944612,2,Keele Street (495),a
 43.7799784,-79.4944612,2,Keele Street (778),a
 43.7800091,-79.4941832,2,Keele Street (169),a
 43.7800091,-79.4941832,2,Keele Street (500),a
-43.7800284,-79.3317183,2,Cairnside Crescent (713),a
-43.7800284,-79.3317183,2,Cairnside Crescent (713),a
-43.7800284,-79.3317183,2,Cairnside Crescent (745),a
-43.7800284,-79.3317183,2,Cairnside Crescent (745),a
-43.7800341,-79.3308731,2,Painswick Crescent (666),a
-43.7800341,-79.3308731,2,Painswick Crescent (712),a
-43.7801459,-79.3317523,2,Cairnside Crescent (714),a
-43.7801459,-79.3317523,2,Cairnside Crescent (714),a
-43.7801459,-79.3317523,2,Cairnside Crescent (746),a
-43.7801459,-79.3317523,2,Cairnside Crescent (746),a
-43.7801516,-79.3264916,2,Old Sheppard Avenue (076),a
-43.7801516,-79.3264916,2,Old Sheppard Avenue (085),a
-43.7801516,-79.3264916,2,Old Sheppard Avenue (398),a
-43.7801516,-79.3264916,2,Old Sheppard Avenue (407),a
 43.7801704,-79.4941673,2,Carmen Principato Way (924),a
 43.7801704,-79.4941673,2,Carmen Principato Way (957),a
 43.7801704,-79.4941673,2,Keele Street (170),a
 43.7801704,-79.4941673,2,Keele Street (502),a
-43.7801771,-79.3301857,2,Painswick Crescent (667),a
-43.7801771,-79.3301857,2,Painswick Crescent (714),a
 43.7801967,-79.4940378,2,Carmen Principato Way (392),a
 43.7801967,-79.4940378,2,Carmen Principato Way (975),a
-43.7802363,-79.3317747,2,Cairnside Crescent (715),a
-43.7802363,-79.3317747,2,Cairnside Crescent (715),a
-43.7802363,-79.3317747,2,Cairnside Crescent (747),a
-43.7802363,-79.3317747,2,Cairnside Crescent (747),a
 43.7802385,-79.4943931,2,Keele Street (391),a
 43.7802385,-79.4943931,2,Keele Street (724),a
-43.7802687,-79.3253527,2,Victoria Park Avenue (041),a
 43.7802828,-79.4941594,2,Keele Street (171),a
 43.7802828,-79.4941594,2,Keele Street (504),a
-43.7803507,-79.3255722,2,Old Sheppard Avenue (077),a
-43.7803507,-79.3255722,2,Old Sheppard Avenue (399),a
-43.7803531,-79.331759,2,Cairnside Crescent (716),a
-43.7803531,-79.331759,2,Cairnside Crescent (716),a
-43.7803531,-79.331759,2,Cairnside Crescent (748),a
-43.7803531,-79.331759,2,Cairnside Crescent (748),a
-43.7803866,-79.3254008,2,Huntingwood Drive (095),a
-43.7803866,-79.3254008,2,Huntingwood Drive (761),a
-43.7803866,-79.3254008,2,Old Sheppard Avenue (078),a
-43.7803866,-79.3254008,2,Victoria Park Avenue (040),a
-43.7803866,-79.3254008,2,Victoria Park Avenue (292),a
 43.7803957,-79.4891153,2,Petrolia Road (468),a
 43.7803957,-79.4891153,2,Petrolia Road (468),a
 43.7803957,-79.4891153,2,Petrolia Road (994),a
 43.7803957,-79.4891153,2,Petrolia Road (994),a
 43.780417,-79.4943695,2,Keele Street (494),a
 43.780417,-79.4943695,2,Keele Street (777),a
-43.7804306,-79.3290478,2,Painswick Crescent (668),a
-43.7804306,-79.3290478,2,Painswick Crescent (715),a
-43.7804422,-79.3316944,2,Cairnside Crescent (717),a
-43.7804422,-79.3316944,2,Cairnside Crescent (717),a
-43.7804422,-79.3316944,2,Cairnside Crescent (749),a
-43.7804422,-79.3316944,2,Cairnside Crescent (749),a
 43.780446,-79.4941776,2,Keele Street (064),a
 43.780446,-79.4941776,2,Keele Street (813),a
-43.7804548,-79.3254338,2,Victoria Park Avenue (291),a
 43.7805555,-79.4926341,2,Carmen Principato Way (923),a
 43.7805555,-79.4926341,2,Carmen Principato Way (956),a
 43.7805578,-79.4941875,2,Keele Street (172),a
 43.7805578,-79.4941875,2,Keele Street (506),a
 43.7805897,-79.4943663,2,Keele Street (390),a
 43.7805897,-79.4943663,2,Keele Street (723),a
-43.780638,-79.3315398,2,Cairnside Crescent (718),a
-43.780638,-79.3315398,2,Cairnside Crescent (718),a
-43.780638,-79.3315398,2,Cairnside Crescent (750),a
-43.780638,-79.3315398,2,Cairnside Crescent (750),a
-43.7806592,-79.3280597,2,Painswick Crescent (669),a
-43.7806592,-79.3280597,2,Painswick Crescent (717),a
-43.7806673,-79.3279973,2,Painswick Crescent (670),a
-43.7806673,-79.3279973,2,Painswick Crescent (719),a
-43.7806754,-79.3279349,2,Painswick Crescent (671),a
-43.7806754,-79.3279349,2,Painswick Crescent (721),a
-43.7806923,-79.3278599,2,Painswick Crescent (672),a
-43.7806923,-79.3278599,2,Painswick Crescent (723),a
-43.7807092,-79.3277849,2,Painswick Crescent (673),a
-43.7807092,-79.3277849,2,Painswick Crescent (725),a
-43.7807445,-79.3277342,2,Painswick Crescent (674),a
-43.7807445,-79.3277342,2,Painswick Crescent (726),a
 43.7807574,-79.4943939,2,Keele Street (493),a
 43.7807574,-79.4943939,2,Keele Street (776),a
-43.7807709,-79.331387,2,Cairnside Crescent (719),a
-43.7807709,-79.331387,2,Cairnside Crescent (719),a
-43.7807709,-79.331387,2,Cairnside Crescent (751),a
-43.7807709,-79.331387,2,Cairnside Crescent (751),a
 43.7807722,-79.4973384,2,Steeles Avenue West (600),a
 43.7807722,-79.4973384,2,Steeles Avenue West (899),a
-43.7807895,-79.3277329,2,Painswick Crescent (675),a
-43.7807895,-79.3277329,2,Painswick Crescent (728),a
-43.7807931,-79.331339,2,Cairnside Crescent (720),a
-43.7807931,-79.331339,2,Cairnside Crescent (720),a
-43.7807931,-79.331339,2,Cairnside Crescent (752),a
-43.7807931,-79.331339,2,Cairnside Crescent (752),a
 43.7808073,-79.4892999,2,Petrolia Road (469),a
 43.7808073,-79.4892999,2,Petrolia Road (995),a
-43.7808348,-79.3277565,2,Painswick Crescent (676),a
-43.7808348,-79.3277565,2,Painswick Crescent (730),a
-43.7808407,-79.3312359,2,Cairnside Crescent (721),a
-43.7808407,-79.3312359,2,Cairnside Crescent (721),a
-43.7808407,-79.3312359,2,Cairnside Crescent (753),a
-43.7808407,-79.3312359,2,Cairnside Crescent (753),a
-43.7808653,-79.3310737,2,Cairnside Crescent (722),a
-43.7808653,-79.3310737,2,Cairnside Crescent (754),a
-43.7808684,-79.3256298,2,Victoria Park Avenue (290),a
-43.7809072,-79.3308613,2,Cairnside Crescent (723),a
-43.7809072,-79.3308613,2,Cairnside Crescent (755),a
-43.7809074,-79.3277918,2,Painswick Crescent (677),a
-43.7809074,-79.3277918,2,Painswick Crescent (732),a
 43.7809416,-79.4942579,2,Keele Street (173),a
 43.7809416,-79.4942579,2,Keele Street (508),a
-43.7809529,-79.3278278,2,Painswick Crescent (678),a
-43.7809529,-79.3278278,2,Painswick Crescent (734),a
-43.7809582,-79.3306486,2,Cairnside Crescent (724),a
-43.7809582,-79.3306486,2,Cairnside Crescent (756),a
-43.780999,-79.3303616,2,Cairnside Crescent (725),a
-43.780999,-79.3303616,2,Cairnside Crescent (757),a
 43.7810502,-79.4944352,2,Keele Street (389),a
 43.7810502,-79.4944352,2,Keele Street (722),a
 43.7811364,-79.4894475,2,Petrolia Road (471),a
 43.7811364,-79.4894475,2,Petrolia Road (997),a
-43.7811758,-79.3257821,2,Victoria Park Avenue (289),a
-43.7812067,-79.327945,2,Painswick Crescent (679),a
-43.7812067,-79.327945,2,Painswick Crescent (736),a
-43.7812104,-79.3294237,2,Cairnside Crescent (726),a
-43.7812104,-79.3294237,2,Cairnside Crescent (758),a
 43.7813018,-79.4895217,2,Petrolia Road (470),a
 43.7813018,-79.4895217,2,Petrolia Road (996),a
-43.7813219,-79.3323209,2,Brian Drive (112),a
-43.7813219,-79.3323209,2,Brian Drive (112),a
-43.7813219,-79.3323209,2,Brian Drive (196),a
-43.7813219,-79.3323209,2,Brian Drive (196),a
 43.7813491,-79.4945226,2,Keele Street (492),a
 43.7813491,-79.4945226,2,Keele Street (775),a
 43.7813841,-79.4943627,2,Keele Street (174),a
@@ -28189,103 +28066,25 @@ lat,lon,sz,names,len_cat
 43.7814821,-79.4896025,2,Petrolia Road (998),a
 43.7814838,-79.4942591,2,Steeles Avenue West (479),a
 43.7814838,-79.4942591,2,Steeles Avenue West (672),a
-43.7814967,-79.3280736,2,Cairnside Crescent (727),a
-43.7814967,-79.3280736,2,Cairnside Crescent (759),a
-43.7814967,-79.3280736,2,Painswick Crescent (663),a
-43.7814967,-79.3280736,2,Painswick Crescent (680),a
-43.7814967,-79.3280736,2,Painswick Crescent (708),a
-43.7814967,-79.3280736,2,Painswick Crescent (738),a
-43.78156,-79.3317875,2,Clydesdale Drive (136),a
-43.78156,-79.3317875,2,Clydesdale Drive (136),a
-43.78156,-79.3317875,2,Clydesdale Drive (265),a
-43.78156,-79.3317875,2,Clydesdale Drive (265),a
-43.7815622,-79.3319322,2,Clydesdale Drive (223),a
-43.7815622,-79.3319322,2,Clydesdale Drive (223),a
-43.7815622,-79.3319322,2,Clydesdale Drive (744),a
-43.7815622,-79.3319322,2,Clydesdale Drive (744),a
-43.7815628,-79.3319739,2,Clydesdale Drive (135),a
-43.7815628,-79.3319739,2,Clydesdale Drive (135),a
-43.7815628,-79.3319739,2,Clydesdale Drive (264),a
-43.7815628,-79.3319739,2,Clydesdale Drive (264),a
-43.7815757,-79.3316256,2,Clydesdale Drive (137),a
-43.7815757,-79.3316256,2,Clydesdale Drive (137),a
-43.7815757,-79.3316256,2,Clydesdale Drive (266),a
-43.7815757,-79.3316256,2,Clydesdale Drive (266),a
-43.7815873,-79.3320988,2,Brian Drive (113),a
-43.7815873,-79.3320988,2,Brian Drive (113),a
-43.7815873,-79.3320988,2,Brian Drive (197),a
-43.7815873,-79.3320988,2,Brian Drive (197),a
-43.7815873,-79.3320988,2,Clydesdale Drive (134),a
-43.7815873,-79.3320988,2,Clydesdale Drive (134),a
-43.7815873,-79.3320988,2,Clydesdale Drive (263),a
-43.7815873,-79.3320988,2,Clydesdale Drive (263),a
-43.7815919,-79.3315008,2,Clydesdale Drive (138),a
-43.7815919,-79.3315008,2,Clydesdale Drive (138),a
-43.7815919,-79.3315008,2,Clydesdale Drive (267),a
-43.7815919,-79.3315008,2,Clydesdale Drive (267),a
 43.7816017,-79.4896562,2,Petrolia Road (466),a
 43.7816017,-79.4896562,2,Petrolia Road (473),a
 43.7816017,-79.4896562,2,Petrolia Road (992),a
 43.7816017,-79.4896562,2,Petrolia Road (999),a
 43.7816216,-79.4936545,2,Steeles Avenue West (594),a
 43.7816216,-79.4936545,2,Steeles Avenue West (893),a
-43.7817051,-79.3320731,2,Brian Drive (114),a
-43.7817051,-79.3320731,2,Brian Drive (114),a
-43.7817051,-79.3320731,2,Brian Drive (198),a
-43.7817051,-79.3320731,2,Brian Drive (198),a
 43.7817749,-79.4934327,2,Steeles Avenue West (481),a
-43.7818196,-79.3304506,2,Clydesdale Drive (139),a
-43.7818196,-79.3304506,2,Clydesdale Drive (268),a
 43.7818794,-79.4897807,2,Petrolia Road (162),a
 43.7818794,-79.4897807,2,Petrolia Road (688),a
 43.7818794,-79.4897807,2,Petrolia Road (843),a
-43.7819158,-79.3321417,2,Brian Drive (115),a
-43.7819158,-79.3321417,2,Brian Drive (115),a
-43.7819158,-79.3321417,2,Brian Drive (199),a
-43.7819158,-79.3321417,2,Brian Drive (199),a
-43.7820134,-79.329538,2,Clydesdale Drive (140),a
-43.7820134,-79.329538,2,Clydesdale Drive (269),a
 43.7820277,-79.4898432,2,Petrolia Road (361),a
 43.7820277,-79.4898432,2,Petrolia Road (791),a
-43.782038,-79.3293758,2,Clydesdale Drive (141),a
-43.782038,-79.3293758,2,Clydesdale Drive (270),a
-43.7820621,-79.3291763,2,Clydesdale Drive (142),a
-43.7820621,-79.3291763,2,Clydesdale Drive (271),a
-43.7820742,-79.3289531,2,Clydesdale Drive (143),a
-43.7820742,-79.3289531,2,Clydesdale Drive (272),a
-43.7820869,-79.3288357,2,Clydesdale Drive (144),a
-43.7820869,-79.3288357,2,Clydesdale Drive (273),a
-43.7821421,-79.3284906,2,Clydesdale Drive (145),a
-43.7821421,-79.3284906,2,Clydesdale Drive (274),a
-43.7821676,-79.3283505,2,Clydesdale Drive (116),a
-43.7821676,-79.3283505,2,Clydesdale Drive (146),a
-43.7821676,-79.3283505,2,Clydesdale Drive (245),a
-43.7821676,-79.3283505,2,Clydesdale Drive (275),a
-43.7821676,-79.3283505,2,Painswick Crescent (664),a
-43.7821676,-79.3283505,2,Painswick Crescent (709),a
-43.7823375,-79.3275929,2,Clydesdale Drive (118),a
-43.7823375,-79.3275929,2,Clydesdale Drive (247),a
-43.7823376,-79.3276162,2,Clydesdale Drive (117),a
-43.7823376,-79.3276162,2,Clydesdale Drive (246),a
-43.7823464,-79.3274935,2,Clydesdale Drive (120),a
-43.7823464,-79.3274935,2,Clydesdale Drive (249),a
-43.7823465,-79.3275463,2,Clydesdale Drive (119),a
-43.7823465,-79.3275463,2,Clydesdale Drive (248),a
-43.7823643,-79.3274259,2,Clydesdale Drive (121),a
-43.7823643,-79.3274259,2,Clydesdale Drive (250),a
 43.7823682,-79.4905449,2,Steeles Avenue West (429),a
 43.7823682,-79.4905449,2,Steeles Avenue West (619),a
-43.7823732,-79.3273809,2,Clydesdale Drive (122),a
-43.7823732,-79.3273809,2,Clydesdale Drive (251),a
-43.7824092,-79.3273489,2,Clydesdale Drive (123),a
-43.7824092,-79.3273489,2,Clydesdale Drive (252),a
 43.7824194,-79.490008,2,Petrolia Road (689),a
 43.7824263,-79.4900118,2,Petrolia Road (159),a
 43.782428,-79.4906964,2,Steeles Avenue West (428),a
 43.7824537,-79.4901894,2,Steeles Avenue West (430),a
 43.7824537,-79.4901894,2,Steeles Avenue West (620),a
-43.7824632,-79.3273464,2,Clydesdale Drive (124),a
-43.7824632,-79.3273464,2,Clydesdale Drive (253),a
 43.7824919,-79.4900399,2,Petrolia Road (686),a
 43.7824919,-79.4900399,2,Petrolia Road (690),a
 43.7824919,-79.4900399,2,Petrolia Road (845),a
@@ -28293,327 +28092,13 @@ lat,lon,sz,names,len_cat
 43.7824919,-79.4900399,2,Steeles Avenue West (431),a
 43.7824919,-79.4900399,2,Steeles Avenue West (540),a
 43.7824919,-79.4900399,2,Steeles Avenue West (621),a
-43.7825082,-79.3273712,2,Clydesdale Drive (125),a
-43.7825082,-79.3273712,2,Clydesdale Drive (254),a
-43.7825112,-79.326436,2,Victoria Park Avenue (288),a
 43.782521,-79.489916,2,Steeles Avenue West (610),a
 43.7825218,-79.4899063,2,Steeles Avenue West (351),a
-43.7825623,-79.3274044,2,Clydesdale Drive (126),a
-43.7825623,-79.3274044,2,Clydesdale Drive (255),a
-43.7826369,-79.3324852,2,Brian Drive (116),a
-43.7826369,-79.3324852,2,Brian Drive (116),a
-43.7826369,-79.3324852,2,Brian Drive (200),a
-43.7826369,-79.3324852,2,Brian Drive (200),a
 43.782661,-79.4893228,2,Steeles Avenue West (352),a
 43.782661,-79.4893228,2,Steeles Avenue West (542),a
-43.7827286,-79.3325286,2,Brian Drive (117),a
-43.7827286,-79.3325286,2,Brian Drive (117),a
-43.7827286,-79.3325286,2,Brian Drive (201),a
-43.7827286,-79.3325286,2,Brian Drive (201),a
 43.7827773,-79.4891963,2,Steeles Avenue West (353),a
-43.7832288,-79.3277014,2,Clydesdale Drive (127),a
-43.7832288,-79.3277014,2,Clydesdale Drive (256),a
-43.7832822,-79.3267781,2,Victoria Park Avenue (286),a
-43.7832822,-79.3267781,2,Victoria Park Avenue (287),a
-43.783481,-79.3278335,2,Clydesdale Drive (128),a
-43.783481,-79.3278335,2,Clydesdale Drive (257),a
-43.7836074,-79.3279171,2,Clydesdale Drive (129),a
-43.7836074,-79.3279171,2,Clydesdale Drive (258),a
-43.7836258,-79.3283622,2,Kathrose Drive (203),a
-43.7836258,-79.3283622,2,Kathrose Drive (796),a
-43.7836259,-79.3284147,2,Kathrose Drive (202),a
-43.7836259,-79.3284147,2,Kathrose Drive (795),a
-43.7836364,-79.328309,2,Kathrose Drive (204),a
-43.7836364,-79.328309,2,Kathrose Drive (797),a
-43.7836531,-79.3285086,2,Kathrose Drive (201),a
-43.7836531,-79.3285086,2,Kathrose Drive (794),a
-43.7836593,-79.3281838,2,Kathrose Drive (205),a
-43.7836593,-79.3281838,2,Kathrose Drive (798),a
-43.7836801,-79.3285357,2,Kathrose Drive (200),a
-43.7836801,-79.3285357,2,Kathrose Drive (793),a
-43.7836941,-79.3329882,2,Brian Drive (118),a
-43.7836941,-79.3329882,2,Brian Drive (202),a
-43.7836941,-79.3329882,2,Kathrose Drive (183),a
-43.7836941,-79.3329882,2,Kathrose Drive (776),a
-43.7836973,-79.3279766,2,Clydesdale Drive (130),a
-43.7836973,-79.3279766,2,Clydesdale Drive (131),a
-43.7836973,-79.3279766,2,Clydesdale Drive (259),a
-43.7836973,-79.3279766,2,Clydesdale Drive (260),a
-43.7836973,-79.3279766,2,Kathrose Drive (206),a
-43.7836973,-79.3279766,2,Kathrose Drive (799),a
-43.7837251,-79.3285581,2,Kathrose Drive (199),a
-43.7837251,-79.3285581,2,Kathrose Drive (792),a
-43.7837278,-79.3328441,2,Kathrose Drive (070),a
-43.7837278,-79.3328441,2,Kathrose Drive (729),a
-43.7837346,-79.3328148,2,Kathrose Drive (698),a
-43.7837346,-79.3328148,2,Kathrose Drive (982),a
-43.7838171,-79.3270309,2,Victoria Park Avenue (285),a
-43.7838563,-79.3272121,2,Clydesdale Drive (132),a
-43.7838563,-79.3272121,2,Clydesdale Drive (261),a
-43.7838866,-79.3270652,2,Clydesdale Drive (262),a
-43.7838866,-79.3270652,2,Victoria Park Avenue (284),a
-43.7838866,-79.3270652,2,Victoria Park Avenue (911),a
-43.7839647,-79.3271032,2,Victoria Park Avenue (910),a
-43.7840663,-79.3313947,2,Kathrose Drive (184),a
-43.7840663,-79.3313947,2,Kathrose Drive (184),a
-43.7840663,-79.3313947,2,Kathrose Drive (777),a
-43.7840663,-79.3313947,2,Kathrose Drive (777),a
-43.7842218,-79.3272363,2,Altair Avenue (763),a
-43.7842218,-79.3272363,2,Altair Avenue (993),a
-43.7842218,-79.3272363,2,Victoria Park Avenue (909),a
-43.7843763,-79.3273033,2,Victoria Park Avenue (908),a
-43.7843807,-79.3288756,2,Kathrose Drive (198),a
-43.7843807,-79.3288756,2,Kathrose Drive (791),a
-43.7844277,-79.3288947,2,Kathrose Drive (197),a
-43.7844277,-79.3288947,2,Kathrose Drive (790),a
-43.7844429,-79.3296743,2,Kathrose Drive (185),a
-43.7844429,-79.3296743,2,Kathrose Drive (778),a
-43.7844491,-79.3333365,2,Brian Drive (417),a
-43.7844491,-79.3333365,2,Brian Drive (492),a
-43.7844817,-79.3289023,2,Kathrose Drive (196),a
-43.7844817,-79.3289023,2,Kathrose Drive (789),a
-43.7844846,-79.3334981,2,Pleasant View Drive (039),a
-43.7844846,-79.3334981,2,Pleasant View Drive (103),a
-43.784513,-79.333366,2,Brian Drive (093),a
-43.784513,-79.333366,2,Brian Drive (119),a
-43.784513,-79.333366,2,Brian Drive (177),a
-43.784513,-79.333366,2,Brian Drive (203),a
-43.784513,-79.333366,2,Pleasant View Drive (086),a
-43.784513,-79.333366,2,Pleasant View Drive (087),a
-43.784513,-79.333366,2,Pleasant View Drive (917),a
-43.784513,-79.333366,2,Pleasant View Drive (919),a
-43.7845358,-79.3289037,2,Kathrose Drive (195),a
-43.7845358,-79.3289037,2,Kathrose Drive (788),a
-43.7845411,-79.333239,2,Pleasant View Drive (087),a
-43.7845411,-79.333239,2,Pleasant View Drive (104),a
-43.7845452,-79.3291925,2,Kathrose Drive (186),a
-43.7845452,-79.3291925,2,Kathrose Drive (779),a
-43.7845558,-79.3291565,2,Kathrose Drive (187),a
-43.7845558,-79.3291565,2,Kathrose Drive (780),a
-43.7845729,-79.3290939,2,Kathrose Drive (188),a
-43.7845729,-79.3290939,2,Kathrose Drive (781),a
-43.7845807,-79.3288888,2,Kathrose Drive (194),a
-43.7845807,-79.3288888,2,Kathrose Drive (787),a
-43.7845904,-79.3290561,2,Kathrose Drive (189),a
-43.7845904,-79.3290561,2,Kathrose Drive (782),a
-43.784597,-79.3334059,2,Brian Drive (089),a
-43.784597,-79.3334059,2,Brian Drive (139),a
-43.7846168,-79.3288918,2,Kathrose Drive (193),a
-43.7846168,-79.3288918,2,Kathrose Drive (786),a
-43.7846169,-79.3290005,2,Kathrose Drive (190),a
-43.7846169,-79.3290005,2,Kathrose Drive (783),a
-43.7846258,-79.3289484,2,Kathrose Drive (191),a
-43.7846258,-79.3289484,2,Kathrose Drive (784),a
-43.7846258,-79.3289088,2,Kathrose Drive (192),a
-43.7846258,-79.3289088,2,Kathrose Drive (785),a
-43.7854153,-79.3292874,2,Pleasant View Drive (416),a
-43.7854153,-79.3292874,2,Pleasant View Drive (491),a
-43.785434,-79.3292031,2,Clipper Road (498),a
-43.785434,-79.3292031,2,Clipper Road (591),a
-43.785434,-79.3292031,2,Pleasant View Drive (088),a
-43.785434,-79.3292031,2,Pleasant View Drive (921),a
-43.7854611,-79.3290863,2,Pleasant View Drive (415),a
-43.7854611,-79.3290863,2,Pleasant View Drive (490),a
-43.7855212,-79.3292399,2,Clipper Road (522),a
-43.7855212,-79.3292399,2,Clipper Road (528),a
-43.7855375,-79.3292468,2,Clipper Road (500),a
-43.7855375,-79.3292468,2,Clipper Road (592),a
-43.7855511,-79.3325713,2,Bowhill Crescent (745),a
-43.7855511,-79.3325713,2,Bowhill Crescent (809),a
-43.7855608,-79.3326208,2,Bowhill Crescent (746),a
-43.7855608,-79.3326208,2,Bowhill Crescent (810),a
-43.7855655,-79.3325186,2,Bowhill Crescent (527),a
-43.7855655,-79.3325186,2,Bowhill Crescent (533),a
-43.7855682,-79.3325087,2,Bowhill Crescent (744),a
-43.7855682,-79.3325087,2,Bowhill Crescent (808),a
-43.7855761,-79.3324339,2,Bowhill Crescent (743),a
-43.7855761,-79.3324339,2,Bowhill Crescent (743),a
-43.7855761,-79.3324339,2,Bowhill Crescent (807),a
-43.7855761,-79.3324339,2,Bowhill Crescent (807),a
-43.785602,-79.3323587,2,Bowhill Crescent (742),a
-43.785602,-79.3323587,2,Bowhill Crescent (742),a
-43.785602,-79.3323587,2,Bowhill Crescent (806),a
-43.785602,-79.3323587,2,Bowhill Crescent (806),a
-43.7856064,-79.3326568,2,Bowhill Crescent (747),a
-43.7856064,-79.3326568,2,Bowhill Crescent (811),a
-43.7856191,-79.332296,2,Bowhill Crescent (741),a
-43.7856191,-79.332296,2,Bowhill Crescent (741),a
-43.7856191,-79.332296,2,Bowhill Crescent (805),a
-43.7856191,-79.332296,2,Bowhill Crescent (805),a
-43.7856366,-79.3292887,2,Clipper Road (518),a
-43.7856366,-79.3292887,2,Clipper Road (524),a
-43.785638,-79.3326733,2,Bowhill Crescent (526),a
-43.785638,-79.3326733,2,Bowhill Crescent (532),a
-43.7856517,-79.3326804,2,Bowhill Crescent (748),a
-43.7856517,-79.3326804,2,Bowhill Crescent (812),a
-43.7856812,-79.3281371,2,Pleasant View Drive (089),a
-43.7856812,-79.3281371,2,Pleasant View Drive (923),a
-43.7856927,-79.328091,2,Pleasant View Drive (088),a
-43.7856927,-79.328091,2,Pleasant View Drive (105),a
-43.785729,-79.3318083,2,Bowhill Crescent (740),a
-43.785729,-79.3318083,2,Bowhill Crescent (740),a
-43.785729,-79.3318083,2,Bowhill Crescent (804),a
-43.785729,-79.3318083,2,Bowhill Crescent (804),a
-43.7857298,-79.3279426,2,Pleasant View Drive (090),a
-43.7857298,-79.3279426,2,Victoria Park Avenue (264),a
-43.7857298,-79.3279426,2,Victoria Park Avenue (907),a
-43.7857638,-79.3317203,2,Bowhill Crescent (739),a
-43.7857638,-79.3317203,2,Bowhill Crescent (739),a
-43.7857638,-79.3317203,2,Bowhill Crescent (803),a
-43.7857638,-79.3317203,2,Bowhill Crescent (803),a
-43.7857949,-79.3293556,2,Clipper Road (519),a
-43.7857949,-79.3293556,2,Clipper Road (525),a
-43.7857987,-79.3316448,2,Bowhill Crescent (738),a
-43.7857987,-79.3316448,2,Bowhill Crescent (738),a
-43.7857987,-79.3316448,2,Bowhill Crescent (802),a
-43.7857987,-79.3316448,2,Bowhill Crescent (802),a
-43.7858148,-79.329364,2,Clipper Road (517),a
-43.7858148,-79.329364,2,Clipper Road (523),a
-43.7858246,-79.3315695,2,Bowhill Crescent (737),a
-43.7858246,-79.3315695,2,Bowhill Crescent (737),a
-43.7858246,-79.3315695,2,Bowhill Crescent (801),a
-43.7858246,-79.3315695,2,Bowhill Crescent (801),a
-43.7858556,-79.3293813,2,Clipper Road (502),a
-43.7858556,-79.3293813,2,Clipper Road (593),a
-43.7858595,-79.331494,2,Bowhill Crescent (736),a
-43.7858595,-79.331494,2,Bowhill Crescent (736),a
-43.7858595,-79.331494,2,Bowhill Crescent (800),a
-43.7858595,-79.331494,2,Bowhill Crescent (800),a
-43.7858854,-79.3314187,2,Bowhill Crescent (735),a
-43.7858854,-79.3314187,2,Bowhill Crescent (735),a
-43.7858854,-79.3314187,2,Bowhill Crescent (799),a
-43.7858854,-79.3314187,2,Bowhill Crescent (799),a
-43.7859651,-79.3294357,2,Clipper Road (520),a
-43.7859651,-79.3294357,2,Clipper Road (526),a
-43.7860033,-79.3294547,2,Clipper Road (516),a
-43.7860033,-79.3294547,2,Clipper Road (522),a
-43.7860714,-79.3305932,2,Bowhill Crescent (734),a
-43.7860714,-79.3305932,2,Bowhill Crescent (734),a
-43.7860714,-79.3305932,2,Bowhill Crescent (798),a
-43.7860714,-79.3305932,2,Bowhill Crescent (798),a
-43.7861315,-79.3295184,2,Clipper Road (521),a
-43.7861315,-79.3295184,2,Clipper Road (527),a
-43.7861371,-79.3281334,2,Victoria Park Avenue (229),a
-43.7861371,-79.3281334,2,Victoria Park Avenue (263),a
-43.7861522,-79.3295287,2,Clipper Road (515),a
-43.7861522,-79.3295287,2,Clipper Road (521),a
-43.7862047,-79.3295547,2,Clipper Road (514),a
-43.7862047,-79.3295547,2,Clipper Road (520),a
-43.7862315,-79.3329253,2,Bowhill Crescent (749),a
-43.7862315,-79.3329253,2,Bowhill Crescent (813),a
-43.7862397,-79.3295721,2,Clipper Road (523),a
-43.7862397,-79.3295721,2,Clipper Road (529),a
-43.7862587,-79.3329369,2,Bowhill Crescent (750),a
-43.7862587,-79.3329369,2,Bowhill Crescent (814),a
-43.7862623,-79.3296861,2,Bowhill Crescent (524),a
-43.7862623,-79.3296861,2,Bowhill Crescent (530),a
-43.7862819,-79.3295931,2,Bowhill Crescent (733),a
-43.7862819,-79.3295931,2,Bowhill Crescent (797),a
-43.7862819,-79.3295931,2,Clipper Road (494),a
-43.7862819,-79.3295931,2,Clipper Road (504),a
-43.7862819,-79.3295931,2,Clipper Road (589),a
-43.7862819,-79.3295931,2,Clipper Road (594),a
-43.7862951,-79.3329608,2,Bowhill Crescent (751),a
-43.7862951,-79.3329608,2,Bowhill Crescent (815),a
-43.7863406,-79.3329968,2,Bowhill Crescent (752),a
-43.7863406,-79.3329968,2,Bowhill Crescent (816),a
-43.7863572,-79.3329963,2,Bowhill Crescent (529),a
-43.7863572,-79.3329963,2,Bowhill Crescent (535),a
-43.7863696,-79.3296335,2,Clipper Road (507),a
-43.7863696,-79.3296335,2,Clipper Road (513),a
-43.7863766,-79.3329958,2,Bowhill Crescent (753),a
-43.7863766,-79.3329958,2,Bowhill Crescent (817),a
-43.7863784,-79.3296375,2,Clipper Road (512),a
-43.7863784,-79.3296375,2,Clipper Road (518),a
-43.7864121,-79.3329575,2,Bowhill Crescent (754),a
-43.7864121,-79.3329575,2,Bowhill Crescent (818),a
-43.7864295,-79.3329155,2,Bowhill Crescent (528),a
-43.7864295,-79.3329155,2,Bowhill Crescent (534),a
-43.7864382,-79.3328947,2,Bowhill Crescent (755),a
-43.7864382,-79.3328947,2,Bowhill Crescent (819),a
-43.7864461,-79.3328199,2,Bowhill Crescent (756),a
-43.7864461,-79.3328199,2,Bowhill Crescent (820),a
-43.7864808,-79.3296848,2,Clipper Road (508),a
-43.7864808,-79.3296848,2,Clipper Road (514),a
-43.7865367,-79.3297105,2,Clipper Road (506),a
-43.7865367,-79.3297105,2,Clipper Road (512),a
-43.786633,-79.3297549,2,Clipper Road (509),a
-43.786633,-79.3297549,2,Clipper Road (515),a
-43.7867057,-79.3283998,2,Victoria Park Avenue (228),a
-43.7867214,-79.3297957,2,Clipper Road (505),a
-43.7867214,-79.3297957,2,Clipper Road (511),a
-43.7867848,-79.3298249,2,Clipper Road (510),a
-43.7867848,-79.3298249,2,Clipper Road (516),a
-43.7867902,-79.3313438,2,Bowhill Crescent (757),a
-43.7867902,-79.3313438,2,Bowhill Crescent (757),a
-43.7867902,-79.3313438,2,Bowhill Crescent (821),a
-43.7867902,-79.3313438,2,Bowhill Crescent (821),a
-43.7868811,-79.328482,2,Victoria Park Avenue (227),a
-43.7869062,-79.3298809,2,Clipper Road (504),a
-43.7869062,-79.3298809,2,Clipper Road (510),a
-43.786927,-79.3298904,2,Clipper Road (511),a
-43.786927,-79.3298904,2,Clipper Road (517),a
-43.7870294,-79.3299376,2,Clipper Road (513),a
-43.7870294,-79.3299376,2,Clipper Road (519),a
-43.7870869,-79.3300759,2,Bowhill Crescent (525),a
-43.7870869,-79.3300759,2,Bowhill Crescent (525),a
-43.7870869,-79.3300759,2,Bowhill Crescent (531),a
-43.7870869,-79.3300759,2,Bowhill Crescent (531),a
-43.7871016,-79.3299709,2,Clipper Road (503),a
-43.7871016,-79.3299709,2,Clipper Road (509),a
-43.7871105,-79.329975,2,Bowhill Crescent (758),a
-43.7871105,-79.329975,2,Bowhill Crescent (822),a
-43.7871105,-79.329975,2,Clipper Road (470),a
-43.7871105,-79.329975,2,Clipper Road (496),a
-43.7871105,-79.329975,2,Clipper Road (576),a
-43.7871105,-79.329975,2,Clipper Road (590),a
-43.7871654,-79.3299995,2,Clipper Road (502),a
-43.7871654,-79.3299995,2,Clipper Road (502),a
-43.7871654,-79.3299995,2,Clipper Road (508),a
-43.7871654,-79.3299995,2,Clipper Road (508),a
-43.7873136,-79.3300656,2,Clipper Road (472),a
-43.7873136,-79.3300656,2,Clipper Road (472),a
-43.7873136,-79.3300656,2,Clipper Road (577),a
-43.7873136,-79.3300656,2,Clipper Road (577),a
-43.7873982,-79.3287242,2,Victoria Park Avenue (988),a
-43.7874059,-79.3301087,2,Clipper Road (474),a
-43.7874059,-79.3301087,2,Clipper Road (474),a
-43.7874059,-79.3301087,2,Clipper Road (578),a
-43.7874059,-79.3301087,2,Clipper Road (578),a
-43.78746,-79.3301442,2,Clipper Road (476),a
-43.78746,-79.3301442,2,Clipper Road (476),a
-43.78746,-79.3301442,2,Clipper Road (579),a
-43.78746,-79.3301442,2,Clipper Road (579),a
-43.787515,-79.3301802,2,Clipper Road (478),a
-43.787515,-79.3301802,2,Clipper Road (478),a
-43.787515,-79.3301802,2,Clipper Road (580),a
-43.787515,-79.3301802,2,Clipper Road (580),a
-43.7875685,-79.328804,2,Victoria Park Avenue (226),a
-43.7875973,-79.3302649,2,Clipper Road (480),a
-43.7875973,-79.3302649,2,Clipper Road (480),a
-43.7875973,-79.3302649,2,Clipper Road (581),a
-43.7875973,-79.3302649,2,Clipper Road (581),a
-43.7876889,-79.3303742,2,Clipper Road (482),a
-43.7876889,-79.3303742,2,Clipper Road (482),a
-43.7876889,-79.3303742,2,Clipper Road (582),a
-43.7876889,-79.3303742,2,Clipper Road (582),a
-43.7878458,-79.3305965,2,Clipper Road (484),a
-43.7878458,-79.3305965,2,Clipper Road (583),a
-43.7882249,-79.3311351,2,Clipper Road (486),a
-43.7882249,-79.3311351,2,Clipper Road (584),a
-43.7883601,-79.331325,2,Clipper Road (487),a
-43.7883601,-79.331325,2,Clipper Road (585),a
-43.7883671,-79.3291779,2,Victoria Park Avenue (987),a
-43.7884054,-79.3313859,2,Clipper Road (489),a
-43.7884054,-79.3313859,2,Clipper Road (586),a
-43.7884789,-79.3314459,2,Clipper Road (490),a
-43.7884789,-79.3314459,2,Clipper Road (587),a
 43.788533,-79.3535247,2,Don Mills Road (702),a
 43.788533,-79.3535247,2,Don Mills Road (823),a
-43.7885417,-79.3314774,2,Clipper Road (632),a
-43.7885417,-79.3314774,2,Clipper Road (645),a
-43.7887096,-79.3293386,2,Victoria Park Avenue (225),a
-43.7887096,-79.3293386,2,Victoria Park Avenue (906),a
 43.7887577,-79.4624345,2,Steeles Avenue West (388),a
 43.7887577,-79.4624345,2,Steeles Avenue West (578),a
 43.7888491,-79.4623288,2,Steeles Avenue West (369),a
@@ -28621,31 +28106,13 @@ lat,lon,sz,names,len_cat
 43.7888491,-79.4623288,2,Steeles Avenue West (389),a
 43.7888491,-79.4623288,2,Steeles Avenue West (559),a
 43.7888491,-79.4623288,2,Steeles Avenue West (579),a
-43.7888774,-79.3294172,2,Victoria Park Avenue (905),a
-43.7890392,-79.3304696,2,Bickerton Crescent (226),a
-43.7890392,-79.3304696,2,Bickerton Crescent (519),a
 43.7890877,-79.3537503,2,Don Mills Road (704),a
 43.7890877,-79.3537503,2,Don Mills Road (824),a
-43.7891404,-79.3305165,2,Bickerton Crescent (175),a
-43.7891404,-79.3305165,2,Bickerton Crescent (769),a
-43.7891624,-79.3305267,2,Bickerton Crescent (227),a
-43.7891624,-79.3305267,2,Bickerton Crescent (520),a
-43.7891687,-79.3295536,2,Victoria Park Avenue (904),a
-43.7892337,-79.329584,2,Ferncrest Gate (124),a
-43.7892337,-79.329584,2,Ferncrest Gate (620),a
-43.7892337,-79.329584,2,Victoria Park Avenue (232),a
-43.7892337,-79.329584,2,Victoria Park Avenue (903),a
 43.7893434,-79.3296364,2,Victoria Park Avenue (231),a
 43.7895401,-79.3539357,2,Don Mills Road (706),a
 43.7895401,-79.3539357,2,Don Mills Road (825),a
 43.7897422,-79.3298269,2,Victoria Park Avenue (115),a
 43.7897422,-79.3298269,2,Victoria Park Avenue (230),a
-43.7906092,-79.3311976,2,Bickerton Crescent (228),a
-43.7906092,-79.3311976,2,Bickerton Crescent (521),a
-43.7906754,-79.3312797,2,Bickerton Crescent (229),a
-43.7906754,-79.3312797,2,Bickerton Crescent (522),a
-43.7906774,-79.3313864,2,Bickerton Crescent (230),a
-43.7906774,-79.3313864,2,Bickerton Crescent (523),a
 43.7924406,-79.3555611,2,Finch Avenue East (948),a
 43.7924406,-79.3555611,2,Finch Avenue East (948),a
 43.7924741,-79.3557144,2,Finch Avenue East (061),a

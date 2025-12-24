@@ -7725,8 +7725,6 @@ lat,lon,sz,names,len_cat
 43.7315361,-79.5021321,2,Exbury Road (849),a
 43.731604,-79.5373311,2,Mainshep Road (264),a
 43.731604,-79.5373311,2,Mainshep Road (264),a
-43.731606,-79.3055092,2,Victoria Park Avenue (947),a
-43.731606,-79.3055092,2,Victoria Park Avenue (950),a
 43.7316234,-79.5112242,2,Jane Street (192),a
 43.7316234,-79.5112242,2,Jane Street (251),a
 43.7316773,-79.5046616,2,Gatesgill Crescent (195),a
@@ -7758,7 +7756,6 @@ lat,lon,sz,names,len_cat
 43.7317858,-79.5046961,2,Gatesgill Crescent (371),a
 43.7317883,-79.5259672,2,Bartor Road (597),a
 43.7317883,-79.5259672,2,Bartor Road (815),a
-43.7318007,-79.3055914,2,Victoria Park Avenue (949),a
 43.7318041,-79.5047205,2,Gatesgill Crescent (198),a
 43.7318041,-79.5047205,2,Gatesgill Crescent (372),a
 43.7318085,-79.5112641,2,Jane Street (233),a
@@ -7776,10 +7773,6 @@ lat,lon,sz,names,len_cat
 43.731873,-79.5109231,2,Troutbrooke Drive (815),a
 43.7318785,-79.5083444,2,Austrey Court (091),a
 43.7318785,-79.5083444,2,Austrey Court (371),a
-43.7318856,-79.3056259,2,Arncliffe Crescent (008),a
-43.7318856,-79.3056259,2,Arncliffe Crescent (687),a
-43.7318856,-79.3056259,2,Victoria Park Avenue (948),a
-43.7318856,-79.3056259,2,Victoria Park Avenue (951),a
 43.7318873,-79.5107521,2,Troutbrooke Drive (063),a
 43.7318873,-79.5107521,2,Troutbrooke Drive (816),a
 43.7319141,-79.5105987,2,Troutbrooke Drive (064),a
@@ -7792,7 +7785,6 @@ lat,lon,sz,names,len_cat
 43.7319499,-79.5104686,2,Troutbrooke Drive (818),a
 43.7319767,-79.5103535,2,Troutbrooke Drive (066),a
 43.7319767,-79.5103535,2,Troutbrooke Drive (819),a
-43.7319819,-79.3056633,2,Victoria Park Avenue (952),a
 43.731988,-79.5077705,2,Austrey Court (092),a
 43.731988,-79.5077705,2,Austrey Court (372),a
 43.732007,-79.5092228,2,Monclova Road (019),a
@@ -7825,18 +7817,6 @@ lat,lon,sz,names,len_cat
 43.7320942,-79.5113267,2,Jane Street (308),a
 43.7320942,-79.5113267,2,Jane Street (310),a
 43.7320942,-79.5113267,2,Jane Street (310),a
-43.732099,-79.3072991,2,Draycott Drive (599),a
-43.732099,-79.3072991,2,Draycott Drive (599),a
-43.732099,-79.3072991,2,Draycott Drive (600),a
-43.732099,-79.3072991,2,Draycott Drive (600),a
-43.732099,-79.3072991,2,Draycott Drive (948),a
-43.732099,-79.3072991,2,Draycott Drive (948),a
-43.732099,-79.3072991,2,Draycott Drive (950),a
-43.732099,-79.3072991,2,Draycott Drive (950),a
-43.732099,-79.3072991,2,Wigmore Drive (500),a
-43.732099,-79.3072991,2,Wigmore Drive (500),a
-43.732099,-79.3072991,2,Wigmore Drive (979),a
-43.732099,-79.3072991,2,Wigmore Drive (979),a
 43.7320998,-79.5101269,2,Troutbrooke Drive (068),a
 43.7320998,-79.5101269,2,Troutbrooke Drive (821),a
 43.7321252,-79.5003666,2,Buxton Road (097),a
@@ -7855,24 +7835,16 @@ lat,lon,sz,names,len_cat
 43.7321656,-79.500006,2,Exbury Road (735),a
 43.7321656,-79.500006,2,Exbury Road (827),a
 43.7321656,-79.500006,2,Exbury Road (827),a
-43.7321662,-79.3071103,2,Draycott Drive (601),a
-43.7321662,-79.3071103,2,Draycott Drive (951),a
 43.7321795,-79.5100256,2,Troutbrooke Drive (069),a
 43.7321795,-79.5100256,2,Troutbrooke Drive (822),a
-43.7321877,-79.3057404,2,Victoria Park Avenue (953),a
-43.7321877,-79.3057404,2,Victoria Park Avenue (954),a
 43.7322154,-79.5003768,2,Buxton Road (098),a
 43.7322154,-79.5003768,2,Buxton Road (098),a
 43.7322154,-79.5003768,2,Buxton Road (662),a
 43.7322154,-79.5003768,2,Buxton Road (662),a
 43.7322594,-79.5099367,2,Troutbrooke Drive (070),a
 43.7322594,-79.5099367,2,Troutbrooke Drive (823),a
-43.7322654,-79.3069558,2,Draycott Drive (602),a
-43.7322654,-79.3069558,2,Draycott Drive (952),a
 43.7322718,-79.5026228,2,Sinton Court (356),a
 43.7322718,-79.5026228,2,Sinton Court (383),a
-43.7322768,-79.3057738,2,Victoria Park Avenue (900),a
-43.7322768,-79.3057738,2,Victoria Park Avenue (955),a
 43.7323033,-79.5098487,2,Troutbrooke Drive (071),a
 43.7323033,-79.5098487,2,Troutbrooke Drive (824),a
 43.7323055,-79.5003869,2,Buxton Road (099),a
@@ -7881,12 +7853,6 @@ lat,lon,sz,names,len_cat
 43.7323055,-79.5003869,2,Buxton Road (663),a
 43.7323129,-79.5023238,2,Sinton Court (355),a
 43.7323129,-79.5023238,2,Sinton Court (382),a
-43.7323634,-79.3067886,2,Draycott Drive (603),a
-43.7323634,-79.3067886,2,Draycott Drive (953),a
-43.7323646,-79.3074021,2,Wigmore Drive (499),a
-43.7323646,-79.3074021,2,Wigmore Drive (499),a
-43.7323646,-79.3074021,2,Wigmore Drive (978),a
-43.7323646,-79.3074021,2,Wigmore Drive (978),a
 43.7323648,-79.5097354,2,Troutbrooke Drive (072),a
 43.7323648,-79.5097354,2,Troutbrooke Drive (825),a
 43.7323869,-79.5004097,2,Buxton Road (100),a
@@ -7905,21 +7871,12 @@ lat,lon,sz,names,len_cat
 43.7324432,-79.5095348,2,Troutbrooke Drive (075),a
 43.7324432,-79.5095348,2,Troutbrooke Drive (811),a
 43.7324432,-79.5095348,2,Troutbrooke Drive (828),a
-43.7324639,-79.3074974,2,Wigmore Drive (498),a
-43.7324639,-79.3074974,2,Wigmore Drive (498),a
-43.7324639,-79.3074974,2,Wigmore Drive (977),a
-43.7324639,-79.3074974,2,Wigmore Drive (977),a
 43.7324861,-79.5004197,2,Buxton Road (101),a
 43.7324861,-79.5004197,2,Buxton Road (101),a
 43.7324861,-79.5004197,2,Buxton Road (665),a
 43.7324861,-79.5004197,2,Buxton Road (665),a
-43.7325092,-79.3058609,2,Victoria Park Avenue (390),a
 43.7325095,-79.5038219,2,Troutbrooke Drive (483),a
 43.7325095,-79.5038219,2,Troutbrooke Drive (519),a
-43.7325141,-79.3060882,2,Draycott Drive (604),a
-43.7325141,-79.3060882,2,Draycott Drive (954),a
-43.7325277,-79.3060252,2,Draycott Drive (605),a
-43.7325277,-79.3060252,2,Draycott Drive (955),a
 43.732536,-79.5114234,2,Jane Street (103),a
 43.732536,-79.5114234,2,Jane Street (103),a
 43.732536,-79.5114234,2,Jane Street (171),a
@@ -7928,9 +7885,6 @@ lat,lon,sz,names,len_cat
 43.732536,-79.5114234,2,Jane Street (250),a
 43.732536,-79.5114234,2,Jane Street (307),a
 43.732536,-79.5114234,2,Jane Street (307),a
-43.732559,-79.3058796,2,Draycott Drive (606),a
-43.732559,-79.3058796,2,Victoria Park Avenue (164),a
-43.732559,-79.3058796,2,Victoria Park Avenue (353),a
 43.7325674,-79.5004425,2,Buxton Road (102),a
 43.7325674,-79.5004425,2,Buxton Road (102),a
 43.7325674,-79.5004425,2,Buxton Road (666),a
@@ -7945,10 +7899,6 @@ lat,lon,sz,names,len_cat
 43.7326868,-79.5006258,2,Buxton Road (104),a
 43.7326868,-79.5006258,2,Buxton Road (668),a
 43.7326868,-79.5006258,2,Buxton Road (668),a
-43.7327057,-79.3079514,2,Wigmore Drive (497),a
-43.7327057,-79.3079514,2,Wigmore Drive (497),a
-43.7327057,-79.3079514,2,Wigmore Drive (976),a
-43.7327057,-79.3079514,2,Wigmore Drive (976),a
 43.7327243,-79.5007366,2,Buxton Road (105),a
 43.7327243,-79.5007366,2,Buxton Road (105),a
 43.7327243,-79.5007366,2,Buxton Road (669),a
@@ -7967,15 +7917,7 @@ lat,lon,sz,names,len_cat
 43.7327647,-79.5039317,2,Troutbrooke Drive (078),a
 43.7327647,-79.5039317,2,Troutbrooke Drive (830),a
 43.7327647,-79.5039317,2,Troutbrooke Drive (831),a
-43.7327704,-79.3085093,2,Wigmore Drive (495),a
-43.7327704,-79.3085093,2,Wigmore Drive (495),a
-43.7327704,-79.3085093,2,Wigmore Drive (974),a
-43.7327704,-79.3085093,2,Wigmore Drive (974),a
 43.732781,-79.3059728,2,Victoria Park Avenue (388),a
-43.7327822,-79.3082403,2,Wigmore Drive (496),a
-43.7327822,-79.3082403,2,Wigmore Drive (496),a
-43.7327822,-79.3082403,2,Wigmore Drive (975),a
-43.7327822,-79.3082403,2,Wigmore Drive (975),a
 43.732792,-79.501095,2,Buxton Road (108),a
 43.732792,-79.501095,2,Buxton Road (108),a
 43.732792,-79.501095,2,Buxton Road (672),a
@@ -8062,14 +8004,10 @@ lat,lon,sz,names,len_cat
 43.7334089,-79.5041512,2,Troutbrooke Drive (834),a
 43.7334949,-79.5041744,2,Troutbrooke Drive (082),a
 43.7334949,-79.5041744,2,Troutbrooke Drive (835),a
-43.7335291,-79.3108099,2,Sloane Avenue (192),a
-43.7335291,-79.3108099,2,Sloane Avenue (630),a
 43.7335487,-79.5041856,2,Troutbrooke Drive (083),a
 43.7335487,-79.5041856,2,Troutbrooke Drive (836),a
 43.7335968,-79.5041795,2,Troutbrooke Drive (084),a
 43.7335968,-79.5041795,2,Troutbrooke Drive (837),a
-43.7336469,-79.3109043,2,Sloane Avenue (191),a
-43.7336469,-79.3109043,2,Sloane Avenue (629),a
 43.7336574,-79.504182,2,Troutbrooke Drive (085),a
 43.7336574,-79.504182,2,Troutbrooke Drive (838),a
 43.7336848,-79.5041995,2,Troutbrooke Drive (086),a
@@ -8096,31 +8034,16 @@ lat,lon,sz,names,len_cat
 43.7337714,-79.5055136,2,Troutbrooke Drive (847),a
 43.7337746,-79.5053698,2,Troutbrooke Drive (092),a
 43.7337746,-79.5053698,2,Troutbrooke Drive (845),a
-43.7337787,-79.3132042,2,Anewen Drive (075),a
-43.7337787,-79.3132042,2,Anewen Drive (609),a
 43.7337806,-79.5054234,2,Troutbrooke Drive (093),a
 43.7337806,-79.5054234,2,Troutbrooke Drive (846),a
-43.7338097,-79.3135047,2,Anewen Drive (074),a
-43.7338097,-79.3135047,2,Anewen Drive (608),a
-43.7338097,-79.3125605,2,Anewen Drive (076),a
-43.7338097,-79.3125605,2,Anewen Drive (610),a
 43.7338246,-79.3634667,2,Lawrence Avenue East (418),a
-43.7338246,-79.3634667,2,Lawrence Avenue East (969),a
-43.7338649,-79.3122723,2,Anewen Drive (077),a
-43.7338649,-79.3122723,2,Anewen Drive (611),a
 43.7338832,-79.3064354,2,Victoria Park Avenue (163),a
-43.7338841,-79.3137879,2,Anewen Drive (073),a
-43.7338841,-79.3137879,2,Anewen Drive (607),a
 43.7338853,-79.5383387,2,Weston Road (227),a
 43.7338853,-79.5383387,2,Weston Road (679),a
 43.7339041,-79.5382018,2,Weston Road (194),a
 43.7339041,-79.5382018,2,Weston Road (646),a
 43.7339348,-79.5265617,2,Bartor Road (594),a
 43.7339348,-79.5265617,2,Bartor Road (812),a
-43.7339779,-79.3118855,2,Anewen Drive (078),a
-43.7339779,-79.3118855,2,Anewen Drive (612),a
-43.7339936,-79.3626878,2,Lawrence Avenue East (204),a
-43.7339936,-79.3626878,2,Lawrence Avenue East (305),a
 43.7339936,-79.3626878,2,Lawrence Avenue East (851),a
 43.7339936,-79.3626878,2,Lawrence Avenue East (965),a
 43.7340215,-79.5383693,2,Weston Road (129),a
@@ -8132,61 +8055,23 @@ lat,lon,sz,names,len_cat
 43.7340837,-79.5382527,2,Weston Road (647),a
 43.7340837,-79.5382527,2,Weston Road (674),a
 43.7340929,-79.3065245,2,Victoria Park Avenue (236),a
-43.7341035,-79.3115963,2,Anewen Drive (079),a
-43.7341035,-79.3115963,2,Anewen Drive (613),a
 43.7341166,-79.5118054,2,Jane Street (053),a
 43.7341166,-79.5118054,2,Jane Street (053),a
 43.7341166,-79.5118054,2,Jane Street (232),a
 43.7341166,-79.5118054,2,Jane Street (232),a
 43.7341166,-79.5118054,2,Jane Street (324),a
 43.7341166,-79.5118054,2,Jane Street (324),a
-43.7341322,-79.3143286,2,Anewen Drive (072),a
-43.7341322,-79.3143286,2,Anewen Drive (606),a
-43.7341322,-79.3143286,2,Woodthorpe Road (852),a
-43.7341322,-79.3143286,2,Woodthorpe Road (935),a
-43.7341384,-79.3115161,2,Anewen Drive (080),a
-43.7341384,-79.3115161,2,Anewen Drive (614),a
 43.7341576,-79.5383999,2,Weston Road (148),a
 43.7341576,-79.5383999,2,Weston Road (992),a
 43.734165,-79.5382756,2,Weston Road (223),a
 43.734165,-79.5382756,2,Weston Road (675),a
-43.7341694,-79.3114447,2,Anewen Drive (081),a
-43.7341694,-79.3114447,2,Anewen Drive (615),a
-43.7341694,-79.3114447,2,Kenewen Court (163),a
-43.7341694,-79.3114447,2,Kenewen Court (277),a
-43.7341694,-79.3114447,2,Sloane Avenue (190),a
-43.7341694,-79.3114447,2,Sloane Avenue (628),a
-43.7341986,-79.3151031,2,Anewen Drive (068),a
-43.7341986,-79.3151031,2,Anewen Drive (602),a
 43.7342108,-79.5383365,2,Weston Road (224),a
 43.7342108,-79.5383365,2,Weston Road (676),a
 43.7342108,-79.5383365,2,Weston Road (980),a
 43.7342108,-79.5383365,2,Weston Road (991),a
 43.7342119,-79.361667,2,Lawrence Avenue East (421),a
-43.7342119,-79.361667,2,Lawrence Avenue East (452),a
-43.7342119,-79.361667,2,Lawrence Avenue East (972),a
-43.7342135,-79.3144932,2,Anewen Drive (071),a
-43.7342135,-79.3144932,2,Anewen Drive (605),a
-43.7342215,-79.3616214,2,Lawrence Avenue East (027),a
 43.7342215,-79.3616214,2,Lawrence Avenue East (420),a
 43.7342215,-79.3616214,2,Lawrence Avenue East (884),a
-43.7342215,-79.3616214,2,Lawrence Avenue East (971),a
-43.7342219,-79.3149195,2,Anewen Drive (069),a
-43.7342219,-79.3149195,2,Anewen Drive (603),a
-43.7342225,-79.3142995,2,Woodthorpe Road (853),a
-43.7342225,-79.3142995,2,Woodthorpe Road (936),a
-43.7342227,-79.3113555,2,Kenewen Court (162),a
-43.7342227,-79.3113555,2,Kenewen Court (276),a
-43.7342449,-79.3146816,2,Anewen Drive (070),a
-43.7342449,-79.3146816,2,Anewen Drive (604),a
-43.7342554,-79.3113007,2,Kenewen Court (161),a
-43.7342554,-79.3113007,2,Kenewen Court (275),a
-43.7342872,-79.3112473,2,Kenewen Court (160),a
-43.7342872,-79.3112473,2,Kenewen Court (274),a
-43.7342996,-79.3098225,2,Kenewen Court (156),a
-43.7342996,-79.3098225,2,Kenewen Court (270),a
-43.734312,-79.31111,2,Kenewen Court (159),a
-43.734312,-79.31111,2,Kenewen Court (273),a
 43.7343148,-79.5118545,2,Jane Street (248),a
 43.7343148,-79.5118545,2,Jane Street (248),a
 43.7343148,-79.5118545,2,Jane Street (249),a
@@ -8205,8 +8090,6 @@ lat,lon,sz,names,len_cat
 43.7343759,-79.5457811,2,Verobeach Boulevard (451),a
 43.7343841,-79.5458672,2,Verobeach Boulevard (063),a
 43.7343841,-79.5458672,2,Verobeach Boulevard (450),a
-43.7343864,-79.3105092,2,Kenewen Court (158),a
-43.7343864,-79.3105092,2,Kenewen Court (272),a
 43.7343865,-79.5383793,2,Weston Road (200),a
 43.7343865,-79.5383793,2,Weston Road (652),a
 43.7343865,-79.5383793,2,Weston Road (981),a
@@ -8226,10 +8109,6 @@ lat,lon,sz,names,len_cat
 43.7344391,-79.5354641,2,Samba Drive (088),a
 43.7344391,-79.5354641,2,Samba Drive (782),a
 43.7344391,-79.5354641,2,Samba Drive (782),a
-43.7344421,-79.3140935,2,Woodthorpe Road (854),a
-43.7344421,-79.3140935,2,Woodthorpe Road (937),a
-43.7344469,-79.3117111,2,Sloane Avenue (189),a
-43.7344469,-79.3117111,2,Sloane Avenue (627),a
 43.7344482,-79.5462168,2,Verobeach Boulevard (060),a
 43.7344482,-79.5462168,2,Verobeach Boulevard (447),a
 43.7344596,-79.5451744,2,Verobeach Boulevard (069),a
@@ -8240,28 +8119,16 @@ lat,lon,sz,names,len_cat
 43.7344817,-79.535473,2,Samba Drive (698),a
 43.7344852,-79.5463087,2,Verobeach Boulevard (059),a
 43.7344852,-79.5463087,2,Verobeach Boulevard (446),a
-43.7344919,-79.3140174,2,Woodthorpe Road (855),a
-43.7344919,-79.3140174,2,Woodthorpe Road (938),a
 43.7344987,-79.545054,2,Verobeach Boulevard (070),a
 43.7344987,-79.545054,2,Verobeach Boulevard (457),a
 43.7345198,-79.546416,2,Verobeach Boulevard (058),a
 43.7345198,-79.546416,2,Verobeach Boulevard (445),a
-43.7345229,-79.309977,2,Kenewen Court (157),a
-43.7345229,-79.309977,2,Kenewen Court (271),a
 43.7345297,-79.5267385,2,Bartor Road (693),a
 43.7345297,-79.5267385,2,Bartor Road (759),a
 43.7345426,-79.5449655,2,Verobeach Boulevard (071),a
 43.7345426,-79.5449655,2,Verobeach Boulevard (458),a
-43.7345477,-79.3080115,2,Ruscica Drive (242),a
-43.7345477,-79.3080115,2,Ruscica Drive (242),a
-43.7345477,-79.3080115,2,Ruscica Drive (550),a
-43.7345477,-79.3080115,2,Ruscica Drive (550),a
-43.7345495,-79.3138569,2,Woodthorpe Road (856),a
-43.7345495,-79.3138569,2,Woodthorpe Road (939),a
 43.7345524,-79.5418175,2,Florida Crescent (522),a
 43.7345524,-79.5418175,2,Florida Crescent (553),a
-43.7345524,-79.3118141,2,Sloane Avenue (188),a
-43.7345524,-79.3118141,2,Sloane Avenue (626),a
 43.7345567,-79.5414449,2,Florida Crescent (519),a
 43.7345567,-79.5414449,2,Florida Crescent (550),a
 43.7345578,-79.5415318,2,Florida Crescent (520),a
@@ -8288,32 +8155,12 @@ lat,lon,sz,names,len_cat
 43.734572,-79.5419412,2,Florida Crescent (554),a
 43.7345887,-79.5397181,2,Florida Crescent (516),a
 43.7345887,-79.5397181,2,Florida Crescent (547),a
-43.7345911,-79.3077969,2,Ruscica Drive (243),a
-43.7345911,-79.3077969,2,Ruscica Drive (243),a
-43.7345911,-79.3077969,2,Ruscica Drive (551),a
-43.7345911,-79.3077969,2,Ruscica Drive (551),a
-43.7345911,-79.3073334,2,Ruscica Drive (245),a
-43.7345911,-79.3073334,2,Ruscica Drive (245),a
-43.7345911,-79.3073334,2,Ruscica Drive (553),a
-43.7345911,-79.3073334,2,Ruscica Drive (553),a
-43.7345911,-79.307136,2,Ruscica Drive (246),a
-43.7345911,-79.307136,2,Ruscica Drive (246),a
-43.7345911,-79.307136,2,Ruscica Drive (554),a
-43.7345911,-79.307136,2,Ruscica Drive (554),a
 43.7345915,-79.5420525,2,Florida Crescent (524),a
 43.7345915,-79.5420525,2,Florida Crescent (555),a
-43.734593,-79.3077417,2,Ruscica Drive (342),a
-43.734593,-79.3077417,2,Ruscica Drive (342),a
-43.734593,-79.3077417,2,Ruscica Drive (508),a
-43.734593,-79.3077417,2,Ruscica Drive (508),a
 43.7345946,-79.5117734,2,Giltspur Drive (049),a
 43.7345946,-79.5117734,2,Giltspur Drive (049),a
 43.7345946,-79.5117734,2,Giltspur Drive (813),a
 43.7345946,-79.5117734,2,Giltspur Drive (813),a
-43.7345973,-79.3076167,2,Ruscica Drive (244),a
-43.7345973,-79.3076167,2,Ruscica Drive (244),a
-43.7345973,-79.3076167,2,Ruscica Drive (552),a
-43.7345973,-79.3076167,2,Ruscica Drive (552),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (057),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (104),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (444),a
@@ -8322,26 +8169,10 @@ lat,lon,sz,names,len_cat
 43.7346046,-79.5465994,2,West Palm Court (767),a
 43.7346059,-79.5396556,2,Florida Crescent (515),a
 43.7346059,-79.5396556,2,Florida Crescent (546),a
-43.7346229,-79.3069422,2,Ruscica Drive (232),a
-43.7346229,-79.3069422,2,Ruscica Drive (232),a
-43.7346229,-79.3069422,2,Ruscica Drive (914),a
-43.7346229,-79.3069422,2,Ruscica Drive (914),a
 43.7346294,-79.5422006,2,Florida Crescent (525),a
 43.7346294,-79.5422006,2,Florida Crescent (556),a
-43.7346305,-79.3068958,2,Ruscica Drive (247),a
-43.7346305,-79.3068958,2,Ruscica Drive (247),a
-43.7346305,-79.3068958,2,Ruscica Drive (555),a
-43.7346305,-79.3068958,2,Ruscica Drive (555),a
 43.7346419,-79.5396547,2,Florida Crescent (514),a
 43.7346419,-79.5396547,2,Florida Crescent (545),a
-43.7346454,-79.3118827,2,Sloane Avenue (187),a
-43.7346454,-79.3118827,2,Sloane Avenue (625),a
-43.7346531,-79.3067584,2,Innismore Crescent (517),a
-43.7346531,-79.3067584,2,Innismore Crescent (558),a
-43.7346531,-79.3067584,2,Ruscica Drive (556),a
-43.7346531,-79.3067584,2,Victoria Park Avenue (539),a
-43.7346531,-79.3067584,2,Victoria Park Avenue (936),a
-43.7346531,-79.3067584,2,Victoria Park Avenue (938),a
 43.7346617,-79.544815,2,Verobeach Boulevard (072),a
 43.7346617,-79.544815,2,Verobeach Boulevard (459),a
 43.7346671,-79.5423363,2,Florida Crescent (526),a
@@ -8384,32 +8215,14 @@ lat,lon,sz,names,len_cat
 43.7348615,-79.5427537,2,Florida Crescent (561),a
 43.7348964,-79.5446364,2,Verobeach Boulevard (075),a
 43.7348964,-79.5446364,2,Verobeach Boulevard (462),a
-43.734905,-79.3121423,2,Woodthorpe Road (857),a
-43.734905,-79.3121423,2,Woodthorpe Road (940),a
 43.7349058,-79.510765,2,Turks Road (729),a
 43.7349058,-79.510765,2,Turks Road (887),a
 43.7349256,-79.5428391,2,Florida Crescent (531),a
 43.7349256,-79.5428391,2,Florida Crescent (562),a
-43.7349305,-79.3120344,2,Sloane Avenue (186),a
-43.7349305,-79.3120344,2,Sloane Avenue (624),a
-43.7349305,-79.3120344,2,Woodthorpe Road (858),a
-43.7349305,-79.3120344,2,Woodthorpe Road (941),a
-43.7349498,-79.3119325,2,Woodthorpe Road (859),a
-43.7349498,-79.3119325,2,Woodthorpe Road (942),a
-43.734956,-79.3119047,2,Woodthorpe Road (860),a
-43.734956,-79.3119047,2,Woodthorpe Road (943),a
-43.734959,-79.3205933,2,Carnforth Road (975),a
-43.734959,-79.3205933,2,Carnforth Road (975),a
-43.734959,-79.3205933,2,Carnforth Road (985),a
-43.734959,-79.3205933,2,Carnforth Road (985),a
 43.7349656,-79.5446066,2,Verobeach Boulevard (076),a
 43.7349656,-79.5446066,2,Verobeach Boulevard (463),a
 43.7349897,-79.5429245,2,Florida Crescent (532),a
 43.7349897,-79.5429245,2,Florida Crescent (563),a
-43.735007,-79.3204563,2,Carnforth Road (976),a
-43.735007,-79.3204563,2,Carnforth Road (976),a
-43.735007,-79.3204563,2,Carnforth Road (988),a
-43.735007,-79.3204563,2,Carnforth Road (988),a
 43.7350177,-79.5269193,2,Bartor Road (592),a
 43.7350177,-79.5269193,2,Bartor Road (810),a
 43.7350599,-79.5445875,2,Verobeach Boulevard (077),a
@@ -8430,14 +8243,6 @@ lat,lon,sz,names,len_cat
 43.7350874,-79.5120367,2,Jane Street (313),a
 43.7350874,-79.5120367,2,Jane Street (314),a
 43.7350874,-79.5120367,2,Jane Street (314),a
-43.7350964,-79.320291,2,Carnforth Road (977),a
-43.7350964,-79.320291,2,Carnforth Road (977),a
-43.7350964,-79.320291,2,Carnforth Road (990),a
-43.7350964,-79.320291,2,Carnforth Road (990),a
-43.7351017,-79.306937,2,Victoria Park Avenue (166),a
-43.7351017,-79.306937,2,Victoria Park Avenue (166),a
-43.7351017,-79.306937,2,Victoria Park Avenue (525),a
-43.7351017,-79.306937,2,Victoria Park Avenue (525),a
 43.7351019,-79.5460758,2,West Palm Court (032),a
 43.7351019,-79.5460758,2,West Palm Court (768),a
 43.7351196,-79.5460506,2,West Palm Court (033),a
@@ -8474,10 +8279,6 @@ lat,lon,sz,names,len_cat
 43.735165,-79.5445897,2,Verobeach Boulevard (467),a
 43.735175,-79.5095749,2,Coquette Road (718),a
 43.735175,-79.5095749,2,Coquette Road (855),a
-43.7351806,-79.3069684,2,Victoria Park Avenue (530),a
-43.7351806,-79.3069684,2,Victoria Park Avenue (530),a
-43.7351806,-79.3069684,2,Victoria Park Avenue (837),a
-43.7351806,-79.3069684,2,Victoria Park Avenue (837),a
 43.73519,-79.5095785,2,Coquette Road (283),a
 43.73519,-79.5095785,2,Coquette Road (966),a
 43.7352123,-79.547675,2,Verobeach Boulevard (107),a
@@ -8486,25 +8287,17 @@ lat,lon,sz,names,len_cat
 43.7352123,-79.547675,2,Verobeach Boulevard (494),a
 43.7352202,-79.5341893,2,Rivalda Road (120),a
 43.7352202,-79.5341893,2,Rivalda Road (364),a
-43.7352237,-79.3149552,2,Sweeney Drive (224),a
-43.7352237,-79.3149552,2,Sweeney Drive (338),a
 43.7352453,-79.544596,2,Coral Gable Drive (231),a
 43.7352453,-79.544596,2,Coral Gable Drive (645),a
 43.7352453,-79.544596,2,Verobeach Boulevard (081),a
 43.7352453,-79.544596,2,Verobeach Boulevard (468),a
 43.7352453,-79.544596,2,Verobeach Boulevard (841),a
-43.7352485,-79.3146033,2,Sweeney Drive (223),a
-43.7352485,-79.3146033,2,Sweeney Drive (337),a
 43.7352546,-79.5432161,2,Florida Crescent (535),a
 43.7352546,-79.5432161,2,Florida Crescent (566),a
 43.7352581,-79.547736,2,Verobeach Boulevard (108),a
 43.7352581,-79.547736,2,Verobeach Boulevard (108),a
 43.7352581,-79.547736,2,Verobeach Boulevard (495),a
 43.7352581,-79.547736,2,Verobeach Boulevard (495),a
-43.7352787,-79.3200525,2,Carnforth Road (552),a
-43.7352787,-79.3200525,2,Carnforth Road (552),a
-43.7352787,-79.3200525,2,Carnforth Road (606),a
-43.7352787,-79.3200525,2,Carnforth Road (606),a
 43.7352802,-79.5442938,2,Coral Gable Drive (232),a
 43.7352802,-79.5442938,2,Coral Gable Drive (646),a
 43.7352809,-79.5120813,2,Jane Street (269),a
@@ -8551,10 +8344,6 @@ lat,lon,sz,names,len_cat
 43.7353947,-79.5478569,2,Verobeach Boulevard (842),a
 43.7353964,-79.5437466,2,Coral Gable Drive (237),a
 43.7353964,-79.5437466,2,Coral Gable Drive (651),a
-43.7354076,-79.3070589,2,Victoria Park Avenue (529),a
-43.7354076,-79.3070589,2,Victoria Park Avenue (529),a
-43.7354076,-79.3070589,2,Victoria Park Avenue (836),a
-43.7354076,-79.3070589,2,Victoria Park Avenue (836),a
 43.7354101,-79.5370656,2,Samba Drive (100),a
 43.7354101,-79.5370656,2,Samba Drive (261),a
 43.7354112,-79.5371525,2,Samba Drive (101),a
@@ -8585,14 +8374,6 @@ lat,lon,sz,names,len_cat
 43.7354378,-79.5357114,2,Samba Drive (251),a
 43.7354385,-79.5421065,2,Hibiscus Court (780),a
 43.7354385,-79.5421065,2,Hibiscus Court (905),a
-43.7354394,-79.3262609,2,Railside Road (165),a
-43.7354394,-79.3262609,2,Railside Road (952),a
-43.7354394,-79.326232,2,Railside Road (500),a
-43.7354394,-79.326232,2,Railside Road (806),a
-43.7354394,-79.3260621,2,Railside Road (534),a
-43.7354394,-79.3260621,2,Railside Road (576),a
-43.7354394,-79.3259605,2,Railside Road (166),a
-43.7354394,-79.3259605,2,Railside Road (953),a
 43.7354401,-79.547893,2,Verobeach Boulevard (135),a
 43.7354401,-79.547893,2,Verobeach Boulevard (135),a
 43.7354401,-79.547893,2,Verobeach Boulevard (940),a
@@ -8601,8 +8382,6 @@ lat,lon,sz,names,len_cat
 43.7354439,-79.5368909,2,Samba Drive (258),a
 43.7354459,-79.5412743,2,Hibiscus Court (783),a
 43.7354459,-79.5412743,2,Hibiscus Court (908),a
-43.7354523,-79.3136972,2,Sweeney Drive (432),a
-43.7354523,-79.3136972,2,Sweeney Drive (488),a
 43.7354536,-79.5411748,2,Hibiscus Court (784),a
 43.7354536,-79.5411748,2,Hibiscus Court (909),a
 43.7354538,-79.5388303,2,Coral Gable Drive (206),a
@@ -8621,10 +8400,6 @@ lat,lon,sz,names,len_cat
 43.7354648,-79.5357107,2,Samba Drive (252),a
 43.7354697,-79.3515319,2,Lawrence Avenue East (244),a
 43.7354697,-79.3515319,2,Lawrence Avenue East (261),a
-43.7354697,-79.3515319,2,Lawrence Avenue East (853),a
-43.7354697,-79.3515319,2,Lawrence Avenue East (866),a
-43.7354705,-79.3257024,2,Railside Road (533),a
-43.7354705,-79.3257024,2,Railside Road (575),a
 43.7354746,-79.5386443,2,Coral Gable Drive (207),a
 43.7354746,-79.5386443,2,Coral Gable Drive (621),a
 43.7354746,-79.5386443,2,Weston Road (229),a
@@ -8637,12 +8412,6 @@ lat,lon,sz,names,len_cat
 43.7354765,-79.547917,2,Verobeach Boulevard (136),a
 43.7354765,-79.547917,2,Verobeach Boulevard (941),a
 43.7354765,-79.547917,2,Verobeach Boulevard (941),a
-43.7354812,-79.3070882,2,Victoria Park Avenue (528),a
-43.7354812,-79.3070882,2,Victoria Park Avenue (528),a
-43.7354812,-79.3070882,2,Victoria Park Avenue (835),a
-43.7354812,-79.3070882,2,Victoria Park Avenue (835),a
-43.7354828,-79.3256171,2,Railside Road (167),a
-43.7354828,-79.3256171,2,Railside Road (954),a
 43.7354845,-79.5421798,2,Hibiscus Court (779),a
 43.7354845,-79.5421798,2,Hibiscus Court (904),a
 43.735488,-79.5410497,2,Hibiscus Court (786),a
@@ -8665,12 +8434,6 @@ lat,lon,sz,names,len_cat
 43.7355098,-79.5357096,2,Samba Drive (092),a
 43.7355098,-79.5357096,2,Samba Drive (253),a
 43.7355098,-79.5357096,2,Samba Drive (253),a
-43.735517,-79.3198129,2,Carnforth Road (122),a
-43.735517,-79.3198129,2,Carnforth Road (122),a
-43.735517,-79.3198129,2,Carnforth Road (173),a
-43.735517,-79.3198129,2,Carnforth Road (173),a
-43.73552,-79.3265012,2,Railside Road (164),a
-43.73552,-79.3265012,2,Railside Road (951),a
 43.7355208,-79.537274,2,Samba Drive (103),a
 43.7355208,-79.537274,2,Samba Drive (264),a
 43.7355232,-79.543433,2,Coral Gable Drive (208),a
@@ -8679,8 +8442,6 @@ lat,lon,sz,names,len_cat
 43.7355232,-79.543433,2,Coral Gable Drive (655),a
 43.7355232,-79.543433,2,Florida Crescent (536),a
 43.7355232,-79.543433,2,Florida Crescent (567),a
-43.7355298,-79.3265347,2,Railside Road (255),a
-43.7355374,-79.3265417,2,Railside Road (559),a
 43.7355419,-79.541036,2,Hibiscus Court (787),a
 43.7355419,-79.541036,2,Hibiscus Court (912),a
 43.7355461,-79.5357336,2,Samba Drive (093),a
@@ -8729,20 +8490,10 @@ lat,lon,sz,names,len_cat
 43.7356231,-79.5410465,2,Hibiscus Court (914),a
 43.7356319,-79.5256425,2,Torbarrie Road (190),a
 43.7356319,-79.5256425,2,Torbarrie Road (519),a
-43.7356336,-79.3196956,2,Carnforth Road (283),a
-43.7356336,-79.3196956,2,Carnforth Road (283),a
-43.7356336,-79.3196956,2,Carnforth Road (663),a
-43.7356336,-79.3196956,2,Carnforth Road (663),a
-43.7356344,-79.325109,2,Railside Road (501),a
-43.7356344,-79.325109,2,Railside Road (807),a
 43.7356392,-79.5292279,2,Arrow Road (064),a
 43.7356392,-79.5292279,2,Arrow Road (246),a
-43.7356441,-79.3250764,2,Railside Road (168),a
-43.7356441,-79.3250764,2,Railside Road (955),a
 43.735645,-79.544883,2,Verobeach Boulevard (134),a
 43.735645,-79.544883,2,Verobeach Boulevard (938),a
-43.7356565,-79.3268188,2,Railside Road (163),a
-43.7356565,-79.3268188,2,Railside Road (950),a
 43.7356864,-79.5410698,2,Hibiscus Court (789),a
 43.7356864,-79.5410698,2,Hibiscus Court (916),a
 43.7356933,-79.5479738,2,Verobeach Boulevard (139),a
@@ -8785,39 +8536,18 @@ lat,lon,sz,names,len_cat
 43.7357943,-79.5110412,2,Turks Road (453),a
 43.7357943,-79.5110412,2,Turks Road (874),a
 43.7357943,-79.5110412,2,Turks Road (874),a
-43.7358115,-79.3246988,2,Railside Road (169),a
-43.7358115,-79.3246988,2,Railside Road (956),a
-43.7358162,-79.3277171,2,Codeco Court (301),a
-43.7358162,-79.3277171,2,Codeco Court (638),a
 43.7358179,-79.5450278,2,Verobeach Boulevard (132),a
 43.7358179,-79.5450278,2,Verobeach Boulevard (936),a
 43.7358185,-79.5436619,2,Coral Gable Drive (210),a
 43.7358185,-79.5436619,2,Coral Gable Drive (624),a
-43.7358222,-79.3278224,2,Codeco Court (110),a
-43.7358222,-79.3278224,2,Codeco Court (523),a
-43.7358235,-79.3278449,2,Codeco Court (864),a
 43.7358266,-79.5464184,2,Belleglade Court (435),a
 43.7358266,-79.5464184,2,Belleglade Court (752),a
-43.7358301,-79.3276436,2,Codeco Court (108),a
-43.7358301,-79.3276436,2,Codeco Court (521),a
-43.7358319,-79.3279935,2,Codeco Court (302),a
-43.7358319,-79.3279935,2,Codeco Court (639),a
-43.7358346,-79.3072291,2,Victoria Park Avenue (785),a
-43.7358346,-79.3072291,2,Victoria Park Avenue (785),a
 43.7358371,-79.5479579,2,Verobeach Boulevard (141),a
 43.7358371,-79.5479579,2,Verobeach Boulevard (141),a
 43.7358371,-79.5479579,2,Verobeach Boulevard (946),a
 43.7358371,-79.5479579,2,Verobeach Boulevard (946),a
 43.7358709,-79.5463677,2,Belleglade Court (436),a
 43.7358709,-79.5463677,2,Belleglade Court (753),a
-43.7358735,-79.3270505,2,Railside Road (162),a
-43.7358735,-79.3270505,2,Railside Road (949),a
-43.735874,-79.3274116,2,Codeco Court (300),a
-43.735874,-79.3274116,2,Codeco Court (637),a
-43.7358817,-79.3281873,2,Codeco Court (109),a
-43.7358817,-79.3281873,2,Codeco Court (522),a
-43.7358818,-79.3246184,2,Railside Road (502),a
-43.7358818,-79.3246184,2,Railside Road (808),a
 43.7358821,-79.54371,2,Coral Gable Drive (211),a
 43.7358821,-79.54371,2,Coral Gable Drive (625),a
 43.7358912,-79.5479362,2,Verobeach Boulevard (142),a
@@ -8838,39 +8568,14 @@ lat,lon,sz,names,len_cat
 43.7359445,-79.5479057,2,Verobeach Boulevard (948),a
 43.7359498,-79.5257194,2,Torbarrie Road (229),a
 43.7359498,-79.5257194,2,Torbarrie Road (829),a
-43.7359539,-79.3072766,2,Victoria Park Avenue (527),a
-43.7359539,-79.3072766,2,Victoria Park Avenue (527),a
-43.7359539,-79.3072766,2,Victoria Park Avenue (834),a
-43.7359539,-79.3072766,2,Victoria Park Avenue (834),a
 43.7359641,-79.5437825,2,Coral Gable Drive (212),a
 43.7359641,-79.5437825,2,Coral Gable Drive (626),a
-43.7359738,-79.3271207,2,Codeco Court (299),a
-43.7359738,-79.3271207,2,Codeco Court (636),a
-43.7359738,-79.3271207,2,Railside Road (161),a
-43.7359738,-79.3271207,2,Railside Road (185),a
-43.7359738,-79.3271207,2,Railside Road (948),a
-43.7359738,-79.3271207,2,Railside Road (972),a
 43.7359812,-79.5451232,2,Verobeach Boulevard (130),a
 43.7359812,-79.5451232,2,Verobeach Boulevard (934),a
 43.7359876,-79.54634,2,Belleglade Court (438),a
 43.7359876,-79.54634,2,Belleglade Court (755),a
-43.7359882,-79.3286015,2,Codeco Court (865),a
-43.7359935,-79.3244906,2,Railside Road (256),a
-43.7360159,-79.3289172,2,Codeco Court (304),a
-43.7360159,-79.3289172,2,Codeco Court (641),a
-43.7360177,-79.3288885,2,Codeco Court (866),a
 43.7360192,-79.5424525,2,Hibiscus Court (777),a
 43.7360192,-79.5424525,2,Hibiscus Court (902),a
-43.7360208,-79.3073033,2,Victoria Park Avenue (526),a
-43.7360208,-79.3073033,2,Victoria Park Avenue (526),a
-43.7360208,-79.3073033,2,Victoria Park Avenue (654),a
-43.7360208,-79.3073033,2,Victoria Park Avenue (654),a
-43.7360264,-79.3287499,2,Codeco Court (303),a
-43.7360264,-79.3287499,2,Codeco Court (640),a
-43.7360439,-79.3192829,2,Carnforth Road (282),a
-43.7360439,-79.3192829,2,Carnforth Road (282),a
-43.7360439,-79.3192829,2,Carnforth Road (662),a
-43.7360439,-79.3192829,2,Carnforth Road (662),a
 43.7360547,-79.54383,2,Coral Gable Drive (213),a
 43.7360547,-79.54383,2,Coral Gable Drive (627),a
 43.736062,-79.5345413,2,Rivalda Road (121),a
@@ -8885,16 +8590,10 @@ lat,lon,sz,names,len_cat
 43.7360696,-79.5478281,2,Verobeach Boulevard (131),a
 43.7360696,-79.5478281,2,Verobeach Boulevard (518),a
 43.7360696,-79.5478281,2,Verobeach Boulevard (518),a
-43.7361216,-79.327205,2,Railside Road (184),a
-43.7361216,-79.327205,2,Railside Road (971),a
 43.7361362,-79.5438653,2,Coral Gable Drive (214),a
 43.7361362,-79.5438653,2,Coral Gable Drive (628),a
 43.7361438,-79.5451689,2,Verobeach Boulevard (128),a
 43.7361438,-79.5451689,2,Verobeach Boulevard (932),a
-43.7361459,-79.3191803,2,Carnforth Road (284),a
-43.7361459,-79.3191803,2,Carnforth Road (284),a
-43.7361459,-79.3191803,2,Carnforth Road (664),a
-43.7361459,-79.3191803,2,Carnforth Road (664),a
 43.736155,-79.5425113,2,Hibiscus Court (776),a
 43.736155,-79.5425113,2,Hibiscus Court (901),a
 43.7361735,-79.4843287,2,Keele Street (068),a
@@ -8909,15 +8608,10 @@ lat,lon,sz,names,len_cat
 43.7361888,-79.5374067,2,Talent Crescent (440),a
 43.7362038,-79.537265,2,Talent Crescent (206),a
 43.7362038,-79.537265,2,Talent Crescent (412),a
-43.7362146,-79.3191112,2,Carnforth Road (978),a
-43.7362146,-79.3191112,2,Carnforth Road (978),a
-43.7362146,-79.3191112,2,Carnforth Road (992),a
-43.7362146,-79.3191112,2,Carnforth Road (992),a
 43.7362177,-79.5439005,2,Coral Gable Drive (215),a
 43.7362177,-79.5439005,2,Coral Gable Drive (629),a
 43.7362341,-79.5451916,2,Verobeach Boulevard (127),a
 43.7362341,-79.5451916,2,Verobeach Boulevard (931),a
-43.7362356,-79.3242136,2,Railside Road (257),a
 43.7362546,-79.5111291,2,Turks Road (454),a
 43.7362546,-79.5111291,2,Turks Road (454),a
 43.7362546,-79.5111291,2,Turks Road (875),a
@@ -8942,14 +8636,6 @@ lat,lon,sz,names,len_cat
 43.7362852,-79.5364979,2,Talent Crescent (380),a
 43.7362852,-79.5364979,2,Talent Crescent (442),a
 43.7362852,-79.5364979,2,Talent Crescent (442),a
-43.7362853,-79.3074075,2,Surrey Avenue (163),a
-43.7362853,-79.3074075,2,Surrey Avenue (163),a
-43.7362853,-79.3074075,2,Surrey Avenue (619),a
-43.7362853,-79.3074075,2,Surrey Avenue (619),a
-43.7362853,-79.3074075,2,Victoria Park Avenue (165),a
-43.7362853,-79.3074075,2,Victoria Park Avenue (165),a
-43.7362853,-79.3074075,2,Victoria Park Avenue (524),a
-43.7362853,-79.3074075,2,Victoria Park Avenue (524),a
 43.736299,-79.5439234,2,Coral Gable Drive (216),a
 43.736299,-79.5439234,2,Coral Gable Drive (630),a
 43.7362995,-79.542545,2,Hibiscus Court (775),a
@@ -8964,8 +8650,6 @@ lat,lon,sz,names,len_cat
 43.7363363,-79.5362731,2,Talent Crescent (384),a
 43.7363363,-79.5362731,2,Talent Crescent (446),a
 43.7363363,-79.5362731,2,Talent Crescent (446),a
-43.7363506,-79.3074324,2,Victoria Park Avenue (997),a
-43.7363506,-79.3074324,2,Victoria Park Avenue (997),a
 43.7363723,-79.5362723,2,Talent Crescent (385),a
 43.7363723,-79.5362723,2,Talent Crescent (385),a
 43.7363723,-79.5362723,2,Talent Crescent (447),a
@@ -8982,8 +8666,6 @@ lat,lon,sz,names,len_cat
 43.7363993,-79.5362716,2,Talent Crescent (448),a
 43.7364143,-79.5451996,2,Verobeach Boulevard (125),a
 43.7364143,-79.5451996,2,Verobeach Boulevard (929),a
-43.736433,-79.3074656,2,Victoria Park Avenue (059),a
-43.736433,-79.3074656,2,Victoria Park Avenue (059),a
 43.7364445,-79.5362829,2,Talent Crescent (387),a
 43.7364445,-79.5362829,2,Talent Crescent (387),a
 43.7364445,-79.5362829,2,Talent Crescent (449),a
@@ -8998,24 +8680,14 @@ lat,lon,sz,names,len_cat
 43.7364717,-79.5362947,2,Talent Crescent (388),a
 43.7364717,-79.5362947,2,Talent Crescent (450),a
 43.7364717,-79.5362947,2,Talent Crescent (450),a
-43.7364751,-79.327308,2,Railside Road (183),a
-43.7364751,-79.327308,2,Railside Road (970),a
-43.7364851,-79.3074866,2,Victoria Park Avenue (099),a
-43.7364851,-79.3074866,2,Victoria Park Avenue (099),a
 43.7365053,-79.5347044,2,Rivalda Road (122),a
 43.7365053,-79.5347044,2,Rivalda Road (122),a
 43.7365053,-79.5347044,2,Rivalda Road (366),a
 43.7365053,-79.5347044,2,Rivalda Road (366),a
-43.736506,-79.3188035,2,Carnforth Road (762),a
-43.736506,-79.3188035,2,Carnforth Road (762),a
-43.7365117,-79.3238977,2,Railside Road (546),a
-43.7365117,-79.3238977,2,Railside Road (588),a
 43.7365132,-79.5451848,2,Verobeach Boulevard (124),a
 43.7365132,-79.5451848,2,Verobeach Boulevard (928),a
 43.7365321,-79.5438432,2,Coral Gable Drive (219),a
 43.7365321,-79.5438432,2,Coral Gable Drive (633),a
-43.7365722,-79.3273348,2,Railside Road (384),a
-43.7365722,-79.3273348,2,Railside Road (419),a
 43.7366122,-79.5437668,2,Coral Gable Drive (220),a
 43.7366122,-79.5437668,2,Coral Gable Drive (634),a
 43.7366209,-79.5451574,2,Verobeach Boulevard (123),a
@@ -9026,9 +8698,6 @@ lat,lon,sz,names,len_cat
 43.7366654,-79.5437034,2,Coral Gable Drive (635),a
 43.7366716,-79.52955,2,Arrow Road (355),a
 43.7366716,-79.52955,2,Arrow Road (557),a
-43.7366801,-79.3237051,2,Railside Road (258),a
-43.7366966,-79.3075725,2,Victoria Park Avenue (057),a
-43.7366966,-79.3075725,2,Victoria Park Avenue (057),a
 43.7367064,-79.5124435,2,Jane Street (270),a
 43.7367064,-79.5124435,2,Jane Street (270),a
 43.7367064,-79.5124435,2,Jane Street (276),a
@@ -9039,44 +8708,20 @@ lat,lon,sz,names,len_cat
 43.7367064,-79.5124435,2,Jane Street (322),a
 43.7367119,-79.5401332,2,Coral Gable Drive (244),a
 43.7367119,-79.5401332,2,Coral Gable Drive (658),a
-43.7367144,-79.3236658,2,Railside Road (234),a
-43.7367144,-79.3236658,2,Railside Road (837),a
 43.736718,-79.5435904,2,Coral Gable Drive (222),a
 43.736718,-79.5435904,2,Coral Gable Drive (636),a
 43.7367232,-79.5401364,2,Coral Gable Drive (245),a
 43.7367232,-79.5401364,2,Coral Gable Drive (659),a
 43.7367243,-79.5462104,2,Belleglade Court (439),a
 43.7367243,-79.5462104,2,Belleglade Court (756),a
-43.7367257,-79.3080965,2,Sweeney Drive (098),a
-43.7367257,-79.3080965,2,Sweeney Drive (098),a
-43.7367257,-79.3080965,2,Sweeney Drive (984),a
-43.7367257,-79.3080965,2,Sweeney Drive (984),a
 43.7367282,-79.5451051,2,Verobeach Boulevard (122),a
 43.7367282,-79.5451051,2,Verobeach Boulevard (926),a
 43.7367529,-79.5435026,2,Coral Gable Drive (223),a
 43.7367529,-79.5435026,2,Coral Gable Drive (637),a
-43.7367634,-79.3075996,2,Victoria Park Avenue (557),a
-43.7367634,-79.3075996,2,Victoria Park Avenue (557),a
-43.7367634,-79.3075996,2,Victoria Park Avenue (900),a
-43.7367634,-79.3075996,2,Victoria Park Avenue (900),a
 43.7367785,-79.5401519,2,Coral Gable Drive (246),a
 43.7367785,-79.5401519,2,Coral Gable Drive (660),a
 43.7367966,-79.5434022,2,Coral Gable Drive (224),a
 43.7367966,-79.5434022,2,Coral Gable Drive (638),a
-43.7367973,-79.3078129,2,Sweeney Drive (433),a
-43.7367973,-79.3078129,2,Sweeney Drive (433),a
-43.7367973,-79.3078129,2,Sweeney Drive (489),a
-43.7367973,-79.3078129,2,Sweeney Drive (489),a
-43.7368018,-79.3273237,2,Railside Road (182),a
-43.7368018,-79.3273237,2,Railside Road (969),a
-43.7368035,-79.3076139,2,Victoria Park Avenue (558),a
-43.7368035,-79.3076139,2,Victoria Park Avenue (558),a
-43.7368035,-79.3076139,2,Victoria Park Avenue (998),a
-43.7368035,-79.3076139,2,Victoria Park Avenue (998),a
-43.7368054,-79.3077808,2,Sweeney Drive (234),a
-43.7368054,-79.3077808,2,Sweeney Drive (234),a
-43.7368054,-79.3077808,2,Sweeney Drive (348),a
-43.7368054,-79.3077808,2,Sweeney Drive (348),a
 43.7368138,-79.5433397,2,Coral Gable Drive (225),a
 43.7368138,-79.5433397,2,Coral Gable Drive (639),a
 43.7368178,-79.5450657,2,Verobeach Boulevard (121),a
@@ -9085,12 +8730,6 @@ lat,lon,sz,names,len_cat
 43.7368296,-79.5401754,2,Coral Gable Drive (661),a
 43.7368318,-79.5461706,2,Belleglade Court (440),a
 43.7368318,-79.5461706,2,Belleglade Court (757),a
-43.7368428,-79.3076295,2,Sweeney Drive (347),a
-43.7368428,-79.3076295,2,Sweeney Drive (347),a
-43.7368428,-79.3076295,2,Victoria Park Avenue (149),a
-43.7368428,-79.3076295,2,Victoria Park Avenue (149),a
-43.7368428,-79.3076295,2,Victoria Park Avenue (556),a
-43.7368428,-79.3076295,2,Victoria Park Avenue (556),a
 43.7368485,-79.5432395,2,Coral Gable Drive (226),a
 43.7368485,-79.5432395,2,Coral Gable Drive (640),a
 43.736867,-79.5402228,2,Coral Gable Drive (248),a
@@ -9123,8 +8762,6 @@ lat,lon,sz,names,len_cat
 43.7369172,-79.5236266,2,Oakdale Road (044),a
 43.7369172,-79.5236266,2,Oakdale Road (179),a
 43.7369172,-79.5236266,2,Oakdale Road (179),a
-43.7369186,-79.3183678,2,Carnforth Road (125),a
-43.7369186,-79.3183678,2,Carnforth Road (326),a
 43.7369226,-79.5426913,2,Coral Gable Drive (230),a
 43.7369226,-79.5426913,2,Coral Gable Drive (644),a
 43.7369226,-79.5426913,2,Hibiscus Court (774),a
@@ -9146,30 +8783,22 @@ lat,lon,sz,names,len_cat
 43.7369761,-79.541945,2,Indrio Road (739),a
 43.7369777,-79.5420691,2,Coral Gable Drive (165),a
 43.7369777,-79.5420691,2,Coral Gable Drive (972),a
-43.7370052,-79.3272132,2,Railside Road (385),a
-43.7370052,-79.3272132,2,Railside Road (420),a
 43.7370196,-79.5460667,2,Belleglade Court (442),a
 43.7370196,-79.5460667,2,Belleglade Court (759),a
 43.7370249,-79.5449039,2,Verobeach Boulevard (118),a
 43.7370249,-79.5449039,2,Verobeach Boulevard (922),a
 43.737063,-79.5296488,2,Arrow Road (544),a
 43.737063,-79.5296488,2,Arrow Road (680),a
-43.7370846,-79.3097947,2,Prestbury Street (191),a
-43.7370846,-79.3097947,2,Prestbury Street (634),a
 43.7370847,-79.5448419,2,Verobeach Boulevard (117),a
 43.7370847,-79.5448419,2,Verobeach Boulevard (921),a
 43.7370934,-79.5275031,2,Bartor Road (356),a
 43.7370934,-79.5275031,2,Bartor Road (563),a
 43.7371005,-79.5460523,2,Belleglade Court (443),a
 43.7371005,-79.5460523,2,Belleglade Court (760),a
-43.7371105,-79.3181614,2,Carnforth Road (127),a
-43.7371105,-79.3181614,2,Carnforth Road (328),a
 43.73713,-79.5447827,2,Verobeach Boulevard (116),a
 43.73713,-79.5447827,2,Verobeach Boulevard (164),a
 43.73713,-79.5447827,2,Verobeach Boulevard (920),a
 43.73713,-79.5447827,2,Verobeach Boulevard (969),a
-43.7371698,-79.3231447,2,Railside Road (233),a
-43.7371698,-79.3231447,2,Railside Road (836),a
 43.7371732,-79.5461126,2,Belleglade Court (444),a
 43.7371732,-79.5461126,2,Belleglade Court (761),a
 43.7372089,-79.5446713,2,Verobeach Boulevard (115),a
@@ -9178,18 +8807,12 @@ lat,lon,sz,names,len_cat
 43.7372194,-79.5461984,2,Belleglade Court (762),a
 43.7372221,-79.5448814,2,Verobeach Boulevard (074),a
 43.7372221,-79.5448814,2,Verobeach Boulevard (096),a
-43.7372266,-79.3098143,2,Prestbury Street (192),a
-43.7372266,-79.3098143,2,Prestbury Street (635),a
 43.7372353,-79.544621,2,Verobeach Boulevard (114),a
 43.7372353,-79.544621,2,Verobeach Boulevard (918),a
 43.737238,-79.5462476,2,Belleglade Court (446),a
 43.737238,-79.5462476,2,Belleglade Court (763),a
 43.7372414,-79.5101609,2,Coquette Road (284),a
 43.7372414,-79.5101609,2,Coquette Road (967),a
-43.7372501,-79.3126185,2,Sloane Avenue (165),a
-43.7372501,-79.3126185,2,Sloane Avenue (603),a
-43.7372587,-79.3270257,2,Railside Road (142),a
-43.7372587,-79.3270257,2,Railside Road (944),a
 43.7372836,-79.547004,2,Verobeach Boulevard (133),a
 43.7372836,-79.547004,2,Verobeach Boulevard (133),a
 43.7372836,-79.547004,2,Verobeach Boulevard (520),a
@@ -9219,12 +8842,6 @@ lat,lon,sz,names,len_cat
 43.7373672,-79.5295494,2,Bartor Road (762),a
 43.7373861,-79.5275797,2,Bartor Road (537),a
 43.7373861,-79.5275797,2,Bartor Road (755),a
-43.737388,-79.3138737,2,Cobham Crescent (068),a
-43.737388,-79.3138737,2,Cobham Crescent (301),a
-43.7373921,-79.3097789,2,Prestbury Street (193),a
-43.7373921,-79.3097789,2,Prestbury Street (636),a
-43.7373963,-79.3124985,2,Sloane Avenue (164),a
-43.7373963,-79.3124985,2,Sloane Avenue (602),a
 43.7374096,-79.5244441,2,Oakdale Road (050),a
 43.7374096,-79.5244441,2,Oakdale Road (050),a
 43.7374096,-79.5244441,2,Oakdale Road (185),a
@@ -9237,8 +8854,6 @@ lat,lon,sz,names,len_cat
 43.7374585,-79.5276028,2,Bartor Road (756),a
 43.7374715,-79.5440813,2,Verobeach Boulevard (110),a
 43.7374715,-79.5440813,2,Verobeach Boulevard (914),a
-43.7374868,-79.326873,2,Railside Road (144),a
-43.7374868,-79.326873,2,Railside Road (946),a
 43.7374879,-79.5468509,2,Belleglade Court (447),a
 43.7374879,-79.5468509,2,Belleglade Court (447),a
 43.7374879,-79.5468509,2,Belleglade Court (764),a
@@ -9267,8 +8882,6 @@ lat,lon,sz,names,len_cat
 43.7375613,-79.5452452,2,Verobeach Boulevard (968),a
 43.737566,-79.5285866,2,Bartor Road (357),a
 43.737566,-79.5285866,2,Bartor Road (564),a
-43.7375885,-79.3226656,2,Railside Road (232),a
-43.7375885,-79.3226656,2,Railside Road (835),a
 43.7375996,-79.5127002,2,Jane Street (277),a
 43.7375996,-79.5127002,2,Jane Street (278),a
 43.7375996,-79.5127002,2,Jane Street (323),a
@@ -9277,16 +8890,12 @@ lat,lon,sz,names,len_cat
 43.7376026,-79.5284094,2,Bartor Road (565),a
 43.7376077,-79.5452948,2,Verobeach Boulevard (162),a
 43.7376077,-79.5452948,2,Verobeach Boulevard (967),a
-43.7376085,-79.3137681,2,Cobham Crescent (069),a
-43.7376085,-79.3137681,2,Cobham Crescent (302),a
 43.7376092,-79.5439711,2,St Lucie Drive (078),a
 43.7376092,-79.5439711,2,St Lucie Drive (107),a
 43.7376134,-79.527748,2,Bartor Road (540),a
 43.7376134,-79.527748,2,Bartor Road (758),a
 43.7376304,-79.5250342,2,Oakdale Road (100),a
 43.7376304,-79.5250342,2,Oakdale Road (235),a
-43.7376341,-79.3122375,2,Sloane Avenue (163),a
-43.7376341,-79.3122375,2,Sloane Avenue (601),a
 43.7376342,-79.5439862,2,St Lucie Drive (619),a
 43.7376342,-79.5439862,2,St Lucie Drive (975),a
 43.7376346,-79.5349997,2,Rivalda Road (124),a
@@ -9305,12 +8914,8 @@ lat,lon,sz,names,len_cat
 43.7376864,-79.5320181,2,Gail Grove (851),a
 43.7376874,-79.5433558,2,Verobeach Boulevard (107),a
 43.7376874,-79.5433558,2,Verobeach Boulevard (911),a
-43.737694,-79.3121508,2,Sloane Avenue (162),a
-43.737694,-79.3121508,2,Sloane Avenue (600),a
 43.7376962,-79.5453873,2,Verobeach Boulevard (161),a
 43.7376962,-79.5453873,2,Verobeach Boulevard (966),a
-43.7377114,-79.3095927,2,Prestbury Street (194),a
-43.7377114,-79.3095927,2,Prestbury Street (637),a
 43.7377146,-79.5405486,2,Verobeach Boulevard (038),a
 43.7377146,-79.5405486,2,Verobeach Boulevard (426),a
 43.7377157,-79.5406355,2,Verobeach Boulevard (040),a
@@ -9331,8 +8936,6 @@ lat,lon,sz,names,len_cat
 43.737755,-79.5403374,2,Verobeach Boulevard (424),a
 43.737761,-79.5252236,2,Oakdale Road (099),a
 43.737761,-79.5252236,2,Oakdale Road (234),a
-43.7377632,-79.312022,2,Sloane Avenue (161),a
-43.7377632,-79.312022,2,Sloane Avenue (599),a
 43.7377635,-79.542969,2,Verobeach Boulevard (105),a
 43.7377635,-79.542969,2,Verobeach Boulevard (909),a
 43.7377792,-79.5421093,2,Indrio Road (083),a
@@ -9345,14 +8948,10 @@ lat,lon,sz,names,len_cat
 43.737792,-79.5251135,2,Oakdale Road (191),a
 43.737803,-79.5201187,2,Laura Road (326),a
 43.737803,-79.5201187,2,Laura Road (568),a
-43.7378122,-79.3095572,2,Prestbury Street (195),a
-43.7378122,-79.3095572,2,Prestbury Street (638),a
 43.7378219,-79.5397885,2,Verobeach Boulevard (102),a
 43.7378219,-79.5397885,2,Verobeach Boulevard (905),a
 43.7378318,-79.5419739,2,Verobeach Boulevard (044),a
 43.7378318,-79.5419739,2,Verobeach Boulevard (431),a
-43.7378318,-79.3118469,2,Sloane Avenue (160),a
-43.7378318,-79.3118469,2,Sloane Avenue (598),a
 43.7378369,-79.5403561,2,St Lucie Drive (081),a
 43.7378369,-79.5403561,2,St Lucie Drive (110),a
 43.7378461,-79.5454945,2,Verobeach Boulevard (160),a
@@ -9369,8 +8968,6 @@ lat,lon,sz,names,len_cat
 43.7378572,-79.5252702,2,Oakdale Road (233),a
 43.7378633,-79.5403622,2,St Lucie Drive (080),a
 43.7378633,-79.5403622,2,St Lucie Drive (109),a
-43.7378713,-79.3116869,2,Sloane Avenue (159),a
-43.7378713,-79.3116869,2,Sloane Avenue (597),a
 43.7378735,-79.5251656,2,Oakdale Road (057),a
 43.7378735,-79.5251656,2,Oakdale Road (095),a
 43.7378735,-79.5251656,2,Oakdale Road (192),a
@@ -9381,16 +8978,12 @@ lat,lon,sz,names,len_cat
 43.7378757,-79.5312341,2,Gail Grove (301),a
 43.737881,-79.5393693,2,Verobeach Boulevard (073),a
 43.737881,-79.5393693,2,Verobeach Boulevard (103),a
-43.7378891,-79.3173469,2,Carnforth Road (507),a
-43.7378891,-79.3173469,2,Carnforth Road (568),a
 43.7379045,-79.5392029,2,Verobeach Boulevard (100),a
 43.7379045,-79.5392029,2,Verobeach Boulevard (903),a
 43.7379045,-79.5392029,2,Weston Road (449),a
 43.7379045,-79.5392029,2,Weston Road (450),a
 43.7379045,-79.5392029,2,Weston Road (821),a
 43.7379045,-79.5392029,2,Weston Road (822),a
-43.7379143,-79.3080823,2,Victoria Park Avenue (894),a
-43.7379143,-79.3080823,2,Victoria Park Avenue (894),a
 43.7379151,-79.5201468,2,Laura Road (002),a
 43.7379151,-79.5201468,2,Laura Road (294),a
 43.7379314,-79.5455955,2,Verobeach Boulevard (159),a
@@ -9405,84 +8998,44 @@ lat,lon,sz,names,len_cat
 43.7379459,-79.546555,2,Verobeach Boulevard (144),a
 43.7379459,-79.546555,2,Verobeach Boulevard (949),a
 43.7379459,-79.546555,2,Verobeach Boulevard (949),a
-43.7379461,-79.3095822,2,Prestbury Street (196),a
-43.7379461,-79.3095822,2,Prestbury Street (639),a
 43.7380118,-79.5252251,2,Oakdale Road (096),a
 43.7380118,-79.5252251,2,Oakdale Road (231),a
 43.7380151,-79.5456826,2,Verobeach Boulevard (158),a
 43.7380151,-79.5456826,2,Verobeach Boulevard (963),a
-43.7380412,-79.3147377,2,Knighton Drive (144),a
-43.7380412,-79.3147377,2,Knighton Drive (621),a
-43.7380412,-79.3147377,2,Murellen Crescent (298),a
-43.7380412,-79.3147377,2,Murellen Crescent (710),a
-43.7380486,-79.3221391,2,Railside Road (141),a
-43.7380486,-79.3221391,2,Railside Road (943),a
-43.7380776,-79.3108483,2,Cobham Crescent (081),a
-43.7380776,-79.3108483,2,Cobham Crescent (314),a
-43.7380776,-79.3108483,2,Sloane Avenue (158),a
-43.7380776,-79.3108483,2,Sloane Avenue (596),a
 43.7380857,-79.545774,2,Verobeach Boulevard (157),a
 43.7380857,-79.545774,2,Verobeach Boulevard (962),a
-43.7380936,-79.3148403,2,Murellen Crescent (297),a
-43.7380936,-79.3148403,2,Murellen Crescent (709),a
-43.7381026,-79.3220774,2,Railside Road (235),a
-43.7381026,-79.3220774,2,Railside Road (838),a
-43.7381243,-79.308171,2,Victoria Park Avenue (148),a
-43.7381243,-79.308171,2,Victoria Park Avenue (148),a
 43.7381395,-79.5299254,2,Arrow Road (353),a
 43.7381395,-79.5299254,2,Arrow Road (555),a
-43.7381398,-79.3108722,2,Cobham Crescent (080),a
-43.7381398,-79.3108722,2,Cobham Crescent (313),a
 43.7381474,-79.5464117,2,Verobeach Boulevard (145),a
 43.7381474,-79.5464117,2,Verobeach Boulevard (145),a
 43.7381474,-79.5464117,2,Verobeach Boulevard (950),a
 43.7381474,-79.5464117,2,Verobeach Boulevard (950),a
 43.738157,-79.5458839,2,Verobeach Boulevard (156),a
 43.738157,-79.5458839,2,Verobeach Boulevard (961),a
-43.7381587,-79.3108794,2,Cobham Crescent (079),a
-43.7381587,-79.3108794,2,Cobham Crescent (312),a
-43.7381688,-79.3170614,2,Carnforth Road (506),a
-43.7381688,-79.3170614,2,Carnforth Road (567),a
-43.7381754,-79.3219936,2,Railside Road (611),a
-43.7381754,-79.3219936,2,Railside Road (720),a
 43.7381886,-79.5299381,2,Arrow Road (036),a
 43.7381886,-79.5299381,2,Arrow Road (044),a
 43.7381886,-79.5299381,2,Arrow Road (193),a
 43.7381886,-79.5299381,2,Arrow Road (211),a
 43.7381886,-79.5299381,2,Gail Grove (127),a
 43.7381886,-79.5299381,2,Gail Grove (852),a
-43.7381893,-79.3102641,2,Sloane Avenue (157),a
-43.7381893,-79.3102641,2,Sloane Avenue (595),a
 43.7381926,-79.5463765,2,Verobeach Boulevard (146),a
 43.7381926,-79.5463765,2,Verobeach Boulevard (146),a
 43.7381926,-79.5463765,2,Verobeach Boulevard (951),a
 43.7381926,-79.5463765,2,Verobeach Boulevard (951),a
 43.7382069,-79.5459713,2,Verobeach Boulevard (155),a
 43.7382069,-79.5459713,2,Verobeach Boulevard (960),a
-43.7382148,-79.3082093,2,Victoria Park Avenue (147),a
-43.7382148,-79.3082093,2,Victoria Park Avenue (147),a
-43.7382148,-79.3082093,2,Victoria Park Avenue (549),a
-43.7382148,-79.3082093,2,Victoria Park Avenue (549),a
 43.7382296,-79.5463561,2,Verobeach Boulevard (147),a
 43.7382296,-79.5463561,2,Verobeach Boulevard (147),a
 43.7382296,-79.5463561,2,Verobeach Boulevard (952),a
 43.7382296,-79.5463561,2,Verobeach Boulevard (952),a
-43.7382474,-79.3263636,2,Railside Road (143),a
-43.7382474,-79.3263636,2,Railside Road (945),a
 43.738249,-79.546062,2,Verobeach Boulevard (154),a
 43.738249,-79.546062,2,Verobeach Boulevard (959),a
 43.7382505,-79.512888,2,Jane Street (280),a
 43.7382505,-79.512888,2,Jane Street (282),a
 43.7382505,-79.512888,2,Jane Street (326),a
 43.7382505,-79.512888,2,Jane Street (328),a
-43.7382599,-79.3082288,2,Victoria Park Avenue (551),a
-43.7382599,-79.3082288,2,Victoria Park Avenue (551),a
-43.7382599,-79.3082288,2,Victoria Park Avenue (993),a
-43.7382599,-79.3082288,2,Victoria Park Avenue (993),a
 43.7382686,-79.5299575,2,Arrow Road (298),a
 43.7382686,-79.5299575,2,Arrow Road (869),a
-43.7382748,-79.3100361,2,Sloane Avenue (156),a
-43.7382748,-79.3100361,2,Sloane Avenue (594),a
 43.7382766,-79.5463233,2,Verobeach Boulevard (148),a
 43.7382766,-79.5463233,2,Verobeach Boulevard (148),a
 43.7382766,-79.5463233,2,Verobeach Boulevard (953),a
@@ -9491,18 +9044,8 @@ lat,lon,sz,names,len_cat
 43.7382766,-79.5443722,2,Gulfstream Road (572),a
 43.7382766,-79.5443722,2,St Lucie Drive (620),a
 43.7382766,-79.5443722,2,St Lucie Drive (976),a
-43.7382785,-79.3082368,2,Victoria Park Avenue (552),a
-43.7382785,-79.3082368,2,Victoria Park Avenue (552),a
-43.7382785,-79.3082368,2,Victoria Park Avenue (994),a
-43.7382785,-79.3082368,2,Victoria Park Avenue (994),a
 43.7382787,-79.5461326,2,Verobeach Boulevard (153),a
 43.7382787,-79.5461326,2,Verobeach Boulevard (958),a
-43.7382925,-79.3082428,2,Victoria Park Avenue (550),a
-43.7382925,-79.3082428,2,Victoria Park Avenue (550),a
-43.7382925,-79.3082428,2,Victoria Park Avenue (992),a
-43.7382925,-79.3082428,2,Victoria Park Avenue (992),a
-43.7382995,-79.3097144,2,Prestbury Street (517),a
-43.7382995,-79.3097144,2,Prestbury Street (816),a
 43.7382998,-79.520243,2,John Cabotway (225),a
 43.7382998,-79.520243,2,John Cabotway (546),a
 43.7382998,-79.520243,2,Laura Road (314),a
@@ -9529,14 +9072,10 @@ lat,lon,sz,names,len_cat
 43.7383185,-79.5462247,2,Verobeach Boulevard (151),a
 43.7383185,-79.5462247,2,Verobeach Boulevard (956),a
 43.7383185,-79.5462247,2,Verobeach Boulevard (956),a
-43.7383234,-79.3097234,2,Prestbury Street (197),a
-43.7383234,-79.3097234,2,Prestbury Street (640),a
 43.7383256,-79.5393018,2,Weston Road (142),a
 43.7383256,-79.5393018,2,Weston Road (301),a
 43.7383256,-79.5393018,2,Weston Road (792),a
 43.7383256,-79.5393018,2,Weston Road (865),a
-43.7383402,-79.313006,2,Cobham Crescent (070),a
-43.7383402,-79.313006,2,Cobham Crescent (303),a
 43.7383554,-79.5253555,2,Oakdale Road (009),a
 43.7383554,-79.5253555,2,Oakdale Road (052),a
 43.7383554,-79.5253555,2,Oakdale Road (097),a
@@ -9550,29 +9089,16 @@ lat,lon,sz,names,len_cat
 43.7383645,-79.5197805,2,Sebastian Cabotway (646),a
 43.7383695,-79.5197525,2,John Cabotway (221),a
 43.7383695,-79.5197525,2,John Cabotway (542),a
-43.7383749,-79.3082781,2,Victoria Park Avenue (520),a
-43.7383749,-79.3082781,2,Victoria Park Avenue (520),a
-43.7383749,-79.3082781,2,Victoria Park Avenue (889),a
-43.7383749,-79.3082781,2,Victoria Park Avenue (889),a
 43.7383815,-79.5196889,2,John Cabotway (222),a
 43.7383815,-79.5196889,2,John Cabotway (543),a
 43.738394,-79.5196255,2,John Cabotway (223),a
 43.738394,-79.5196255,2,John Cabotway (544),a
-43.738405,-79.3097539,2,Prestbury Street (198),a
-43.738405,-79.3097539,2,Prestbury Street (641),a
-43.738405,-79.3097539,2,Sloane Avenue (155),a
-43.738405,-79.3097539,2,Sloane Avenue (220),a
-43.738405,-79.3097539,2,Sloane Avenue (593),a
-43.738405,-79.3097539,2,Sloane Avenue (658),a
-43.7384151,-79.3082955,2,Victoria Park Avenue (890),a
 43.7384223,-79.5445053,2,St Lucie Drive (621),a
 43.7384223,-79.5445053,2,St Lucie Drive (977),a
 43.7384223,-79.5129372,2,Jane Street (283),a
 43.7384223,-79.5129372,2,Jane Street (284),a
 43.7384223,-79.5129372,2,Jane Street (329),a
 43.7384223,-79.5129372,2,Jane Street (330),a
-43.7384292,-79.3167943,2,Carnforth Road (508),a
-43.7384292,-79.3167943,2,Carnforth Road (569),a
 43.7384493,-79.5393309,2,Weston Road (299),a
 43.7384493,-79.5393309,2,Weston Road (300),a
 43.7384493,-79.5393309,2,Weston Road (863),a
@@ -9581,18 +9107,6 @@ lat,lon,sz,names,len_cat
 43.7384494,-79.5367556,2,Talent Crescent (451),a
 43.738477,-79.5445536,2,St Lucie Drive (622),a
 43.738477,-79.5445536,2,St Lucie Drive (978),a
-43.7384831,-79.3096329,2,Sloane Avenue (219),a
-43.7384831,-79.3096329,2,Sloane Avenue (657),a
-43.7384856,-79.3156075,2,Murellen Crescent (296),a
-43.7384856,-79.3156075,2,Murellen Crescent (708),a
-43.7384873,-79.312772,2,Cobham Crescent (071),a
-43.7384873,-79.312772,2,Cobham Crescent (304),a
-43.7384899,-79.3097904,2,Prestbury Street (201),a
-43.7384899,-79.3097904,2,Prestbury Street (642),a
-43.7385007,-79.321619,2,Railside Road (535),a
-43.7385007,-79.321619,2,Railside Road (577),a
-43.7385035,-79.3097963,2,Prestbury Street (203),a
-43.7385035,-79.3097963,2,Prestbury Street (643),a
 43.7385036,-79.5367667,2,Talent Crescent (390),a
 43.7385036,-79.5367667,2,Talent Crescent (452),a
 43.7385273,-79.5435589,2,Gulfstream Road (105),a
@@ -9607,22 +9121,12 @@ lat,lon,sz,names,len_cat
 43.7385285,-79.5190618,2,John Cabotway (539),a
 43.7385285,-79.5190618,2,John Cabotway (545),a
 43.7385285,-79.5190618,2,John Cabotway (548),a
-43.7385376,-79.3083482,2,Victoria Park Avenue (145),a
-43.7385376,-79.3083482,2,Victoria Park Avenue (518),a
 43.7385444,-79.543484,2,Gulfstream Road (106),a
 43.7385444,-79.543484,2,Gulfstream Road (574),a
-43.7385494,-79.3294397,2,Old Lawrence Avenue (095),a
-43.7385494,-79.3294397,2,Old Lawrence Avenue (597),a
 43.7385499,-79.5446264,2,St Lucie Drive (623),a
 43.7385499,-79.5446264,2,St Lucie Drive (979),a
-43.7385503,-79.312609,2,Cobham Crescent (072),a
-43.7385503,-79.312609,2,Cobham Crescent (305),a
-43.7385523,-79.3094881,2,Sloane Avenue (218),a
-43.7385523,-79.3094881,2,Sloane Avenue (656),a
 43.7385557,-79.542258,2,Indrio Road (609),a
 43.7385557,-79.542258,2,Indrio Road (737),a
-43.7385585,-79.3292346,2,Old Lawrence Avenue (096),a
-43.7385585,-79.3292346,2,Old Lawrence Avenue (598),a
 43.7385609,-79.5433718,2,Gulfstream Road (107),a
 43.7385609,-79.5433718,2,Gulfstream Road (575),a
 43.738564,-79.5379698,2,Samba Drive (348),a
@@ -9631,10 +9135,6 @@ lat,lon,sz,names,len_cat
 43.738564,-79.5379698,2,Samba Drive (562),a
 43.738564,-79.5379698,2,Talent Crescent (399),a
 43.738564,-79.5379698,2,Talent Crescent (461),a
-43.7385722,-79.3291438,2,Old Lawrence Avenue (777),a
-43.7385722,-79.3291438,2,Old Lawrence Avenue (877),a
-43.7385724,-79.3156619,2,Murellen Crescent (295),a
-43.7385724,-79.3156619,2,Murellen Crescent (707),a
 43.7385741,-79.5432606,2,Gulfstream Road (257),a
 43.7385741,-79.5432606,2,Gulfstream Road (961),a
 43.7385756,-79.536765,2,Talent Crescent (391),a
@@ -9649,16 +9149,10 @@ lat,lon,sz,names,len_cat
 43.7385844,-79.5416824,2,Gulfstream Road (568),a
 43.7385845,-79.5393615,2,Weston Road (257),a
 43.7385845,-79.5393615,2,Weston Road (841),a
-43.7385905,-79.3093742,2,Sloane Avenue (217),a
-43.7385905,-79.3093742,2,Sloane Avenue (655),a
 43.7385925,-79.5430234,2,Gulfstream Road (109),a
 43.7385925,-79.5430234,2,Gulfstream Road (577),a
-43.7385954,-79.3290529,2,Old Lawrence Avenue (097),a
-43.7385954,-79.3290529,2,Old Lawrence Avenue (599),a
 43.7386027,-79.5427257,2,Gulfstream Road (258),a
 43.7386027,-79.5427257,2,Gulfstream Road (962),a
-43.7386154,-79.3083817,2,Victoria Park Avenue (026),a
-43.7386154,-79.3083817,2,Victoria Park Avenue (519),a
 43.7386156,-79.5423462,2,Gulfstream Road (075),a
 43.7386156,-79.5423462,2,Gulfstream Road (104),a
 43.7386181,-79.5422719,2,Gulfstream Road (103),a
@@ -9667,97 +9161,46 @@ lat,lon,sz,names,len_cat
 43.7386181,-79.5422719,2,Gulfstream Road (578),a
 43.7386181,-79.5422719,2,Indrio Road (610),a
 43.7386181,-79.5422719,2,Indrio Road (738),a
-43.7386206,-79.3092477,2,Sloane Avenue (216),a
-43.7386206,-79.3092477,2,Sloane Avenue (654),a
 43.7386233,-79.5447363,2,St Lucie Drive (624),a
 43.7386233,-79.5447363,2,St Lucie Drive (980),a
 43.7386264,-79.5421533,2,Gulfstream Road (102),a
 43.7386264,-79.5421533,2,Gulfstream Road (570),a
-43.7386283,-79.3156247,2,Murellen Crescent (294),a
-43.7386283,-79.3156247,2,Murellen Crescent (706),a
-43.7386286,-79.3289802,2,Old Lawrence Avenue (776),a
-43.7386286,-79.3289802,2,Old Lawrence Avenue (876),a
 43.7386321,-79.5129974,2,Jane Street (106),a
 43.7386321,-79.5129974,2,Jane Street (174),a
 43.7386321,-79.5129974,2,Jane Street (285),a
 43.7386321,-79.5129974,2,Jane Street (331),a
 43.7386405,-79.5418425,2,Gulfstream Road (101),a
 43.7386405,-79.5418425,2,Gulfstream Road (569),a
-43.7386444,-79.3214548,2,Railside Road (612),a
-43.7386444,-79.3214548,2,Railside Road (721),a
 43.7386476,-79.5367632,2,Talent Crescent (392),a
 43.7386476,-79.5367632,2,Talent Crescent (454),a
-43.738649,-79.3165735,2,Carnforth Road (048),a
-43.738649,-79.3165735,2,Carnforth Road (993),a
-43.738655,-79.3120962,2,Cobham Crescent (073),a
-43.738655,-79.3120962,2,Cobham Crescent (306),a
 43.7386713,-79.5393808,2,Weston Road (129),a
 43.7386713,-79.5393808,2,Weston Road (258),a
 43.7386713,-79.5393808,2,Weston Road (785),a
 43.7386713,-79.5393808,2,Weston Road (842),a
 43.7386782,-79.5370481,2,Talent Crescent (398),a
 43.7386782,-79.5370481,2,Talent Crescent (460),a
-43.7386802,-79.3289137,2,Old Lawrence Avenue (082),a
-43.7386802,-79.3289137,2,Old Lawrence Avenue (098),a
-43.7386802,-79.3289137,2,Old Lawrence Avenue (585),a
-43.7386802,-79.3289137,2,Old Lawrence Avenue (600),a
 43.7386838,-79.5367748,2,Talent Crescent (393),a
 43.7386838,-79.5367748,2,Talent Crescent (455),a
-43.7386852,-79.3361592,2,Lawrence Avenue East (146),a
-43.7386852,-79.3361592,2,Lawrence Avenue East (160),a
-43.7386852,-79.3361592,2,Lawrence Avenue East (179),a
-43.7386852,-79.3361592,2,Lawrence Avenue East (198),a
 43.7386968,-79.5448463,2,St Lucie Drive (625),a
 43.7386968,-79.5448463,2,St Lucie Drive (981),a
 43.7387019,-79.5367867,2,Talent Crescent (394),a
 43.7387019,-79.5367867,2,Talent Crescent (456),a
 43.7387041,-79.5369605,2,Talent Crescent (397),a
 43.7387041,-79.5369605,2,Talent Crescent (459),a
-43.7387151,-79.3110928,2,Cobham Crescent (078),a
-43.7387151,-79.3110928,2,Cobham Crescent (311),a
 43.7387202,-79.5368111,2,Talent Crescent (395),a
 43.7387202,-79.5368111,2,Talent Crescent (457),a
 43.7387207,-79.5368484,2,Talent Crescent (396),a
 43.7387207,-79.5368484,2,Talent Crescent (458),a
 43.7387246,-79.5203573,2,Laura Road (315),a
 43.7387246,-79.5203573,2,Laura Road (557),a
-43.7387305,-79.32604,2,Railside Road (237),a
-43.7387305,-79.32604,2,Railside Road (840),a
 43.7387522,-79.5449568,2,St Lucie Drive (626),a
 43.7387522,-79.5449568,2,St Lucie Drive (982),a
-43.7387541,-79.3213295,2,Railside Road (541),a
-43.7387541,-79.3213295,2,Railside Road (583),a
-43.738765,-79.3086137,2,Sloane Avenue (524),a
-43.738765,-79.3086137,2,Sloane Avenue (890),a
-43.7387733,-79.3085774,2,Sloane Avenue (215),a
-43.7387733,-79.3085774,2,Sloane Avenue (653),a
-43.7387842,-79.3114703,2,Cobham Crescent (074),a
-43.7387842,-79.3114703,2,Cobham Crescent (307),a
-43.7387882,-79.3260034,2,Railside Road (181),a
-43.7387882,-79.3260034,2,Railside Road (968),a
 43.7387893,-79.5450428,2,St Lucie Drive (627),a
 43.7387893,-79.5450428,2,St Lucie Drive (983),a
-43.7387972,-79.3084599,2,Sloane Avenue (214),a
-43.7387972,-79.3084599,2,Victoria Park Avenue (151),a
-43.7387972,-79.3084599,2,Victoria Park Avenue (554),a
-43.7387978,-79.3356335,2,Lawrence Avenue East (145),a
-43.7387978,-79.3356335,2,Lawrence Avenue East (177),a
-43.7388019,-79.3111357,2,Cobham Crescent (077),a
-43.7388019,-79.3111357,2,Cobham Crescent (310),a
 43.73881,-79.5254697,2,Oakdale Road (485),a
 43.73881,-79.5254697,2,Oakdale Road (608),a
-43.738813,-79.3288593,2,Old Lawrence Avenue (084),a
-43.738813,-79.3288593,2,Old Lawrence Avenue (586),a
 43.7388267,-79.5451536,2,St Lucie Drive (628),a
 43.7388267,-79.5451536,2,St Lucie Drive (984),a
-43.738828,-79.3113372,2,Cobham Crescent (075),a
-43.738828,-79.3113372,2,Cobham Crescent (308),a
-43.7388329,-79.311213,2,Cobham Crescent (076),a
-43.7388329,-79.311213,2,Cobham Crescent (309),a
-43.7388335,-79.3259592,2,Railside Road (263),a
-43.7388373,-79.3259554,2,Railside Road (262),a
-43.738857,-79.3353197,2,Lawrence Avenue East (144),a
-43.738857,-79.3353197,2,Lawrence Avenue East (175),a
 43.7388639,-79.5130638,2,Jane Street (055),a
 43.7388639,-79.5130638,2,Jane Street (077),a
 43.7388639,-79.5130638,2,Jane Street (095),a
@@ -9770,27 +9213,14 @@ lat,lon,sz,names,len_cat
 43.7388703,-79.5351682,2,Rivalda Road (369),a
 43.7388924,-79.5453632,2,St Lucie Drive (629),a
 43.7388924,-79.5453632,2,St Lucie Drive (985),a
-43.7388936,-79.3259004,2,Railside Road (180),a
-43.7388936,-79.3259004,2,Railside Road (967),a
-43.7389052,-79.3163072,2,Carnforth Road (049),a
-43.7389052,-79.3163072,2,Carnforth Road (994),a
 43.7389067,-79.5394333,2,Weston Road (197),a
 43.7389067,-79.5394333,2,Weston Road (649),a
-43.7389162,-79.3350257,2,Lawrence Avenue East (143),a
-43.7389162,-79.3350257,2,Lawrence Avenue East (173),a
-43.7389162,-79.3350257,2,Lawrence Avenue East (450),a
 43.7389204,-79.545437,2,St Lucie Drive (630),a
 43.7389204,-79.545437,2,St Lucie Drive (986),a
-43.7389237,-79.313829,2,Knighton Drive (143),a
-43.7389237,-79.313829,2,Knighton Drive (620),a
 43.7389299,-79.5394386,2,Weston Road (345),a
 43.7389299,-79.5394386,2,Weston Road (708),a
-43.7389473,-79.3288365,2,Old Lawrence Avenue (085),a
-43.7389473,-79.3288365,2,Old Lawrence Avenue (587),a
 43.7389575,-79.545523,2,St Lucie Drive (631),a
 43.7389575,-79.545523,2,St Lucie Drive (987),a
-43.7389657,-79.3210878,2,Railside Road (536),a
-43.7389657,-79.3210878,2,Railside Road (578),a
 43.7389734,-79.5131728,2,Jane Street (094),a
 43.7389734,-79.5131728,2,Jane Street (408),a
 43.7389791,-79.5394499,2,Bradstock Road (155),a
@@ -9802,29 +9232,14 @@ lat,lon,sz,names,len_cat
 43.7389851,-79.545572,2,St Lucie Drive (988),a
 43.7389891,-79.5129986,2,Jane Street (056),a
 43.7389891,-79.5129986,2,Jane Street (327),a
-43.7389908,-79.3346573,2,Lawrence Avenue East (150),a
-43.7389908,-79.3346573,2,Lawrence Avenue East (187),a
-43.7389908,-79.3346573,2,Lawrence Avenue East (449),a
-43.7390107,-79.3345503,2,Lawrence Avenue East (142),a
-43.7390107,-79.3345503,2,Lawrence Avenue East (149),a
-43.7390107,-79.3345503,2,Lawrence Avenue East (171),a
-43.7390107,-79.3345503,2,Lawrence Avenue East (185),a
 43.7390159,-79.5392838,2,Bradstock Road (156),a
 43.7390159,-79.5392838,2,Bradstock Road (397),a
 43.7390215,-79.545596,2,St Lucie Drive (633),a
 43.7390215,-79.545596,2,St Lucie Drive (989),a
-43.739038,-79.3288594,2,Old Lawrence Avenue (775),a
-43.739038,-79.3288594,2,Old Lawrence Avenue (875),a
 43.7390388,-79.5130118,2,Jane Street (547),a
 43.7390388,-79.5130118,2,Jane Street (953),a
-43.7390451,-79.3085605,2,Victoria Park Avenue (821),a
-43.7390451,-79.3085605,2,Victoria Park Avenue (834),a
-43.7390455,-79.3209967,2,Railside Road (537),a
-43.7390455,-79.3209967,2,Railside Road (579),a
 43.7390666,-79.5456073,2,St Lucie Drive (634),a
 43.7390666,-79.5456073,2,St Lucie Drive (990),a
-43.7390693,-79.3161393,2,Carnforth Road (050),a
-43.7390693,-79.3161393,2,Carnforth Road (995),a
 43.7390814,-79.5406405,2,St Lucie Drive (011),a
 43.7390814,-79.5406405,2,St Lucie Drive (672),a
 43.7390894,-79.5394754,2,Weston Road (259),a
@@ -9833,25 +9248,10 @@ lat,lon,sz,names,len_cat
 43.7390973,-79.5389306,2,Bradstock Road (160),a
 43.7390973,-79.5389306,2,Bradstock Road (398),a
 43.7390973,-79.5389306,2,Bradstock Road (401),a
-43.7390999,-79.3161079,2,Carnforth Road (051),a
-43.7390999,-79.3161079,2,Carnforth Road (996),a
-43.7391044,-79.310055,2,Petal Court (321),a
-43.7391044,-79.310055,2,Petal Court (696),a
-43.7391044,-79.310055,2,Prestbury Street (205),a
-43.7391044,-79.310055,2,Prestbury Street (644),a
 43.7391113,-79.5455814,2,St Lucie Drive (635),a
 43.7391113,-79.5455814,2,St Lucie Drive (991),a
 43.7391202,-79.5388352,2,Bradstock Road (219),a
 43.7391202,-79.5388352,2,Bradstock Road (515),a
-43.7391302,-79.3288968,2,Old Lawrence Avenue (086),a
-43.7391302,-79.3288968,2,Old Lawrence Avenue (588),a
-43.7391306,-79.3338441,2,Lawrence Avenue East (141),a
-43.7391306,-79.3338441,2,Lawrence Avenue East (168),a
-43.7391355,-79.3099406,2,Petal Court (320),a
-43.7391355,-79.3099406,2,Petal Court (695),a
-43.7391418,-79.3135408,2,Knighton Drive (142),a
-43.7391418,-79.3135408,2,Knighton Drive (619),a
-43.7391516,-79.3086038,2,Victoria Park Avenue (970),a
 43.739157,-79.5386818,2,Bradstock Road (220),a
 43.739157,-79.5386818,2,Bradstock Road (516),a
 43.739165,-79.5455553,2,St Lucie Drive (636),a
@@ -9860,12 +9260,8 @@ lat,lon,sz,names,len_cat
 43.7391678,-79.5352109,2,Rivalda Road (098),a
 43.7391678,-79.5352109,2,Rivalda Road (105),a
 43.7391678,-79.5352109,2,Rivalda Road (105),a
-43.7391813,-79.3208416,2,Railside Road (440),a
-43.7391813,-79.3208416,2,Railside Road (663),a
 43.7392108,-79.538092,2,Samba Drive (263),a
 43.7392108,-79.538092,2,Samba Drive (858),a
-43.7392123,-79.3095936,2,Petal Court (319),a
-43.7392123,-79.3095936,2,Petal Court (694),a
 43.7392171,-79.5255705,2,Oakdale Road (091),a
 43.7392171,-79.5255705,2,Oakdale Road (486),a
 43.7392171,-79.5255705,2,Oakdale Road (609),a
@@ -9874,11 +9270,6 @@ lat,lon,sz,names,len_cat
 43.7392174,-79.5201832,2,Sebastian Cabotway (642),a
 43.7392175,-79.5132531,2,Jane Street (093),a
 43.7392175,-79.5132531,2,Jane Street (405),a
-43.7392345,-79.3289623,2,Old Lawrence Avenue (087),a
-43.7392345,-79.3289623,2,Old Lawrence Avenue (589),a
-43.7392391,-79.3159655,2,Carnforth Road (052),a
-43.7392391,-79.3159655,2,Carnforth Road (997),a
-43.7392432,-79.308641,2,Victoria Park Avenue (021),a
 43.7392485,-79.5301954,2,Arrow Road (299),a
 43.7392485,-79.5301954,2,Arrow Road (870),a
 43.73926,-79.5199959,2,Sebastian Cabotway (388),a
@@ -9889,10 +9280,6 @@ lat,lon,sz,names,len_cat
 43.73926,-79.5199959,2,Sebastian Cabotway (647),a
 43.7392678,-79.5130716,2,Jane Street (057),a
 43.7392678,-79.5130716,2,Jane Street (328),a
-43.7392727,-79.3094229,2,Petal Court (318),a
-43.7392727,-79.3094229,2,Petal Court (693),a
-43.7392785,-79.3207306,2,Railside Road (441),a
-43.7392785,-79.3207306,2,Railside Road (664),a
 43.7392898,-79.5132768,2,Jane Street (092),a
 43.7392898,-79.5132768,2,Jane Street (121),a
 43.7392898,-79.5132768,2,Jane Street (400),a
@@ -9902,17 +9289,10 @@ lat,lon,sz,names,len_cat
 43.7392949,-79.5381079,2,Bradstock Road (634),a
 43.7392949,-79.5381079,2,Samba Drive (350),a
 43.7392949,-79.5381079,2,Samba Drive (563),a
-43.7392977,-79.3131534,2,Knighton Drive (141),a
-43.7392977,-79.3131534,2,Knighton Drive (618),a
-43.7392977,-79.3131534,2,Murellen Crescent (285),a
-43.7392977,-79.3131534,2,Murellen Crescent (697),a
 43.7393206,-79.5379944,2,Bradstock Road (260),a
 43.7393206,-79.5379944,2,Bradstock Road (838),a
 43.7393222,-79.5205182,2,Laura Road (316),a
 43.7393222,-79.5205182,2,Laura Road (558),a
-43.7393269,-79.3327691,2,Lawrence Avenue East (140),a
-43.7393269,-79.3327691,2,Lawrence Avenue East (166),a
-43.7393269,-79.3327691,2,Lawrence Avenue East (461),a
 43.7393278,-79.5441977,2,Franson Crescent (560),a
 43.7393278,-79.5441977,2,Franson Crescent (584),a
 43.7393287,-79.5442722,2,Franson Crescent (559),a
@@ -9923,28 +9303,16 @@ lat,lon,sz,names,len_cat
 43.7393324,-79.5130894,2,Jane Street (144),a
 43.7393324,-79.5130894,2,Jane Street (329),a
 43.7393324,-79.5130894,2,Jane Street (504),a
-43.7393434,-79.3086817,2,Victoria Park Avenue (024),a
 43.7393452,-79.5441476,2,Franson Crescent (561),a
 43.7393452,-79.5441476,2,Franson Crescent (585),a
 43.7393458,-79.5352365,2,Rivalda Road (097),a
 43.7393458,-79.5352365,2,Rivalda Road (097),a
 43.7393458,-79.5352365,2,Rivalda Road (104),a
 43.7393458,-79.5352365,2,Rivalda Road (104),a
-43.7393463,-79.3252626,2,Railside Road (261),a
 43.7393477,-79.5443462,2,Franson Crescent (558),a
 43.7393477,-79.5443462,2,Franson Crescent (582),a
-43.7393506,-79.3131755,2,Murellen Crescent (286),a
-43.7393506,-79.3131755,2,Murellen Crescent (698),a
-43.7393737,-79.3325515,2,Lawrence Avenue East (217),a
-43.7393737,-79.3325515,2,Lawrence Avenue East (221),a
-43.7393737,-79.3325515,2,Lawrence Avenue East (460),a
-43.739374,-79.329073,2,Old Lawrence Avenue (088),a
-43.739374,-79.329073,2,Old Lawrence Avenue (590),a
 43.7393897,-79.5441093,2,Franson Crescent (562),a
 43.7393897,-79.5441093,2,Franson Crescent (586),a
-43.7394026,-79.3323932,2,Lawrence Avenue East (216),a
-43.7394026,-79.3323932,2,Lawrence Avenue East (220),a
-43.7394026,-79.3323932,2,Lawrence Avenue East (465),a
 43.7394039,-79.5192845,2,John Cabotway (219),a
 43.7394039,-79.5192845,2,John Cabotway (229),a
 43.7394039,-79.5192845,2,John Cabotway (540),a
@@ -9955,10 +9323,6 @@ lat,lon,sz,names,len_cat
 43.7394039,-79.5133073,2,Jane Street (139),a
 43.7394039,-79.5133073,2,Jane Street (470),a
 43.7394039,-79.5133073,2,Jane Street (498),a
-43.7394061,-79.3126692,2,Knighton Drive (139),a
-43.7394061,-79.3126692,2,Knighton Drive (140),a
-43.7394061,-79.3126692,2,Knighton Drive (616),a
-43.7394061,-79.3126692,2,Knighton Drive (617),a
 43.7394062,-79.5302337,2,Arrow Road (301),a
 43.7394062,-79.5302337,2,Arrow Road (872),a
 43.7394167,-79.5395511,2,Weston Road (260),a
@@ -9971,59 +9335,16 @@ lat,lon,sz,names,len_cat
 43.739433,-79.5453873,2,St Lucie Drive (993),a
 43.7394342,-79.5440709,2,Franson Crescent (563),a
 43.7394342,-79.5440709,2,Franson Crescent (587),a
-43.7394433,-79.3205423,2,Railside Road (538),a
-43.7394433,-79.3205423,2,Railside Road (580),a
-43.7394445,-79.3251242,2,Railside Road (236),a
-43.7394445,-79.3251242,2,Railside Road (839),a
-43.7394512,-79.3124532,2,Knighton Drive (138),a
-43.7394512,-79.3124532,2,Knighton Drive (615),a
-43.7394705,-79.3320418,2,Lawrence Avenue East (320),a
-43.7394705,-79.3320418,2,Lawrence Avenue East (320),a
-43.7394705,-79.3320418,2,Lawrence Avenue East (550),a
-43.7394705,-79.3320418,2,Lawrence Avenue East (550),a
-43.7394752,-79.3157239,2,Carnforth Road (053),a
-43.7394752,-79.3157239,2,Carnforth Road (998),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (153),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (153),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (191),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (191),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (464),a
-43.7394847,-79.3319654,2,Lawrence Avenue East (464),a
 43.7394878,-79.5440324,2,Franson Crescent (564),a
 43.7394878,-79.5440324,2,Franson Crescent (588),a
 43.7394969,-79.5133303,2,Jane Street (138),a
 43.7394969,-79.5133303,2,Jane Street (497),a
-43.7395012,-79.3087458,2,Victoria Park Avenue (022),a
 43.7395019,-79.520573,2,Clair Road (007),a
 43.7395019,-79.520573,2,Clair Road (664),a
 43.7395019,-79.520573,2,Laura Road (317),a
 43.7395019,-79.520573,2,Laura Road (324),a
 43.7395019,-79.520573,2,Laura Road (559),a
 43.7395019,-79.520573,2,Laura Road (566),a
-43.7395103,-79.3102334,2,Prestbury Street (207),a
-43.7395103,-79.3102334,2,Prestbury Street (208),a
-43.7395103,-79.3102334,2,Prestbury Street (645),a
-43.7395103,-79.3102334,2,Prestbury Street (646),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (152),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (152),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (190),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (190),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (463),a
-43.7395121,-79.3318346,2,Lawrence Avenue East (463),a
-43.7395139,-79.3156843,2,Carnforth Road (047),a
-43.7395139,-79.3156843,2,Carnforth Road (149),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (158),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (158),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (196),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (196),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (462),a
-43.7395228,-79.3317887,2,Lawrence Avenue East (462),a
-43.7395391,-79.3292795,2,Old Lawrence Avenue (089),a
-43.7395391,-79.3292795,2,Old Lawrence Avenue (591),a
-43.7395393,-79.3317119,2,Lawrence Avenue East (157),a
-43.7395393,-79.3317119,2,Lawrence Avenue East (157),a
-43.7395393,-79.3317119,2,Lawrence Avenue East (195),a
-43.7395393,-79.3317119,2,Lawrence Avenue East (195),a
 43.7395591,-79.543981,2,Franson Crescent (565),a
 43.7395591,-79.543981,2,Franson Crescent (589),a
 43.739608,-79.5395953,2,Weston Road (133),a
@@ -10034,14 +9355,10 @@ lat,lon,sz,names,len_cat
 43.7396099,-79.5352744,2,Rivalda Road (126),a
 43.7396099,-79.5352744,2,Rivalda Road (370),a
 43.7396099,-79.5352744,2,Rivalda Road (370),a
-43.7396156,-79.3248831,2,Railside Road (179),a
-43.7396156,-79.3248831,2,Railside Road (966),a
 43.7396375,-79.5365939,2,Bradstock Road (151),a
 43.7396375,-79.5365939,2,Bradstock Road (392),a
 43.7396375,-79.5365939,2,Habitant Drive (105),a
 43.7396375,-79.5365939,2,Habitant Drive (266),a
-43.7396401,-79.3294133,2,Old Lawrence Avenue (090),a
-43.7396401,-79.3294133,2,Old Lawrence Avenue (592),a
 43.7396483,-79.5439167,2,Franson Crescent (566),a
 43.7396483,-79.5439167,2,Franson Crescent (590),a
 43.7396515,-79.5452075,2,Franson Crescent (557),a
@@ -10052,20 +9369,6 @@ lat,lon,sz,names,len_cat
 43.7396627,-79.4225524,2,Wilson Avenue (006),a
 43.7396627,-79.4225524,2,Wilson Avenue (862),a
 43.7396627,-79.4225524,2,Wilson Avenue (864),a
-43.7396758,-79.3248135,2,Railside Road (178),a
-43.7396758,-79.3248135,2,Railside Road (965),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (148),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (148),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (156),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (156),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (183),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (183),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (194),a
-43.7396911,-79.3308411,2,Lawrence Avenue East (194),a
-43.7396952,-79.3294915,2,Old Lawrence Avenue (091),a
-43.7396952,-79.3294915,2,Old Lawrence Avenue (593),a
-43.7397054,-79.3103022,2,Prestbury Street (209),a
-43.7397054,-79.3103022,2,Prestbury Street (647),a
 43.7397056,-79.5362993,2,Bradstock Road (099),a
 43.7397056,-79.5362993,2,Bradstock Road (106),a
 43.7397093,-79.4223285,2,Wilson Avenue (005),a
@@ -10074,8 +9377,6 @@ lat,lon,sz,names,len_cat
 43.7397093,-79.4223285,2,Wilson Avenue (991),a
 43.7397286,-79.5438527,2,Franson Crescent (567),a
 43.7397286,-79.5438527,2,Franson Crescent (591),a
-43.7397332,-79.3154598,2,Carnforth Road (048),a
-43.7397332,-79.3154598,2,Carnforth Road (150),a
 43.7397431,-79.5366406,2,Habitant Drive (673),a
 43.7397431,-79.5366406,2,Habitant Drive (700),a
 43.739744,-79.5396267,2,Weston Road (270),a
@@ -10090,45 +9391,18 @@ lat,lon,sz,names,len_cat
 43.7397562,-79.5193751,2,Tonon Drive (741),a
 43.7397641,-79.5438146,2,Franson Crescent (568),a
 43.7397641,-79.5438146,2,Franson Crescent (592),a
-43.7397767,-79.3103339,2,Knighton Drive (135),a
-43.7397767,-79.3103339,2,Knighton Drive (612),a
-43.7397767,-79.3103339,2,Prestbury Street (210),a
-43.7397767,-79.3103339,2,Prestbury Street (648),a
-43.7397788,-79.3154132,2,Carnforth Road (054),a
-43.7397788,-79.3154132,2,Carnforth Road (999),a
-43.7397789,-79.329582,2,Old Lawrence Avenue (092),a
-43.7397789,-79.329582,2,Old Lawrence Avenue (594),a
-43.7397952,-79.3088651,2,Victoria Park Avenue (023),a
-43.739808,-79.3104297,2,Knighton Drive (136),a
-43.739808,-79.3104297,2,Knighton Drive (613),a
-43.7398114,-79.310551,2,Knighton Drive (137),a
-43.7398114,-79.310551,2,Knighton Drive (614),a
-43.7398232,-79.3246841,2,Railside Road (238),a
-43.7398232,-79.3246841,2,Railside Road (841),a
 43.7398265,-79.5437634,2,Franson Crescent (569),a
 43.7398265,-79.5437634,2,Franson Crescent (593),a
-43.7398333,-79.3296062,2,Old Lawrence Avenue (093),a
-43.7398333,-79.3296062,2,Old Lawrence Avenue (595),a
-43.7398376,-79.3301857,2,Lawrence Avenue East (009),a
-43.7398376,-79.3301857,2,Lawrence Avenue East (147),a
-43.7398376,-79.3301857,2,Lawrence Avenue East (181),a
-43.7398376,-79.3301857,2,Lawrence Avenue East (729),a
 43.7398604,-79.5134153,2,Jane Street (367),a
 43.7398604,-79.5134153,2,Jane Street (551),a
 43.7398608,-79.5437265,2,Franson Crescent (570),a
 43.7398608,-79.5437265,2,Franson Crescent (594),a
 43.7398764,-79.5366995,2,Habitant Drive (106),a
 43.7398764,-79.5366995,2,Habitant Drive (267),a
-43.7398765,-79.3200474,2,Railside Road (539),a
-43.7398765,-79.3200474,2,Railside Road (581),a
 43.739895,-79.5134232,2,Jane Street (137),a
 43.739895,-79.5134232,2,Jane Street (496),a
 43.7398975,-79.5436872,2,Franson Crescent (571),a
 43.7398975,-79.5436872,2,Franson Crescent (595),a
-43.7399044,-79.3246129,2,Railside Road (177),a
-43.7399044,-79.3246129,2,Railside Road (964),a
-43.739922,-79.3297767,2,Lawrence Avenue East (008),a
-43.739922,-79.3297767,2,Lawrence Avenue East (728),a
 43.7399272,-79.5186755,2,Clair Road (005),a
 43.7399272,-79.5186755,2,Clair Road (662),a
 43.7399324,-79.5353177,2,Bradstock Road (152),a
@@ -10141,29 +9415,12 @@ lat,lon,sz,names,len_cat
 43.7399324,-79.5353177,2,Rivalda Road (371),a
 43.7399329,-79.5436366,2,Franson Crescent (572),a
 43.7399329,-79.5436366,2,Franson Crescent (596),a
-43.7399529,-79.3296354,2,Lawrence Avenue East (007),a
-43.7399529,-79.3296354,2,Lawrence Avenue East (727),a
-43.7399529,-79.3296354,2,Old Lawrence Avenue (094),a
-43.7399529,-79.3296354,2,Old Lawrence Avenue (596),a
-43.7399564,-79.3089306,2,Victoria Park Avenue (969),a
 43.7399686,-79.5396786,2,Weston Road (254),a
 43.7399686,-79.5396786,2,Weston Road (454),a
 43.7399686,-79.5396786,2,Weston Road (706),a
 43.7399686,-79.5396786,2,Weston Road (826),a
 43.7399861,-79.5435732,2,Franson Crescent (573),a
 43.7399861,-79.5435732,2,Franson Crescent (597),a
-43.7399917,-79.3294153,2,Lawrence Avenue East (006),a
-43.7399917,-79.3294153,2,Lawrence Avenue East (726),a
-43.7399941,-79.3245749,2,Railside Road (323),a
-43.7399941,-79.3245749,2,Railside Road (323),a
-43.7399941,-79.3245749,2,Railside Road (573),a
-43.7399941,-79.3245749,2,Railside Road (573),a
-43.7399964,-79.3089468,2,Victoria Park Avenue (025),a
-43.7399964,-79.3089468,2,Victoria Park Avenue (025),a
-43.7399974,-79.3199094,2,Railside Road (170),a
-43.7399974,-79.3199094,2,Railside Road (170),a
-43.7399974,-79.3199094,2,Railside Road (957),a
-43.7399974,-79.3199094,2,Railside Road (957),a
 43.7400233,-79.5415481,2,Coronado Court (745),a
 43.7400233,-79.5415481,2,Coronado Court (902),a
 43.7400243,-79.5303837,2,Arrow Road (037),a
@@ -10176,20 +9433,10 @@ lat,lon,sz,names,len_cat
 43.7400479,-79.5182627,2,Clair Road (991),a
 43.7400479,-79.5182627,2,Mayberry Road (243),a
 43.7400479,-79.5182627,2,Mayberry Road (582),a
-43.7400489,-79.3245614,2,Railside Road (176),a
-43.7400489,-79.3245614,2,Railside Road (188),a
-43.7400489,-79.3245614,2,Railside Road (963),a
-43.7400489,-79.3245614,2,Railside Road (975),a
-43.7400516,-79.3151341,2,Carnforth Road (000),a
-43.7400516,-79.3151341,2,Carnforth Road (055),a
 43.7400524,-79.5417089,2,Coronado Court (744),a
 43.7400524,-79.5417089,2,Coronado Court (901),a
 43.7400653,-79.5408759,2,St Lucie Drive (079),a
 43.7400653,-79.5408759,2,St Lucie Drive (108),a
-43.7400774,-79.3198178,2,Railside Road (540),a
-43.7400774,-79.3198178,2,Railside Road (582),a
-43.7400863,-79.3141149,2,Murellen Crescent (293),a
-43.7400863,-79.3141149,2,Murellen Crescent (705),a
 43.7400983,-79.5409996,2,Coronado Court (085),a
 43.7400983,-79.5409996,2,Coronado Court (114),a
 43.7401098,-79.543384,2,Franson Crescent (575),a
@@ -10202,12 +9449,8 @@ lat,lon,sz,names,len_cat
 43.7401136,-79.5408875,2,St Lucie Drive (580),a
 43.7401136,-79.5408875,2,St Lucie Drive (673),a
 43.7401136,-79.5408875,2,St Lucie Drive (981),a
-43.7401216,-79.3287654,2,Lawrence Avenue East (005),a
-43.7401216,-79.3287654,2,Lawrence Avenue East (725),a
 43.7401222,-79.5408138,2,Coronado Court (084),a
 43.7401222,-79.5408138,2,Coronado Court (113),a
-43.7401236,-79.3150605,2,Carnforth Road (001),a
-43.7401236,-79.3150605,2,Carnforth Road (056),a
 43.7401241,-79.5368101,2,Habitant Drive (107),a
 43.7401241,-79.5368101,2,Habitant Drive (268),a
 43.7401387,-79.5343798,2,Bradstock Road (159),a
@@ -10246,35 +9489,16 @@ lat,lon,sz,names,len_cat
 43.7402505,-79.5368506,2,Habitant Drive (108),a
 43.7402505,-79.5368506,2,Habitant Drive (269),a
 43.7402505,-79.5368506,2,Habitant Drive (269),a
-43.740259,-79.3138963,2,Murellen Crescent (292),a
-43.740259,-79.3138963,2,Murellen Crescent (704),a
-43.7402697,-79.3090578,2,Victoria Park Avenue (751),a
-43.7402697,-79.3090578,2,Victoria Park Avenue (751),a
 43.74028,-79.5376797,2,Stone Court (465),a
 43.74028,-79.5376797,2,Stone Court (919),a
 43.7402841,-79.5177447,2,Clair Road (653),a
 43.7402841,-79.5177447,2,Clair Road (996),a
-43.7402859,-79.3138367,2,Murellen Crescent (291),a
-43.7402859,-79.3138367,2,Murellen Crescent (703),a
-43.7402887,-79.3195761,2,Railside Road (259),a
 43.7402928,-79.5177102,2,Clair Road (654),a
 43.7402928,-79.5177102,2,Clair Road (997),a
 43.7402967,-79.5258389,2,Oakdale Road (177),a
 43.7402967,-79.5258389,2,Oakdale Road (605),a
-43.7403026,-79.313436,2,Murellen Crescent (287),a
-43.7403026,-79.313436,2,Murellen Crescent (699),a
 43.740304,-79.5430812,2,Franson Crescent (578),a
 43.740304,-79.5430812,2,Franson Crescent (602),a
-43.7403075,-79.3245271,2,Railside Road (189),a
-43.7403075,-79.3245271,2,Railside Road (976),a
-43.7403278,-79.3137286,2,Murellen Crescent (290),a
-43.7403278,-79.3137286,2,Murellen Crescent (702),a
-43.7403598,-79.3275989,2,Lawrence Avenue East (004),a
-43.7403598,-79.3275989,2,Lawrence Avenue East (724),a
-43.7403646,-79.3136077,2,Murellen Crescent (289),a
-43.7403646,-79.3136077,2,Murellen Crescent (701),a
-43.7403646,-79.3135218,2,Murellen Crescent (288),a
-43.7403646,-79.3135218,2,Murellen Crescent (700),a
 43.7403651,-79.5429307,2,Franson Crescent (579),a
 43.7403651,-79.5429307,2,Franson Crescent (603),a
 43.740367,-79.5374416,2,Stone Court (466),a
@@ -10295,10 +9519,6 @@ lat,lon,sz,names,len_cat
 43.7404164,-79.5370442,2,Stone Court (674),a
 43.7404164,-79.5370442,2,Stone Court (702),a
 43.7404164,-79.5370442,2,Stone Court (702),a
-43.740422,-79.3147551,2,Carnforth Road (002),a
-43.740422,-79.3147551,2,Carnforth Road (057),a
-43.7404277,-79.3271711,2,Lawrence Avenue East (003),a
-43.7404277,-79.3271711,2,Lawrence Avenue East (723),a
 43.7404309,-79.5411228,2,St Lucie Drive (582),a
 43.7404309,-79.5411228,2,St Lucie Drive (983),a
 43.7404346,-79.5368974,2,Habitant Drive (219),a
@@ -10313,10 +9533,6 @@ lat,lon,sz,names,len_cat
 43.7404361,-79.5304871,2,Arrow Road (197),a
 43.7404526,-79.5427299,2,Franson Crescent (581),a
 43.7404526,-79.5427299,2,Franson Crescent (605),a
-43.7404625,-79.3193773,2,Railside Road (171),a
-43.7404625,-79.3193773,2,Railside Road (958),a
-43.7404896,-79.3193601,2,Railside Road (166),a
-43.7404896,-79.3193601,2,Railside Road (833),a
 43.7404943,-79.5445917,2,St Lucie Drive (003),a
 43.7404943,-79.5445917,2,St Lucie Drive (640),a
 43.740497,-79.5258118,2,Oakdale Road (060),a
@@ -10325,9 +9541,6 @@ lat,lon,sz,names,len_cat
 43.740497,-79.5258118,2,Oakdale Road (195),a
 43.7405138,-79.5425918,2,Franson Crescent (582),a
 43.7405138,-79.5425918,2,Franson Crescent (606),a
-43.7405197,-79.3266227,2,Lawrence Avenue East (002),a
-43.7405197,-79.3266227,2,Lawrence Avenue East (722),a
-43.7405283,-79.3193356,2,Railside Road (260),a
 43.7405434,-79.5354597,2,Rivalda Road (541),a
 43.7405434,-79.5354597,2,Rivalda Road (787),a
 43.740592,-79.54449,2,St Lucie Drive (004),a
@@ -10339,38 +9552,16 @@ lat,lon,sz,names,len_cat
 43.7406022,-79.5398404,2,Weston Road (975),a
 43.7406034,-79.5163807,2,Clair Road (655),a
 43.7406034,-79.5163807,2,Clair Road (998),a
-43.7406132,-79.3259936,2,Lawrence Avenue East (000),a
-43.7406132,-79.3259936,2,Lawrence Avenue East (721),a
-43.7406175,-79.3245872,2,Railside Road (190),a
-43.7406175,-79.3245872,2,Railside Road (977),a
 43.7406373,-79.525754,2,Oakdale Road (094),a
 43.7406373,-79.525754,2,Oakdale Road (094),a
 43.7406373,-79.525754,2,Oakdale Road (855),a
 43.7406373,-79.525754,2,Oakdale Road (855),a
-43.7406485,-79.3245985,2,Railside Road (191),a
-43.7406485,-79.3245985,2,Railside Road (978),a
 43.7406555,-79.5424021,2,Franson Crescent (584),a
 43.7406555,-79.5424021,2,Franson Crescent (608),a
 43.7406653,-79.5443858,2,St Lucie Drive (005),a
 43.7406653,-79.5443858,2,St Lucie Drive (642),a
-43.7406779,-79.3255625,2,Lawrence Avenue East (720),a
-43.7406779,-79.3255625,2,Lawrence Avenue East (999),a
-43.7406795,-79.3192399,2,Railside Road (172),a
-43.7406795,-79.3192399,2,Railside Road (959),a
-43.7406834,-79.3250086,2,Lawrence Avenue East (253),a
-43.7406834,-79.3250086,2,Lawrence Avenue East (342),a
 43.7407008,-79.5398634,2,Weston Road (264),a
 43.7407008,-79.5398634,2,Weston Road (848),a
-43.740702,-79.3144686,2,Carnforth Road (981),a
-43.740702,-79.3144686,2,Carnforth Road (998),a
-43.7407057,-79.3251112,2,Lawrence Avenue East (251),a
-43.7407057,-79.3251112,2,Lawrence Avenue East (341),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (022),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (248),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (340),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (719),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (742),a
-43.7407156,-79.3252391,2,Lawrence Avenue East (997),a
 43.7407448,-79.5423502,2,Franson Crescent (585),a
 43.7407448,-79.5423502,2,Franson Crescent (609),a
 43.7407508,-79.5196983,2,Tonon Drive (625),a
@@ -10383,10 +9574,6 @@ lat,lon,sz,names,len_cat
 43.7407891,-79.5256781,2,Oakdale Road (196),a
 43.740796,-79.5197096,2,Tonon Drive (626),a
 43.740796,-79.5197096,2,Tonon Drive (743),a
-43.7408011,-79.3192294,2,Railside Road (167),a
-43.7408011,-79.3192294,2,Railside Road (834),a
-43.7408246,-79.3143556,2,Carnforth Road (003),a
-43.7408246,-79.3143556,2,Carnforth Road (058),a
 43.7408333,-79.5398944,2,Weston Road (272),a
 43.7408333,-79.5398944,2,Weston Road (867),a
 43.7408333,-79.5398944,2,Weston Road (976),a
@@ -10398,21 +9585,10 @@ lat,lon,sz,names,len_cat
 43.7408473,-79.5153261,2,Clair Road (999),a
 43.7408503,-79.5197331,2,Tonon Drive (627),a
 43.7408503,-79.5197331,2,Tonon Drive (744),a
-43.7408594,-79.3143236,2,Carnforth Road (000),a
-43.7408594,-79.3143236,2,Carnforth Road (764),a
-43.7408594,-79.3143236,2,Carnforth Road (982),a
 43.7408704,-79.5355357,2,Rivalda Road (540),a
 43.7408704,-79.5355357,2,Rivalda Road (786),a
-43.740878,-79.3192228,2,Railside Road (173),a
-43.740878,-79.3192228,2,Railside Road (960),a
 43.7409043,-79.5197318,2,Tonon Drive (628),a
 43.7409043,-79.5197318,2,Tonon Drive (745),a
-43.7409139,-79.3093194,2,Janet Boulevard (528),a
-43.7409139,-79.3093194,2,Janet Boulevard (528),a
-43.7409139,-79.3093194,2,Janet Boulevard (916),a
-43.7409139,-79.3093194,2,Janet Boulevard (916),a
-43.7409139,-79.3093194,2,Victoria Park Avenue (968),a
-43.7409139,-79.3093194,2,Victoria Park Avenue (968),a
 43.7409223,-79.5414403,2,St Lucie Drive (585),a
 43.7409223,-79.5414403,2,St Lucie Drive (984),a
 43.7409324,-79.5422339,2,Franson Crescent (587),a
@@ -10441,17 +9617,10 @@ lat,lon,sz,names,len_cat
 43.7410291,-79.5145402,2,Clair Road (658),a
 43.7410476,-79.5415492,2,St Lucie Drive (586),a
 43.7410476,-79.5415492,2,St Lucie Drive (985),a
-43.7410479,-79.3142077,2,Carnforth Road (005),a
-43.7410479,-79.3142077,2,Carnforth Road (765),a
-43.7410479,-79.3142077,2,Carnforth Road (984),a
-43.7410563,-79.3192304,2,Railside Road (174),a
-43.7410563,-79.3192304,2,Railside Road (961),a
 43.7410571,-79.5144204,2,Clair Road (051),a
 43.7410571,-79.5144204,2,Clair Road (874),a
 43.7410755,-79.5421559,2,Franson Crescent (588),a
 43.7410755,-79.5421559,2,Franson Crescent (612),a
-43.7410795,-79.3093864,2,Victoria Park Avenue (967),a
-43.7410795,-79.3093864,2,Victoria Park Avenue (967),a
 43.7410812,-79.514317,2,Clair Road (052),a
 43.7410812,-79.514317,2,Clair Road (875),a
 43.7410836,-79.5127356,2,San Robertoway (076),a
@@ -10490,8 +9659,6 @@ lat,lon,sz,names,len_cat
 43.7412096,-79.5420782,2,Franson Crescent (614),a
 43.7412242,-79.5417945,2,St Lucie Drive (589),a
 43.7412242,-79.5417945,2,St Lucie Drive (988),a
-43.7412262,-79.3141701,2,Carnforth Road (006),a
-43.7412262,-79.3141701,2,Carnforth Road (985),a
 43.7412282,-79.5420648,2,Franson Crescent (658),a
 43.7412282,-79.5420648,2,Franson Crescent (667),a
 43.7412456,-79.5378549,2,Calm Court (352),a
@@ -10546,8 +9713,6 @@ lat,lon,sz,names,len_cat
 43.7413741,-79.5422729,2,St Lucie Drive (653),a
 43.7413842,-79.5423596,2,St Lucie Drive (652),a
 43.7413842,-79.5423596,2,St Lucie Drive (999),a
-43.7413888,-79.3141724,2,Carnforth Road (008),a
-43.7413888,-79.3141724,2,Carnforth Road (986),a
 43.7413901,-79.5428189,2,St Lucie Drive (647),a
 43.7413901,-79.5428189,2,St Lucie Drive (994),a
 43.7413943,-79.5424462,2,St Lucie Drive (651),a
@@ -10580,8 +9745,6 @@ lat,lon,sz,names,len_cat
 43.7414163,-79.5371203,2,Habitant Drive (405),a
 43.7414163,-79.5371203,2,Habitant Drive (426),a
 43.7414163,-79.5371203,2,Habitant Drive (426),a
-43.7414292,-79.3095279,2,Victoria Park Avenue (966),a
-43.7414292,-79.3095279,2,Victoria Park Avenue (966),a
 43.741444,-79.5210846,2,Laura Road (318),a
 43.741444,-79.5210846,2,Laura Road (325),a
 43.741444,-79.5210846,2,Laura Road (560),a
@@ -10604,14 +9767,6 @@ lat,lon,sz,names,len_cat
 43.7415201,-79.5325702,2,Lido Road (856),a
 43.7415209,-79.4856066,2,Keele Street (067),a
 43.7415209,-79.4856066,2,Keele Street (815),a
-43.7415361,-79.309565,2,Victoria Park Avenue (671),a
-43.7415361,-79.309565,2,Victoria Park Avenue (671),a
-43.7415361,-79.309565,2,Victoria Park Avenue (948),a
-43.7415361,-79.309565,2,Victoria Park Avenue (948),a
-43.7415361,-79.309565,2,Victoria Park Avenue (949),a
-43.7415361,-79.309565,2,Victoria Park Avenue (949),a
-43.7415361,-79.309565,2,Victoria Park Avenue (965),a
-43.7415361,-79.309565,2,Victoria Park Avenue (965),a
 43.7415626,-79.5212059,2,Laura Road (319),a
 43.7415626,-79.5212059,2,Laura Road (561),a
 43.7415643,-79.5256865,2,Oakdale Road (179),a
@@ -10662,10 +9817,6 @@ lat,lon,sz,names,len_cat
 43.7417354,-79.5213382,2,Laura Road (563),a
 43.7417354,-79.5213382,2,Ryewood Drive (392),a
 43.7417354,-79.5213382,2,Ryewood Drive (706),a
-43.7417506,-79.3097061,2,Victoria Park Avenue (782),a
-43.7417506,-79.3097061,2,Victoria Park Avenue (782),a
-43.7417506,-79.3097061,2,Victoria Park Avenue (947),a
-43.7417506,-79.3097061,2,Victoria Park Avenue (947),a
 43.7417582,-79.5357429,2,Rivalda Road (348),a
 43.7417582,-79.5357429,2,Rivalda Road (348),a
 43.7417582,-79.5357429,2,Rivalda Road (386),a
@@ -10709,9 +9860,6 @@ lat,lon,sz,names,len_cat
 43.7419319,-79.3107585,2,Lawrence Avenue East (665),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (672),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (686),a
-43.7419319,-79.3107585,2,Lawrence Avenue East (973),a
-43.7419319,-79.3107585,2,Lawrence Avenue East (980),a
-43.7419319,-79.3107585,2,Lawrence Avenue East (985),a
 43.7419392,-79.5308585,2,Arrow Road (013),a
 43.7419392,-79.5308585,2,Arrow Road (141),a
 43.7419443,-79.5417995,2,Tampa Terrace (146),a
@@ -10720,10 +9868,6 @@ lat,lon,sz,names,len_cat
 43.7419532,-79.537242,2,Habitant Drive (264),a
 43.7419532,-79.537242,2,Habitant Drive (427),a
 43.7419532,-79.537242,2,Habitant Drive (427),a
-43.7419542,-79.3097988,2,Victoria Park Avenue (781),a
-43.7419542,-79.3097988,2,Victoria Park Avenue (781),a
-43.7419542,-79.3097988,2,Victoria Park Avenue (946),a
-43.7419542,-79.3097988,2,Victoria Park Avenue (946),a
 43.7419648,-79.5198829,2,Brewster Crescent (458),a
 43.7419648,-79.5198829,2,Brewster Crescent (569),a
 43.7419726,-79.5187989,2,Mayberry Road (574),a
@@ -10733,24 +9877,12 @@ lat,lon,sz,names,len_cat
 43.7419818,-79.5393036,2,Damask Avenue (261),a
 43.7419818,-79.5393036,2,Damask Avenue (856),a
 43.7419835,-79.3103141,2,Lawrence Avenue East (666),a
-43.7419835,-79.3103141,2,Lawrence Avenue East (974),a
 43.7420165,-79.5418102,2,Tampa Terrace (148),a
 43.7420165,-79.5418102,2,Tampa Terrace (680),a
 43.7420222,-79.5199051,2,Brewster Crescent (459),a
 43.7420222,-79.5199051,2,Brewster Crescent (570),a
 43.7420473,-79.5308558,2,Arrow Road (014),a
 43.7420473,-79.5308558,2,Arrow Road (144),a
-43.7420551,-79.3103759,2,Lawrence Avenue East (671),a
-43.7420551,-79.3103759,2,Lawrence Avenue East (979),a
-43.7420556,-79.3099743,2,Lawrence Avenue East (667),a
-43.7420556,-79.3099743,2,Lawrence Avenue East (975),a
-43.742079,-79.3098493,2,Lawrence Avenue East (668),a
-43.742079,-79.3098493,2,Lawrence Avenue East (678),a
-43.742079,-79.3098493,2,Lawrence Avenue East (976),a
-43.742079,-79.3098493,2,Victoria Park Avenue (779),a
-43.742079,-79.3098493,2,Victoria Park Avenue (797),a
-43.742079,-79.3098493,2,Victoria Park Avenue (945),a
-43.742079,-79.3098493,2,Victoria Park Avenue (958),a
 43.742084,-79.5199507,2,Brewster Crescent (460),a
 43.742084,-79.5199507,2,Brewster Crescent (571),a
 43.7420914,-79.5199604,2,Brewster Crescent (461),a

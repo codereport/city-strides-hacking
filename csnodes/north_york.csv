@@ -2,8 +2,6 @@ lat,lon,sz,names,len_cat
 43.7152545,-79.5369168,2,Weston Road (136),a
 43.7152545,-79.5369168,2,Weston Road (627),a
 43.7152545,-79.5369168,2,Weston Road (962),a
-43.7158119,-79.5073411,2,Jane Street (400),a
-43.7158119,-79.5073411,2,Jane Street (752),a
 43.716146,-79.537333,2,Weston Road (178),a
 43.716146,-79.537333,2,Weston Road (636),a
 43.716146,-79.537333,2,Weston Road (961),a
@@ -28,468 +26,14 @@ lat,lon,sz,names,len_cat
 43.725924,-79.3119627,2,Eglinton Avenue East (553),a
 43.7260475,-79.3127347,2,Eglinton Avenue East (093),a
 43.7260475,-79.3127347,2,Eglinton Avenue East (554),a
-43.7291242,-79.5070346,2,Peacham Crescent (026),a
-43.7291242,-79.5070346,2,Peacham Crescent (901),a
-43.7291247,-79.5070718,2,Peacham Crescent (027),a
-43.7291247,-79.5070718,2,Peacham Crescent (902),a
-43.7291253,-79.5071214,2,Peacham Crescent (028),a
-43.7291253,-79.5071214,2,Peacham Crescent (903),a
-43.729135,-79.5071709,2,Peacham Crescent (029),a
-43.729135,-79.5071709,2,Peacham Crescent (904),a
-43.7291443,-79.5071955,2,Peacham Crescent (030),a
-43.7291443,-79.5071955,2,Peacham Crescent (905),a
-43.7291591,-79.5069468,2,Peacham Crescent (025),a
-43.7291591,-79.5069468,2,Peacham Crescent (900),a
-43.7291807,-79.5072194,2,Peacham Crescent (031),a
-43.7291807,-79.5072194,2,Peacham Crescent (906),a
-43.729194,-79.506859,2,Peacham Crescent (024),a
-43.729194,-79.506859,2,Peacham Crescent (899),a
-43.729202,-79.5067843,2,Peacham Crescent (023),a
-43.729202,-79.5067843,2,Peacham Crescent (898),a
-43.7292168,-79.5072309,2,Peacham Crescent (032),a
-43.7292168,-79.5072309,2,Peacham Crescent (907),a
-43.729219,-79.5067094,2,Peacham Crescent (022),a
-43.729219,-79.5067094,2,Peacham Crescent (897),a
-43.7292888,-79.5072291,2,Peacham Crescent (033),a
-43.7292888,-79.5072291,2,Peacham Crescent (908),a
-43.729352,-79.50724,2,Peacham Crescent (034),a
-43.729352,-79.50724,2,Peacham Crescent (909),a
-43.7293857,-79.5102359,2,Exbury Road (761),a
-43.7293857,-79.5102359,2,Exbury Road (853),a
-43.7294065,-79.5058977,2,Peacham Crescent (021),a
-43.7294065,-79.5058977,2,Peacham Crescent (037),a
-43.7294065,-79.5058977,2,Peacham Crescent (896),a
-43.7294065,-79.5058977,2,Peacham Crescent (912),a
-43.7294065,-79.5058977,2,Sherman Court (254),a
-43.7294065,-79.5058977,2,Sherman Court (290),a
-43.7294351,-79.5100965,2,Exbury Road (762),a
-43.7294351,-79.5100965,2,Exbury Road (854),a
-43.7295059,-79.5099208,2,Exbury Road (763),a
-43.7295059,-79.5099208,2,Exbury Road (855),a
-43.7295661,-79.5108154,2,Jane Street (141),a
-43.7295661,-79.5108154,2,Jane Street (500),a
-43.7295993,-79.5106797,2,Jane Street (064),a
-43.7295993,-79.5106797,2,Jane Street (337),a
-43.7296073,-79.5097189,2,Exbury Road (764),a
-43.7296073,-79.5097189,2,Exbury Road (856),a
-43.7296452,-79.5048736,2,Peacham Crescent (038),a
-43.7296452,-79.5048736,2,Peacham Crescent (913),a
-43.7296529,-79.5047741,2,Peacham Crescent (039),a
-43.7296529,-79.5047741,2,Peacham Crescent (914),a
-43.7296699,-79.5046991,2,Peacham Crescent (040),a
-43.7296699,-79.5046991,2,Peacham Crescent (915),a
-43.7296864,-79.5107871,2,Jane Street (065),a
-43.7296864,-79.5107871,2,Jane Street (140),a
-43.7296864,-79.5107871,2,Jane Street (230),a
-43.7296864,-79.5107871,2,Jane Street (338),a
-43.7296864,-79.5107871,2,Jane Street (499),a
-43.7296968,-79.504686,2,Peacham Crescent (041),a
-43.7296968,-79.504686,2,Peacham Crescent (916),a
-43.7297328,-79.5046852,2,Peacham Crescent (042),a
-43.7297328,-79.5046852,2,Peacham Crescent (917),a
-43.7297783,-79.5047213,2,Peacham Crescent (043),a
-43.7297783,-79.5047213,2,Peacham Crescent (918),a
-43.729805,-79.506074,2,Sherman Court (255),a
-43.729805,-79.506074,2,Sherman Court (291),a
-43.7298327,-79.5047572,2,Peacham Crescent (044),a
-43.7298327,-79.5047572,2,Peacham Crescent (919),a
-43.7298676,-79.5074258,2,Peacham Crescent (035),a
-43.7298676,-79.5074258,2,Peacham Crescent (910),a
-43.729878,-79.5091734,2,Exbury Road (194),a
-43.729878,-79.5091734,2,Exbury Road (894),a
-43.7298793,-79.5108327,2,Jane Street (110),a
-43.7298793,-79.5108327,2,Jane Street (178),a
-43.7298793,-79.5108327,2,Jane Street (198),a
-43.7298793,-79.5108327,2,Jane Street (257),a
-43.7299077,-79.5091135,2,Exbury Road (765),a
-43.7299077,-79.5091135,2,Exbury Road (857),a
-43.7299586,-79.5090006,2,Exbury Road (766),a
-43.7299586,-79.5090006,2,Exbury Road (858),a
-43.7299856,-79.5089007,2,Exbury Road (767),a
-43.7299856,-79.5089007,2,Exbury Road (859),a
-43.7300183,-79.5087481,2,Exbury Road (768),a
-43.7300183,-79.5087481,2,Exbury Road (860),a
-43.730032,-79.5086913,2,Exbury Road (463),a
-43.730032,-79.5086913,2,Exbury Road (510),a
-43.7300593,-79.5085784,2,Exbury Road (769),a
-43.7300593,-79.5085784,2,Exbury Road (772),a
-43.7300593,-79.5085784,2,Exbury Road (861),a
-43.7300593,-79.5085784,2,Exbury Road (864),a
-43.7300593,-79.5085784,2,Monclova Road (008),a
-43.7300593,-79.5085784,2,Monclova Road (014),a
-43.7300593,-79.5085784,2,Monclova Road (719),a
-43.7300593,-79.5085784,2,Monclova Road (725),a
-43.7301325,-79.5086043,2,Monclova Road (480),a
-43.7301325,-79.5086043,2,Monclova Road (516),a
-43.7302661,-79.5076022,2,Exbury Road (752),a
-43.7302661,-79.5076022,2,Exbury Road (773),a
-43.7302661,-79.5076022,2,Exbury Road (844),a
-43.7302661,-79.5076022,2,Exbury Road (865),a
-43.7302661,-79.5076022,2,Peacham Crescent (036),a
-43.7302661,-79.5076022,2,Peacham Crescent (911),a
-43.7304789,-79.5087268,2,Monclova Road (009),a
-43.7304789,-79.5087268,2,Monclova Road (720),a
-43.7308221,-79.5110509,2,Jane Street (151),a
-43.7308221,-79.5110509,2,Jane Street (229),a
-43.7308221,-79.5110509,2,Jane Street (514),a
-43.7308289,-79.5051918,2,Exbury Road (753),a
-43.7308289,-79.5051918,2,Exbury Road (770),a
-43.7308289,-79.5051918,2,Exbury Road (845),a
-43.7308289,-79.5051918,2,Exbury Road (862),a
-43.7308289,-79.5051918,2,Peacham Crescent (045),a
-43.7308289,-79.5051918,2,Peacham Crescent (920),a
-43.7308785,-79.5110636,2,Jane Street (196),a
-43.7308785,-79.5110636,2,Jane Street (255),a
-43.730913,-79.5088775,2,Gatesgill Crescent (205),a
-43.730913,-79.5088775,2,Gatesgill Crescent (379),a
-43.730913,-79.5088775,2,Monclova Road (010),a
-43.730913,-79.5088775,2,Monclova Road (015),a
-43.730913,-79.5088775,2,Monclova Road (721),a
-43.730913,-79.5088775,2,Monclova Road (726),a
-43.730931,-79.5087664,2,Gatesgill Crescent (486),a
-43.730931,-79.5087664,2,Gatesgill Crescent (522),a
-43.7309959,-79.5089028,2,Monclova Road (481),a
-43.7309959,-79.5089028,2,Monclova Road (517),a
-43.7310075,-79.5043927,2,Exbury Road (771),a
-43.7310075,-79.5043927,2,Exbury Road (774),a
-43.7310075,-79.5043927,2,Exbury Road (863),a
-43.7310075,-79.5043927,2,Exbury Road (866),a
-43.7310075,-79.5043927,2,Gatesgill Crescent (194),a
-43.7310075,-79.5043927,2,Gatesgill Crescent (368),a
-43.731038,-79.5081045,2,Gatesgill Crescent (206),a
-43.731038,-79.5081045,2,Gatesgill Crescent (380),a
-43.7310908,-79.5044261,2,Gatesgill Crescent (485),a
-43.7310908,-79.5044261,2,Gatesgill Crescent (521),a
-43.7311267,-79.503829,2,Exbury Road (775),a
-43.7311267,-79.503829,2,Exbury Road (867),a
-43.7311488,-79.5111219,2,Jane Street (195),a
-43.7311488,-79.5111219,2,Jane Street (197),a
-43.7311488,-79.5111219,2,Jane Street (254),a
-43.7311488,-79.5111219,2,Jane Street (256),a
-43.7312172,-79.5089705,2,Monclova Road (467),a
-43.7312172,-79.5089705,2,Monclova Road (923),a
-43.731254,-79.5032815,2,Exbury Road (754),a
-43.731254,-79.5032815,2,Exbury Road (776),a
-43.731254,-79.5032815,2,Exbury Road (846),a
-43.731254,-79.5032815,2,Exbury Road (868),a
-43.731254,-79.5032815,2,Troutbrooke Drive (076),a
-43.731254,-79.5032815,2,Troutbrooke Drive (829),a
-43.7313445,-79.5067559,2,Gatesgill Crescent (207),a
-43.7313445,-79.5067559,2,Gatesgill Crescent (381),a
-43.7314012,-79.5090268,2,Monclova Road (016),a
-43.7314012,-79.5090268,2,Monclova Road (727),a
-43.731441,-79.5111851,2,Jane Street (193),a
-43.731441,-79.5111851,2,Jane Street (194),a
-43.731441,-79.5111851,2,Jane Street (252),a
-43.731441,-79.5111851,2,Jane Street (253),a
-43.7314751,-79.5022826,2,Exbury Road (755),a
-43.7314751,-79.5022826,2,Exbury Road (847),a
-43.7314893,-79.506119,2,Gatesgill Crescent (204),a
-43.7314893,-79.506119,2,Gatesgill Crescent (208),a
-43.7314893,-79.506119,2,Gatesgill Crescent (378),a
-43.7314893,-79.506119,2,Gatesgill Crescent (382),a
-43.7314893,-79.506119,2,Linthurst Avenue (186),a
-43.7314893,-79.506119,2,Linthurst Avenue (493),a
-43.7315098,-79.5021824,2,Exbury Road (756),a
-43.7315098,-79.5021824,2,Exbury Road (848),a
-43.7315361,-79.5021321,2,Exbury Road (757),a
-43.7315361,-79.5021321,2,Exbury Road (849),a
 43.731604,-79.5373311,2,Mainshep Road (264),a
 43.731604,-79.5373311,2,Mainshep Road (264),a
-43.7316234,-79.5112242,2,Jane Street (192),a
-43.7316234,-79.5112242,2,Jane Street (251),a
-43.7316773,-79.5046616,2,Gatesgill Crescent (195),a
-43.7316773,-79.5046616,2,Gatesgill Crescent (369),a
-43.7316846,-79.5017807,2,Exbury Road (758),a
-43.7316846,-79.5017807,2,Exbury Road (777),a
-43.7316846,-79.5017807,2,Exbury Road (850),a
-43.7316846,-79.5017807,2,Exbury Road (869),a
-43.7316846,-79.5017807,2,Sinton Court (354),a
-43.7316846,-79.5017807,2,Sinton Court (381),a
-43.7316911,-79.5112388,2,Jane Street (228),a
-43.7316911,-79.5112388,2,Jane Street (301),a
-43.7316911,-79.5112388,2,Jane Street (710),a
-43.7317357,-79.5091302,2,Austrey Court (090),a
-43.7317357,-79.5091302,2,Austrey Court (370),a
-43.7317357,-79.5091302,2,Monclova Road (017),a
-43.7317357,-79.5091302,2,Monclova Road (018),a
-43.7317357,-79.5091302,2,Monclova Road (728),a
-43.7317357,-79.5091302,2,Monclova Road (729),a
-43.7317362,-79.5050326,2,Gatesgill Crescent (203),a
-43.7317362,-79.5050326,2,Gatesgill Crescent (377),a
-43.7317494,-79.5046722,2,Gatesgill Crescent (196),a
-43.7317494,-79.5046722,2,Gatesgill Crescent (370),a
-43.7317535,-79.5049825,2,Gatesgill Crescent (202),a
-43.7317535,-79.5049825,2,Gatesgill Crescent (376),a
-43.7317794,-79.504895,2,Gatesgill Crescent (201),a
-43.7317794,-79.504895,2,Gatesgill Crescent (375),a
-43.7317858,-79.5046961,2,Gatesgill Crescent (197),a
-43.7317858,-79.5046961,2,Gatesgill Crescent (371),a
-43.7318041,-79.5047205,2,Gatesgill Crescent (198),a
-43.7318041,-79.5047205,2,Gatesgill Crescent (372),a
-43.7318085,-79.5112641,2,Jane Street (233),a
-43.7318085,-79.5112641,2,Jane Street (302),a
-43.7318085,-79.5112641,2,Jane Street (711),a
-43.7318085,-79.5112641,2,Troutbrooke Drive (060),a
-43.7318085,-79.5112641,2,Troutbrooke Drive (813),a
-43.7318138,-79.50477,2,Gatesgill Crescent (199),a
-43.7318138,-79.50477,2,Gatesgill Crescent (373),a
-43.7318142,-79.5048072,2,Gatesgill Crescent (200),a
-43.7318142,-79.5048072,2,Gatesgill Crescent (374),a
-43.7318393,-79.5110973,2,Troutbrooke Drive (061),a
-43.7318393,-79.5110973,2,Troutbrooke Drive (814),a
-43.731873,-79.5109231,2,Troutbrooke Drive (062),a
-43.731873,-79.5109231,2,Troutbrooke Drive (815),a
-43.7318785,-79.5083444,2,Austrey Court (091),a
-43.7318785,-79.5083444,2,Austrey Court (371),a
-43.7318873,-79.5107521,2,Troutbrooke Drive (063),a
-43.7318873,-79.5107521,2,Troutbrooke Drive (816),a
-43.7319141,-79.5105987,2,Troutbrooke Drive (064),a
-43.7319141,-79.5105987,2,Troutbrooke Drive (817),a
-43.7319147,-79.5112874,2,Jane Street (252),a
-43.7319147,-79.5112874,2,Jane Street (309),a
 43.7319251,-79.5346377,2,McCartney Street (288),a
 43.7319251,-79.5346377,2,McCartney Street (656),a
-43.7319499,-79.5104686,2,Troutbrooke Drive (065),a
-43.7319499,-79.5104686,2,Troutbrooke Drive (818),a
-43.7319767,-79.5103535,2,Troutbrooke Drive (066),a
-43.7319767,-79.5103535,2,Troutbrooke Drive (819),a
-43.731988,-79.5077705,2,Austrey Court (092),a
-43.731988,-79.5077705,2,Austrey Court (372),a
-43.732007,-79.5092228,2,Monclova Road (019),a
-43.732007,-79.5092228,2,Monclova Road (730),a
-43.732008,-79.50104,2,Exbury Road (778),a
-43.732008,-79.50104,2,Exbury Road (778),a
-43.732008,-79.50104,2,Exbury Road (870),a
-43.732008,-79.50104,2,Exbury Road (870),a
-43.7320379,-79.5102154,2,Troutbrooke Drive (067),a
-43.7320379,-79.5102154,2,Troutbrooke Drive (820),a
-43.7320432,-79.5009771,2,Exbury Road (779),a
-43.7320432,-79.5009771,2,Exbury Road (779),a
-43.7320432,-79.5009771,2,Exbury Road (871),a
-43.7320432,-79.5009771,2,Exbury Road (871),a
-43.732069,-79.5008895,2,Exbury Road (780),a
-43.732069,-79.5008895,2,Exbury Road (780),a
-43.732069,-79.5008895,2,Exbury Road (872),a
-43.732069,-79.5008895,2,Exbury Road (872),a
-43.7320771,-79.5008148,2,Exbury Road (781),a
-43.7320771,-79.5008148,2,Exbury Road (781),a
-43.7320771,-79.5008148,2,Exbury Road (873),a
-43.7320771,-79.5008148,2,Exbury Road (873),a
-43.7320941,-79.5076189,2,Austrey Court (093),a
-43.7320941,-79.5076189,2,Austrey Court (373),a
-43.7320942,-79.5113267,2,Jane Street (251),a
-43.7320942,-79.5113267,2,Jane Street (251),a
-43.7320942,-79.5113267,2,Jane Street (253),a
-43.7320942,-79.5113267,2,Jane Street (253),a
-43.7320942,-79.5113267,2,Jane Street (308),a
-43.7320942,-79.5113267,2,Jane Street (308),a
-43.7320942,-79.5113267,2,Jane Street (310),a
-43.7320942,-79.5113267,2,Jane Street (310),a
-43.7320998,-79.5101269,2,Troutbrooke Drive (068),a
-43.7320998,-79.5101269,2,Troutbrooke Drive (821),a
-43.7321252,-79.5003666,2,Buxton Road (097),a
-43.7321252,-79.5003666,2,Buxton Road (097),a
-43.7321252,-79.5003666,2,Buxton Road (661),a
-43.7321252,-79.5003666,2,Buxton Road (661),a
-43.7321252,-79.5003666,2,Exbury Road (734),a
-43.7321252,-79.5003666,2,Exbury Road (734),a
-43.7321252,-79.5003666,2,Exbury Road (782),a
-43.7321252,-79.5003666,2,Exbury Road (782),a
-43.7321252,-79.5003666,2,Exbury Road (826),a
-43.7321252,-79.5003666,2,Exbury Road (826),a
-43.7321252,-79.5003666,2,Exbury Road (874),a
-43.7321252,-79.5003666,2,Exbury Road (874),a
-43.7321656,-79.500006,2,Exbury Road (735),a
-43.7321656,-79.500006,2,Exbury Road (735),a
-43.7321656,-79.500006,2,Exbury Road (827),a
-43.7321656,-79.500006,2,Exbury Road (827),a
-43.7321795,-79.5100256,2,Troutbrooke Drive (069),a
-43.7321795,-79.5100256,2,Troutbrooke Drive (822),a
-43.7322154,-79.5003768,2,Buxton Road (098),a
-43.7322154,-79.5003768,2,Buxton Road (098),a
-43.7322154,-79.5003768,2,Buxton Road (662),a
-43.7322154,-79.5003768,2,Buxton Road (662),a
-43.7322594,-79.5099367,2,Troutbrooke Drive (070),a
-43.7322594,-79.5099367,2,Troutbrooke Drive (823),a
-43.7322718,-79.5026228,2,Sinton Court (356),a
-43.7322718,-79.5026228,2,Sinton Court (383),a
-43.7323033,-79.5098487,2,Troutbrooke Drive (071),a
-43.7323033,-79.5098487,2,Troutbrooke Drive (824),a
-43.7323055,-79.5003869,2,Buxton Road (099),a
-43.7323055,-79.5003869,2,Buxton Road (099),a
-43.7323055,-79.5003869,2,Buxton Road (663),a
-43.7323055,-79.5003869,2,Buxton Road (663),a
-43.7323129,-79.5023238,2,Sinton Court (355),a
-43.7323129,-79.5023238,2,Sinton Court (382),a
-43.7323648,-79.5097354,2,Troutbrooke Drive (072),a
-43.7323648,-79.5097354,2,Troutbrooke Drive (825),a
-43.7323869,-79.5004097,2,Buxton Road (100),a
-43.7323869,-79.5004097,2,Buxton Road (100),a
-43.7323869,-79.5004097,2,Buxton Road (664),a
-43.7323869,-79.5004097,2,Buxton Road (664),a
-43.7323922,-79.5094983,2,Monclova Road (482),a
-43.7323922,-79.5094983,2,Monclova Road (518),a
-43.7324087,-79.5096474,2,Troutbrooke Drive (073),a
-43.7324087,-79.5096474,2,Troutbrooke Drive (826),a
-43.732417,-79.5095976,2,Troutbrooke Drive (074),a
-43.732417,-79.5095976,2,Troutbrooke Drive (827),a
-43.7324432,-79.5095348,2,Monclova Road (020),a
-43.7324432,-79.5095348,2,Monclova Road (731),a
-43.7324432,-79.5095348,2,Troutbrooke Drive (058),a
-43.7324432,-79.5095348,2,Troutbrooke Drive (075),a
-43.7324432,-79.5095348,2,Troutbrooke Drive (811),a
-43.7324432,-79.5095348,2,Troutbrooke Drive (828),a
-43.7324861,-79.5004197,2,Buxton Road (101),a
-43.7324861,-79.5004197,2,Buxton Road (101),a
-43.7324861,-79.5004197,2,Buxton Road (665),a
-43.7324861,-79.5004197,2,Buxton Road (665),a
-43.7325095,-79.5038219,2,Troutbrooke Drive (483),a
-43.7325095,-79.5038219,2,Troutbrooke Drive (519),a
-43.732536,-79.5114234,2,Jane Street (103),a
-43.732536,-79.5114234,2,Jane Street (103),a
-43.732536,-79.5114234,2,Jane Street (171),a
-43.732536,-79.5114234,2,Jane Street (171),a
-43.732536,-79.5114234,2,Jane Street (250),a
-43.732536,-79.5114234,2,Jane Street (250),a
-43.732536,-79.5114234,2,Jane Street (307),a
-43.732536,-79.5114234,2,Jane Street (307),a
-43.7325674,-79.5004425,2,Buxton Road (102),a
-43.7325674,-79.5004425,2,Buxton Road (102),a
-43.7325674,-79.5004425,2,Buxton Road (666),a
-43.7325674,-79.5004425,2,Buxton Road (666),a
-43.7326405,-79.5005276,2,Buxton Road (103),a
-43.7326405,-79.5005276,2,Buxton Road (103),a
-43.7326405,-79.5005276,2,Buxton Road (667),a
-43.7326405,-79.5005276,2,Buxton Road (667),a
-43.7326868,-79.5006258,2,Buxton Road (104),a
-43.7326868,-79.5006258,2,Buxton Road (104),a
-43.7326868,-79.5006258,2,Buxton Road (668),a
-43.7326868,-79.5006258,2,Buxton Road (668),a
-43.7327243,-79.5007366,2,Buxton Road (105),a
-43.7327243,-79.5007366,2,Buxton Road (105),a
-43.7327243,-79.5007366,2,Buxton Road (669),a
-43.7327243,-79.5007366,2,Buxton Road (669),a
-43.7327349,-79.5008605,2,Buxton Road (106),a
-43.7327349,-79.5008605,2,Buxton Road (106),a
-43.7327349,-79.5008605,2,Buxton Road (670),a
-43.7327349,-79.5008605,2,Buxton Road (670),a
-43.7327636,-79.5009839,2,Buxton Road (107),a
-43.7327636,-79.5009839,2,Buxton Road (107),a
-43.7327636,-79.5009839,2,Buxton Road (671),a
-43.7327636,-79.5009839,2,Buxton Road (671),a
-43.7327647,-79.5039317,2,Buxton Road (131),a
-43.7327647,-79.5039317,2,Buxton Road (695),a
-43.7327647,-79.5039317,2,Troutbrooke Drive (077),a
-43.7327647,-79.5039317,2,Troutbrooke Drive (078),a
-43.7327647,-79.5039317,2,Troutbrooke Drive (830),a
-43.7327647,-79.5039317,2,Troutbrooke Drive (831),a
-43.732792,-79.501095,2,Buxton Road (108),a
-43.732792,-79.501095,2,Buxton Road (108),a
-43.732792,-79.501095,2,Buxton Road (672),a
-43.732792,-79.501095,2,Buxton Road (672),a
-43.7328117,-79.5012187,2,Buxton Road (109),a
-43.7328117,-79.5012187,2,Buxton Road (109),a
-43.7328117,-79.5012187,2,Buxton Road (673),a
-43.7328117,-79.5012187,2,Buxton Road (673),a
-43.7328174,-79.5037144,2,Buxton Road (130),a
-43.7328174,-79.5037144,2,Buxton Road (694),a
-43.7328403,-79.5013421,2,Buxton Road (110),a
-43.7328403,-79.5013421,2,Buxton Road (674),a
-43.7328427,-79.5035896,2,Buxton Road (129),a
-43.7328427,-79.5035896,2,Buxton Road (693),a
-43.7328683,-79.5034772,2,Buxton Road (128),a
-43.7328683,-79.5034772,2,Buxton Road (692),a
-43.7328688,-79.5014532,2,Buxton Road (111),a
-43.7328688,-79.5014532,2,Buxton Road (675),a
-43.7328775,-79.5114982,2,Jane Street (052),a
-43.7328775,-79.5114982,2,Jane Street (052),a
-43.7328775,-79.5114982,2,Jane Street (323),a
-43.7328775,-79.5114982,2,Jane Street (323),a
-43.7328837,-79.5067176,2,Linthurst Avenue (187),a
-43.7328837,-79.5067176,2,Linthurst Avenue (494),a
-43.7328974,-79.5015766,2,Buxton Road (112),a
-43.7328974,-79.5015766,2,Buxton Road (676),a
-43.7329027,-79.5033521,2,Buxton Road (127),a
-43.7329027,-79.5033521,2,Buxton Road (691),a
-43.7329259,-79.5016877,2,Buxton Road (113),a
-43.7329259,-79.5016877,2,Buxton Road (677),a
-43.7329282,-79.5032398,2,Buxton Road (126),a
-43.7329282,-79.5032398,2,Buxton Road (690),a
-43.7329536,-79.5031149,2,Buxton Road (125),a
-43.7329536,-79.5031149,2,Buxton Road (689),a
-43.7329545,-79.5018111,2,Buxton Road (114),a
-43.7329545,-79.5018111,2,Buxton Road (678),a
-43.7329743,-79.5067651,2,Linthurst Avenue (188),a
-43.7329743,-79.5067651,2,Linthurst Avenue (495),a
-43.7329791,-79.5030026,2,Buxton Road (124),a
-43.7329791,-79.5030026,2,Buxton Road (688),a
-43.732983,-79.5019222,2,Buxton Road (115),a
-43.732983,-79.5019222,2,Buxton Road (679),a
-43.7330116,-79.5020456,2,Buxton Road (116),a
-43.7330116,-79.5020456,2,Buxton Road (680),a
-43.7330135,-79.5028775,2,Buxton Road (123),a
-43.7330135,-79.5028775,2,Buxton Road (687),a
-43.733039,-79.5027651,2,Buxton Road (122),a
-43.733039,-79.5027651,2,Buxton Road (686),a
-43.7330401,-79.5021567,2,Buxton Road (117),a
-43.7330401,-79.5021567,2,Buxton Road (681),a
-43.7330644,-79.5026403,2,Buxton Road (121),a
-43.7330644,-79.5026403,2,Buxton Road (685),a
-43.7330676,-79.5040631,2,Troutbrooke Drive (079),a
-43.7330676,-79.5040631,2,Troutbrooke Drive (832),a
-43.7330687,-79.5022801,2,Buxton Road (118),a
-43.7330687,-79.5022801,2,Buxton Road (682),a
-43.7330809,-79.5025282,2,Buxton Road (120),a
-43.7330809,-79.5025282,2,Buxton Road (684),a
-43.7330883,-79.5024038,2,Buxton Road (119),a
-43.7330883,-79.5024038,2,Buxton Road (683),a
-43.7332298,-79.5069618,2,Linthurst Avenue (487),a
-43.7332298,-79.5069618,2,Linthurst Avenue (523),a
-43.7332883,-79.5070068,2,Linthurst Avenue (189),a
-43.7332883,-79.5070068,2,Linthurst Avenue (496),a
-43.7332883,-79.5070068,2,Troutbrooke Drive (059),a
-43.7332883,-79.5070068,2,Troutbrooke Drive (096),a
-43.7332883,-79.5070068,2,Troutbrooke Drive (812),a
-43.7332883,-79.5070068,2,Troutbrooke Drive (849),a
-43.7333929,-79.5041477,2,Troutbrooke Drive (080),a
-43.7333929,-79.5041477,2,Troutbrooke Drive (833),a
-43.7334089,-79.5041512,2,Troutbrooke Drive (081),a
-43.7334089,-79.5041512,2,Troutbrooke Drive (834),a
-43.7334949,-79.5041744,2,Troutbrooke Drive (082),a
-43.7334949,-79.5041744,2,Troutbrooke Drive (835),a
-43.7335487,-79.5041856,2,Troutbrooke Drive (083),a
-43.7335487,-79.5041856,2,Troutbrooke Drive (836),a
-43.7335968,-79.5041795,2,Troutbrooke Drive (084),a
-43.7335968,-79.5041795,2,Troutbrooke Drive (837),a
-43.7336574,-79.504182,2,Troutbrooke Drive (085),a
-43.7336574,-79.504182,2,Troutbrooke Drive (838),a
-43.7336848,-79.5041995,2,Troutbrooke Drive (086),a
-43.7336848,-79.5041995,2,Troutbrooke Drive (839),a
-43.7337054,-79.5042304,2,Troutbrooke Drive (087),a
-43.7337054,-79.5042304,2,Troutbrooke Drive (840),a
-43.7337204,-79.5044973,2,Troutbrooke Drive (091),a
-43.7337204,-79.5044973,2,Troutbrooke Drive (844),a
-43.7337214,-79.5056574,2,Troutbrooke Drive (095),a
-43.7337214,-79.5056574,2,Troutbrooke Drive (848),a
-43.7337216,-79.5042671,2,Troutbrooke Drive (088),a
-43.7337216,-79.5042671,2,Troutbrooke Drive (841),a
 43.7337252,-79.5383045,2,Weston Road (219),a
 43.7337252,-79.5383045,2,Weston Road (228),a
 43.7337252,-79.5383045,2,Weston Road (671),a
 43.7337252,-79.5383045,2,Weston Road (680),a
-43.7337271,-79.5044078,2,Troutbrooke Drive (090),a
-43.7337271,-79.5044078,2,Troutbrooke Drive (843),a
-43.7337279,-79.504618,2,Troutbrooke Drive (484),a
-43.7337279,-79.504618,2,Troutbrooke Drive (520),a
-43.733729,-79.5043129,2,Troutbrooke Drive (089),a
-43.733729,-79.5043129,2,Troutbrooke Drive (842),a
-43.7337714,-79.5055136,2,Troutbrooke Drive (094),a
-43.7337714,-79.5055136,2,Troutbrooke Drive (847),a
-43.7337746,-79.5053698,2,Troutbrooke Drive (092),a
-43.7337746,-79.5053698,2,Troutbrooke Drive (845),a
-43.7337806,-79.5054234,2,Troutbrooke Drive (093),a
-43.7337806,-79.5054234,2,Troutbrooke Drive (846),a
 43.7338246,-79.3634667,2,Lawrence Avenue East (418),a
 43.7338853,-79.5383387,2,Weston Road (227),a
 43.7338853,-79.5383387,2,Weston Road (679),a
@@ -505,12 +49,6 @@ lat,lon,sz,names,len_cat
 43.7340837,-79.5382527,2,Weston Road (222),a
 43.7340837,-79.5382527,2,Weston Road (647),a
 43.7340837,-79.5382527,2,Weston Road (674),a
-43.7341166,-79.5118054,2,Jane Street (053),a
-43.7341166,-79.5118054,2,Jane Street (053),a
-43.7341166,-79.5118054,2,Jane Street (232),a
-43.7341166,-79.5118054,2,Jane Street (232),a
-43.7341166,-79.5118054,2,Jane Street (324),a
-43.7341166,-79.5118054,2,Jane Street (324),a
 43.7341576,-79.5383999,2,Weston Road (148),a
 43.7341576,-79.5383999,2,Weston Road (992),a
 43.734165,-79.5382756,2,Weston Road (223),a
@@ -522,14 +60,6 @@ lat,lon,sz,names,len_cat
 43.7342119,-79.361667,2,Lawrence Avenue East (421),a
 43.7342215,-79.3616214,2,Lawrence Avenue East (420),a
 43.7342215,-79.3616214,2,Lawrence Avenue East (884),a
-43.7343148,-79.5118545,2,Jane Street (248),a
-43.7343148,-79.5118545,2,Jane Street (248),a
-43.7343148,-79.5118545,2,Jane Street (249),a
-43.7343148,-79.5118545,2,Jane Street (249),a
-43.7343148,-79.5118545,2,Jane Street (305),a
-43.7343148,-79.5118545,2,Jane Street (305),a
-43.7343148,-79.5118545,2,Jane Street (306),a
-43.7343148,-79.5118545,2,Jane Street (306),a
 43.7343268,-79.5354405,2,Samba Drive (087),a
 43.7343268,-79.5354405,2,Samba Drive (087),a
 43.7343268,-79.5354405,2,Samba Drive (249),a
@@ -579,18 +109,6 @@ lat,lon,sz,names,len_cat
 43.7345567,-79.5414449,2,Florida Crescent (550),a
 43.7345578,-79.5415318,2,Florida Crescent (520),a
 43.7345578,-79.5415318,2,Florida Crescent (551),a
-43.7345631,-79.5119161,2,Giltspur Drive (883),a
-43.7345631,-79.5119161,2,Giltspur Drive (883),a
-43.7345631,-79.5119161,2,Giltspur Drive (969),a
-43.7345631,-79.5119161,2,Giltspur Drive (969),a
-43.7345631,-79.5119161,2,Jane Street (247),a
-43.7345631,-79.5119161,2,Jane Street (247),a
-43.7345631,-79.5119161,2,Jane Street (265),a
-43.7345631,-79.5119161,2,Jane Street (265),a
-43.7345631,-79.5119161,2,Jane Street (304),a
-43.7345631,-79.5119161,2,Jane Street (304),a
-43.7345631,-79.5119161,2,Jane Street (311),a
-43.7345631,-79.5119161,2,Jane Street (311),a
 43.7345645,-79.5399422,2,Florida Crescent (518),a
 43.7345645,-79.5399422,2,Florida Crescent (549),a
 43.7345684,-79.5416557,2,Florida Crescent (521),a
@@ -603,10 +121,6 @@ lat,lon,sz,names,len_cat
 43.7345887,-79.5397181,2,Florida Crescent (547),a
 43.7345915,-79.5420525,2,Florida Crescent (524),a
 43.7345915,-79.5420525,2,Florida Crescent (555),a
-43.7345946,-79.5117734,2,Giltspur Drive (049),a
-43.7345946,-79.5117734,2,Giltspur Drive (049),a
-43.7345946,-79.5117734,2,Giltspur Drive (813),a
-43.7345946,-79.5117734,2,Giltspur Drive (813),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (057),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (104),a
 43.7346046,-79.5465994,2,Verobeach Boulevard (444),a
@@ -627,10 +141,6 @@ lat,lon,sz,names,len_cat
 43.734697,-79.5355183,2,Samba Drive (089),a
 43.734697,-79.5355183,2,Samba Drive (250),a
 43.734697,-79.5355183,2,Samba Drive (250),a
-43.7347046,-79.5119484,2,Jane Street (266),a
-43.7347046,-79.5119484,2,Jane Street (266),a
-43.7347046,-79.5119484,2,Jane Street (312),a
-43.7347046,-79.5119484,2,Jane Street (312),a
 43.734723,-79.5424839,2,Florida Crescent (527),a
 43.734723,-79.5424839,2,Florida Crescent (558),a
 43.7347301,-79.5447353,2,Verobeach Boulevard (073),a
@@ -647,20 +157,12 @@ lat,lon,sz,names,len_cat
 43.7347888,-79.5469402,2,Verobeach Boulevard (492),a
 43.734805,-79.5446798,2,Verobeach Boulevard (074),a
 43.734805,-79.5446798,2,Verobeach Boulevard (461),a
-43.7348178,-79.5107301,2,Giltspur Drive (885),a
-43.7348178,-79.5107301,2,Giltspur Drive (895),a
-43.7348178,-79.5107301,2,Giltspur Drive (971),a
-43.7348178,-79.5107301,2,Giltspur Drive (981),a
-43.7348178,-79.5107301,2,Turks Road (449),a
-43.7348178,-79.5107301,2,Turks Road (870),a
 43.734825,-79.5427174,2,Florida Crescent (529),a
 43.734825,-79.5427174,2,Florida Crescent (560),a
 43.7348615,-79.5427537,2,Florida Crescent (530),a
 43.7348615,-79.5427537,2,Florida Crescent (561),a
 43.7348964,-79.5446364,2,Verobeach Boulevard (075),a
 43.7348964,-79.5446364,2,Verobeach Boulevard (462),a
-43.7349058,-79.510765,2,Turks Road (729),a
-43.7349058,-79.510765,2,Turks Road (887),a
 43.7349256,-79.5428391,2,Florida Crescent (531),a
 43.7349256,-79.5428391,2,Florida Crescent (562),a
 43.7349656,-79.5446066,2,Verobeach Boulevard (076),a
@@ -671,20 +173,6 @@ lat,lon,sz,names,len_cat
 43.7350599,-79.5445875,2,Verobeach Boulevard (464),a
 43.7350722,-79.5430342,2,Florida Crescent (533),a
 43.7350722,-79.5430342,2,Florida Crescent (564),a
-43.7350815,-79.5095439,2,Coquette Road (282),a
-43.7350815,-79.5095439,2,Coquette Road (965),a
-43.7350815,-79.5095439,2,Giltspur Drive (896),a
-43.7350815,-79.5095439,2,Giltspur Drive (897),a
-43.7350815,-79.5095439,2,Giltspur Drive (982),a
-43.7350815,-79.5095439,2,Giltspur Drive (983),a
-43.7350874,-79.5120367,2,Jane Street (267),a
-43.7350874,-79.5120367,2,Jane Street (267),a
-43.7350874,-79.5120367,2,Jane Street (268),a
-43.7350874,-79.5120367,2,Jane Street (268),a
-43.7350874,-79.5120367,2,Jane Street (313),a
-43.7350874,-79.5120367,2,Jane Street (313),a
-43.7350874,-79.5120367,2,Jane Street (314),a
-43.7350874,-79.5120367,2,Jane Street (314),a
 43.7351019,-79.5460758,2,West Palm Court (032),a
 43.7351019,-79.5460758,2,West Palm Court (768),a
 43.7351196,-79.5460506,2,West Palm Court (033),a
@@ -719,10 +207,6 @@ lat,lon,sz,names,len_cat
 43.7351545,-79.5459628,2,West Palm Court (772),a
 43.735165,-79.5445897,2,Verobeach Boulevard (080),a
 43.735165,-79.5445897,2,Verobeach Boulevard (467),a
-43.735175,-79.5095749,2,Coquette Road (718),a
-43.735175,-79.5095749,2,Coquette Road (855),a
-43.73519,-79.5095785,2,Coquette Road (283),a
-43.73519,-79.5095785,2,Coquette Road (966),a
 43.7352123,-79.547675,2,Verobeach Boulevard (107),a
 43.7352123,-79.547675,2,Verobeach Boulevard (107),a
 43.7352123,-79.547675,2,Verobeach Boulevard (494),a
@@ -742,14 +226,6 @@ lat,lon,sz,names,len_cat
 43.7352581,-79.547736,2,Verobeach Boulevard (495),a
 43.7352802,-79.5442938,2,Coral Gable Drive (232),a
 43.7352802,-79.5442938,2,Coral Gable Drive (646),a
-43.7352809,-79.5120813,2,Jane Street (269),a
-43.7352809,-79.5120813,2,Jane Street (269),a
-43.7352809,-79.5120813,2,Jane Street (274),a
-43.7352809,-79.5120813,2,Jane Street (274),a
-43.7352809,-79.5120813,2,Jane Street (315),a
-43.7352809,-79.5120813,2,Jane Street (315),a
-43.7352809,-79.5120813,2,Jane Street (320),a
-43.7352809,-79.5120813,2,Jane Street (320),a
 43.7352857,-79.544246,2,Coral Gable Drive (233),a
 43.7352857,-79.544246,2,Coral Gable Drive (647),a
 43.7352946,-79.5477724,2,Verobeach Boulevard (109),a
@@ -798,10 +274,6 @@ lat,lon,sz,names,len_cat
 43.73543,-79.5372141,2,Samba Drive (263),a
 43.735431,-79.543634,2,Coral Gable Drive (238),a
 43.735431,-79.543634,2,Coral Gable Drive (652),a
-43.7354334,-79.510988,2,Turks Road (450),a
-43.7354334,-79.510988,2,Turks Road (450),a
-43.7354334,-79.510988,2,Turks Road (871),a
-43.7354334,-79.510988,2,Turks Road (871),a
 43.7354352,-79.536916,2,Samba Drive (098),a
 43.7354352,-79.536916,2,Samba Drive (259),a
 43.7354356,-79.5398238,2,Coral Gable Drive (243),a
@@ -854,18 +326,6 @@ lat,lon,sz,names,len_cat
 43.735488,-79.5410497,2,Hibiscus Court (911),a
 43.7354924,-79.5435083,2,Coral Gable Drive (240),a
 43.7354924,-79.5435083,2,Coral Gable Drive (654),a
-43.7354968,-79.5110113,2,Turks Road (451),a
-43.7354968,-79.5110113,2,Turks Road (451),a
-43.7354968,-79.5110113,2,Turks Road (872),a
-43.7354968,-79.5110113,2,Turks Road (872),a
-43.7355005,-79.5121318,2,Jane Street (273),a
-43.7355005,-79.5121318,2,Jane Street (273),a
-43.7355005,-79.5121318,2,Jane Street (275),a
-43.7355005,-79.5121318,2,Jane Street (275),a
-43.7355005,-79.5121318,2,Jane Street (319),a
-43.7355005,-79.5121318,2,Jane Street (319),a
-43.7355005,-79.5121318,2,Jane Street (321),a
-43.7355005,-79.5121318,2,Jane Street (321),a
 43.7355098,-79.5357096,2,Samba Drive (092),a
 43.7355098,-79.5357096,2,Samba Drive (092),a
 43.7355098,-79.5357096,2,Samba Drive (253),a
@@ -908,10 +368,6 @@ lat,lon,sz,names,len_cat
 43.7355749,-79.5358695,2,Samba Drive (095),a
 43.7355749,-79.5358695,2,Samba Drive (256),a
 43.7355749,-79.5358695,2,Samba Drive (256),a
-43.7356049,-79.511021,2,Turks Road (452),a
-43.7356049,-79.511021,2,Turks Road (452),a
-43.7356049,-79.511021,2,Turks Road (873),a
-43.7356049,-79.511021,2,Turks Road (873),a
 43.735611,-79.5372842,2,Samba Drive (104),a
 43.735611,-79.5372842,2,Samba Drive (265),a
 43.7356211,-79.5479632,2,Verobeach Boulevard (138),a
@@ -960,10 +416,6 @@ lat,lon,sz,names,len_cat
 43.7357873,-79.5344264,2,Rivalda Road (648),a
 43.7357915,-79.5464937,2,Belleglade Court (434),a
 43.7357915,-79.5464937,2,Belleglade Court (751),a
-43.7357943,-79.5110412,2,Turks Road (453),a
-43.7357943,-79.5110412,2,Turks Road (453),a
-43.7357943,-79.5110412,2,Turks Road (874),a
-43.7357943,-79.5110412,2,Turks Road (874),a
 43.7358179,-79.5450278,2,Verobeach Boulevard (132),a
 43.7358179,-79.5450278,2,Verobeach Boulevard (936),a
 43.7358185,-79.5436619,2,Coral Gable Drive (210),a
@@ -986,10 +438,6 @@ lat,lon,sz,names,len_cat
 43.7358995,-79.5450755,2,Verobeach Boulevard (935),a
 43.7359246,-79.5463415,2,Belleglade Court (437),a
 43.7359246,-79.5463415,2,Belleglade Court (754),a
-43.7359268,-79.5122299,2,Jane Street (272),a
-43.7359268,-79.5122299,2,Jane Street (272),a
-43.7359268,-79.5122299,2,Jane Street (318),a
-43.7359268,-79.5122299,2,Jane Street (318),a
 43.7359445,-79.5479057,2,Verobeach Boulevard (143),a
 43.7359445,-79.5479057,2,Verobeach Boulevard (143),a
 43.7359445,-79.5479057,2,Verobeach Boulevard (948),a
@@ -1022,10 +470,6 @@ lat,lon,sz,names,len_cat
 43.7361438,-79.5451689,2,Verobeach Boulevard (932),a
 43.736155,-79.5425113,2,Hibiscus Court (776),a
 43.736155,-79.5425113,2,Hibiscus Court (901),a
-43.7361798,-79.5122982,2,Jane Street (271),a
-43.7361798,-79.5122982,2,Jane Street (271),a
-43.7361798,-79.5122982,2,Jane Street (317),a
-43.7361798,-79.5122982,2,Jane Street (317),a
 43.7361888,-79.5374067,2,Samba Drive (347),a
 43.7361888,-79.5374067,2,Samba Drive (560),a
 43.7361888,-79.5374067,2,Talent Crescent (376),a
@@ -1036,10 +480,6 @@ lat,lon,sz,names,len_cat
 43.7362177,-79.5439005,2,Coral Gable Drive (629),a
 43.7362341,-79.5451916,2,Verobeach Boulevard (127),a
 43.7362341,-79.5451916,2,Verobeach Boulevard (931),a
-43.7362546,-79.5111291,2,Turks Road (454),a
-43.7362546,-79.5111291,2,Turks Road (454),a
-43.7362546,-79.5111291,2,Turks Road (875),a
-43.7362546,-79.5111291,2,Turks Road (875),a
 43.736275,-79.547699,2,Verobeach Boulevard (132),a
 43.736275,-79.547699,2,Verobeach Boulevard (132),a
 43.736275,-79.547699,2,Verobeach Boulevard (519),a
@@ -1092,10 +532,6 @@ lat,lon,sz,names,len_cat
 43.7364445,-79.5362829,2,Talent Crescent (449),a
 43.7364516,-79.5438825,2,Coral Gable Drive (218),a
 43.7364516,-79.5438825,2,Coral Gable Drive (632),a
-43.7364615,-79.5111116,2,Turks Road (455),a
-43.7364615,-79.5111116,2,Turks Road (455),a
-43.7364615,-79.5111116,2,Turks Road (876),a
-43.7364615,-79.5111116,2,Turks Road (876),a
 43.7364717,-79.5362947,2,Talent Crescent (388),a
 43.7364717,-79.5362947,2,Talent Crescent (388),a
 43.7364717,-79.5362947,2,Talent Crescent (450),a
@@ -1114,14 +550,6 @@ lat,lon,sz,names,len_cat
 43.7366209,-79.5451574,2,Verobeach Boulevard (927),a
 43.7366654,-79.5437034,2,Coral Gable Drive (221),a
 43.7366654,-79.5437034,2,Coral Gable Drive (635),a
-43.7367064,-79.5124435,2,Jane Street (270),a
-43.7367064,-79.5124435,2,Jane Street (270),a
-43.7367064,-79.5124435,2,Jane Street (276),a
-43.7367064,-79.5124435,2,Jane Street (276),a
-43.7367064,-79.5124435,2,Jane Street (316),a
-43.7367064,-79.5124435,2,Jane Street (316),a
-43.7367064,-79.5124435,2,Jane Street (322),a
-43.7367064,-79.5124435,2,Jane Street (322),a
 43.7367119,-79.5401332,2,Coral Gable Drive (244),a
 43.7367119,-79.5401332,2,Coral Gable Drive (658),a
 43.736718,-79.5435904,2,Coral Gable Drive (222),a
@@ -1223,8 +651,6 @@ lat,lon,sz,names,len_cat
 43.7372353,-79.544621,2,Verobeach Boulevard (918),a
 43.737238,-79.5462476,2,Belleglade Court (446),a
 43.737238,-79.5462476,2,Belleglade Court (763),a
-43.7372414,-79.5101609,2,Coquette Road (284),a
-43.7372414,-79.5101609,2,Coquette Road (967),a
 43.7372836,-79.547004,2,Verobeach Boulevard (133),a
 43.7372836,-79.547004,2,Verobeach Boulevard (133),a
 43.7372836,-79.547004,2,Verobeach Boulevard (520),a
@@ -1275,10 +701,6 @@ lat,lon,sz,names,len_cat
 43.7375606,-79.5297758,2,Arrow Road (556),a
 43.7375613,-79.5452452,2,Verobeach Boulevard (163),a
 43.7375613,-79.5452452,2,Verobeach Boulevard (968),a
-43.7375996,-79.5127002,2,Jane Street (277),a
-43.7375996,-79.5127002,2,Jane Street (278),a
-43.7375996,-79.5127002,2,Jane Street (323),a
-43.7375996,-79.5127002,2,Jane Street (324),a
 43.7376077,-79.5452948,2,Verobeach Boulevard (162),a
 43.7376077,-79.5452948,2,Verobeach Boulevard (967),a
 43.7376092,-79.5439711,2,St Lucie Drive (078),a
@@ -1329,8 +751,6 @@ lat,lon,sz,names,len_cat
 43.7377902,-79.5401246,2,Verobeach Boulevard (906),a
 43.737792,-79.5251135,2,Oakdale Road (056),a
 43.737792,-79.5251135,2,Oakdale Road (191),a
-43.737803,-79.5201187,2,Laura Road (326),a
-43.737803,-79.5201187,2,Laura Road (568),a
 43.7378219,-79.5397885,2,Verobeach Boulevard (102),a
 43.7378219,-79.5397885,2,Verobeach Boulevard (905),a
 43.7378318,-79.5419739,2,Verobeach Boulevard (044),a
@@ -1367,16 +787,10 @@ lat,lon,sz,names,len_cat
 43.7379045,-79.5392029,2,Weston Road (450),a
 43.7379045,-79.5392029,2,Weston Road (821),a
 43.7379045,-79.5392029,2,Weston Road (822),a
-43.7379151,-79.5201468,2,Laura Road (002),a
-43.7379151,-79.5201468,2,Laura Road (294),a
 43.7379314,-79.5455955,2,Verobeach Boulevard (159),a
 43.7379314,-79.5455955,2,Verobeach Boulevard (964),a
 43.737933,-79.5421395,2,Indrio Road (082),a
 43.737933,-79.5421395,2,Indrio Road (111),a
-43.7379444,-79.5127997,2,Jane Street (279),a
-43.7379444,-79.5127997,2,Jane Street (281),a
-43.7379444,-79.5127997,2,Jane Street (325),a
-43.7379444,-79.5127997,2,Jane Street (327),a
 43.7379459,-79.546555,2,Verobeach Boulevard (144),a
 43.7379459,-79.546555,2,Verobeach Boulevard (144),a
 43.7379459,-79.546555,2,Verobeach Boulevard (949),a
@@ -1413,10 +827,6 @@ lat,lon,sz,names,len_cat
 43.7382296,-79.5463561,2,Verobeach Boulevard (952),a
 43.738249,-79.546062,2,Verobeach Boulevard (154),a
 43.738249,-79.546062,2,Verobeach Boulevard (959),a
-43.7382505,-79.512888,2,Jane Street (280),a
-43.7382505,-79.512888,2,Jane Street (282),a
-43.7382505,-79.512888,2,Jane Street (326),a
-43.7382505,-79.512888,2,Jane Street (328),a
 43.7382686,-79.5299575,2,Arrow Road (298),a
 43.7382686,-79.5299575,2,Arrow Road (869),a
 43.7382766,-79.5463233,2,Verobeach Boulevard (148),a
@@ -1429,12 +839,6 @@ lat,lon,sz,names,len_cat
 43.7382766,-79.5443722,2,St Lucie Drive (976),a
 43.7382787,-79.5461326,2,Verobeach Boulevard (153),a
 43.7382787,-79.5461326,2,Verobeach Boulevard (958),a
-43.7382998,-79.520243,2,John Cabotway (225),a
-43.7382998,-79.520243,2,John Cabotway (546),a
-43.7382998,-79.520243,2,Laura Road (314),a
-43.7382998,-79.520243,2,Laura Road (327),a
-43.7382998,-79.520243,2,Laura Road (556),a
-43.7382998,-79.520243,2,Laura Road (569),a
 43.7383029,-79.5442867,2,Gulfstream Road (076),a
 43.7383029,-79.5442867,2,Gulfstream Road (105),a
 43.7383084,-79.5462805,2,Verobeach Boulevard (149),a
@@ -1464,24 +868,8 @@ lat,lon,sz,names,len_cat
 43.7383554,-79.5253555,2,Oakdale Road (097),a
 43.7383554,-79.5253555,2,Oakdale Road (187),a
 43.7383554,-79.5253555,2,Oakdale Road (232),a
-43.7383645,-79.5197805,2,John Cabotway (220),a
-43.7383645,-79.5197805,2,John Cabotway (226),a
-43.7383645,-79.5197805,2,John Cabotway (541),a
-43.7383645,-79.5197805,2,John Cabotway (547),a
-43.7383645,-79.5197805,2,Sebastian Cabotway (391),a
-43.7383645,-79.5197805,2,Sebastian Cabotway (646),a
-43.7383695,-79.5197525,2,John Cabotway (221),a
-43.7383695,-79.5197525,2,John Cabotway (542),a
-43.7383815,-79.5196889,2,John Cabotway (222),a
-43.7383815,-79.5196889,2,John Cabotway (543),a
-43.738394,-79.5196255,2,John Cabotway (223),a
-43.738394,-79.5196255,2,John Cabotway (544),a
 43.7384223,-79.5445053,2,St Lucie Drive (621),a
 43.7384223,-79.5445053,2,St Lucie Drive (977),a
-43.7384223,-79.5129372,2,Jane Street (283),a
-43.7384223,-79.5129372,2,Jane Street (284),a
-43.7384223,-79.5129372,2,Jane Street (329),a
-43.7384223,-79.5129372,2,Jane Street (330),a
 43.7384493,-79.5393309,2,Weston Road (299),a
 43.7384493,-79.5393309,2,Weston Road (300),a
 43.7384493,-79.5393309,2,Weston Road (863),a
@@ -1498,12 +886,6 @@ lat,lon,sz,names,len_cat
 43.738528,-79.5393489,2,Weston Road (298),a
 43.738528,-79.5393489,2,Weston Road (840),a
 43.738528,-79.5393489,2,Weston Road (862),a
-43.7385285,-79.5190618,2,John Cabotway (218),a
-43.7385285,-79.5190618,2,John Cabotway (224),a
-43.7385285,-79.5190618,2,John Cabotway (227),a
-43.7385285,-79.5190618,2,John Cabotway (539),a
-43.7385285,-79.5190618,2,John Cabotway (545),a
-43.7385285,-79.5190618,2,John Cabotway (548),a
 43.7385444,-79.543484,2,Gulfstream Road (106),a
 43.7385444,-79.543484,2,Gulfstream Road (574),a
 43.7385499,-79.5446264,2,St Lucie Drive (623),a
@@ -1524,8 +906,6 @@ lat,lon,sz,names,len_cat
 43.7385756,-79.536765,2,Talent Crescent (453),a
 43.7385772,-79.5432349,2,Gulfstream Road (108),a
 43.7385772,-79.5432349,2,Gulfstream Road (576),a
-43.7385787,-79.5188329,2,John Cabotway (228),a
-43.7385787,-79.5188329,2,John Cabotway (549),a
 43.7385814,-79.5378292,2,Talent Crescent (205),a
 43.7385814,-79.5378292,2,Talent Crescent (411),a
 43.7385844,-79.5416824,2,Gulfstream Road (100),a
@@ -1548,10 +928,6 @@ lat,lon,sz,names,len_cat
 43.7386233,-79.5447363,2,St Lucie Drive (980),a
 43.7386264,-79.5421533,2,Gulfstream Road (102),a
 43.7386264,-79.5421533,2,Gulfstream Road (570),a
-43.7386321,-79.5129974,2,Jane Street (106),a
-43.7386321,-79.5129974,2,Jane Street (174),a
-43.7386321,-79.5129974,2,Jane Street (285),a
-43.7386321,-79.5129974,2,Jane Street (331),a
 43.7386405,-79.5418425,2,Gulfstream Road (101),a
 43.7386405,-79.5418425,2,Gulfstream Road (569),a
 43.7386476,-79.5367632,2,Talent Crescent (392),a
@@ -1574,8 +950,6 @@ lat,lon,sz,names,len_cat
 43.7387202,-79.5368111,2,Talent Crescent (457),a
 43.7387207,-79.5368484,2,Talent Crescent (396),a
 43.7387207,-79.5368484,2,Talent Crescent (458),a
-43.7387246,-79.5203573,2,Laura Road (315),a
-43.7387246,-79.5203573,2,Laura Road (557),a
 43.7387522,-79.5449568,2,St Lucie Drive (626),a
 43.7387522,-79.5449568,2,St Lucie Drive (982),a
 43.7387893,-79.5450428,2,St Lucie Drive (627),a
@@ -1584,12 +958,6 @@ lat,lon,sz,names,len_cat
 43.73881,-79.5254697,2,Oakdale Road (608),a
 43.7388267,-79.5451536,2,St Lucie Drive (628),a
 43.7388267,-79.5451536,2,St Lucie Drive (984),a
-43.7388639,-79.5130638,2,Jane Street (055),a
-43.7388639,-79.5130638,2,Jane Street (077),a
-43.7388639,-79.5130638,2,Jane Street (095),a
-43.7388639,-79.5130638,2,Jane Street (326),a
-43.7388639,-79.5130638,2,Jane Street (360),a
-43.7388639,-79.5130638,2,Jane Street (409),a
 43.7388703,-79.5351682,2,Rivalda Road (125),a
 43.7388703,-79.5351682,2,Rivalda Road (125),a
 43.7388703,-79.5351682,2,Rivalda Road (369),a
@@ -1604,8 +972,6 @@ lat,lon,sz,names,len_cat
 43.7389299,-79.5394386,2,Weston Road (708),a
 43.7389575,-79.545523,2,St Lucie Drive (631),a
 43.7389575,-79.545523,2,St Lucie Drive (987),a
-43.7389734,-79.5131728,2,Jane Street (094),a
-43.7389734,-79.5131728,2,Jane Street (408),a
 43.7389791,-79.5394499,2,Bradstock Road (155),a
 43.7389791,-79.5394499,2,Bradstock Road (396),a
 43.7389791,-79.5394499,2,Weston Road (198),a
@@ -1613,14 +979,10 @@ lat,lon,sz,names,len_cat
 43.7389791,-79.5394499,2,Weston Road (973),a
 43.7389851,-79.545572,2,St Lucie Drive (632),a
 43.7389851,-79.545572,2,St Lucie Drive (988),a
-43.7389891,-79.5129986,2,Jane Street (056),a
-43.7389891,-79.5129986,2,Jane Street (327),a
 43.7390159,-79.5392838,2,Bradstock Road (156),a
 43.7390159,-79.5392838,2,Bradstock Road (397),a
 43.7390215,-79.545596,2,St Lucie Drive (633),a
 43.7390215,-79.545596,2,St Lucie Drive (989),a
-43.7390388,-79.5130118,2,Jane Street (547),a
-43.7390388,-79.5130118,2,Jane Street (953),a
 43.7390666,-79.5456073,2,St Lucie Drive (634),a
 43.7390666,-79.5456073,2,St Lucie Drive (990),a
 43.7390814,-79.5406405,2,St Lucie Drive (011),a
@@ -1649,24 +1011,8 @@ lat,lon,sz,names,len_cat
 43.7392171,-79.5255705,2,Oakdale Road (486),a
 43.7392171,-79.5255705,2,Oakdale Road (609),a
 43.7392171,-79.5255705,2,Oakdale Road (852),a
-43.7392174,-79.5201832,2,Sebastian Cabotway (387),a
-43.7392174,-79.5201832,2,Sebastian Cabotway (642),a
-43.7392175,-79.5132531,2,Jane Street (093),a
-43.7392175,-79.5132531,2,Jane Street (405),a
 43.7392485,-79.5301954,2,Arrow Road (299),a
 43.7392485,-79.5301954,2,Arrow Road (870),a
-43.73926,-79.5199959,2,Sebastian Cabotway (388),a
-43.73926,-79.5199959,2,Sebastian Cabotway (389),a
-43.73926,-79.5199959,2,Sebastian Cabotway (392),a
-43.73926,-79.5199959,2,Sebastian Cabotway (643),a
-43.73926,-79.5199959,2,Sebastian Cabotway (644),a
-43.73926,-79.5199959,2,Sebastian Cabotway (647),a
-43.7392678,-79.5130716,2,Jane Street (057),a
-43.7392678,-79.5130716,2,Jane Street (328),a
-43.7392898,-79.5132768,2,Jane Street (092),a
-43.7392898,-79.5132768,2,Jane Street (121),a
-43.7392898,-79.5132768,2,Jane Street (400),a
-43.7392898,-79.5132768,2,Jane Street (472),a
 43.7392949,-79.5381079,2,Bradstock Road (161),a
 43.7392949,-79.5381079,2,Bradstock Road (402),a
 43.7392949,-79.5381079,2,Bradstock Road (634),a
@@ -1674,18 +1020,12 @@ lat,lon,sz,names,len_cat
 43.7392949,-79.5381079,2,Samba Drive (563),a
 43.7393206,-79.5379944,2,Bradstock Road (260),a
 43.7393206,-79.5379944,2,Bradstock Road (838),a
-43.7393222,-79.5205182,2,Laura Road (316),a
-43.7393222,-79.5205182,2,Laura Road (558),a
 43.7393278,-79.5441977,2,Franson Crescent (560),a
 43.7393278,-79.5441977,2,Franson Crescent (584),a
 43.7393287,-79.5442722,2,Franson Crescent (559),a
 43.7393287,-79.5442722,2,Franson Crescent (583),a
 43.739332,-79.5302157,2,Arrow Road (300),a
 43.739332,-79.5302157,2,Arrow Road (871),a
-43.7393324,-79.5130894,2,Jane Street (058),a
-43.7393324,-79.5130894,2,Jane Street (144),a
-43.7393324,-79.5130894,2,Jane Street (329),a
-43.7393324,-79.5130894,2,Jane Street (504),a
 43.7393452,-79.5441476,2,Franson Crescent (561),a
 43.7393452,-79.5441476,2,Franson Crescent (585),a
 43.7393458,-79.5352365,2,Rivalda Road (097),a
@@ -1696,16 +1036,6 @@ lat,lon,sz,names,len_cat
 43.7393477,-79.5443462,2,Franson Crescent (582),a
 43.7393897,-79.5441093,2,Franson Crescent (562),a
 43.7393897,-79.5441093,2,Franson Crescent (586),a
-43.7394039,-79.5192845,2,John Cabotway (219),a
-43.7394039,-79.5192845,2,John Cabotway (229),a
-43.7394039,-79.5192845,2,John Cabotway (540),a
-43.7394039,-79.5192845,2,John Cabotway (550),a
-43.7394039,-79.5192845,2,Sebastian Cabotway (390),a
-43.7394039,-79.5192845,2,Sebastian Cabotway (645),a
-43.7394039,-79.5133073,2,Jane Street (120),a
-43.7394039,-79.5133073,2,Jane Street (139),a
-43.7394039,-79.5133073,2,Jane Street (470),a
-43.7394039,-79.5133073,2,Jane Street (498),a
 43.7394062,-79.5302337,2,Arrow Road (301),a
 43.7394062,-79.5302337,2,Arrow Road (872),a
 43.7394167,-79.5395511,2,Weston Road (260),a
@@ -1720,14 +1050,6 @@ lat,lon,sz,names,len_cat
 43.7394342,-79.5440709,2,Franson Crescent (587),a
 43.7394878,-79.5440324,2,Franson Crescent (564),a
 43.7394878,-79.5440324,2,Franson Crescent (588),a
-43.7394969,-79.5133303,2,Jane Street (138),a
-43.7394969,-79.5133303,2,Jane Street (497),a
-43.7395019,-79.520573,2,Clair Road (007),a
-43.7395019,-79.520573,2,Clair Road (664),a
-43.7395019,-79.520573,2,Laura Road (317),a
-43.7395019,-79.520573,2,Laura Road (324),a
-43.7395019,-79.520573,2,Laura Road (559),a
-43.7395019,-79.520573,2,Laura Road (566),a
 43.7395591,-79.543981,2,Franson Crescent (565),a
 43.7395591,-79.543981,2,Franson Crescent (589),a
 43.739608,-79.5395953,2,Weston Road (133),a
@@ -1756,30 +1078,16 @@ lat,lon,sz,names,len_cat
 43.7397431,-79.5366406,2,Habitant Drive (700),a
 43.739744,-79.5396267,2,Weston Road (270),a
 43.739744,-79.5396267,2,Weston Road (865),a
-43.7397562,-79.5193751,2,Clair Road (004),a
-43.7397562,-79.5193751,2,Clair Road (008),a
-43.7397562,-79.5193751,2,Clair Road (661),a
-43.7397562,-79.5193751,2,Clair Road (665),a
-43.7397562,-79.5193751,2,John Cabotway (230),a
-43.7397562,-79.5193751,2,John Cabotway (551),a
-43.7397562,-79.5193751,2,Tonon Drive (624),a
-43.7397562,-79.5193751,2,Tonon Drive (741),a
 43.7397641,-79.5438146,2,Franson Crescent (568),a
 43.7397641,-79.5438146,2,Franson Crescent (592),a
 43.7398265,-79.5437634,2,Franson Crescent (569),a
 43.7398265,-79.5437634,2,Franson Crescent (593),a
-43.7398604,-79.5134153,2,Jane Street (367),a
-43.7398604,-79.5134153,2,Jane Street (551),a
 43.7398608,-79.5437265,2,Franson Crescent (570),a
 43.7398608,-79.5437265,2,Franson Crescent (594),a
 43.7398764,-79.5366995,2,Habitant Drive (106),a
 43.7398764,-79.5366995,2,Habitant Drive (267),a
-43.739895,-79.5134232,2,Jane Street (137),a
-43.739895,-79.5134232,2,Jane Street (496),a
 43.7398975,-79.5436872,2,Franson Crescent (571),a
 43.7398975,-79.5436872,2,Franson Crescent (595),a
-43.7399272,-79.5186755,2,Clair Road (005),a
-43.7399272,-79.5186755,2,Clair Road (662),a
 43.7399324,-79.5353177,2,Bradstock Road (152),a
 43.7399324,-79.5353177,2,Bradstock Road (158),a
 43.7399324,-79.5353177,2,Bradstock Road (393),a
@@ -1802,12 +1110,6 @@ lat,lon,sz,names,len_cat
 43.7400243,-79.5303837,2,Arrow Road (195),a
 43.7400479,-79.5434724,2,Franson Crescent (574),a
 43.7400479,-79.5434724,2,Franson Crescent (598),a
-43.7400479,-79.5182627,2,Clair Road (006),a
-43.7400479,-79.5182627,2,Clair Road (648),a
-43.7400479,-79.5182627,2,Clair Road (663),a
-43.7400479,-79.5182627,2,Clair Road (991),a
-43.7400479,-79.5182627,2,Mayberry Road (243),a
-43.7400479,-79.5182627,2,Mayberry Road (582),a
 43.7400524,-79.5417089,2,Coronado Court (744),a
 43.7400524,-79.5417089,2,Coronado Court (901),a
 43.7400653,-79.5408759,2,St Lucie Drive (079),a
@@ -1830,16 +1132,12 @@ lat,lon,sz,names,len_cat
 43.7401241,-79.5368101,2,Habitant Drive (268),a
 43.7401387,-79.5343798,2,Bradstock Road (159),a
 43.7401387,-79.5343798,2,Bradstock Road (400),a
-43.7401505,-79.5180694,2,Clair Road (649),a
-43.7401505,-79.5180694,2,Clair Road (820),a
 43.740182,-79.5403042,2,Coronado Court (049),a
 43.740182,-79.5403042,2,Coronado Court (666),a
 43.7401833,-79.5304236,2,Arrow Road (295),a
 43.7401833,-79.5304236,2,Arrow Road (460),a
 43.7401853,-79.5409593,2,St Lucie Drive (581),a
 43.7401853,-79.5409593,2,St Lucie Drive (982),a
-43.7401887,-79.5180108,2,Clair Road (650),a
-43.7401887,-79.5180108,2,Clair Road (993),a
 43.7401892,-79.5432579,2,Franson Crescent (576),a
 43.7401892,-79.5432579,2,Franson Crescent (600),a
 43.7402185,-79.525826,2,Oakdale Road (059),a
@@ -1848,10 +1146,6 @@ lat,lon,sz,names,len_cat
 43.7402274,-79.5399321,2,Coronado Court (899),a
 43.7402293,-79.5398873,2,Coronado Court (050),a
 43.7402293,-79.5398873,2,Coronado Court (667),a
-43.7402304,-79.5179128,2,Clair Road (651),a
-43.7402304,-79.5179128,2,Clair Road (821),a
-43.7402411,-79.5178854,2,Clair Road (652),a
-43.7402411,-79.5178854,2,Clair Road (995),a
 43.7402422,-79.5431821,2,Franson Crescent (577),a
 43.7402422,-79.5431821,2,Franson Crescent (601),a
 43.7402433,-79.5397421,2,Coronado Court (743),a
@@ -1866,10 +1160,6 @@ lat,lon,sz,names,len_cat
 43.7402505,-79.5368506,2,Habitant Drive (269),a
 43.74028,-79.5376797,2,Stone Court (465),a
 43.74028,-79.5376797,2,Stone Court (919),a
-43.7402841,-79.5177447,2,Clair Road (653),a
-43.7402841,-79.5177447,2,Clair Road (996),a
-43.7402928,-79.5177102,2,Clair Road (654),a
-43.7402928,-79.5177102,2,Clair Road (997),a
 43.7402967,-79.5258389,2,Oakdale Road (177),a
 43.7402967,-79.5258389,2,Oakdale Road (605),a
 43.740304,-79.5430812,2,Franson Crescent (578),a
@@ -1925,8 +1215,6 @@ lat,lon,sz,names,len_cat
 43.7406022,-79.5398404,2,Weston Road (453),a
 43.7406022,-79.5398404,2,Weston Road (825),a
 43.7406022,-79.5398404,2,Weston Road (975),a
-43.7406034,-79.5163807,2,Clair Road (655),a
-43.7406034,-79.5163807,2,Clair Road (998),a
 43.7406373,-79.525754,2,Oakdale Road (094),a
 43.7406373,-79.525754,2,Oakdale Road (094),a
 43.7406373,-79.525754,2,Oakdale Road (855),a
@@ -1939,16 +1227,12 @@ lat,lon,sz,names,len_cat
 43.7407008,-79.5398634,2,Weston Road (848),a
 43.7407448,-79.5423502,2,Franson Crescent (585),a
 43.7407448,-79.5423502,2,Franson Crescent (609),a
-43.7407508,-79.5196983,2,Tonon Drive (625),a
-43.7407508,-79.5196983,2,Tonon Drive (742),a
 43.7407839,-79.5442055,2,St Lucie Drive (006),a
 43.7407839,-79.5442055,2,St Lucie Drive (643),a
 43.7407891,-79.5256781,2,Oakdale Road (061),a
 43.7407891,-79.5256781,2,Oakdale Road (061),a
 43.7407891,-79.5256781,2,Oakdale Road (196),a
 43.7407891,-79.5256781,2,Oakdale Road (196),a
-43.740796,-79.5197096,2,Tonon Drive (626),a
-43.740796,-79.5197096,2,Tonon Drive (743),a
 43.7408333,-79.5398944,2,Weston Road (272),a
 43.7408333,-79.5398944,2,Weston Road (867),a
 43.7408333,-79.5398944,2,Weston Road (976),a
@@ -1956,14 +1240,8 @@ lat,lon,sz,names,len_cat
 43.7408342,-79.5422984,2,Franson Crescent (610),a
 43.7408357,-79.5305875,2,Arrow Road (039),a
 43.7408357,-79.5305875,2,Arrow Road (199),a
-43.7408473,-79.5153261,2,Clair Road (656),a
-43.7408473,-79.5153261,2,Clair Road (999),a
-43.7408503,-79.5197331,2,Tonon Drive (627),a
-43.7408503,-79.5197331,2,Tonon Drive (744),a
 43.7408704,-79.5355357,2,Rivalda Road (540),a
 43.7408704,-79.5355357,2,Rivalda Road (786),a
-43.7409043,-79.5197318,2,Tonon Drive (628),a
-43.7409043,-79.5197318,2,Tonon Drive (745),a
 43.7409223,-79.5414403,2,St Lucie Drive (585),a
 43.7409223,-79.5414403,2,St Lucie Drive (984),a
 43.7409324,-79.5422339,2,Franson Crescent (587),a
@@ -1972,36 +1250,18 @@ lat,lon,sz,names,len_cat
 43.7409476,-79.5256253,2,Oakdale Road (095),a
 43.7409476,-79.5256253,2,Oakdale Road (856),a
 43.7409476,-79.5256253,2,Oakdale Road (856),a
-43.740949,-79.5197059,2,Tonon Drive (629),a
-43.740949,-79.5197059,2,Tonon Drive (746),a
-43.7409747,-79.5196059,2,Tonon Drive (630),a
-43.7409747,-79.5196059,2,Tonon Drive (747),a
 43.7409789,-79.5370204,2,Habitant Drive (222),a
 43.7409789,-79.5370204,2,Habitant Drive (222),a
 43.7409789,-79.5370204,2,Habitant Drive (404),a
 43.7409789,-79.5370204,2,Habitant Drive (404),a
-43.7409824,-79.5195064,2,Tonon Drive (631),a
-43.7409824,-79.5195064,2,Tonon Drive (748),a
 43.7409968,-79.543819,2,St Lucie Drive (007),a
 43.7409968,-79.543819,2,St Lucie Drive (644),a
 43.7410052,-79.5306301,2,Arrow Road (020),a
 43.7410052,-79.5306301,2,Arrow Road (116),a
-43.7410165,-79.5145944,2,Clair Road (000),a
-43.7410165,-79.5145944,2,Clair Road (657),a
-43.7410291,-79.5145402,2,Clair Road (001),a
-43.7410291,-79.5145402,2,Clair Road (658),a
 43.7410476,-79.5415492,2,St Lucie Drive (586),a
 43.7410476,-79.5415492,2,St Lucie Drive (985),a
-43.7410571,-79.5144204,2,Clair Road (051),a
-43.7410571,-79.5144204,2,Clair Road (874),a
 43.7410755,-79.5421559,2,Franson Crescent (588),a
 43.7410755,-79.5421559,2,Franson Crescent (612),a
-43.7410812,-79.514317,2,Clair Road (052),a
-43.7410812,-79.514317,2,Clair Road (875),a
-43.7410836,-79.5127356,2,San Robertoway (076),a
-43.7410836,-79.5127356,2,San Robertoway (076),a
-43.7410836,-79.5127356,2,San Robertoway (376),a
-43.7410836,-79.5127356,2,San Robertoway (376),a
 43.7411025,-79.5306545,2,Arrow Road (459),a
 43.7411025,-79.5306545,2,Arrow Road (649),a
 43.7411121,-79.5416234,2,St Lucie Drive (587),a
@@ -2014,10 +1274,6 @@ lat,lon,sz,names,len_cat
 43.7411357,-79.5355973,2,Rivalda Road (359),a
 43.7411649,-79.5421041,2,Franson Crescent (589),a
 43.7411649,-79.5421041,2,Franson Crescent (613),a
-43.7411689,-79.5123734,2,San Robertoway (077),a
-43.7411689,-79.5123734,2,San Robertoway (077),a
-43.7411689,-79.5123734,2,San Robertoway (377),a
-43.7411689,-79.5123734,2,San Robertoway (377),a
 43.7411701,-79.5417076,2,St Lucie Drive (588),a
 43.7411701,-79.5417076,2,St Lucie Drive (987),a
 43.7411744,-79.539974,2,Weston Road (256),a
@@ -2026,10 +1282,6 @@ lat,lon,sz,names,len_cat
 43.7411915,-79.5378438,2,Calm Court (351),a
 43.7411915,-79.5378438,2,Calm Court (463),a
 43.7411915,-79.5378438,2,Calm Court (463),a
-43.7411955,-79.5185821,2,Mayberry Road (572),a
-43.7411955,-79.5185821,2,Mayberry Road (666),a
-43.7411955,-79.5185821,2,Tonon Drive (632),a
-43.7411955,-79.5185821,2,Tonon Drive (749),a
 43.7412096,-79.5420782,2,Franson Crescent (590),a
 43.7412096,-79.5420782,2,Franson Crescent (614),a
 43.7412242,-79.5417945,2,St Lucie Drive (589),a
@@ -2060,10 +1312,6 @@ lat,lon,sz,names,len_cat
 43.7413082,-79.5378161,2,Calm Court (354),a
 43.7413082,-79.5378161,2,Calm Court (466),a
 43.7413082,-79.5378161,2,Calm Court (466),a
-43.7413208,-79.5133216,2,Spenvalley Drive (078),a
-43.7413208,-79.5133216,2,Spenvalley Drive (078),a
-43.7413208,-79.5133216,2,Spenvalley Drive (167),a
-43.7413208,-79.5133216,2,Spenvalley Drive (167),a
 43.741337,-79.5377643,2,Calm Court (355),a
 43.741337,-79.5377643,2,Calm Court (355),a
 43.741337,-79.5377643,2,Calm Court (467),a
@@ -2080,10 +1328,6 @@ lat,lon,sz,names,len_cat
 43.7413462,-79.5376967,2,Calm Court (468),a
 43.7413642,-79.5421986,2,St Lucie Drive (001),a
 43.7413642,-79.5421986,2,St Lucie Drive (654),a
-43.7413671,-79.5132007,2,Spenvalley Drive (080),a
-43.7413671,-79.5132007,2,Spenvalley Drive (080),a
-43.7413671,-79.5132007,2,Spenvalley Drive (168),a
-43.7413671,-79.5132007,2,Spenvalley Drive (168),a
 43.7413741,-79.5422729,2,St Lucie Drive (000),a
 43.7413741,-79.5422729,2,St Lucie Drive (653),a
 43.7413842,-79.5423596,2,St Lucie Drive (652),a
@@ -2102,10 +1346,6 @@ lat,lon,sz,names,len_cat
 43.7414046,-79.5425453,2,St Lucie Drive (997),a
 43.7414059,-79.5426447,2,St Lucie Drive (649),a
 43.7414059,-79.5426447,2,St Lucie Drive (996),a
-43.7414124,-79.5131,2,Spenvalley Drive (082),a
-43.7414124,-79.5131,2,Spenvalley Drive (082),a
-43.7414124,-79.5131,2,Spenvalley Drive (169),a
-43.7414124,-79.5131,2,Spenvalley Drive (169),a
 43.7414147,-79.5419242,2,Tampa Terrace (138),a
 43.7414147,-79.5419242,2,Tampa Terrace (675),a
 43.7414163,-79.5371203,2,Calm Court (357),a
@@ -2120,84 +1360,34 @@ lat,lon,sz,names,len_cat
 43.7414163,-79.5371203,2,Habitant Drive (405),a
 43.7414163,-79.5371203,2,Habitant Drive (426),a
 43.7414163,-79.5371203,2,Habitant Drive (426),a
-43.741444,-79.5210846,2,Laura Road (318),a
-43.741444,-79.5210846,2,Laura Road (325),a
-43.741444,-79.5210846,2,Laura Road (560),a
-43.741444,-79.5210846,2,Laura Road (567),a
-43.741444,-79.5210846,2,Stanley Road (836),a
-43.741444,-79.5210846,2,Stanley Road (867),a
-43.7414915,-79.5129491,2,Spenvalley Drive (084),a
-43.7414915,-79.5129491,2,Spenvalley Drive (084),a
-43.7414915,-79.5129491,2,Spenvalley Drive (170),a
-43.7414915,-79.5129491,2,Spenvalley Drive (170),a
 43.7414957,-79.5400511,2,Weston Road (134),a
 43.7414957,-79.5400511,2,Weston Road (263),a
 43.7414957,-79.5400511,2,Weston Road (789),a
 43.7414957,-79.5400511,2,Weston Road (847),a
-43.7415089,-79.512899,2,Spenvalley Drive (086),a
-43.7415089,-79.512899,2,Spenvalley Drive (086),a
-43.7415089,-79.512899,2,Spenvalley Drive (171),a
-43.7415089,-79.512899,2,Spenvalley Drive (171),a
 43.7415201,-79.5325702,2,Lido Road (771),a
 43.7415201,-79.5325702,2,Lido Road (856),a
-43.7415626,-79.5212059,2,Laura Road (319),a
-43.7415626,-79.5212059,2,Laura Road (561),a
 43.7415643,-79.5256865,2,Oakdale Road (179),a
 43.7415643,-79.5256865,2,Oakdale Road (179),a
 43.7415643,-79.5256865,2,Oakdale Road (607),a
 43.7415643,-79.5256865,2,Oakdale Road (607),a
-43.7415968,-79.5127353,2,Spenvalley Drive (088),a
-43.7415968,-79.5127353,2,Spenvalley Drive (088),a
-43.7415968,-79.5127353,2,Spenvalley Drive (172),a
-43.7415968,-79.5127353,2,Spenvalley Drive (172),a
 43.7416516,-79.5318326,2,Lido Road (035),a
 43.7416516,-79.5318326,2,Lido Road (559),a
 43.7416544,-79.5257066,2,Oakdale Road (509),a
 43.7416544,-79.5257066,2,Oakdale Road (509),a
 43.7416544,-79.5257066,2,Oakdale Road (738),a
 43.7416544,-79.5257066,2,Oakdale Road (738),a
-43.7416628,-79.5212903,2,Laura Road (320),a
-43.7416628,-79.5212903,2,Laura Road (562),a
 43.7416644,-79.5431476,2,Azalea Court (654),a
 43.7416644,-79.5431476,2,Azalea Court (766),a
 43.7416706,-79.531726,2,Lido Road (270),a
 43.7416706,-79.531726,2,Lido Road (545),a
-43.7416755,-79.5125595,2,San Robertoway (078),a
-43.7416755,-79.5125595,2,San Robertoway (078),a
-43.7416755,-79.5125595,2,San Robertoway (378),a
-43.7416755,-79.5125595,2,San Robertoway (378),a
-43.7416755,-79.5125595,2,Spenvalley Drive (091),a
-43.7416755,-79.5125595,2,Spenvalley Drive (091),a
-43.7416755,-79.5125595,2,Spenvalley Drive (111),a
-43.7416755,-79.5125595,2,Spenvalley Drive (111),a
-43.7416755,-79.5125595,2,Spenvalley Drive (173),a
-43.7416755,-79.5125595,2,Spenvalley Drive (173),a
-43.7416755,-79.5125595,2,Spenvalley Drive (183),a
-43.7416755,-79.5125595,2,Spenvalley Drive (183),a
 43.7416904,-79.531615,2,Lido Road (036),a
 43.7416904,-79.531615,2,Lido Road (560),a
 43.7417013,-79.5418054,2,Tampa Terrace (140),a
 43.7417013,-79.5418054,2,Tampa Terrace (676),a
-43.7417017,-79.5214865,2,Ryewood Drive (391),a
-43.7417017,-79.5214865,2,Ryewood Drive (705),a
-43.7417289,-79.5124439,2,Spenvalley Drive (237),a
-43.7417289,-79.5124439,2,Spenvalley Drive (237),a
-43.7417289,-79.5124439,2,Spenvalley Drive (700),a
-43.7417289,-79.5124439,2,Spenvalley Drive (700),a
-43.7417354,-79.5213382,2,Laura Road (312),a
-43.7417354,-79.5213382,2,Laura Road (321),a
-43.7417354,-79.5213382,2,Laura Road (554),a
-43.7417354,-79.5213382,2,Laura Road (563),a
-43.7417354,-79.5213382,2,Ryewood Drive (392),a
-43.7417354,-79.5213382,2,Ryewood Drive (706),a
 43.7417582,-79.5357429,2,Rivalda Road (348),a
 43.7417582,-79.5357429,2,Rivalda Road (348),a
 43.7417582,-79.5357429,2,Rivalda Road (386),a
 43.7417582,-79.5357429,2,Rivalda Road (386),a
-43.7417622,-79.5197803,2,Brewster Crescent (457),a
-43.7417622,-79.5197803,2,Brewster Crescent (568),a
-43.7417622,-79.5197803,2,Stanley Road (837),a
-43.7417622,-79.5197803,2,Stanley Road (868),a
 43.7417641,-79.5417915,2,Tampa Terrace (142),a
 43.7417641,-79.5417915,2,Tampa Terrace (677),a
 43.7417675,-79.5308215,2,Arrow Road (028),a
@@ -2221,15 +1411,11 @@ lat,lon,sz,names,len_cat
 43.7418601,-79.530843,2,Arrow Road (419),a
 43.7418614,-79.5417693,2,Tampa Terrace (144),a
 43.7418614,-79.5417693,2,Tampa Terrace (678),a
-43.7418621,-79.5193143,2,Stanley Road (233),a
-43.7418621,-79.5193143,2,Stanley Road (572),a
 43.7418786,-79.5397893,2,Damask Avenue (963),a
 43.7418953,-79.5257605,2,Oakdale Road (180),a
 43.7418953,-79.5257605,2,Oakdale Road (180),a
 43.7418953,-79.5257605,2,Oakdale Road (608),a
 43.7418953,-79.5257605,2,Oakdale Road (608),a
-43.7419261,-79.5187859,2,Mayberry Road (573),a
-43.7419261,-79.5187859,2,Mayberry Road (667),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (665),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (672),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (686),a
@@ -2241,25 +1427,13 @@ lat,lon,sz,names,len_cat
 43.7419532,-79.537242,2,Habitant Drive (264),a
 43.7419532,-79.537242,2,Habitant Drive (427),a
 43.7419532,-79.537242,2,Habitant Drive (427),a
-43.7419648,-79.5198829,2,Brewster Crescent (458),a
-43.7419648,-79.5198829,2,Brewster Crescent (569),a
-43.7419726,-79.5187989,2,Mayberry Road (574),a
-43.7419726,-79.5187989,2,Mayberry Road (668),a
-43.7419726,-79.5187989,2,Stanley Road (234),a
-43.7419726,-79.5187989,2,Stanley Road (573),a
 43.7419818,-79.5393036,2,Damask Avenue (261),a
 43.7419818,-79.5393036,2,Damask Avenue (856),a
 43.7419835,-79.3103141,2,Lawrence Avenue East (666),a
 43.7420165,-79.5418102,2,Tampa Terrace (148),a
 43.7420165,-79.5418102,2,Tampa Terrace (680),a
-43.7420222,-79.5199051,2,Brewster Crescent (459),a
-43.7420222,-79.5199051,2,Brewster Crescent (570),a
 43.7420473,-79.5308558,2,Arrow Road (014),a
 43.7420473,-79.5308558,2,Arrow Road (144),a
-43.742084,-79.5199507,2,Brewster Crescent (460),a
-43.742084,-79.5199507,2,Brewster Crescent (571),a
-43.7420914,-79.5199604,2,Brewster Crescent (461),a
-43.7420914,-79.5199604,2,Brewster Crescent (572),a
 43.7421283,-79.5308539,2,Arrow Road (015),a
 43.7421283,-79.5308539,2,Arrow Road (146),a
 43.7421596,-79.5258196,2,Oakdale Road (181),a
@@ -2268,22 +1442,14 @@ lat,lon,sz,names,len_cat
 43.7421618,-79.541906,2,Tampa Terrace (681),a
 43.7422097,-79.5402179,2,Weston Road (838),a
 43.7422097,-79.5402179,2,Weston Road (857),a
-43.7422181,-79.5177796,2,Stanley Road (235),a
-43.7422181,-79.5177796,2,Stanley Road (574),a
 43.742236,-79.5308264,2,Arrow Road (016),a
 43.742236,-79.5308264,2,Arrow Road (148),a
-43.7422578,-79.5176149,2,Stanley Road (561),a
-43.7422578,-79.5176149,2,Stanley Road (657),a
-43.7423013,-79.5174341,2,Stanley Road (224),a
-43.7423013,-79.5174341,2,Stanley Road (686),a
 43.7423345,-79.5307867,2,Arrow Road (017),a
 43.7423345,-79.5307867,2,Arrow Road (150),a
 43.7423724,-79.5374675,2,Damask Avenue (262),a
 43.7423724,-79.5374675,2,Damask Avenue (262),a
 43.7423724,-79.5374675,2,Damask Avenue (857),a
 43.7423724,-79.5374675,2,Damask Avenue (857),a
-43.7423908,-79.5202551,2,Brewster Crescent (462),a
-43.7423908,-79.5202551,2,Brewster Crescent (573),a
 43.7423976,-79.5373497,2,Damask Avenue (964),a
 43.7423976,-79.5373497,2,Damask Avenue (964),a
 43.7423976,-79.5373497,2,Habitant Drive (944),a
@@ -2300,22 +1466,10 @@ lat,lon,sz,names,len_cat
 43.7424182,-79.5402629,2,Weston Road (266),a
 43.7424182,-79.5402629,2,Weston Road (787),a
 43.7424182,-79.5402629,2,Weston Road (850),a
-43.742456,-79.520302,2,Brewster Crescent (463),a
-43.742456,-79.520302,2,Brewster Crescent (574),a
 43.7424687,-79.5307213,2,Arrow Road (018),a
 43.7424687,-79.5307213,2,Arrow Road (152),a
-43.7425204,-79.5202975,2,Brewster Crescent (464),a
-43.7425204,-79.5202975,2,Brewster Crescent (575),a
-43.742579,-79.5202213,2,Brewster Crescent (465),a
-43.742579,-79.5202213,2,Brewster Crescent (576),a
 43.7425844,-79.5306192,2,Arrow Road (019),a
 43.7425844,-79.5306192,2,Arrow Road (155),a
-43.7426008,-79.520138,2,Brewster Crescent (466),a
-43.7426008,-79.520138,2,Brewster Crescent (577),a
-43.7426121,-79.5200536,2,Brewster Crescent (467),a
-43.7426121,-79.5200536,2,Brewster Crescent (578),a
-43.7426362,-79.5199597,2,Brewster Crescent (468),a
-43.7426362,-79.5199597,2,Brewster Crescent (579),a
 43.7426754,-79.5359574,2,Rivalda Road (203),a
 43.7426754,-79.5359574,2,Rivalda Road (203),a
 43.7426754,-79.5359574,2,Rivalda Road (408),a
@@ -2336,18 +1490,12 @@ lat,lon,sz,names,len_cat
 43.7427614,-79.5303789,2,Arrow Road (160),a
 43.7427619,-79.5374316,2,Habitant Drive (946),a
 43.7427619,-79.5374316,2,Habitant Drive (946),a
-43.7428374,-79.5191124,2,Brewster Crescent (558),a
-43.7428374,-79.5191124,2,Brewster Crescent (654),a
 43.7428443,-79.5403571,2,Weston Road (268),a
 43.7428443,-79.5403571,2,Weston Road (852),a
-43.7428477,-79.5190689,2,Brewster Crescent (469),a
-43.7428477,-79.5190689,2,Brewster Crescent (580),a
 43.7428559,-79.5259752,2,Oakdale Road (285),a
 43.7428559,-79.5259752,2,Oakdale Road (383),a
 43.7428669,-79.5301776,2,Arrow Road (022),a
 43.7428669,-79.5301776,2,Arrow Road (162),a
-43.7428806,-79.5189182,2,Brewster Crescent (470),a
-43.7428806,-79.5189182,2,Brewster Crescent (581),a
 43.7428999,-79.5300741,2,Arrow Road (023),a
 43.7428999,-79.5300741,2,Arrow Road (164),a
 43.7429106,-79.5374688,2,Habitant Drive (438),a
@@ -2372,54 +1520,22 @@ lat,lon,sz,names,len_cat
 43.7431189,-79.5294999,2,Arrow Road (175),a
 43.7431356,-79.5389186,2,Fernando Road (259),a
 43.7431356,-79.5389186,2,Fernando Road (836),a
-43.7431544,-79.5175309,2,Brewster Crescent (471),a
-43.7431544,-79.5175309,2,Brewster Crescent (582),a
 43.7431725,-79.5294374,2,Arrow Road (028),a
 43.7431725,-79.5294374,2,Arrow Road (177),a
-43.7431726,-79.5139562,2,Rita Drive (751),a
-43.7431726,-79.5139562,2,Rita Drive (758),a
-43.7431878,-79.513913,2,Rita Drive (752),a
-43.7431878,-79.513913,2,Rita Drive (760),a
-43.7431884,-79.5141446,2,Jane Street (173),a
-43.7431884,-79.5141446,2,Jane Street (824),a
-43.7432051,-79.5138629,2,Rita Drive (753),a
-43.7432051,-79.5138629,2,Rita Drive (762),a
-43.7432223,-79.5138004,2,Rita Drive (754),a
-43.7432223,-79.5138004,2,Rita Drive (764),a
-43.7432516,-79.5137292,2,Rita Drive (755),a
-43.7432516,-79.5137292,2,Rita Drive (766),a
 43.7432524,-79.5293485,2,Arrow Road (029),a
 43.7432524,-79.5293485,2,Arrow Road (179),a
-43.7432835,-79.5136623,2,Rita Drive (756),a
-43.7432835,-79.5136623,2,Rita Drive (769),a
 43.7433045,-79.5376855,2,Imogene Avenue (267),a
 43.7433045,-79.5376855,2,Imogene Avenue (871),a
-43.7433045,-79.5152762,2,San Marinoway (244),a
-43.7433045,-79.5152762,2,San Marinoway (583),a
-43.7433099,-79.5136119,2,Rita Drive (757),a
-43.7433099,-79.5136119,2,Rita Drive (772),a
 43.7433297,-79.5375593,2,Habitant Drive (943),a
 43.7433297,-79.5375593,2,Habitant Drive (947),a
 43.7433297,-79.5375593,2,Imogene Avenue (140),a
 43.7433298,-79.5375583,2,Habitant Drive (406),a
 43.7433298,-79.5375583,2,Habitant Drive (439),a
 43.7433298,-79.5375583,2,Imogene Avenue (328),a
-43.7433541,-79.5135487,2,Rita Drive (758),a
-43.7433541,-79.5135487,2,Rita Drive (775),a
 43.7433594,-79.5292713,2,Arrow Road (030),a
 43.7433594,-79.5292713,2,Arrow Road (182),a
 43.7433718,-79.5404802,2,Weston Road (028),a
 43.7433718,-79.5404802,2,Weston Road (859),a
-43.7433802,-79.5148645,2,San Marinoway (726),a
-43.7433802,-79.5148645,2,San Marinoway (870),a
-43.7433815,-79.5135328,2,Rita Drive (061),a
-43.7433815,-79.5135328,2,Rita Drive (828),a
-43.7433988,-79.5135228,2,Rita Drive (759),a
-43.7433988,-79.5135228,2,Rita Drive (759),a
-43.7433988,-79.5135228,2,Rita Drive (778),a
-43.7433988,-79.5135228,2,Rita Drive (778),a
-43.7434438,-79.5135217,2,Rita Drive (760),a
-43.7434438,-79.5135217,2,Rita Drive (781),a
 43.7434755,-79.529194,2,Arrow Road (031),a
 43.7434755,-79.529194,2,Arrow Road (184),a
 43.743487,-79.5405064,2,Weston Road (029),a
@@ -2428,24 +1544,10 @@ lat,lon,sz,names,len_cat
 43.7435066,-79.5361486,2,Rivalda Road (204),a
 43.7435066,-79.5361486,2,Rivalda Road (409),a
 43.7435066,-79.5361486,2,Rivalda Road (409),a
-43.7435066,-79.5135077,2,Rita Drive (761),a
-43.7435066,-79.5135077,2,Rita Drive (784),a
-43.7435755,-79.5153441,2,San Marinoway (322),a
-43.7435755,-79.5153441,2,San Marinoway (330),a
-43.7435755,-79.5153441,2,San Marinoway (639),a
-43.7435755,-79.5153441,2,San Marinoway (647),a
-43.7435876,-79.5135057,2,Rita Drive (762),a
-43.7435876,-79.5135057,2,Rita Drive (788),a
 43.7436211,-79.5604251,2,Islay Court (798),a
 43.7436211,-79.5604251,2,Islay Court (971),a
 43.7436369,-79.5291404,2,Arrow Road (032),a
 43.7436369,-79.5291404,2,Arrow Road (186),a
-43.7436776,-79.5135035,2,Rita Drive (763),a
-43.7436776,-79.5135035,2,Rita Drive (791),a
-43.7436782,-79.5149317,2,San Marinoway (323),a
-43.7436782,-79.5149317,2,San Marinoway (324),a
-43.7436782,-79.5149317,2,San Marinoway (640),a
-43.7436782,-79.5149317,2,San Marinoway (641),a
 43.7437134,-79.5463866,2,Storer Drive (667),a
 43.7437134,-79.5463866,2,Storer Drive (917),a
 43.7437167,-79.5461927,2,Storer Drive (669),a
@@ -2462,8 +1564,6 @@ lat,lon,sz,names,len_cat
 43.7437335,-79.5460992,2,Storer Drive (921),a
 43.7437381,-79.5465896,2,Storer Drive (665),a
 43.7437381,-79.5465896,2,Storer Drive (915),a
-43.7437408,-79.5135143,2,Rita Drive (764),a
-43.7437408,-79.5135143,2,Rita Drive (793),a
 43.7437583,-79.5466732,2,Storer Drive (664),a
 43.7437583,-79.5466732,2,Storer Drive (914),a
 43.7437726,-79.5460771,2,Storer Drive (672),a
@@ -2474,8 +1574,6 @@ lat,lon,sz,names,len_cat
 43.7437886,-79.546757,2,Storer Drive (913),a
 43.7437902,-79.5595516,2,Islay Court (799),a
 43.7437902,-79.5595516,2,Islay Court (972),a
-43.743804,-79.5135252,2,Rita Drive (765),a
-43.743804,-79.5135252,2,Rita Drive (797),a
 43.7438051,-79.5291114,2,Arrow Road (034),a
 43.7438051,-79.5291114,2,Arrow Road (190),a
 43.7438067,-79.5594395,2,Islay Court (800),a
@@ -2490,10 +1588,6 @@ lat,lon,sz,names,len_cat
 43.7438375,-79.546843,2,Storer Drive (912),a
 43.7438409,-79.5592896,2,Islay Court (802),a
 43.7438409,-79.5592896,2,Islay Court (975),a
-43.7438409,-79.5143244,2,Jane Street (012),a
-43.7438409,-79.5143244,2,Jane Street (549),a
-43.7438409,-79.5143244,2,Jane Street (604),a
-43.7438409,-79.5143244,2,Jane Street (955),a
 43.7438496,-79.5592646,2,Islay Court (803),a
 43.7438496,-79.5592646,2,Islay Court (976),a
 43.7438513,-79.546087,2,Storer Drive (673),a
@@ -2502,10 +1596,6 @@ lat,lon,sz,names,len_cat
 43.7438687,-79.5262015,2,Oakdale Road (198),a
 43.7438733,-79.5469035,2,Storer Drive (661),a
 43.7438733,-79.5469035,2,Storer Drive (911),a
-43.7438735,-79.5154112,2,San Marinoway (331),a
-43.7438735,-79.5154112,2,San Marinoway (332),a
-43.7438735,-79.5154112,2,San Marinoway (648),a
-43.7438735,-79.5154112,2,San Marinoway (649),a
 43.7438742,-79.5389002,2,Fernando Road (390),a
 43.7438742,-79.5389002,2,Fernando Road (858),a
 43.7438764,-79.5592515,2,Islay Court (804),a
@@ -2527,10 +1617,7 @@ lat,lon,sz,names,len_cat
 43.7439652,-79.5470317,2,Storer Drive (659),a
 43.7439652,-79.5470317,2,Storer Drive (909),a
 43.7439669,-79.5592866,2,Islay Court (806),a
-43.7439672,-79.5149991,2,San Marinoway (325),a
-43.7439672,-79.5149991,2,San Marinoway (333),a
-43.7439672,-79.5149991,2,San Marinoway (642),a
-43.7439672,-79.5149991,2,San Marinoway (650),a
+43.7439669,-79.5592866,2,Islay Court (979),a
 43.7439876,-79.5461527,2,Storer Drive (675),a
 43.7439876,-79.5461527,2,Storer Drive (925),a
 43.7439942,-79.5593108,2,Islay Court (807),a
@@ -2552,15 +1639,6 @@ lat,lon,sz,names,len_cat
 43.7440714,-79.5391361,2,Fernando Road (853),a
 43.7440792,-79.5471855,2,Storer Drive (657),a
 43.7440792,-79.5471855,2,Storer Drive (907),a
-43.7440817,-79.5145263,2,San Marinoway (038),a
-43.7440817,-79.5145263,2,San Marinoway (396),a
-43.7441083,-79.5154675,2,San Marinoway (245),a
-43.7441083,-79.5154675,2,San Marinoway (584),a
-43.7441125,-79.5143993,2,Jane Street (176),a
-43.7441125,-79.5143993,2,Jane Street (253),a
-43.7441125,-79.5143993,2,Jane Street (558),a
-43.7441125,-79.5143993,2,San Marinoway (246),a
-43.7441125,-79.5143993,2,San Marinoway (585),a
 43.744126,-79.5472531,2,Storer Drive (656),a
 43.744126,-79.5472531,2,Storer Drive (906),a
 43.7441288,-79.5461771,2,Storer Drive (677),a
@@ -2576,7 +1654,6 @@ lat,lon,sz,names,len_cat
 43.7442329,-79.5473792,2,Goldpine Crescent (239),a
 43.7442329,-79.5473792,2,Goldpine Crescent (887),a
 43.7442329,-79.5473792,2,Goldpine Crescent (887),a
-43.7442329,-79.5473792,2,Storer Drive (654),a
 43.7442329,-79.5473792,2,Storer Drive (654),a
 43.7442329,-79.5473792,2,Storer Drive (695),a
 43.7442329,-79.5473792,2,Storer Drive (695),a
@@ -2605,17 +1682,12 @@ lat,lon,sz,names,len_cat
 43.7443299,-79.5461299,2,Storer Drive (680),a
 43.7443299,-79.5461299,2,Storer Drive (930),a
 43.7443341,-79.5473271,2,Goldpine Crescent (038),a
-43.7443341,-79.5473271,2,Goldpine Crescent (038),a
 43.7443341,-79.5473271,2,Goldpine Crescent (200),a
 43.7443341,-79.5473271,2,Goldpine Crescent (200),a
 43.7443581,-79.5475853,2,Storer Drive (698),a
 43.7443581,-79.5475853,2,Storer Drive (698),a
 43.7443581,-79.5475853,2,Storer Drive (948),a
 43.7443581,-79.5475853,2,Storer Drive (948),a
-43.7443602,-79.5144533,2,Jane Street (011),a
-43.7443602,-79.5144533,2,Jane Street (551),a
-43.7443602,-79.5144533,2,Jane Street (603),a
-43.7443602,-79.5144533,2,Jane Street (957),a
 43.744389,-79.5476781,2,Storer Drive (699),a
 43.744389,-79.5476781,2,Storer Drive (699),a
 43.744389,-79.5476781,2,Storer Drive (949),a
@@ -2670,10 +1742,6 @@ lat,lon,sz,names,len_cat
 43.7445018,-79.5481588,2,Storer Drive (702),a
 43.7445018,-79.5481588,2,Storer Drive (952),a
 43.7445018,-79.5481588,2,Storer Drive (952),a
-43.744503,-79.5144844,2,Jane Street (009),a
-43.744503,-79.5144844,2,Jane Street (010),a
-43.744503,-79.5144844,2,Jane Street (601),a
-43.744503,-79.5144844,2,Jane Street (602),a
 43.7445098,-79.5594971,2,Islay Court (794),a
 43.7445098,-79.5594971,2,Islay Court (967),a
 43.7445141,-79.5482464,2,Storer Drive (703),a
@@ -2683,9 +1751,9 @@ lat,lon,sz,names,len_cat
 43.744525,-79.5482867,2,Storer Drive (704),a
 43.744525,-79.5482867,2,Storer Drive (704),a
 43.744525,-79.5482867,2,Storer Drive (954),a
-43.744525,-79.5482867,2,Storer Drive (954),a
 43.744528,-79.5460091,2,Storer Drive (683),a
 43.744528,-79.5460091,2,Storer Drive (933),a
+43.744535,-79.5607882,2,Archway Crescent (109),a
 43.744535,-79.5607882,2,Archway Crescent (979),a
 43.7445587,-79.5483417,2,Storer Drive (705),a
 43.7445587,-79.5483417,2,Storer Drive (705),a
@@ -2699,6 +1767,7 @@ lat,lon,sz,names,len_cat
 43.7445631,-79.5258925,2,Oakdale Road (201),a
 43.7445726,-79.5594832,2,Islay Court (795),a
 43.7445726,-79.5594832,2,Islay Court (968),a
+43.7445995,-79.5608984,2,Archway Crescent (110),a
 43.7445995,-79.5608984,2,Archway Crescent (980),a
 43.7446194,-79.5483414,2,Windhill Crescent (177),a
 43.7446194,-79.5483414,2,Windhill Crescent (177),a
@@ -2709,8 +1778,6 @@ lat,lon,sz,names,len_cat
 43.7446834,-79.5483154,2,Windhill Crescent (178),a
 43.7446834,-79.5483154,2,Windhill Crescent (885),a
 43.7446834,-79.5483154,2,Windhill Crescent (885),a
-43.7446835,-79.5195517,2,Paradelle Crescent (201),a
-43.7446835,-79.5195517,2,Paradelle Crescent (579),a
 43.744691,-79.5610204,2,Archway Crescent (111),a
 43.744691,-79.5610204,2,Archway Crescent (981),a
 43.7446939,-79.5364296,2,Rivalda Road (116),a
@@ -2726,7 +1793,6 @@ lat,lon,sz,names,len_cat
 43.7447459,-79.5482766,2,Windhill Crescent (179),a
 43.7447459,-79.5482766,2,Windhill Crescent (179),a
 43.7447459,-79.5482766,2,Windhill Crescent (886),a
-43.7447459,-79.5482766,2,Windhill Crescent (886),a
 43.7447691,-79.5594627,2,Islay Court (456),a
 43.7447691,-79.5594627,2,Islay Court (905),a
 43.7447733,-79.5611178,2,Archway Crescent (112),a
@@ -2741,8 +1807,8 @@ lat,lon,sz,names,len_cat
 43.7448247,-79.5594559,2,Islay Court (817),a
 43.7448318,-79.55862,2,Ardwick Boulevard (848),a
 43.7448318,-79.55862,2,Ardwick Boulevard (898),a
-43.7448319,-79.5593404,2,Ardwick Boulevard (845),a
 43.7448319,-79.5593404,2,Ardwick Boulevard (895),a
+43.7448557,-79.5612276,2,Archway Crescent (113),a
 43.7448557,-79.5612276,2,Archway Crescent (983),a
 43.7448578,-79.5585325,2,Ardwick Boulevard (849),a
 43.7448578,-79.5585325,2,Ardwick Boulevard (899),a
@@ -2757,28 +1823,16 @@ lat,lon,sz,names,len_cat
 43.7448608,-79.525944,2,Oakdale Road (203),a
 43.7448751,-79.5364708,2,Rivalda Road (289),a
 43.7448751,-79.5364708,2,Rivalda Road (289),a
-43.74488,-79.5145666,2,Courage Avenue (126),a
-43.74488,-79.5145666,2,Courage Avenue (408),a
-43.74488,-79.5145666,2,Jane Street (005),a
-43.74488,-79.5145666,2,Jane Street (008),a
-43.74488,-79.5145666,2,Jane Street (597),a
-43.74488,-79.5145666,2,Jane Street (600),a
 43.7448835,-79.5470562,2,Goldpine Crescent (241),a
 43.7448835,-79.5470562,2,Goldpine Crescent (889),a
 43.7448838,-79.5584573,2,Ardwick Boulevard (850),a
 43.7448838,-79.5584573,2,Ardwick Boulevard (900),a
-43.7448915,-79.5196211,2,Paradelle Crescent (202),a
-43.7448915,-79.5196211,2,Paradelle Crescent (580),a
 43.7449069,-79.5595745,2,Ardwick Boulevard (042),a
 43.7449069,-79.5595745,2,Ardwick Boulevard (204),a
 43.74491,-79.5583946,2,Ardwick Boulevard (851),a
 43.74491,-79.5583946,2,Ardwick Boulevard (901),a
 43.7449164,-79.5596116,2,Ardwick Boulevard (043),a
 43.7449164,-79.5596116,2,Ardwick Boulevard (205),a
-43.7449207,-79.5143935,2,Courage Avenue (068),a
-43.7449207,-79.5143935,2,Courage Avenue (402),a
-43.7449298,-79.5143549,2,Courage Avenue (309),a
-43.7449298,-79.5143549,2,Courage Avenue (586),a
 43.744955,-79.5470172,2,Goldpine Crescent (242),a
 43.744955,-79.5470172,2,Goldpine Crescent (890),a
 43.7449629,-79.5583064,2,Ardwick Boulevard (852),a
@@ -2787,33 +1841,18 @@ lat,lon,sz,names,len_cat
 43.744972,-79.5597344,2,Ardwick Boulevard (206),a
 43.7449875,-79.5379465,2,Habitant Drive (228),a
 43.7449875,-79.5379465,2,Habitant Drive (407),a
-43.7449899,-79.5146007,2,Jane Street (006),a
-43.7449899,-79.5146007,2,Jane Street (598),a
 43.745016,-79.5582306,2,Ardwick Boulevard (853),a
 43.745016,-79.5582306,2,Ardwick Boulevard (903),a
 43.7450266,-79.5469782,2,Goldpine Crescent (243),a
 43.7450266,-79.5469782,2,Goldpine Crescent (891),a
 43.7450455,-79.5598569,2,Ardwick Boulevard (045),a
 43.7450455,-79.5598569,2,Ardwick Boulevard (207),a
-43.7450508,-79.5138545,2,Courage Avenue (127),a
-43.7450508,-79.5138545,2,Courage Avenue (128),a
-43.7450508,-79.5138545,2,Courage Avenue (409),a
-43.7450508,-79.5138545,2,Courage Avenue (410),a
-43.7450508,-79.5138545,2,Rita Drive (766),a
-43.7450508,-79.5138545,2,Rita Drive (800),a
 43.7450515,-79.5581925,2,Ardwick Boulevard (854),a
 43.7450515,-79.5581925,2,Ardwick Boulevard (904),a
-43.7450727,-79.5197036,2,Paradelle Crescent (203),a
-43.7450727,-79.5197036,2,Paradelle Crescent (581),a
 43.7450811,-79.5576826,2,Blue Haven Crescent (122),a
 43.7450833,-79.5578564,2,Blue Haven Crescent (121),a
 43.7450855,-79.5580301,2,Blue Haven Crescent (821),a
 43.7450858,-79.5580551,2,Blue Haven Crescent (120),a
-43.7450866,-79.5146307,2,Jane Street (007),a
-43.7450866,-79.5146307,2,Jane Street (555),a
-43.7450866,-79.5146307,2,Jane Street (599),a
-43.7450866,-79.5146307,2,Jane Street (961),a
-43.7450872,-79.5581668,2,Ardwick Boulevard (815),a
 43.7450872,-79.5581668,2,Ardwick Boulevard (855),a
 43.7450872,-79.5581668,2,Blue Haven Crescent (119),a
 43.7450943,-79.5365206,2,Rivalda Road (290),a
@@ -2836,16 +1875,8 @@ lat,lon,sz,names,len_cat
 43.7451289,-79.5571847,2,Blue Haven Crescent (125),a
 43.7451322,-79.5573304,2,Blue Haven Crescent (588),a
 43.7451451,-79.5570476,2,Blue Haven Crescent (126),a
-43.7451514,-79.5133911,2,Bur Oakway (391),a
-43.7451514,-79.5133911,2,Bur Oakway (611),a
-43.7451514,-79.5133911,2,Courage Avenue (124),a
-43.7451514,-79.5133911,2,Courage Avenue (129),a
-43.7451514,-79.5133911,2,Courage Avenue (406),a
-43.7451514,-79.5133911,2,Courage Avenue (411),a
 43.7451519,-79.5503604,2,Stanwood Crescent (282),a
 43.7451519,-79.5503604,2,Stanwood Crescent (883),a
-43.745163,-79.5172907,2,Lambrinos Lane (407),a
-43.745163,-79.5172907,2,Lambrinos Lane (933),a
 43.7451655,-79.5468523,2,Goldpine Crescent (245),a
 43.7451655,-79.5468523,2,Goldpine Crescent (893),a
 43.7451707,-79.5569353,2,Blue Haven Crescent (127),a
@@ -2857,10 +1888,6 @@ lat,lon,sz,names,len_cat
 43.7451884,-79.55691,2,Blue Haven Crescent (128),a
 43.7451932,-79.5569644,2,Blue Haven Crescent (590),a
 43.7452153,-79.5568969,2,Blue Haven Crescent (129),a
-43.7452208,-79.5170347,2,Lambrinos Lane (406),a
-43.7452208,-79.5170347,2,Lambrinos Lane (408),a
-43.7452208,-79.5170347,2,Lambrinos Lane (932),a
-43.7452208,-79.5170347,2,Lambrinos Lane (934),a
 43.7452209,-79.5391434,2,Fernando Road (382),a
 43.7452209,-79.5391434,2,Fernando Road (850),a
 43.7452224,-79.5467996,2,Goldpine Crescent (246),a
@@ -2868,33 +1895,19 @@ lat,lon,sz,names,len_cat
 43.7452226,-79.5569063,2,Blue Haven Crescent (591),a
 43.7452423,-79.5568963,2,Blue Haven Crescent (130),a
 43.7452477,-79.5568918,2,Blue Haven Crescent (592),a
-43.7452506,-79.5146816,2,Jane Street (185),a
-43.7452506,-79.5146816,2,Jane Street (581),a
 43.7452674,-79.5391209,2,Fernando Road (381),a
 43.7452674,-79.5391209,2,Fernando Road (849),a
 43.7452759,-79.546761,2,Goldpine Crescent (247),a
 43.7452759,-79.546761,2,Goldpine Crescent (895),a
-43.7452792,-79.5167757,2,Lambrinos Lane (409),a
-43.7452792,-79.5167757,2,Lambrinos Lane (935),a
 43.7452817,-79.5568829,2,Blue Haven Crescent (593),a
 43.745282,-79.529422,2,Arrow Road (461),a
 43.745282,-79.529422,2,Arrow Road (650),a
-43.7452901,-79.51981,2,Fennimore Crescent (344),a
-43.7452901,-79.51981,2,Fennimore Crescent (682),a
-43.7452901,-79.51981,2,Frith Road (223),a
-43.7452901,-79.51981,2,Frith Road (236),a
-43.7452901,-79.51981,2,Frith Road (689),a
-43.7452901,-79.51981,2,Frith Road (702),a
-43.7452901,-79.51981,2,Paradelle Crescent (204),a
-43.7452901,-79.51981,2,Paradelle Crescent (582),a
 43.7453098,-79.5509519,2,Stanwood Crescent (283),a
 43.7453098,-79.5509519,2,Stanwood Crescent (884),a
 43.745317,-79.5467277,2,Goldpine Crescent (248),a
 43.745317,-79.5467277,2,Goldpine Crescent (896),a
 43.7453206,-79.5391563,2,Fernando Road (380),a
 43.7453206,-79.5391563,2,Fernando Road (848),a
-43.7453224,-79.5143721,2,Bur Oakway (410),a
-43.7453224,-79.5143721,2,Bur Oakway (630),a
 43.7453247,-79.5238704,2,Jody Avenue (022),a
 43.7453247,-79.5238704,2,Jody Avenue (022),a
 43.7453247,-79.5238704,2,Jody Avenue (708),a
@@ -2917,10 +1930,6 @@ lat,lon,sz,names,len_cat
 43.7453617,-79.539442,2,Fernando Road (846),a
 43.7453673,-79.5392587,2,Fernando Road (379),a
 43.7453673,-79.5392587,2,Fernando Road (847),a
-43.7453705,-79.5147134,2,Jane Street (186),a
-43.7453705,-79.5147134,2,Jane Street (583),a
-43.7453792,-79.5140879,2,Bur Oakway (060),a
-43.7453792,-79.5140879,2,Bur Oakway (827),a
 43.7453868,-79.5409478,2,Weston Road (127),a
 43.7453868,-79.5409478,2,Weston Road (783),a
 43.745396,-79.5511356,2,Legume Road (551),a
@@ -2928,7 +1937,6 @@ lat,lon,sz,names,len_cat
 43.745396,-79.5511356,2,Stanwood Crescent (285),a
 43.745396,-79.5511356,2,Stanwood Crescent (286),a
 43.745396,-79.5511356,2,Stanwood Crescent (886),a
-43.745396,-79.5511356,2,Stanwood Crescent (887),a
 43.7454038,-79.5260676,2,Oakdale Road (997),a
 43.7454198,-79.5467183,2,Goldpine Crescent (250),a
 43.7454198,-79.5467183,2,Goldpine Crescent (898),a
@@ -2941,34 +1949,21 @@ lat,lon,sz,names,len_cat
 43.745446,-79.5580588,2,Ardwick Boulevard (816),a
 43.745446,-79.5580588,2,Ardwick Boulevard (822),a
 43.745446,-79.5580588,2,Peterson Drive (092),a
-43.7454466,-79.5134747,2,Bur Oakway (392),a
-43.7454466,-79.5134747,2,Bur Oakway (612),a
 43.7454577,-79.5510424,2,Legume Road (088),a
 43.7454577,-79.5510424,2,Legume Road (117),a
 43.7454598,-79.5581611,2,Peterson Drive (819),a
 43.745462,-79.5454829,2,Storer Drive (686),a
 43.745462,-79.5454829,2,Storer Drive (936),a
-43.7454621,-79.5134963,2,Bur Oakway (395),a
-43.7454621,-79.5134963,2,Bur Oakway (615),a
 43.7454661,-79.5582077,2,Peterson Drive (093),a
-43.7454708,-79.5136301,2,Bur Oakway (409),a
-43.7454708,-79.5136301,2,Bur Oakway (629),a
 43.745471,-79.5467347,2,Goldpine Crescent (251),a
 43.745471,-79.5467347,2,Goldpine Crescent (899),a
 43.7454753,-79.5580468,2,Ardwick Boulevard (213),a
 43.7454753,-79.5580468,2,Ardwick Boulevard (215),a
 43.7454753,-79.5580468,2,Peterson Drive (144),a
-43.7454761,-79.5135318,2,Bur Oakway (399),a
-43.7454761,-79.5135318,2,Bur Oakway (619),a
-43.74548,-79.5135918,2,Bur Oakway (405),a
-43.74548,-79.5135918,2,Bur Oakway (625),a
-43.7454807,-79.5135615,2,Bur Oakway (402),a
-43.7454807,-79.5135615,2,Bur Oakway (622),a
 43.7454837,-79.5581386,2,Peterson Drive (145),a
 43.7454911,-79.5581776,2,Peterson Drive (146),a
 43.7455193,-79.5478488,2,Windhill Crescent (182),a
 43.7455193,-79.5478488,2,Windhill Crescent (182),a
-43.7455193,-79.5478488,2,Windhill Crescent (890),a
 43.7455193,-79.5478488,2,Windhill Crescent (890),a
 43.7455233,-79.5467575,2,Goldpine Crescent (252),a
 43.7455233,-79.5467575,2,Goldpine Crescent (900),a
@@ -2978,12 +1973,6 @@ lat,lon,sz,names,len_cat
 43.7455484,-79.5454765,2,Storer Drive (687),a
 43.7455484,-79.5454765,2,Storer Drive (937),a
 43.7455519,-79.5586028,2,Peterson Drive (094),a
-43.7455553,-79.5187354,2,Frith Road (227),a
-43.7455553,-79.5187354,2,Frith Road (237),a
-43.7455553,-79.5187354,2,Frith Road (693),a
-43.7455553,-79.5187354,2,Frith Road (703),a
-43.7455553,-79.5187354,2,Roseglen Crescent (709),a
-43.7455553,-79.5187354,2,Roseglen Crescent (746),a
 43.7455591,-79.5477477,2,Windhill Crescent (183),a
 43.7455591,-79.5477477,2,Windhill Crescent (183),a
 43.7455591,-79.5477477,2,Windhill Crescent (891),a
@@ -3012,12 +2001,9 @@ lat,lon,sz,names,len_cat
 43.7456477,-79.5507717,2,Legume Road (552),a
 43.7456477,-79.5507717,2,Legume Road (957),a
 43.7456692,-79.5493854,2,Rosette Court (085),a
-43.7456692,-79.5493854,2,Rosette Court (270),a
 43.7456703,-79.5468369,2,Goldpine Crescent (039),a
 43.7456703,-79.5468369,2,Goldpine Crescent (201),a
 43.7456842,-79.5590964,2,Peterson Drive (098),a
-43.7456905,-79.5187953,2,Roseglen Crescent (710),a
-43.7456905,-79.5187953,2,Roseglen Crescent (747),a
 43.7456946,-79.5590514,2,Peterson Drive (149),a
 43.745697,-79.545485,2,Storer Drive (689),a
 43.745697,-79.545485,2,Storer Drive (939),a
@@ -3049,20 +2035,8 @@ lat,lon,sz,names,len_cat
 43.7457777,-79.5455034,2,Storer Drive (940),a
 43.7457977,-79.5261572,2,Oakdale Road (999),a
 43.7458031,-79.5592426,2,Peterson Drive (100),a
-43.745811,-79.5176237,2,Frith Road (224),a
-43.745811,-79.5176237,2,Frith Road (228),a
-43.745811,-79.5176237,2,Frith Road (690),a
-43.745811,-79.5176237,2,Frith Road (694),a
-43.745811,-79.5176237,2,Greyfriar Court (495),a
-43.745811,-79.5176237,2,Greyfriar Court (683),a
-43.7458319,-79.5148358,2,Jane Street (187),a
-43.7458319,-79.5148358,2,Jane Street (585),a
 43.7458461,-79.5455349,2,Storer Drive (691),a
 43.7458461,-79.5455349,2,Storer Drive (941),a
-43.7458472,-79.5171713,2,Lambrinos Lane (405),a
-43.7458472,-79.5171713,2,Lambrinos Lane (931),a
-43.7458499,-79.521393,2,Fennimore Crescent (330),a
-43.7458499,-79.521393,2,Fennimore Crescent (668),a
 43.7458591,-79.5517914,2,Stanwood Crescent (288),a
 43.7458591,-79.5517914,2,Stanwood Crescent (889),a
 43.7458611,-79.5592776,2,Peterson Drive (151),a
@@ -3078,15 +2052,8 @@ lat,lon,sz,names,len_cat
 43.7459083,-79.5464525,2,Windhill Crescent (171),a
 43.7459083,-79.5464525,2,Windhill Crescent (861),a
 43.7459083,-79.5464525,2,Windhill Crescent (878),a
-43.7459254,-79.5171883,2,Frith Road (225),a
-43.7459254,-79.5171883,2,Frith Road (691),a
-43.7459254,-79.5171883,2,Lambrinos Lane (404),a
-43.7459254,-79.5171883,2,Lambrinos Lane (930),a
 43.7459259,-79.5494817,2,Rosette Court (101),a
 43.7459259,-79.5494817,2,Rosette Court (130),a
-43.7459296,-79.5176778,2,Greyfriar Court (496),a
-43.7459296,-79.5176778,2,Greyfriar Court (684),a
-43.7459334,-79.559403,2,Brubeck Road (221),a
 43.7459334,-79.559403,2,Peterson Drive (101),a
 43.7459334,-79.559403,2,Peterson Drive (102),a
 43.7459483,-79.5455802,2,Storer Drive (692),a
@@ -3135,12 +2102,6 @@ lat,lon,sz,names,len_cat
 43.7460563,-79.5456182,2,Storer Drive (944),a
 43.7460563,-79.5456182,2,Windhill Crescent (175),a
 43.7460563,-79.5456182,2,Windhill Crescent (882),a
-43.7460588,-79.5165992,2,Frith Road (226),a
-43.7460588,-79.5165992,2,Frith Road (234),a
-43.7460588,-79.5165992,2,Frith Road (692),a
-43.7460588,-79.5165992,2,Frith Road (700),a
-43.7460588,-79.5165992,2,Roseglen Crescent (723),a
-43.7460588,-79.5165992,2,Roseglen Crescent (760),a
 43.7460597,-79.5411044,2,Weston Road (291),a
 43.7460597,-79.5411044,2,Weston Road (860),a
 43.7460796,-79.5490765,2,Legume Road (558),a
@@ -3164,7 +2125,6 @@ lat,lon,sz,names,len_cat
 43.7461251,-79.5396019,2,Habitant Drive (436),a
 43.7461287,-79.5394996,2,Habitant Drive (258),a
 43.7461287,-79.5394996,2,Habitant Drive (424),a
-43.7461349,-79.516286,2,Frith Road (821),a
 43.7461368,-79.5394249,2,Habitant Drive (256),a
 43.7461368,-79.5394249,2,Habitant Drive (423),a
 43.7461483,-79.5382227,2,Habitant Drive (233),a
@@ -3191,15 +2151,10 @@ lat,lon,sz,names,len_cat
 43.746202,-79.5487879,2,Legume Road (966),a
 43.7462022,-79.5382688,2,Habitant Drive (235),a
 43.7462022,-79.5382688,2,Habitant Drive (411),a
-43.7462121,-79.5214764,2,Fennimore Crescent (331),a
-43.7462121,-79.5214764,2,Fennimore Crescent (669),a
 43.7462136,-79.5589471,2,Brubeck Road (223),a
 43.7462136,-79.5589471,2,Brubeck Road (999),a
 43.7462156,-79.5392491,2,Habitant Drive (253),a
 43.7462156,-79.5392491,2,Habitant Drive (421),a
-43.7462174,-79.5159469,2,Frith Road (462),a
-43.7462174,-79.5159469,2,Frith Road (651),a
-43.7462176,-79.5524499,2,Stanwood Crescent (070),a
 43.7462176,-79.5524499,2,Stanwood Crescent (232),a
 43.7462302,-79.5525357,2,Stanwood Crescent (071),a
 43.7462302,-79.5525357,2,Stanwood Crescent (233),a
@@ -3207,7 +2162,6 @@ lat,lon,sz,names,len_cat
 43.7462325,-79.5383277,2,Habitant Drive (412),a
 43.7462329,-79.5519294,2,Ironwood Road (188),a
 43.7462329,-79.5519294,2,Ironwood Road (580),a
-43.7462398,-79.5158548,2,Frith Road (822),a
 43.7462485,-79.548733,2,Legume Road (562),a
 43.7462485,-79.548733,2,Legume Road (562),a
 43.7462485,-79.548733,2,Legume Road (967),a
@@ -3220,11 +2174,8 @@ lat,lon,sz,names,len_cat
 43.7462707,-79.5411538,2,Weston Road (292),a
 43.7462707,-79.5411538,2,Weston Road (786),a
 43.7462707,-79.5411538,2,Weston Road (861),a
-43.7462753,-79.5214873,2,Fennimore Crescent (332),a
-43.7462753,-79.5214873,2,Fennimore Crescent (670),a
 43.7462762,-79.5589207,2,Brubeck Road (000),a
 43.7462762,-79.5589207,2,Brubeck Road (224),a
-43.7462769,-79.5518538,2,Ironwood Road (189),a
 43.7462769,-79.5518538,2,Ironwood Road (581),a
 43.7462805,-79.5385005,2,Habitant Drive (241),a
 43.7462805,-79.5385005,2,Habitant Drive (414),a
@@ -3242,14 +2193,8 @@ lat,lon,sz,names,len_cat
 43.7463009,-79.5528039,2,Stanwood Crescent (236),a
 43.746321,-79.5517782,2,Ironwood Road (190),a
 43.746321,-79.5517782,2,Ironwood Road (582),a
-43.7463286,-79.5214363,2,Fennimore Crescent (333),a
-43.7463286,-79.5214363,2,Fennimore Crescent (671),a
 43.74633,-79.5528723,2,Stanwood Crescent (075),a
 43.74633,-79.5528723,2,Stanwood Crescent (237),a
-43.7463363,-79.5213367,2,Fennimore Crescent (334),a
-43.7463363,-79.5213367,2,Fennimore Crescent (672),a
-43.7463365,-79.5178716,2,Greyfriar Court (497),a
-43.7463365,-79.5178716,2,Greyfriar Court (685),a
 43.7463367,-79.5484901,2,Lanyard Road (029),a
 43.7463367,-79.5484901,2,Lanyard Road (029),a
 43.7463367,-79.5484901,2,Lanyard Road (191),a
@@ -3262,8 +2207,6 @@ lat,lon,sz,names,len_cat
 43.7463393,-79.5483514,2,Lanyard Road (190),a
 43.7463428,-79.5390945,2,Habitant Drive (250),a
 43.7463428,-79.5390945,2,Habitant Drive (419),a
-43.7463449,-79.5212992,2,Fennimore Crescent (335),a
-43.7463449,-79.5212992,2,Fennimore Crescent (673),a
 43.7463463,-79.5389262,2,Habitant Drive (245),a
 43.7463463,-79.5389262,2,Habitant Drive (416),a
 43.7463519,-79.5482438,2,Lanyard Road (027),a
@@ -3305,20 +2248,16 @@ lat,lon,sz,names,len_cat
 43.7463959,-79.5480259,2,Lanyard Road (188),a
 43.7463959,-79.5480259,2,Lanyard Road (188),a
 43.7463961,-79.5577131,2,Ardwick Boulevard (823),a
+43.7463961,-79.5577131,2,Ardwick Boulevard (860),a
 43.7464057,-79.5262952,2,Oakdale Road (283),a
 43.7464057,-79.5262952,2,Oakdale Road (381),a
-43.7464135,-79.5151407,2,Frith Road (378),a
-43.7464135,-79.5151407,2,Frith Road (847),a
 43.7464157,-79.5439646,2,Windhill Crescent (053),a
 43.7464157,-79.5439646,2,Windhill Crescent (215),a
-43.7464159,-79.551453,2,Ironwood Road (193),a
 43.7464159,-79.551453,2,Ironwood Road (585),a
 43.746421,-79.5489027,2,Lanyard Road (004),a
 43.746421,-79.5489027,2,Lanyard Road (004),a
 43.746421,-79.5489027,2,Lanyard Road (210),a
 43.746421,-79.5489027,2,Lanyard Road (210),a
-43.746422,-79.5203038,2,Fennimore Crescent (343),a
-43.746422,-79.5203038,2,Fennimore Crescent (681),a
 43.7464453,-79.5530601,2,Stanwood Crescent (077),a
 43.7464453,-79.5530601,2,Stanwood Crescent (239),a
 43.7464476,-79.5598649,2,Peterson Drive (103),a
@@ -3327,26 +2266,16 @@ lat,lon,sz,names,len_cat
 43.7464543,-79.5566188,2,Blue Haven Crescent (330),a
 43.7464559,-79.5489818,2,Lanyard Road (005),a
 43.7464559,-79.5489818,2,Lanyard Road (211),a
-43.7464672,-79.5203151,2,Fennimore Crescent (342),a
-43.7464672,-79.5203151,2,Fennimore Crescent (680),a
 43.7464735,-79.5588539,2,Brubeck Road (002),a
 43.7464735,-79.5588539,2,Brubeck Road (226),a
 43.7464956,-79.5490596,2,Lanyard Road (006),a
 43.7464956,-79.5490596,2,Lanyard Road (212),a
 43.7465139,-79.5436689,2,Windhill Crescent (054),a
 43.7465139,-79.5436689,2,Windhill Crescent (216),a
-43.7465305,-79.5203383,2,Fennimore Crescent (341),a
-43.7465305,-79.5203383,2,Fennimore Crescent (679),a
-43.7465324,-79.5204873,2,Fennimore Crescent (336),a
-43.7465324,-79.5204873,2,Fennimore Crescent (674),a
 43.7465343,-79.5565423,2,Blue Haven Crescent (136),a
 43.7465343,-79.5565423,2,Blue Haven Crescent (331),a
-43.7465411,-79.5204623,2,Fennimore Crescent (337),a
-43.7465411,-79.5204623,2,Fennimore Crescent (675),a
 43.7465422,-79.5263268,2,Oakdale Road (284),a
 43.7465422,-79.5263268,2,Oakdale Road (382),a
-43.7465488,-79.5203627,2,Fennimore Crescent (340),a
-43.7465488,-79.5203627,2,Fennimore Crescent (678),a
 43.7465499,-79.5435755,2,Windhill Crescent (055),a
 43.7465499,-79.5435755,2,Windhill Crescent (217),a
 43.7465518,-79.5491414,2,Lanyard Road (007),a
@@ -3355,10 +2284,6 @@ lat,lon,sz,names,len_cat
 43.7465522,-79.536852,2,Rivalda Road (117),a
 43.7465522,-79.536852,2,Rivalda Road (361),a
 43.7465522,-79.536852,2,Rivalda Road (361),a
-43.7465581,-79.5203873,2,Fennimore Crescent (339),a
-43.7465581,-79.5203873,2,Fennimore Crescent (677),a
-43.7465585,-79.5204122,2,Fennimore Crescent (338),a
-43.7465585,-79.5204122,2,Fennimore Crescent (676),a
 43.7465625,-79.5599836,2,Peterson Drive (104),a
 43.7465625,-79.5599836,2,Peterson Drive (567),a
 43.746563,-79.5588145,2,Brubeck Road (003),a
@@ -3370,10 +2295,12 @@ lat,lon,sz,names,len_cat
 43.7466296,-79.5434742,2,Windhill Crescent (056),a
 43.7466296,-79.5434742,2,Windhill Crescent (218),a
 43.7466485,-79.5468436,2,Lanyard Road (025),a
+43.7466485,-79.5468436,2,Lanyard Road (025),a
 43.7466485,-79.5468436,2,Lanyard Road (187),a
 43.7466485,-79.5468436,2,Lanyard Road (187),a
 43.7466485,-79.5468436,2,Unser Gate (269),a
 43.7466485,-79.5468436,2,Unser Gate (269),a
+43.7466485,-79.5468436,2,Unser Gate (821),a
 43.7466485,-79.5468436,2,Unser Gate (821),a
 43.7466506,-79.5564774,2,Blue Haven Crescent (137),a
 43.7466506,-79.5564774,2,Blue Haven Crescent (332),a
@@ -3404,6 +2331,7 @@ lat,lon,sz,names,len_cat
 43.74674,-79.5564256,2,Blue Haven Crescent (333),a
 43.7467418,-79.5600284,2,Peterson Drive (108),a
 43.7467418,-79.5600284,2,Peterson Drive (571),a
+43.7467438,-79.5601164,2,Peterson Drive (111),a
 43.7467438,-79.5601164,2,Peterson Drive (574),a
 43.7467457,-79.5263731,2,Eddystone Avenue (477),a
 43.7467457,-79.5263731,2,Eddystone Avenue (987),a
@@ -3413,6 +2341,7 @@ lat,lon,sz,names,len_cat
 43.7467518,-79.5600549,2,Peterson Drive (572),a
 43.7467524,-79.5600871,2,Peterson Drive (110),a
 43.7467524,-79.5600871,2,Peterson Drive (573),a
+43.7467582,-79.5493506,2,Lanyard Road (010),a
 43.7467582,-79.5493506,2,Lanyard Road (216),a
 43.7467658,-79.5463075,2,Lanyard Road (023),a
 43.7467658,-79.5463075,2,Lanyard Road (185),a
@@ -3424,8 +2353,6 @@ lat,lon,sz,names,len_cat
 43.7467775,-79.5297674,2,Arrow Road (224),a
 43.746785,-79.526382,2,Oakdale Road (183),a
 43.746785,-79.526382,2,Oakdale Road (611),a
-43.7467865,-79.5192515,2,Roseglen Crescent (711),a
-43.7467865,-79.5192515,2,Roseglen Crescent (748),a
 43.7467887,-79.5534016,2,Davelayne Road (272),a
 43.7467887,-79.5534016,2,Davelayne Road (428),a
 43.7467887,-79.5534016,2,Stanwood Crescent (291),a
@@ -3433,7 +2360,6 @@ lat,lon,sz,names,len_cat
 43.7468199,-79.5533345,2,Davelayne Road (835),a
 43.7468199,-79.5533345,2,Davelayne Road (962),a
 43.7468228,-79.5493882,2,Lanyard Road (090),a
-43.7468228,-79.5493882,2,Lanyard Road (119),a
 43.7468332,-79.5533061,2,Davelayne Road (834),a
 43.7468332,-79.5533061,2,Davelayne Road (961),a
 43.7468415,-79.5297822,2,Arrow Road (052),a
@@ -3444,8 +2370,6 @@ lat,lon,sz,names,len_cat
 43.746852,-79.5588821,2,Brubeck Road (230),a
 43.7468584,-79.5495103,2,Ironwood Road (097),a
 43.7468584,-79.5495103,2,Ironwood Road (126),a
-43.746859,-79.519287,2,Roseglen Crescent (712),a
-43.746859,-79.519287,2,Roseglen Crescent (749),a
 43.7468636,-79.5258435,2,Eddystone Avenue (037),a
 43.7468636,-79.5258435,2,Eddystone Avenue (631),a
 43.7468706,-79.5534718,2,Stanwood Crescent (292),a
@@ -3460,10 +2384,9 @@ lat,lon,sz,names,len_cat
 43.7468788,-79.5494209,2,Lanyard Road (217),a
 43.7469138,-79.5256182,2,Eddystone Avenue (038),a
 43.7469138,-79.5256182,2,Eddystone Avenue (632),a
-43.7469215,-79.5192482,2,Roseglen Crescent (713),a
-43.7469215,-79.5192482,2,Roseglen Crescent (750),a
 43.7469219,-79.5535134,2,Stanwood Crescent (293),a
 43.7469219,-79.5535134,2,Stanwood Crescent (894),a
+43.7469277,-79.553103,2,Davelayne Road (273),a
 43.7469277,-79.553103,2,Davelayne Road (429),a
 43.7469335,-79.5589174,2,Brubeck Road (007),a
 43.7469335,-79.5589174,2,Brubeck Road (231),a
@@ -3471,29 +2394,23 @@ lat,lon,sz,names,len_cat
 43.746941,-79.5298171,2,Arrow Road (229),a
 43.7469443,-79.5432274,2,Windhill Crescent (059),a
 43.7469443,-79.5432274,2,Windhill Crescent (221),a
-43.7469474,-79.5191606,2,Roseglen Crescent (714),a
-43.7469474,-79.5191606,2,Roseglen Crescent (751),a
-43.7469553,-79.5190735,2,Roseglen Crescent (715),a
-43.7469553,-79.5190735,2,Roseglen Crescent (752),a
 43.7469636,-79.5530118,2,Davelayne Road (274),a
 43.7469636,-79.5530118,2,Davelayne Road (430),a
 43.7469713,-79.5413172,2,Weston Road (292),a
 43.7469713,-79.5413172,2,Weston Road (354),a
-43.7469725,-79.5190109,2,Roseglen Crescent (716),a
-43.7469725,-79.5190109,2,Roseglen Crescent (753),a
 43.746982,-79.5535482,2,Stanwood Crescent (294),a
 43.746982,-79.5535482,2,Stanwood Crescent (895),a
 43.7469834,-79.5335443,2,Deerhide Crescent (588),a
 43.7469834,-79.5335443,2,Deerhide Crescent (827),a
 43.7469861,-79.5335054,2,Deerhide Crescent (014),a
 43.7469861,-79.5335054,2,Deerhide Crescent (527),a
+43.746987,-79.5588788,2,Brubeck Road (008),a
 43.746987,-79.5588788,2,Brubeck Road (232),a
 43.7469895,-79.5334561,2,Deerhide Crescent (587),a
 43.7469895,-79.5334561,2,Deerhide Crescent (826),a
 43.7470005,-79.5336191,2,Deerhide Crescent (589),a
 43.7470005,-79.5336191,2,Deerhide Crescent (828),a
 43.7470023,-79.5528857,2,Davelayne Road (275),a
-43.7470023,-79.5528857,2,Davelayne Road (431),a
 43.7470084,-79.5333534,2,Deerhide Crescent (586),a
 43.7470084,-79.5333534,2,Deerhide Crescent (825),a
 43.7470126,-79.5587664,2,Brubeck Road (009),a
@@ -3542,7 +2459,6 @@ lat,lon,sz,names,len_cat
 43.7471702,-79.5521196,2,Davelayne Road (276),a
 43.7471702,-79.5521196,2,Davelayne Road (432),a
 43.7471759,-79.5574336,2,Ardwick Boulevard (824),a
-43.7471759,-79.5574336,2,Ardwick Boulevard (828),a
 43.7471759,-79.5574336,2,Ardwick Boulevard (863),a
 43.7471759,-79.5574336,2,Ardwick Boulevard (873),a
 43.7471759,-79.5574336,2,Brubeck Road (014),a
@@ -3553,7 +2469,9 @@ lat,lon,sz,names,len_cat
 43.7471829,-79.5446779,2,Lanyard Road (182),a
 43.7471832,-79.5575345,2,Brubeck Road (056),a
 43.7471832,-79.5575345,2,Brubeck Road (823),a
+43.7471866,-79.557582,2,Brubeck Road (013),a
 43.7471866,-79.557582,2,Brubeck Road (237),a
+43.7471897,-79.5578182,2,Brubeck Road (012),a
 43.7471897,-79.5578182,2,Brubeck Road (236),a
 43.7472156,-79.5448658,2,Lindylou Road (033),a
 43.7472156,-79.5448658,2,Lindylou Road (195),a
@@ -3561,8 +2479,6 @@ lat,lon,sz,names,len_cat
 43.7472197,-79.5299554,2,Arrow Road (236),a
 43.7472308,-79.5445712,2,Lanyard Road (019),a
 43.7472308,-79.5445712,2,Lanyard Road (181),a
-43.7472309,-79.5144583,2,Grandravine Drive (147),a
-43.7472309,-79.5144583,2,Grandravine Drive (371),a
 43.747241,-79.5241587,2,Eddystone Avenue (467),a
 43.747241,-79.5241587,2,Eddystone Avenue (467),a
 43.747241,-79.5241587,2,Eddystone Avenue (655),a
@@ -3573,16 +2489,10 @@ lat,lon,sz,names,len_cat
 43.7472582,-79.5299832,2,Arrow Road (238),a
 43.7472705,-79.5322046,2,Deerhide Crescent (580),a
 43.7472705,-79.5322046,2,Deerhide Crescent (825),a
-43.7472716,-79.5170784,2,Roseglen Crescent (722),a
-43.7472716,-79.5170784,2,Roseglen Crescent (759),a
 43.7472719,-79.5562068,2,Blue Haven Crescent (139),a
 43.7472719,-79.5562068,2,Blue Haven Crescent (334),a
 43.7473037,-79.5444243,2,Lanyard Road (018),a
 43.7473037,-79.5444243,2,Lanyard Road (180),a
-43.7473076,-79.5170776,2,Roseglen Crescent (721),a
-43.7473076,-79.5170776,2,Roseglen Crescent (758),a
-43.747314,-79.5140571,2,Grandravine Drive (242),a
-43.747314,-79.5140571,2,Grandravine Drive (980),a
 43.7473146,-79.5449486,2,Lindylou Road (034),a
 43.7473146,-79.5449486,2,Lindylou Road (196),a
 43.7473385,-79.5413934,2,Weston Road (291),a
@@ -3594,25 +2504,16 @@ lat,lon,sz,names,len_cat
 43.7473491,-79.5431197,2,Windhill Crescent (225),a
 43.7473494,-79.5300679,2,Arrow Road (058),a
 43.7473494,-79.5300679,2,Arrow Road (240),a
-43.7473555,-79.5172999,2,Roseglen Crescent (717),a
-43.7473555,-79.5172999,2,Roseglen Crescent (754),a
-43.7473619,-79.5171011,2,Roseglen Crescent (720),a
-43.7473619,-79.5171011,2,Roseglen Crescent (757),a
 43.7473661,-79.5449872,2,Lindylou Road (035),a
 43.7473661,-79.5449872,2,Lindylou Road (197),a
 43.7473782,-79.5235467,2,Eddystone Avenue (629),a
 43.7473782,-79.5235467,2,Eddystone Avenue (629),a
 43.7473782,-79.5235467,2,Eddystone Avenue (984),a
 43.7473782,-79.5235467,2,Eddystone Avenue (984),a
+43.7473785,-79.5511152,2,Davelayne Road (277),a
 43.7473785,-79.5511152,2,Davelayne Road (433),a
-43.7473805,-79.5171503,2,Roseglen Crescent (719),a
-43.7473805,-79.5171503,2,Roseglen Crescent (756),a
-43.7473813,-79.5172124,2,Roseglen Crescent (718),a
-43.7473813,-79.5172124,2,Roseglen Crescent (755),a
 43.747385,-79.5442855,2,Lanyard Road (017),a
 43.747385,-79.5442855,2,Lanyard Road (179),a
-43.7473897,-79.5136919,2,Grandravine Drive (241),a
-43.7473897,-79.5136919,2,Grandravine Drive (979),a
 43.7473902,-79.531686,2,Deerhide Crescent (584),a
 43.7473902,-79.531686,2,Deerhide Crescent (823),a
 43.7473925,-79.5510225,2,Davelayne Road (278),a
@@ -3620,6 +2521,7 @@ lat,lon,sz,names,len_cat
 43.7474016,-79.5301305,2,Arrow Road (555),a
 43.7474016,-79.5301305,2,Arrow Road (678),a
 43.747402,-79.5561883,2,Blue Haven Crescent (141),a
+43.747402,-79.5561883,2,Blue Haven Crescent (336),a
 43.7474089,-79.5509447,2,Davelayne Road (279),a
 43.7474089,-79.5509447,2,Davelayne Road (435),a
 43.7474145,-79.5315856,2,Deerhide Crescent (583),a
@@ -3652,12 +2554,8 @@ lat,lon,sz,names,len_cat
 43.7474918,-79.5230291,2,Eddystone Avenue (630),a
 43.7474918,-79.5230291,2,Eddystone Avenue (985),a
 43.7474918,-79.5230291,2,Eddystone Avenue (985),a
-43.7474998,-79.5131605,2,Grandravine Drive (148),a
-43.7474998,-79.5131605,2,Grandravine Drive (372),a
 43.7475114,-79.5562586,2,Blue Haven Crescent (143),a
 43.7475114,-79.5562586,2,Blue Haven Crescent (338),a
-43.7475137,-79.5130847,2,Grandravine Drive (149),a
-43.7475137,-79.5130847,2,Grandravine Drive (373),a
 43.7475216,-79.553618,2,Stanwood Crescent (298),a
 43.7475216,-79.553618,2,Stanwood Crescent (899),a
 43.7475221,-79.5414405,2,Weston Road (288),a
@@ -3666,15 +2564,12 @@ lat,lon,sz,names,len_cat
 43.7475221,-79.5414405,2,Weston Road (859),a
 43.747523,-79.5313305,2,Deerhide Crescent (581),a
 43.747523,-79.5313305,2,Deerhide Crescent (820),a
-43.747525,-79.5130232,2,Grandravine Drive (150),a
-43.747525,-79.5130232,2,Grandravine Drive (374),a
 43.7475262,-79.5450694,2,Lindylou Road (037),a
 43.7475262,-79.5450694,2,Lindylou Road (199),a
 43.7475322,-79.5431844,2,Windhill Crescent (065),a
 43.7475322,-79.5431844,2,Windhill Crescent (227),a
+43.7475336,-79.5508953,2,Davelayne Road (281),a
 43.7475336,-79.5508953,2,Davelayne Road (437),a
-43.7475504,-79.5128984,2,Grandravine Drive (151),a
-43.7475504,-79.5128984,2,Grandravine Drive (375),a
 43.7475516,-79.5436571,2,Lanyard Road (014),a
 43.7475516,-79.5436571,2,Lanyard Road (176),a
 43.7475523,-79.5563445,2,Blue Haven Crescent (144),a
@@ -3687,14 +2582,11 @@ lat,lon,sz,names,len_cat
 43.747571,-79.5536126,2,Stanwood Crescent (900),a
 43.7475839,-79.5312222,2,Deerhide Crescent (579),a
 43.7475839,-79.5312222,2,Deerhide Crescent (818),a
-43.7475848,-79.5127733,2,Grandravine Drive (152),a
-43.7475848,-79.5127733,2,Grandravine Drive (152),a
-43.7475848,-79.5127733,2,Grandravine Drive (376),a
-43.7475848,-79.5127733,2,Grandravine Drive (376),a
 43.7475899,-79.5432063,2,Windhill Crescent (096),a
 43.7475899,-79.5432063,2,Windhill Crescent (125),a
 43.7475999,-79.5225364,2,Eddystone Avenue (631),a
 43.7475999,-79.5225364,2,Eddystone Avenue (986),a
+43.7476027,-79.5509178,2,Davelayne Road (282),a
 43.7476027,-79.5509178,2,Davelayne Road (438),a
 43.7476049,-79.5535912,2,Stanwood Crescent (300),a
 43.7476049,-79.5535912,2,Stanwood Crescent (901),a
@@ -3703,10 +2595,6 @@ lat,lon,sz,names,len_cat
 43.7476217,-79.5224384,2,Eddystone Avenue (632),a
 43.7476217,-79.5224384,2,Eddystone Avenue (987),a
 43.7476372,-79.5265754,2,Oakdale Road (001),a
-43.7476375,-79.5126727,2,Grandravine Drive (153),a
-43.7476375,-79.5126727,2,Grandravine Drive (153),a
-43.7476375,-79.5126727,2,Grandravine Drive (377),a
-43.7476375,-79.5126727,2,Grandravine Drive (377),a
 43.7476376,-79.5432249,2,Lanyard Road (013),a
 43.7476376,-79.5432249,2,Lanyard Road (175),a
 43.7476376,-79.5432249,2,Windhill Crescent (067),a
@@ -3717,10 +2605,6 @@ lat,lon,sz,names,len_cat
 43.7476495,-79.5535509,2,Stanwood Crescent (902),a
 43.7476672,-79.5222338,2,Eddystone Avenue (303),a
 43.7476672,-79.5222338,2,Eddystone Avenue (582),a
-43.7476722,-79.5125725,2,Grandravine Drive (154),a
-43.7476722,-79.5125725,2,Grandravine Drive (154),a
-43.7476722,-79.5125725,2,Grandravine Drive (378),a
-43.7476722,-79.5125725,2,Grandravine Drive (378),a
 43.747673,-79.5462186,2,Daystrom Drive (257),a
 43.747673,-79.5462186,2,Daystrom Drive (520),a
 43.747675,-79.556979,2,Blue Haven Crescent (145),a
@@ -3747,13 +2631,8 @@ lat,lon,sz,names,len_cat
 43.7477251,-79.5572653,2,Ardwick Boulevard (876),a
 43.7477251,-79.5572653,2,Blue Haven Crescent (146),a
 43.7477251,-79.5572653,2,Blue Haven Crescent (341),a
-43.7477267,-79.5124723,2,Grandravine Drive (155),a
-43.7477267,-79.5124723,2,Grandravine Drive (155),a
-43.7477267,-79.5124723,2,Grandravine Drive (379),a
-43.7477267,-79.5124723,2,Grandravine Drive (379),a
 43.7477293,-79.5534431,2,Faulkner Crescent (207),a
 43.7477293,-79.5534431,2,Faulkner Crescent (574),a
-43.7477293,-79.5534431,2,Lindylou Road (083),a
 43.7477293,-79.5534431,2,Lindylou Road (201),a
 43.7477293,-79.5534431,2,Stanwood Crescent (302),a
 43.7477293,-79.5534431,2,Stanwood Crescent (903),a
@@ -3767,17 +2646,12 @@ lat,lon,sz,names,len_cat
 43.7477506,-79.5218624,2,Eddystone Avenue (581),a
 43.7477585,-79.5428059,2,Lanyard Road (012),a
 43.7477585,-79.5428059,2,Lanyard Road (174),a
-43.7477603,-79.5124212,2,Grandravine Drive (156),a
-43.7477603,-79.5124212,2,Grandravine Drive (156),a
-43.7477603,-79.5124212,2,Grandravine Drive (380),a
-43.7477603,-79.5124212,2,Grandravine Drive (380),a
 43.7477626,-79.5533747,2,Lindylou Road (084),a
 43.7477626,-79.5533747,2,Lindylou Road (202),a
 43.7477896,-79.5572566,2,Ardwick Boulevard (818),a
 43.7477896,-79.5572566,2,Ardwick Boulevard (846),a
 43.747792,-79.5532637,2,Lindylou Road (085),a
 43.747792,-79.5532637,2,Lindylou Road (203),a
-43.7477987,-79.5535415,2,Faulkner Crescent (208),a
 43.7477987,-79.5535415,2,Faulkner Crescent (575),a
 43.7478106,-79.5426867,2,Lanyard Road (011),a
 43.7478106,-79.5426867,2,Lanyard Road (173),a
@@ -3910,7 +2784,6 @@ lat,lon,sz,names,len_cat
 43.7482128,-79.5419066,2,Lanyard Road (201),a
 43.7482128,-79.5419066,2,Lanyard Road (559),a
 43.7482128,-79.5419066,2,Lanyard Road (562),a
-43.7482165,-79.5512919,2,Lindylou Road (119),a
 43.7482165,-79.5512919,2,Lindylou Road (239),a
 43.7482244,-79.5197207,2,Eddystone Avenue (172),a
 43.7482244,-79.5197207,2,Eddystone Avenue (306),a
@@ -3940,7 +2813,6 @@ lat,lon,sz,names,len_cat
 43.7482983,-79.5597305,2,Finch Avenue West (477),a
 43.7482999,-79.5508993,2,Lindylou Road (088),a
 43.7482999,-79.5508993,2,Lindylou Road (206),a
-43.7483128,-79.559709,2,Finch Avenue West (444),a
 43.7483294,-79.5192466,2,Eddystone Avenue (174),a
 43.7483294,-79.5192466,2,Eddystone Avenue (308),a
 43.7483349,-79.5416198,2,Weston Road (845),a
@@ -3953,10 +2825,6 @@ lat,lon,sz,names,len_cat
 43.748347,-79.5574422,2,Ardwick Boulevard (225),a
 43.7483786,-79.5267436,2,Oakdale Road (540),a
 43.7483786,-79.5267436,2,Oakdale Road (565),a
-43.748396,-79.5115478,2,Grandravine Drive (290),a
-43.748396,-79.5115478,2,Grandravine Drive (290),a
-43.748396,-79.5115478,2,Grandravine Drive (636),a
-43.748396,-79.5115478,2,Grandravine Drive (636),a
 43.7484039,-79.5592424,2,Finch Avenue West (478),a
 43.7484194,-79.5343164,2,Deerhide Crescent (594),a
 43.7484194,-79.5343164,2,Deerhide Crescent (833),a
@@ -3964,7 +2832,6 @@ lat,lon,sz,names,len_cat
 43.7484275,-79.5314294,2,Arrow Road (285),a
 43.7484275,-79.5314294,2,Arrow Road (624),a
 43.748436,-79.5590854,2,Finch Avenue West (479),a
-43.748436,-79.5590854,2,Finch Avenue West (486),a
 43.7484397,-79.5187479,2,Eddystone Avenue (173),a
 43.7484397,-79.5187479,2,Eddystone Avenue (309),a
 43.7484413,-79.5500595,2,Lanyard Road (091),a
@@ -3981,7 +2848,6 @@ lat,lon,sz,names,len_cat
 43.7484857,-79.5343853,2,Deerhide Crescent (595),a
 43.7484857,-79.5343853,2,Deerhide Crescent (834),a
 43.7484987,-79.5500832,2,Lanyard Road (031),a
-43.7484987,-79.5500832,2,Lanyard Road (193),a
 43.7484987,-79.5500832,2,Lindylou Road (078),a
 43.7484987,-79.5500832,2,Lindylou Road (089),a
 43.7484987,-79.5500832,2,Lindylou Road (196),a
@@ -3992,9 +2858,6 @@ lat,lon,sz,names,len_cat
 43.7485141,-79.5465083,2,Daystrom Drive (261),a
 43.7485141,-79.5465083,2,Daystrom Drive (524),a
 43.7485141,-79.5465083,2,Daystrom Drive (524),a
-43.7485183,-79.5587517,2,Finch Avenue West (445),a
-43.7485211,-79.5089992,2,Grandravine Drive (197),a
-43.7485211,-79.5089992,2,Grandravine Drive (790),a
 43.7485263,-79.5315576,2,Arrow Road (032),a
 43.7485263,-79.5315576,2,Arrow Road (118),a
 43.7485289,-79.5575306,2,Ardwick Boulevard (832),a
@@ -4011,8 +2874,6 @@ lat,lon,sz,names,len_cat
 43.748562,-79.5496438,2,Lindylou Road (197),a
 43.7485633,-79.5344737,2,Deerhide Crescent (596),a
 43.7485633,-79.5344737,2,Deerhide Crescent (835),a
-43.7485674,-79.5090982,2,Grandravine Drive (198),a
-43.7485674,-79.5090982,2,Grandravine Drive (791),a
 43.7485681,-79.5248276,2,Blossom Crescent (788),a
 43.7485681,-79.5248276,2,Blossom Crescent (866),a
 43.74857,-79.518159,2,Eddystone Avenue (171),a
@@ -4030,6 +2891,7 @@ lat,lon,sz,names,len_cat
 43.748588,-79.5590236,2,Finch Avenue West (682),a
 43.7485969,-79.5544558,2,Faulkner Crescent (219),a
 43.7485969,-79.5544558,2,Faulkner Crescent (586),a
+43.7485987,-79.5590075,2,Finch Avenue West (811),a
 43.7486051,-79.5249536,2,Blossom Crescent (791),a
 43.7486051,-79.5249536,2,Blossom Crescent (868),a
 43.7486078,-79.5247006,2,Blossom Crescent (786),a
@@ -4038,7 +2900,6 @@ lat,lon,sz,names,len_cat
 43.7486337,-79.5246207,2,Blossom Crescent (785),a
 43.7486337,-79.5246207,2,Blossom Crescent (863),a
 43.7486344,-79.5581187,2,Finch Avenue West (487),a
-43.7486431,-79.5581187,2,Finch Avenue West (458),a
 43.7486434,-79.5245653,2,Blossom Crescent (784),a
 43.7486434,-79.5245653,2,Blossom Crescent (784),a
 43.7486434,-79.5245653,2,Blossom Crescent (862),a
@@ -4063,6 +2924,7 @@ lat,lon,sz,names,len_cat
 43.7486857,-79.517636,2,Eddystone Avenue (894),a
 43.7487006,-79.5455123,2,Lindylou Road (065),a
 43.7487006,-79.5455123,2,Lindylou Road (183),a
+43.7487008,-79.558815,2,Gracedale Boulevard (513),a
 43.7487091,-79.5346005,2,Deerhide Crescent (598),a
 43.7487091,-79.5346005,2,Deerhide Crescent (598),a
 43.7487091,-79.5346005,2,Deerhide Crescent (837),a
@@ -4074,10 +2936,6 @@ lat,lon,sz,names,len_cat
 43.7487183,-79.5577401,2,Finch Avenue West (459),a
 43.7487233,-79.517466,2,Eddystone Avenue (168),a
 43.7487233,-79.517466,2,Eddystone Avenue (314),a
-43.7487279,-79.4387084,2,Danby Avenue (570),a
-43.7487279,-79.4387084,2,Danby Avenue (570),a
-43.7487279,-79.4387084,2,Danby Avenue (791),a
-43.7487279,-79.4387084,2,Danby Avenue (791),a
 43.7487335,-79.5531608,2,Lockington Court (195),a
 43.7487335,-79.5531608,2,Lockington Court (636),a
 43.7487347,-79.5588043,2,Gracedale Boulevard (897),a
@@ -4094,6 +2952,7 @@ lat,lon,sz,names,len_cat
 43.7487411,-79.5249888,2,Blossom Crescent (794),a
 43.7487411,-79.5249888,2,Blossom Crescent (870),a
 43.7487447,-79.557607,2,Ardwick Boulevard (834),a
+43.7487447,-79.557607,2,Ardwick Boulevard (858),a
 43.7487447,-79.557607,2,Finch Avenue West (432),a
 43.7487447,-79.557607,2,Finch Avenue West (460),a
 43.7487499,-79.5528657,2,Lockington Court (196),a
@@ -4111,9 +2970,6 @@ lat,lon,sz,names,len_cat
 43.7487717,-79.558288,2,Finch Avenue West (680),a
 43.7487912,-79.5171591,2,Eddystone Avenue (875),a
 43.7487912,-79.5171591,2,Eddystone Avenue (895),a
-43.7487941,-79.5095819,2,Grandravine Drive (483),a
-43.7487941,-79.5095819,2,Grandravine Drive (545),a
-43.748798,-79.5483293,2,Jayzel Drive (892),a
 43.748798,-79.5483293,2,Jayzel Drive (892),a
 43.748798,-79.5483293,2,Jayzel Drive (936),a
 43.748798,-79.5483293,2,Jayzel Drive (936),a
@@ -4132,16 +2988,12 @@ lat,lon,sz,names,len_cat
 43.7488106,-79.5346346,2,Deerhide Crescent (839),a
 43.7488106,-79.5346346,2,Deerhide Crescent (839),a
 43.7488322,-79.5576429,2,Ardwick Boulevard (236),a
-43.748842,-79.5096841,2,Grandravine Drive (482),a
-43.748842,-79.5096841,2,Grandravine Drive (544),a
 43.7488463,-79.5237423,2,Blossom Crescent (783),a
 43.7488463,-79.5237423,2,Blossom Crescent (783),a
 43.7488463,-79.5237423,2,Blossom Crescent (861),a
 43.7488463,-79.5237423,2,Blossom Crescent (861),a
 43.7488493,-79.5168965,2,Eddystone Avenue (564),a
 43.7488493,-79.5168965,2,Eddystone Avenue (826),a
-43.7488537,-79.4381743,2,Danby Avenue (572),a
-43.7488537,-79.4381743,2,Danby Avenue (793),a
 43.7488553,-79.5570951,2,Finch Avenue West (434),a
 43.7488558,-79.5346138,2,Deerhide Crescent (601),a
 43.7488558,-79.5346138,2,Deerhide Crescent (601),a
@@ -4154,7 +3006,6 @@ lat,lon,sz,names,len_cat
 43.7488716,-79.5483587,2,Jayzel Drive (135),a
 43.7488716,-79.5483587,2,Jayzel Drive (135),a
 43.7488789,-79.5569846,2,Finch Avenue West (435),a
-43.7488789,-79.5569846,2,Finch Avenue West (484),a
 43.7488874,-79.5236638,2,Blossom Crescent (782),a
 43.7488874,-79.5236638,2,Blossom Crescent (782),a
 43.7488874,-79.5236638,2,Blossom Crescent (860),a
@@ -4167,6 +3018,7 @@ lat,lon,sz,names,len_cat
 43.7488952,-79.5577721,2,Finch Avenue West (465),a
 43.7489021,-79.546644,2,Daystrom Drive (263),a
 43.7489021,-79.546644,2,Daystrom Drive (263),a
+43.7489021,-79.546644,2,Daystrom Drive (526),a
 43.7489021,-79.546644,2,Daystrom Drive (526),a
 43.7489086,-79.5478358,2,Lindylou Road (053),a
 43.7489086,-79.5478358,2,Lindylou Road (053),a
@@ -4209,7 +3061,6 @@ lat,lon,sz,names,len_cat
 43.7489787,-79.5230602,2,Firgrove Crescent (999),a
 43.748979,-79.5475051,2,Lindylou Road (054),a
 43.748979,-79.5475051,2,Lindylou Road (054),a
-43.748979,-79.5475051,2,Lindylou Road (172),a
 43.748979,-79.5475051,2,Lindylou Road (172),a
 43.7489806,-79.5232092,2,Firgrove Crescent (896),a
 43.7489806,-79.5232092,2,Firgrove Crescent (896),a
@@ -4322,6 +3173,7 @@ lat,lon,sz,names,len_cat
 43.7492311,-79.5590485,2,Gracedale Boulevard (515),a
 43.7492475,-79.5331749,2,Deerhide Crescent (608),a
 43.7492475,-79.5331749,2,Deerhide Crescent (847),a
+43.7492548,-79.5519818,2,Rumike Road (430),a
 43.7492548,-79.5519818,2,Rumike Road (861),a
 43.7492757,-79.5237484,2,Firgrove Crescent (014),a
 43.7492757,-79.5237484,2,Firgrove Crescent (014),a
@@ -4381,6 +3233,7 @@ lat,lon,sz,names,len_cat
 43.7494661,-79.5520736,2,Rumike Road (668),a
 43.7494704,-79.5319074,2,Pemican Court (287),a
 43.7494704,-79.5319074,2,Pemican Court (626),a
+43.749482,-79.5603839,2,Hasbrooke Drive (344),a
 43.749482,-79.5603839,2,Hasbrooke Drive (500),a
 43.7494989,-79.5602966,2,Hasbrooke Drive (345),a
 43.7494989,-79.5602966,2,Hasbrooke Drive (501),a
@@ -4413,10 +3266,10 @@ lat,lon,sz,names,len_cat
 43.7495427,-79.5601962,2,Hasbrooke Drive (346),a
 43.7495427,-79.5601962,2,Hasbrooke Drive (502),a
 43.7495463,-79.553914,2,Finch Avenue West (321),a
-43.7495463,-79.553914,2,Finch Avenue West (700),a
 43.7495463,-79.553914,2,Finch Avenue West (882),a
 43.7495679,-79.5317525,2,Pemican Court (439),a
 43.7495679,-79.5317525,2,Pemican Court (854),a
+43.7495689,-79.5601334,2,Hasbrooke Drive (347),a
 43.7495689,-79.5601334,2,Hasbrooke Drive (503),a
 43.7495799,-79.5202947,2,Firgrove Crescent (768),a
 43.7495864,-79.5600958,2,Hasbrooke Drive (348),a
@@ -4471,7 +3324,6 @@ lat,lon,sz,names,len_cat
 43.749786,-79.5408236,2,Vena Way (273),a
 43.749786,-79.5408236,2,Vena Way (755),a
 43.7497876,-79.5487416,2,Jayzel Drive (139),a
-43.7497876,-79.5487416,2,Jayzel Drive (315),a
 43.7498026,-79.5522169,2,Rumike Road (324),a
 43.7498152,-79.5598157,2,Gracedale Boulevard (341),a
 43.7498152,-79.5598157,2,Gracedale Boulevard (342),a
@@ -4482,7 +3334,6 @@ lat,lon,sz,names,len_cat
 43.7498157,-79.5408458,2,Vena Way (272),a
 43.7498157,-79.5408458,2,Vena Way (754),a
 43.7498241,-79.5522293,2,Rumike Road (862),a
-43.7498317,-79.5581274,2,Duncanwoods Drive (209),a
 43.7498317,-79.5581274,2,Duncanwoods Drive (456),a
 43.7498367,-79.5190893,2,Firgrove Crescent (003),a
 43.7498367,-79.5190893,2,Firgrove Crescent (901),a
@@ -4498,7 +3349,6 @@ lat,lon,sz,names,len_cat
 43.749881,-79.5522663,2,Finch Avenue West (540),a
 43.749881,-79.5522663,2,Rumike Road (325),a
 43.749881,-79.5522663,2,Rumike Road (326),a
-43.7498857,-79.5487822,2,Jayzel Drive (894),a
 43.7498857,-79.5487822,2,Jayzel Drive (938),a
 43.7498908,-79.5522737,2,Finch Avenue West (483),a
 43.7498908,-79.5522737,2,Finch Avenue West (577),a
@@ -4522,6 +3372,7 @@ lat,lon,sz,names,len_cat
 43.7499499,-79.5522991,2,Rumike Road (327),a
 43.749959,-79.5518772,2,Finch Avenue West (542),a
 43.749959,-79.5518772,2,Finch Avenue West (698),a
+43.7499777,-79.5518848,2,Finch Avenue West (580),a
 43.7499822,-79.5600614,2,Gracedale Boulevard (346),a
 43.7499822,-79.5600614,2,Gracedale Boulevard (529),a
 43.7499854,-79.552316,2,Rumike Road (328),a
@@ -4541,11 +3392,11 @@ lat,lon,sz,names,len_cat
 43.7500299,-79.5333683,2,Arrow Road (996),a
 43.7500325,-79.5182153,2,Firgrove Crescent (006),a
 43.7500325,-79.5182153,2,Firgrove Crescent (904),a
-43.7500385,-79.5488472,2,Jayzel Drive (895),a
 43.7500385,-79.5488472,2,Jayzel Drive (939),a
 43.7500408,-79.5419631,2,Weston Road (247),a
 43.7500408,-79.5419631,2,Weston Road (699),a
 43.750046,-79.560122,2,Gracedale Boulevard (347),a
+43.750046,-79.560122,2,Gracedale Boulevard (530),a
 43.7500463,-79.5523574,2,Finch Avenue West (479),a
 43.7500463,-79.5523574,2,Finch Avenue West (502),a
 43.7500463,-79.5523574,2,Milvan Drive (284),a
@@ -4558,7 +3409,6 @@ lat,lon,sz,names,len_cat
 43.7500512,-79.5583954,2,Duncanwoods Drive (459),a
 43.75007,-79.5522325,2,Finch Avenue West (478),a
 43.7500734,-79.54886,2,Jayzel Drive (153),a
-43.7500734,-79.54886,2,Jayzel Drive (256),a
 43.750089,-79.5521383,2,Finch Avenue West (496),a
 43.7500956,-79.5523806,2,Milvan Drive (286),a
 43.7501006,-79.5601706,2,Gracedale Boulevard (348),a
@@ -4596,6 +3446,7 @@ lat,lon,sz,names,len_cat
 43.7502367,-79.5602543,2,Gracedale Boulevard (533),a
 43.7502688,-79.5176346,2,Firgrove Crescent (167),a
 43.7502688,-79.5176346,2,Firgrove Crescent (322),a
+43.7502735,-79.5505101,2,Finch Avenue West (247),a
 43.7503215,-79.5588274,2,Duncanwoods Drive (214),a
 43.7503215,-79.5588274,2,Duncanwoods Drive (461),a
 43.7503226,-79.5409479,2,Vena Way (267),a
@@ -4646,10 +3497,8 @@ lat,lon,sz,names,len_cat
 43.7505832,-79.5490683,2,Finch Avenue West (544),a
 43.7505832,-79.5490683,2,Jayzel Drive (268),a
 43.7505832,-79.5490683,2,Jayzel Drive (269),a
-43.7505901,-79.5490423,2,Finch Avenue West (583),a
 43.7505901,-79.5490423,2,Finch Avenue West (592),a
 43.7505901,-79.5490423,2,Jayzel Drive (942),a
-43.7505901,-79.5490423,2,Jayzel Drive (943),a
 43.7505979,-79.5497725,2,Finch Avenue West (372),a
 43.7505979,-79.5497725,2,Finch Avenue West (520),a
 43.7506218,-79.5339562,2,Arrow Road (282),a
@@ -4683,6 +3532,8 @@ lat,lon,sz,names,len_cat
 43.7507637,-79.5482139,2,Finch Avenue West (531),a
 43.7507637,-79.5482139,2,Finch Avenue West (531),a
 43.7507687,-79.5482182,2,Finch Avenue West (594),a
+43.7507687,-79.5482182,2,Finch Avenue West (594),a
+43.7507776,-79.5595954,2,Duncanwoods Drive (072),a
 43.7507776,-79.5595954,2,Duncanwoods Drive (923),a
 43.7507789,-79.5488757,2,Finch Avenue West (551),a
 43.7507914,-79.559421,2,Cherrylawn Avenue (781),a
@@ -4713,8 +3564,9 @@ lat,lon,sz,names,len_cat
 43.7508714,-79.5419123,2,Zappacosta Drive (675),a
 43.7509,-79.5410554,2,Vena Way (271),a
 43.7509,-79.5410554,2,Vena Way (753),a
-43.7509002,-79.5593192,2,Cherrylawn Avenue (997),a
+43.7509002,-79.5593192,2,Cherrylawn Avenue (557),a
 43.750904,-79.5482667,2,Finch Avenue West (224),a
+43.750904,-79.5482667,2,Finch Avenue West (590),a
 43.750904,-79.5482667,2,Finch Avenue West (695),a
 43.7509077,-79.5475868,2,Finch Avenue West (532),a
 43.7509077,-79.5475868,2,Finch Avenue West (532),a
@@ -4724,6 +3576,7 @@ lat,lon,sz,names,len_cat
 43.7509164,-79.5598902,2,Duncanwoods Drive (927),a
 43.7509454,-79.5421441,2,Weston Road (143),a
 43.7509454,-79.5421441,2,Weston Road (988),a
+43.7509539,-79.5592931,2,Cherrylawn Avenue (558),a
 43.7509541,-79.5600259,2,Duncanwoods Drive (077),a
 43.7509541,-79.5600259,2,Duncanwoods Drive (928),a
 43.7509639,-79.559268,2,Cherrylawn Avenue (782),a
@@ -4746,6 +3599,7 @@ lat,lon,sz,names,len_cat
 43.7510396,-79.5243249,2,Blossom Crescent (877),a
 43.7510681,-79.5263122,2,Oakdale Road (072),a
 43.7510681,-79.5263122,2,Oakdale Road (207),a
+43.75107,-79.5592158,2,Cherrylawn Avenue (560),a
 43.7510832,-79.5545577,2,Penn Drive (292),a
 43.7510832,-79.5545577,2,Penn Drive (458),a
 43.7510844,-79.554657,2,Penn Drive (293),a
@@ -4763,6 +3617,7 @@ lat,lon,sz,names,len_cat
 43.7511085,-79.5544204,2,Penn Drive (457),a
 43.7511147,-79.5549171,2,Penn Drive (296),a
 43.7511147,-79.5549171,2,Penn Drive (463),a
+43.7511367,-79.5549685,2,Penn Drive (297),a
 43.7511367,-79.5549685,2,Penn Drive (465),a
 43.7511418,-79.5592016,2,Cherrylawn Avenue (561),a
 43.7511437,-79.5591808,2,Cherrylawn Avenue (785),a
@@ -4775,6 +3630,7 @@ lat,lon,sz,names,len_cat
 43.7512424,-79.5262626,2,Oakdale Road (073),a
 43.7512424,-79.5262626,2,Oakdale Road (208),a
 43.7512456,-79.5552073,2,Penn Drive (615),a
+43.7512456,-79.5552073,2,Penn Drive (736),a
 43.7512465,-79.5243203,2,Blossom Crescent (813),a
 43.7512465,-79.5243203,2,Blossom Crescent (880),a
 43.7512662,-79.5459737,2,Finch Avenue West (569),a
@@ -4789,7 +3645,6 @@ lat,lon,sz,names,len_cat
 43.7512927,-79.5229749,2,Firgrove Crescent (920),a
 43.7513089,-79.5243249,2,Blossom Crescent (814),a
 43.7513089,-79.5243249,2,Blossom Crescent (881),a
-43.751327,-79.5529301,2,Milvan Drive (284),a
 43.7513276,-79.545693,2,Finch Avenue West (570),a
 43.7513335,-79.5528892,2,Milvan Drive (898),a
 43.7513357,-79.5345981,2,Arrow Road (113),a
@@ -4823,7 +3678,6 @@ lat,lon,sz,names,len_cat
 43.7514278,-79.5229144,2,Firgrove Crescent (937),a
 43.7514278,-79.5229144,2,Firgrove Crescent (937),a
 43.7514323,-79.5529718,2,Milvan Drive (287),a
-43.7514323,-79.5529718,2,Milvan Drive (304),a
 43.7514323,-79.5529718,2,Penn Drive (289),a
 43.7514381,-79.5241774,2,Blossom Crescent (817),a
 43.7514381,-79.5241774,2,Blossom Crescent (884),a
@@ -4832,6 +3686,7 @@ lat,lon,sz,names,len_cat
 43.7514402,-79.5529379,2,Penn Drive (142),a
 43.7514409,-79.5262996,2,Oakdale Road (251),a
 43.7514409,-79.5262996,2,Oakdale Road (470),a
+43.7514564,-79.5591568,2,Cherrylawn Avenue (565),a
 43.7514604,-79.5228954,2,Firgrove Crescent (040),a
 43.7514604,-79.5228954,2,Firgrove Crescent (040),a
 43.7514604,-79.5228954,2,Firgrove Crescent (938),a
@@ -4893,6 +3748,7 @@ lat,lon,sz,names,len_cat
 43.7516124,-79.5422776,2,Weston Road (144),a
 43.7516124,-79.5422776,2,Weston Road (989),a
 43.7516163,-79.5443316,2,Finch Avenue West (985),a
+43.7516366,-79.5591649,2,Cherrylawn Avenue (567),a
 43.7516458,-79.5227825,2,Firgrove Crescent (044),a
 43.7516458,-79.5227825,2,Firgrove Crescent (044),a
 43.7516458,-79.5227825,2,Firgrove Crescent (942),a
@@ -4944,6 +3800,7 @@ lat,lon,sz,names,len_cat
 43.7517905,-79.5350364,2,Arrow Road (000),a
 43.7517905,-79.5350364,2,Arrow Road (114),a
 43.7517905,-79.5350364,2,Arrow Road (114),a
+43.7517991,-79.5591983,2,Cherrylawn Avenue (569),a
 43.751816,-79.5226239,2,Firgrove Crescent (048),a
 43.751816,-79.5226239,2,Firgrove Crescent (946),a
 43.7518282,-79.5431211,2,Finch Avenue West (547),a
@@ -6119,12 +4976,10 @@ lat,lon,sz,names,len_cat
 43.757226,-79.5274429,2,Norfinch Drive (499),a
 43.7572349,-79.5189093,2,Finch Avenue West (795),a
 43.7572349,-79.5189093,2,Finch Avenue West (800),a
-43.7572363,-79.5177706,2,Jane Street (206),a
 43.7572388,-79.5187185,2,Finch Avenue West (458),a
 43.7572478,-79.559316,2,Millwick Drive (281),a
 43.7572478,-79.559316,2,Millwick Drive (860),a
 43.757262,-79.5187208,2,Finch Avenue West (257),a
-43.7572702,-79.517782,2,Jane Street (205),a
 43.7572774,-79.5276241,2,Norfinch Drive (351),a
 43.7572774,-79.5276241,2,Norfinch Drive (502),a
 43.7572997,-79.5182675,2,Finch Avenue West (457),a
@@ -6139,10 +4994,6 @@ lat,lon,sz,names,len_cat
 43.7573392,-79.517935,2,Finch Avenue West (256),a
 43.7573495,-79.517805,2,Finch Avenue West (043),a
 43.7573495,-79.517805,2,Finch Avenue West (255),a
-43.7573495,-79.517805,2,Jane Street (006),a
-43.7573495,-79.517805,2,Jane Street (304),a
-43.7573495,-79.517805,2,Jane Street (325),a
-43.7573495,-79.517805,2,Jane Street (730),a
 43.7573582,-79.5209845,2,York Gate Boulevard (190),a
 43.7573645,-79.5592883,2,Millwick Drive (285),a
 43.7573645,-79.5592883,2,Millwick Drive (862),a
@@ -6154,16 +5005,12 @@ lat,lon,sz,names,len_cat
 43.7573969,-79.5436497,2,Weston Road (994),a
 43.7574277,-79.5592992,2,Millwick Drive (286),a
 43.7574277,-79.5592992,2,Millwick Drive (863),a
-43.757446,-79.5178335,2,Jane Street (003),a
 43.7574495,-79.5534743,2,Toryork Drive (123),a
 43.7574495,-79.5534743,2,Toryork Drive (180),a
-43.7574592,-79.5176611,2,Jane Street (322),a
 43.75747,-79.5280873,2,Norfinch Drive (354),a
 43.75747,-79.5280873,2,Norfinch Drive (505),a
-43.7574726,-79.5178395,2,Jane Street (200),a
 43.7574853,-79.5435453,2,Fenmar Drive (061),a
 43.7574853,-79.5435453,2,Fenmar Drive (881),a
-43.7574863,-79.51766,2,Jane Street (204),a
 43.7574907,-79.5592977,2,Millwick Drive (289),a
 43.7574907,-79.5592977,2,Millwick Drive (864),a
 43.7574934,-79.5436749,2,Fenmar Drive (059),a
@@ -6195,8 +5042,6 @@ lat,lon,sz,names,len_cat
 43.7576728,-79.5540099,2,Toryork Drive (660),a
 43.7576833,-79.5283738,2,Norfinch Drive (563),a
 43.7576833,-79.5283738,2,Norfinch Drive (595),a
-43.7576905,-79.5178916,2,Jane Street (002),a
-43.7576905,-79.5178916,2,Jane Street (302),a
 43.7576985,-79.5444358,2,Fenmar Drive (066),a
 43.7576985,-79.5444358,2,Fenmar Drive (110),a
 43.7576985,-79.5444358,2,Fenmar Drive (888),a
@@ -6207,8 +5052,6 @@ lat,lon,sz,names,len_cat
 43.7577116,-79.5444815,2,Fenmar Drive (532),a
 43.7577139,-79.528411,2,Norfinch Drive (360),a
 43.7577139,-79.528411,2,Norfinch Drive (511),a
-43.7577146,-79.5177264,2,Jane Street (323),a
-43.7577146,-79.5177264,2,Jane Street (728),a
 43.7577151,-79.5211709,2,York Gate Boulevard (195),a
 43.7577151,-79.5211709,2,York Gate Boulevard (303),a
 43.7577151,-79.5211709,2,York Gate Boulevard (769),a
@@ -6235,12 +5078,6 @@ lat,lon,sz,names,len_cat
 43.757797,-79.5543215,2,Toryork Drive (610),a
 43.7578023,-79.5419489,2,Fenmar Drive (459),a
 43.7578023,-79.5419489,2,Fenmar Drive (719),a
-43.7578184,-79.5178326,2,Jane Street (001),a
-43.7578184,-79.5178326,2,Jane Street (301),a
-43.7578184,-79.5178326,2,Jane Street (308),a
-43.7578184,-79.5178326,2,Jane Street (324),a
-43.7578184,-79.5178326,2,Jane Street (713),a
-43.7578184,-79.5178326,2,Jane Street (729),a
 43.757824,-79.5593146,2,Millwick Drive (298),a
 43.757824,-79.5593146,2,Millwick Drive (869),a
 43.7578524,-79.5544319,2,Toryork Drive (140),a
@@ -6278,8 +5115,6 @@ lat,lon,sz,names,len_cat
 43.7581021,-79.5438825,2,Weston Road (993),a
 43.7581059,-79.5595314,2,Millwick Drive (308),a
 43.7581059,-79.5595314,2,Millwick Drive (875),a
-43.7581092,-79.5179183,2,Jane Street (101),a
-43.7581092,-79.5179183,2,Jane Street (412),a
 43.7581418,-79.5438908,2,Weston Road (152),a
 43.7581418,-79.5438908,2,Weston Road (996),a
 43.7581444,-79.5595929,2,Millwick Drive (276),a
@@ -6320,8 +5155,6 @@ lat,lon,sz,names,len_cat
 43.7584009,-79.5439471,2,Weston Road (998),a
 43.7584171,-79.5287731,2,Norfinch Drive (374),a
 43.7584171,-79.5287731,2,Norfinch Drive (739),a
-43.758425,-79.5179851,2,Jane Street (203),a
-43.758425,-79.5179851,2,Jane Street (259),a
 43.7584428,-79.5390867,2,Fenmar Drive (058),a
 43.7584428,-79.5390867,2,Fenmar Drive (128),a
 43.7584747,-79.5389387,2,Fenmar Drive (065),a
@@ -6340,16 +5173,11 @@ lat,lon,sz,names,len_cat
 43.7585419,-79.5215756,2,York Gate Boulevard (776),a
 43.758552,-79.5465251,2,Fenmar Drive (460),a
 43.758552,-79.5465251,2,Fenmar Drive (729),a
-43.7585555,-79.51802,2,Jane Street (036),a
-43.7585555,-79.51802,2,Jane Street (258),a
-43.7585555,-79.51802,2,Jane Street (307),a
-43.7585555,-79.51802,2,Jane Street (320),a
 43.7585738,-79.5287917,2,Norfinch Drive (366),a
 43.7585738,-79.5287917,2,Norfinch Drive (517),a
 43.7585738,-79.5287917,2,Norfinch Drive (977),a
 43.7585979,-79.538994,2,Signet Drive (137),a
 43.7585979,-79.538994,2,Signet Drive (293),a
-43.7586002,-79.5180294,2,Jane Street (201),a
 43.7586317,-79.5382119,2,Fenmar Drive (122),a
 43.7586317,-79.5382119,2,Fenmar Drive (608),a
 43.758633,-79.5439975,2,Weston Road (461),a
@@ -6376,26 +5204,18 @@ lat,lon,sz,names,len_cat
 43.7588393,-79.5215963,2,York Gate Boulevard (787),a
 43.7588396,-79.556073,2,Toryork Drive (265),a
 43.7588396,-79.556073,2,Toryork Drive (448),a
-43.7588846,-79.5180891,2,Jane Street (261),a
-43.7588846,-79.5180891,2,Jane Street (392),a
-43.7588846,-79.5180891,2,Jane Street (997),a
 43.7589057,-79.5561835,2,Toryork Drive (648),a
 43.7589057,-79.5561835,2,Toryork Drive (677),a
 43.7589075,-79.5288272,2,Norfinch Drive (583),a
 43.7589075,-79.5288272,2,Norfinch Drive (657),a
 43.7589075,-79.5288272,2,Norfinch Drive (675),a
 43.7589075,-79.5288272,2,Norfinch Drive (749),a
-43.7589458,-79.5180987,2,Jane Street (035),a
-43.7589458,-79.5180987,2,Jane Street (255),a
-43.7589458,-79.5180987,2,Jane Street (260),a
 43.7589527,-79.5215787,2,York Gate Boulevard (217),a
 43.7589527,-79.5215787,2,York Gate Boulevard (791),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
-43.7590384,-79.5181139,2,Jane Street (254),a
-43.7590384,-79.5181139,2,Jane Street (257),a
 43.7590417,-79.5440864,2,Weston Road (161),a
 43.7590417,-79.5440864,2,Weston Road (860),a
 43.7590502,-79.5391742,2,Signet Drive (261),a
@@ -6404,12 +5224,6 @@ lat,lon,sz,names,len_cat
 43.7590632,-79.5477529,2,Fenmar Drive (463),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
-43.7590668,-79.5181151,2,Jane Street (034),a
-43.7590668,-79.5181151,2,Jane Street (256),a
-43.7590668,-79.5181151,2,Jane Street (298),a
-43.7590668,-79.5181151,2,Jane Street (320),a
-43.7590668,-79.5181151,2,Jane Street (725),a
-43.7590668,-79.5181151,2,Jane Street (998),a
 43.7590876,-79.5361019,2,Fenmar Drive (123),a
 43.7590876,-79.5361019,2,Fenmar Drive (123),a
 43.7590876,-79.5361019,2,Fenmar Drive (609),a
@@ -6422,8 +5236,6 @@ lat,lon,sz,names,len_cat
 43.7591129,-79.5478722,2,Fenmar Drive (749),a
 43.7591534,-79.5288546,2,Norfinch Drive (646),a
 43.7591534,-79.5288546,2,Norfinch Drive (738),a
-43.7591669,-79.518219,2,Jane Street (319),a
-43.7591669,-79.518219,2,Jane Street (724),a
 43.759188,-79.5566549,2,Toryork Drive (151),a
 43.759188,-79.5566549,2,Toryork Drive (622),a
 43.7592145,-79.5214663,2,York Gate Boulevard (225),a
@@ -6446,8 +5258,6 @@ lat,lon,sz,names,len_cat
 43.7593641,-79.5348223,2,Fenmar Drive (471),a
 43.7593641,-79.5348223,2,Fenmar Drive (799),a
 43.7593641,-79.5348223,2,Fenmar Drive (799),a
-43.7593665,-79.5182686,2,Jane Street (182),a
-43.7593665,-79.5182686,2,Jane Street (833),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (987),a
@@ -6460,26 +5270,8 @@ lat,lon,sz,names,len_cat
 43.7594583,-79.534386,2,Fenmar Drive (800),a
 43.7594608,-79.5212611,2,York Gate Boulevard (232),a
 43.7594608,-79.5212611,2,York Gate Boulevard (806),a
-43.7594638,-79.5182912,2,Jane Street (315),a
-43.7594638,-79.5182912,2,Jane Street (318),a
-43.7594638,-79.5182912,2,Jane Street (720),a
-43.7594638,-79.5182912,2,Jane Street (723),a
-43.7594843,-79.5181509,2,Jane Street (000),a
-43.7594843,-79.5181509,2,Jane Street (300),a
-43.7594843,-79.5181509,2,Jane Street (316),a
-43.7594843,-79.5181509,2,Jane Street (721),a
-43.7595668,-79.5183156,2,Jane Street (293),a
-43.7595668,-79.5183156,2,Jane Street (313),a
-43.7595668,-79.5183156,2,Jane Street (718),a
-43.7595668,-79.5183156,2,Jane Street (993),a
-43.7595914,-79.5181765,2,Jane Street (309),a
-43.7595914,-79.5181765,2,Jane Street (317),a
-43.7595914,-79.5181765,2,Jane Street (714),a
-43.7595914,-79.5181765,2,Jane Street (722),a
 43.7595985,-79.5442074,2,Weston Road (042),a
 43.7595985,-79.5442074,2,Weston Road (993),a
-43.7596021,-79.5183233,2,Jane Street (545),a
-43.7596021,-79.5183233,2,Jane Street (553),a
 43.7596059,-79.5393832,2,Signet Drive (655),a
 43.7596059,-79.5393832,2,Signet Drive (695),a
 43.7596394,-79.5211103,2,York Gate Boulevard (219),a
@@ -6490,10 +5282,6 @@ lat,lon,sz,names,len_cat
 43.7596486,-79.5211026,2,York Gate Boulevard (811),a
 43.7596907,-79.5574927,2,Toryork Drive (592),a
 43.7596907,-79.5574927,2,Toryork Drive (614),a
-43.7596908,-79.5183427,2,Jane Street (291),a
-43.7596908,-79.5183427,2,Jane Street (991),a
-43.7597065,-79.5182042,2,Jane Street (311),a
-43.7597065,-79.5182042,2,Jane Street (716),a
 43.759716,-79.5210448,2,York Gate Boulevard (240),a
 43.759716,-79.5210448,2,York Gate Boulevard (814),a
 43.7597287,-79.5575545,2,Toryork Drive (154),a
@@ -6514,12 +5302,6 @@ lat,lon,sz,names,len_cat
 43.7598073,-79.54954,2,Fenmar Drive (916),a
 43.7598073,-79.54954,2,Kenhar Drive (160),a
 43.7598073,-79.54954,2,Kenhar Drive (976),a
-43.7598245,-79.5183121,2,Jane Street (290),a
-43.7598245,-79.5183121,2,Jane Street (312),a
-43.7598245,-79.5183121,2,Jane Street (449),a
-43.7598245,-79.5183121,2,Jane Street (717),a
-43.7598245,-79.5183121,2,Jane Street (775),a
-43.7598245,-79.5183121,2,Jane Street (990),a
 43.7598266,-79.544257,2,Weston Road (047),a
 43.7598266,-79.544257,2,Weston Road (998),a
 43.7598355,-79.5394589,2,Signet Drive (262),a
@@ -6717,8 +5499,6 @@ lat,lon,sz,names,len_cat
 43.7609503,-79.5445012,2,Weston Road (995),a
 43.7609509,-79.5291264,2,Norfinch Drive (586),a
 43.7609509,-79.5291264,2,Norfinch Drive (678),a
-43.7609554,-79.5185679,2,Jane Street (448),a
-43.7609554,-79.5185679,2,Jane Street (774),a
 43.7609584,-79.5522789,2,Fenmar Drive (393),a
 43.7609584,-79.5522789,2,Fenmar Drive (874),a
 43.7610112,-79.527547,2,Checkers Court (062),a
@@ -6866,10 +5646,6 @@ lat,lon,sz,names,len_cat
 43.7615231,-79.5232026,2,Hullmar Drive (610),a
 43.7615231,-79.5232026,2,Hullmar Drive (855),a
 43.7615231,-79.5232026,2,Hullmar Drive (855),a
-43.7615402,-79.5187014,2,Jane Street (559),a
-43.7615402,-79.5187014,2,Jane Street (583),a
-43.7615402,-79.5187014,2,Jane Street (967),a
-43.7615402,-79.5187014,2,Jane Street (991),a
 43.7615486,-79.5245821,2,Bloomington Crescent (990),a
 43.7615486,-79.5245821,2,Bloomington Crescent (995),a
 43.7615726,-79.5203324,2,York Gate Boulevard (283),a

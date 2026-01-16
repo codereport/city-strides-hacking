@@ -98,9 +98,8 @@ def parse_nodes(r: str):
     nodes = []
     for node in literal_eval(r):
         nodes.append(
-            Node(lat=node[0],
-                 lon=node[1],
-                 names=f"{node[3]} ({str(node[2])[-3:]})"))
+            Node(lat=node[0], lon=node[1], names=f"{node[3]} ({str(node[2])[-3:]})")
+        )
     return nodes
 
 
@@ -141,7 +140,7 @@ CityGrids = {
     City.BANGKOK:      CityGrid(100.63077252004365, 13.847639730527689, 100.43201063327376, 13.638682174742826),
     City.KUALA_LUMPUR: CityGrid(101.77057184116842, 3.2535737239631857, 101.60542181002302, 3.019316817120796),
     City.OLD_TORONTO:  CityGrid(-79.20, 43.8, -79.556, 43.61),
-    City.NORTH_YORK:   CityGrid(-79.20, 43.8, -79.556, 43.61),
+    City.NORTH_YORK:   CityGrid(-79.20, 43.8, -79.64, 43.61),
     City.EAST_YORK:    CityGrid(-79.20, 43.8, -79.556, 43.61),
     City.YELLOWKNIFE:  CityGrid(-114.27992785264068, 62.54634422107276,  -114.53535016375272, 62.40108397535985),
     City.MANHATTAN:    CityGrid(-73.85718821472695,  40.88516054351777,  -74.06031270089198,  40.695918553464935),
@@ -206,8 +205,7 @@ def get_city_from_user():
         table.append(row)
 
     for row in table:
-        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row
-                        if cell))
+        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]
@@ -240,9 +238,9 @@ def download_nodes_of_coordinates(city, coordinates, cache):
     if coordinates in cache:
         return []
     params = {"city": city.value, **citygrid_to_str(coordinates)}
-    response = requests.get("https://citystrides.com/nodes.json",
-                            params=params,
-                            cookies=cookies)
+    response = requests.get(
+        "https://citystrides.com/nodes.json", params=params, cookies=cookies
+    )
 
     try:
         lat_lons = parse_nodes(response.text)
@@ -281,11 +279,8 @@ def download_nodes_of_city(city: City):
     if city == City.BANGKOK: delta = 0.006
     # fmt: on
 
-    with ThreadPoolExecutor(
-            max_workers=12) as executor:  # Adjust max_workers as needed
-        download_func = partial(download_nodes_of_coordinates,
-                                city,
-                                cache=cache)
+    with ThreadPoolExecutor(max_workers=12) as executor:  # Adjust max_workers as needed
+        download_func = partial(download_nodes_of_coordinates, city, cache=cache)
         futures = [
             executor.submit(download_func, coordinates)
             for coordinates in make_grid_steps(grid, delta)
@@ -314,8 +309,7 @@ if __name__ == "__main__":
     if not nodes:
         print("ERROR: No nodes were downloaded!")
         print("This could be due to:")
-        print(
-            "1. Incorrect city ID - check citystrides.com for the correct ID")
+        print("1. Incorrect city ID - check citystrides.com for the correct ID")
         print("2. Authentication issues with cookies.json")
         print("3. Incorrect bounding box coordinates")
         print("4. City not available on City Strides")
@@ -330,8 +324,9 @@ if __name__ == "__main__":
     df["lat"] = df["lat"].round(7)
     df["lon"] = df["lon"].round(7)
     # Use stable sort with all columns for deterministic ordering
-    df = df.sort_values(["lat", "lon", "names", "sz", "len_cat"],
-                        kind='stable').reset_index(drop=True)
+    df = df.sort_values(
+        ["lat", "lon", "names", "sz", "len_cat"], kind="stable"
+    ).reset_index(drop=True)
     df.to_csv(NODES_FILE, index=False)
 
     # Write to csnodes/<city>.csv
@@ -342,6 +337,7 @@ if __name__ == "__main__":
     df_cache = pd.DataFrame(cache)
     # Sort cache entries for consistent ordering using stable sort
     if not df_cache.empty:
-        df_cache = df_cache.sort_values(list(df_cache.columns),
-                                        kind='stable').reset_index(drop=True)
+        df_cache = df_cache.sort_values(
+            list(df_cache.columns), kind="stable"
+        ).reset_index(drop=True)
     df_cache.to_csv(cache_file, index=False, header=False)

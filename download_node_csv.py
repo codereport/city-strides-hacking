@@ -85,12 +85,19 @@ class City(str, Enum):
     BRISBANE     = 188747  # 🌍
     SYDNEY       = 227615  # 🌍
     SCARBOROUGH  = 38007  # 🌍
+    MARKHAM      = 37680  # 🌍
 # fmt: on
 
 
 def parse_options():
     parser = argparse.ArgumentParser()
-    parser.add_argument("cookies_path", type=Path, help="path to cookie")
+    parser.add_argument(
+        "cookies_path",
+        type=Path,
+        nargs="?",
+        default="cookies.json",
+        help="path to cookie (default: cookies.json)",
+    )
     return parser.parse_args()
 
 
@@ -183,6 +190,7 @@ CityGrids = {
     City.BRISBANE:       CityGrid(153.0543689563142, -27.44301219134998, 152.98732931830438, -27.509388455594284),
     City.SYDNEY:       CityGrid(151.24934595194998, -33.82739244919205, 151.16658787690773, -33.90408049013356),
     City.SCARBOROUGH:    CityGrid(-79.1132193, 43.8554425, -79.3413434, 43.6697234),
+    City.MARKHAM:        CityGrid(-79.1702147, 43.9625146, -79.428729, 43.7980391),
 }
 # fmt: on
 

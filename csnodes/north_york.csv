@@ -1864,8 +1864,6 @@ lat,lon,sz,names,len_cat
 43.7517592,-79.5701559,2,Aviemore Drive (953),a
 43.7517617,-79.559161,2,Cherrylawn Avenue (792),a
 43.7517617,-79.559161,2,Cherrylawn Avenue (792),a
-43.751771,-79.4316699,2,Earl's Upper Flats (168),a
-43.751771,-79.4316699,2,Earl's Upper Flats (963),a
 43.7517734,-79.5263848,2,Oakdale Road (074),a
 43.7517734,-79.5263848,2,Oakdale Road (209),a
 43.7517865,-79.5434727,2,Finch Avenue West (576),a
@@ -1887,8 +1885,6 @@ lat,lon,sz,names,len_cat
 43.751853,-79.522575,2,Firgrove Crescent (049),a
 43.751853,-79.522575,2,Firgrove Crescent (947),a
 43.7518564,-79.5431241,2,Finch Avenue West (585),a
-43.7518577,-79.4316259,2,Earl's Upper Flats (167),a
-43.7518577,-79.4316259,2,Earl's Upper Flats (962),a
 43.7518586,-79.5429693,2,Finch Avenue West (548),a
 43.7518616,-79.5591836,2,Cherrylawn Avenue (793),a
 43.7518641,-79.5702006,2,Aviemore Drive (639),a
@@ -2193,24 +2189,16 @@ lat,lon,sz,names,len_cat
 43.7526906,-79.5425325,2,Weston Road (744),a
 43.7526906,-79.5425325,2,Weston Road (760),a
 43.7526906,-79.5425325,2,Weston Road (986),a
-43.7527064,-79.4322976,2,Earl's Upper Flats Trail (022),a
-43.7527064,-79.4322976,2,Earl's Upper Flats Trail (049),a
 43.7527115,-79.5658839,2,Benrubin Drive (341),a
 43.7527115,-79.5658839,2,Benrubin Drive (932),a
 43.7527139,-79.5694046,2,Franel Crescent (675),a
 43.7527139,-79.5694046,2,Franel Crescent (828),a
 43.7527197,-79.5658216,2,Benrubin Drive (342),a
 43.7527197,-79.5658216,2,Benrubin Drive (933),a
-43.7527277,-79.4321313,2,Earl's Upper Flats Trail (021),a
-43.7527277,-79.4321313,2,Earl's Upper Flats Trail (048),a
 43.752728,-79.5657592,2,Benrubin Drive (343),a
 43.752728,-79.5657592,2,Benrubin Drive (934),a
-43.7527374,-79.4325256,2,Earl's Upper Flats Trail (018),a
-43.7527374,-79.4325256,2,Earl's Upper Flats Trail (045),a
 43.7527555,-79.519432,2,Firgrove Crescent (075),a
 43.7527555,-79.519432,2,Firgrove Crescent (973),a
-43.7527587,-79.4319784,2,Earl's Upper Flats Trail (020),a
-43.7527587,-79.4319784,2,Earl's Upper Flats Trail (047),a
 43.7527592,-79.5783563,2,Rowntree Mill Road (144),a
 43.7527592,-79.5783563,2,Rowntree Mill Road (391),a
 43.7527609,-79.5597956,2,Crimscott Road (556),a
@@ -2228,12 +2216,8 @@ lat,lon,sz,names,len_cat
 43.7528056,-79.5596456,2,Crimscott Road (928),a
 43.7528168,-79.5535222,2,Milvan Drive (305),a
 43.7528168,-79.5535222,2,Milvan Drive (918),a
-43.7528226,-79.4317638,2,Earl's Upper Flats Trail (019),a
-43.7528226,-79.4317638,2,Earl's Upper Flats Trail (046),a
 43.7528348,-79.5780821,2,Rowntree Mill Road (147),a
 43.7528348,-79.5780821,2,Rowntree Mill Road (394),a
-43.7528391,-79.4327982,2,Earl's Upper Flats Trail (017),a
-43.7528391,-79.4327982,2,Earl's Upper Flats Trail (044),a
 43.7528519,-79.5359855,2,Arrow Road (250),a
 43.7528519,-79.5359855,2,Arrow Road (250),a
 43.7528519,-79.5359855,2,Arrow Road (251),a
@@ -2268,8 +2252,6 @@ lat,lon,sz,names,len_cat
 43.7529531,-79.5426031,2,Weston Road (140),a
 43.7529531,-79.5426031,2,Weston Road (981),a
 43.7529531,-79.5426031,2,Weston Road (985),a
-43.7529711,-79.4330505,2,Earl's Upper Flats Trail (016),a
-43.7529711,-79.4330505,2,Earl's Upper Flats Trail (043),a
 43.752977,-79.5778147,2,Rowntree Mill Road (150),a
 43.752977,-79.5778147,2,Rowntree Mill Road (397),a
 43.7530108,-79.5190797,2,Firgrove Crescent (031),a
@@ -2278,8 +2260,6 @@ lat,lon,sz,names,len_cat
 43.7530423,-79.5370505,2,Finch Avenue West (571),a
 43.7530436,-79.5536534,2,Milvan Drive (308),a
 43.7530436,-79.5536534,2,Milvan Drive (921),a
-43.753059,-79.4332069,2,Earl's Upper Flats Trail (015),a
-43.753059,-79.4332069,2,Earl's Upper Flats Trail (042),a
 43.7530675,-79.5370639,2,Finch Avenue West (943),a
 43.7530675,-79.5370639,2,Finch Avenue West (943),a
 43.7530848,-79.5578677,2,Penn Drive (293),a
@@ -2310,8 +2290,6 @@ lat,lon,sz,names,len_cat
 43.7531441,-79.5537752,2,Milvan Drive (309),a
 43.7531441,-79.5537752,2,Milvan Drive (922),a
 43.753149,-79.5579095,2,Penn Drive (143),a
-43.7531559,-79.4332766,2,Earl's Upper Flats Trail (014),a
-43.7531559,-79.4332766,2,Earl's Upper Flats Trail (041),a
 43.7531647,-79.5361486,2,Arrow Road (005),a
 43.7531647,-79.5361486,2,Arrow Road (005),a
 43.7531699,-79.5364549,2,Finch Avenue West (572),a
@@ -2338,8 +2316,6 @@ lat,lon,sz,names,len_cat
 43.753221,-79.5361785,2,Finch Avenue West (573),a
 43.753221,-79.5361785,2,Signet Drive (562),a
 43.753221,-79.5361785,2,Signet Drive (562),a
-43.7532392,-79.43329,2,Earl's Upper Flats Trail (023),a
-43.7532392,-79.43329,2,Earl's Upper Flats Trail (050),a
 43.7532471,-79.5429221,2,Toryork Drive (160),a
 43.7532471,-79.5429221,2,Toryork Drive (631),a
 43.7532479,-79.5260214,2,Oakdale Road (078),a
@@ -2386,8 +2362,6 @@ lat,lon,sz,names,len_cat
 43.7533167,-79.5427654,2,Toryork Drive (634),a
 43.7533167,-79.5427654,2,Weston Road (268),a
 43.7533167,-79.5427654,2,Weston Road (722),a
-43.7533225,-79.4333115,2,Earl's Upper Flats Trail (024),a
-43.7533225,-79.4333115,2,Earl's Upper Flats Trail (051),a
 43.7533258,-79.5638942,2,Goldsboro Road (713),a
 43.753327,-79.518842,2,Firgrove Crescent (035),a
 43.753327,-79.518842,2,Firgrove Crescent (933),a
@@ -2418,8 +2392,6 @@ lat,lon,sz,names,len_cat
 43.7533801,-79.5639177,2,Goldsboro Road (714),a
 43.7533858,-79.5769409,2,Hathor Crescent (326),a
 43.7533858,-79.5769409,2,Hathor Crescent (388),a
-43.753398,-79.4333893,2,Earl's Upper Flats Trail (025),a
-43.753398,-79.4333893,2,Earl's Upper Flats Trail (052),a
 43.7534018,-79.5362877,2,Finch Avenue West (611),a
 43.7534018,-79.5362877,2,Finch Avenue West (611),a
 43.7534018,-79.5362877,2,Finch Avenue West (979),a
@@ -2453,8 +2425,6 @@ lat,lon,sz,names,len_cat
 43.7534532,-79.518769,2,Firgrove Crescent (934),a
 43.7534591,-79.5427267,2,Weston Road (265),a
 43.7534591,-79.5427267,2,Weston Road (718),a
-43.7534717,-79.4335663,2,Earl's Upper Flats Trail (026),a
-43.7534717,-79.4335663,2,Earl's Upper Flats Trail (053),a
 43.7534724,-79.5581198,2,Penn Drive (214),a
 43.7534724,-79.5581198,2,Penn Drive (566),a
 43.7534737,-79.5360105,2,Finch Avenue West (649),a

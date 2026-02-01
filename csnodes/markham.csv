@@ -670,7 +670,6 @@ lat,lon,sz,names,len_cat
 43.8117225,-79.403646,2,Clark Avenue (982),a
 43.8117225,-79.403646,2,Sprucewood Drive (507),a
 43.8117447,-79.4071765,2,Johnson Street (103),a
-43.8117528,-79.3609212,2,Don Mills Road (355),a
 43.8118099,-79.4106388,2,Henderson Avenue (675),a
 43.8118099,-79.4106388,2,Henderson Avenue (675),a
 43.8118673,-79.4037043,2,Sprucewood Drive (508),a
@@ -689,8 +688,6 @@ lat,lon,sz,names,len_cat
 43.8125755,-79.4105085,2,Henderson Avenue (751),a
 43.8125755,-79.4105085,2,Henderson Avenue (751),a
 43.8125795,-79.4076392,2,Johnson Street (105),a
-43.8126275,-79.3613601,2,Don Mills Road (800),a
-43.8126275,-79.3613601,2,Don Mills Road (800),a
 43.81267,-79.4076741,2,Dove Lane (309),a
 43.81267,-79.4076741,2,Johnson Street (106),a
 43.81267,-79.4076741,2,Johnson Street (107),a
@@ -698,10 +695,6 @@ lat,lon,sz,names,len_cat
 43.8127369,-79.404079,2,Sprucewood Drive (509),a
 43.8127375,-79.4092887,2,St Andres Court (665),a
 43.8127375,-79.4092887,2,St Andres Court (665),a
-43.8127769,-79.3614213,2,Don Mills Road (015),a
-43.8127769,-79.3614213,2,Don Mills Road (015),a
-43.8127769,-79.3614213,2,Don Mills Road (801),a
-43.8127769,-79.3614213,2,Don Mills Road (801),a
 43.8128336,-79.4077666,2,Johnson Street (108),a
 43.8128528,-79.4104544,2,Henderson Avenue (753),a
 43.8128528,-79.4104544,2,Henderson Avenue (753),a
@@ -744,281 +737,49 @@ lat,lon,sz,names,len_cat
 43.8132017,-79.4096493,2,St Andres Court (670),a
 43.8132027,-79.4058446,2,Dove Lane (318),a
 43.8132479,-79.4058558,2,Dove Lane (319),a
-43.8132751,-79.3613176,2,Wickstead Way (703),a
-43.8132751,-79.3613176,2,Wickstead Way (703),a
-43.8132832,-79.3612552,2,Wickstead Way (702),a
-43.8132832,-79.3612552,2,Wickstead Way (702),a
-43.8132935,-79.3613419,2,Wickstead Way (704),a
-43.8132935,-79.3613419,2,Wickstead Way (704),a
 43.813302,-79.4103803,2,Henderson Avenue (691),a
 43.813302,-79.4103803,2,Henderson Avenue (691),a
 43.8133023,-79.4058793,2,Dove Lane (320),a
-43.8133118,-79.3613663,2,Wickstead Way (705),a
-43.8133118,-79.3613663,2,Wickstead Way (705),a
-43.8133662,-79.3613897,2,Wickstead Way (706),a
-43.8133662,-79.3613897,2,Wickstead Way (706),a
-43.8134673,-79.3603457,2,Hampton Way (184),a
-43.8134673,-79.3603457,2,Wickstead Way (701),a
-43.8134673,-79.3603457,2,Wickstead Way (714),a
 43.8135176,-79.4103497,2,Henderson Avenue (692),a
 43.8135176,-79.4103497,2,Henderson Avenue (692),a
-43.8135449,-79.3600419,2,Wickstead Way (715),a
-43.8135703,-79.3599293,2,Wickstead Way (716),a
-43.8136049,-79.3598289,2,Wickstead Way (717),a
-43.8136292,-79.3583859,2,Darby Way (974),a
-43.8136402,-79.3597782,2,Wickstead Way (718),a
 43.8136796,-79.4103357,2,Henderson Avenue (693),a
 43.8136796,-79.4103357,2,Henderson Avenue (693),a
-43.8137107,-79.3615543,2,Wickstead Way (707),a
-43.8137107,-79.3615543,2,Wickstead Way (707),a
 43.8137409,-79.4082798,2,Johnson Street (109),a
-43.8137455,-79.3595888,2,Wickstead Way (719),a
-43.8137831,-79.3584439,2,Darby Way (975),a
-43.8137888,-79.3575858,2,Windsor Court Road (816),a
 43.8138058,-79.4103545,2,Henderson Avenue (694),a
 43.8138058,-79.4103545,2,Henderson Avenue (694),a
 43.8138058,-79.4103545,2,Henderson Avenue (756),a
 43.8138058,-79.4103545,2,Henderson Avenue (756),a
-43.8138187,-79.3584592,2,Darby Way (976),a
 43.8138487,-79.4083424,2,Johnson Street (110),a
-43.8138686,-79.3593865,2,Wickstead Way (720),a
-43.8138809,-79.3589883,2,Darby Way (982),a
-43.8138826,-79.3616118,2,Wickstead Way (708),a
-43.8138826,-79.3616118,2,Wickstead Way (708),a
-43.8138905,-79.3590253,2,Darby Way (983),a
-43.8138918,-79.3584906,2,Darby Way (977),a
-43.8139088,-79.3590497,2,Darby Way (984),a
-43.8139455,-79.3590984,2,Darby Way (985),a
-43.8139456,-79.3616101,2,Wickstead Way (709),a
-43.8139456,-79.3616101,2,Wickstead Way (709),a
-43.8139482,-79.3592849,2,Darby Way (988),a
-43.8139482,-79.3592849,2,Shrivenham Court (910),a
-43.8139482,-79.3592849,2,Wickstead Way (721),a
-43.8139516,-79.3592403,2,Darby Way (987),a
-43.813955,-79.3585013,2,Darby Way (978),a
-43.8139558,-79.3591852,2,Darby Way (986),a
-43.8139814,-79.3615967,2,Wickstead Way (710),a
-43.8139814,-79.3615967,2,Wickstead Way (710),a
-43.8139823,-79.3585255,2,Darby Way (979),a
-43.8139836,-79.3586125,2,Darby Way (981),a
-43.8139919,-79.3585625,2,Darby Way (980),a
-43.8140079,-79.3615586,2,Wickstead Way (711),a
-43.8140079,-79.3615586,2,Wickstead Way (711),a
-43.8140154,-79.3576915,2,Nottinghill Road (103),a
-43.8140154,-79.3576915,2,Windsor Court Road (813),a
-43.8140154,-79.3576915,2,Windsor Court Road (817),a
-43.8140251,-79.3615084,2,Wickstead Way (712),a
-43.8140251,-79.3615084,2,Wickstead Way (712),a
 43.8140374,-79.4062949,2,Dove Lane (321),a
-43.8140996,-79.3572913,2,Nottinghill Road (104),a
-43.8141592,-79.3671794,2,Simonston Boulevard (550),a
-43.8141846,-79.3569408,2,Nottinghill Road (106),a
-43.8141921,-79.3615096,2,Simonston Boulevard (251),a
-43.8141921,-79.3615096,2,Simonston Boulevard (251),a
-43.8142061,-79.3614525,2,Simonston Boulevard (745),a
-43.8142061,-79.3614525,2,Simonston Boulevard (745),a
-43.8142061,-79.3614525,2,Simonston Boulevard (757),a
-43.8142061,-79.3614525,2,Simonston Boulevard (757),a
-43.814209,-79.3874677,2,Bayview Fairways Drive (711),a
-43.8142097,-79.3568034,2,Nottinghill Road (107),a
-43.8142116,-79.3606951,2,Hampton Way (185),a
-43.8142116,-79.3606951,2,Hampton Way (186),a
-43.8142116,-79.3606951,2,Wickstead Way (713),a
-43.8142363,-79.3567778,2,Nottinghill Road (109),a
-43.8142451,-79.3567651,2,Nottinghill Road (111),a
-43.8142562,-79.3607119,2,Hampton Way (268),a
-43.8142696,-79.3697827,2,Bucks Green Road (883),a
-43.8142764,-79.3696333,2,Bucks Green Road (882),a
-43.8142776,-79.3596489,2,Nottinghill Road (093),a
-43.8142776,-79.3596489,2,Shrivenham Court (911),a
-43.8142776,-79.3596489,2,Shrivenham Court (912),a
-43.814281,-79.3567517,2,Nottinghill Road (113),a
-43.8142911,-79.3700308,2,Bucks Green Road (884),a
-43.8143081,-79.3567634,2,Nottinghill Road (115),a
-43.8143142,-79.3694735,2,Bucks Green Road (876),a
-43.8143142,-79.3694735,2,Bucks Green Road (881),a
-43.8143142,-79.3694735,2,Thurgate Crescent (123),a
-43.8143228,-79.3694553,2,Bucks Green Road (878),a
-43.8143569,-79.370228,2,Bucks Green Road (885),a
-43.8143583,-79.3621924,2,Don Mills Road (786),a
-43.8143583,-79.3621924,2,Don Mills Road (786),a
-43.8143636,-79.3620875,2,Don Mills Road (813),a
-43.8143636,-79.3620875,2,Don Mills Road (813),a
-43.8143655,-79.3607531,2,Hampton Way (187),a
-43.8143655,-79.3607531,2,Simonston Boulevard (758),a
-43.8143744,-79.359497,2,Hyde Park Court (576),a
-43.8143744,-79.359497,2,Nottinghill Road (094),a
-43.8143744,-79.359497,2,Nottinghill Road (095),a
-43.8143812,-79.356836,2,Nottinghill Road (117),a
-43.8143907,-79.360628,2,Simonston Boulevard (921),a
-43.8143997,-79.3672839,2,Simonston Boulevard (025),a
-43.814428,-79.3621714,2,Don Mills Road (785),a
-43.814428,-79.3621714,2,Don Mills Road (785),a
-43.814428,-79.3621714,2,Don Mills Road (814),a
-43.814428,-79.3621714,2,Don Mills Road (814),a
-43.814428,-79.3621714,2,Don Mills Road (815),a
-43.814428,-79.3621714,2,Don Mills Road (815),a
-43.8144603,-79.3604645,2,Simonston Boulevard (922),a
-43.8144711,-79.3593327,2,Nottinghill Road (096),a
-43.8144811,-79.3621923,2,Don Mills Road (619),a
-43.8144811,-79.3621923,2,Don Mills Road (619),a
-43.8145092,-79.3569692,2,Nottinghill Road (119),a
-43.8145149,-79.3592445,2,Nottinghill Road (097),a
 43.8145184,-79.4065681,2,Dove Lane (322),a
-43.8145247,-79.3599281,2,Shrivenham Court (913),a
-43.8145275,-79.3673395,2,Simonston Boulevard (551),a
 43.8145397,-79.4087435,2,Johnson Street (111),a
 43.8145397,-79.4087435,2,Johnson Street (112),a
-43.8145493,-79.3591316,2,Nottinghill Road (098),a
-43.8145588,-79.3673531,2,Simonston Boulevard (177),a
-43.8145648,-79.3622254,2,Don Mills Road (816),a
-43.8145648,-79.3622254,2,Don Mills Road (816),a
-43.8145747,-79.3602749,2,Simonston Boulevard (923),a
-43.8145835,-79.3590064,2,Nottinghill Road (099),a
-43.8146069,-79.3600129,2,Shrivenham Court (914),a
-43.814616,-79.3600249,2,Shrivenham Court (241),a
-43.8146247,-79.3587441,2,Nottinghill Road (100),a
-43.8146281,-79.3571027,2,Nottinghill Road (121),a
-43.8146436,-79.3600616,2,Shrivenham Court (915),a
-43.8146469,-79.3584078,2,Nottinghill Road (101),a
-43.8146585,-79.3579598,2,Nottinghill Road (102),a
-43.8146585,-79.3579598,2,Nottinghill Road (129),a
-43.8146585,-79.3579598,2,Windsor Court Road (814),a
-43.8146585,-79.3579598,2,Windsor Court Road (821),a
-43.8146726,-79.369635,2,Thurgate Crescent (124),a
-43.8146744,-79.3571885,2,Nottinghill Road (122),a
-43.8146761,-79.359812,2,Hyde Park Court (579),a
-43.8146811,-79.36016,2,Shrivenham Court (916),a
-43.8146811,-79.36016,2,Simonston Boulevard (924),a
-43.8146929,-79.3572253,2,Nottinghill Road (125),a
-43.814694,-79.3572999,2,Nottinghill Road (127),a
-43.8147033,-79.3598237,2,Hyde Park Court (581),a
-43.8147432,-79.3600962,2,Simonston Boulevard (925),a
-43.8147472,-79.3675886,2,Bucks Green Road (472),a
-43.8147481,-79.3598101,2,Hyde Park Court (583),a
-43.8147557,-79.3675513,2,Bucks Green Road (879),a
-43.8147841,-79.3674474,2,Bucks Green Road (880),a
-43.8147841,-79.3674474,2,Simonston Boulevard (552),a
-43.8147995,-79.3696937,2,Thurgate Crescent (125),a
-43.8148212,-79.3580051,2,Windsor Court Road (822),a
-43.8148336,-79.3600103,2,Simonston Boulevard (926),a
 43.8148605,-79.421809,2,John Street (936),a
 43.8148605,-79.421809,2,John Street (936),a
 43.8148605,-79.421809,2,John Street (968),a
 43.8148605,-79.421809,2,John Street (968),a
 43.8148725,-79.4067825,2,Dove Lane (323),a
-43.814877,-79.3696677,2,Thurgate Crescent (126),a
-43.8149121,-79.3580648,2,Windsor Court Road (823),a
-43.814954,-79.3597298,2,Hyde Park Court (585),a
-43.8149709,-79.3599402,2,Simonston Boulevard (927),a
-43.8149852,-79.3581374,2,Windsor Court Road (824),a
-43.8151036,-79.361367,2,Dersingham Crescent (832),a
-43.8151036,-79.361367,2,Dersingham Crescent (832),a
-43.8151044,-79.3614292,2,Dersingham Crescent (833),a
-43.8151044,-79.3614292,2,Dersingham Crescent (833),a
-43.8151053,-79.3599154,2,Simonston Boulevard (928),a
-43.815114,-79.3614662,2,Dersingham Crescent (834),a
-43.815114,-79.3614662,2,Dersingham Crescent (834),a
-43.8151189,-79.3693617,2,Thurgate Crescent (127),a
-43.8151203,-79.3612795,2,Dersingham Crescent (831),a
-43.8151203,-79.3612795,2,Dersingham Crescent (831),a
-43.8151233,-79.3614908,2,Dersingham Crescent (835),a
-43.8151233,-79.3614908,2,Dersingham Crescent (835),a
-43.8151509,-79.3615274,2,Dersingham Crescent (836),a
-43.8151509,-79.3615274,2,Dersingham Crescent (836),a
-43.81517,-79.3609797,2,Dersingham Crescent (830),a
-43.81517,-79.3609797,2,Dersingham Crescent (830),a
 43.8152202,-79.4091233,2,Ida Street (752),a
 43.8152202,-79.4091233,2,Ida Street (752),a
 43.8152202,-79.4091233,2,Johnson Street (113),a
 43.8152202,-79.4091233,2,Johnson Street (113),a
 43.8152202,-79.4091233,2,Johnson Street (114),a
 43.8152202,-79.4091233,2,Johnson Street (114),a
-43.8152233,-79.3599147,2,Simonston Boulevard (929),a
-43.8152233,-79.3599147,2,Windsor Court Road (811),a
-43.8152323,-79.3597776,2,Windsor Court Road (235),a
-43.8152409,-79.3596474,2,Hyde Park Court (587),a
-43.8152409,-79.3596474,2,Windsor Court Road (810),a
-43.8152409,-79.3596474,2,Windsor Court Road (818),a
-43.8152889,-79.3604791,2,Dersingham Crescent (829),a
-43.8153828,-79.3600627,2,Dersingham Crescent (167),a
-43.8154074,-79.3599536,2,Dersingham Crescent (828),a
-43.8154074,-79.3599536,2,Simonston Boulevard (930),a
-43.8154284,-79.3589086,2,Windsor Court Road (819),a
-43.8154522,-79.3586841,2,Windsor Court Road (808),a
-43.8154522,-79.3586841,2,Windsor Court Road (820),a
-43.8154522,-79.3586841,2,Windsor Court Road (825),a
-43.8155132,-79.3616791,2,Dersingham Crescent (837),a
-43.8155132,-79.3616791,2,Dersingham Crescent (837),a
-43.8155143,-79.3888124,2,Bayview Fairways Drive (687),a
-43.8155143,-79.3888124,2,Bayview Fairways Drive (714),a
-43.8155143,-79.3888124,2,Pebble Beach Gate (180),a
-43.8155604,-79.3887268,2,Pebble Beach Gate (457),a
-43.8155635,-79.3626449,2,Don Mills Road (817),a
-43.8155635,-79.3626449,2,Don Mills Road (817),a
-43.8155752,-79.3584694,2,Windsor Court Road (809),a
-43.8155974,-79.3846543,2,Sea Island Path (665),a
-43.8155974,-79.3846543,2,Sea Island Path (665),a
-43.8156008,-79.3709526,2,Framingham Drive (590),a
-43.8156036,-79.3686273,2,Thurgate Crescent (128),a
-43.8156726,-79.3889755,2,Bayview Fairways Drive (691),a
 43.8156734,-79.353791,2,Idema Road (632),a
-43.8156854,-79.3617614,2,Dersingham Crescent (838),a
-43.8156854,-79.3617614,2,Dersingham Crescent (838),a
 43.8156856,-79.3539596,2,Idema Road (634),a
 43.8157011,-79.3541746,2,Idema Road (636),a
-43.8157186,-79.3600846,2,Simonston Boulevard (931),a
-43.8157278,-79.3680181,2,Thurgate Crescent (473),a
-43.8157293,-79.3890249,2,Bayview Fairways Drive (431),a
-43.8157316,-79.3679995,2,Thurgate Crescent (129),a
-43.8157578,-79.3617843,2,Dersingham Crescent (839),a
-43.8157578,-79.3617843,2,Dersingham Crescent (839),a
-43.8157605,-79.3601022,2,Simonston Boulevard (932),a
-43.8157608,-79.3678709,2,Simonston Boulevard (553),a
-43.8157608,-79.3678709,2,Thurgate Crescent (130),a
 43.8157775,-79.3533183,2,Idema Road (629),a
 43.8157901,-79.3544582,2,Idema Road (638),a
-43.8157909,-79.3890663,2,Bayview Fairways Drive (430),a
-43.8158032,-79.361808,2,Dersingham Crescent (840),a
-43.8158032,-79.361808,2,Dersingham Crescent (840),a
-43.8158277,-79.3710832,2,Framingham Drive (591),a
 43.8158371,-79.3530473,2,Idema Road (626),a
-43.8158425,-79.3890946,2,Bayview Fairways Drive (693),a
-43.8158485,-79.3618316,2,Dersingham Crescent (841),a
-43.8158485,-79.3618316,2,Dersingham Crescent (841),a
-43.8158513,-79.3601404,2,Simonston Boulevard (933),a
-43.8158842,-79.3618057,2,Dersingham Crescent (842),a
-43.8158842,-79.3618057,2,Dersingham Crescent (842),a
 43.8158849,-79.4070664,2,Ida Street (753),a
-43.815895,-79.3891174,2,Bayview Fairways Drive (432),a
-43.8159018,-79.3617804,2,Dersingham Crescent (843),a
-43.8159018,-79.3617804,2,Dersingham Crescent (843),a
 43.8159021,-79.409519,2,Johnson Street (115),a
 43.8159021,-79.409519,2,Johnson Street (115),a
-43.8159058,-79.3847759,2,King's Inn Trail (369),a
-43.8159058,-79.3847759,2,King's Inn Trail (369),a
-43.8159058,-79.3847759,2,Sea Island Path (655),a
-43.8159058,-79.3847759,2,Sea Island Path (655),a
-43.8159058,-79.3847759,2,Sea Island Path (666),a
-43.8159058,-79.3847759,2,Sea Island Path (666),a
-43.8159099,-79.361718,2,Dersingham Crescent (844),a
-43.8159099,-79.361718,2,Dersingham Crescent (844),a
-43.8159273,-79.3711178,2,Framingham Drive (592),a
-43.8159348,-79.3679457,2,Simonston Boulevard (554),a
 43.8159396,-79.354671,2,Idema Road (641),a
-43.8159486,-79.3891345,2,Bayview Fairways Drive (694),a
 43.8159493,-79.3525378,2,Idema Road (624),a
 43.815967,-79.3524573,2,Idema Road (623),a
-43.8159901,-79.3711037,2,Framingham Drive (593),a
 43.8159946,-79.3547493,2,Idema Road (642),a
-43.8160022,-79.3891458,2,Bayview Fairways Drive (433),a
-43.816011,-79.3878906,2,Pebble Beach Gate (181),a
-43.8160254,-79.371053,2,Framingham Drive (594),a
-43.816051,-79.3709528,2,Framingham Drive (595),a
 43.8160526,-79.4106062,2,John Street (852),a
 43.8160526,-79.4106062,2,John Street (852),a
-43.8160553,-79.3891517,2,Bayview Fairways Drive (696),a
-43.8160931,-79.3707527,2,Framingham Drive (596),a
 43.8161043,-79.4105422,2,John Street (819),a
 43.8161043,-79.4105422,2,John Street (819),a
 43.8161043,-79.4105422,2,John Street (824),a
@@ -1027,164 +788,38 @@ lat,lon,sz,names,len_cat
 43.8161043,-79.4105422,2,John Street (853),a
 43.8161062,-79.4106645,2,John Street (820),a
 43.8161233,-79.3517474,2,Idema Road (621),a
-43.8161419,-79.384869,2,Sea Island Path (454),a
-43.8161419,-79.384869,2,Sea Island Path (454),a
-43.8161453,-79.3891521,2,Bayview Fairways Drive (698),a
-43.8161847,-79.3603976,2,Dersingham Crescent (168),a
-43.8162069,-79.3602911,2,Dersingham Crescent (845),a
-43.8162069,-79.3602911,2,Simonston Boulevard (934),a
 43.8162095,-79.4096856,2,Johnson Street (483),a
 43.8162095,-79.4096856,2,Johnson Street (483),a
-43.8162202,-79.3891386,2,Bayview Fairways Drive (700),a
-43.8162202,-79.3891386,2,Bayview Fairways Drive (777),a
-43.8162202,-79.3891386,2,Coral Harbour Crescent (352),a
-43.8162204,-79.3835193,2,King's Inn Trail (372),a
-43.8162244,-79.3680798,2,Granada Court (874),a
-43.8162244,-79.3680798,2,Simonston Boulevard (555),a
-43.8162288,-79.3701646,2,Framingham Drive (597),a
 43.8162434,-79.409704,2,Johnson Street (484),a
 43.8162434,-79.409704,2,Johnson Street (484),a
 43.8162442,-79.3511984,2,Idema Road (620),a
-43.8162518,-79.3679577,2,Granada Court (192),a
-43.8162593,-79.3894042,2,Coral Harbour Crescent (353),a
-43.8162621,-79.3679166,2,Granada Court (196),a
-43.8162628,-79.3833316,2,King's Inn Trail (374),a
-43.8162661,-79.389438,2,Coral Harbour Crescent (354),a
-43.8162812,-79.389495,2,Coral Harbour Crescent (355),a
-43.8162998,-79.3895504,2,Coral Harbour Crescent (356),a
-43.8163077,-79.3891075,2,Bayview Fairways Drive (779),a
 43.8163078,-79.4097389,2,John Street (825),a
 43.8163078,-79.4097389,2,John Street (825),a
 43.8163078,-79.4097389,2,Johnson Street (116),a
 43.8163078,-79.4097389,2,Johnson Street (116),a
-43.8163136,-79.3895828,2,Coral Harbour Crescent (357),a
 43.8163156,-79.3508741,2,Idema Road (618),a
-43.8163405,-79.389637,2,Coral Harbour Crescent (358),a
 43.8163476,-79.4095705,2,John Street (858),a
 43.8163476,-79.4095705,2,John Street (858),a
 43.8163535,-79.3549032,2,Idema Road (643),a
-43.8163586,-79.3896656,2,Coral Harbour Crescent (359),a
 43.8163658,-79.3506461,2,Idema Road (615),a
-43.8163873,-79.3897057,2,Coral Harbour Crescent (360),a
-43.8164001,-79.3890577,2,Bayview Fairways Drive (781),a
 43.8164089,-79.3504506,2,Idema Road (613),a
 43.8164089,-79.3504506,2,Idema Road (613),a
-43.8164158,-79.3693886,2,Framingham Drive (598),a
-43.8164198,-79.3897456,2,Coral Harbour Crescent (361),a
 43.816427,-79.4092345,2,John Street (712),a
 43.816427,-79.4092345,2,John Street (712),a
-43.8164783,-79.3630578,2,Don Mills Road (818),a
-43.8164921,-79.3889878,2,Bayview Fairways Drive (782),a
-43.8165013,-79.3823678,2,King's Inn Trail (375),a
-43.8165167,-79.3809125,2,Dawn Hill Trail (929),a
 43.8165232,-79.4089395,2,John Street (713),a
 43.8165232,-79.4089395,2,John Street (713),a
-43.816545,-79.3822795,2,King's Inn Trail (378),a
 43.8165505,-79.3549876,2,Idema Road (644),a
-43.8165519,-79.360443,2,Simonston Boulevard (935),a
-43.8165519,-79.360443,2,Simonston Boulevard (935),a
-43.8165665,-79.3666987,2,Granada Court (876),a
-43.8165717,-79.3889008,2,Bayview Fairways Drive (785),a
-43.816616,-79.382203,2,King's Inn Trail (380),a
-43.8166183,-79.3684195,2,Framingham Drive (476),a
-43.8166265,-79.3683805,2,Framingham Drive (599),a
-43.8166415,-79.3888037,2,Bayview Fairways Drive (436),a
-43.8166482,-79.3682782,2,Framingham Drive (600),a
-43.8166482,-79.3682782,2,Simonston Boulevard (556),a
-43.8166526,-79.3631466,2,Don Mills Road (819),a
-43.8166973,-79.3822257,2,King's Inn Trail (382),a
-43.8166999,-79.3621813,2,Chumleigh Crescent (105),a
-43.8166999,-79.3621813,2,Chumleigh Crescent (105),a
-43.8167008,-79.3622435,2,Chumleigh Crescent (106),a
-43.8167008,-79.3622435,2,Chumleigh Crescent (106),a
-43.8167015,-79.3886951,2,Bayview Fairways Drive (787),a
-43.8167103,-79.3622805,2,Chumleigh Crescent (107),a
-43.8167103,-79.3622805,2,Chumleigh Crescent (107),a
 43.8167153,-79.4244964,2,Yonge Street (718),a
-43.8167168,-79.3621063,2,Chumleigh Crescent (104),a
-43.8167168,-79.3621063,2,Chumleigh Crescent (104),a
-43.8167256,-79.3620663,2,Chumleigh Crescent (103),a
-43.8167256,-79.3620663,2,Chumleigh Crescent (103),a
-43.8167468,-79.3623168,2,Chumleigh Crescent (108),a
-43.8167468,-79.3623168,2,Chumleigh Crescent (108),a
-43.816748,-79.3850954,2,Royal Birkdale Lane (992),a
-43.816748,-79.3850954,2,Royal Birkdale Lane (992),a
-43.816748,-79.3850954,2,Sea Island Path (656),a
-43.816748,-79.3850954,2,Sea Island Path (656),a
-43.816748,-79.3850954,2,Sea Island Path (657),a
-43.816748,-79.3850954,2,Sea Island Path (657),a
-43.8167514,-79.3885803,2,Bayview Fairways Drive (701),a
-43.8167514,-79.3885803,2,Bayview Fairways Drive (789),a
-43.8167514,-79.3885803,2,Oak Grove Court (031),a
-43.8167539,-79.3605228,2,Simonston Boulevard (936),a
-43.8167539,-79.3605228,2,Simonston Boulevard (936),a
-43.8167724,-79.3849841,2,Royal Birkdale Lane (994),a
-43.8167724,-79.3849841,2,Royal Birkdale Lane (994),a
-43.8167971,-79.3632371,2,Don Mills Road (090),a
-43.8167972,-79.3848342,2,Royal Birkdale Lane (995),a
-43.8167972,-79.3848342,2,Royal Birkdale Lane (995),a
-43.8168014,-79.3623526,2,Chumleigh Crescent (109),a
-43.8168014,-79.3623526,2,Chumleigh Crescent (109),a
-43.8168436,-79.3615308,2,Chumleigh Crescent (102),a
-43.8168436,-79.3615308,2,Chumleigh Crescent (102),a
 43.8168768,-79.4078234,2,John Street (714),a
-43.8168872,-79.3822827,2,King's Inn Trail (383),a
-43.8168913,-79.3844835,2,Royal Birkdale Lane (996),a
-43.8168913,-79.3844835,2,Royal Birkdale Lane (996),a
-43.8169167,-79.3683907,2,Simonston Boulevard (178),a
-43.8169191,-79.3623992,2,Chumleigh Crescent (110),a
-43.8169191,-79.3623992,2,Chumleigh Crescent (110),a
-43.8169416,-79.3633436,2,Don Mills Road (820),a
-43.8169509,-79.3887435,2,Oak Grove Court (450),a
-43.8169687,-79.388079,2,Bayview Fairways Drive (703),a
 43.8169764,-79.3363158,2,Steeles Avenue East (900),a
-43.8169856,-79.3841452,2,Royal Birkdale Lane (998),a
-43.8170029,-79.388795,2,Oak Grove Court (452),a
-43.817011,-79.3879623,2,Bayview Fairways Drive (706),a
-43.8170215,-79.3684331,2,German Mills Road (674),a
-43.8170215,-79.3684331,2,German Mills Road (699),a
-43.8170215,-79.3684331,2,Simonston Boulevard (557),a
-43.8170215,-79.3684331,2,Simonston Boulevard (939),a
-43.8170308,-79.3607471,2,Chumleigh Crescent (172),a
-43.8170308,-79.3607471,2,Chumleigh Crescent (172),a
-43.8170384,-79.3683078,2,German Mills Road (187),a
-43.8170422,-79.3878466,2,Bayview Fairways Drive (708),a
-43.8170463,-79.3624827,2,Chumleigh Crescent (111),a
-43.8170469,-79.3682734,2,German Mills Road (705),a
-43.8170509,-79.3888559,2,Oak Grove Court (451),a
-43.8170541,-79.3838947,2,Royal Birkdale Lane (000),a
-43.8170559,-79.3606422,2,Chumleigh Crescent (101),a
-43.8170559,-79.3606422,2,Chumleigh Crescent (101),a
-43.8170559,-79.3606422,2,Simonston Boulevard (937),a
-43.8170559,-79.3606422,2,Simonston Boulevard (937),a
-43.817097,-79.3837443,2,Royal Birkdale Lane (002),a
-43.8170981,-79.3875905,2,Bayview Fairways Drive (710),a
-43.8170981,-79.3875905,2,Bayview Fairways Drive (771),a
-43.8170981,-79.3875905,2,Coral Harbour Crescent (385),a
-43.8170999,-79.3852312,2,Sea Island Path (659),a
-43.8170999,-79.3852312,2,Sea Island Path (659),a
-43.8171316,-79.3823756,2,King's Inn Trail (385),a
-43.8171361,-79.3889795,2,Oak Grove Court (032),a
 43.8171404,-79.3451794,2,Torbay Road (073),a
 43.8171542,-79.3420131,2,Victoria Park Avenue (976),a
 43.8171589,-79.3453597,2,Torbay Road (074),a
-43.8171598,-79.3686054,2,German Mills Road (700),a
-43.8171655,-79.3852534,2,Sea Island Path (660),a
-43.8171655,-79.3852534,2,Sea Island Path (660),a
 43.8171802,-79.4069822,2,John Street (715),a
 43.8171856,-79.3365226,2,Esna Park Drive (781),a
 43.8171856,-79.3365226,2,Esna Park Drive (781),a
-43.8171918,-79.3625782,2,Chumleigh Crescent (112),a
-43.8171941,-79.3703,2,Milmar Court (087),a
 43.8171954,-79.3453986,2,Torbay Road (075),a
-43.8171959,-79.3704243,2,Milmar Court (088),a
-43.817197,-79.3635728,2,Don Mills Road (821),a
-43.8172155,-79.3705357,2,Milmar Court (089),a
-43.8172192,-79.3701625,2,Milmar Court (086),a
-43.8172266,-79.3905829,2,Coral Harbour Crescent (364),a
-43.8172292,-79.3835418,2,Royal Birkdale Lane (003),a
 43.8172394,-79.3454455,2,Torbay Road (076),a
-43.8172402,-79.3685187,2,Simonston Boulevard (842),a
 43.8172437,-79.3447734,2,Torbay Road (072),a
 43.8172457,-79.335153,2,Steeles Avenue East (820),a
 43.8172457,-79.335153,2,Steeles Avenue East (898),a
@@ -1194,207 +829,63 @@ lat,lon,sz,names,len_cat
 43.8172515,-79.3366074,2,Esna Park Drive (774),a
 43.8172515,-79.3366074,2,Esna Park Drive (783),a
 43.8172515,-79.3366074,2,Esna Park Drive (783),a
-43.8172549,-79.3906083,2,Coral Harbour Crescent (365),a
-43.8172702,-79.3705839,2,Milmar Court (090),a
 43.8172853,-79.3446098,2,Torbay Road (071),a
-43.8172855,-79.3906261,2,Coral Harbour Crescent (366),a
-43.8173035,-79.3672381,2,German Mills Road (675),a
-43.8173073,-79.3876773,2,Coral Harbour Crescent (384),a
-43.8173141,-79.363695,2,Don Mills Road (091),a
-43.8173194,-79.3626866,2,Chumleigh Crescent (113),a
-43.8173217,-79.390635,2,Coral Harbour Crescent (367),a
-43.8173259,-79.3833776,2,Royal Birkdale Lane (004),a
-43.8173347,-79.3876918,2,Coral Harbour Crescent (449),a
-43.8173382,-79.3687849,2,German Mills Road (701),a
 43.8173389,-79.3454862,2,Torbay Road (077),a
-43.8173413,-79.3864771,2,Bayview Fairways Drive (716),a
-43.8173413,-79.3864771,2,Bayview Fairways Drive (775),a
-43.8173413,-79.3864771,2,Castle Harbour Lane (601),a
 43.8173503,-79.4064697,2,John Street (687),a
 43.8173503,-79.4064697,2,John Street (817),a
 43.8173512,-79.3443509,2,Torbay Road (070),a
-43.8173569,-79.3906332,2,Coral Harbour Crescent (368),a
-43.8173599,-79.3877081,2,Coral Harbour Crescent (383),a
-43.8173635,-79.3695493,2,Milmar Court (085),a
 43.8173795,-79.3455028,2,Torbay Road (078),a
-43.8173867,-79.3906212,2,Coral Harbour Crescent (369),a
-43.8173943,-79.3686218,2,German Mills Road (389),a
-43.8173998,-79.3685091,2,German Mills Road (026),a
-43.8173998,-79.3685091,2,Simonston Boulevard (841),a
-43.8173998,-79.3685091,2,Simonston Boulevard (843),a
-43.8174011,-79.3686557,2,German Mills Road (390),a
 43.8174025,-79.3344723,2,Steeles Avenue East (819),a
 43.8174025,-79.3344723,2,Steeles Avenue East (896),a
 43.8174044,-79.3553537,2,Idema Road (645),a
-43.817415,-79.390599,2,Coral Harbour Crescent (370),a
-43.8174238,-79.3687685,2,German Mills Road (391),a
-43.8174313,-79.3638219,2,Don Mills Road (822),a
-43.8174349,-79.3688759,2,German Mills Road (702),a
-43.8174425,-79.3905671,2,Coral Harbour Crescent (371),a
-43.8174471,-79.3628075,2,Chelsea Road (547),a
-43.8174471,-79.3628075,2,Chumleigh Crescent (085),a
-43.8174471,-79.3628075,2,Chumleigh Crescent (114),a
-43.8174489,-79.3831629,2,Royal Birkdale Lane (005),a
 43.8174544,-79.4061862,2,John Street (818),a
 43.8174544,-79.4061862,2,John Street (882),a
-43.817456,-79.3665749,2,German Mills Road (676),a
-43.8174634,-79.3905286,2,Coral Harbour Crescent (372),a
 43.8174712,-79.4008314,2,Bayview Avenue (659),a
-43.8174739,-79.3690138,2,Milmar Court (475),a
 43.8174884,-79.3437383,2,Torbay Road (069),a
-43.8174898,-79.3689366,2,German Mills Road (236),a
-43.8174898,-79.3689366,2,German Mills Road (691),a
-43.8174898,-79.3689366,2,German Mills Road (703),a
-43.8174898,-79.3689366,2,Milmar Court (084),a
-43.8174919,-79.3853511,2,Sea Island Path (455),a
-43.8174919,-79.3853511,2,Sea Island Path (455),a
-43.8175011,-79.3830371,2,Royal Birkdale Lane (007),a
-43.8175012,-79.3684762,2,Simonston Boulevard (840),a
-43.8175074,-79.366387,2,German Mills Road (677),a
-43.8175187,-79.3856649,2,Bayview Fairways Drive (719),a
-43.8175187,-79.3856649,2,Bayview Fairways Drive (719),a
-43.8175267,-79.3829369,2,Royal Birkdale Lane (008),a
 43.8175341,-79.3435478,2,Torbay Road (068),a
-43.8175483,-79.3855157,2,Bayview Fairways Drive (721),a
-43.8175483,-79.3855157,2,Bayview Fairways Drive (721),a
-43.8175589,-79.3662115,2,German Mills Road (678),a
-43.817559,-79.3854441,2,Bayview Fairways Drive (434),a
-43.817559,-79.3854441,2,Bayview Fairways Drive (434),a
-43.8175663,-79.3853734,2,Bayview Fairways Drive (723),a
-43.8175663,-79.3853734,2,Bayview Fairways Drive (723),a
-43.8175663,-79.3853734,2,Bayview Fairways Drive (726),a
-43.8175663,-79.3853734,2,Bayview Fairways Drive (726),a
-43.8175663,-79.3853734,2,Sea Island Path (664),a
-43.8175663,-79.3853734,2,Sea Island Path (664),a
-43.8175724,-79.3661761,2,German Mills Road (103),a
-43.81758,-79.3851361,2,Bayview Fairways Drive (728),a
-43.81758,-79.3851361,2,Bayview Fairways Drive (728),a
-43.8175834,-79.3826954,2,Royal Birkdale Lane (009),a
-43.8175897,-79.3850185,2,Bayview Fairways Drive (730),a
-43.8175897,-79.3850185,2,Bayview Fairways Drive (730),a
 43.8175911,-79.4057827,2,John Street (883),a
-43.8175985,-79.3661151,2,German Mills Road (679),a
-43.8176018,-79.3849283,2,Bayview Fairways Drive (732),a
-43.8176018,-79.3849283,2,Bayview Fairways Drive (732),a
-43.8176031,-79.3826116,2,King's Inn Trail (388),a
-43.8176031,-79.3826116,2,Royal Birkdale Lane (010),a
-43.8176031,-79.3826116,2,Royal Birkdale Lane (985),a
 43.8176162,-79.3367319,2,Esna Park Drive (765),a
 43.8176162,-79.3367319,2,Esna Park Drive (765),a
 43.8176162,-79.3367319,2,Esna Park Drive (773),a
 43.8176162,-79.3367319,2,Esna Park Drive (773),a
-43.8176184,-79.3690571,2,German Mills Road (692),a
-43.8176259,-79.3660758,2,German Mills Road (680),a
-43.8176278,-79.3848026,2,Bayview Fairways Drive (734),a
-43.8176278,-79.3848026,2,Bayview Fairways Drive (734),a
 43.8176412,-79.3431049,2,Torbay Road (970),a
-43.8176443,-79.3684101,2,Simonston Boulevard (838),a
-43.8176552,-79.3641323,2,Don Mills Road (823),a
-43.8176597,-79.3660339,2,German Mills Road (104),a
-43.81766,-79.3707723,2,Milmar Court (091),a
-43.8176617,-79.3822991,2,Royal Birkdale Lane (986),a
 43.8176671,-79.3429981,2,Torbay Road (067),a
-43.8176688,-79.3846656,2,Bayview Fairways Drive (736),a
-43.8176688,-79.3846656,2,Bayview Fairways Drive (736),a
 43.8176703,-79.4055657,2,John Street (884),a
 43.8176735,-79.3456232,2,Torbay Road (079),a
-43.8176754,-79.3630251,2,Chumleigh Crescent (086),a
-43.8176791,-79.3866196,2,Castle Harbour Lane (602),a
-43.8176962,-79.3659909,2,German Mills Road (681),a
-43.8177224,-79.3845264,2,Bayview Fairways Drive (738),a
-43.8177224,-79.3845264,2,Bayview Fairways Drive (738),a
-43.8177272,-79.3659583,2,German Mills Road (117),a
-43.8177292,-79.381974,2,Royal Birkdale Lane (987),a
-43.8177345,-79.3866412,2,Castle Harbour Lane (603),a
 43.817742,-79.4053669,2,John Street (885),a
-43.8177597,-79.3659347,2,German Mills Road (682),a
-43.8177606,-79.3866527,2,Castle Harbour Lane (604),a
-43.8177784,-79.3816369,2,Royal Birkdale Lane (988),a
-43.8177805,-79.3844101,2,Bayview Fairways Drive (740),a
-43.8177805,-79.3844101,2,Bayview Fairways Drive (740),a
-43.8177858,-79.3866673,2,Castle Harbour Lane (605),a
 43.8177871,-79.3424845,2,Torbay Road (546),a
-43.8177879,-79.3659164,2,German Mills Road (116),a
 43.8177972,-79.3367654,2,Esna Park Drive (767),a
 43.8177972,-79.3367654,2,Esna Park Drive (767),a
 43.8178015,-79.3424227,2,Torbay Road (066),a
-43.8178029,-79.3610663,2,Chelsea Road (185),a
-43.8178029,-79.3610663,2,Chelsea Road (185),a
-43.8178045,-79.3815,2,Royal Birkdale Lane (990),a
-43.8178062,-79.3866819,2,Castle Harbour Lane (606),a
-43.817816,-79.3659049,2,German Mills Road (105),a
 43.8178181,-79.3423076,2,Torbay Road (065),a
 43.8178181,-79.3423076,2,Victoria Park Avenue (974),a
-43.8178201,-79.3609851,2,Chelsea Road (548),a
-43.8178201,-79.3609851,2,Chelsea Road (548),a
-43.8178201,-79.3609851,2,Simonston Boulevard (938),a
-43.8178201,-79.3609851,2,Simonston Boulevard (938),a
-43.8178204,-79.3814244,2,Dawn Hill Trail (922),a
-43.8178204,-79.3814244,2,Dawn Hill Trail (930),a
-43.8178204,-79.3814244,2,Royal Birkdale Lane (991),a
 43.8178294,-79.4051122,2,John Street (886),a
-43.817838,-79.3659044,2,German Mills Road (107),a
-43.8178403,-79.3644379,2,Don Mills Road (825),a
-43.8178496,-79.3632441,2,Chumleigh Crescent (087),a
-43.8178522,-79.3842948,2,Bayview Fairways Drive (742),a
-43.8178522,-79.3842948,2,Bayview Fairways Drive (742),a
-43.8178593,-79.3659078,2,German Mills Road (683),a
-43.8178758,-79.3659149,2,German Mills Road (110),a
-43.8178914,-79.3659265,2,German Mills Road (106),a
-43.8179112,-79.3659462,2,German Mills Road (108),a
 43.8179139,-79.3322536,2,Steeles Avenue East (894),a
 43.8179156,-79.4048363,2,John Street (887),a
-43.8179211,-79.3842061,2,Bayview Fairways Drive (744),a
-43.8179211,-79.3842061,2,Bayview Fairways Drive (744),a
-43.8179226,-79.3633168,2,Chumleigh Crescent (088),a
-43.8179256,-79.3659686,2,German Mills Road (684),a
-43.8179355,-79.3659942,2,German Mills Road (109),a
-43.8179413,-79.366118,2,German Mills Road (114),a
-43.8179429,-79.366031,2,German Mills Road (685),a
-43.8179433,-79.3661598,2,German Mills Road (111),a
-43.8179463,-79.3660536,2,German Mills Road (115),a
-43.8179473,-79.3660717,2,German Mills Road (112),a
 43.8179487,-79.3321011,2,Steeles Avenue East (818),a
 43.8179487,-79.3321011,2,Steeles Avenue East (892),a
-43.8179497,-79.3661955,2,German Mills Road (113),a
-43.817956,-79.381458,2,Dawn Hill Trail (923),a
-43.8179618,-79.3662211,2,German Mills Road (687),a
 43.817967,-79.3367631,2,Esna Park Drive (768),a
 43.817967,-79.3367631,2,Esna Park Drive (768),a
-43.8179682,-79.3633528,2,Chumleigh Crescent (089),a
 43.8179774,-79.3319837,2,Steeles Avenue East (817),a
-43.817989,-79.384135,2,Bayview Fairways Drive (746),a
 43.8180011,-79.3315092,2,Steeles Avenue East (590),a
 43.8180011,-79.3315092,2,Steeles Avenue East (894),a
 43.8180026,-79.3564098,2,Steelcase Road West (970),a
 43.8180047,-79.3564661,2,Steelcase Road West (968),a
 43.8180089,-79.4044235,2,John Street (888),a
-43.8180133,-79.363364,2,Chumleigh Crescent (090),a
 43.818015,-79.3567457,2,Steelcase Road West (966),a
-43.8180282,-79.368056,2,Simonston Boulevard (837),a
-43.8180388,-79.3633639,2,Chumleigh Crescent (102),a
-43.8180416,-79.3868773,2,Castle Harbour Lane (575),a
-43.8180416,-79.3868773,2,Castle Harbour Lane (607),a
-43.8180416,-79.3868773,2,Cypress Point Court (326),a
 43.8180478,-79.3424121,2,Victoria Park Avenue (242),a
 43.8180478,-79.3424121,2,Victoria Park Avenue (971),a
 43.8180592,-79.3316313,2,Steeles Avenue East (816),a
 43.8180607,-79.355635,2,Idema Road (646),a
 43.8180652,-79.3569927,2,Steelcase Road West (963),a
-43.8180693,-79.363354,2,Chumleigh Crescent (091),a
-43.818073,-79.3814549,2,Dawn Hill Trail (924),a
 43.8180826,-79.3560339,2,Steelcase Road West (972),a
-43.818087,-79.3840536,2,Bayview Fairways Drive (748),a
 43.8180892,-79.357111,2,Steelcase Road West (961),a
 43.8180899,-79.3457936,2,Torbay Road (080),a
 43.8180928,-79.4039861,2,John Street (889),a
-43.818103,-79.3633367,2,Chumleigh Crescent (092),a
 43.8181175,-79.3558702,2,Steelcase Road West (976),a
 43.8181223,-79.3367279,2,Esna Park Drive (769),a
 43.8181223,-79.3367279,2,Esna Park Drive (769),a
-43.818128,-79.3633132,2,Chumleigh Crescent (101),a
 43.8181354,-79.3458122,2,Torbay Road (081),a
-43.8181473,-79.3632858,2,Chumleigh Crescent (093),a
 43.8181499,-79.4009878,2,Bayview Avenue (551),a
 43.8181499,-79.4009878,2,Bayview Avenue (566),a
 43.8181499,-79.4009878,2,Bayview Avenue (669),a
@@ -1402,61 +893,21 @@ lat,lon,sz,names,len_cat
 43.8181586,-79.355677,2,Steelcase Road West (978),a
 43.8181703,-79.3424707,2,Victoria Park Avenue (239),a
 43.8181703,-79.3424707,2,Victoria Park Avenue (241),a
-43.8181737,-79.3632477,2,Chumleigh Crescent (094),a
-43.8181998,-79.3839808,2,Bayview Fairways Drive (751),a
-43.8181998,-79.3631848,2,Chumleigh Crescent (095),a
 43.8182053,-79.4010926,2,Bayview Avenue (564),a
 43.8182057,-79.3306057,2,Steeles Avenue East (562),a
 43.8182057,-79.3306057,2,Steeles Avenue East (795),a
-43.8182079,-79.3884084,2,Coral Harbour Crescent (381),a
-43.8182081,-79.3814637,2,Dawn Hill Trail (925),a
-43.818214,-79.366691,2,German Mills Road (688),a
 43.8182219,-79.4009372,2,Bayview Avenue (552),a
-43.8182254,-79.3630847,2,Chumleigh Crescent (096),a
-43.8182292,-79.3884272,2,Coral Harbour Crescent (380),a
 43.8182357,-79.3458533,2,Torbay Road (082),a
 43.8182362,-79.355339,2,Steelcase Road West (981),a
-43.8182545,-79.3884556,2,Coral Harbour Crescent (448),a
-43.8182703,-79.3886701,2,Coral Harbour Crescent (375),a
-43.8182714,-79.3884825,2,Coral Harbour Crescent (379),a
 43.8182794,-79.3366789,2,Esna Park Drive (770),a
-43.8182825,-79.3863142,2,Cypress Point Court (328),a
-43.8182827,-79.3885108,2,Coral Harbour Crescent (447),a
-43.8182838,-79.3886266,2,Coral Harbour Crescent (376),a
 43.8182846,-79.3574829,2,Steelcase Road West (960),a
-43.8182894,-79.3885437,2,Coral Harbour Crescent (378),a
-43.8182896,-79.3885839,2,Coral Harbour Crescent (377),a
-43.8182997,-79.3839363,2,Bayview Fairways Drive (435),a
 43.8183017,-79.3550541,2,Steelcase Road West (983),a
-43.8183023,-79.3653084,2,Don Mills Road (827),a
-43.8183088,-79.3862456,2,Cypress Point Court (329),a
-43.8183088,-79.3862456,2,Cypress Point Court (329),a
-43.8183189,-79.3626966,2,Chumleigh Crescent (097),a
 43.8183209,-79.3304781,2,Steeles Avenue East (756),a
-43.8183231,-79.3839273,2,Bayview Fairways Drive (753),a
-43.8183354,-79.3861646,2,Cypress Point Court (444),a
-43.8183354,-79.3861646,2,Cypress Point Court (444),a
 43.8183361,-79.3575361,2,Steelcase Road West (958),a
 43.8183536,-79.3548281,2,Steelcase Road West (985),a
-43.8183561,-79.3860829,2,Cypress Point Court (330),a
-43.8183561,-79.3860829,2,Cypress Point Court (330),a
-43.8183679,-79.3860154,2,Cypress Point Court (331),a
-43.8183679,-79.3860154,2,Cypress Point Court (331),a
-43.8183773,-79.3859314,2,Cypress Point Court (445),a
-43.8183773,-79.3859314,2,Cypress Point Court (445),a
-43.8183814,-79.3858522,2,Cypress Point Court (332),a
-43.8183814,-79.3858522,2,Cypress Point Court (332),a
-43.8183821,-79.3839109,2,Bayview Fairways Drive (755),a
-43.8183876,-79.385239,2,Cypress Point Court (336),a
-43.8183916,-79.3677805,2,Donnamora Crescent (780),a
-43.8183916,-79.3677805,2,Simonston Boulevard (839),a
-43.8183964,-79.3814088,2,Dawn Hill Trail (926),a
 43.8183973,-79.3366247,2,Esna Park Drive (771),a
 43.8183973,-79.3366247,2,Esna Park Drive (805),a
 43.8184477,-79.3299358,2,Steeles Avenue East (755),a
-43.8184487,-79.3838985,2,Bayview Fairways Drive (757),a
-43.8184544,-79.3620961,2,Chumleigh Crescent (098),a
-43.8184544,-79.3620961,2,Chumleigh Crescent (098),a
 43.8184819,-79.3297897,2,Ferrier Street (110),a
 43.8184819,-79.3297897,2,Steeles Avenue East (753),a
 43.8184819,-79.3297897,2,Steeles Avenue East (754),a
@@ -1466,82 +917,30 @@ lat,lon,sz,names,len_cat
 43.8185214,-79.3426388,2,Victoria Park Avenue (921),a
 43.8185214,-79.3426388,2,Victoria Park Avenue (936),a
 43.8185231,-79.3577292,2,Steelcase Road West (956),a
-43.8185354,-79.3838922,2,Bayview Fairways Drive (759),a
 43.8185442,-79.329129,2,Steeles Avenue East (561),a
 43.8185442,-79.329129,2,Steeles Avenue East (794),a
 43.8185539,-79.3365186,2,Esna Park Drive (806),a
-43.8185564,-79.3673408,2,German Mills Road (689),a
-43.8185574,-79.3813299,2,Dawn Hill Trail (927),a
 43.8185622,-79.3298268,2,Ferrier Street (111),a
-43.8185731,-79.361583,2,Chumleigh Crescent (099),a
-43.8185799,-79.3658355,2,Don Mills Road (828),a
 43.818583,-79.3293144,2,Steeles Avenue East (751),a
-43.8185865,-79.3681855,2,Donnamora Crescent (781),a
 43.818598,-79.3460016,2,Torbay Road (083),a
-43.8186012,-79.3838942,2,Bayview Fairways Drive (761),a
-43.8186014,-79.3873403,2,Castle Harbour Lane (577),a
-43.8186128,-79.3807937,2,Pine Knoll Gate (756),a
 43.8186129,-79.3426925,2,Victoria Park Avenue (938),a
-43.8186162,-79.3614086,2,Chumleigh Crescent (165),a
-43.8186201,-79.3806691,2,Pine Knoll Gate (758),a
-43.8186221,-79.3674569,2,German Mills Road (188),a
-43.8186326,-79.3809175,2,Pine Knoll Gate (754),a
-43.8186411,-79.3613076,2,Chumleigh Crescent (100),a
-43.8186411,-79.3613076,2,Simonston Boulevard (939),a
-43.8186459,-79.38737,2,Castle Harbour Lane (429),a
-43.8186613,-79.3810411,2,Pine Knoll Gate (752),a
-43.8186663,-79.383903,2,Bayview Fairways Drive (763),a
-43.8186673,-79.3675367,2,German Mills Road (690),a
-43.8186673,-79.3675367,2,Simonston Boulevard (836),a
-43.8186673,-79.3675367,2,Simonston Boulevard (844),a
-43.8186806,-79.3811276,2,Pine Knoll Gate (750),a
 43.8186845,-79.3363979,2,Esna Park Drive (692),a
-43.8186944,-79.3873864,2,Castle Harbour Lane (578),a
 43.8187076,-79.3532865,2,Steelcase Road West (989),a
-43.8187127,-79.380219,2,Pine Knoll Gate (760),a
 43.8187206,-79.3578145,2,Steelcase Road West (955),a
-43.8187231,-79.3613444,2,Simonston Boulevard (565),a
-43.8187272,-79.3812383,2,Dawn Hill Trail (912),a
-43.8187272,-79.3812383,2,Dawn Hill Trail (928),a
-43.8187272,-79.3812383,2,Pine Knoll Gate (747),a
-43.8187337,-79.3873855,2,Castle Harbour Lane (579),a
-43.8187385,-79.3839191,2,Bayview Fairways Drive (765),a
 43.8187451,-79.3531232,2,Steelcase Road West (777),a
-43.8187466,-79.3800689,2,Pine Knoll Gate (762),a
-43.8187621,-79.368504,2,Donnamora Crescent (782),a
-43.8187676,-79.3873674,2,Castle Harbour Lane (580),a
-43.8187676,-79.3873674,2,Castle Harbour Lane (580),a
-43.818772,-79.3799563,2,Pine Knoll Gate (764),a
 43.8187825,-79.3529602,2,Steelcase Road West (992),a
 43.818789,-79.4012314,2,Bayview Avenue (559),a
 43.8187929,-79.3578468,2,Steelcase Road West (953),a
-43.8187987,-79.3873339,2,Castle Harbour Lane (581),a
-43.8187987,-79.3873339,2,Castle Harbour Lane (581),a
 43.8188089,-79.4010786,2,Bayview Avenue (571),a
-43.8188221,-79.3872912,2,Castle Harbour Lane (582),a
-43.8188221,-79.3872912,2,Castle Harbour Lane (582),a
-43.8188379,-79.3839499,2,Bayview Fairways Drive (767),a
-43.8188479,-79.3663132,2,Don Mills Road (771),a
-43.8188479,-79.3663132,2,Don Mills Road (803),a
-43.8188479,-79.3663132,2,Don Mills Road (829),a
-43.8188495,-79.3797055,2,Pine Knoll Gate (766),a
-43.8188498,-79.3664567,2,Don Mills Road (770),a
 43.8188593,-79.3428447,2,Victoria Park Avenue (939),a
-43.8188636,-79.3686753,2,Donnamora Crescent (783),a
 43.818918,-79.3428805,2,Victoria Park Avenue (940),a
 43.818918,-79.3428805,2,Victoria Park Avenue (980),a
-43.8189284,-79.3687979,2,Donnamora Crescent (784),a
-43.8189416,-79.3811205,2,Dawn Hill Trail (913),a
 43.8189432,-79.3522609,2,Steelcase Road West (778),a
 43.8189432,-79.3522609,2,Steelcase Road West (778),a
-43.8189679,-79.3663893,2,Don Mills Road (804),a
 43.8189803,-79.3520993,2,Steelcase Road West (994),a
 43.8189803,-79.3520993,2,Steelcase Road West (994),a
 43.8189891,-79.3520612,2,Steelcase Road West (282),a
 43.8189891,-79.3520612,2,Steelcase Road West (282),a
-43.8190382,-79.3689193,2,Donnamora Crescent (785),a
-43.8190382,-79.3689193,2,Donnamora Crescent (786),a
-43.8190382,-79.3689193,2,Groveview Court (265),a
 43.8190459,-79.3270714,2,Steeles Avenue East (034),a
 43.8190459,-79.3270714,2,Steeles Avenue East (034),a
 43.8190769,-79.3429829,2,Victoria Park Avenue (983),a
@@ -1549,66 +948,32 @@ lat,lon,sz,names,len_cat
 43.819099,-79.4013051,2,Bayview Avenue (558),a
 43.8190999,-79.3515785,2,Steelcase Road West (996),a
 43.8190999,-79.3515785,2,Steelcase Road West (996),a
-43.8191029,-79.3810664,2,Dawn Hill Trail (914),a
-43.8191177,-79.386609,2,Castle Harbour Lane (583),a
-43.8191177,-79.386609,2,Castle Harbour Lane (583),a
 43.8191238,-79.3514743,2,Steelcase Road West (283),a
 43.8191238,-79.3514743,2,Steelcase Road West (283),a
 43.8191254,-79.4011548,2,Bayview Avenue (572),a
-43.8191266,-79.367167,2,Simonston Boulevard (845),a
 43.8191334,-79.3462207,2,Torbay Road (085),a
-43.8191348,-79.3669788,2,Don Mills Road (769),a
 43.8191541,-79.3301003,2,Ferrier Street (112),a
-43.8191573,-79.3690653,2,Donnamora Crescent (787),a
 43.8191757,-79.3265422,2,Acadia Avenue (346),a
 43.8191757,-79.3265422,2,Acadia Avenue (346),a
 43.8191757,-79.3265422,2,Steeles Avenue East (035),a
 43.8191757,-79.3265422,2,Steeles Avenue East (035),a
 43.8191757,-79.3265422,2,Steeles Avenue East (308),a
 43.8191757,-79.3265422,2,Steeles Avenue East (308),a
-43.8191768,-79.3864585,2,Castle Harbour Lane (584),a
-43.8191768,-79.3864585,2,Castle Harbour Lane (584),a
-43.819194,-79.3670962,2,Don Mills Road (768),a
-43.819194,-79.3670962,2,Don Mills Road (837),a
-43.819194,-79.3670962,2,Simonston Boulevard (755),a
-43.819194,-79.3670962,2,Simonston Boulevard (940),a
-43.8192182,-79.3863143,2,Castle Harbour Lane (585),a
-43.8192182,-79.3863143,2,Castle Harbour Lane (585),a
 43.8192251,-79.4012575,2,Bayview Avenue (557),a
 43.8192251,-79.4012575,2,Bayview Avenue (573),a
 43.8192251,-79.4012575,2,Bayview Avenue (743),a
-43.8192311,-79.3853747,2,Castle Harbour Lane (592),a
-43.8192316,-79.3852311,2,Castle Harbour Lane (593),a
-43.8192319,-79.3691369,2,Donnamora Crescent (118),a
-43.8192329,-79.3668797,2,Don Mills Road (805),a
 43.8192353,-79.3976356,2,John Street (892),a
-43.8192378,-79.3855153,2,Castle Harbour Lane (591),a
-43.8192399,-79.3851036,2,Castle Harbour Lane (594),a
-43.8192445,-79.3671987,2,Don Mills Road (836),a
-43.8192446,-79.3861823,2,Castle Harbour Lane (586),a
-43.8192446,-79.3861823,2,Castle Harbour Lane (586),a
 43.8192451,-79.3462664,2,Torbay Road (086),a
-43.8192467,-79.3810501,2,Dawn Hill Trail (915),a
 43.8192498,-79.3509255,2,Steelcase Road West (998),a
 43.8192498,-79.3509255,2,Steelcase Road West (998),a
 43.8192498,-79.3509255,2,Steelcase Road West (999),a
 43.8192498,-79.3509255,2,Steelcase Road West (999),a
 43.8192557,-79.3580458,2,Steelcase Road West (952),a
-43.8192561,-79.3860671,2,Castle Harbour Lane (587),a
-43.8192564,-79.3856765,2,Castle Harbour Lane (590),a
 43.8192584,-79.343133,2,Victoria Park Avenue (985),a
-43.8192632,-79.3859356,2,Castle Harbour Lane (588),a
-43.8192646,-79.3857993,2,Castle Harbour Lane (589),a
-43.8192837,-79.3670098,2,Don Mills Road (794),a
-43.8192837,-79.3670098,2,Don Mills Road (806),a
-43.8192837,-79.3670098,2,Simonston Boulevard (756),a
-43.8192837,-79.3670098,2,Simonston Boulevard (932),a
-43.819284,-79.3684774,2,Groveview Court (266),a
 43.8192969,-79.3977896,2,John Street (964),a
 43.8192969,-79.3977896,2,John Street (980),a
 43.8192979,-79.3265901,2,Acadia Avenue (955),a
 43.8192979,-79.3265901,2,Acadia Avenue (955),a
-43.8193031,-79.3691856,2,Donnamora Crescent (788),a
 43.8193051,-79.3259701,2,Steeles Avenue East (801),a
 43.8193051,-79.3259701,2,Steeles Avenue East (806),a
 43.8193081,-79.350643,2,Steelcase Road West (083),a
@@ -1619,64 +984,30 @@ lat,lon,sz,names,len_cat
 43.8193081,-79.350643,2,Steelcase Road West (472),a
 43.8193138,-79.3971972,2,John Street (893),a
 43.8193212,-79.3976546,2,John Street (977),a
-43.8193312,-79.3671122,2,Don Mills Road (795),a
-43.8193411,-79.366953,2,Simonston Boulevard (960),a
 43.8193434,-79.326601,2,Acadia Avenue (956),a
 43.8193434,-79.326601,2,Acadia Avenue (956),a
 43.8193519,-79.3257629,2,Steeles Avenue East (033),a
 43.8193519,-79.3257629,2,Steeles Avenue East (660),a
-43.8193547,-79.3810472,2,Dawn Hill Trail (916),a
 43.819357,-79.3357046,2,Esna Park Drive (693),a
-43.8193577,-79.384114,2,Bayview Fairways Drive (769),a
-43.8193577,-79.384114,2,Bayview Fairways Drive (791),a
-43.8193577,-79.384114,2,Castle Harbour Lane (599),a
 43.8193877,-79.3463248,2,Torbay Road (087),a
-43.8193884,-79.3672176,2,Don Mills Road (796),a
 43.8193969,-79.3972343,2,John Street (975),a
 43.8194008,-79.3966038,2,John Street (115),a
-43.8194218,-79.3675308,2,Don Mills Road (835),a
 43.8194252,-79.3256777,2,Steeles Avenue East (659),a
-43.8194449,-79.3810572,2,Dawn Hill Trail (917),a
-43.8194719,-79.3627928,2,Flowervale Road (121),a
-43.8194719,-79.3627928,2,Flowervale Road (121),a
-43.8194729,-79.362759,2,Flowervale Road (101),a
-43.8194729,-79.362759,2,Flowervale Road (101),a
-43.8194733,-79.3628265,2,Flowervale Road (102),a
-43.8194733,-79.3628265,2,Flowervale Road (102),a
-43.8194786,-79.3627236,2,Flowervale Road (122),a
-43.8194786,-79.3627236,2,Flowervale Road (122),a
-43.8194802,-79.3628592,2,Flowervale Road (120),a
-43.8194802,-79.3628592,2,Flowervale Road (120),a
-43.8194868,-79.3626881,2,Flowervale Road (100),a
-43.8194868,-79.3626881,2,Flowervale Road (100),a
 43.8194871,-79.3966404,2,John Street (973),a
-43.8194884,-79.3628901,2,Flowervale Road (103),a
-43.8194884,-79.3628901,2,Flowervale Road (103),a
 43.8194938,-79.3433277,2,Victoria Park Avenue (988),a
 43.8194955,-79.3254613,2,Steeles Avenue East (746),a
 43.8195015,-79.358152,2,Steelcase Road West (950),a
-43.8195035,-79.3629172,2,Flowervale Road (119),a
-43.8195035,-79.3629172,2,Flowervale Road (119),a
-43.819512,-79.3674266,2,Don Mills Road (797),a
-43.8195155,-79.3675832,2,Don Mills Road (772),a
-43.8195155,-79.3675832,2,Don Mills Road (798),a
-43.8195155,-79.3675832,2,Don Mills Road (834),a
 43.8195167,-79.3355852,2,Esna Park Drive (807),a
-43.8195198,-79.3629374,2,Flowervale Road (104),a
-43.8195198,-79.3629374,2,Flowervale Road (104),a
 43.819532,-79.3962938,2,John Street (612),a
 43.819532,-79.3962938,2,John Street (971),a
 43.8195321,-79.3498903,2,Steelcase Road East (089),a
 43.8195378,-79.3498637,2,Steelcase Road East (088),a
 43.8195384,-79.34639,2,Torbay Road (088),a
 43.819547,-79.3954393,2,John Street (114),a
-43.8195597,-79.3629632,2,Flowervale Road (105),a
-43.8195597,-79.3629632,2,Flowervale Road (105),a
 43.8195739,-79.4224624,2,Cricklewood Crescent (773),a
 43.8195739,-79.4224624,2,Cricklewood Crescent (773),a
 43.8195822,-79.4224124,2,Cricklewood Crescent (772),a
 43.8195822,-79.4224124,2,Cricklewood Crescent (772),a
-43.8195892,-79.3810782,2,Dawn Hill Trail (918),a
 43.81959,-79.4223251,2,Cricklewood Crescent (771),a
 43.81959,-79.4223251,2,Cricklewood Crescent (771),a
 43.8195926,-79.4225116,2,Cricklewood Crescent (774),a
@@ -1687,16 +1018,9 @@ lat,lon,sz,names,len_cat
 43.8196052,-79.3434199,2,Telson Road (739),a
 43.8196052,-79.3434199,2,Victoria Park Avenue (990),a
 43.8196083,-79.3495337,2,Steelcase Road East (087),a
-43.8196087,-79.3677283,2,Don Mills Road (773),a
-43.8196107,-79.3629881,2,Flowervale Road (106),a
-43.8196107,-79.3629881,2,Flowervale Road (106),a
-43.8196112,-79.3693265,2,Donnamora Crescent (789),a
 43.8196201,-79.4225482,2,Cricklewood Crescent (775),a
 43.8196201,-79.4225482,2,Cricklewood Crescent (775),a
 43.8196254,-79.3433332,2,Telson Road (109),a
-43.8196323,-79.3710226,2,German Mills Road (698),a
-43.8196323,-79.3710226,2,German Mills Road (704),a
-43.8196323,-79.3710226,2,Shellaray Drive (190),a
 43.819642,-79.4215279,2,Cricklewood Crescent (765),a
 43.8196434,-79.3954053,2,John Street (112),a
 43.8196446,-79.3266842,2,Acadia Avenue (957),a
@@ -1705,14 +1029,12 @@ lat,lon,sz,names,len_cat
 43.819652,-79.4216023,2,Cricklewood Crescent (764),a
 43.8196599,-79.3354914,2,Esna Park Drive (694),a
 43.819662,-79.3247124,2,Steeles Avenue East (744),a
-43.8196651,-79.3709412,2,Shellaray Drive (478),a
 43.8196668,-79.4213656,2,Cricklewood Crescent (767),a
 43.8196711,-79.4216764,2,Cricklewood Crescent (763),a
 43.8196711,-79.4216764,2,Cricklewood Crescent (770),a
 43.8196711,-79.4216764,2,Cricklewood Crescent (792),a
 43.8196743,-79.4225592,2,Cricklewood Crescent (776),a
 43.8196743,-79.4225592,2,Cricklewood Crescent (776),a
-43.8196744,-79.3709175,2,Shellaray Drive (477),a
 43.8196754,-79.4213405,2,Cricklewood Crescent (768),a
 43.8196758,-79.3303414,2,Ferrier Street (113),a
 43.8196884,-79.3245793,2,Steeles Avenue East (731),a
@@ -1722,22 +1044,13 @@ lat,lon,sz,names,len_cat
 43.8196951,-79.3945812,2,John Street (854),a
 43.8196951,-79.3945812,2,John Street (895),a
 43.819696,-79.3950698,2,John Street (611),a
-43.8197158,-79.3811121,2,Dawn Hill Trail (919),a
 43.819727,-79.3582533,2,Steelcase Road West (948),a
-43.8197332,-79.3618768,2,Flowervale Road (204),a
-43.8197632,-79.3679918,2,Don Mills Road (774),a
 43.8197641,-79.3245959,2,Warden Avenue (950),a
-43.8197643,-79.3617742,2,Flowervale Road (099),a
-43.8197643,-79.3617742,2,Simonston Boulevard (940),a
 43.8197687,-79.3486551,2,Steelcase Road East (077),a
-43.8197743,-79.3694058,2,Donnamora Crescent (790),a
 43.8197747,-79.3941594,2,John Street (699),a
 43.8197747,-79.3941594,2,John Street (855),a
 43.8197838,-79.394589,2,John Street (610),a
 43.8197838,-79.394589,2,John Street (614),a
-43.8197908,-79.3711868,2,German Mills Road (705),a
-43.8197963,-79.3665236,2,Simonston Boulevard (959),a
-43.8197963,-79.3665236,2,Snowshoe Crescent (695),a
 43.8197964,-79.3354391,2,Esna Park Drive (808),a
 43.8198008,-79.4225932,2,Cricklewood Crescent (777),a
 43.8198008,-79.4225932,2,Cricklewood Crescent (777),a
@@ -1747,8 +1060,6 @@ lat,lon,sz,names,len_cat
 43.8198199,-79.3465118,2,Torbay Road (089),a
 43.8198264,-79.4013973,2,Bayview Avenue (346),a
 43.8198264,-79.4013973,2,Bayview Avenue (741),a
-43.8198282,-79.3630816,2,Flowervale Road (107),a
-43.8198282,-79.3630816,2,Flowervale Road (107),a
 43.8198414,-79.3436155,2,Victoria Park Avenue (992),a
 43.8198577,-79.3482645,2,Steelcase Road East (076),a
 43.819864,-79.3941669,2,John Street (609),a
@@ -1758,11 +1069,9 @@ lat,lon,sz,names,len_cat
 43.819888,-79.348131,2,Steelcase Road East (075),a
 43.8198902,-79.3421931,2,Telson Road (743),a
 43.8198952,-79.4207734,2,Weeping Willow Lane (674),a
-43.8199017,-79.3694927,2,Donnamora Crescent (791),a
 43.8199091,-79.4226152,2,Cricklewood Crescent (778),a
 43.8199091,-79.4226152,2,Cricklewood Crescent (778),a
 43.8199282,-79.3479542,2,Steelcase Road East (074),a
-43.8199288,-79.368236,2,Don Mills Road (775),a
 43.8199396,-79.3419803,2,Telson Road (746),a
 43.8199492,-79.3354042,2,Esna Park Drive (695),a
 43.8199492,-79.3354042,2,Esna Park Drive (758),a
@@ -1772,9 +1081,6 @@ lat,lon,sz,names,len_cat
 43.8199721,-79.4226135,2,Cricklewood Crescent (779),a
 43.8199721,-79.4226135,2,Cricklewood Crescent (779),a
 43.8199721,-79.3418406,2,Telson Road (748),a
-43.8199724,-79.3668794,2,Snowshoe Crescent (696),a
-43.8199836,-79.3695526,2,Donnamora Crescent (792),a
-43.8199918,-79.3713928,2,German Mills Road (706),a
 43.820034,-79.4218782,2,Cricklewood Crescent (793),a
 43.8200364,-79.3267924,2,Acadia Avenue (683),a
 43.8200364,-79.3267924,2,Acadia Avenue (683),a
@@ -1786,29 +1092,18 @@ lat,lon,sz,names,len_cat
 43.820061,-79.3414576,2,Telson Road (753),a
 43.8200711,-79.4226109,2,Cricklewood Crescent (780),a
 43.8200711,-79.4226109,2,Cricklewood Crescent (780),a
-43.8200752,-79.369662,2,Donnamora Crescent (793),a
 43.8201011,-79.3924306,2,John Street (001),a
 43.820105,-79.3353908,2,Esna Park Drive (759),a
-43.8201065,-79.3661793,2,Simonston Boulevard (958),a
-43.8201197,-79.3645873,2,Flowervale Road (114),a
 43.8201209,-79.3412001,2,Telson Road (755),a
-43.8201275,-79.3645,2,Flowervale Road (113),a
-43.8201299,-79.3646741,2,Flowervale Road (115),a
-43.8201309,-79.3685165,2,Don Mills Road (776),a
 43.8201345,-79.4226341,2,Cricklewood Crescent (781),a
 43.8201345,-79.4226341,2,Cricklewood Crescent (781),a
-43.8201383,-79.3671484,2,Snowshoe Crescent (697),a
 43.820139,-79.3353927,2,Esna Park Drive (036),a
 43.820139,-79.3353927,2,Esna Park Drive (760),a
 43.820139,-79.3353927,2,Esna Park Drive (763),a
-43.8201392,-79.3697349,2,Donnamora Crescent (794),a
-43.8201392,-79.3697349,2,Donnamora Crescent (795),a
-43.8201392,-79.3697349,2,Shellaray Drive (192),a
 43.8201439,-79.341101,2,Telson Road (758),a
 43.8201483,-79.3921805,2,John Street (004),a
 43.8201483,-79.3921805,2,John Street (754),a
 43.8201523,-79.3438729,2,Victoria Park Avenue (994),a
-43.8201577,-79.364723,2,Flowervale Road (116),a
 43.8201587,-79.3584458,2,Steelcase Road West (943),a
 43.8201681,-79.3410003,2,Telson Road (760),a
 43.8201798,-79.4226578,2,Cricklewood Crescent (782),a
@@ -1818,9 +1113,6 @@ lat,lon,sz,names,len_cat
 43.8201844,-79.3353103,2,Esna Park Drive (764),a
 43.8201849,-79.3919842,2,John Street (756),a
 43.8201886,-79.3924577,2,John Street (608),a
-43.8201901,-79.3632175,2,Flowervale Road (108),a
-43.8201901,-79.3632175,2,Flowervale Road (108),a
-43.8202034,-79.3647715,2,Flowervale Road (117),a
 43.8202049,-79.3408385,2,Telson Road (762),a
 43.8202099,-79.3473291,2,Steelcase Road East (069),a
 43.8202102,-79.3467394,2,Torbay Road (091),a
@@ -1829,8 +1121,6 @@ lat,lon,sz,names,len_cat
 43.8202319,-79.3245435,2,Warden Avenue (446),a
 43.8202342,-79.4226812,2,Cricklewood Crescent (783),a
 43.8202342,-79.4226812,2,Cricklewood Crescent (783),a
-43.8202353,-79.3619727,2,Simonston Boulevard (941),a
-43.8202353,-79.3619727,2,Simonston Boulevard (941),a
 43.8202383,-79.3917036,2,John Street (758),a
 43.8202522,-79.326852,2,Acadia Avenue (958),a
 43.8202522,-79.326852,2,Acadia Avenue (958),a
@@ -1841,29 +1131,17 @@ lat,lon,sz,names,len_cat
 43.8202599,-79.3247102,2,Warden Avenue (458),a
 43.820266,-79.3405753,2,Telson Road (766),a
 43.8202844,-79.3305039,2,Acadia Avenue (965),a
-43.8202931,-79.371683,2,German Mills Road (707),a
-43.8202931,-79.371683,2,German Mills Road (708),a
-43.8202931,-79.371683,2,Monsanto Court (884),a
-43.8202949,-79.3673928,2,Eveningside Road (001),a
-43.8202949,-79.3673928,2,Snowshoe Crescent (698),a
-43.8202949,-79.3673928,2,Snowshoe Crescent (699),a
 43.8202975,-79.4227044,2,Cricklewood Crescent (784),a
 43.8202975,-79.4227044,2,Cricklewood Crescent (784),a
 43.8202981,-79.3354317,2,Esna Park Drive (111),a
-43.8203031,-79.3648185,2,Flowervale Road (118),a
-43.8203034,-79.3698797,2,Donnamora Crescent (796),a
 43.8203185,-79.3353162,2,Esna Park Drive (113),a
 43.8203219,-79.3469026,2,Torbay Road (092),a
 43.8203292,-79.3585221,2,Denison Street (735),a
 43.8203292,-79.3585221,2,Steelcase Road West (942),a
-43.820335,-79.3632757,2,Flowervale Road (109),a
-43.820335,-79.3632757,2,Flowervale Road (109),a
-43.8203385,-79.3715989,2,Monsanto Court (480),a
 43.8203429,-79.4227281,2,Cricklewood Crescent (785),a
 43.8203429,-79.4227281,2,Cricklewood Crescent (785),a
 43.8203431,-79.4220939,2,Cricklewood Crescent (794),a
 43.8203431,-79.4220939,2,Cricklewood Crescent (794),a
-43.8203491,-79.3715793,2,Monsanto Court (479),a
 43.8203514,-79.3402075,2,Telson Road (768),a
 43.820352,-79.4227403,2,Cricklewood Crescent (786),a
 43.820352,-79.4227403,2,Cricklewood Crescent (786),a
@@ -1871,20 +1149,13 @@ lat,lon,sz,names,len_cat
 43.820352,-79.4227403,2,Cricklewood Crescent (787),a
 43.820352,-79.4227403,2,Cricklewood Crescent (801),a
 43.820352,-79.4227403,2,Cricklewood Crescent (801),a
-43.8203601,-79.3688087,2,Don Mills Road (777),a
 43.8203619,-79.4228022,2,Cricklewood Crescent (788),a
 43.8203619,-79.4228022,2,Cricklewood Crescent (788),a
 43.8203693,-79.3583481,2,Denison Street (732),a
-43.8203715,-79.363312,2,Flowervale Road (110),a
-43.8203715,-79.363312,2,Flowervale Road (110),a
 43.8203809,-79.4228763,2,Cricklewood Crescent (789),a
 43.8203809,-79.4228763,2,Cricklewood Crescent (789),a
 43.8203818,-79.3354445,2,Enterprise Road (769),a
 43.8203818,-79.3354445,2,Esna Park Drive (142),a
-43.8203915,-79.3634483,2,Flowervale Road (112),a
-43.8203915,-79.3634483,2,Flowervale Road (112),a
-43.8203996,-79.3633859,2,Flowervale Road (111),a
-43.8203996,-79.3633859,2,Flowervale Road (111),a
 43.8204041,-79.3470333,2,Steelcase Road East (068),a
 43.8204041,-79.3470333,2,Torbay Road (093),a
 43.8204069,-79.3353304,2,Enterprise Road (664),a
@@ -1898,18 +1169,14 @@ lat,lon,sz,names,len_cat
 43.8204338,-79.4221413,2,Cricklewood Crescent (795),a
 43.8204383,-79.3398337,2,Telson Road (770),a
 43.8204383,-79.3398337,2,Telson Road (770),a
-43.8204454,-79.3672147,2,Eveningside Road (002),a
 43.8204544,-79.3354659,2,Enterprise Road (380),a
 43.8204544,-79.3354659,2,Esna Park Drive (141),a
 43.8204544,-79.3354659,2,Esna Park Drive (144),a
 43.8204546,-79.4229987,2,Cricklewood Crescent (791),a
 43.8204546,-79.4229987,2,Cricklewood Crescent (791),a
-43.8204608,-79.3676619,2,Snowshoe Crescent (701),a
-43.8204699,-79.36893,2,Don Mills Road (778),a
 43.8204703,-79.4221776,2,Cricklewood Crescent (796),a
 43.8204703,-79.4221776,2,Cricklewood Crescent (796),a
 43.8204709,-79.3297329,2,Acadia Avenue (638),a
-43.8204773,-79.3713423,2,Monsanto Court (885),a
 43.8204814,-79.3349992,2,Enterprise Road (665),a
 43.8204821,-79.3353538,2,Enterprise Road (661),a
 43.8204821,-79.3353538,2,Enterprise Road (752),a
@@ -1921,7 +1188,6 @@ lat,lon,sz,names,len_cat
 43.8205019,-79.4015594,2,Bayview Avenue (932),a
 43.8205019,-79.4015594,2,Bayview Avenue (934),a
 43.8205032,-79.3352806,2,Enterprise Road (767),a
-43.8205056,-79.3657581,2,Simonston Boulevard (957),a
 43.8205091,-79.3353664,2,Esna Park Drive (747),a
 43.8205135,-79.4226987,2,Cricklewood Crescent (802),a
 43.8205135,-79.4226987,2,Cricklewood Crescent (802),a
@@ -1947,7 +1213,6 @@ lat,lon,sz,names,len_cat
 43.8205811,-79.3292775,2,Acadia Avenue (964),a
 43.8205815,-79.3237623,2,Fullerton Crescent (367),a
 43.820585,-79.3348101,2,Enterprise Road (766),a
-43.8205889,-79.3690504,2,Don Mills Road (779),a
 43.8205955,-79.3467682,2,Steelcase Road East (066),a
 43.8206072,-79.3354122,2,Esna Park Drive (748),a
 43.8206229,-79.4226563,2,Cricklewood Crescent (803),a
@@ -1955,13 +1220,10 @@ lat,lon,sz,names,len_cat
 43.8206272,-79.335484,2,Esna Park Drive (050),a
 43.8206272,-79.335484,2,Esna Park Drive (749),a
 43.8206272,-79.335484,2,Esna Park Drive (754),a
-43.8206316,-79.3701692,2,Donnamora Crescent (797),a
 43.8206349,-79.3571948,2,Denison Street (727),a
 43.820636,-79.3237981,2,Fullerton Crescent (368),a
 43.8206466,-79.3442823,2,Victoria Park Avenue (001),a
-43.8206496,-79.3670101,2,Eveningside Road (003),a
 43.820653,-79.3231137,2,Fullerton Crescent (364),a
-43.8206533,-79.3679054,2,Snowshoe Crescent (703),a
 43.8206546,-79.3354954,2,Esna Park Drive (149),a
 43.8206585,-79.3570924,2,Denison Street (725),a
 43.8206689,-79.422533,2,Cricklewood Crescent (799),a
@@ -1970,7 +1232,6 @@ lat,lon,sz,names,len_cat
 43.8206829,-79.3466142,2,Steelcase Road East (064),a
 43.8206848,-79.3569784,2,Denison Street (722),a
 43.8207035,-79.322876,2,Fullerton Crescent (362),a
-43.8207129,-79.3651431,2,Flowervale Road (119),a
 43.8207157,-79.3308299,2,Ferrier Street (335),a
 43.8207178,-79.4226196,2,Cricklewood Crescent (800),a
 43.8207178,-79.4226196,2,Cricklewood Crescent (800),a
@@ -1990,9 +1251,6 @@ lat,lon,sz,names,len_cat
 43.8207644,-79.3463995,2,Steelcase Road East (061),a
 43.8207704,-79.3384037,2,Telson Road (776),a
 43.8207704,-79.3384037,2,Telson Road (776),a
-43.8207733,-79.3651887,2,Flowervale Road (205),a
-43.82078,-79.3692076,2,Don Mills Road (780),a
-43.8207844,-79.3654019,2,Simonston Boulevard (956),a
 43.8207866,-79.3383342,2,Telson Road (777),a
 43.8207866,-79.3383342,2,Telson Road (777),a
 43.8207958,-79.3564965,2,Denison Street (720),a
@@ -2006,21 +1264,14 @@ lat,lon,sz,names,len_cat
 43.8208417,-79.3247093,2,Warden Avenue (097),a
 43.8208417,-79.3247093,2,Warden Avenue (282),a
 43.8208474,-79.3281775,2,Acadia Avenue (963),a
-43.8208479,-79.3652449,2,Flowervale Road (120),a
-43.8208479,-79.3652449,2,Simonston Boulevard (955),a
 43.820853,-79.3270048,2,Acadia Avenue (347),a
 43.820853,-79.3270048,2,Acadia Avenue (347),a
 43.8208561,-79.3460635,2,Steelcase Road East (060),a
-43.8208627,-79.3668053,2,Eveningside Road (004),a
-43.8208637,-79.3681359,2,Snowshoe Crescent (704),a
-43.8208681,-79.3703368,2,Donnamora Crescent (798),a
-43.8208985,-79.3650926,2,Simonston Boulevard (954),a
 43.8209004,-79.3227958,2,Fullerton Crescent (358),a
 43.8209048,-79.3248752,2,Warden Avenue (096),a
 43.8209048,-79.3248752,2,Warden Avenue (296),a
 43.8209205,-79.330928,2,Ferrier Street (099),a
 43.8209244,-79.3377409,2,Telson Road (779),a
-43.8209252,-79.3667663,2,Eveningside Road (006),a
 43.8209256,-79.3356161,2,Esna Park Drive (655),a
 43.8209265,-79.3270235,2,Acadia Avenue (959),a
 43.8209265,-79.3270235,2,Acadia Avenue (959),a
@@ -2029,9 +1280,6 @@ lat,lon,sz,names,len_cat
 43.8209509,-79.337627,2,Telson Road (780),a
 43.8209534,-79.3587739,2,Steelcase Road West (939),a
 43.820958,-79.3557923,2,Denison Street (716),a
-43.820961,-79.3667529,2,Eveningside Road (008),a
-43.820969,-79.362276,2,Simonston Boulevard (942),a
-43.820969,-79.362276,2,Simonston Boulevard (942),a
 43.8209742,-79.3455656,2,Steelcase Road East (059),a
 43.8209742,-79.3455656,2,Steelcase Road East (084),a
 43.820976,-79.355714,2,Denison Street (714),a
@@ -2043,11 +1291,8 @@ lat,lon,sz,names,len_cat
 43.8209888,-79.3275934,2,Acadia Avenue (962),a
 43.8209888,-79.3275934,2,Acadia Avenue (962),a
 43.8209895,-79.3587885,2,Steelcase Road West (937),a
-43.8209896,-79.3693884,2,Don Mills Road (781),a
 43.8209915,-79.3216368,2,Cheeseman Drive (937),a
 43.8210017,-79.3217236,2,Cheeseman Drive (936),a
-43.8210053,-79.3646047,2,Simonston Boulevard (953),a
-43.8210152,-79.3667639,2,Eveningside Road (009),a
 43.8210205,-79.3217728,2,Cheeseman Drive (935),a
 43.8210253,-79.3214866,2,Cheeseman Drive (938),a
 43.8210387,-79.3588083,2,Steelcase Road West (935),a
@@ -2055,92 +1300,54 @@ lat,lon,sz,names,len_cat
 43.8210572,-79.3218215,2,Cheeseman Drive (934),a
 43.8210595,-79.3881451,2,Aileen Road (130),a
 43.8210595,-79.3881451,2,Aileen Road (134),a
-43.8210607,-79.3668,2,Eveningside Road (010),a
-43.8210629,-79.3724201,2,Donnamora Crescent (813),a
-43.8210629,-79.3724201,2,German Mills Road (709),a
-43.8210649,-79.3683543,2,Snowshoe Crescent (705),a
 43.8210691,-79.337118,2,Telson Road (782),a
 43.8210792,-79.3552659,2,Denison Street (709),a
 43.8210813,-79.4016943,2,Bayview Avenue (240),a
 43.82109,-79.3370282,2,Telson Road (783),a
 43.8211027,-79.3551637,2,Denison Street (707),a
 43.8211063,-79.3588356,2,Steelcase Road West (933),a
-43.8211141,-79.3724317,2,Donnamora Crescent (812),a
-43.8211156,-79.3668606,2,Eveningside Road (011),a
 43.8211295,-79.3449047,2,Steelcase Road East (085),a
 43.8211335,-79.4231611,2,Inverlochy Boulevard (758),a
 43.8211335,-79.4231611,2,Inverlochy Boulevard (758),a
-43.8211388,-79.3722694,2,Donnamora Crescent (810),a
-43.8211402,-79.3723688,2,Donnamora Crescent (811),a
 43.8211444,-79.3881785,2,Aileen Road (042),a
 43.8211444,-79.3881785,2,Aileen Road (190),a
-43.8211504,-79.3623705,2,Simonston Boulevard (943),a
-43.8211504,-79.3623705,2,Simonston Boulevard (943),a
-43.821164,-79.3721443,2,Donnamora Crescent (809),a
 43.8211748,-79.3447198,2,Steelcase Road East (083),a
 43.8211748,-79.3447198,2,Steelcase Road East (086),a
 43.8211748,-79.3447198,2,Victoria Park Avenue (007),a
 43.821176,-79.4015519,2,Green Lane (071),a
-43.82118,-79.3669584,2,Eveningside Road (012),a
 43.8211867,-79.4017208,2,Bayview Avenue (344),a
 43.8211867,-79.4017208,2,Bayview Avenue (603),a
 43.8211867,-79.4017208,2,Green Lane (067),a
 43.8211867,-79.4017208,2,Green Lane (070),a
-43.8212131,-79.3705388,2,Donnamora Crescent (799),a
 43.8212146,-79.323956,2,Fullerton Crescent (370),a
 43.82122,-79.3445286,2,Steelcase Road East (082),a
 43.8212242,-79.3364502,2,Telson Road (784),a
-43.8212268,-79.3636757,2,Simonston Boulevard (952),a
-43.8212268,-79.3636757,2,Simonston Boulevard (952),a
 43.8212294,-79.3357193,2,Esna Park Drive (656),a
-43.8212312,-79.3718068,2,Donnamora Crescent (808),a
-43.821233,-79.3624802,2,Simonston Boulevard (944),a
-43.821233,-79.3624802,2,Simonston Boulevard (944),a
 43.8212377,-79.3218537,2,Cheeseman Drive (933),a
 43.8212398,-79.3363832,2,Telson Road (785),a
 43.821263,-79.32051,2,Cheeseman Drive (939),a
 43.8212707,-79.4011239,2,Green Lane (072),a
-43.8212713,-79.3695673,2,Don Mills Road (782),a
 43.8212776,-79.3544045,2,Denison Street (705),a
-43.8212794,-79.3625784,2,Simonston Boulevard (945),a
-43.8212794,-79.3625784,2,Simonston Boulevard (945),a
-43.8212794,-79.3625784,2,Snowshoe Crescent (753),a
-43.8212794,-79.3625784,2,Snowshoe Crescent (753),a
 43.8212941,-79.3448255,2,Victoria Park Avenue (019),a
 43.8212947,-79.4015553,2,Green Lane (066),a
-43.8212981,-79.3626276,2,Simonston Boulevard (946),a
-43.8212981,-79.3626276,2,Simonston Boulevard (946),a
 43.8212993,-79.4215713,2,Apple Orchard Lane (247),a
 43.8212993,-79.4215713,2,Weeping Willow Lane (676),a
 43.8212993,-79.4215713,2,Weeping Willow Lane (687),a
 43.8212993,-79.3543102,2,Denison Street (703),a
 43.8213061,-79.4244134,2,Windywood Court (368),a
-43.8213083,-79.3633362,2,Simonston Boulevard (951),a
-43.8213083,-79.3633362,2,Simonston Boulevard (951),a
 43.8213087,-79.3441396,2,Steelcase Road East (081),a
 43.8213098,-79.4017494,2,Bayview Avenue (601),a
 43.8213144,-79.3542444,2,Denison Street (699),a
-43.8213175,-79.3627266,2,Simonston Boulevard (947),a
-43.8213175,-79.3627266,2,Simonston Boulevard (947),a
 43.8213229,-79.4214656,2,Apple Orchard Lane (248),a
-43.821324,-79.371369,2,Donnamora Crescent (807),a
-43.821324,-79.3631741,2,Simonston Boulevard (950),a
-43.821324,-79.3631741,2,Simonston Boulevard (950),a
 43.8213247,-79.3249825,2,Warden Avenue (095),a
-43.8213285,-79.3628631,2,Simonston Boulevard (948),a
-43.8213285,-79.3628631,2,Simonston Boulevard (948),a
 43.8213299,-79.32016,2,Cheeseman Drive (940),a
-43.8213305,-79.3629998,2,Simonston Boulevard (949),a
-43.8213305,-79.3629998,2,Simonston Boulevard (949),a
 43.8213334,-79.3359802,2,Telson Road (786),a
-43.8213361,-79.3671655,2,Eveningside Road (013),a
 43.8213371,-79.4234264,2,Inverlochy Boulevard (757),a
 43.8213371,-79.4234264,2,Inverlochy Boulevard (757),a
 43.8213374,-79.4010496,2,Green Lane (064),a
 43.8213374,-79.4010496,2,Green Lane (073),a
 43.8213374,-79.4010496,2,Green Lane (074),a
 43.8213472,-79.3201097,2,Cheeseman Drive (941),a
-43.8213494,-79.3706222,2,Donnamora Crescent (800),a
 43.8213572,-79.3358704,2,Telson Road (110),a
 43.8213604,-79.3248423,2,Warden Avenue (089),a
 43.8213604,-79.3248423,2,Warden Avenue (098),a
@@ -2151,22 +1358,12 @@ lat,lon,sz,names,len_cat
 43.8213826,-79.3200714,2,Cheeseman Drive (942),a
 43.8213852,-79.3357408,2,Esna Park Drive (657),a
 43.8213852,-79.3357408,2,Telson Road (787),a
-43.8213999,-79.3710063,2,Donnamora Crescent (806),a
-43.8214135,-79.3625126,2,Snowshoe Crescent (756),a
-43.8214135,-79.3625126,2,Snowshoe Crescent (756),a
 43.8214205,-79.3589056,2,Steelcase Road West (932),a
-43.8214221,-79.3706699,2,Donnamora Crescent (801),a
 43.8214239,-79.4240301,2,Windywood Court (365),a
-43.8214255,-79.3709061,2,Donnamora Crescent (805),a
 43.8214272,-79.3200453,2,Cheeseman Drive (943),a
 43.8214366,-79.3219104,2,Cheeseman Drive (932),a
-43.8214439,-79.3696745,2,Don Mills Road (783),a
 43.8214478,-79.3536656,2,Denison Street (695),a
-43.8214496,-79.3707065,2,Donnamora Crescent (802),a
-43.8214512,-79.3708184,2,Donnamora Crescent (804),a
 43.8214555,-79.3311866,2,Ferrier Street (100),a
-43.8214593,-79.370756,2,Donnamora Crescent (803),a
-43.821473,-79.3672986,2,Eveningside Road (014),a
 43.821479,-79.3357569,2,Esna Park Drive (516),a
 43.8214814,-79.3200562,2,Cheeseman Drive (944),a
 43.8214861,-79.3589203,2,Steelcase Road West (931),a
@@ -2177,8 +1374,6 @@ lat,lon,sz,names,len_cat
 43.8215131,-79.3170352,2,Birchmount Road (662),a
 43.8215142,-79.3432493,2,Steelcase Road East (056),a
 43.8215195,-79.4001182,2,Green Lane (076),a
-43.8215305,-79.3625094,2,Snowshoe Crescent (759),a
-43.8215305,-79.3625094,2,Snowshoe Crescent (759),a
 43.8215335,-79.3431659,2,Steelcase Road East (055),a
 43.821536,-79.4236653,2,Windywood Court (362),a
 43.821536,-79.4236653,2,Windywood Court (362),a
@@ -2193,31 +1388,20 @@ lat,lon,sz,names,len_cat
 43.8215929,-79.3312569,2,Ferrier Street (471),a
 43.8215955,-79.3530244,2,Denison Street (687),a
 43.8216083,-79.3529688,2,Denison Street (685),a
-43.8216093,-79.3673819,2,Eveningside Road (015),a
-43.8216111,-79.3687746,2,Snowshoe Crescent (707),a
 43.821616,-79.3529356,2,Denison Street (683),a
-43.8216246,-79.365939,2,Roman Road (135),a
-43.8216328,-79.3658766,2,Roman Road (134),a
 43.8216332,-79.3312778,2,Ferrier Street (473),a
-43.8216439,-79.3660255,2,Roman Road (136),a
 43.8216439,-79.3188579,2,Carey Crescent (549),a
 43.8216452,-79.3189449,2,Carey Crescent (548),a
-43.8216479,-79.362531,2,Snowshoe Crescent (762),a
-43.8216479,-79.362531,2,Snowshoe Crescent (762),a
-43.8216493,-79.3657766,2,Roman Road (133),a
 43.8216505,-79.3229862,2,Fullerton Crescent (357),a
 43.8216521,-79.3188079,2,Carey Crescent (550),a
 43.8216553,-79.3190192,2,Carey Crescent (547),a
 43.8216642,-79.3994343,2,Green Lane (079),a
 43.8216642,-79.3994343,2,Green Lane (079),a
 43.82168,-79.3219284,2,Cheeseman Drive (930),a
-43.8216806,-79.3660742,2,Roman Road (137),a
 43.8216832,-79.3190806,2,Carey Crescent (546),a
-43.8216837,-79.3656638,2,Roman Road (132),a
 43.8216871,-79.3357703,2,Esna Park Drive (658),a
 43.8216986,-79.3525766,2,Denison Street (682),a
 43.8216992,-79.342448,2,Steelcase Road East (054),a
-43.8217112,-79.3656208,2,Roman Road (131),a
 43.8217114,-79.3525212,2,Denison Street (681),a
 43.8217216,-79.352477,2,Denison Street (680),a
 43.8217227,-79.3229967,2,Fullerton Crescent (356),a
@@ -2226,18 +1410,10 @@ lat,lon,sz,names,len_cat
 43.8217444,-79.3171265,2,Birchmount Road (661),a
 43.8217568,-79.32409,2,Fullerton Crescent (371),a
 43.8217579,-79.3183381,2,Carey Crescent (551),a
-43.8217621,-79.3661093,2,Roman Road (138),a
-43.8217723,-79.3698418,2,Don Mills Road (764),a
-43.8217723,-79.3698418,2,Don Mills Road (784),a
-43.8217723,-79.3698418,2,Don Mills Road (810),a
-43.8217725,-79.3674645,2,Eveningside Road (016),a
-43.8217746,-79.3688696,2,Snowshoe Crescent (709),a
 43.8217767,-79.3229951,2,Fullerton Crescent (355),a
 43.8217782,-79.3169763,2,Birchmount Road (670),a
 43.8217894,-79.3521826,2,Denison Street (679),a
 43.8217908,-79.3452597,2,Victoria Park Avenue (021),a
-43.8218109,-79.3626012,2,Snowshoe Crescent (765),a
-43.8218109,-79.3626012,2,Snowshoe Crescent (765),a
 43.8218127,-79.3180946,2,Carey Crescent (552),a
 43.8218166,-79.320196,2,Cheeseman Drive (945),a
 43.8218277,-79.3986662,2,Green Lane (081),a
@@ -2252,7 +1428,6 @@ lat,lon,sz,names,len_cat
 43.8218536,-79.3357784,2,Esna Park Drive (517),a
 43.8218538,-79.4236788,2,Inverlochy Boulevard (755),a
 43.8218538,-79.4236788,2,Inverlochy Boulevard (755),a
-43.8218556,-79.3688674,2,Snowshoe Crescent (712),a
 43.821862,-79.3985049,2,Green Lane (083),a
 43.821862,-79.3985049,2,Green Lane (083),a
 43.8218648,-79.3191874,2,Carey Crescent (545),a
@@ -2263,19 +1438,14 @@ lat,lon,sz,names,len_cat
 43.8218887,-79.4236902,2,Inverlochy Boulevard (754),a
 43.8218984,-79.3202435,2,Cheeseman Drive (946),a
 43.8218989,-79.341583,2,Steelcase Road East (050),a
-43.8218998,-79.3699831,2,Don Mills Road (809),a
-43.8219089,-79.3688162,2,Snowshoe Crescent (714),a
 43.8219108,-79.3180296,2,Carey Crescent (554),a
 43.8219122,-79.3415252,2,Steelcase Road East (049),a
 43.8219171,-79.4219778,2,Weeping Willow Lane (677),a
 43.8219171,-79.4219778,2,Weeping Willow Lane (677),a
 43.8219254,-79.3590182,2,Steelcase Road West (928),a
-43.8219257,-79.3662168,2,Roman Road (139),a
 43.8219324,-79.3213369,2,Risebrough Circuit (417),a
-43.8219346,-79.3687285,2,Snowshoe Crescent (716),a
 43.8219364,-79.3216103,2,Risebrough Circuit (416),a
 43.8219387,-79.3211502,2,Risebrough Circuit (418),a
-43.82194,-79.3698323,2,Don Mills Road (765),a
 43.8219468,-79.3229282,2,Fullerton Crescent (353),a
 43.8219473,-79.321865,2,Risebrough Circuit (415),a
 43.8219485,-79.3314414,2,Ferrier Street (472),a
@@ -2290,7 +1460,6 @@ lat,lon,sz,names,len_cat
 43.8219627,-79.3514302,2,Denison Street (678),a
 43.8219627,-79.3514302,2,Denison Street (678),a
 43.8219631,-79.3209754,2,Risebrough Circuit (419),a
-43.8219647,-79.3645369,2,Roman Road (130),a
 43.8219754,-79.3251582,2,Warden Avenue (371),a
 43.821977,-79.3225294,2,Risebrough Circuit (454),a
 43.8219829,-79.3513424,2,Denison Street (145),a
@@ -2303,7 +1472,6 @@ lat,lon,sz,names,len_cat
 43.8220062,-79.3411181,2,Steelcase Road East (048),a
 43.8220115,-79.4183815,2,Apple Orchard Lane (249),a
 43.8220142,-79.320775,2,Risebrough Circuit (420),a
-43.8220261,-79.3675695,2,Eveningside Road (017),a
 43.8220268,-79.4020095,2,Bayview Avenue (578),a
 43.822034,-79.4018789,2,Bayview Avenue (575),a
 43.822037,-79.3241692,2,Fullerton Crescent (372),a
@@ -2322,7 +1490,6 @@ lat,lon,sz,names,len_cat
 43.8220744,-79.3505792,2,Denison Street (455),a
 43.8220835,-79.3974835,2,Green Lane (296),a
 43.8220945,-79.3407357,2,Steelcase Road East (045),a
-43.822109,-79.3639236,2,Roman Road (129),a
 43.8221105,-79.3205857,2,Cheeseman Drive (949),a
 43.8221105,-79.3205857,2,Risebrough Circuit (422),a
 43.8221105,-79.3205857,2,Risebrough Circuit (425),a
@@ -2331,12 +1498,8 @@ lat,lon,sz,names,len_cat
 43.8221389,-79.3229864,2,Risebrough Circuit (457),a
 43.8221392,-79.325039,2,Warden Avenue (090),a
 43.8221392,-79.325039,2,Warden Avenue (099),a
-43.8221442,-79.3663849,2,Roman Road (140),a
 43.822146,-79.4020342,2,Bayview Avenue (341),a
 43.822146,-79.4020342,2,Bayview Avenue (577),a
-43.822153,-79.3676282,2,Eveningside Road (018),a
-43.822153,-79.3676282,2,Snowshoe Crescent (718),a
-43.822153,-79.3676282,2,Snowshoe Crescent (747),a
 43.8221564,-79.3251997,2,Warden Avenue (093),a
 43.8221564,-79.3251997,2,Warden Avenue (302),a
 43.8221573,-79.3501493,2,Denison Street (456),a
@@ -2395,12 +1558,6 @@ lat,lon,sz,names,len_cat
 43.8223486,-79.3487929,2,Denison Street (640),a
 43.8223492,-79.317314,2,Birchmount Road (648),a
 43.8223492,-79.317314,2,Birchmount Road (810),a
-43.8223545,-79.362835,2,Roman Road (128),a
-43.8223545,-79.362835,2,Roman Road (128),a
-43.8223545,-79.362835,2,Snowshoe Crescent (720),a
-43.8223545,-79.362835,2,Snowshoe Crescent (720),a
-43.8223545,-79.362835,2,Snowshoe Crescent (768),a
-43.8223545,-79.362835,2,Snowshoe Crescent (768),a
 43.8223611,-79.348727,2,Denison Street (639),a
 43.8223738,-79.3961018,2,Green Lane (120),a
 43.8223758,-79.4167304,2,Apple Orchard Lane (238),a
@@ -2409,9 +1566,6 @@ lat,lon,sz,names,len_cat
 43.8223802,-79.3156661,2,Bedale Crescent (107),a
 43.8223802,-79.3156661,2,Bedale Crescent (107),a
 43.8223806,-79.4026675,2,Royal Orchard Boulevard (433),a
-43.8223899,-79.3665647,2,Roman Road (141),a
-43.8223899,-79.3665647,2,Snowshoe Crescent (743),a
-43.8223899,-79.3665647,2,Snowshoe Crescent (751),a
 43.8223908,-79.3591219,2,Steelcase Road West (926),a
 43.8224055,-79.3241216,2,Fullerton Crescent (375),a
 43.822408,-79.3456767,2,Victoria Park Avenue (027),a
@@ -2506,7 +1660,6 @@ lat,lon,sz,names,len_cat
 43.8227113,-79.3945121,2,Green Lane (302),a
 43.8227113,-79.3945121,2,Guardsman Road (985),a
 43.8227127,-79.3309205,2,Gibson Drive (670),a
-43.8227134,-79.3652626,2,Snowshoe Crescent (741),a
 43.8227152,-79.3213025,2,Empringham Crescent (844),a
 43.8227239,-79.3308694,2,Gibson Drive (677),a
 43.8227246,-79.4159128,2,Apple Orchard Lane (244),a
@@ -2600,7 +1753,6 @@ lat,lon,sz,names,len_cat
 43.8229264,-79.3371317,2,Steelcase Road East (026),a
 43.8229282,-79.4236161,2,Inverlochy Boulevard (752),a
 43.8229324,-79.3299407,2,Gibson Drive (672),a
-43.8229339,-79.3643115,2,Snowshoe Crescent (738),a
 43.8229363,-79.4212601,2,Wild Cherry Lane (757),a
 43.8229381,-79.4144273,2,Cherry Blossom Lane (045),a
 43.8229437,-79.3184732,2,Carey Crescent (557),a
@@ -2643,7 +1795,6 @@ lat,lon,sz,names,len_cat
 43.8230208,-79.4235078,2,Royal Orchard Boulevard (382),a
 43.8230241,-79.4236066,2,Inverlochy Boulevard (751),a
 43.8230241,-79.4236066,2,Royal Orchard Boulevard (381),a
-43.8230268,-79.3638861,2,Snowshoe Crescent (735),a
 43.8230295,-79.4237319,2,Royal Orchard Boulevard (380),a
 43.8230354,-79.34579,2,Denison Street (631),a
 43.8230354,-79.3295114,2,Gibson Drive (680),a
@@ -2653,8 +1804,6 @@ lat,lon,sz,names,len_cat
 43.823041,-79.4249709,2,Royal Orchard Boulevard (375),a
 43.8230469,-79.4248831,2,Royal Orchard Boulevard (376),a
 43.8230497,-79.3365977,2,Steelcase Road East (024),a
-43.8230522,-79.3631393,2,Snowshoe Crescent (722),a
-43.8230522,-79.3631393,2,Snowshoe Crescent (722),a
 43.8230532,-79.424286,2,Royal Orchard Boulevard (378),a
 43.8230593,-79.3294118,2,Gibson Drive (675),a
 43.8230614,-79.4027517,2,Royal Orchard Boulevard (430),a
@@ -2671,26 +1820,17 @@ lat,lon,sz,names,len_cat
 43.8230943,-79.4146595,2,Cherry Blossom Lane (048),a
 43.823095,-79.3364016,2,Steelcase Road East (063),a
 43.8230978,-79.329252,2,Gibson Drive (681),a
-43.8231032,-79.3635607,2,Snowshoe Crescent (733),a
-43.823116,-79.3631997,2,Snowshoe Crescent (725),a
-43.823116,-79.3631997,2,Snowshoe Crescent (725),a
 43.8231177,-79.3186673,2,Carey Crescent (560),a
 43.8231197,-79.3230943,2,Middleton Court (103),a
 43.8231221,-79.3362841,2,Esna Park Drive (663),a
 43.8231221,-79.3362841,2,Steelcase Road East (022),a
 43.823128,-79.4235986,2,Inverlochy Boulevard (750),a
-43.8231286,-79.3634481,2,Snowshoe Crescent (730),a
-43.8231286,-79.3634481,2,Snowshoe Crescent (730),a
 43.823132,-79.3126028,2,Harvest Moon Drive (239),a
 43.8231355,-79.4016984,2,Royal Orchard Boulevard (886),a
 43.823139,-79.3127846,2,Harvest Moon Drive (240),a
 43.8231434,-79.3124735,2,Harvest Moon Drive (223),a
 43.8231434,-79.3124735,2,Harvest Moon Drive (238),a
 43.8231434,-79.3124735,2,Putnam Gate (456),a
-43.8231438,-79.3632487,2,Snowshoe Crescent (726),a
-43.8231438,-79.3632487,2,Snowshoe Crescent (726),a
-43.8231454,-79.3633606,2,Snowshoe Crescent (728),a
-43.8231454,-79.3633606,2,Snowshoe Crescent (728),a
 43.8231485,-79.3128366,2,Harvest Moon Drive (241),a
 43.8231494,-79.3320608,2,Ferrier Street (213),a
 43.8231652,-79.3145621,2,Bedale Crescent (129),a

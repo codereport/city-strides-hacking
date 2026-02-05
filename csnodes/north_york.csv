@@ -47,7 +47,6 @@ lat,lon,sz,names,len_cat
 43.746284,-79.5686843,2,Finch Avenue West (470),a
 43.746284,-79.5686843,2,Islington Avenue (274),a
 43.746284,-79.5686843,2,Islington Avenue (275),a
-43.746284,-79.5686843,2,Islington Avenue (820),a
 43.7463398,-79.5677513,2,Finch Avenue West (518),a
 43.7463398,-79.5677513,2,Finch Avenue West (625),a
 43.746365,-79.5676722,2,Finch Avenue West (753),a
@@ -68,945 +67,93 @@ lat,lon,sz,names,len_cat
 43.7475027,-79.5632458,2,Finch Avenue West (863),a
 43.747513,-79.5632511,2,Finch Avenue West (622),a
 43.7475405,-79.5631228,2,Finch Avenue West (623),a
-43.7478252,-79.5618023,2,Finch Avenue West (438),a
-43.7478515,-79.5616774,2,Finch Avenue West (475),a
-43.7478515,-79.5616774,2,Finch Avenue West (476),a
-43.7478548,-79.5616785,2,Finch Avenue West (439),a
-43.7478548,-79.5616785,2,Finch Avenue West (442),a
-43.7482579,-79.562562,2,Pearldale Avenue (596),a
-43.7482654,-79.5625436,2,Pearldale Avenue (122),a
-43.7482983,-79.5597305,2,Finch Avenue West (477),a
-43.7482983,-79.5597305,2,Finch Avenue West (477),a
-43.7483128,-79.559709,2,Finch Avenue West (444),a
-43.7483128,-79.559709,2,Finch Avenue West (444),a
-43.7483383,-79.5625942,2,Pearldale Avenue (123),a
-43.7483673,-79.5626711,2,Pearldale Avenue (597),a
-43.7483996,-79.5626475,2,Pearldale Avenue (124),a
-43.7484039,-79.5592424,2,Finch Avenue West (478),a
-43.7484039,-79.5592424,2,Finch Avenue West (478),a
-43.748436,-79.5590854,2,Finch Avenue West (479),a
-43.748436,-79.5590854,2,Finch Avenue West (479),a
-43.748436,-79.5590854,2,Finch Avenue West (486),a
-43.748436,-79.5590854,2,Finch Avenue West (486),a
-43.7484676,-79.5627681,2,Pearldale Avenue (598),a
-43.7484975,-79.5627435,2,Pearldale Avenue (125),a
-43.7485183,-79.5587517,2,Finch Avenue West (445),a
-43.7485183,-79.5587517,2,Finch Avenue West (445),a
-43.7485315,-79.5628411,2,Pearldale Avenue (599),a
-43.748556,-79.5628655,2,Pearldale Avenue (911),a
-43.7485746,-79.5628302,2,Pearldale Avenue (126),a
-43.748588,-79.5590236,2,Finch Avenue West (682),a
-43.748588,-79.5590236,2,Finch Avenue West (682),a
-43.7485987,-79.5590075,2,Finch Avenue West (811),a
-43.7485987,-79.5590075,2,Finch Avenue West (811),a
-43.7486045,-79.5629139,2,Pearldale Avenue (600),a
-43.7486129,-79.5628716,2,Pearldale Avenue (127),a
-43.748621,-79.5582271,2,Finch Avenue West (457),a
 43.7486344,-79.5581187,2,Finch Avenue West (487),a
-43.7486348,-79.5629442,2,Pearldale Avenue (601),a
 43.7486431,-79.5581187,2,Finch Avenue West (458),a
-43.7486515,-79.5587625,2,Finch Avenue West (681),a
-43.7486515,-79.5587625,2,Finch Avenue West (681),a
-43.7486515,-79.5587625,2,Gracedale Boulevard (895),a
-43.7486515,-79.5587625,2,Gracedale Boulevard (895),a
-43.7486525,-79.558792,2,Finch Avenue West (808),a
-43.7486525,-79.558792,2,Finch Avenue West (808),a
-43.7486525,-79.558792,2,Gracedale Boulevard (637),a
-43.7486525,-79.558792,2,Gracedale Boulevard (637),a
-43.7486774,-79.5629867,2,Pearldale Avenue (602),a
-43.7487008,-79.558815,2,Gracedale Boulevard (513),a
-43.7487008,-79.558815,2,Gracedale Boulevard (513),a
-43.7487018,-79.5629675,2,Pearldale Avenue (128),a
-43.7487101,-79.5587919,2,Gracedale Boulevard (896),a
-43.7487101,-79.5587919,2,Gracedale Boulevard (896),a
-43.7487347,-79.5588043,2,Gracedale Boulevard (897),a
-43.7487347,-79.5588043,2,Gracedale Boulevard (897),a
-43.7487595,-79.5630716,2,Pearldale Avenue (603),a
-43.7487717,-79.558288,2,Finch Avenue West (141),a
-43.7487717,-79.558288,2,Finch Avenue West (466),a
-43.7487717,-79.558288,2,Finch Avenue West (680),a
-43.7487736,-79.5630463,2,Pearldale Avenue (129),a
-43.748873,-79.563163,2,Hasbrooke Drive (498),a
-43.748873,-79.563163,2,Pearldale Avenue (575),a
-43.748873,-79.563163,2,Pearldale Avenue (604),a
-43.7488747,-79.5631331,2,Hasbrooke Drive (957),a
-43.7488747,-79.5631331,2,Pearldale Avenue (109),a
-43.7488747,-79.5631331,2,Pearldale Avenue (130),a
-43.7488877,-79.5578267,2,Finch Avenue West (490),a
-43.7489027,-79.5630274,2,Hasbrooke Drive (488),a
-43.7489027,-79.5630274,2,Hasbrooke Drive (907),a
-43.7490236,-79.5632564,2,Pearldale Avenue (110),a
-43.7490275,-79.5632835,2,Pearldale Avenue (576),a
-43.7491182,-79.563331,2,Pearldale Avenue (577),a
-43.7491185,-79.5633171,2,Pearldale Avenue (111),a
-43.7491676,-79.5590128,2,Gracedale Boulevard (331),a
-43.7491676,-79.5590128,2,Gracedale Boulevard (331),a
-43.7491676,-79.5590128,2,Gracedale Boulevard (514),a
-43.7491676,-79.5590128,2,Gracedale Boulevard (514),a
-43.7492311,-79.5590485,2,Gracedale Boulevard (332),a
-43.7492311,-79.5590485,2,Gracedale Boulevard (332),a
-43.7492311,-79.5590485,2,Gracedale Boulevard (515),a
-43.7492311,-79.5590485,2,Gracedale Boulevard (515),a
-43.7492446,-79.5633879,2,Pearldale Avenue (112),a
-43.7492814,-79.5634265,2,Pearldale Avenue (578),a
-43.7492944,-79.5590719,2,Gracedale Boulevard (333),a
-43.7492944,-79.5590719,2,Gracedale Boulevard (333),a
-43.7492944,-79.5590719,2,Gracedale Boulevard (516),a
-43.7492944,-79.5590719,2,Gracedale Boulevard (516),a
-43.7493491,-79.5591202,2,Gracedale Boulevard (334),a
-43.7493491,-79.5591202,2,Gracedale Boulevard (334),a
-43.7493491,-79.5591202,2,Gracedale Boulevard (517),a
-43.7493491,-79.5591202,2,Gracedale Boulevard (517),a
-43.7493811,-79.5634738,2,Pearldale Avenue (579),a
-43.7493811,-79.5634615,2,Pearldale Avenue (113),a
-43.7493855,-79.5591566,2,Gracedale Boulevard (335),a
-43.7493855,-79.5591566,2,Gracedale Boulevard (335),a
-43.7493855,-79.5591566,2,Gracedale Boulevard (518),a
-43.7493855,-79.5591566,2,Gracedale Boulevard (518),a
-43.7494182,-79.5578859,2,Duncanwoods Drive (204),a
-43.7494182,-79.5578859,2,Duncanwoods Drive (451),a
-43.7494225,-79.5592302,2,Gracedale Boulevard (336),a
-43.7494225,-79.5592302,2,Gracedale Boulevard (336),a
-43.7494225,-79.5592302,2,Gracedale Boulevard (519),a
-43.7494225,-79.5592302,2,Gracedale Boulevard (519),a
-43.7494591,-79.559279,2,Gracedale Boulevard (337),a
-43.7494591,-79.559279,2,Gracedale Boulevard (337),a
-43.7494591,-79.559279,2,Gracedale Boulevard (520),a
-43.7494591,-79.559279,2,Gracedale Boulevard (520),a
-43.749465,-79.5604589,2,Hasbrooke Drive (343),a
-43.749465,-79.5604589,2,Hasbrooke Drive (499),a
-43.749482,-79.5603839,2,Hasbrooke Drive (344),a
-43.749482,-79.5603839,2,Hasbrooke Drive (344),a
-43.749482,-79.5603839,2,Hasbrooke Drive (500),a
-43.749482,-79.5603839,2,Hasbrooke Drive (500),a
-43.7494989,-79.5602966,2,Hasbrooke Drive (345),a
-43.7494989,-79.5602966,2,Hasbrooke Drive (345),a
-43.7494989,-79.5602966,2,Hasbrooke Drive (501),a
-43.7494989,-79.5602966,2,Hasbrooke Drive (501),a
-43.749505,-79.5593525,2,Gracedale Boulevard (338),a
-43.749505,-79.5593525,2,Gracedale Boulevard (338),a
-43.749505,-79.5593525,2,Gracedale Boulevard (521),a
-43.749505,-79.5593525,2,Gracedale Boulevard (521),a
-43.7495322,-79.5579359,2,Duncanwoods Drive (205),a
-43.7495322,-79.5579359,2,Duncanwoods Drive (452),a
-43.7495336,-79.5635147,2,Pearldale Avenue (114),a
-43.7495349,-79.5635322,2,Pearldale Avenue (580),a
-43.7495418,-79.5594137,2,Gracedale Boulevard (339),a
-43.7495418,-79.5594137,2,Gracedale Boulevard (339),a
-43.7495418,-79.5594137,2,Gracedale Boulevard (522),a
-43.7495418,-79.5594137,2,Gracedale Boulevard (522),a
-43.7495427,-79.5601962,2,Hasbrooke Drive (346),a
-43.7495427,-79.5601962,2,Hasbrooke Drive (346),a
-43.7495427,-79.5601962,2,Hasbrooke Drive (502),a
-43.7495427,-79.5601962,2,Hasbrooke Drive (502),a
-43.7495689,-79.5601334,2,Hasbrooke Drive (347),a
-43.7495689,-79.5601334,2,Hasbrooke Drive (347),a
-43.7495689,-79.5601334,2,Hasbrooke Drive (503),a
-43.7495689,-79.5601334,2,Hasbrooke Drive (503),a
 43.7495753,-79.567976,2,Islington Avenue (451),a
 43.7495753,-79.567976,2,Islington Avenue (454),a
-43.7495753,-79.567976,2,Islington Avenue (534),a
-43.7495753,-79.567976,2,Islington Avenue (537),a
-43.7495864,-79.5600958,2,Hasbrooke Drive (348),a
-43.7495864,-79.5600958,2,Hasbrooke Drive (348),a
-43.7495864,-79.5600958,2,Hasbrooke Drive (504),a
-43.7495864,-79.5600958,2,Hasbrooke Drive (504),a
-43.7495865,-79.5579594,2,Duncanwoods Drive (206),a
-43.7495865,-79.5579594,2,Duncanwoods Drive (453),a
-43.7495878,-79.5594871,2,Gracedale Boulevard (340),a
-43.7495878,-79.5594871,2,Gracedale Boulevard (340),a
-43.7495878,-79.5594871,2,Gracedale Boulevard (523),a
-43.7495878,-79.5594871,2,Gracedale Boulevard (523),a
-43.7496228,-79.5579834,2,Duncanwoods Drive (207),a
-43.7496228,-79.5579834,2,Duncanwoods Drive (454),a
 43.7496337,-79.5679619,2,Islington Avenue (452),a
-43.7496337,-79.5679619,2,Islington Avenue (535),a
-43.7496484,-79.5600073,2,Hasbrooke Drive (349),a
-43.7496484,-79.5600073,2,Hasbrooke Drive (349),a
-43.7496484,-79.5600073,2,Hasbrooke Drive (505),a
-43.7496484,-79.5600073,2,Hasbrooke Drive (505),a
-43.7496702,-79.5635538,2,Pearldale Avenue (504),a
-43.7496702,-79.5635538,2,Pearldale Avenue (505),a
-43.7496702,-79.5635538,2,Pearldale Avenue (581),a
-43.7496702,-79.5635538,2,Pearldale Avenue (582),a
-43.7496702,-79.5635538,2,Topeka Road (509),a
-43.7496702,-79.5635538,2,Topeka Road (559),a
-43.7496839,-79.5599692,2,Hasbrooke Drive (350),a
-43.7496839,-79.5599692,2,Hasbrooke Drive (350),a
-43.7496839,-79.5599692,2,Hasbrooke Drive (506),a
-43.7496839,-79.5599692,2,Hasbrooke Drive (506),a
-43.7496974,-79.5634219,2,Topeka Road (491),a
-43.7496974,-79.5634219,2,Topeka Road (909),a
-43.7497193,-79.5599187,2,Hasbrooke Drive (351),a
-43.7497193,-79.5599187,2,Hasbrooke Drive (351),a
-43.7497193,-79.5599187,2,Hasbrooke Drive (507),a
-43.7497193,-79.5599187,2,Hasbrooke Drive (507),a
-43.7497408,-79.5580551,2,Duncanwoods Drive (208),a
-43.7497408,-79.5580551,2,Duncanwoods Drive (455),a
-43.7497409,-79.5598955,2,Hasbrooke Drive (489),a
-43.7497409,-79.5598955,2,Hasbrooke Drive (489),a
-43.7497409,-79.5598955,2,Hasbrooke Drive (908),a
-43.7497409,-79.5598955,2,Hasbrooke Drive (908),a
-43.7497767,-79.5580837,2,Duncanwoods Drive (144),a
-43.7497767,-79.5580837,2,Duncanwoods Drive (280),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (341),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (341),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (342),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (342),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (524),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (524),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (525),a
-43.7498152,-79.5598157,2,Gracedale Boulevard (525),a
-43.7498152,-79.5598157,2,Hasbrooke Drive (352),a
-43.7498152,-79.5598157,2,Hasbrooke Drive (352),a
-43.7498152,-79.5598157,2,Hasbrooke Drive (508),a
-43.7498152,-79.5598157,2,Hasbrooke Drive (508),a
-43.7498156,-79.5635998,2,Pearldale Avenue (583),a
-43.7498181,-79.563584,2,Pearldale Avenue (115),a
-43.7498317,-79.5581274,2,Duncanwoods Drive (209),a
-43.7498317,-79.5581274,2,Duncanwoods Drive (456),a
-43.749854,-79.5598906,2,Gracedale Boulevard (343),a
-43.749854,-79.5598906,2,Gracedale Boulevard (343),a
-43.749854,-79.5598906,2,Gracedale Boulevard (526),a
-43.749854,-79.5598906,2,Gracedale Boulevard (526),a
-43.7499047,-79.5582002,2,Duncanwoods Drive (210),a
-43.7499047,-79.5582002,2,Duncanwoods Drive (457),a
-43.7499091,-79.5599762,2,Gracedale Boulevard (344),a
-43.7499091,-79.5599762,2,Gracedale Boulevard (344),a
-43.7499091,-79.5599762,2,Gracedale Boulevard (527),a
-43.7499091,-79.5599762,2,Gracedale Boulevard (527),a
 43.7499095,-79.5679536,2,Islington Avenue (453),a
 43.7499095,-79.5679536,2,Islington Avenue (456),a
-43.7499095,-79.5679536,2,Islington Avenue (536),a
-43.7499095,-79.5679536,2,Islington Avenue (539),a
-43.7499197,-79.5582202,2,Duncanwoods Drive (145),a
-43.7499197,-79.5582202,2,Duncanwoods Drive (281),a
-43.7499455,-79.5600126,2,Gracedale Boulevard (345),a
-43.7499455,-79.5600126,2,Gracedale Boulevard (345),a
-43.7499455,-79.5600126,2,Gracedale Boulevard (528),a
-43.7499455,-79.5600126,2,Gracedale Boulevard (528),a
-43.7499822,-79.5600614,2,Gracedale Boulevard (346),a
-43.7499822,-79.5600614,2,Gracedale Boulevard (346),a
-43.7499822,-79.5600614,2,Gracedale Boulevard (529),a
-43.7499822,-79.5600614,2,Gracedale Boulevard (529),a
-43.7499999,-79.5636133,2,Pearldale Avenue (584),a
-43.7500062,-79.5635975,2,Pearldale Avenue (116),a
 43.7500105,-79.5679506,2,Islington Avenue (455),a
-43.7500105,-79.5679506,2,Islington Avenue (538),a
-43.750014,-79.5583403,2,Duncanwoods Drive (211),a
-43.750014,-79.5583403,2,Duncanwoods Drive (211),a
-43.750014,-79.5583403,2,Duncanwoods Drive (458),a
-43.750014,-79.5583403,2,Duncanwoods Drive (458),a
-43.750046,-79.560122,2,Gracedale Boulevard (347),a
-43.750046,-79.560122,2,Gracedale Boulevard (347),a
-43.750046,-79.560122,2,Gracedale Boulevard (530),a
-43.750046,-79.560122,2,Gracedale Boulevard (530),a
-43.7500481,-79.5617242,2,Topeka Road (510),a
-43.7500481,-79.5617242,2,Topeka Road (560),a
-43.7500512,-79.5583954,2,Duncanwoods Drive (212),a
-43.7500512,-79.5583954,2,Duncanwoods Drive (212),a
-43.7500512,-79.5583954,2,Duncanwoods Drive (459),a
-43.7500512,-79.5583954,2,Duncanwoods Drive (459),a
-43.7500539,-79.5636122,2,Pearldale Avenue (585),a
-43.7501006,-79.5601706,2,Gracedale Boulevard (348),a
-43.7501006,-79.5601706,2,Gracedale Boulevard (348),a
-43.7501006,-79.5601706,2,Gracedale Boulevard (531),a
-43.7501006,-79.5601706,2,Gracedale Boulevard (531),a
-43.7501104,-79.5584844,2,Duncanwoods Drive (209),a
-43.7501104,-79.5584844,2,Duncanwoods Drive (209),a
-43.7501104,-79.5584844,2,Duncanwoods Drive (564),a
-43.7501104,-79.5584844,2,Duncanwoods Drive (564),a
-43.7501169,-79.5636107,2,Pearldale Avenue (586),a
-43.7501246,-79.5585057,2,Duncanwoods Drive (213),a
-43.7501246,-79.5585057,2,Duncanwoods Drive (213),a
-43.7501246,-79.5585057,2,Duncanwoods Drive (460),a
-43.7501246,-79.5585057,2,Duncanwoods Drive (460),a
-43.7501824,-79.5602307,2,Gracedale Boulevard (349),a
-43.7501824,-79.5602307,2,Gracedale Boulevard (349),a
-43.7501824,-79.5602307,2,Gracedale Boulevard (532),a
-43.7501824,-79.5602307,2,Gracedale Boulevard (532),a
-43.7502241,-79.5515101,2,Finch Avenue West (374),a
-43.7502241,-79.5515101,2,Finch Avenue West (522),a
-43.7502337,-79.5635955,2,Pearldale Avenue (587),a
-43.7502367,-79.5602543,2,Gracedale Boulevard (350),a
-43.7502367,-79.5602543,2,Gracedale Boulevard (350),a
-43.7502367,-79.5602543,2,Gracedale Boulevard (533),a
-43.7502367,-79.5602543,2,Gracedale Boulevard (533),a
-43.750239,-79.5635817,2,Pearldale Avenue (117),a
-43.7502542,-79.5635905,2,Pearldale Avenue (588),a
 43.7502612,-79.5679495,2,Islington Avenue (457),a
 43.7502612,-79.5679495,2,Islington Avenue (461),a
-43.7502612,-79.5679495,2,Islington Avenue (540),a
-43.7502612,-79.5679495,2,Islington Avenue (544),a
-43.7503198,-79.5635744,2,Pearldale Avenue (589),a
-43.7503215,-79.5588274,2,Duncanwoods Drive (214),a
-43.7503215,-79.5588274,2,Duncanwoods Drive (214),a
-43.7503215,-79.5588274,2,Duncanwoods Drive (461),a
-43.7503215,-79.5588274,2,Duncanwoods Drive (461),a
-43.7503286,-79.5604451,2,Topeka Road (492),a
-43.7503286,-79.5604451,2,Topeka Road (910),a
-43.7503375,-79.5635533,2,Pearldale Avenue (118),a
-43.7503406,-79.5603904,2,Topeka Road (285),a
-43.7503406,-79.5603904,2,Topeka Road (767),a
-43.7503547,-79.560326,2,Gracedale Boulevard (351),a
-43.7503547,-79.560326,2,Gracedale Boulevard (354),a
-43.7503547,-79.560326,2,Gracedale Boulevard (534),a
-43.7503547,-79.560326,2,Gracedale Boulevard (537),a
-43.7503547,-79.560326,2,Topeka Road (511),a
-43.7503547,-79.560326,2,Topeka Road (561),a
-43.7504112,-79.5506404,2,Finch Avenue West (373),a
-43.7504112,-79.5506404,2,Finch Avenue West (521),a
-43.7504268,-79.5603367,2,Gracedale Boulevard (355),a
-43.7504268,-79.5603367,2,Gracedale Boulevard (538),a
-43.7504581,-79.5635405,2,Pearldale Avenue (590),a
 43.750523,-79.5679432,2,Islington Avenue (458),a
-43.750523,-79.5679432,2,Islington Avenue (541),a
-43.7505285,-79.5634949,2,Pearldale Avenue (119),a
-43.7505348,-79.5635107,2,Pearldale Avenue (287),a
-43.750553,-79.5603461,2,Gracedale Boulevard (356),a
-43.750553,-79.5603461,2,Gracedale Boulevard (539),a
-43.7505979,-79.5497725,2,Finch Avenue West (372),a
-43.7505979,-79.5497725,2,Finch Avenue West (520),a
-43.7506284,-79.5634743,2,Pearldale Avenue (591),a
-43.7506319,-79.563473,2,Pearldale Avenue (286),a
-43.75067,-79.5603433,2,Gracedale Boulevard (357),a
-43.75067,-79.5603433,2,Gracedale Boulevard (540),a
 43.7506797,-79.5485467,2,Finch Avenue West (530),a
 43.7507185,-79.5484498,2,Finch Avenue West (593),a
-43.7507283,-79.562826,2,Duncanwoods Drive (225),a
-43.7507283,-79.562826,2,Duncanwoods Drive (472),a
-43.75073,-79.5629626,2,Duncanwoods Drive (226),a
-43.75073,-79.5629626,2,Duncanwoods Drive (473),a
-43.7507314,-79.5594972,2,Cherrylawn Avenue (555),a
-43.7507314,-79.5594972,2,Cherrylawn Avenue (555),a
-43.7507314,-79.5594972,2,Cherrylawn Avenue (995),a
-43.7507314,-79.5594972,2,Cherrylawn Avenue (995),a
-43.7507314,-79.5594972,2,Duncanwoods Drive (071),a
-43.7507314,-79.5594972,2,Duncanwoods Drive (071),a
-43.7507314,-79.5594972,2,Duncanwoods Drive (922),a
-43.7507314,-79.5594972,2,Duncanwoods Drive (922),a
-43.750733,-79.5603418,2,Gracedale Boulevard (358),a
-43.750733,-79.5603418,2,Gracedale Boulevard (541),a
-43.7507356,-79.5626892,2,Duncanwoods Drive (224),a
-43.7507356,-79.5626892,2,Duncanwoods Drive (471),a
-43.7507398,-79.5630245,2,Duncanwoods Drive (227),a
-43.7507398,-79.5630245,2,Duncanwoods Drive (474),a
-43.750752,-79.5625646,2,Duncanwoods Drive (223),a
-43.750752,-79.5625646,2,Duncanwoods Drive (470),a
 43.7507637,-79.5482139,2,Finch Avenue West (531),a
 43.7507637,-79.5482139,2,Finch Avenue West (531),a
-43.7507681,-79.5634225,2,Pearldale Avenue (288),a
-43.7507681,-79.5634225,2,Pearldale Avenue (770),a
 43.7507687,-79.5482182,2,Finch Avenue West (594),a
 43.7507687,-79.5482182,2,Finch Avenue West (594),a
-43.750769,-79.5631977,2,Duncanwoods Drive (228),a
-43.750769,-79.5631977,2,Duncanwoods Drive (475),a
-43.7507776,-79.5595954,2,Duncanwoods Drive (072),a
-43.7507776,-79.5595954,2,Duncanwoods Drive (072),a
-43.7507776,-79.5595954,2,Duncanwoods Drive (923),a
-43.7507776,-79.5595954,2,Duncanwoods Drive (923),a
-43.750778,-79.5603407,2,Gracedale Boulevard (359),a
-43.750778,-79.5603407,2,Gracedale Boulevard (542),a
-43.7507789,-79.5488757,2,Finch Avenue West (551),a
 43.7507818,-79.5679646,2,Islington Avenue (460),a
-43.7507818,-79.5679646,2,Islington Avenue (543),a
-43.7507914,-79.559421,2,Cherrylawn Avenue (781),a
-43.7507914,-79.559421,2,Cherrylawn Avenue (781),a
-43.7507955,-79.5594157,2,Cherrylawn Avenue (295),a
-43.7507955,-79.5594157,2,Cherrylawn Avenue (295),a
 43.7508024,-79.5480728,2,Finch Avenue West (567),a
 43.7508024,-79.5480728,2,Finch Avenue West (567),a
 43.7508024,-79.5480728,2,Finch Avenue West (595),a
 43.7508024,-79.5480728,2,Finch Avenue West (595),a
-43.7508054,-79.5596569,2,Duncanwoods Drive (073),a
-43.7508054,-79.5596569,2,Duncanwoods Drive (073),a
-43.7508054,-79.5596569,2,Duncanwoods Drive (924),a
-43.7508054,-79.5596569,2,Duncanwoods Drive (924),a
-43.7508076,-79.5634079,2,Duncanwoods Drive (117),a
-43.7508076,-79.5634079,2,Duncanwoods Drive (204),a
-43.7508076,-79.5634079,2,Duncanwoods Drive (968),a
-43.7508076,-79.5634079,2,Pearldale Avenue (515),a
-43.7508076,-79.5634079,2,Pearldale Avenue (592),a
-43.750808,-79.5526957,2,Milvan Drive (282),a
-43.7508111,-79.5593959,2,Cherrylawn Avenue (556),a
-43.7508111,-79.5593959,2,Cherrylawn Avenue (556),a
-43.7508111,-79.5593959,2,Cherrylawn Avenue (996),a
-43.7508111,-79.5593959,2,Cherrylawn Avenue (996),a
-43.7508231,-79.5526658,2,Milvan Drive (896),a
-43.750836,-79.563519,2,Duncanwoods Drive (118),a
-43.750836,-79.563519,2,Duncanwoods Drive (969),a
-43.7508422,-79.5597181,2,Duncanwoods Drive (074),a
-43.7508422,-79.5597181,2,Duncanwoods Drive (074),a
-43.7508422,-79.5597181,2,Duncanwoods Drive (925),a
-43.7508422,-79.5597181,2,Duncanwoods Drive (925),a
-43.750855,-79.5635931,2,Duncanwoods Drive (119),a
-43.750855,-79.5635931,2,Duncanwoods Drive (970),a
-43.7508649,-79.5636674,2,Duncanwoods Drive (120),a
-43.7508649,-79.5636674,2,Duncanwoods Drive (971),a
-43.750869,-79.5484325,2,Finch Avenue West (840),a
-43.750869,-79.5484325,2,Finch Avenue West (852),a
-43.75087,-79.5597795,2,Duncanwoods Drive (075),a
-43.75087,-79.5597795,2,Duncanwoods Drive (075),a
-43.75087,-79.5597795,2,Duncanwoods Drive (926),a
-43.75087,-79.5597795,2,Duncanwoods Drive (926),a
-43.7508838,-79.5637414,2,Duncanwoods Drive (121),a
-43.7508838,-79.5637414,2,Duncanwoods Drive (972),a
-43.7508935,-79.5637909,2,Duncanwoods Drive (122),a
-43.7508935,-79.5637909,2,Duncanwoods Drive (973),a
-43.7509002,-79.5593192,2,Cherrylawn Avenue (557),a
-43.7509002,-79.5593192,2,Cherrylawn Avenue (557),a
-43.7509002,-79.5593192,2,Cherrylawn Avenue (997),a
-43.7509002,-79.5593192,2,Cherrylawn Avenue (997),a
-43.750904,-79.5482667,2,Finch Avenue West (224),a
-43.750904,-79.5482667,2,Finch Avenue West (590),a
-43.750904,-79.5482667,2,Finch Avenue West (695),a
-43.7509077,-79.5475868,2,Finch Avenue West (532),a
-43.7509077,-79.5475868,2,Finch Avenue West (532),a
-43.7509133,-79.547592,2,Finch Avenue West (568),a
-43.7509133,-79.547592,2,Finch Avenue West (568),a
-43.7509164,-79.5598902,2,Duncanwoods Drive (076),a
-43.7509164,-79.5598902,2,Duncanwoods Drive (076),a
-43.7509164,-79.5598902,2,Duncanwoods Drive (927),a
-43.7509164,-79.5598902,2,Duncanwoods Drive (927),a
-43.7509214,-79.5638647,2,Duncanwoods Drive (123),a
-43.7509214,-79.5638647,2,Duncanwoods Drive (974),a
-43.7509312,-79.5603494,2,Gracedale Boulevard (360),a
-43.7509312,-79.5603494,2,Gracedale Boulevard (543),a
-43.7509495,-79.563951,2,Duncanwoods Drive (124),a
-43.7509495,-79.563951,2,Duncanwoods Drive (975),a
-43.7509539,-79.5592931,2,Cherrylawn Avenue (558),a
-43.7509539,-79.5592931,2,Cherrylawn Avenue (558),a
-43.7509541,-79.5600259,2,Duncanwoods Drive (077),a
-43.7509541,-79.5600259,2,Duncanwoods Drive (077),a
-43.7509541,-79.5600259,2,Duncanwoods Drive (928),a
-43.7509541,-79.5600259,2,Duncanwoods Drive (928),a
-43.7509639,-79.559268,2,Cherrylawn Avenue (782),a
-43.7509639,-79.559268,2,Cherrylawn Avenue (782),a
-43.7509861,-79.5639998,2,Duncanwoods Drive (125),a
-43.7509861,-79.5639998,2,Duncanwoods Drive (976),a
-43.7509914,-79.5601244,2,Duncanwoods Drive (078),a
-43.7509914,-79.5601244,2,Duncanwoods Drive (078),a
-43.7509914,-79.5601244,2,Duncanwoods Drive (929),a
-43.7509914,-79.5601244,2,Duncanwoods Drive (929),a
-43.7509988,-79.552746,2,Milvan Drive (897),a
-43.750999,-79.5614408,2,Duncanwoods Drive (222),a
-43.750999,-79.5614408,2,Duncanwoods Drive (469),a
-43.7510074,-79.5592546,2,Cherrylawn Avenue (559),a
-43.7510074,-79.5592546,2,Cherrylawn Avenue (559),a
-43.7510084,-79.5603627,2,Gracedale Boulevard (433),a
-43.7510084,-79.5603627,2,Gracedale Boulevard (962),a
-43.7510108,-79.5602357,2,Duncanwoods Drive (079),a
-43.7510108,-79.5602357,2,Duncanwoods Drive (930),a
-43.751018,-79.5592321,2,Cherrylawn Avenue (783),a
-43.751018,-79.5592321,2,Cherrylawn Avenue (783),a
-43.7510231,-79.5640735,2,Duncanwoods Drive (126),a
-43.7510231,-79.5640735,2,Duncanwoods Drive (977),a
-43.7510331,-79.561291,2,Duncanwoods Drive (221),a
-43.7510331,-79.561291,2,Duncanwoods Drive (468),a
-43.7510575,-79.5603712,2,Duncanwoods Drive (080),a
-43.7510575,-79.5603712,2,Duncanwoods Drive (931),a
-43.7510575,-79.5603712,2,Gracedale Boulevard (361),a
-43.7510575,-79.5603712,2,Gracedale Boulevard (362),a
-43.7510575,-79.5603712,2,Gracedale Boulevard (544),a
-43.7510575,-79.5603712,2,Gracedale Boulevard (545),a
-43.7510588,-79.561191,2,Duncanwoods Drive (220),a
-43.7510588,-79.561191,2,Duncanwoods Drive (467),a
-43.7510632,-79.5604297,2,Duncanwoods Drive (437),a
-43.7510632,-79.5604297,2,Duncanwoods Drive (970),a
-43.7510689,-79.5641345,2,Duncanwoods Drive (127),a
-43.7510689,-79.5641345,2,Duncanwoods Drive (978),a
-43.75107,-79.5592158,2,Cherrylawn Avenue (560),a
-43.75107,-79.5592158,2,Cherrylawn Avenue (560),a
-43.7510758,-79.5611036,2,Duncanwoods Drive (219),a
-43.7510758,-79.5611036,2,Duncanwoods Drive (466),a
-43.7510788,-79.5606316,2,Duncanwoods Drive (215),a
-43.7510788,-79.5606316,2,Duncanwoods Drive (462),a
-43.7510832,-79.5609792,2,Duncanwoods Drive (218),a
-43.7510832,-79.5609792,2,Duncanwoods Drive (465),a
-43.7510832,-79.5545577,2,Penn Drive (292),a
-43.7510832,-79.5545577,2,Penn Drive (458),a
-43.7510844,-79.554657,2,Penn Drive (293),a
-43.7510844,-79.554657,2,Penn Drive (459),a
-43.7510855,-79.5547439,2,Penn Drive (294),a
-43.7510855,-79.5547439,2,Penn Drive (460),a
-43.7510856,-79.5591985,2,Cherrylawn Avenue (784),a
-43.7510856,-79.5591985,2,Cherrylawn Avenue (784),a
-43.7510889,-79.5607183,2,Duncanwoods Drive (216),a
-43.7510889,-79.5607183,2,Duncanwoods Drive (463),a
-43.7510913,-79.5609045,2,Duncanwoods Drive (217),a
-43.7510913,-79.5609045,2,Duncanwoods Drive (464),a
-43.7510955,-79.5548182,2,Penn Drive (295),a
-43.7510955,-79.5548182,2,Penn Drive (462),a
-43.7511085,-79.5544204,2,Penn Drive (291),a
-43.7511085,-79.5544204,2,Penn Drive (457),a
-43.7511145,-79.5641831,2,Duncanwoods Drive (128),a
-43.7511145,-79.5641831,2,Duncanwoods Drive (979),a
-43.7511147,-79.5549171,2,Penn Drive (296),a
-43.7511147,-79.5549171,2,Penn Drive (463),a
-43.7511207,-79.5603821,2,Gracedale Boulevard (363),a
-43.7511207,-79.5603821,2,Gracedale Boulevard (546),a
-43.7511367,-79.5549685,2,Penn Drive (297),a
-43.7511367,-79.5549685,2,Penn Drive (465),a
-43.7511418,-79.5592016,2,Cherrylawn Avenue (561),a
-43.7511418,-79.5592016,2,Cherrylawn Avenue (561),a
-43.7511437,-79.5591808,2,Cherrylawn Avenue (785),a
-43.7511437,-79.5591808,2,Cherrylawn Avenue (785),a
-43.7511487,-79.5603772,2,Gracedale Boulevard (364),a
-43.7511487,-79.5603772,2,Gracedale Boulevard (547),a
-43.751151,-79.5642195,2,Duncanwoods Drive (129),a
-43.751151,-79.5642195,2,Duncanwoods Drive (980),a
-43.7511963,-79.5642432,2,Duncanwoods Drive (130),a
-43.7511963,-79.5642432,2,Duncanwoods Drive (981),a
 43.7512049,-79.5461182,2,Finch Avenue West (533),a
 43.7512049,-79.5461182,2,Finch Avenue West (533),a
-43.7512104,-79.5591535,2,Cherrylawn Avenue (786),a
-43.7512104,-79.5591535,2,Cherrylawn Avenue (786),a
-43.7512135,-79.5591751,2,Cherrylawn Avenue (562),a
-43.7512135,-79.5591751,2,Cherrylawn Avenue (562),a
-43.7512285,-79.5603671,2,Gracedale Boulevard (365),a
-43.7512285,-79.5603671,2,Gracedale Boulevard (548),a
-43.7512456,-79.5552073,2,Penn Drive (615),a
-43.7512456,-79.5552073,2,Penn Drive (736),a
-43.7512598,-79.564279,2,Duncanwoods Drive (131),a
-43.7512598,-79.564279,2,Duncanwoods Drive (982),a
-43.7512662,-79.5459737,2,Finch Avenue West (569),a
-43.7512765,-79.5591736,2,Cherrylawn Avenue (563),a
-43.7512765,-79.5591736,2,Cherrylawn Avenue (563),a
-43.7512765,-79.5591416,2,Cherrylawn Avenue (787),a
-43.7512765,-79.5591416,2,Cherrylawn Avenue (787),a
-43.7512926,-79.5457164,2,Finch Avenue West (534),a
-43.7513094,-79.5603528,2,Gracedale Boulevard (366),a
-43.7513094,-79.5603528,2,Gracedale Boulevard (549),a
-43.751327,-79.5529301,2,Milvan Drive (284),a
-43.7513276,-79.545693,2,Finch Avenue West (570),a
-43.7513335,-79.5528892,2,Milvan Drive (898),a
-43.7513523,-79.5454531,2,Finch Avenue West (535),a
-43.7513552,-79.5532842,2,Penn Drive (290),a
-43.7513552,-79.5532842,2,Penn Drive (456),a
-43.7513662,-79.5591466,2,Cherrylawn Avenue (564),a
-43.7513662,-79.5591466,2,Cherrylawn Avenue (564),a
-43.7513754,-79.5454678,2,Finch Avenue West (571),a
-43.7513814,-79.560351,2,Gracedale Boulevard (367),a
-43.7513814,-79.560351,2,Gracedale Boulevard (550),a
-43.7513837,-79.5655429,2,Benrubin Drive (335),a
-43.7513837,-79.5655429,2,Benrubin Drive (926),a
-43.7513837,-79.5655429,2,Firenza Drive (771),a
-43.7513837,-79.5655429,2,Firenza Drive (775),a
-43.7513837,-79.5655429,2,Firenza Drive (990),a
-43.7513837,-79.5655429,2,Firenza Drive (994),a
-43.7513894,-79.5643388,2,Duncanwoods Drive (132),a
-43.7513894,-79.5643388,2,Duncanwoods Drive (983),a
-43.7513937,-79.5591319,2,Cherrylawn Avenue (788),a
-43.7513937,-79.5591319,2,Cherrylawn Avenue (788),a
-43.7514061,-79.5452208,2,Finch Avenue West (536),a
-43.7514137,-79.5643498,2,Duncanwoods Drive (133),a
-43.7514137,-79.5643498,2,Duncanwoods Drive (984),a
-43.7514267,-79.5452329,2,Finch Avenue West (573),a
-43.7514323,-79.5529718,2,Milvan Drive (287),a
-43.7514323,-79.5529718,2,Milvan Drive (304),a
-43.7514323,-79.5529718,2,Penn Drive (289),a
-43.7514402,-79.5529379,2,Milvan Drive (899),a
-43.7514402,-79.5529379,2,Milvan Drive (900),a
-43.7514402,-79.5529379,2,Penn Drive (142),a
-43.7514443,-79.5603371,2,Gracedale Boulevard (368),a
-43.7514443,-79.5603371,2,Gracedale Boulevard (551),a
-43.7514564,-79.5591568,2,Cherrylawn Avenue (565),a
-43.7514564,-79.5591568,2,Cherrylawn Avenue (565),a
-43.7514862,-79.5643853,2,Duncanwoods Drive (134),a
-43.7514862,-79.5643853,2,Duncanwoods Drive (985),a
-43.751492,-79.5655851,2,Benrubin Drive (296),a
-43.751492,-79.5655851,2,Benrubin Drive (566),a
-43.7514958,-79.5591308,2,Cherrylawn Avenue (789),a
-43.7514958,-79.5591308,2,Cherrylawn Avenue (789),a
-43.7515004,-79.5455045,2,Finch Avenue West (362),a
-43.7515004,-79.5455045,2,Finch Avenue West (370),a
-43.7515004,-79.5455045,2,Finch Avenue West (474),a
-43.7515004,-79.5455045,2,Finch Avenue West (482),a
-43.7515163,-79.5603354,2,Gracedale Boulevard (369),a
-43.7515163,-79.5603354,2,Gracedale Boulevard (552),a
-43.7515376,-79.5591673,2,Cherrylawn Avenue (566),a
-43.7515376,-79.5591673,2,Cherrylawn Avenue (566),a
-43.7515467,-79.5452807,2,Finch Avenue West (369),a
-43.7515467,-79.5452807,2,Finch Avenue West (481),a
-43.7515498,-79.5530185,2,Milvan Drive (593),a
-43.7515577,-79.5529846,2,Milvan Drive (901),a
-43.7515831,-79.5444671,2,Finch Avenue West (537),a
-43.7515832,-79.5451038,2,Finch Avenue West (368),a
-43.7515832,-79.5451038,2,Finch Avenue West (480),a
-43.7515882,-79.5591344,2,Cherrylawn Avenue (790),a
-43.7515882,-79.5591344,2,Cherrylawn Avenue (790),a
-43.7515935,-79.5645258,2,Firenza Drive (281),a
-43.7515935,-79.5645258,2,Firenza Drive (554),a
-43.7515991,-79.5443855,2,Finch Avenue West (538),a
 43.7516124,-79.5422776,2,Weston Road (144),a
 43.7516124,-79.5422776,2,Weston Road (989),a
-43.7516128,-79.564432,2,Duncanwoods Drive (051),a
-43.7516128,-79.564432,2,Duncanwoods Drive (135),a
-43.7516128,-79.564432,2,Duncanwoods Drive (902),a
-43.7516128,-79.564432,2,Duncanwoods Drive (986),a
-43.7516128,-79.564432,2,Firenza Drive (772),a
-43.7516128,-79.564432,2,Firenza Drive (991),a
-43.7516163,-79.5443316,2,Finch Avenue West (985),a
-43.7516334,-79.560345,2,Gracedale Boulevard (370),a
-43.7516334,-79.560345,2,Gracedale Boulevard (553),a
-43.7516366,-79.5591649,2,Cherrylawn Avenue (567),a
-43.7516366,-79.5591649,2,Cherrylawn Avenue (567),a
-43.751646,-79.5448004,2,Finch Avenue West (367),a
-43.751646,-79.5448004,2,Finch Avenue West (479),a
 43.7516476,-79.5422846,2,Weston Road (315),a
 43.7516476,-79.5422846,2,Weston Road (329),a
 43.7516476,-79.5422846,2,Weston Road (753),a
 43.7516476,-79.5422846,2,Weston Road (764),a
 43.7516476,-79.5422846,2,Weston Road (988),a
-43.7516519,-79.5441624,2,Finch Avenue West (574),a
-43.7516672,-79.5440373,2,Finch Avenue West (539),a
-43.7516672,-79.5440373,2,Finch Avenue West (545),a
-43.751669,-79.5446891,2,Finch Avenue West (366),a
-43.751669,-79.5446891,2,Finch Avenue West (478),a
-43.7516765,-79.5440377,2,Finch Avenue West (575),a
-43.7517016,-79.5591502,2,Cherrylawn Avenue (791),a
-43.7517016,-79.5591502,2,Cherrylawn Avenue (791),a
-43.7517146,-79.5603555,2,Gracedale Boulevard (371),a
-43.7517146,-79.5603555,2,Gracedale Boulevard (554),a
-43.7517147,-79.5444681,2,Finch Avenue West (365),a
-43.7517147,-79.5444681,2,Finch Avenue West (477),a
-43.7517179,-79.5591878,2,Cherrylawn Avenue (568),a
-43.7517179,-79.5591878,2,Cherrylawn Avenue (568),a
 43.751721,-79.5423946,2,Weston Road (326),a
 43.751721,-79.5423946,2,Weston Road (763),a
 43.7517368,-79.5422203,2,Weston Road (316),a
 43.7517368,-79.5422203,2,Weston Road (754),a
-43.7517435,-79.5435809,2,Finch Avenue West (546),a
-43.7517507,-79.544294,2,Finch Avenue West (364),a
-43.7517507,-79.544294,2,Finch Avenue West (476),a
-43.7517617,-79.559161,2,Cherrylawn Avenue (792),a
-43.7517617,-79.559161,2,Cherrylawn Avenue (792),a
-43.7517865,-79.5434727,2,Finch Avenue West (576),a
-43.7517865,-79.5434727,2,Finch Avenue West (988),a
-43.7517991,-79.5591983,2,Cherrylawn Avenue (569),a
-43.7517991,-79.5591983,2,Cherrylawn Avenue (569),a
-43.7518034,-79.5603627,2,Gracedale Boulevard (372),a
-43.7518034,-79.5603627,2,Gracedale Boulevard (555),a
-43.7518282,-79.5431211,2,Finch Avenue West (547),a
-43.7518297,-79.5432544,2,Finch Avenue West (584),a
-43.7518297,-79.5432544,2,Finch Avenue West (989),a
 43.751844,-79.5424154,2,Weston Road (958),a
-43.7518564,-79.5431241,2,Finch Avenue West (585),a
-43.7518586,-79.5429693,2,Finch Avenue West (548),a
-43.7518616,-79.5591836,2,Cherrylawn Avenue (793),a
 43.7518666,-79.5422445,2,Weston Road (955),a
-43.7518713,-79.5603858,2,Gracedale Boulevard (373),a
-43.7518713,-79.5603858,2,Gracedale Boulevard (556),a
-43.7518857,-79.5429873,2,Finch Avenue West (586),a
-43.7518984,-79.5592208,2,Cherrylawn Avenue (570),a
 43.7519026,-79.5424327,2,Weston Road (325),a
-43.751917,-79.5426349,2,Finch Avenue West (549),a
 43.7519258,-79.5422558,2,Weston Road (317),a
-43.7519492,-79.5604171,2,Gracedale Boulevard (374),a
-43.7519492,-79.5604171,2,Gracedale Boulevard (557),a
-43.7519494,-79.5645579,2,Duncanwoods Drive (402),a
-43.7519494,-79.5645579,2,Duncanwoods Drive (904),a
-43.7519497,-79.5424358,2,Finch Avenue West (550),a
-43.7519497,-79.5424358,2,Finch Avenue West (561),a
-43.7519497,-79.5424358,2,Weston Road (957),a
-43.7519497,-79.5424358,2,Weston Road (960),a
-43.7519618,-79.5432728,2,Finch Avenue West (363),a
-43.751964,-79.5592139,2,Cherrylawn Avenue (794),a
 43.7519686,-79.5422675,2,Finch Avenue West (552),a
 43.7519686,-79.5422675,2,Finch Avenue West (562),a
 43.7519686,-79.5422675,2,Weston Road (953),a
 43.7519686,-79.5422675,2,Weston Road (956),a
-43.7519721,-79.542582,2,Finch Avenue West (587),a
-43.7519759,-79.5432788,2,Finch Avenue West (697),a
 43.7519962,-79.5420734,2,Finch Avenue West (553),a
 43.7519962,-79.5420734,2,Finch Avenue West (553),a
 43.7520001,-79.5420463,2,Finch Avenue West (554),a
 43.7520001,-79.5420463,2,Finch Avenue West (554),a
-43.7520018,-79.5424512,2,Finch Avenue West (588),a
-43.7520018,-79.5424512,2,Finch Avenue West (588),a
-43.7520018,-79.5424512,2,Finch Avenue West (604),a
-43.7520018,-79.5424512,2,Finch Avenue West (604),a
-43.7520018,-79.5424512,2,Weston Road (323),a
-43.7520018,-79.5424512,2,Weston Road (323),a
-43.7520018,-79.5424512,2,Weston Road (331),a
-43.7520018,-79.5424512,2,Weston Road (331),a
-43.752004,-79.5430689,2,Finch Avenue West (562),a
-43.752004,-79.5430689,2,Finch Avenue West (562),a
-43.7520127,-79.5430704,2,Finch Avenue West (525),a
-43.7520127,-79.5430704,2,Finch Avenue West (696),a
-43.7520159,-79.5592552,2,Cherrylawn Avenue (571),a
-43.7520222,-79.5604543,2,Gracedale Boulevard (375),a
-43.7520222,-79.5604543,2,Gracedale Boulevard (558),a
 43.7520256,-79.5422754,2,Finch Avenue West (596),a
 43.7520256,-79.5422754,2,Finch Avenue West (605),a
 43.7520256,-79.5422754,2,Weston Road (313),a
 43.7520256,-79.5422754,2,Weston Road (318),a
 43.7520426,-79.5421461,2,Finch Avenue West (597),a
-43.7520446,-79.542455,2,Weston Road (959),a
-43.752076,-79.5422849,2,Weston Road (954),a
-43.7520784,-79.5592509,2,Cherrylawn Avenue (795),a
-43.7520825,-79.5426844,2,Finch Avenue West (524),a
-43.7520893,-79.56049,2,Gracedale Boulevard (376),a
-43.7520893,-79.56049,2,Gracedale Boulevard (376),a
-43.7520893,-79.56049,2,Gracedale Boulevard (559),a
-43.7520893,-79.56049,2,Gracedale Boulevard (559),a
-43.7520973,-79.5592905,2,Cherrylawn Avenue (572),a
-43.752098,-79.5426083,2,Finch Avenue West (560),a
-43.7521059,-79.5571166,2,Penn Drive (298),a
-43.7521059,-79.5571166,2,Penn Drive (467),a
-43.7521272,-79.5424717,2,Finch Avenue West (193),a
-43.7521272,-79.5424717,2,Finch Avenue West (241),a
-43.7521272,-79.5424717,2,Finch Avenue West (559),a
-43.7521272,-79.5424717,2,Finch Avenue West (607),a
-43.7521272,-79.5424717,2,Weston Road (309),a
-43.7521272,-79.5424717,2,Weston Road (330),a
-43.7521272,-79.5424717,2,Weston Road (747),a
-43.7521272,-79.5424717,2,Weston Road (765),a
 43.7521303,-79.5413814,2,Finch Avenue West (555),a
-43.7521386,-79.5592732,2,Cherrylawn Avenue (796),a
 43.7521471,-79.5413861,2,Finch Avenue West (598),a
-43.7521519,-79.55719,2,Penn Drive (299),a
-43.7521519,-79.55719,2,Penn Drive (469),a
-43.752152,-79.5422972,2,Finch Avenue West (237),a
-43.752152,-79.5422972,2,Finch Avenue West (240),a
-43.752152,-79.5422972,2,Finch Avenue West (603),a
-43.752152,-79.5422972,2,Finch Avenue West (606),a
-43.752152,-79.5422972,2,Weston Road (314),a
-43.752152,-79.5422972,2,Weston Road (319),a
-43.752152,-79.5422972,2,Weston Road (752),a
-43.752152,-79.5422972,2,Weston Road (757),a
 43.7521684,-79.542175,2,Finch Avenue West (602),a
-43.7521692,-79.5532648,2,Milvan Drive (594),a
-43.7521714,-79.5532339,2,Milvan Drive (902),a
-43.7521719,-79.5605388,2,Gracedale Boulevard (377),a
-43.7521719,-79.5605388,2,Gracedale Boulevard (377),a
-43.7521719,-79.5605388,2,Gracedale Boulevard (560),a
-43.7521719,-79.5605388,2,Gracedale Boulevard (560),a
 43.7521814,-79.54213,2,Finch Avenue West (560),a
-43.7521878,-79.5593256,2,Cherrylawn Avenue (573),a
-43.7521978,-79.5572635,2,Penn Drive (300),a
-43.7521978,-79.5572635,2,Penn Drive (471),a
-43.7522,-79.5646598,2,Duncanwoods Drive (403),a
-43.7522,-79.5646598,2,Duncanwoods Drive (905),a
 43.7522166,-79.5409671,2,Finch Avenue West (556),a
 43.7522166,-79.5409671,2,Finch Avenue West (570),a
 43.7522207,-79.5409728,2,Finch Avenue West (599),a
 43.7522207,-79.5409728,2,Finch Avenue West (615),a
-43.7522275,-79.5424998,2,Weston Road (307),a
-43.7522275,-79.5424998,2,Weston Road (746),a
-43.7522436,-79.5573245,2,Penn Drive (301),a
-43.7522436,-79.5573245,2,Penn Drive (473),a
-43.7522462,-79.5646777,2,Duncanwoods Drive (052),a
-43.7522462,-79.5646777,2,Duncanwoods Drive (053),a
-43.7522462,-79.5646777,2,Duncanwoods Drive (903),a
-43.7522462,-79.5646777,2,Duncanwoods Drive (904),a
-43.7522462,-79.5646777,2,Goldsboro Road (702),a
-43.7522462,-79.5646777,2,Goldsboro Road (995),a
-43.7522491,-79.5593256,2,Cherrylawn Avenue (797),a
-43.7522524,-79.542324,2,Weston Road (320),a
-43.7522524,-79.542324,2,Weston Road (758),a
 43.7522588,-79.5415636,2,Finch Avenue West (986),a
-43.7522605,-79.5593735,2,Cherrylawn Avenue (574),a
-43.7522722,-79.5645596,2,Goldsboro Road (408),a
-43.7522722,-79.5645596,2,Goldsboro Road (912),a
 43.7522742,-79.5414594,2,Finch Avenue West (601),a
 43.7522791,-79.5415738,2,Finch Avenue West (559),a
 43.752281,-79.5414215,2,Finch Avenue West (939),a
-43.7522846,-79.5573554,2,Penn Drive (292),a
-43.7522846,-79.5573554,2,Penn Drive (774),a
 43.7523027,-79.5405105,2,Finch Avenue West (250),a
 43.7523027,-79.5405105,2,Finch Avenue West (616),a
 43.7523063,-79.5414317,2,Finch Avenue West (558),a
-43.7523073,-79.5573726,2,Penn Drive (302),a
-43.7523073,-79.5573726,2,Penn Drive (475),a
-43.7523238,-79.5593969,2,Cherrylawn Avenue (575),a
-43.7523336,-79.5593726,2,Cherrylawn Avenue (798),a
-43.752334,-79.5573902,2,Penn Drive (294),a
-43.752334,-79.5573902,2,Penn Drive (776),a
-43.7523617,-79.5647157,2,Duncanwoods Drive (405),a
-43.7523617,-79.5647157,2,Duncanwoods Drive (907),a
-43.7523617,-79.5574086,2,Penn Drive (303),a
-43.7523617,-79.5574086,2,Penn Drive (477),a
 43.7523773,-79.5408865,2,Finch Avenue West (600),a
 43.7523773,-79.5408865,2,Finch Avenue West (614),a
-43.7523874,-79.559445,2,Cherrylawn Avenue (576),a
 43.7523922,-79.5409267,2,Finch Avenue West (557),a
 43.7523922,-79.5409267,2,Finch Avenue West (569),a
-43.7524251,-79.563866,2,Goldsboro Road (703),a
-43.7524251,-79.563866,2,Goldsboro Road (996),a
-43.7524252,-79.5574443,2,Penn Drive (304),a
-43.7524252,-79.5574443,2,Penn Drive (479),a
 43.752427,-79.5405639,2,Finch Avenue West (613),a
-43.7524418,-79.5637663,2,Goldsboro Road (704),a
-43.7524418,-79.5637663,2,Goldsboro Road (997),a
-43.7524499,-79.5636916,2,Goldsboro Road (705),a
-43.7524499,-79.5636916,2,Goldsboro Road (998),a
-43.7524518,-79.5594398,2,Cherrylawn Avenue (799),a
-43.7524583,-79.5636417,2,Goldsboro Road (706),a
-43.7524583,-79.5636417,2,Goldsboro Road (999),a
-43.7524758,-79.563604,2,Goldsboro Road (000),a
-43.7524758,-79.563604,2,Goldsboro Road (707),a
-43.7524771,-79.5607088,2,Crimscott Road (551),a
-43.7524771,-79.5607088,2,Crimscott Road (551),a
-43.7524771,-79.5607088,2,Crimscott Road (638),a
-43.7524771,-79.5607088,2,Crimscott Road (638),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (378),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (378),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (379),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (379),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (561),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (561),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (562),a
-43.7524771,-79.5607088,2,Gracedale Boulevard (562),a
-43.7524887,-79.5574801,2,Penn Drive (305),a
-43.7524887,-79.5574801,2,Penn Drive (480),a
-43.7524966,-79.5659759,2,Benrubin Drive (336),a
-43.7524966,-79.5659759,2,Benrubin Drive (927),a
-43.7525025,-79.5635785,2,Goldsboro Road (001),a
-43.7525025,-79.5635785,2,Goldsboro Road (708),a
-43.7525066,-79.5606121,2,Crimscott Road (173),a
-43.7525066,-79.5606121,2,Crimscott Road (173),a
-43.7525066,-79.5606121,2,Crimscott Road (222),a
-43.7525066,-79.5606121,2,Crimscott Road (222),a
-43.7525163,-79.5605822,2,Crimscott Road (555),a
-43.7525163,-79.5605822,2,Crimscott Road (555),a
-43.7525163,-79.5605822,2,Crimscott Road (929),a
-43.7525163,-79.5605822,2,Crimscott Road (929),a
 43.752524,-79.5401976,2,Finch Avenue West (568),a
-43.7525293,-79.5635654,2,Goldsboro Road (002),a
-43.7525293,-79.5635654,2,Goldsboro Road (709),a
-43.752542,-79.5660121,2,Benrubin Drive (337),a
-43.752542,-79.5660121,2,Benrubin Drive (928),a
-43.7525428,-79.5425858,2,Weston Road (306),a
-43.7525428,-79.5425858,2,Weston Road (745),a
-43.7525676,-79.5424113,2,Weston Road (321),a
-43.7525676,-79.5424113,2,Weston Road (759),a
-43.7525836,-79.563589,2,Goldsboro Road (003),a
-43.7525836,-79.563589,2,Goldsboro Road (710),a
-43.7525962,-79.5660232,2,Benrubin Drive (338),a
-43.7525962,-79.5660232,2,Benrubin Drive (929),a
-43.7526252,-79.5424681,2,Weston Road (424),a
-43.7526252,-79.5424681,2,Weston Road (568),a
-43.752638,-79.5636125,2,Goldsboro Road (004),a
-43.752638,-79.5636125,2,Goldsboro Road (711),a
-43.7526414,-79.5660346,2,Benrubin Drive (339),a
-43.7526414,-79.5660346,2,Benrubin Drive (930),a
-43.7526767,-79.5659841,2,Benrubin Drive (340),a
-43.7526767,-79.5659841,2,Benrubin Drive (931),a
-43.7526906,-79.5425325,2,Weston Road (305),a
-43.7526906,-79.5425325,2,Weston Road (322),a
-43.7526906,-79.5425325,2,Weston Road (744),a
-43.7526906,-79.5425325,2,Weston Road (760),a
-43.7526906,-79.5425325,2,Weston Road (986),a
-43.7527115,-79.5658839,2,Benrubin Drive (341),a
-43.7527115,-79.5658839,2,Benrubin Drive (932),a
-43.7527197,-79.5658216,2,Benrubin Drive (342),a
-43.7527197,-79.5658216,2,Benrubin Drive (933),a
-43.752728,-79.5657592,2,Benrubin Drive (343),a
-43.752728,-79.5657592,2,Benrubin Drive (934),a
-43.7527609,-79.5597956,2,Crimscott Road (556),a
-43.7527609,-79.5597956,2,Crimscott Road (930),a
-43.7527789,-79.5597376,2,Crimscott Road (174),a
-43.7527789,-79.5597376,2,Crimscott Road (223),a
-43.7527956,-79.5596837,2,Cherrylawn Avenue (577),a
-43.7527956,-79.5596837,2,Crimscott Road (552),a
-43.7528056,-79.5596456,2,Cherrylawn Avenue (800),a
-43.7528056,-79.5596456,2,Crimscott Road (928),a
-43.7528168,-79.5535222,2,Milvan Drive (305),a
-43.7528168,-79.5535222,2,Milvan Drive (918),a
-43.7528785,-79.5650393,2,Benrubin Drive (423),a
-43.7528785,-79.5650393,2,Benrubin Drive (567),a
-43.7528801,-79.5535455,2,Milvan Drive (306),a
-43.7528801,-79.5535455,2,Milvan Drive (919),a
-43.7528837,-79.5650083,2,Benrubin Drive (447),a
-43.7528837,-79.5650083,2,Benrubin Drive (982),a
-43.7528977,-79.5649354,2,Benrubin Drive (344),a
-43.7528977,-79.5649354,2,Benrubin Drive (935),a
-43.7528977,-79.5649354,2,Duncanwoods Drive (054),a
-43.7528977,-79.5649354,2,Duncanwoods Drive (108),a
-43.7528977,-79.5649354,2,Duncanwoods Drive (905),a
-43.7528977,-79.5649354,2,Duncanwoods Drive (959),a
-43.7529163,-79.5535571,2,Milvan Drive (307),a
-43.7529163,-79.5535571,2,Milvan Drive (920),a
-43.7529531,-79.5426031,2,Weston Road (132),a
-43.7529531,-79.5426031,2,Weston Road (140),a
-43.7529531,-79.5426031,2,Weston Road (981),a
-43.7529531,-79.5426031,2,Weston Road (985),a
 43.7530423,-79.5370505,2,Finch Avenue West (571),a
 43.7530423,-79.5370505,2,Finch Avenue West (571),a
-43.7530436,-79.5536534,2,Milvan Drive (308),a
-43.7530436,-79.5536534,2,Milvan Drive (921),a
 43.7530675,-79.5370639,2,Finch Avenue West (943),a
 43.7530675,-79.5370639,2,Finch Avenue West (943),a
-43.7530848,-79.5578677,2,Penn Drive (293),a
-43.7530848,-79.5578677,2,Penn Drive (775),a
-43.7531023,-79.5610828,2,Gracedale Boulevard (837),a
-43.7531023,-79.5610828,2,Gracedale Boulevard (837),a
-43.7531023,-79.5610828,2,Gracedale Boulevard (964),a
-43.7531023,-79.5610828,2,Gracedale Boulevard (964),a
-43.7531441,-79.5537752,2,Milvan Drive (309),a
-43.7531441,-79.5537752,2,Milvan Drive (922),a
-43.753149,-79.5579095,2,Penn Drive (143),a
 43.7531699,-79.5364549,2,Finch Avenue West (572),a
 43.7531699,-79.5364549,2,Finch Avenue West (572),a
-43.7531997,-79.5538981,2,Milvan Drive (310),a
-43.7531997,-79.5538981,2,Milvan Drive (923),a
-43.7532036,-79.5426705,2,Weston Road (281),a
-43.7532036,-79.5426705,2,Weston Road (727),a
 43.7532188,-79.536405,2,Finch Avenue West (617),a
 43.7532188,-79.536405,2,Finch Avenue West (617),a
-43.7532471,-79.5429221,2,Toryork Drive (160),a
-43.7532471,-79.5429221,2,Toryork Drive (631),a
-43.7532555,-79.5428616,2,Toryork Drive (161),a
-43.7532555,-79.5428616,2,Toryork Drive (632),a
-43.753261,-79.5428231,2,Toryork Drive (162),a
-43.753261,-79.5428231,2,Toryork Drive (633),a
-43.7532752,-79.5430044,2,Toryork Drive (121),a
-43.7532752,-79.5430044,2,Toryork Drive (124),a
-43.7532752,-79.5430044,2,Toryork Drive (159),a
-43.7532752,-79.5430044,2,Toryork Drive (592),a
-43.7532752,-79.5430044,2,Toryork Drive (595),a
-43.7532752,-79.5430044,2,Toryork Drive (630),a
-43.7532806,-79.5638829,2,Goldsboro Road (005),a
-43.7532806,-79.5638829,2,Goldsboro Road (712),a
-43.7532835,-79.5430968,2,Toryork Drive (125),a
-43.7532835,-79.5430968,2,Toryork Drive (596),a
-43.7532956,-79.5650749,2,Duncanwoods Drive (109),a
-43.7532956,-79.5650749,2,Duncanwoods Drive (960),a
-43.7533099,-79.5431967,2,Toryork Drive (126),a
-43.7533099,-79.5431967,2,Toryork Drive (597),a
 43.7533121,-79.5362335,2,Signet Drive (563),a
 43.7533121,-79.5362335,2,Signet Drive (563),a
-43.7533167,-79.5427654,2,Toryork Drive (117),a
-43.7533167,-79.5427654,2,Toryork Drive (163),a
-43.7533167,-79.5427654,2,Toryork Drive (588),a
-43.7533167,-79.5427654,2,Toryork Drive (634),a
-43.7533167,-79.5427654,2,Weston Road (268),a
-43.7533167,-79.5427654,2,Weston Road (722),a
-43.7533258,-79.5638942,2,Goldsboro Road (006),a
-43.7533258,-79.5638942,2,Goldsboro Road (713),a
-43.7533276,-79.5427034,2,Weston Road (264),a
-43.7533276,-79.5427034,2,Weston Road (267),a
-43.7533276,-79.5427034,2,Weston Road (282),a
-43.7533276,-79.5427034,2,Weston Road (716),a
-43.7533276,-79.5427034,2,Weston Road (721),a
-43.7533276,-79.5427034,2,Weston Road (728),a
-43.7533361,-79.5429232,2,Toryork Drive (120),a
-43.7533361,-79.5429232,2,Toryork Drive (591),a
-43.7533422,-79.5428808,2,Toryork Drive (119),a
-43.7533422,-79.5428808,2,Toryork Drive (590),a
-43.7533493,-79.5428359,2,Toryork Drive (118),a
-43.7533493,-79.5428359,2,Toryork Drive (589),a
 43.7533557,-79.536468,2,Finch Avenue West (612),a
 43.7533557,-79.536468,2,Finch Avenue West (612),a
-43.7533621,-79.5432863,2,Toryork Drive (127),a
-43.7533621,-79.5432863,2,Toryork Drive (598),a
 43.753364,-79.5365392,2,Finch Avenue West (567),a
 43.753364,-79.5365392,2,Finch Avenue West (567),a
-43.7533682,-79.5651229,2,Duncanwoods Drive (110),a
-43.7533682,-79.5651229,2,Duncanwoods Drive (961),a
-43.7533801,-79.5639177,2,Goldsboro Road (007),a
-43.7533801,-79.5639177,2,Goldsboro Road (714),a
 43.7534018,-79.5362877,2,Finch Avenue West (611),a
 43.7534018,-79.5362877,2,Finch Avenue West (611),a
 43.7534018,-79.5362877,2,Finch Avenue West (979),a
@@ -1023,364 +170,68 @@ lat,lon,sz,names,len_cat
 43.7534155,-79.5362907,2,Signet Drive (560),a
 43.7534155,-79.5362907,2,Signet Drive (564),a
 43.7534155,-79.5362907,2,Signet Drive (564),a
-43.7534226,-79.5651464,2,Duncanwoods Drive (111),a
-43.7534226,-79.5651464,2,Duncanwoods Drive (962),a
-43.7534251,-79.5639167,2,Goldsboro Road (008),a
-43.7534251,-79.5639167,2,Goldsboro Road (715),a
 43.7534346,-79.5363109,2,Signet Drive (717),a
 43.7534346,-79.5363109,2,Signet Drive (717),a
-43.7534366,-79.5434991,2,Toryork Drive (541),a
-43.7534366,-79.5434991,2,Toryork Drive (922),a
 43.7534462,-79.5360745,2,Finch Avenue West (978),a
 43.7534462,-79.5360745,2,Finch Avenue West (978),a
-43.753452,-79.5639036,2,Goldsboro Road (009),a
-43.753452,-79.5639036,2,Goldsboro Road (716),a
 43.7534591,-79.5427267,2,Weston Road (265),a
 43.7534591,-79.5427267,2,Weston Road (718),a
-43.7534724,-79.5581198,2,Penn Drive (214),a
-43.7534724,-79.5581198,2,Penn Drive (566),a
 43.7534737,-79.5360105,2,Finch Avenue West (649),a
 43.7534737,-79.5360105,2,Finch Avenue West (649),a
-43.7534742,-79.5436066,2,Toryork Drive (128),a
-43.7534742,-79.5436066,2,Toryork Drive (599),a
-43.7534862,-79.5651946,2,Duncanwoods Drive (112),a
-43.7534862,-79.5651946,2,Duncanwoods Drive (963),a
-43.7534877,-79.5638779,2,Goldsboro Road (010),a
-43.7534877,-79.5638779,2,Goldsboro Road (717),a
-43.7534912,-79.5613056,2,Gracedale Boulevard (380),a
-43.7534912,-79.5613056,2,Gracedale Boulevard (380),a
-43.7534912,-79.5613056,2,Gracedale Boulevard (563),a
-43.7534912,-79.5613056,2,Gracedale Boulevard (563),a
-43.753506,-79.5436905,2,Toryork Drive (535),a
-43.753506,-79.5436905,2,Toryork Drive (982),a
 43.7535068,-79.5363442,2,Signet Drive (561),a
 43.7535068,-79.5363442,2,Signet Drive (561),a
-43.7535142,-79.56384,2,Goldsboro Road (011),a
-43.7535142,-79.56384,2,Goldsboro Road (718),a
-43.7535208,-79.5437296,2,Toryork Drive (129),a
-43.7535208,-79.5437296,2,Toryork Drive (600),a
-43.7535492,-79.5438407,2,Toryork Drive (130),a
-43.7535492,-79.5438407,2,Toryork Drive (601),a
-43.7536025,-79.5637013,2,Goldsboro Road (012),a
-43.7536025,-79.5637013,2,Goldsboro Road (720),a
 43.7536294,-79.5351448,2,Finch Avenue West (668),a
 43.7536294,-79.5351448,2,Finch Avenue West (977),a
-43.7536406,-79.5653027,2,Duncanwoods Drive (114),a
-43.7536406,-79.5653027,2,Duncanwoods Drive (965),a
-43.753643,-79.5441366,2,Toryork Drive (131),a
-43.753643,-79.5441366,2,Toryork Drive (602),a
-43.7536873,-79.5614113,2,Gracedale Boulevard (381),a
-43.7536873,-79.5614113,2,Gracedale Boulevard (381),a
-43.7536873,-79.5614113,2,Gracedale Boulevard (564),a
-43.7536873,-79.5614113,2,Gracedale Boulevard (564),a
-43.7537041,-79.5653384,2,Duncanwoods Drive (115),a
-43.7537041,-79.5653384,2,Duncanwoods Drive (966),a
 43.7537099,-79.5348796,2,Finch Avenue West (648),a
 43.7537099,-79.5348796,2,Finch Avenue West (761),a
-43.7537379,-79.5445194,2,Toryork Drive (132),a
-43.7537379,-79.5445194,2,Toryork Drive (603),a
-43.7537664,-79.5446305,2,Toryork Drive (133),a
-43.7537664,-79.5446305,2,Toryork Drive (604),a
-43.753774,-79.5551636,2,Milvan Drive (311),a
-43.753774,-79.5551636,2,Milvan Drive (924),a
 43.7537846,-79.5365128,2,Signet Drive (679),a
 43.7537846,-79.5365128,2,Signet Drive (679),a
 43.7537846,-79.5365128,2,Signet Drive (719),a
 43.7537846,-79.5365128,2,Signet Drive (719),a
-43.7538036,-79.5447289,2,Toryork Drive (134),a
-43.7538036,-79.5447289,2,Toryork Drive (605),a
-43.753813,-79.5654104,2,Duncanwoods Drive (055),a
-43.753813,-79.5654104,2,Duncanwoods Drive (116),a
-43.753813,-79.5654104,2,Duncanwoods Drive (906),a
-43.753813,-79.5654104,2,Duncanwoods Drive (967),a
-43.753813,-79.5654104,2,Navenby Crescent (357),a
-43.753813,-79.5654104,2,Navenby Crescent (658),a
-43.7538387,-79.5552987,2,Milvan Drive (312),a
-43.7538387,-79.5552987,2,Milvan Drive (925),a
-43.7538493,-79.5652923,2,Navenby Crescent (426),a
-43.7538493,-79.5652923,2,Navenby Crescent (952),a
-43.753858,-79.5652642,2,Navenby Crescent (420),a
-43.753858,-79.5652642,2,Navenby Crescent (563),a
-43.7538677,-79.5615226,2,Gracedale Boulevard (382),a
-43.7538677,-79.5615226,2,Gracedale Boulevard (382),a
-43.7538677,-79.5615226,2,Gracedale Boulevard (565),a
-43.7538677,-79.5615226,2,Gracedale Boulevard (565),a
-43.7538825,-79.56521,2,Navenby Crescent (358),a
-43.7538825,-79.56521,2,Navenby Crescent (659),a
 43.7539002,-79.5338398,2,Finch Avenue West (593),a
 43.7539002,-79.5338398,2,Finch Avenue West (760),a
-43.7539034,-79.5554338,2,Milvan Drive (313),a
-43.7539034,-79.5554338,2,Milvan Drive (926),a
 43.7539246,-79.5326376,2,Finch Avenue West (584),a
 43.7539246,-79.5326376,2,Finch Avenue West (655),a
-43.7539347,-79.5650597,2,Navenby Crescent (359),a
-43.7539347,-79.5650597,2,Navenby Crescent (660),a
 43.7539492,-79.5335195,2,Finch Avenue West (666),a
-43.7539499,-79.5555445,2,Milvan Drive (314),a
-43.7539499,-79.5555445,2,Milvan Drive (927),a
 43.7539667,-79.5334918,2,Finch Avenue West (592),a
 43.7539814,-79.5325125,2,Finch Avenue West (644),a
 43.7539941,-79.5332822,2,Finch Avenue West (665),a
-43.7539974,-79.5451937,2,Toryork Drive (542),a
-43.7539974,-79.5451937,2,Toryork Drive (923),a
-43.7540048,-79.5649089,2,Navenby Crescent (360),a
-43.7540048,-79.5649089,2,Navenby Crescent (661),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (018),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (018),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (578),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (578),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (801),a
-43.7540201,-79.5603996,2,Cherrylawn Avenue (801),a
-43.7540201,-79.5603996,2,Millport Drive (791),a
-43.7540201,-79.5603996,2,Millport Drive (791),a
-43.7540201,-79.5603996,2,Millport Drive (814),a
-43.7540201,-79.5603996,2,Millport Drive (814),a
-43.7540269,-79.5630824,2,Goldsboro Road (013),a
-43.7540269,-79.5630824,2,Goldsboro Road (722),a
-43.7540394,-79.5647963,2,Navenby Crescent (361),a
-43.7540394,-79.5647963,2,Navenby Crescent (662),a
-43.7540421,-79.5557161,2,Milvan Drive (315),a
-43.7540421,-79.5557161,2,Milvan Drive (928),a
-43.7540607,-79.5602625,2,Millport Drive (432),a
-43.7540607,-79.5602625,2,Millport Drive (432),a
-43.7540607,-79.5602625,2,Millport Drive (961),a
-43.7540607,-79.5602625,2,Millport Drive (961),a
-43.7540711,-79.5630193,2,Goldsboro Road (014),a
-43.7540711,-79.5630193,2,Goldsboro Road (724),a
-43.7540835,-79.5647207,2,Navenby Crescent (362),a
-43.7540835,-79.5647207,2,Navenby Crescent (663),a
 43.7540936,-79.5327778,2,Finch Avenue West (664),a
 43.7540936,-79.5327778,2,Finch Avenue West (999),a
 43.7540959,-79.5327891,2,Finch Avenue West (591),a
 43.7540959,-79.5327891,2,Finch Avenue West (651),a
-43.7540975,-79.5558266,2,Milvan Drive (316),a
-43.7540975,-79.5558266,2,Milvan Drive (929),a
-43.7541115,-79.5454675,2,Toryork Drive (543),a
-43.7541115,-79.5454675,2,Toryork Drive (924),a
-43.7541373,-79.5585522,2,Penn Drive (456),a
-43.7541373,-79.5585522,2,Penn Drive (648),a
-43.7541441,-79.5559497,2,Milvan Drive (317),a
-43.7541441,-79.5559497,2,Milvan Drive (930),a
 43.7541442,-79.5325265,2,Finch Avenue West (281),a
 43.7541442,-79.5325265,2,Finch Avenue West (559),a
 43.7541442,-79.5325265,2,Finch Avenue West (651),a
 43.7541442,-79.5325265,2,Finch Avenue West (998),a
 43.7541491,-79.5396451,2,High Meadow Place (411),a
 43.7541491,-79.5396451,2,High Meadow Place (975),a
-43.7541509,-79.562918,2,Goldsboro Road (015),a
-43.7541509,-79.562918,2,Goldsboro Road (726),a
-43.7541541,-79.5646072,2,Navenby Crescent (363),a
-43.7541541,-79.5646072,2,Navenby Crescent (664),a
 43.7541641,-79.5428689,2,Weston Road (260),a
 43.7541641,-79.5428689,2,Weston Road (266),a
 43.7541641,-79.5428689,2,Weston Road (304),a
 43.7541641,-79.5428689,2,Weston Road (712),a
 43.7541641,-79.5428689,2,Weston Road (719),a
 43.7541641,-79.5428689,2,Weston Road (743),a
-43.7541762,-79.5617034,2,Gracedale Boulevard (383),a
-43.7541762,-79.5617034,2,Gracedale Boulevard (383),a
-43.7541762,-79.5617034,2,Gracedale Boulevard (566),a
-43.7541762,-79.5617034,2,Gracedale Boulevard (566),a
-43.7541841,-79.5656799,2,Duncanwoods Drive (064),a
-43.7541841,-79.5656799,2,Duncanwoods Drive (399),a
-43.75419,-79.5560231,2,Milvan Drive (318),a
-43.75419,-79.5560231,2,Milvan Drive (931),a
-43.7542016,-79.5560456,2,Milvan Drive (532),a
-43.7542016,-79.5560456,2,Milvan Drive (595),a
-43.7542041,-79.5628546,2,Goldsboro Road (016),a
-43.7542041,-79.5628546,2,Goldsboro Road (727),a
-43.7542141,-79.5457136,2,Toryork Drive (135),a
-43.7542141,-79.5457136,2,Toryork Drive (606),a
-43.7542292,-79.5617305,2,Gracedale Boulevard (384),a
-43.7542292,-79.5617305,2,Gracedale Boulevard (567),a
-43.7542396,-79.5628165,2,Goldsboro Road (017),a
-43.7542396,-79.5628165,2,Goldsboro Road (729),a
-43.7542512,-79.5644559,2,Navenby Crescent (364),a
-43.7542512,-79.5644559,2,Navenby Crescent (665),a
-43.754263,-79.5595794,2,Millport Drive (792),a
-43.754263,-79.5595794,2,Millport Drive (815),a
-43.7542791,-79.5617667,2,Gracedale Boulevard (385),a
-43.7542791,-79.5617667,2,Gracedale Boulevard (568),a
 43.7542942,-79.5399028,2,High Meadow Place (412),a
 43.7542942,-79.5399028,2,High Meadow Place (976),a
-43.7542956,-79.5593992,2,Millport Drive (793),a
-43.7542956,-79.5593992,2,Millport Drive (816),a
-43.7543111,-79.5617843,2,Gracedale Boulevard (386),a
-43.7543111,-79.5617843,2,Gracedale Boulevard (569),a
-43.754313,-79.564355,2,Navenby Crescent (365),a
-43.754313,-79.564355,2,Navenby Crescent (666),a
-43.7543197,-79.5627401,2,Goldsboro Road (018),a
-43.7543197,-79.5627401,2,Goldsboro Road (732),a
 43.7543237,-79.5429766,2,Weston Road (303),a
 43.7543237,-79.5429766,2,Weston Road (742),a
-43.7543365,-79.5618038,2,Gracedale Boulevard (387),a
-43.7543365,-79.5618038,2,Gracedale Boulevard (570),a
 43.7543465,-79.5428559,2,Weston Road (261),a
 43.7543465,-79.5428559,2,Weston Road (713),a
-43.7543644,-79.5627141,2,Goldsboro Road (019),a
-43.7543644,-79.5627141,2,Goldsboro Road (734),a
-43.7543661,-79.5642792,2,Navenby Crescent (366),a
-43.7543661,-79.5642792,2,Navenby Crescent (667),a
-43.7543683,-79.5563703,2,Milvan Drive (510),a
-43.7543683,-79.5563703,2,Milvan Drive (820),a
-43.7543823,-79.5618823,2,Gracedale Boulevard (388),a
-43.7543823,-79.5618823,2,Gracedale Boulevard (571),a
-43.754386,-79.5587139,2,Millport Drive (794),a
-43.754386,-79.5587139,2,Millport Drive (817),a
-43.754386,-79.5587139,2,Penn Drive (277),a
-43.754386,-79.5587139,2,Penn Drive (306),a
-43.754386,-79.5587139,2,Penn Drive (443),a
-43.754386,-79.5587139,2,Penn Drive (481),a
-43.7544091,-79.5564498,2,Milvan Drive (511),a
-43.7544091,-79.5564498,2,Milvan Drive (821),a
-43.7544179,-79.5626756,2,Goldsboro Road (020),a
-43.7544179,-79.5626756,2,Goldsboro Road (736),a
-43.7544273,-79.5619649,2,Gracedale Boulevard (389),a
-43.7544273,-79.5619649,2,Gracedale Boulevard (572),a
-43.754428,-79.5641908,2,Navenby Crescent (367),a
-43.754428,-79.5641908,2,Navenby Crescent (668),a
-43.754463,-79.5620591,2,Gracedale Boulevard (390),a
-43.754463,-79.5620591,2,Gracedale Boulevard (573),a
-43.7544672,-79.5587244,2,Penn Drive (278),a
-43.7544672,-79.5587244,2,Penn Drive (444),a
-43.7544893,-79.5626242,2,Goldsboro Road (021),a
-43.7544893,-79.5626242,2,Goldsboro Road (738),a
-43.7545074,-79.5640647,2,Navenby Crescent (368),a
-43.7545074,-79.5640647,2,Navenby Crescent (669),a
-43.7545182,-79.5464465,2,Toryork Drive (447),a
-43.7545182,-79.5464465,2,Toryork Drive (700),a
-43.7545302,-79.5587228,2,Penn Drive (279),a
-43.7545302,-79.5587228,2,Penn Drive (445),a
-43.7545368,-79.5566985,2,Milvan Drive (257),a
-43.7545368,-79.5566985,2,Milvan Drive (541),a
-43.7545581,-79.5659515,2,Duncanwoods Drive (056),a
-43.7545581,-79.5659515,2,Duncanwoods Drive (097),a
-43.7545581,-79.5659515,2,Duncanwoods Drive (907),a
-43.7545581,-79.5659515,2,Duncanwoods Drive (948),a
-43.7545581,-79.5659515,2,Rubydale Gardens (031),a
-43.7545581,-79.5659515,2,Rubydale Gardens (057),a
-43.7545751,-79.5587094,2,Penn Drive (280),a
-43.7545751,-79.5587094,2,Penn Drive (446),a
-43.7545752,-79.5625469,2,Goldsboro Road (839),a
-43.7545752,-79.5625469,2,Goldsboro Road (966),a
-43.7545777,-79.5639264,2,Navenby Crescent (369),a
-43.7545777,-79.5639264,2,Navenby Crescent (670),a
-43.7545935,-79.5466236,2,Toryork Drive (264),a
-43.7545935,-79.5466236,2,Toryork Drive (655),a
-43.7545941,-79.5624184,2,Gracedale Boulevard (838),a
-43.7545941,-79.5624184,2,Gracedale Boulevard (965),a
-43.7546021,-79.565825,2,Rubydale Gardens (413),a
-43.7546021,-79.565825,2,Rubydale Gardens (917),a
-43.7546096,-79.5607332,2,Cherrylawn Avenue (019),a
-43.7546096,-79.5607332,2,Cherrylawn Avenue (019),a
-43.7546096,-79.5607332,2,Cherrylawn Avenue (579),a
-43.7546096,-79.5607332,2,Cherrylawn Avenue (579),a
 43.754618,-79.5369481,2,Signet Drive (681),a
 43.754618,-79.5369481,2,Signet Drive (681),a
 43.754618,-79.5369481,2,Signet Drive (721),a
 43.754618,-79.5369481,2,Signet Drive (721),a
-43.754619,-79.5657762,2,Rubydale Gardens (032),a
-43.754619,-79.5657762,2,Rubydale Gardens (058),a
-43.7546286,-79.5586708,2,Penn Drive (281),a
-43.7546286,-79.5586708,2,Penn Drive (447),a
-43.7546318,-79.5624989,2,Goldsboro Road (022),a
-43.7546318,-79.5624989,2,Goldsboro Road (024),a
-43.7546318,-79.5624989,2,Goldsboro Road (740),a
-43.7546318,-79.5624989,2,Goldsboro Road (744),a
-43.7546318,-79.5624989,2,Gracedale Boulevard (352),a
-43.7546318,-79.5624989,2,Gracedale Boulevard (391),a
-43.7546318,-79.5624989,2,Gracedale Boulevard (535),a
-43.7546318,-79.5624989,2,Gracedale Boulevard (574),a
-43.7546576,-79.5638375,2,Navenby Crescent (370),a
-43.7546576,-79.5638375,2,Navenby Crescent (671),a
-43.7546626,-79.5656634,2,Rubydale Gardens (033),a
-43.7546626,-79.5656634,2,Rubydale Gardens (059),a
-43.7546644,-79.5586575,2,Penn Drive (282),a
-43.7546644,-79.5586575,2,Penn Drive (448),a
-43.7546652,-79.5625943,2,Gracedale Boulevard (836),a
-43.7546652,-79.5625943,2,Gracedale Boulevard (963),a
-43.7546912,-79.560781,2,Cherrylawn Avenue (020),a
-43.7546912,-79.560781,2,Cherrylawn Avenue (020),a
-43.7546912,-79.560781,2,Cherrylawn Avenue (580),a
-43.7546912,-79.560781,2,Cherrylawn Avenue (580),a
-43.7546942,-79.5624578,2,Goldsboro Road (840),a
-43.7546942,-79.5624578,2,Goldsboro Road (967),a
-43.7547007,-79.5570179,2,Milvan Drive (256),a
-43.7547007,-79.5570179,2,Milvan Drive (540),a
-43.7547065,-79.5655753,2,Rubydale Gardens (034),a
-43.7547065,-79.5655753,2,Rubydale Gardens (060),a
-43.754727,-79.5586188,2,Penn Drive (283),a
-43.754727,-79.5586188,2,Penn Drive (449),a
-43.7547278,-79.5608298,2,Cherrylawn Avenue (021),a
-43.7547278,-79.5608298,2,Cherrylawn Avenue (021),a
-43.7547278,-79.5608298,2,Cherrylawn Avenue (581),a
-43.7547278,-79.5608298,2,Cherrylawn Avenue (581),a
-43.7547414,-79.5654876,2,Rubydale Gardens (035),a
-43.7547414,-79.5654876,2,Rubydale Gardens (061),a
-43.7547548,-79.5470105,2,Toryork Drive (446),a
-43.7547548,-79.5470105,2,Toryork Drive (699),a
-43.7547734,-79.5637353,2,Navenby Crescent (371),a
-43.7547734,-79.5637353,2,Navenby Crescent (672),a
-43.7547761,-79.5653874,2,Rubydale Gardens (036),a
-43.7547761,-79.5653874,2,Rubydale Gardens (062),a
-43.7547894,-79.5585676,2,Penn Drive (284),a
-43.7547894,-79.5585676,2,Penn Drive (450),a
-43.7547916,-79.5608904,2,Cherrylawn Avenue (022),a
-43.7547916,-79.5608904,2,Cherrylawn Avenue (022),a
-43.7547916,-79.5608904,2,Cherrylawn Avenue (582),a
-43.7547916,-79.5608904,2,Cherrylawn Avenue (582),a
-43.7548191,-79.5471647,2,Toryork Drive (265),a
-43.7548191,-79.5471647,2,Toryork Drive (656),a
-43.7548291,-79.5652991,2,Rubydale Gardens (037),a
-43.7548291,-79.5652991,2,Rubydale Gardens (063),a
-43.7548426,-79.5585042,2,Penn Drive (285),a
-43.7548426,-79.5585042,2,Penn Drive (451),a
-43.7548646,-79.5609631,2,Cherrylawn Avenue (023),a
-43.7548646,-79.5609631,2,Cherrylawn Avenue (023),a
-43.7548646,-79.5609631,2,Cherrylawn Avenue (583),a
-43.7548646,-79.5609631,2,Cherrylawn Avenue (583),a
-43.7548773,-79.5573619,2,Milvan Drive (441),a
-43.7548773,-79.5573619,2,Milvan Drive (636),a
 43.7548789,-79.5401423,2,High Meadow Place (413),a
 43.7548789,-79.5401423,2,High Meadow Place (977),a
-43.7549048,-79.5584406,2,Penn Drive (286),a
-43.7549048,-79.5584406,2,Penn Drive (452),a
-43.754907,-79.5636204,2,Navenby Crescent (372),a
-43.754907,-79.5636204,2,Navenby Crescent (673),a
-43.7549194,-79.5610239,2,Cherrylawn Avenue (024),a
-43.7549194,-79.5610239,2,Cherrylawn Avenue (024),a
-43.7549194,-79.5610239,2,Cherrylawn Avenue (584),a
-43.7549194,-79.5610239,2,Cherrylawn Avenue (584),a
 43.7549422,-79.5401385,2,High Meadow Place (414),a
 43.7549422,-79.5401385,2,High Meadow Place (978),a
-43.7549564,-79.5634263,2,Gracedale Boulevard (138),a
-43.7549564,-79.5634263,2,Gracedale Boulevard (383),a
 43.7549669,-79.5401368,2,High Meadow Place (415),a
 43.7549669,-79.5401368,2,High Meadow Place (979),a
-43.7549682,-79.5634576,2,Gracedale Boulevard (422),a
-43.7549682,-79.5634576,2,Gracedale Boulevard (947),a
-43.7549835,-79.5611094,2,Cherrylawn Avenue (025),a
-43.7549835,-79.5611094,2,Cherrylawn Avenue (025),a
-43.7549835,-79.5611094,2,Cherrylawn Avenue (585),a
-43.7549835,-79.5611094,2,Cherrylawn Avenue (585),a
-43.7549841,-79.5575701,2,Milvan Drive (440),a
-43.7549841,-79.5575701,2,Milvan Drive (635),a
 43.7549913,-79.5401319,2,High Meadow Place (416),a
 43.7549913,-79.5401319,2,High Meadow Place (980),a
-43.7549959,-79.5635313,2,Gracedale Boulevard (353),a
-43.7549959,-79.5635313,2,Gracedale Boulevard (536),a
-43.7549959,-79.5635313,2,Navenby Crescent (317),a
-43.7549959,-79.5635313,2,Navenby Crescent (373),a
-43.7549959,-79.5635313,2,Navenby Crescent (618),a
-43.7549959,-79.5635313,2,Navenby Crescent (674),a
 43.7550154,-79.5401239,2,High Meadow Place (417),a
 43.7550154,-79.5401239,2,High Meadow Place (981),a
-43.7550204,-79.561183,2,Cherrylawn Avenue (026),a
-43.7550204,-79.561183,2,Cherrylawn Avenue (026),a
-43.7550204,-79.561183,2,Cherrylawn Avenue (586),a
-43.7550204,-79.561183,2,Cherrylawn Avenue (586),a
-43.7550222,-79.566338,2,Duncanwoods Drive (098),a
-43.7550222,-79.566338,2,Duncanwoods Drive (949),a
 43.7550387,-79.5401129,2,High Meadow Place (418),a
 43.7550387,-79.5401129,2,High Meadow Place (982),a
 43.7550462,-79.52857,2,Finch Avenue West (267),a
@@ -1388,163 +239,45 @@ lat,lon,sz,names,len_cat
 43.7550462,-79.52857,2,Finch Avenue West (653),a
 43.7550612,-79.5400988,2,High Meadow Place (419),a
 43.7550612,-79.5400988,2,High Meadow Place (983),a
-43.7550755,-79.5612686,2,Cherrylawn Avenue (027),a
-43.7550755,-79.5612686,2,Cherrylawn Avenue (027),a
-43.7550755,-79.5612686,2,Cherrylawn Avenue (587),a
-43.7550755,-79.5612686,2,Cherrylawn Avenue (587),a
 43.7550826,-79.540082,2,High Meadow Place (420),a
 43.7550826,-79.540082,2,High Meadow Place (984),a
-43.7550937,-79.5675031,2,Duncanwoods Drive (070),a
-43.7550937,-79.5675031,2,Duncanwoods Drive (107),a
-43.7550937,-79.5675031,2,Duncanwoods Drive (921),a
-43.7550937,-79.5675031,2,Duncanwoods Drive (958),a
-43.7550937,-79.5675031,2,Seacliff Boulevard (136),a
-43.7550937,-79.5675031,2,Seacliff Boulevard (516),a
 43.7551029,-79.5400624,2,High Meadow Place (421),a
 43.7551029,-79.5400624,2,High Meadow Place (985),a
-43.7551124,-79.5613423,2,Cherrylawn Avenue (028),a
-43.7551124,-79.5613423,2,Cherrylawn Avenue (028),a
-43.7551124,-79.5613423,2,Cherrylawn Avenue (588),a
-43.7551124,-79.5613423,2,Cherrylawn Avenue (588),a
 43.7551217,-79.5400403,2,High Meadow Place (422),a
 43.7551217,-79.5400403,2,High Meadow Place (986),a
 43.7551389,-79.5400158,2,High Meadow Place (423),a
 43.7551389,-79.5400158,2,High Meadow Place (987),a
 43.7551544,-79.5399894,2,High Meadow Place (424),a
 43.7551544,-79.5399894,2,High Meadow Place (988),a
-43.755156,-79.5648069,2,Rubydale Gardens (038),a
-43.755156,-79.5648069,2,Rubydale Gardens (064),a
 43.7551593,-79.5280578,2,Finch Avenue West (266),a
 43.7551593,-79.5280578,2,Finch Avenue West (636),a
-43.7551597,-79.5665334,2,Duncanwoods Drive (099),a
-43.7551597,-79.5665334,2,Duncanwoods Drive (950),a
 43.755168,-79.5399609,2,High Meadow Place (425),a
 43.755168,-79.5399609,2,High Meadow Place (989),a
-43.7551695,-79.5673157,2,Duncanwoods Drive (106),a
-43.7551695,-79.5673157,2,Duncanwoods Drive (957),a
-43.7551698,-79.5675685,2,Seacliff Boulevard (137),a
-43.7551698,-79.5675685,2,Seacliff Boulevard (517),a
-43.7551715,-79.54801,2,Toryork Drive (448),a
-43.7551715,-79.54801,2,Toryork Drive (448),a
-43.7551715,-79.54801,2,Toryork Drive (701),a
-43.7551715,-79.54801,2,Toryork Drive (701),a
-43.7551786,-79.5666075,2,Duncanwoods Drive (100),a
-43.7551786,-79.5666075,2,Duncanwoods Drive (951),a
 43.7551796,-79.5399309,2,High Meadow Place (426),a
 43.7551796,-79.5399309,2,High Meadow Place (990),a
 43.7551892,-79.5398994,2,High Meadow Place (427),a
 43.7551892,-79.5398994,2,High Meadow Place (991),a
-43.755191,-79.5675863,2,Seacliff Boulevard (571),a
-43.755191,-79.5675863,2,Seacliff Boulevard (934),a
-43.7551914,-79.5647564,2,Rubydale Gardens (039),a
-43.7551914,-79.5647564,2,Rubydale Gardens (065),a
-43.7551952,-79.5672158,2,Duncanwoods Drive (105),a
-43.7551952,-79.5672158,2,Duncanwoods Drive (956),a
 43.7551972,-79.5398671,2,High Meadow Place (428),a
 43.7551972,-79.5398671,2,High Meadow Place (992),a
-43.7552075,-79.5667559,2,Duncanwoods Drive (101),a
-43.7552075,-79.5667559,2,Duncanwoods Drive (952),a
-43.7552125,-79.5671532,2,Duncanwoods Drive (104),a
-43.7552125,-79.5671532,2,Duncanwoods Drive (955),a
-43.7552147,-79.5616007,2,Cherrylawn Avenue (029),a
-43.7552147,-79.5616007,2,Cherrylawn Avenue (589),a
-43.755217,-79.548119,2,Toryork Drive (266),a
-43.755217,-79.548119,2,Toryork Drive (266),a
-43.755217,-79.548119,2,Toryork Drive (657),a
-43.755217,-79.548119,2,Toryork Drive (657),a
-43.7552171,-79.5668053,2,Duncanwoods Drive (102),a
-43.7552171,-79.5668053,2,Duncanwoods Drive (953),a
-43.7552286,-79.5670038,2,Duncanwoods Drive (103),a
-43.7552286,-79.5670038,2,Duncanwoods Drive (954),a
-43.7552311,-79.5676201,2,Seacliff Boulevard (138),a
-43.7552311,-79.5676201,2,Seacliff Boulevard (518),a
-43.7552428,-79.561687,2,Cherrylawn Avenue (030),a
-43.7552428,-79.561687,2,Cherrylawn Avenue (590),a
-43.7552536,-79.5646928,2,Rubydale Gardens (040),a
-43.7552536,-79.5646928,2,Rubydale Gardens (066),a
-43.7552608,-79.5581091,2,Milvan Drive (319),a
-43.7552608,-79.5581091,2,Milvan Drive (320),a
-43.7552608,-79.5581091,2,Milvan Drive (932),a
-43.7552608,-79.5581091,2,Milvan Drive (933),a
-43.7552608,-79.5581091,2,Penn Drive (288),a
-43.7552608,-79.5581091,2,Penn Drive (454),a
 43.7552686,-79.5395549,2,High Meadow Place (163),a
 43.7552686,-79.5395549,2,High Meadow Place (298),a
-43.7552787,-79.567653,2,Seacliff Boulevard (139),a
-43.7552787,-79.567653,2,Seacliff Boulevard (519),a
-43.7552799,-79.561773,2,Cherrylawn Avenue (031),a
-43.7552799,-79.561773,2,Cherrylawn Avenue (591),a
-43.7552892,-79.5646546,2,Rubydale Gardens (041),a
-43.7552892,-79.5646546,2,Rubydale Gardens (067),a
-43.755325,-79.5646414,2,Rubydale Gardens (042),a
-43.755325,-79.5646414,2,Rubydale Gardens (068),a
-43.7553253,-79.5676909,2,Seacliff Boulevard (140),a
-43.7553253,-79.5676909,2,Seacliff Boulevard (520),a
-43.7553632,-79.5677168,2,Seacliff Boulevard (141),a
-43.7553632,-79.5677168,2,Seacliff Boulevard (521),a
 43.7553725,-79.5391006,2,High Meadow Place (164),a
 43.7553725,-79.5391006,2,High Meadow Place (299),a
-43.7553732,-79.5620316,2,Cherrylawn Avenue (032),a
-43.7553732,-79.5620316,2,Cherrylawn Avenue (592),a
-43.7553732,-79.5620316,2,Goldsboro Road (023),a
-43.7553732,-79.5620316,2,Goldsboro Road (742),a
-43.7553785,-79.5646028,2,Rubydale Gardens (043),a
-43.7553785,-79.5646028,2,Rubydale Gardens (069),a
 43.7553882,-79.5270965,2,Finch Avenue West (265),a
 43.7553882,-79.5270965,2,Finch Avenue West (635),a
 43.7553882,-79.5270965,2,Finch Avenue West (652),a
-43.7553886,-79.5485307,2,Toryork Drive (267),a
-43.7553886,-79.5485307,2,Toryork Drive (267),a
-43.7553886,-79.5485307,2,Toryork Drive (658),a
-43.7553886,-79.5485307,2,Toryork Drive (658),a
-43.7554232,-79.5677501,2,Seacliff Boulevard (142),a
-43.7554232,-79.5677501,2,Seacliff Boulevard (522),a
-43.7554499,-79.5584687,2,Milvan Drive (272),a
-43.7554499,-79.5584687,2,Milvan Drive (670),a
 43.7554621,-79.538709,2,High Meadow Place (162),a
 43.7554621,-79.538709,2,High Meadow Place (300),a
-43.7554793,-79.5677731,2,Seacliff Boulevard (143),a
-43.7554793,-79.5677731,2,Seacliff Boulevard (523),a
-43.7554974,-79.5487917,2,Toryork Drive (006),a
-43.7554974,-79.5487917,2,Toryork Drive (006),a
-43.7554974,-79.5487917,2,Toryork Drive (374),a
-43.7554974,-79.5487917,2,Toryork Drive (374),a
 43.7555293,-79.5432778,2,Weston Road (302),a
 43.7555293,-79.5432778,2,Weston Road (741),a
-43.7555295,-79.5488687,2,Toryork Drive (136),a
-43.7555295,-79.5488687,2,Toryork Drive (136),a
-43.7555295,-79.5488687,2,Toryork Drive (607),a
-43.7555295,-79.5488687,2,Toryork Drive (607),a
-43.7555356,-79.5677915,2,Seacliff Boulevard (144),a
-43.7555356,-79.5677915,2,Seacliff Boulevard (524),a
 43.7555635,-79.5382654,2,High Meadow Place (161),a
 43.7555635,-79.5382654,2,High Meadow Place (301),a
 43.7555667,-79.5431565,2,Weston Road (262),a
 43.7555667,-79.5431565,2,Weston Road (714),a
-43.7555728,-79.5489724,2,Toryork Drive (389),a
-43.7555728,-79.5489724,2,Toryork Drive (389),a
-43.7555728,-79.5489724,2,Toryork Drive (423),a
-43.7555728,-79.5489724,2,Toryork Drive (423),a
-43.7555943,-79.5631443,2,Navenby Crescent (318),a
-43.7555943,-79.5631443,2,Navenby Crescent (619),a
-43.7556119,-79.5587841,2,Milvan Drive (273),a
-43.7556119,-79.5587841,2,Milvan Drive (671),a
-43.7556198,-79.5678065,2,Seacliff Boulevard (145),a
-43.7556198,-79.5678065,2,Seacliff Boulevard (525),a
-43.7556299,-79.5631062,2,Navenby Crescent (319),a
-43.7556299,-79.5631062,2,Navenby Crescent (620),a
 43.7556457,-79.526062,2,Finch Avenue West (167),a
 43.7556457,-79.526062,2,Finch Avenue West (269),a
 43.7556457,-79.526062,2,Finch Avenue West (842),a
 43.7556457,-79.526062,2,Finch Avenue West (862),a
-43.7556567,-79.5630931,2,Navenby Crescent (320),a
-43.7556567,-79.5630931,2,Navenby Crescent (621),a
-43.7556925,-79.5630798,2,Navenby Crescent (321),a
-43.7556925,-79.5630798,2,Navenby Crescent (622),a
-43.7556971,-79.5655889,2,Littledean Court (226),a
-43.7556971,-79.5655889,2,Littledean Court (646),a
-43.7556981,-79.5678249,2,Seacliff Boulevard (146),a
-43.7556981,-79.5678249,2,Seacliff Boulevard (526),a
 43.7557318,-79.5432659,2,Weston Road (263),a
 43.7557318,-79.5432659,2,Weston Road (301),a
 43.7557318,-79.5432659,2,Weston Road (310),a
@@ -1557,36 +290,10 @@ lat,lon,sz,names,len_cat
 43.7557344,-79.5375184,2,Signet Drive (684),a
 43.7557344,-79.5375184,2,Signet Drive (701),a
 43.7557344,-79.5375184,2,Signet Drive (724),a
-43.7557376,-79.5630788,2,Navenby Crescent (322),a
-43.7557376,-79.5630788,2,Navenby Crescent (623),a
 43.7557559,-79.5255952,2,Finch Avenue West (287),a
 43.7557559,-79.5255952,2,Finch Avenue West (657),a
-43.7557613,-79.5678358,2,Seacliff Boulevard (147),a
-43.7557613,-79.5678358,2,Seacliff Boulevard (527),a
-43.7557832,-79.5631274,2,Navenby Crescent (323),a
-43.7557832,-79.5631274,2,Navenby Crescent (624),a
-43.7558017,-79.5631642,2,Navenby Crescent (324),a
-43.7558017,-79.5631642,2,Navenby Crescent (625),a
-43.7558293,-79.5632132,2,Navenby Crescent (325),a
-43.7558293,-79.5632132,2,Navenby Crescent (626),a
-43.7558481,-79.5632749,2,Navenby Crescent (326),a
-43.7558481,-79.5632749,2,Navenby Crescent (627),a
-43.7558514,-79.567846,2,Seacliff Boulevard (148),a
-43.7558514,-79.567846,2,Seacliff Boulevard (528),a
-43.7558608,-79.5496625,2,Toryork Drive (387),a
-43.7558608,-79.5496625,2,Toryork Drive (421),a
-43.7559776,-79.5678554,2,Navenby Crescent (328),a
-43.7559776,-79.5678554,2,Navenby Crescent (629),a
-43.7559776,-79.5678554,2,Seacliff Boulevard (134),a
-43.7559776,-79.5678554,2,Seacliff Boulevard (149),a
-43.7559776,-79.5678554,2,Seacliff Boulevard (514),a
-43.7559776,-79.5678554,2,Seacliff Boulevard (529),a
-43.7559868,-79.5677535,2,Navenby Crescent (058),a
-43.7559868,-79.5677535,2,Navenby Crescent (825),a
 43.7559872,-79.5245351,2,Finch Avenue West (590),a
 43.7559872,-79.5245351,2,Finch Avenue West (590),a
-43.7559911,-79.5677065,2,Navenby Crescent (137),a
-43.7559911,-79.5677065,2,Navenby Crescent (379),a
 43.7559982,-79.5244772,2,Finch Avenue West (656),a
 43.7559982,-79.5244772,2,Finch Avenue West (656),a
 43.756028,-79.5243238,2,Finch Avenue West (632),a
@@ -1601,40 +308,14 @@ lat,lon,sz,names,len_cat
 43.7560304,-79.5243141,2,Finch Avenue West (589),a
 43.7560304,-79.5243141,2,Norfinch Drive (972),a
 43.7560304,-79.5243141,2,Norfinch Drive (972),a
-43.7560344,-79.5673572,2,Navenby Crescent (329),a
-43.7560344,-79.5673572,2,Navenby Crescent (630),a
-43.7560447,-79.5641176,2,Rubydale Gardens (525),a
-43.7560447,-79.5641176,2,Rubydale Gardens (918),a
-43.7560516,-79.5672947,2,Navenby Crescent (330),a
-43.7560516,-79.5672947,2,Navenby Crescent (631),a
-43.7560597,-79.56722,2,Navenby Crescent (331),a
-43.7560597,-79.56722,2,Navenby Crescent (632),a
-43.7560599,-79.5501397,2,Toryork Drive (388),a
-43.7560599,-79.5501397,2,Toryork Drive (422),a
 43.7560762,-79.5241191,2,Finch Avenue West (631),a
 43.7560762,-79.5241191,2,Finch Avenue West (631),a
-43.7560764,-79.5671202,2,Navenby Crescent (332),a
-43.7560764,-79.5671202,2,Navenby Crescent (633),a
 43.7560889,-79.5243519,2,Norfinch Drive (329),a
 43.7560889,-79.5243519,2,Norfinch Drive (329),a
 43.7560936,-79.5240386,2,Finch Avenue West (582),a
 43.7560936,-79.5240386,2,Finch Avenue West (582),a
-43.7561191,-79.5640634,2,Navenby Crescent (327),a
-43.7561191,-79.5640634,2,Navenby Crescent (345),a
-43.7561191,-79.5640634,2,Navenby Crescent (628),a
-43.7561191,-79.5640634,2,Navenby Crescent (646),a
-43.7561191,-79.5640634,2,Rubydale Gardens (044),a
-43.7561191,-79.5640634,2,Rubydale Gardens (070),a
 43.7561309,-79.524354,2,Norfinch Drive (973),a
 43.7561309,-79.524354,2,Norfinch Drive (973),a
-43.7561365,-79.5668828,2,Navenby Crescent (333),a
-43.7561365,-79.5668828,2,Navenby Crescent (634),a
-43.7561496,-79.5503547,2,Toryork Drive (268),a
-43.7561496,-79.5503547,2,Toryork Drive (659),a
-43.7561537,-79.5668202,2,Navenby Crescent (334),a
-43.7561537,-79.5668202,2,Navenby Crescent (635),a
-43.7561884,-79.56672,2,Navenby Crescent (335),a
-43.7561884,-79.56672,2,Navenby Crescent (636),a
 43.7561946,-79.5235704,2,Finch Avenue West (260),a
 43.7561946,-79.5235704,2,Finch Avenue West (260),a
 43.7561946,-79.5235704,2,Finch Avenue West (630),a
@@ -1643,20 +324,6 @@ lat,lon,sz,names,len_cat
 43.7562105,-79.5243944,2,Norfinch Drive (330),a
 43.7562105,-79.5243944,2,Norfinch Drive (481),a
 43.7562105,-79.5243944,2,Norfinch Drive (481),a
-43.7562321,-79.5666072,2,Navenby Crescent (336),a
-43.7562321,-79.5666072,2,Navenby Crescent (637),a
-43.7562483,-79.5600232,2,Millwick Drive (277),a
-43.7562483,-79.5600232,2,Millwick Drive (277),a
-43.7562483,-79.5600232,2,Millwick Drive (858),a
-43.7562483,-79.5600232,2,Millwick Drive (858),a
-43.7562483,-79.5600232,2,Milvan Drive (288),a
-43.7562483,-79.5600232,2,Milvan Drive (288),a
-43.7562483,-79.5600232,2,Milvan Drive (321),a
-43.7562483,-79.5600232,2,Milvan Drive (321),a
-43.7562483,-79.5600232,2,Milvan Drive (901),a
-43.7562483,-79.5600232,2,Milvan Drive (901),a
-43.7562483,-79.5600232,2,Milvan Drive (934),a
-43.7562483,-79.5600232,2,Milvan Drive (934),a
 43.7562527,-79.5233381,2,Finch Avenue West (259),a
 43.7562527,-79.5233381,2,Finch Avenue West (259),a
 43.7562527,-79.5233381,2,Finch Avenue West (271),a
@@ -1665,90 +332,26 @@ lat,lon,sz,names,len_cat
 43.7562527,-79.5233381,2,Finch Avenue West (629),a
 43.7562527,-79.5233381,2,Finch Avenue West (641),a
 43.7562527,-79.5233381,2,Finch Avenue West (641),a
-43.7562583,-79.5665445,2,Navenby Crescent (337),a
-43.7562583,-79.5665445,2,Navenby Crescent (638),a
-43.7562932,-79.5664567,2,Navenby Crescent (338),a
-43.7562932,-79.5664567,2,Navenby Crescent (639),a
-43.7563281,-79.5663689,2,Navenby Crescent (339),a
-43.7563281,-79.5663689,2,Navenby Crescent (640),a
-43.7563286,-79.5507836,2,Toryork Drive (544),a
-43.7563286,-79.5507836,2,Toryork Drive (925),a
 43.7563434,-79.5244516,2,Norfinch Drive (331),a
 43.7563434,-79.5244516,2,Norfinch Drive (331),a
 43.7563434,-79.5244516,2,Norfinch Drive (482),a
 43.7563434,-79.5244516,2,Norfinch Drive (482),a
-43.7563569,-79.559945,2,Millwick Drive (288),a
-43.7563569,-79.559945,2,Millwick Drive (288),a
-43.7563569,-79.559945,2,Millwick Drive (559),a
-43.7563569,-79.559945,2,Millwick Drive (559),a
-43.7563717,-79.566256,2,Navenby Crescent (340),a
-43.7563717,-79.566256,2,Navenby Crescent (641),a
-43.7564065,-79.5661558,2,Navenby Crescent (341),a
-43.7564065,-79.5661558,2,Navenby Crescent (642),a
-43.7564322,-79.565828,2,Littledean Court (419),a
-43.7564322,-79.565828,2,Littledean Court (562),a
 43.7564412,-79.5225349,2,Finch Avenue West (264),a
 43.7564412,-79.5225349,2,Finch Avenue West (272),a
 43.7564412,-79.5225349,2,Finch Avenue West (634),a
 43.7564412,-79.5225349,2,Finch Avenue West (642),a
-43.7564414,-79.566068,2,Navenby Crescent (342),a
-43.7564414,-79.566068,2,Navenby Crescent (643),a
 43.756456,-79.5245205,2,Norfinch Drive (332),a
 43.756456,-79.5245205,2,Norfinch Drive (332),a
 43.756456,-79.5245205,2,Norfinch Drive (483),a
 43.756456,-79.5245205,2,Norfinch Drive (483),a
-43.7564674,-79.5659929,2,Navenby Crescent (343),a
-43.7564674,-79.5659929,2,Navenby Crescent (644),a
-43.7564676,-79.5511168,2,Toryork Drive (131),a
-43.7564676,-79.5511168,2,Toryork Drive (378),a
-43.7565017,-79.5658554,2,Littledean Court (227),a
-43.7565017,-79.5658554,2,Littledean Court (647),a
-43.7565017,-79.5658554,2,Navenby Crescent (344),a
-43.7565017,-79.5658554,2,Navenby Crescent (356),a
-43.7565017,-79.5658554,2,Navenby Crescent (645),a
-43.7565017,-79.5658554,2,Navenby Crescent (657),a
-43.7565285,-79.5651219,2,Navenby Crescent (346),a
-43.7565285,-79.5651219,2,Navenby Crescent (647),a
-43.7565412,-79.5512932,2,Toryork Drive (132),a
-43.7565412,-79.5512932,2,Toryork Drive (384),a
-43.756545,-79.5657178,2,Navenby Crescent (355),a
-43.756545,-79.5657178,2,Navenby Crescent (656),a
-43.7565536,-79.5656803,2,Navenby Crescent (354),a
-43.7565536,-79.5656803,2,Navenby Crescent (655),a
-43.7565566,-79.5652082,2,Navenby Crescent (347),a
-43.7565566,-79.5652082,2,Navenby Crescent (648),a
-43.7565708,-79.5656178,2,Navenby Crescent (353),a
-43.7565708,-79.5656178,2,Navenby Crescent (654),a
-43.7565847,-79.5652945,2,Navenby Crescent (348),a
-43.7565847,-79.5652945,2,Navenby Crescent (649),a
 43.7565867,-79.5246217,2,Norfinch Drive (334),a
 43.7565867,-79.5246217,2,Norfinch Drive (334),a
 43.7565867,-79.5246217,2,Norfinch Drive (485),a
 43.7565867,-79.5246217,2,Norfinch Drive (485),a
-43.7565882,-79.5655677,2,Navenby Crescent (352),a
-43.7565882,-79.5655677,2,Navenby Crescent (653),a
-43.7565947,-79.5653688,2,Navenby Crescent (349),a
-43.7565947,-79.5653688,2,Navenby Crescent (650),a
-43.7565964,-79.5655054,2,Navenby Crescent (351),a
-43.7565964,-79.5655054,2,Navenby Crescent (652),a
-43.7566046,-79.565443,2,Navenby Crescent (350),a
-43.7566046,-79.565443,2,Navenby Crescent (651),a
-43.7566131,-79.5610108,2,Milvan Drive (437),a
-43.7566131,-79.5610108,2,Milvan Drive (437),a
-43.7566131,-79.5610108,2,Milvan Drive (632),a
-43.7566131,-79.5610108,2,Milvan Drive (632),a
-43.756614,-79.5514692,2,Toryork Drive (133),a
-43.756614,-79.5514692,2,Toryork Drive (387),a
 43.7566275,-79.5217232,2,Finch Avenue West (263),a
 43.7566275,-79.5217232,2,Finch Avenue West (482),a
 43.7566275,-79.5217232,2,Finch Avenue West (633),a
 43.7566275,-79.5217232,2,Finch Avenue West (915),a
-43.7566612,-79.5515833,2,Toryork Drive (134),a
-43.7566612,-79.5515833,2,Toryork Drive (389),a
-43.7566719,-79.56117,2,Milvan Drive (438),a
-43.7566719,-79.56117,2,Milvan Drive (438),a
-43.7566719,-79.56117,2,Milvan Drive (633),a
-43.7566719,-79.56117,2,Milvan Drive (633),a
 43.7567293,-79.5248295,2,Norfinch Drive (336),a
 43.7567293,-79.5248295,2,Norfinch Drive (336),a
 43.7567293,-79.5248295,2,Norfinch Drive (487),a
@@ -1757,12 +360,6 @@ lat,lon,sz,names,len_cat
 43.7567313,-79.543497,2,Weston Road (290),a
 43.7567517,-79.5380468,2,Signet Drive (451),a
 43.7567517,-79.5380468,2,Signet Drive (643),a
-43.7567973,-79.5680534,2,Elnathan Crescent (185),a
-43.7567973,-79.5680534,2,Elnathan Crescent (343),a
-43.7567973,-79.5680534,2,Seacliff Boulevard (135),a
-43.7567973,-79.5680534,2,Seacliff Boulevard (150),a
-43.7567973,-79.5680534,2,Seacliff Boulevard (515),a
-43.7567973,-79.5680534,2,Seacliff Boulevard (530),a
 43.7568422,-79.5380926,2,Signet Drive (139),a
 43.7568422,-79.5380926,2,Signet Drive (294),a
 43.7568425,-79.5250928,2,Norfinch Drive (337),a
@@ -1771,117 +368,42 @@ lat,lon,sz,names,len_cat
 43.7568425,-79.5250928,2,Norfinch Drive (488),a
 43.7569159,-79.5254225,2,Norfinch Drive (640),a
 43.7569159,-79.5254225,2,Norfinch Drive (950),a
-43.7569266,-79.5681434,2,Seacliff Boulevard (151),a
-43.7569266,-79.5681434,2,Seacliff Boulevard (531),a
-43.7569382,-79.5522478,2,Toryork Drive (743),a
-43.7569501,-79.5673119,2,Elnathan Crescent (186),a
-43.7569501,-79.5673119,2,Elnathan Crescent (344),a
-43.756956,-79.5672533,2,Elnathan Crescent (187),a
-43.756956,-79.5672533,2,Elnathan Crescent (345),a
-43.756963,-79.5671901,2,Elnathan Crescent (188),a
-43.756963,-79.5671901,2,Elnathan Crescent (346),a
-43.7569713,-79.5671424,2,Elnathan Crescent (189),a
-43.7569713,-79.5671424,2,Elnathan Crescent (347),a
-43.7569754,-79.5619918,2,Milvan Drive (439),a
-43.7569754,-79.5619918,2,Milvan Drive (634),a
-43.7569812,-79.5670871,2,Elnathan Crescent (190),a
-43.7569812,-79.5670871,2,Elnathan Crescent (348),a
-43.7570005,-79.5670441,2,Elnathan Crescent (191),a
-43.7570005,-79.5670441,2,Elnathan Crescent (349),a
 43.757005,-79.5259718,2,Norfinch Drive (338),a
 43.757005,-79.5259718,2,Norfinch Drive (489),a
-43.7570281,-79.5670278,2,Elnathan Crescent (192),a
-43.7570281,-79.5670278,2,Elnathan Crescent (350),a
 43.7570306,-79.526152,2,Norfinch Drive (340),a
 43.7570306,-79.526152,2,Norfinch Drive (491),a
-43.7570352,-79.5681905,2,Seacliff Boulevard (152),a
-43.7570352,-79.5681905,2,Seacliff Boulevard (532),a
-43.7570565,-79.5670299,2,Elnathan Crescent (193),a
-43.7570565,-79.5670299,2,Elnathan Crescent (351),a
 43.7570679,-79.5263982,2,Norfinch Drive (341),a
 43.7570679,-79.5263982,2,Norfinch Drive (492),a
 43.7570919,-79.5265515,2,Norfinch Drive (342),a
 43.7570919,-79.5265515,2,Norfinch Drive (493),a
 43.7571005,-79.526609,2,Norfinch Drive (343),a
 43.7571005,-79.526609,2,Norfinch Drive (494),a
-43.7571054,-79.559406,2,Millwick Drive (452),a
-43.7571054,-79.559406,2,Millwick Drive (452),a
-43.7571054,-79.559406,2,Millwick Drive (645),a
-43.7571054,-79.559406,2,Millwick Drive (645),a
 43.7571201,-79.5267531,2,Norfinch Drive (344),a
 43.7571201,-79.5267531,2,Norfinch Drive (495),a
 43.7571231,-79.5435869,2,Weston Road (133),a
 43.7571231,-79.5435869,2,Weston Road (151),a
 43.7571231,-79.5435869,2,Weston Road (982),a
 43.7571231,-79.5435869,2,Weston Road (995),a
-43.7571257,-79.5670693,2,Elnathan Crescent (194),a
-43.7571257,-79.5670693,2,Elnathan Crescent (352),a
-43.7571319,-79.5624155,2,Milvan Drive (000),a
-43.7571319,-79.5624155,2,Milvan Drive (557),a
-43.7571352,-79.5682626,2,Seacliff Boulevard (153),a
-43.7571352,-79.5682626,2,Seacliff Boulevard (533),a
-43.7571621,-79.5527848,2,Toryork Drive (545),a
-43.7571621,-79.5527848,2,Toryork Drive (926),a
-43.7571707,-79.5670935,2,Elnathan Crescent (195),a
-43.7571707,-79.5670935,2,Elnathan Crescent (353),a
 43.7571772,-79.5271325,2,Norfinch Drive (346),a
 43.7571772,-79.5271325,2,Norfinch Drive (497),a
 43.757182,-79.5382687,2,Signet Drive (138),a
 43.757182,-79.5382687,2,Signet Drive (295),a
-43.7571941,-79.5593421,2,Millwick Drive (279),a
-43.7571941,-79.5593421,2,Millwick Drive (279),a
-43.7571941,-79.5593421,2,Millwick Drive (859),a
-43.7571941,-79.5593421,2,Millwick Drive (859),a
 43.7572042,-79.5273082,2,Norfinch Drive (347),a
 43.7572042,-79.5273082,2,Norfinch Drive (498),a
 43.757226,-79.5274429,2,Norfinch Drive (348),a
 43.757226,-79.5274429,2,Norfinch Drive (499),a
-43.7572438,-79.5683097,2,Seacliff Boulevard (154),a
-43.7572438,-79.5683097,2,Seacliff Boulevard (534),a
-43.7572478,-79.559316,2,Millwick Drive (281),a
-43.7572478,-79.559316,2,Millwick Drive (281),a
-43.7572478,-79.559316,2,Millwick Drive (860),a
-43.7572478,-79.559316,2,Millwick Drive (860),a
 43.7572774,-79.5276241,2,Norfinch Drive (351),a
 43.7572774,-79.5276241,2,Norfinch Drive (502),a
-43.7572961,-79.5628599,2,Milvan Drive (555),a
-43.7572961,-79.5628599,2,Milvan Drive (998),a
-43.7573007,-79.5531173,2,Toryork Drive (546),a
-43.7573007,-79.5531173,2,Toryork Drive (927),a
-43.7573017,-79.5593023,2,Millwick Drive (283),a
-43.7573017,-79.5593023,2,Millwick Drive (283),a
-43.7573017,-79.5593023,2,Millwick Drive (861),a
-43.7573017,-79.5593023,2,Millwick Drive (861),a
 43.7573296,-79.5277774,2,Norfinch Drive (353),a
 43.7573296,-79.5277774,2,Norfinch Drive (504),a
-43.7573645,-79.5592883,2,Millwick Drive (285),a
-43.7573645,-79.5592883,2,Millwick Drive (285),a
-43.7573645,-79.5592883,2,Millwick Drive (862),a
-43.7573645,-79.5592883,2,Millwick Drive (862),a
-43.7573687,-79.5532803,2,Toryork Drive (124),a
-43.7573687,-79.5532803,2,Toryork Drive (181),a
-43.7573701,-79.5683821,2,Seacliff Boulevard (155),a
-43.7573701,-79.5683821,2,Seacliff Boulevard (535),a
 43.757371,-79.5383667,2,Signet Drive (140),a
 43.757371,-79.5383667,2,Signet Drive (296),a
 43.7573969,-79.5436497,2,Weston Road (150),a
 43.7573969,-79.5436497,2,Weston Road (994),a
-43.7574161,-79.568405,2,Seacliff Boulevard (156),a
-43.7574161,-79.568405,2,Seacliff Boulevard (536),a
-43.7574277,-79.5592992,2,Millwick Drive (286),a
-43.7574277,-79.5592992,2,Millwick Drive (286),a
-43.7574277,-79.5592992,2,Millwick Drive (863),a
-43.7574277,-79.5592992,2,Millwick Drive (863),a
-43.7574495,-79.5534743,2,Toryork Drive (123),a
-43.7574495,-79.5534743,2,Toryork Drive (180),a
 43.75747,-79.5280873,2,Norfinch Drive (354),a
 43.75747,-79.5280873,2,Norfinch Drive (505),a
 43.7574853,-79.5435453,2,Fenmar Drive (061),a
 43.7574853,-79.5435453,2,Fenmar Drive (881),a
-43.7574907,-79.5592977,2,Millwick Drive (289),a
-43.7574907,-79.5592977,2,Millwick Drive (289),a
-43.7574907,-79.5592977,2,Millwick Drive (864),a
-43.7574907,-79.5592977,2,Millwick Drive (864),a
 43.7574934,-79.5436749,2,Fenmar Drive (059),a
 43.7574934,-79.5436749,2,Fenmar Drive (106),a
 43.7574934,-79.5436749,2,Fenmar Drive (877),a
@@ -1893,10 +415,6 @@ lat,lon,sz,names,len_cat
 43.7575325,-79.5431386,2,Fenmar Drive (882),a
 43.7575354,-79.5439145,2,Fenmar Drive (107),a
 43.7575354,-79.5439145,2,Fenmar Drive (929),a
-43.7575537,-79.5592962,2,Millwick Drive (290),a
-43.7575537,-79.5592962,2,Millwick Drive (290),a
-43.7575537,-79.5592962,2,Millwick Drive (865),a
-43.7575537,-79.5592962,2,Millwick Drive (865),a
 43.757587,-79.5441652,2,Fenmar Drive (109),a
 43.757587,-79.5441652,2,Fenmar Drive (931),a
 43.7575933,-79.5282682,2,Norfinch Drive (358),a
@@ -1907,26 +425,12 @@ lat,lon,sz,names,len_cat
 43.757621,-79.5427469,2,Fenmar Drive (983),a
 43.7576331,-79.5385025,2,Signet Drive (450),a
 43.7576331,-79.5385025,2,Signet Drive (642),a
-43.7576347,-79.5592943,2,Millwick Drive (292),a
-43.7576347,-79.5592943,2,Millwick Drive (292),a
-43.7576347,-79.5592943,2,Millwick Drive (866),a
-43.7576347,-79.5592943,2,Millwick Drive (866),a
-43.7576406,-79.5637928,2,Milvan Drive (556),a
-43.7576406,-79.5637928,2,Milvan Drive (999),a
-43.7576477,-79.5700673,2,Islington Avenue (576),a
-43.7576477,-79.5700673,2,Islington Avenue (938),a
-43.7576728,-79.5540099,2,Toryork Drive (269),a
-43.7576728,-79.5540099,2,Toryork Drive (660),a
 43.7576833,-79.5283738,2,Norfinch Drive (563),a
 43.7576833,-79.5283738,2,Norfinch Drive (595),a
 43.7576985,-79.5444358,2,Fenmar Drive (066),a
 43.7576985,-79.5444358,2,Fenmar Drive (110),a
 43.7576985,-79.5444358,2,Fenmar Drive (888),a
 43.7576985,-79.5444358,2,Fenmar Drive (932),a
-43.7577069,-79.559305,2,Millwick Drive (294),a
-43.7577069,-79.559305,2,Millwick Drive (294),a
-43.7577069,-79.559305,2,Millwick Drive (867),a
-43.7577069,-79.559305,2,Millwick Drive (867),a
 43.7577116,-79.5444815,2,Fenmar Drive (411),a
 43.7577116,-79.5444815,2,Fenmar Drive (532),a
 43.7577139,-79.528411,2,Norfinch Drive (360),a
@@ -1935,161 +439,45 @@ lat,lon,sz,names,len_cat
 43.7577166,-79.5423235,2,Fenmar Drive (884),a
 43.7577268,-79.5445344,2,Fenmar Drive (067),a
 43.7577268,-79.5445344,2,Fenmar Drive (889),a
-43.7577411,-79.5541738,2,Toryork Drive (137),a
-43.7577411,-79.5541738,2,Toryork Drive (608),a
 43.7577585,-79.5437622,2,Weston Road (204),a
 43.7577585,-79.5437622,2,Weston Road (861),a
 43.7577641,-79.5446329,2,Fenmar Drive (068),a
 43.7577641,-79.5446329,2,Fenmar Drive (890),a
 43.7577705,-79.542088,2,Fenmar Drive (126),a
 43.7577705,-79.542088,2,Fenmar Drive (984),a
-43.7577784,-79.5542722,2,Toryork Drive (138),a
-43.7577784,-79.5542722,2,Toryork Drive (609),a
-43.757779,-79.5593157,2,Millwick Drive (296),a
-43.757779,-79.5593157,2,Millwick Drive (296),a
-43.757779,-79.5593157,2,Millwick Drive (868),a
-43.757779,-79.5593157,2,Millwick Drive (868),a
-43.757797,-79.5543215,2,Toryork Drive (139),a
-43.757797,-79.5543215,2,Toryork Drive (610),a
 43.7578023,-79.5419489,2,Fenmar Drive (459),a
 43.7578023,-79.5419489,2,Fenmar Drive (719),a
-43.757824,-79.5593146,2,Millwick Drive (298),a
-43.757824,-79.5593146,2,Millwick Drive (298),a
-43.757824,-79.5593146,2,Millwick Drive (869),a
-43.757824,-79.5593146,2,Millwick Drive (869),a
-43.7578524,-79.5544319,2,Toryork Drive (140),a
-43.7578524,-79.5544319,2,Toryork Drive (611),a
 43.7578593,-79.5448614,2,Fenmar Drive (410),a
 43.7578593,-79.5448614,2,Fenmar Drive (531),a
-43.7578782,-79.5593257,2,Millwick Drive (300),a
-43.7578782,-79.5593257,2,Millwick Drive (300),a
-43.7578782,-79.5593257,2,Millwick Drive (870),a
-43.7578782,-79.5593257,2,Millwick Drive (870),a
-43.7578895,-79.554518,2,Toryork Drive (141),a
-43.7578895,-79.554518,2,Toryork Drive (612),a
-43.7579325,-79.5593492,2,Millwick Drive (301),a
-43.7579325,-79.5593492,2,Millwick Drive (301),a
-43.7579325,-79.5593492,2,Millwick Drive (871),a
-43.7579325,-79.5593492,2,Millwick Drive (871),a
-43.7579538,-79.5546158,2,Toryork Drive (142),a
-43.7579538,-79.5546158,2,Toryork Drive (613),a
-43.7579585,-79.5646533,2,Milvan Drive (559),a
-43.7579585,-79.5646533,2,Milvan Drive (590),a
-43.7579778,-79.559373,2,Millwick Drive (303),a
-43.7579778,-79.559373,2,Millwick Drive (303),a
-43.7579778,-79.559373,2,Millwick Drive (872),a
-43.7579778,-79.559373,2,Millwick Drive (872),a
 43.7580061,-79.5286422,2,Norfinch Drive (361),a
 43.7580061,-79.5286422,2,Norfinch Drive (512),a
 43.7580218,-79.54099,2,Fenmar Drive (127),a
 43.7580218,-79.54099,2,Fenmar Drive (985),a
-43.7580242,-79.5703466,2,Islington Avenue (014),a
-43.7580242,-79.5703466,2,Islington Avenue (329),a
-43.7580242,-79.5703466,2,Islington Avenue (409),a
-43.7580242,-79.5703466,2,Islington Avenue (971),a
-43.7580271,-79.5547135,2,Toryork Drive (143),a
-43.7580271,-79.5547135,2,Toryork Drive (614),a
-43.7580325,-79.5594214,2,Millwick Drive (305),a
-43.7580325,-79.5594214,2,Millwick Drive (305),a
-43.7580325,-79.5594214,2,Millwick Drive (873),a
-43.7580325,-79.5594214,2,Millwick Drive (873),a
-43.7580485,-79.5547515,2,Toryork Drive (144),a
-43.7580485,-79.5547515,2,Toryork Drive (615),a
-43.7580691,-79.5594702,2,Millwick Drive (306),a
-43.7580691,-79.5594702,2,Millwick Drive (306),a
-43.7580691,-79.5594702,2,Millwick Drive (874),a
-43.7580691,-79.5594702,2,Millwick Drive (874),a
-43.7580823,-79.5548115,2,Toryork Drive (145),a
-43.7580823,-79.5548115,2,Toryork Drive (616),a
 43.7581021,-79.5438825,2,Weston Road (285),a
 43.7581021,-79.5438825,2,Weston Road (731),a
 43.7581021,-79.5438825,2,Weston Road (993),a
-43.7581059,-79.5595314,2,Millwick Drive (308),a
-43.7581059,-79.5595314,2,Millwick Drive (308),a
-43.7581059,-79.5595314,2,Millwick Drive (875),a
-43.7581059,-79.5595314,2,Millwick Drive (875),a
-43.7581157,-79.5696305,2,San Antonio Way (209),a
-43.7581157,-79.5696305,2,San Antonio Way (643),a
-43.7581312,-79.5651209,2,Milvan Drive (289),a
-43.7581312,-79.5651209,2,Milvan Drive (902),a
 43.7581418,-79.5438908,2,Weston Road (152),a
 43.7581418,-79.5438908,2,Weston Road (996),a
-43.7581444,-79.5595929,2,Millwick Drive (276),a
-43.7581444,-79.5595929,2,Millwick Drive (276),a
-43.7581444,-79.5595929,2,Millwick Drive (418),a
-43.7581444,-79.5595929,2,Millwick Drive (418),a
-43.7581488,-79.570439,2,Islington Avenue (015),a
-43.7581488,-79.570439,2,Islington Avenue (016),a
-43.7581488,-79.570439,2,Islington Avenue (410),a
-43.7581488,-79.570439,2,Islington Avenue (411),a
 43.7581508,-79.5803648,2,Hillside Road (170),a
 43.7581508,-79.5803648,2,Hillside Road (855),a
-43.7581518,-79.5596048,2,Millwick Drive (310),a
-43.7581518,-79.5596048,2,Millwick Drive (310),a
-43.7581518,-79.5596048,2,Millwick Drive (876),a
-43.7581518,-79.5596048,2,Millwick Drive (876),a
-43.7581651,-79.5549462,2,Toryork Drive (146),a
-43.7581651,-79.5549462,2,Toryork Drive (617),a
-43.7581776,-79.5652315,2,Milvan Drive (290),a
-43.7581776,-79.5652315,2,Milvan Drive (903),a
-43.7581795,-79.5596539,2,Millwick Drive (311),a
-43.7581795,-79.5596539,2,Millwick Drive (311),a
-43.7581795,-79.5596539,2,Millwick Drive (877),a
-43.7581795,-79.5596539,2,Millwick Drive (877),a
-43.7582073,-79.5597153,2,Millwick Drive (313),a
-43.7582073,-79.5597153,2,Millwick Drive (313),a
-43.7582073,-79.5597153,2,Millwick Drive (878),a
-43.7582073,-79.5597153,2,Millwick Drive (878),a
 43.7582112,-79.5401625,2,Fenmar Drive (064),a
 43.7582112,-79.5401625,2,Fenmar Drive (886),a
-43.758226,-79.559777,2,Millwick Drive (315),a
-43.758226,-79.559777,2,Millwick Drive (315),a
-43.758226,-79.559777,2,Millwick Drive (879),a
-43.758226,-79.559777,2,Millwick Drive (879),a
-43.7582267,-79.555049,2,Toryork Drive (147),a
-43.7582267,-79.555049,2,Toryork Drive (618),a
-43.7582509,-79.5653292,2,Milvan Drive (291),a
-43.7582509,-79.5653292,2,Milvan Drive (904),a
-43.7582595,-79.5705212,2,Islington Avenue (013),a
-43.7582595,-79.5705212,2,Islington Avenue (017),a
-43.7582595,-79.5705212,2,Islington Avenue (408),a
-43.7582595,-79.5705212,2,Islington Avenue (412),a
 43.7582619,-79.5439169,2,Weston Road (153),a
 43.7582619,-79.5439169,2,Weston Road (997),a
 43.7582713,-79.5287478,2,Norfinch Drive (365),a
 43.7582713,-79.5287478,2,Norfinch Drive (516),a
-43.7582971,-79.5654274,2,Milvan Drive (292),a
-43.7582971,-79.5654274,2,Milvan Drive (905),a
-43.7583029,-79.5551764,2,Toryork Drive (148),a
-43.7583029,-79.5551764,2,Toryork Drive (619),a
 43.7583237,-79.5459769,2,Fenmar Drive (142),a
 43.7583237,-79.5459769,2,Fenmar Drive (990),a
-43.758344,-79.5654689,2,Milvan Drive (001),a
-43.758344,-79.5654689,2,Milvan Drive (558),a
-43.7583779,-79.5706102,2,Islington Avenue (012),a
-43.7583779,-79.5706102,2,Islington Avenue (407),a
 43.7583807,-79.53889,2,Signet Drive (141),a
 43.7583807,-79.53889,2,Signet Drive (297),a
-43.7583957,-79.5602291,2,Millwick Drive (277),a
-43.7583957,-79.5602291,2,Millwick Drive (277),a
-43.7583957,-79.5602291,2,Millwick Drive (419),a
-43.7583957,-79.5602291,2,Millwick Drive (419),a
 43.7584009,-79.5439471,2,Weston Road (131),a
 43.7584009,-79.5439471,2,Weston Road (154),a
 43.7584009,-79.5439471,2,Weston Road (980),a
 43.7584009,-79.5439471,2,Weston Road (998),a
-43.7584064,-79.5655242,2,Milvan Drive (293),a
-43.7584064,-79.5655242,2,Milvan Drive (906),a
 43.7584171,-79.5287731,2,Norfinch Drive (374),a
 43.7584171,-79.5287731,2,Norfinch Drive (739),a
 43.7584428,-79.5390867,2,Fenmar Drive (058),a
 43.7584428,-79.5390867,2,Fenmar Drive (128),a
-43.758471,-79.570678,2,Islington Avenue (011),a
-43.758471,-79.570678,2,Islington Avenue (018),a
-43.758471,-79.570678,2,Islington Avenue (406),a
-43.758471,-79.570678,2,Islington Avenue (413),a
-43.758471,-79.570678,2,Satterly Road (563),a
-43.758471,-79.570678,2,Satterly Road (870),a
 43.7584747,-79.5389387,2,Fenmar Drive (065),a
 43.7584747,-79.5389387,2,Fenmar Drive (099),a
 43.7584747,-79.5389387,2,Fenmar Drive (887),a
@@ -2100,315 +488,89 @@ lat,lon,sz,names,len_cat
 43.7584747,-79.5389387,2,Signet Drive (702),a
 43.758512,-79.5387659,2,Fenmar Drive (059),a
 43.758512,-79.5387659,2,Fenmar Drive (145),a
-43.7585226,-79.5555433,2,Toryork Drive (149),a
-43.7585226,-79.5555433,2,Toryork Drive (620),a
-43.7585243,-79.5655959,2,Milvan Drive (294),a
-43.7585243,-79.5655959,2,Milvan Drive (907),a
-43.7585292,-79.5705162,2,Satterly Road (438),a
-43.7585292,-79.5705162,2,Satterly Road (971),a
 43.758552,-79.5465251,2,Fenmar Drive (460),a
 43.758552,-79.5465251,2,Fenmar Drive (729),a
-43.7585576,-79.5704026,2,Satterly Road (565),a
-43.7585576,-79.5704026,2,Satterly Road (872),a
-43.7585691,-79.5707463,2,Islington Avenue (019),a
-43.7585691,-79.5707463,2,Islington Avenue (414),a
 43.7585738,-79.5287917,2,Norfinch Drive (366),a
 43.7585738,-79.5287917,2,Norfinch Drive (517),a
 43.7585738,-79.5287917,2,Norfinch Drive (977),a
-43.758583,-79.5702778,2,Satterly Road (566),a
-43.758583,-79.5702778,2,Satterly Road (873),a
 43.7585979,-79.538994,2,Signet Drive (137),a
 43.7585979,-79.538994,2,Signet Drive (293),a
-43.758626,-79.5701153,2,Satterly Road (567),a
-43.758626,-79.5701153,2,Satterly Road (874),a
 43.7586317,-79.5382119,2,Fenmar Drive (122),a
 43.7586317,-79.5382119,2,Fenmar Drive (608),a
 43.758633,-79.5439975,2,Weston Road (461),a
 43.758633,-79.5439975,2,Weston Road (747),a
-43.7586333,-79.5656679,2,Milvan Drive (295),a
-43.7586333,-79.5656679,2,Milvan Drive (908),a
-43.7586519,-79.5700277,2,Satterly Road (568),a
-43.7586519,-79.5700277,2,Satterly Road (875),a
-43.7586753,-79.5697414,2,San Antonio Way (210),a
-43.7586753,-79.5697414,2,San Antonio Way (644),a
-43.7586775,-79.5699153,2,Satterly Road (569),a
-43.7586775,-79.5699153,2,Satterly Road (876),a
-43.7587034,-79.5698277,2,Satterly Road (570),a
-43.7587034,-79.5698277,2,Satterly Road (877),a
-43.7587134,-79.5708485,2,Islington Avenue (020),a
-43.7587134,-79.5708485,2,Islington Avenue (020),a
-43.7587134,-79.5708485,2,Islington Avenue (415),a
-43.7587134,-79.5708485,2,Islington Avenue (415),a
 43.7587136,-79.5378329,2,Fenmar Drive (412),a
 43.7587136,-79.5378329,2,Fenmar Drive (533),a
-43.7587296,-79.569765,2,Satterly Road (571),a
-43.7587296,-79.569765,2,Satterly Road (878),a
 43.7587309,-79.5440188,2,Weston Road (036),a
 43.7587309,-79.5440188,2,Weston Road (259),a
 43.7587373,-79.5390565,2,Signet Drive (654),a
 43.7587373,-79.5390565,2,Signet Drive (694),a
-43.7587393,-79.565709,2,Milvan Drive (486),a
-43.7587393,-79.565709,2,Milvan Drive (732),a
-43.758765,-79.5697144,2,Elnathan Crescent (178),a
-43.758765,-79.5697144,2,Elnathan Crescent (333),a
-43.758765,-79.5697144,2,Plunkett Road (620),a
-43.758765,-79.5697144,2,Plunkett Road (997),a
-43.758765,-79.5697144,2,San Antonio Way (211),a
-43.758765,-79.5697144,2,San Antonio Way (645),a
-43.758765,-79.5697144,2,Satterly Road (572),a
-43.758765,-79.5697144,2,Satterly Road (879),a
 43.7587858,-79.5288082,2,Norfinch Drive (974),a
 43.7587858,-79.5288082,2,Norfinch Drive (978),a
-43.7587898,-79.5709026,2,Islington Avenue (021),a
-43.7587898,-79.5709026,2,Islington Avenue (021),a
-43.7587898,-79.5709026,2,Islington Avenue (022),a
-43.7587898,-79.5709026,2,Islington Avenue (022),a
-43.7587898,-79.5709026,2,Islington Avenue (416),a
-43.7587898,-79.5709026,2,Islington Avenue (416),a
-43.7587898,-79.5709026,2,Islington Avenue (417),a
-43.7587898,-79.5709026,2,Islington Avenue (417),a
 43.7587921,-79.5288149,2,Norfinch Drive (676),a
 43.7587921,-79.5288149,2,Norfinch Drive (751),a
-43.7587955,-79.5612942,2,Millwick Drive (304),a
-43.7587955,-79.5612942,2,Millwick Drive (828),a
 43.7588049,-79.5471325,2,Fenmar Drive (461),a
 43.7588049,-79.5471325,2,Fenmar Drive (461),a
 43.7588049,-79.5471325,2,Fenmar Drive (730),a
 43.7588049,-79.5471325,2,Fenmar Drive (730),a
-43.7588337,-79.5560632,2,Toryork Drive (150),a
-43.7588337,-79.5560632,2,Toryork Drive (621),a
-43.7588355,-79.5695885,2,Elnathan Crescent (179),a
-43.7588355,-79.5695885,2,Elnathan Crescent (336),a
-43.7588396,-79.556073,2,Toryork Drive (265),a
-43.7588396,-79.556073,2,Toryork Drive (448),a
-43.7588505,-79.5614407,2,Millwick Drive (649),a
-43.7588505,-79.5614407,2,Millwick Drive (678),a
-43.7588626,-79.56971,2,Plunkett Road (229),a
-43.7588626,-79.56971,2,Plunkett Road (514),a
-43.7588789,-79.5694633,2,Elnathan Crescent (180),a
-43.7588789,-79.5694633,2,Elnathan Crescent (338),a
-43.7589057,-79.5561835,2,Toryork Drive (648),a
-43.7589057,-79.5561835,2,Toryork Drive (677),a
 43.7589075,-79.5288272,2,Norfinch Drive (583),a
 43.7589075,-79.5288272,2,Norfinch Drive (657),a
 43.7589075,-79.5288272,2,Norfinch Drive (675),a
 43.7589075,-79.5288272,2,Norfinch Drive (749),a
-43.7589404,-79.5693376,2,Elnathan Crescent (181),a
-43.7589404,-79.5693376,2,Elnathan Crescent (339),a
-43.7589481,-79.5710146,2,Islington Avenue (023),a
-43.7589481,-79.5710146,2,Islington Avenue (023),a
-43.7589481,-79.5710146,2,Islington Avenue (024),a
-43.7589481,-79.5710146,2,Islington Avenue (024),a
-43.7589481,-79.5710146,2,Islington Avenue (418),a
-43.7589481,-79.5710146,2,Islington Avenue (418),a
-43.7589481,-79.5710146,2,Islington Avenue (419),a
-43.7589481,-79.5710146,2,Islington Avenue (419),a
-43.7589555,-79.5690559,2,Seacliff Boulevard (141),a
-43.7589555,-79.5690559,2,Seacliff Boulevard (386),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
-43.7589841,-79.5692372,2,Elnathan Crescent (182),a
-43.7589841,-79.5692372,2,Elnathan Crescent (340),a
-43.7590081,-79.5697439,2,Plunkett Road (156),a
-43.7590081,-79.5697439,2,Plunkett Road (286),a
-43.7590102,-79.569162,2,Elnathan Crescent (183),a
-43.7590102,-79.569162,2,Elnathan Crescent (341),a
 43.7590417,-79.5440864,2,Weston Road (161),a
 43.7590417,-79.5440864,2,Weston Road (860),a
-43.7590479,-79.5690948,2,Elnathan Crescent (184),a
-43.7590479,-79.5690948,2,Elnathan Crescent (209),a
-43.7590479,-79.5690948,2,Elnathan Crescent (342),a
-43.7590479,-79.5690948,2,Elnathan Crescent (367),a
-43.7590479,-79.5690948,2,Seacliff Boulevard (157),a
-43.7590479,-79.5690948,2,Seacliff Boulevard (537),a
 43.7590502,-79.5391742,2,Signet Drive (261),a
 43.7590502,-79.5391742,2,Signet Drive (449),a
-43.7590565,-79.5728628,2,Knox Avenue (481),a
-43.7590565,-79.5728628,2,Knox Avenue (481),a
-43.7590565,-79.5728628,2,Knox Avenue (482),a
-43.7590565,-79.5728628,2,Knox Avenue (482),a
-43.7590565,-79.5728628,2,Whitfield Avenue (671),a
-43.7590565,-79.5728628,2,Whitfield Avenue (671),a
-43.7590565,-79.5728628,2,Whitfield Avenue (685),a
-43.7590565,-79.5728628,2,Whitfield Avenue (685),a
-43.7590565,-79.5728628,2,Whitfield Avenue (887),a
-43.7590565,-79.5728628,2,Whitfield Avenue (887),a
-43.7590565,-79.5728628,2,Whitfield Avenue (901),a
-43.7590565,-79.5728628,2,Whitfield Avenue (901),a
 43.7590632,-79.5477529,2,Fenmar Drive (463),a
 43.7590632,-79.5477529,2,Fenmar Drive (463),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
-43.7590687,-79.5620207,2,Millwick Drive (650),a
-43.7590687,-79.5620207,2,Millwick Drive (679),a
 43.7590876,-79.5361019,2,Fenmar Drive (123),a
 43.7590876,-79.5361019,2,Fenmar Drive (123),a
 43.7590876,-79.5361019,2,Fenmar Drive (609),a
 43.7590876,-79.5361019,2,Fenmar Drive (609),a
-43.7591112,-79.5689515,2,Elnathan Crescent (208),a
-43.7591112,-79.5689515,2,Elnathan Crescent (366),a
-43.7591113,-79.5658546,2,Milvan Drive (646),a
-43.7591113,-79.5658546,2,Milvan Drive (675),a
-43.7591122,-79.5711308,2,Islington Avenue (025),a
-43.7591122,-79.5711308,2,Islington Avenue (025),a
-43.7591122,-79.5711308,2,Islington Avenue (026),a
-43.7591122,-79.5711308,2,Islington Avenue (026),a
-43.7591122,-79.5711308,2,Islington Avenue (420),a
-43.7591122,-79.5711308,2,Islington Avenue (420),a
-43.7591122,-79.5711308,2,Islington Avenue (421),a
-43.7591122,-79.5711308,2,Islington Avenue (421),a
 43.7591129,-79.5478722,2,Fenmar Drive (607),a
 43.7591129,-79.5478722,2,Fenmar Drive (607),a
 43.7591129,-79.5478722,2,Fenmar Drive (749),a
 43.7591129,-79.5478722,2,Fenmar Drive (749),a
-43.7591161,-79.5679106,2,Elnathan Crescent (196),a
-43.7591161,-79.5679106,2,Elnathan Crescent (354),a
 43.7591534,-79.5288546,2,Norfinch Drive (646),a
 43.7591534,-79.5288546,2,Norfinch Drive (738),a
-43.7591627,-79.5687966,2,Elnathan Crescent (207),a
-43.7591627,-79.5687966,2,Elnathan Crescent (365),a
-43.7591787,-79.5679225,2,Elnathan Crescent (197),a
-43.7591787,-79.5679225,2,Elnathan Crescent (355),a
-43.759188,-79.5566549,2,Toryork Drive (151),a
-43.759188,-79.5566549,2,Toryork Drive (622),a
-43.7591981,-79.5711916,2,Islington Avenue (027),a
-43.7591981,-79.5711916,2,Islington Avenue (027),a
-43.7591981,-79.5711916,2,Islington Avenue (331),a
-43.7591981,-79.5711916,2,Islington Avenue (331),a
-43.7591981,-79.5711916,2,Islington Avenue (422),a
-43.7591981,-79.5711916,2,Islington Avenue (422),a
-43.7591981,-79.5711916,2,Islington Avenue (973),a
-43.7591981,-79.5711916,2,Islington Avenue (973),a
-43.7592115,-79.5697914,2,Plunkett Road (155),a
-43.7592115,-79.5697914,2,Plunkett Road (287),a
 43.7592172,-79.5355023,2,Fenmar Drive (489),a
 43.7592172,-79.5355023,2,Fenmar Drive (489),a
 43.7592172,-79.5355023,2,Fenmar Drive (988),a
 43.7592172,-79.5355023,2,Fenmar Drive (988),a
-43.7592206,-79.5721182,2,Whitfield Avenue (518),a
-43.7592206,-79.5721182,2,Whitfield Avenue (518),a
-43.7592206,-79.5721182,2,Whitfield Avenue (916),a
-43.7592206,-79.5721182,2,Whitfield Avenue (916),a
-43.7592257,-79.5624403,2,Millwick Drive (317),a
-43.7592257,-79.5624403,2,Millwick Drive (880),a
-43.7592349,-79.5659013,2,Milvan Drive (488),a
-43.7592349,-79.5659013,2,Milvan Drive (734),a
-43.7592375,-79.5712195,2,Islington Avenue (130),a
-43.7592375,-79.5712195,2,Islington Avenue (130),a
-43.7592375,-79.5712195,2,Islington Avenue (289),a
-43.7592375,-79.5712195,2,Islington Avenue (289),a
-43.7592461,-79.5679362,2,Elnathan Crescent (198),a
-43.7592461,-79.5679362,2,Elnathan Crescent (356),a
-43.7592524,-79.5719739,2,Whitfield Avenue (519),a
-43.7592524,-79.5719739,2,Whitfield Avenue (519),a
-43.7592524,-79.5719739,2,Whitfield Avenue (917),a
-43.7592524,-79.5719739,2,Whitfield Avenue (917),a
 43.7592552,-79.5353266,2,Fenmar Drive (527),a
 43.7592552,-79.5353266,2,Fenmar Drive (527),a
 43.7592552,-79.5353266,2,Fenmar Drive (920),a
 43.7592552,-79.5353266,2,Fenmar Drive (920),a
-43.7592869,-79.567947,2,Elnathan Crescent (199),a
-43.7592869,-79.567947,2,Elnathan Crescent (357),a
-43.7593158,-79.5681698,2,Elnathan Crescent (206),a
-43.7593158,-79.5681698,2,Elnathan Crescent (364),a
-43.759327,-79.5679608,2,Elnathan Crescent (200),a
-43.759327,-79.5679608,2,Elnathan Crescent (358),a
-43.7593278,-79.5681204,2,Elnathan Crescent (205),a
-43.7593278,-79.5681204,2,Elnathan Crescent (363),a
-43.7593428,-79.5679783,2,Elnathan Crescent (201),a
-43.7593428,-79.5679783,2,Elnathan Crescent (359),a
 43.7593431,-79.5484252,2,Fenmar Drive (606),a
 43.7593431,-79.5484252,2,Fenmar Drive (606),a
 43.7593431,-79.5484252,2,Fenmar Drive (748),a
 43.7593431,-79.5484252,2,Fenmar Drive (748),a
-43.7593478,-79.5680556,2,Elnathan Crescent (204),a
-43.7593478,-79.5680556,2,Elnathan Crescent (362),a
-43.759353,-79.568,2,Elnathan Crescent (202),a
-43.759353,-79.568,2,Elnathan Crescent (360),a
-43.7593532,-79.5680257,2,Elnathan Crescent (203),a
-43.7593532,-79.5680257,2,Elnathan Crescent (361),a
-43.7593617,-79.5714782,2,Whitfield Avenue (131),a
-43.7593617,-79.5714782,2,Whitfield Avenue (131),a
-43.7593617,-79.5714782,2,Whitfield Avenue (313),a
-43.7593617,-79.5714782,2,Whitfield Avenue (313),a
 43.7593641,-79.5348223,2,Fenmar Drive (471),a
 43.7593641,-79.5348223,2,Fenmar Drive (471),a
 43.7593641,-79.5348223,2,Fenmar Drive (799),a
 43.7593641,-79.5348223,2,Fenmar Drive (799),a
-43.7593695,-79.571442,2,Whitfield Avenue (282),a
-43.7593695,-79.571442,2,Whitfield Avenue (282),a
-43.7593695,-79.571442,2,Whitfield Avenue (555),a
-43.7593695,-79.571442,2,Whitfield Avenue (555),a
-43.7593937,-79.5713301,2,Islington Avenue (172),a
-43.7593937,-79.5713301,2,Islington Avenue (172),a
-43.7593937,-79.5713301,2,Islington Avenue (423),a
-43.7593937,-79.5713301,2,Islington Avenue (423),a
-43.7593937,-79.5713301,2,Islington Avenue (903),a
-43.7593937,-79.5713301,2,Islington Avenue (903),a
-43.7593937,-79.5713301,2,Whitfield Avenue (672),a
-43.7593937,-79.5713301,2,Whitfield Avenue (672),a
-43.7593937,-79.5713301,2,Whitfield Avenue (888),a
-43.7593937,-79.5713301,2,Whitfield Avenue (888),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (987),a
 43.7594082,-79.5485814,2,Fenmar Drive (987),a
-43.7594274,-79.5570549,2,Toryork Drive (152),a
-43.7594274,-79.5570549,2,Toryork Drive (623),a
 43.7594351,-79.5288778,2,Norfinch Drive (588),a
 43.7594351,-79.5288778,2,Norfinch Drive (680),a
-43.7594517,-79.5659855,2,Milvan Drive (487),a
-43.7594517,-79.5659855,2,Milvan Drive (733),a
 43.7594583,-79.534386,2,Fenmar Drive (472),a
 43.7594583,-79.534386,2,Fenmar Drive (800),a
-43.7594986,-79.5714,2,Islington Avenue (503),a
-43.7594986,-79.5714,2,Islington Avenue (503),a
-43.7594986,-79.5714,2,Islington Avenue (507),a
-43.7594986,-79.5714,2,Islington Avenue (507),a
-43.7594986,-79.5714,2,Islington Avenue (561),a
-43.7594986,-79.5714,2,Islington Avenue (561),a
-43.7594986,-79.5714,2,Islington Avenue (565),a
-43.7594986,-79.5714,2,Islington Avenue (565),a
-43.7595045,-79.5698597,2,Plunkett Road (439),a
-43.7595045,-79.5698597,2,Plunkett Road (974),a
-43.7595651,-79.5714454,2,Islington Avenue (504),a
-43.7595651,-79.5714454,2,Islington Avenue (504),a
-43.7595651,-79.5714454,2,Islington Avenue (506),a
-43.7595651,-79.5714454,2,Islington Avenue (506),a
-43.7595651,-79.5714454,2,Islington Avenue (562),a
-43.7595651,-79.5714454,2,Islington Avenue (562),a
-43.7595651,-79.5714454,2,Islington Avenue (564),a
-43.7595651,-79.5714454,2,Islington Avenue (564),a
 43.7595985,-79.5442074,2,Weston Road (042),a
 43.7595985,-79.5442074,2,Weston Road (993),a
 43.7596059,-79.5393832,2,Signet Drive (655),a
 43.7596059,-79.5393832,2,Signet Drive (695),a
-43.7596332,-79.5660559,2,Milvan Drive (485),a
-43.7596332,-79.5660559,2,Milvan Drive (731),a
-43.7596459,-79.5574199,2,Toryork Drive (153),a
-43.7596459,-79.5574199,2,Toryork Drive (624),a
-43.7596907,-79.5574927,2,Toryork Drive (592),a
-43.7596907,-79.5574927,2,Toryork Drive (614),a
-43.7597287,-79.5575545,2,Toryork Drive (154),a
-43.7597287,-79.5575545,2,Toryork Drive (625),a
 43.7597372,-79.5442375,2,Weston Road (048),a
 43.7597372,-79.5442375,2,Weston Road (999),a
-43.7597453,-79.5715644,2,Islington Avenue (324),a
-43.7597453,-79.5715644,2,Islington Avenue (324),a
-43.7597453,-79.5715644,2,Islington Avenue (505),a
-43.7597453,-79.5715644,2,Islington Avenue (505),a
-43.7597453,-79.5715644,2,Islington Avenue (514),a
-43.7597453,-79.5715644,2,Islington Avenue (514),a
-43.7597453,-79.5715644,2,Islington Avenue (563),a
-43.7597453,-79.5715644,2,Islington Avenue (563),a
 43.7597752,-79.5329193,2,Fenmar Drive (100),a
 43.7597752,-79.5329193,2,Fenmar Drive (922),a
-43.7597786,-79.5576211,2,Toryork Drive (591),a
-43.7597786,-79.5576211,2,Toryork Drive (613),a
-43.7597928,-79.55764,2,Toryork Drive (155),a
-43.7597928,-79.55764,2,Toryork Drive (626),a
 43.7598043,-79.5328165,2,Fenmar Drive (263),a
 43.7598043,-79.5328165,2,Fenmar Drive (760),a
 43.7598073,-79.54954,2,Fenmar Drive (069),a
@@ -2417,24 +579,16 @@ lat,lon,sz,names,len_cat
 43.7598073,-79.54954,2,Fenmar Drive (916),a
 43.7598073,-79.54954,2,Kenhar Drive (160),a
 43.7598073,-79.54954,2,Kenhar Drive (976),a
-43.7598096,-79.5699309,2,Plunkett Road (440),a
-43.7598096,-79.5699309,2,Plunkett Road (975),a
-43.7598102,-79.5661281,2,Milvan Drive (647),a
-43.7598102,-79.5661281,2,Milvan Drive (676),a
 43.7598266,-79.544257,2,Weston Road (047),a
 43.7598266,-79.544257,2,Weston Road (998),a
 43.7598355,-79.5394589,2,Signet Drive (262),a
 43.7598355,-79.5394589,2,Signet Drive (450),a
 43.7598355,-79.5327066,2,Fenmar Drive (101),a
 43.7598355,-79.5327066,2,Fenmar Drive (923),a
-43.7598361,-79.5661379,2,Milvan Drive (528),a
-43.7598361,-79.5661379,2,Milvan Drive (919),a
 43.7598622,-79.5326811,2,Fenmar Drive (102),a
 43.7598622,-79.5326811,2,Fenmar Drive (924),a
 43.7598622,-79.5326811,2,Norelco Drive (017),a
 43.7598622,-79.5326811,2,Norelco Drive (694),a
-43.7598668,-79.5577997,2,Toryork Drive (156),a
-43.7598668,-79.5577997,2,Toryork Drive (627),a
 43.7598873,-79.549474,2,Kenhar Drive (161),a
 43.7598873,-79.549474,2,Kenhar Drive (977),a
 43.759889,-79.532668,2,Norelco Drive (018),a
@@ -2443,250 +597,95 @@ lat,lon,sz,names,len_cat
 43.7598958,-79.5394788,2,Signet Drive (760),a
 43.7599024,-79.539481,2,Signet Drive (656),a
 43.7599024,-79.539481,2,Signet Drive (696),a
-43.7599132,-79.5579104,2,Toryork Drive (157),a
-43.7599132,-79.5579104,2,Toryork Drive (628),a
-43.7599244,-79.5699577,2,Plunkett Road (441),a
-43.7599244,-79.5699577,2,Plunkett Road (976),a
 43.7599432,-79.5326791,2,Norelco Drive (019),a
 43.7599432,-79.5326791,2,Norelco Drive (699),a
 43.7599621,-79.5289432,2,Norfinch Drive (649),a
 43.7599621,-79.5289432,2,Norfinch Drive (741),a
-43.7599904,-79.5661945,2,Milvan Drive (296),a
-43.7599904,-79.5661945,2,Milvan Drive (909),a
-43.759996,-79.558045,2,Ormont Drive (116),a
-43.759996,-79.558045,2,Ormont Drive (842),a
-43.759996,-79.558045,2,Toryork Drive (122),a
-43.759996,-79.558045,2,Toryork Drive (158),a
-43.759996,-79.558045,2,Toryork Drive (593),a
-43.759996,-79.558045,2,Toryork Drive (629),a
-43.7600289,-79.5645843,2,Millwick Drive (489),a
-43.7600289,-79.5645843,2,Millwick Drive (735),a
-43.7600542,-79.5715952,2,Millwick Drive (039),a
-43.7600542,-79.5715952,2,Millwick Drive (039),a
-43.7600542,-79.5715952,2,Millwick Drive (272),a
-43.7600542,-79.5715952,2,Millwick Drive (272),a
 43.7600778,-79.5327109,2,Norelco Drive (396),a
 43.7600778,-79.5327109,2,Norelco Drive (835),a
-43.7600806,-79.5662047,2,Milvan Drive (297),a
-43.7600806,-79.5662047,2,Milvan Drive (910),a
 43.7600828,-79.5395226,2,Signet Drive (657),a
 43.7600828,-79.5395226,2,Signet Drive (697),a
 43.7600835,-79.5289583,2,Norfinch Drive (658),a
 43.7600835,-79.5289583,2,Norfinch Drive (750),a
-43.7601007,-79.5714062,2,Millwick Drive (040),a
-43.7601007,-79.5714062,2,Millwick Drive (040),a
-43.7601007,-79.5714062,2,Millwick Drive (273),a
-43.7601007,-79.5714062,2,Millwick Drive (273),a
 43.7601522,-79.5492555,2,Kenhar Drive (179),a
 43.7601522,-79.5492555,2,Kenhar Drive (489),a
 43.7601549,-79.5289671,2,Norfinch Drive (648),a
 43.7601549,-79.5289671,2,Norfinch Drive (740),a
-43.7601575,-79.5711679,2,Millwick Drive (036),a
-43.7601575,-79.5711679,2,Millwick Drive (036),a
-43.7601575,-79.5711679,2,Millwick Drive (041),a
-43.7601575,-79.5711679,2,Millwick Drive (041),a
-43.7601575,-79.5711679,2,Millwick Drive (269),a
-43.7601575,-79.5711679,2,Millwick Drive (269),a
-43.7601575,-79.5711679,2,Millwick Drive (274),a
-43.7601575,-79.5711679,2,Millwick Drive (274),a
-43.7601711,-79.5662398,2,Milvan Drive (298),a
-43.7601711,-79.5662398,2,Milvan Drive (911),a
-43.7601943,-79.5662428,2,Milvan Drive (285),a
-43.7601943,-79.5662428,2,Milvan Drive (557),a
-43.7602045,-79.5709705,2,Millwick Drive (410),a
-43.7602045,-79.5709705,2,Millwick Drive (410),a
-43.7602045,-79.5709705,2,Millwick Drive (914),a
-43.7602045,-79.5709705,2,Millwick Drive (914),a
-43.7602233,-79.5700274,2,Plunkett Road (442),a
-43.7602233,-79.5700274,2,Plunkett Road (977),a
 43.7602401,-79.5395672,2,Signet Drive (658),a
 43.7602401,-79.5395672,2,Signet Drive (698),a
 43.7602406,-79.550569,2,Fenmar Drive (469),a
 43.7602406,-79.550569,2,Fenmar Drive (762),a
-43.7602523,-79.5662503,2,Milvan Drive (299),a
-43.7602523,-79.5662503,2,Milvan Drive (912),a
 43.7602764,-79.5443547,2,Weston Road (043),a
 43.7602764,-79.5443547,2,Weston Road (994),a
-43.7602814,-79.5706475,2,Millwick Drive (411),a
-43.7602814,-79.5706475,2,Millwick Drive (411),a
-43.7602814,-79.5706475,2,Millwick Drive (915),a
-43.7602814,-79.5706475,2,Millwick Drive (915),a
-43.7603284,-79.5704502,2,Millwick Drive (037),a
-43.7603284,-79.5704502,2,Millwick Drive (043),a
-43.7603284,-79.5704502,2,Millwick Drive (270),a
-43.7603284,-79.5704502,2,Millwick Drive (276),a
 43.7603331,-79.5443671,2,Weston Road (041),a
 43.7603331,-79.5443671,2,Weston Road (992),a
-43.7603512,-79.5700572,2,Plunkett Road (443),a
-43.7603512,-79.5700572,2,Plunkett Road (978),a
 43.760355,-79.5289919,2,Norfinch Drive (603),a
 43.760355,-79.5289919,2,Norfinch Drive (695),a
-43.7603645,-79.5662007,2,Milvan Drive (301),a
-43.7603645,-79.5662007,2,Milvan Drive (914),a
 43.7603804,-79.5395979,2,Signet Drive (384),a
 43.7603804,-79.5395979,2,Signet Drive (761),a
 43.7603873,-79.532784,2,Norelco Drive (397),a
 43.7603873,-79.532784,2,Norelco Drive (839),a
-43.7603972,-79.5701613,2,Millwick Drive (042),a
-43.7603972,-79.5701613,2,Millwick Drive (275),a
-43.7604172,-79.5700726,2,Millwick Drive (236),a
-43.7604172,-79.5700726,2,Millwick Drive (838),a
-43.7604172,-79.5700726,2,Millwick Drive (890),a
-43.7604172,-79.5700726,2,Plunkett Road (616),a
-43.7604172,-79.5700726,2,Plunkett Road (621),a
-43.7604172,-79.5700726,2,Plunkett Road (993),a
-43.7604172,-79.5700726,2,Plunkett Road (998),a
 43.7604241,-79.5490312,2,Kenhar Drive (277),a
 43.7604241,-79.5490312,2,Kenhar Drive (453),a
 43.7604262,-79.55101,2,Fenmar Drive (470),a
 43.7604262,-79.55101,2,Fenmar Drive (763),a
-43.7604309,-79.5699456,2,Millwick Drive (407),a
-43.7604309,-79.5699456,2,Millwick Drive (909),a
-43.7604414,-79.5698484,2,Millwick Drive (240),a
-43.7604414,-79.5698484,2,Millwick Drive (839),a
 43.7604581,-79.5443942,2,Weston Road (046),a
 43.7604581,-79.5443942,2,Weston Road (997),a
 43.7604588,-79.5510874,2,Fenmar Drive (073),a
 43.7604588,-79.5510874,2,Fenmar Drive (100),a
-43.7604659,-79.5696491,2,Millwick Drive (242),a
-43.7604659,-79.5696491,2,Millwick Drive (840),a
-43.7604939,-79.5661327,2,Milvan Drive (302),a
-43.7604939,-79.5661327,2,Milvan Drive (915),a
-43.760499,-79.5694122,2,Millwick Drive (244),a
-43.760499,-79.5694122,2,Millwick Drive (841),a
-43.760508,-79.5658634,2,Millwick Drive (136),a
-43.760508,-79.5658634,2,Millwick Drive (378),a
-43.7605151,-79.570095,2,Plunkett Road (431),a
-43.7605151,-79.570095,2,Plunkett Road (958),a
-43.7605169,-79.5693147,2,Millwick Drive (246),a
-43.7605169,-79.5693147,2,Millwick Drive (842),a
-43.760523,-79.5661077,2,Milvan Drive (120),a
-43.760523,-79.5661077,2,Milvan Drive (260),a
-43.7605405,-79.5659469,2,Millwick Drive (152),a
-43.7605405,-79.5659469,2,Millwick Drive (263),a
-43.760583,-79.5660561,2,Millwick Drive (268),a
-43.760583,-79.5660561,2,Millwick Drive (319),a
-43.760583,-79.5660561,2,Millwick Drive (854),a
-43.760583,-79.5660561,2,Millwick Drive (881),a
-43.760583,-79.5660561,2,Milvan Drive (303),a
-43.760583,-79.5660561,2,Milvan Drive (323),a
-43.760583,-79.5660561,2,Milvan Drive (916),a
-43.760583,-79.5660561,2,Milvan Drive (936),a
-43.7606102,-79.5689155,2,Millwick Drive (035),a
-43.7606102,-79.5689155,2,Millwick Drive (268),a
 43.7606234,-79.5488668,2,Kenhar Drive (180),a
 43.7606234,-79.5488668,2,Kenhar Drive (490),a
-43.7606254,-79.5661664,2,Millwick Drive (151),a
-43.7606254,-79.5661664,2,Millwick Drive (255),a
 43.7606449,-79.548849,2,Kenhar Drive (162),a
 43.7606449,-79.548849,2,Kenhar Drive (978),a
-43.760655,-79.559623,2,Toryork Drive (303),a
-43.760655,-79.559623,2,Toryork Drive (303),a
-43.760655,-79.559623,2,Toryork Drive (827),a
-43.760655,-79.559623,2,Toryork Drive (827),a
 43.7606555,-79.5290597,2,Norfinch Drive (647),a
 43.7606555,-79.5290597,2,Norfinch Drive (739),a
-43.7606591,-79.5659944,2,Milvan Drive (122),a
-43.7606591,-79.5659944,2,Milvan Drive (563),a
 43.7606689,-79.5515864,2,Fenmar Drive (074),a
 43.7606689,-79.5515864,2,Fenmar Drive (101),a
-43.7606791,-79.5686052,2,Millwick Drive (066),a
-43.7606791,-79.5686052,2,Millwick Drive (401),a
 43.7606894,-79.5488106,2,Kenhar Drive (163),a
 43.7606894,-79.5488106,2,Kenhar Drive (979),a
-43.760733,-79.5683627,2,Millwick Drive (065),a
-43.760733,-79.5683627,2,Millwick Drive (400),a
 43.7607338,-79.5487598,2,Kenhar Drive (164),a
 43.7607338,-79.5487598,2,Kenhar Drive (980),a
 43.7607425,-79.5487473,2,Kenhar Drive (181),a
 43.7607425,-79.5487473,2,Kenhar Drive (491),a
-43.7607557,-79.5682604,2,Millwick Drive (034),a
-43.7607557,-79.5682604,2,Millwick Drive (267),a
 43.7607603,-79.5487219,2,Kenhar Drive (165),a
 43.7607603,-79.5487219,2,Kenhar Drive (981),a
 43.7607635,-79.5290841,2,Norfinch Drive (656),a
 43.7607635,-79.5290841,2,Norfinch Drive (748),a
-43.7607638,-79.5598834,2,Toryork Drive (302),a
-43.7607638,-79.5598834,2,Toryork Drive (302),a
-43.7607638,-79.5598834,2,Toryork Drive (826),a
-43.7607638,-79.5598834,2,Toryork Drive (826),a
 43.7607655,-79.544461,2,Weston Road (045),a
 43.7607655,-79.544461,2,Weston Road (996),a
-43.7607955,-79.5658837,2,Milvan Drive (121),a
-43.7607955,-79.5658837,2,Milvan Drive (562),a
 43.7607957,-79.5486714,2,Kenhar Drive (166),a
 43.7607957,-79.5486714,2,Kenhar Drive (982),a
-43.7607985,-79.5574294,2,Ormont Drive (117),a
-43.7607985,-79.5574294,2,Ormont Drive (843),a
-43.7608093,-79.5680189,2,Millwick Drive (067),a
-43.7608093,-79.5680189,2,Millwick Drive (622),a
 43.760822,-79.5486211,2,Kenhar Drive (167),a
 43.760822,-79.5486211,2,Kenhar Drive (983),a
 43.7608279,-79.5519639,2,Fenmar Drive (095),a
 43.7608279,-79.5519639,2,Fenmar Drive (917),a
-43.7608325,-79.5679146,2,Millwick Drive (147),a
-43.7608325,-79.5679146,2,Millwick Drive (250),a
-43.7608348,-79.5667112,2,Millwick Drive (150),a
-43.7608348,-79.5667112,2,Millwick Drive (254),a
 43.7608391,-79.5485461,2,Kenhar Drive (168),a
 43.7608391,-79.5485461,2,Kenhar Drive (168),a
 43.7608391,-79.5485461,2,Kenhar Drive (984),a
 43.7608391,-79.5485461,2,Kenhar Drive (984),a
 43.7608445,-79.5444782,2,Weston Road (000),a
 43.7608445,-79.5444782,2,Weston Road (049),a
-43.7608469,-79.5600825,2,Toryork Drive (758),a
-43.7608469,-79.5600825,2,Toryork Drive (758),a
-43.7608469,-79.5600825,2,Toryork Drive (989),a
-43.7608469,-79.5600825,2,Toryork Drive (989),a
 43.7608544,-79.5291046,2,Norfinch Drive (975),a
-43.7608622,-79.5667824,2,Millwick Drive (266),a
-43.7608622,-79.5667824,2,Millwick Drive (853),a
 43.7608822,-79.548396,2,Kenhar Drive (169),a
 43.7608822,-79.548396,2,Kenhar Drive (169),a
 43.7608822,-79.548396,2,Kenhar Drive (985),a
 43.7608822,-79.548396,2,Kenhar Drive (985),a
-43.7608881,-79.5668619,2,Millwick Drive (149),a
-43.7608881,-79.5668619,2,Millwick Drive (253),a
 43.7608945,-79.548339,2,Kenhar Drive (182),a
 43.7608945,-79.548339,2,Kenhar Drive (182),a
 43.7608945,-79.548339,2,Kenhar Drive (492),a
 43.7608945,-79.548339,2,Kenhar Drive (492),a
-43.7608959,-79.5676293,2,Millwick Drive (248),a
-43.7608959,-79.5676293,2,Millwick Drive (843),a
-43.7609184,-79.5669549,2,Millwick Drive (262),a
-43.7609184,-79.5669549,2,Millwick Drive (851),a
-43.7609247,-79.5675041,2,Millwick Drive (146),a
-43.7609247,-79.5675041,2,Millwick Drive (251),a
-43.7609376,-79.5670539,2,Millwick Drive (260),a
-43.7609376,-79.5670539,2,Millwick Drive (850),a
-43.7609477,-79.5671406,2,Millwick Drive (258),a
-43.7609477,-79.5671406,2,Millwick Drive (849),a
 43.7609503,-79.5445012,2,Weston Road (044),a
 43.7609503,-79.5445012,2,Weston Road (995),a
-43.7609507,-79.5673765,2,Millwick Drive (252),a
-43.7609507,-79.5673765,2,Millwick Drive (846),a
 43.7609509,-79.5291264,2,Norfinch Drive (586),a
 43.7609509,-79.5291264,2,Norfinch Drive (678),a
-43.7609533,-79.5673526,2,Millwick Drive (148),a
-43.7609533,-79.5673526,2,Millwick Drive (252),a
-43.7609576,-79.5672149,2,Millwick Drive (256),a
-43.7609576,-79.5672149,2,Millwick Drive (848),a
 43.7609584,-79.5522789,2,Fenmar Drive (393),a
 43.7609584,-79.5522789,2,Fenmar Drive (874),a
-43.7609587,-79.5673018,2,Millwick Drive (254),a
-43.7609587,-79.5673018,2,Millwick Drive (847),a
 43.7610311,-79.5477076,2,Kenhar Drive (183),a
 43.7610311,-79.5477076,2,Kenhar Drive (183),a
 43.7610311,-79.5477076,2,Kenhar Drive (493),a
 43.7610311,-79.5477076,2,Kenhar Drive (493),a
 43.761052,-79.552505,2,Fenmar Drive (394),a
 43.761052,-79.552505,2,Fenmar Drive (875),a
-43.7610651,-79.5656649,2,Milvan Drive (123),a
-43.7610651,-79.5656649,2,Milvan Drive (561),a
-43.7610744,-79.5606169,2,Toryork Drive (759),a
-43.7610744,-79.5606169,2,Toryork Drive (990),a
-43.7611413,-79.5656032,2,Milvan Drive (124),a
-43.7611413,-79.5656032,2,Milvan Drive (560),a
 43.7611644,-79.5470917,2,Kenhar Drive (279),a
 43.7611644,-79.5470917,2,Kenhar Drive (279),a
 43.7611644,-79.5470917,2,Kenhar Drive (574),a
@@ -2707,12 +706,8 @@ lat,lon,sz,names,len_cat
 43.7613545,-79.5462129,2,Kenhar Drive (109),a
 43.7613553,-79.5292189,2,Norfinch Drive (655),a
 43.7613553,-79.5292189,2,Norfinch Drive (747),a
-43.7613879,-79.565403,2,Milvan Drive (125),a
-43.7613879,-79.565403,2,Milvan Drive (559),a
 43.7614357,-79.5330317,2,Norelco Drive (557),a
 43.7614357,-79.5330317,2,Norelco Drive (822),a
-43.7614915,-79.565319,2,Milvan Drive (126),a
-43.7614915,-79.565319,2,Milvan Drive (558),a
 43.7616043,-79.5292764,2,Norfinch Drive (645),a
 43.7616043,-79.5292764,2,Norfinch Drive (737),a
 43.7616309,-79.5539024,2,Fenmar Drive (395),a
@@ -2747,16 +742,8 @@ lat,lon,sz,names,len_cat
 43.761975,-79.5433764,2,Kenhar Drive (390),a
 43.7619939,-79.5547789,2,Fenmar Drive (096),a
 43.7619939,-79.5547789,2,Fenmar Drive (918),a
-43.7619997,-79.5649067,2,Milvan Drive (127),a
-43.7619997,-79.5649067,2,Milvan Drive (557),a
-43.7620348,-79.5629233,2,Toryork Drive (132),a
-43.7620348,-79.5629233,2,Toryork Drive (261),a
 43.7620596,-79.5549355,2,Fenmar Drive (396),a
 43.7620596,-79.5549355,2,Fenmar Drive (877),a
-43.7620697,-79.5648499,2,Milvan Drive (113),a
-43.7620697,-79.5648499,2,Milvan Drive (181),a
-43.7621092,-79.5631021,2,Toryork Drive (120),a
-43.7621092,-79.5631021,2,Toryork Drive (182),a
 43.7621202,-79.5550799,2,Fenmar Drive (433),a
 43.7621202,-79.5550799,2,Fenmar Drive (498),a
 43.7621608,-79.5425379,2,Kenhar Drive (102),a
@@ -2767,10 +754,6 @@ lat,lon,sz,names,len_cat
 43.7621872,-79.5424187,2,Kenhar Drive (988),a
 43.7622415,-79.5447823,2,Weston Road (137),a
 43.7622415,-79.5447823,2,Weston Road (348),a
-43.7622996,-79.5635593,2,Toryork Drive (122),a
-43.7622996,-79.5635593,2,Toryork Drive (184),a
-43.7623201,-79.5646467,2,Milvan Drive (128),a
-43.7623201,-79.5646467,2,Milvan Drive (556),a
 43.7623579,-79.5556464,2,Fenmar Drive (374),a
 43.7623579,-79.5556464,2,Fenmar Drive (392),a
 43.7623587,-79.5416646,2,Kenhar Drive (305),a
@@ -2779,14 +762,8 @@ lat,lon,sz,names,len_cat
 43.7623764,-79.5294523,2,Norfinch Drive (744),a
 43.7623819,-79.5557035,2,Fenmar Drive (393),a
 43.7623819,-79.5557035,2,Fenmar Drive (431),a
-43.7624083,-79.5638204,2,Toryork Drive (121),a
-43.7624083,-79.5638204,2,Toryork Drive (183),a
 43.7624136,-79.541423,2,Kenhar Drive (280),a
 43.7624136,-79.541423,2,Kenhar Drive (575),a
-43.7624213,-79.5645646,2,Milvan Drive (341),a
-43.7624213,-79.5645646,2,Milvan Drive (860),a
-43.7624258,-79.5638625,2,Toryork Drive (207),a
-43.7624258,-79.5638625,2,Toryork Drive (413),a
 43.7624321,-79.5561827,2,Ormont Drive (118),a
 43.7624321,-79.5561827,2,Ormont Drive (844),a
 43.76244,-79.5797166,2,Steeles Avenue West (264),a
@@ -2795,14 +772,6 @@ lat,lon,sz,names,len_cat
 43.7624712,-79.5559163,2,Fenmar Drive (394),a
 43.762474,-79.5411322,2,Kenhar Drive (281),a
 43.762474,-79.5411322,2,Kenhar Drive (576),a
-43.7625134,-79.5644395,2,Milvan Drive (322),a
-43.7625134,-79.5644395,2,Milvan Drive (935),a
-43.7625134,-79.5644395,2,Oliti Court (800),a
-43.7625134,-79.5644395,2,Oliti Court (974),a
-43.7625134,-79.5644395,2,Toryork Drive (123),a
-43.7625134,-79.5644395,2,Toryork Drive (594),a
-43.7625191,-79.5640865,2,Toryork Drive (132),a
-43.7625191,-79.5640865,2,Toryork Drive (314),a
 43.7625464,-79.5560954,2,Fenmar Drive (070),a
 43.7625464,-79.5560954,2,Fenmar Drive (098),a
 43.7625464,-79.5560954,2,Fenmar Drive (388),a
@@ -2811,22 +780,12 @@ lat,lon,sz,names,len_cat
 43.7625464,-79.5560954,2,Ormont Drive (130),a
 43.7625464,-79.5560954,2,Ormont Drive (845),a
 43.7625464,-79.5560954,2,Ormont Drive (856),a
-43.7625514,-79.5641975,2,Toryork Drive (133),a
-43.7625514,-79.5641975,2,Toryork Drive (315),a
-43.7625515,-79.5643125,2,Toryork Drive (134),a
-43.7625515,-79.5643125,2,Toryork Drive (316),a
 43.7625829,-79.5294996,2,Norfinch Drive (650),a
 43.7625829,-79.5294996,2,Norfinch Drive (742),a
-43.7626099,-79.5644714,2,Oliti Court (159),a
-43.7626099,-79.5644714,2,Oliti Court (292),a
 43.7626116,-79.556252,2,Fenmar Drive (071),a
 43.7626116,-79.556252,2,Fenmar Drive (389),a
-43.7626278,-79.5660507,2,San Gabriele Place (657),a
-43.7626278,-79.5660507,2,San Gabriele Place (961),a
 43.7626373,-79.5560257,2,Ormont Drive (131),a
 43.7626373,-79.5560257,2,Ormont Drive (857),a
-43.7626376,-79.5644806,2,Oliti Court (231),a
-43.7626376,-79.5644806,2,Oliti Court (519),a
 43.7626756,-79.5401296,2,Kenhar Drive (173),a
 43.7626756,-79.5401296,2,Kenhar Drive (989),a
 43.7626756,-79.5401296,2,Signet Drive (660),a
@@ -2837,24 +796,14 @@ lat,lon,sz,names,len_cat
 43.7626815,-79.5564198,2,Fenmar Drive (390),a
 43.76273,-79.5565308,2,Fenmar Drive (373),a
 43.76273,-79.5565308,2,Fenmar Drive (391),a
-43.7627415,-79.5660916,2,San Gabriele Place (196),a
-43.7627415,-79.5660916,2,San Gabriele Place (789),a
 43.7627677,-79.5792562,2,Steeles Avenue West (138),a
 43.7627677,-79.5792562,2,Steeles Avenue West (266),a
 43.7627677,-79.5792562,2,Steeles Avenue West (436),a
 43.7627677,-79.5792562,2,Steeles Avenue West (467),a
-43.7627699,-79.5647026,2,Oliti Court (160),a
-43.7627699,-79.5647026,2,Oliti Court (291),a
 43.7627725,-79.5448981,2,Weston Road (136),a
 43.7627725,-79.5448981,2,Weston Road (347),a
-43.7627822,-79.5660998,2,San Gabriele Place (658),a
-43.7627822,-79.5660998,2,San Gabriele Place (962),a
 43.7627841,-79.493014,2,Finch Avenue West (723),a
 43.7627968,-79.4930286,2,Finch Avenue West (680),a
-43.7628193,-79.5661027,2,San Gabriele Place (659),a
-43.7628193,-79.5661027,2,San Gabriele Place (963),a
-43.7628568,-79.5661023,2,San Gabriele Place (195),a
-43.7628568,-79.5661023,2,San Gabriele Place (788),a
 43.7629531,-79.5449375,2,Weston Road (281),a
 43.7629531,-79.5449375,2,Weston Road (383),a
 43.7630194,-79.4924881,2,Finch Avenue West (627),a
@@ -2885,10 +834,6 @@ lat,lon,sz,names,len_cat
 43.7632693,-79.5785644,2,Steeles Avenue West (437),a
 43.7632954,-79.5555184,2,Ormont Drive (133),a
 43.7632954,-79.5555184,2,Ormont Drive (859),a
-43.7633125,-79.566053,2,Oliti Court (799),a
-43.7633125,-79.566053,2,Oliti Court (973),a
-43.7633125,-79.566053,2,San Gabriele Place (660),a
-43.7633125,-79.566053,2,San Gabriele Place (964),a
 43.7633366,-79.5296719,2,Norfinch Drive (471),a
 43.7633366,-79.5296719,2,Norfinch Drive (659),a
 43.7633548,-79.558031,2,Fenmar Drive (464),a
@@ -2901,8 +846,6 @@ lat,lon,sz,names,len_cat
 43.7633707,-79.5528705,2,Barmac Drive (642),a
 43.7633785,-79.5402694,2,Signet Drive (664),a
 43.7633785,-79.5402694,2,Signet Drive (704),a
-43.763397,-79.5642775,2,San Gabriele Place (668),a
-43.763397,-79.5642775,2,San Gabriele Place (972),a
 43.7634064,-79.5529068,2,Barmac Drive (296),a
 43.7634064,-79.5529068,2,Barmac Drive (616),a
 43.7634222,-79.5500669,2,Barmac Drive (261),a
@@ -2967,58 +910,24 @@ lat,lon,sz,names,len_cat
 43.7638473,-79.5479143,2,Barmac Drive (300),a
 43.7638473,-79.5479143,2,Barmac Drive (620),a
 43.7638473,-79.5479143,2,Barmac Drive (620),a
-43.7638476,-79.565995,2,San Gabriele Place (186),a
-43.7638476,-79.565995,2,San Gabriele Place (779),a
 43.7638636,-79.5546895,2,Ormont Drive (049),a
 43.7638787,-79.5546471,2,Ormont Drive (144),a
 43.7638787,-79.5546471,2,Ormont Drive (870),a
-43.7638795,-79.5659897,2,San Gabriele Place (663),a
-43.7638795,-79.5659897,2,San Gabriele Place (967),a
 43.7638902,-79.5546138,2,Ormont Drive (050),a
-43.7639009,-79.5659823,2,San Gabriele Place (190),a
-43.7639009,-79.5659823,2,San Gabriele Place (783),a
 43.7639047,-79.5545719,2,Ormont Drive (145),a
 43.7639047,-79.5545719,2,Ormont Drive (871),a
-43.7639193,-79.5659709,2,San Gabriele Place (189),a
-43.7639193,-79.5659709,2,San Gabriele Place (782),a
-43.7639371,-79.5659574,2,San Gabriele Place (664),a
-43.7639371,-79.5659574,2,San Gabriele Place (968),a
 43.7639396,-79.5544841,2,Ormont Drive (146),a
 43.7639396,-79.5544841,2,Ormont Drive (872),a
-43.7639556,-79.565936,2,San Gabriele Place (191),a
-43.7639556,-79.565936,2,San Gabriele Place (784),a
 43.7639588,-79.5544283,2,Ormont Drive (051),a
 43.763966,-79.5544338,2,Ormont Drive (147),a
-43.7639726,-79.5659092,2,San Gabriele Place (192),a
-43.7639726,-79.5659092,2,San Gabriele Place (785),a
-43.7639767,-79.5656896,2,San Gabriele Place (667),a
-43.7639767,-79.5656896,2,San Gabriele Place (971),a
 43.7639821,-79.5451627,2,Weston Road (615),a
 43.7639821,-79.5451627,2,Weston Road (965),a
 43.7639829,-79.5543464,2,Ormont Drive (148),a
 43.7639829,-79.5543464,2,Ormont Drive (874),a
-43.7639847,-79.5657127,2,San Gabriele Place (187),a
-43.7639847,-79.5657127,2,San Gabriele Place (780),a
-43.7639861,-79.5658764,2,San Gabriele Place (193),a
-43.7639861,-79.5658764,2,San Gabriele Place (786),a
-43.7639909,-79.5657376,2,San Gabriele Place (666),a
-43.7639909,-79.5657376,2,San Gabriele Place (970),a
 43.7639927,-79.5336359,2,Norelco Drive (559),a
 43.7639927,-79.5336359,2,Norelco Drive (559),a
 43.7639927,-79.5336359,2,Norelco Drive (824),a
 43.7639927,-79.5336359,2,Norelco Drive (824),a
-43.7639934,-79.5658429,2,San Gabriele Place (665),a
-43.7639934,-79.5658429,2,San Gabriele Place (665),a
-43.7639934,-79.5658429,2,San Gabriele Place (969),a
-43.7639934,-79.5658429,2,San Gabriele Place (969),a
-43.7639953,-79.5657784,2,San Gabriele Place (194),a
-43.7639953,-79.5657784,2,San Gabriele Place (194),a
-43.7639953,-79.5657784,2,San Gabriele Place (787),a
-43.7639953,-79.5657784,2,San Gabriele Place (787),a
-43.7639963,-79.5658086,2,San Gabriele Place (188),a
-43.7639963,-79.5658086,2,San Gabriele Place (188),a
-43.7639963,-79.5658086,2,San Gabriele Place (781),a
-43.7639963,-79.5658086,2,San Gabriele Place (781),a
 43.7640096,-79.5542117,2,Ormont Drive (270),a
 43.7640096,-79.5542117,2,Ormont Drive (668),a
 43.764032,-79.5596625,2,Fenmar Drive (072),a

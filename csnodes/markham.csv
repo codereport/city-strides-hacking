@@ -491,10 +491,6 @@ lat,lon,sz,names,len_cat
 43.822037,-79.3241692,2,Fullerton Crescent (372),a
 43.8220381,-79.3409801,2,Steelcase Road East (046),a
 43.822045,-79.3358131,2,Esna Park Drive (746),a
-43.8220568,-79.3976125,2,Green Lane (085),a
-43.8220568,-79.3976125,2,Green Lane (085),a
-43.8220568,-79.3976125,2,Green Lane (301),a
-43.8220568,-79.3976125,2,Green Lane (301),a
 43.8220627,-79.3228503,2,Fullerton Crescent (352),a
 43.8220627,-79.3228503,2,Risebrough Circuit (455),a
 43.8220627,-79.3228503,2,Risebrough Circuit (456),a
@@ -502,7 +498,6 @@ lat,lon,sz,names,len_cat
 43.8220666,-79.3206616,2,Risebrough Circuit (421),a
 43.8220744,-79.3505792,2,Denison Street (455),a
 43.8220744,-79.3505792,2,Denison Street (455),a
-43.8220835,-79.3974835,2,Green Lane (296),a
 43.8220945,-79.3407357,2,Steelcase Road East (045),a
 43.8221105,-79.3205857,2,Cheeseman Drive (949),a
 43.8221105,-79.3205857,2,Risebrough Circuit (422),a
@@ -912,7 +907,6 @@ lat,lon,sz,names,len_cat
 43.8240176,-79.3161921,2,Avalon Road (525),a
 43.8240273,-79.3256712,2,Warden Avenue (654),a
 43.8240273,-79.3256712,2,Warden Avenue (654),a
-43.8240308,-79.3882947,2,Green Lane (097),a
 43.8240451,-79.3179105,2,Harvest Moon Drive (204),a
 43.8240462,-79.3084988,2,Appleby Crescent (571),a
 43.8240488,-79.3588517,2,Steelcase Road West (914),a
@@ -978,8 +972,6 @@ lat,lon,sz,names,len_cat
 43.8242469,-79.3146436,2,Larksmere Court (926),a
 43.8242469,-79.3146436,2,Larksmere Court (926),a
 43.824254,-79.3072067,2,Kennedy Road (128),a
-43.8242595,-79.3872406,2,Green Lane (098),a
-43.8242595,-79.3872406,2,Green Lane (098),a
 43.8242606,-79.3167947,2,Harvest Moon Drive (208),a
 43.8242621,-79.3049162,2,Steeles Avenue East (913),a
 43.824279,-79.3402879,2,Denison Street (931),a
@@ -1343,8 +1335,6 @@ lat,lon,sz,names,len_cat
 43.8258341,-79.3154322,2,Ascot Crescent (230),a
 43.8258358,-79.3336167,2,Denison Street (598),a
 43.8258441,-79.3078433,2,Kennedy Road (892),a
-43.8258497,-79.3798235,2,Green Lane (045),a
-43.8258497,-79.3798235,2,Huntington Park Drive (322),a
 43.8258559,-79.3242613,2,Pepperell Crescent (764),a
 43.8258611,-79.324,2,Pepperell Crescent (766),a
 43.8258629,-79.3241244,2,Pepperell Crescent (765),a
@@ -1365,7 +1355,6 @@ lat,lon,sz,names,len_cat
 43.8259639,-79.3224177,2,Pepperell Crescent (777),a
 43.8259682,-79.3251661,2,Risebrough Circuit (399),a
 43.8259682,-79.3251661,2,Risebrough Circuit (399),a
-43.8259695,-79.3798752,2,Huntington Park Drive (675),a
 43.8259702,-79.315503,2,Ascot Crescent (232),a
 43.8259744,-79.3157889,2,Ascot Crescent (237),a
 43.8259852,-79.3120642,2,Providence Crescent (025),a
@@ -1375,7 +1364,6 @@ lat,lon,sz,names,len_cat
 43.8259895,-79.3143707,2,Larksmere Court (959),a
 43.8259895,-79.3143707,2,Larksmere Court (959),a
 43.8259912,-79.3157014,2,Ascot Crescent (236),a
-43.8259964,-79.3792212,2,Green Lane (046),a
 43.8259976,-79.3155271,2,Ascot Crescent (233),a
 43.8259994,-79.3223794,2,Pepperell Crescent (778),a
 43.8260075,-79.315589,2,Ascot Crescent (234),a
@@ -1398,7 +1386,6 @@ lat,lon,sz,names,len_cat
 43.8261068,-79.3223391,2,Pepperell Crescent (780),a
 43.8261157,-79.3143796,2,Larksmere Court (957),a
 43.8261157,-79.3143796,2,Larksmere Court (957),a
-43.8261164,-79.3788481,2,Green Lane (047),a
 43.8261194,-79.2973542,2,Midland Avenue (886),a
 43.8261302,-79.311427,2,Providence Crescent (028),a
 43.8261329,-79.3323056,2,Denison Street (602),a
@@ -1447,13 +1434,11 @@ lat,lon,sz,names,len_cat
 43.8263185,-79.3251065,2,Risebrough Circuit (401),a
 43.8263208,-79.3386304,2,Esna Park Drive (431),a
 43.8263208,-79.3386304,2,Esna Park Drive (431),a
-43.8263251,-79.3784929,2,Green Lane (048),a
 43.8263268,-79.3134285,2,Larksmere Court (952),a
 43.8263268,-79.3134285,2,Larksmere Court (952),a
 43.8263408,-79.322942,2,Pepperell Crescent (783),a
 43.8263548,-79.3313412,2,Denison Street (150),a
 43.8263721,-79.3104052,2,Maitland Drive (317),a
-43.8263724,-79.3800491,2,Huntington Park Drive (325),a
 43.8263779,-79.3474828,2,Esna Park Drive (747),a
 43.8263786,-79.3108403,2,Harvest Moon Drive (959),a
 43.8263961,-79.3474499,2,Esna Park Drive (745),a
@@ -1464,18 +1449,14 @@ lat,lon,sz,names,len_cat
 43.8264594,-79.3279771,2,Hood Road (360),a
 43.8264594,-79.3279771,2,Hood Road (371),a
 43.8264653,-79.3100046,2,Maitland Drive (319),a
-43.8264686,-79.3811161,2,Brewsland Crescent (830),a
 43.8264696,-79.3170062,2,Highgate Drive (396),a
 43.8264696,-79.3170062,2,Highgate Drive (964),a
 43.8264762,-79.3168443,2,Highgate Drive (347),a
-43.8264788,-79.3812028,2,Brewsland Crescent (831),a
 43.8264817,-79.3172172,2,Highgate Drive (963),a
 43.826488,-79.3250023,2,Risebrough Circuit (402),a
 43.826488,-79.3250023,2,Risebrough Circuit (402),a
-43.826494,-79.3810035,2,Brewsland Crescent (829),a
 43.8264941,-79.3173908,2,Highgate Drive (962),a
 43.8264987,-79.3098295,2,Maitland Drive (320),a
-43.8265065,-79.3812518,2,Brewsland Crescent (832),a
 43.8265096,-79.3166693,2,Highgate Drive (348),a
 43.8265101,-79.3175142,2,Highgate Drive (961),a
 43.8265113,-79.3306547,2,Denison Street (148),a
@@ -1486,9 +1467,7 @@ lat,lon,sz,names,len_cat
 43.8265321,-79.3108732,2,Harvest Moon Drive (960),a
 43.8265349,-79.3005077,2,Thelma Avenue (130),a
 43.8265391,-79.3177947,2,Risebrough Circuit (475),a
-43.8265446,-79.3807658,2,Brewsland Crescent (828),a
 43.8265481,-79.3095172,2,Maitland Drive (321),a
-43.8265522,-79.3813004,2,Brewsland Crescent (833),a
 43.8265604,-79.3004003,2,Old Kennedy Road (451),a
 43.8265604,-79.3004003,2,Thelma Avenue (935),a
 43.8265619,-79.3092308,2,Maitland Drive (322),a
@@ -1509,9 +1488,7 @@ lat,lon,sz,names,len_cat
 43.8266318,-79.3301262,2,Denison Street (083),a
 43.8266429,-79.3214411,2,Barrington Crescent (964),a
 43.826646,-79.3216525,2,Barrington Crescent (961),a
-43.8266516,-79.3813225,2,Brewsland Crescent (834),a
 43.8266579,-79.3090291,2,Maitland Drive (324),a
-43.8266688,-79.3781821,2,Green Lane (049),a
 43.8266693,-79.3183437,2,Risebrough Circuit (497),a
 43.8266743,-79.3299397,2,Denison Street (152),a
 43.8266743,-79.312573,2,Cottsmore Crescent (956),a
@@ -1519,10 +1496,6 @@ lat,lon,sz,names,len_cat
 43.8266842,-79.3126349,2,Cottsmore Crescent (957),a
 43.8266842,-79.308109,2,Kennedy Road (930),a
 43.8266869,-79.3213777,2,Barrington Crescent (965),a
-43.8266893,-79.3801774,2,Brewsland Crescent (827),a
-43.8266893,-79.3801774,2,Hashbury Place (364),a
-43.8266893,-79.3801774,2,Huntington Park Drive (286),a
-43.8266893,-79.3801774,2,Huntington Park Drive (327),a
 43.8266897,-79.3280352,2,Hood Road (185),a
 43.826697,-79.2976289,2,Midland Avenue (035),a
 43.8267066,-79.3123234,2,Cottsmore Crescent (954),a
@@ -1532,7 +1505,6 @@ lat,lon,sz,names,len_cat
 43.8267299,-79.3126834,2,Cottsmore Crescent (958),a
 43.8267318,-79.3109795,2,Harvest Moon Drive (961),a
 43.8267433,-79.3184784,2,Risebrough Circuit (498),a
-43.8267492,-79.3799519,2,Hashbury Place (365),a
 43.8267493,-79.3390181,2,Esna Park Drive (108),a
 43.8267508,-79.3468069,2,Esna Park Drive (741),a
 43.8267567,-79.3090139,2,Maitland Drive (325),a
@@ -1543,18 +1515,15 @@ lat,lon,sz,names,len_cat
 43.826769,-79.3159407,2,Highgate Drive (351),a
 43.8267755,-79.3127194,2,Cottsmore Crescent (959),a
 43.8267755,-79.3127194,2,Cottsmore Crescent (959),a
-43.8268007,-79.3797764,2,Hashbury Place (366),a
 43.8268022,-79.3293788,2,Denison Street (606),a
 43.8268029,-79.34663,2,Esna Park Drive (738),a
 43.8268037,-79.3158526,2,Highgate Drive (352),a
-43.8268056,-79.381393,2,Brewsland Crescent (835),a
 43.8268124,-79.3293342,2,Denison Street (608),a
 43.8268124,-79.3293342,2,Denison Street (916),a
 43.8268142,-79.3220706,2,Barrington Crescent (960),a
 43.8268181,-79.3079571,2,Kennedy Road (773),a
 43.8268181,-79.3079571,2,Kennedy Road (939),a
 43.826828,-79.2988528,2,Sun Yat-Sen Avenue (722),a
-43.8268349,-79.3796511,2,Hashbury Place (367),a
 43.8268358,-79.3185657,2,Risebrough Circuit (499),a
 43.8268358,-79.3185657,2,Risebrough Circuit (736),a
 43.8268404,-79.2988964,2,Sun Yat-Sen Avenue (721),a
@@ -1567,7 +1536,6 @@ lat,lon,sz,names,len_cat
 43.8268757,-79.29862,2,Sun Yat-Sen Avenue (723),a
 43.8268765,-79.3116346,2,Cottsmore Crescent (953),a
 43.8268779,-79.3003847,2,Sun Yat-Sen Avenue (078),a
-43.8268784,-79.379538,2,Hashbury Place (368),a
 43.8268793,-79.2991041,2,Sun Yat-Sen Avenue (719),a
 43.8268793,-79.2991041,2,Sun Yat-Sen Avenue (732),a
 43.8268827,-79.3157136,2,Highgate Drive (353),a
@@ -1580,11 +1548,9 @@ lat,lon,sz,names,len_cat
 43.8269155,-79.3246794,2,Pepperell Crescent (787),a
 43.8269155,-79.3246794,2,Risebrough Circuit (433),a
 43.8269265,-79.3223659,2,Barrington Crescent (959),a
-43.8269313,-79.3794619,2,Hashbury Place (369),a
 43.8269338,-79.3080982,2,Kennedy Road (929),a
 43.8269389,-79.3287985,2,Denison Street (144),a
 43.8269581,-79.3460091,2,Esna Park Drive (736),a
-43.8269597,-79.3814634,2,Brewsland Crescent (836),a
 43.8269621,-79.3186588,2,Risebrough Circuit (432),a
 43.8269663,-79.3263968,2,Warden Avenue (678),a
 43.8269663,-79.3263968,2,Warden Avenue (678),a
@@ -1597,7 +1563,6 @@ lat,lon,sz,names,len_cat
 43.8269799,-79.3155865,2,Highgate Drive (354),a
 43.826983,-79.2958035,2,Duxford Crescent (432),a
 43.8269833,-79.3225509,2,Barrington Crescent (958),a
-43.8269844,-79.3793983,2,Hashbury Place (370),a
 43.8269848,-79.311176,2,Cottsmore Crescent (099),a
 43.8269849,-79.3281096,2,Hood Road (372),a
 43.8269862,-79.2959739,2,Duxford Crescent (430),a
@@ -1621,7 +1586,6 @@ lat,lon,sz,names,len_cat
 43.8270333,-79.310955,2,Maitland Drive (340),a
 43.8270348,-79.2956119,2,Duxford Crescent (433),a
 43.8270387,-79.345644,2,Esna Park Drive (734),a
-43.8270405,-79.3780084,2,Green Lane (051),a
 43.8270485,-79.3245389,2,Risebrough Circuit (434),a
 43.8270491,-79.3265188,2,Warden Avenue (677),a
 43.8270491,-79.3265188,2,Warden Avenue (677),a
@@ -1648,13 +1612,11 @@ lat,lon,sz,names,len_cat
 43.8270935,-79.3281375,2,Hood Road (373),a
 43.8270935,-79.3281375,2,Hood Road (376),a
 43.8270936,-79.3110937,2,Harvest Moon Drive (964),a
-43.8271,-79.3792957,2,Hashbury Place (371),a
 43.8271021,-79.339333,2,Esna Park Drive (109),a
 43.8271024,-79.3251468,2,Epping Court (161),a
 43.8271024,-79.3251468,2,Epping Court (161),a
 43.8271039,-79.3252462,2,Epping Court (162),a
 43.8271039,-79.3252462,2,Epping Court (162),a
-43.8271053,-79.3815714,2,Brewsland Crescent (837),a
 43.8271107,-79.3244874,2,Risebrough Circuit (435),a
 43.8271116,-79.292314,2,Steeles Avenue East (499),a
 43.8271116,-79.292314,2,Steeles Avenue East (741),a
@@ -1665,7 +1627,6 @@ lat,lon,sz,names,len_cat
 43.827143,-79.3187159,2,Risebrough Circuit (431),a
 43.827147,-79.2979438,2,Sun Yat-Sen Avenue (491),a
 43.8271489,-79.296019,2,Duxford Crescent (427),a
-43.8271602,-79.3803636,2,Huntington Park Drive (287),a
 43.8271632,-79.3393946,2,Esna Park Drive (803),a
 43.827168,-79.297853,2,Midland Avenue (884),a
 43.827168,-79.297853,2,Sun Yat-Sen Avenue (726),a
@@ -1678,7 +1639,6 @@ lat,lon,sz,names,len_cat
 43.8271968,-79.3089393,2,Maitland Drive (328),a
 43.8271999,-79.3103694,2,Maitland Drive (338),a
 43.8272066,-79.3212015,2,Barrington Crescent (966),a
-43.8272165,-79.3792552,2,Hashbury Place (372),a
 43.8272286,-79.3110899,2,Harvest Moon Drive (965),a
 43.8272291,-79.3394795,2,Esna Park Drive (693),a
 43.8272291,-79.3394795,2,Esna Park Drive (804),a
@@ -1687,7 +1647,6 @@ lat,lon,sz,names,len_cat
 43.8272462,-79.294698,2,Duxford Crescent (434),a
 43.8272515,-79.2918847,2,Steeles Avenue East (704),a
 43.8272538,-79.3275158,2,Denison Street (380),a
-43.8272602,-79.3817041,2,Brewsland Crescent (838),a
 43.8272624,-79.3231649,2,Barrington Crescent (954),a
 43.8272649,-79.3153795,2,Highgate Drive (357),a
 43.8272686,-79.3089248,2,Maitland Drive (329),a
@@ -1705,11 +1664,9 @@ lat,lon,sz,names,len_cat
 43.8273227,-79.2917991,2,Fenton Road (327),a
 43.8273302,-79.3100424,2,Maitland Drive (336),a
 43.8273313,-79.3352425,2,Amber Street (351),a
-43.8273322,-79.3804336,2,Huntington Park Drive (288),a
 43.8273338,-79.3272208,2,Denison Street (533),a
 43.8273338,-79.3272208,2,Denison Street (540),a
 43.8273338,-79.3272208,2,Denison Street (649),a
-43.8273423,-79.3792394,2,Hashbury Place (373),a
 43.8273448,-79.3006155,2,Celadine Drive (135),a
 43.8273448,-79.3006155,2,Celadine Drive (135),a
 43.8273448,-79.3006155,2,Old Kennedy Road (452),a
@@ -1736,7 +1693,6 @@ lat,lon,sz,names,len_cat
 43.827384,-79.3185899,2,Risebrough Circuit (133),a
 43.8273841,-79.3441388,2,Esna Park Drive (730),a
 43.8273866,-79.3211964,2,Barrington Crescent (970),a
-43.8273881,-79.3818374,2,Brewsland Crescent (839),a
 43.8273976,-79.3271403,2,Denison Street (539),a
 43.8273976,-79.3091201,2,Maitland Drive (333),a
 43.8274025,-79.3398701,2,Esna Park Drive (307),a
@@ -1751,7 +1707,6 @@ lat,lon,sz,names,len_cat
 43.8274084,-79.3092442,2,Maitland Drive (334),a
 43.8274102,-79.3153406,2,Highgate Drive (358),a
 43.8274111,-79.3440181,2,Esna Park Drive (729),a
-43.8274136,-79.3780142,2,Green Lane (052),a
 43.8274147,-79.3212702,2,Barrington Crescent (971),a
 43.8274305,-79.3080322,2,Kennedy Road (054),a
 43.8274309,-79.3036795,2,Sunrise Drive (273),a
@@ -1805,7 +1760,6 @@ lat,lon,sz,names,len_cat
 43.82752,-79.30333,2,Faithful Way (867),a
 43.82752,-79.30333,2,Sunrise Drive (271),a
 43.82752,-79.30333,2,Sunrise Drive (274),a
-43.827526,-79.3820327,2,Brewsland Crescent (840),a
 43.8275271,-79.3185062,2,Risebrough Circuit (428),a
 43.8275273,-79.3078659,2,Kennedy Road (940),a
 43.8275386,-79.32358,2,Barrington Crescent (953),a
@@ -1829,20 +1783,16 @@ lat,lon,sz,names,len_cat
 43.8275614,-79.3263577,2,Denison Street (147),a
 43.8275636,-79.3266398,2,Warden Avenue (665),a
 43.8275636,-79.3266398,2,Warden Avenue (665),a
-43.8275678,-79.3805391,2,Huntington Park Drive (289),a
 43.8275726,-79.3402379,2,Esna Park Drive (705),a
 43.8275832,-79.2967653,2,Manston Crescent (058),a
 43.8275882,-79.3153207,2,Highgate Drive (360),a
-43.8275889,-79.3780541,2,Green Lane (053),a
 43.8275923,-79.3339084,2,Amber Street (961),a
 43.8276039,-79.3264746,2,Warden Avenue (680),a
 43.8276039,-79.3264746,2,Warden Avenue (680),a
-43.8276042,-79.3792945,2,Hashbury Place (374),a
 43.8276081,-79.3078489,2,Kennedy Road (047),a
 43.8276081,-79.3078489,2,Kennedy Road (124),a
 43.8276081,-79.3078489,2,Kennedy Road (793),a
 43.8276084,-79.2936305,2,Duxford Crescent (442),a
-43.8276089,-79.3821672,2,Brewsland Crescent (841),a
 43.827609,-79.2972869,2,Manston Crescent (063),a
 43.8276126,-79.3237147,2,Barrington Crescent (952),a
 43.8276126,-79.3237147,2,Risebrough Circuit (439),a
@@ -1852,19 +1802,15 @@ lat,lon,sz,names,len_cat
 43.8276372,-79.3079844,2,Clayton Drive (250),a
 43.8276372,-79.3079844,2,Kennedy Road (052),a
 43.8276372,-79.3079844,2,Kennedy Road (792),a
-43.8276546,-79.3822157,2,Brewsland Crescent (842),a
 43.8276586,-79.3430137,2,Esna Park Drive (727),a
 43.8276586,-79.310941,2,Harvest Moon Drive (968),a
 43.8276608,-79.3282975,2,Hood Road (501),a
 43.8276626,-79.308097,2,Clayton Drive (135),a
-43.8276771,-79.3806232,2,Huntington Park Drive (290),a
 43.8276898,-79.2936531,2,Duxford Crescent (444),a
-43.8276958,-79.3794039,2,Hashbury Place (375),a
 43.8276966,-79.3428628,2,Esna Park Drive (726),a
 43.8276983,-79.3078211,2,Kennedy Road (048),a
 43.8276983,-79.3078211,2,Kennedy Road (738),a
 43.8276989,-79.3222323,2,Barrington Crescent (975),a
-43.8277,-79.3822394,2,Brewsland Crescent (843),a
 43.8277005,-79.2961774,2,Duxford Crescent (424),a
 43.8277005,-79.2961774,2,Manston Crescent (052),a
 43.8277005,-79.2961774,2,Manston Crescent (057),a
@@ -1879,7 +1825,6 @@ lat,lon,sz,names,len_cat
 43.827729,-79.3333238,2,Amber Street (347),a
 43.8277356,-79.3407024,2,Esna Park Drive (718),a
 43.8277356,-79.3407024,2,Esna Park Drive (719),a
-43.827736,-79.3822384,2,Brewsland Crescent (844),a
 43.8277373,-79.308501,2,Clayton Drive (134),a
 43.8277477,-79.3332438,2,Amber Street (958),a
 43.8277477,-79.3108763,2,Harvest Moon Drive (969),a
@@ -1894,8 +1839,6 @@ lat,lon,sz,names,len_cat
 43.8277551,-79.32238,2,Barrington Crescent (976),a
 43.8277585,-79.3423176,2,Esna Park Drive (352),a
 43.8277672,-79.3077972,2,Kennedy Road (049),a
-43.8277773,-79.3807076,2,Huntington Park Drive (291),a
-43.8277806,-79.3822123,2,Brewsland Crescent (845),a
 43.8277846,-79.341061,2,Esna Park Drive (420),a
 43.8277925,-79.3085614,2,Clayton Drive (133),a
 43.8277925,-79.3085614,2,Clayton Drive (711),a
@@ -1915,18 +1858,15 @@ lat,lon,sz,names,len_cat
 43.8278236,-79.3251322,2,Denison Street (543),a
 43.8278243,-79.3087276,2,Clayton Drive (801),a
 43.8278243,-79.3087276,2,Clayton Drive (803),a
-43.8278251,-79.3821738,2,Brewsland Crescent (846),a
 43.8278359,-79.3419608,2,Esna Park Drive (355),a
 43.8278392,-79.3267087,2,Warden Avenue (664),a
 43.8278413,-79.3153882,2,Highgate Drive (362),a
-43.8278427,-79.3821485,2,Brewsland Crescent (847),a
 43.8278468,-79.3079175,2,Kennedy Road (944),a
 43.8278473,-79.3283502,2,Hood Road (370),a
 43.8278473,-79.3283502,2,Hood Road (374),a
 43.8278523,-79.3088369,2,Clayton Drive (163),a
 43.8278525,-79.3409457,2,Esna Park Drive (720),a
 43.8278566,-79.3182606,2,Risebrough Circuit (427),a
-43.8278599,-79.3808173,2,Huntington Park Drive (292),a
 43.82786,-79.2983544,2,Celadine Drive (137),a
 43.8278636,-79.3265339,2,Warden Avenue (681),a
 43.8278636,-79.3265339,2,Warden Avenue (681),a
@@ -1945,7 +1885,6 @@ lat,lon,sz,names,len_cat
 43.8278812,-79.3247457,2,Denison Street (550),a
 43.8278812,-79.3247457,2,Denison Street (550),a
 43.8279036,-79.3089737,2,Clayton Drive (164),a
-43.8279049,-79.3820846,2,Brewsland Crescent (848),a
 43.8279103,-79.3108217,2,Highgate Drive (214),a
 43.827914,-79.3154359,2,Highgate Drive (363),a
 43.8279251,-79.3410715,2,Esna Park Drive (721),a
@@ -1960,7 +1899,6 @@ lat,lon,sz,names,len_cat
 43.8279296,-79.3226114,2,Barrington Crescent (978),a
 43.8279329,-79.3173257,2,Birchmount Road (450),a
 43.8279343,-79.3415009,2,Esna Park Drive (356),a
-43.8279428,-79.3809518,2,Huntington Park Drive (293),a
 43.8279493,-79.3419478,2,Esna Park Drive (681),a
 43.8279493,-79.3419478,2,Esna Park Drive (785),a
 43.8279675,-79.3090783,2,Clayton Drive (266),a
@@ -2006,7 +1944,6 @@ lat,lon,sz,names,len_cat
 43.828026,-79.2938549,2,Aldergrove Drive (162),a
 43.8280282,-79.3164649,2,Hampstead Court (428),a
 43.8280291,-79.3201959,2,Longmeadow Crescent (725),a
-43.8280294,-79.3819818,2,Brewsland Crescent (849),a
 43.8280336,-79.3192755,2,Longmeadow Crescent (730),a
 43.8280344,-79.3355499,2,Amber Street (192),a
 43.8280362,-79.3091507,2,Clayton Drive (165),a
@@ -2049,10 +1986,6 @@ lat,lon,sz,names,len_cat
 43.8281123,-79.3129761,2,Cottsmore Crescent (965),a
 43.8281123,-79.3129761,2,Cottsmore Crescent (965),a
 43.8281174,-79.3316598,2,Amber Street (352),a
-43.8281185,-79.3781923,2,Green Lane (054),a
-43.8281185,-79.3781923,2,Richview Court (475),a
-43.8281192,-79.3832354,2,Prince Edward Boulevard (547),a
-43.8281205,-79.3833225,2,Prince Edward Boulevard (548),a
 43.8281234,-79.2913399,2,Hornchurch Crescent (679),a
 43.8281235,-79.371504,2,Leslie Street (918),a
 43.8281235,-79.371504,2,Leslie Street (929),a
@@ -2073,29 +2006,18 @@ lat,lon,sz,names,len_cat
 43.8281434,-79.312916,2,Cottsmore Crescent (967),a
 43.828145,-79.2976075,2,Manston Crescent (067),a
 43.8281466,-79.3112363,2,Highgate Drive (941),a
-43.8281482,-79.3833715,2,Prince Edward Boulevard (549),a
-43.8281521,-79.3780482,2,Richview Court (681),a
 43.8281577,-79.3314869,2,Amber Street (354),a
 43.828158,-79.335604,2,Amber Street (171),a
 43.82816,-79.3211374,2,Longmeadow Crescent (722),a
 43.8281611,-79.3181526,2,Risebrough Circuit (425),a
-43.8281633,-79.3831721,2,Prince Edward Boulevard (546),a
 43.8281697,-79.3407887,2,Alden Road (116),a
 43.8281697,-79.3407887,2,Alden Road (164),a
 43.8281702,-79.2944727,2,Aldergrove Drive (166),a
-43.8281715,-79.3818411,2,Brewsland Crescent (850),a
 43.8281796,-79.3045834,2,Aldergrove Drive (811),a
 43.8281796,-79.3045834,2,Comely Way (633),a
 43.8281851,-79.3414059,2,Rodick Road (894),a
-43.8281852,-79.3834451,2,Prince Edward Boulevard (550),a
 43.8281883,-79.3267141,2,Warden Avenue (014),a
 43.8281883,-79.3267141,2,Warden Avenue (318),a
-43.82819,-79.3736323,2,Alexis Road (064),a
-43.82819,-79.3736323,2,Alexis Road (064),a
-43.828198,-79.3735575,2,Alexis Road (066),a
-43.828198,-79.3735575,2,Alexis Road (066),a
-43.8282003,-79.3737191,2,Alexis Road (060),a
-43.8282003,-79.3737191,2,Alexis Road (060),a
 43.8282052,-79.3101545,2,Harvest Moon Drive (974),a
 43.828215,-79.3312452,2,Amber Street (355),a
 43.8282175,-79.287687,2,Steeles Avenue East (667),a
@@ -2107,27 +2029,17 @@ lat,lon,sz,names,len_cat
 43.828232,-79.2913741,2,Hornchurch Crescent (678),a
 43.828235,-79.304454,2,Comely Way (626),a
 43.8282353,-79.3213592,2,Longmeadow Crescent (721),a
-43.8282371,-79.3737803,2,Alexis Road (058),a
-43.8282371,-79.3737803,2,Alexis Road (058),a
 43.8282409,-79.3113612,2,Highgate Drive (942),a
-43.8282502,-79.3734317,2,Alexis Road (067),a
-43.8282502,-79.3734317,2,Alexis Road (067),a
 43.8282524,-79.2903289,2,Hornchurch Crescent (684),a
 43.8282524,-79.2903289,2,Hornchurch Crescent (684),a
-43.8282591,-79.3835799,2,Prince Edward Boulevard (551),a
 43.8282697,-79.3098575,2,Harvest Moon Drive (975),a
 43.8282703,-79.3408737,2,Alden Road (092),a
 43.8282743,-79.3172788,2,Birchmount Road (451),a
 43.8282789,-79.3163708,2,Hampstead Court (430),a
 43.8282818,-79.3416886,2,Rodick Road (336),a
 43.8282879,-79.2873775,2,Steeles Avenue East (666),a
-43.828301,-79.3738407,2,Alexis Road (056),a
-43.828301,-79.3738407,2,Alexis Road (056),a
 43.8283132,-79.3077279,2,Kennedy Road (942),a
 43.8283132,-79.3077279,2,Kennedy Road (948),a
-43.8283136,-79.3817005,2,Brewsland Crescent (851),a
-43.8283136,-79.3817005,2,Huntington Park Drive (275),a
-43.8283136,-79.3817005,2,Huntington Park Drive (294),a
 43.8283183,-79.2946517,2,Aldergrove Drive (686),a
 43.8283183,-79.2946517,2,Kirton Court (485),a
 43.8283183,-79.2946517,2,Manston Crescent (056),a
@@ -2151,27 +2063,20 @@ lat,lon,sz,names,len_cat
 43.828367,-79.3405429,2,Alden Road (165),a
 43.8283682,-79.3114573,2,Highgate Drive (943),a
 43.8283864,-79.3407216,2,Alden Road (078),a
-43.8283903,-79.3731543,2,Alexis Road (068),a
-43.8283903,-79.3731543,2,Alexis Road (068),a
 43.828392,-79.303827,2,Comely Way (625),a
 43.828392,-79.303827,2,Dearie Lane (846),a
 43.828393,-79.3216781,2,Longmeadow Crescent (719),a
 43.8283978,-79.2922954,2,Fenton Road (328),a
 43.8283983,-79.330461,2,Amber Street (853),a
 43.8283987,-79.3162113,2,Hampstead Court (431),a
-43.8283997,-79.3769846,2,Richview Court (476),a
 43.8284008,-79.3285064,2,Hood Road (177),a
 43.8284049,-79.2872068,2,Brimley Road (860),a
-43.8284101,-79.3739124,2,Alexis Road (054),a
-43.8284101,-79.3739124,2,Alexis Road (054),a
 43.8284269,-79.3406686,2,Alden Road (090),a
 43.8284386,-79.3048404,2,Aldergrove Drive (252),a
 43.8284388,-79.2864396,2,Steeles Avenue East (468),a
 43.8284388,-79.2864396,2,Steeles Avenue East (710),a
 43.8284413,-79.3114953,2,Highgate Drive (944),a
 43.8284425,-79.3238559,2,Denison Street (492),a
-43.8284517,-79.3730407,2,Alexis Road (069),a
-43.8284517,-79.3730407,2,Alexis Road (069),a
 43.8284555,-79.3161295,2,Clydesdale Road (799),a
 43.8284555,-79.3161295,2,Hampstead Court (432),a
 43.8284555,-79.3161295,2,Highgate Drive (367),a
@@ -2192,82 +2097,59 @@ lat,lon,sz,names,len_cat
 43.828497,-79.2892274,2,Hornchurch Crescent (685),a
 43.8285038,-79.3300098,2,Amber Street (854),a
 43.828507,-79.2965276,2,Hendon Road (874),a
-43.8285077,-79.380153,2,Brookshire Circle (656),a
 43.8285123,-79.3181551,2,Risebrough Circuit (423),a
 43.8285125,-79.2962911,2,Hendon Road (870),a
 43.8285131,-79.3416993,2,Rodick Road (308),a
 43.828514,-79.2891648,2,Hornchurch Crescent (686),a
 43.828514,-79.2891648,2,Hornchurch Crescent (686),a
-43.8285153,-79.3800533,2,Brookshire Circle (657),a
-43.8285181,-79.3802523,2,Brookshire Circle (655),a
 43.8285194,-79.3160438,2,Clydesdale Road (800),a
 43.828523,-79.3299277,2,Amber Street (358),a
 43.8285263,-79.3716146,2,Leslie Street (072),a
 43.8285263,-79.3716146,2,Leslie Street (075),a
-43.8285309,-79.3729142,2,Alexis Road (070),a
-43.8285309,-79.3729142,2,Alexis Road (070),a
 43.828531,-79.3298936,2,Amber Street (359),a
 43.8285313,-79.3009411,2,Old Kennedy Road (454),a
 43.8285313,-79.3009411,2,Old Kennedy Road (454),a
 43.8285315,-79.3404374,2,Alden Road (087),a
 43.8285315,-79.3404374,2,Alden Road (117),a
 43.8285315,-79.3404374,2,Alden Road (166),a
-43.8285316,-79.3799285,2,Brookshire Circle (658),a
 43.8285347,-79.2981405,2,Manston Crescent (068),a
-43.8285377,-79.3740209,2,Alexis Road (051),a
-43.8285377,-79.3740209,2,Alexis Road (051),a
 43.8285404,-79.3417142,2,Rodick Road (309),a
 43.8285455,-79.2960912,2,Hendon Road (869),a
-43.8285464,-79.3803386,2,Brookshire Circle (654),a
 43.8285497,-79.2891389,2,Hornchurch Crescent (687),a
 43.8285497,-79.2891389,2,Hornchurch Crescent (687),a
 43.8285502,-79.3193449,2,Longmeadow Crescent (735),a
 43.8285531,-79.3074843,2,Kennedy Road (908),a
 43.8285553,-79.2859388,2,Steeles Avenue East (013),a
 43.828556,-79.3076103,2,Kennedy Road (947),a
-43.8285561,-79.3797538,2,Brookshire Circle (659),a
 43.8285582,-79.3297772,2,Amber Street (360),a
 43.8285606,-79.304941,2,Aldergrove Drive (810),a
-43.8285729,-79.3796662,2,Brookshire Circle (660),a
 43.8285747,-79.3162754,2,Highgate Drive (368),a
 43.828576,-79.3237486,2,Denison Street (493),a
 43.8285789,-79.3009541,2,Old Kennedy Road (455),a
 43.8285789,-79.3009541,2,Old Kennedy Road (455),a
 43.828581,-79.30303,2,Comely Way (624),a
 43.828581,-79.30303,2,Petly Lane (128),a
-43.8285837,-79.3728257,2,Alexis Road (071),a
-43.8285837,-79.3728257,2,Alexis Road (071),a
 43.8285857,-79.3228112,2,Risebrough Circuit (187),a
 43.8285874,-79.2958786,2,Hendon Road (868),a
 43.8285891,-79.2965999,2,Hendon Road (875),a
-43.828599,-79.3796034,2,Brookshire Circle (661),a
 43.8286038,-79.2915501,2,Hornchurch Crescent (677),a
 43.8286166,-79.3093593,2,Clayton Drive (113),a
 43.8286265,-79.3419227,2,Rodick Road (079),a
 43.8286265,-79.3419227,2,Rodick Road (334),a
 43.82863,-79.2957157,2,Hendon Road (867),a
-43.8286346,-79.3795775,2,Brookshire Circle (662),a
-43.8286383,-79.3741301,2,Alexis Road (049),a
-43.8286383,-79.3741301,2,Alexis Road (049),a
 43.8286384,-79.3193828,2,Longmeadow Crescent (737),a
 43.8286497,-79.3074346,2,Kennedy Road (909),a
 43.828663,-79.3039464,2,Dearie Lane (272),a
-43.8286635,-79.3727364,2,Alexis Road (072),a
-43.8286635,-79.3727364,2,Alexis Road (072),a
 43.828666,-79.3182006,2,Risebrough Circuit (422),a
 43.8286672,-79.2891728,2,Hornchurch Crescent (688),a
 43.8286672,-79.2891728,2,Hornchurch Crescent (688),a
 43.8286684,-79.3417841,2,Rodick Road (898),a
-43.8286754,-79.3805465,2,Brookshire Circle (653),a
 43.8286784,-79.3221054,2,Longmeadow Crescent (717),a
 43.8286785,-79.3358308,2,Amber Street (170),a
 43.8286796,-79.3049531,2,Aldergrove Drive (251),a
 43.828693,-79.3194186,2,Longmeadow Crescent (739),a
-43.8286976,-79.3795758,2,Brookshire Circle (663),a
 43.8287013,-79.326842,2,Warden Avenue (464),a
 43.8287013,-79.326842,2,Warden Avenue (466),a
-43.8287027,-79.3742278,2,Alexis Road (047),a
-43.8287027,-79.3742278,2,Alexis Road (047),a
 43.8287095,-79.3236695,2,Denison Street (494),a
 43.8287203,-79.3418831,2,Rodick Road (769),a
 43.8287203,-79.3418831,2,Rodick Road (900),a
@@ -2290,17 +2172,11 @@ lat,lon,sz,names,len_cat
 43.828754,-79.309388,2,Clayton Drive (114),a
 43.828755,-79.302268,2,Comely Way (621),a
 43.828755,-79.302268,2,Comely Way (621),a
-43.8287586,-79.3826088,2,Huntington Park Drive (276),a
-43.8287586,-79.3826088,2,Huntington Park Drive (297),a
-43.8287586,-79.3826088,2,Prince Edward Boulevard (545),a
-43.828761,-79.3726343,2,Alexis Road (073),a
-43.828761,-79.3726343,2,Alexis Road (073),a
 43.828762,-79.302256,2,Comely Way (620),a
 43.828762,-79.302256,2,Comely Way (620),a
 43.828767,-79.3195534,2,Longmeadow Crescent (743),a
 43.828769,-79.302246,2,Comely Way (619),a
 43.828769,-79.302246,2,Comely Way (619),a
-43.8287696,-79.3795739,2,Brookshire Circle (664),a
 43.828777,-79.302236,2,Comely Way (618),a
 43.828777,-79.302236,2,Comely Way (618),a
 43.8287808,-79.3010095,2,Old Kennedy Road (457),a
@@ -2312,15 +2188,8 @@ lat,lon,sz,names,len_cat
 43.828787,-79.3196896,2,Longmeadow Crescent (745),a
 43.8287897,-79.3198761,2,Longmeadow Crescent (746),a
 43.8287938,-79.3164807,2,Highgate Drive (369),a
-43.8287943,-79.3743372,2,Alexis Road (019),a
-43.8287943,-79.3743372,2,Alexis Road (019),a
-43.8287943,-79.3743372,2,Alexis Road (045),a
-43.8287943,-79.3743372,2,Alexis Road (045),a
-43.8287943,-79.3743372,2,Stacey Crescent (446),a
-43.8287943,-79.3743372,2,Stacey Crescent (446),a
 43.828795,-79.302219,2,Comely Way (616),a
 43.828795,-79.302219,2,Comely Way (616),a
-43.8287954,-79.3807547,2,Brookshire Circle (652),a
 43.8287957,-79.3047814,2,Aldergrove Drive (789),a
 43.8287996,-79.3223881,2,Longmeadow Crescent (715),a
 43.828805,-79.302213,2,Comely Way (615),a
@@ -2335,25 +2204,17 @@ lat,lon,sz,names,len_cat
 43.828826,-79.302204,2,Comely Way (613),a
 43.8288272,-79.3286267,2,Amber Street (352),a
 43.8288272,-79.3286267,2,Hood Road (369),a
-43.828833,-79.379597,2,Brookshire Circle (665),a
 43.8288355,-79.3074635,2,Kennedy Road (368),a
 43.828836,-79.302201,2,Comely Way (612),a
 43.828836,-79.302201,2,Comely Way (612),a
-43.828841,-79.3725575,2,Alexis Road (074),a
-43.828841,-79.3725575,2,Alexis Road (074),a
 43.8288437,-79.320484,2,Longmeadow Crescent (750),a
 43.8288439,-79.3156087,2,Clydesdale Road (801),a
 43.8288444,-79.3031463,2,Petly Lane (276),a
 43.828846,-79.304027,2,Dearie Lane (847),a
-43.8288466,-79.3717419,2,14th Lane (365),a
-43.8288466,-79.3717419,2,Leslie Street (073),a
-43.8288466,-79.3717419,2,Leslie Street (192),a
 43.828847,-79.3022,2,Comely Way (611),a
 43.828847,-79.3022,2,Comely Way (611),a
 43.828858,-79.302199,2,Comely Way (610),a
 43.828858,-79.302199,2,Comely Way (610),a
-43.8288589,-79.3744474,2,Alexis Road (020),a
-43.8288589,-79.3744474,2,Alexis Road (020),a
 43.8288637,-79.3206202,2,Longmeadow Crescent (752),a
 43.8288681,-79.3400562,2,Alden Road (363),a
 43.828869,-79.3022,2,Comely Way (609),a
@@ -2363,55 +2224,30 @@ lat,lon,sz,names,len_cat
 43.8288727,-79.3358905,2,Amber Street (349),a
 43.8288731,-79.3235904,2,Denison Street (495),a
 43.8288782,-79.3073193,2,Kennedy Road (912),a
-43.8288851,-79.3724941,2,Alexis Road (075),a
-43.8288851,-79.3724941,2,Alexis Road (075),a
-43.8288904,-79.3715819,2,14th Lane (366),a
 43.8288939,-79.3165525,2,Highgate Drive (370),a
 43.8288953,-79.322665,2,Longmeadow Crescent (714),a
 43.8288953,-79.322665,2,Risebrough Circuit (405),a
 43.8288956,-79.307432,2,Kennedy Road (946),a
 43.8288963,-79.3400243,2,Alden Road (118),a
 43.828903,-79.320843,2,Longmeadow Crescent (754),a
-43.8289048,-79.3715305,2,14th Lane (638),a
 43.8289065,-79.3174103,2,Birchmount Road (453),a
 43.8289112,-79.289228,2,Hornchurch Crescent (689),a
 43.8289112,-79.289228,2,Hornchurch Crescent (689),a
-43.8289147,-79.3796446,2,Brookshire Circle (666),a
 43.828915,-79.3155445,2,Clydesdale Road (802),a
 43.8289168,-79.3094207,2,Clayton Drive (115),a
 43.8289194,-79.3268964,2,Warden Avenue (062),a
 43.8289206,-79.2916654,2,Wickham Court (034),a
 43.8289266,-79.2987046,2,Manston Crescent (069),a
-43.828929,-79.3724183,2,Alexis Road (076),a
-43.828929,-79.3724183,2,Alexis Road (076),a
-43.8289321,-79.3745325,2,Alexis Road (021),a
 43.8289348,-79.2938166,2,Kirton Court (486),a
-43.8289394,-79.3775794,2,Cricket Hollow (144),a
 43.8289403,-79.320929,2,Longmeadow Crescent (755),a
 43.8289516,-79.307339,2,Kennedy Road (086),a
 43.8289516,-79.307339,2,Kennedy Road (914),a
 43.8289516,-79.307339,2,Kennedy Road (945),a
-43.8289579,-79.3783524,2,Cricket Hollow (150),a
-43.8289579,-79.3783524,2,Green Lane (055),a
-43.8289603,-79.3739845,2,Stacey Crescent (447),a
-43.8289603,-79.3739845,2,Stacey Crescent (447),a
-43.8289623,-79.3810984,2,Brookshire Circle (651),a
-43.8289672,-79.3713076,2,14th Lane (639),a
-43.8289676,-79.3776656,2,Cricket Hollow (145),a
 43.828974,-79.3630999,2,14th Avenue (472),a
-43.8289755,-79.3782561,2,Cricket Hollow (679),a
-43.8289778,-79.3782433,2,Cricket Hollow (640),a
 43.8289781,-79.2937034,2,Kirton Court (487),a
 43.828992,-79.3116123,2,Highgate Drive (927),a
-43.8289927,-79.3781624,2,Cricket Hollow (149),a
-43.8290011,-79.372302,2,Alexis Road (077),a
 43.8290036,-79.2936032,2,Kirton Court (488),a
-43.8290038,-79.3711767,2,14th Lane (367),a
-43.8290038,-79.3711767,2,14th Lane (368),a
 43.8290046,-79.3225873,2,Risebrough Circuit (189),a
-43.8290052,-79.3777766,2,Cricket Hollow (146),a
-43.8290088,-79.3780252,2,Cricket Hollow (148),a
-43.829009,-79.3831244,2,Huntington Park Drive (298),a
 43.829011,-79.2871788,2,Brimley Road (861),a
 43.829011,-79.2871788,2,Brimley Road (899),a
 43.8290161,-79.3269205,2,Warden Avenue (017),a
@@ -2419,25 +2255,17 @@ lat,lon,sz,names,len_cat
 43.8290182,-79.32353,2,Denison Street (496),a
 43.8290199,-79.2934908,2,Kirton Court (489),a
 43.8290241,-79.2908163,2,Aldergrove Drive (841),a
-43.8290248,-79.377888,2,Cricket Hollow (147),a
 43.829025,-79.303226,2,Petly Lane (129),a
 43.8290269,-79.2987888,2,Manston Crescent (070),a
 43.8290323,-79.3210632,2,Longmeadow Crescent (756),a
-43.8290324,-79.3746168,2,Alexis Road (022),a
 43.8290377,-79.2892617,2,Hornchurch Crescent (690),a
 43.8290377,-79.2892617,2,Hornchurch Crescent (690),a
 43.8290389,-79.3184513,2,Risebrough Circuit (420),a
 43.8290477,-79.302282,2,Comely Way (267),a
 43.8290477,-79.302282,2,Comely Way (267),a
 43.8290675,-79.3155029,2,Clydesdale Road (803),a
-43.8290692,-79.3708847,2,14th Lane (369),a
 43.829071,-79.2907069,2,Aldergrove Drive (843),a
-43.8290737,-79.3813317,2,Brookshire Circle (650),a
 43.8290903,-79.2988118,2,Manston Crescent (071),a
-43.8290952,-79.379677,2,Brookshire Circle (667),a
-43.8290963,-79.3718919,2,Leslie Street (619),a
-43.8291006,-79.3737195,2,Stacey Crescent (448),a
-43.8291006,-79.3737195,2,Stacey Crescent (448),a
 43.829114,-79.3224746,2,Risebrough Circuit (406),a
 43.8291173,-79.3103402,2,Beechgrove Crescent (306),a
 43.8291245,-79.3358075,2,Amber Street (348),a
@@ -2445,7 +2273,6 @@ lat,lon,sz,names,len_cat
 43.8291254,-79.3102777,2,Beechgrove Crescent (305),a
 43.8291263,-79.2956288,2,Aldergrove Drive (865),a
 43.8291264,-79.3103583,2,Beechgrove Crescent (307),a
-43.8291283,-79.3706095,2,14th Lane (370),a
 43.8291305,-79.3352732,2,Bentley Street (170),a
 43.8291358,-79.3103769,2,Beechgrove Crescent (308),a
 43.829136,-79.2905804,2,Aldergrove Drive (852),a
@@ -2453,32 +2280,21 @@ lat,lon,sz,names,len_cat
 43.8291412,-79.298818,2,Hendon Road (882),a
 43.8291412,-79.298818,2,Hendon Road (883),a
 43.8291412,-79.298818,2,Manston Crescent (072),a
-43.8291414,-79.3746885,2,Alexis Road (023),a
-43.829143,-79.3703728,2,14th Lane (371),a
-43.829149,-79.3701612,2,14th Lane (372),a
-43.8291496,-79.3797004,2,Brookshire Circle (668),a
 43.8291505,-79.2865721,2,Chase Court (395),a
 43.8291513,-79.3624246,2,14th Avenue (471),a
 43.8291513,-79.3624246,2,14th Avenue (471),a
 43.8291554,-79.2989846,2,Hendon Road (884),a
-43.8291563,-79.3694148,2,14th Lane (374),a
 43.8291563,-79.2917706,2,Wickham Court (035),a
-43.829158,-79.3783807,2,Green Lane (056),a
 43.8291601,-79.321184,2,Longmeadow Crescent (757),a
-43.8291629,-79.3698748,2,14th Lane (373),a
 43.8291651,-79.3166319,2,Highgate Drive (371),a
-43.829166,-79.3814909,2,Brookshire Circle (649),a
 43.8291664,-79.2864349,2,Chase Court (396),a
 43.8291736,-79.2863103,2,Chase Court (397),a
 43.8291764,-79.3186215,2,Ferguson Gate (178),a
 43.8291764,-79.3186215,2,Risebrough Circuit (419),a
 43.8291799,-79.2987844,2,Hendon Road (881),a
-43.8291824,-79.3693519,2,14th Lane (375),a
 43.8291826,-79.2893198,2,Hornchurch Crescent (691),a
 43.8291826,-79.2893198,2,Hornchurch Crescent (691),a
 43.829193,-79.3099773,2,Beechgrove Crescent (304),a
-43.8291938,-79.3815523,2,Brookshire Circle (648),a
-43.8291953,-79.3797489,2,Brookshire Circle (669),a
 43.8291999,-79.3104498,2,Beechgrove Crescent (309),a
 43.8292,-79.3622392,2,14th Avenue (560),a
 43.8292,-79.3622392,2,14th Avenue (560),a
@@ -2490,29 +2306,18 @@ lat,lon,sz,names,len_cat
 43.8292205,-79.2957694,2,Aldergrove Drive (875),a
 43.8292219,-79.3348889,2,Bentley Street (190),a
 43.8292244,-79.2860974,2,Chase Court (398),a
-43.8292265,-79.3692885,2,14th Lane (376),a
 43.8292284,-79.2893682,2,Hornchurch Crescent (692),a
 43.8292284,-79.2893682,2,Hornchurch Crescent (692),a
 43.8292298,-79.2904458,2,Aldergrove Drive (832),a
 43.8292298,-79.2904458,2,Aldergrove Drive (832),a
-43.8292309,-79.3816259,2,Brookshire Circle (647),a
 43.8292368,-79.3348263,2,Bentley Street (850),a
-43.829241,-79.3797974,2,Brookshire Circle (670),a
 43.8292489,-79.3421203,2,Rodick Road (892),a
 43.8292489,-79.3421203,2,Rodick Road (909),a
-43.8292515,-79.3856301,2,Prince Edward Boulevard (552),a
-43.8292515,-79.3856301,2,Prince Edward Boulevard (552),a
 43.8292558,-79.3185074,2,Ferguson Gate (179),a
 43.8292587,-79.2859845,2,Chase Court (399),a
 43.8292645,-79.29178,2,Wickham Court (036),a
-43.8292712,-79.3692624,2,14th Lane (377),a
 43.8292723,-79.3104726,2,Beechgrove Crescent (310),a
-43.8292762,-79.3816496,2,Brookshire Circle (646),a
-43.8292782,-79.3798835,2,Brookshire Circle (671),a
 43.8292851,-79.2859464,2,Chase Court (400),a
-43.8292852,-79.3734036,2,Stacey Crescent (449),a
-43.8292852,-79.3734036,2,Stacey Crescent (449),a
-43.8292867,-79.3747716,2,Alexis Road (024),a
 43.8292879,-79.297575,2,Hendon Road (876),a
 43.8292964,-79.3212672,2,Longmeadow Crescent (758),a
 43.8292964,-79.3188171,2,Risebrough Circuit (418),a
@@ -2522,17 +2327,10 @@ lat,lon,sz,names,len_cat
 43.8293094,-79.3095021,2,Clayton Drive (116),a
 43.8293094,-79.3095021,2,Clayton Drive (153),a
 43.8293094,-79.3095021,2,Eastpine Drive (855),a
-43.8293166,-79.3857776,2,Prince Edward Boulevard (553),a
-43.8293166,-79.3857776,2,Prince Edward Boulevard (553),a
 43.8293167,-79.2982955,2,Hendon Road (879),a
 43.8293195,-79.2903429,2,Aldergrove Drive (842),a
 43.8293195,-79.2903429,2,Aldergrove Drive (842),a
 43.8293298,-79.2859203,2,Chase Court (401),a
-43.8293304,-79.3816605,2,Brookshire Circle (645),a
-43.8293327,-79.372084,2,Leslie Street (194),a
-43.8293327,-79.372084,2,Leslie Street (196),a
-43.829343,-79.3800061,2,Brookshire Circle (672),a
-43.829343,-79.369248,2,14th Lane (378),a
 43.8293432,-79.2976604,2,Hendon Road (877),a
 43.8293436,-79.3183557,2,Ferguson Gate (180),a
 43.8293475,-79.2871766,2,Brimley Road (901),a
@@ -2547,35 +2345,21 @@ lat,lon,sz,names,len_cat
 43.8293568,-79.3024237,2,Aldergrove Drive (812),a
 43.8293568,-79.3024237,2,Comely Way (608),a
 43.8293568,-79.3024237,2,Comely Way (608),a
-43.8293572,-79.3816474,2,Brookshire Circle (644),a
 43.8293723,-79.2917645,2,Wickham Court (037),a
 43.8293763,-79.3394767,2,Alden Road (364),a
 43.8293808,-79.3342214,2,Bentley Street (189),a
-43.8293826,-79.373289,2,Stacey Crescent (450),a
-43.8293826,-79.373289,2,Stacey Crescent (450),a
 43.8293839,-79.3219891,2,Risebrough Circuit (190),a
 43.8293895,-79.3341848,2,Bentley Street (849),a
 43.8293926,-79.3155684,2,Clydesdale Road (805),a
 43.8293926,-79.285906,2,Chase Court (402),a
-43.8293988,-79.3783156,2,Green Lane (057),a
-43.8293992,-79.3858873,2,Prince Edward Boulevard (554),a
-43.8293992,-79.3858873,2,Prince Edward Boulevard (554),a
 43.8294083,-79.2960818,2,Aldergrove Drive (867),a
-43.8294107,-79.3816086,2,Brookshire Circle (643),a
 43.8294115,-79.3190442,2,Risebrough Circuit (417),a
 43.8294134,-79.334068,2,Bentley Street (188),a
 43.8294141,-79.3212963,2,Longmeadow Crescent (759),a
 43.8294163,-79.3340539,2,Bentley Street (848),a
-43.829418,-79.3669327,2,Mowatt Court (929),a
-43.8294254,-79.3668206,2,Mowatt Court (930),a
 43.8294255,-79.321851,2,Risebrough Circuit (408),a
 43.8294262,-79.3190747,2,Risebrough Circuit (416),a
 43.8294271,-79.3166867,2,Highgate Drive (372),a
-43.8294274,-79.3732753,2,Stacey Crescent (451),a
-43.8294274,-79.3732753,2,Stacey Crescent (451),a
-43.8294279,-79.3669946,2,Mowatt Court (928),a
-43.8294319,-79.3748547,2,Alexis Road (025),a
-43.8294326,-79.366696,2,Mowatt Court (931),a
 43.8294347,-79.3422193,2,Rodick Road (891),a
 43.829436,-79.3213023,2,Longmeadow Crescent (571),a
 43.8294401,-79.3613243,2,14th Avenue (467),a
@@ -2588,33 +2372,20 @@ lat,lon,sz,names,len_cat
 43.8294439,-79.3095142,2,Clayton Drive (154),a
 43.829444,-79.3105175,2,Beechgrove Crescent (311),a
 43.8294471,-79.3223326,2,Andover Court (092),a
-43.829451,-79.3692451,2,14th Lane (379),a
-43.8294556,-79.3670436,2,Mowatt Court (927),a
 43.8294563,-79.285954,2,Chase Court (403),a
-43.8294566,-79.3664839,2,Mowatt Court (932),a
 43.8294623,-79.2917619,2,Wickham Court (038),a
-43.8294634,-79.3732744,2,Stacey Crescent (452),a
-43.8294634,-79.3732744,2,Stacey Crescent (452),a
 43.8294725,-79.3216105,2,Risebrough Circuit (409),a
 43.8294741,-79.3156034,2,Clydesdale Road (806),a
-43.8294811,-79.3663091,2,Mowatt Court (933),a
 43.8294885,-79.3214733,2,Risebrough Circuit (410),a
-43.829491,-79.3802881,2,Brookshire Circle (673),a
-43.8294921,-79.3670799,2,Mowatt Court (926),a
 43.8294947,-79.3611165,2,14th Avenue (466),a
 43.8294947,-79.3611165,2,14th Avenue (466),a
-43.8295001,-79.3860214,2,Prince Edward Boulevard (555),a
-43.8295001,-79.3860214,2,Prince Edward Boulevard (555),a
 43.829507,-79.2871979,2,Brimley Road (902),a
 43.829507,-79.2871979,2,Brimley Road (903),a
-43.829509,-79.3733104,2,Stacey Crescent (453),a
-43.829509,-79.3733104,2,Stacey Crescent (453),a
 43.8295111,-79.3181146,2,Ferguson Gate (182),a
 43.829513,-79.3012042,2,Old Kennedy Road (464),a
 43.829513,-79.3012042,2,Old Kennedy Road (464),a
 43.8295133,-79.3213233,2,Longmeadow Crescent (760),a
 43.8295133,-79.3213233,2,Risebrough Circuit (411),a
-43.8295141,-79.3660968,2,Mowatt Court (934),a
 43.8295186,-79.3288145,2,Hood Road (384),a
 43.829528,-79.2847331,2,Dairis Crescent (967),a
 43.8295281,-79.3156019,2,Clydesdale Road (807),a
@@ -2622,38 +2393,26 @@ lat,lon,sz,names,len_cat
 43.8295298,-79.3193827,2,Risebrough Circuit (415),a
 43.8295309,-79.3016553,2,Aldergrove Drive (277),a
 43.8295309,-79.3016553,2,Aldergrove Drive (277),a
-43.8295323,-79.3749515,2,Alexis Road (026),a
 43.8295363,-79.2846831,2,Dairis Crescent (969),a
-43.8295395,-79.3659842,2,Mowatt Court (935),a
 43.8295411,-79.3015913,2,Aldergrove Drive (352),a
 43.8295411,-79.3015913,2,Aldergrove Drive (352),a
 43.829546,-79.318039,2,Ferguson Gate (183),a
 43.8295479,-79.2848569,2,Dairis Crescent (964),a
 43.8295528,-79.3334365,2,Bentley Street (083),a
 43.8295546,-79.3210734,2,Risebrough Circuit (412),a
-43.8295553,-79.3670906,2,Mowatt Court (925),a
 43.8295561,-79.3195952,2,Risebrough Circuit (192),a
 43.8295639,-79.3155884,2,Clydesdale Road (808),a
-43.8295658,-79.3782052,2,Green Lane (058),a
-43.8295658,-79.3782052,2,Huntington Park Drive (277),a
 43.8295691,-79.3117716,2,Highgate Drive (928),a
 43.8295699,-79.291734,2,Wickham Court (039),a
 43.8295704,-79.2845577,2,Dairis Crescent (971),a
-43.829573,-79.3733833,2,Stacey Crescent (454),a
-43.829573,-79.3733833,2,Stacey Crescent (454),a
 43.8295764,-79.3423297,2,Rodick Road (954),a
 43.8295805,-79.3179386,2,Ferguson Gate (184),a
 43.8295821,-79.2901417,2,Aldergrove Drive (862),a
 43.8295821,-79.2901417,2,Aldergrove Drive (862),a
 43.8295833,-79.2872189,2,Brimley Road (904),a
-43.8295834,-79.3659083,2,Mowatt Court (936),a
 43.8295843,-79.2848807,2,Dairis Crescent (962),a
-43.8295876,-79.3750371,2,Alexis Road (027),a
 43.8295914,-79.3607479,2,14th Avenue (403),a
 43.8295914,-79.3607479,2,14th Avenue (403),a
-43.8295946,-79.3711067,2,Valleyview Road (803),a
-43.8295955,-79.3711689,2,Valleyview Road (804),a
-43.8295964,-79.3712311,2,Valleyview Road (805),a
 43.829598,-79.3365806,2,Bentley Street (153),a
 43.829598,-79.3365806,2,Bentley Street (153),a
 43.829599,-79.3012271,2,Aldergrove Drive (204),a
@@ -2664,11 +2423,9 @@ lat,lon,sz,names,len_cat
 43.829599,-79.3012271,2,Old Kennedy Road (458),a
 43.829599,-79.3012271,2,Old Kennedy Road (465),a
 43.829599,-79.3012271,2,Old Kennedy Road (465),a
-43.8296019,-79.3804841,2,Brookshire Circle (674),a
 43.8296025,-79.3207835,2,Risebrough Circuit (413),a
 43.8296025,-79.3204978,2,Fieldview Crescent (131),a
 43.8296025,-79.3204978,2,Risebrough Circuit (414),a
-43.8296029,-79.3710568,2,Valleyview Road (802),a
 43.829605,-79.2916708,2,Wickham Court (040),a
 43.8296069,-79.3392136,2,Alden Road (119),a
 43.8296072,-79.3178185,2,Ferguson Gate (185),a
@@ -2676,43 +2433,24 @@ lat,lon,sz,names,len_cat
 43.8296093,-79.3206681,2,Risebrough Circuit (191),a
 43.8296094,-79.3011032,2,Aldergrove Drive (871),a
 43.8296094,-79.3011032,2,Aldergrove Drive (871),a
-43.8296107,-79.3783578,2,Huntington Park Drive (670),a
-43.8296149,-79.3814041,2,Brookshire Circle (642),a
 43.8296166,-79.3167187,2,Highgate Drive (373),a
-43.8296241,-79.3712801,2,Valleyview Road (806),a
-43.8296288,-79.3709814,2,Valleyview Road (801),a
 43.8296309,-79.3176884,2,Bibury Gate (164),a
 43.8296309,-79.3176884,2,Birchmount Road (646),a
 43.8296309,-79.3176884,2,Ferguson Gate (186),a
-43.8296312,-79.3692526,2,14th Lane (380),a
-43.8296345,-79.3751726,2,Alexis Road (029),a
-43.8296365,-79.3671009,2,Mowatt Court (924),a
-43.8296371,-79.365882,2,Mowatt Court (937),a
-43.8296373,-79.3861669,2,Prince Edward Boulevard (556),a
-43.8296373,-79.3861669,2,Prince Edward Boulevard (556),a
 43.8296383,-79.2848792,2,Dairis Crescent (960),a
 43.829643,-79.3605514,2,14th Avenue (463),a
 43.829643,-79.3605514,2,14th Avenue (463),a
-43.8296456,-79.3708939,2,Valleyview Road (800),a
 43.8296461,-79.3008198,2,Aldergrove Drive (838),a
 43.8296461,-79.3008198,2,Aldergrove Drive (838),a
-43.8296468,-79.3735057,2,Stacey Crescent (455),a
-43.8296468,-79.3735057,2,Stacey Crescent (455),a
 43.8296481,-79.3145787,2,Croxley Green (287),a
 43.829651,-79.315387,2,Clydesdale Road (810),a
 43.829656,-79.3288518,2,Hood Road (180),a
 43.82966,-79.2811873,2,Steeles Avenue East (511),a
 43.82966,-79.2811873,2,Steeles Avenue East (753),a
-43.8296624,-79.3708064,2,Valleyview Road (799),a
-43.8296633,-79.3752962,2,Alexis Road (030),a
 43.8296636,-79.3175328,2,Bibury Gate (949),a
 43.8296652,-79.2914825,2,Wickham Court (041),a
 43.829673,-79.3174882,2,Bibury Gate (165),a
-43.8296784,-79.3706692,2,Valleyview Road (798),a
-43.829679,-79.3713408,2,Valleyview Road (807),a
 43.8296798,-79.2840447,2,Dairis Crescent (973),a
-43.8296832,-79.3786039,2,Huntington Park Drive (278),a
-43.8296832,-79.3754325,2,Alexis Road (032),a
 43.8296836,-79.3012502,2,Old Kennedy Road (459),a
 43.8296836,-79.3012502,2,Old Kennedy Road (459),a
 43.8296838,-79.3006012,2,Aldergrove Drive (858),a
@@ -2722,22 +2460,12 @@ lat,lon,sz,names,len_cat
 43.8296902,-79.3204975,2,Fieldview Crescent (130),a
 43.8296989,-79.3192536,2,Fieldview Crescent (094),a
 43.8296999,-79.2913944,2,Wickham Court (042),a
-43.8297001,-79.3658803,2,Mowatt Court (938),a
-43.8297033,-79.3705192,2,Valleyview Road (797),a
 43.8297055,-79.2839569,2,Dairis Crescent (975),a
-43.8297064,-79.3694744,2,Valleyview Road (793),a
 43.8297073,-79.2900883,2,Aldergrove Drive (831),a
 43.8297073,-79.2900883,2,Aldergrove Drive (831),a
-43.8297086,-79.3702579,2,Valleyview Road (795),a
-43.8297105,-79.3703947,2,Valleyview Road (796),a
 43.8297107,-79.3077591,2,Eastpine Drive (114),a
-43.8297119,-79.3698598,2,Valleyview Road (794),a
-43.8297125,-79.3692753,2,14th Lane (381),a
-43.8297125,-79.3692753,2,Summerdale Drive (499),a
-43.8297125,-79.3692753,2,Valleyview Road (792),a
 43.8297186,-79.3232323,2,Denison Street (497),a
 43.8297193,-79.3077279,2,Eastpine Drive (857),a
-43.8297217,-79.3756055,2,Alexis Road (034),a
 43.8297223,-79.2838818,2,Dairis Crescent (977),a
 43.829726,-79.2966099,2,Aldergrove Drive (863),a
 43.829726,-79.2966099,2,Tangmere Crescent (384),a
@@ -2746,7 +2474,6 @@ lat,lon,sz,names,len_cat
 43.8297374,-79.3076841,2,Eastpine Drive (858),a
 43.8297382,-79.3170262,2,Bibury Gate (167),a
 43.8297398,-79.283844,2,Dairis Crescent (978),a
-43.8297401,-79.3788014,2,Huntington Park Drive (279),a
 43.8297424,-79.3167028,2,Bibury Gate (169),a
 43.8297424,-79.3167028,2,Highgate Drive (917),a
 43.829745,-79.3168768,2,Bibury Gate (168),a
@@ -2755,35 +2482,22 @@ lat,lon,sz,names,len_cat
 43.829751,-79.310571,2,Beechgrove Crescent (313),a
 43.8297532,-79.3325652,2,Bentley Street (082),a
 43.8297555,-79.3151477,2,Clydesdale Road (811),a
-43.8297603,-79.375791,2,Alexis Road (036),a
 43.8297604,-79.2809597,2,Steeles Avenue East (709),a
 43.8297605,-79.3076524,2,Eastpine Drive (859),a
 43.8297612,-79.3192021,2,Fieldview Crescent (096),a
-43.8297634,-79.3659034,2,Mowatt Court (939),a
-43.8297675,-79.3826437,2,Peterborough Avenue (810),a
-43.8297684,-79.3827059,2,Peterborough Avenue (807),a
 43.8297737,-79.3600537,2,14th Avenue (104),a
-43.8297753,-79.3736763,2,Stacey Crescent (456),a
-43.8297753,-79.3736763,2,Stacey Crescent (456),a
 43.8297776,-79.3324592,2,Bentley Street (102),a
 43.8297786,-79.2912429,2,Wickham Court (044),a
 43.8297802,-79.3076375,2,Eastpine Drive (115),a
-43.8297846,-79.3825811,2,Peterborough Avenue (812),a
 43.8297846,-79.2838303,2,Dairis Crescent (980),a
-43.8297873,-79.3827675,2,Peterborough Avenue (805),a
-43.8297875,-79.3789742,2,Huntington Park Drive (280),a
-43.8297882,-79.3714248,2,Valleyview Road (808),a
 43.8297956,-79.3105449,2,Beechgrove Crescent (314),a
 43.8297967,-79.3389747,2,Alden Road (228),a
 43.8297978,-79.31496,2,Clydesdale Road (812),a
 43.8298003,-79.2872749,2,Brimley Road (905),a
 43.8298021,-79.3076244,2,Eastpine Drive (860),a
-43.8298064,-79.384757,2,Huntington Park Drive (299),a
-43.8298064,-79.384757,2,Huntington Park Drive (299),a
 43.8298077,-79.3323282,2,Bentley Street (717),a
 43.8298104,-79.2849489,2,Dairis Crescent (959),a
 43.8298159,-79.3204691,2,Fieldview Crescent (128),a
-43.8298166,-79.3759512,2,Alexis Road (038),a
 43.8298306,-79.3076235,2,Eastpine Drive (861),a
 43.8298306,-79.3076235,2,Eastpine Drive (871),a
 43.829831,-79.3147725,2,Clydesdale Road (813),a
@@ -2792,15 +2506,10 @@ lat,lon,sz,names,len_cat
 43.8298319,-79.319113,2,Fieldview Crescent (098),a
 43.8298329,-79.3725385,2,Leslie Street (197),a
 43.8298329,-79.3725385,2,Leslie Street (197),a
-43.8298332,-79.3828285,2,Peterborough Avenue (803),a
 43.8298386,-79.2838287,2,Dairis Crescent (982),a
 43.8298397,-79.3104814,2,Beechgrove Crescent (315),a
-43.8298438,-79.3791344,2,Huntington Park Drive (281),a
 43.8298448,-79.3271276,2,Warden Avenue (306),a
 43.8298448,-79.3271276,2,Warden Avenue (958),a
-43.8298453,-79.3659634,2,Mowatt Court (940),a
-43.8298468,-79.3825172,2,Peterborough Avenue (815),a
-43.8298474,-79.3863851,2,Prince Edward Boulevard (557),a
 43.8298483,-79.3147223,2,Croxley Green (294),a
 43.8298496,-79.2805572,2,Steeles Avenue East (468),a
 43.8298496,-79.2805572,2,Steeles Avenue East (472),a
@@ -2809,41 +2518,30 @@ lat,lon,sz,names,len_cat
 43.8298562,-79.3597393,2,14th Avenue (105),a
 43.8298577,-79.2805229,2,Steeles Avenue East (471),a
 43.8298599,-79.311849,2,Highgate Drive (929),a
-43.829862,-79.367132,2,Mowatt Court (923),a
 43.8298633,-79.30763,2,Eastpine Drive (620),a
 43.8298695,-79.3204428,2,Fieldview Crescent (126),a
 43.8298746,-79.3104058,2,Beechgrove Crescent (316),a
 43.8298765,-79.2998148,2,Aldergrove Drive (840),a
 43.8298783,-79.3320211,2,Bentley Street (101),a
-43.8298792,-79.3829019,2,Peterborough Avenue (799),a
 43.829883,-79.2804159,2,Hillcroft Drive (932),a
 43.829883,-79.2804159,2,Steeles Avenue East (470),a
 43.829883,-79.2804159,2,Steeles Avenue East (473),a
-43.8298832,-79.3692458,2,Summerdale Drive (500),a
 43.829884,-79.2838523,2,Dairis Crescent (983),a
 43.8298841,-79.3147088,2,Croxley Green (296),a
 43.8298855,-79.3166365,2,Highgate Drive (918),a
 43.8298861,-79.3076388,2,Eastpine Drive (872),a
 43.8298881,-79.2883295,2,Winston Road (131),a
 43.8298881,-79.2883295,2,Winston Road (131),a
-43.8298899,-79.3849288,2,Huntington Park Drive (301),a
-43.8298899,-79.3849288,2,Huntington Park Drive (301),a
 43.8298909,-79.288516,2,Winston Road (130),a
 43.8298909,-79.288516,2,Winston Road (130),a
 43.8298921,-79.296426,2,Tangmere Crescent (385),a
 43.8298941,-79.3388521,2,Alden Road (120),a
-43.8298948,-79.3738472,2,Stacey Crescent (457),a
-43.8298948,-79.3738472,2,Stacey Crescent (457),a
 43.8298965,-79.2881671,2,Chichester Road (220),a
 43.8298965,-79.2881671,2,Chichester Road (220),a
 43.8298965,-79.2881671,2,Winston Road (173),a
 43.8298965,-79.2881671,2,Winston Road (173),a
 43.8298975,-79.2996999,2,Aldergrove Drive (873),a
-43.8299001,-79.376123,2,Alexis Road (040),a
 43.8299078,-79.2803109,2,Steeles Avenue East (474),a
-43.8299079,-79.3811101,2,Brookshire Circle (477),a
-43.8299079,-79.3811101,2,Brookshire Circle (635),a
-43.8299079,-79.3811101,2,Brookshire Circle (641),a
 43.8299111,-79.2886647,2,Winston Road (129),a
 43.8299111,-79.2886647,2,Winston Road (129),a
 43.8299125,-79.2911645,2,Wickham Court (045),a
@@ -2856,7 +2554,6 @@ lat,lon,sz,names,len_cat
 43.8299187,-79.287968,2,Winston Road (174),a
 43.8299228,-79.3428352,2,Rodick Road (952),a
 43.8299428,-79.3594094,2,14th Avenue (461),a
-43.829943,-79.371545,2,Valleyview Road (809),a
 43.8299471,-79.3147071,2,Croxley Green (298),a
 43.8299472,-79.2873316,2,Brimley Road (906),a
 43.8299496,-79.2900317,2,Aldergrove Drive (844),a
@@ -2866,26 +2563,13 @@ lat,lon,sz,names,len_cat
 43.8299579,-79.2881783,2,Chichester Road (221),a
 43.8299579,-79.2881783,2,Chichester Road (221),a
 43.8299582,-79.3203532,2,Fieldview Crescent (125),a
-43.8299614,-79.3671542,2,Mowatt Court (922),a
 43.8299663,-79.3429519,2,Rodick Road (889),a
 43.8299672,-79.3370965,2,Bentley Street (154),a
 43.8299672,-79.3370965,2,Bentley Street (154),a
 43.829973,-79.2970207,2,Aldergrove Drive (849),a
 43.8299808,-79.2963364,2,Tangmere Crescent (386),a
-43.8299817,-79.3831478,2,Peterborough Avenue (797),a
-43.8299818,-79.3692182,2,Summerdale Drive (501),a
-43.8299827,-79.3762327,2,Alexis Road (043),a
-43.8299827,-79.3762327,2,Alexis Road (078),a
-43.8299827,-79.3762327,2,Stacey Crescent (472),a
-43.8299915,-79.3851127,2,Huntington Park Drive (302),a
-43.8299915,-79.3851127,2,Huntington Park Drive (302),a
-43.8299915,-79.3851127,2,Huntington Park Drive (304),a
-43.8299915,-79.3851127,2,Huntington Park Drive (304),a
-43.8299915,-79.3851127,2,Livingstone Road (603),a
-43.8299915,-79.3851127,2,Livingstone Road (603),a
 43.8299932,-79.2874587,2,Winston Road (175),a
 43.8299977,-79.2989961,2,Aldergrove Drive (853),a
-43.8300007,-79.3794037,2,Huntington Park Drive (282),a
 43.8300011,-79.3314872,2,Bentley Street (718),a
 43.8300017,-79.2838987,2,Dairis Crescent (985),a
 43.8300023,-79.2911495,2,Wickham Court (046),a
@@ -2901,22 +2585,15 @@ lat,lon,sz,names,len_cat
 43.830028,-79.2795313,2,Steeles Avenue East (510),a
 43.830028,-79.2795313,2,Steeles Avenue East (752),a
 43.8300282,-79.3165455,2,Highgate Drive (919),a
-43.8300289,-79.3763186,2,Alexis Road (079),a
 43.8300291,-79.2827288,2,Beckwith Crescent (732),a
 43.8300347,-79.331341,2,Bentley Street (719),a
 43.830035,-79.2825172,2,Beckwith Crescent (734),a
 43.8300385,-79.2872092,2,Wilclay Avenue (788),a
-43.8300421,-79.3740795,2,Stacey Crescent (458),a
-43.8300421,-79.3740795,2,Stacey Crescent (458),a
-43.8300445,-79.3691916,2,Summerdale Drive (502),a
 43.8300523,-79.3187959,2,Fieldview Crescent (102),a
 43.8300529,-79.3067416,2,Kennedy Road (087),a
-43.8300611,-79.3672012,2,Mowatt Court (921),a
 43.830066,-79.3432993,2,Rodick Road (887),a
 43.830066,-79.3432993,2,Rodick Road (888),a
 43.8300749,-79.2827772,2,Beckwith Crescent (731),a
-43.830075,-79.3763919,2,Alexis Road (080),a
-43.830084,-79.3795632,2,Huntington Park Drive (283),a
 43.8300934,-79.2882117,2,Chichester Road (222),a
 43.8300934,-79.2882117,2,Chichester Road (222),a
 43.830095,-79.3095061,2,Beechgrove Crescent (317),a
@@ -2924,18 +2601,12 @@ lat,lon,sz,names,len_cat
 43.830095,-79.3095061,2,Clayton Drive (156),a
 43.830095,-79.3095061,2,Merry Brook Lane (122),a
 43.8300963,-79.2873778,2,Brimley Road (878),a
-43.8300976,-79.369128,2,Summerdale Drive (503),a
 43.8300985,-79.3067174,2,Kennedy Road (950),a
-43.8300993,-79.3660933,2,Mowatt Court (941),a
 43.8300993,-79.3164813,2,Highgate Drive (920),a
 43.8300995,-79.2973748,2,Aldergrove Drive (856),a
 43.8300995,-79.2973748,2,Teddington Avenue (907),a
 43.8301236,-79.3187442,2,Fieldview Crescent (104),a
-43.8301257,-79.3717266,2,Valleyview Road (810),a
 43.830128,-79.2851139,2,Dairis Crescent (958),a
-43.8301295,-79.3853204,2,Huntington Park Drive (306),a
-43.8301295,-79.3853204,2,Huntington Park Drive (306),a
-43.8301301,-79.3764651,2,Alexis Road (081),a
 43.8301309,-79.3309228,2,Bentley Street (714),a
 43.8301317,-79.2975613,2,Aldergrove Drive (876),a
 43.8301348,-79.2980338,2,Aldergrove Drive (861),a
@@ -2946,9 +2617,7 @@ lat,lon,sz,names,len_cat
 43.8301468,-79.2898017,2,Winston Road (543),a
 43.8301468,-79.2898017,2,Winston Road (543),a
 43.8301479,-79.2978863,2,Aldergrove Drive (839),a
-43.830152,-79.3672609,2,Mowatt Court (920),a
 43.8301578,-79.3308056,2,Bentley Street (750),a
-43.8301597,-79.3690641,2,Summerdale Drive (504),a
 43.8301638,-79.3135319,2,Tiffany Crescent (186),a
 43.8301638,-79.3135319,2,Tiffany Crescent (186),a
 43.830165,-79.283981,2,Dairis Crescent (987),a
@@ -2959,7 +2628,6 @@ lat,lon,sz,names,len_cat
 43.8301687,-79.3013829,2,Old Kennedy Road (117),a
 43.8301687,-79.3013829,2,Old Kennedy Road (117),a
 43.8301692,-79.2962937,2,Tangmere Crescent (387),a
-43.8301718,-79.3743372,2,Stacey Crescent (459),a
 43.8301828,-79.2899753,2,Aldergrove Drive (847),a
 43.8301828,-79.2899753,2,Aldergrove Drive (847),a
 43.8301828,-79.2899753,2,Winston Road (126),a
@@ -2967,18 +2635,10 @@ lat,lon,sz,names,len_cat
 43.8301892,-79.3584708,2,14th Avenue (456),a
 43.830193,-79.3136803,2,Tiffany Crescent (188),a
 43.830193,-79.3136803,2,Tiffany Crescent (188),a
-43.8301947,-79.383565,2,Peterborough Avenue (789),a
-43.8301947,-79.383565,2,Peterborough Avenue (794),a
-43.8301947,-79.383565,2,Whittington Court (178),a
 43.8301984,-79.3134314,2,Tiffany Crescent (185),a
 43.8301984,-79.3134314,2,Tiffany Crescent (185),a
 43.8302045,-79.2818158,2,Beckwith Crescent (736),a
 43.8302108,-79.2882332,2,Chichester Road (223),a
-43.8302119,-79.376525,2,Alexis Road (082),a
-43.8302126,-79.3759405,2,Stacey Crescent (471),a
-43.8302299,-79.3854172,2,Huntington Park Drive (307),a
-43.8302299,-79.3854172,2,Huntington Park Drive (307),a
-43.8302303,-79.3689627,2,Summerdale Drive (505),a
 43.8302309,-79.2817778,2,Beckwith Crescent (737),a
 43.8302324,-79.3132936,2,Tiffany Crescent (184),a
 43.8302324,-79.3132936,2,Tiffany Crescent (184),a
@@ -2989,14 +2649,11 @@ lat,lon,sz,names,len_cat
 43.8302453,-79.2911426,2,Wickham Court (047),a
 43.8302488,-79.3439564,2,Rodick Road (885),a
 43.8302488,-79.3439564,2,Rodick Road (886),a
-43.8302551,-79.3744966,2,Stacey Crescent (460),a
 43.8302608,-79.3303575,2,Bentley Street (716),a
 43.8302661,-79.3137528,2,Tiffany Crescent (189),a
 43.8302661,-79.3137528,2,Tiffany Crescent (189),a
-43.8302699,-79.3673199,2,Mowatt Court (919),a
 43.8302757,-79.3131805,2,Tiffany Crescent (183),a
 43.8302757,-79.3131805,2,Tiffany Crescent (183),a
-43.8302845,-79.3765604,2,Alexis Road (083),a
 43.8302849,-79.2817762,2,Beckwith Crescent (738),a
 43.8302851,-79.3730938,2,Leslie Street (198),a
 43.8302851,-79.3730938,2,Leslie Street (198),a
@@ -3004,129 +2661,79 @@ lat,lon,sz,names,len_cat
 43.8302883,-79.3302381,2,Bentley Street (080),a
 43.8303003,-79.285196,2,Dairis Crescent (957),a
 43.8303013,-79.288268,2,Chichester Road (224),a
-43.8303048,-79.379893,2,Huntington Park Drive (284),a
-43.8303081,-79.3807635,2,Brookshire Circle (636),a
 43.8303156,-79.3272444,2,Warden Avenue (959),a
 43.8303156,-79.3272444,2,Warden Avenue (960),a
 43.8303157,-79.3079681,2,Eastpine Drive (873),a
 43.8303185,-79.31303,2,Tiffany Crescent (182),a
-43.8303191,-79.3758256,2,Stacey Crescent (470),a
 43.8303246,-79.3375961,2,Bentley Street (084),a
 43.8303246,-79.3375961,2,Bentley Street (084),a
 43.8303304,-79.2860036,2,Wilclay Avenue (783),a
-43.830336,-79.3719572,2,Valleyview Road (811),a
-43.8303391,-79.3855013,2,Huntington Park Drive (309),a
-43.8303391,-79.3855013,2,Huntington Park Drive (309),a
 43.8303426,-79.3442541,2,Rodick Road (884),a
 43.8303436,-79.3084171,2,Merry Brook Lane (123),a
-43.8303482,-79.3766084,2,Alexis Road (084),a
 43.8303553,-79.3198073,2,Fieldview Crescent (123),a
 43.830361,-79.2874454,2,Brimley Road (879),a
 43.8303639,-79.322952,2,Denison Street (498),a
-43.8303699,-79.3806748,2,Brookshire Circle (637),a
 43.8303771,-79.357755,2,14th Avenue (455),a
 43.8303837,-79.3577297,2,14th Avenue (454),a
 43.8303837,-79.3577297,2,Hobbs Gate (173),a
 43.83039,-79.3297959,2,Bentley Street (749),a
 43.8303919,-79.2829049,2,Beckwith Crescent (730),a
 43.8303921,-79.2883151,2,Chichester Road (225),a
-43.8303958,-79.3748908,2,Stacey Crescent (461),a
 43.8304025,-79.2818102,2,Beckwith Crescent (739),a
 43.8304042,-79.2806424,2,Hillcroft Drive (386),a
-43.8304076,-79.3757237,2,Stacey Crescent (469),a
 43.8304092,-79.2852551,2,Dairis Crescent (956),a
 43.8304113,-79.2962247,2,Tangmere Crescent (388),a
 43.8304182,-79.2858518,2,Wilclay Avenue (784),a
-43.8304241,-79.3674027,2,Mowatt Court (918),a
 43.8304249,-79.3080765,2,Eastpine Drive (862),a
 43.8304249,-79.3080765,2,Eastpine Drive (874),a
 43.8304249,-79.3080765,2,Merry Brook Lane (124),a
-43.8304299,-79.3766559,2,Alexis Road (085),a
 43.8304312,-79.3157879,2,Highgate Drive (922),a
-43.8304316,-79.3805861,2,Brookshire Circle (638),a
 43.830436,-79.3229205,2,Denison Street (499),a
 43.8304382,-79.3138226,2,Tiffany Crescent (190),a
 43.8304382,-79.3138226,2,Tiffany Crescent (190),a
-43.8304388,-79.3855483,2,Huntington Park Drive (311),a
 43.8304394,-79.344454,2,Rodick Road (879),a
 43.8304462,-79.3125289,2,Tiffany Crescent (181),a
-43.8304637,-79.3701752,2,Leacock Court (157),a
-43.8304653,-79.3702871,2,Leacock Court (158),a
-43.8304682,-79.3685955,2,Summerdale Drive (506),a
-43.8304683,-79.3704984,2,Leacock Court (159),a
-43.8304694,-79.370573,2,Leacock Court (160),a
-43.8304711,-79.3706973,2,Leacock Court (161),a
 43.8304726,-79.2852781,2,Dairis Crescent (955),a
 43.8304793,-79.2899295,2,Aldergrove Drive (850),a
 43.8304796,-79.3378089,2,Bentley Street (173),a
-43.8304803,-79.3700752,2,Leacock Court (156),a
 43.8304829,-79.2961978,2,Tangmere Crescent (389),a
 43.8304874,-79.3228967,2,Denison Street (275),a
-43.8304893,-79.375137,2,Stacey Crescent (462),a
 43.830493,-79.2818449,2,Beckwith Crescent (740),a
-43.8304938,-79.3767164,2,Alexis Road (086),a
 43.8304945,-79.3518062,2,Riviera Drive (339),a
 43.8304948,-79.318883,2,Fieldview Crescent (108),a
-43.8304992,-79.3707712,2,Leacock Court (162),a
 43.8305016,-79.2884115,2,Chichester Road (226),a
-43.8305017,-79.3804473,2,Brookshire Circle (639),a
 43.8305031,-79.30266,2,Victory Avenue (348),a
-43.8305054,-79.375634,2,Stacey Crescent (468),a
-43.8305054,-79.375634,2,Stacey Crescent (468),a
 43.8305058,-79.3196289,2,Fieldview Crescent (121),a
 43.8305058,-79.3196289,2,Fieldview Crescent (121),a
-43.8305064,-79.3700123,2,Leacock Court (155),a
-43.8305064,-79.3700123,2,Leacock Court (155),a
-43.8305177,-79.370808,2,Leacock Court (163),a
-43.8305177,-79.370808,2,Leacock Court (163),a
 43.8305179,-79.2973184,2,Teddington Avenue (914),a
 43.8305179,-79.2973184,2,Teddington Avenue (914),a
 43.8305238,-79.2874905,2,Brimley Road (880),a
 43.8305275,-79.3095044,2,Clayton Drive (151),a
-43.8305286,-79.3722007,2,Valleyview Road (812),a
 43.8305323,-79.3516428,2,Riviera Drive (340),a
 43.830536,-79.2961341,2,Tangmere Crescent (390),a
 43.8305374,-79.312004,2,Highgate Drive (930),a
 43.8305374,-79.312004,2,Highgate Drive (933),a
 43.8305374,-79.312004,2,Tiffany Crescent (180),a
-43.8305384,-79.3684692,2,Glendale Road (961),a
-43.8305384,-79.3684692,2,Summerdale Drive (494),a
-43.8305384,-79.3684692,2,Summerdale Drive (507),a
-43.8305453,-79.3708446,2,Leacock Court (164),a
 43.8305458,-79.315623,2,Highgate Drive (923),a
-43.8305472,-79.3855703,2,Huntington Park Drive (313),a
 43.830548,-79.2856898,2,Wilclay Avenue (785),a
-43.8305499,-79.3755955,2,Stacey Crescent (467),a
 43.8305512,-79.3290949,2,Bentley Street (169),a
 43.8305512,-79.3290949,2,Hood Road (368),a
 43.8305515,-79.3379132,2,Alden Road (121),a
 43.8305515,-79.3379132,2,Bentley Street (174),a
 43.8305537,-79.2807073,2,Hillcroft Drive (163),a
-43.8305552,-79.3753342,2,Stacey Crescent (463),a
-43.8305609,-79.3767927,2,Alexis Road (087),a
 43.8305617,-79.3578202,2,Hobbs Gate (172),a
 43.8305635,-79.2853377,2,Dairis Crescent (953),a
 43.8305741,-79.3005109,2,Kenley Crescent (506),a
-43.8305763,-79.3755575,2,Stacey Crescent (466),a
-43.8305773,-79.3699358,2,Leacock Court (154),a
 43.8305798,-79.3570142,2,14th Avenue (453),a
 43.8305811,-79.3514316,2,Riviera Drive (341),a
 43.8305818,-79.3004236,2,Kenley Crescent (507),a
 43.830582,-79.3228529,2,Denison Street (276),a
 43.8305853,-79.3195272,2,Fieldview Crescent (120),a
-43.8305873,-79.3674854,2,Mowatt Court (917),a
 43.8305896,-79.3106593,2,Whistler Court (536),a
-43.8305926,-79.3754327,2,Stacey Crescent (464),a
-43.8305936,-79.3755073,2,Stacey Crescent (465),a
 43.8305997,-79.3107336,2,Whistler Court (537),a
 43.8306019,-79.3005599,2,Kenley Crescent (505),a
 43.8306067,-79.3105966,2,Whistler Court (535),a
-43.8306091,-79.370905,2,Leacock Court (165),a
 43.8306092,-79.2841797,2,Dairis Crescent (988),a
-43.8306109,-79.3683576,2,Summerdale Drive (495),a
-43.8306154,-79.380208,2,Brookshire Circle (640),a
-43.8306154,-79.380208,2,Huntington Park Drive (273),a
-43.8306154,-79.380208,2,Huntington Park Drive (285),a
 43.830616,-79.3148872,2,Croxley Green (302),a
 43.8306196,-79.2818785,2,Beckwith Crescent (741),a
 43.830623,-79.3104842,2,Whistler Court (534),a
@@ -3136,24 +2743,14 @@ lat,lon,sz,names,len_cat
 43.8306342,-79.3737205,2,Leslie Street (200),a
 43.8306348,-79.344741,2,Rodick Road (883),a
 43.8306364,-79.3107823,2,Whistler Court (538),a
-43.8306375,-79.3768748,2,Alexis Road (088),a
-43.8306375,-79.3768748,2,Fallingbrooke Court (953),a
-43.8306375,-79.3768748,2,Green Lane (059),a
-43.8306376,-79.3855927,2,Huntington Park Drive (316),a
-43.8306397,-79.3844733,2,Livingstone Road (604),a
-43.8306397,-79.3844733,2,Livingstone Road (605),a
-43.8306397,-79.3844733,2,Peterborough Avenue (793),a
-43.8306398,-79.3698968,2,Leacock Court (153),a
 43.8306469,-79.319426,2,Fieldview Crescent (118),a
 43.8306485,-79.300061,2,Kenley Crescent (508),a
 43.830664,-79.2830339,2,Beckwith Crescent (729),a
 43.8306656,-79.3006078,2,Kenley Crescent (504),a
 43.8306669,-79.2886306,2,Chichester Road (227),a
 43.8306738,-79.2999484,2,Kenley Crescent (509),a
-43.8306755,-79.3686148,2,Glendale Road (962),a
 43.8306757,-79.2855935,2,Dairis Crescent (951),a
 43.8306757,-79.2855935,2,Wilclay Avenue (771),a
-43.8306788,-79.3675824,2,Mowatt Court (916),a
 43.8306823,-79.2807513,2,Hillcroft Drive (387),a
 43.8306824,-79.3291265,2,Hood Road (181),a
 43.8306848,-79.2973154,2,Teddington Avenue (908),a
@@ -3165,20 +2762,13 @@ lat,lon,sz,names,len_cat
 43.8307193,-79.2819254,2,Beckwith Crescent (742),a
 43.8307211,-79.3189637,2,Fieldview Crescent (112),a
 43.8307226,-79.2899474,2,Aldergrove Drive (834),a
-43.8307253,-79.387344,2,Lang Road (675),a
-43.8307253,-79.387344,2,Prince Edward Boulevard (539),a
-43.8307253,-79.387344,2,Prince Edward Boulevard (558),a
 43.8307267,-79.2842137,2,Dairis Crescent (990),a
-43.8307281,-79.3710386,2,Leacock Court (166),a
-43.830729,-79.3770023,2,Fallingbrooke Court (737),a
 43.83073,-79.2794806,2,Woodhall Road (837),a
-43.830733,-79.3886967,2,Northumberland Terrace (863),a
 43.8307341,-79.319237,2,Fieldview Crescent (117),a
 43.8307343,-79.27942,2,Woodhall Road (838),a
 43.8307405,-79.3153936,2,Highgate Drive (924),a
 43.8307424,-79.2795293,2,Woodhall Road (836),a
 43.8307453,-79.3138886,2,Tiffany Crescent (191),a
-43.8307455,-79.3830402,2,Whittington Court (179),a
 43.8307469,-79.3507141,2,Riviera Drive (342),a
 43.8307469,-79.3507141,2,Riviera Drive (342),a
 43.8307501,-79.2793679,2,Woodhall Road (839),a
@@ -3186,13 +2776,9 @@ lat,lon,sz,names,len_cat
 43.8307582,-79.3190373,2,Fieldview Crescent (113),a
 43.8307593,-79.3191119,2,Fieldview Crescent (115),a
 43.83076,-79.287633,2,Brimley Road (882),a
-43.8307601,-79.387256,2,Lang Road (507),a
-43.8307601,-79.387256,2,Lang Road (507),a
 43.8307658,-79.2807717,2,Hillcroft Drive (164),a
-43.830766,-79.3699058,2,Leacock Court (152),a
 43.8307669,-79.2795696,2,Woodhall Road (835),a
 43.8307703,-79.3563705,2,14th Avenue (871),a
-43.8307722,-79.3855642,2,Huntington Park Drive (318),a
 43.8307725,-79.312072,2,Highgate Drive (934),a
 43.8307725,-79.3108531,2,Whistler Court (540),a
 43.8307725,-79.2830681,2,Beckwith Crescent (728),a
@@ -3207,35 +2793,20 @@ lat,lon,sz,names,len_cat
 43.8307851,-79.3171958,2,Upton Crescent (439),a
 43.8307859,-79.3505452,2,Riviera Drive (343),a
 43.8307859,-79.3505452,2,Riviera Drive (343),a
-43.8307887,-79.3677162,2,Mowatt Court (915),a
 43.8307917,-79.3170339,2,Upton Crescent (437),a
-43.8307949,-79.387168,2,Lang Road (676),a
-43.8307949,-79.387168,2,Lang Road (676),a
 43.8307953,-79.2887887,2,Chichester Road (228),a
 43.8307993,-79.3138871,2,Tiffany Crescent (192),a
 43.8308038,-79.2795989,2,Woodhall Road (833),a
 43.8308038,-79.2795989,2,Woodhall Road (833),a
-43.8308055,-79.3771188,2,Fallingbrooke Court (946),a
-43.8308077,-79.3874413,2,Prince Edward Boulevard (540),a
-43.8308077,-79.3874413,2,Prince Edward Boulevard (540),a
 43.830809,-79.3084517,2,Eastpine Drive (863),a
 43.8308099,-79.2819601,2,Beckwith Crescent (743),a
-43.8308126,-79.3687603,2,Glendale Road (963),a
 43.8308165,-79.3562142,2,14th Avenue (451),a
 43.8308167,-79.2842111,2,Dairis Crescent (992),a
 43.8308218,-79.3172445,2,Upton Crescent (440),a
 43.8308273,-79.3449502,2,Rodick Road (878),a
-43.8308314,-79.3726029,2,Glendale Road (952),a
-43.8308314,-79.3726029,2,Valleyview Road (783),a
-43.8308314,-79.3726029,2,Valleyview Road (813),a
-43.8308329,-79.3815826,2,Livingstone Road (628),a
-43.8308329,-79.3815826,2,Peterborough Avenue (817),a
-43.8308329,-79.3815826,2,Peterborough Avenue (819),a
-43.8308336,-79.388667,2,Northumberland Terrace (864),a
 43.8308369,-79.297354,2,Teddington Avenue (910),a
 43.8308447,-79.2830785,2,Beckwith Crescent (727),a
 43.8308464,-79.3006524,2,Kenley Crescent (503),a
-43.8308469,-79.3766733,2,Green Lane (060),a
 43.8308473,-79.3626749,2,Shields Court (648),a
 43.8308473,-79.3626749,2,Shields Court (648),a
 43.8308515,-79.3227428,2,Denison Street (277),a
@@ -3249,35 +2820,20 @@ lat,lon,sz,names,len_cat
 43.8308602,-79.3095705,2,Whistler Court (533),a
 43.8308607,-79.2877421,2,Brimley Road (883),a
 43.8308628,-79.3560579,2,14th Avenue (449),a
-43.8308632,-79.388665,2,Northumberland Terrace (505),a
 43.8308641,-79.281971,2,Beckwith Crescent (744),a
-43.8308755,-79.3725395,2,Glendale Road (953),a
-43.8308764,-79.3773723,2,Fallingbrooke Court (939),a
-43.8308772,-79.3815317,2,Peterborough Avenue (821),a
 43.8308791,-79.3137978,2,Tiffany Crescent (193),a
 43.8308795,-79.2841969,2,Dairis Crescent (993),a
-43.8308806,-79.3875015,2,Prince Edward Boulevard (541),a
-43.8308806,-79.3875015,2,Prince Edward Boulevard (541),a
-43.8308836,-79.3712085,2,Leacock Court (167),a
 43.8308877,-79.3151173,2,Croxley Green (307),a
 43.8308877,-79.3151173,2,Croxley Green (307),a
 43.8308901,-79.3501037,2,Riviera Drive (344),a
-43.8308928,-79.3886669,2,Northumberland Terrace (865),a
 43.8308968,-79.2807896,2,Hillcroft Drive (388),a
 43.8308985,-79.2830645,2,Beckwith Crescent (726),a
 43.830904,-79.2759568,2,Steeles Avenue East (677),a
-43.8309084,-79.3678995,2,Mowatt Court (914),a
-43.8309084,-79.3678995,2,Summerdale Drive (452),a
-43.8309084,-79.3678995,2,Summerdale Drive (496),a
 43.8309095,-79.3085483,2,Eastpine Drive (864),a
-43.8309107,-79.3724764,2,Glendale Road (954),a
 43.830912,-79.3062847,2,Kennedy Road (088),a
-43.8309125,-79.3688197,2,Glendale Road (964),a
 43.8309173,-79.3121176,2,Highgate Drive (935),a
-43.8309211,-79.3886734,2,Northumberland Terrace (506),a
 43.8309243,-79.288984,2,Chichester Road (229),a
 43.8309275,-79.3499453,2,Riviera Drive (345),a
-43.8309327,-79.3727618,2,Valleyview Road (784),a
 43.8309327,-79.2900049,2,Aldergrove Drive (822),a
 43.8309327,-79.2900049,2,Chichester Road (237),a
 43.8309354,-79.3151767,2,Croxley Green (309),a
@@ -3288,22 +2844,13 @@ lat,lon,sz,names,len_cat
 43.8309354,-79.3151767,2,Highgate Drive (931),a
 43.8309354,-79.3151767,2,Upton Crescent (425),a
 43.8309354,-79.3151767,2,Upton Crescent (425),a
-43.8309401,-79.3766025,2,Green Lane (625),a
 43.8309409,-79.3167686,2,Upton Crescent (436),a
-43.8309476,-79.3814178,2,Peterborough Avenue (823),a
-43.8309499,-79.3886817,2,Northumberland Terrace (866),a
 43.8309557,-79.2899122,2,Chichester Road (236),a
-43.8309563,-79.3712563,2,Leacock Court (168),a
-43.8309614,-79.3817533,2,Livingstone Road (627),a
 43.8309615,-79.3497978,2,Riviera Drive (346),a
 43.830963,-79.2867566,2,Hainsworth Court (609),a
 43.8309674,-79.3745297,2,Leslie Street (202),a
 43.8309674,-79.3745297,2,Leslie Street (202),a
-43.8309705,-79.3678356,2,Summerdale Drive (453),a
-43.8309726,-79.3724001,2,Glendale Road (955),a
 43.8309727,-79.286806,2,Hainsworth Court (610),a
-43.8309735,-79.3864294,2,Lang Road (677),a
-43.8309735,-79.3864294,2,Lang Road (677),a
 43.8309763,-79.3373227,2,Alden Road (123),a
 43.8309792,-79.3086089,2,Eastpine Drive (865),a
 43.83098,-79.2866939,2,Hainsworth Court (608),a
@@ -3311,13 +2858,7 @@ lat,lon,sz,names,len_cat
 43.8309984,-79.3109089,2,Whistler Court (541),a
 43.8310004,-79.3153117,2,Upton Crescent (426),a
 43.8310004,-79.3153117,2,Upton Crescent (426),a
-43.8310055,-79.3855082,2,Huntington Park Drive (295),a
-43.8310055,-79.3855082,2,Huntington Park Drive (320),a
-43.8310055,-79.3855082,2,Lang Road (684),a
 43.8310061,-79.286631,2,Hainsworth Court (607),a
-43.8310067,-79.3728966,2,Valleyview Road (785),a
-43.8310075,-79.3875603,2,Prince Edward Boulevard (542),a
-43.8310075,-79.3875603,2,Prince Edward Boulevard (542),a
 43.8310083,-79.3451111,2,Rodick Road (882),a
 43.8310096,-79.2900494,2,Aldergrove Drive (868),a
 43.8310158,-79.2890809,2,Chichester Road (230),a
@@ -3329,28 +2870,20 @@ lat,lon,sz,names,len_cat
 43.8310234,-79.2974261,2,Tangmere Crescent (402),a
 43.8310234,-79.2974261,2,Teddington Avenue (912),a
 43.8310253,-79.2754016,2,Steeles Avenue East (004),a
-43.8310265,-79.3812665,2,Peterborough Avenue (825),a
 43.8310294,-79.3554947,2,14th Avenue (447),a
 43.8310295,-79.3226624,2,Denison Street (500),a
 43.8310324,-79.308802,2,Eastpine Drive (868),a
 43.8310326,-79.2896027,2,Chichester Road (235),a
-43.8310337,-79.3665901,2,Mowatt Court (942),a
-43.8310344,-79.3723113,2,Glendale Road (956),a
 43.8310382,-79.3087269,2,Eastpine Drive (867),a
 43.8310412,-79.2865678,2,Hainsworth Court (606),a
-43.8310416,-79.386154,2,Lang Road (678),a
-43.8310416,-79.386154,2,Lang Road (678),a
 43.8310418,-79.2830107,2,Beckwith Crescent (725),a
 43.8310421,-79.3096469,2,Clayton Drive (118),a
 43.8310441,-79.2819659,2,Beckwith Crescent (745),a
 43.8310442,-79.3121763,2,Highgate Drive (936),a
-43.8310444,-79.3779691,2,Fallingbrooke Court (932),a
 43.8310445,-79.2807967,2,Hillcroft Drive (389),a
 43.8310458,-79.2868786,2,Hainsworth Court (612),a
 43.8310459,-79.3165666,2,Upton Crescent (435),a
 43.8310504,-79.3372197,2,Alden Road (124),a
-43.8310512,-79.3678085,2,Summerdale Drive (454),a
-43.8310521,-79.3856189,2,Lang Road (683),a
 43.8310523,-79.290074,2,Aldergrove Drive (828),a
 43.8310559,-79.2971889,2,Tangmere Crescent (401),a
 43.8310561,-79.3493873,2,Riviera Drive (347),a
@@ -3360,25 +2893,13 @@ lat,lon,sz,names,len_cat
 43.8310649,-79.3154094,2,Upton Crescent (427),a
 43.8310649,-79.3154094,2,Upton Crescent (427),a
 43.8310661,-79.3173247,2,Upton Crescent (441),a
-43.8310669,-79.3860289,2,Lang Road (679),a
-43.8310688,-79.3721984,2,Glendale Road (957),a
 43.8310705,-79.289129,2,Chichester Road (231),a
-43.8310711,-79.385693,2,Lang Road (682),a
-43.8310798,-79.3875832,2,Prince Edward Boulevard (543),a
-43.8310798,-79.3875832,2,Prince Edward Boulevard (543),a
-43.8310799,-79.3729817,2,Valleyview Road (786),a
 43.8310802,-79.3492826,2,Riviera Drive (348),a
-43.8310831,-79.3859041,2,Lang Road (680),a
-43.8310832,-79.371315,2,Leacock Court (169),a
 43.8310836,-79.2807949,2,Hillcroft Drive (166),a
 43.8310893,-79.2891782,2,Chichester Road (232),a
-43.8310897,-79.3819115,2,Livingstone Road (626),a
-43.8310909,-79.3858168,2,Lang Road (681),a
 43.8310915,-79.2893274,2,Chichester Road (234),a
 43.8310916,-79.3552845,2,14th Avenue (445),a
 43.8310924,-79.3061963,2,Kennedy Road (089),a
-43.831093,-79.3895916,2,Lambert Road (313),a
-43.8310932,-79.3896607,2,Lambert Road (500),a
 43.8310954,-79.3274502,2,Warden Avenue (022),a
 43.8310954,-79.3274502,2,Warden Avenue (022),a
 43.8310954,-79.3274502,2,Warden Avenue (475),a
@@ -3386,28 +2907,20 @@ lat,lon,sz,names,len_cat
 43.8310959,-79.2751381,2,McCowan Road (326),a
 43.8310959,-79.2751381,2,Steeles Avenue East (672),a
 43.8310959,-79.2751381,2,Steeles Avenue East (673),a
-43.831098,-79.3897273,2,Lambert Road (312),a
-43.8310986,-79.3895341,2,Lambert Road (314),a
 43.8310992,-79.2892402,2,Chichester Road (233),a
 43.831103,-79.2864914,2,Hainsworth Court (605),a
 43.8311032,-79.2841034,2,Dairis Crescent (994),a
-43.8311067,-79.3897899,2,Lambert Road (502),a
 43.8311071,-79.2970009,2,Tangmere Crescent (400),a
 43.8311138,-79.2830086,2,Beckwith Crescent (724),a
-43.8311163,-79.3730056,2,Valleyview Road (787),a
 43.8311171,-79.3122364,2,Highgate Drive (937),a
 43.8311179,-79.3551955,2,14th Avenue (443),a
 43.8311186,-79.2797374,2,Woodhall Road (832),a
 43.8311186,-79.2797374,2,Woodhall Road (832),a
 43.8311195,-79.277737,2,Woodhall Road (840),a
-43.8311203,-79.3898464,2,Lambert Road (311),a
 43.8311292,-79.3130569,2,Tiffany Crescent (195),a
 43.8311293,-79.2750156,2,Steeles Avenue East (002),a
 43.8311311,-79.322606,2,Denison Street (278),a
-43.8311339,-79.3765338,2,Green Lane (061),a
-43.8311372,-79.3719478,2,Glendale Road (958),a
 43.8311373,-79.2869755,2,Hainsworth Court (613),a
-43.8311375,-79.3898998,2,Lambert Road (501),a
 43.8311419,-79.3750612,2,Leslie Street (204),a
 43.8311419,-79.3750612,2,Leslie Street (204),a
 43.8311427,-79.3164146,2,Upton Crescent (434),a
@@ -3416,43 +2929,29 @@ lat,lon,sz,names,len_cat
 43.8311481,-79.2852369,2,Cartmel Drive (911),a
 43.8311481,-79.2852369,2,Wilclay Avenue (775),a
 43.8311533,-79.2752912,2,McCowan Road (298),a
-43.8311592,-79.3678056,2,Summerdale Drive (455),a
 43.8311632,-79.2807914,2,Hillcroft Drive (165),a
 43.8311638,-79.2881438,2,Brimley Road (884),a
 43.8311673,-79.2968126,2,Tangmere Crescent (399),a
 43.8311674,-79.2986284,2,Kenley Crescent (489),a
 43.831172,-79.3129065,2,Tiffany Crescent (196),a
-43.8311738,-79.3887758,2,Northumberland Terrace (504),a
 43.8311756,-79.2841262,2,Dairis Crescent (996),a
 43.831177,-79.2830192,2,Beckwith Crescent (723),a
-43.8311796,-79.3730287,2,Valleyview Road (788),a
-43.8311813,-79.382021,2,Livingstone Road (625),a
 43.8311836,-79.3625873,2,Shields Court (649),a
 43.8311836,-79.3625873,2,Shields Court (649),a
 43.8311846,-79.285331,2,Cartmel Drive (913),a
 43.8311875,-79.2751636,2,McCowan Road (304),a
 43.831192,-79.2853499,2,Cartmel Drive (315),a
-43.831197,-79.3717223,2,Glendale Road (959),a
 43.8311974,-79.3127938,2,Tiffany Crescent (197),a
 43.8311986,-79.3007295,2,Kenley Crescent (501),a
-43.8312004,-79.375752,2,Leslie Street (131),a
-43.8312004,-79.375752,2,Leslie Street (131),a
 43.8312004,-79.2773968,2,Woodhall Road (841),a
 43.8312027,-79.3097341,2,Clayton Drive (119),a
 43.8312046,-79.3581473,2,Hobbs Gate (169),a
-43.8312103,-79.3900865,2,Lambert Road (310),a
 43.8312105,-79.3452613,2,Rodick Road (877),a
 43.8312109,-79.294299,2,Tangmere Crescent (391),a
 43.8312172,-79.3486876,2,Riviera Drive (349),a
 43.8312191,-79.2773379,2,Woodhall Road (971),a
 43.831227,-79.3625941,2,Shields Court (650),a
 43.831227,-79.3625941,2,Shields Court (650),a
-43.8312341,-79.3755894,2,Leslie Street (132),a
-43.8312341,-79.3755894,2,Leslie Street (132),a
-43.8312341,-79.3755894,2,Leslie Street (133),a
-43.8312341,-79.3755894,2,Leslie Street (133),a
-43.8312341,-79.3755894,2,Leslie Street (206),a
-43.8312341,-79.3755894,2,Leslie Street (206),a
 43.8312401,-79.3156905,2,Upton Crescent (428),a
 43.8312401,-79.3156905,2,Upton Crescent (428),a
 43.8312403,-79.2830423,2,Beckwith Crescent (722),a
@@ -3461,32 +2960,18 @@ lat,lon,sz,names,len_cat
 43.8312431,-79.2742093,2,Steeles Avenue East (718),a
 43.8312433,-79.3007033,2,Kenley Crescent (500),a
 43.8312437,-79.2772837,2,Woodhall Road (842),a
-43.8312471,-79.3764955,2,Green Lane (062),a
-43.8312538,-79.3807877,2,Huntington Park Drive (242),a
-43.8312538,-79.3807877,2,Huntington Park Drive (274),a
-43.8312538,-79.3807877,2,Peterborough Avenue (827),a
 43.8312563,-79.3161751,2,Upton Crescent (433),a
 43.8312563,-79.3161751,2,Upton Crescent (433),a
 43.8312574,-79.2841674,2,Dairis Crescent (998),a
 43.8312585,-79.3061089,2,Kennedy Road (267),a
 43.8312585,-79.3061089,2,Kennedy Road (872),a
-43.8312587,-79.3678402,2,Summerdale Drive (456),a
-43.831259,-79.3888164,2,Lambert Road (317),a
-43.831259,-79.3888164,2,Lambert Road (318),a
-43.831259,-79.3888164,2,Northumberland Terrace (867),a
-43.8312637,-79.3821182,2,Livingstone Road (624),a
 43.8312645,-79.2942726,2,Tangmere Crescent (392),a
 43.8312669,-79.2743744,2,Steeles Avenue East (670),a
 43.8312697,-79.2807786,2,Hillcroft Drive (390),a
 43.8312746,-79.2772392,2,Woodhall Road (972),a
 43.8312754,-79.3369403,2,Alden Road (365),a
 43.8312787,-79.300665,2,Kenley Crescent (499),a
-43.83128,-79.3785214,2,Fallingbrooke Court (926),a
 43.8312869,-79.2819465,2,Beckwith Crescent (746),a
-43.8312891,-79.3762973,2,Leslie Street (130),a
-43.8312916,-79.3714088,2,Glendale Road (960),a
-43.8312916,-79.3714088,2,Glendale Road (974),a
-43.8312916,-79.3714088,2,Leacock Court (170),a
 43.831293,-79.2851276,2,Wilclay Avenue (776),a
 43.8312964,-79.3292741,2,Hood Road (184),a
 43.8313023,-79.2856342,2,Cartmel Drive (913),a
@@ -3496,17 +2981,11 @@ lat,lon,sz,names,len_cat
 43.8313055,-79.3109749,2,Symphony Gate (953),a
 43.8313055,-79.3109749,2,Whistler Court (530),a
 43.8313055,-79.3109749,2,Whistler Court (542),a
-43.831306,-79.3730502,2,Valleyview Road (789),a
 43.831306,-79.2771973,2,Woodhall Road (973),a
 43.8313061,-79.3097933,2,Clayton Drive (120),a
 43.8313081,-79.3160244,2,Upton Crescent (432),a
 43.8313081,-79.3160244,2,Upton Crescent (432),a
-43.8313199,-79.3764715,2,Green Lane (063),a
-43.8313199,-79.3764715,2,Leslie Street (129),a
-43.8313199,-79.3764715,2,Leslie Street (140),a
 43.8313215,-79.3005146,2,Kenley Crescent (497),a
-43.8313255,-79.3756864,2,Leslie Street (134),a
-43.8313255,-79.3756864,2,Leslie Street (134),a
 43.8313318,-79.3157999,2,Upton Crescent (430),a
 43.8313318,-79.3157999,2,Upton Crescent (430),a
 43.8313361,-79.2850908,2,Wilclay Avenue (795),a
@@ -3514,7 +2993,6 @@ lat,lon,sz,names,len_cat
 43.8313362,-79.3124416,2,Highgate Drive (946),a
 43.8313362,-79.3124416,2,Tiffany Crescent (199),a
 43.8313365,-79.2942705,2,Tangmere Crescent (393),a
-43.8313371,-79.3822157,2,Livingstone Road (623),a
 43.8313412,-79.2771588,2,Woodhall Road (843),a
 43.8313415,-79.3158494,2,Upton Crescent (431),a
 43.8313415,-79.3158494,2,Upton Crescent (431),a
@@ -3522,57 +3000,40 @@ lat,lon,sz,names,len_cat
 43.8313483,-79.3292866,2,Hood Road (183),a
 43.8313516,-79.2798343,2,Woodhall Road (970),a
 43.8313516,-79.2798343,2,Woodhall Road (970),a
-43.8313571,-79.3690564,2,Glendale Road (965),a
-43.8313579,-79.3766704,2,Leslie Street (139),a
 43.8313622,-79.2857626,2,Cartmel Drive (914),a
-43.8313678,-79.3679118,2,Summerdale Drive (457),a
 43.8313689,-79.310998,2,Whistler Court (531),a
 43.8313813,-79.2850435,2,Wilclay Avenue (772),a
 43.8313897,-79.3542769,2,14th Avenue (441),a
-43.8313921,-79.3822889,2,Livingstone Road (622),a
 43.8313974,-79.3292984,2,Hood Road (305),a
 43.8314023,-79.3478843,2,Riviera Drive (350),a
-43.8314057,-79.3877268,2,Prince Edward Boulevard (503),a
-43.8314057,-79.3877268,2,Prince Edward Boulevard (503),a
 43.8314087,-79.3478564,2,Riviera Drive (351),a
 43.8314191,-79.2799124,2,Bradley Road (912),a
 43.8314191,-79.2799124,2,Bradley Road (912),a
 43.8314197,-79.2799607,2,Bradley Road (910),a
 43.8314197,-79.2799607,2,Bradley Road (910),a
 43.8314201,-79.2849971,2,Wilclay Avenue (794),a
-43.8314243,-79.3762561,2,Leslie Street (135),a
 43.8314261,-79.2798653,2,Bradley Road (625),a
 43.8314261,-79.2798653,2,Bradley Road (625),a
 43.8314261,-79.2798653,2,Bradley Road (639),a
 43.8314261,-79.2798653,2,Bradley Road (639),a
 43.8314261,-79.2798653,2,Woodhall Road (831),a
 43.8314261,-79.2798653,2,Woodhall Road (831),a
-43.831427,-79.3770352,2,Leslie Street (138),a
 43.8314298,-79.288472,2,Brimley Road (885),a
-43.8314384,-79.3823747,2,Livingstone Road (621),a
-43.8314529,-79.3764253,2,Leslie Street (136),a
-43.8314529,-79.3764253,2,Leslie Street (141),a
-43.8314529,-79.3764253,2,Summerdale Drive (460),a
 43.8314558,-79.2797362,2,Bradley Road (907),a
 43.8314558,-79.2797362,2,Bradley Road (907),a
 43.8314608,-79.2849417,2,Wilclay Avenue (780),a
 43.8314686,-79.3540103,2,14th Avenue (415),a
 43.8314686,-79.3540103,2,14th Avenue (440),a
 43.8314686,-79.3540103,2,14th Avenue (478),a
-43.8314687,-79.3730955,2,Valleyview Road (790),a
 43.8314728,-79.2859335,2,Cartmel Drive (915),a
 43.8314728,-79.2859335,2,Hainsworth Court (604),a
-43.8314754,-79.3824483,2,Livingstone Road (620),a
 43.8314755,-79.3538678,2,14th Avenue (417),a
-43.8314769,-79.3789087,2,Fallingbrooke Court (915),a
-43.8314783,-79.3706078,2,Glendale Road (973),a
 43.8314801,-79.2732826,2,Steeles Avenue East (632),a
 43.8314801,-79.2732826,2,Steeles Avenue East (943),a
 43.8314816,-79.2997762,2,Kenley Crescent (496),a
 43.8314836,-79.2805923,2,Bradley Road (909),a
 43.8314863,-79.2806273,2,Bradley Road (911),a
 43.8314892,-79.2849002,2,Wilclay Avenue (793),a
-43.83149,-79.3766383,2,Leslie Street (142),a
 43.8314929,-79.3145143,2,Highgate Drive (932),a
 43.8314929,-79.3145143,2,Highgate Drive (932),a
 43.8314929,-79.3145143,2,Highgate Drive (952),a
@@ -3582,116 +3043,72 @@ lat,lon,sz,names,len_cat
 43.8314956,-79.2874503,2,Hainsworth Court (614),a
 43.8314985,-79.2807341,2,Bradley Road (640),a
 43.8314985,-79.2807341,2,Hillcroft Drive (391),a
-43.8315,-79.3810049,2,Huntington Park Drive (243),a
-43.8315056,-79.3877708,2,Lambert Road (319),a
-43.8315056,-79.3877708,2,Lambert Road (319),a
-43.8315056,-79.3877708,2,Lambert Road (320),a
-43.8315056,-79.3877708,2,Lambert Road (320),a
-43.8315056,-79.3877708,2,Prince Edward Boulevard (544),a
-43.8315056,-79.3877708,2,Prince Edward Boulevard (544),a
 43.831506,-79.2996014,2,Kenley Crescent (495),a
-43.8315092,-79.3771342,2,Leslie Street (137),a
-43.8315092,-79.3771342,2,Leslie Street (144),a
-43.8315092,-79.3771342,2,Leslie Street (145),a
-43.8315127,-79.3825344,2,Livingstone Road (619),a
 43.8315144,-79.2848562,2,Wilclay Avenue (777),a
 43.831519,-79.3126231,2,Highgate Drive (947),a
 43.831521,-79.2987925,2,Kenley Crescent (490),a
 43.8315302,-79.3454273,2,Rodick Road (881),a
 43.8315365,-79.3366161,2,Alden Road (125),a
-43.8315409,-79.3826207,2,Livingstone Road (618),a
 43.8315427,-79.2847999,2,Wilclay Avenue (792),a
-43.8315472,-79.3769807,2,Leslie Street (143),a
 43.8315481,-79.273232,2,Steeles Avenue East (943),a
 43.8315511,-79.336599,2,Alden Road (366),a
-43.8315544,-79.3774095,2,Leslie Street (146),a
-43.8315546,-79.3835904,2,Livingstone Road (606),a
 43.831555,-79.31751,2,Upton Crescent (442),a
 43.8315573,-79.2988164,2,Kenley Crescent (491),a
 43.8315575,-79.2885803,2,Brimley Road (886),a
 43.8315586,-79.3539161,2,14th Avenue (477),a
-43.8315603,-79.3827197,2,Livingstone Road (617),a
-43.8315604,-79.3764001,2,Summerdale Drive (461),a
-43.8315628,-79.3740133,2,Summerdale Drive (473),a
 43.8315657,-79.3100253,2,Clayton Drive (121),a
 43.8315657,-79.3100253,2,Clayton Drive (157),a
 43.8315657,-79.3100253,2,Symphony Gate (954),a
 43.8315665,-79.3222547,2,Denison Street (502),a
 43.831567,-79.2847436,2,Wilclay Avenue (779),a
-43.8315698,-79.3738763,2,Summerdale Drive (472),a
 43.8315781,-79.2792053,2,Bradley Road (626),a
 43.8315781,-79.2792053,2,Bradley Road (626),a
 43.8315781,-79.2792053,2,Bradley Road (627),a
 43.8315781,-79.2792053,2,Bradley Road (627),a
 43.8315781,-79.2792053,2,Windhill Road (603),a
 43.8315781,-79.2792053,2,Windhill Road (603),a
-43.8315801,-79.3828435,2,Livingstone Road (616),a
 43.8315806,-79.2843191,2,Dairis Crescent (885),a
 43.831581,-79.3143874,2,Highgate Drive (953),a
 43.831581,-79.3143874,2,Highgate Drive (953),a
-43.8315831,-79.3741745,2,Summerdale Drive (474),a
-43.8315831,-79.3741745,2,Summerdale Drive (474),a
 43.8315854,-79.2988902,2,Kenley Crescent (492),a
 43.8315888,-79.299114,2,Kenley Crescent (494),a
-43.8315905,-79.3829427,2,Livingstone Road (615),a
 43.831591,-79.2846798,2,Wilclay Avenue (790),a
 43.8315967,-79.3583225,2,Hobbs Gate (168),a
-43.8315985,-79.3873329,2,Lambert Road (321),a
-43.8315985,-79.3873329,2,Lambert Road (321),a
 43.8316001,-79.3059291,2,Kennedy Road (097),a
 43.8316001,-79.3059291,2,Kennedy Road (268),a
-43.8316007,-79.3830295,2,Livingstone Road (614),a
 43.8316012,-79.2843288,2,Dairis Crescent (886),a
 43.8316045,-79.2989643,2,Kenley Crescent (493),a
 43.8316076,-79.3626536,2,Konrad Crescent (607),a
 43.8316076,-79.3626536,2,Konrad Crescent (607),a
 43.8316076,-79.3626536,2,Shields Court (651),a
 43.8316076,-79.3626536,2,Shields Court (651),a
-43.8316079,-79.3835392,2,Livingstone Road (607),a
 43.8316081,-79.2729651,2,Steeles Avenue East (942),a
 43.8316083,-79.3469902,2,Riviera Drive (352),a
 43.8316091,-79.2846256,2,Wilclay Avenue (778),a
-43.8316115,-79.3742732,2,Summerdale Drive (475),a
-43.8316115,-79.3742732,2,Summerdale Drive (475),a
 43.8316124,-79.3146851,2,Upton Crescent (459),a
 43.8316124,-79.3146851,2,Upton Crescent (459),a
 43.8316125,-79.3183853,2,Birchmount Road (980),a
 43.8316166,-79.2931307,2,Digby Crescent (153),a
 43.8316186,-79.3365196,2,Alden Road (126),a
-43.8316196,-79.3830912,2,Livingstone Road (613),a
 43.8316196,-79.2932144,2,Digby Crescent (155),a
 43.8316272,-79.3175204,2,Upton Crescent (443),a
 43.83163,-79.2845488,2,Wilclay Avenue (791),a
 43.8316336,-79.3142865,2,Highgate Drive (954),a
 43.8316336,-79.3142865,2,Highgate Drive (954),a
-43.8316363,-79.3849066,2,Huntington Park Drive (272),a
-43.8316363,-79.3849066,2,Huntington Park Drive (296),a
-43.8316363,-79.3849066,2,Lambert Road (332),a
-43.8316367,-79.3735138,2,Summerdale Drive (471),a
 43.8316379,-79.2819364,2,Beckwith Crescent (747),a
 43.8316389,-79.2726262,2,Steeles Avenue East (635),a
 43.8316389,-79.2726262,2,Steeles Avenue East (946),a
-43.831639,-79.3831902,2,Livingstone Road (612),a
 43.8316454,-79.2932543,2,Digby Crescent (157),a
-43.8316461,-79.3811502,2,Huntington Park Drive (244),a
-43.8316474,-79.3692101,2,Glendale Road (966),a
 43.8316488,-79.2886648,2,Brimley Road (887),a
 43.831649,-79.2904806,2,Aldergrove Drive (836),a
 43.831649,-79.2904806,2,Aldergrove Drive (836),a
 43.831649,-79.2904806,2,Halder Crescent (400),a
 43.831649,-79.2904806,2,Halder Crescent (400),a
-43.8316491,-79.3832645,2,Livingstone Road (611),a
-43.8316495,-79.374409,2,Summerdale Drive (476),a
-43.8316495,-79.374409,2,Summerdale Drive (476),a
-43.831652,-79.3834759,2,Livingstone Road (608),a
 43.8316533,-79.3364787,2,Alden Road (387),a
 43.8316567,-79.3128057,2,Highgate Drive (948),a
-43.8316593,-79.3833513,2,Livingstone Road (610),a
-43.83166,-79.383401,2,Livingstone Road (609),a
 43.8316623,-79.2727438,2,Steeles Avenue East (941),a
 43.8316637,-79.2904907,2,Aldergrove Drive (874),a
 43.8316637,-79.2904907,2,Aldergrove Drive (874),a
-43.8316653,-79.3698315,2,Glendale Road (972),a
 43.831674,-79.2843629,2,Dairis Crescent (000),a
 43.831674,-79.2843629,2,Wilclay Avenue (773),a
 43.8316747,-79.2754181,2,McCowan Road (245),a
@@ -3702,58 +3119,34 @@ lat,lon,sz,names,len_cat
 43.831677,-79.279249,2,Windhill Road (054),a
 43.8316791,-79.2876813,2,Hainsworth Court (615),a
 43.8316808,-79.3466701,2,Riviera Drive (353),a
-43.8316854,-79.3680897,2,Summerdale Drive (458),a
 43.8316855,-79.3141482,2,Highgate Drive (955),a
 43.8316855,-79.3141482,2,Highgate Drive (955),a
 43.8316906,-79.3175435,2,Upton Crescent (444),a
-43.8316917,-79.38692,2,Lambert Road (322),a
-43.8316917,-79.38692,2,Lambert Road (322),a
 43.8316947,-79.2752778,2,McCowan Road (330),a
 43.8317011,-79.281947,2,Beckwith Crescent (748),a
-43.8317019,-79.369246,2,Glendale Road (967),a
-43.8317038,-79.3731637,2,Summerdale Drive (464),a
-43.8317038,-79.3731637,2,Summerdale Drive (470),a
-43.8317038,-79.3731637,2,Valleyview Road (791),a
 43.8317094,-79.2933147,2,Digby Crescent (159),a
 43.8317124,-79.3129161,2,Highgate Drive (949),a
 43.8317133,-79.3148066,2,Upton Crescent (458),a
 43.8317133,-79.3148066,2,Upton Crescent (458),a
 43.831714,-79.3364074,2,Alden Road (128),a
-43.8317155,-79.379268,2,Fallingbrooke Court (910),a
 43.8317245,-79.2806886,2,Hillcroft Drive (933),a
 43.831733,-79.2900802,2,Halder Crescent (402),a
 43.831733,-79.2900802,2,Halder Crescent (402),a
 43.8317356,-79.3464281,2,Riviera Drive (354),a
-43.8317384,-79.3851277,2,Lambert Road (331),a
-43.8317415,-79.3694936,2,Glendale Road (971),a
 43.8317426,-79.3220589,2,Denison Street (503),a
 43.8317442,-79.3175171,2,Upton Crescent (445),a
-43.8317478,-79.3693069,2,Glendale Road (968),a
 43.8317522,-79.358392,2,Hobbs Gate (167),a
 43.8317533,-79.3527385,2,14th Avenue (435),a
 43.8317563,-79.2928407,2,Digby Crescent (151),a
-43.8317586,-79.369431,2,Glendale Road (970),a
-43.8317626,-79.3747666,2,Parklawn Crescent (145),a
-43.8317626,-79.3747666,2,Parklawn Crescent (145),a
-43.8317626,-79.3747666,2,Summerdale Drive (477),a
-43.8317626,-79.3747666,2,Summerdale Drive (477),a
-43.8317626,-79.3747666,2,Summerdale Drive (517),a
-43.8317626,-79.3747666,2,Summerdale Drive (517),a
-43.8317665,-79.3693562,2,Glendale Road (969),a
 43.8317688,-79.3130762,2,Highgate Drive (950),a
-43.8317789,-79.3727513,2,Summerdale Drive (465),a
 43.8317792,-79.3137849,2,Highgate Drive (956),a
-43.8317829,-79.3812709,2,Huntington Park Drive (245),a
 43.8317849,-79.2887355,2,Brimley Road (888),a
 43.8317879,-79.2753728,2,McCowan Road (204),a
 43.8317879,-79.2753728,2,McCowan Road (244),a
 43.8317879,-79.2753728,2,McCowan Road (332),a
-43.8317899,-79.3763276,2,Summerdale Drive (072),a
-43.8317899,-79.3763276,2,Summerdale Drive (509),a
 43.8317934,-79.29774,2,Dunbar Crescent (504),a
 43.8317934,-79.29774,2,Teddington Avenue (906),a
 43.8317967,-79.3174161,2,Upton Crescent (446),a
-43.8318037,-79.3852877,2,Lambert Road (330),a
 43.8318042,-79.3136473,2,Highgate Drive (957),a
 43.831805,-79.3455387,2,Rodick Road (880),a
 43.8318089,-79.2945556,2,Tangmere Crescent (394),a
@@ -3771,53 +3164,31 @@ lat,lon,sz,names,len_cat
 43.8318172,-79.2975279,2,Dunbar Crescent (505),a
 43.8318175,-79.2897047,2,Halder Crescent (403),a
 43.8318202,-79.3135101,2,Highgate Drive (958),a
-43.8318215,-79.3681607,2,Frost Gate (492),a
-43.8318215,-79.3681607,2,Summerdale Drive (459),a
-43.8318215,-79.3681607,2,Summerdale Drive (478),a
 43.831822,-79.3781404,2,Leslie Street (147),a
 43.8318223,-79.3529241,2,14th Avenue (556),a
-43.8318266,-79.3862696,2,Lambert Road (323),a
-43.8318266,-79.3862696,2,Lambert Road (323),a
-43.8318269,-79.3793258,2,Fallingbrooke Court (903),a
 43.8318283,-79.2833151,2,Beckwith Crescent (943),a
 43.8318349,-79.3616686,2,Konrad Crescent (608),a
 43.8318349,-79.2896669,2,Halder Crescent (404),a
 43.8318368,-79.2863499,2,Cartmel Drive (916),a
 43.8318368,-79.2863499,2,Ingram Road (205),a
-43.8318382,-79.3724885,2,Summerdale Drive (466),a
 43.8318388,-79.3172159,2,Upton Crescent (447),a
-43.8318415,-79.385411,2,Lambert Road (329),a
-43.8318419,-79.3747409,2,Parklawn Crescent (959),a
-43.8318419,-79.3747409,2,Parklawn Crescent (959),a
 43.8318488,-79.333768,2,McPherson Street (854),a
 43.8318497,-79.2833252,2,Beckwith Crescent (066),a
 43.83185,-79.2780871,2,Bradley Road (629),a
 43.83185,-79.2780871,2,Bradley Road (629),a
 43.8318505,-79.2973404,2,Dunbar Crescent (506),a
 43.8318513,-79.3184693,2,Birchmount Road (270),a
-43.8318517,-79.3861321,2,Lambert Road (324),a
-43.8318517,-79.3861321,2,Lambert Road (324),a
 43.8318533,-79.2878878,2,Hainsworth Court (616),a
 43.8318545,-79.3527814,2,14th Avenue (410),a
 43.8318548,-79.3615826,2,Konrad Crescent (609),a
 43.8318582,-79.2906239,2,Aldergrove Drive (830),a
 43.8318582,-79.2906239,2,Aldergrove Drive (830),a
-43.8318687,-79.3752612,2,Summerdale Drive (516),a
-43.8318687,-79.3752612,2,Summerdale Drive (516),a
-43.8318704,-79.385547,2,Lambert Road (328),a
-43.8318764,-79.3762693,2,Summerdale Drive (510),a
 43.8318782,-79.2948336,2,Tangmere Crescent (398),a
 43.831879,-79.3132224,2,Heathrow Court (369),a
-43.8318812,-79.3856711,2,Lambert Road (327),a
 43.8318819,-79.2946157,2,Tangmere Crescent (395),a
 43.8318824,-79.3340328,2,McPherson Street (726),a
-43.8318854,-79.3859695,2,Lambert Road (325),a
-43.8318854,-79.3859695,2,Lambert Road (325),a
-43.8318881,-79.3747259,2,Parklawn Crescent (146),a
-43.8318881,-79.3747259,2,Parklawn Crescent (146),a
 43.8318881,-79.2896156,2,Halder Crescent (405),a
 43.831892,-79.3457586,2,Riviera Drive (355),a
-43.8318921,-79.3858077,2,Lambert Road (326),a
 43.8318935,-79.3218631,2,Denison Street (504),a
 43.8318935,-79.2947895,2,Tangmere Crescent (397),a
 43.831895,-79.2780085,2,Bradley Road (630),a
@@ -3826,7 +3197,6 @@ lat,lon,sz,names,len_cat
 43.8319012,-79.2947022,2,Tangmere Crescent (396),a
 43.8319021,-79.2971773,2,Dunbar Crescent (507),a
 43.8319034,-79.3613719,2,Konrad Crescent (610),a
-43.831906,-79.3721881,2,Summerdale Drive (467),a
 43.8319076,-79.3115052,2,Blackcomb Gate (630),a
 43.8319076,-79.3115052,2,Whistler Court (532),a
 43.8319076,-79.3115052,2,Whistler Court (543),a
@@ -3837,14 +3207,12 @@ lat,lon,sz,names,len_cat
 43.8319204,-79.2833586,2,Wilclay Avenue (774),a
 43.8319217,-79.3149002,2,Upton Crescent (456),a
 43.8319217,-79.3149002,2,Upton Crescent (456),a
-43.8319219,-79.3761998,2,Summerdale Drive (511),a
 43.8319224,-79.3057582,2,Kennedy Road (370),a
 43.8319224,-79.3057582,2,Kennedy Road (421),a
 43.8319224,-79.3057582,2,Kennedy Road (427),a
 43.8319241,-79.2806532,2,Hillcroft Drive (940),a
 43.8319251,-79.3612781,2,Konrad Crescent (611),a
 43.8319293,-79.3344031,2,McPherson Street (853),a
-43.8319304,-79.3682199,2,Summerdale Drive (479),a
 43.831931,-79.3455898,2,Riviera Drive (356),a
 43.831931,-79.3455898,2,Rodick Road (678),a
 43.831931,-79.3455898,2,Rodick Road (879),a
@@ -3853,37 +3221,23 @@ lat,lon,sz,names,len_cat
 43.8319413,-79.2793655,2,Windhill Road (604),a
 43.8319413,-79.2793655,2,Windhill Road (604),a
 43.8319429,-79.2832679,2,Wilclay Avenue (789),a
-43.8319439,-79.3761174,2,Summerdale Drive (512),a
-43.8319439,-79.3761174,2,Summerdale Drive (512),a
-43.8319472,-79.3814281,2,Huntington Park Drive (246),a
 43.8319536,-79.3454757,2,Riviera Drive (357),a
 43.8319569,-79.305668,2,Kennedy Road (426),a
-43.8319574,-79.3758061,2,Summerdale Drive (515),a
-43.8319574,-79.3758061,2,Summerdale Drive (515),a
 43.8319596,-79.2779436,2,Bradley Road (631),a
-43.8319606,-79.3760299,2,Summerdale Drive (513),a
-43.8319606,-79.3760299,2,Summerdale Drive (513),a
 43.8319665,-79.2924491,2,Digby Crescent (149),a
-43.8319684,-79.3759426,2,Summerdale Drive (514),a
-43.8319684,-79.3759426,2,Summerdale Drive (514),a
 43.8319705,-79.2896179,2,Halder Crescent (406),a
 43.8319739,-79.3361018,2,Alden Road (130),a
 43.8319801,-79.3519276,2,14th Avenue (182),a
 43.8319801,-79.3519276,2,14th Avenue (182),a
 43.83199,-79.3057888,2,Kennedy Road (422),a
-43.832,-79.3718373,2,Summerdale Drive (468),a
 43.8320012,-79.3331421,2,McPherson Street (727),a
 43.8320099,-79.3627429,2,Shields Court (652),a
 43.8320099,-79.3627429,2,Shields Court (652),a
-43.8320101,-79.3845371,2,Huntington Park Drive (271),a
-43.8320112,-79.381501,2,Huntington Park Drive (247),a
 43.8320123,-79.314935,2,Upton Crescent (455),a
 43.8320123,-79.314935,2,Upton Crescent (455),a
 43.8320127,-79.290719,2,Aldergrove Drive (837),a
 43.8320127,-79.290719,2,Aldergrove Drive (837),a
 43.8320134,-79.3131813,2,Heathrow Court (370),a
-43.8320139,-79.37471,2,Parklawn Crescent (147),a
-43.8320139,-79.37471,2,Parklawn Crescent (147),a
 43.8320196,-79.3785194,2,Leslie Street (618),a
 43.8320198,-79.3104675,2,Clayton Drive (261),a
 43.8320209,-79.3216386,2,Denison Street (505),a
@@ -3891,7 +3245,6 @@ lat,lon,sz,names,len_cat
 43.8320323,-79.2896239,2,Halder Crescent (407),a
 43.832035,-79.33603,2,Alden Road (131),a
 43.8320365,-79.3345723,2,McPherson Street (855),a
-43.8320391,-79.3682667,2,Summerdale Drive (480),a
 43.8320403,-79.3329812,2,McPherson Street (720),a
 43.8320453,-79.2907307,2,Aldergrove Drive (870),a
 43.8320453,-79.2907307,2,Aldergrove Drive (870),a
@@ -3899,17 +3252,10 @@ lat,lon,sz,names,len_cat
 43.8320479,-79.3456417,2,Rodick Road (685),a
 43.8320506,-79.3163145,2,Upton Crescent (448),a
 43.8320534,-79.3018992,2,Old Kennedy Road (482),a
-43.8320589,-79.3671343,2,Frost Gate (493),a
-43.8320589,-79.3671343,2,Mowatt Court (900),a
-43.8320589,-79.3671343,2,Mowatt Court (943),a
 43.8320604,-79.2754543,2,McCowan Road (206),a
 43.8320604,-79.2754543,2,McCowan Road (383),a
 43.8320623,-79.2765659,2,Woodhall Road (845),a
 43.8320648,-79.3008541,2,Ashmore Crescent (037),a
-43.8320663,-79.3815742,2,Huntington Park Drive (248),a
-43.8320688,-79.3716116,2,Parklawn Crescent (163),a
-43.8320688,-79.3716116,2,Summerdale Drive (469),a
-43.8320688,-79.3716116,2,Summerdale Drive (497),a
 43.8320689,-79.2827612,2,Wilclay Avenue (787),a
 43.8320722,-79.300742,2,Ashmore Crescent (038),a
 43.8320754,-79.297931,2,Teddington Avenue (913),a
@@ -3918,7 +3264,6 @@ lat,lon,sz,names,len_cat
 43.8320795,-79.3294635,2,Hood Road (100),a
 43.8320838,-79.3009158,2,Ashmore Crescent (036),a
 43.8320852,-79.3131668,2,Heathrow Court (371),a
-43.8320891,-79.3844591,2,Huntington Park Drive (270),a
 43.8320974,-79.2765422,2,Woodhall Road (975),a
 43.8321025,-79.3149449,2,Upton Crescent (454),a
 43.8321025,-79.3149449,2,Upton Crescent (454),a
@@ -3926,8 +3271,6 @@ lat,lon,sz,names,len_cat
 43.8321058,-79.3604953,2,Konrad Crescent (614),a
 43.8321062,-79.3627643,2,Shields Court (653),a
 43.8321062,-79.3627643,2,Shields Court (653),a
-43.8321127,-79.3746949,2,Parklawn Crescent (148),a
-43.8321127,-79.3746949,2,Parklawn Crescent (148),a
 43.8321133,-79.3604628,2,Konrad Crescent (616),a
 43.8321153,-79.2921588,2,Digby Crescent (148),a
 43.8321159,-79.2821484,2,Beckwith Crescent (064),a
@@ -3935,7 +3278,6 @@ lat,lon,sz,names,len_cat
 43.8321163,-79.343248,2,Riviera Drive (369),a
 43.8321163,-79.3431234,2,Riviera Drive (370),a
 43.8321207,-79.3009769,2,Ashmore Crescent (035),a
-43.8321217,-79.3816722,2,Huntington Park Drive (249),a
 43.8321221,-79.2778242,2,Bradley Road (632),a
 43.8321222,-79.3604241,2,Konrad Crescent (617),a
 43.8321222,-79.3326449,2,McPherson Street (856),a
@@ -3945,37 +3287,25 @@ lat,lon,sz,names,len_cat
 43.8321356,-79.282158,2,Beckwith Crescent (065),a
 43.8321472,-79.3437725,2,Riviera Drive (367),a
 43.8321488,-79.3132023,2,Heathrow Court (372),a
-43.8321575,-79.3683629,2,Summerdale Drive (481),a
 43.8321629,-79.3511603,2,14th Avenue (181),a
 43.8321629,-79.3511603,2,14th Avenue (181),a
 43.8321635,-79.3439555,2,Riviera Drive (366),a
 43.8321658,-79.3439817,2,Riviera Drive (365),a
-43.8321664,-79.3746686,2,Parklawn Crescent (149),a
-43.8321664,-79.3746686,2,Parklawn Crescent (149),a
 43.8321697,-79.285773,2,Ingram Road (210),a
 43.8321736,-79.3428688,2,Riviera Drive (371),a
-43.8321771,-79.3817702,2,Huntington Park Drive (250),a
-43.8321775,-79.3843448,2,Huntington Park Drive (269),a
 43.8321802,-79.2765086,2,Woodhall Road (974),a
 43.8321811,-79.3442769,2,Riviera Drive (364),a
 43.8321832,-79.3443165,2,Riviera Drive (362),a
 43.832185,-79.2980398,2,Teddington Avenue (911),a
-43.8321863,-79.3716457,2,Parklawn Crescent (162),a
-43.832193,-79.374643,2,Parklawn Crescent (150),a
-43.832193,-79.374643,2,Parklawn Crescent (150),a
 43.8321986,-79.2867441,2,Cartmel Drive (760),a
 43.8322006,-79.2936489,2,Digby Crescent (160),a
 43.8322041,-79.2856713,2,Ingram Road (211),a
-43.8322051,-79.3843062,2,Huntington Park Drive (268),a
 43.832209,-79.2821936,2,Beckwith Crescent (749),a
 43.832209,-79.2821936,2,Wilclay Avenue (821),a
 43.8322112,-79.3010117,2,Ashmore Crescent (034),a
 43.8322219,-79.3212225,2,Denison Street (507),a
 43.832222,-79.2764999,2,Woodhall Road (847),a
-43.8322239,-79.3818933,2,Huntington Park Drive (251),a
 43.8322271,-79.3055221,2,Kennedy Road (429),a
-43.8322281,-79.3745798,2,Parklawn Crescent (151),a
-43.8322281,-79.3745798,2,Parklawn Crescent (151),a
 43.8322282,-79.2888721,2,Brimley Road (890),a
 43.832229,-79.3149786,2,Upton Crescent (453),a
 43.832229,-79.3149786,2,Upton Crescent (453),a
@@ -3984,14 +3314,11 @@ lat,lon,sz,names,len_cat
 43.8322464,-79.2918939,2,Digby Crescent (146),a
 43.8322464,-79.2918939,2,Digby Crescent (146),a
 43.832248,-79.3321282,2,McPherson Street (721),a
-43.8322481,-79.3842433,2,Huntington Park Drive (267),a
-43.8322488,-79.3684475,2,Summerdale Drive (482),a
 43.8322551,-79.30566,2,Kennedy Road (425),a
 43.8322554,-79.3076273,2,Gorvette Road (766),a
 43.8322576,-79.3106991,2,Blackcomb Gate (629),a
 43.8322576,-79.3106991,2,Clayton Drive (137),a
 43.8322576,-79.3106991,2,Clayton Drive (160),a
-43.8322615,-79.3820042,2,Huntington Park Drive (252),a
 43.8322621,-79.3349284,2,McPherson Street (392),a
 43.8322627,-79.2764999,2,Woodhall Road (976),a
 43.8322636,-79.2936471,2,Digby Crescent (161),a
@@ -4008,29 +3335,21 @@ lat,lon,sz,names,len_cat
 43.8322829,-79.2997783,2,Ashmore Crescent (293),a
 43.8322861,-79.2795422,2,Windhill Road (606),a
 43.8322861,-79.2795422,2,Windhill Road (606),a
-43.8322901,-79.3821154,2,Huntington Park Drive (253),a
 43.8322911,-79.321034,2,Denison Street (508),a
 43.8322918,-79.3319485,2,McPherson Street (725),a
 43.832296,-79.3054849,2,Gorvette Road (610),a
 43.832296,-79.3054849,2,Kennedy Road (381),a
 43.832296,-79.3054849,2,Kennedy Road (428),a
 43.8322992,-79.3596576,2,Konrad Crescent (620),a
-43.8323013,-79.3841797,2,Huntington Park Drive (266),a
 43.8323034,-79.2765069,2,Woodhall Road (848),a
 43.8323035,-79.3505636,2,14th Avenue (180),a
 43.8323035,-79.3505636,2,14th Avenue (180),a
-43.8323037,-79.367252,2,Mowatt Court (901),a
 43.8323041,-79.315188,2,Upton Crescent (449),a
 43.8323041,-79.315188,2,Upton Crescent (449),a
-43.8323063,-79.3705852,2,Milestar Court (908),a
-43.8323063,-79.3705852,2,Summerdale Drive (492),a
-43.8323063,-79.3705852,2,Summerdale Drive (498),a
 43.832317,-79.2936083,2,Digby Crescent (162),a
-43.8323192,-79.3822638,2,Huntington Park Drive (254),a
 43.8323198,-79.3151277,2,Upton Crescent (450),a
 43.8323198,-79.3151277,2,Upton Crescent (450),a
 43.8323202,-79.3077498,2,Gorvette Road (768),a
-43.8323224,-79.3685574,2,Summerdale Drive (483),a
 43.8323266,-79.3056253,2,Gorvette Road (611),a
 43.8323266,-79.3056253,2,Kennedy Road (423),a
 43.8323279,-79.2817176,2,Wilclay Avenue (822),a
@@ -4047,9 +3366,7 @@ lat,lon,sz,names,len_cat
 43.8323363,-79.3209091,2,Denison Street (510),a
 43.8323378,-79.3010454,2,Ashmore Crescent (033),a
 43.8323378,-79.2806253,2,Hillcroft Drive (938),a
-43.8323393,-79.3824125,2,Huntington Park Drive (255),a
 43.8323448,-79.3421075,2,Riviera Drive (372),a
-43.832345,-79.3840915,2,Huntington Park Drive (265),a
 43.8323494,-79.3057293,2,Gorvette Road (787),a
 43.8323523,-79.2935575,2,Digby Crescent (164),a
 43.8323539,-79.3503508,2,14th Avenue (179),a
@@ -4062,13 +3379,9 @@ lat,lon,sz,names,len_cat
 43.8323663,-79.342012,2,Riviera Drive (373),a
 43.832368,-79.2724379,2,Norn Crescent (375),a
 43.8323745,-79.2776189,2,Bradley Road (634),a
-43.8323762,-79.3717027,2,Parklawn Crescent (161),a
 43.8323765,-79.2915668,2,Digby Crescent (144),a
 43.8323765,-79.2915668,2,Digby Crescent (144),a
-43.8323778,-79.3686554,2,Summerdale Drive (484),a
 43.8323787,-79.2725496,2,Norn Crescent (374),a
-43.8323793,-79.3826975,2,Huntington Park Drive (256),a
-43.8323801,-79.3840283,2,Huntington Park Drive (264),a
 43.8323843,-79.2723255,2,Norn Crescent (376),a
 43.8323854,-79.3207134,2,Denison Street (280),a
 43.8323875,-79.281492,2,Wilclay Avenue (823),a
@@ -4077,12 +3390,10 @@ lat,lon,sz,names,len_cat
 43.8323912,-79.2884674,2,Cashmere Crescent (387),a
 43.8323926,-79.2794396,2,Windhill Road (609),a
 43.8323926,-79.2794396,2,Windhill Road (609),a
-43.8323944,-79.3672993,2,Mowatt Court (902),a
 43.8323955,-79.3315224,2,McPherson Street (723),a
 43.8323958,-79.2934568,2,Digby Crescent (165),a
 43.832402,-79.2885466,2,Cashmere Crescent (390),a
 43.8324075,-79.3314731,2,McPherson Street (288),a
-43.832409,-79.3828833,2,Huntington Park Drive (257),a
 43.8324091,-79.2793397,2,Windhill Road (610),a
 43.8324091,-79.2793397,2,Windhill Road (610),a
 43.8324126,-79.3061145,2,Gorvette Road (786),a
@@ -4095,9 +3406,7 @@ lat,lon,sz,names,len_cat
 43.832421,-79.2806197,2,Hillcroft Drive (931),a
 43.832421,-79.2806197,2,Wilclay Avenue (827),a
 43.832423,-79.2882473,2,Cashmere Crescent (819),a
-43.8324234,-79.3839028,2,Huntington Park Drive (263),a
 43.8324242,-79.2807189,2,Wilclay Avenue (042),a
-43.8324246,-79.3687785,2,Summerdale Drive (485),a
 43.8324254,-79.2807542,2,Wilclay Avenue (041),a
 43.8324264,-79.281269,2,Wilclay Avenue (040),a
 43.832429,-79.3313849,2,McPherson Street (722),a
@@ -4108,13 +3417,11 @@ lat,lon,sz,names,len_cat
 43.8324346,-79.3056802,2,Gorvette Road (790),a
 43.8324355,-79.2721375,2,Norn Crescent (377),a
 43.8324371,-79.281113,2,Wilclay Avenue (825),a
-43.8324395,-79.3831312,2,Huntington Park Drive (258),a
 43.8324411,-79.28863,2,Cashmere Crescent (392),a
 43.8324424,-79.2775061,2,Bradley Road (635),a
 43.8324443,-79.3054048,2,Kennedy Road (382),a
 43.8324456,-79.3416597,2,Riviera Drive (375),a
 43.8324487,-79.3590098,2,Konrad Crescent (622),a
-43.832449,-79.3838026,2,Huntington Park Drive (262),a
 43.8324529,-79.3019992,2,Old Kennedy Road (483),a
 43.8324529,-79.3019992,2,Old Kennedy Road (483),a
 43.8324529,-79.3019992,2,Old Kennedy Road (620),a
@@ -4125,15 +3432,11 @@ lat,lon,sz,names,len_cat
 43.8324634,-79.3062013,2,Gorvette Road (793),a
 43.8324644,-79.2998727,2,Ashmore Crescent (013),a
 43.8324653,-79.2869476,2,Cartmel Drive (761),a
-43.8324654,-79.3836902,2,Huntington Park Drive (261),a
 43.8324691,-79.3059071,2,Gorvette Road (791),a
-43.8324695,-79.3833419,2,Huntington Park Drive (259),a
 43.8324698,-79.2726216,2,Norn Crescent (373),a
 43.8324701,-79.3066603,2,Gorvette Road (761),a
 43.8324704,-79.3352571,2,McPherson Street (103),a
-43.8324715,-79.3689141,2,Summerdale Drive (486),a
 43.8324723,-79.3055545,2,Kennedy Road (386),a
-43.8324726,-79.3835656,2,Huntington Park Drive (260),a
 43.8324749,-79.3065329,2,Gorvette Road (080),a
 43.8324768,-79.2790516,2,Windhill Road (611),a
 43.8324768,-79.2790516,2,Windhill Road (611),a
@@ -4146,14 +3449,12 @@ lat,lon,sz,names,len_cat
 43.832493,-79.2806148,2,Hillcroft Drive (937),a
 43.8324948,-79.3414408,2,Riviera Drive (378),a
 43.8325005,-79.2886748,2,Cashmere Crescent (393),a
-43.8325093,-79.3690374,2,Summerdale Drive (487),a
 43.8325095,-79.3201781,2,Denison Street (281),a
 43.8325097,-79.3011027,2,Ashmore Crescent (032),a
 43.8325102,-79.3458471,2,Rodick Road (687),a
 43.8325109,-79.2789263,2,Windhill Road (612),a
 43.8325109,-79.2789263,2,Windhill Road (612),a
 43.8325112,-79.3053687,2,Kennedy Road (378),a
-43.8325116,-79.3717239,2,Parklawn Crescent (160),a
 43.8325128,-79.3587318,2,Hobbs Gate (166),a
 43.8325128,-79.3587318,2,Konrad Crescent (623),a
 43.8325213,-79.341323,2,Riviera Drive (380),a
@@ -4169,19 +3470,12 @@ lat,lon,sz,names,len_cat
 43.8325283,-79.2908784,2,Digby Crescent (142),a
 43.8325283,-79.2908784,2,Digby Crescent (142),a
 43.8325344,-79.3055243,2,Kennedy Road (384),a
-43.8325381,-79.369161,2,Summerdale Drive (488),a
-43.8325402,-79.3674197,2,Mowatt Court (903),a
 43.8325446,-79.2889625,2,Brimley Road (891),a
 43.8325475,-79.3412065,2,Riviera Drive (386),a
 43.8325525,-79.3020241,2,Old Kennedy Road (667),a
 43.8325525,-79.3020241,2,Old Kennedy Road (667),a
 43.8325546,-79.278838,2,Windhill Road (613),a
 43.8325546,-79.278838,2,Windhill Road (613),a
-43.8325577,-79.3692724,2,Summerdale Drive (489),a
-43.8325592,-79.3693843,2,Summerdale Drive (490),a
-43.8325601,-79.3694465,2,Sandor Place (670),a
-43.8325601,-79.3694465,2,Summerdale Drive (491),a
-43.8325601,-79.3694465,2,Summerdale Drive (493),a
 43.8325605,-79.3308448,2,McPherson Street (093),a
 43.8325651,-79.3354066,2,Alden Road (132),a
 43.8325651,-79.3354066,2,McPherson Street (852),a
@@ -4194,7 +3488,6 @@ lat,lon,sz,names,len_cat
 43.8325849,-79.2952673,2,Dunbar Crescent (508),a
 43.8325887,-79.3137247,2,Heathrow Court (374),a
 43.8325903,-79.2840744,2,Ingram Road (221),a
-43.8325929,-79.3717466,2,Parklawn Crescent (159),a
 43.8325997,-79.2686909,2,Steeles Avenue East (955),a
 43.832603,-79.3458883,2,Rodick Road (689),a
 43.8326031,-79.379126,2,Leslie Street (149),a
@@ -4211,7 +3504,6 @@ lat,lon,sz,names,len_cat
 43.8326286,-79.295179,2,Dunbar Crescent (509),a
 43.832632,-79.3582174,2,Konrad Crescent (627),a
 43.8326329,-79.2840062,2,Ingram Road (223),a
-43.8326473,-79.37177,2,Parklawn Crescent (158),a
 43.8326474,-79.3195439,2,Denison Street (656),a
 43.8326511,-79.2727034,2,Norn Crescent (372),a
 43.8326557,-79.2765947,2,Bradley Road (638),a
@@ -4219,19 +3511,14 @@ lat,lon,sz,names,len_cat
 43.8326557,-79.2765947,2,Woodhall Road (851),a
 43.832664,-79.2951407,2,Dunbar Crescent (510),a
 43.832665,-79.2839858,2,Ingram Road (224),a
-43.832671,-79.3721673,2,Parklawn Crescent (152),a
-43.8326746,-79.3717941,2,Parklawn Crescent (157),a
 43.8326764,-79.308088,2,Gorvette Road (769),a
 43.8326828,-79.318748,2,Birchmount Road (764),a
 43.8326907,-79.3405703,2,Riviera Drive (389),a
-43.832693,-79.3718185,2,Parklawn Crescent (156),a
-43.832696,-79.3720298,2,Parklawn Crescent (153),a
 43.8326969,-79.287078,2,Cartmel Drive (920),a
 43.8326969,-79.287078,2,Cashmere Crescent (384),a
 43.8326969,-79.287078,2,Dynasty Drive (203),a
 43.8326972,-79.2709857,2,Norn Crescent (379),a
 43.8326998,-79.2951272,2,Dunbar Crescent (511),a
-43.8327029,-79.3718804,2,Parklawn Crescent (155),a
 43.8327052,-79.2839826,2,Ingram Road (225),a
 43.8327066,-79.3278756,2,Warden Avenue (307),a
 43.8327066,-79.3278756,2,Warden Avenue (307),a
@@ -4239,7 +3526,6 @@ lat,lon,sz,names,len_cat
 43.8327066,-79.3278756,2,Warden Avenue (671),a
 43.8327066,-79.3278756,2,Warden Avenue (702),a
 43.8327066,-79.3278756,2,Warden Avenue (702),a
-43.8327128,-79.3719423,2,Parklawn Crescent (154),a
 43.8327144,-79.3052668,2,Kennedy Road (379),a
 43.8327164,-79.268142,2,Steeles Avenue East (024),a
 43.8327305,-79.3081477,2,Gorvette Road (770),a
@@ -4255,7 +3541,6 @@ lat,lon,sz,names,len_cat
 43.8327527,-79.2679821,2,Steeles Avenue East (953),a
 43.8327527,-79.2679821,2,Steeles Avenue East (953),a
 43.8327542,-79.2951505,2,Dunbar Crescent (512),a
-43.8327589,-79.3676003,2,Mowatt Court (904),a
 43.8327632,-79.2927374,2,Digby Crescent (166),a
 43.8327676,-79.2786328,2,Windhill Road (615),a
 43.8327676,-79.2786328,2,Windhill Road (615),a
@@ -4297,7 +3582,6 @@ lat,lon,sz,names,len_cat
 43.8328452,-79.2680067,2,Middlefield Road (446),a
 43.8328519,-79.3296481,2,Hood Road (367),a
 43.8328519,-79.3296481,2,McPherson Street (856),a
-43.8328586,-79.3708065,2,Milestar Court (909),a
 43.8328589,-79.2727472,2,Norn Crescent (370),a
 43.8328656,-79.3572089,2,Konrad Crescent (636),a
 43.832872,-79.3000352,2,Ashmore Crescent (014),a
@@ -4350,7 +3634,6 @@ lat,lon,sz,names,len_cat
 43.8330168,-79.274857,2,Charles Alfred Crescent (164),a
 43.8330193,-79.3793452,2,Leslie Street (150),a
 43.8330193,-79.3793452,2,Leslie Street (188),a
-43.8330229,-79.3678045,2,Mowatt Court (905),a
 43.8330291,-79.3288031,2,McPherson Street (026),a
 43.8330291,-79.3288031,2,McPherson Street (094),a
 43.8330361,-79.3280475,2,Warden Avenue (700),a
@@ -4375,7 +3658,6 @@ lat,lon,sz,names,len_cat
 43.8330867,-79.2920938,2,Digby Crescent (168),a
 43.8330915,-79.2841603,2,Ingram Road (228),a
 43.8330939,-79.2961981,2,Debden Road (213),a
-43.8330943,-79.3696558,2,Sandor Place (671),a
 43.8330944,-79.278213,2,Windhill Road (618),a
 43.8330944,-79.278213,2,Windhill Road (618),a
 43.8330971,-79.3115711,2,Clayton Drive (141),a
@@ -4435,7 +3717,6 @@ lat,lon,sz,names,len_cat
 43.8331937,-79.3021991,2,Old Kennedy Road (623),a
 43.8331937,-79.3021991,2,Old Kennedy Road (623),a
 43.8331952,-79.2723643,2,Miles Farm Road (548),a
-43.833196,-79.3679491,2,Mowatt Court (906),a
 43.833196,-79.2795782,2,Woodhall Road (857),a
 43.833196,-79.2795782,2,Woodhall Road (857),a
 43.8331968,-79.2671155,2,Joycedale Street (263),a
@@ -4481,7 +3762,6 @@ lat,lon,sz,names,len_cat
 43.8332566,-79.2914173,2,Digby Crescent (171),a
 43.8332566,-79.2914173,2,Digby Crescent (171),a
 43.8332575,-79.3129782,2,Clayton Drive (123),a
-43.8332587,-79.3685568,2,Mowatt Court (913),a
 43.8332604,-79.3128522,2,Clayton Drive (122),a
 43.8332604,-79.3128522,2,Clayton Drive (149),a
 43.8332624,-79.3120167,2,Clayton Drive (144),a
@@ -4489,7 +3769,6 @@ lat,lon,sz,names,len_cat
 43.8332633,-79.3021629,2,Old Kennedy Road (695),a
 43.8332682,-79.312761,2,Clayton Drive (148),a
 43.833269,-79.2976732,2,Dunbar Crescent (067),a
-43.8332691,-79.3680217,2,Mowatt Court (907),a
 43.8332693,-79.300111,2,Ashmore Crescent (016),a
 43.8332773,-79.3794494,2,Leslie Street (076),a
 43.8332773,-79.3794494,2,Leslie Street (190),a
@@ -4505,19 +3784,16 @@ lat,lon,sz,names,len_cat
 43.8332902,-79.3464015,2,14th Avenue (175),a
 43.8332904,-79.3122406,2,Clayton Drive (145),a
 43.8332905,-79.3124736,2,Clayton Drive (146),a
-43.8332938,-79.3684937,2,Mowatt Court (912),a
 43.8332958,-79.3012919,2,Ashmore Crescent (027),a
 43.8332978,-79.2990032,2,Teddington Avenue (502),a
 43.8333056,-79.3345594,2,Alden Road (137),a
 43.8333113,-79.3281254,2,Warden Avenue (669),a
-43.8333148,-79.3680702,2,Mowatt Court (908),a
 43.8333148,-79.2910923,2,Aldergrove Drive (864),a
 43.8333148,-79.2910923,2,Aldergrove Drive (864),a
 43.8333148,-79.2910923,2,Digby Crescent (172),a
 43.8333148,-79.2910923,2,Digby Crescent (172),a
 43.8333182,-79.3383382,2,Riviera Drive (419),a
 43.8333182,-79.3383382,2,Riviera Drive (419),a
-43.8333196,-79.3684059,2,Mowatt Court (911),a
 43.8333214,-79.3132894,2,Clayton Drive (125),a
 43.8333231,-79.3171245,2,Denison Street (521),a
 43.8333231,-79.271888,2,Miles Farm Road (551),a
@@ -4533,8 +3809,6 @@ lat,lon,sz,names,len_cat
 43.8333348,-79.3462134,2,Rodick Road (876),a
 43.8333362,-79.2888699,2,Cashmere Crescent (397),a
 43.8333385,-79.2735045,2,Miles Farm Road (136),a
-43.833343,-79.3681565,2,Mowatt Court (909),a
-43.8333445,-79.368256,2,Mowatt Court (910),a
 43.8333478,-79.327955,2,Warden Avenue (694),a
 43.8333485,-79.3012033,2,Ashmore Crescent (025),a
 43.8333574,-79.2805564,2,Hillcroft Drive (936),a

@@ -1,20 +1,12 @@
 lat,lon,sz,names,len_cat
-43.7152545,-79.5369168,2,Weston Road (136),a
 43.7152545,-79.5369168,2,Weston Road (627),a
 43.7152545,-79.5369168,2,Weston Road (962),a
-43.716146,-79.537333,2,Weston Road (178),a
 43.716146,-79.537333,2,Weston Road (636),a
 43.716146,-79.537333,2,Weston Road (961),a
-43.7167905,-79.5376535,2,Weston Road (177),a
-43.7167905,-79.5376535,2,Weston Road (177),a
 43.7167905,-79.5376535,2,Weston Road (635),a
 43.7167905,-79.5376535,2,Weston Road (635),a
-43.717537,-79.5379282,2,Weston Road (175),a
 43.717537,-79.5379282,2,Weston Road (633),a
-43.7179124,-79.5379531,2,Weston Road (174),a
 43.7179124,-79.5379531,2,Weston Road (632),a
-43.7180236,-79.5379237,2,Weston Road (109),a
-43.7180236,-79.5379237,2,Weston Road (173),a
 43.7180236,-79.5379237,2,Weston Road (610),a
 43.7180236,-79.5379237,2,Weston Road (631),a
 43.7253753,-79.3084387,2,Eglinton Avenue East (117),a
@@ -38,36 +30,17 @@ lat,lon,sz,names,len_cat
 43.7419319,-79.3107585,2,Lawrence Avenue East (672),a
 43.7419319,-79.3107585,2,Lawrence Avenue East (686),a
 43.7419835,-79.3103141,2,Lawrence Avenue East (666),a
-43.7461964,-79.5683642,2,Finch Avenue West (893),a
-43.746198,-79.5682828,2,Finch Avenue West (516),a
-43.7462065,-79.5682485,2,Finch Avenue West (517),a
-43.7462227,-79.568484,2,Islington Avenue (788),a
-43.746284,-79.5686843,2,Finch Avenue West (130),a
 43.746284,-79.5686843,2,Finch Avenue West (450),a
 43.746284,-79.5686843,2,Finch Avenue West (470),a
 43.746284,-79.5686843,2,Islington Avenue (274),a
 43.746284,-79.5686843,2,Islington Avenue (275),a
-43.7463398,-79.5677513,2,Finch Avenue West (518),a
-43.7463398,-79.5677513,2,Finch Avenue West (625),a
 43.746365,-79.5676722,2,Finch Avenue West (753),a
 43.746365,-79.5676722,2,Finch Avenue West (766),a
-43.7465152,-79.5670624,2,Finch Avenue West (626),a
-43.7466385,-79.5666473,2,Finch Avenue West (627),a
-43.7472278,-79.5645162,2,Finch Avenue West (634),a
 43.7472513,-79.5645077,2,Finch Avenue West (189),a
-43.7472549,-79.5643698,2,Finch Avenue West (635),a
-43.7472549,-79.5643698,2,Finch Avenue West (636),a
-43.7472862,-79.564218,2,Finch Avenue West (637),a
-43.7473228,-79.5640575,2,Finch Avenue West (638),a
 43.7473392,-79.5640401,2,Finch Avenue West (869),a
 43.7473585,-79.5639006,2,Finch Avenue West (862),a
 43.7473585,-79.5639006,2,Finch Avenue West (870),a
-43.74739,-79.5637628,2,Finch Avenue West (621),a
-43.74739,-79.5637628,2,Finch Avenue West (639),a
 43.7475027,-79.5632458,2,Finch Avenue West (863),a
-43.747513,-79.5632511,2,Finch Avenue West (622),a
-43.7475405,-79.5631228,2,Finch Avenue West (623),a
-43.7486344,-79.5581187,2,Finch Avenue West (487),a
 43.7486431,-79.5581187,2,Finch Avenue West (458),a
 43.7495753,-79.567976,2,Islington Avenue (451),a
 43.7495753,-79.567976,2,Islington Avenue (454),a
@@ -78,10 +51,7 @@ lat,lon,sz,names,len_cat
 43.7502612,-79.5679495,2,Islington Avenue (457),a
 43.7502612,-79.5679495,2,Islington Avenue (461),a
 43.750523,-79.5679432,2,Islington Avenue (458),a
-43.7506797,-79.5485467,2,Finch Avenue West (530),a
 43.7507185,-79.5484498,2,Finch Avenue West (593),a
-43.7507637,-79.5482139,2,Finch Avenue West (531),a
-43.7507637,-79.5482139,2,Finch Avenue West (531),a
 43.7507687,-79.5482182,2,Finch Avenue West (594),a
 43.7507687,-79.5482182,2,Finch Avenue West (594),a
 43.7507818,-79.5679646,2,Islington Avenue (460),a
@@ -89,358 +59,45 @@ lat,lon,sz,names,len_cat
 43.7508024,-79.5480728,2,Finch Avenue West (567),a
 43.7508024,-79.5480728,2,Finch Avenue West (595),a
 43.7508024,-79.5480728,2,Finch Avenue West (595),a
-43.7512049,-79.5461182,2,Finch Avenue West (533),a
-43.7512049,-79.5461182,2,Finch Avenue West (533),a
-43.7516124,-79.5422776,2,Weston Road (144),a
-43.7516124,-79.5422776,2,Weston Road (989),a
-43.7516476,-79.5422846,2,Weston Road (315),a
-43.7516476,-79.5422846,2,Weston Road (329),a
-43.7516476,-79.5422846,2,Weston Road (753),a
-43.7516476,-79.5422846,2,Weston Road (764),a
-43.7516476,-79.5422846,2,Weston Road (988),a
-43.751721,-79.5423946,2,Weston Road (326),a
-43.751721,-79.5423946,2,Weston Road (763),a
-43.7517368,-79.5422203,2,Weston Road (316),a
-43.7517368,-79.5422203,2,Weston Road (754),a
-43.751844,-79.5424154,2,Weston Road (958),a
-43.7518666,-79.5422445,2,Weston Road (955),a
-43.7519026,-79.5424327,2,Weston Road (325),a
-43.7519258,-79.5422558,2,Weston Road (317),a
-43.7519686,-79.5422675,2,Finch Avenue West (552),a
-43.7519686,-79.5422675,2,Finch Avenue West (562),a
-43.7519686,-79.5422675,2,Weston Road (953),a
-43.7519686,-79.5422675,2,Weston Road (956),a
-43.7519962,-79.5420734,2,Finch Avenue West (553),a
-43.7519962,-79.5420734,2,Finch Avenue West (553),a
-43.7520001,-79.5420463,2,Finch Avenue West (554),a
-43.7520001,-79.5420463,2,Finch Avenue West (554),a
-43.7520256,-79.5422754,2,Finch Avenue West (596),a
-43.7520256,-79.5422754,2,Finch Avenue West (605),a
-43.7520256,-79.5422754,2,Weston Road (313),a
-43.7520256,-79.5422754,2,Weston Road (318),a
-43.7520426,-79.5421461,2,Finch Avenue West (597),a
-43.7521303,-79.5413814,2,Finch Avenue West (555),a
-43.7521471,-79.5413861,2,Finch Avenue West (598),a
-43.7521684,-79.542175,2,Finch Avenue West (602),a
-43.7521814,-79.54213,2,Finch Avenue West (560),a
-43.7522166,-79.5409671,2,Finch Avenue West (556),a
-43.7522166,-79.5409671,2,Finch Avenue West (570),a
-43.7522207,-79.5409728,2,Finch Avenue West (599),a
-43.7522207,-79.5409728,2,Finch Avenue West (615),a
-43.7522588,-79.5415636,2,Finch Avenue West (986),a
-43.7522742,-79.5414594,2,Finch Avenue West (601),a
-43.7522791,-79.5415738,2,Finch Avenue West (559),a
-43.752281,-79.5414215,2,Finch Avenue West (939),a
-43.7523027,-79.5405105,2,Finch Avenue West (250),a
-43.7523027,-79.5405105,2,Finch Avenue West (616),a
-43.7523063,-79.5414317,2,Finch Avenue West (558),a
-43.7523773,-79.5408865,2,Finch Avenue West (600),a
-43.7523773,-79.5408865,2,Finch Avenue West (614),a
-43.7523922,-79.5409267,2,Finch Avenue West (557),a
-43.7523922,-79.5409267,2,Finch Avenue West (569),a
-43.752427,-79.5405639,2,Finch Avenue West (613),a
-43.752524,-79.5401976,2,Finch Avenue West (568),a
-43.7530423,-79.5370505,2,Finch Avenue West (571),a
-43.7530423,-79.5370505,2,Finch Avenue West (571),a
-43.7530675,-79.5370639,2,Finch Avenue West (943),a
-43.7530675,-79.5370639,2,Finch Avenue West (943),a
-43.7531699,-79.5364549,2,Finch Avenue West (572),a
-43.7531699,-79.5364549,2,Finch Avenue West (572),a
-43.7532188,-79.536405,2,Finch Avenue West (617),a
-43.7532188,-79.536405,2,Finch Avenue West (617),a
-43.7533121,-79.5362335,2,Signet Drive (563),a
-43.7533121,-79.5362335,2,Signet Drive (563),a
-43.7533557,-79.536468,2,Finch Avenue West (612),a
-43.7533557,-79.536468,2,Finch Avenue West (612),a
-43.753364,-79.5365392,2,Finch Avenue West (567),a
-43.753364,-79.5365392,2,Finch Avenue West (567),a
-43.7534018,-79.5362877,2,Finch Avenue West (611),a
-43.7534018,-79.5362877,2,Finch Avenue West (611),a
-43.7534018,-79.5362877,2,Finch Avenue West (979),a
-43.7534018,-79.5362877,2,Finch Avenue West (979),a
-43.7534018,-79.5362877,2,Signet Drive (716),a
-43.7534018,-79.5362877,2,Signet Drive (716),a
-43.7534018,-79.5362877,2,Signet Drive (732),a
-43.7534018,-79.5362877,2,Signet Drive (732),a
-43.7534155,-79.5362907,2,Finch Avenue West (566),a
-43.7534155,-79.5362907,2,Finch Avenue West (566),a
-43.7534155,-79.5362907,2,Finch Avenue West (650),a
-43.7534155,-79.5362907,2,Finch Avenue West (650),a
-43.7534155,-79.5362907,2,Signet Drive (560),a
-43.7534155,-79.5362907,2,Signet Drive (560),a
-43.7534155,-79.5362907,2,Signet Drive (564),a
-43.7534155,-79.5362907,2,Signet Drive (564),a
-43.7534346,-79.5363109,2,Signet Drive (717),a
-43.7534346,-79.5363109,2,Signet Drive (717),a
 43.7534462,-79.5360745,2,Finch Avenue West (978),a
 43.7534462,-79.5360745,2,Finch Avenue West (978),a
-43.7534591,-79.5427267,2,Weston Road (265),a
-43.7534591,-79.5427267,2,Weston Road (718),a
-43.7534737,-79.5360105,2,Finch Avenue West (649),a
-43.7534737,-79.5360105,2,Finch Avenue West (649),a
-43.7535068,-79.5363442,2,Signet Drive (561),a
-43.7535068,-79.5363442,2,Signet Drive (561),a
 43.7536294,-79.5351448,2,Finch Avenue West (668),a
 43.7536294,-79.5351448,2,Finch Avenue West (977),a
-43.7537099,-79.5348796,2,Finch Avenue West (648),a
-43.7537099,-79.5348796,2,Finch Avenue West (761),a
-43.7537846,-79.5365128,2,Signet Drive (679),a
-43.7537846,-79.5365128,2,Signet Drive (679),a
-43.7537846,-79.5365128,2,Signet Drive (719),a
-43.7537846,-79.5365128,2,Signet Drive (719),a
-43.7539002,-79.5338398,2,Finch Avenue West (593),a
-43.7539002,-79.5338398,2,Finch Avenue West (760),a
-43.7539246,-79.5326376,2,Finch Avenue West (584),a
-43.7539246,-79.5326376,2,Finch Avenue West (655),a
 43.7539492,-79.5335195,2,Finch Avenue West (666),a
-43.7539667,-79.5334918,2,Finch Avenue West (592),a
 43.7539814,-79.5325125,2,Finch Avenue West (644),a
 43.7539941,-79.5332822,2,Finch Avenue West (665),a
 43.7540936,-79.5327778,2,Finch Avenue West (664),a
 43.7540936,-79.5327778,2,Finch Avenue West (999),a
-43.7540959,-79.5327891,2,Finch Avenue West (591),a
-43.7540959,-79.5327891,2,Finch Avenue West (651),a
-43.7541442,-79.5325265,2,Finch Avenue West (281),a
-43.7541442,-79.5325265,2,Finch Avenue West (559),a
 43.7541442,-79.5325265,2,Finch Avenue West (651),a
 43.7541442,-79.5325265,2,Finch Avenue West (998),a
-43.7541491,-79.5396451,2,High Meadow Place (411),a
-43.7541491,-79.5396451,2,High Meadow Place (975),a
-43.7541641,-79.5428689,2,Weston Road (260),a
-43.7541641,-79.5428689,2,Weston Road (266),a
-43.7541641,-79.5428689,2,Weston Road (304),a
-43.7541641,-79.5428689,2,Weston Road (712),a
-43.7541641,-79.5428689,2,Weston Road (719),a
-43.7541641,-79.5428689,2,Weston Road (743),a
-43.7542942,-79.5399028,2,High Meadow Place (412),a
-43.7542942,-79.5399028,2,High Meadow Place (976),a
-43.7543237,-79.5429766,2,Weston Road (303),a
-43.7543237,-79.5429766,2,Weston Road (742),a
-43.7543465,-79.5428559,2,Weston Road (261),a
-43.7543465,-79.5428559,2,Weston Road (713),a
 43.754618,-79.5369481,2,Signet Drive (681),a
 43.754618,-79.5369481,2,Signet Drive (681),a
 43.754618,-79.5369481,2,Signet Drive (721),a
 43.754618,-79.5369481,2,Signet Drive (721),a
-43.7548789,-79.5401423,2,High Meadow Place (413),a
-43.7548789,-79.5401423,2,High Meadow Place (977),a
-43.7549422,-79.5401385,2,High Meadow Place (414),a
-43.7549422,-79.5401385,2,High Meadow Place (978),a
-43.7549669,-79.5401368,2,High Meadow Place (415),a
-43.7549669,-79.5401368,2,High Meadow Place (979),a
-43.7549913,-79.5401319,2,High Meadow Place (416),a
-43.7549913,-79.5401319,2,High Meadow Place (980),a
-43.7550154,-79.5401239,2,High Meadow Place (417),a
-43.7550154,-79.5401239,2,High Meadow Place (981),a
-43.7550387,-79.5401129,2,High Meadow Place (418),a
-43.7550387,-79.5401129,2,High Meadow Place (982),a
-43.7550462,-79.52857,2,Finch Avenue West (267),a
 43.7550462,-79.52857,2,Finch Avenue West (637),a
-43.7550462,-79.52857,2,Finch Avenue West (653),a
-43.7550612,-79.5400988,2,High Meadow Place (419),a
-43.7550612,-79.5400988,2,High Meadow Place (983),a
-43.7550826,-79.540082,2,High Meadow Place (420),a
-43.7550826,-79.540082,2,High Meadow Place (984),a
-43.7551029,-79.5400624,2,High Meadow Place (421),a
-43.7551029,-79.5400624,2,High Meadow Place (985),a
-43.7551217,-79.5400403,2,High Meadow Place (422),a
-43.7551217,-79.5400403,2,High Meadow Place (986),a
-43.7551389,-79.5400158,2,High Meadow Place (423),a
-43.7551389,-79.5400158,2,High Meadow Place (987),a
-43.7551544,-79.5399894,2,High Meadow Place (424),a
-43.7551544,-79.5399894,2,High Meadow Place (988),a
-43.7551593,-79.5280578,2,Finch Avenue West (266),a
 43.7551593,-79.5280578,2,Finch Avenue West (636),a
-43.755168,-79.5399609,2,High Meadow Place (425),a
-43.755168,-79.5399609,2,High Meadow Place (989),a
-43.7551796,-79.5399309,2,High Meadow Place (426),a
-43.7551796,-79.5399309,2,High Meadow Place (990),a
-43.7551892,-79.5398994,2,High Meadow Place (427),a
-43.7551892,-79.5398994,2,High Meadow Place (991),a
-43.7551972,-79.5398671,2,High Meadow Place (428),a
-43.7551972,-79.5398671,2,High Meadow Place (992),a
-43.7552686,-79.5395549,2,High Meadow Place (163),a
-43.7552686,-79.5395549,2,High Meadow Place (298),a
-43.7553725,-79.5391006,2,High Meadow Place (164),a
-43.7553725,-79.5391006,2,High Meadow Place (299),a
-43.7553882,-79.5270965,2,Finch Avenue West (265),a
 43.7553882,-79.5270965,2,Finch Avenue West (635),a
-43.7553882,-79.5270965,2,Finch Avenue West (652),a
-43.7554621,-79.538709,2,High Meadow Place (162),a
-43.7554621,-79.538709,2,High Meadow Place (300),a
-43.7555293,-79.5432778,2,Weston Road (302),a
-43.7555293,-79.5432778,2,Weston Road (741),a
-43.7555635,-79.5382654,2,High Meadow Place (161),a
-43.7555635,-79.5382654,2,High Meadow Place (301),a
-43.7555667,-79.5431565,2,Weston Road (262),a
-43.7555667,-79.5431565,2,Weston Road (714),a
 43.7556457,-79.526062,2,Finch Avenue West (167),a
 43.7556457,-79.526062,2,Finch Avenue West (269),a
-43.7556457,-79.526062,2,Finch Avenue West (842),a
-43.7556457,-79.526062,2,Finch Avenue West (862),a
-43.7557318,-79.5432659,2,Weston Road (263),a
-43.7557318,-79.5432659,2,Weston Road (301),a
-43.7557318,-79.5432659,2,Weston Road (310),a
-43.7557318,-79.5432659,2,Weston Road (715),a
-43.7557318,-79.5432659,2,Weston Road (740),a
-43.7557318,-79.5432659,2,Weston Road (748),a
-43.7557344,-79.5375184,2,High Meadow Place (429),a
-43.7557344,-79.5375184,2,High Meadow Place (993),a
-43.7557344,-79.5375184,2,Signet Drive (661),a
-43.7557344,-79.5375184,2,Signet Drive (684),a
-43.7557344,-79.5375184,2,Signet Drive (701),a
-43.7557344,-79.5375184,2,Signet Drive (724),a
-43.7557559,-79.5255952,2,Finch Avenue West (287),a
 43.7557559,-79.5255952,2,Finch Avenue West (657),a
-43.7559872,-79.5245351,2,Finch Avenue West (590),a
-43.7559872,-79.5245351,2,Finch Avenue West (590),a
-43.7559982,-79.5244772,2,Finch Avenue West (656),a
-43.7559982,-79.5244772,2,Finch Avenue West (656),a
-43.756028,-79.5243238,2,Finch Avenue West (632),a
-43.756028,-79.5243238,2,Finch Avenue West (632),a
-43.756028,-79.5243238,2,Finch Avenue West (655),a
-43.756028,-79.5243238,2,Finch Avenue West (655),a
-43.756028,-79.5243238,2,Norfinch Drive (328),a
-43.756028,-79.5243238,2,Norfinch Drive (328),a
-43.7560304,-79.5243141,2,Finch Avenue West (583),a
-43.7560304,-79.5243141,2,Finch Avenue West (583),a
-43.7560304,-79.5243141,2,Finch Avenue West (589),a
-43.7560304,-79.5243141,2,Finch Avenue West (589),a
-43.7560304,-79.5243141,2,Norfinch Drive (972),a
-43.7560304,-79.5243141,2,Norfinch Drive (972),a
-43.7560762,-79.5241191,2,Finch Avenue West (631),a
-43.7560762,-79.5241191,2,Finch Avenue West (631),a
-43.7560889,-79.5243519,2,Norfinch Drive (329),a
-43.7560889,-79.5243519,2,Norfinch Drive (329),a
-43.7560936,-79.5240386,2,Finch Avenue West (582),a
-43.7560936,-79.5240386,2,Finch Avenue West (582),a
-43.7561309,-79.524354,2,Norfinch Drive (973),a
-43.7561309,-79.524354,2,Norfinch Drive (973),a
-43.7561946,-79.5235704,2,Finch Avenue West (260),a
-43.7561946,-79.5235704,2,Finch Avenue West (260),a
-43.7561946,-79.5235704,2,Finch Avenue West (630),a
-43.7561946,-79.5235704,2,Finch Avenue West (630),a
-43.7562105,-79.5243944,2,Norfinch Drive (330),a
-43.7562105,-79.5243944,2,Norfinch Drive (330),a
-43.7562105,-79.5243944,2,Norfinch Drive (481),a
-43.7562105,-79.5243944,2,Norfinch Drive (481),a
-43.7562527,-79.5233381,2,Finch Avenue West (259),a
-43.7562527,-79.5233381,2,Finch Avenue West (259),a
-43.7562527,-79.5233381,2,Finch Avenue West (271),a
-43.7562527,-79.5233381,2,Finch Avenue West (271),a
-43.7562527,-79.5233381,2,Finch Avenue West (629),a
-43.7562527,-79.5233381,2,Finch Avenue West (629),a
-43.7562527,-79.5233381,2,Finch Avenue West (641),a
-43.7562527,-79.5233381,2,Finch Avenue West (641),a
-43.7563434,-79.5244516,2,Norfinch Drive (331),a
-43.7563434,-79.5244516,2,Norfinch Drive (331),a
-43.7563434,-79.5244516,2,Norfinch Drive (482),a
-43.7563434,-79.5244516,2,Norfinch Drive (482),a
-43.7564412,-79.5225349,2,Finch Avenue West (264),a
-43.7564412,-79.5225349,2,Finch Avenue West (272),a
-43.7564412,-79.5225349,2,Finch Avenue West (634),a
-43.7564412,-79.5225349,2,Finch Avenue West (642),a
-43.756456,-79.5245205,2,Norfinch Drive (332),a
-43.756456,-79.5245205,2,Norfinch Drive (332),a
-43.756456,-79.5245205,2,Norfinch Drive (483),a
-43.756456,-79.5245205,2,Norfinch Drive (483),a
-43.7565867,-79.5246217,2,Norfinch Drive (334),a
-43.7565867,-79.5246217,2,Norfinch Drive (334),a
-43.7565867,-79.5246217,2,Norfinch Drive (485),a
-43.7565867,-79.5246217,2,Norfinch Drive (485),a
-43.7566275,-79.5217232,2,Finch Avenue West (263),a
-43.7566275,-79.5217232,2,Finch Avenue West (482),a
-43.7566275,-79.5217232,2,Finch Avenue West (633),a
-43.7566275,-79.5217232,2,Finch Avenue West (915),a
-43.7567293,-79.5248295,2,Norfinch Drive (336),a
-43.7567293,-79.5248295,2,Norfinch Drive (336),a
-43.7567293,-79.5248295,2,Norfinch Drive (487),a
-43.7567293,-79.5248295,2,Norfinch Drive (487),a
-43.7567313,-79.543497,2,Weston Road (050),a
-43.7567313,-79.543497,2,Weston Road (290),a
-43.7567517,-79.5380468,2,Signet Drive (451),a
-43.7567517,-79.5380468,2,Signet Drive (643),a
-43.7568422,-79.5380926,2,Signet Drive (139),a
-43.7568422,-79.5380926,2,Signet Drive (294),a
-43.7568425,-79.5250928,2,Norfinch Drive (337),a
-43.7568425,-79.5250928,2,Norfinch Drive (337),a
-43.7568425,-79.5250928,2,Norfinch Drive (488),a
-43.7568425,-79.5250928,2,Norfinch Drive (488),a
-43.7569159,-79.5254225,2,Norfinch Drive (640),a
-43.7569159,-79.5254225,2,Norfinch Drive (950),a
-43.757005,-79.5259718,2,Norfinch Drive (338),a
-43.757005,-79.5259718,2,Norfinch Drive (489),a
-43.7570306,-79.526152,2,Norfinch Drive (340),a
-43.7570306,-79.526152,2,Norfinch Drive (491),a
-43.7570679,-79.5263982,2,Norfinch Drive (341),a
-43.7570679,-79.5263982,2,Norfinch Drive (492),a
-43.7570919,-79.5265515,2,Norfinch Drive (342),a
-43.7570919,-79.5265515,2,Norfinch Drive (493),a
-43.7571005,-79.526609,2,Norfinch Drive (343),a
-43.7571005,-79.526609,2,Norfinch Drive (494),a
-43.7571201,-79.5267531,2,Norfinch Drive (344),a
-43.7571201,-79.5267531,2,Norfinch Drive (495),a
-43.7571231,-79.5435869,2,Weston Road (133),a
-43.7571231,-79.5435869,2,Weston Road (151),a
-43.7571231,-79.5435869,2,Weston Road (982),a
-43.7571231,-79.5435869,2,Weston Road (995),a
-43.7571772,-79.5271325,2,Norfinch Drive (346),a
-43.7571772,-79.5271325,2,Norfinch Drive (497),a
-43.757182,-79.5382687,2,Signet Drive (138),a
-43.757182,-79.5382687,2,Signet Drive (295),a
-43.7572042,-79.5273082,2,Norfinch Drive (347),a
-43.7572042,-79.5273082,2,Norfinch Drive (498),a
-43.757226,-79.5274429,2,Norfinch Drive (348),a
-43.757226,-79.5274429,2,Norfinch Drive (499),a
-43.7572774,-79.5276241,2,Norfinch Drive (351),a
-43.7572774,-79.5276241,2,Norfinch Drive (502),a
-43.7573296,-79.5277774,2,Norfinch Drive (353),a
-43.7573296,-79.5277774,2,Norfinch Drive (504),a
-43.757371,-79.5383667,2,Signet Drive (140),a
-43.757371,-79.5383667,2,Signet Drive (296),a
-43.7573969,-79.5436497,2,Weston Road (150),a
-43.7573969,-79.5436497,2,Weston Road (994),a
-43.75747,-79.5280873,2,Norfinch Drive (354),a
-43.75747,-79.5280873,2,Norfinch Drive (505),a
-43.7574853,-79.5435453,2,Fenmar Drive (061),a
-43.7574853,-79.5435453,2,Fenmar Drive (881),a
-43.7574934,-79.5436749,2,Fenmar Drive (059),a
-43.7574934,-79.5436749,2,Fenmar Drive (106),a
-43.7574934,-79.5436749,2,Fenmar Drive (877),a
-43.7574934,-79.5436749,2,Fenmar Drive (928),a
-43.7574934,-79.5436749,2,Weston Road (283),a
-43.7574934,-79.5436749,2,Weston Road (729),a
-43.7574934,-79.5436749,2,Weston Road (992),a
 43.7575325,-79.5431386,2,Fenmar Drive (062),a
 43.7575325,-79.5431386,2,Fenmar Drive (882),a
 43.7575354,-79.5439145,2,Fenmar Drive (107),a
 43.7575354,-79.5439145,2,Fenmar Drive (929),a
 43.757587,-79.5441652,2,Fenmar Drive (109),a
 43.757587,-79.5441652,2,Fenmar Drive (931),a
-43.7575933,-79.5282682,2,Norfinch Drive (358),a
-43.7575933,-79.5282682,2,Norfinch Drive (509),a
-43.7576204,-79.543713,2,Weston Road (284),a
-43.7576204,-79.543713,2,Weston Road (730),a
 43.757621,-79.5427469,2,Fenmar Drive (125),a
 43.757621,-79.5427469,2,Fenmar Drive (983),a
-43.7576331,-79.5385025,2,Signet Drive (450),a
-43.7576331,-79.5385025,2,Signet Drive (642),a
-43.7576833,-79.5283738,2,Norfinch Drive (563),a
-43.7576833,-79.5283738,2,Norfinch Drive (595),a
 43.7576985,-79.5444358,2,Fenmar Drive (066),a
 43.7576985,-79.5444358,2,Fenmar Drive (110),a
 43.7576985,-79.5444358,2,Fenmar Drive (888),a
 43.7576985,-79.5444358,2,Fenmar Drive (932),a
 43.7577116,-79.5444815,2,Fenmar Drive (411),a
 43.7577116,-79.5444815,2,Fenmar Drive (532),a
-43.7577139,-79.528411,2,Norfinch Drive (360),a
-43.7577139,-79.528411,2,Norfinch Drive (511),a
 43.7577166,-79.5423235,2,Fenmar Drive (063),a
 43.7577166,-79.5423235,2,Fenmar Drive (884),a
 43.7577268,-79.5445344,2,Fenmar Drive (067),a
 43.7577268,-79.5445344,2,Fenmar Drive (889),a
-43.7577585,-79.5437622,2,Weston Road (204),a
-43.7577585,-79.5437622,2,Weston Road (861),a
 43.7577641,-79.5446329,2,Fenmar Drive (068),a
 43.7577641,-79.5446329,2,Fenmar Drive (890),a
 43.7577705,-79.542088,2,Fenmar Drive (126),a
@@ -449,196 +106,62 @@ lat,lon,sz,names,len_cat
 43.7578023,-79.5419489,2,Fenmar Drive (719),a
 43.7578593,-79.5448614,2,Fenmar Drive (410),a
 43.7578593,-79.5448614,2,Fenmar Drive (531),a
-43.7580061,-79.5286422,2,Norfinch Drive (361),a
-43.7580061,-79.5286422,2,Norfinch Drive (512),a
 43.7580218,-79.54099,2,Fenmar Drive (127),a
 43.7580218,-79.54099,2,Fenmar Drive (985),a
-43.7581021,-79.5438825,2,Weston Road (285),a
-43.7581021,-79.5438825,2,Weston Road (731),a
-43.7581021,-79.5438825,2,Weston Road (993),a
-43.7581418,-79.5438908,2,Weston Road (152),a
-43.7581418,-79.5438908,2,Weston Road (996),a
 43.7581508,-79.5803648,2,Hillside Road (170),a
 43.7581508,-79.5803648,2,Hillside Road (855),a
 43.7582112,-79.5401625,2,Fenmar Drive (064),a
 43.7582112,-79.5401625,2,Fenmar Drive (886),a
-43.7582619,-79.5439169,2,Weston Road (153),a
-43.7582619,-79.5439169,2,Weston Road (997),a
-43.7582713,-79.5287478,2,Norfinch Drive (365),a
-43.7582713,-79.5287478,2,Norfinch Drive (516),a
 43.7583237,-79.5459769,2,Fenmar Drive (142),a
 43.7583237,-79.5459769,2,Fenmar Drive (990),a
-43.7583807,-79.53889,2,Signet Drive (141),a
-43.7583807,-79.53889,2,Signet Drive (297),a
-43.7584009,-79.5439471,2,Weston Road (131),a
-43.7584009,-79.5439471,2,Weston Road (154),a
-43.7584009,-79.5439471,2,Weston Road (980),a
-43.7584009,-79.5439471,2,Weston Road (998),a
-43.7584171,-79.5287731,2,Norfinch Drive (374),a
-43.7584171,-79.5287731,2,Norfinch Drive (739),a
-43.7584428,-79.5390867,2,Fenmar Drive (058),a
-43.7584428,-79.5390867,2,Fenmar Drive (128),a
-43.7584747,-79.5389387,2,Fenmar Drive (065),a
-43.7584747,-79.5389387,2,Fenmar Drive (099),a
-43.7584747,-79.5389387,2,Fenmar Drive (887),a
-43.7584747,-79.5389387,2,Fenmar Drive (921),a
-43.7584747,-79.5389387,2,Signet Drive (653),a
-43.7584747,-79.5389387,2,Signet Drive (662),a
-43.7584747,-79.5389387,2,Signet Drive (693),a
-43.7584747,-79.5389387,2,Signet Drive (702),a
-43.758512,-79.5387659,2,Fenmar Drive (059),a
-43.758512,-79.5387659,2,Fenmar Drive (145),a
 43.758552,-79.5465251,2,Fenmar Drive (460),a
 43.758552,-79.5465251,2,Fenmar Drive (729),a
-43.7585738,-79.5287917,2,Norfinch Drive (366),a
-43.7585738,-79.5287917,2,Norfinch Drive (517),a
-43.7585738,-79.5287917,2,Norfinch Drive (977),a
-43.7585979,-79.538994,2,Signet Drive (137),a
-43.7585979,-79.538994,2,Signet Drive (293),a
-43.7586317,-79.5382119,2,Fenmar Drive (122),a
-43.7586317,-79.5382119,2,Fenmar Drive (608),a
-43.758633,-79.5439975,2,Weston Road (461),a
-43.758633,-79.5439975,2,Weston Road (747),a
-43.7587136,-79.5378329,2,Fenmar Drive (412),a
-43.7587136,-79.5378329,2,Fenmar Drive (533),a
-43.7587309,-79.5440188,2,Weston Road (036),a
-43.7587309,-79.5440188,2,Weston Road (259),a
-43.7587373,-79.5390565,2,Signet Drive (654),a
-43.7587373,-79.5390565,2,Signet Drive (694),a
-43.7587858,-79.5288082,2,Norfinch Drive (974),a
-43.7587858,-79.5288082,2,Norfinch Drive (978),a
-43.7587921,-79.5288149,2,Norfinch Drive (676),a
-43.7587921,-79.5288149,2,Norfinch Drive (751),a
 43.7588049,-79.5471325,2,Fenmar Drive (461),a
 43.7588049,-79.5471325,2,Fenmar Drive (461),a
 43.7588049,-79.5471325,2,Fenmar Drive (730),a
 43.7588049,-79.5471325,2,Fenmar Drive (730),a
-43.7589075,-79.5288272,2,Norfinch Drive (583),a
-43.7589075,-79.5288272,2,Norfinch Drive (657),a
-43.7589075,-79.5288272,2,Norfinch Drive (675),a
-43.7589075,-79.5288272,2,Norfinch Drive (749),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (462),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
 43.7589564,-79.5474963,2,Fenmar Drive (731),a
-43.7590417,-79.5440864,2,Weston Road (161),a
-43.7590417,-79.5440864,2,Weston Road (860),a
-43.7590502,-79.5391742,2,Signet Drive (261),a
-43.7590502,-79.5391742,2,Signet Drive (449),a
 43.7590632,-79.5477529,2,Fenmar Drive (463),a
 43.7590632,-79.5477529,2,Fenmar Drive (463),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
 43.7590632,-79.5477529,2,Fenmar Drive (732),a
-43.7590876,-79.5361019,2,Fenmar Drive (123),a
-43.7590876,-79.5361019,2,Fenmar Drive (123),a
-43.7590876,-79.5361019,2,Fenmar Drive (609),a
-43.7590876,-79.5361019,2,Fenmar Drive (609),a
 43.7591129,-79.5478722,2,Fenmar Drive (607),a
 43.7591129,-79.5478722,2,Fenmar Drive (607),a
 43.7591129,-79.5478722,2,Fenmar Drive (749),a
 43.7591129,-79.5478722,2,Fenmar Drive (749),a
-43.7591534,-79.5288546,2,Norfinch Drive (646),a
-43.7591534,-79.5288546,2,Norfinch Drive (738),a
-43.7592172,-79.5355023,2,Fenmar Drive (489),a
-43.7592172,-79.5355023,2,Fenmar Drive (489),a
-43.7592172,-79.5355023,2,Fenmar Drive (988),a
-43.7592172,-79.5355023,2,Fenmar Drive (988),a
-43.7592552,-79.5353266,2,Fenmar Drive (527),a
-43.7592552,-79.5353266,2,Fenmar Drive (527),a
-43.7592552,-79.5353266,2,Fenmar Drive (920),a
-43.7592552,-79.5353266,2,Fenmar Drive (920),a
 43.7593431,-79.5484252,2,Fenmar Drive (606),a
 43.7593431,-79.5484252,2,Fenmar Drive (606),a
 43.7593431,-79.5484252,2,Fenmar Drive (748),a
 43.7593431,-79.5484252,2,Fenmar Drive (748),a
-43.7593641,-79.5348223,2,Fenmar Drive (471),a
-43.7593641,-79.5348223,2,Fenmar Drive (471),a
-43.7593641,-79.5348223,2,Fenmar Drive (799),a
-43.7593641,-79.5348223,2,Fenmar Drive (799),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (409),a
 43.7594082,-79.5485814,2,Fenmar Drive (987),a
 43.7594082,-79.5485814,2,Fenmar Drive (987),a
-43.7594351,-79.5288778,2,Norfinch Drive (588),a
-43.7594351,-79.5288778,2,Norfinch Drive (680),a
-43.7594583,-79.534386,2,Fenmar Drive (472),a
-43.7594583,-79.534386,2,Fenmar Drive (800),a
-43.7595985,-79.5442074,2,Weston Road (042),a
-43.7595985,-79.5442074,2,Weston Road (993),a
-43.7596059,-79.5393832,2,Signet Drive (655),a
-43.7596059,-79.5393832,2,Signet Drive (695),a
-43.7597372,-79.5442375,2,Weston Road (048),a
-43.7597372,-79.5442375,2,Weston Road (999),a
-43.7597752,-79.5329193,2,Fenmar Drive (100),a
-43.7597752,-79.5329193,2,Fenmar Drive (922),a
-43.7598043,-79.5328165,2,Fenmar Drive (263),a
-43.7598043,-79.5328165,2,Fenmar Drive (760),a
 43.7598073,-79.54954,2,Fenmar Drive (069),a
 43.7598073,-79.54954,2,Fenmar Drive (094),a
 43.7598073,-79.54954,2,Fenmar Drive (891),a
 43.7598073,-79.54954,2,Fenmar Drive (916),a
 43.7598073,-79.54954,2,Kenhar Drive (160),a
 43.7598073,-79.54954,2,Kenhar Drive (976),a
-43.7598266,-79.544257,2,Weston Road (047),a
-43.7598266,-79.544257,2,Weston Road (998),a
-43.7598355,-79.5394589,2,Signet Drive (262),a
-43.7598355,-79.5394589,2,Signet Drive (450),a
-43.7598355,-79.5327066,2,Fenmar Drive (101),a
-43.7598355,-79.5327066,2,Fenmar Drive (923),a
-43.7598622,-79.5326811,2,Fenmar Drive (102),a
-43.7598622,-79.5326811,2,Fenmar Drive (924),a
-43.7598622,-79.5326811,2,Norelco Drive (017),a
-43.7598622,-79.5326811,2,Norelco Drive (694),a
 43.7598873,-79.549474,2,Kenhar Drive (161),a
 43.7598873,-79.549474,2,Kenhar Drive (977),a
-43.759889,-79.532668,2,Norelco Drive (018),a
-43.759889,-79.532668,2,Norelco Drive (697),a
-43.7598958,-79.5394788,2,Signet Drive (383),a
-43.7598958,-79.5394788,2,Signet Drive (760),a
-43.7599024,-79.539481,2,Signet Drive (656),a
-43.7599024,-79.539481,2,Signet Drive (696),a
-43.7599432,-79.5326791,2,Norelco Drive (019),a
-43.7599432,-79.5326791,2,Norelco Drive (699),a
-43.7599621,-79.5289432,2,Norfinch Drive (649),a
-43.7599621,-79.5289432,2,Norfinch Drive (741),a
-43.7600778,-79.5327109,2,Norelco Drive (396),a
-43.7600778,-79.5327109,2,Norelco Drive (835),a
-43.7600828,-79.5395226,2,Signet Drive (657),a
-43.7600828,-79.5395226,2,Signet Drive (697),a
-43.7600835,-79.5289583,2,Norfinch Drive (658),a
-43.7600835,-79.5289583,2,Norfinch Drive (750),a
 43.7601522,-79.5492555,2,Kenhar Drive (179),a
 43.7601522,-79.5492555,2,Kenhar Drive (489),a
-43.7601549,-79.5289671,2,Norfinch Drive (648),a
-43.7601549,-79.5289671,2,Norfinch Drive (740),a
-43.7602401,-79.5395672,2,Signet Drive (658),a
-43.7602401,-79.5395672,2,Signet Drive (698),a
 43.7602406,-79.550569,2,Fenmar Drive (469),a
 43.7602406,-79.550569,2,Fenmar Drive (762),a
-43.7602764,-79.5443547,2,Weston Road (043),a
-43.7602764,-79.5443547,2,Weston Road (994),a
-43.7603331,-79.5443671,2,Weston Road (041),a
-43.7603331,-79.5443671,2,Weston Road (992),a
-43.760355,-79.5289919,2,Norfinch Drive (603),a
-43.760355,-79.5289919,2,Norfinch Drive (695),a
-43.7603804,-79.5395979,2,Signet Drive (384),a
-43.7603804,-79.5395979,2,Signet Drive (761),a
-43.7603873,-79.532784,2,Norelco Drive (397),a
-43.7603873,-79.532784,2,Norelco Drive (839),a
 43.7604241,-79.5490312,2,Kenhar Drive (277),a
 43.7604241,-79.5490312,2,Kenhar Drive (453),a
 43.7604262,-79.55101,2,Fenmar Drive (470),a
 43.7604262,-79.55101,2,Fenmar Drive (763),a
-43.7604581,-79.5443942,2,Weston Road (046),a
-43.7604581,-79.5443942,2,Weston Road (997),a
 43.7604588,-79.5510874,2,Fenmar Drive (073),a
 43.7604588,-79.5510874,2,Fenmar Drive (100),a
 43.7606234,-79.5488668,2,Kenhar Drive (180),a
 43.7606234,-79.5488668,2,Kenhar Drive (490),a
 43.7606449,-79.548849,2,Kenhar Drive (162),a
 43.7606449,-79.548849,2,Kenhar Drive (978),a
-43.7606555,-79.5290597,2,Norfinch Drive (647),a
-43.7606555,-79.5290597,2,Norfinch Drive (739),a
 43.7606689,-79.5515864,2,Fenmar Drive (074),a
 43.7606689,-79.5515864,2,Fenmar Drive (101),a
 43.7606894,-79.5488106,2,Kenhar Drive (163),a
@@ -649,10 +172,6 @@ lat,lon,sz,names,len_cat
 43.7607425,-79.5487473,2,Kenhar Drive (491),a
 43.7607603,-79.5487219,2,Kenhar Drive (165),a
 43.7607603,-79.5487219,2,Kenhar Drive (981),a
-43.7607635,-79.5290841,2,Norfinch Drive (656),a
-43.7607635,-79.5290841,2,Norfinch Drive (748),a
-43.7607655,-79.544461,2,Weston Road (045),a
-43.7607655,-79.544461,2,Weston Road (996),a
 43.7607957,-79.5486714,2,Kenhar Drive (166),a
 43.7607957,-79.5486714,2,Kenhar Drive (982),a
 43.760822,-79.5486211,2,Kenhar Drive (167),a
@@ -663,9 +182,6 @@ lat,lon,sz,names,len_cat
 43.7608391,-79.5485461,2,Kenhar Drive (168),a
 43.7608391,-79.5485461,2,Kenhar Drive (984),a
 43.7608391,-79.5485461,2,Kenhar Drive (984),a
-43.7608445,-79.5444782,2,Weston Road (000),a
-43.7608445,-79.5444782,2,Weston Road (049),a
-43.7608544,-79.5291046,2,Norfinch Drive (975),a
 43.7608822,-79.548396,2,Kenhar Drive (169),a
 43.7608822,-79.548396,2,Kenhar Drive (169),a
 43.7608822,-79.548396,2,Kenhar Drive (985),a
@@ -674,10 +190,6 @@ lat,lon,sz,names,len_cat
 43.7608945,-79.548339,2,Kenhar Drive (182),a
 43.7608945,-79.548339,2,Kenhar Drive (492),a
 43.7608945,-79.548339,2,Kenhar Drive (492),a
-43.7609503,-79.5445012,2,Weston Road (044),a
-43.7609503,-79.5445012,2,Weston Road (995),a
-43.7609509,-79.5291264,2,Norfinch Drive (586),a
-43.7609509,-79.5291264,2,Norfinch Drive (678),a
 43.7609584,-79.5522789,2,Fenmar Drive (393),a
 43.7609584,-79.5522789,2,Fenmar Drive (874),a
 43.7610311,-79.5477076,2,Kenhar Drive (183),a
@@ -690,8 +202,6 @@ lat,lon,sz,names,len_cat
 43.7611644,-79.5470917,2,Kenhar Drive (279),a
 43.7611644,-79.5470917,2,Kenhar Drive (574),a
 43.7611644,-79.5470917,2,Kenhar Drive (574),a
-43.7611651,-79.5329678,2,Norelco Drive (398),a
-43.7611651,-79.5329678,2,Norelco Drive (842),a
 43.7611746,-79.5470443,2,Kenhar Drive (370),a
 43.7611746,-79.5470443,2,Kenhar Drive (370),a
 43.7612288,-79.5529317,2,Fenmar Drive (333),a
@@ -700,78 +210,29 @@ lat,lon,sz,names,len_cat
 43.7613211,-79.5463671,2,Kenhar Drive (278),a
 43.7613211,-79.5463671,2,Kenhar Drive (573),a
 43.7613211,-79.5463671,2,Kenhar Drive (573),a
-43.761324,-79.5398047,2,Signet Drive (247),a
-43.761324,-79.5398047,2,Signet Drive (955),a
 43.7613545,-79.5462129,2,Kenhar Drive (101),a
 43.7613545,-79.5462129,2,Kenhar Drive (109),a
-43.7613553,-79.5292189,2,Norfinch Drive (655),a
-43.7613553,-79.5292189,2,Norfinch Drive (747),a
-43.7614357,-79.5330317,2,Norelco Drive (557),a
-43.7614357,-79.5330317,2,Norelco Drive (822),a
-43.7616043,-79.5292764,2,Norfinch Drive (645),a
-43.7616043,-79.5292764,2,Norfinch Drive (737),a
 43.7616309,-79.5539024,2,Fenmar Drive (395),a
 43.7616309,-79.5539024,2,Fenmar Drive (876),a
-43.7616605,-79.5447988,2,Kenhar Drive (196),a
-43.7616605,-79.5447988,2,Kenhar Drive (704),a
-43.7616901,-79.544662,2,Kenhar Drive (170),a
-43.7616901,-79.544662,2,Kenhar Drive (171),a
-43.7616901,-79.544662,2,Kenhar Drive (986),a
-43.7616901,-79.544662,2,Kenhar Drive (987),a
-43.7616901,-79.544662,2,Weston Road (271),a
-43.7616901,-79.544662,2,Weston Road (296),a
-43.7616901,-79.544662,2,Weston Road (725),a
-43.7616901,-79.544662,2,Weston Road (735),a
-43.7617119,-79.533097,2,Norelco Drive (558),a
-43.7617119,-79.533097,2,Norelco Drive (823),a
-43.7617228,-79.5398921,2,Signet Drive (449),a
-43.7617228,-79.5398921,2,Signet Drive (641),a
-43.7617238,-79.54451,2,Kenhar Drive (197),a
-43.7617238,-79.54451,2,Kenhar Drive (705),a
-43.7618336,-79.5293282,2,Norfinch Drive (654),a
-43.7618336,-79.5293282,2,Norfinch Drive (746),a
 43.7618349,-79.5543951,2,Fenmar Drive (432),a
 43.7618349,-79.5543951,2,Fenmar Drive (497),a
-43.7618521,-79.5439309,2,Kenhar Drive (352),a
-43.7618521,-79.5439309,2,Kenhar Drive (391),a
-43.7619364,-79.5435504,2,Kenhar Drive (103),a
-43.7619364,-79.5435504,2,Kenhar Drive (111),a
-43.7619719,-79.5293599,2,Norfinch Drive (653),a
-43.7619719,-79.5293599,2,Norfinch Drive (745),a
-43.761975,-79.5433764,2,Kenhar Drive (351),a
-43.761975,-79.5433764,2,Kenhar Drive (390),a
 43.7619939,-79.5547789,2,Fenmar Drive (096),a
 43.7619939,-79.5547789,2,Fenmar Drive (918),a
 43.7620596,-79.5549355,2,Fenmar Drive (396),a
 43.7620596,-79.5549355,2,Fenmar Drive (877),a
 43.7621202,-79.5550799,2,Fenmar Drive (433),a
 43.7621202,-79.5550799,2,Fenmar Drive (498),a
-43.7621608,-79.5425379,2,Kenhar Drive (102),a
-43.7621608,-79.5425379,2,Kenhar Drive (110),a
-43.7621731,-79.5399908,2,Signet Drive (659),a
-43.7621731,-79.5399908,2,Signet Drive (699),a
-43.7621872,-79.5424187,2,Kenhar Drive (172),a
-43.7621872,-79.5424187,2,Kenhar Drive (988),a
-43.7622415,-79.5447823,2,Weston Road (137),a
 43.7622415,-79.5447823,2,Weston Road (348),a
 43.7623579,-79.5556464,2,Fenmar Drive (374),a
 43.7623579,-79.5556464,2,Fenmar Drive (392),a
-43.7623587,-79.5416646,2,Kenhar Drive (305),a
-43.7623587,-79.5416646,2,Kenhar Drive (790),a
-43.7623764,-79.5294523,2,Norfinch Drive (652),a
-43.7623764,-79.5294523,2,Norfinch Drive (744),a
 43.7623819,-79.5557035,2,Fenmar Drive (393),a
 43.7623819,-79.5557035,2,Fenmar Drive (431),a
-43.7624136,-79.541423,2,Kenhar Drive (280),a
-43.7624136,-79.541423,2,Kenhar Drive (575),a
 43.7624321,-79.5561827,2,Ormont Drive (118),a
 43.7624321,-79.5561827,2,Ormont Drive (844),a
 43.76244,-79.5797166,2,Steeles Avenue West (264),a
 43.76244,-79.5797166,2,Steeles Avenue West (465),a
 43.7624712,-79.5559163,2,Fenmar Drive (097),a
 43.7624712,-79.5559163,2,Fenmar Drive (394),a
-43.762474,-79.5411322,2,Kenhar Drive (281),a
-43.762474,-79.5411322,2,Kenhar Drive (576),a
 43.7625464,-79.5560954,2,Fenmar Drive (070),a
 43.7625464,-79.5560954,2,Fenmar Drive (098),a
 43.7625464,-79.5560954,2,Fenmar Drive (388),a
@@ -780,18 +241,10 @@ lat,lon,sz,names,len_cat
 43.7625464,-79.5560954,2,Ormont Drive (130),a
 43.7625464,-79.5560954,2,Ormont Drive (845),a
 43.7625464,-79.5560954,2,Ormont Drive (856),a
-43.7625829,-79.5294996,2,Norfinch Drive (650),a
-43.7625829,-79.5294996,2,Norfinch Drive (742),a
 43.7626116,-79.556252,2,Fenmar Drive (071),a
 43.7626116,-79.556252,2,Fenmar Drive (389),a
 43.7626373,-79.5560257,2,Ormont Drive (131),a
 43.7626373,-79.5560257,2,Ormont Drive (857),a
-43.7626756,-79.5401296,2,Kenhar Drive (173),a
-43.7626756,-79.5401296,2,Kenhar Drive (989),a
-43.7626756,-79.5401296,2,Signet Drive (660),a
-43.7626756,-79.5401296,2,Signet Drive (663),a
-43.7626756,-79.5401296,2,Signet Drive (700),a
-43.7626756,-79.5401296,2,Signet Drive (703),a
 43.7626815,-79.5564198,2,Fenmar Drive (386),a
 43.7626815,-79.5564198,2,Fenmar Drive (390),a
 43.76273,-79.5565308,2,Fenmar Drive (373),a
@@ -800,13 +253,9 @@ lat,lon,sz,names,len_cat
 43.7627677,-79.5792562,2,Steeles Avenue West (266),a
 43.7627677,-79.5792562,2,Steeles Avenue West (436),a
 43.7627677,-79.5792562,2,Steeles Avenue West (467),a
-43.7627725,-79.5448981,2,Weston Road (136),a
 43.7627725,-79.5448981,2,Weston Road (347),a
-43.7627841,-79.493014,2,Finch Avenue West (723),a
 43.7627968,-79.4930286,2,Finch Avenue West (680),a
-43.7629531,-79.5449375,2,Weston Road (281),a
 43.7629531,-79.5449375,2,Weston Road (383),a
-43.7630194,-79.4924881,2,Finch Avenue West (627),a
 43.7630194,-79.4924881,2,Finch Avenue West (679),a
 43.7630436,-79.5519838,2,Barmac Drive (299),a
 43.7630436,-79.5519838,2,Barmac Drive (619),a
@@ -814,7 +263,6 @@ lat,lon,sz,names,len_cat
 43.7630485,-79.5572981,2,Fenmar Drive (992),a
 43.763076,-79.5524054,2,Barmac Drive (298),a
 43.763076,-79.5524054,2,Barmac Drive (618),a
-43.7631051,-79.492195,2,Finch Avenue West (623),a
 43.7631051,-79.492195,2,Finch Avenue West (675),a
 43.763117,-79.5516119,2,Barmac Drive (349),a
 43.763117,-79.5516119,2,Barmac Drive (549),a
@@ -822,7 +270,6 @@ lat,lon,sz,names,len_cat
 43.763118,-79.5524877,2,Barmac Drive (550),a
 43.7631435,-79.5514775,2,Barmac Drive (262),a
 43.7631435,-79.5514775,2,Barmac Drive (447),a
-43.7631929,-79.4917917,2,Finch Avenue West (624),a
 43.7631929,-79.4917917,2,Finch Avenue West (676),a
 43.7632152,-79.5555824,2,Ormont Drive (132),a
 43.7632152,-79.5555824,2,Ormont Drive (858),a
@@ -834,8 +281,6 @@ lat,lon,sz,names,len_cat
 43.7632693,-79.5785644,2,Steeles Avenue West (437),a
 43.7632954,-79.5555184,2,Ormont Drive (133),a
 43.7632954,-79.5555184,2,Ormont Drive (859),a
-43.7633366,-79.5296719,2,Norfinch Drive (471),a
-43.7633366,-79.5296719,2,Norfinch Drive (659),a
 43.7633548,-79.558031,2,Fenmar Drive (464),a
 43.7633548,-79.558031,2,Fenmar Drive (464),a
 43.7633548,-79.558031,2,Fenmar Drive (740),a
@@ -858,10 +303,6 @@ lat,lon,sz,names,len_cat
 43.7634831,-79.5553226,2,Ormont Drive (871),a
 43.7634998,-79.5553022,2,Ormont Drive (136),a
 43.7634998,-79.5553022,2,Ormont Drive (862),a
-43.7635357,-79.5297174,2,Norfinch Drive (473),a
-43.7635357,-79.5297174,2,Norfinch Drive (661),a
-43.7635517,-79.5297211,2,Norfinch Drive (599),a
-43.7635517,-79.5297211,2,Norfinch Drive (691),a
 43.7635532,-79.5552513,2,Ormont Drive (137),a
 43.7635532,-79.5552513,2,Ormont Drive (863),a
 43.7635589,-79.5529697,2,Barmac Drive (149),a
@@ -878,8 +319,6 @@ lat,lon,sz,names,len_cat
 43.7637015,-79.558869,2,Fenmar Drive (723),a
 43.7637015,-79.558869,2,Fenmar Drive (917),a
 43.7637015,-79.558869,2,Fenmar Drive (917),a
-43.7637278,-79.5297634,2,Norfinch Drive (651),a
-43.7637278,-79.5297634,2,Norfinch Drive (743),a
 43.7637297,-79.5549737,2,Ormont Drive (141),a
 43.7637297,-79.5549737,2,Ormont Drive (867),a
 43.7637384,-79.5484659,2,Barmac Drive (049),a
@@ -896,10 +335,7 @@ lat,lon,sz,names,len_cat
 43.7638002,-79.5403558,2,Signet Drive (705),a
 43.7638064,-79.5481212,2,Barmac Drive (445),a
 43.7638064,-79.5481212,2,Barmac Drive (640),a
-43.763816,-79.5297837,2,Norfinch Drive (629),a
-43.763816,-79.5297837,2,Norfinch Drive (721),a
 43.7638209,-79.5451278,2,Weston Road (599),a
-43.7638209,-79.5451278,2,Weston Road (672),a
 43.7638244,-79.5591641,2,Fenmar Drive (466),a
 43.7638244,-79.5591641,2,Fenmar Drive (466),a
 43.7638244,-79.5591641,2,Fenmar Drive (742),a
@@ -921,13 +357,8 @@ lat,lon,sz,names,len_cat
 43.7639588,-79.5544283,2,Ormont Drive (051),a
 43.763966,-79.5544338,2,Ormont Drive (147),a
 43.7639821,-79.5451627,2,Weston Road (615),a
-43.7639821,-79.5451627,2,Weston Road (965),a
 43.7639829,-79.5543464,2,Ormont Drive (148),a
 43.7639829,-79.5543464,2,Ormont Drive (874),a
-43.7639927,-79.5336359,2,Norelco Drive (559),a
-43.7639927,-79.5336359,2,Norelco Drive (559),a
-43.7639927,-79.5336359,2,Norelco Drive (824),a
-43.7639927,-79.5336359,2,Norelco Drive (824),a
 43.7640096,-79.5542117,2,Ormont Drive (270),a
 43.7640096,-79.5542117,2,Ormont Drive (668),a
 43.764032,-79.5596625,2,Fenmar Drive (072),a
@@ -936,14 +367,11 @@ lat,lon,sz,names,len_cat
 43.764032,-79.5596625,2,Fenmar Drive (895),a
 43.764032,-79.5596625,2,Garyray Drive (152),a
 43.764032,-79.5596625,2,Garyray Drive (651),a
-43.7640778,-79.5298476,2,Norfinch Drive (472),a
-43.7640778,-79.5298476,2,Norfinch Drive (660),a
 43.7640848,-79.5474737,2,Barmac Drive (301),a
 43.7640848,-79.5474737,2,Barmac Drive (621),a
 43.7640957,-79.553163,2,Barmac Drive (115),a
 43.7640957,-79.553163,2,Barmac Drive (175),a
 43.7641106,-79.5451907,2,Weston Road (616),a
-43.7641106,-79.5451907,2,Weston Road (966),a
 43.764118,-79.5531717,2,Barmac Drive (116),a
 43.764118,-79.5531717,2,Barmac Drive (176),a
 43.7641259,-79.559591,2,Garyray Drive (153),a
@@ -968,8 +396,6 @@ lat,lon,sz,names,len_cat
 43.7642362,-79.5531072,2,Ormont Drive (183),a
 43.7642428,-79.5530745,2,Ormont Drive (125),a
 43.7642428,-79.5530745,2,Ormont Drive (182),a
-43.7642775,-79.5298957,2,Norfinch Drive (630),a
-43.7642775,-79.5298957,2,Norfinch Drive (722),a
 43.7643142,-79.5532485,2,Barmac Drive (119),a
 43.7643142,-79.5532485,2,Barmac Drive (179),a
 43.764332,-79.5406075,2,Signet Drive (666),a
@@ -982,8 +408,6 @@ lat,lon,sz,names,len_cat
 43.7643997,-79.560582,2,Fenmar Drive (392),a
 43.7643997,-79.560582,2,Fenmar Drive (873),a
 43.7643997,-79.560582,2,Fenmar Drive (873),a
-43.7644278,-79.5299318,2,Norfinch Drive (627),a
-43.7644278,-79.5299318,2,Norfinch Drive (719),a
 43.7644386,-79.5606791,2,Fenmar Drive (726),a
 43.7644386,-79.5606791,2,Fenmar Drive (726),a
 43.7644386,-79.5606791,2,Fenmar Drive (918),a
@@ -1045,7 +469,6 @@ lat,lon,sz,names,len_cat
 43.7647056,-79.5613609,2,Fenmar Drive (077),a
 43.7647056,-79.5613609,2,Fenmar Drive (899),a
 43.7647056,-79.5613609,2,Fenmar Drive (899),a
-43.7647627,-79.5453321,2,Weston Road (297),a
 43.7647627,-79.5453321,2,Weston Road (736),a
 43.7647671,-79.5457822,2,Ormont Drive (210),a
 43.7647671,-79.5457822,2,Ormont Drive (213),a
@@ -1070,8 +493,6 @@ lat,lon,sz,names,len_cat
 43.7648682,-79.5453552,2,Ormont Drive (052),a
 43.7648682,-79.5453552,2,Ormont Drive (154),a
 43.7648682,-79.5453552,2,Ormont Drive (880),a
-43.7648682,-79.5453552,2,Weston Road (286),a
-43.7648682,-79.5453552,2,Weston Road (298),a
 43.7648682,-79.5453552,2,Weston Road (732),a
 43.7648682,-79.5453552,2,Weston Road (737),a
 43.7648728,-79.5476348,2,Ormont Drive (577),a
@@ -1086,8 +507,6 @@ lat,lon,sz,names,len_cat
 43.7649026,-79.5451935,2,Ormont Drive (881),a
 43.7649214,-79.5620235,2,Fenmar Drive (729),a
 43.7649214,-79.5620235,2,Fenmar Drive (921),a
-43.7649276,-79.530052,2,Norfinch Drive (622),a
-43.7649276,-79.530052,2,Norfinch Drive (714),a
 43.7649322,-79.5589328,2,Garyray Drive (158),a
 43.7649322,-79.5589328,2,Garyray Drive (657),a
 43.7649626,-79.5495911,2,Ormont Drive (553),a
@@ -1100,13 +519,11 @@ lat,lon,sz,names,len_cat
 43.7649732,-79.5621868,2,Fenmar Drive (902),a
 43.7649853,-79.5588569,2,Garyray Drive (159),a
 43.7649853,-79.5588569,2,Garyray Drive (658),a
-43.7649909,-79.5453781,2,Weston Road (287),a
 43.7649909,-79.5453781,2,Weston Road (733),a
 43.7649998,-79.558831,2,Garyray Drive (217),a
 43.7649998,-79.558831,2,Garyray Drive (517),a
 43.7650205,-79.558794,2,Garyray Drive (160),a
 43.7650205,-79.558794,2,Garyray Drive (659),a
-43.7650263,-79.4839403,2,Finch Avenue West (718),a
 43.7650571,-79.540895,2,Signet Drive (544),a
 43.7650571,-79.540895,2,Signet Drive (644),a
 43.765058,-79.5624829,2,Fenmar Drive (081),a
@@ -1142,14 +559,10 @@ lat,lon,sz,names,len_cat
 43.7651793,-79.5580326,2,Garyray Drive (365),a
 43.7652027,-79.5437701,2,Ormont Drive (869),a
 43.7652027,-79.5437701,2,Ormont Drive (889),a
-43.7652504,-79.5301296,2,Norfinch Drive (628),a
-43.7652504,-79.5301296,2,Norfinch Drive (720),a
 43.7652593,-79.5576489,2,Garyray Drive (164),a
 43.7652593,-79.5576489,2,Garyray Drive (366),a
 43.7652643,-79.5631365,2,Fenmar Drive (083),a
 43.7652643,-79.5631365,2,Fenmar Drive (377),a
-43.7652777,-79.5339402,2,Norelco Drive (399),a
-43.7652777,-79.5339402,2,Norelco Drive (843),a
 43.7652812,-79.5433979,2,Ormont Drive (868),a
 43.7652812,-79.5433979,2,Ormont Drive (888),a
 43.7653036,-79.5574369,2,Garyray Drive (165),a
@@ -1160,8 +573,6 @@ lat,lon,sz,names,len_cat
 43.7653672,-79.5634446,2,Fenmar Drive (084),a
 43.7653799,-79.5429299,2,Ormont Drive (870),a
 43.7653799,-79.5429299,2,Ormont Drive (890),a
-43.7653975,-79.530165,2,Norfinch Drive (620),a
-43.7653975,-79.530165,2,Norfinch Drive (712),a
 43.7654019,-79.5569654,2,Garyray Drive (166),a
 43.7654019,-79.5569654,2,Garyray Drive (368),a
 43.7654227,-79.5635675,2,Fenmar Drive (085),a
@@ -1200,8 +611,6 @@ lat,lon,sz,names,len_cat
 43.7656686,-79.5411375,2,Signet Drive (708),a
 43.765694,-79.5554865,2,Garyray Drive (530),a
 43.765694,-79.5554865,2,Garyray Drive (639),a
-43.7656942,-79.5302364,2,Norfinch Drive (621),a
-43.7656942,-79.5302364,2,Norfinch Drive (713),a
 43.7657238,-79.5412991,2,Ormont Drive (156),a
 43.7657238,-79.5412991,2,Ormont Drive (882),a
 43.7657486,-79.5411716,2,Ormont Drive (150),a
@@ -1214,22 +623,15 @@ lat,lon,sz,names,len_cat
 43.7657486,-79.5411716,2,Signet Drive (710),a
 43.7657521,-79.563982,2,Fenmar Drive (090),a
 43.7657521,-79.563982,2,Fenmar Drive (383),a
-43.7657554,-79.5302511,2,Norfinch Drive (606),a
-43.7657554,-79.5302511,2,Norfinch Drive (698),a
 43.7657781,-79.5410424,2,Ormont Drive (151),a
 43.7657781,-79.5410424,2,Ormont Drive (877),a
-43.7657878,-79.4803734,2,Finch Avenue West (474),a
 43.7657878,-79.4803734,2,Finch Avenue West (483),a
 43.7657883,-79.5550048,2,Garyray Drive (532),a
 43.7657883,-79.5550048,2,Garyray Drive (641),a
-43.76579,-79.53026,2,Norfinch Drive (624),a
-43.76579,-79.53026,2,Norfinch Drive (716),a
 43.7657981,-79.5549549,2,Garyray Drive (554),a
 43.7657981,-79.5549549,2,Garyray Drive (799),a
 43.7658052,-79.5549184,2,Garyray Drive (820),a
 43.7658052,-79.5549184,2,Garyray Drive (882),a
-43.7658177,-79.5302672,2,Norfinch Drive (626),a
-43.7658177,-79.5302672,2,Norfinch Drive (718),a
 43.7658354,-79.5412055,2,Signet Drive (671),a
 43.7658354,-79.5412055,2,Signet Drive (711),a
 43.7658592,-79.5546427,2,Garyray Drive (553),a
@@ -1239,8 +641,6 @@ lat,lon,sz,names,len_cat
 43.7658826,-79.5545229,2,Garyray Drive (821),a
 43.7658826,-79.5545229,2,Garyray Drive (883),a
 43.765936,-79.5539246,2,Barmac Drive (349),a
-43.7659367,-79.530298,2,Norfinch Drive (623),a
-43.7659367,-79.530298,2,Norfinch Drive (715),a
 43.7659801,-79.5642126,2,Fenmar Drive (092),a
 43.7659801,-79.5642126,2,Fenmar Drive (385),a
 43.7659813,-79.5540187,2,Garyray Drive (830),a
@@ -1255,26 +655,14 @@ lat,lon,sz,names,len_cat
 43.7660101,-79.5668693,2,Steeles Avenue West (078),a
 43.7660101,-79.5668693,2,Steeles Avenue West (399),a
 43.7660101,-79.5668693,2,Steeles Avenue West (607),a
-43.7660196,-79.5399013,2,Ormont Drive (286),a
-43.7660196,-79.5399013,2,Ormont Drive (455),a
 43.7660483,-79.5642792,2,Fenmar Drive (386),a
 43.7660483,-79.5642792,2,Fenmar Drive (761),a
-43.7660625,-79.5303305,2,Norfinch Drive (605),a
-43.7660625,-79.5303305,2,Norfinch Drive (697),a
-43.7661272,-79.5303567,2,Norfinch Drive (625),a
-43.7661272,-79.5303567,2,Norfinch Drive (717),a
 43.7661476,-79.5570319,2,Turbine Drive (039),a
 43.7661476,-79.5570319,2,Turbine Drive (923),a
-43.7661518,-79.5392766,2,Ormont Drive (285),a
-43.7661518,-79.5392766,2,Ormont Drive (454),a
 43.7661652,-79.5661563,2,Steeles Avenue West (572),a
 43.7661652,-79.5661563,2,Steeles Avenue West (935),a
 43.7661932,-79.5570479,2,Turbine Drive (157),a
 43.7661932,-79.5570479,2,Turbine Drive (355),a
-43.7661962,-79.5390669,2,Ormont Drive (867),a
-43.7661962,-79.5390669,2,Ormont Drive (887),a
-43.7662074,-79.5303891,2,Norfinch Drive (590),a
-43.7662074,-79.5303891,2,Norfinch Drive (682),a
 43.7662472,-79.5570688,2,Turbine Drive (158),a
 43.7662472,-79.5570688,2,Turbine Drive (356),a
 43.7662535,-79.5644794,2,Fenmar Drive (093),a
@@ -1284,42 +672,24 @@ lat,lon,sz,names,len_cat
 43.7662675,-79.5656859,2,Steeles Avenue West (573),a
 43.7662675,-79.5656859,2,Steeles Avenue West (936),a
 43.7662845,-79.5524765,2,Garyray Drive (833),a
-43.7662856,-79.5386443,2,Ormont Drive (046),a
-43.7662856,-79.5386443,2,Ormont Drive (287),a
 43.7662946,-79.5524093,2,Garyray Drive (834),a
-43.7663097,-79.4780665,2,Finch Avenue West (380),a
-43.7663097,-79.4780665,2,Finch Avenue West (719),a
 43.7663097,-79.4780665,2,Finch Avenue West (774),a
-43.7663162,-79.5304485,2,Norfinch Drive (585),a
-43.7663162,-79.5304485,2,Norfinch Drive (677),a
 43.7663793,-79.5651721,2,Steeles Avenue West (206),a
 43.7663793,-79.5651721,2,Steeles Avenue West (454),a
-43.766387,-79.4776514,2,Finch Avenue West (484),a
-43.766387,-79.4776514,2,Finch Avenue West (484),a
 43.766387,-79.4776514,2,Finch Avenue West (493),a
 43.766387,-79.4776514,2,Finch Avenue West (493),a
-43.7663875,-79.5456395,2,Weston Road (135),a
 43.7663875,-79.5456395,2,Weston Road (790),a
-43.7663937,-79.5381339,2,Ormont Drive (047),a
-43.7663937,-79.5381339,2,Ormont Drive (288),a
 43.7664321,-79.5646622,2,Fenmar Drive (112),a
 43.7664321,-79.5646622,2,Fenmar Drive (934),a
-43.766439,-79.5456491,2,Weston Road (296),a
 43.766439,-79.5456491,2,Weston Road (865),a
 43.7664467,-79.5648707,2,Steeles Avenue West (207),a
 43.7664467,-79.5648707,2,Steeles Avenue West (455),a
-43.7664525,-79.5305446,2,Norfinch Drive (591),a
-43.7664525,-79.5305446,2,Norfinch Drive (683),a
 43.7664815,-79.56471,2,Fenmar Drive (113),a
 43.7664815,-79.56471,2,Fenmar Drive (936),a
 43.7664815,-79.56471,2,Steeles Avenue West (133),a
 43.7664815,-79.56471,2,Steeles Avenue West (208),a
 43.7664815,-79.56471,2,Steeles Avenue West (431),a
 43.7664815,-79.56471,2,Steeles Avenue West (456),a
-43.7665104,-79.5375826,2,Ormont Drive (152),a
-43.7665104,-79.5375826,2,Ormont Drive (152),a
-43.7665104,-79.5375826,2,Ormont Drive (878),a
-43.7665104,-79.5375826,2,Ormont Drive (878),a
 43.7665199,-79.5645299,2,Steeles Avenue West (134),a
 43.7665199,-79.5645299,2,Steeles Avenue West (432),a
 43.7665455,-79.5511423,2,Garyray Drive (146),a
@@ -1340,42 +710,19 @@ lat,lon,sz,names,len_cat
 43.766626,-79.5640232,2,Steeles Avenue West (434),a
 43.7666329,-79.5415428,2,Signet Drive (866),a
 43.7666329,-79.5415428,2,Signet Drive (886),a
-43.7666982,-79.5307787,2,Norfinch Drive (638),a
-43.7666982,-79.5307787,2,Norfinch Drive (730),a
 43.766712,-79.5638986,2,Steeles Avenue West (137),a
-43.7667544,-79.5364299,2,Ormont Drive (048),a
-43.7667544,-79.5364299,2,Ormont Drive (048),a
-43.7667544,-79.5364299,2,Ormont Drive (289),a
-43.7667544,-79.5364299,2,Ormont Drive (289),a
 43.7667549,-79.5572652,2,Turbine Drive (259),a
 43.7667549,-79.5572652,2,Turbine Drive (543),a
 43.7667672,-79.5542504,2,Barmac Drive (167),a
 43.7667672,-79.5542504,2,Barmac Drive (376),a
-43.7667715,-79.5308474,2,Norfinch Drive (594),a
-43.7667715,-79.5308474,2,Norfinch Drive (686),a
 43.7667731,-79.5572722,2,Turbine Drive (161),a
 43.7667731,-79.5572722,2,Turbine Drive (359),a
 43.766803,-79.5512444,2,Klondike Drive (418),a
 43.766824,-79.5542736,2,Barmac Drive (263),a
 43.766824,-79.5542736,2,Barmac Drive (571),a
-43.7668249,-79.5360968,2,Ormont Drive (049),a
-43.7668249,-79.5360968,2,Ormont Drive (049),a
-43.7668249,-79.5360968,2,Ormont Drive (290),a
-43.7668249,-79.5360968,2,Ormont Drive (290),a
-43.7668715,-79.5309195,2,Norfinch Drive (604),a
-43.7668715,-79.5309195,2,Norfinch Drive (696),a
-43.7669641,-79.5354393,2,Ormont Drive (051),a
-43.7669641,-79.5354393,2,Ormont Drive (292),a
-43.7669722,-79.5457488,2,Weston Road (298),a
 43.7669722,-79.5457488,2,Weston Road (866),a
-43.7669987,-79.5310158,2,Norfinch Drive (593),a
-43.7669987,-79.5310158,2,Norfinch Drive (685),a
 43.7670469,-79.5573781,2,Turbine Drive (162),a
 43.7670469,-79.5573781,2,Turbine Drive (360),a
-43.7670612,-79.5349803,2,Ormont Drive (050),a
-43.7670612,-79.5349803,2,Ormont Drive (291),a
-43.7670659,-79.5310499,2,Norfinch Drive (639),a
-43.7670659,-79.5310499,2,Norfinch Drive (731),a
 43.7671055,-79.5485312,2,Garyray Drive (129),a
 43.7671055,-79.5485312,2,Garyray Drive (129),a
 43.7671055,-79.5485312,2,Garyray Drive (147),a
@@ -1388,15 +735,8 @@ lat,lon,sz,names,len_cat
 43.7671055,-79.5485312,2,Irondale Drive (112),a
 43.7671055,-79.5485312,2,Irondale Drive (804),a
 43.7671055,-79.5485312,2,Irondale Drive (804),a
-43.7671619,-79.5310987,2,Norfinch Drive (589),a
-43.7671619,-79.5310987,2,Norfinch Drive (681),a
 43.767177,-79.5574299,2,Turbine Drive (258),a
 43.767177,-79.5574299,2,Turbine Drive (542),a
-43.7671861,-79.5343905,2,Norelco Drive (020),a
-43.7671861,-79.5343905,2,Norelco Drive (701),a
-43.7671861,-79.5343905,2,Norelco Drive (971),a
-43.7671861,-79.5343905,2,Ormont Drive (153),a
-43.7671861,-79.5343905,2,Ormont Drive (879),a
 43.7671886,-79.5481327,2,Garyray Drive (076),a
 43.7671886,-79.5481327,2,Garyray Drive (076),a
 43.7671886,-79.5481327,2,Garyray Drive (557),a
@@ -1432,8 +772,6 @@ lat,lon,sz,names,len_cat
 43.7673811,-79.5472092,2,Garyray Drive (987),a
 43.7673831,-79.5514743,2,Klondike Drive (042),a
 43.7673831,-79.5514743,2,Klondike Drive (271),a
-43.7673879,-79.5311677,2,Norfinch Drive (598),a
-43.7673879,-79.5311677,2,Norfinch Drive (690),a
 43.7674018,-79.5605747,2,Steeles Avenue West (897),a
 43.7674018,-79.5605747,2,Steeles Avenue West (897),a
 43.767406,-79.557521,2,Turbine Drive (533),a
@@ -1453,8 +791,6 @@ lat,lon,sz,names,len_cat
 43.7674583,-79.5486758,2,Irondale Drive (158),a
 43.7674583,-79.5486758,2,Irondale Drive (275),a
 43.7674583,-79.5486758,2,Irondale Drive (275),a
-43.7674695,-79.5311864,2,Norfinch Drive (637),a
-43.7674695,-79.5311864,2,Norfinch Drive (729),a
 43.7674898,-79.5466878,2,Garyray Drive (133),a
 43.7674898,-79.5466878,2,Garyray Drive (988),a
 43.767491,-79.5575548,2,Turbine Drive (542),a
@@ -1465,9 +801,6 @@ lat,lon,sz,names,len_cat
 43.7675007,-79.5466359,2,Garyray Drive (989),a
 43.7675143,-79.5600589,2,Steeles Avenue West (850),a
 43.7675143,-79.5600589,2,Steeles Avenue West (850),a
-43.7675355,-79.5312015,2,Norfinch Drive (616),a
-43.7675355,-79.5312015,2,Norfinch Drive (708),a
-43.7675952,-79.5458654,2,Weston Road (221),a
 43.7675952,-79.5458654,2,Weston Road (748),a
 43.7676184,-79.5460713,2,Garyray Drive (264),a
 43.7676184,-79.5460713,2,Garyray Drive (761),a
@@ -1475,8 +808,6 @@ lat,lon,sz,names,len_cat
 43.7676588,-79.5458773,2,Garyray Drive (131),a
 43.7676588,-79.5458773,2,Garyray Drive (629),a
 43.7676588,-79.5458773,2,Garyray Drive (835),a
-43.7676588,-79.5458773,2,Weston Road (288),a
-43.7676588,-79.5458773,2,Weston Road (299),a
 43.7676588,-79.5458773,2,Weston Road (734),a
 43.7676588,-79.5458773,2,Weston Road (738),a
 43.7676742,-79.5592124,2,Steeles Avenue West (851),a
@@ -1504,13 +835,10 @@ lat,lon,sz,names,len_cat
 43.7677638,-79.5516252,2,Klondike Drive (272),a
 43.7677704,-79.5420239,2,Signet Drive (143),a
 43.7677704,-79.5420239,2,Signet Drive (303),a
-43.7677946,-79.5459115,2,Weston Road (222),a
 43.7677946,-79.5459115,2,Weston Road (749),a
 43.7677952,-79.5585718,2,Steeles Avenue West (420),a
 43.7677993,-79.5452357,2,Garyray Drive (829),a
 43.7677993,-79.5452357,2,Garyray Drive (839),a
-43.7678456,-79.5312726,2,Norfinch Drive (619),a
-43.7678456,-79.5312726,2,Norfinch Drive (711),a
 43.7678486,-79.557697,2,Turbine Drive (176),a
 43.7678486,-79.557697,2,Turbine Drive (777),a
 43.7678715,-79.557704,2,Turbine Drive (040),a
@@ -1524,8 +852,6 @@ lat,lon,sz,names,len_cat
 43.7679275,-79.5488682,2,Irondale Drive (616),a
 43.7679275,-79.5488682,2,Irondale Drive (737),a
 43.7679275,-79.5488682,2,Irondale Drive (737),a
-43.7679383,-79.5312939,2,Norfinch Drive (613),a
-43.7679383,-79.5312939,2,Norfinch Drive (705),a
 43.7679544,-79.5577284,2,Steeles Avenue West (854),a
 43.7679544,-79.5577284,2,Turbine Drive (177),a
 43.7680054,-79.5421233,2,Signet Drive (672),a
@@ -1552,12 +878,8 @@ lat,lon,sz,names,len_cat
 43.7682008,-79.5433919,2,Garyray Drive (139),a
 43.7682213,-79.5432978,2,Garyray Drive (067),a
 43.7682213,-79.5432978,2,Garyray Drive (140),a
-43.7682586,-79.5313682,2,Norfinch Drive (618),a
-43.7682586,-79.5313682,2,Norfinch Drive (710),a
 43.7682761,-79.5460328,2,Weston Road (038),a
-43.7682761,-79.5460328,2,Weston Road (265),a
 43.7683428,-79.5460496,2,Weston Road (039),a
-43.7683428,-79.5460496,2,Weston Road (266),a
 43.7683552,-79.5426838,2,Garyray Drive (068),a
 43.7683552,-79.5426838,2,Garyray Drive (141),a
 43.7683715,-79.5490503,2,Irondale Drive (048),a
@@ -1572,8 +894,6 @@ lat,lon,sz,names,len_cat
 43.7684227,-79.5423741,2,Signet Drive (725),a
 43.7684311,-79.5548986,2,Barmac Drive (307),a
 43.7684311,-79.5548986,2,Barmac Drive (627),a
-43.768436,-79.531408,2,Norfinch Drive (617),a
-43.768436,-79.531408,2,Norfinch Drive (709),a
 43.7684361,-79.5553062,2,Steeles Avenue West (161),a
 43.7684361,-79.5553062,2,Steeles Avenue West (445),a
 43.7684445,-79.5490802,2,Irondale Drive (049),a
@@ -1593,9 +913,6 @@ lat,lon,sz,names,len_cat
 43.7684778,-79.5519082,2,Klondike Drive (274),a
 43.7684796,-79.5551151,2,Steeles Avenue West (162),a
 43.7684796,-79.5551151,2,Steeles Avenue West (446),a
-43.7684882,-79.53142,2,Norfinch Drive (631),a
-43.7684882,-79.53142,2,Norfinch Drive (723),a
-43.7685032,-79.54609,2,Weston Road (267),a
 43.7685032,-79.54609,2,Weston Road (998),a
 43.768518,-79.5549309,2,Barmac Drive (308),a
 43.768518,-79.5549309,2,Barmac Drive (628),a
@@ -1609,27 +926,13 @@ lat,lon,sz,names,len_cat
 43.7685764,-79.5519473,2,Klondike Drive (294),a
 43.7686625,-79.5542527,2,Steeles Avenue West (124),a
 43.7686625,-79.5542527,2,Steeles Avenue West (429),a
-43.7686899,-79.5314662,2,Norfinch Drive (632),a
-43.7686899,-79.5314662,2,Norfinch Drive (724),a
-43.7687014,-79.5347449,2,Norelco Drive (351),a
-43.7687014,-79.5347449,2,Norelco Drive (808),a
 43.7687026,-79.5461402,2,Weston Road (040),a
-43.7687026,-79.5461402,2,Weston Road (268),a
 43.7687249,-79.5541079,2,Steeles Avenue West (125),a
-43.7687871,-79.5407798,2,Garyray Drive (831),a
-43.7687944,-79.5314902,2,Norfinch Drive (634),a
-43.7687944,-79.5314902,2,Norfinch Drive (726),a
 43.7688393,-79.5425628,2,Signet Drive (647),a
 43.7688393,-79.5425628,2,Signet Drive (687),a
 43.7688734,-79.5424129,2,Signet Drive (689),a
 43.7688734,-79.5424129,2,Signet Drive (729),a
-43.7688746,-79.5461835,2,Weston Road (269),a
 43.7688746,-79.5461835,2,Weston Road (997),a
-43.7688847,-79.5315109,2,Norfinch Drive (612),a
-43.7688847,-79.5315109,2,Norfinch Drive (704),a
-43.7688882,-79.5403379,2,Garyray Drive (832),a
-43.7689009,-79.5402823,2,Garyray Drive (750),a
-43.7689009,-79.5402823,2,Garyray Drive (906),a
 43.7689054,-79.5492692,2,Irondale Drive (754),a
 43.7689054,-79.5492692,2,Irondale Drive (930),a
 43.7689287,-79.5425109,2,Signet Drive (646),a
@@ -1638,40 +941,22 @@ lat,lon,sz,names,len_cat
 43.7689287,-79.5425109,2,Signet Drive (689),a
 43.7689287,-79.5425109,2,Signet Drive (690),a
 43.7689287,-79.5425109,2,Signet Drive (730),a
-43.7689958,-79.5398676,2,Garyray Drive (935),a
-43.7689958,-79.5398676,2,Garyray Drive (989),a
 43.7689989,-79.5521147,2,Klondike Drive (649),a
 43.7689989,-79.5521147,2,Klondike Drive (948),a
 43.76902,-79.5521287,2,Klondike Drive (554),a
 43.76902,-79.5521287,2,Klondike Drive (764),a
-43.7690507,-79.5396275,2,Garyray Drive (143),a
-43.7690507,-79.5396275,2,Garyray Drive (149),a
-43.7690507,-79.5396275,2,Garyray Drive (642),a
-43.7690507,-79.5396275,2,Garyray Drive (648),a
-43.7690507,-79.5396275,2,Rossdean Drive (034),a
-43.7690507,-79.5396275,2,Rossdean Drive (858),a
 43.7690638,-79.5493341,2,Irondale Drive (755),a
 43.7690638,-79.5493341,2,Irondale Drive (931),a
 43.7691057,-79.5521854,2,Klondike Drive (650),a
 43.7691175,-79.5462446,2,Weston Road (041),a
-43.7691175,-79.5462446,2,Weston Road (270),a
 43.7691752,-79.5493798,2,Irondale Drive (756),a
 43.7691752,-79.5493798,2,Irondale Drive (932),a
 43.7691766,-79.5426227,2,Signet Drive (136),a
 43.7691766,-79.5426227,2,Signet Drive (282),a
-43.769199,-79.5388693,2,Garyray Drive (130),a
-43.769199,-79.5388693,2,Garyray Drive (436),a
-43.7692024,-79.5315837,2,Norfinch Drive (636),a
-43.7692024,-79.5315837,2,Norfinch Drive (728),a
 43.7692217,-79.5426426,2,Signet Drive (135),a
 43.7692217,-79.5426426,2,Signet Drive (283),a
-43.7692728,-79.5384921,2,Garyray Drive (514),a
-43.7692728,-79.5384921,2,Garyray Drive (735),a
-43.7693005,-79.5383457,2,Garyray Drive (129),a
-43.7693005,-79.5383457,2,Garyray Drive (435),a
 43.7693652,-79.5494577,2,Irondale Drive (757),a
 43.7693652,-79.5494577,2,Irondale Drive (933),a
-43.7693953,-79.5463134,2,Weston Road (478),a
 43.7693953,-79.5463134,2,Weston Road (870),a
 43.7695109,-79.5501452,2,Steeles Avenue West (143),a
 43.7695109,-79.5501452,2,Steeles Avenue West (441),a
@@ -1682,37 +967,22 @@ lat,lon,sz,names,len_cat
 43.7695631,-79.5495366,2,Irondale Drive (805),a
 43.7695842,-79.5497393,2,Steeles Avenue West (144),a
 43.7695842,-79.5497393,2,Steeles Avenue West (442),a
-43.7695954,-79.5367883,2,Garyray Drive (513),a
-43.7695954,-79.5367883,2,Garyray Drive (513),a
-43.7695954,-79.5367883,2,Garyray Drive (734),a
-43.7695954,-79.5367883,2,Garyray Drive (734),a
 43.7696183,-79.5495621,2,Irondale Drive (114),a
 43.7696183,-79.5495621,2,Irondale Drive (806),a
 43.7696183,-79.5495621,2,Steeles Avenue West (145),a
 43.7696183,-79.5495621,2,Steeles Avenue West (267),a
 43.7696183,-79.5495621,2,Steeles Avenue West (443),a
 43.7696183,-79.5495621,2,Steeles Avenue West (468),a
-43.7696488,-79.5316861,2,Norfinch Drive (633),a
-43.7696488,-79.5316861,2,Norfinch Drive (725),a
 43.7696501,-79.5493796,2,Steeles Avenue West (268),a
 43.7696501,-79.5493796,2,Steeles Avenue West (469),a
-43.7696831,-79.5463871,2,Weston Road (479),a
 43.7696831,-79.5463871,2,Weston Road (871),a
-43.7696847,-79.536373,2,Garyray Drive (227),a
-43.7696847,-79.536373,2,Garyray Drive (227),a
-43.7696847,-79.536373,2,Garyray Drive (768),a
-43.7696847,-79.536373,2,Garyray Drive (768),a
 43.7696894,-79.5428528,2,Signet Drive (650),a
 43.7696894,-79.5428528,2,Signet Drive (690),a
 43.7697094,-79.5463937,2,Weston Road (024),a
-43.7697094,-79.5463937,2,Weston Road (418),a
-43.7697191,-79.5398871,2,Rossdean Drive (366),a
-43.7697191,-79.5398871,2,Rossdean Drive (497),a
 43.7697301,-79.5489623,2,Steeles Avenue West (269),a
 43.7697301,-79.5489623,2,Steeles Avenue West (269),a
 43.7697301,-79.5489623,2,Steeles Avenue West (470),a
 43.7697301,-79.5489623,2,Steeles Avenue West (470),a
-43.7697978,-79.546416,2,Weston Road (300),a
 43.7697978,-79.546416,2,Weston Road (739),a
 43.7697978,-79.546416,2,Weston Road (951),a
 43.7697978,-79.546416,2,Weston Road (952),a
@@ -1722,66 +992,26 @@ lat,lon,sz,names,len_cat
 43.7698019,-79.5488636,2,Steeles Avenue West (471),a
 43.7698019,-79.5488636,2,Steeles Avenue West (618),a
 43.7698019,-79.5488636,2,Steeles Avenue West (618),a
-43.7698322,-79.5350093,2,Norelco Drive (345),a
-43.7698322,-79.5350093,2,Norelco Drive (345),a
-43.7698322,-79.5350093,2,Norelco Drive (802),a
-43.7698322,-79.5350093,2,Norelco Drive (802),a
-43.7698683,-79.5350208,2,Norelco Drive (348),a
-43.7698683,-79.5350208,2,Norelco Drive (348),a
-43.7698683,-79.5350208,2,Norelco Drive (805),a
-43.7698683,-79.5350208,2,Norelco Drive (805),a
 43.7698737,-79.5429301,2,Signet Drive (062),a
 43.7698737,-79.5429301,2,Signet Drive (397),a
-43.7698841,-79.5464951,2,Weston Road (451),a
 43.7698841,-79.5464951,2,Weston Road (869),a
-43.7698867,-79.5350452,2,Norelco Drive (349),a
-43.7698867,-79.5350452,2,Norelco Drive (349),a
-43.7698867,-79.5350452,2,Norelco Drive (806),a
-43.7698867,-79.5350452,2,Norelco Drive (806),a
 43.7698908,-79.5484651,2,Steeles Avenue West (558),a
 43.7698908,-79.5484651,2,Steeles Avenue West (558),a
 43.7698908,-79.5484651,2,Steeles Avenue West (619),a
 43.7698908,-79.5484651,2,Steeles Avenue West (619),a
 43.7698908,-79.5484651,2,Steeles Avenue West (855),a
 43.7698908,-79.5484651,2,Steeles Avenue West (855),a
-43.769896,-79.5463515,2,Weston Road (224),a
 43.769896,-79.5463515,2,Weston Road (862),a
-43.7699141,-79.5350818,2,Norelco Drive (350),a
-43.7699141,-79.5350818,2,Norelco Drive (350),a
-43.7699141,-79.5350818,2,Norelco Drive (807),a
-43.7699141,-79.5350818,2,Norelco Drive (807),a
-43.7699168,-79.535293,2,Garyray Drive (142),a
-43.7699168,-79.535293,2,Garyray Drive (142),a
-43.7699168,-79.535293,2,Garyray Drive (641),a
-43.7699168,-79.535293,2,Garyray Drive (641),a
-43.7699236,-79.5351189,2,Norelco Drive (347),a
-43.7699236,-79.5351189,2,Norelco Drive (347),a
-43.7699236,-79.5351189,2,Norelco Drive (804),a
-43.7699236,-79.5351189,2,Norelco Drive (804),a
 43.7699323,-79.5482717,2,Steeles Avenue West (559),a
 43.7699323,-79.5482717,2,Steeles Avenue West (559),a
 43.7699323,-79.5482717,2,Steeles Avenue West (856),a
 43.7699323,-79.5482717,2,Steeles Avenue West (856),a
-43.7699331,-79.5351559,2,Norelco Drive (344),a
-43.7699331,-79.5351559,2,Norelco Drive (344),a
-43.7699331,-79.5351559,2,Norelco Drive (801),a
-43.7699331,-79.5351559,2,Norelco Drive (801),a
-43.7699339,-79.535218,2,Garyray Drive (141),a
-43.7699339,-79.535218,2,Garyray Drive (141),a
-43.7699339,-79.535218,2,Garyray Drive (640),a
-43.7699339,-79.535218,2,Garyray Drive (640),a
-43.7699339,-79.535218,2,Norelco Drive (346),a
-43.7699339,-79.535218,2,Norelco Drive (346),a
-43.7699339,-79.535218,2,Norelco Drive (803),a
-43.7699339,-79.535218,2,Norelco Drive (803),a
 43.7699769,-79.5480869,2,Steeles Avenue West (560),a
 43.7699769,-79.5480869,2,Steeles Avenue West (560),a
 43.7699769,-79.5480869,2,Steeles Avenue West (857),a
 43.7699769,-79.5480869,2,Steeles Avenue West (857),a
 43.7699837,-79.5429762,2,Signet Drive (134),a
 43.7699837,-79.5429762,2,Signet Drive (284),a
-43.7699996,-79.539996,2,Rossdean Drive (340),a
-43.7699996,-79.539996,2,Rossdean Drive (799),a
 43.7700429,-79.5430011,2,Signet Drive (133),a
 43.7700429,-79.5430011,2,Signet Drive (285),a
 43.7700657,-79.5477032,2,Steeles Avenue West (561),a
@@ -1798,46 +1028,28 @@ lat,lon,sz,names,len_cat
 43.7701265,-79.5471494,2,Steeles Avenue West (083),a
 43.7701265,-79.5471494,2,Steeles Avenue West (404),a
 43.7701265,-79.5471494,2,Steeles Avenue West (404),a
-43.7701386,-79.5465491,2,Weston Road (450),a
 43.7701386,-79.5465491,2,Weston Road (868),a
-43.7701659,-79.5464034,2,Weston Road (225),a
 43.7701659,-79.5464034,2,Weston Road (863),a
 43.7702094,-79.5467027,2,Steeles Avenue West (084),a
 43.7702094,-79.5467027,2,Steeles Avenue West (405),a
-43.770217,-79.5318164,2,Norfinch Drive (644),a
-43.770217,-79.5318164,2,Norfinch Drive (736),a
 43.7702175,-79.5465633,2,Steeles Avenue West (085),a
 43.7702175,-79.5465633,2,Steeles Avenue West (086),a
 43.7702175,-79.5465633,2,Steeles Avenue West (406),a
 43.7702175,-79.5465633,2,Steeles Avenue West (407),a
-43.7702175,-79.5465633,2,Weston Road (449),a
 43.7702175,-79.5465633,2,Weston Road (867),a
-43.7702175,-79.5465633,2,Weston Road (897),a
 43.770243,-79.5430846,2,Signet Drive (063),a
 43.770243,-79.5430846,2,Signet Drive (398),a
-43.7702497,-79.5318239,2,Norfinch Drive (635),a
-43.7702497,-79.5318239,2,Norfinch Drive (727),a
 43.7702571,-79.5464247,2,Steeles Avenue West (087),a
 43.7702571,-79.5464247,2,Steeles Avenue West (098),a
 43.7702571,-79.5464247,2,Steeles Avenue West (408),a
 43.7702571,-79.5464247,2,Steeles Avenue West (417),a
-43.7702571,-79.5464247,2,Weston Road (226),a
-43.7702571,-79.5464247,2,Weston Road (808),a
 43.7702571,-79.5464247,2,Weston Road (864),a
-43.7702627,-79.5400982,2,Rossdean Drive (339),a
-43.7702627,-79.5400982,2,Rossdean Drive (798),a
 43.7702871,-79.5462921,2,Steeles Avenue West (099),a
 43.7702871,-79.5462921,2,Steeles Avenue West (418),a
 43.7703085,-79.5431125,2,Signet Drive (245),a
 43.7703085,-79.5431125,2,Signet Drive (788),a
 43.7703251,-79.5461021,2,Steeles Avenue West (551),a
 43.7703251,-79.5461021,2,Steeles Avenue West (848),a
-43.7703436,-79.5318454,2,Norfinch Drive (610),a
-43.7703436,-79.5318454,2,Norfinch Drive (702),a
-43.770364,-79.5318501,2,Norfinch Drive (643),a
-43.770364,-79.5318501,2,Norfinch Drive (735),a
-43.7703842,-79.5401454,2,Rossdean Drive (364),a
-43.7703842,-79.5401454,2,Rossdean Drive (674),a
 43.7703862,-79.5457964,2,Steeles Avenue West (100),a
 43.7703862,-79.5457964,2,Steeles Avenue West (419),a
 43.7704111,-79.5457493,2,Steeles Avenue West (552),a
@@ -1846,24 +1058,16 @@ lat,lon,sz,names,len_cat
 43.7704681,-79.5456671,2,Steeles Avenue West (204),a
 43.7705051,-79.5431949,2,Signet Drive (033),a
 43.7705051,-79.5431949,2,Signet Drive (266),a
-43.7705214,-79.5318862,2,Norfinch Drive (587),a
-43.7705214,-79.5318862,2,Norfinch Drive (679),a
-43.7705941,-79.5402272,2,Rossdean Drive (363),a
-43.7705941,-79.5402272,2,Rossdean Drive (673),a
 43.7706246,-79.5448466,2,Steeles Avenue West (563),a
 43.7706246,-79.5448466,2,Steeles Avenue West (860),a
 43.7706356,-79.5432497,2,Signet Drive (246),a
 43.7706356,-79.5432497,2,Signet Drive (789),a
-43.7706476,-79.5318956,2,Norfinch Drive (602),a
-43.7706476,-79.5318956,2,Norfinch Drive (694),a
 43.7706789,-79.5445792,2,Steeles Avenue West (564),a
 43.7706789,-79.5445792,2,Steeles Avenue West (861),a
 43.7707567,-79.5442021,2,Steeles Avenue West (565),a
 43.7707567,-79.5442021,2,Steeles Avenue West (862),a
 43.7707643,-79.5438331,2,Steeles Avenue West (095),a
 43.7707643,-79.5438331,2,Steeles Avenue West (414),a
-43.770773,-79.5402969,2,Rossdean Drive (362),a
-43.770773,-79.5402969,2,Rossdean Drive (672),a
 43.7707957,-79.5440129,2,Steeles Avenue West (256),a
 43.7707957,-79.5440129,2,Steeles Avenue West (876),a
 43.7708022,-79.5439813,2,Steeles Avenue West (094),a
@@ -1873,8 +1077,6 @@ lat,lon,sz,names,len_cat
 43.7708022,-79.5439813,2,Steeles Avenue West (453),a
 43.7708088,-79.5433225,2,Signet Drive (651),a
 43.7708088,-79.5433225,2,Signet Drive (691),a
-43.7708277,-79.5319036,2,Norfinch Drive (595),a
-43.7708277,-79.5319036,2,Norfinch Drive (687),a
 43.7708315,-79.5434923,2,Steeles Avenue West (096),a
 43.7708315,-79.5434923,2,Steeles Avenue West (415),a
 43.770833,-79.5433325,2,Signet Drive (208),a
@@ -1887,50 +1089,19 @@ lat,lon,sz,names,len_cat
 43.7708641,-79.5433455,2,Steeles Avenue West (461),a
 43.7708972,-79.5431828,2,Steeles Avenue West (261),a
 43.7708972,-79.5431828,2,Steeles Avenue West (462),a
-43.7709228,-79.5403553,2,Rossdean Drive (361),a
-43.7709228,-79.5403553,2,Rossdean Drive (671),a
 43.7709414,-79.5429743,2,Steeles Avenue West (566),a
 43.7709414,-79.5429743,2,Steeles Avenue West (863),a
-43.7709469,-79.5318941,2,Norfinch Drive (642),a
-43.7709469,-79.5318941,2,Norfinch Drive (734),a
 43.7710018,-79.5426842,2,Steeles Avenue West (262),a
 43.7710018,-79.5426842,2,Steeles Avenue West (463),a
-43.7710526,-79.5318857,2,Norfinch Drive (596),a
-43.7710526,-79.5318857,2,Norfinch Drive (688),a
 43.7710907,-79.5425951,2,Steeles Avenue West (209),a
 43.7710907,-79.5425951,2,Steeles Avenue West (263),a
 43.7710907,-79.5425951,2,Steeles Avenue West (305),a
 43.7710907,-79.5425951,2,Steeles Avenue West (464),a
 43.7710907,-79.5425951,2,Steeles Avenue West (495),a
-43.7711097,-79.5318703,2,Norfinch Drive (609),a
-43.7711097,-79.5318703,2,Norfinch Drive (701),a
 43.7711155,-79.5424746,2,Steeles Avenue West (573),a
 43.7711155,-79.5424746,2,Steeles Avenue West (872),a
-43.7712051,-79.5318447,2,Norfinch Drive (592),a
-43.7712051,-79.5318447,2,Norfinch Drive (684),a
 43.7713213,-79.5411584,2,Steeles Avenue West (298),a
 43.7713213,-79.5411584,2,Steeles Avenue West (488),a
-43.7713282,-79.5318027,2,Norfinch Drive (640),a
-43.7713282,-79.5318027,2,Norfinch Drive (732),a
-43.7713454,-79.5413599,2,Steeles Avenue West (574),a
-43.7713454,-79.5413599,2,Steeles Avenue West (873),a
-43.771359,-79.5412942,2,Steeles Avenue West (297),a
-43.771359,-79.5412942,2,Steeles Avenue West (304),a
-43.771359,-79.5412942,2,Steeles Avenue West (306),a
-43.771359,-79.5412942,2,Steeles Avenue West (487),a
-43.771359,-79.5412942,2,Steeles Avenue West (496),a
-43.7713698,-79.5405499,2,Rossdean Drive (033),a
-43.7713698,-79.5405499,2,Rossdean Drive (857),a
-43.7714134,-79.5406997,2,Steeles Avenue West (299),a
-43.7714134,-79.5406997,2,Steeles Avenue West (489),a
-43.7714408,-79.54058,2,Rossdean Drive (032),a
-43.7714408,-79.54058,2,Rossdean Drive (856),a
-43.7714408,-79.54058,2,Steeles Avenue West (293),a
-43.7714408,-79.54058,2,Steeles Avenue West (300),a
-43.7714408,-79.54058,2,Steeles Avenue West (483),a
-43.7714408,-79.54058,2,Steeles Avenue West (490),a
-43.7714649,-79.5404765,2,Steeles Avenue West (294),a
-43.7714649,-79.5404765,2,Steeles Avenue West (484),a
 43.7715458,-79.5402208,2,Steeles Avenue West (572),a
 43.7715458,-79.5402208,2,Steeles Avenue West (871),a
 43.771574,-79.5401291,2,Steeles Avenue West (295),a
@@ -1941,8 +1112,6 @@ lat,lon,sz,names,len_cat
 43.7716313,-79.5398554,2,Steeles Avenue West (486),a
 43.7716941,-79.5395617,2,Steeles Avenue West (569),a
 43.7716941,-79.5395617,2,Steeles Avenue West (868),a
-43.7717885,-79.5316456,2,Norfinch Drive (641),a
-43.7717885,-79.5316456,2,Norfinch Drive (733),a
 43.7718492,-79.5388363,2,Steeles Avenue West (290),a
 43.7718492,-79.5388363,2,Steeles Avenue West (480),a
 43.7718646,-79.5387589,2,Steeles Avenue West (570),a
@@ -1951,124 +1120,14 @@ lat,lon,sz,names,len_cat
 43.7718907,-79.5386269,2,Steeles Avenue West (870),a
 43.7719022,-79.5385691,2,Steeles Avenue West (291),a
 43.7719022,-79.5385691,2,Steeles Avenue West (481),a
-43.7719252,-79.5315989,2,Norfinch Drive (615),a
-43.7719252,-79.5315989,2,Norfinch Drive (707),a
-43.7720519,-79.5378323,2,Steeles Avenue West (292),a
-43.7720519,-79.5378323,2,Steeles Avenue West (540),a
-43.7720546,-79.537819,2,Steeles Avenue West (609),a
-43.7720546,-79.537819,2,Steeles Avenue West (612),a
-43.7720877,-79.5376534,2,Steeles Avenue West (541),a
-43.7720877,-79.5376534,2,Steeles Avenue West (716),a
-43.772126,-79.5315304,2,Norfinch Drive (611),a
-43.772126,-79.5315304,2,Norfinch Drive (703),a
-43.7721464,-79.5315234,2,Norfinch Drive (600),a
-43.7721464,-79.5315234,2,Norfinch Drive (692),a
-43.7721752,-79.5372223,2,Steeles Avenue West (542),a
-43.7721752,-79.5372223,2,Steeles Avenue West (717),a
-43.7722543,-79.5315084,2,Norfinch Drive (597),a
-43.7722543,-79.5315084,2,Norfinch Drive (689),a
-43.7723606,-79.5314988,2,Norfinch Drive (614),a
-43.7723606,-79.5314988,2,Norfinch Drive (706),a
-43.7724431,-79.5314913,2,Norfinch Drive (601),a
-43.7724431,-79.5314913,2,Norfinch Drive (693),a
-43.7724825,-79.5355826,2,Steeles Avenue West (602),a
-43.7724825,-79.5355826,2,Steeles Avenue West (602),a
-43.7724825,-79.5355826,2,Steeles Avenue West (906),a
-43.7724825,-79.5355826,2,Steeles Avenue West (906),a
-43.7725751,-79.535328,2,Steeles Avenue West (282),a
-43.7725751,-79.535328,2,Steeles Avenue West (282),a
-43.7725751,-79.535328,2,Steeles Avenue West (284),a
-43.7725751,-79.535328,2,Steeles Avenue West (284),a
-43.7725751,-79.535328,2,Steeles Avenue West (543),a
-43.7725751,-79.535328,2,Steeles Avenue West (543),a
-43.7725751,-79.535328,2,Steeles Avenue West (718),a
-43.7725751,-79.535328,2,Steeles Avenue West (718),a
-43.7726325,-79.5315145,2,Norfinch Drive (607),a
-43.7726325,-79.5315145,2,Norfinch Drive (699),a
-43.7726436,-79.5315159,2,Norfinch Drive (608),a
-43.7726436,-79.5315159,2,Norfinch Drive (700),a
-43.7726861,-79.5315211,2,Norfinch Drive (399),a
-43.7726861,-79.5315211,2,Norfinch Drive (406),a
-43.7726861,-79.5315211,2,Norfinch Drive (550),a
-43.7726861,-79.5315211,2,Norfinch Drive (557),a
-43.7726861,-79.5315211,2,Norfinch Drive (976),a
-43.7728097,-79.5342638,2,Steeles Avenue West (285),a
-43.7728097,-79.5342638,2,Steeles Avenue West (474),a
-43.7728097,-79.5316058,2,Norfinch Drive (405),a
-43.7728097,-79.5316058,2,Norfinch Drive (556),a
-43.7728497,-79.5315064,2,Norfinch Drive (400),a
-43.7728497,-79.5315064,2,Norfinch Drive (551),a
-43.772866,-79.5338004,2,Steeles Avenue West (475),a
-43.772866,-79.5338004,2,Steeles Avenue West (666),a
-43.7729669,-79.5315585,2,Norfinch Drive (401),a
-43.7729669,-79.5315585,2,Norfinch Drive (552),a
-43.773079,-79.5327571,2,Steeles Avenue West (476),a
-43.773079,-79.5327571,2,Steeles Avenue West (667),a
-43.7731772,-79.5317698,2,Norfinch Drive (045),a
-43.7731772,-79.5317698,2,Norfinch Drive (139),a
-43.7732022,-79.5316565,2,Norfinch Drive (402),a
-43.7732022,-79.5316565,2,Norfinch Drive (553),a
-43.7732749,-79.5318161,2,Norfinch Drive (396),a
-43.7732749,-79.5318161,2,Norfinch Drive (404),a
-43.7732749,-79.5318161,2,Norfinch Drive (555),a
-43.7732749,-79.5318161,2,Steeles Avenue West (477),a
-43.7732749,-79.5318161,2,Steeles Avenue West (499),a
-43.7732749,-79.5318161,2,Steeles Avenue West (669),a
-43.7732749,-79.5318161,2,Steeles Avenue West (686),a
-43.7733025,-79.5317011,2,Norfinch Drive (397),a
-43.7733025,-79.5317011,2,Norfinch Drive (403),a
-43.7733025,-79.5317011,2,Norfinch Drive (554),a
-43.7733025,-79.5317011,2,Steeles Avenue West (500),a
-43.7733025,-79.5317011,2,Steeles Avenue West (501),a
-43.7733025,-79.5317011,2,Steeles Avenue West (687),a
-43.7733025,-79.5317011,2,Steeles Avenue West (688),a
-43.7733216,-79.5316085,2,Steeles Avenue West (502),a
-43.7733216,-79.5316085,2,Steeles Avenue West (689),a
-43.7733328,-79.5315584,2,Steeles Avenue West (503),a
-43.7733328,-79.5315584,2,Steeles Avenue West (690),a
-43.7733378,-79.5315352,2,Steeles Avenue West (504),a
-43.7733378,-79.5315352,2,Steeles Avenue West (691),a
-43.7733462,-79.5314939,2,Steeles Avenue West (505),a
-43.7733462,-79.5314939,2,Steeles Avenue West (692),a
-43.7734802,-79.5308331,2,Steeles Avenue West (286),a
-43.7734802,-79.5308331,2,Steeles Avenue West (476),a
-43.7734802,-79.5308331,2,Steeles Avenue West (506),a
-43.7734802,-79.5308331,2,Steeles Avenue West (693),a
-43.7736179,-79.5301477,2,Steeles Avenue West (608),a
-43.7736179,-79.5301477,2,Steeles Avenue West (620),a
-43.7736505,-79.5299854,2,Steeles Avenue West (287),a
-43.7736505,-79.5299854,2,Steeles Avenue West (621),a
-43.7744506,-79.5261954,2,Steeles Avenue West (919),a
-43.7745837,-79.5255946,2,Steeles Avenue West (912),a
-43.7746793,-79.5251074,2,Steeles Avenue West (913),a
-43.7748081,-79.524404,2,Steeles Avenue West (605),a
-43.7748081,-79.524404,2,Steeles Avenue West (914),a
-43.7748883,-79.5240425,2,Steeles Avenue West (915),a
-43.7748883,-79.5240425,2,Steeles Avenue West (915),a
-43.7749734,-79.5236087,2,Steeles Avenue West (577),a
-43.7749734,-79.5236087,2,Steeles Avenue West (577),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (175),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (175),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (180),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (180),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (188),a
 43.7750074,-79.3303137,2,Sheppard Avenue East (188),a
-43.7750347,-79.5232874,2,Steeles Avenue West (567),a
-43.7750347,-79.5232874,2,Steeles Avenue West (567),a
-43.7750347,-79.5232874,2,Steeles Avenue West (578),a
-43.7750347,-79.5232874,2,Steeles Avenue West (578),a
-43.7750347,-79.5232874,2,Steeles Avenue West (763),a
-43.7750347,-79.5232874,2,Steeles Avenue West (763),a
 43.7750871,-79.3304236,2,Sheppard Avenue East (181),a
 43.7750871,-79.3304236,2,Sheppard Avenue East (181),a
-43.7752947,-79.5222536,2,Steeles Avenue West (383),a
-43.7752947,-79.5222536,2,Steeles Avenue West (383),a
-43.7752947,-79.5222536,2,Steeles Avenue West (873),a
-43.7752947,-79.5222536,2,Steeles Avenue West (873),a
-43.7753149,-79.5222896,2,Steeles Avenue West (069),a
-43.7753149,-79.5222896,2,Steeles Avenue West (069),a
-43.7753149,-79.5222896,2,Steeles Avenue West (568),a
-43.7753149,-79.5222896,2,Steeles Avenue West (568),a
 43.7754402,-79.521438,2,Steeles Avenue West (510),a
 43.7754402,-79.521438,2,Steeles Avenue West (697),a
 43.7755295,-79.5209584,2,Steeles Avenue West (511),a

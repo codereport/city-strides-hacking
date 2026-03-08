@@ -1136,8 +1136,6 @@ lat,lon,sz,names,len_cat
 43.771443,-79.6121173,2,Regina Road (259),a
 43.7714469,-79.5954335,2,Kipling Avenue (623),a
 43.7714476,-79.6210414,2,Highway 27 (911),a
-43.7714479,-79.5412051,2,Steeles Avenue West (226),a
-43.7714479,-79.5412051,2,Steeles Avenue West (226),a
 43.7714539,-79.6189633,2,Regalcrest Court (918),a
 43.7714642,-79.5463856,2,Weston Road (408),a
 43.7714684,-79.5526066,2,Hanlan Road (788),a
@@ -1148,19 +1146,9 @@ lat,lon,sz,names,len_cat
 43.771511,-79.5524119,2,Hanlan Road (790),a
 43.771511,-79.5524119,2,Hanlan Road (790),a
 43.7715227,-79.6495115,2,Traverse Drive (607),a
-43.7715382,-79.5407551,2,Steeles Avenue West (225),a
-43.7715382,-79.5407551,2,Steeles Avenue West (225),a
 43.7715637,-79.6493012,2,Traverse Drive (360),a
 43.7715637,-79.6493012,2,Traverse Drive (636),a
-43.771564,-79.5406279,2,Director Court (590),a
-43.771564,-79.5406279,2,Director Court (590),a
-43.771564,-79.5406279,2,Steeles Avenue West (224),a
-43.771564,-79.5406279,2,Steeles Avenue West (224),a
-43.771564,-79.5406279,2,Steeles Avenue West (517),a
-43.771564,-79.5406279,2,Steeles Avenue West (517),a
 43.7715771,-79.5461668,2,Weston Road (588),a
-43.7715872,-79.5405223,2,Steeles Avenue West (494),a
-43.7715872,-79.5405223,2,Steeles Avenue West (494),a
 43.7715936,-79.6253227,2,Roybridge Gate (193),a
 43.7715936,-79.6253227,2,Roybridge Gate (193),a
 43.7715936,-79.6253227,2,Roybridge Gate (731),a
@@ -1181,12 +1169,6 @@ lat,lon,sz,names,len_cat
 43.7716749,-79.546089,2,Weston Road (589),a
 43.7716777,-79.6253122,2,Roybridge Gate (957),a
 43.7716777,-79.6253122,2,Roybridge Gate (957),a
-43.7716794,-79.5406758,2,Director Court (591),a
-43.7716794,-79.5406758,2,Director Court (591),a
-43.7717001,-79.5400409,2,Steeles Avenue West (974),a
-43.7717001,-79.5400409,2,Steeles Avenue West (974),a
-43.7717001,-79.5400409,2,Steeles Avenue West (983),a
-43.7717001,-79.5400409,2,Steeles Avenue West (983),a
 43.7717056,-79.6482959,2,Traverse Drive (638),a
 43.7717288,-79.5513658,2,Hanlan Road (795),a
 43.77173,-79.6042,2,Casey Van Maris Way (364),a
@@ -1198,8 +1180,6 @@ lat,lon,sz,names,len_cat
 43.7717923,-79.6042264,2,Casey Van Maris Way (365),a
 43.771797,-79.6274059,2,Highway 7 (244),a
 43.7718208,-79.6263872,2,Highway 7 (156),a
-43.7718262,-79.5394498,2,Steeles Avenue West (889),a
-43.7718262,-79.5394498,2,Steeles Avenue West (889),a
 43.7718447,-79.6262926,2,Highway 7 (373),a
 43.7718619,-79.5793414,2,Islington Avenue (041),a
 43.7718748,-79.5435874,2,Old Weston Road (619),a
@@ -1213,21 +1193,15 @@ lat,lon,sz,names,len_cat
 43.7719103,-79.6255335,2,Roybridge Gate (753),a
 43.771913,-79.612268,2,Regina Road (261),a
 43.771913,-79.612268,2,Regina Road (261),a
-43.771917,-79.5390227,2,Steeles Avenue West (888),a
 43.7719183,-79.5460296,2,Weston Road (406),a
 43.7719208,-79.5458704,2,Weston Road (590),a
 43.7719296,-79.5435986,2,Old Weston Road (011),a
 43.771937,-79.5689961,2,Galcat Drive (551),a
-43.7719386,-79.5407787,2,Director Court (589),a
-43.7719386,-79.5407787,2,Director Court (589),a
-43.7719386,-79.5407787,2,Director Court (592),a
-43.7719386,-79.5407787,2,Director Court (592),a
 43.7719423,-79.6254095,2,Roybridge Gate (958),a
 43.7719423,-79.6254095,2,Roybridge Gate (958),a
 43.7719623,-79.5459908,2,Weston Road (405),a
 43.7719727,-79.6266478,2,Highway 7 (470),a
 43.7719761,-79.5690074,2,Galcat Drive (894),a
-43.7719813,-79.5387199,2,Steeles Avenue West (215),a
 43.77199,-79.60431,2,Casey Van Maris Way (366),a
 43.7719909,-79.6257146,2,Highway 7 (155),a
 43.7719952,-79.5700079,2,Pine Valley Drive (032),a
@@ -1257,8 +1231,6 @@ lat,lon,sz,names,len_cat
 43.7720846,-79.5699561,2,Pine Valley Drive (060),a
 43.7720871,-79.6253317,2,Highway 7 (159),a
 43.7720871,-79.6253317,2,Highway 7 (159),a
-43.7721046,-79.5408447,2,Director Court (450),a
-43.7721046,-79.5408447,2,Director Court (450),a
 43.7721059,-79.568925,2,Galcat Drive (910),a
 43.77212,-79.60445,2,Casey Van Maris Way (367),a
 43.7721211,-79.6123501,2,Regina Road (263),a
@@ -1266,11 +1238,8 @@ lat,lon,sz,names,len_cat
 43.7721329,-79.5455875,2,Weston Road (591),a
 43.7721343,-79.5688768,2,Galcat Drive (959),a
 43.7721578,-79.5688318,2,Galcat Drive (061),a
-43.7721583,-79.5378418,2,Steeles Avenue West (214),a
-43.7721583,-79.5378418,2,Steeles Avenue West (989),a
 43.7721695,-79.6257874,2,Highway 7 (243),a
 43.7721746,-79.568785,2,Galcat Drive (911),a
-43.7721787,-79.5377348,2,Steeles Avenue West (992),a
 43.7721877,-79.5687382,2,Galcat Drive (909),a
 43.7721931,-79.6123485,2,Regina Road (264),a
 43.7721931,-79.6123485,2,Regina Road (264),a
@@ -1290,7 +1259,6 @@ lat,lon,sz,names,len_cat
 43.7722382,-79.6255274,2,Vaughan Valley Boulevard (541),a
 43.7722391,-79.5684992,2,Galcat Drive (744),a
 43.7722483,-79.5793413,2,Islington Avenue (039),a
-43.7722582,-79.5373556,2,Steeles Avenue West (991),a
 43.7722595,-79.5684041,2,Galcat Drive (063),a
 43.7722602,-79.6253978,2,Highway 7 (170),a
 43.7722602,-79.6253978,2,Highway 7 (170),a
@@ -1301,8 +1269,6 @@ lat,lon,sz,names,len_cat
 43.7722728,-79.5700004,2,Pine Valley Drive (764),a
 43.772273,-79.6122596,2,Regina Road (266),a
 43.772273,-79.6122596,2,Regina Road (266),a
-43.7722758,-79.5372732,2,Steeles Avenue West (913),a
-43.7722758,-79.5372732,2,Steeles Avenue West (969),a
 43.7722769,-79.6256996,2,Vaughan Valley Boulevard (740),a
 43.7722834,-79.6430726,2,New Huntington Road (165),a
 43.7722885,-79.5485898,2,Hanlan Road (842),a
@@ -1342,7 +1308,6 @@ lat,lon,sz,names,len_cat
 43.7725684,-79.6241243,2,Highway 7 (168),a
 43.7725684,-79.6241243,2,Highway 7 (215),a
 43.7725684,-79.6241243,2,Highway 7 (215),a
-43.7725851,-79.5356491,2,Steeles Avenue West (217),a
 43.7725934,-79.6257163,2,Vaughan Valley Boulevard (473),a
 43.7725998,-79.5472676,2,Hanlan Road (850),a
 43.7726035,-79.6233313,2,Highway 7 (296),a
@@ -1350,8 +1315,6 @@ lat,lon,sz,names,len_cat
 43.7726035,-79.6233313,2,Highway 7 (713),a
 43.7726035,-79.6233313,2,Highway 7 (713),a
 43.7726066,-79.6108106,2,Regina Road (268),a
-43.7726093,-79.5410595,2,Director Court (449),a
-43.7726093,-79.5410595,2,Director Court (449),a
 43.7726151,-79.6053278,2,Casey Van Maris Way (372),a
 43.7726181,-79.6107646,2,Regina Road (610),a
 43.7726234,-79.6086011,2,Martin Grove Road (137),a
@@ -1362,8 +1325,6 @@ lat,lon,sz,names,len_cat
 43.772647,-79.6258257,2,Vaughan Valley Boulevard (474),a
 43.772647,-79.6258257,2,Vaughan Valley Boulevard (734),a
 43.772647,-79.6258257,2,Vaughan Valley Boulevard (738),a
-43.7726543,-79.5410788,2,Director Court (448),a
-43.7726543,-79.5410788,2,Director Court (448),a
 43.7726565,-79.6106281,2,Regina Road (611),a
 43.7726694,-79.5470796,2,Hanlan Road (852),a
 43.7726708,-79.623725,2,Highway 7 (209),a
@@ -1384,8 +1345,6 @@ lat,lon,sz,names,len_cat
 43.7727661,-79.5794181,2,Islington Avenue (040),a
 43.7727836,-79.5468531,2,Hanlan Road (854),a
 43.7728097,-79.5446656,2,Weston Road (592),a
-43.7728097,-79.5342638,2,Steeles Avenue West (285),a
-43.7728097,-79.5342638,2,Steeles Avenue West (474),a
 43.7728141,-79.6432963,2,New Huntington Road (572),a
 43.7728141,-79.6432963,2,New Huntington Road (616),a
 43.7728248,-79.6102464,2,Regina Road (272),a
@@ -1408,7 +1367,6 @@ lat,lon,sz,names,len_cat
 43.772955,-79.5436613,2,Director Court (444),a
 43.7729555,-79.609883,2,Regina Road (275),a
 43.7729609,-79.5436442,2,Director Court (368),a
-43.7729609,-79.5338246,2,Steeles Avenue West (550),a
 43.7729691,-79.5465753,2,Hanlan Road (858),a
 43.7729883,-79.6087591,2,Martin Grove Road (408),a
 43.7729885,-79.647904,2,Huntington Road (055),a
@@ -1482,18 +1440,14 @@ lat,lon,sz,names,len_cat
 43.7732097,-79.621505,2,Highway 7 (294),a
 43.7732116,-79.608802,2,Martin Grove Road (288),a
 43.7732117,-79.5444462,2,Old Weston Road (181),a
-43.7732166,-79.5413202,2,Director Court (447),a
 43.7732213,-79.5442487,2,Old Weston Road (026),a
-43.7732253,-79.5423916,2,Director Court (446),a
 43.7732323,-79.6086529,2,Martin Grove Road (422),a
 43.7732369,-79.6078348,2,Woodstream Boulevard (050),a
 43.7732436,-79.6213975,2,Highway 7 (235),a
 43.7732504,-79.6216703,2,Highway 27 (053),a
-43.7732542,-79.5422512,2,Director Court (080),a
 43.7732611,-79.6076927,2,Woodstream Boulevard (049),a
 43.7732663,-79.6479694,2,Huntington Road (056),a
 43.7732723,-79.6301202,2,Stone Ridge Road (879),a
-43.7732882,-79.5413509,2,Director Court (371),a
 43.7732892,-79.6215154,2,Highway 27 (283),a
 43.773301,-79.5442762,2,Old Weston Road (027),a
 43.773301,-79.5442762,2,Weston Road (254),a
@@ -1515,14 +1469,9 @@ lat,lon,sz,names,len_cat
 43.7733589,-79.5629193,2,Galcat Drive (066),a
 43.77336,-79.6435,2,New Huntington Road (573),a
 43.7733686,-79.6073145,2,Woodstream Boulevard (047),a
-43.7733713,-79.5318247,2,Steeles Avenue West (198),a
-43.7733713,-79.5318247,2,Steeles Avenue West (549),a
 43.7733734,-79.6297038,2,Stone Ridge Road (881),a
-43.7733734,-79.5414045,2,Director Court (370),a
 43.7733846,-79.5959698,2,Kipling Avenue (625),a
-43.773387,-79.5415092,2,Director Court (369),a
 43.7733905,-79.5442418,2,Weston Road (255),a
-43.7734069,-79.5316393,2,Steeles Avenue West (197),a
 43.7734147,-79.6295343,2,Stone Ridge Road (880),a
 43.7734337,-79.6381932,2,New Enterprise Way (447),a
 43.7734337,-79.6381932,2,New Enterprise Way (582),a
@@ -1544,8 +1493,6 @@ lat,lon,sz,names,len_cat
 43.7735129,-79.6070395,2,Woodstream Boulevard (045),a
 43.7735207,-79.6070271,2,Woodstream Boulevard (703),a
 43.7735428,-79.54418,2,Weston Road (256),a
-43.7735516,-79.5308678,2,Steeles Avenue West (196),a
-43.7735516,-79.5308678,2,Steeles Avenue West (205),a
 43.7735619,-79.5443368,2,Weston Road (655),a
 43.7735674,-79.6435779,2,New Huntington Road (224),a
 43.773573,-79.6088243,2,Martin Grove Road (131),a
@@ -1555,7 +1502,6 @@ lat,lon,sz,names,len_cat
 43.7735743,-79.6217628,2,Highway 27 (563),a
 43.7735857,-79.6069236,2,Woodstream Boulevard (044),a
 43.7736,-79.62877,2,Stone Ridge Road (451),a
-43.7736279,-79.5305026,2,Steeles Avenue West (204),a
 43.7736356,-79.6192776,2,Highway 7 (979),a
 43.7736415,-79.544223,2,Weston Road (311),a
 43.7736415,-79.544223,2,Weston Road (365),a
@@ -1564,9 +1510,6 @@ lat,lon,sz,names,len_cat
 43.7736832,-79.6283805,2,Stone Ridge Road (882),a
 43.7736973,-79.6283147,2,Stone Ridge Road (881),a
 43.7737048,-79.5611866,2,Galcat Drive (960),a
-43.7737287,-79.5298501,2,Steeles Avenue West (202),a
-43.7737287,-79.5298501,2,Steeles Avenue West (991),a
-43.7737294,-79.5299936,2,Steeles Avenue West (203),a
 43.7737434,-79.6066238,2,Woodstream Boulevard (702),a
 43.7737492,-79.5441955,2,Weston Road (871),a
 43.7737527,-79.6480787,2,Huntington Road (057),a
@@ -1667,7 +1610,6 @@ lat,lon,sz,names,len_cat
 43.7744333,-79.6482297,2,Huntington Road (058),a
 43.7744422,-79.5954164,2,Veneto Drive (633),a
 43.7744503,-79.6038128,2,Woodstream Boulevard (864),a
-43.7744506,-79.5261954,2,Steeles Avenue West (919),a
 43.7744552,-79.6219092,2,Highway 27 (060),a
 43.7744552,-79.6219092,2,Highway 27 (281),a
 43.7744559,-79.5953638,2,Veneto Drive (434),a
@@ -1697,7 +1639,6 @@ lat,lon,sz,names,len_cat
 43.7745774,-79.6482582,2,Huntington Road (033),a
 43.7745774,-79.6482582,2,Huntington Road (059),a
 43.7745774,-79.6482582,2,Zenway Boulevard (492),a
-43.7745837,-79.5255946,2,Steeles Avenue West (912),a
 43.774592,-79.6152351,2,Highway 7 (129),a
 43.7745924,-79.5950848,2,Veneto Drive (437),a
 43.7746083,-79.6439102,2,New HUntington Road (826),a
@@ -1738,7 +1679,6 @@ lat,lon,sz,names,len_cat
 43.7746756,-79.6038316,2,Woodstream Boulevard (071),a
 43.7746771,-79.5778468,2,Timber Lane (997),a
 43.7746771,-79.5778468,2,Timber Lane (997),a
-43.7746793,-79.5251074,2,Steeles Avenue West (913),a
 43.7746868,-79.580482,2,Islington Avenue (552),a
 43.7746888,-79.6482817,2,Huntington Road (374),a
 43.7746952,-79.5931301,2,Dalmato Court (773),a
@@ -1794,7 +1734,6 @@ lat,lon,sz,names,len_cat
 43.7748822,-79.6039354,2,Woodstream Boulevard (863),a
 43.7748868,-79.6459716,2,Zenway Boulevard (438),a
 43.7748875,-79.5766614,2,Timber Lane (014),a
-43.7748883,-79.5240425,2,Steeles Avenue West (915),a
 43.77489,-79.57313,2,Oberdan Way (580),a
 43.77489,-79.57243,2,Terra Road (623),a
 43.7748915,-79.6220128,2,Highway 27 (062),a
@@ -1821,7 +1760,6 @@ lat,lon,sz,names,len_cat
 43.7749624,-79.6134895,2,Highway 7 (728),a
 43.7749665,-79.6444833,2,Zenway Boulevard (842),a
 43.77497,-79.57512,2,Tall Grass Trail (191),a
-43.7749734,-79.5236087,2,Steeles Avenue West (577),a
 43.7749748,-79.6449387,2,Zenway Boulevard (437),a
 43.7749787,-79.6130941,2,Highway 7 (695),a
 43.7749787,-79.6130941,2,Highway 7 (695),a
@@ -1966,8 +1904,6 @@ lat,lon,sz,names,len_cat
 43.7753108,-79.5907981,2,Veneto Drive (627),a
 43.7753108,-79.5907981,2,Veneto Drive (627),a
 43.7753114,-79.5959693,2,Veneto Drive (316),a
-43.7753149,-79.5222896,2,Steeles Avenue West (069),a
-43.7753149,-79.5222896,2,Steeles Avenue West (568),a
 43.7753166,-79.597627,2,Tasha Court (144),a
 43.7753208,-79.6414124,2,Zenway Boulevard (230),a
 43.7753241,-79.6413838,2,Zenway Boulevard (821),a
@@ -1987,7 +1923,6 @@ lat,lon,sz,names,len_cat
 43.7753553,-79.5780792,2,Timber Lane (004),a
 43.7753669,-79.5907203,2,Veneto Drive (399),a
 43.7753669,-79.5907203,2,Veneto Drive (399),a
-43.7753702,-79.522263,2,Steeles Avenue West (272),a
 43.7753787,-79.5956943,2,Veneto Drive (318),a
 43.7753825,-79.5976557,2,Tasha Court (145),a
 43.7753899,-79.5921402,2,Veneto Drive (377),a
@@ -24870,6 +24805,7 @@ lat,lon,sz,names,len_cat
 43.8239117,-79.566533,2,Polo Crescent (438),a
 43.8239117,-79.566533,2,Polo Crescent (438),a
 43.8239136,-79.5677657,2,Velmar Drive (388),a
+43.8239136,-79.5677657,2,Velmar Drive (875),a
 43.8239146,-79.5678878,2,Velmar Drive (877),a
 43.8239209,-79.4790984,2,Langstaff Road (955),a
 43.8239263,-79.4768692,2,Yellowood Circle (963),a
@@ -24877,7 +24813,6 @@ lat,lon,sz,names,len_cat
 43.82393,-79.56522,2,Polo Crescent (474),a
 43.82393,-79.56522,2,Polo Crescent (474),a
 43.8239374,-79.5677711,2,Velmar Drive (876),a
-43.8239394,-79.5697684,2,Christina Cicolini Court (469),a
 43.8239394,-79.5697684,2,St Nicholas Crescent (130),a
 43.8239394,-79.5697684,2,St Nicholas Crescent (138),a
 43.8239437,-79.6204059,2,Arrowhead Crescent (670),a
@@ -25010,7 +24945,6 @@ lat,lon,sz,names,len_cat
 43.82416,-79.5653,2,Polo Crescent (476),a
 43.82416,-79.5653,2,Polo Crescent (476),a
 43.8241615,-79.5676719,2,Rutherford Road (052),a
-43.8241615,-79.5676719,2,Rutherford Road (920),a
 43.8241615,-79.5593138,2,Green Manor Crescent (136),a
 43.824166,-79.6227324,2,Julia Valentina Avenue (597),a
 43.8241664,-79.5742679,2,Pieta Place (064),a
@@ -25487,7 +25421,6 @@ lat,lon,sz,names,len_cat
 43.8250072,-79.6129742,2,San Vito Drive (386),a
 43.8250098,-79.5628842,2,Rutherford Road (349),a
 43.8250105,-79.57661,2,Via Campanile (908),a
-43.8250105,-79.57661,2,Via Campanile (908),a
 43.8250122,-79.6081779,2,Canada Company Avenue (157),a
 43.8250184,-79.5633923,2,Rutherford Road (397),a
 43.8250185,-79.5830566,2,Pine Valley Drive (009),a
@@ -25874,13 +25807,13 @@ lat,lon,sz,names,len_cat
 43.8258077,-79.5684138,2,Saint Clare Boulevard (121),a
 43.8258124,-79.5692458,2,St Francis Avenue (440),a
 43.8258124,-79.5692458,2,St Nicholas Crescent (129),a
+43.8258124,-79.5692458,2,St Victor Drive (636),a
 43.8258143,-79.4732595,2,Maple Sugar Lane (577),a
 43.8258143,-79.4732595,2,Pleasant Ridge Avenue (208),a
 43.8258143,-79.4732595,2,Pleasant Ridge Avenue (225),a
 43.8258167,-79.5437662,2,Vaughan Mills Interior Ring Road (764),a
 43.82582,-79.531535,2,Jane Street (289),a
 43.8258213,-79.5682973,2,Saint Clare Boulevard (860),a
-43.8258213,-79.5682973,2,Saint Clare Boulevard (898),a
 43.8258218,-79.6101706,2,Napa Valley Avenue (920),a
 43.8258223,-79.6222763,2,Sunset Ridge (923),a
 43.8258226,-79.574723,2,Basilica Drive (637),a
@@ -26220,6 +26153,7 @@ lat,lon,sz,names,len_cat
 43.8263917,-79.5535697,2,Rutherford Road (915),a
 43.8263953,-79.5693861,2,St James Avenue (773),a
 43.8263953,-79.5693861,2,St Victor Drive (628),a
+43.8263953,-79.5693861,2,St Victor Drive (637),a
 43.8264003,-79.6131286,2,Silverado Trail (549),a
 43.8264003,-79.6131286,2,Silverado Trail (549),a
 43.8264078,-79.5801001,2,Grandvista Crescent (445),a
@@ -27007,6 +26941,7 @@ lat,lon,sz,names,len_cat
 43.8281313,-79.5769781,2,Via Campanile (688),a
 43.8281313,-79.5769781,2,Via Campanile (688),a
 43.8281376,-79.5697827,2,Angelico Avenue (818),a
+43.8281376,-79.5697827,2,Capera Drive (408),a
 43.8281376,-79.5697827,2,Capera Drive (421),a
 43.8281384,-79.6180317,2,Kistler Street (322),a
 43.82814,-79.62634,2,Clairewood Court (624),a
@@ -27084,6 +27019,7 @@ lat,lon,sz,names,len_cat
 43.8283161,-79.57409,2,Trinita Avenue (046),a
 43.8283167,-79.6195412,2,Lookout Point Court (058),a
 43.8283183,-79.5637371,2,Amparo Drive (145),a
+43.8283236,-79.573423,2,La Rocca Avenue (214),a
 43.8283236,-79.573423,2,La Rocca Avenue (223),a
 43.828325,-79.5636901,2,Amparo Drive (144),a
 43.8283255,-79.6153359,2,Calera Crescent (652),a
@@ -27324,7 +27260,6 @@ lat,lon,sz,names,len_cat
 43.8288888,-79.5681958,2,Amparo Drive (168),a
 43.82889,-79.5769666,2,Trinita Avenue (078),a
 43.82889,-79.5769666,2,Trinita Avenue (078),a
-43.82889,-79.5769666,2,Via Campanile (566),a
 43.82889,-79.5769666,2,Via Campanile (566),a
 43.8288901,-79.5768685,2,Trinita Avenue (794),a
 43.8288901,-79.5768685,2,Trinita Avenue (794),a
@@ -28772,7 +28707,6 @@ lat,lon,sz,names,len_cat
 43.8312668,-79.4909669,2,Confederation Parkway (458),a
 43.8312687,-79.5760495,2,Josephine Road (017),a
 43.8312687,-79.5760495,2,Josephine Road (017),a
-43.831269,-79.5662724,2,Strasbourg Lane (095),a
 43.83127,-79.47738,2,Gauguin Avenue (744),a
 43.831282,-79.5144832,2,Rotational Drive (204),a
 43.8312837,-79.6435565,2,Nave Street (982),a
@@ -29085,7 +29019,6 @@ lat,lon,sz,names,len_cat
 43.8318675,-79.5289912,2,Rutherford Road (971),a
 43.8318678,-79.5382409,2,Camino Drive (221),a
 43.8318692,-79.6379993,2,Rolling Green Court (610),a
-43.83187,-79.57283,2,Filippazzo Road (660),a
 43.8318744,-79.5752337,2,Foresta Drive (759),a
 43.8318757,-79.5161589,2,Rotational Drive (210),a
 43.8318757,-79.5161589,2,Rotational Drive (210),a
@@ -29849,6 +29782,7 @@ lat,lon,sz,names,len_cat
 43.8336096,-79.5807161,2,Via Lombardi (141),a
 43.8336096,-79.5807161,2,Via Lombardi (273),a
 43.83361,-79.47305,2,Coltrane Drive (212),a
+43.833617,-79.5703744,2,Rosario Drive (902),a
 43.8336194,-79.6451186,2,Woodgate Pines Drive (075),a
 43.8336194,-79.4741,2,Coltrane Drive (216),a
 43.8336195,-79.5118983,2,Tesma Way (873),a
@@ -29922,6 +29856,7 @@ lat,lon,sz,names,len_cat
 43.8337049,-79.564559,2,Davos Road (715),a
 43.8337049,-79.564559,2,Davos Road (715),a
 43.8337049,-79.564559,2,Davos Road (720),a
+43.8337049,-79.564559,2,Davos Road (720),a
 43.8337049,-79.564559,2,Fossil Hill Road (753),a
 43.8337049,-79.564559,2,Fossil Hill Road (753),a
 43.8337049,-79.564559,2,Fossil Hill Road (955),a
@@ -29947,6 +29882,8 @@ lat,lon,sz,names,len_cat
 43.83372,-79.5170662,2,Rotational Drive (217),a
 43.83372,-79.5170662,2,Rotational Drive (217),a
 43.8337211,-79.4720362,2,Chagall Drive (815),a
+43.8337214,-79.5668913,2,Davos Road (139),a
+43.833722,-79.5670472,2,Davos Road (671),a
 43.833722,-79.5670472,2,Kingsview Drive (840),a
 43.833722,-79.5670472,2,Trembly Avenue (873),a
 43.8337232,-79.5672036,2,Davos Road (138),a
@@ -29963,7 +29900,6 @@ lat,lon,sz,names,len_cat
 43.8337384,-79.5695129,2,Davos Road (719),a
 43.8337384,-79.5695129,2,Vellore Avenue (748),a
 43.8337384,-79.5695129,2,Vellore Avenue (751),a
-43.8337385,-79.5696364,2,Davos Road (718),a
 43.8337386,-79.5697158,2,Davos Road (635),a
 43.8337406,-79.5615353,2,Lucerne Drive (875),a
 43.8337416,-79.5535432,2,Cattail Drive (586),a
@@ -29985,7 +29921,6 @@ lat,lon,sz,names,len_cat
 43.8337558,-79.5427956,2,Casabel Drive (838),a
 43.8337591,-79.5727953,2,Bellini Avenue (010),a
 43.8337591,-79.5727953,2,Davos Road (974),a
-43.8337591,-79.5727953,2,Filippazzo Road (662),a
 43.8337605,-79.5736275,2,Campi Road (087),a
 43.8337605,-79.5736275,2,Capella Drive (493),a
 43.8337605,-79.5736275,2,Davos Road (972),a
@@ -30059,6 +29994,7 @@ lat,lon,sz,names,len_cat
 43.8338376,-79.5613911,2,Davos Road (628),a
 43.833843,-79.6456224,2,Torrey Pines Road (523),a
 43.8338437,-79.5670444,2,Kingsview Drive (838),a
+43.8338437,-79.5670444,2,Kingsview Drive (841),a
 43.8338447,-79.6260249,2,Tinsmith Court (469),a
 43.8338447,-79.6260249,2,Westridge Drive (677),a
 43.8338448,-79.4711951,2,Chezanne Trail (957),a
@@ -30070,7 +30006,6 @@ lat,lon,sz,names,len_cat
 43.8338569,-79.5645586,2,Fossil Hill Road (737),a
 43.8338569,-79.5645586,2,Fossil Hill Road (737),a
 43.8338657,-79.6471717,2,Tiburon Trail (267),a
-43.8338662,-79.5711835,2,Moderna Drive (032),a
 43.8338662,-79.5711835,2,Moderna Drive (309),a
 43.833867,-79.5123804,2,Tesma Way (400),a
 43.8338696,-79.5662295,2,Cetona Avenue (427),a
@@ -30206,7 +30141,6 @@ lat,lon,sz,names,len_cat
 43.8341832,-79.5686671,2,Casa Nova Drive (865),a
 43.8341832,-79.5686671,2,Laneway V31 (440),a
 43.8341836,-79.5687435,2,Laneway V31 (439),a
-43.8341845,-79.4746048,2,Basie Gate (667),a
 43.834187,-79.5693867,2,Laneway V31 (438),a
 43.8341871,-79.5694074,2,Laneway V31 (437),a
 43.8341877,-79.569508,2,Laneway V31 (436),a
@@ -30278,6 +30212,7 @@ lat,lon,sz,names,len_cat
 43.8343523,-79.5768886,2,Via Campanile (531),a
 43.8343573,-79.4843001,2,Eminence Road (520),a
 43.83436,-79.47229,2,Basie Gate (677),a
+43.83436,-79.47229,2,Chagall Drive (819),a
 43.83436,-79.47229,2,Chagall Drive (821),a
 43.8343622,-79.5172642,2,Rotational Drive (220),a
 43.8343622,-79.5172642,2,Rotational Drive (220),a
@@ -30507,7 +30442,6 @@ lat,lon,sz,names,len_cat
 43.8348709,-79.4938674,2,Westway Crescent (585),a
 43.8348709,-79.4938674,2,Westway Crescent (585),a
 43.8348736,-79.6493587,2,Torrey Pines Road (635),a
-43.834877,-79.4740767,2,Gould Lane (928),a
 43.8348784,-79.4964916,2,Arbourview Drive (200),a
 43.834883,-79.5550187,2,Avocet Drive (531),a
 43.834883,-79.5550187,2,Avocet Drive (531),a
@@ -30522,7 +30456,6 @@ lat,lon,sz,names,len_cat
 43.8348955,-79.5513107,2,Berry Trail (147),a
 43.8349,-79.4716,2,Chezanne Trail (189),a
 43.8349031,-79.5079926,2,Sherwood Park Drive (116),a
-43.8349031,-79.4735911,2,Gould Lane (927),a
 43.8349037,-79.5509213,2,Berry Trail (723),a
 43.834905,-79.4729346,2,Gould Lane (926),a
 43.8349052,-79.6493401,2,Torrey Pines Road (636),a
@@ -30589,6 +30522,7 @@ lat,lon,sz,names,len_cat
 43.8349871,-79.5833312,2,Monteverde Way (205),a
 43.8349895,-79.4939888,2,Westway Crescent (586),a
 43.8349895,-79.4939888,2,Westway Crescent (586),a
+43.83499,-79.47254,2,Chagall Drive (795),a
 43.83499,-79.47254,2,Chagall Drive (822),a
 43.83499,-79.47254,2,Gould Lane (925),a
 43.8349902,-79.6479548,2,Torrey Pines Road (637),a
@@ -30726,6 +30660,7 @@ lat,lon,sz,names,len_cat
 43.8352659,-79.4944669,2,Westway Crescent (589),a
 43.8352659,-79.4944669,2,Westway Crescent (598),a
 43.8352659,-79.4944669,2,Westway Crescent (598),a
+43.8352664,-79.469979,2,Renoir Drive (406),a
 43.835271,-79.4884381,2,Forecastle Road (069),a
 43.835273,-79.6248077,2,Bindertwine Boulevard (597),a
 43.8352772,-79.4885557,2,Forecastle Road (059),a
@@ -30801,7 +30736,6 @@ lat,lon,sz,names,len_cat
 43.8353658,-79.4965789,2,Arbourview Drive (202),a
 43.8353692,-79.6402001,2,Northern Pines Boulevard (017),a
 43.8353692,-79.6402001,2,Spicewood Crescent (414),a
-43.83537,-79.47498,2,Mendel Crescent (743),a
 43.83537,-79.47498,2,Pleasant Ridge Avenue (611),a
 43.83537,-79.47257,2,Chagall Drive (800),a
 43.83537,-79.47172,2,Chezanne Trail (197),a
@@ -30840,6 +30774,7 @@ lat,lon,sz,names,len_cat
 43.8354049,-79.6368342,2,Ava Place (891),a
 43.8354057,-79.5533538,2,Fox Hound Crescent (565),a
 43.8354057,-79.5533538,2,Fox Hound Crescent (565),a
+43.8354088,-79.469979,2,Renoir Drive (407),a
 43.8354092,-79.5077386,2,Keele Street (327),a
 43.8354092,-79.5077386,2,Keele Street (703),a
 43.8354095,-79.624229,2,Bindertwine Boulevard (596),a
@@ -30914,6 +30849,7 @@ lat,lon,sz,names,len_cat
 43.8355647,-79.5120959,2,Rutherford Road (967),a
 43.8355684,-79.5525591,2,Royview Crescent (630),a
 43.8355691,-79.6399949,2,Spicewood Crescent (294),a
+43.83557,-79.47351,2,Mendel Crescent (746),a
 43.8355724,-79.501323,2,Moyal Court (800),a
 43.835574,-79.4690433,2,Zola Gate (060),a
 43.8355775,-79.4955661,2,Wood Dale Road (021),a
@@ -31001,6 +30937,7 @@ lat,lon,sz,names,len_cat
 43.835707,-79.482129,2,Ten Oaks Boulevard (930),a
 43.835707,-79.482129,2,Ten Oaks Boulevard (930),a
 43.8357107,-79.4954259,2,Westway Crescent (602),a
+43.8357166,-79.4693026,2,Autumn Hill Boulevard (102),a
 43.83572,-79.53528,2,Auto Vaughan Drive (823),a
 43.8357202,-79.495463,2,Westway Crescent (590),a
 43.8357202,-79.495463,2,Westway Crescent (603),a
@@ -31010,6 +30947,7 @@ lat,lon,sz,names,len_cat
 43.8357256,-79.5761044,2,Via Campanile (628),a
 43.8357263,-79.5678329,2,Chateau Drive (079),a
 43.8357263,-79.5678329,2,Chateau Drive (099),a
+43.8357269,-79.4698602,2,Renoir Drive (409),a
 43.8357273,-79.6225053,2,Bindertwine Boulevard (594),a
 43.8357273,-79.6225053,2,Bindertwine Boulevard (595),a
 43.8357273,-79.6225053,2,Bindertwine Boulevard (600),a
@@ -31054,7 +30992,6 @@ lat,lon,sz,names,len_cat
 43.83575,-79.47343,2,Mendel Crescent (749),a
 43.83575,-79.47079,2,Seurat Place (648),a
 43.8357512,-79.4813618,2,Autumn Hill Boulevard (143),a
-43.8357512,-79.4813618,2,Autumn Hill Boulevard (143),a
 43.8357512,-79.4813618,2,Dufferin Street (435),a
 43.8357512,-79.4813618,2,Dufferin Street (435),a
 43.8357512,-79.4813618,2,Dufferin Street (439),a
@@ -31068,7 +31005,6 @@ lat,lon,sz,names,len_cat
 43.8357645,-79.5359598,2,Auto Vaughan Drive (826),a
 43.8357661,-79.5719561,2,Terme Avenue (114),a
 43.8357664,-79.6221266,2,Bindertwine Boulevard (602),a
-43.8357684,-79.4812441,2,Autumn Hill Boulevard (062),a
 43.8357684,-79.4812441,2,Autumn Hill Boulevard (062),a
 43.8357732,-79.4914619,2,Honeyview Street (596),a
 43.8357732,-79.4914619,2,Ten Oaks Boulevard (777),a
@@ -31374,6 +31310,7 @@ lat,lon,sz,names,len_cat
 43.83634,-79.55728,2,Fairlane Crescent (315),a
 43.8363422,-79.6397411,2,Spicewood Crescent (297),a
 43.8363443,-79.4780375,2,Autumn Hill Boulevard (177),a
+43.8363443,-79.4780375,2,Redmond Drive (081),a
 43.836347,-79.4776864,2,Autumn Hill Boulevard (205),a
 43.8363481,-79.4779431,2,Autumn Hill Boulevard (178),a
 43.83635,-79.55821,2,Fairlane Crescent (307),a
@@ -31428,7 +31365,6 @@ lat,lon,sz,names,len_cat
 43.8364341,-79.4774423,2,Autumn Hill Boulevard (185),a
 43.8364342,-79.5993831,2,Major MacKenzie Drive West (971),a
 43.8364348,-79.645354,2,Northern Pines Boulevard (132),a
-43.836436,-79.4767906,2,Autumn Hill Boulevard (201),a
 43.8364368,-79.4770881,2,Autumn Hill Boulevard (173),a
 43.8364368,-79.4770881,2,Rivington Avenue (339),a
 43.8364386,-79.5097222,2,Castlehill Road (263),a
@@ -31444,6 +31380,7 @@ lat,lon,sz,names,len_cat
 43.8364665,-79.472264,2,Chagall Drive (809),a
 43.8364667,-79.4752033,2,Pleasant Ridge Avenue (614),a
 43.8364669,-79.5083238,2,Rutherford Road (347),a
+43.8364689,-79.4764499,2,Autumn Hill Boulevard (202),a
 43.8364764,-79.5451349,2,Canada's Wonderland Drive (206),a
 43.8364772,-79.5001838,2,Westburne Drive (458),a
 43.83648,-79.53695,2,Sweet River Boulevard (738),a
@@ -31492,6 +31429,7 @@ lat,lon,sz,names,len_cat
 43.8365467,-79.5427198,2,Canada's Wonderland Drive (918),a
 43.8365467,-79.5427198,2,Canada's Wonderland Drive (918),a
 43.8365498,-79.4701841,2,Shemer Drive (838),a
+43.83655,-79.47024,2,Shemer Drive (836),a
 43.836554,-79.4722183,2,Autumn Hill Boulevard (095),a
 43.836554,-79.4722183,2,Chagall Drive (811),a
 43.836554,-79.4722183,2,Sandwood Drive (769),a
@@ -31545,6 +31483,7 @@ lat,lon,sz,names,len_cat
 43.8366466,-79.5678228,2,Chateau Drive (512),a
 43.8366468,-79.4841445,2,Harmony Road (585),a
 43.8366475,-79.6427354,2,Spicewood Crescent (425),a
+43.8366476,-79.479155,2,Spring Arbour Road (130),a
 43.8366492,-79.4894716,2,Huntingfield Street (054),a
 43.8366496,-79.5071009,2,Rutherford Road (000),a
 43.8366515,-79.6270216,2,Westridge Drive (650),a
@@ -31684,6 +31623,7 @@ lat,lon,sz,names,len_cat
 43.8370729,-79.4887769,2,Forecastle Road (884),a
 43.8370745,-79.4949815,2,Preston Hill Crescent (456),a
 43.8370769,-79.5007007,2,Westburne Drive (463),a
+43.83708,-79.47195,2,Sandwood Drive (773),a
 43.8370816,-79.5301679,2,Parktree Drive (043),a
 43.8370816,-79.5301679,2,Parktree Drive (043),a
 43.8370821,-79.5761618,2,Via Campanile (546),a
@@ -31717,6 +31657,7 @@ lat,lon,sz,names,len_cat
 43.83714,-79.57151,2,Amy Wood Road (134),a
 43.83714,-79.57139,2,Amy Wood Road (133),a
 43.8371437,-79.5398578,2,Canada's Wonderland Drive (925),a
+43.8371467,-79.4702939,2,Matisse Trail (542),a
 43.8371546,-79.5239592,2,Melville Avenue (474),a
 43.8371559,-79.5008272,2,Westburne Drive (464),a
 43.837156,-79.4763498,2,Pantano Drive (271),a
@@ -31733,8 +31674,6 @@ lat,lon,sz,names,len_cat
 43.83718,-79.48025,2,Landwood Avenue (775),a
 43.83718,-79.47726,2,Rivington Avenue (643),a
 43.83718,-79.4709775,2,Auburndale Drive (886),a
-43.83718,-79.4709775,2,Auburndale Drive (887),a
-43.83718,-79.4709775,2,Matisse Trail (540),a
 43.8371822,-79.4708755,2,Matisse Trail (541),a
 43.8371833,-79.5303768,2,Parktree Drive (047),a
 43.8371833,-79.5303768,2,Parktree Drive (047),a
@@ -31813,6 +31752,7 @@ lat,lon,sz,names,len_cat
 43.8373531,-79.5606859,2,Villa Royale Avenue (376),a
 43.8373537,-79.5101597,2,Castlehill Road (243),a
 43.8373652,-79.5573076,2,Daiseyfield Crescent (392),a
+43.8373664,-79.4754295,2,Pleasant Ridge Avenue (145),a
 43.8373671,-79.5339409,2,Jane Street (463),a
 43.8373729,-79.5241279,2,Melville Avenue (479),a
 43.8373773,-79.5098979,2,Castlehill Road (244),a
@@ -31857,6 +31797,7 @@ lat,lon,sz,names,len_cat
 43.83747,-79.57179,2,Amy Wood Road (139),a
 43.8374715,-79.6200228,2,Camlaren Crescent (447),a
 43.8374715,-79.6200228,2,Donhill Crescent (745),a
+43.8374727,-79.4814997,2,Westolivia Trail (181),a
 43.8374727,-79.4814997,2,Westolivia Trail (181),a
 43.8374763,-79.5760857,2,Via Campanile (577),a
 43.8374792,-79.5590958,2,Villa Royale Avenue (361),a
@@ -32013,6 +31954,7 @@ lat,lon,sz,names,len_cat
 43.8376832,-79.5251527,2,Larissa Court (218),a
 43.8376847,-79.4915794,2,Confederation Parkway (535),a
 43.8376847,-79.4915794,2,Dufferin Hill Drive (972),a
+43.83769,-79.47349,2,Pepperberry Road (735),a
 43.837691,-79.525053,2,Larissa Court (217),a
 43.8376912,-79.5589022,2,Weston Road (475),a
 43.837694,-79.5253054,2,Larissa Court (219),a
@@ -32030,6 +31972,7 @@ lat,lon,sz,names,len_cat
 43.8377212,-79.5685667,2,Mazzone Drive (042),a
 43.8377272,-79.5588756,2,Weston Road (397),a
 43.8377272,-79.5588756,2,Weston Road (455),a
+43.83773,-79.4805,2,Landwood Avenue (779),a
 43.83773,-79.4805,2,Landwood Avenue (779),a
 43.8377342,-79.626199,2,John Kline Lane (771),a
 43.8377342,-79.626199,2,John Kline Lane (771),a
@@ -32317,6 +32260,7 @@ lat,lon,sz,names,len_cat
 43.8383194,-79.5584771,2,Daiseyfield Crescent (401),a
 43.8383199,-79.5566047,2,Starling Boulevard (429),a
 43.83832,-79.48072,2,Landwood Avenue (781),a
+43.83832,-79.48072,2,Landwood Avenue (781),a
 43.83832,-79.48072,2,Westolivia Trail (095),a
 43.83832,-79.48072,2,Westolivia Trail (095),a
 43.8383222,-79.4953705,2,Royal Appian Crescent (421),a
@@ -32582,7 +32526,6 @@ lat,lon,sz,names,len_cat
 43.8387846,-79.495084,2,Preston Hill Crescent (447),a
 43.8387851,-79.5861129,2,Pine Valley Drive (503),a
 43.8387895,-79.5026014,2,Barrhill Road (224),a
-43.83879,-79.47808,2,Rivington Avenue (665),a
 43.8387904,-79.6470455,2,Putting Green Crescent (687),a
 43.8387905,-79.5195652,2,Glenside Drive (928),a
 43.8387952,-79.4888889,2,Tuscana Boulevard (699),a
@@ -32699,6 +32642,7 @@ lat,lon,sz,names,len_cat
 43.83904,-79.4916609,2,Belvia Drive (650),a
 43.8390478,-79.5028287,2,Barrhill Road (212),a
 43.8390482,-79.482325,2,Dufferin Street (849),a
+43.8390482,-79.482325,2,Dufferin Street (849),a
 43.8390493,-79.5593327,2,Weston Road (432),a
 43.8390509,-79.5250817,2,Elena Crescent (110),a
 43.8390533,-79.4837204,2,Marathon Avenue (272),a
@@ -32791,6 +32735,7 @@ lat,lon,sz,names,len_cat
 43.8392726,-79.556838,2,Starling Boulevard (449),a
 43.8392743,-79.4867047,2,Laneway V4 (077),a
 43.8392743,-79.4867047,2,Tuscana Boulevard (695),a
+43.839276,-79.4753462,2,Daphnia Drive (085),a
 43.8392772,-79.647112,2,Putting Green Crescent (686),a
 43.8392855,-79.5703292,2,Vas Road (234),a
 43.8392855,-79.5703292,2,Vellore Avenue (444),a
@@ -32820,7 +32765,6 @@ lat,lon,sz,names,len_cat
 43.8393516,-79.5791751,2,Via Borghese (248),a
 43.8393532,-79.4862498,2,Tuscana Boulevard (627),a
 43.8393592,-79.5280471,2,Melville Avenue (396),a
-43.8393643,-79.4822202,2,Dufferin Street (846),a
 43.8393643,-79.4822202,2,Dufferin Street (846),a
 43.8393659,-79.6453899,2,Coldspring Road (990),a
 43.8393705,-79.486141,2,Forest Run Boulevard (145),a
@@ -32959,7 +32903,6 @@ lat,lon,sz,names,len_cat
 43.8395896,-79.6244981,2,Pennon Road (765),a
 43.839598,-79.4821301,2,Apple Blossom Drive (572),a
 43.839598,-79.4821301,2,Apple Blossom Drive (572),a
-43.8396,-79.47913,2,Redmond Drive (090),a
 43.8396005,-79.4840522,2,Benjamin Hood Crescent (147),a
 43.8396005,-79.4840522,2,Laneway V2 (191),a
 43.8396033,-79.4816753,2,Apple Blossom Drive (941),a
@@ -33076,7 +33019,6 @@ lat,lon,sz,names,len_cat
 43.8397601,-79.5863371,2,Major MacKenzie Drive West (439),a
 43.8397601,-79.5863371,2,Pine Valley Drive (591),a
 43.8397601,-79.5863371,2,Pine Valley Drive (592),a
-43.8397628,-79.4790875,2,Redmond Drive (091),a
 43.8397684,-79.4744214,2,Pepperberry Road (742),a
 43.83977,-79.46815,2,Bristlewood Crescent (387),a
 43.8397715,-79.5285967,2,Melville Avenue (399),a
@@ -33092,7 +33034,6 @@ lat,lon,sz,names,len_cat
 43.8397733,-79.4754119,2,Kylemount Court (234),a
 43.8397749,-79.4802289,2,Spring Arbour Road (126),a
 43.8397749,-79.4802289,2,Spring Arbour Road (126),a
-43.839784,-79.475413,2,Kylemount Court (235),a
 43.83979,-79.502177,2,Patna Crescent (332),a
 43.839791,-79.5368065,2,Canada's Wonderland Drive (532),a
 43.8397927,-79.4806093,2,Apple Blossom Drive (956),a
@@ -33134,7 +33075,6 @@ lat,lon,sz,names,len_cat
 43.8398541,-79.4802537,2,Apple Blossom Drive (957),a
 43.8398541,-79.4802537,2,Apple Blossom Drive (957),a
 43.8398541,-79.4802537,2,Santa Amato Crescent (395),a
-43.8398541,-79.4802537,2,Santa Amato Crescent (395),a
 43.8398541,-79.4802537,2,Spring Arbour Road (127),a
 43.8398541,-79.4802537,2,Spring Arbour Road (127),a
 43.8398559,-79.5851742,2,Major MacKenzie Drive West (583),a
@@ -33150,6 +33090,7 @@ lat,lon,sz,names,len_cat
 43.8398737,-79.4735808,2,Apple Blossom Drive (392),a
 43.8398742,-79.480138,2,Apple Blossom Drive (249),a
 43.8398742,-79.480138,2,Apple Blossom Drive (249),a
+43.839877,-79.4754187,2,Kylemount Court (805),a
 43.8398795,-79.4734699,2,Apple Blossom Drive (807),a
 43.8398795,-79.4734699,2,Sandwood Drive (793),a
 43.8398806,-79.4831301,2,Laneway V2 (194),a
@@ -33466,11 +33407,11 @@ lat,lon,sz,names,len_cat
 43.8404466,-79.4776188,2,Borjana Boulevard (261),a
 43.8404487,-79.4773371,2,Borjana Boulevard (258),a
 43.8404487,-79.4683183,2,Bristlewood Crescent (550),a
-43.8404493,-79.4776858,2,Borjana Boulevard (262),a
 43.8404503,-79.4686857,2,Apple Blossom Drive (933),a
 43.840453,-79.475308,2,Kylemount Court (243),a
 43.8404588,-79.4778299,2,Borjana Boulevard (263),a
 43.840459,-79.5491983,2,Rusty Trail (124),a
+43.8404608,-79.4770967,2,Borjana Boulevard (257),a
 43.8404667,-79.5294504,2,Melville Avenue (521),a
 43.8404667,-79.5294504,2,Melville Avenue (521),a
 43.8404734,-79.4685596,2,Apple Blossom Drive (934),a
@@ -33481,7 +33422,6 @@ lat,lon,sz,names,len_cat
 43.840485,-79.475296,2,Kylemount Court (244),a
 43.8404895,-79.5038509,2,Largo Crescent (918),a
 43.8404904,-79.4764667,2,Borjana Boulevard (253),a
-43.8404904,-79.4764667,2,Pleasant Ridge Avenue (154),a
 43.8404904,-79.4764667,2,Pleasant Ridge Avenue (196),a
 43.8404936,-79.4945923,2,Rutherford Road (217),a
 43.8404943,-79.476467,2,Pleasant Ridge Avenue (155),a
@@ -33499,7 +33439,6 @@ lat,lon,sz,names,len_cat
 43.8405103,-79.4804507,2,Santa Amato Crescent (402),a
 43.8405132,-79.5015399,2,Patna Crescent (319),a
 43.8405144,-79.4683353,2,Apple Blossom Drive (917),a
-43.8405144,-79.4683353,2,Apple Blossom Drive (936),a
 43.8405144,-79.4683353,2,Bristlewood Crescent (382),a
 43.840519,-79.475287,2,Kylemount Court (245),a
 43.8405235,-79.4785305,2,Borjana Boulevard (056),a
@@ -33527,7 +33466,6 @@ lat,lon,sz,names,len_cat
 43.8405534,-79.5818049,2,Woodend Place (760),a
 43.8405547,-79.6440761,2,Nashville Road (119),a
 43.8405575,-79.4775028,2,Santa Amato Crescent (429),a
-43.8405588,-79.4681643,2,Apple Blossom Drive (919),a
 43.8405595,-79.4764701,2,Pleasant Ridge Avenue (156),a
 43.8405621,-79.5284653,2,Broomlands Drive (193),a
 43.8405621,-79.5284653,2,Broomlands Drive (193),a
@@ -33585,7 +33523,6 @@ lat,lon,sz,names,len_cat
 43.8406617,-79.5818415,2,Major MacKenzie Drive West (915),a
 43.8406617,-79.5818415,2,Major MacKenzie Drive West (917),a
 43.8406617,-79.5818415,2,Woodend Place (551),a
-43.840662,-79.4775028,2,Santa Amato Crescent (430),a
 43.8406626,-79.4712628,2,Amberty Street (958),a
 43.8406649,-79.4794827,2,Borjana Boulevard (068),a
 43.8406687,-79.5325553,2,Kayla Crescent (371),a
@@ -33673,7 +33610,6 @@ lat,lon,sz,names,len_cat
 43.8407953,-79.5595902,2,Weston Road (224),a
 43.8407953,-79.5595902,2,Weston Road (898),a
 43.8408057,-79.64915,2,Whisper Lane (963),a
-43.840809,-79.475311,2,Kylemount Court (250),a
 43.8408103,-79.4774981,2,Santa Amato Crescent (431),a
 43.8408149,-79.492492,2,Rutherford Road (043),a
 43.8408149,-79.492492,2,Rutherford Road (043),a
@@ -33897,6 +33833,7 @@ lat,lon,sz,names,len_cat
 43.8412069,-79.5295939,2,Broomlands Drive (202),a
 43.8412069,-79.5295939,2,Broomlands Drive (202),a
 43.8412082,-79.5838677,2,Petermar Drive (390),a
+43.8412192,-79.4795168,2,Borjana Boulevard (086),a
 43.8412226,-79.5217441,2,Glenside Drive (908),a
 43.8412307,-79.5029975,2,Largo Crescent (930),a
 43.841231,-79.4802789,2,Santa Amato Crescent (417),a
@@ -34056,6 +33993,7 @@ lat,lon,sz,names,len_cat
 43.8415381,-79.4798455,2,Santa Amato Crescent (377),a
 43.8415381,-79.4798455,2,Santa Amato Crescent (377),a
 43.8415381,-79.4798455,2,Santa Amato Crescent (425),a
+43.8415381,-79.4798455,2,Santa Amato Crescent (425),a
 43.841552,-79.5766142,2,Major MacKenzie Drive West (222),a
 43.841552,-79.5766142,2,Major MacKenzie Drive West (222),a
 43.8415551,-79.5752838,2,Via Sant Agostino (686),a
@@ -34073,6 +34011,7 @@ lat,lon,sz,names,len_cat
 43.8415836,-79.5764574,2,Major MacKenzie Drive West (223),a
 43.8415836,-79.5764574,2,Via Campanile (697),a
 43.8415836,-79.5764574,2,Via Campanile (697),a
+43.8415844,-79.4764201,2,Pleasant Ridge Avenue (163),a
 43.8415883,-79.4744057,2,Balsamwood Road (510),a
 43.841595,-79.4743312,2,Balsamwood Road (509),a
 43.8415978,-79.5752757,2,Via Sant Agostino (684),a
@@ -34081,7 +34020,6 @@ lat,lon,sz,names,len_cat
 43.8415983,-79.5683287,2,Via Toscana (157),a
 43.8416011,-79.4797426,2,Santa Amato Crescent (378),a
 43.8416011,-79.4797426,2,Santa Amato Crescent (378),a
-43.8416019,-79.4742744,2,Balsamwood Road (508),a
 43.8416023,-79.4753969,2,Balsamwood Road (511),a
 43.8416023,-79.4753969,2,Foxwood Road (505),a
 43.8416045,-79.5625461,2,Andes Crescent (384),a
@@ -34131,6 +34069,7 @@ lat,lon,sz,names,len_cat
 43.841699,-79.5712305,2,Vellore Avenue (797),a
 43.8417,-79.55948,2,Destino Crescent (258),a
 43.8417008,-79.5493194,2,Redfinch Crescent (750),a
+43.8417045,-79.4795514,2,Santa Amato Crescent (381),a
 43.8417064,-79.5042856,2,Largo Crescent (925),a
 43.8417064,-79.5042856,2,Largo Crescent (925),a
 43.8417093,-79.5814425,2,Petermar Drive (410),a
@@ -34181,7 +34120,6 @@ lat,lon,sz,names,len_cat
 43.8417921,-79.5765524,2,Millwood Parkway (641),a
 43.8417951,-79.5032015,2,Largo Crescent (929),a
 43.8417954,-79.4792858,2,Santa Amato Crescent (385),a
-43.841799,-79.4754042,2,Foxwood Road (502),a
 43.8418009,-79.6419397,2,Kleins Ridge (826),a
 43.8418009,-79.6419397,2,Nashville Road (122),a
 43.84181,-79.55701,2,Starling Boulevard (447),a
@@ -34234,6 +34172,7 @@ lat,lon,sz,names,len_cat
 43.8419044,-79.5712601,2,Vellore Avenue (796),a
 43.84191,-79.55827,2,Destino Crescent (252),a
 43.8419121,-79.4712939,2,Balsamwood Road (500),a
+43.8419173,-79.4712562,2,Balsamwood Road (499),a
 43.8419184,-79.5508693,2,Wildberry Crescent (254),a
 43.8419189,-79.4995453,2,Ardwell Crescent (719),a
 43.8419193,-79.5766109,2,Millwood Parkway (570),a
@@ -34243,6 +34182,7 @@ lat,lon,sz,names,len_cat
 43.84193,-79.56097,2,Andes Crescent (383),a
 43.8419301,-79.5754243,2,Major MacKenzie Drive West (082),a
 43.8419301,-79.5754243,2,Major MacKenzie Drive West (212),a
+43.8419339,-79.4711713,2,Balsamwood Road (498),a
 43.841938,-79.4867331,2,Rutherford Road (407),a
 43.8419474,-79.5297623,2,Broomlands Drive (205),a
 43.8419474,-79.5297623,2,Broomlands Drive (205),a
@@ -34363,11 +34303,9 @@ lat,lon,sz,names,len_cat
 43.8421826,-79.6192647,2,En Plein Air Drive (838),a
 43.8421833,-79.5648966,2,Foxbridge Way (255),a
 43.8421833,-79.5648966,2,Foxbridge Way (255),a
-43.8421834,-79.4746247,2,Foxwood Road (482),a
 43.8421838,-79.4745923,2,Foxwood Road (481),a
 43.8421851,-79.4698842,2,Balsamwood Road (487),a
 43.8421855,-79.4752754,2,Foxwood Road (490),a
-43.8421859,-79.4745635,2,Foxwood Road (480),a
 43.8421879,-79.4748319,2,Foxwood Road (484),a
 43.842188,-79.5494393,2,Redfinch Crescent (754),a
 43.842188,-79.5494393,2,Wildberry Crescent (255),a
@@ -34519,6 +34457,7 @@ lat,lon,sz,names,len_cat
 43.8424979,-79.4829424,2,Dufferin Street (517),a
 43.842499,-79.4718666,2,Foxwood Road (700),a
 43.8425129,-79.471736,2,Clovis Street (159),a
+43.8425129,-79.471736,2,Foxwood Road (698),a
 43.842513,-79.5717715,2,Major MacKenzie Drive West (046),a
 43.842513,-79.5717715,2,Major MacKenzie Drive West (231),a
 43.842514,-79.5276212,2,Broomlands Drive (189),a
@@ -34733,6 +34672,7 @@ lat,lon,sz,names,len_cat
 43.8428515,-79.4757687,2,Mary Ellen Baker Crescent (093),a
 43.8428521,-79.4762297,2,Mintwood Road (278),a
 43.8428522,-79.5203479,2,Waterside Crescent (381),a
+43.8428523,-79.4762711,2,Mintwood Road (279),a
 43.8428529,-79.4763714,2,Mintwood Road (109),a
 43.8428529,-79.4763714,2,Pleasant Ridge Avenue (166),a
 43.8428529,-79.4763714,2,Pleasant Ridge Avenue (203),a
@@ -34748,6 +34688,7 @@ lat,lon,sz,names,len_cat
 43.8428859,-79.4694547,2,Foxwood Road (689),a
 43.8428865,-79.6269919,2,Islington Avenue (662),a
 43.8428865,-79.6269919,2,Stegmans Mill Road (065),a
+43.8428909,-79.4693445,2,Foxwood Road (688),a
 43.8428909,-79.4693445,2,Thornhill Woods Drive (128),a
 43.8428957,-79.4757654,2,Mary Ellen Baker Crescent (275),a
 43.8429,-79.568876,2,Alexie Way (799),a
@@ -34776,6 +34717,7 @@ lat,lon,sz,names,len_cat
 43.8429479,-79.5646191,2,Jutland Street (055),a
 43.8429479,-79.5646191,2,Jutland Street (055),a
 43.8429511,-79.5695811,2,Major MacKenzie Drive West (155),a
+43.8429557,-79.4749108,2,Mary Ellen Baker Crescent (044),a
 43.8429579,-79.5702985,2,Major MacKenzie Drive West (920),a
 43.8429579,-79.5702985,2,Major MacKenzie Drive West (922),a
 43.8429581,-79.5026394,2,Dicarlo Drive (935),a
@@ -34814,7 +34756,6 @@ lat,lon,sz,names,len_cat
 43.8430286,-79.4763707,2,Pleasant Ridge Avenue (171),a
 43.843032,-79.5251951,2,Hawker Road (875),a
 43.843032,-79.4717935,2,Clovis Street (161),a
-43.8430329,-79.4728174,2,Mintwood Road (095),a
 43.8430329,-79.4728174,2,Rustwood Road (652),a
 43.8430375,-79.5646537,2,Coranto Way (883),a
 43.8430375,-79.5646537,2,Coranto Way (883),a
@@ -34843,6 +34784,7 @@ lat,lon,sz,names,len_cat
 43.8430818,-79.5689311,2,Major MacKenzie Drive West (156),a
 43.8430848,-79.4916204,2,Maple Valley Road (191),a
 43.8430848,-79.4916204,2,Maple Valley Road (191),a
+43.8430879,-79.472832,2,Rustwood Road (517),a
 43.8430965,-79.5204414,2,Waterside Crescent (384),a
 43.8431,-79.53317,2,Norwood Avenue (672),a
 43.8431008,-79.6358219,2,Howland Mill Road (351),a
@@ -34968,12 +34910,12 @@ lat,lon,sz,names,len_cat
 43.8433799,-79.6365744,2,Howland Mill Road (358),a
 43.8433799,-79.6365744,2,Howland Mill Road (358),a
 43.84338,-79.55501,2,Robins Nest Drive (823),a
+43.8433811,-79.4749394,2,Mary Ellen Baker Crescent (050),a
 43.8433812,-79.6366863,2,Howland Mill Road (359),a
 43.8433812,-79.6366863,2,Howland Mill Road (359),a
 43.8433819,-79.6367485,2,Howland Mill Road (360),a
 43.8433819,-79.6367485,2,Howland Mill Road (360),a
 43.8433924,-79.5821241,2,Millwood Parkway (592),a
-43.8433925,-79.4758199,2,Mary Ellen Baker Crescent (086),a
 43.8433932,-79.535321,2,Jane Street (161),a
 43.8433932,-79.535321,2,Jane Street (257),a
 43.8433957,-79.6311253,2,Nashville Road (151),a
@@ -35037,7 +34979,6 @@ lat,lon,sz,names,len_cat
 43.8435348,-79.537387,2,Canada's Wonderland Drive (508),a
 43.8435364,-79.574385,2,Oldham Street (651),a
 43.8435409,-79.4695455,2,Fraserwood Road (840),a
-43.8435409,-79.4695455,2,Mintwood Road (083),a
 43.8435409,-79.4695455,2,Thornhill Woods Drive (132),a
 43.8435442,-79.5251203,2,Hawker Road (886),a
 43.8435442,-79.5251203,2,Hawker Road (932),a
@@ -35159,6 +35100,7 @@ lat,lon,sz,names,len_cat
 43.84379,-79.5304,2,Melville Avenue (400),a
 43.84379,-79.5304,2,Melville Avenue (574),a
 43.84379,-79.5304,2,Norwood Avenue (677),a
+43.8437909,-79.4771868,2,Rutherford Road (293),a
 43.8437999,-79.5163561,2,Arisaig Drive (773),a
 43.8437999,-79.5163561,2,Arisaig Drive (773),a
 43.8438025,-79.4759629,2,Mary Ellen Baker Crescent (078),a
@@ -35272,7 +35214,6 @@ lat,lon,sz,names,len_cat
 43.8440153,-79.6283106,2,Islington Avenue (642),a
 43.8440181,-79.5705065,2,Hatton Garden Road (683),a
 43.8440196,-79.5374913,2,Canada's Wonderland Drive (505),a
-43.8440266,-79.4760847,2,Rutherford Road (307),a
 43.8440268,-79.476691,2,Crimson Forest Drive (088),a
 43.8440268,-79.476691,2,Rutherford Road (302),a
 43.8440268,-79.476691,2,Rutherford Road (304),a
@@ -35296,7 +35237,6 @@ lat,lon,sz,names,len_cat
 43.8440977,-79.5060483,2,Valleyway Crescent (508),a
 43.8440988,-79.4760046,2,Rutherford Road (287),a
 43.8440988,-79.4760046,2,Rutherford Road (308),a
-43.8440988,-79.4760046,2,Rutherford Road (315),a
 43.8441,-79.55443,2,Sedgeway Heights (839),a
 43.8441032,-79.6263072,2,Napier Street (620),a
 43.8441056,-79.566755,2,Lawford Road (909),a
@@ -35484,6 +35424,7 @@ lat,lon,sz,names,len_cat
 43.8445027,-79.530334,2,Melville Avenue (404),a
 43.8445041,-79.6266961,2,John Street (804),a
 43.8445045,-79.5375956,2,Canada's Wonderland Drive (502),a
+43.8445186,-79.4721308,2,Mistywood Crescent (387),a
 43.8445187,-79.5224962,2,Mountcharles Crescent (760),a
 43.8445191,-79.5568929,2,Starling Boulevard (462),a
 43.84452,-79.53112,2,Wilcox Road (821),a
@@ -35629,7 +35570,6 @@ lat,lon,sz,names,len_cat
 43.8448091,-79.4754683,2,Wolf Creek Crescent (700),a
 43.8448122,-79.5797268,2,Millwood Parkway (560),a
 43.8448158,-79.6271617,2,John Street (811),a
-43.8448244,-79.4733469,2,Blue Grouse Road (125),a
 43.8448275,-79.5318974,2,Bachman Drive (462),a
 43.8448283,-79.5376652,2,Canada's Wonderland Drive (500),a
 43.8448312,-79.4701184,2,Thornhill Woods Drive (134),a
@@ -35646,7 +35586,6 @@ lat,lon,sz,names,len_cat
 43.8448506,-79.5608802,2,Major MacKenzie Drive West (971),a
 43.8448507,-79.4776164,2,Carrville Woods Circle (690),a
 43.8448507,-79.4776164,2,Laneway V71 (124),a
-43.8448541,-79.4699942,2,Thornhill Woods Drive (870),a
 43.8448552,-79.5795641,2,Millwood Parkway (561),a
 43.8448601,-79.5023843,2,Foxhill Drive (005),a
 43.8448627,-79.5067134,2,Valleyway Crescent (516),a
@@ -35661,10 +35600,8 @@ lat,lon,sz,names,len_cat
 43.84489,-79.47444,2,Wolf Creek Crescent (708),a
 43.8448941,-79.5188046,2,Whitburn Crescent (125),a
 43.8448953,-79.5258583,2,Sylwood Crescent (141),a
-43.8448962,-79.4754659,2,Wolf Creek Crescent (699),a
 43.8448984,-79.5066877,2,Valleyway Crescent (517),a
 43.8449,-79.49075,2,District Avenue (991),a
-43.844907,-79.4791865,2,Carrville Woods Circle (670),a
 43.844907,-79.4791865,2,Carrville Woods Circle (670),a
 43.844907,-79.4791865,2,Laneway V70 (942),a
 43.844907,-79.4791865,2,Laneway V70 (942),a
@@ -35694,6 +35631,7 @@ lat,lon,sz,names,len_cat
 43.8449524,-79.5603592,2,Major MacKenzie Drive West (370),a
 43.8449544,-79.5020211,2,Foxhill Drive (007),a
 43.844955,-79.5597494,2,Major MacKenzie Drive West (368),a
+43.8449593,-79.4770632,2,Carrville Woods Circle (691),a
 43.8449593,-79.4770632,2,Crimson Forest Drive (968),a
 43.8449635,-79.6274693,2,John Street (813),a
 43.8449682,-79.5669646,2,Sandwell Street (528),a
@@ -35746,6 +35684,7 @@ lat,lon,sz,names,len_cat
 43.8450817,-79.5166105,2,Findhorn Crescent (264),a
 43.8450817,-79.5166105,2,Findhorn Crescent (264),a
 43.8450843,-79.5293493,2,Sylwood Crescent (185),a
+43.8450871,-79.4708969,2,Rutherford Road (753),a
 43.8450898,-79.6305491,2,Islington Avenue (220),a
 43.8450898,-79.6305491,2,Islington Avenue (427),a
 43.8450898,-79.6305491,2,Lester B Pearson Street (655),a
@@ -35846,7 +35785,6 @@ lat,lon,sz,names,len_cat
 43.84523,-79.53197,2,Bachman Drive (464),a
 43.845231,-79.55834,2,Major MacKenzie Drive West (896),a
 43.845231,-79.474586,2,Wolf Creek Crescent (982),a
-43.8452352,-79.4792803,2,Carrville Woods Circle (259),a
 43.8452352,-79.4792803,2,Carrville Woods Circle (259),a
 43.8452352,-79.4792803,2,Heriot Place (056),a
 43.8452352,-79.4792803,2,Heriot Place (056),a
@@ -35997,7 +35935,6 @@ lat,lon,sz,names,len_cat
 43.8455377,-79.5672313,2,Lawford Road (803),a
 43.845547,-79.5143099,2,Findhorn Crescent (255),a
 43.8455483,-79.4778817,2,Carrville Woods Circle (652),a
-43.8455483,-79.4778817,2,Laneway V71 (126),a
 43.8455506,-79.4691957,2,Rutherford Road (058),a
 43.8455524,-79.4837469,2,Dufferin Street (068),a
 43.8455524,-79.4837469,2,Dufferin Street (759),a
@@ -36048,7 +35985,6 @@ lat,lon,sz,names,len_cat
 43.8456187,-79.4704025,2,Thomas Cook Avenue (911),a
 43.8456215,-79.5075902,2,Fifefield Drive (230),a
 43.8456266,-79.4794527,2,Heriot Place (010),a
-43.8456266,-79.4794527,2,Heriot Place (010),a
 43.8456267,-79.4774862,2,Carrville Woods Circle (262),a
 43.8456292,-79.5033603,2,Valleyway Crescent (526),a
 43.8456292,-79.5033603,2,Valleyway Crescent (526),a
@@ -36075,7 +36011,6 @@ lat,lon,sz,names,len_cat
 43.8456536,-79.5031606,2,Valleyway Crescent (527),a
 43.8456555,-79.4702641,2,Thomas Cook Avenue (272),a
 43.845656,-79.4773384,2,Carrville Woods Circle (651),a
-43.845656,-79.4773384,2,Crimson Forest Drive (967),a
 43.8456682,-79.503037,2,Foxhill Drive (926),a
 43.8456682,-79.503037,2,Foxhill Drive (926),a
 43.8456698,-79.5030234,2,Foxhill Drive (043),a
@@ -44177,7 +44112,6 @@ lat,lon,sz,names,len_cat
 43.8620027,-79.4832778,2,Major MacKenzie Drive West (484),a
 43.8620083,-79.6196135,2,Laneway V45 (248),a
 43.8620157,-79.5072487,2,Salterton Circle (372),a
-43.8620193,-79.5348812,2,Melville Avenue (357),a
 43.8620318,-79.6167991,2,Kipling Avenue (573),a
 43.8620332,-79.4827639,2,Major MacKenzie Drive West (486),a
 43.8620385,-79.5335741,2,Sierra Court (090),a
@@ -44218,12 +44152,10 @@ lat,lon,sz,names,len_cat
 43.8621471,-79.5045468,2,Troon Avenue (028),a
 43.8621541,-79.6191131,2,Hugh McCutcheon Way (542),a
 43.8621541,-79.6191131,2,Lacrosse Trail (772),a
-43.8621542,-79.5355748,2,Delfire Street (228),a
 43.862156,-79.5003024,2,McNaughton Road (736),a
 43.862157,-79.5004419,2,McNaughton Road (596),a
 43.86216,-79.4826881,2,Major MacKenzie Drive West (903),a
 43.86216,-79.4826881,2,Sir Benson Drive (859),a
-43.8621621,-79.5354875,2,Delfire Street (227),a
 43.8621621,-79.4819263,2,Major MacKenzie Drive West (907),a
 43.8621621,-79.4819263,2,Major MacKenzie Drive West (907),a
 43.8621648,-79.6190263,2,Hugh McCutcheon Way (082),a
@@ -44231,27 +44163,20 @@ lat,lon,sz,names,len_cat
 43.8621671,-79.570094,2,Teston Road (726),a
 43.8621676,-79.557329,2,Andrew Hill Drive (873),a
 43.8621707,-79.6189785,2,Hugh McCutcheon Way (543),a
-43.8621779,-79.5353129,2,Delfire Street (226),a
 43.8621803,-79.4825702,2,Major MacKenzie Drive West (010),a
 43.8621803,-79.4825702,2,Major MacKenzie Drive West (496),a
 43.8621803,-79.4825702,2,Sir Benson Drive (671),a
-43.862182,-79.5356363,2,Delfire Street (229),a
 43.8621837,-79.5083339,2,McNaughton Road (194),a
 43.8621837,-79.5083339,2,McNaughton Road (514),a
-43.8621984,-79.5351296,2,Delfire Street (223),a
 43.8621995,-79.555234,2,Cityview Boulevard (765),a
 43.8622037,-79.4824309,2,Major MacKenzie Drive West (495),a
 43.8622037,-79.4824309,2,Major MacKenzie Drive West (495),a
-43.8622054,-79.5350669,2,Delfire Street (484),a
 43.8622083,-79.4818059,2,Major MacKenzie Drive West (669),a
 43.8622083,-79.4818059,2,Major MacKenzie Drive West (669),a
 43.8622094,-79.5569681,2,Andrew Hill Drive (466),a
 43.8622132,-79.508183,2,McNaughton Road (444),a
 43.8622159,-79.5064612,2,Fancamp Drive (770),a
 43.8622159,-79.5064612,2,Fancamp Drive (770),a
-43.8622183,-79.534951,2,Delfire Street (220),a
-43.8622183,-79.534951,2,Melville Avenue (274),a
-43.8622183,-79.534951,2,Melville Avenue (358),a
 43.8622193,-79.5556221,2,Andrew Hill Road (424),a
 43.8622193,-79.5556221,2,Keystar Court (387),a
 43.8622193,-79.5556221,2,Keystar Court (396),a
@@ -44261,7 +44186,6 @@ lat,lon,sz,names,len_cat
 43.8622268,-79.5568332,2,Andrew Hill Road (428),a
 43.8622268,-79.5568332,2,Twin Hills Crescent (717),a
 43.8622268,-79.5568332,2,Twin Hills Crescent (739),a
-43.8622275,-79.5356725,2,Delfire Street (230),a
 43.8622301,-79.6191376,2,Lacrosse Trail (171),a
 43.8622337,-79.5078266,2,McNaughton Road (448),a
 43.8622356,-79.5557487,2,Andrew Hill Road (425),a
@@ -44307,7 +44231,6 @@ lat,lon,sz,names,len_cat
 43.8623282,-79.5336915,2,Sierra Court (091),a
 43.8623364,-79.6197498,2,Laneway V45 (074),a
 43.8623429,-79.5599689,2,Twin Hills Crescent (849),a
-43.862345,-79.535707,2,Delfire Street (231),a
 43.8623498,-79.6191916,2,Lacrosse Trail (172),a
 43.8623504,-79.5410577,2,America Avenue (971),a
 43.8623504,-79.5410577,2,America Avenue (971),a
@@ -44316,7 +44239,6 @@ lat,lon,sz,names,len_cat
 43.8623649,-79.50047,2,McNaughton Road (109),a
 43.8623856,-79.5071457,2,McNaughton Road (450),a
 43.862387,-79.5368757,2,Haymer Drive (225),a
-43.8623894,-79.5349592,2,Melville Avenue (275),a
 43.8623898,-79.514088,2,Keele Street (747),a
 43.8624055,-79.5598337,2,Twin Hills Crescent (731),a
 43.8624065,-79.6250139,2,Enclave Court (285),a
@@ -44349,7 +44271,6 @@ lat,lon,sz,names,len_cat
 43.8624753,-79.6174009,2,Hugh McCutcheon Way (545),a
 43.8624784,-79.6198564,2,Laneway V45 (076),a
 43.8624787,-79.6173581,2,Hugh McCutcheon Way (085),a
-43.8624805,-79.535741,2,Delfire Street (232),a
 43.8624852,-79.5568921,2,Twin Hills Crescent (859),a
 43.8624859,-79.5596002,2,Twin Hills Crescent (852),a
 43.862486,-79.5368733,2,Haymer Drive (226),a
@@ -44383,7 +44304,6 @@ lat,lon,sz,names,len_cat
 43.8625393,-79.4826829,2,Sir Benson Drive (672),a
 43.8625403,-79.5535138,2,Balda Court (728),a
 43.8625403,-79.5535138,2,Balda Court (728),a
-43.8625426,-79.5349679,2,Melville Avenue (276),a
 43.8625465,-79.6199239,2,Laneway V45 (289),a
 43.8625546,-79.6193144,2,Lacrosse Trail (174),a
 43.8625549,-79.5569194,2,Twin Hills Crescent (858),a
@@ -44399,7 +44319,6 @@ lat,lon,sz,names,len_cat
 43.86258,-79.54788,2,Boom Road (773),a
 43.8625823,-79.5677578,2,Teston Road (154),a
 43.8625833,-79.5199595,2,Cunningham Drive (594),a
-43.8626067,-79.5357503,2,Delfire Street (233),a
 43.8626089,-79.5646917,2,Weston Road (366),a
 43.8626089,-79.5646917,2,Weston Road (366),a
 43.8626102,-79.4827693,2,Sir Benson Drive (839),a
@@ -44420,7 +44339,6 @@ lat,lon,sz,names,len_cat
 43.8626607,-79.5008455,2,McNaughton Road (214),a
 43.8626627,-79.5340513,2,Sierra Court (093),a
 43.8626702,-79.5586501,2,Twin Hills Crescent (853),a
-43.8626778,-79.5349771,2,Melville Avenue (277),a
 43.8626818,-79.5569763,2,Twin Hills Crescent (857),a
 43.8626829,-79.5052912,2,Laneway V47 (882),a
 43.8626829,-79.5052912,2,Laneway V47 (882),a
@@ -44430,7 +44348,6 @@ lat,lon,sz,names,len_cat
 43.8626917,-79.6194165,2,Lacrosse Trail (773),a
 43.862695,-79.644834,2,Endless Circle (418),a
 43.8627033,-79.6201063,2,Laneway V45 (078),a
-43.8627049,-79.5396325,2,Jane Street (446),a
 43.8627147,-79.505158,2,Laneway V47 (549),a
 43.8627147,-79.505158,2,Laneway V47 (549),a
 43.8627149,-79.5341505,2,Sierra Court (094),a
@@ -44442,14 +44359,11 @@ lat,lon,sz,names,len_cat
 43.862722,-79.4806604,2,Lady Karen Crescent (850),a
 43.8627255,-79.6210619,2,Kleinburg Summit Way (828),a
 43.8627375,-79.6193466,2,Barn Owl Way (141),a
-43.8627444,-79.5349667,2,Melville Avenue (308),a
 43.8627487,-79.4808004,2,Lady Karen Crescent (852),a
 43.8627487,-79.4808004,2,Lady Karen Crescent (852),a
-43.8627507,-79.5357468,2,Delfire Street (234),a
 43.8627514,-79.4804587,2,Lady Karen Crescent (849),a
 43.8627514,-79.4804587,2,Lady Karen Crescent (849),a
 43.8627559,-79.6193185,2,Barn Owl Way (659),a
-43.8627559,-79.5368542,2,Haymer Drive (229),a
 43.862768,-79.4788036,2,Major MacKenzie Drive West (506),a
 43.8627697,-79.6195018,2,Lacrosse Trail (175),a
 43.86277,-79.54972,2,John Deisman Boulevard (109),a
@@ -44483,7 +44397,6 @@ lat,lon,sz,names,len_cat
 43.8628451,-79.6191317,2,Barn Owl Way (142),a
 43.8628455,-79.5048608,2,Troon Avenue (428),a
 43.8628455,-79.5048608,2,Troon Avenue (428),a
-43.8628477,-79.5357124,2,Delfire Street (485),a
 43.8628482,-79.5547464,2,Balda Court (731),a
 43.8628495,-79.6218079,2,First Nations Trail (357),a
 43.8628496,-79.5168917,2,Solway Avenue (071),a
@@ -44493,10 +44406,6 @@ lat,lon,sz,names,len_cat
 43.8628565,-79.6218089,2,First Nations Trail (358),a
 43.862859,-79.644994,2,Endless Circle (422),a
 43.8628625,-79.6218109,2,First Nations Trail (359),a
-43.8628639,-79.5368516,2,Haymer Drive (230),a
-43.8628665,-79.5349476,2,Brandon Gate Drive (340),a
-43.8628665,-79.5349476,2,Melville Avenue (278),a
-43.8628665,-79.5349476,2,Melville Avenue (359),a
 43.8628695,-79.6218139,2,First Nations Trail (360),a
 43.86287,-79.6168543,2,Kipling Avenue (575),a
 43.8628755,-79.6218169,2,First Nations Trail (361),a
@@ -44505,15 +44414,12 @@ lat,lon,sz,names,len_cat
 43.86288,-79.55488,2,Cityview Boulevard (706),a
 43.86288,-79.55488,2,Cityview Boulevard (767),a
 43.8628815,-79.6218209,2,First Nations Trail (362),a
-43.8628818,-79.5350999,2,Brandon Gate Drive (699),a
 43.8628865,-79.6218259,2,First Nations Trail (363),a
-43.8628874,-79.536856,2,Haymer Drive (553),a
 43.8628882,-79.5647619,2,Weston Road (138),a
 43.8628882,-79.5647619,2,Weston Road (138),a
 43.8628887,-79.5171271,2,Solway Avenue (067),a
 43.8628887,-79.5171271,2,Solway Avenue (067),a
 43.8628888,-79.6189948,2,Barn Owl Way (143),a
-43.8628913,-79.5375851,2,Brandon Gate Drive (349),a
 43.8628915,-79.6218319,2,First Nations Trail (364),a
 43.862894,-79.4798356,2,Lady Karen Crescent (846),a
 43.8628957,-79.5344979,2,Sierra Court (096),a
@@ -44552,12 +44458,6 @@ lat,lon,sz,names,len_cat
 43.8629289,-79.5550307,2,Cityview Boulevard (788),a
 43.8629292,-79.5167777,2,Solway Avenue (072),a
 43.8629292,-79.5167777,2,Solway Avenue (072),a
-43.8629334,-79.5373601,2,Brandon Gate Drive (352),a
-43.8629339,-79.534929,2,Melville Avenue (720),a
-43.8629387,-79.5356675,2,Brandon Gate Drive (342),a
-43.8629389,-79.53568,2,Brandon Gate Drive (320),a
-43.8629389,-79.53568,2,Brandon Gate Drive (344),a
-43.8629389,-79.53568,2,Delfire Street (235),a
 43.8629392,-79.4798148,2,Lady Karen Crescent (845),a
 43.8629397,-79.5571011,2,Twin Hills Crescent (736),a
 43.8629509,-79.504908,2,McNaughton Road (205),a
@@ -44569,24 +44469,16 @@ lat,lon,sz,names,len_cat
 43.8629509,-79.504908,2,Troon Avenue (424),a
 43.8629509,-79.504908,2,Troon Avenue (424),a
 43.862953,-79.5142269,2,Keele Street (748),a
-43.8629574,-79.537123,2,Brandon Gate Drive (354),a
 43.8629578,-79.5196764,2,St. Joan of Arc Avenue (710),a
 43.862964,-79.5571398,2,Twin Hills Crescent (735),a
 43.8629648,-79.6197073,2,Lacrosse Trail (177),a
 43.862965,-79.5649162,2,Teston Road (095),a
 43.862965,-79.5649162,2,Teston Road (095),a
-43.8629659,-79.5316894,2,Kettle Court (193),a
 43.86297,-79.55729,2,Twin Hills Crescent (734),a
 43.86297,-79.54889,2,Boom Road (783),a
 43.86297,-79.54889,2,Boom Road (784),a
-43.8629716,-79.5369742,2,Brandon Gate Drive (706),a
 43.862977,-79.5571809,2,Twin Hills Crescent (856),a
 43.86298,-79.557221,2,Twin Hills Crescent (855),a
-43.8629802,-79.5360896,2,Brandon Gate Drive (323),a
-43.8629812,-79.5368736,2,Ashton Drive (190),a
-43.8629812,-79.5368736,2,Brandon Gate Drive (328),a
-43.8629812,-79.5368736,2,Brandon Gate Drive (356),a
-43.8629812,-79.5368736,2,Haymer Drive (231),a
 43.8629834,-79.5647858,2,Teston Road (096),a
 43.8629834,-79.5647858,2,Teston Road (096),a
 43.8629834,-79.5647858,2,Teston Road (097),a
@@ -44600,10 +44492,7 @@ lat,lon,sz,names,len_cat
 43.8629857,-79.5047446,2,McNaughton Road (603),a
 43.8629881,-79.5653761,2,Teston Road (492),a
 43.8629881,-79.5653761,2,Teston Road (492),a
-43.8629882,-79.536763,2,Brandon Gate Drive (319),a
 43.8629896,-79.6185395,2,Barn Owl Way (144),a
-43.8629924,-79.5363382,2,Brandon Gate Drive (324),a
-43.8629962,-79.5366368,2,Brandon Gate Drive (326),a
 43.8630044,-79.5646362,2,Teston Road (098),a
 43.8630044,-79.5646362,2,Teston Road (098),a
 43.8630044,-79.5646362,2,Weston Road (088),a
@@ -44617,12 +44506,9 @@ lat,lon,sz,names,len_cat
 43.8630245,-79.5645098,2,Teston Road (099),a
 43.8630345,-79.5172604,2,Solway Avenue (066),a
 43.8630345,-79.5172604,2,Solway Avenue (066),a
-43.8630431,-79.5397174,2,Jane Street (445),a
 43.8630527,-79.5049455,2,Rodinea Road (593),a
 43.8630527,-79.5049455,2,Rodinea Road (593),a
 43.863055,-79.4749862,2,Thomas Cook Avenue (930),a
-43.8630586,-79.536883,2,Ashton Drive (518),a
-43.8630588,-79.5395428,2,Jane Street (607),a
 43.8630595,-79.5649386,2,Teston Road (785),a
 43.8630595,-79.5649386,2,Teston Road (785),a
 43.86306,-79.54875,2,Boom Road (781),a
@@ -44630,7 +44516,6 @@ lat,lon,sz,names,len_cat
 43.8630608,-79.5165131,2,Solway Avenue (073),a
 43.8630618,-79.5172908,2,Solway Avenue (065),a
 43.8630618,-79.5172908,2,Solway Avenue (065),a
-43.8630639,-79.534893,2,Melville Avenue (360),a
 43.8630692,-79.5916637,2,Pine Valley Drive (143),a
 43.8630692,-79.474858,2,Thomas Cook Avenue (925),a
 43.8630802,-79.5648101,2,Teston Road (118),a
@@ -44658,9 +44543,6 @@ lat,lon,sz,names,len_cat
 43.8631227,-79.6179401,2,Barn Owl Way (660),a
 43.8631279,-79.564536,2,Teston Road (548),a
 43.8631279,-79.564536,2,Teston Road (548),a
-43.8631323,-79.539653,2,Jane Street (444),a
-43.8631323,-79.539653,2,Jane Street (469),a
-43.8631323,-79.539653,2,Jane Street (608),a
 43.8631348,-79.5173575,2,Solway Avenue (063),a
 43.8631348,-79.5173575,2,Solway Avenue (063),a
 43.8631499,-79.5017885,2,Eaglet Court (012),a
@@ -44693,7 +44575,6 @@ lat,lon,sz,names,len_cat
 43.8632135,-79.6254129,2,Enclave Court (394),a
 43.8632135,-79.6254129,2,McMichael Avenue (296),a
 43.8632135,-79.6254129,2,McMichael Avenue (296),a
-43.8632161,-79.534827,2,Melville Avenue (361),a
 43.8632166,-79.5640391,2,Teston Road (576),a
 43.8632245,-79.5020253,2,McNaughton Road (223),a
 43.8632253,-79.6211113,2,Faust Ridge (014),a
@@ -44727,7 +44608,6 @@ lat,lon,sz,names,len_cat
 43.8633364,-79.4749586,2,Thomas Cook Avenue (926),a
 43.8633561,-79.4799154,2,Lady Karen Crescent (843),a
 43.8633613,-79.4749667,2,Thomas Cook Avenue (828),a
-43.8633681,-79.5347486,2,Melville Avenue (362),a
 43.8633762,-79.6200746,2,Faust Ridge (101),a
 43.8633851,-79.5158331,2,Solway Avenue (077),a
 43.8634073,-79.519628,2,St. Joan of Arc Avenue (711),a
@@ -44739,23 +44619,16 @@ lat,lon,sz,names,len_cat
 43.8634293,-79.5157697,2,Solway Avenue (078),a
 43.8634305,-79.6198284,2,Faust Ridge (100),a
 43.8634404,-79.6197839,2,Faust Ridge (099),a
-43.8634601,-79.5391143,2,Pine Hollow Crescent (017),a
-43.8634613,-79.5392138,2,Pine Hollow Crescent (018),a
-43.8634624,-79.5393009,2,Pine Hollow Crescent (019),a
 43.8634646,-79.475114,2,Major MacKenzie Drive West (015),a
 43.8634646,-79.475114,2,Major MacKenzie Drive West (182),a
 43.8634646,-79.475114,2,Thomas Cook Avenue (927),a
 43.8634646,-79.475114,2,Thomas Cook Avenue (928),a
 43.8634717,-79.5211197,2,Shetland Crescent (946),a
 43.8634795,-79.5210324,2,Shetland Crescent (945),a
-43.8634811,-79.5393502,2,Pine Hollow Crescent (020),a
 43.8634816,-79.5211941,2,Shetland Crescent (947),a
-43.8634858,-79.5397234,2,Jane Street (470),a
 43.8634918,-79.5157309,2,Solway Avenue (079),a
-43.863494,-79.5389517,2,Pine Hollow Crescent (016),a
 43.8635011,-79.5185306,2,Tobermory Court (327),a
 43.863513,-79.5208325,2,Shetland Crescent (944),a
-43.8635188,-79.5387768,2,Pine Hollow Crescent (015),a
 43.8635271,-79.5212303,2,Shetland Crescent (948),a
 43.8635278,-79.487894,2,Eagles Landing Road (907),a
 43.8635292,-79.5206952,2,Shetland Crescent (943),a
@@ -44766,16 +44639,12 @@ lat,lon,sz,names,len_cat
 43.863539,-79.5200603,2,Shetland Crescent (941),a
 43.8635427,-79.564787,2,Weston Road (609),a
 43.8635427,-79.564787,2,Weston Road (609),a
-43.863547,-79.5346571,2,Melville Avenue (363),a
 43.8635526,-79.488096,2,Dufferin Street (253),a
 43.8635526,-79.488096,2,Dufferin Street (322),a
 43.8635526,-79.488096,2,Eagles Landing Road (906),a
 43.8635526,-79.488096,2,Eagles Landing Road (913),a
-43.8635537,-79.5393982,2,Pine Hollow Crescent (021),a
-43.8635619,-79.5386265,2,Pine Hollow Crescent (014),a
 43.86357,-79.50154,2,Eaglet Court (015),a
 43.8635727,-79.5198852,2,Shetland Crescent (940),a
-43.8635764,-79.5369461,2,Ashton Drive (191),a
 43.8635797,-79.61753,2,Faust Ridge (009),a
 43.8635829,-79.5197903,2,Shetland Crescent (669),a
 43.8635836,-79.4875459,2,Eagles Landing Road (908),a
@@ -44808,12 +44677,10 @@ lat,lon,sz,names,len_cat
 43.86366,-79.55455,2,Cityview Boulevard (711),a
 43.8636615,-79.5156271,2,Solway Avenue (080),a
 43.8636626,-79.5196854,2,St. Joan of Arc Avenue (696),a
-43.8636757,-79.5369686,2,Ashton Drive (192),a
 43.8636778,-79.5185668,2,Tobermory Court (995),a
 43.8636781,-79.4875504,2,Eagles Landing Road (911),a
 43.8636876,-79.5225955,2,Leor Court (300),a
 43.8636916,-79.5613076,2,Teston Road (556),a
-43.8637072,-79.5380256,2,Pine Hollow Crescent (013),a
 43.8637201,-79.4810701,2,Lady Karen Crescent (855),a
 43.8637201,-79.4810701,2,Lady Karen Crescent (855),a
 43.8637215,-79.6211529,2,Kleinburg Summit Way (832),a
@@ -44821,11 +44688,9 @@ lat,lon,sz,names,len_cat
 43.8637235,-79.6231039,2,McMichael Avenue (295),a
 43.8637235,-79.6231039,2,McMichael Avenue (394),a
 43.8637235,-79.5197073,2,St. Joan of Arc Avenue (695),a
-43.8637248,-79.5344785,2,Melville Avenue (364),a
 43.8637335,-79.5156253,2,Solway Avenue (081),a
 43.8637392,-79.4738542,2,Major MacKenzie Drive West (543),a
 43.8637392,-79.4738542,2,Major MacKenzie Drive West (719),a
-43.8637407,-79.5378257,2,Pine Hollow Crescent (012),a
 43.86375,-79.52262,2,Leor Court (547),a
 43.86375,-79.52262,2,Leor Court (548),a
 43.86375,-79.52262,2,Leor Court (559),a
@@ -44839,24 +44704,15 @@ lat,lon,sz,names,len_cat
 43.863772,-79.5185861,2,Kildrummy Gate (929),a
 43.863772,-79.5185861,2,Lamont Court (368),a
 43.863772,-79.5185861,2,Tobermory Court (328),a
-43.8637732,-79.5375511,2,Pine Hollow Crescent (011),a
 43.8637784,-79.5156118,2,Solway Avenue (082),a
 43.8637975,-79.6211729,2,Kleinburg Summit Way (833),a
 43.863798,-79.6176302,2,Faust Ridge (010),a
-43.8637996,-79.5353976,2,Klamath Court (340),a
 43.8638,-79.52284,2,Leor Court (557),a
 43.8638008,-79.5175338,2,Solway Avenue (764),a
 43.8638008,-79.5175338,2,Solway Avenue (764),a
-43.8638015,-79.5355469,2,Klamath Court (343),a
 43.8638038,-79.5182617,2,Kildrummy Gate (924),a
-43.8638066,-79.5371504,2,Pine Hollow Crescent (010),a
-43.8638121,-79.5370843,2,Pine Hollow Crescent (188),a
 43.8638152,-79.4862314,2,Eagles Landing Road (333),a
 43.8638169,-79.617641,2,Faust Ridge (095),a
-43.86382,-79.53699,2,Ashton Drive (183),a
-43.86382,-79.53699,2,Ashton Drive (193),a
-43.86382,-79.53699,2,Pine Hollow Crescent (009),a
-43.8638215,-79.5356957,2,Klamath Court (345),a
 43.8638229,-79.4867393,2,Woodville Drive (203),a
 43.8638256,-79.5197316,2,St. Joan of Arc Avenue (697),a
 43.8638324,-79.5156104,2,Solway Avenue (083),a
@@ -44868,10 +44724,6 @@ lat,lon,sz,names,len_cat
 43.8638455,-79.5180118,2,Kildrummy Gate (925),a
 43.8638464,-79.5549261,2,Keystar Court (392),a
 43.86385,-79.52289,2,Leor Court (556),a
-43.8638575,-79.549757,2,Ahmadiyya Avenue (464),a
-43.8638584,-79.5357695,2,Klamath Court (348),a
-43.8638666,-79.5343009,2,Melville Avenue (366),a
-43.8638666,-79.5343009,2,Melville Avenue (701),a
 43.8638678,-79.6176889,2,Faust Ridge (097),a
 43.8638694,-79.5156842,2,Solway Avenue (084),a
 43.8638709,-79.4867416,2,Woodville Drive (204),a
@@ -44888,7 +44740,6 @@ lat,lon,sz,names,len_cat
 43.8639117,-79.5175622,2,Kildrummy Gate (926),a
 43.8639117,-79.5175622,2,Solway Avenue (060),a
 43.8639117,-79.5175622,2,Solway Avenue (060),a
-43.8639129,-79.5358055,2,Klamath Court (349),a
 43.8639131,-79.5197524,2,St. Joan of Arc Avenue (691),a
 43.8639165,-79.5186198,2,Lamont Court (369),a
 43.86392,-79.52288,2,Leor Court (555),a
@@ -44913,11 +44764,7 @@ lat,lon,sz,names,len_cat
 43.86397,-79.5227,2,Leor Court (552),a
 43.86397,-79.52249,2,Leor Court (550),a
 43.8639804,-79.4856897,2,Alex Black Street (681),a
-43.863987,-79.5394872,2,Pine Hollow Crescent (022),a
 43.86399,-79.52257,2,Leor Court (551),a
-43.8639914,-79.5370106,2,Ashton Drive (184),a
-43.8640008,-79.5340999,2,Melville Avenue (703),a
-43.8640008,-79.5340999,2,Melville Avenue (706),a
 43.8640025,-79.5162284,2,Solway Avenue (087),a
 43.8640025,-79.5162284,2,Solway Avenue (087),a
 43.8640071,-79.4681615,2,Ilan Ramon Boulevard (331),a
@@ -44934,17 +44781,11 @@ lat,lon,sz,names,len_cat
 43.8640396,-79.5163146,2,Solway Avenue (089),a
 43.8640448,-79.5250628,2,Logwood Drive (554),a
 43.8640463,-79.5251748,2,Logwood Drive (553),a
-43.8640609,-79.5340099,2,Melville Avenue (708),a
 43.8640614,-79.5249504,2,Logwood Drive (555),a
 43.8640648,-79.6214735,2,McMichael Avenue (396),a
 43.8640652,-79.5168988,2,Kildrummy Gate (921),a
 43.8640652,-79.5168988,2,Kildrummy Gate (921),a
-43.8640658,-79.5492043,2,Zafarullah Khan Crescent (541),a
-43.8640673,-79.5497485,2,Ahmadiyya Avenue (465),a
-43.8640673,-79.5497485,2,Ahmadiyya Avenue (497),a
-43.8640673,-79.5497485,2,Zafarullah Khan Crescent (540),a
 43.8640717,-79.6214437,2,McMichael Avenue (877),a
-43.8640772,-79.5394974,2,Pine Hollow Crescent (023),a
 43.8640782,-79.5549736,2,Keystar Court (391),a
 43.8640784,-79.6214144,2,McMichael Avenue (876),a
 43.864085,-79.4846676,2,Kentbridge Way (120),a
@@ -44952,7 +44793,6 @@ lat,lon,sz,names,len_cat
 43.8640889,-79.4811213,2,Lady Karen Crescent (856),a
 43.8640995,-79.6257729,2,Enclave Court (395),a
 43.8640995,-79.6257729,2,Enclave Court (395),a
-43.8641007,-79.5329013,2,Kettle Court (194),a
 43.8641011,-79.5252356,2,Logwood Drive (552),a
 43.8641053,-79.6212979,2,Kleinburg Summit Way (835),a
 43.8641053,-79.6212979,2,McMichael Avenue (872),a
@@ -44960,7 +44800,6 @@ lat,lon,sz,names,len_cat
 43.8641057,-79.5214151,2,Shetland Crescent (951),a
 43.8641257,-79.5545905,2,Cityview Boulevard (715),a
 43.8641257,-79.5545905,2,Cityview Boulevard (748),a
-43.864127,-79.5370571,2,Ashton Drive (185),a
 43.86413,-79.55476,2,Cityview Boulevard (719),a
 43.8641315,-79.6211843,2,McMichael Avenue (873),a
 43.8641316,-79.5164616,2,Solway Avenue (091),a
@@ -44968,13 +44807,11 @@ lat,lon,sz,names,len_cat
 43.8641375,-79.6211581,2,McMichael Avenue (868),a
 43.8641397,-79.5289307,2,Cranston Park Avenue (542),a
 43.8641397,-79.5289307,2,Cranston Park Avenue (542),a
-43.86414,-79.5394834,2,Pine Hollow Crescent (024),a
 43.8641465,-79.6257939,2,Enclave Court (396),a
 43.8641465,-79.6257939,2,Enclave Court (396),a
 43.8641497,-79.4846849,2,Kentbridge Way (863),a
 43.8641499,-79.52623,2,Cloverhill Court (306),a
 43.8641543,-79.5244752,2,Logwood Drive (556),a
-43.8641582,-79.5486794,2,Zafarullah Khan Crescent (542),a
 43.8641594,-79.5213889,2,Shetland Crescent (952),a
 43.86417,-79.48137,2,Little Ashley Drive (287),a
 43.86417,-79.48137,2,Little Ashley Drive (287),a
@@ -44993,7 +44830,6 @@ lat,lon,sz,names,len_cat
 43.8641925,-79.6258199,2,Enclave Court (397),a
 43.8641933,-79.5166783,2,Kildrummy Gate (765),a
 43.8641933,-79.5166783,2,Kildrummy Gate (765),a
-43.8641939,-79.5394697,2,Pine Hollow Crescent (025),a
 43.8641993,-79.4716118,2,Major MacKenzie Drive West (175),a
 43.8641996,-79.4811509,2,Lady Karen Crescent (914),a
 43.8641996,-79.4811509,2,Lady Karen Crescent (914),a
@@ -45004,7 +44840,6 @@ lat,lon,sz,names,len_cat
 43.8642,-79.48322,2,Sir Benson Drive (836),a
 43.8642,-79.48176,2,Little Ashley Drive (285),a
 43.8642,-79.48176,2,Little Ashley Drive (285),a
-43.8642018,-79.5337575,2,Melville Avenue (711),a
 43.8642036,-79.5213256,2,Shetland Crescent (953),a
 43.8642058,-79.5187122,2,Lamont Court (370),a
 43.8642144,-79.4830998,2,Little Ashley Drive (021),a
@@ -45019,7 +44854,6 @@ lat,lon,sz,names,len_cat
 43.86423,-79.48193,2,Little Ashley Drive (284),a
 43.8642355,-79.6258509,2,Enclave Court (398),a
 43.8642355,-79.6258509,2,Enclave Court (398),a
-43.8642379,-79.5393939,2,Pine Hollow Crescent (026),a
 43.864241,-79.5551267,2,Keystar Court (388),a
 43.8642413,-79.5165958,2,Kildrummy Gate (922),a
 43.8642413,-79.5165958,2,Kildrummy Gate (922),a
@@ -45031,8 +44865,6 @@ lat,lon,sz,names,len_cat
 43.8642519,-79.5243608,2,Logwood Drive (559),a
 43.8642566,-79.4832354,2,Sir Benson Drive (835),a
 43.8642569,-79.5198807,2,St. Joan of Arc Avenue (694),a
-43.86426,-79.5481915,2,Zafarullah Khan Crescent (543),a
-43.8642616,-79.5497346,2,Ahmadiyya Avenue (498),a
 43.8642624,-79.5210006,2,Shetland Crescent (955),a
 43.8642635,-79.6222279,2,Ten Pines Road (152),a
 43.86427,-79.48276,2,Little Ashley Drive (279),a
@@ -45040,8 +44872,6 @@ lat,lon,sz,names,len_cat
 43.8642775,-79.6258879,2,Enclave Court (399),a
 43.8642871,-79.5187351,2,Lamont Court (371),a
 43.86429,-79.48217,2,Little Ashley Drive (283),a
-43.8642952,-79.5481285,2,Zafarullah Khan Crescent (544),a
-43.864297,-79.5390814,2,Pine Hollow Crescent (027),a
 43.8643,-79.4825,2,Little Ashley Drive (280),a
 43.8643,-79.48233,2,Little Ashley Drive (281),a
 43.8643033,-79.5290511,2,Cranston Park Avenue (543),a
@@ -45052,21 +44882,15 @@ lat,lon,sz,names,len_cat
 43.8643132,-79.5207504,2,Shetland Crescent (956),a
 43.8643165,-79.6259289,2,Enclave Court (400),a
 43.8643165,-79.6259289,2,Enclave Court (400),a
-43.8643247,-79.5335181,2,Melville Avenue (713),a
 43.8643279,-79.5253669,2,Logwood Drive (550),a
 43.86433,-79.6202654,2,Butterfly Heights (153),a
 43.86433,-79.6202654,2,McMichael Avenue (278),a
-43.8643306,-79.5480778,2,Zafarullah Khan Crescent (545),a
 43.8643373,-79.5261009,2,Cloverhill Court (308),a
 43.8643537,-79.520401,2,Shetland Crescent (957),a
 43.8643539,-79.4801544,2,Lady Karen Crescent (840),a
 43.8643539,-79.4801544,2,Lady Karen Crescent (840),a
 43.8643575,-79.6222319,2,Ten Pines Road (154),a
-43.8643663,-79.5480521,2,Zafarullah Khan Crescent (546),a
-43.8643695,-79.5497196,2,Ahmadiyya Avenue (499),a
 43.8643696,-79.6200855,2,McMichael Avenue (874),a
-43.8643828,-79.5387557,2,Pine Hollow Crescent (028),a
-43.8643867,-79.5331799,2,Kettle Court (615),a
 43.8643873,-79.5243948,2,Logwood Drive (561),a
 43.86439,-79.64961,2,Kirby Road (190),a
 43.8643922,-79.5254649,2,Logwood Drive (549),a
@@ -45074,7 +44898,6 @@ lat,lon,sz,names,len_cat
 43.8643986,-79.4702204,2,Major MacKenzie Drive West (022),a
 43.8644035,-79.6222249,2,Ten Pines Road (155),a
 43.8644055,-79.5201147,2,Shetland Crescent (412),a
-43.8644111,-79.5480385,2,Zafarullah Khan Crescent (547),a
 43.8644137,-79.6203038,2,Butterfly Heights (044),a
 43.8644175,-79.4703911,2,Major MacKenzie Drive West (021),a
 43.8644175,-79.4703911,2,Major MacKenzie Drive West (029),a
@@ -45087,7 +44910,6 @@ lat,lon,sz,names,len_cat
 43.8644335,-79.4683245,2,Ilan Ramon Boulevard (312),a
 43.8644335,-79.4683245,2,Ilan Ramon Boulevard (313),a
 43.8644335,-79.4683245,2,Ilan Ramon Boulevard (332),a
-43.8644348,-79.5371865,2,Ashton Drive (186),a
 43.86444,-79.48794,2,Robert Green Crescent (152),a
 43.8644471,-79.5199631,2,Shetland Crescent (959),a
 43.8644471,-79.5199631,2,St. Joan of Arc Avenue (685),a
@@ -45103,17 +44925,11 @@ lat,lon,sz,names,len_cat
 43.8644665,-79.5291342,2,Cranston Park Avenue (545),a
 43.8644679,-79.4684136,2,Ilan Ramon Boulevard (311),a
 43.8644688,-79.4880047,2,Robert Green Crescent (226),a
-43.8644746,-79.5332655,2,Kettle Court (195),a
-43.8644746,-79.5332655,2,Melville Avenue (313),a
-43.8644746,-79.5332655,2,Melville Avenue (716),a
-43.8644746,-79.5332655,2,Sandway Crescent (879),a
 43.8644749,-79.5255998,2,Logwood Drive (548),a
 43.8644752,-79.5637916,2,Sonya Place (103),a
-43.8644862,-79.5496918,2,Ahmadiyya Avenue (500),a
 43.8644867,-79.5259756,2,Cloverhill Court (310),a
 43.8644867,-79.5259756,2,Cloverhill Court (311),a
 43.8644885,-79.6214639,2,Kleinburg Summit Way (836),a
-43.8644921,-79.5360677,2,Klamath Court (350),a
 43.8644987,-79.468287,2,Ilan Ramon Boulevard (314),a
 43.8645039,-79.518792,2,Lamont Court (373),a
 43.8645056,-79.4811677,2,Lady Karen Crescent (915),a
@@ -45130,9 +44946,7 @@ lat,lon,sz,names,len_cat
 43.8645402,-79.5558182,2,Teston Road (148),a
 43.8645402,-79.5558182,2,Teston Road (661),a
 43.8645402,-79.5558182,2,Teston Road (883),a
-43.8645448,-79.5380424,2,Pine Hollow Crescent (029),a
 43.8645464,-79.5199856,2,St. Joan of Arc Avenue (683),a
-43.8645475,-79.5333471,2,Sandway Crescent (406),a
 43.864548,-79.6214838,2,Kleinburg Summit Way (837),a
 43.8645503,-79.5244655,2,Logwood Drive (562),a
 43.8645603,-79.6192201,2,Arctic Grail (106),a
@@ -45144,7 +44958,6 @@ lat,lon,sz,names,len_cat
 43.8645775,-79.525871,2,Logwood Drive (546),a
 43.8645885,-79.6234679,2,First Nations Trail (231),a
 43.8645895,-79.6222169,2,Ten Pines Road (157),a
-43.8645916,-79.5480715,2,Zafarullah Khan Crescent (548),a
 43.8645964,-79.5168981,2,Solway Avenue (055),a
 43.8645964,-79.5168981,2,Solway Avenue (055),a
 43.8646034,-79.5548989,2,Cityview Boulevard (695),a
@@ -45153,13 +44966,11 @@ lat,lon,sz,names,len_cat
 43.8646166,-79.5233346,2,Purcell Crescent (535),a
 43.86462,-79.48113,2,Lady Karen Crescent (916),a
 43.86462,-79.48113,2,Lady Karen Crescent (916),a
-43.8646231,-79.5329134,2,Melville Avenue (314),a
 43.8646238,-79.5547711,2,Cityview Boulevard (935),a
 43.8646238,-79.5547711,2,Teston Road (151),a
 43.8646274,-79.5637257,2,Sonya Place (105),a
 43.8646366,-79.5058078,2,Rodinea Road (451),a
 43.8646366,-79.5058078,2,Rodinea Road (451),a
-43.8646384,-79.5496259,2,Ahmadiyya Avenue (501),a
 43.8646405,-79.6215088,2,Kleinburg Summit Way (838),a
 43.8646423,-79.5232187,2,Purcell Crescent (932),a
 43.8646435,-79.5546478,2,Teston Road (557),a
@@ -45177,27 +44988,18 @@ lat,lon,sz,names,len_cat
 43.8646624,-79.6192616,2,Arctic Grail (867),a
 43.8646639,-79.52002,2,St. Joan of Arc Avenue (688),a
 43.8646671,-79.518875,2,Lamont Court (374),a
-43.8646692,-79.5400305,2,Jane Street (471),a
-43.8646692,-79.5400305,2,Jane Street (471),a
 43.86467,-79.64914,2,Kirby Road (195),a
 43.864682,-79.4683544,2,Ilan Ramon Boulevard (315),a
 43.8646851,-79.5146071,2,Keele Street (054),a
-43.8646878,-79.5374012,2,Pine Hollow Crescent (643),a
 43.864693,-79.4801364,2,Lady Karen Crescent (838),a
 43.864693,-79.4801364,2,Lady Karen Crescent (838),a
 43.8646976,-79.5177543,2,Topaz Court (190),a
 43.8646976,-79.5177543,2,Topaz Court (190),a
 43.8646988,-79.5275978,2,Regal Pine Court (360),a
 43.8646993,-79.5637116,2,Sonya Place (106),a
-43.8647014,-79.5326999,2,Melville Avenue (315),a
 43.8647027,-79.5258057,2,Cloverhill Court (293),a
-43.8647029,-79.5335212,2,Sandway Crescent (882),a
 43.8647055,-79.5169825,2,Solway Avenue (056),a
 43.8647055,-79.5169825,2,Solway Avenue (056),a
-43.8647066,-79.5373167,2,Ashton Drive (187),a
-43.8647066,-79.5373167,2,Ashton Drive (198),a
-43.8647066,-79.5373167,2,Klamath Court (358),a
-43.8647066,-79.5373167,2,Pine Hollow Crescent (030),a
 43.8647133,-79.5245361,2,Logwood Drive (563),a
 43.8647166,-79.6438044,2,Highway 27 (836),a
 43.8647166,-79.6438044,2,Highway 27 (839),a
@@ -45207,7 +45009,6 @@ lat,lon,sz,names,len_cat
 43.8647322,-79.6172269,2,Kipling Avenue (578),a
 43.8647358,-79.4810883,2,Lady Karen Crescent (917),a
 43.8647358,-79.4810883,2,Lady Karen Crescent (917),a
-43.8647368,-79.5495738,2,Ahmadiyya Avenue (502),a
 43.8647396,-79.4799217,2,Luca Avenue (332),a
 43.8647396,-79.4799217,2,Luca Avenue (332),a
 43.8647396,-79.4797482,2,Luca Avenue (333),a
@@ -45236,17 +45037,14 @@ lat,lon,sz,names,len_cat
 43.8647642,-79.4805215,2,Luca Avenue (327),a
 43.8647661,-79.4805578,2,Luca Avenue (667),a
 43.8647661,-79.4805578,2,Luca Avenue (667),a
-43.8647687,-79.5323972,2,Melville Avenue (316),a
 43.8647719,-79.5200173,2,St. Joan of Arc Avenue (687),a
 43.8647758,-79.4683988,2,Ilan Ramon Boulevard (317),a
 43.8647758,-79.4683988,2,Major MacKenzie Drive West (900),a
 43.8647758,-79.4683988,2,Via Romano Boulevard (256),a
 43.8647779,-79.5225683,2,Purcell Crescent (933),a
 43.8647785,-79.5546912,2,Teston Road (740),a
-43.8647821,-79.5361824,2,Klamath Court (351),a
 43.8647832,-79.4810711,2,Lady Karen Crescent (918),a
 43.8647832,-79.4810711,2,Lady Karen Crescent (918),a
-43.8647851,-79.5336063,2,Sandway Crescent (884),a
 43.8647917,-79.4807203,2,Luca Avenue (326),a
 43.8647917,-79.4807203,2,Luca Avenue (326),a
 43.8647983,-79.4682863,2,Major MacKenzie Drive West (054),a
@@ -45258,7 +45056,6 @@ lat,lon,sz,names,len_cat
 43.8648176,-79.5235504,2,Purcell Crescent (928),a
 43.8648197,-79.4808977,2,Luca Avenue (325),a
 43.8648197,-79.4808977,2,Luca Avenue (325),a
-43.8648258,-79.5494969,2,Ahmadiyya Avenue (503),a
 43.8648282,-79.5257653,2,Cloverhill Court (294),a
 43.864829,-79.484866,2,Kentbridge Way (119),a
 43.8648388,-79.4686764,2,Major MacKenzie Drive West (058),a
@@ -45272,10 +45069,6 @@ lat,lon,sz,names,len_cat
 43.8648513,-79.5275567,2,Regal Pine Court (361),a
 43.8648521,-79.4811037,2,Luca Avenue (324),a
 43.8648521,-79.4811037,2,Luca Avenue (324),a
-43.8648528,-79.5480776,2,Zafarullah Khan Crescent (549),a
-43.8648537,-79.5319371,2,Melville Avenue (317),a
-43.8648547,-79.5362304,2,Klamath Court (352),a
-43.8648547,-79.5362304,2,Klamath Court (353),a
 43.864857,-79.484869,2,Kentbridge Way (116),a
 43.8648581,-79.4685668,2,Ilan Ramon Boulevard (562),a
 43.8648581,-79.4685668,2,Major MacKenzie Drive West (026),a
@@ -45306,28 +45099,20 @@ lat,lon,sz,names,len_cat
 43.8648914,-79.5292731,2,Cranston Park Avenue (472),a
 43.8648914,-79.5292731,2,Cranston Park Avenue (548),a
 43.8648914,-79.5292731,2,Cranston Park Avenue (548),a
-43.8648937,-79.5336535,2,Sandway Crescent (885),a
 43.864894,-79.484857,2,Kentbridge Way (112),a
 43.8648952,-79.5218934,2,Purcell Crescent (934),a
-43.8648955,-79.5362812,2,Klamath Court (382),a
 43.8649002,-79.4683281,2,Major MacKenzie Drive West (051),a
 43.864902,-79.484852,2,Kentbridge Way (111),a
-43.8649029,-79.5364781,2,Klamath Court (357),a
 43.86491,-79.484845,2,Kentbridge Way (110),a
 43.86491,-79.46945,2,Fanning Mills Circle (574),a
 43.86491,-79.46945,2,Fanning Mills Circle (604),a
-43.8649102,-79.5363411,2,Klamath Court (355),a
 43.8649106,-79.6205122,2,Butterfly Heights (156),a
-43.864911,-79.5364033,2,Klamath Court (356),a
 43.864914,-79.469437,2,Fanning Mills Circle (575),a
 43.8649156,-79.5199889,2,St. Joan of Arc Avenue (682),a
 43.8649177,-79.5257257,2,Cloverhill Court (295),a
 43.864918,-79.484838,2,Kentbridge Way (109),a
 43.864919,-79.469424,2,Fanning Mills Circle (576),a
 43.8649213,-79.5246056,2,Logwood Drive (564),a
-43.8649214,-79.5315319,2,Melville Avenue (318),a
-43.8649214,-79.5315319,2,Melville Avenue (367),a
-43.8649214,-79.5315319,2,Sandway Crescent (922),a
 43.8649221,-79.4814381,2,Luca Avenue (320),a
 43.8649221,-79.4814381,2,Luca Avenue (320),a
 43.8649225,-79.5170518,2,Solway Avenue (058),a
@@ -45359,17 +45144,12 @@ lat,lon,sz,names,len_cat
 43.864953,-79.484764,2,Kentbridge Way (102),a
 43.864955,-79.484751,2,Kentbridge Way (101),a
 43.864957,-79.469372,2,Fanning Mills Circle (581),a
-43.8649588,-79.5493319,2,Ahmadiyya Avenue (505),a
 43.8649616,-79.4816035,2,Luca Avenue (317),a
 43.8649616,-79.4816035,2,Luca Avenue (317),a
 43.864966,-79.469365,2,Fanning Mills Circle (582),a
 43.8649701,-79.6320005,2,Paula Court (709),a
 43.8649706,-79.521456,2,Purcell Crescent (936),a
 43.8649716,-79.5617388,2,Lee Anne Court (916),a
-43.864973,-79.540109,2,Jane Street (472),a
-43.864973,-79.540109,2,Jane Street (472),a
-43.864973,-79.540109,2,Jane Street (500),a
-43.864973,-79.540109,2,Jane Street (500),a
 43.864976,-79.469359,2,Fanning Mills Circle (583),a
 43.8649764,-79.5177349,2,Topaz Court (193),a
 43.8649764,-79.5177349,2,Topaz Court (193),a
@@ -45383,7 +45163,6 @@ lat,lon,sz,names,len_cat
 43.8649948,-79.5275158,2,Regal Pine Court (362),a
 43.864996,-79.46935,2,Fanning Mills Circle (585),a
 43.865001,-79.5210197,2,Purcell Crescent (939),a
-43.8650018,-79.5310102,2,Melville Avenue (764),a
 43.8650018,-79.5176098,2,Topaz Court (194),a
 43.8650018,-79.5176098,2,Topaz Court (194),a
 43.8650065,-79.4685007,2,Via Romano Boulevard (966),a
@@ -45392,12 +45171,9 @@ lat,lon,sz,names,len_cat
 43.8650084,-79.5534999,2,Teston Road (738),a
 43.8650084,-79.5534999,2,Teston Road (739),a
 43.8650084,-79.5534999,2,Teston Road (739),a
-43.8650084,-79.5315592,2,Sandway Crescent (407),a
 43.865018,-79.469347,2,Fanning Mills Circle (587),a
 43.8650204,-79.6266632,2,Enclave Court (401),a
 43.8650229,-79.6318998,2,Paula Court (710),a
-43.865023,-79.5401198,2,Jane Street (501),a
-43.865023,-79.5401198,2,Jane Street (501),a
 43.8650262,-79.5174101,2,Topaz Court (195),a
 43.8650262,-79.5174101,2,Topaz Court (195),a
 43.865028,-79.469347,2,Fanning Mills Circle (588),a
@@ -45415,7 +45191,6 @@ lat,lon,sz,names,len_cat
 43.8650481,-79.5172048,2,Topaz Court (766),a
 43.8650481,-79.5172048,2,Topaz Court (766),a
 43.86505,-79.469351,2,Fanning Mills Circle (590),a
-43.8650513,-79.5396887,2,Colombo Crescent (212),a
 43.8650542,-79.5209561,2,Purcell Crescent (940),a
 43.8650552,-79.5252121,2,Cloverhill Court (301),a
 43.865058,-79.5170858,2,Solway Avenue (042),a
@@ -45425,31 +45200,21 @@ lat,lon,sz,names,len_cat
 43.865058,-79.5170858,2,Topaz Court (197),a
 43.865058,-79.5170858,2,Topaz Court (197),a
 43.86506,-79.469356,2,Fanning Mills Circle (591),a
-43.8650621,-79.539772,2,Colombo Crescent (213),a
-43.8650646,-79.5491551,2,Ahmadiyya Avenue (506),a
 43.86507,-79.469361,2,Fanning Mills Circle (592),a
-43.8650701,-79.54013,2,Jane Street (229),a
-43.8650701,-79.54013,2,Jane Street (229),a
 43.8650708,-79.4836167,2,Kentbridge Way (862),a
 43.8650711,-79.5250499,2,Cloverhill Court (302),a
 43.8650744,-79.631687,2,Paula Court (713),a
 43.8650771,-79.5199475,2,St. Joan of Arc Avenue (689),a
-43.8650784,-79.5305129,2,Maple Meadows Lane (375),a
-43.8650784,-79.5305129,2,Melville Avenue (351),a
-43.8650784,-79.5305129,2,Melville Avenue (371),a
 43.8650785,-79.4835458,2,Kentbridge Way (096),a
 43.8650791,-79.5294065,2,Cranston Park Avenue (470),a
 43.8650791,-79.5294065,2,Cranston Park Avenue (470),a
 43.86508,-79.469367,2,Fanning Mills Circle (593),a
-43.8650938,-79.5304198,2,Melville Avenue (639),a
 43.8650958,-79.5248751,2,Cloverhill Court (303),a
-43.8650974,-79.5397791,2,Colombo Crescent (214),a
 43.8650988,-79.5292755,2,Cranston Park Avenue (473),a
 43.8650988,-79.5292755,2,Cranston Park Avenue (473),a
 43.8651003,-79.48344,2,Kentbridge Way (095),a
 43.8651003,-79.48344,2,Luca Avenue (310),a
 43.8651003,-79.48344,2,Sir Benson Drive (833),a
-43.8651015,-79.5337106,2,Sandway Crescent (887),a
 43.865107,-79.6184011,2,Ridgepoint Road (586),a
 43.8651101,-79.5522691,2,Teston Road (659),a
 43.8651101,-79.5522691,2,Teston Road (659),a
@@ -45474,33 +45239,20 @@ lat,lon,sz,names,len_cat
 43.8651443,-79.5651595,2,Phillips Lane (701),a
 43.8651443,-79.5651595,2,Phillips Lane (701),a
 43.8651485,-79.6223459,2,Ten Pines Road (159),a
-43.8651588,-79.5294626,2,Cranston Park Avenue (469),a
-43.8651588,-79.5294626,2,Cranston Park Avenue (469),a
 43.86516,-79.48819,2,Robert Green Crescent (228),a
 43.8651613,-79.5236664,2,Purcell Crescent (926),a
 43.8651645,-79.6236579,2,Ten Pines Road (189),a
 43.8651651,-79.5649573,2,Phillips Lane (702),a
 43.8651651,-79.5649573,2,Phillips Lane (702),a
-43.8651717,-79.5299963,2,Laneway V48 (408),a
-43.8651717,-79.5299963,2,Melville Avenue (269),a
-43.8651717,-79.5299963,2,Melville Avenue (271),a
-43.8651717,-79.5299963,2,Melville Avenue (354),a
 43.8651776,-79.4828141,2,Luca Avenue (313),a
-43.8651783,-79.548891,2,Ahmadiyya Avenue (507),a
 43.8651811,-79.4834602,2,Sir Benson Drive (832),a
 43.865184,-79.5170827,2,Solway Avenue (043),a
 43.865184,-79.5170827,2,Solway Avenue (043),a
 43.8651864,-79.4826656,2,Luca Avenue (314),a
-43.8651868,-79.5296047,2,Melville Avenue (686),a
-43.8651868,-79.5296047,2,Melville Avenue (686),a
-43.8651871,-79.5305457,2,Maple Meadows Lane (456),a
 43.8651896,-79.5292814,2,Cranston Park Avenue (648),a
 43.8651896,-79.5292814,2,Cranston Park Avenue (648),a
-43.8651897,-79.529529,2,Melville Avenue (273),a
-43.8651897,-79.529529,2,Melville Avenue (273),a
 43.8651977,-79.5646827,2,Phillips Lane (704),a
 43.8651977,-79.5646827,2,Phillips Lane (704),a
-43.8651995,-79.5305495,2,Maple Meadows Lane (376),a
 43.8652005,-79.6235879,2,Ten Pines Road (188),a
 43.865205,-79.5292669,2,Drummond Drive (430),a
 43.865205,-79.5292669,2,Drummond Drive (430),a
@@ -45511,78 +45263,46 @@ lat,lon,sz,names,len_cat
 43.8652307,-79.5644455,2,Phillips Lane (706),a
 43.8652307,-79.5644455,2,Phillips Lane (706),a
 43.8652335,-79.5209019,2,Purcell Crescent (941),a
-43.8652384,-79.5486656,2,Ahmadiyya Avenue (509),a
 43.8652387,-79.6223828,2,Ten Pines Road (035),a
-43.86524,-79.5438371,2,Ahmadiyya Avenue (489),a
-43.865244,-79.5448574,2,Ahmadiyya Avenue (487),a
 43.8652462,-79.5274599,2,Regal Pine Court (364),a
 43.8652467,-79.5523033,2,Teston Road (737),a
 43.8652467,-79.5523033,2,Teston Road (737),a
 43.8652467,-79.5523033,2,Teston Road (788),a
 43.8652467,-79.5523033,2,Teston Road (788),a
-43.8652467,-79.5436502,2,Ahmadiyya Avenue (490),a
-43.8652482,-79.5449949,2,Ahmadiyya Avenue (911),a
-43.8652495,-79.5445835,2,Ahmadiyya Avenue (488),a
 43.86525,-79.48815,2,Robert Green Crescent (230),a
 43.8652501,-79.4686631,2,Via Romano Boulevard (253),a
 43.8652501,-79.4686631,2,Via Romano Boulevard (258),a
 43.8652501,-79.4686631,2,Via Romano Boulevard (276),a
 43.865252,-79.4711035,2,Fanning Mills Circle (599),a
-43.8652524,-79.5451352,2,Ahmadiyya Avenue (469),a
-43.8652524,-79.5451352,2,Ahmadiyya Avenue (486),a
-43.8652524,-79.5451352,2,Mosque Gate (143),a
-43.865253,-79.5452511,2,Ahmadiyya Avenue (863),a
-43.8652543,-79.5455168,2,Ahmadiyya Avenue (470),a
 43.8652545,-79.6234329,2,Ten Pines Road (186),a
 43.8652547,-79.5642084,2,Phillips Lane (708),a
 43.8652547,-79.5642084,2,Phillips Lane (708),a
-43.865256,-79.5458613,2,Ahmadiyya Avenue (471),a
-43.8652563,-79.5459255,2,Ahmadiyya Avenue (472),a
-43.8652563,-79.5459255,2,Ahmadiyya Avenue (473),a
-43.8652563,-79.5459255,2,Mahmood Crescent (026),a
-43.8652569,-79.5460369,2,Ahmadiyya Avenue (474),a
 43.8652589,-79.5638226,2,Phillips Lane (712),a
 43.8652589,-79.5638226,2,Phillips Lane (712),a
 43.8652589,-79.5638226,2,Phillips Lane (744),a
 43.8652589,-79.5638226,2,Phillips Lane (744),a
 43.8652589,-79.5638226,2,Sonya Place (107),a
 43.8652589,-79.5638226,2,Sonya Place (107),a
-43.8652595,-79.5465535,2,Ahmadiyya Avenue (475),a
-43.8652613,-79.5469228,2,Ahmadiyya Avenue (466),a
-43.8652613,-79.5469228,2,Ahmadiyya Avenue (476),a
-43.8652613,-79.5469228,2,Mahmood Crescent (060),a
 43.8652617,-79.5640465,2,Phillips Lane (710),a
 43.8652617,-79.5640465,2,Phillips Lane (710),a
 43.8652653,-79.5291134,2,Drummond Drive (310),a
 43.8652653,-79.5291134,2,Drummond Drive (310),a
 43.8652657,-79.5636482,2,Phillips Lane (745),a
-43.8652708,-79.5476692,2,Ahmadiyya Avenue (467),a
 43.865271,-79.5633494,2,Phillips Lane (746),a
-43.8652714,-79.5434754,2,Ahmadiyya Avenue (491),a
 43.8652715,-79.6233509,2,Ten Pines Road (185),a
-43.8652719,-79.5484657,2,Ahmadiyya Avenue (511),a
 43.865272,-79.467798,2,Hurst Avenue (116),a
 43.8652742,-79.5247463,2,Logwood Drive (542),a
 43.865275,-79.467809,2,Hurst Avenue (117),a
-43.8652763,-79.5300321,2,Laneway V48 (363),a
 43.865279,-79.46782,2,Hurst Avenue (118),a
-43.8652792,-79.5483286,2,Ahmadiyya Avenue (513),a
 43.86528,-79.48809,2,Robert Green Crescent (231),a
 43.8652833,-79.5198802,2,St. Joan of Arc Avenue (686),a
 43.865284,-79.46783,2,Hurst Avenue (119),a
-43.8652847,-79.5480547,2,Ahmadiyya Avenue (468),a
-43.8652847,-79.5480547,2,Ahmadiyya Avenue (515),a
-43.8652847,-79.5480547,2,Noor Ud Din Court (792),a
-43.8652847,-79.5480547,2,Zafarullah Khan Crescent (550),a
 43.8652861,-79.563125,2,Phillips Lane (747),a
 43.8652881,-79.6307364,2,Paula Court (715),a
 43.865289,-79.46784,2,Hurst Avenue (120),a
 43.865295,-79.467848,2,Hurst Avenue (121),a
 43.8652982,-79.6206335,2,Butterfly Heights (208),a
 43.865302,-79.467857,2,Hurst Avenue (122),a
-43.8653026,-79.529642,2,Melville Avenue (137),a
-43.8653026,-79.529642,2,Melville Avenue (137),a
-43.8653047,-79.5383225,2,Colombo Crescent (210),a
 43.865308,-79.467864,2,Hurst Avenue (123),a
 43.86531,-79.48801,2,Robert Green Crescent (232),a
 43.8653106,-79.5629253,2,Phillips Lane (748),a
@@ -45590,26 +45310,17 @@ lat,lon,sz,names,len_cat
 43.8653192,-79.5170917,2,Solway Avenue (044),a
 43.8653192,-79.5170917,2,Solway Avenue (044),a
 43.8653216,-79.4710901,2,Fanning Mills Circle (598),a
-43.8653219,-79.5432004,2,Ahmadiyya Avenue (481),a
-43.8653219,-79.5432004,2,Ahmadiyya Avenue (492),a
-43.8653219,-79.5432004,2,Bashir Street (698),a
 43.8653237,-79.5236997,2,Purcell Crescent (648),a
 43.8653237,-79.5236997,2,Purcell Crescent (925),a
 43.8653237,-79.5236997,2,Purcell Crescent (953),a
 43.865324,-79.467876,2,Hurst Avenue (125),a
 43.8653242,-79.6195474,2,Arctic Grail (108),a
-43.8653255,-79.5451381,2,Mosque Gate (888),a
 43.8653275,-79.5628378,2,Marlene Court (245),a
 43.8653275,-79.5628378,2,Phillips Lane (749),a
 43.8653275,-79.5628378,2,Phillips Lane (750),a
 43.865332,-79.467881,2,Hurst Avenue (126),a
-43.865337,-79.5295524,2,Melville Avenue (653),a
-43.865337,-79.5295524,2,Melville Avenue (653),a
 43.8653388,-79.6439378,2,Highway 27 (840),a
-43.86534,-79.5431106,2,Ahmadiyya Avenue (482),a
 43.86534,-79.467884,2,Hurst Avenue (127),a
-43.8653421,-79.529546,2,Cranston Park Avenue (481),a
-43.8653421,-79.529546,2,Cranston Park Avenue (481),a
 43.8653447,-79.514763,2,Keele Street (751),a
 43.865348,-79.467887,2,Hurst Avenue (128),a
 43.8653495,-79.6224279,2,Ten Pines Road (161),a
@@ -45619,22 +45330,12 @@ lat,lon,sz,names,len_cat
 43.8653565,-79.6224289,2,Ten Pines Road (162),a
 43.8653589,-79.5235448,2,Purcell Crescent (399),a
 43.8653594,-79.4834996,2,Sir Benson Drive (831),a
-43.8653614,-79.5292886,2,Drummond Drive (655),a
-43.8653614,-79.5292886,2,Drummond Drive (655),a
-43.865363,-79.5295371,2,Cranston Park Avenue (649),a
-43.865363,-79.5295371,2,Cranston Park Avenue (649),a
-43.8653634,-79.5459238,2,Mahmood Crescent (028),a
 43.8653645,-79.6224309,2,Ten Pines Road (163),a
 43.865366,-79.471031,2,Fanning Mills Circle (597),a
-43.8653672,-79.5291564,2,Drummond Drive (434),a
-43.8653672,-79.5291564,2,Drummond Drive (434),a
 43.8653675,-79.6241809,2,First Nations Trail (233),a
 43.8653675,-79.6241809,2,First Nations Trail (233),a
 43.8653697,-79.5626128,2,Phillips Lane (752),a
-43.8653712,-79.529309,2,Cranston Park Avenue (475),a
-43.8653712,-79.529309,2,Cranston Park Avenue (475),a
 43.8653715,-79.6224329,2,Ten Pines Road (164),a
-43.8653723,-79.5337662,2,Sandway Crescent (889),a
 43.8653723,-79.528863,2,Drummond Drive (432),a
 43.8653723,-79.528863,2,Drummond Drive (432),a
 43.8653723,-79.528863,2,Drummond Drive (433),a
@@ -45644,8 +45345,6 @@ lat,lon,sz,names,len_cat
 43.8653785,-79.6224359,2,Ten Pines Road (165),a
 43.8653855,-79.6224399,2,Ten Pines Road (166),a
 43.8653893,-79.4709667,2,Fanning Mills Circle (596),a
-43.8653897,-79.5428454,2,Ahmadiyya Avenue (483),a
-43.865391,-79.5432254,2,Bashir Street (903),a
 43.8653915,-79.6224449,2,Ten Pines Road (167),a
 43.8653944,-79.4687141,2,Via Romano Boulevard (966),a
 43.8653947,-79.5194419,2,Corkwood Crescent (681),a
@@ -45657,23 +45356,18 @@ lat,lon,sz,names,len_cat
 43.8654039,-79.5624626,2,Phillips Lane (753),a
 43.8654076,-79.5516273,2,Teston Road (094),a
 43.8654076,-79.5516273,2,Teston Road (787),a
-43.865408,-79.5337404,2,Sandway Crescent (891),a
 43.8654085,-79.6224639,2,Ten Pines Road (170),a
 43.8654089,-79.5233243,2,Purcell Crescent (951),a
 43.86541,-79.4871069,2,Robert Green Crescent (234),a
 43.86541,-79.4871069,2,Woodville Drive (206),a
 43.8654118,-79.5196588,2,Corkwood Crescent (410),a
 43.8654135,-79.6224719,2,Ten Pines Road (171),a
-43.8654148,-79.5427128,2,Ahmadiyya Avenue (484),a
 43.8654166,-79.5197195,2,Corkwood Crescent (724),a
 43.8654185,-79.6224799,2,Ten Pines Road (172),a
-43.8654196,-79.5432358,2,Bashir Street (196),a
 43.8654217,-79.5628687,2,Marlene Court (386),a
 43.8654225,-79.6224889,2,Ten Pines Road (173),a
 43.8654255,-79.6225969,2,Ten Pines Road (184),a
 43.8654255,-79.6224979,2,Ten Pines Road (174),a
-43.8654265,-79.529516,2,Cranston Park Avenue (480),a
-43.8654265,-79.529516,2,Cranston Park Avenue (480),a
 43.865427,-79.5198518,2,Corkwood Crescent (680),a
 43.865427,-79.5198518,2,St. Joan of Arc Avenue (684),a
 43.865427,-79.5198518,2,St. Joan of Arc Avenue (733),a
@@ -45689,13 +45383,8 @@ lat,lon,sz,names,len_cat
 43.8654335,-79.6225469,2,Ten Pines Road (179),a
 43.8654335,-79.6225369,2,Ten Pines Road (178),a
 43.865434,-79.5231743,2,Purcell Crescent (950),a
-43.8654435,-79.5377431,2,Colombo Crescent (394),a
 43.8654469,-79.551032,2,Teston Road (714),a
 43.8654524,-79.5190298,2,Corkwood Crescent (683),a
-43.8654529,-79.5337269,2,Sandway Crescent (893),a
-43.8654549,-79.5376954,2,Colombo Crescent (633),a
-43.8654549,-79.529354,2,Cranston Park Avenue (476),a
-43.8654549,-79.529354,2,Cranston Park Avenue (476),a
 43.8654558,-79.5622996,2,Phillips Lane (754),a
 43.8654558,-79.5283507,2,Drummond Drive (463),a
 43.8654558,-79.5283507,2,Drummond Drive (463),a
@@ -45703,42 +45392,23 @@ lat,lon,sz,names,len_cat
 43.8654602,-79.6439649,2,Kirby Road (239),a
 43.8654626,-79.5274794,2,Regal Pine Court (366),a
 43.8654731,-79.5248036,2,Logwood Drive (543),a
-43.8654756,-79.537609,2,Ashton Drive (199),a
-43.8654756,-79.537609,2,Ashton Drive (200),a
-43.8654756,-79.537609,2,Colombo Crescent (208),a
-43.8654756,-79.537609,2,Silmoro Court (811),a
-43.8654794,-79.5336889,2,Sandway Crescent (896),a
-43.8654795,-79.529495,2,Cranston Park Avenue (479),a
-43.8654795,-79.529495,2,Cranston Park Avenue (479),a
 43.8654812,-79.6438129,2,Kirby Road (509),a
 43.8654829,-79.5508869,2,Teston Road (715),a
 43.8654919,-79.62066,2,Butterfly Heights (865),a
-43.8654919,-79.5480621,2,Noor Ud Din Court (793),a
 43.8654945,-79.5274815,2,Regal Pine Court (728),a
-43.8654964,-79.5336138,2,Sandway Crescent (898),a
 43.8654994,-79.5170997,2,Solway Avenue (045),a
 43.8654994,-79.5170997,2,Solway Avenue (045),a
 43.8655019,-79.6447197,2,Kirby Road (229),a
 43.8655028,-79.5198456,2,St. Joan of Arc Avenue (737),a
-43.8655055,-79.5374774,2,Silmoro Court (393),a
-43.8655133,-79.5469167,2,Mahmood Crescent (059),a
-43.8655133,-79.5335263,2,Sandway Crescent (900),a
 43.8655165,-79.5621115,2,Lee Anne Court (919),a
 43.8655165,-79.5621115,2,Phillips Lane (681),a
 43.8655165,-79.5621115,2,Phillips Lane (755),a
 43.865522,-79.6299719,2,Paula Court (718),a
-43.8655256,-79.5422247,2,Ahmadiyya Avenue (485),a
-43.8655256,-79.5422247,2,Ahmadiyya Avenue (525),a
-43.8655256,-79.5422247,2,Tahir Street (695),a
-43.8655262,-79.5317215,2,Sandway Crescent (920),a
 43.8655294,-79.5187168,2,Corkwood Crescent (684),a
 43.8655319,-79.5237817,2,Purcell Crescent (954),a
 43.865534,-79.6196247,2,Arctic Grail (110),a
 43.8655351,-79.5208709,2,Purcell Crescent (943),a
 43.8655352,-79.551081,2,Teston Road (558),a
-43.8655353,-79.5373462,2,Silmoro Court (812),a
-43.8655464,-79.5376366,2,Ashton Drive (698),a
-43.865555,-79.5332639,2,Sandway Crescent (902),a
 43.8655612,-79.6441531,2,Kirby Road (429),a
 43.8655619,-79.6186098,2,Ridgepoint Road (156),a
 43.8655651,-79.5277507,2,Drummond Drive (464),a
@@ -45746,56 +45416,29 @@ lat,lon,sz,names,len_cat
 43.8655659,-79.6439901,2,Highway 27 (230),a
 43.8655659,-79.6439901,2,Highway 27 (231),a
 43.8655659,-79.6439901,2,Kirby Road (230),a
-43.8655695,-79.5372085,2,Silmoro Court (813),a
 43.8655725,-79.5509317,2,Teston Road (559),a
-43.8655725,-79.5459205,2,Mahmood Crescent (029),a
 43.8655808,-79.6217206,2,Kleinburg Summit Way (839),a
-43.8655834,-79.5451482,2,Mosque Gate (151),a
 43.8655851,-79.5223243,2,Purcell Crescent (949),a
-43.8655866,-79.5422468,2,Tahir Street (794),a
 43.865595,-79.5619105,2,Phillips Lane (682),a
 43.8655977,-79.5274885,2,Drummond Drive (465),a
 43.8655977,-79.5274885,2,Regal Pine Court (367),a
-43.8656017,-79.5418371,2,Ahmadiyya Avenue (526),a
-43.8656017,-79.5418371,2,Ahmadiyya Avenue (526),a
-43.865613,-79.5417663,2,Ahmadiyya Avenue (477),a
-43.865613,-79.5417663,2,Ahmadiyya Avenue (477),a
-43.865613,-79.5417663,2,Ahmadiyya Avenue (527),a
-43.865613,-79.5417663,2,Ahmadiyya Avenue (527),a
-43.8656215,-79.5328392,2,Sandway Crescent (904),a
-43.8656255,-79.5422609,2,Tahir Street (051),a
 43.8656312,-79.5182414,2,Corkwood Crescent (685),a
 43.8656343,-79.4696163,2,Fanning Mills Circle (573),a
 43.8656343,-79.4696163,2,Fanning Mills Circle (594),a
 43.8656343,-79.4696163,2,Fanning Mills Circle (595),a
-43.8656398,-79.5469509,2,Mahmood Crescent (057),a
 43.8656429,-79.519834,2,St. Joan of Arc Avenue (732),a
 43.8656473,-79.5617723,2,Phillips Lane (683),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (477),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (477),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (478),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (478),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (504),a
-43.8656505,-79.5294908,2,Cranston Park Avenue (504),a
 43.8656585,-79.6217277,2,Kleinburg Summit Way (840),a
 43.8656663,-79.5181658,2,Corkwood Crescent (686),a
 43.86567,-79.5654049,2,Weston Road (708),a
 43.86567,-79.5654049,2,Weston Road (708),a
 43.8656714,-79.6440271,2,Highway 27 (841),a
-43.8656739,-79.5371309,2,Silmoro Court (814),a
 43.8656741,-79.5271258,2,Drummond Drive (466),a
-43.8656786,-79.5415117,2,Ahmadiyya Avenue (478),a
-43.8656786,-79.5415117,2,Ahmadiyya Avenue (478),a
 43.8656848,-79.4836774,2,Sir Benson Drive (520),a
-43.865689,-79.5317797,2,Sandway Crescent (918),a
 43.865689,-79.526889,2,Drummond Drive (468),a
-43.8656899,-79.5325513,2,Sandway Crescent (905),a
 43.86569,-79.5269636,2,Drummond Drive (467),a
 43.86569,-79.5269636,2,Tayside Avenue (195),a
-43.8656902,-79.5480822,2,Noor Ud Din Court (794),a
 43.8656992,-79.5248851,2,Logwood Drive (544),a
-43.8657013,-79.5402662,2,Jane Street (502),a
-43.8657013,-79.5402662,2,Jane Street (502),a
 43.8657068,-79.5209306,2,Purcell Crescent (944),a
 43.8657163,-79.5629653,2,Marlene Court (247),a
 43.8657198,-79.5181272,2,Corkwood Crescent (687),a
@@ -45807,108 +45450,52 @@ lat,lon,sz,names,len_cat
 43.8657404,-79.5209494,2,Purcell Crescent (303),a
 43.8657408,-79.5260166,2,Drummond Drive (471),a
 43.8657408,-79.5260166,2,Fermar Drive (867),a
-43.8657412,-79.5399087,2,Colombo Crescent (215),a
-43.8657412,-79.5399087,2,Colombo Crescent (215),a
 43.8657413,-79.5260539,2,Drummond Drive (470),a
 43.8657441,-79.4690564,2,Fanning Mills Circle (979),a
 43.8657448,-79.5592031,2,Louise Circle (844),a
 43.8657448,-79.5592031,2,Nesver Court (777),a
 43.8657448,-79.5592031,2,Shady Vale Lane (702),a
 43.8657455,-79.5595672,2,Louise Circle (855),a
-43.865749,-79.54119,2,Ahmadiyya Avenue (479),a
-43.865749,-79.54119,2,Ahmadiyya Avenue (479),a
 43.8657495,-79.6243419,2,First Nations Trail (234),a
 43.8657495,-79.6243419,2,First Nations Trail (234),a
-43.8657526,-79.5318279,2,Sandway Crescent (916),a
-43.8657547,-79.5407651,2,Ahmadiyya Avenue (518),a
-43.8657547,-79.5407651,2,Ahmadiyya Avenue (518),a
 43.8657549,-79.4690129,2,Fanning Mills Circle (975),a
-43.8657557,-79.5249031,2,Logwood Drive (586),a
 43.865761,-79.517143,2,Solway Avenue (046),a
 43.865761,-79.517143,2,Solway Avenue (046),a
 43.8657619,-79.5587206,2,Nesver Court (784),a
 43.8657631,-79.5588201,2,Nesver Court (782),a
 43.865765,-79.5589694,2,Nesver Court (780),a
-43.8657666,-79.5405901,2,Ahmadiyya Avenue (520),a
-43.8657666,-79.5405901,2,Ahmadiyya Avenue (520),a
 43.8657696,-79.5586209,2,Nesver Court (786),a
-43.8657705,-79.5404538,2,Ahmadiyya Avenue (926),a
-43.8657705,-79.5404538,2,Ahmadiyya Avenue (926),a
-43.8657723,-79.5403894,2,Ahmadiyya Avenue (522),a
-43.8657723,-79.5403894,2,Ahmadiyya Avenue (522),a
 43.865773,-79.5257171,2,Drummond Drive (472),a
 43.8657774,-79.5585211,2,Nesver Court (787),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (480),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (480),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (496),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (496),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (516),a
-43.8657815,-79.5408642,2,Ahmadiyya Avenue (516),a
 43.865784,-79.5210003,2,Purcell Crescent (946),a
 43.8657853,-79.4688701,2,Fanning Mills Circle (572),a
 43.8657853,-79.4688701,2,Scuffler Drive (229),a
 43.8657853,-79.4688701,2,Via Romano Boulevard (965),a
-43.8657893,-79.5318768,2,Sandway Crescent (914),a
 43.8657916,-79.5596532,2,Louise Circle (857),a
-43.8657918,-79.5320759,2,Sandway Crescent (907),a
-43.8657933,-79.5469845,2,Mahmood Crescent (055),a
 43.8657956,-79.5211991,2,Purcell Crescent (948),a
-43.865799,-79.5481417,2,Noor Ud Din Court (795),a
 43.8658014,-79.5269901,2,Tayside Avenue (545),a
 43.8658017,-79.5452013,2,Mosque Gate (155),a
 43.865803,-79.5210745,2,Purcell Crescent (947),a
 43.8658043,-79.5253554,2,Drummond Drive (473),a
 43.8658054,-79.5198673,2,St. Joan of Arc Avenue (735),a
-43.865807,-79.540289,2,Ahmadiyya Avenue (493),a
-43.865807,-79.540289,2,Ahmadiyya Avenue (493),a
-43.865807,-79.540289,2,Ahmadiyya Avenue (524),a
-43.865807,-79.540289,2,Ahmadiyya Avenue (524),a
-43.865807,-79.540289,2,Jane Street (450),a
-43.865807,-79.540289,2,Jane Street (450),a
-43.865807,-79.540289,2,Jane Street (503),a
-43.865807,-79.540289,2,Jane Street (503),a
-43.8658079,-79.5319261,2,Sandway Crescent (911),a
-43.8658087,-79.5319883,2,Sandway Crescent (909),a
 43.8658098,-79.5181249,2,Corkwood Crescent (688),a
 43.8658135,-79.6217127,2,Kleinburg Summit Way (842),a
 43.8658227,-79.5614072,2,Phillips Lane (685),a
 43.8658243,-79.5923141,2,Pine Valley Drive (144),a
-43.8658252,-79.5407636,2,Ahmadiyya Avenue (495),a
-43.8658252,-79.5407636,2,Ahmadiyya Avenue (495),a
-43.8658279,-79.5250935,2,Drummond Drive (474),a
 43.8658302,-79.5238739,2,Purcell Crescent (955),a
 43.8658308,-79.5591918,2,Shady Vale Lane (703),a
 43.8658308,-79.4687113,2,Scuffler Drive (993),a
-43.8658312,-79.5250598,2,Drummond Drive (671),a
-43.8658318,-79.5399269,2,Colombo Crescent (175),a
-43.8658318,-79.5399269,2,Colombo Crescent (175),a
-43.8658318,-79.5399269,2,Colombo Crescent (216),a
-43.8658318,-79.5399269,2,Colombo Crescent (216),a
-43.8658318,-79.5399269,2,Vespucci Drive (477),a
-43.8658318,-79.5399269,2,Vespucci Drive (477),a
 43.8658325,-79.6242919,2,First Nations Trail (900),a
 43.8658325,-79.6242919,2,First Nations Trail (900),a
 43.8658325,-79.6242919,2,First Nations Trail (966),a
 43.8658325,-79.6242919,2,First Nations Trail (966),a
-43.8658332,-79.5404769,2,Ahmadiyya Avenue (922),a
-43.8658332,-79.5404769,2,Ahmadiyya Avenue (922),a
-43.8658354,-79.5404003,2,Ahmadiyya Avenue (494),a
-43.8658354,-79.5404003,2,Ahmadiyya Avenue (494),a
 43.8658371,-79.5596895,2,Louise Circle (859),a
-43.8658419,-79.5398209,2,Vespucci Drive (784),a
-43.8658419,-79.5398209,2,Vespucci Drive (784),a
 43.8658427,-79.6289316,2,Paula Court (721),a
 43.8658427,-79.5269999,2,Tayside Avenue (196),a
-43.8658439,-79.5249313,2,Drummond Drive (475),a
-43.8658439,-79.5249313,2,Logwood Drive (545),a
-43.8658439,-79.5249313,2,Monteith Crescent (093),a
 43.8658444,-79.5260227,2,Fermar Drive (409),a
 43.8658481,-79.4686391,2,Scuffler Drive (992),a
-43.8658614,-79.5396156,2,Vespucci Drive (485),a
-43.8658687,-79.5248219,2,Drummond Drive (672),a
 43.8658726,-79.5260244,2,Fermar Drive (869),a
 43.8658733,-79.5597011,2,Louise Circle (860),a
-43.8658777,-79.5394783,2,Vespucci Drive (486),a
 43.8658848,-79.6174742,2,Kipling Avenue (582),a
 43.8658856,-79.5238891,2,Purcell Crescent (400),a
 43.8658895,-79.6216929,2,Kleinburg Summit Way (843),a
@@ -45919,13 +45506,10 @@ lat,lon,sz,names,len_cat
 43.8659117,-79.6286811,2,Briarose Avenue (618),a
 43.8659117,-79.6286811,2,Paula Court (724),a
 43.8659117,-79.6286811,2,Theresa Circle (896),a
-43.8659119,-79.5393406,2,Vespucci Drive (487),a
-43.865912,-79.524631,2,Drummond Drive (476),a
 43.8659153,-79.5630352,2,Marlene Court (249),a
 43.8659183,-79.5597,2,Louise Circle (861),a
 43.86593,-79.5592019,2,Shady Vale Lane (704),a
 43.8659346,-79.5239026,2,Purcell Crescent (714),a
-43.8659496,-79.5249552,2,Monteith Crescent (770),a
 43.8659592,-79.5199257,2,St. Joan of Arc Avenue (734),a
 43.8659633,-79.5596989,2,Louise Circle (862),a
 43.865968,-79.468131,2,Hurst Avenue (129),a
@@ -45933,45 +45517,33 @@ lat,lon,sz,names,len_cat
 43.865968,-79.468131,2,Scuffler Drive (228),a
 43.8659689,-79.5172001,2,Solway Avenue (047),a
 43.8659689,-79.5172001,2,Solway Avenue (047),a
-43.8659697,-79.5459847,2,Mahmood Crescent (030),a
 43.8659714,-79.628406,2,Theresa Circle (897),a
 43.8659758,-79.6415849,2,Kirby Road (242),a
 43.8659815,-79.561142,2,Phillips Lane (687),a
 43.8659863,-79.6197478,2,Arctic Grail (180),a
 43.8659871,-79.5149028,2,Keele Street (752),a
 43.8659871,-79.5149028,2,Keele Street (773),a
-43.8659914,-79.5307891,2,Maple Meadows Lane (377),a
 43.865993,-79.6287042,2,Briarose Avenue (619),a
 43.8659975,-79.4885616,2,Sir Benson Drive (845),a
 43.8659982,-79.6206282,2,Butterfly Heights (047),a
 43.865999,-79.5596731,2,Louise Circle (863),a
 43.8660016,-79.488532,2,Sir Benson Drive (524),a
-43.8660044,-79.5241185,2,Drummond Drive (477),a
 43.86601,-79.6206275,2,Butterfly Heights (048),a
-43.8660104,-79.5470664,2,Mahmood Crescent (053),a
 43.8660173,-79.5181571,2,Corkwood Crescent (689),a
 43.8660293,-79.5592244,2,Shady Vale Lane (705),a
 43.86603,-79.6197607,2,Arctic Grail (111),a
-43.8660301,-79.5443654,2,Abdus Salam Street (659),a
-43.8660312,-79.5444525,2,Abdus Salam Street (660),a
 43.8660314,-79.4887195,2,Dufferin Street (813),a
 43.8660314,-79.4887195,2,Dufferin Street (814),a
 43.8660314,-79.4887195,2,Sir Benson Drive (844),a
 43.8660314,-79.4887195,2,Sir Benson Drive (903),a
-43.866038,-79.523931,2,Drummond Drive (478),a
-43.866038,-79.523931,2,Purcell Crescent (956),a
 43.8660382,-79.5260341,2,Fermar Drive (871),a
 43.8660385,-79.5199511,2,St. Joan of Arc Avenue (736),a
 43.8660417,-79.4882457,2,Sir Benson Drive (846),a
-43.8660425,-79.5249762,2,Monteith Crescent (094),a
 43.8660449,-79.4841436,2,Sir Benson Drive (829),a
-43.8660466,-79.5470779,2,Mahmood Crescent (051),a
 43.8660499,-79.5490003,2,Teston Road (093),a
 43.8660499,-79.5490003,2,Teston Road (721),a
 43.86605,-79.51605,2,Arco Circle (541),a
 43.86605,-79.51605,2,Arco Circle (541),a
-43.8660501,-79.5445267,2,Abdus Salam Street (661),a
-43.8660544,-79.5307876,2,Maple Meadows Lane (378),a
 43.8660597,-79.4689788,2,Via Romano Boulevard (963),a
 43.8660603,-79.6411225,2,Kirby Road (243),a
 43.8660616,-79.6202012,2,Ridgepoint Road (551),a
@@ -45990,13 +45562,10 @@ lat,lon,sz,names,len_cat
 43.8660738,-79.6200598,2,Ridgepoint Road (150),a
 43.8660802,-79.4872715,2,Woodville Drive (207),a
 43.8660837,-79.5484628,2,Teston Road (716),a
-43.8660866,-79.5445631,2,Abdus Salam Street (662),a
 43.8660869,-79.5630809,2,Marlene Court (250),a
 43.8660879,-79.561015,2,Phillips Lane (688),a
 43.8660881,-79.5198334,2,Corkwood Crescent (725),a
 43.8660894,-79.6199495,2,Ridgepoint Road (151),a
-43.8660902,-79.5307743,2,Maple Meadows Lane (379),a
-43.8660916,-79.5470768,2,Mahmood Crescent (049),a
 43.8660925,-79.6209903,2,Ridgepoint Road (543),a
 43.866095,-79.5197904,2,Corkwood Crescent (411),a
 43.8660983,-79.6198816,2,Ridgepoint Road (152),a
@@ -46010,14 +45579,8 @@ lat,lon,sz,names,len_cat
 43.8661112,-79.4872791,2,Woodville Drive (208),a
 43.8661162,-79.6197861,2,Arctic Grail (181),a
 43.8661162,-79.6197861,2,Ridgepoint Road (552),a
-43.8661169,-79.5307487,2,Maple Meadows Lane (380),a
 43.8661212,-79.5593715,2,Louise Circle (866),a
-43.8661231,-79.5445996,2,Abdus Salam Street (663),a
-43.8661234,-79.5439151,2,Abdus Salam Street (658),a
 43.866126,-79.519598,2,Corkwood Crescent (696),a
-43.8661274,-79.5470635,2,Mahmood Crescent (047),a
-43.8661298,-79.5296533,2,Cranston Park Avenue (505),a
-43.8661298,-79.5296533,2,Cranston Park Avenue (505),a
 43.86613,-79.5162,2,Arco Circle (538),a
 43.86613,-79.5162,2,Arco Circle (538),a
 43.86613,-79.5162,2,Arco Circle (558),a
@@ -46025,7 +45588,6 @@ lat,lon,sz,names,len_cat
 43.8661329,-79.5067665,2,Rodinea Road (452),a
 43.8661331,-79.6197003,2,Ridgepoint Road (878),a
 43.8661335,-79.4883192,2,Sir Benson Drive (092),a
-43.8661344,-79.530711,2,Maple Meadows Lane (381),a
 43.8661372,-79.5260317,2,Fermar Drive (873),a
 43.8661374,-79.5486158,2,Teston Road (720),a
 43.8661377,-79.5592467,2,Louise Circle (867),a
@@ -46036,37 +45598,22 @@ lat,lon,sz,names,len_cat
 43.866151,-79.6187892,2,Ridgepoint Road (155),a
 43.8661553,-79.5484035,2,Teston Road (719),a
 43.8661575,-79.4843484,2,Sir Benson Drive (518),a
-43.866158,-79.5380244,2,Vespucci Drive (414),a
-43.8661605,-79.5306357,2,Maple Meadows Lane (382),a
 43.8661609,-79.5482488,2,Teston Road (097),a
 43.8661609,-79.5482488,2,Teston Road (717),a
 43.8661609,-79.5482488,2,Teston Road (718),a
-43.8661667,-79.537978,2,Vespucci Drive (785),a
 43.8661674,-79.6274806,2,Theresa Circle (898),a
 43.8661684,-79.5631163,2,Marlene Court (251),a
-43.8661717,-79.5470002,2,Mahmood Crescent (046),a
 43.866172,-79.6214224,2,Ridgepoint Road (148),a
 43.866172,-79.6214224,2,Ridgepoint Road (611),a
 43.8661765,-79.5609009,2,Phillips Lane (689),a
-43.866177,-79.5305232,2,Maple Meadows Lane (383),a
 43.8661774,-79.5154213,2,Arco Circle (543),a
 43.8661796,-79.6214609,2,Ridgepoint Road (610),a
 43.8661796,-79.564012,2,Marlene Court (226),a
 43.8661796,-79.564012,2,Marlene Court (226),a
-43.866184,-79.5378922,2,Ashton Drive (201),a
-43.866184,-79.5378922,2,Ashton Drive (202),a
-43.866184,-79.5378922,2,Vespucci Drive (488),a
 43.8661853,-79.4861826,2,Alex Black Street (431),a
-43.8661884,-79.5469003,2,Mahmood Crescent (044),a
-43.8661903,-79.5435152,2,Abdus Salam Street (657),a
-43.8661903,-79.5435152,2,Bashir Street (693),a
-43.8661903,-79.5435152,2,Bashir Street (699),a
-43.8661918,-79.5303459,2,Laneway V48 (406),a
-43.8661918,-79.5303459,2,Maple Meadows Lane (384),a
 43.8661923,-79.5153752,2,Arco Circle (545),a
 43.8661951,-79.5638125,2,Marlene Court (228),a
 43.8661951,-79.5638125,2,Marlene Court (228),a
-43.8661956,-79.5460538,2,Mahmood Crescent (032),a
 43.8662021,-79.6215763,2,First Nations Trail (208),a
 43.8662021,-79.6215763,2,Kleinburg Summit Way (844),a
 43.8662021,-79.6215763,2,Ridgepoint Road (250),a
@@ -46097,20 +45644,14 @@ lat,lon,sz,names,len_cat
 43.8662364,-79.6217519,2,First Nations Trail (613),a
 43.8662397,-79.6395504,2,Kirby Road (249),a
 43.8662487,-79.5200306,2,St. Joan of Arc Avenue (745),a
-43.86625,-79.5460774,2,Mahmood Crescent (034),a
-43.8662505,-79.5250457,2,Monteith Crescent (095),a
-43.8662531,-79.5228969,2,Drummond Drive (479),a
-43.8662572,-79.529939,2,Maple Meadows Lane (385),a
 43.8662574,-79.5172303,2,Solway Avenue (048),a
 43.8662574,-79.5172303,2,Solway Avenue (048),a
 43.8662644,-79.6288099,2,Briarose Avenue (620),a
-43.8662714,-79.5298478,2,Maple Meadows Lane (457),a
 43.8662729,-79.6222897,2,First Nations Trail (967),a
 43.866273,-79.6215532,2,Kleinburg Summit Way (040),a
 43.8662735,-79.6393629,2,Kirby Road (250),a
 43.8662741,-79.5607865,2,Phillips Lane (690),a
 43.8662769,-79.6219757,2,First Nations Trail (393),a
-43.8662773,-79.5461016,2,Mahmood Crescent (036),a
 43.8662817,-79.5260655,2,Fermar Drive (874),a
 43.8662829,-79.6222343,2,First Nations Trail (511),a
 43.866283,-79.4846616,2,Sir Benson Drive (828),a
@@ -46121,42 +45662,19 @@ lat,lon,sz,names,len_cat
 43.8662868,-79.6221789,2,First Nations Trail (512),a
 43.8662889,-79.6221034,2,First Nations Trail (514),a
 43.8662892,-79.6221129,2,First Nations Trail (513),a
-43.8662926,-79.5297115,2,Cranston Park Avenue (506),a
-43.8662926,-79.5297115,2,Cranston Park Avenue (506),a
-43.8662926,-79.5297115,2,Fermar Drive (898),a
-43.8662926,-79.5297115,2,Fermar Drive (898),a
-43.8662926,-79.5297115,2,Maple Meadows Lane (386),a
-43.8662926,-79.5297115,2,Maple Meadows Lane (386),a
 43.8662926,-79.4873246,2,Woodville Drive (099),a
-43.8662962,-79.5461758,2,Mahmood Crescent (038),a
 43.8663046,-79.5153205,2,Arco Circle (551),a
 43.8663046,-79.5153205,2,Arco Circle (566),a
-43.866306,-79.5462378,2,Mahmood Crescent (040),a
-43.8663071,-79.5463249,2,Mahmood Crescent (042),a
-43.8663081,-79.5337183,2,Ridgeway Court (621),a
-43.8663091,-79.533793,2,Ridgeway Court (622),a
-43.8663118,-79.5295842,2,Fermar Drive (900),a
-43.8663118,-79.5295842,2,Fermar Drive (900),a
-43.8663146,-79.5295658,2,Fermar Drive (512),a
-43.8663146,-79.5295658,2,Fermar Drive (512),a
 43.8663154,-79.4865282,2,Sir Benson Drive (822),a
 43.8663213,-79.5186847,2,Corkwood Crescent (694),a
 43.8663254,-79.5183113,2,Corkwood Crescent (691),a
 43.8663285,-79.4861984,2,Alex Black Street (686),a
 43.8663285,-79.4861984,2,Sir Benson Drive (823),a
-43.8663306,-79.5425162,2,Nasir Crescent (722),a
-43.8663306,-79.5425162,2,Tahir Street (697),a
-43.8663306,-79.5425162,2,Tahir Street (702),a
-43.8663337,-79.5336057,2,Ridgeway Court (620),a
-43.8663341,-79.5294367,2,Fermar Drive (903),a
-43.8663341,-79.5294367,2,Fermar Drive (903),a
-43.8663369,-79.5338545,2,Ridgeway Court (623),a
 43.8663376,-79.4873285,2,Woodville Drive (100),a
 43.8663413,-79.4701588,2,Foley Crescent (237),a
 43.8663413,-79.4701588,2,Redelmeier Court (020),a
 43.8663456,-79.5593163,2,Shady Vale Lane (696),a
 43.8663505,-79.4850824,2,Sir Benson Drive (826),a
-43.8663507,-79.5335306,2,Ridgeway Court (619),a
 43.8663592,-79.4855529,2,Sir Benson Drive (825),a
 43.8663592,-79.4855529,2,William Bowes Boulevard (370),a
 43.8663603,-79.5472083,2,Teston Road (152),a
@@ -46171,24 +45689,16 @@ lat,lon,sz,names,len_cat
 43.8663756,-79.5291619,2,Fermar Drive (905),a
 43.8663756,-79.5291619,2,Fermar Drive (905),a
 43.866376,-79.527096,2,Tayside Avenue (199),a
-43.8663823,-79.5338907,2,Ridgeway Court (624),a
 43.8663844,-79.6388502,2,Kirby Road (267),a
-43.8663851,-79.5446679,2,Abdus Salam Street (664),a
-43.8663951,-79.525092,2,Monteith Crescent (096),a
-43.8664171,-79.521933,2,Drummond Drive (480),a
 43.8664196,-79.4855592,2,William Bowes Boulevard (369),a
 43.8664258,-79.5628238,2,Marlene Court (241),a
 43.8664275,-79.6215029,2,Kleinburg Summit Way (845),a
-43.8664344,-79.5400621,2,Colombo Crescent (178),a
-43.8664344,-79.5400621,2,Colombo Crescent (178),a
 43.8664352,-79.5288991,2,Fermar Drive (906),a
 43.8664352,-79.5288991,2,Fermar Drive (906),a
 43.8664409,-79.4702152,2,Foley Crescent (238),a
 43.8664428,-79.4855616,2,William Bowes Boulevard (368),a
 43.8664474,-79.5454325,2,Mosque Gate (293),a
 43.8664474,-79.5454325,2,Mosque Gate (889),a
-43.866471,-79.5329,2,Ridgeway Court (611),a
-43.866471,-79.5329,2,Ridgeway Court (618),a
 43.8664748,-79.5201121,2,St. Joan of Arc Avenue (743),a
 43.866477,-79.5625986,2,Marlene Court (243),a
 43.8664791,-79.5069972,2,Rodinea Road (453),a
@@ -46200,95 +45710,46 @@ lat,lon,sz,names,len_cat
 43.8665047,-79.5605072,2,Phillips Lane (693),a
 43.8665047,-79.5605072,2,Rimwood Circle (309),a
 43.8665089,-79.4692786,2,Foley Crescent (883),a
-43.8665101,-79.5417652,2,Nasir Crescent (726),a
 43.8665135,-79.6383494,2,Kirby Road (282),a
-43.8665154,-79.5400601,2,Colombo Crescent (179),a
-43.8665154,-79.5400601,2,Colombo Crescent (179),a
 43.8665205,-79.5271298,2,Tayside Avenue (200),a
-43.8665295,-79.5463252,2,Teston Road (711),a
 43.8665301,-79.469159,2,Conger Street (988),a
 43.8665301,-79.469159,2,Foley Crescent (236),a
 43.8665301,-79.469159,2,Via Romano Boulevard (964),a
-43.8665343,-79.5380187,2,Ashton Drive (203),a
 43.8665359,-79.5656207,2,Weston Road (466),a
 43.8665359,-79.5656207,2,Weston Road (466),a
 43.8665385,-79.6214689,2,Kleinburg Summit Way (846),a
-43.8665481,-79.5426229,2,Tahir Street (700),a
-43.866551,-79.5400344,2,Colombo Crescent (181),a
-43.866551,-79.5400344,2,Colombo Crescent (181),a
 43.8665536,-79.4690415,2,Conger Street (984),a
 43.8665579,-79.5604437,2,Phillips Lane (694),a
 43.8665596,-79.5605806,2,Rimwood Circle (310),a
 43.866564,-79.5172724,2,Solway Avenue (049),a
 43.866564,-79.5172724,2,Solway Avenue (049),a
 43.866565,-79.4689749,2,Conger Street (985),a
-43.8665722,-79.5339483,2,Ridgeway Court (625),a
-43.8665821,-79.5210729,2,Drummond Drive (481),a
-43.8665866,-79.5399961,2,Colombo Crescent (183),a
-43.8665866,-79.5399961,2,Colombo Crescent (183),a
 43.8666005,-79.5924973,2,Pine Valley Drive (145),a
-43.8666036,-79.5251379,2,Monteith Crescent (092),a
-43.8666036,-79.5251379,2,Monteith Crescent (098),a
-43.8666036,-79.5251379,2,Monteith Crescent (338),a
 43.8666064,-79.5150396,2,Keele Street (774),a
 43.8666095,-79.6214589,2,Kleinburg Summit Way (847),a
 43.8666108,-79.5603553,2,Phillips Lane (695),a
-43.8666128,-79.5399333,2,Colombo Crescent (185),a
-43.8666128,-79.5399333,2,Colombo Crescent (185),a
 43.8666146,-79.5606539,2,Rimwood Circle (311),a
 43.8666172,-79.5594342,2,Shady Vale Lane (698),a
 43.8666191,-79.5455524,2,Mosque Gate (624),a
-43.8666266,-79.5410156,2,Nasir Crescent (729),a
-43.8666266,-79.5410156,2,Nasir Crescent (729),a
-43.8666277,-79.5249742,2,Monteith Crescent (069),a
-43.8666284,-79.5397462,2,Colombo Crescent (188),a
-43.8666284,-79.5397462,2,Colombo Crescent (188),a
 43.8666294,-79.5272018,2,Tayside Avenue (201),a
-43.8666343,-79.5409159,2,Nasir Crescent (732),a
-43.8666343,-79.5409159,2,Nasir Crescent (732),a
 43.8666369,-79.5455659,2,Mosque Gate (070),a
-43.8666427,-79.5408659,2,Nasir Crescent (735),a
-43.8666427,-79.5408659,2,Nasir Crescent (735),a
 43.8666441,-79.6289381,2,Briarose Avenue (622),a
-43.8666445,-79.5395965,2,Colombo Crescent (190),a
-43.8666445,-79.5395965,2,Colombo Crescent (190),a
-43.866648,-79.5247864,2,Monteith Crescent (071),a
-43.8666557,-79.5320422,2,Ridgeway Court (610),a
-43.8666557,-79.5320422,2,Ridgeway Court (614),a
-43.8666557,-79.5320422,2,Willow Tree Street (675),a
-43.8666608,-79.5380529,2,Ashton Drive (204),a
 43.8666608,-79.5261432,2,Fermar Drive (877),a
-43.8666608,-79.5201927,2,St. Joan of Arc Avenue (746),a
-43.8666721,-79.5245645,2,Monteith Crescent (072),a
 43.8666729,-79.5602792,2,Phillips Lane (696),a
-43.8666811,-79.5319171,2,Ridgeway Court (615),a
 43.8666821,-79.5277979,2,Fermar Drive (908),a
 43.8666821,-79.5277979,2,Fermar Drive (908),a
-43.8666872,-79.5408275,2,Nasir Crescent (737),a
-43.8666872,-79.5408275,2,Nasir Crescent (737),a
 43.8666886,-79.5458328,2,Teston Road (380),a
-43.8666988,-79.533995,2,Ridgeway Court (626),a
-43.8667013,-79.5243999,2,Monteith Crescent (073),a
-43.8667045,-79.5204673,2,Drummond Drive (482),a
 43.8667057,-79.5607388,2,Rimwood Circle (312),a
-43.8667065,-79.5317921,2,Ridgeway Court (616),a
 43.866708,-79.5277101,2,Fermar Drive (909),a
 43.866708,-79.5277101,2,Fermar Drive (909),a
-43.8667127,-79.5392962,2,Colombo Crescent (193),a
-43.8667135,-79.5448026,2,Abdus Salam Street (665),a
 43.8667171,-79.5602159,2,Phillips Lane (697),a
 43.8667244,-79.5275853,2,Fermar Drive (910),a
 43.8667244,-79.5275853,2,Fermar Drive (910),a
-43.8667259,-79.5203462,2,Drummond Drive (673),a
 43.8667293,-79.5272616,2,Tayside Avenue (202),a
 43.866735,-79.5594936,2,Shady Vale Lane (699),a
 43.8667389,-79.6376225,2,Kirby Road (283),a
 43.8667389,-79.6376225,2,Kirby Road (283),a
 43.8667418,-79.5096691,2,Rodinea Road (607),a
-43.8667421,-79.5380758,2,Ashton Drive (205),a
-43.8667464,-79.5202298,2,Drummond Drive (483),a
-43.8667464,-79.5202298,2,St. Joan of Arc Avenue (744),a
-43.8667464,-79.5202298,2,St. Joan of Arc Avenue (749),a
 43.8667523,-79.5601528,2,Phillips Lane (698),a
 43.8667523,-79.5601528,2,Phillips Lane (734),a
 43.8667523,-79.5601528,2,Rimwood Circle (319),a
@@ -46297,79 +45758,51 @@ lat,lon,sz,names,len_cat
 43.8667543,-79.5456553,2,Teston Road (710),a
 43.8667543,-79.5456553,2,Teston Road (793),a
 43.8667614,-79.6289603,2,Briarose Avenue (623),a
-43.8667748,-79.5201007,2,Drummond Drive (674),a
 43.8667763,-79.5274222,2,Fermar Drive (911),a
 43.8667846,-79.5098121,2,Rodinea Road (456),a
 43.8667875,-79.5261899,2,Fermar Drive (881),a
-43.8667925,-79.5251871,2,Monteith Crescent (091),a
 43.8667959,-79.5607491,2,Rimwood Circle (313),a
-43.8667981,-79.5340174,2,Ridgeway Court (627),a
 43.8667987,-79.5093676,2,Rodinea Road (606),a
-43.8668017,-79.5448447,2,Abdus Salam Street (666),a
 43.8668052,-79.5600644,2,Phillips Lane (736),a
 43.86681,-79.5455,2,Teston Road (794),a
 43.8668111,-79.5273218,2,Fermar Drive (896),a
 43.8668111,-79.5273218,2,Fermar Drive (912),a
 43.8668111,-79.5273218,2,Tayside Avenue (203),a
 43.8668173,-79.5098416,2,Rodinea Road (457),a
-43.8668229,-79.5380614,2,Ashton Drive (194),a
-43.8668229,-79.5380614,2,Ashton Drive (206),a
-43.8668229,-79.5380614,2,Colombo Crescent (206),a
-43.8668238,-79.538833,2,Colombo Crescent (195),a
 43.8668326,-79.6176836,2,Kipling Avenue (583),a
 43.8668344,-79.5172906,2,Solway Avenue (050),a
 43.8668344,-79.5172906,2,Solway Avenue (050),a
 43.8668369,-79.5454498,2,Teston Road (765),a
 43.8668369,-79.527234,2,Fermar Drive (894),a
-43.8668489,-79.5381435,2,Colombo Crescent (394),a
-43.8668588,-79.5448282,2,Abdus Salam Street (667),a
 43.8668621,-79.5595777,2,Shady Vale Lane (700),a
 43.8668646,-79.5150982,2,Keele Street (775),a
 43.8668674,-79.56071,2,Rimwood Circle (314),a
-43.8668684,-79.5202677,2,St. Joan of Arc Avenue (762),a
-43.8668699,-79.5382096,2,Colombo Crescent (204),a
 43.8668714,-79.4675711,2,Conger Street (989),a
 43.8668757,-79.5599383,2,Phillips Lane (738),a
-43.8668766,-79.5310163,2,Craddock Street (811),a
-43.8668766,-79.5310163,2,Ridgeway Court (612),a
-43.8668766,-79.5310163,2,Ridgeway Court (617),a
 43.8668784,-79.5098966,2,Rodinea Road (608),a
 43.8668802,-79.5602991,2,Rimwood Circle (318),a
-43.866883,-79.5385329,2,Colombo Crescent (197),a
-43.8668854,-79.5408351,2,Nasir Crescent (740),a
-43.8668854,-79.5408351,2,Nasir Crescent (740),a
-43.8668894,-79.5383336,2,Colombo Crescent (201),a
 43.86689,-79.48851,2,William Bowes Boulevard (349),a
 43.86689,-79.48842,2,William Bowes Boulevard (348),a
-43.8668907,-79.5384331,2,Colombo Crescent (199),a
 43.8668982,-79.5270956,2,Fermar Drive (892),a
-43.8668992,-79.5447821,2,Abdus Salam Street (668),a
 43.8669,-79.48828,2,William Bowes Boulevard (347),a
-43.8669004,-79.5252184,2,Monteith Crescent (621),a
 43.8669025,-79.6369965,2,Kirby Road (284),a
 43.8669025,-79.6369965,2,Kirby Road (284),a
-43.8669027,-79.5232625,2,Monteith Crescent (075),a
 43.8669074,-79.5089086,2,Rodinea Road (455),a
 43.8669115,-79.5606343,2,Rimwood Circle (315),a
 43.86692,-79.48857,2,William Bowes Boulevard (350),a
 43.86692,-79.48562,2,William Bowes Boulevard (367),a
 43.8669234,-79.6289566,2,Briarose Avenue (624),a
-43.8669319,-79.543771,2,Bashir Street (694),a
 43.8669325,-79.6215109,2,Kleinburg Summit Way (848),a
 43.8669356,-79.5604097,2,Rimwood Circle (317),a
-43.866936,-79.5310391,2,Craddock Street (742),a
 43.8669373,-79.5598248,2,Phillips Lane (740),a
 43.866946,-79.5605215,2,Rimwood Circle (316),a
-43.8669464,-79.5231618,2,Monteith Crescent (077),a
 43.8669501,-79.5262356,2,Fermar Drive (883),a
-43.8669573,-79.5380084,2,Ashton Drive (195),a
 43.86696,-79.5163,2,Arco Circle (531),a
 43.86696,-79.5163,2,Arco Circle (531),a
 43.86696,-79.5163,2,Arco Circle (553),a
 43.86696,-79.5163,2,Arco Circle (553),a
 43.86696,-79.5163,2,Arco Circle (564),a
 43.86696,-79.5163,2,Arco Circle (564),a
-43.8669733,-79.5252395,2,Monteith Crescent (090),a
 43.8669753,-79.526795,2,Fermar Drive (890),a
 43.86698,-79.487671,2,William Bowes Boulevard (346),a
 43.8669869,-79.4704403,2,Foley Crescent (239),a
@@ -46380,12 +45813,9 @@ lat,lon,sz,names,len_cat
 43.8669936,-79.5657348,2,Weston Road (359),a
 43.8669975,-79.6366583,2,Kirby Road (285),a
 43.8669975,-79.6366583,2,Kirby Road (285),a
-43.8669995,-79.5321707,2,Willow Tree Street (678),a
-43.867006,-79.5299283,2,Cranston Park Avenue (542),a
 43.8670075,-79.48752,2,Nancy Court (599),a
 43.8670075,-79.48752,2,William Bowes Boulevard (345),a
 43.8670075,-79.48752,2,Woodville Drive (101),a
-43.8670085,-79.5230856,2,Monteith Crescent (078),a
 43.8670088,-79.5265951,2,Fermar Drive (888),a
 43.86701,-79.5155,2,Arco Circle (568),a
 43.86701,-79.5155,2,Arco Circle (568),a
@@ -46409,17 +45839,9 @@ lat,lon,sz,names,len_cat
 43.86705,-79.51559,2,Arco Circle (563),a
 43.8670597,-79.5652603,2,Mattucci Court (997),a
 43.8670597,-79.5652603,2,Mattucci Court (997),a
-43.8670616,-79.5300866,2,Ridgeway Court (757),a
-43.8670665,-79.5428162,2,Nasir Crescent (768),a
-43.8670665,-79.5428162,2,Tahir Street (698),a
-43.8670665,-79.5428162,2,Tahir Street (706),a
 43.8670747,-79.636333,2,Kirby Road (286),a
 43.8670747,-79.636333,2,Kirby Road (286),a
 43.8670843,-79.4869188,2,Nancy Court (605),a
-43.8670881,-79.5299533,2,Cranston Park Avenue (434),a
-43.8670881,-79.5299533,2,Princeton Gate (376),a
-43.8670881,-79.5299533,2,Ridgeway Court (613),a
-43.8670895,-79.5426989,2,Nasir Crescent (764),a
 43.8670926,-79.5650106,2,Mattucci Court (999),a
 43.8670926,-79.5650106,2,Mattucci Court (999),a
 43.867095,-79.559485,2,Phillips Lane (716),a
@@ -46427,18 +45849,12 @@ lat,lon,sz,names,len_cat
 43.8671087,-79.5081212,2,Rodinea Road (604),a
 43.86711,-79.51635,2,Arco Circle (533),a
 43.86711,-79.51635,2,Arco Circle (533),a
-43.8671157,-79.5438748,2,Bashir Street (695),a
-43.8671162,-79.5298228,2,Princeton Gate (471),a
-43.8671163,-79.5230705,2,Monteith Crescent (079),a
-43.8671171,-79.5203451,2,St. Joan of Arc Avenue (757),a
 43.8671214,-79.6289521,2,Briarose Avenue (625),a
 43.867123,-79.515084,2,Keele Street (798),a
 43.8671248,-79.5647111,2,Mattucci Court (000),a
 43.8671248,-79.5647111,2,Mattucci Court (000),a
 43.8671249,-79.6444443,2,Highway 27 (802),a
-43.8671268,-79.525273,2,Monteith Crescent (089),a
 43.86713,-79.48568,2,William Bowes Boulevard (366),a
-43.8671362,-79.5379169,2,Ashton Drive (196),a
 43.8671461,-79.5184154,2,Drummond Drive (484),a
 43.8671559,-79.5593093,2,Phillips Lane (718),a
 43.8671559,-79.5072842,2,Rodinea Road (600),a
@@ -46446,43 +45862,23 @@ lat,lon,sz,names,len_cat
 43.8671595,-79.5173697,2,Solway Avenue (052),a
 43.8671598,-79.6359204,2,Kirby Road (295),a
 43.8671598,-79.6359204,2,Kirby Road (295),a
-43.8671984,-79.520368,2,St. Joan of Arc Avenue (753),a
-43.8671985,-79.5294403,2,Princeton Gate (377),a
-43.8671985,-79.5294403,2,Princeton Gate (377),a
 43.867206,-79.4729138,2,Farrell Road (310),a
 43.8672094,-79.5447538,2,Teston Road (671),a
 43.8672094,-79.5447538,2,Teston Road (795),a
 43.867211,-79.4728245,2,Farrell Road (309),a
-43.8672114,-79.531145,2,Craddock Street (816),a
 43.8672126,-79.4889987,2,Dufferin Street (673),a
 43.8672126,-79.4889987,2,Dufferin Street (674),a
 43.8672156,-79.4705204,2,Foley Crescent (240),a
-43.8672157,-79.523093,2,Monteith Crescent (080),a
-43.867218,-79.5440001,2,Bashir Street (696),a
-43.8672203,-79.5442245,2,Abdus Salam Street (669),a
 43.8672252,-79.559096,2,Phillips Lane (720),a
-43.8672258,-79.521786,2,St. Joan of Arc Avenue (747),a
 43.8672298,-79.5173985,2,Solway Avenue (338),a
 43.8672298,-79.5173985,2,Solway Avenue (338),a
 43.8672332,-79.5073593,2,Rodinea Road (454),a
-43.8672343,-79.525233,2,Monteith Crescent (088),a
-43.8672367,-79.5219351,2,St. Joan of Arc Avenue (761),a
-43.8672379,-79.5409385,2,Nasir Crescent (742),a
-43.8672379,-79.5409385,2,Nasir Crescent (742),a
 43.8672387,-79.5179153,2,Drummond Drive (485),a
-43.8672394,-79.5441222,2,Abdus Salam Street (670),a
-43.8672394,-79.5441222,2,Bashir Street (697),a
 43.8672565,-79.4732306,2,Farrell Road (311),a
 43.8672584,-79.5074907,2,Rodinea Road (602),a
 43.8672656,-79.6289612,2,Briarose Avenue (626),a
-43.8672708,-79.5322636,2,Willow Tree Street (681),a
-43.8672759,-79.5378641,2,Ashton Drive (189),a
 43.8672768,-79.5589081,2,Phillips Lane (722),a
 43.8672961,-79.6352701,2,Kirby Road (296),a
-43.8673012,-79.5409619,2,Nasir Crescent (744),a
-43.8673012,-79.5409619,2,Nasir Crescent (744),a
-43.8673019,-79.5214108,2,St. Joan of Arc Avenue (755),a
-43.8673069,-79.5204026,2,St. Joan of Arc Avenue (750),a
 43.867308,-79.4694483,2,Straw Cutter Gate (552),a
 43.867308,-79.4694483,2,Via Romano Boulevard (277),a
 43.867308,-79.4694483,2,Via Romano Boulevard (310),a
@@ -46499,7 +45895,6 @@ lat,lon,sz,names,len_cat
 43.86732,-79.56373,2,Rocmary Place (185),a
 43.86732,-79.5587577,2,Phillips Lane (724),a
 43.8673267,-79.4692922,2,Straw Cutter Gate (991),a
-43.867328,-79.5220324,2,St. Joan of Arc Avenue (754),a
 43.8673302,-79.6351076,2,Kirby Road (298),a
 43.8673302,-79.6351076,2,Kirby Road (299),a
 43.8673315,-79.5174401,2,Blackthorn Drive (289),a
@@ -46508,64 +45903,31 @@ lat,lon,sz,names,len_cat
 43.8673315,-79.5174401,2,Drummond Drive (471),a
 43.8673315,-79.5174401,2,Solway Avenue (053),a
 43.8673315,-79.5174401,2,Solway Avenue (053),a
-43.8673379,-79.5311792,2,Craddock Street (818),a
 43.8673407,-79.5299969,2,Cranston Park Avenue (435),a
-43.8673465,-79.5409856,2,Nasir Crescent (752),a
-43.8673465,-79.5409856,2,Nasir Crescent (752),a
 43.8673541,-79.5586076,2,Phillips Lane (726),a
-43.8673546,-79.5378343,2,Ashton Drive (177),a
-43.8673546,-79.5378343,2,Ashton Drive (197),a
-43.8673546,-79.5378343,2,Giotto Crescent (339),a
 43.8673573,-79.5163821,2,Arco Circle (535),a
 43.8673573,-79.5163821,2,Arco Circle (535),a
-43.8673593,-79.5407238,2,Jane Street (451),a
-43.8673593,-79.5407238,2,Jane Street (451),a
-43.8673593,-79.5407238,2,Jane Street (895),a
-43.8673593,-79.5407238,2,Jane Street (895),a
-43.8673593,-79.5407238,2,Jane Street (956),a
-43.8673593,-79.5407238,2,Jane Street (956),a
-43.8673614,-79.5211355,2,St. Joan of Arc Avenue (759),a
-43.8673743,-79.5410472,2,Nasir Crescent (755),a
-43.8673743,-79.5410472,2,Nasir Crescent (755),a
-43.8673767,-79.5412338,2,Nasir Crescent (762),a
-43.8673767,-79.5412338,2,Nasir Crescent (762),a
 43.8673815,-79.6348824,2,Kirby Road (231),a
 43.8673815,-79.6348824,2,Kirby Road (301),a
 43.867383,-79.468823,2,Straw Cutter Gate (553),a
-43.8673847,-79.5411589,2,Nasir Crescent (759),a
-43.8673847,-79.5411589,2,Nasir Crescent (759),a
-43.8673873,-79.5231385,2,Monteith Crescent (081),a
-43.8673885,-79.5323105,2,Willow Tree Street (685),a
-43.8673887,-79.537948,2,Giotto Crescent (340),a
 43.8673915,-79.5172021,2,Drummond Drive (472),a
 43.8673915,-79.5172021,2,Drummond Drive (472),a
 43.867392,-79.468744,2,Straw Cutter Gate (554),a
-43.8673935,-79.5285022,2,Princeton Gate (379),a
-43.8673935,-79.5285022,2,Princeton Gate (379),a
 43.867404,-79.468665,2,Straw Cutter Gate (555),a
 43.8674054,-79.5583948,2,Phillips Lane (728),a
-43.8674066,-79.5246314,2,Monteith Crescent (087),a
 43.86741,-79.6289952,2,Briarose Avenue (627),a
 43.8674103,-79.5152776,2,Keele Street (781),a
-43.8674119,-79.5208605,2,St. Joan of Arc Avenue (752),a
-43.8674138,-79.5399137,2,Giotto Crescent (327),a
-43.8674138,-79.5399137,2,Giotto Crescent (327),a
 43.8674146,-79.5637621,2,Rocmary Place (387),a
 43.8674146,-79.5637621,2,Rocmary Place (387),a
 43.8674159,-79.6347447,2,Kirby Road (232),a
 43.86742,-79.468588,2,Straw Cutter Gate (556),a
 43.8674231,-79.5151456,2,Keele Street (799),a
-43.867425,-79.5204868,2,St. Joan of Arc Avenue (748),a
 43.8674254,-79.5174839,2,Blackthorn Drive (526),a
 43.8674254,-79.5174839,2,Blackthorn Drive (526),a
 43.86743,-79.48763,2,Woodville Drive (209),a
 43.8674342,-79.5170269,2,Drummond Drive (473),a
 43.8674342,-79.5170269,2,Drummond Drive (473),a
-43.8674445,-79.5205983,2,St. Joan of Arc Avenue (756),a
-43.8674449,-79.5381209,2,Giotto Crescent (341),a
 43.8674459,-79.5630358,2,Mattucci Court (946),a
-43.867447,-79.5396889,2,Giotto Crescent (328),a
-43.867447,-79.5396889,2,Giotto Crescent (328),a
 43.8674474,-79.5581573,2,Phillips Lane (730),a
 43.8674517,-79.4738043,2,Farrell Road (313),a
 43.8674583,-79.5174992,2,Blackthorn Drive (290),a
@@ -46574,7 +45936,6 @@ lat,lon,sz,names,len_cat
 43.8674586,-79.5168271,2,Drummond Drive (474),a
 43.8674634,-79.5165034,2,Drummond Drive (475),a
 43.8674634,-79.5165034,2,Drummond Drive (475),a
-43.8674642,-79.531201,2,Craddock Street (822),a
 43.8674676,-79.5163689,2,Arco Circle (536),a
 43.8674676,-79.5163689,2,Arco Circle (536),a
 43.8674676,-79.5163689,2,Drummond Drive (476),a
@@ -46583,18 +45944,14 @@ lat,lon,sz,names,len_cat
 43.8674676,-79.5163689,2,Treasure Hill Road (444),a
 43.8674676,-79.5156541,2,Drummond Drive (478),a
 43.8674676,-79.5156541,2,Drummond Drive (478),a
-43.8674755,-79.537697,2,Ashton Drive (179),a
 43.8674767,-79.5161422,2,Drummond Drive (486),a
 43.8674767,-79.5161422,2,Drummond Drive (486),a
 43.8674797,-79.5628607,2,Mattucci Court (948),a
-43.867482,-79.5221032,2,St. Joan of Arc Avenue (751),a
 43.867482,-79.5158558,2,Drummond Drive (487),a
 43.867482,-79.5158558,2,Drummond Drive (487),a
-43.8674841,-79.5242173,2,Monteith Crescent (307),a
 43.8674936,-79.5154475,2,Drummond Drive (689),a
 43.8674936,-79.5154475,2,Drummond Drive (689),a
 43.8674937,-79.5299931,2,Cranston Park Avenue (436),a
-43.8674966,-79.5323202,2,Willow Tree Street (688),a
 43.867498,-79.5578823,2,Phillips Lane (732),a
 43.8674984,-79.515731,2,Drummond Drive (444),a
 43.8674984,-79.515731,2,Drummond Drive (444),a
@@ -46602,38 +45959,22 @@ lat,lon,sz,names,len_cat
 43.8674984,-79.515731,2,Drummond Drive (477),a
 43.8674984,-79.515731,2,Drummond Drive (687),a
 43.8674984,-79.515731,2,Drummond Drive (687),a
-43.8675068,-79.5394385,2,Giotto Crescent (329),a
-43.8675068,-79.5394385,2,Giotto Crescent (329),a
-43.867509,-79.5429905,2,Tahir Street (705),a
-43.8675098,-79.5240801,2,Monteith Crescent (086),a
 43.8675141,-79.5627355,2,Mattucci Court (950),a
-43.8675156,-79.5408654,2,Jane Street (894),a
-43.8675156,-79.5408654,2,Jane Street (894),a
-43.8675185,-79.5382435,2,Giotto Crescent (342),a
-43.8675273,-79.5239763,2,Monteith Crescent (306),a
-43.8675292,-79.5278517,2,Princeton Gate (380),a
-43.8675292,-79.5278517,2,Princeton Gate (380),a
 43.8675335,-79.6228609,2,Silver Morning Court (256),a
-43.8675349,-79.5407099,2,Jane Street (957),a
-43.8675349,-79.5407099,2,Jane Street (957),a
 43.8675444,-79.4739694,2,Aplary Gate (798),a
 43.8675444,-79.4739694,2,Farrell Road (314),a
-43.86755,-79.5231843,2,Monteith Crescent (082),a
 43.86755,-79.48763,2,Woodville Drive (210),a
 43.8675547,-79.6290417,2,Briarose Avenue (628),a
-43.8675579,-79.5237939,2,Monteith Crescent (085),a
 43.8675579,-79.5153129,2,Drummond Drive (441),a
 43.8675579,-79.5153129,2,Drummond Drive (481),a
 43.8675579,-79.5153129,2,Drummond Drive (688),a
 43.8675579,-79.5153129,2,Keele Street (672),a
 43.8675579,-79.5153129,2,Keele Street (673),a
-43.8675591,-79.5393004,2,Giotto Crescent (330),a
 43.8675604,-79.5156548,2,Drummond Drive (443),a
 43.8675604,-79.5156548,2,Drummond Drive (443),a
 43.8675635,-79.5163624,2,Treasure Hill Road (601),a
 43.8675635,-79.5163624,2,Treasure Hill Road (601),a
 43.8675664,-79.5625973,2,Mattucci Court (951),a
-43.867573,-79.5375702,2,Ashton Drive (181),a
 43.8675794,-79.5151786,2,Drummond Drive (605),a
 43.8675794,-79.5151786,2,Keele Street (784),a
 43.8675794,-79.5151786,2,Keele Street (800),a
@@ -46643,31 +45984,20 @@ lat,lon,sz,names,len_cat
 43.867582,-79.5154698,2,Drummond Drive (442),a
 43.8675879,-79.4726791,2,Farrell Road (315),a
 43.8675898,-79.4738997,2,Aplary Gate (867),a
-43.8675901,-79.5311854,2,Craddock Street (825),a
 43.8675907,-79.4706062,2,Foley Crescent (241),a
-43.8675953,-79.5322929,2,Willow Tree Street (690),a
-43.8676014,-79.5390878,2,Giotto Crescent (331),a
 43.867612,-79.5175451,2,Blackthorn Drive (291),a
 43.8676145,-79.6224066,2,Silver Morning Court (056),a
 43.8676156,-79.5102085,2,Rodinea Road (458),a
-43.8676172,-79.5235062,2,Monteith Crescent (084),a
 43.8676192,-79.5624965,2,Mattucci Court (953),a
-43.8676219,-79.540742,2,Jane Street (958),a
-43.8676219,-79.540742,2,Jane Street (958),a
-43.8676219,-79.540742,2,Jane Street (965),a
-43.8676219,-79.540742,2,Jane Street (965),a
 43.8676319,-79.5197723,2,Cassia Crescent (851),a
-43.8676324,-79.5232942,2,Monteith Crescent (083),a
 43.8676377,-79.5299896,2,Cranston Park Avenue (437),a
 43.867649,-79.6217651,2,Kleinburg Summit Way (041),a
 43.8676538,-79.6336463,2,Kirby Road (303),a
 43.867654,-79.6290643,2,Briarose Avenue (629),a
-43.8676555,-79.5271765,2,Princeton Gate (382),a
 43.8676563,-79.5195726,2,Cassia Crescent (850),a
 43.8676572,-79.5175565,2,Blackthorn Drive (292),a
 43.8676783,-79.5198832,2,Cassia Crescent (852),a
 43.86768,-79.48762,2,Woodville Drive (211),a
-43.8676836,-79.538476,2,Giotto Crescent (343),a
 43.8676901,-79.5624077,2,Mattucci Court (954),a
 43.8676933,-79.5153474,2,Keele Street (790),a
 43.8677,-79.4888,2,William Bowes Boulevard (352),a
@@ -46675,25 +46005,18 @@ lat,lon,sz,names,len_cat
 43.8677061,-79.5152107,2,Keele Street (785),a
 43.8677068,-79.4742862,2,Farrell Road (316),a
 43.8677085,-79.5462859,2,Shipwill Street (913),a
-43.8677158,-79.5311575,2,Craddock Street (828),a
-43.8677172,-79.5428983,2,Tahir Street (704),a
 43.86772,-79.48613,2,William Bowes Boulevard (363),a
-43.867724,-79.5388234,2,Giotto Crescent (332),a
 43.8677248,-79.6217921,2,Kleinburg Summit Way (849),a
 43.8677248,-79.6217921,2,Silver Morning Court (255),a
-43.8677353,-79.5221965,2,St. Joan of Arc Avenue (760),a
 43.8677446,-79.629112,2,Briarose Avenue (630),a
 43.8677559,-79.510268,2,Rodinea Road (459),a
 43.8677703,-79.5623435,2,Mattucci Court (956),a
 43.8677783,-79.5199554,2,Cassia Crescent (853),a
 43.8677837,-79.5175907,2,Blackthorn Drive (293),a
-43.8677991,-79.538707,2,Giotto Crescent (383),a
 43.8678,-79.48879,2,William Bowes Boulevard (353),a
 43.8678045,-79.4706392,2,Foley Crescent (242),a
 43.8678178,-79.5299851,2,Cranston Park Avenue (438),a
 43.86782,-79.54358,2,Teston Road (673),a
-43.86783,-79.5386591,2,Giotto Crescent (333),a
-43.86783,-79.5386591,2,Giotto Crescent (344),a
 43.8678337,-79.5153805,2,Keele Street (789),a
 43.8678337,-79.5153805,2,Keele Street (789),a
 43.86784,-79.48637,2,William Bowes Boulevard (362),a
@@ -46701,18 +46024,8 @@ lat,lon,sz,names,len_cat
 43.8678581,-79.4706463,2,Foley Crescent (244),a
 43.86786,-79.48875,2,William Bowes Boulevard (354),a
 43.8678661,-79.4875629,2,Woodville Drive (212),a
-43.8678677,-79.5261757,2,Princeton Gate (384),a
 43.8678685,-79.5622789,2,Mattucci Court (957),a
-43.8678716,-79.5409712,2,Jane Street (893),a
-43.8678716,-79.5409712,2,Jane Street (893),a
-43.8678799,-79.5222427,2,Blackthorn Drive (286),a
-43.8678799,-79.5222427,2,St. Joan of Arc Avenue (708),a
-43.8678799,-79.5222427,2,St. Joan of Arc Avenue (758),a
-43.8678926,-79.5408171,2,Jane Street (966),a
-43.8678926,-79.5408171,2,Jane Street (966),a
 43.8678946,-79.5185089,2,Cassia Crescent (849),a
-43.8678991,-79.5221416,2,Blackthorn Drive (376),a
-43.8679021,-79.5260504,2,Princeton Gate (385),a
 43.8679064,-79.4736576,2,Aplary Gate (799),a
 43.86791,-79.48865,2,William Bowes Boulevard (355),a
 43.86791,-79.4866,2,William Bowes Boulevard (361),a
@@ -46730,7 +46043,6 @@ lat,lon,sz,names,len_cat
 43.86793,-79.5165,2,Treasure Hill Road (463),a
 43.86793,-79.48689,2,William Bowes Boulevard (360),a
 43.8679364,-79.4746937,2,Farrell Road (317),a
-43.867937,-79.5259624,2,Princeton Gate (386),a
 43.86794,-79.51658,2,Treasure Hill Road (462),a
 43.86794,-79.51658,2,Treasure Hill Road (462),a
 43.86794,-79.48753,2,William Bowes Boulevard (359),a
@@ -46750,28 +46062,20 @@ lat,lon,sz,names,len_cat
 43.86797,-79.51621,2,Treasure Hill Road (447),a
 43.86798,-79.51664,2,Treasure Hill Road (461),a
 43.86798,-79.51664,2,Treasure Hill Road (461),a
-43.8679812,-79.5258991,2,Princeton Gate (387),a
 43.867984,-79.5153626,2,Keele Street (778),a
 43.867984,-79.5153626,2,Keele Street (778),a
 43.8679854,-79.5180221,2,Cassia Crescent (847),a
-43.8679884,-79.5222774,2,St. Joan of Arc Avenue (707),a
 43.86799,-79.48812,2,William Bowes Boulevard (357),a
 43.86799,-79.48793,2,William Bowes Boulevard (358),a
-43.8679942,-79.5388293,2,Giotto Crescent (334),a
 43.8679947,-79.4700617,2,Foley Crescent (250),a
 43.868,-79.51588,2,Treasure Hill Road (448),a
 43.868,-79.51588,2,Treasure Hill Road (448),a
 43.8680043,-79.5200244,2,Cassia Crescent (854),a
 43.8680059,-79.5178358,2,Cassia Crescent (846),a
-43.8680103,-79.5431068,2,Teston Road (077),a
-43.8680103,-79.5431068,2,Teston Road (675),a
-43.8680103,-79.5431068,2,Teston Road (686),a
 43.8680109,-79.5177808,2,Cassia Crescent (994),a
-43.8680199,-79.5428875,2,Teston Road (676),a
 43.8680234,-79.5176428,2,Blackthorn Drive (295),a
 43.8680234,-79.5176428,2,Blackthorn Drive (296),a
 43.8680234,-79.5176428,2,Cassia Crescent (845),a
-43.8680259,-79.5258731,2,Princeton Gate (388),a
 43.8680259,-79.4697312,2,Foley Crescent (885),a
 43.8680362,-79.4695967,2,Foley Crescent (251),a
 43.8680362,-79.4695967,2,Mower Avenue (256),a
@@ -46793,38 +46097,14 @@ lat,lon,sz,names,len_cat
 43.8681,-79.51667,2,Treasure Hill Road (460),a
 43.8681003,-79.5153856,2,Keele Street (779),a
 43.8681003,-79.5153856,2,Keele Street (779),a
-43.868107,-79.5258836,2,Princeton Gate (389),a
 43.8681098,-79.4689364,2,Mower Avenue (259),a
 43.86812,-79.51577,2,Treasure Hill Road (450),a
 43.86812,-79.51577,2,Treasure Hill Road (450),a
-43.8681209,-79.5299092,2,Cranston Park Avenue (543),a
-43.8681209,-79.5290567,2,Isaac Murray Avenue (191),a
-43.8681209,-79.5290567,2,Isaac Murray Avenue (191),a
-43.8681227,-79.5291936,2,Isaac Murray Avenue (190),a
-43.8681227,-79.5291936,2,Isaac Murray Avenue (190),a
-43.8681231,-79.5429539,2,Teston Road (685),a
-43.8681248,-79.5293553,2,Isaac Murray Avenue (188),a
-43.8681248,-79.5293553,2,Isaac Murray Avenue (188),a
 43.8681362,-79.4687668,2,Mower Avenue (261),a
 43.8681515,-79.4726662,2,Farrell Road (319),a
-43.8681622,-79.5287695,2,Isaac Murray Avenue (193),a
-43.8681622,-79.5287695,2,Isaac Murray Avenue (193),a
-43.8681637,-79.5295784,2,Isaac Murray Avenue (186),a
 43.8681643,-79.5621723,2,Mattucci Court (962),a
-43.8681726,-79.5259063,2,Princeton Gate (302),a
-43.8681851,-79.5297444,2,Isaac Murray Avenue (311),a
-43.8681988,-79.5422033,2,Teston Road (098),a
-43.8681988,-79.5422033,2,Teston Road (677),a
-43.8682,-79.53494,2,Ashton Drive (172),a
-43.8682,-79.53494,2,Queensberry Crescent (691),a
-43.8682037,-79.5298885,2,Ashton Drive (188),a
-43.8682037,-79.5298885,2,Cranston Park Avenue (439),a
-43.8682037,-79.5298885,2,Isaac Murray Avenue (183),a
 43.8682037,-79.5104544,2,Rodinea Road (460),a
-43.86821,-79.53482,2,Ashton Drive (174),a
-43.8682146,-79.5223589,2,St. Joan of Arc Avenue (705),a
 43.8682179,-79.6310426,2,Kirby Road (233),a
-43.8682212,-79.5300181,2,Ashton Drive (381),a
 43.8682232,-79.4892378,2,Dufferin Street (816),a
 43.8682275,-79.5462729,2,Shipwill Street (916),a
 43.8682332,-79.5928827,2,Pine Valley Drive (146),a
@@ -46833,44 +46113,20 @@ lat,lon,sz,names,len_cat
 43.8682534,-79.5620954,2,Mattucci Court (964),a
 43.86826,-79.5167,2,Treasure Hill Road (459),a
 43.86826,-79.5167,2,Treasure Hill Road (459),a
-43.8682632,-79.5298612,2,Cranston Park Avenue (544),a
-43.86827,-79.53501,2,Queensberry Crescent (693),a
-43.8682717,-79.5259506,2,Princeton Gate (301),a
 43.8682719,-79.5203855,2,Blackthorn Drive (287),a
-43.8682807,-79.5310112,2,Craddock Street (743),a
 43.8682814,-79.5410593,2,Jane Street (892),a
 43.8682814,-79.5410593,2,Jane Street (892),a
-43.868294,-79.5390335,2,Giotto Crescent (335),a
-43.8683037,-79.5422838,2,Teston Road (684),a
 43.8683099,-79.5409147,2,Jane Street (967),a
 43.8683099,-79.5409147,2,Jane Street (967),a
-43.8683191,-79.5339677,2,Ashton Drive (165),a
-43.8683191,-79.5339677,2,Ashton Drive (175),a
-43.8683191,-79.5339677,2,Cooper Creek Court (462),a
 43.8683233,-79.5201374,2,Blackthorn Drive (288),a
 43.8683233,-79.5201374,2,Blackthorn Drive (306),a
 43.8683233,-79.5201374,2,Cassia Crescent (855),a
-43.8683355,-79.5394681,2,Giotto Crescent (338),a
-43.8683355,-79.5394681,2,Giotto Crescent (338),a
 43.8683403,-79.5462332,2,Shipwill Street (917),a
 43.8683423,-79.5620062,2,Mattucci Court (966),a
-43.8683423,-79.5259773,2,Princeton Gate (391),a
-43.8683469,-79.5298228,2,Cranston Park Avenue (440),a
-43.8683529,-79.5309925,2,Ashton Drive (189),a
-43.8683529,-79.5309925,2,Ashton Drive (207),a
-43.8683529,-79.5309925,2,Craddock Street (831),a
-43.8683529,-79.5309925,2,Medley Court (584),a
 43.8683542,-79.6303924,2,Kirby Road (236),a
-43.8683606,-79.5393181,2,Giotto Crescent (337),a
-43.8683606,-79.5393181,2,Giotto Crescent (337),a
 43.8683673,-79.541183,2,Teston Road (379),a
 43.8683673,-79.541183,2,Teston Road (379),a
-43.8683676,-79.5391562,2,Giotto Crescent (336),a
-43.8683776,-79.5336178,2,Ashton Drive (166),a
 43.868379,-79.4726598,2,Farrell Road (328),a
-43.8683834,-79.5277684,2,Isaac Murray Avenue (196),a
-43.8683834,-79.5277684,2,Isaac Murray Avenue (196),a
-43.8683841,-79.533983,2,Cooper Creek Court (708),a
 43.8683845,-79.5154425,2,Keele Street (780),a
 43.8683845,-79.5154425,2,Keele Street (780),a
 43.8683845,-79.5154425,2,Keele Street (791),a
@@ -46883,10 +46139,8 @@ lat,lon,sz,names,len_cat
 43.868387,-79.541082,2,Teston Road (099),a
 43.868387,-79.541082,2,Teston Road (796),a
 43.868387,-79.541082,2,Teston Road (796),a
-43.8683926,-79.5224601,2,St. Joan of Arc Avenue (709),a
 43.8683926,-79.5198338,2,Blackthorn Drive (305),a
 43.8684076,-79.4737292,2,Aplary Gate (801),a
-43.86841,-79.53505,2,Queensberry Crescent (694),a
 43.868413,-79.5619049,2,Mattucci Court (967),a
 43.8684141,-79.5409391,2,Jane Street (951),a
 43.8684141,-79.5409391,2,Jane Street (951),a
@@ -46895,28 +46149,17 @@ lat,lon,sz,names,len_cat
 43.8684141,-79.5409391,2,Teston Road (797),a
 43.8684141,-79.5409391,2,Teston Road (797),a
 43.8684211,-79.5461912,2,Shipwill Street (918),a
-43.8684213,-79.5309718,2,Medley Court (412),a
-43.868422,-79.5314637,2,Ashton Drive (208),a
-43.8684254,-79.5275309,2,Isaac Murray Avenue (198),a
-43.8684254,-79.5275309,2,Isaac Murray Avenue (198),a
-43.8684261,-79.5320766,2,Willow Tree Street (646),a
 43.8684429,-79.4749187,2,Farrell Road (320),a
 43.868443,-79.5177486,2,Blackthorn Drive (299),a
 43.8684475,-79.5407894,2,Teston Road (306),a
 43.8684475,-79.5407894,2,Teston Road (306),a
 43.8684478,-79.6299422,2,Kirby Road (237),a
-43.8684506,-79.5273934,2,Isaac Murray Avenue (200),a
-43.8684506,-79.5273934,2,Isaac Murray Avenue (200),a
 43.8684551,-79.5413993,2,Teston Road (683),a
-43.8684629,-79.5332424,2,Ashton Drive (167),a
 43.8684742,-79.5617541,2,Mattucci Court (969),a
 43.8684887,-79.5412162,2,Teston Road (925),a
 43.8684887,-79.5412162,2,Teston Road (925),a
 43.86849,-79.51588,2,Treasure Hill Road (451),a
 43.86849,-79.51588,2,Treasure Hill Road (451),a
-43.8684927,-79.5320593,2,Ashton Drive (171),a
-43.8684927,-79.5320593,2,Ashton Drive (209),a
-43.8684927,-79.5320593,2,Willow Tree Street (692),a
 43.8684962,-79.4696869,2,Via Romano Boulevard (312),a
 43.8685044,-79.5411125,2,Jane Street (959),a
 43.8685044,-79.5411125,2,Jane Street (959),a
@@ -46926,10 +46169,7 @@ lat,lon,sz,names,len_cat
 43.8685044,-79.5411125,2,Teston Road (681),a
 43.8685114,-79.5404309,2,Teston Road (799),a
 43.8685114,-79.5404309,2,Teston Road (799),a
-43.8685135,-79.5329798,2,Ashton Drive (168),a
 43.8685168,-79.5191681,2,Blackthorn Drive (304),a
-43.8685196,-79.5328286,2,Ashton Drive (169),a
-43.8685226,-79.5327904,2,Ashton Drive (340),a
 43.8685258,-79.5615662,2,Mattucci Court (971),a
 43.8685287,-79.5409707,2,Jane Street (952),a
 43.8685287,-79.5409707,2,Jane Street (952),a
@@ -46937,20 +46177,13 @@ lat,lon,sz,names,len_cat
 43.8685287,-79.5409707,2,Teston Road (680),a
 43.8685287,-79.5409707,2,Teston Road (804),a
 43.8685287,-79.5409707,2,Teston Road (804),a
-43.8685296,-79.5272297,2,Isaac Murray Avenue (202),a
-43.8685296,-79.5272297,2,Isaac Murray Avenue (202),a
 43.8685382,-79.4726554,2,Farrell Road (321),a
-43.8685436,-79.5325186,2,Ashton Drive (170),a
-43.8685502,-79.5225498,2,Rosanna Crescent (265),a
-43.8685502,-79.5225498,2,St. Joan of Arc Avenue (706),a
-43.8685502,-79.5225498,2,St. Joan of Arc Avenue (720),a
 43.8685551,-79.540813,2,Teston Road (307),a
 43.8685551,-79.540813,2,Teston Road (307),a
 43.8685679,-79.6294416,2,Belsite Court (414),a
 43.8685679,-79.6294416,2,Briarose Avenue (632),a
 43.8685679,-79.6294416,2,Kirby Road (075),a
 43.8685679,-79.6294416,2,Kirby Road (238),a
-43.8685685,-79.5260589,2,Princeton Gate (392),a
 43.86857,-79.5402809,2,Teston Road (086),a
 43.86857,-79.5402809,2,Teston Road (086),a
 43.86857,-79.5402809,2,Teston Road (800),a
@@ -46960,12 +46193,10 @@ lat,lon,sz,names,len_cat
 43.8685758,-79.5612414,2,Abbruzze Court (496),a
 43.8685758,-79.5612414,2,Mattucci Court (972),a
 43.8685758,-79.5612414,2,Mattucci Court (974),a
-43.8685862,-79.5224457,2,Rosanna Crescent (404),a
 43.8685925,-79.5401501,2,Teston Road (543),a
 43.8685925,-79.5401501,2,Teston Road (543),a
 43.8685956,-79.5411384,2,Jane Street (303),a
 43.8685956,-79.5411384,2,Jane Street (303),a
-43.8686,-79.5271035,2,Isaac Murray Avenue (204),a
 43.8686152,-79.540993,2,Jane Street (302),a
 43.8686152,-79.540993,2,Jane Street (302),a
 43.8686178,-79.540439,2,Teston Road (802),a
@@ -46973,46 +46204,29 @@ lat,lon,sz,names,len_cat
 43.8686621,-79.5397111,2,Teston Road (927),a
 43.8686621,-79.5397111,2,Teston Road (927),a
 43.8686685,-79.518556,2,Blackthorn Drive (303),a
-43.8686707,-79.5270022,2,Isaac Murray Avenue (205),a
 43.8686752,-79.5178096,2,Blackthorn Drive (300),a
 43.8686873,-79.6288913,2,Kirby Road (076),a
 43.8686967,-79.5612774,2,Abbruzze Court (388),a
 43.8686975,-79.6221099,2,Kleinburg Summit Way (851),a
-43.8686977,-79.522123,2,Rosanna Crescent (266),a
-43.8687117,-79.5308841,2,Medley Court (585),a
-43.8687149,-79.5220603,2,Rosanna Crescent (267),a
 43.8687256,-79.5182484,2,Blackthorn Drive (302),a
 43.8687312,-79.5392757,2,Teston Road (544),a
 43.8687312,-79.5392757,2,Teston Road (544),a
 43.8687352,-79.4697332,2,Via Romano Boulevard (313),a
-43.8687405,-79.5261293,2,Princeton Gate (393),a
-43.8687408,-79.5296513,2,Cranston Park Avenue (441),a
 43.8687481,-79.5178746,2,Blackthorn Drive (993),a
 43.8687516,-79.5601918,2,Mattucci Court (977),a
-43.8687591,-79.5226939,2,St. Joan of Arc Avenue (724),a
 43.8687774,-79.5179765,2,Blackthorn Drive (301),a
 43.8688058,-79.4697476,2,Fitzmaurice Drive (636),a
 43.8688058,-79.4697476,2,Via Romano Boulevard (314),a
-43.8688091,-79.5216846,2,Rosanna Crescent (263),a
-43.8688091,-79.5216846,2,Rosanna Crescent (268),a
-43.8688091,-79.5216846,2,Rosanna Crescent (269),a
 43.8688092,-79.5411846,2,Jane Street (962),a
 43.8688092,-79.5411846,2,Jane Street (962),a
-43.868813,-79.5261648,2,Princeton Gate (394),a
 43.8688133,-79.4751205,2,Farrell Road (322),a
 43.8688148,-79.4696331,2,Fitzmaurice Drive (842),a
 43.8688285,-79.5410478,2,Jane Street (954),a
 43.8688285,-79.5410478,2,Jane Street (954),a
 43.8688319,-79.4694089,2,Fitzmaurice Drive (637),a
-43.8688513,-79.522767,2,St. Joan of Arc Avenue (730),a
-43.8688584,-79.5262011,2,Princeton Gate (395),a
 43.8688717,-79.4690926,2,Fitzmaurice Drive (638),a
-43.8688828,-79.5217134,2,Rosanna Crescent (763),a
 43.8688883,-79.4697634,2,Via Romano Boulevard (315),a
 43.8688924,-79.5107485,2,Rodinea Road (461),a
-43.8689,-79.53521,2,Queensberry Crescent (696),a
-43.8689137,-79.5228146,2,St. Joan of Arc Avenue (722),a
-43.8689197,-79.5267596,2,Isaac Murray Avenue (206),a
 43.8689244,-79.5459203,2,Shipwill Street (919),a
 43.8689268,-79.5590924,2,Mattucci Court (979),a
 43.8689391,-79.5411307,2,Jane Street (950),a
@@ -47023,54 +46237,27 @@ lat,lon,sz,names,len_cat
 43.8689391,-79.5411307,2,Jane Street (961),a
 43.86894,-79.51686,2,Treasure Hill Road (458),a
 43.86894,-79.51686,2,Treasure Hill Road (458),a
-43.8689406,-79.5262862,2,Princeton Gate (396),a
-43.8689422,-79.5341142,2,Cooper Creek Court (463),a
-43.8689471,-79.5288871,2,Kinney Gate (341),a
-43.8689471,-79.5288871,2,Kinney Gate (341),a
-43.8689495,-79.5290737,2,Kinney Gate (340),a
-43.8689495,-79.5290737,2,Kinney Gate (340),a
 43.8689606,-79.5589173,2,Mattucci Court (980),a
 43.8689777,-79.6275779,2,Kirby Road (077),a
-43.8689792,-79.5292845,2,Kinney Gate (339),a
 43.8689861,-79.5587923,2,Mattucci Court (982),a
-43.8689942,-79.5293579,2,Kinney Gate (632),a
-43.8689962,-79.5341129,2,Cooper Creek Court (464),a
-43.8690056,-79.5285372,2,Kinney Gate (343),a
-43.8690056,-79.5285372,2,Kinney Gate (343),a
-43.8690077,-79.5206018,2,Limosano Avenue (551),a
-43.8690077,-79.5206018,2,Rosanna Crescent (264),a
-43.8690077,-79.5206018,2,Rosanna Crescent (277),a
 43.8690162,-79.5930675,2,Pine Valley Drive (147),a
 43.869021,-79.5587043,2,Mattucci Court (984),a
-43.8690233,-79.526421,2,Princeton Gate (397),a
-43.8690272,-79.5295198,2,Cranston Park Avenue (442),a
-43.8690272,-79.5295198,2,Kinney Gate (338),a
-43.8690347,-79.5308015,2,Medley Court (586),a
 43.8690359,-79.4752412,2,Croley Street (815),a
 43.8690359,-79.4752412,2,Farrell Road (912),a
 43.86904,-79.51686,2,Treasure Hill Road (457),a
 43.86904,-79.51686,2,Treasure Hill Road (457),a
-43.8690502,-79.5341116,2,Cooper Creek Court (465),a
 43.8690526,-79.4727091,2,Farrell Road (323),a
 43.869056,-79.5586288,2,Mattucci Court (985),a
 43.8690586,-79.4751582,2,Croley Street (953),a
 43.86906,-79.56432,2,Rocmary Place (186),a
 43.86906,-79.56432,2,Rocmary Place (186),a
-43.8690645,-79.5265002,2,Princeton Gate (472),a
 43.8690746,-79.629654,2,Belsite Court (416),a
 43.86908,-79.51673,2,Treasure Hill Road (456),a
 43.86908,-79.51673,2,Treasure Hill Road (456),a
 43.8690831,-79.4681057,2,Fitzmaurice Drive (639),a
-43.8690948,-79.5340731,2,Cooper Creek Court (466),a
 43.8690995,-79.5458316,2,Shipwill Street (920),a
 43.8691001,-79.558553,2,Mattucci Court (987),a
-43.8691004,-79.5282112,2,Kinney Gate (344),a
-43.8691004,-79.5282112,2,Kinney Gate (344),a
 43.8691024,-79.4672206,2,Abner Miles Drive (273),a
-43.8691064,-79.5265808,2,Isaac Murray Avenue (207),a
-43.8691064,-79.5265808,2,Isaac Murray Avenue (226),a
-43.8691064,-79.5265808,2,Princeton Gate (399),a
-43.8691064,-79.5265808,2,Royal Ridge Crescent (171),a
 43.86911,-79.51601,2,Treasure Hill Road (452),a
 43.86911,-79.51601,2,Treasure Hill Road (452),a
 43.869118,-79.5614026,2,Abbruzze Court (497),a
@@ -47079,80 +46266,49 @@ lat,lon,sz,names,len_cat
 43.86912,-79.51606,2,Treasure Hill Road (454),a
 43.86912,-79.51606,2,Treasure Hill Road (454),a
 43.8691208,-79.4698102,2,Via Romano Boulevard (316),a
-43.8691229,-79.5229712,2,St. Joan of Arc Avenue (727),a
-43.8691293,-79.5206365,2,Limosano Avenue (768),a
-43.86913,-79.5340101,2,Cooper Creek Court (467),a
 43.86913,-79.51612,2,Treasure Hill Road (455),a
 43.86913,-79.51612,2,Treasure Hill Road (455),a
 43.869138,-79.4748721,2,Croley Street (733),a
 43.8691438,-79.5584524,2,Mattucci Court (989),a
-43.8691438,-79.5280857,2,Kinney Gate (346),a
-43.8691438,-79.5280857,2,Kinney Gate (346),a
-43.8691479,-79.5266642,2,Royal Ridge Crescent (516),a
-43.8691491,-79.5197225,2,Rosanna Crescent (278),a
-43.8691705,-79.5196557,2,Rosanna Crescent (279),a
-43.8691705,-79.5196557,2,Rosanna Crescent (280),a
 43.8691707,-79.4894619,2,Dufferin Street (815),a
 43.8691707,-79.4894619,2,Dufferin Street (818),a
-43.869172,-79.5267126,2,Royal Ridge Crescent (610),a
 43.8691769,-79.5458106,2,Shipwill Street (921),a
 43.8691788,-79.5583645,2,Mattucci Court (991),a
 43.8691804,-79.5546258,2,Picnic Area Road (662),a
 43.8691822,-79.4672656,2,Abner Miles Drive (858),a
-43.8691874,-79.5307729,2,Medley Court (587),a
-43.8691896,-79.5337472,2,Cooper Creek Court (468),a
 43.869207,-79.4791175,2,Heintzman Crescent (191),a
 43.869207,-79.4791175,2,Heintzman Crescent (191),a
 43.86921,-79.56434,2,Rocmary Place (187),a
 43.86921,-79.56434,2,Rocmary Place (187),a
 43.8692228,-79.5582887,2,Mattucci Court (992),a
-43.8692234,-79.5335722,2,Cooper Creek Court (469),a
-43.8692321,-79.5279467,2,Kinney Gate (348),a
-43.8692321,-79.5279467,2,Kinney Gate (348),a
 43.8692338,-79.6264146,2,Kirby Road (078),a
 43.8692445,-79.5614369,2,Abbruzze Court (498),a
-43.8692521,-79.5196073,2,Rosanna Crescent (281),a
 43.8692573,-79.6321265,2,Angelwood Court (706),a
-43.8692588,-79.5307213,2,Medley Court (588),a
 43.8692642,-79.6319521,2,Angelwood Court (705),a
-43.8692662,-79.5333969,2,Cooper Creek Court (470),a
 43.8692687,-79.4673145,2,Abner Miles Drive (272),a
 43.8692687,-79.4673145,2,Fitzmaurice Drive (640),a
 43.8692694,-79.4789357,2,Heintzman Crescent (192),a
 43.869274,-79.475388,2,Farrell Road (911),a
-43.8692786,-79.5294638,2,Cranston Park Avenue (443),a
 43.869281,-79.6325989,2,Angelwood Court (707),a
 43.8692823,-79.5109207,2,Rodinea Road (462),a
 43.8692951,-79.4741123,2,Aplary Gate (802),a
 43.8692951,-79.4741123,2,Croley Street (816),a
 43.8692996,-79.6326482,2,Angelwood Court (708),a
-43.8693032,-79.5306704,2,Medley Court (589),a
 43.8693116,-79.5457896,2,Shipwill Street (922),a
-43.8693294,-79.5306076,2,Medley Court (590),a
 43.8693342,-79.4673268,2,Abner Miles Drive (857),a
-43.8693371,-79.5195874,2,Rosanna Crescent (282),a
 43.8693385,-79.6326901,2,Angelwood Court (709),a
 43.869344,-79.5614718,2,Abbruzze Court (499),a
 43.869354,-79.475428,2,Farrell Road (910),a
-43.8693547,-79.5332827,2,Cooper Creek Court (471),a
-43.8693593,-79.523152,2,St. Joan of Arc Avenue (726),a
 43.8693812,-79.6326961,2,Angelwood Court (710),a
 43.869398,-79.5156731,2,Keele Street (792),a
 43.869398,-79.5156731,2,Keele Street (792),a
 43.8694002,-79.5358644,2,Teston Road (545),a
 43.8694155,-79.6221899,2,Kleinburg Summit Way (852),a
-43.8694258,-79.5332063,2,Cooper Creek Court (472),a
-43.8694267,-79.5276805,2,Kinney Gate (350),a
-43.8694267,-79.5276805,2,Kinney Gate (350),a
 43.8694343,-79.5614946,2,Abbruzze Court (500),a
-43.8694403,-79.529435,2,Cranston Park Avenue (444),a
 43.8694415,-79.6309648,2,Angelwood Court (704),a
 43.8694456,-79.6298073,2,Belsite Court (418),a
 43.8694665,-79.6308025,2,Angelwood Court (703),a
-43.8694683,-79.523224,2,St. Joan of Arc Avenue (721),a
 43.8694732,-79.5457662,2,Shipwill Street (923),a
-43.8694739,-79.5276129,2,Kinney Gate (767),a
-43.8694739,-79.5276129,2,Kinney Gate (767),a
 43.8694845,-79.51101,2,Rodinea Road (463),a
 43.8695007,-79.6306523,2,Angelwood Court (702),a
 43.8695068,-79.5615301,2,Abbruzze Court (501),a
@@ -47163,22 +46319,13 @@ lat,lon,sz,names,len_cat
 43.8695502,-79.4698928,2,Strong Avenue (903),a
 43.8695502,-79.4698928,2,Via Romano Boulevard (317),a
 43.8695509,-79.6183675,2,Kipling Avenue (585),a
-43.8695572,-79.5294197,2,Cranston Park Avenue (445),a
-43.8695593,-79.5274906,2,Kinney Gate (352),a
-43.8695593,-79.5274906,2,Kinney Gate (352),a
-43.8695593,-79.5274906,2,Royal Ridge Crescent (174),a
-43.8695593,-79.5274906,2,Royal Ridge Crescent (174),a
-43.8695593,-79.5274906,2,Royal Ridge Crescent (176),a
-43.8695593,-79.5274906,2,Royal Ridge Crescent (176),a
 43.8695629,-79.4697752,2,Strong Avenue (874),a
-43.8695687,-79.5331157,2,Cooper Creek Court (473),a
 43.8695709,-79.4697216,2,Strong Avenue (875),a
 43.8695792,-79.5615657,2,Abbruzze Court (502),a
 43.8695818,-79.6299038,2,Belsite Court (422),a
 43.8695876,-79.480061,2,Heintzman Crescent (190),a
 43.8695876,-79.480061,2,Heintzman Crescent (190),a
 43.8696009,-79.4693739,2,Strong Avenue (904),a
-43.8696016,-79.523279,2,St. Joan of Arc Avenue (728),a
 43.8696247,-79.561602,2,Abbruzze Court (503),a
 43.8696249,-79.4728713,2,Farrell Road (330),a
 43.8696252,-79.6245263,2,Kirby Road (079),a
@@ -47189,11 +46336,7 @@ lat,lon,sz,names,len_cat
 43.8696547,-79.6299768,2,Belsite Court (424),a
 43.8696648,-79.5412823,2,Jane Street (948),a
 43.8696648,-79.5412823,2,Jane Street (949),a
-43.8696674,-79.5233062,2,St. Joan of Arc Avenue (718),a
-43.8696745,-79.5294417,2,Cranston Park Avenue (446),a
 43.8696977,-79.468993,2,Strong Avenue (905),a
-43.869705,-79.5276114,2,Royal Ridge Crescent (179),a
-43.869705,-79.5276114,2,Royal Ridge Crescent (179),a
 43.8697067,-79.5616747,2,Abbruzze Court (504),a
 43.8697088,-79.4896004,2,Dufferin Street (817),a
 43.8697088,-79.4896004,2,Dufferin Street (820),a
@@ -47203,85 +46346,57 @@ lat,lon,sz,names,len_cat
 43.8697231,-79.6326759,2,Angelwood Court (712),a
 43.8697298,-79.5157428,2,Keele Street (674),a
 43.8697298,-79.5157428,2,Keele Street (674),a
-43.8697447,-79.5260043,2,Isaac Murray Avenue (297),a
 43.8697456,-79.6300494,2,Angelwood Court (700),a
 43.8697456,-79.6300494,2,Belsite Court (390),a
 43.8697456,-79.6300494,2,Belsite Court (426),a
 43.86976,-79.56452,2,Rocmary Place (188),a
 43.86976,-79.56452,2,Rocmary Place (188),a
 43.869768,-79.47556,2,Farrell Road (909),a
-43.8697683,-79.5220592,2,Rosanna Crescent (270),a
-43.8697869,-79.5276841,2,Royal Ridge Crescent (182),a
-43.8697869,-79.5276841,2,Royal Ridge Crescent (182),a
 43.8697873,-79.6236741,2,Kirby Road (080),a
 43.8697873,-79.6236741,2,Kirby Road (080),a
-43.8697902,-79.5294687,2,Bellefontaine Court (401),a
-43.8697902,-79.5294687,2,Cranston Park Avenue (447),a
 43.8697975,-79.5617347,2,Abbruzze Court (505),a
 43.8697997,-79.5457989,2,Shipwill Street (925),a
-43.8698006,-79.5259538,2,Isaac Murray Avenue (217),a
-43.8698006,-79.5259538,2,Isaac Murray Avenue (227),a
-43.8698006,-79.5259538,2,Royal Ridge Crescent (150),a
 43.8698057,-79.5111519,2,Rodinea Road (464),a
-43.8698065,-79.5293385,2,Bellefontaine Court (559),a
-43.8698172,-79.5288829,2,Bellefontaine Court (402),a
-43.8698172,-79.5288829,2,Bellefontaine Court (402),a
 43.869821,-79.4684276,2,Strong Avenue (906),a
-43.8698281,-79.5260118,2,Royal Ridge Crescent (357),a
 43.8698312,-79.6326858,2,Angelwood Court (713),a
 43.869832,-79.475568,2,Farrell Road (908),a
 43.8698435,-79.4803553,2,Heintzman Crescent (189),a
 43.8698435,-79.4803553,2,Heintzman Crescent (189),a
 43.869855,-79.4784794,2,Heintzman Crescent (503),a
-43.8698586,-79.5220818,2,Rosanna Crescent (271),a
 43.8698699,-79.5617703,2,Abbruzze Court (506),a
 43.869872,-79.5645382,2,Rocmary Place (189),a
 43.869872,-79.5645382,2,Rocmary Place (189),a
 43.869896,-79.475569,2,Farrell Road (907),a
 43.869899,-79.4699645,2,Via Romano Boulevard (318),a
 43.8699013,-79.6223915,2,Kleinburg Summit Way (200),a
-43.8699037,-79.5220807,2,Rosanna Crescent (272),a
-43.8699117,-79.5261876,2,Royal Ridge Crescent (154),a
 43.8699203,-79.6223992,2,Kleinburg Summit Way (042),a
-43.8699244,-79.5257765,2,Isaac Murray Avenue (218),a
 43.8699277,-79.6229723,2,Kirby Road (095),a
-43.8699317,-79.5277427,2,Royal Ridge Crescent (185),a
 43.8699354,-79.554875,2,Picnic Area Road (660),a
 43.8699354,-79.554875,2,Picnic Area Road (667),a
 43.8699434,-79.4785634,2,Heintzman Crescent (194),a
 43.8699549,-79.5558999,2,Picnic Area Road (710),a
-43.8699577,-79.5220794,2,Rosanna Crescent (273),a
 43.8699589,-79.5112195,2,Rodinea Road (465),a
 43.86996,-79.475563,2,Farrell Road (906),a
 43.8699601,-79.5617806,2,Abbruzze Court (507),a
-43.8699635,-79.5295092,2,Cranston Park Avenue (448),a
 43.8699636,-79.5556424,2,Picnic Area Road (711),a
 43.8699645,-79.5560715,2,Picnic Area Road (709),a
 43.869973,-79.4729827,2,Farrell Road (325),a
-43.8699774,-79.5257006,2,Isaac Murray Avenue (219),a
-43.8699837,-79.5220041,2,Rosanna Crescent (274),a
-43.8699855,-79.5263226,2,Royal Ridge Crescent (158),a
 43.8699916,-79.5548578,2,Picnic Area Road (668),a
 43.8699973,-79.6450914,2,Highway 27 (122),a
 43.8699984,-79.5562405,2,Picnic Area Road (708),a
-43.8700022,-79.5234349,2,St. Joan of Arc Avenue (725),a
 43.8700061,-79.5550322,2,Picnic Area Road (665),a
-43.8700126,-79.5256375,2,Isaac Murray Avenue (220),a
 43.8700133,-79.6225756,2,Kirby Road (081),a
 43.8700141,-79.5158131,2,Keele Street (793),a
 43.8700153,-79.474186,2,Perrigo Court (319),a
 43.8700186,-79.630292,2,Belsite Court (392),a
 43.870023,-79.47555,2,Farrell Road (905),a
 43.8700274,-79.5553916,2,Picnic Area Road (712),a
-43.8700387,-79.5255621,2,Isaac Murray Avenue (221),a
 43.8700413,-79.6224479,2,Kirby Road (082),a
 43.8700413,-79.6224479,2,Kleinburg Summit Way (853),a
-43.8700502,-79.5264579,2,Royal Ridge Crescent (160),a
 43.8700622,-79.5552655,2,Picnic Area Road (663),a
 43.8700622,-79.5552655,2,Picnic Area Road (713),a
 43.8700631,-79.5552105,2,Picnic Area Road (664),a
 43.870066,-79.5564068,2,Picnic Area Road (707),a
-43.8700732,-79.5254493,2,Isaac Murray Avenue (222),a
 43.8700773,-79.5617902,2,Abbruzze Court (508),a
 43.8700773,-79.5617902,2,Abbruzze Court (508),a
 43.8700792,-79.5458923,2,Shipwill Street (926),a
@@ -47294,35 +46409,24 @@ lat,lon,sz,names,len_cat
 43.870085,-79.47553,2,Farrell Road (904),a
 43.8700914,-79.6303526,2,Belsite Court (394),a
 43.8701076,-79.5552306,2,Picnic Area Road (714),a
-43.8701163,-79.5252989,2,Isaac Murray Avenue (223),a
 43.8701201,-79.5295782,2,Cranston Park Avenue (449),a
 43.8701201,-79.5295782,2,Cranston Park Avenue (873),a
-43.8701219,-79.5278252,2,Royal Ridge Crescent (188),a
 43.870124,-79.473537,2,Perrigo Court (317),a
-43.8701327,-79.5265679,2,Royal Ridge Crescent (162),a
 43.8701368,-79.4805371,2,Heintzman Crescent (188),a
 43.8701427,-79.5894303,2,Rachelle Court (006),a
 43.8701427,-79.5894303,2,Rachelle Court (006),a
 43.870146,-79.475502,2,Farrell Road (903),a
-43.8701468,-79.5234811,2,St. Joan of Arc Avenue (723),a
 43.8701502,-79.5549101,2,Picnic Area Road (670),a
-43.870157,-79.5198003,2,Rosanna Crescent (283),a
 43.870173,-79.6304005,2,Belsite Court (396),a
 43.870176,-79.561763,2,Abbruzze Court (509),a
-43.8701812,-79.5210648,2,Limosano Avenue (552),a
-43.8701812,-79.5210648,2,Rosanna Crescent (276),a
-43.8701812,-79.5210648,2,Rosanna Crescent (288),a
 43.870184,-79.5565878,2,Picnic Area Road (706),a
 43.8701977,-79.4731978,2,Perrigo Court (245),a
-43.8702037,-79.524851,2,Isaac Murray Avenue (551),a
 43.870204,-79.475467,2,Farrell Road (902),a
-43.8702148,-79.526653,2,Royal Ridge Crescent (164),a
 43.8702176,-79.4700791,2,Horse Rake Road (990),a
 43.8702176,-79.4700791,2,Via Romano Boulevard (319),a
 43.870224,-79.473077,2,Farrell Road (327),a
 43.870224,-79.473077,2,Perrigo Court (314),a
 43.8702246,-79.5551824,2,Picnic Area Road (715),a
-43.8702261,-79.5247361,2,Isaac Murray Avenue (224),a
 43.8702289,-79.5414002,2,Jane Street (946),a
 43.8702289,-79.5414002,2,Jane Street (946),a
 43.8702289,-79.5414002,2,Jane Street (947),a
@@ -47336,35 +46440,22 @@ lat,lon,sz,names,len_cat
 43.8702899,-79.4897344,2,Dufferin Street (678),a
 43.8702899,-79.4897344,2,Dufferin Street (683),a
 43.8702905,-79.6304351,2,Belsite Court (398),a
-43.8702952,-79.5198256,2,Rosanna Crescent (284),a
 43.8702967,-79.4701098,2,Via Romano Boulevard (797),a
 43.8703025,-79.5113713,2,Rodinea Road (609),a
 43.8703029,-79.5567085,2,Picnic Area Road (705),a
 43.870312,-79.475373,2,Farrell Road (900),a
 43.8703174,-79.5551113,2,Picnic Area Road (716),a
-43.8703209,-79.527895,2,Royal Ridge Crescent (191),a
-43.8703235,-79.5267001,2,Royal Ridge Crescent (167),a
-43.8703283,-79.5242855,2,Isaac Murray Avenue (210),a
-43.8703283,-79.5242855,2,Isaac Murray Avenue (225),a
-43.8703283,-79.5242855,2,Thornton Crescent (822),a
-43.870349,-79.5198712,2,Rosanna Crescent (285),a
-43.8703553,-79.520172,2,Rosanna Crescent (287),a
 43.8703626,-79.53096,2,Teston Road (926),a
 43.8703706,-79.5550375,2,Picnic Area Road (717),a
-43.8703733,-79.5199024,2,Rosanna Crescent (286),a
-43.8703862,-79.5243121,2,Thornton Crescent (777),a
-43.8703911,-79.5235806,2,St. Joan of Arc Avenue (729),a
 43.8703988,-79.5615834,2,Abbruzze Court (511),a
 43.8704093,-79.5549719,2,Picnic Area Road (672),a
 43.8704093,-79.5549719,2,Picnic Area Road (718),a
-43.8704167,-79.5243261,2,Thornton Crescent (413),a
 43.8704202,-79.4691876,2,Horse Rake Road (991),a
 43.8704301,-79.479507,2,Heintzman Crescent (196),a
 43.8704315,-79.5549772,2,Picnic Area Road (675),a
 43.8704321,-79.5114313,2,Rodinea Road (466),a
 43.8704329,-79.5297249,2,Cranston Park Avenue (572),a
 43.8704329,-79.5297249,2,Cranston Park Avenue (572),a
-43.8704379,-79.5237385,2,Isaac Murray Avenue (396),a
 43.8704402,-79.5303165,2,Teston Road (929),a
 43.8704402,-79.5303165,2,Teston Road (929),a
 43.870452,-79.5305129,2,Teston Road (028),a
@@ -47375,21 +46466,14 @@ lat,lon,sz,names,len_cat
 43.870452,-79.5305129,2,Teston Road (159),a
 43.8704602,-79.6205419,2,Kirby Road (083),a
 43.8704603,-79.473165,2,Farrell Road (326),a
-43.8704636,-79.5236101,2,Isaac Murray Avenue (208),a
-43.8704636,-79.5236101,2,Isaac Murray Avenue (211),a
-43.8704636,-79.5236101,2,St. Joan of Arc Avenue (719),a
-43.8704636,-79.5236101,2,St. Joan of Arc Avenue (739),a
 43.8704798,-79.5567997,2,Picnic Area Road (704),a
-43.8704885,-79.5235099,2,Isaac Murray Avenue (349),a
 43.8704894,-79.5897955,2,Rachelle Court (045),a
 43.8704894,-79.5897955,2,Rachelle Court (045),a
-43.8704928,-79.5279654,2,Royal Ridge Crescent (193),a
 43.8704959,-79.5614317,2,Abbruzze Court (512),a
 43.8705143,-79.5299644,2,Teston Road (033),a
 43.8705143,-79.5299644,2,Teston Road (033),a
 43.8705284,-79.530376,2,Teston Road (391),a
 43.8705284,-79.530376,2,Teston Road (391),a
-43.8705324,-79.5236385,2,St. Joan of Arc Avenue (741),a
 43.870542,-79.4702048,2,Via Romano Boulevard (798),a
 43.8705562,-79.5297654,2,Cranston Park Avenue (020),a
 43.8705562,-79.5297654,2,Cranston Park Avenue (020),a
@@ -47404,7 +46488,6 @@ lat,lon,sz,names,len_cat
 43.870591,-79.5611182,2,Abbruzze Court (514),a
 43.8705943,-79.5295842,2,Teston Road (154),a
 43.8705943,-79.5295842,2,Teston Road (154),a
-43.8706015,-79.5280125,2,Royal Ridge Crescent (195),a
 43.8706112,-79.530001,2,Teston Road (158),a
 43.8706112,-79.530001,2,Teston Road (158),a
 43.8706223,-79.4806137,2,Heintzman Crescent (095),a
@@ -47412,52 +46495,37 @@ lat,lon,sz,names,len_cat
 43.8706269,-79.6329663,2,Orico Court (187),a
 43.8706304,-79.5666054,2,Weston Road (467),a
 43.8706304,-79.5666054,2,Weston Road (467),a
-43.8706348,-79.5229214,2,Giancola Crescent (087),a
-43.8706348,-79.5229214,2,Isaac Murray Avenue (209),a
-43.8706348,-79.5229214,2,Isaac Murray Avenue (212),a
 43.8706355,-79.5899663,2,Rachelle Court (048),a
 43.8706355,-79.5899663,2,Rachelle Court (048),a
-43.8706363,-79.5244273,2,Thornton Crescent (825),a
 43.8706427,-79.5609303,2,Abbruzze Court (515),a
-43.8706491,-79.5268166,2,Royal Ridge Crescent (169),a
-43.8706491,-79.5268166,2,Royal Ridge Crescent (218),a
-43.8706491,-79.5268166,2,Thornton Crescent (834),a
 43.8706513,-79.5297966,2,Cranston Park Avenue (017),a
 43.8706513,-79.5297966,2,Cranston Park Avenue (017),a
 43.8706513,-79.5297966,2,Teston Road (546),a
 43.8706513,-79.5297966,2,Teston Road (546),a
 43.8706513,-79.5297966,2,Teston Road (560),a
 43.8706513,-79.5297966,2,Teston Road (560),a
-43.8706555,-79.5280112,2,Royal Ridge Crescent (197),a
 43.870666,-79.474984,2,Farrell Road (899),a
 43.8706673,-79.4802688,2,Heintzman Crescent (199),a
-43.8706758,-79.526692,2,Thornton Crescent (770),a
 43.8706762,-79.5291946,2,Teston Road (384),a
 43.8706762,-79.5291946,2,Teston Road (384),a
 43.8706768,-79.5607802,2,Abbruzze Court (516),a
 43.8706832,-79.5296226,2,Teston Road (031),a
 43.8706832,-79.5296226,2,Teston Road (031),a
-43.870686,-79.5229411,2,Giancola Crescent (549),a
 43.870686,-79.4806237,2,Heintzman Crescent (186),a
 43.8706939,-79.5607051,2,Abbruzze Court (517),a
 43.8706965,-79.5115419,2,Rodinea Road (461),a
-43.8707003,-79.5279976,2,Royal Ridge Crescent (198),a
 43.8707108,-79.5606175,2,Abbruzze Court (518),a
 43.870715,-79.474911,2,Farrell Road (898),a
 43.8707206,-79.555063,2,Picnic Area Road (676),a
 43.8707206,-79.555063,2,Picnic Area Road (676),a
-43.8707225,-79.5229552,2,Giancola Crescent (402),a
 43.8707278,-79.5605425,2,Abbruzze Court (519),a
-43.8707445,-79.5279343,2,Royal Ridge Crescent (200),a
 43.8707477,-79.5290584,2,Teston Road (030),a
 43.8707477,-79.5290584,2,Teston Road (030),a
 43.8707477,-79.5290584,2,Teston Road (155),a
 43.8707477,-79.5290584,2,Teston Road (155),a
 43.8707477,-79.5290584,2,Teston Road (165),a
 43.8707477,-79.5290584,2,Teston Road (165),a
-43.8707579,-79.5268761,2,Royal Ridge Crescent (213),a
 43.870758,-79.474832,2,Farrell Road (897),a
-43.8707611,-79.5278219,2,Royal Ridge Crescent (203),a
 43.8707624,-79.5292439,2,Teston Road (547),a
 43.8707624,-79.5292439,2,Teston Road (547),a
 43.8707728,-79.5568963,2,Picnic Area Road (703),a
@@ -47469,12 +46537,7 @@ lat,lon,sz,names,len_cat
 43.8708211,-79.5160127,2,Keele Street (794),a
 43.870827,-79.474659,2,Farrell Road (895),a
 43.8708286,-79.5286846,2,Teston Road (562),a
-43.8708354,-79.5245095,2,Thornton Crescent (826),a
-43.8708395,-79.5269239,2,Royal Ridge Crescent (211),a
 43.8708466,-79.5116005,2,Rodinea Road (467),a
-43.8708625,-79.5217334,2,Giancola Crescent (109),a
-43.8708625,-79.5217334,2,Isaac Murray Avenue (213),a
-43.8708625,-79.5217334,2,Isaac Murray Avenue (234),a
 43.870869,-79.6186607,2,Kipling Avenue (586),a
 43.870869,-79.6186607,2,Kipling Avenue (613),a
 43.870869,-79.6186607,2,Kirby Road (084),a
@@ -47483,63 +46546,41 @@ lat,lon,sz,names,len_cat
 43.8708818,-79.4743455,2,Farrell Road (006),a
 43.8708818,-79.4743455,2,Farrell Road (890),a
 43.8708818,-79.4743455,2,Sir Stevens Drive (706),a
-43.8708971,-79.5271963,2,Royal Ridge Crescent (204),a
-43.870912,-79.5269594,2,Royal Ridge Crescent (209),a
 43.8709181,-79.5115573,2,Rodinea Road (462),a
-43.870923,-79.5271085,2,Royal Ridge Crescent (206),a
 43.87093,-79.47794,2,Sir Modesto Court (391),a
 43.8709303,-79.4703442,2,Via Romano Boulevard (320),a
 43.8709303,-79.4703442,2,Yates Avenue (943),a
-43.8709308,-79.5270212,2,Royal Ridge Crescent (208),a
 43.870936,-79.590233,2,Rachelle Court (054),a
 43.870936,-79.590233,2,Rachelle Court (054),a
 43.8709361,-79.5551188,2,Picnic Area Road (678),a
-43.8709404,-79.5217672,2,Giancola Crescent (550),a
 43.870941,-79.5569218,2,Picnic Area Road (702),a
 43.8709437,-79.4743655,2,Sir Stevens Drive (785),a
-43.8709532,-79.5245688,2,Thornton Crescent (827),a
 43.8709555,-79.4733426,2,Farrell Road (738),a
 43.8709575,-79.4702204,2,Yates Avenue (849),a
-43.8709603,-79.5217758,2,Giancola Crescent (403),a
 43.8709634,-79.470195,2,Yates Avenue (850),a
 43.8709659,-79.5114222,2,Rodinea Road (463),a
 43.8709687,-79.630681,2,Belsite Court (404),a
 43.8709706,-79.4743742,2,Sir Stevens Drive (784),a
-43.8709731,-79.5212329,2,Isaac Murray Avenue (235),a
-43.8709985,-79.5245926,2,Thornton Crescent (828),a
 43.8709998,-79.4733584,2,Farrell Road (329),a
 43.8710147,-79.6180474,2,Kirby Road (000),a
-43.871035,-79.524629,2,Thornton Crescent (829),a
 43.8710416,-79.5551462,2,Picnic Area Road (680),a
-43.8710482,-79.5249523,2,Thornton Crescent (833),a
 43.8710542,-79.5903298,2,Rachelle Court (059),a
 43.8710542,-79.5903298,2,Rachelle Court (059),a
 43.871059,-79.6307038,2,Belsite Court (406),a
-43.8710628,-79.5246906,2,Thornton Crescent (830),a
 43.8710634,-79.4733893,2,Farrell Road (892),a
 43.8710634,-79.4733893,2,Farrell Road (894),a
-43.8710726,-79.5247526,2,Thornton Crescent (831),a
-43.8710738,-79.5248397,2,Thornton Crescent (832),a
-43.8710798,-79.5218276,2,Giancola Crescent (108),a
-43.8711075,-79.5206623,2,Damato Crescent (829),a
-43.8711075,-79.5206623,2,Isaac Murray Avenue (214),a
-43.8711075,-79.5206623,2,Isaac Murray Avenue (236),a
 43.8711208,-79.5568923,2,Picnic Area Road (701),a
 43.8711516,-79.6331784,2,Orico Court (189),a
-43.8711651,-79.5206814,2,Damato Crescent (534),a
 43.8711666,-79.630664,2,Belsite Court (408),a
 43.8712003,-79.593564,2,Pine Valley Drive (148),a
-43.8712028,-79.5206939,2,Damato Crescent (395),a
 43.8712294,-79.4725858,2,Farrell Road (736),a
 43.8712508,-79.6331886,2,Orico Court (190),a
-43.8712572,-79.519925,2,Isaac Murray Avenue (215),a
 43.871262,-79.5568064,2,Picnic Area Road (700),a
 43.871262,-79.5266121,2,Teston Road (164),a
 43.8712664,-79.4814374,2,Lady Valentina Avenue (075),a
 43.8712664,-79.4814374,2,Lady Valentina Avenue (075),a
 43.8712695,-79.5161237,2,Keele Street (795),a
 43.8712756,-79.5552237,2,Picnic Area Road (682),a
-43.8712802,-79.5207197,2,Damato Crescent (830),a
 43.8712831,-79.630624,2,Belsite Court (410),a
 43.8713101,-79.4818356,2,Lady Valentina Avenue (074),a
 43.8713101,-79.4818356,2,Lady Valentina Avenue (074),a
@@ -47579,17 +46620,10 @@ lat,lon,sz,names,len_cat
 43.871451,-79.48541,2,Sofia Olivia Crescent (891),a
 43.8714553,-79.5565825,2,Picnic Area Road (698),a
 43.871461,-79.485417,2,Sofia Olivia Crescent (892),a
-43.8714785,-79.5195027,2,Isaac Murray Avenue (293),a
-43.8714854,-79.5232489,2,Giancola Crescent (090),a
 43.8714888,-79.5093666,2,Rodinea Road (464),a
 43.8714888,-79.5093666,2,Rodinea Road (572),a
-43.8715032,-79.5194556,2,Damato Crescent (825),a
-43.8715032,-79.5194556,2,Isaac Murray Avenue (216),a
-43.8715032,-79.5194556,2,Isaac Murray Avenue (228),a
-43.8715045,-79.5219416,2,Giancola Crescent (107),a
 43.8715047,-79.5564551,2,Picnic Area Road (697),a
 43.8715361,-79.4711905,2,Farrell Road (734),a
-43.8715397,-79.5232724,2,Giancola Crescent (092),a
 43.8715414,-79.5093522,2,Rodinea Road (208),a
 43.8715433,-79.5563089,2,Picnic Area Road (696),a
 43.8715646,-79.5561976,2,Picnic Area Road (695),a
@@ -47600,7 +46634,6 @@ lat,lon,sz,names,len_cat
 43.8716203,-79.4745839,2,Queen Filomena Avenue (887),a
 43.8716203,-79.4745839,2,Sir Stevens Drive (855),a
 43.8716203,-79.4745839,2,Sir Stevens Drive (906),a
-43.8716207,-79.5232704,2,Giancola Crescent (095),a
 43.8716246,-79.4707877,2,Farrell Road (959),a
 43.871629,-79.484149,2,Sofia Olivia Crescent (874),a
 43.8716298,-79.470768,2,Farrell Road (960),a
@@ -47612,7 +46645,6 @@ lat,lon,sz,names,len_cat
 43.8716398,-79.4744965,2,Queen Filomena Avenue (123),a
 43.8716408,-79.4825022,2,Lady Valentina Avenue (073),a
 43.8716408,-79.4825022,2,Lady Valentina Avenue (073),a
-43.8716462,-79.5191158,2,Isaac Murray Avenue (229),a
 43.871653,-79.484081,2,Sofia Olivia Crescent (873),a
 43.8716534,-79.470618,2,Abner Miles Drive (260),a
 43.8716534,-79.470618,2,Farrell Road (893),a
@@ -47623,33 +46655,27 @@ lat,lon,sz,names,len_cat
 43.871678,-79.484029,2,Sofia Olivia Crescent (872),a
 43.871679,-79.509402,2,Rodinea Road (573),a
 43.87168,-79.47837,2,McCombe Lane (954),a
-43.8716832,-79.5232315,2,Giancola Crescent (097),a
 43.8716834,-79.4704968,2,Abner Miles Drive (855),a
 43.8716883,-79.5553285,2,Picnic Area Road (687),a
 43.87169,-79.47852,2,McCombe Lane (955),a
 43.8716901,-79.4704648,2,Abner Miles Drive (856),a
 43.871703,-79.483993,2,Sofia Olivia Crescent (871),a
 43.8717116,-79.5094138,2,Rodinea Road (207),a
-43.8717123,-79.5219987,2,Giancola Crescent (106),a
 43.8717135,-79.5555652,2,Picnic Area Road (692),a
 43.8717311,-79.5243686,2,Teston Road (563),a
 43.8717361,-79.4706615,2,Via Romano Boulevard (322),a
-43.8717364,-79.523168,2,Giancola Crescent (098),a
 43.871738,-79.483945,2,Sofia Olivia Crescent (870),a
 43.8717388,-79.5859825,2,Dean Place (339),a
 43.8717487,-79.6147199,2,Kirby Road (305),a
 43.8717487,-79.6147199,2,Kirby Road (305),a
-43.8717504,-79.5196473,2,Damato Crescent (826),a
 43.8717543,-79.6331273,2,Orico Court (192),a
 43.87176,-79.47867,2,McCombe Lane (956),a
-43.8717708,-79.5230427,2,Giancola Crescent (099),a
 43.8717744,-79.5554955,2,Picnic Area Road (691),a
 43.8717764,-79.524152,2,St. Joan of Arc Avenue (738),a
 43.8717764,-79.524152,2,Teston Road (561),a
 43.8717764,-79.524152,2,Teston Road (564),a
 43.871783,-79.483892,2,Sofia Olivia Crescent (869),a
 43.8717906,-79.4795503,2,Lady Valentina Avenue (078),a
-43.8717938,-79.522034,2,Giancola Crescent (105),a
 43.8718167,-79.5239616,2,Teston Road (565),a
 43.8718214,-79.5465484,2,Shipwill Street (927),a
 43.871827,-79.483853,2,Sofia Olivia Crescent (868),a
@@ -47657,30 +46683,21 @@ lat,lon,sz,names,len_cat
 43.87184,-79.4736,2,Allison Ann Way (882),a
 43.87184,-79.4736,2,Queen Filomena Avenue (884),a
 43.87184,-79.4736,2,Queen Filomena Avenue (886),a
-43.8718483,-79.52207,2,Giancola Crescent (104),a
 43.8718488,-79.5554513,2,Picnic Area Road (690),a
 43.8718621,-79.6188866,2,Kipling Avenue (614),a
 43.871863,-79.48382,2,Sofia Olivia Crescent (867),a
 43.8718716,-79.5094954,2,Rodinea Road (209),a
-43.8718766,-79.5185506,2,Isaac Murray Avenue (230),a
-43.8718766,-79.5185506,2,Isaac Murray Avenue (230),a
 43.87188,-79.47891,2,McCombe Lane (957),a
-43.8718846,-79.522094,2,Giancola Crescent (103),a
 43.871893,-79.485604,2,Sofia Olivia Crescent (893),a
-43.871907,-79.5224295,2,Giancola Crescent (100),a
 43.871907,-79.485608,2,Sofia Olivia Crescent (894),a
 43.871916,-79.483786,2,Sofia Olivia Crescent (866),a
 43.871921,-79.485611,2,Sofia Olivia Crescent (895),a
-43.8719213,-79.5221429,2,Giancola Crescent (102),a
-43.8719312,-79.5222173,2,Giancola Crescent (101),a
 43.871935,-79.485612,2,Sofia Olivia Crescent (896),a
 43.871948,-79.485611,2,Sofia Olivia Crescent (897),a
 43.8719495,-79.4736438,2,Allison Ann Way (124),a
 43.87195,-79.47908,2,McCombe Lane (958),a
 43.8719525,-79.613707,2,Kirby Road (309),a
 43.8719525,-79.613707,2,Kirby Road (309),a
-43.8719568,-79.5184794,2,Isaac Murray Avenue (231),a
-43.8719568,-79.5184794,2,Isaac Murray Avenue (231),a
 43.871962,-79.485609,2,Sofia Olivia Crescent (898),a
 43.8719626,-79.6455524,2,Highway 27 (907),a
 43.8719629,-79.5554352,2,Picnic Area Road (544),a
@@ -47692,7 +46709,6 @@ lat,lon,sz,names,len_cat
 43.8719857,-79.5231631,2,Teston Road (825),a
 43.871989,-79.485599,2,Sofia Olivia Crescent (900),a
 43.872002,-79.485592,2,Sofia Olivia Crescent (901),a
-43.8720037,-79.5208956,2,Damato Crescent (831),a
 43.8720068,-79.5909172,2,Rachelle Court (072),a
 43.872015,-79.485583,2,Sofia Olivia Crescent (902),a
 43.8720256,-79.4792991,2,McCombe Lane (446),a
@@ -47711,21 +46727,16 @@ lat,lon,sz,names,len_cat
 43.8720601,-79.4836964,2,Sofia Olivia Crescent (864),a
 43.872066,-79.48552,2,Sofia Olivia Crescent (907),a
 43.872073,-79.485503,2,Sofia Olivia Crescent (908),a
-43.8720847,-79.5208936,2,Damato Crescent (832),a
 43.8721,-79.47786,2,Lady Fenyrose Avenue (358),a
 43.8721072,-79.5096153,2,Rodinea Road (212),a
 43.8721381,-79.4726052,2,Ferrett Street (284),a
-43.8721479,-79.5223969,2,Teston Road (398),a
-43.8721567,-79.5208918,2,Damato Crescent (833),a
 43.872157,-79.5863086,2,Dean Place (342),a
-43.8721832,-79.5208538,2,Damato Crescent (834),a
 43.87219,-79.47196,2,Queen Filomena Avenue (894),a
 43.8721932,-79.5221833,2,Teston Road (395),a
 43.8722018,-79.5096559,2,Rodinea Road (210),a
 43.8722029,-79.5126272,2,Malmo Court (004),a
 43.8722114,-79.5863447,2,Dean Place (345),a
 43.872215,-79.6123443,2,Kirby Road (312),a
-43.8722181,-79.5207658,2,Damato Crescent (835),a
 43.8722218,-79.5125251,2,Malmo Court (439),a
 43.8722274,-79.4841729,2,Lady Valentina Avenue (071),a
 43.872235,-79.484942,2,Sofia Olivia Crescent (909),a
@@ -47736,7 +46747,6 @@ lat,lon,sz,names,len_cat
 43.87229,-79.47378,2,Allison Ann Way (883),a
 43.872291,-79.521721,2,Teston Road (391),a
 43.8722935,-79.516351,2,Keele Street (796),a
-43.8722946,-79.5204154,2,Damato Crescent (836),a
 43.872298,-79.484758,2,Sofia Olivia Crescent (912),a
 43.8722988,-79.5216843,2,Teston Road (701),a
 43.8723022,-79.5864047,2,Dean Place (348),a
@@ -47745,18 +46755,13 @@ lat,lon,sz,names,len_cat
 43.8723196,-79.5119951,2,Malmo Court (226),a
 43.8723203,-79.4709078,2,Via Romano Boulevard (323),a
 43.872329,-79.484706,2,Sofia Olivia Crescent (913),a
-43.8723376,-79.520265,2,Damato Crescent (837),a
-43.8723376,-79.520265,2,Damato Crescent (838),a
 43.8723385,-79.5864288,2,Dean Place (351),a
 43.87234,-79.47793,2,Lady Fenyrose Avenue (359),a
-43.8723454,-79.5197652,2,Damato Crescent (827),a
 43.87236,-79.5910831,2,Rachelle Court (090),a
 43.87237,-79.4749012,2,Sir Stevens Drive (857),a
 43.8723883,-79.5555545,2,Picnic Area Road (657),a
 43.8723928,-79.5864524,2,Dean Place (353),a
 43.872393,-79.4710749,2,Queen Filomena Avenue (553),a
-43.8723945,-79.5198856,2,Damato Crescent (828),a
-43.8723945,-79.5198856,2,Damato Crescent (839),a
 43.8724145,-79.5114814,2,Malmo Court (227),a
 43.8724198,-79.470946,2,Queen Filomena Avenue (656),a
 43.8724198,-79.470946,2,Queen Filomena Avenue (895),a
@@ -47770,8 +46775,6 @@ lat,lon,sz,names,len_cat
 43.87245,-79.47273,2,Ferrett Street (285),a
 43.8724678,-79.5670452,2,Weston Road (394),a
 43.872468,-79.5910805,2,Rachelle Court (099),a
-43.8724709,-79.518631,2,Isaac Murray Avenue (232),a
-43.8724709,-79.518631,2,Isaac Murray Avenue (232),a
 43.8724712,-79.5111021,2,Malmo Court (006),a
 43.8724727,-79.4844624,2,Lady Valentina Avenue (069),a
 43.8724727,-79.4844624,2,Sofia Olivia Crescent (914),a
@@ -47791,8 +46794,6 @@ lat,lon,sz,names,len_cat
 43.8726057,-79.5098291,2,Rodinea Road (211),a
 43.8726073,-79.5906914,2,Stephanie Boulevard (775),a
 43.8726073,-79.5906914,2,Stephanie Boulevard (775),a
-43.8726106,-79.5187454,2,Isaac Murray Avenue (233),a
-43.8726106,-79.5187454,2,Isaac Murray Avenue (233),a
 43.8726143,-79.4805458,2,Sweet Alexandra Court (493),a
 43.8726208,-79.5903302,2,Stephanie Boulevard (777),a
 43.8726208,-79.5903302,2,Stephanie Boulevard (777),a

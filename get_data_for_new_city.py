@@ -101,7 +101,7 @@ def build_overpass_query(relation_id, query_type="named"):
     """
     if query_type == "named":
         # Query for named streets only (similar to Prince George example)
-        query = f"""[out:json];
+        query = f"""[out:json][timeout:600];
 rel({relation_id});
 map_to_area;
 (
@@ -130,7 +130,7 @@ map_to_area;
 out;"""
     else:
         # Query for all streets (similar to Etobicoke example)
-        query = f"""[out:json];
+        query = f"""[out:json][timeout:600];
 rel({relation_id});
 map_to_area;
 (
@@ -147,35 +147,57 @@ out;"""
     return query
 
 
+OVERPASS_SERVERS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+]
+
+
 def fetch_overpass_data(query):
     """
     Execute an Overpass API query and return the JSON data.
+    Tries multiple Overpass servers with retries on timeout.
     """
-    print("Executing Overpass API query...")
-
-    overpass_url = "https://overpass-api.de/api/interpreter"
     headers = {"User-Agent": "CityStrides-Heatmap-Generator/1.0"}
 
-    try:
-        response = requests.post(overpass_url,
-                                 data=query,
-                                 headers=headers,
-                                 timeout=300)
-        response.raise_for_status()
+    for server_url in OVERPASS_SERVERS:
+        server_name = server_url.split("//")[1].split("/")[0]
+        print(f"Trying Overpass server: {server_name}...")
 
-        # Parse JSON response
-        data = response.json()
-        print(
-            f"✓ Retrieved {len(data.get('elements', []))} elements from Overpass API"
-        )
-        return data
+        try:
+            response = requests.post(server_url,
+                                     data={"data": query},
+                                     headers=headers,
+                                     timeout=660)
+            response.raise_for_status()
 
-    except requests.RequestException as e:
-        print(f"Error fetching data from Overpass API: {e}")
-        return None
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON response: {e}")
-        return None
+            data = response.json()
+            print(
+                f"✓ Retrieved {len(data.get('elements', []))} elements from {server_name}"
+            )
+            return data
+
+        except requests.Timeout:
+            print(f"  Timeout on {server_name}, trying next server...")
+            continue
+        except requests.HTTPError as e:
+            if e.response is not None and e.response.status_code in (429, 504):
+                print(
+                    f"  {e.response.status_code} from {server_name}, trying next server..."
+                )
+                continue
+            print(f"Error fetching data from Overpass API: {e}")
+            return None
+        except requests.RequestException as e:
+            print(f"  Connection error on {server_name}: {e}")
+            continue
+        except json.JSONDecodeError as e:
+            print(f"Error parsing JSON response: {e}")
+            return None
+
+    print("All Overpass servers failed. Try again later or use a smaller query.")
+    return None
 
 
 def save_city_data(city_name, data, original_name=None):

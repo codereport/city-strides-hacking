@@ -1,14 +1,4 @@
 lat,lon,sz,names,len_cat
-43.6882822,-79.2860366,2,Musgrave Street (172),a
-43.6882822,-79.2860366,2,Musgrave Street (715),a
-43.6884244,-79.2856436,2,Musgrave Street (173),a
-43.6884244,-79.2856436,2,Musgrave Street (716),a
-43.6885161,-79.2852817,2,Musgrave Street (174),a
-43.6885161,-79.2852817,2,Musgrave Street (717),a
-43.6886072,-79.2848407,2,Musgrave Street (183),a
-43.6886072,-79.2848407,2,Musgrave Street (726),a
-43.6886322,-79.2847248,2,Musgrave Street (718),a
-43.6886804,-79.2844865,2,Musgrave Street (175),a
 43.6890166,-79.2829596,2,Musgrave Street (176),a
 43.6890166,-79.2829596,2,Musgrave Street (176),a
 43.6891675,-79.2823784,2,Musgrave Street (177),a
@@ -23,1181 +13,23 @@ lat,lon,sz,names,len_cat
 43.6897921,-79.2818501,2,Musgrave Street (181),a
 43.6899908,-79.2818052,2,Musgrave Street (182),a
 43.6899908,-79.2818052,2,Musgrave Street (182),a
-43.6943963,-79.2734948,2,Danforth Avenue (648),a
-43.6943963,-79.2734948,2,Danforth Avenue (790),a
-43.6946086,-79.2725279,2,Danforth Avenue (649),a
-43.6946086,-79.2725279,2,Danforth Avenue (791),a
-43.6946086,-79.2725279,2,Scotia Avenue (008),a
-43.6946086,-79.2725279,2,Scotia Avenue (038),a
-43.6946331,-79.2724095,2,Danforth Avenue (650),a
-43.6946331,-79.2724095,2,Danforth Avenue (792),a
-43.6946662,-79.2722604,2,Danforth Avenue (651),a
-43.6946662,-79.2722604,2,Danforth Avenue (713),a
-43.6946662,-79.2722604,2,Danforth Avenue (721),a
-43.6946662,-79.2722604,2,Danforth Avenue (793),a
-43.6946662,-79.2722604,2,Danforth Avenue (812),a
-43.6946662,-79.2722604,2,Danforth Avenue (820),a
-43.6946934,-79.2725653,2,Scotia Avenue (152),a
-43.6946934,-79.2725653,2,Scotia Avenue (474),a
-43.6947002,-79.2737588,2,Warden Avenue (676),a
-43.6947002,-79.2737588,2,Warden Avenue (749),a
-43.694714,-79.2725736,2,Scotia Avenue (200),a
-43.694714,-79.2725736,2,Scotia Avenue (470),a
-43.694716,-79.273765,2,Warden Avenue (422),a
-43.694716,-79.273765,2,Warden Avenue (471),a
-43.694728,-79.2717932,2,Danforth Avenue (714),a
-43.694728,-79.2717932,2,Danforth Avenue (813),a
-43.6947364,-79.2738288,2,Warden Avenue (069),a
-43.6947364,-79.2738288,2,Warden Avenue (157),a
-43.6947566,-79.2738372,2,Warden Avenue (426),a
-43.6947566,-79.2738372,2,Warden Avenue (475),a
-43.6947848,-79.2737982,2,Warden Avenue (423),a
-43.6947848,-79.2737982,2,Warden Avenue (472),a
-43.6947849,-79.2718229,2,Danforth Avenue (720),a
-43.6947849,-79.2718229,2,Danforth Avenue (819),a
-43.6948218,-79.2713266,2,Danforth Avenue (715),a
-43.6948218,-79.2713266,2,Danforth Avenue (728),a
-43.6948218,-79.2713266,2,Danforth Avenue (814),a
-43.6948218,-79.2713266,2,Danforth Avenue (827),a
-43.6948339,-79.273844,2,Warden Avenue (424),a
-43.6948339,-79.273844,2,Warden Avenue (425),a
-43.6948339,-79.273844,2,Warden Avenue (429),a
-43.6948339,-79.273844,2,Warden Avenue (473),a
-43.6948339,-79.273844,2,Warden Avenue (474),a
-43.6948339,-79.273844,2,Warden Avenue (478),a
-43.6948472,-79.272627,2,Scotia Avenue (771),a
-43.6948472,-79.272627,2,Scotia Avenue (984),a
-43.6948678,-79.2714274,2,Danforth Avenue (719),a
-43.6948678,-79.2714274,2,Danforth Avenue (725),a
-43.6948678,-79.2714274,2,Danforth Avenue (818),a
-43.6948678,-79.2714274,2,Danforth Avenue (824),a
-43.6948678,-79.2714274,2,Medford Avenue (504),a
-43.6948678,-79.2714274,2,Medford Avenue (959),a
-43.6948864,-79.2710124,2,Danforth Avenue (729),a
-43.6948864,-79.2710124,2,Danforth Avenue (730),a
-43.6948864,-79.2710124,2,Danforth Avenue (828),a
-43.6948864,-79.2710124,2,Danforth Avenue (829),a
-43.6949075,-79.2704727,2,Kalmar Avenue (071),a
-43.6949075,-79.2704727,2,Kalmar Avenue (684),a
-43.6949206,-79.2711762,2,Danforth Avenue (724),a
-43.6949206,-79.2711762,2,Danforth Avenue (727),a
-43.6949206,-79.2711762,2,Danforth Avenue (823),a
-43.6949206,-79.2711762,2,Danforth Avenue (826),a
-43.6949309,-79.2714524,2,Medford Avenue (151),a
-43.6949309,-79.2714524,2,Medford Avenue (473),a
-43.694933,-79.2726614,2,Scotia Avenue (770),a
-43.694933,-79.2726614,2,Scotia Avenue (983),a
-43.6949383,-79.2704842,2,Kalmar Avenue (150),a
-43.6949383,-79.2704842,2,Kalmar Avenue (472),a
-43.6949478,-79.2714587,2,Medford Avenue (505),a
-43.6949478,-79.2714587,2,Medford Avenue (960),a
-43.6949555,-79.2706916,2,Danforth Avenue (731),a
-43.6949555,-79.2706916,2,Danforth Avenue (830),a
-43.6949736,-79.2739016,2,Warden Avenue (430),a
-43.6949736,-79.2739016,2,Warden Avenue (479),a
-43.6949745,-79.272678,2,Scotia Avenue (010),a
-43.6949745,-79.272678,2,Scotia Avenue (015),a
-43.6949745,-79.272678,2,Scotia Avenue (040),a
-43.6949745,-79.272678,2,Scotia Avenue (045),a
-43.6949843,-79.2708267,2,Danforth Avenue (718),a
-43.6949843,-79.2708267,2,Danforth Avenue (726),a
-43.6949843,-79.2708267,2,Danforth Avenue (817),a
-43.6949843,-79.2708267,2,Danforth Avenue (825),a
-43.6949986,-79.2706722,2,Danforth Avenue (717),a
-43.6949986,-79.2706722,2,Danforth Avenue (816),a
-43.6950059,-79.2705431,2,Danforth Avenue (716),a
-43.6950059,-79.2705431,2,Danforth Avenue (722),a
-43.6950059,-79.2705431,2,Danforth Avenue (732),a
-43.6950059,-79.2705431,2,Danforth Avenue (815),a
-43.6950059,-79.2705431,2,Danforth Avenue (821),a
-43.6950059,-79.2705431,2,Danforth Avenue (831),a
-43.6950113,-79.2705135,2,Danforth Avenue (711),a
-43.6950113,-79.2705135,2,Danforth Avenue (723),a
-43.6950113,-79.2705135,2,Danforth Avenue (810),a
-43.6950113,-79.2705135,2,Danforth Avenue (822),a
-43.6950113,-79.2705135,2,Kalmar Avenue (072),a
-43.6950113,-79.2705135,2,Kalmar Avenue (685),a
-43.6950491,-79.2808978,2,Byng Avenue (645),a
-43.6950491,-79.2808978,2,Byng Avenue (645),a
-43.6950593,-79.2715034,2,Kimridge Avenue (116),a
-43.6950593,-79.2715034,2,Kimridge Avenue (177),a
-43.6950593,-79.2715034,2,Medford Avenue (500),a
-43.6950593,-79.2715034,2,Medford Avenue (506),a
-43.6950593,-79.2715034,2,Medford Avenue (955),a
-43.6950593,-79.2715034,2,Medford Avenue (961),a
-43.6950852,-79.2713781,2,Kimridge Avenue (030),a
-43.6950852,-79.2713781,2,Kimridge Avenue (707),a
-43.695107,-79.2712723,2,Kimridge Avenue (117),a
-43.695107,-79.2712723,2,Kimridge Avenue (178),a
-43.6951296,-79.2711746,2,Kimridge Avenue (118),a
-43.6951296,-79.2711746,2,Kimridge Avenue (179),a
-43.6951569,-79.2710994,2,Kimridge Avenue (119),a
-43.6951569,-79.2710994,2,Kimridge Avenue (180),a
-43.6951628,-79.2692754,2,Eastwood Avenue (382),a
-43.6951628,-79.2692754,2,Eastwood Avenue (382),a
-43.6951628,-79.2692754,2,Eastwood Avenue (678),a
-43.6951628,-79.2692754,2,Eastwood Avenue (678),a
-43.6951712,-79.2692787,2,Eastwood Avenue (148),a
-43.6951712,-79.2692787,2,Eastwood Avenue (148),a
-43.6951712,-79.2692787,2,Eastwood Avenue (470),a
-43.6951712,-79.2692787,2,Eastwood Avenue (470),a
-43.6951846,-79.2710467,2,Kimridge Avenue (120),a
-43.6951846,-79.2710467,2,Kimridge Avenue (181),a
-43.6951925,-79.2715595,2,Medford Avenue (501),a
-43.6951925,-79.2715595,2,Medford Avenue (956),a
-43.6952375,-79.2709707,2,Kimridge Avenue (121),a
-43.6952375,-79.2709707,2,Kimridge Avenue (182),a
-43.6952755,-79.2693192,2,Danforth Avenue (595),a
-43.6952755,-79.2693192,2,Danforth Avenue (595),a
-43.6952755,-79.2693192,2,Danforth Avenue (707),a
-43.6952755,-79.2693192,2,Danforth Avenue (707),a
-43.6952755,-79.2693192,2,Danforth Avenue (712),a
-43.6952755,-79.2693192,2,Danforth Avenue (712),a
-43.6952755,-79.2693192,2,Danforth Avenue (772),a
-43.6952755,-79.2693192,2,Danforth Avenue (772),a
-43.6952755,-79.2693192,2,Danforth Avenue (806),a
-43.6952755,-79.2693192,2,Danforth Avenue (806),a
-43.6952755,-79.2693192,2,Danforth Avenue (811),a
-43.6952755,-79.2693192,2,Danforth Avenue (811),a
-43.6952755,-79.2693192,2,Eastwood Avenue (383),a
-43.6952755,-79.2693192,2,Eastwood Avenue (383),a
-43.6952755,-79.2693192,2,Eastwood Avenue (384),a
-43.6952755,-79.2693192,2,Eastwood Avenue (384),a
-43.6952755,-79.2693192,2,Eastwood Avenue (679),a
-43.6952755,-79.2693192,2,Eastwood Avenue (679),a
-43.6952755,-79.2693192,2,Eastwood Avenue (680),a
-43.6952755,-79.2693192,2,Eastwood Avenue (680),a
-43.6952998,-79.2690897,2,Danforth Avenue (596),a
-43.6952998,-79.2690897,2,Danforth Avenue (596),a
-43.6952998,-79.2690897,2,Danforth Avenue (773),a
-43.6952998,-79.2690897,2,Danforth Avenue (773),a
-43.695333,-79.276017,2,Danforth Road (889),a
-43.695333,-79.276017,2,Danforth Road (978),a
-43.6953406,-79.2688754,2,Danforth Avenue (597),a
-43.6953406,-79.2688754,2,Danforth Avenue (597),a
-43.6953406,-79.2688754,2,Danforth Avenue (708),a
-43.6953406,-79.2688754,2,Danforth Avenue (708),a
-43.6953406,-79.2688754,2,Danforth Avenue (774),a
-43.6953406,-79.2688754,2,Danforth Avenue (774),a
-43.6953406,-79.2688754,2,Danforth Avenue (807),a
-43.6953406,-79.2688754,2,Danforth Avenue (807),a
-43.6953412,-79.2690979,2,Danforth Avenue (706),a
-43.6953412,-79.2690979,2,Danforth Avenue (706),a
-43.6953412,-79.2690979,2,Danforth Avenue (805),a
-43.6953412,-79.2690979,2,Danforth Avenue (805),a
-43.6953827,-79.2693615,2,Eastwood Avenue (149),a
-43.6953827,-79.2693615,2,Eastwood Avenue (149),a
-43.6953827,-79.2693615,2,Eastwood Avenue (471),a
-43.6953827,-79.2693615,2,Eastwood Avenue (471),a
-43.6953885,-79.2688903,2,Danforth Avenue (700),a
-43.6953885,-79.2688903,2,Danforth Avenue (700),a
-43.6953885,-79.2688903,2,Danforth Avenue (705),a
-43.6953885,-79.2688903,2,Danforth Avenue (705),a
-43.6953885,-79.2688903,2,Danforth Avenue (799),a
-43.6953885,-79.2688903,2,Danforth Avenue (799),a
-43.6953885,-79.2688903,2,Danforth Avenue (804),a
-43.6953885,-79.2688903,2,Danforth Avenue (804),a
-43.6953972,-79.2686171,2,Danforth Avenue (709),a
-43.6953972,-79.2686171,2,Danforth Avenue (709),a
-43.6953972,-79.2686171,2,Danforth Avenue (808),a
-43.6953972,-79.2686171,2,Danforth Avenue (808),a
-43.6954027,-79.2693694,2,Eastwood Avenue (385),a
-43.6954027,-79.2693694,2,Eastwood Avenue (385),a
-43.6954027,-79.2693694,2,Eastwood Avenue (681),a
-43.6954027,-79.2693694,2,Eastwood Avenue (681),a
-43.6954325,-79.2686709,2,Danforth Avenue (699),a
-43.6954325,-79.2686709,2,Danforth Avenue (699),a
-43.6954325,-79.2686709,2,Danforth Avenue (798),a
-43.6954325,-79.2686709,2,Danforth Avenue (798),a
-43.6954763,-79.2684142,2,Danforth Avenue (695),a
-43.6954763,-79.2684142,2,Danforth Avenue (695),a
-43.6954763,-79.2684142,2,Danforth Avenue (698),a
-43.6954763,-79.2684142,2,Danforth Avenue (698),a
-43.6954763,-79.2684142,2,Danforth Avenue (710),a
-43.6954763,-79.2684142,2,Danforth Avenue (710),a
-43.6954763,-79.2684142,2,Danforth Avenue (794),a
-43.6954763,-79.2684142,2,Danforth Avenue (794),a
-43.6954763,-79.2684142,2,Danforth Avenue (797),a
-43.6954763,-79.2684142,2,Danforth Avenue (797),a
-43.6954763,-79.2684142,2,Danforth Avenue (809),a
-43.6954763,-79.2684142,2,Danforth Avenue (809),a
-43.6955538,-79.2811196,2,Byng Avenue (644),a
-43.6955538,-79.2811196,2,Byng Avenue (644),a
-43.6955607,-79.2680941,2,Danforth Avenue (697),a
-43.6955607,-79.2680941,2,Danforth Avenue (697),a
-43.6955607,-79.2680941,2,Danforth Avenue (701),a
-43.6955607,-79.2680941,2,Danforth Avenue (701),a
-43.6955607,-79.2680941,2,Danforth Avenue (743),a
-43.6955607,-79.2680941,2,Danforth Avenue (743),a
-43.6955607,-79.2680941,2,Danforth Avenue (796),a
-43.6955607,-79.2680941,2,Danforth Avenue (796),a
-43.6955607,-79.2680941,2,Danforth Avenue (800),a
-43.6955607,-79.2680941,2,Danforth Avenue (800),a
-43.6955607,-79.2680941,2,Danforth Avenue (842),a
-43.6955607,-79.2680941,2,Danforth Avenue (842),a
-43.6955715,-79.2758558,2,Danforth Road (687),a
-43.6955715,-79.2758558,2,Danforth Road (907),a
-43.6955823,-79.2729339,2,Scotia Avenue (014),a
-43.6955823,-79.2729339,2,Scotia Avenue (044),a
-43.6956091,-79.2705381,2,Kimridge Avenue (122),a
-43.6956091,-79.2705381,2,Kimridge Avenue (123),a
-43.6956091,-79.2705381,2,Kimridge Avenue (183),a
-43.6956091,-79.2705381,2,Kimridge Avenue (184),a
-43.6956091,-79.2705381,2,Mystic Avenue (016),a
-43.6956091,-79.2705381,2,Mystic Avenue (391),a
-43.6956199,-79.2676733,2,Danforth Avenue (702),a
-43.6956199,-79.2676733,2,Danforth Avenue (801),a
-43.695682,-79.2705704,2,Mystic Avenue (029),a
-43.695682,-79.2705704,2,Mystic Avenue (706),a
-43.6957055,-79.26777,2,Danforth Avenue (742),a
-43.6957055,-79.26777,2,Danforth Avenue (742),a
-43.6957055,-79.26777,2,Danforth Avenue (841),a
-43.6957055,-79.26777,2,Danforth Avenue (841),a
-43.6957254,-79.2672854,2,Danforth Avenue (703),a
-43.6957254,-79.2672854,2,Danforth Avenue (802),a
-43.6958171,-79.2668585,2,Parkette Place (433),a
-43.6958171,-79.2668585,2,Parkette Place (676),a
-43.6958249,-79.2669707,2,Danforth Avenue (704),a
-43.6958249,-79.2669707,2,Danforth Avenue (744),a
-43.6958249,-79.2669707,2,Danforth Avenue (803),a
-43.6958249,-79.2669707,2,Danforth Avenue (843),a
-43.6958249,-79.2669707,2,Parkette Place (432),a
-43.6958249,-79.2669707,2,Parkette Place (675),a
-43.6958367,-79.266717,2,Parkette Place (434),a
-43.6958367,-79.266717,2,Parkette Place (677),a
-43.6958614,-79.2665701,2,Parkette Place (435),a
-43.6958614,-79.2665701,2,Parkette Place (678),a
-43.6958766,-79.2664899,2,Parkette Place (146),a
-43.6958766,-79.2664899,2,Parkette Place (468),a
-43.6958795,-79.2672287,2,Danforth Avenue (741),a
-43.6958795,-79.2672287,2,Danforth Avenue (840),a
-43.6958836,-79.2756339,2,Danforth Road (252),a
-43.6958836,-79.2756339,2,Danforth Road (296),a
-43.6958836,-79.2756339,2,McDonald Avenue (112),a
-43.6958836,-79.2756339,2,McDonald Avenue (752),a
-43.6958884,-79.2667775,2,Danforth Avenue (745),a
-43.6958884,-79.2667775,2,Danforth Avenue (844),a
-43.6958914,-79.2695621,2,Eastwood Avenue (386),a
-43.6958914,-79.2695621,2,Eastwood Avenue (386),a
-43.6958914,-79.2695621,2,Eastwood Avenue (682),a
-43.6958914,-79.2695621,2,Eastwood Avenue (682),a
-43.6958931,-79.2664025,2,Parkette Place (436),a
-43.6958931,-79.2664025,2,Parkette Place (679),a
-43.6959534,-79.2660344,2,Parkette Place (437),a
-43.6959534,-79.2660344,2,Parkette Place (680),a
-43.6959755,-79.2659196,2,Parkette Place (438),a
-43.6959755,-79.2659196,2,Parkette Place (681),a
-43.6959785,-79.2669502,2,Danforth Avenue (291),a
-43.6959785,-79.2669502,2,Danforth Avenue (626),a
-43.6959809,-79.2719049,2,Medford Avenue (502),a
-43.6959809,-79.2719049,2,Medford Avenue (957),a
-43.6959912,-79.2658547,2,Parkette Place (439),a
-43.6959912,-79.2658547,2,Parkette Place (682),a
-43.6960156,-79.2657609,2,Parkette Place (440),a
-43.6960156,-79.2657609,2,Parkette Place (441),a
-43.6960156,-79.2657609,2,Parkette Place (445),a
-43.6960156,-79.2657609,2,Parkette Place (683),a
-43.6960156,-79.2657609,2,Parkette Place (684),a
-43.6960156,-79.2657609,2,Parkette Place (688),a
-43.6960376,-79.2756908,2,McDonald Avenue (764),a
-43.6960376,-79.2756908,2,McDonald Avenue (792),a
-43.6960442,-79.2663376,2,Danforth Avenue (746),a
-43.6960442,-79.2663376,2,Danforth Avenue (845),a
-43.6960463,-79.2667323,2,Danforth Avenue (290),a
-43.6960463,-79.2667323,2,Danforth Avenue (625),a
-43.6960597,-79.2658686,2,Parkette Place (442),a
-43.6960597,-79.2658686,2,Parkette Place (685),a
-43.6960645,-79.2757007,2,McDonald Avenue (127),a
-43.6960645,-79.2757007,2,McDonald Avenue (481),a
-43.696098,-79.2659063,2,Parkette Place (162),a
-43.696098,-79.2659063,2,Parkette Place (459),a
-43.6961061,-79.2659143,2,Parkette Place (443),a
-43.6961061,-79.2659143,2,Parkette Place (686),a
-43.6961091,-79.2665444,2,Danforth Avenue (740),a
-43.6961091,-79.2665444,2,Danforth Avenue (839),a
-43.6961091,-79.2665444,2,Danforth Avenue (853),a
-43.6961091,-79.2665444,2,Danforth Avenue (897),a
-43.6961218,-79.2659166,2,Parkette Place (147),a
-43.6961218,-79.2659166,2,Parkette Place (469),a
-43.6961387,-79.2698404,2,Kimridge Avenue (124),a
-43.6961387,-79.2698404,2,Kimridge Avenue (185),a
-43.6961866,-79.2659263,2,Danforth Avenue (747),a
-43.6961866,-79.2659263,2,Danforth Avenue (846),a
-43.6961866,-79.2659263,2,Parkette Place (444),a
-43.6961866,-79.2659263,2,Parkette Place (687),a
-43.6962006,-79.2697641,2,Kimridge Avenue (125),a
-43.6962006,-79.2697641,2,Kimridge Avenue (125),a
-43.6962006,-79.2697641,2,Kimridge Avenue (186),a
-43.6962006,-79.2697641,2,Kimridge Avenue (186),a
-43.6962073,-79.2648622,2,Parkette Place (446),a
-43.6962073,-79.2648622,2,Parkette Place (689),a
-43.6962091,-79.2753782,2,Danforth Road (251),a
-43.6962091,-79.2753782,2,Danforth Road (295),a
-43.6962452,-79.269738,2,Kimridge Avenue (126),a
-43.6962452,-79.269738,2,Kimridge Avenue (126),a
-43.6962452,-79.269738,2,Kimridge Avenue (187),a
-43.6962452,-79.269738,2,Kimridge Avenue (187),a
-43.6962803,-79.2744402,2,Butterworth Avenue (820),a
-43.6962803,-79.2744402,2,Butterworth Avenue (996),a
-43.6962803,-79.2744402,2,Warden Avenue (431),a
-43.6962803,-79.2744402,2,Warden Avenue (480),a
-43.6962803,-79.2744402,2,Warden Avenue (840),a
-43.6962803,-79.2744402,2,Warden Avenue (915),a
-43.6963045,-79.2743247,2,Butterworth Avenue (005),a
-43.6963045,-79.2743247,2,Butterworth Avenue (823),a
-43.6963079,-79.2697114,2,Kimridge Avenue (127),a
-43.6963079,-79.2697114,2,Kimridge Avenue (127),a
-43.6963079,-79.2697114,2,Kimridge Avenue (188),a
-43.6963079,-79.2697114,2,Kimridge Avenue (188),a
-43.6963079,-79.2697114,2,Wolcott Avenue (098),a
-43.6963079,-79.2697114,2,Wolcott Avenue (098),a
-43.6963079,-79.2697114,2,Wolcott Avenue (631),a
-43.6963079,-79.2697114,2,Wolcott Avenue (631),a
-43.6963095,-79.2742955,2,Butterworth Avenue (821),a
-43.6963095,-79.2742955,2,Butterworth Avenue (997),a
-43.6963529,-79.2697101,2,Wolcott Avenue (099),a
-43.6963529,-79.2697101,2,Wolcott Avenue (099),a
-43.6963529,-79.2697101,2,Wolcott Avenue (632),a
-43.6963529,-79.2697101,2,Wolcott Avenue (632),a
-43.6963887,-79.2696967,2,Wolcott Avenue (100),a
-43.6963887,-79.2696967,2,Wolcott Avenue (100),a
-43.6963887,-79.2696967,2,Wolcott Avenue (633),a
-43.6963887,-79.2696967,2,Wolcott Avenue (633),a
-43.6963977,-79.2708877,2,Mystic Avenue (017),a
-43.6963977,-79.2708877,2,Mystic Avenue (392),a
-43.6965062,-79.2697305,2,Wolcott Avenue (101),a
-43.6965062,-79.2697305,2,Wolcott Avenue (101),a
-43.6965062,-79.2697305,2,Wolcott Avenue (634),a
-43.6965062,-79.2697305,2,Wolcott Avenue (634),a
-43.6965155,-79.2733166,2,Butterworth Avenue (003),a
-43.6965155,-79.2733166,2,Butterworth Avenue (822),a
-43.6965155,-79.2733166,2,Butterworth Avenue (827),a
-43.6965155,-79.2733166,2,Butterworth Avenue (998),a
-43.6965155,-79.2733166,2,Scotia Avenue (005),a
-43.6965155,-79.2733166,2,Scotia Avenue (013),a
-43.6965155,-79.2733166,2,Scotia Avenue (035),a
-43.6965155,-79.2733166,2,Scotia Avenue (043),a
-43.6966311,-79.2733648,2,Scotia Avenue (752),a
-43.6966311,-79.2733648,2,Scotia Avenue (783),a
-43.6966977,-79.2721961,2,Medford Avenue (779),a
-43.6966977,-79.2721961,2,Medford Avenue (795),a
-43.6967211,-79.2750108,2,Danforth Road (239),a
-43.6967211,-79.2750108,2,Danforth Road (243),a
-43.6967211,-79.2750108,2,Danforth Road (250),a
-43.6967211,-79.2750108,2,Danforth Road (283),a
-43.6967211,-79.2750108,2,Danforth Road (287),a
-43.6967211,-79.2750108,2,Danforth Road (294),a
-43.696751,-79.2722178,2,Butterworth Avenue (001),a
-43.696751,-79.2722178,2,Butterworth Avenue (004),a
-43.696751,-79.2722178,2,Butterworth Avenue (825),a
-43.696751,-79.2722178,2,Butterworth Avenue (828),a
-43.696751,-79.2722178,2,Medford Avenue (497),a
-43.696751,-79.2722178,2,Medford Avenue (503),a
-43.696751,-79.2722178,2,Medford Avenue (952),a
-43.696751,-79.2722178,2,Medford Avenue (958),a
-43.6967916,-79.2749095,2,Danforth Road (244),a
-43.6967916,-79.2749095,2,Danforth Road (288),a
-43.6968117,-79.2750455,2,Danforth Road (238),a
-43.6968117,-79.2750455,2,Danforth Road (282),a
-43.6968208,-79.2748976,2,Danforth Road (245),a
-43.6968208,-79.2748976,2,Danforth Road (289),a
-43.6968208,-79.2748976,2,Danforth Road (349),a
-43.6968208,-79.2748976,2,Danforth Road (393),a
-43.6968278,-79.2746772,2,Warden Avenue (838),a
-43.6968278,-79.2746772,2,Warden Avenue (841),a
-43.6968278,-79.2746772,2,Warden Avenue (913),a
-43.6968278,-79.2746772,2,Warden Avenue (916),a
-43.6968632,-79.2722613,2,Medford Avenue (753),a
-43.6968632,-79.2722613,2,Medford Avenue (784),a
-43.696887,-79.2748687,2,Danforth Road (413),a
-43.696887,-79.2748687,2,Danforth Road (784),a
-43.6969188,-79.271107,2,Mystic Avenue (754),a
-43.6969188,-79.271107,2,Mystic Avenue (785),a
-43.6969502,-79.2699163,2,Wolcott Avenue (102),a
-43.6969502,-79.2699163,2,Wolcott Avenue (635),a
-43.696971,-79.2760585,2,McDonald Avenue (113),a
-43.696971,-79.2760585,2,McDonald Avenue (753),a
-43.6969776,-79.2711317,2,Butterworth Avenue (002),a
-43.6969776,-79.2711317,2,Butterworth Avenue (823),a
-43.6969776,-79.2711317,2,Butterworth Avenue (826),a
-43.6969776,-79.2711317,2,Butterworth Avenue (999),a
-43.6969776,-79.2711317,2,Mystic Avenue (018),a
-43.6969776,-79.2711317,2,Mystic Avenue (023),a
-43.6969776,-79.2711317,2,Mystic Avenue (393),a
-43.6969776,-79.2711317,2,Mystic Avenue (398),a
-43.6969927,-79.2747432,2,Warden Avenue (410),a
-43.6969927,-79.2747432,2,Warden Avenue (781),a
-43.6970697,-79.2749335,2,Danforth Road (243),a
-43.6970697,-79.2749335,2,Danforth Road (598),a
-43.6970875,-79.274781,2,Danforth Road (240),a
-43.6970875,-79.274781,2,Danforth Road (284),a
-43.6970875,-79.274781,2,Danforth Road (350),a
-43.6970875,-79.274781,2,Danforth Road (394),a
-43.6970875,-79.274781,2,Warden Avenue (559),a
-43.6970875,-79.274781,2,Warden Avenue (608),a
-43.6970875,-79.274781,2,Warden Avenue (839),a
-43.6970875,-79.274781,2,Warden Avenue (914),a
-43.6970926,-79.2711766,2,Mystic Avenue (758),a
-43.6970926,-79.2711766,2,Mystic Avenue (788),a
-43.6971555,-79.2748093,2,Warden Avenue (560),a
-43.6971555,-79.2748093,2,Warden Avenue (609),a
-43.6971772,-79.2702003,2,Butterworth Avenue (769),a
-43.6971772,-79.2702003,2,Butterworth Avenue (794),a
-43.6972131,-79.2700329,2,Butterworth Avenue (000),a
-43.6972131,-79.2700329,2,Butterworth Avenue (818),a
-43.6972131,-79.2700329,2,Butterworth Avenue (824),a
-43.6972131,-79.2700329,2,Butterworth Avenue (994),a
-43.6972131,-79.2700329,2,Wolcott Avenue (095),a
-43.6972131,-79.2700329,2,Wolcott Avenue (103),a
-43.6972131,-79.2700329,2,Wolcott Avenue (628),a
-43.6972131,-79.2700329,2,Wolcott Avenue (636),a
-43.6972587,-79.2748487,2,Danforth Road (237),a
-43.6972587,-79.2748487,2,Danforth Road (247),a
-43.6972587,-79.2748487,2,Danforth Road (281),a
-43.6972587,-79.2748487,2,Danforth Road (291),a
-43.6972587,-79.2748487,2,Warden Avenue (561),a
-43.6972587,-79.2748487,2,Warden Avenue (610),a
-43.6972587,-79.2748487,2,Warden Avenue (828),a
-43.6972587,-79.2748487,2,Warden Avenue (903),a
-43.6972666,-79.2747011,2,Danforth Road (250),a
-43.6972666,-79.2747011,2,Danforth Road (601),a
-43.6972947,-79.2736417,2,Scotia Avenue (006),a
-43.6972947,-79.2736417,2,Scotia Avenue (036),a
-43.697322,-79.2694961,2,Butterworth Avenue (819),a
-43.697322,-79.2694961,2,Butterworth Avenue (819),a
-43.697322,-79.2694961,2,Butterworth Avenue (995),a
-43.697322,-79.2694961,2,Butterworth Avenue (995),a
-43.6973426,-79.2628558,2,Danforth Avenue (305),a
-43.6973426,-79.2628558,2,Danforth Avenue (379),a
-43.697404,-79.2749088,2,Warden Avenue (294),a
-43.697404,-79.2749088,2,Warden Avenue (969),a
-43.6974199,-79.2747703,2,Danforth Road (252),a
-43.6974199,-79.2747703,2,Danforth Road (605),a
-43.6974664,-79.2724951,2,Medford Avenue (498),a
-43.6974664,-79.2724951,2,Medford Avenue (953),a
-43.6976232,-79.2745258,2,Danforth Road (241),a
-43.6976232,-79.2745258,2,Danforth Road (285),a
-43.6976432,-79.2746617,2,Danforth Road (246),a
-43.6976432,-79.2746617,2,Danforth Road (249),a
-43.6976432,-79.2746617,2,Danforth Road (290),a
-43.6976432,-79.2746617,2,Danforth Road (293),a
-43.6977029,-79.2750323,2,Warden Avenue (829),a
-43.6977029,-79.2750323,2,Warden Avenue (830),a
-43.6977029,-79.2750323,2,Warden Avenue (904),a
-43.6977029,-79.2750323,2,Warden Avenue (905),a
-43.6977254,-79.2745595,2,Danforth Road (168),a
-43.6977254,-79.2745595,2,Danforth Road (212),a
-43.6977254,-79.2745595,2,Danforth Road (242),a
-43.6977254,-79.2745595,2,Danforth Road (248),a
-43.6977254,-79.2745595,2,Danforth Road (286),a
-43.6977254,-79.2745595,2,Danforth Road (292),a
-43.6977475,-79.2714322,2,Mystic Avenue (024),a
-43.6977475,-79.2714322,2,Mystic Avenue (399),a
-43.6979198,-79.2703228,2,Wolcott Avenue (096),a
-43.6979198,-79.2703228,2,Wolcott Avenue (629),a
-43.6979389,-79.2739227,2,Milne Avenue (241),a
-43.6979389,-79.2739227,2,Milne Avenue (933),a
-43.6979389,-79.2739227,2,Scotia Avenue (007),a
-43.6979389,-79.2739227,2,Scotia Avenue (011),a
-43.6979389,-79.2739227,2,Scotia Avenue (037),a
-43.6979389,-79.2739227,2,Scotia Avenue (041),a
-43.6980441,-79.2742006,2,Scotia Avenue (471),a
-43.6980441,-79.2742006,2,Scotia Avenue (674),a
-43.6980743,-79.2609214,2,Danforth Avenue (734),a
-43.6980743,-79.2609214,2,Danforth Avenue (833),a
-43.6980868,-79.2743135,2,Danforth Road (167),a
-43.6980868,-79.2743135,2,Danforth Road (211),a
-43.6980868,-79.2743135,2,Scotia Avenue (012),a
-43.6980868,-79.2743135,2,Scotia Avenue (042),a
-43.6981017,-79.273194,2,Medford Avenue (494),a
-43.6981017,-79.273194,2,Medford Avenue (949),a
-43.6981017,-79.273194,2,Milne Avenue (211),a
-43.6981017,-79.273194,2,Milne Avenue (242),a
-43.6981017,-79.273194,2,Milne Avenue (903),a
-43.6981017,-79.273194,2,Milne Avenue (934),a
-43.6981544,-79.2728198,2,Medford Avenue (499),a
-43.6981544,-79.2728198,2,Medford Avenue (954),a
-43.6981544,-79.2728198,2,Milne Avenue (212),a
-43.6981544,-79.2728198,2,Milne Avenue (213),a
-43.6981544,-79.2728198,2,Milne Avenue (904),a
-43.6981544,-79.2728198,2,Milne Avenue (905),a
-43.6981647,-79.2564167,2,Kingston Road (205),a
-43.6981647,-79.2564167,2,Kingston Road (205),a
-43.6981647,-79.2564167,2,Kingston Road (341),a
-43.6981647,-79.2564167,2,Kingston Road (341),a
-43.6981647,-79.2564167,2,Kingston Road (982),a
-43.6981647,-79.2564167,2,Kingston Road (982),a
-43.6982299,-79.2742042,2,Danforth Road (166),a
-43.6982299,-79.2742042,2,Danforth Road (210),a
-43.6982928,-79.2561744,2,Kingston Road (062),a
-43.6982928,-79.2561744,2,Kingston Road (062),a
-43.6982928,-79.2561744,2,Kingston Road (576),a
-43.6982928,-79.2561744,2,Kingston Road (576),a
-43.6983131,-79.2716782,2,Mystic Avenue (759),a
-43.6983131,-79.2716782,2,Mystic Avenue (789),a
-43.698387,-79.2753282,2,Warden Avenue (831),a
-43.698387,-79.2753282,2,Warden Avenue (906),a
-43.6984031,-79.2717189,2,Milne Avenue (214),a
-43.6984031,-79.2717189,2,Milne Avenue (243),a
-43.6984031,-79.2717189,2,Milne Avenue (906),a
-43.6984031,-79.2717189,2,Milne Avenue (935),a
-43.6984031,-79.2717189,2,Mystic Avenue (019),a
-43.6984031,-79.2717189,2,Mystic Avenue (025),a
-43.6984031,-79.2717189,2,Mystic Avenue (394),a
-43.6984031,-79.2717189,2,Mystic Avenue (400),a
-43.698407,-79.2634173,2,Pinegrove Avenue (092),a
-43.698407,-79.2634173,2,Pinegrove Avenue (121),a
-43.698407,-79.2634173,2,Pinegrove Avenue (670),a
-43.698407,-79.2634173,2,Pinegrove Avenue (699),a
-43.6984103,-79.2562516,2,Kingston Road (804),a
-43.6984103,-79.2562516,2,Kingston Road (804),a
-43.6984103,-79.2562516,2,Kingston Road (981),a
-43.6984103,-79.2562516,2,Kingston Road (981),a
-43.6984952,-79.2739731,2,Danforth Road (165),a
-43.6984952,-79.2739731,2,Danforth Road (209),a
-43.6984982,-79.2717517,2,Mystic Avenue (755),a
-43.6984982,-79.2717517,2,Mystic Avenue (786),a
-43.6985526,-79.2600857,2,Danforth Avenue (593),a
-43.6985526,-79.2600857,2,Danforth Avenue (770),a
-43.6985691,-79.2733694,2,Medford Avenue (495),a
-43.6985691,-79.2733694,2,Medford Avenue (950),a
-43.6986353,-79.2623614,2,Lillington Avenue (135),a
-43.6986353,-79.2623614,2,Lillington Avenue (146),a
-43.6986353,-79.2623614,2,Pinegrove Avenue (095),a
-43.6986353,-79.2623614,2,Pinegrove Avenue (122),a
-43.6986353,-79.2623614,2,Pinegrove Avenue (673),a
-43.6986353,-79.2623614,2,Pinegrove Avenue (700),a
-43.6986371,-79.2706204,2,Milne Avenue (215),a
-43.6986371,-79.2706204,2,Milne Avenue (245),a
-43.6986371,-79.2706204,2,Milne Avenue (907),a
-43.6986371,-79.2706204,2,Milne Avenue (937),a
-43.6986371,-79.2706204,2,Wolcott Avenue (091),a
-43.6986371,-79.2706204,2,Wolcott Avenue (097),a
-43.6986371,-79.2706204,2,Wolcott Avenue (624),a
-43.6986371,-79.2706204,2,Wolcott Avenue (630),a
-43.6986561,-79.255951,2,Kingston Road (063),a
-43.6986561,-79.255951,2,Kingston Road (063),a
-43.6986561,-79.255951,2,Kingston Road (577),a
-43.6986561,-79.255951,2,Kingston Road (577),a
-43.6987503,-79.2595684,2,Danforth Avenue (572),a
-43.6987503,-79.2595684,2,Danforth Avenue (661),a
-43.6987526,-79.259172,2,Danforth Avenue (735),a
-43.6987526,-79.259172,2,Danforth Avenue (834),a
-43.6987638,-79.2600851,2,South Woodrow Boulevard (324),a
-43.6987638,-79.2600851,2,South Woodrow Boulevard (416),a
-43.6988304,-79.269686,2,Milne Avenue (115),a
-43.6988304,-79.269686,2,Milne Avenue (330),a
-43.6988471,-79.273499,2,Medford Avenue (469),a
-43.6988471,-79.273499,2,Medford Avenue (672),a
-43.6988733,-79.2613232,2,Pinegrove Avenue (093),a
-43.6988733,-79.2613232,2,Pinegrove Avenue (096),a
-43.6988733,-79.2613232,2,Pinegrove Avenue (671),a
-43.6988733,-79.2613232,2,Pinegrove Avenue (674),a
-43.6988733,-79.2613232,2,South Edgely Avenue (141),a
-43.6988733,-79.2613232,2,South Edgely Avenue (804),a
-43.6988836,-79.2588548,2,Danforth Avenue (045),a
-43.6988836,-79.2588548,2,Danforth Avenue (522),a
-43.6989016,-79.2591824,2,Danforth Avenue (564),a
-43.6989016,-79.2591824,2,Danforth Avenue (660),a
-43.6989092,-79.2559692,2,Kingston Road (803),a
-43.6989092,-79.2559692,2,Kingston Road (803),a
-43.6989092,-79.2559692,2,Kingston Road (980),a
-43.6989092,-79.2559692,2,Kingston Road (980),a
-43.6989645,-79.2586745,2,Danforth Avenue (440),a
-43.6989645,-79.2586745,2,Danforth Avenue (933),a
-43.6989735,-79.273558,2,Danforth Road (164),a
-43.6989735,-79.273558,2,Danforth Road (208),a
-43.6989735,-79.273558,2,Medford Avenue (496),a
-43.6989735,-79.273558,2,Medford Avenue (951),a
-43.6990167,-79.2735286,2,Danforth Road (037),a
-43.6990167,-79.2735286,2,Danforth Road (425),a
-43.6990189,-79.2585519,2,Danforth Avenue (736),a
-43.6990189,-79.2585519,2,Danforth Avenue (835),a
-43.6990792,-79.2584308,2,Danforth Avenue (439),a
-43.6990792,-79.2584308,2,Danforth Avenue (932),a
-43.6990847,-79.2587678,2,Danforth Avenue (592),a
-43.6990847,-79.2587678,2,Danforth Avenue (769),a
-43.6991107,-79.2602098,2,Pinegrove Avenue (094),a
-43.6991107,-79.2602098,2,Pinegrove Avenue (123),a
-43.6991107,-79.2602098,2,Pinegrove Avenue (672),a
-43.6991107,-79.2602098,2,Pinegrove Avenue (701),a
-43.6991107,-79.2602098,2,South Woodrow Boulevard (325),a
-43.6991107,-79.2602098,2,South Woodrow Boulevard (328),a
-43.6991107,-79.2602098,2,South Woodrow Boulevard (417),a
-43.6991107,-79.2602098,2,South Woodrow Boulevard (420),a
-43.6991396,-79.2586532,2,Danforth Avenue (591),a
-43.6991396,-79.2586532,2,Danforth Avenue (768),a
-43.6991625,-79.2680808,2,Milne Avenue (220),a
-43.6991625,-79.2680808,2,Milne Avenue (220),a
-43.6991625,-79.2680808,2,Milne Avenue (912),a
-43.6991625,-79.2680808,2,Milne Avenue (912),a
-43.6991737,-79.2679312,2,Milne Avenue (221),a
-43.6991737,-79.2679312,2,Milne Avenue (221),a
-43.6991737,-79.2679312,2,Milne Avenue (913),a
-43.6991737,-79.2679312,2,Milne Avenue (913),a
-43.69918,-79.2677883,2,Milne Avenue (222),a
-43.69918,-79.2677883,2,Milne Avenue (914),a
-43.6991949,-79.258548,2,Danforth Avenue (438),a
-43.6991949,-79.258548,2,Danforth Avenue (931),a
-43.6991999,-79.2675515,2,Milne Avenue (223),a
-43.6991999,-79.2675515,2,Milne Avenue (915),a
-43.6992046,-79.2674833,2,Milne Avenue (224),a
-43.6992046,-79.2674833,2,Milne Avenue (916),a
-43.699214,-79.2674392,2,Milne Avenue (225),a
-43.699214,-79.2674392,2,Milne Avenue (917),a
-43.6992145,-79.2581581,2,Danforth Avenue (046),a
-43.6992145,-79.2581581,2,Danforth Avenue (523),a
-43.6992206,-79.2674174,2,Milne Avenue (226),a
-43.6992206,-79.2674174,2,Milne Avenue (918),a
-43.6992289,-79.2673897,2,Milne Avenue (227),a
-43.6992289,-79.2673897,2,Milne Avenue (919),a
-43.6992563,-79.2558067,2,Kingston Road (179),a
-43.6992563,-79.2558067,2,Kingston Road (806),a
-43.6992584,-79.2673464,2,Milne Avenue (228),a
-43.6992584,-79.2673464,2,Milne Avenue (920),a
-43.6992919,-79.2673215,2,Milne Avenue (229),a
-43.6992919,-79.2673215,2,Milne Avenue (921),a
-43.6993508,-79.2591648,2,Anneke Road (229),a
-43.6993508,-79.2591648,2,Anneke Road (927),a
-43.6993508,-79.2591648,2,Pinegrove Avenue (099),a
-43.6993508,-79.2591648,2,Pinegrove Avenue (677),a
-43.6993599,-79.2673137,2,Milne Avenue (230),a
-43.6993599,-79.2673137,2,Milne Avenue (922),a
-43.699378,-79.2720803,2,Mystic Avenue (020),a
-43.699378,-79.2720803,2,Mystic Avenue (395),a
-43.6994154,-79.2673285,2,Milne Avenue (231),a
-43.6994154,-79.2673285,2,Milne Avenue (923),a
-43.6994186,-79.2577744,2,Danforth Avenue (737),a
-43.6994186,-79.2577744,2,Danforth Avenue (836),a
-43.6994523,-79.2580576,2,Danforth Avenue (590),a
-43.6994523,-79.2580576,2,Danforth Avenue (767),a
-43.6994809,-79.2673626,2,Milne Avenue (232),a
-43.6994809,-79.2673626,2,Milne Avenue (924),a
-43.6995049,-79.2709473,2,Wolcott Avenue (092),a
-43.6995049,-79.2709473,2,Wolcott Avenue (625),a
-43.6995395,-79.2674072,2,Milne Avenue (233),a
-43.6995395,-79.2674072,2,Milne Avenue (925),a
-43.6995685,-79.2553878,2,Kingston Road (047),a
-43.6995685,-79.2553878,2,Kingston Road (189),a
-43.6995861,-79.2582971,2,Pinegrove Avenue (101),a
-43.6995861,-79.2582971,2,Pinegrove Avenue (679),a
-43.6996139,-79.2556569,2,Kingston Road (802),a
-43.6996139,-79.2556569,2,Kingston Road (979),a
-43.6996228,-79.2577751,2,Danforth Avenue (693),a
-43.6996228,-79.2577751,2,Danforth Avenue (693),a
-43.6996228,-79.2577751,2,Danforth Avenue (893),a
-43.6996228,-79.2577751,2,Danforth Avenue (893),a
-43.6996538,-79.2581531,2,Pinegrove Avenue (102),a
-43.6996538,-79.2581531,2,Pinegrove Avenue (102),a
-43.6996538,-79.2581531,2,Pinegrove Avenue (680),a
-43.6996538,-79.2581531,2,Pinegrove Avenue (680),a
-43.6997499,-79.2675692,2,Milne Avenue (234),a
-43.6997499,-79.2675692,2,Milne Avenue (926),a
-43.6997951,-79.2575069,2,Danforth Avenue (589),a
-43.6997951,-79.2575069,2,Danforth Avenue (589),a
-43.6997951,-79.2575069,2,Danforth Avenue (766),a
-43.6997951,-79.2575069,2,Danforth Avenue (766),a
-43.6998138,-79.257975,2,Pinegrove Avenue (103),a
-43.6998138,-79.257975,2,Pinegrove Avenue (103),a
-43.6998138,-79.257975,2,Pinegrove Avenue (681),a
-43.6998138,-79.257975,2,Pinegrove Avenue (681),a
-43.699861,-79.2676672,2,Milne Avenue (228),a
-43.699861,-79.2676672,2,Milne Avenue (465),a
-43.699902,-79.2578977,2,Pinegrove Avenue (106),a
-43.699902,-79.2578977,2,Pinegrove Avenue (106),a
-43.699902,-79.2578977,2,Pinegrove Avenue (684),a
-43.699902,-79.2578977,2,Pinegrove Avenue (684),a
-43.6999603,-79.2723327,2,Mystic Avenue (021),a
-43.6999603,-79.2723327,2,Mystic Avenue (396),a
-43.6999648,-79.2677588,2,Milne Avenue (235),a
-43.6999648,-79.2677588,2,Milne Avenue (927),a
-43.6999675,-79.255539,2,Kingston Road (178),a
-43.6999675,-79.255539,2,Kingston Road (805),a
-43.7000001,-79.2578328,2,Pinegrove Avenue (107),a
-43.7000001,-79.2578328,2,Pinegrove Avenue (107),a
-43.7000001,-79.2578328,2,Pinegrove Avenue (685),a
-43.7000001,-79.2578328,2,Pinegrove Avenue (685),a
-43.7000012,-79.2572131,2,Danforth Avenue (692),a
-43.7000012,-79.2572131,2,Danforth Avenue (692),a
-43.7000012,-79.2572131,2,Danforth Avenue (892),a
-43.7000012,-79.2572131,2,Danforth Avenue (892),a
-43.700092,-79.2727947,2,Danforth Road (657),a
-43.700092,-79.2727947,2,Danforth Road (899),a
-43.700149,-79.2729269,2,Mack Avenue (780),a
-43.700149,-79.2729269,2,Mack Avenue (796),a
-43.7001686,-79.2595108,2,Anneke Road (939),a
-43.7001686,-79.2595108,2,Anneke Road (940),a
-43.7001686,-79.2595108,2,Anneke Road (978),a
-43.7001686,-79.2595108,2,Anneke Road (980),a
-43.7001686,-79.2595108,2,Baudina Crescent (480),a
-43.7001686,-79.2595108,2,Baudina Crescent (772),a
-43.70019,-79.2727286,2,Danforth Road (163),a
-43.70019,-79.2727286,2,Danforth Road (207),a
-43.70019,-79.2727286,2,Mack Avenue (609),a
-43.70019,-79.2727286,2,Mack Avenue (620),a
-43.70019,-79.2727286,2,Mack Avenue (982),a
-43.70019,-79.2727286,2,Mack Avenue (993),a
-43.7002092,-79.2569336,2,Danforth Avenue (588),a
-43.7002092,-79.2569336,2,Danforth Avenue (765),a
-43.7002116,-79.2593731,2,Baudina Crescent (481),a
-43.7002116,-79.2593731,2,Baudina Crescent (773),a
-43.700224,-79.2725497,2,Mack Avenue (760),a
-43.700224,-79.2725497,2,Mack Avenue (790),a
-43.700243,-79.2724494,2,Mack Avenue (602),a
-43.700243,-79.2724494,2,Mack Avenue (610),a
-43.700243,-79.2724494,2,Mack Avenue (975),a
-43.700243,-79.2724494,2,Mack Avenue (983),a
-43.700243,-79.2724494,2,Mystic Avenue (022),a
-43.700243,-79.2724494,2,Mystic Avenue (397),a
-43.7002471,-79.2549737,2,Kingston Road (048),a
-43.7002471,-79.2549737,2,Kingston Road (190),a
-43.7002563,-79.2680568,2,Milne Avenue (236),a
-43.7002563,-79.2680568,2,Milne Avenue (928),a
-43.7002902,-79.2726547,2,Danforth Road (656),a
-43.7002902,-79.2726547,2,Danforth Road (898),a
-43.7003133,-79.2589606,2,Baudina Crescent (482),a
-43.7003133,-79.2589606,2,Baudina Crescent (482),a
-43.7003133,-79.2589606,2,Baudina Crescent (774),a
-43.7003133,-79.2589606,2,Baudina Crescent (774),a
-43.7003282,-79.2554308,2,Kingston Road (801),a
-43.7003282,-79.2554308,2,Kingston Road (978),a
-43.700332,-79.2630971,2,Lillington Avenue (690),a
-43.700332,-79.2630971,2,Lillington Avenue (769),a
-43.700348,-79.2588727,2,Baudina Crescent (483),a
-43.700348,-79.2588727,2,Baudina Crescent (483),a
-43.700348,-79.2588727,2,Baudina Crescent (775),a
-43.700348,-79.2588727,2,Baudina Crescent (775),a
-43.7003494,-79.2631046,2,Lillington Avenue (136),a
-43.7003494,-79.2631046,2,Lillington Avenue (147),a
-43.7003739,-79.2713047,2,Wolcott Avenue (757),a
-43.7003739,-79.2713047,2,Wolcott Avenue (787),a
-43.7003832,-79.258822,2,Baudina Crescent (484),a
-43.7003832,-79.258822,2,Baudina Crescent (484),a
-43.7003832,-79.258822,2,Baudina Crescent (776),a
-43.7003832,-79.258822,2,Baudina Crescent (776),a
-43.7003847,-79.2560789,2,Danforth Avenue (738),a
-43.7003847,-79.2560789,2,Danforth Avenue (837),a
-43.7003859,-79.2631408,2,Lillington Avenue (137),a
-43.7003859,-79.2631408,2,Lillington Avenue (148),a
-43.7004003,-79.2566984,2,Danforth Avenue (691),a
-43.7004003,-79.2566984,2,Danforth Avenue (891),a
-43.7004041,-79.2631526,2,Highview Avenue (503),a
-43.7004041,-79.2631526,2,Highview Avenue (506),a
-43.7004041,-79.2631526,2,Highview Avenue (620),a
-43.7004041,-79.2631526,2,Highview Avenue (623),a
-43.7004041,-79.2631526,2,Lillington Avenue (128),a
-43.7004041,-79.2631526,2,Lillington Avenue (138),a
-43.7004041,-79.2631526,2,Lillington Avenue (139),a
-43.7004041,-79.2631526,2,Lillington Avenue (149),a
-43.7004185,-79.2587714,2,Baudina Crescent (485),a
-43.7004185,-79.2587714,2,Baudina Crescent (485),a
-43.7004185,-79.2587714,2,Baudina Crescent (777),a
-43.7004185,-79.2587714,2,Baudina Crescent (777),a
-43.7004275,-79.2575226,2,Pinegrove Avenue (108),a
-43.7004275,-79.2575226,2,Pinegrove Avenue (108),a
-43.7004275,-79.2575226,2,Pinegrove Avenue (686),a
-43.7004275,-79.2575226,2,Pinegrove Avenue (686),a
-43.7004409,-79.2632012,2,Lillington Avenue (129),a
-43.7004409,-79.2632012,2,Lillington Avenue (140),a
-43.7004608,-79.2713337,2,Mack Avenue (603),a
-43.7004608,-79.2713337,2,Mack Avenue (604),a
-43.7004608,-79.2713337,2,Mack Avenue (976),a
-43.7004608,-79.2713337,2,Mack Avenue (977),a
-43.7004608,-79.2713337,2,Wolcott Avenue (094),a
-43.7004608,-79.2713337,2,Wolcott Avenue (627),a
-43.7004615,-79.2632159,2,Lillington Avenue (441),a
-43.7004615,-79.2632159,2,Lillington Avenue (942),a
-43.7004629,-79.2587329,2,Baudina Crescent (486),a
-43.7004629,-79.2587329,2,Baudina Crescent (486),a
-43.7004629,-79.2587329,2,Baudina Crescent (778),a
-43.7004629,-79.2587329,2,Baudina Crescent (778),a
-43.7004704,-79.2548347,2,Kingston Road (333),a
-43.7004704,-79.2548347,2,Kingston Road (461),a
 43.7004734,-79.2653971,2,Birchmount Road (202),a
 43.7004734,-79.2653971,2,Birchmount Road (205),a
 43.7004734,-79.2653971,2,Birchmount Road (795),a
 43.7004734,-79.2653971,2,Birchmount Road (798),a
-43.7004865,-79.2632338,2,Lillington Avenue (130),a
-43.7004865,-79.2632338,2,Lillington Avenue (141),a
-43.700519,-79.2683492,2,Milne Avenue (237),a
-43.700519,-79.2683492,2,Milne Avenue (929),a
-43.7005391,-79.254792,2,Kingston Road (334),a
-43.7005391,-79.254792,2,Kingston Road (462),a
-43.7005944,-79.2564742,2,Danforth Avenue (587),a
-43.7005944,-79.2564742,2,Danforth Avenue (764),a
-43.7005956,-79.2620884,2,South Edgely Avenue (443),a
-43.7005956,-79.2620884,2,South Edgely Avenue (944),a
-43.7006132,-79.2632831,2,Lillington Avenue (131),a
-43.7006132,-79.2632831,2,Lillington Avenue (142),a
-43.7006435,-79.2621926,2,Highview Avenue (446),a
-43.7006435,-79.2621926,2,Highview Avenue (947),a
-43.70066,-79.2703645,2,Mack Avenue (116),a
-43.70066,-79.2703645,2,Mack Avenue (116),a
-43.70066,-79.2703645,2,Mack Avenue (331),a
-43.70066,-79.2703645,2,Mack Avenue (331),a
-43.7006621,-79.262118,2,Highview Avenue (450),a
-43.7006621,-79.262118,2,Highview Avenue (504),a
-43.7006621,-79.262118,2,Highview Avenue (567),a
-43.7006621,-79.262118,2,Highview Avenue (621),a
-43.7006621,-79.262118,2,South Edgely Avenue (139),a
-43.7006621,-79.262118,2,South Edgely Avenue (142),a
-43.7006621,-79.262118,2,South Edgely Avenue (802),a
-43.7006621,-79.262118,2,South Edgely Avenue (805),a
-43.7006735,-79.2685122,2,Milne Avenue (238),a
-43.7006735,-79.2685122,2,Milne Avenue (930),a
-43.7006795,-79.2620401,2,Highview Avenue (444),a
-43.7006795,-79.2620401,2,Highview Avenue (945),a
-43.7007091,-79.2621369,2,South Edgely Avenue (442),a
-43.7007091,-79.2621369,2,South Edgely Avenue (943),a
-43.7007349,-79.2554582,2,Danforth Avenue (739),a
-43.7007349,-79.2554582,2,Danforth Avenue (772),a
-43.7007349,-79.2554582,2,Danforth Avenue (838),a
-43.7007349,-79.2554582,2,Danforth Avenue (875),a
-43.7008319,-79.2686071,2,Milne Avenue (239),a
-43.7008319,-79.2686071,2,Milne Avenue (931),a
-43.7008354,-79.2609113,2,South Woodrow Boulevard (439),a
-43.7008354,-79.2609113,2,South Woodrow Boulevard (939),a
-43.7008599,-79.2609213,2,South Woodrow Boulevard (438),a
-43.7008599,-79.2609213,2,South Woodrow Boulevard (938),a
-43.7008995,-79.2686343,2,Milne Avenue (767),a
-43.7008995,-79.2686343,2,Milne Avenue (793),a
-43.700923,-79.260947,2,Highview Avenue (451),a
-43.700923,-79.260947,2,Highview Avenue (479),a
-43.700923,-79.260947,2,Highview Avenue (568),a
-43.700923,-79.260947,2,Highview Avenue (596),a
-43.700923,-79.260947,2,South Woodrow Boulevard (326),a
-43.700923,-79.260947,2,South Woodrow Boulevard (329),a
-43.700923,-79.260947,2,South Woodrow Boulevard (418),a
-43.700923,-79.260947,2,South Woodrow Boulevard (421),a
-43.7009627,-79.2688916,2,Mack Avenue (562),a
-43.7009627,-79.2688916,2,Mack Avenue (991),a
-43.7009787,-79.2609708,2,South Woodrow Boulevard (436),a
-43.7009787,-79.2609708,2,South Woodrow Boulevard (936),a
-43.7009798,-79.2552569,2,Kingston Road (800),a
-43.7009798,-79.2552569,2,Kingston Road (977),a
-43.7010039,-79.2609815,2,South Woodrow Boulevard (437),a
-43.7010039,-79.2609815,2,South Woodrow Boulevard (937),a
-43.7010066,-79.2686781,2,Mack Avenue (608),a
-43.7010066,-79.2686781,2,Mack Avenue (611),a
-43.7010066,-79.2686781,2,Mack Avenue (981),a
-43.7010066,-79.2686781,2,Mack Avenue (984),a
-43.7010066,-79.2686781,2,Milne Avenue (240),a
-43.7010066,-79.2686781,2,Milne Avenue (932),a
-43.701024,-79.2583319,2,Baudina Crescent (487),a
-43.701024,-79.2583319,2,Baudina Crescent (487),a
-43.701024,-79.2583319,2,Baudina Crescent (779),a
-43.701024,-79.2583319,2,Baudina Crescent (779),a
-43.7010269,-79.2549592,2,Danforth Avenue (773),a
-43.7010269,-79.2549592,2,Danforth Avenue (774),a
-43.7010269,-79.2549592,2,Danforth Avenue (876),a
-43.7010269,-79.2549592,2,Danforth Avenue (877),a
-43.7010347,-79.260453,2,Highview Avenue (691),a
-43.7010347,-79.260453,2,Highview Avenue (770),a
-43.70106,-79.2684069,2,Mack Avenue (563),a
-43.70106,-79.2684069,2,Mack Avenue (992),a
-43.7010685,-79.2582934,2,Baudina Crescent (488),a
-43.7010685,-79.2582934,2,Baudina Crescent (488),a
-43.7010685,-79.2582934,2,Baudina Crescent (780),a
-43.7010685,-79.2582934,2,Baudina Crescent (780),a
-43.7010735,-79.2602833,2,Highview Avenue (114),a
-43.7010735,-79.2602833,2,Highview Avenue (329),a
-43.7010757,-79.2598948,2,Anneke Road (669),a
-43.7010757,-79.2598948,2,Anneke Road (760),a
-43.7010994,-79.2599048,2,Anneke Road (440),a
-43.7010994,-79.2599048,2,Anneke Road (940),a
-43.7011134,-79.2681356,2,Mack Avenue (761),a
-43.7011134,-79.2681356,2,Mack Avenue (791),a
-43.7011135,-79.2582921,2,Baudina Crescent (489),a
-43.7011135,-79.2582921,2,Baudina Crescent (489),a
-43.7011135,-79.2582921,2,Baudina Crescent (781),a
-43.7011135,-79.2582921,2,Baudina Crescent (781),a
-43.7011173,-79.2548268,2,Danforth Avenue (096),a
-43.7011173,-79.2548268,2,Danforth Avenue (632),a
-43.701154,-79.2599315,2,Anneke Road (941),a
-43.701154,-79.2599315,2,Anneke Road (982),a
-43.701154,-79.2599315,2,Highview Avenue (480),a
-43.701154,-79.2599315,2,Highview Avenue (493),a
-43.701154,-79.2599315,2,Highview Avenue (597),a
-43.701154,-79.2599315,2,Highview Avenue (610),a
-43.7011575,-79.2569802,2,Pinegrove Avenue (109),a
-43.7011575,-79.2569802,2,Pinegrove Avenue (109),a
-43.7011575,-79.2569802,2,Pinegrove Avenue (687),a
-43.7011575,-79.2569802,2,Pinegrove Avenue (687),a
-43.7011859,-79.2583148,2,Baudina Crescent (490),a
-43.7011859,-79.2583148,2,Baudina Crescent (490),a
-43.7011859,-79.2583148,2,Baudina Crescent (782),a
-43.7011859,-79.2583148,2,Baudina Crescent (782),a
-43.7011916,-79.2597626,2,Highview Avenue (494),a
-43.7011916,-79.2597626,2,Highview Avenue (611),a
-43.7012168,-79.2547024,2,Danforth Avenue (097),a
-43.7012168,-79.2547024,2,Danforth Avenue (633),a
-43.7012232,-79.2596307,2,Highview Avenue (495),a
-43.7012232,-79.2596307,2,Highview Avenue (612),a
-43.701244,-79.2674721,2,Mack Avenue (612),a
-43.701244,-79.2674721,2,Mack Avenue (985),a
-43.7012676,-79.2583621,2,Baudina Crescent (491),a
-43.7012676,-79.2583621,2,Baudina Crescent (491),a
-43.7012676,-79.2583621,2,Baudina Crescent (783),a
-43.7012676,-79.2583621,2,Baudina Crescent (783),a
-43.7012948,-79.2657442,2,Birchmount Road (015),a
-43.7012948,-79.2657442,2,Birchmount Road (769),a
-43.7012948,-79.2657442,2,Birchmount Road (787),a
-43.7012948,-79.2657442,2,Birchmount Road (988),a
-43.7013061,-79.2551509,2,Kingston Road (799),a
-43.7013061,-79.2551509,2,Kingston Road (976),a
-43.7013074,-79.2671762,2,Mack Avenue (229),a
-43.7013074,-79.2671762,2,Mack Avenue (466),a
-43.7013525,-79.2542859,2,Kingston Road (453),a
-43.7013525,-79.2542859,2,Kingston Road (629),a
-43.7013669,-79.2657747,2,Birchmount Road (014),a
-43.7013669,-79.2657747,2,Birchmount Road (016),a
-43.7013669,-79.2657747,2,Birchmount Road (786),a
-43.7013669,-79.2657747,2,Birchmount Road (788),a
-43.7013875,-79.2556292,2,Danforth Avenue (690),a
-43.7013875,-79.2556292,2,Danforth Avenue (890),a
-43.7014159,-79.2584309,2,Baudina Crescent (688),a
-43.7014159,-79.2584309,2,Baudina Crescent (688),a
-43.7014159,-79.2584309,2,Baudina Crescent (767),a
-43.7014159,-79.2584309,2,Baudina Crescent (767),a
-43.7014186,-79.2544835,2,Danforth Avenue (775),a
-43.7014186,-79.2544835,2,Danforth Avenue (878),a
-43.7014949,-79.2584676,2,Baudina Crescent (492),a
-43.7014949,-79.2584676,2,Baudina Crescent (492),a
-43.7014949,-79.2584676,2,Baudina Crescent (784),a
-43.7014949,-79.2584676,2,Baudina Crescent (784),a
-43.7014949,-79.2584676,2,Highview Avenue (460),a
-43.7014949,-79.2584676,2,Highview Avenue (460),a
-43.7014949,-79.2584676,2,Highview Avenue (496),a
-43.7014949,-79.2584676,2,Highview Avenue (496),a
-43.7014949,-79.2584676,2,Highview Avenue (577),a
-43.7014949,-79.2584676,2,Highview Avenue (577),a
-43.7014949,-79.2584676,2,Highview Avenue (613),a
-43.7014949,-79.2584676,2,Highview Avenue (613),a
-43.7015334,-79.2550356,2,Kingston Road (177),a
-43.7015495,-79.2660473,2,Mack Avenue (613),a
-43.7015495,-79.2660473,2,Mack Avenue (986),a
-43.7015566,-79.2660153,2,Mack Avenue (470),a
-43.7015566,-79.2660153,2,Mack Avenue (673),a
-43.70157,-79.258139,2,Highview Avenue (461),a
-43.70157,-79.258139,2,Highview Avenue (461),a
-43.70157,-79.258139,2,Highview Avenue (578),a
-43.70157,-79.258139,2,Highview Avenue (578),a
-43.7015889,-79.2658703,2,Birchmount Road (017),a
-43.7015889,-79.2658703,2,Birchmount Road (018),a
-43.7015889,-79.2658703,2,Birchmount Road (378),a
-43.7015889,-79.2658703,2,Mack Avenue (614),a
-43.7015889,-79.2658703,2,Mack Avenue (987),a
-43.7016273,-79.2579307,2,Highview Avenue (462),a
-43.7016273,-79.2579307,2,Highview Avenue (462),a
-43.7016273,-79.2579307,2,Highview Avenue (579),a
-43.7016273,-79.2579307,2,Highview Avenue (579),a
-43.7016742,-79.2566177,2,Pinegrove Avenue (110),a
-43.7016742,-79.2566177,2,Pinegrove Avenue (688),a
-43.7016768,-79.2542405,2,Danforth Avenue (098),a
-43.7016768,-79.2542405,2,Danforth Avenue (634),a
-43.7017116,-79.257657,2,Highview Avenue (466),a
-43.7017116,-79.257657,2,Highview Avenue (466),a
-43.7017116,-79.257657,2,Highview Avenue (583),a
-43.7017116,-79.257657,2,Highview Avenue (583),a
-43.7017536,-79.2549064,2,Kingston Road (975),a
-43.7017758,-79.2540225,2,Kingston Road (246),a
-43.7017758,-79.2540225,2,Kingston Road (783),a
-43.7017811,-79.2565402,2,Pinegrove Avenue (111),a
-43.7017811,-79.2565402,2,Pinegrove Avenue (689),a
-43.7017972,-79.2551906,2,Danforth Avenue (689),a
-43.7017972,-79.2551906,2,Danforth Avenue (889),a
-43.7018045,-79.2574147,2,Highview Avenue (467),a
-43.7018045,-79.2574147,2,Highview Avenue (467),a
-43.7018045,-79.2574147,2,Highview Avenue (584),a
-43.7018045,-79.2574147,2,Highview Avenue (584),a
-43.7018259,-79.2565265,2,Pinegrove Avenue (112),a
-43.7018259,-79.2565265,2,Pinegrove Avenue (690),a
-43.7018283,-79.2541286,2,Danforth Avenue (197),a
-43.7018283,-79.2541286,2,Danforth Avenue (201),a
-43.7018283,-79.2541286,2,Danforth Avenue (946),a
-43.7018283,-79.2541286,2,Danforth Avenue (956),a
-43.7018707,-79.2565128,2,Pinegrove Avenue (113),a
-43.7018707,-79.2565128,2,Pinegrove Avenue (691),a
-43.7018768,-79.2572553,2,Highview Avenue (468),a
-43.7018768,-79.2572553,2,Highview Avenue (468),a
-43.7018768,-79.2572553,2,Highview Avenue (585),a
-43.7018768,-79.2572553,2,Highview Avenue (585),a
-43.7019067,-79.2565117,2,Pinegrove Avenue (114),a
-43.7019067,-79.2565117,2,Pinegrove Avenue (692),a
-43.7019309,-79.254782,2,Kingston Road (176),a
-43.7019521,-79.2565352,2,Pinegrove Avenue (115),a
-43.7019521,-79.2565352,2,Pinegrove Avenue (693),a
-43.7019616,-79.2540302,2,Danforth Avenue (199),a
-43.7019616,-79.2540302,2,Danforth Avenue (954),a
-43.7019847,-79.2549736,2,Danforth Avenue (688),a
-43.7019847,-79.2549736,2,Danforth Avenue (888),a
-43.7020065,-79.2565585,2,Pinegrove Avenue (116),a
-43.7020065,-79.2565585,2,Pinegrove Avenue (694),a
-43.7020201,-79.2569937,2,Highview Avenue (471),a
-43.7020201,-79.2569937,2,Highview Avenue (471),a
-43.7020201,-79.2569937,2,Highview Avenue (588),a
-43.7020201,-79.2569937,2,Highview Avenue (588),a
-43.7020223,-79.2660591,2,Birchmount Road (019),a
-43.7020223,-79.2660591,2,Birchmount Road (020),a
-43.7020223,-79.2660591,2,Birchmount Road (376),a
-43.7020223,-79.2660591,2,Raleigh Avenue (918),a
-43.7020223,-79.2660591,2,Raleigh Avenue (991),a
-43.702043,-79.2565946,2,Pinegrove Avenue (117),a
-43.702043,-79.2565946,2,Pinegrove Avenue (695),a
-43.7020581,-79.2659345,2,Raleigh Avenue (112),a
-43.7020581,-79.2659345,2,Raleigh Avenue (744),a
-43.7020766,-79.2659178,2,Raleigh Avenue (458),a
-43.7020766,-79.2659178,2,Raleigh Avenue (661),a
-43.7020941,-79.2546497,2,Kingston Road (974),a
-43.7021123,-79.2658857,2,Raleigh Avenue (114),a
-43.7021123,-79.2658857,2,Raleigh Avenue (745),a
-43.7021261,-79.2627058,2,Haddon Avenue (374),a
-43.7021261,-79.2627058,2,Haddon Avenue (722),a
-43.7021261,-79.2627058,2,South Edgely Avenue (140),a
-43.7021261,-79.2627058,2,South Edgely Avenue (143),a
-43.7021261,-79.2627058,2,South Edgely Avenue (803),a
-43.7021261,-79.2627058,2,South Edgely Avenue (806),a
-43.702128,-79.2566753,2,Pinegrove Avenue (119),a
-43.702128,-79.2566753,2,Pinegrove Avenue (697),a
-43.7021474,-79.2567911,2,Highview Avenue (473),a
-43.7021474,-79.2567911,2,Highview Avenue (473),a
-43.7021474,-79.2567911,2,Highview Avenue (590),a
-43.7021474,-79.2567911,2,Highview Avenue (590),a
-43.7021629,-79.2547516,2,Danforth Avenue (586),a
-43.7021629,-79.2547516,2,Danforth Avenue (763),a
-43.7021941,-79.2567006,2,Highview Avenue (474),a
-43.7021941,-79.2567006,2,Highview Avenue (481),a
-43.7021941,-79.2567006,2,Highview Avenue (591),a
-43.7021941,-79.2567006,2,Highview Avenue (598),a
-43.7021941,-79.2567006,2,Pinegrove Avenue (120),a
-43.7021941,-79.2567006,2,Pinegrove Avenue (698),a
-43.7022842,-79.2565153,2,Highview Avenue (483),a
-43.7022842,-79.2565153,2,Highview Avenue (600),a
-43.7022965,-79.2544457,2,Kingston Road (973),a
-43.7023093,-79.266184,2,Birchmount Road (021),a
-43.7023093,-79.266184,2,Birchmount Road (305),a
-43.702316,-79.2657285,2,Raleigh Avenue (115),a
-43.702316,-79.2657285,2,Raleigh Avenue (746),a
-43.702334,-79.254504,2,Danforth Avenue (687),a
-43.702334,-79.254504,2,Danforth Avenue (887),a
-43.7023455,-79.2563776,2,Highview Avenue (484),a
-43.7023455,-79.2563776,2,Highview Avenue (601),a
-43.7023614,-79.2662057,2,Birchmount Road (023),a
-43.7023789,-79.2615691,2,Haddon Avenue (375),a
-43.7023789,-79.2615691,2,Haddon Avenue (723),a
-43.7023789,-79.2615691,2,South Woodrow Boulevard (327),a
-43.7023789,-79.2615691,2,South Woodrow Boulevard (330),a
-43.7023789,-79.2615691,2,South Woodrow Boulevard (419),a
-43.7023789,-79.2615691,2,South Woodrow Boulevard (422),a
 43.7024106,-79.2536274,2,Kingston Road (064),a
 43.7024106,-79.2536274,2,Kingston Road (578),a
-43.7024134,-79.2662273,2,Birchmount Road (022),a
-43.7024134,-79.2662273,2,Birchmount Road (994),a
-43.7024181,-79.2561681,2,Highview Avenue (486),a
-43.7024181,-79.2561681,2,Highview Avenue (603),a
-43.7024273,-79.2536944,2,Danforth Avenue (200),a
-43.7024273,-79.2536944,2,Danforth Avenue (955),a
-43.7024646,-79.2560023,2,Highview Avenue (487),a
-43.7024646,-79.2560023,2,Highview Avenue (604),a
-43.7025042,-79.2542215,2,Danforth Avenue (585),a
-43.7025042,-79.2542215,2,Danforth Avenue (762),a
 43.7025042,-79.2542215,2,Kingston Road (251),a
 43.7025042,-79.2542215,2,Kingston Road (384),a
 43.7025042,-79.2542215,2,Kingston Road (972),a
-43.7026765,-79.2534746,2,Danforth Avenue (198),a
-43.7026765,-79.2534746,2,Danforth Avenue (953),a
 43.7026765,-79.2534746,2,Kingston Road (091),a
 43.7026765,-79.2534746,2,Kingston Road (101),a
 43.7026765,-79.2534746,2,Kingston Road (110),a
 43.7026765,-79.2534746,2,Kingston Road (120),a
-43.7029668,-79.2653002,2,Jeavons Avenue (225),a
-43.7029668,-79.2653002,2,Jeavons Avenue (830),a
-43.7029668,-79.2653002,2,Raleigh Avenue (117),a
-43.7029668,-79.2653002,2,Raleigh Avenue (132),a
-43.7029668,-79.2653002,2,Raleigh Avenue (747),a
-43.7029668,-79.2653002,2,Raleigh Avenue (755),a
-43.7029712,-79.2603211,2,South Bonnington Avenue (148),a
-43.7029712,-79.2603211,2,South Bonnington Avenue (346),a
-43.7030672,-79.2653424,2,Jeavons Avenue (226),a
-43.7030672,-79.2653424,2,Jeavons Avenue (831),a
-43.7030852,-79.2618341,2,South Woodrow Boulevard (331),a
-43.7030852,-79.2618341,2,South Woodrow Boulevard (332),a
-43.7030852,-79.2618341,2,South Woodrow Boulevard (423),a
-43.7030852,-79.2618341,2,South Woodrow Boulevard (424),a
-43.7030852,-79.2618341,2,Willingdon Avenue (493),a
-43.7030852,-79.2618341,2,Willingdon Avenue (933),a
-43.7033526,-79.2604736,2,South Bonnington Avenue (149),a
-43.7033526,-79.2604736,2,South Bonnington Avenue (152),a
-43.7033526,-79.2604736,2,South Bonnington Avenue (347),a
-43.7033526,-79.2604736,2,South Bonnington Avenue (350),a
-43.7033526,-79.2604736,2,Willingdon Avenue (494),a
-43.7033526,-79.2604736,2,Willingdon Avenue (935),a
 43.7042995,-79.2670123,2,Birchmount Road (130),a
 43.7042995,-79.2670123,2,Birchmount Road (130),a
 43.7047961,-79.267219,2,Birchmount Road (131),a
 43.7047961,-79.267219,2,Birchmount Road (131),a
-43.7049562,-79.2611223,2,Craiglee Drive (035),a
-43.7049562,-79.2611223,2,Craiglee Drive (797),a
-43.7049562,-79.2611223,2,South Bonnington Avenue (150),a
-43.7049562,-79.2611223,2,South Bonnington Avenue (153),a
-43.7049562,-79.2611223,2,South Bonnington Avenue (348),a
-43.7049562,-79.2611223,2,South Bonnington Avenue (351),a
-43.7049746,-79.2610384,2,Craiglee Drive (152),a
-43.7049746,-79.2610384,2,Craiglee Drive (382),a
-43.7049821,-79.2610043,2,Craiglee Drive (153),a
-43.7049821,-79.2610043,2,Craiglee Drive (383),a
-43.7050504,-79.2602135,2,Craiglee Drive (042),a
-43.7050504,-79.2602135,2,Craiglee Drive (804),a
-43.7050581,-79.2601264,2,Craiglee Drive (043),a
-43.7050581,-79.2601264,2,Craiglee Drive (805),a
-43.7050603,-79.2602753,2,Craiglee Drive (041),a
-43.7050603,-79.2602753,2,Craiglee Drive (803),a
-43.7050701,-79.2603246,2,Craiglee Drive (040),a
-43.7050701,-79.2603246,2,Craiglee Drive (802),a
-43.7050741,-79.2605852,2,Craiglee Drive (036),a
-43.7050741,-79.2605852,2,Craiglee Drive (798),a
-43.705079,-79.263874,2,North Edgely Avenue (179),a
-43.705079,-79.263874,2,North Edgely Avenue (822),a
-43.705079,-79.263874,2,Raleigh Avenue (134),a
-43.705079,-79.263874,2,Raleigh Avenue (139),a
-43.705079,-79.263874,2,Raleigh Avenue (756),a
-43.705079,-79.263874,2,Raleigh Avenue (759),a
-43.70508,-79.2603864,2,Craiglee Drive (039),a
-43.70508,-79.2603864,2,Craiglee Drive (801),a
-43.7050832,-79.2600016,2,Craiglee Drive (044),a
-43.7050832,-79.2600016,2,Craiglee Drive (806),a
-43.70509,-79.2604482,2,Craiglee Drive (038),a
-43.70509,-79.2604482,2,Craiglee Drive (800),a
-43.7050911,-79.2605226,2,Craiglee Drive (037),a
-43.7050911,-79.2605226,2,Craiglee Drive (799),a
-43.7051907,-79.2639205,2,North Edgely Avenue (180),a
-43.7051907,-79.2639205,2,North Edgely Avenue (823),a
-43.7054327,-79.267484,2,Birchmount Road (139),a
-43.7054327,-79.267484,2,Birchmount Road (375),a
-43.7054327,-79.267484,2,Parnell Avenue (399),a
-43.7054327,-79.267484,2,Parnell Avenue (927),a
-43.705459,-79.2673687,2,Parnell Avenue (449),a
-43.705459,-79.2673687,2,Parnell Avenue (651),a
-43.7054641,-79.2673463,2,Parnell Avenue (400),a
-43.7054641,-79.2673463,2,Parnell Avenue (928),a
-43.7055927,-79.2664032,2,Jeavons Avenue (227),a
-43.7055927,-79.2664032,2,Jeavons Avenue (832),a
-43.7056762,-79.2664383,2,Jeavons Avenue (222),a
-43.7056762,-79.2664383,2,Jeavons Avenue (228),a
-43.7056762,-79.2664383,2,Jeavons Avenue (827),a
-43.7056762,-79.2664383,2,Jeavons Avenue (833),a
-43.7056762,-79.2664383,2,Parnell Avenue (401),a
-43.7056762,-79.2664383,2,Parnell Avenue (402),a
-43.7056762,-79.2664383,2,Parnell Avenue (929),a
-43.7056762,-79.2664383,2,Parnell Avenue (930),a
-43.7057749,-79.2664802,2,Jeavons Avenue (223),a
-43.7057749,-79.2664802,2,Jeavons Avenue (828),a
-43.7059024,-79.2676835,2,Birchmount Road (158),a
-43.7059024,-79.2676835,2,Birchmount Road (338),a
-43.7060981,-79.2632177,2,Raleigh Avenue (140),a
-43.7060981,-79.2632177,2,Raleigh Avenue (141),a
-43.7060981,-79.2632177,2,Raleigh Avenue (760),a
-43.7060981,-79.2632177,2,Raleigh Avenue (761),a
 43.7061938,-79.2314677,2,Bluffers Park Road (236),a
 43.7061938,-79.2314677,2,Bluffers Park Road (796),a
 43.7062105,-79.2313814,2,Bluffers Park Road (237),a
@@ -1242,12 +74,6 @@ lat,lon,sz,names,len_cat
 43.7063681,-79.2316282,2,Bluffers Park Road (591),a
 43.70637,-79.2317341,2,Bluffers Park Road (292),a
 43.70637,-79.2317341,2,Bluffers Park Road (852),a
-43.7063718,-79.2630299,2,North Woodrow Boulevard (223),a
-43.7063718,-79.2630299,2,North Woodrow Boulevard (234),a
-43.7063718,-79.2630299,2,Raleigh Avenue (119),a
-43.7063718,-79.2630299,2,Raleigh Avenue (142),a
-43.7063718,-79.2630299,2,Raleigh Avenue (748),a
-43.7063718,-79.2630299,2,Raleigh Avenue (762),a
 43.7063757,-79.231391,2,Bluffers Park Road (240),a
 43.7063757,-79.231391,2,Bluffers Park Road (800),a
 43.7063856,-79.2318602,2,Bluffers Park Road (285),a
@@ -1268,8 +94,6 @@ lat,lon,sz,names,len_cat
 43.7064437,-79.2320614,2,Bluffers Park Road (594),a
 43.7064447,-79.2369348,2,Brimley Road South (361),a
 43.7064447,-79.2369348,2,Brimley Road South (938),a
-43.7064594,-79.2630659,2,North Woodrow Boulevard (224),a
-43.7064594,-79.2630659,2,North Woodrow Boulevard (235),a
 43.7064631,-79.2366797,2,Brimley Road South (089),a
 43.7064631,-79.2366797,2,Brimley Road South (712),a
 43.7064755,-79.2369064,2,Brimley Road South (086),a
@@ -1290,8 +114,6 @@ lat,lon,sz,names,len_cat
 43.7065455,-79.2322116,2,Bluffers Park Road (288),a
 43.7065455,-79.2322116,2,Bluffers Park Road (595),a
 43.7065455,-79.2322116,2,Bluffers Park Road (595),a
-43.7066397,-79.2787614,2,Warden Avenue (806),a
-43.7066397,-79.2787614,2,Warden Avenue (881),a
 43.7066959,-79.2323535,2,Bluffers Park Road (294),a
 43.7066959,-79.2323535,2,Bluffers Park Road (294),a
 43.7066959,-79.2323535,2,Bluffers Park Road (854),a
@@ -1304,16 +126,8 @@ lat,lon,sz,names,len_cat
 43.7067958,-79.2350808,2,Brimley Road South (919),a
 43.7070285,-79.235196,2,Brimley Road South (343),a
 43.7070285,-79.235196,2,Brimley Road South (920),a
-43.7071178,-79.2728695,2,Huddleston Court (621),a
-43.7071178,-79.2728695,2,Huddleston Court (898),a
-43.7071427,-79.2729563,2,Huddleston Court (622),a
-43.7071427,-79.2729563,2,Huddleston Court (899),a
-43.7071448,-79.2789718,2,Warden Avenue (659),a
-43.7071448,-79.2789718,2,Warden Avenue (847),a
 43.7071675,-79.2506595,2,Kingston Road (596),a
 43.7071675,-79.2506595,2,Kingston Road (937),a
-43.7071926,-79.273025,2,Huddleston Court (623),a
-43.7071926,-79.273025,2,Huddleston Court (900),a
 43.7072337,-79.2332383,2,Bluffers Park Road (296),a
 43.7072337,-79.2332383,2,Bluffers Park Road (296),a
 43.7072337,-79.2332383,2,Bluffers Park Road (856),a
@@ -1322,34 +136,12 @@ lat,lon,sz,names,len_cat
 43.7072694,-79.2354053,2,Brimley Road South (349),a
 43.7072694,-79.2354053,2,Brimley Road South (921),a
 43.7072694,-79.2354053,2,Brimley Road South (926),a
-43.7072893,-79.2721673,2,Huddleston Court (620),a
-43.7072893,-79.2721673,2,Huddleston Court (897),a
 43.7073575,-79.2355797,2,Brimley Road South (348),a
 43.7073575,-79.2355797,2,Brimley Road South (925),a
-43.7073632,-79.2682944,2,Birchmount Road (230),a
-43.7073632,-79.2682944,2,Birchmount Road (230),a
-43.7073632,-79.2682944,2,Birchmount Road (846),a
-43.7073632,-79.2682944,2,Birchmount Road (846),a
-43.70737,-79.2720643,2,Huddleston Court (619),a
-43.70737,-79.2720643,2,Huddleston Court (896),a
 43.7074384,-79.235818,2,Brimley Road South (347),a
 43.7074384,-79.235818,2,Brimley Road South (924),a
-43.7074631,-79.2720471,2,Huddleston Court (618),a
-43.7074631,-79.2720471,2,Huddleston Court (895),a
-43.7075143,-79.2791256,2,Warden Avenue (660),a
-43.7075143,-79.2791256,2,Warden Avenue (848),a
 43.7075924,-79.2363574,2,Brimley Road South (346),a
 43.7075924,-79.2363574,2,Brimley Road South (923),a
-43.7075999,-79.2683861,2,Birchmount Road (229),a
-43.7075999,-79.2683861,2,Birchmount Road (229),a
-43.7075999,-79.2683861,2,Birchmount Road (844),a
-43.7075999,-79.2683861,2,Birchmount Road (844),a
-43.7076195,-79.2621871,2,North Bonnington Avenue (225),a
-43.7076195,-79.2621871,2,North Bonnington Avenue (960),a
-43.7076195,-79.2621871,2,Raleigh Avenue (121),a
-43.7076195,-79.2621871,2,Raleigh Avenue (136),a
-43.7076195,-79.2621871,2,Raleigh Avenue (749),a
-43.7076195,-79.2621871,2,Raleigh Avenue (757),a
 43.707642,-79.2360618,2,Bluffers Park Road (149),a
 43.707642,-79.2360618,2,Bluffers Park Road (241),a
 43.7076426,-79.2359272,2,Bluffers Park Road (146),a
@@ -1363,16 +155,10 @@ lat,lon,sz,names,len_cat
 43.7076551,-79.2357881,2,Brimley Road South (702),a
 43.7076574,-79.2503504,2,Kingston Road (597),a
 43.7076574,-79.2503504,2,Kingston Road (943),a
-43.7076591,-79.2754227,2,Santamonica Boulevard (496),a
-43.7076591,-79.2754227,2,Santamonica Boulevard (603),a
 43.7076597,-79.2362872,2,Bluffers Park Road (151),a
 43.7076597,-79.2362872,2,Bluffers Park Road (243),a
-43.7076786,-79.2753017,2,Santamonica Boulevard (495),a
-43.7076786,-79.2753017,2,Santamonica Boulevard (602),a
 43.7076787,-79.2363863,2,Bluffers Park Road (148),a
 43.7076787,-79.2363863,2,Bluffers Park Road (239),a
-43.7076902,-79.2755036,2,Santamonica Boulevard (497),a
-43.7076902,-79.2755036,2,Santamonica Boulevard (604),a
 43.7077001,-79.2356071,2,Bluffers Park Road (013),a
 43.7077001,-79.2356071,2,Bluffers Park Road (238),a
 43.707705,-79.23648,2,Bluffers Park Road (150),a
@@ -1383,8 +169,6 @@ lat,lon,sz,names,len_cat
 43.7077162,-79.2355572,2,Bluffers Park Road (236),a
 43.7077174,-79.2503131,2,Kingston Road (598),a
 43.7077174,-79.2503131,2,Kingston Road (944),a
-43.7077182,-79.2622259,2,North Bonnington Avenue (705),a
-43.7077182,-79.2622259,2,North Bonnington Avenue (990),a
 43.7077272,-79.2355318,2,Bluffers Park Road (012),a
 43.7077272,-79.2355318,2,Bluffers Park Road (237),a
 43.7077449,-79.2365875,2,Bluffers Park Road (235),a
@@ -1393,102 +177,38 @@ lat,lon,sz,names,len_cat
 43.7077449,-79.2365875,2,Brimley Road South (345),a
 43.7077449,-79.2365875,2,Brimley Road South (894),a
 43.7077449,-79.2365875,2,Brimley Road South (922),a
-43.7077463,-79.274996,2,Santamonica Boulevard (494),a
-43.7077463,-79.274996,2,Santamonica Boulevard (601),a
-43.7077661,-79.2755499,2,Santamonica Boulevard (498),a
-43.7077661,-79.2755499,2,Santamonica Boulevard (605),a
 43.7077992,-79.235382,2,Bluffers Park Road (014),a
 43.7077992,-79.235382,2,Bluffers Park Road (240),a
 43.7078193,-79.2367405,2,Brimley Road South (620),a
 43.7078193,-79.2367405,2,Brimley Road South (699),a
-43.7078581,-79.268486,2,Birchmount Road (228),a
-43.7078581,-79.268486,2,Birchmount Road (228),a
-43.7078581,-79.268486,2,Birchmount Road (841),a
-43.7078581,-79.268486,2,Birchmount Road (841),a
 43.7078959,-79.2352345,2,Bluffers Park Road (265),a
 43.7078959,-79.2352345,2,Bluffers Park Road (290),a
 43.7078959,-79.2352345,2,Bluffers Park Road (825),a
 43.7078959,-79.2352345,2,Bluffers Park Road (850),a
 43.707912,-79.251852,2,Natal Avenue (217),a
 43.707912,-79.251852,2,Natal Avenue (873),a
-43.7079718,-79.2685301,2,Birchmount Road (608),a
-43.7079718,-79.2685301,2,Birchmount Road (608),a
-43.7079718,-79.2685301,2,Birchmount Road (640),a
-43.7079718,-79.2685301,2,Birchmount Road (640),a
-43.7079721,-79.2733214,2,Huddleston Court (624),a
-43.7079721,-79.2733214,2,Huddleston Court (901),a
-43.7079731,-79.2793167,2,Warden Avenue (807),a
-43.7079731,-79.2793167,2,Warden Avenue (882),a
 43.7079904,-79.234931,2,Bluffers Park Road (266),a
 43.7079904,-79.234931,2,Bluffers Park Road (826),a
 43.7079907,-79.2351437,2,Bluffers Park Road (046),a
 43.7079907,-79.2351437,2,Bluffers Park Road (959),a
 43.7080047,-79.2348365,2,Bluffers Park Road (267),a
 43.7080047,-79.2348365,2,Bluffers Park Road (827),a
-43.7080178,-79.279336,2,Warden Avenue (432),a
-43.7080178,-79.279336,2,Warden Avenue (481),a
-43.7080178,-79.279336,2,Warden Avenue (808),a
-43.7080178,-79.279336,2,Warden Avenue (883),a
 43.7080361,-79.237088,2,Brimley Road South (559),a
 43.7080361,-79.237088,2,Brimley Road South (897),a
-43.7080548,-79.2685622,2,Birchmount Road (227),a
-43.7080548,-79.2685622,2,Birchmount Road (227),a
-43.7080548,-79.2685622,2,Birchmount Road (839),a
-43.7080548,-79.2685622,2,Birchmount Road (839),a
 43.7080585,-79.2501008,2,Kingston Road (239),a
 43.7080585,-79.2501008,2,Kingston Road (375),a
 43.7080877,-79.2350629,2,Bluffers Park Road (289),a
 43.7080877,-79.2350629,2,Bluffers Park Road (849),a
-43.7080957,-79.268578,2,Birchmount Road (607),a
-43.7080957,-79.268578,2,Birchmount Road (607),a
-43.7080957,-79.268578,2,Birchmount Road (639),a
-43.7080957,-79.268578,2,Birchmount Road (639),a
-43.708106,-79.2733723,2,Huddleston Court (625),a
-43.708106,-79.2733723,2,Huddleston Court (902),a
-43.708106,-79.2733723,2,Santamonica Boulevard (493),a
-43.708106,-79.2733723,2,Santamonica Boulevard (600),a
-43.7081656,-79.2723601,2,Huddleston Court (617),a
-43.7081656,-79.2723601,2,Huddleston Court (894),a
 43.7082491,-79.2374307,2,Brimley Road South (318),a
 43.7082491,-79.2374307,2,Brimley Road South (895),a
-43.7083168,-79.2724275,2,Huddleston Court (616),a
-43.7083168,-79.2724275,2,Huddleston Court (893),a
-43.7083168,-79.2724275,2,Santamonica Boulevard (492),a
-43.7083168,-79.2724275,2,Santamonica Boulevard (599),a
-43.708363,-79.279481,2,Warden Avenue (433),a
-43.708363,-79.279481,2,Warden Avenue (482),a
 43.7083865,-79.2421203,2,Chine Drive (465),a
 43.7083865,-79.2421203,2,Chine Drive (599),a
 43.7084382,-79.2377369,2,Brimley Road South (560),a
 43.7084382,-79.2377369,2,Brimley Road South (898),a
-43.7084612,-79.2758556,2,Newlands Avenue (256),a
-43.7084612,-79.2758556,2,Newlands Avenue (377),a
-43.7084612,-79.2758556,2,Santamonica Boulevard (499),a
-43.7084612,-79.2758556,2,Santamonica Boulevard (606),a
-43.7084806,-79.2716952,2,Santamonica Boulevard (491),a
-43.7084806,-79.2716952,2,Santamonica Boulevard (598),a
-43.7084947,-79.2756861,2,Newlands Avenue (255),a
-43.7084947,-79.2756861,2,Newlands Avenue (376),a
 43.7085111,-79.2421905,2,Chine Drive (466),a
 43.7085111,-79.2421905,2,Chine Drive (600),a
-43.7085675,-79.2715579,2,Santamonica Boulevard (490),a
-43.7085675,-79.2715579,2,Santamonica Boulevard (597),a
-43.7086164,-79.2687796,2,Birchmount Road (226),a
-43.7086164,-79.2687796,2,Birchmount Road (226),a
-43.7086164,-79.2687796,2,Birchmount Road (837),a
-43.7086164,-79.2687796,2,Birchmount Road (837),a
 43.7086213,-79.2380116,2,Brimley Road South (319),a
 43.7086213,-79.2380116,2,Brimley Road South (896),a
-43.7086481,-79.2715064,2,Santamonica Boulevard (489),a
-43.7086481,-79.2715064,2,Santamonica Boulevard (596),a
-43.7086986,-79.2796216,2,Warden Avenue (434),a
-43.7086986,-79.2796216,2,Warden Avenue (434),a
-43.7086986,-79.2796216,2,Warden Avenue (435),a
-43.7086986,-79.2796216,2,Warden Avenue (435),a
-43.7086986,-79.2796216,2,Warden Avenue (483),a
-43.7086986,-79.2796216,2,Warden Avenue (483),a
-43.7086986,-79.2796216,2,Warden Avenue (484),a
-43.7086986,-79.2796216,2,Warden Avenue (484),a
 43.7087034,-79.2423959,2,Chine Drive (467),a
 43.7087034,-79.2423959,2,Chine Drive (601),a
 43.7087279,-79.2381476,2,Brimley Road South (561),a
@@ -1499,18 +219,10 @@ lat,lon,sz,names,len_cat
 43.7088043,-79.242517,2,Chine Drive (602),a
 43.7088613,-79.2382699,2,Brimley Road South (320),a
 43.7088613,-79.2382699,2,Brimley Road South (897),a
-43.708882,-79.2628481,2,Moira Avenue (302),a
-43.708882,-79.2628481,2,Moira Avenue (431),a
 43.708885,-79.2426118,2,Chine Drive (469),a
 43.708885,-79.2426118,2,Chine Drive (470),a
 43.708885,-79.2426118,2,Chine Drive (603),a
 43.708885,-79.2426118,2,Chine Drive (604),a
-43.7089148,-79.2626958,2,Moira Avenue (303),a
-43.7089148,-79.2626958,2,Moira Avenue (432),a
-43.7089148,-79.2626958,2,North Bonnington Avenue (226),a
-43.7089148,-79.2626958,2,North Bonnington Avenue (229),a
-43.7089148,-79.2626958,2,North Bonnington Avenue (961),a
-43.7089148,-79.2626958,2,North Bonnington Avenue (964),a
 43.7089267,-79.2383123,2,Brimley Road South (023),a
 43.7089267,-79.2383123,2,Brimley Road South (720),a
 43.7089417,-79.2426744,2,Chine Drive (471),a
@@ -1523,202 +235,56 @@ lat,lon,sz,names,len_cat
 43.7090788,-79.2428069,2,Chine Drive (607),a
 43.7091211,-79.2384221,2,Brimley Road South (321),a
 43.7091211,-79.2384221,2,Brimley Road South (898),a
-43.7091577,-79.2761406,2,Santamonica Boulevard (500),a
-43.7091577,-79.2761406,2,Santamonica Boulevard (607),a
-43.7091577,-79.2761406,2,Trinnell Boulevard (701),a
-43.7091577,-79.2761406,2,Trinnell Boulevard (864),a
 43.7091794,-79.2429033,2,Chine Drive (474),a
 43.7091794,-79.2429033,2,Chine Drive (608),a
-43.7091996,-79.2690054,2,Birchmount Road (225),a
-43.7091996,-79.2690054,2,Birchmount Road (225),a
-43.7091996,-79.2690054,2,Birchmount Road (835),a
-43.7091996,-79.2690054,2,Birchmount Road (835),a
-43.7091996,-79.2690054,2,Sadler Drive (263),a
-43.7091996,-79.2690054,2,Sadler Drive (263),a
-43.7091996,-79.2690054,2,Sadler Drive (945),a
-43.7091996,-79.2690054,2,Sadler Drive (945),a
-43.7092062,-79.2759185,2,Trinnell Boulevard (702),a
-43.7092062,-79.2759185,2,Trinnell Boulevard (865),a
-43.7092264,-79.2688916,2,Sadler Drive (452),a
-43.7092264,-79.2688916,2,Sadler Drive (452),a
-43.7092264,-79.2688916,2,Sadler Drive (654),a
-43.7092264,-79.2688916,2,Sadler Drive (654),a
-43.7092297,-79.2688778,2,Sadler Drive (264),a
-43.7092297,-79.2688778,2,Sadler Drive (264),a
-43.7092297,-79.2688778,2,Sadler Drive (946),a
-43.7092297,-79.2688778,2,Sadler Drive (946),a
 43.7092511,-79.238473,2,Brimley Road South (563),a
 43.7092511,-79.238473,2,Brimley Road South (901),a
 43.7092887,-79.242987,2,Chine Drive (475),a
 43.7092887,-79.242987,2,Chine Drive (609),a
-43.7093022,-79.2717829,2,Santamonica Boulevard (373),a
-43.7093022,-79.2717829,2,Santamonica Boulevard (963),a
-43.7093303,-79.2684511,2,Sadler Drive (265),a
-43.7093303,-79.2684511,2,Sadler Drive (265),a
-43.7093303,-79.2684511,2,Sadler Drive (266),a
-43.7093303,-79.2684511,2,Sadler Drive (266),a
-43.7093303,-79.2684511,2,Sadler Drive (947),a
-43.7093303,-79.2684511,2,Sadler Drive (947),a
-43.7093303,-79.2684511,2,Sadler Drive (948),a
-43.7093303,-79.2684511,2,Sadler Drive (948),a
-43.7093628,-79.2718086,2,Newlands Avenue (254),a
-43.7093628,-79.2718086,2,Newlands Avenue (375),a
-43.7093628,-79.2718086,2,Santamonica Boulevard (488),a
-43.7093628,-79.2718086,2,Santamonica Boulevard (595),a
 43.7093705,-79.2430342,2,Chine Drive (476),a
 43.7093705,-79.2430342,2,Chine Drive (610),a
-43.7093814,-79.2717222,2,Newlands Avenue (372),a
-43.7093814,-79.2717222,2,Newlands Avenue (962),a
-43.7094317,-79.2749357,2,Trinnell Boulevard (594),a
-43.7094317,-79.2749357,2,Trinnell Boulevard (994),a
 43.7094421,-79.238514,2,Brimley Road South (322),a
 43.7094421,-79.238514,2,Brimley Road South (899),a
-43.7094581,-79.2629035,2,Moira Avenue (304),a
-43.7094581,-79.2629035,2,Moira Avenue (433),a
-43.7094581,-79.2629035,2,North Bonnington Avenue (219),a
-43.7094581,-79.2629035,2,North Bonnington Avenue (230),a
-43.7094581,-79.2629035,2,North Bonnington Avenue (954),a
-43.7094581,-79.2629035,2,North Bonnington Avenue (965),a
 43.7094614,-79.2430936,2,Chine Drive (477),a
 43.7094614,-79.2430936,2,Chine Drive (611),a
-43.7094619,-79.2678931,2,Sadler Drive (260),a
-43.7094619,-79.2678931,2,Sadler Drive (260),a
-43.7094619,-79.2678931,2,Sadler Drive (268),a
-43.7094619,-79.2678931,2,Sadler Drive (268),a
-43.7094619,-79.2678931,2,Sadler Drive (942),a
-43.7094619,-79.2678931,2,Sadler Drive (942),a
-43.7094619,-79.2678931,2,Sadler Drive (949),a
-43.7094619,-79.2678931,2,Sadler Drive (949),a
-43.7094619,-79.2678931,2,Silvio Avenue (924),a
-43.7094619,-79.2678931,2,Silvio Avenue (924),a
-43.7094619,-79.2678931,2,Silvio Avenue (979),a
-43.7094619,-79.2678931,2,Silvio Avenue (979),a
-43.7094724,-79.2628356,2,Moira Avenue (305),a
-43.7094724,-79.2628356,2,Moira Avenue (434),a
-43.709508,-79.2711936,2,Elfreda Boulevard (357),a
-43.709508,-79.2711936,2,Elfreda Boulevard (822),a
-43.709508,-79.2711936,2,Newlands Avenue (253),a
-43.709508,-79.2711936,2,Newlands Avenue (374),a
 43.709543,-79.2431285,2,Chine Drive (478),a
 43.709543,-79.2431285,2,Chine Drive (612),a
-43.709552,-79.2799453,2,Warden Avenue (436),a
-43.709552,-79.2799453,2,Warden Avenue (436),a
-43.709552,-79.2799453,2,Warden Avenue (485),a
-43.709552,-79.2799453,2,Warden Avenue (485),a
-43.7095612,-79.2674415,2,Sadler Drive (261),a
-43.7095612,-79.2674415,2,Sadler Drive (261),a
-43.7095612,-79.2674415,2,Sadler Drive (943),a
-43.7095612,-79.2674415,2,Sadler Drive (943),a
-43.7095828,-79.2712235,2,Elfreda Boulevard (370),a
-43.7095828,-79.2712235,2,Elfreda Boulevard (960),a
 43.7095837,-79.250086,2,Sandown Lane (083),a
 43.7095837,-79.250086,2,Sandown Lane (527),a
-43.7096088,-79.2712367,2,Elfreda Boulevard (356),a
-43.7096088,-79.2712367,2,Elfreda Boulevard (821),a
 43.7096154,-79.2431512,2,Chine Drive (479),a
 43.7096154,-79.2431512,2,Chine Drive (613),a
-43.7096509,-79.2739314,2,Trinnell Boulevard (703),a
-43.7096509,-79.2739314,2,Trinnell Boulevard (866),a
 43.7096818,-79.2385177,2,Brimley Road South (564),a
 43.7096818,-79.2385177,2,Brimley Road South (902),a
-43.7096843,-79.2738231,2,Trinnell Boulevard (704),a
-43.7096843,-79.2738231,2,Trinnell Boulevard (867),a
 43.7096877,-79.2431739,2,Chine Drive (480),a
 43.7096877,-79.2431739,2,Chine Drive (614),a
-43.7096911,-79.2800106,2,Warden Avenue (677),a
-43.7096911,-79.2800106,2,Warden Avenue (677),a
-43.7096911,-79.2800106,2,Warden Avenue (750),a
-43.7096911,-79.2800106,2,Warden Avenue (750),a
-43.709701,-79.2737946,2,Trinnell Boulevard (593),a
-43.709701,-79.2737946,2,Trinnell Boulevard (993),a
-43.7097145,-79.2667439,2,Marta Avenue (092),a
-43.7097145,-79.2667439,2,Marta Avenue (953),a
-43.7097145,-79.2667439,2,Sadler Drive (262),a
-43.7097145,-79.2667439,2,Sadler Drive (944),a
-43.7097146,-79.2617128,2,Kilmarnock Avenue (033),a
-43.7097146,-79.2617128,2,Kilmarnock Avenue (479),a
-43.7097146,-79.2617128,2,Moira Avenue (297),a
-43.7097146,-79.2617128,2,Moira Avenue (306),a
-43.7097146,-79.2617128,2,Moira Avenue (426),a
-43.7097146,-79.2617128,2,Moira Avenue (435),a
-43.7097239,-79.2737756,2,Trinnell Boulevard (591),a
-43.7097239,-79.2737756,2,Trinnell Boulevard (991),a
 43.7097511,-79.2431969,2,Chine Drive (481),a
 43.7097511,-79.2431969,2,Chine Drive (615),a
-43.7097537,-79.2737675,2,Trinnell Boulevard (592),a
-43.7097537,-79.2737675,2,Trinnell Boulevard (992),a
-43.7097847,-79.273774,2,Trinnell Boulevard (705),a
-43.7097847,-79.273774,2,Trinnell Boulevard (868),a
-43.7097931,-79.2800584,2,Warden Avenue (678),a
-43.7097931,-79.2800584,2,Warden Avenue (678),a
-43.7097931,-79.2800584,2,Warden Avenue (751),a
-43.7097931,-79.2800584,2,Warden Avenue (751),a
 43.7098325,-79.2432193,2,Chine Drive (482),a
 43.7098325,-79.2432193,2,Chine Drive (616),a
-43.7098445,-79.2763996,2,Chesapeake Avenue (129),a
-43.7098445,-79.2763996,2,Chesapeake Avenue (547),a
-43.7098445,-79.2763996,2,Santamonica Boulevard (501),a
-43.7098445,-79.2763996,2,Santamonica Boulevard (608),a
-43.7098525,-79.2692729,2,Birchmount Road (727),a
-43.7098525,-79.2692729,2,Birchmount Road (727),a
-43.7098525,-79.2692729,2,Birchmount Road (986),a
-43.7098525,-79.2692729,2,Birchmount Road (986),a
 43.7098625,-79.2499764,2,Sandown Lane (084),a
 43.7098625,-79.2499764,2,Sandown Lane (528),a
 43.7098645,-79.2385106,2,Brimley Road South (323),a
 43.7098645,-79.2385106,2,Brimley Road South (900),a
-43.709885,-79.2762218,2,Chesapeake Avenue (128),a
-43.709885,-79.2762218,2,Chesapeake Avenue (546),a
 43.7098869,-79.2499666,2,Sandown Lane (085),a
 43.7098869,-79.2499666,2,Sandown Lane (529),a
-43.7098929,-79.2608513,2,Moira Avenue (298),a
-43.7098929,-79.2608513,2,Moira Avenue (427),a
 43.7099049,-79.243242,2,Chine Drive (483),a
 43.7099049,-79.243242,2,Chine Drive (617),a
-43.70991,-79.2694341,2,Newlands Avenue (371),a
-43.70991,-79.2694341,2,Newlands Avenue (371),a
-43.70991,-79.2694341,2,Newlands Avenue (961),a
-43.70991,-79.2694341,2,Newlands Avenue (961),a
 43.7099113,-79.2499559,2,Sandown Lane (086),a
 43.7099113,-79.2499559,2,Sandown Lane (530),a
 43.7099354,-79.2499443,2,Sandown Lane (087),a
 43.7099354,-79.2499443,2,Sandown Lane (531),a
-43.7099386,-79.2693091,2,Birchmount Road (224),a
-43.7099386,-79.2693091,2,Birchmount Road (224),a
-43.7099386,-79.2693091,2,Birchmount Road (833),a
-43.7099386,-79.2693091,2,Birchmount Road (833),a
-43.7099386,-79.2693091,2,Newlands Avenue (252),a
-43.7099386,-79.2693091,2,Newlands Avenue (252),a
-43.7099386,-79.2693091,2,Newlands Avenue (373),a
-43.7099386,-79.2693091,2,Newlands Avenue (373),a
-43.7099454,-79.2606056,2,Moira Avenue (299),a
-43.7099454,-79.2606056,2,Moira Avenue (428),a
-43.7099454,-79.2606056,2,Raleigh Avenue (123),a
-43.7099454,-79.2606056,2,Raleigh Avenue (138),a
-43.7099454,-79.2606056,2,Raleigh Avenue (750),a
-43.7099454,-79.2606056,2,Raleigh Avenue (758),a
 43.7099593,-79.2499321,2,Sandown Lane (088),a
 43.7099593,-79.2499321,2,Sandown Lane (532),a
 43.7099681,-79.2432526,2,Chine Drive (484),a
 43.7099681,-79.2432526,2,Chine Drive (618),a
-43.7099826,-79.2738451,2,Flagstaff Road (319),a
-43.7099826,-79.2738451,2,Flagstaff Road (566),a
-43.7099826,-79.2738451,2,Trinnell Boulevard (706),a
-43.7099826,-79.2738451,2,Trinnell Boulevard (869),a
 43.7099831,-79.2499191,2,Sandown Lane (089),a
 43.7099831,-79.2499191,2,Sandown Lane (533),a
 43.7100065,-79.2499052,2,Sandown Lane (090),a
 43.7100065,-79.2499052,2,Sandown Lane (534),a
-43.7100263,-79.2693468,2,Birchmount Road (726),a
-43.7100263,-79.2693468,2,Birchmount Road (726),a
-43.7100263,-79.2693468,2,Birchmount Road (985),a
-43.7100263,-79.2693468,2,Birchmount Road (985),a
 43.7100298,-79.2498906,2,Sandown Lane (091),a
 43.7100298,-79.2498906,2,Sandown Lane (535),a
 43.7100311,-79.2432507,2,Chine Drive (485),a
 43.7100311,-79.2432507,2,Chine Drive (619),a
-43.7100349,-79.2736381,2,Flagstaff Road (318),a
-43.7100349,-79.2736381,2,Flagstaff Road (565),a
 43.7100452,-79.2448548,2,Cliffcrest Drive (128),a
 43.7100452,-79.2448548,2,Cliffcrest Drive (128),a
 43.7100452,-79.2448548,2,Cliffcrest Drive (839),a
@@ -1729,10 +295,6 @@ lat,lon,sz,names,len_cat
 43.7100755,-79.2498591,2,Sandown Lane (537),a
 43.710089,-79.2384805,2,Brimley Road South (324),a
 43.710089,-79.2384805,2,Brimley Road South (901),a
-43.7100943,-79.2753041,2,Chesapeake Avenue (127),a
-43.7100943,-79.2753041,2,Chesapeake Avenue (545),a
-43.7100943,-79.2753041,2,Clapperton Avenue (555),a
-43.7100943,-79.2753041,2,Clapperton Avenue (633),a
 43.7100979,-79.2498422,2,Sandown Lane (094),a
 43.7100979,-79.2498422,2,Sandown Lane (538),a
 43.7101123,-79.2432608,2,Chine Drive (486),a
@@ -1751,10 +313,6 @@ lat,lon,sz,names,len_cat
 43.7101844,-79.2497676,2,Sandown Lane (542),a
 43.7102022,-79.2432582,2,Chine Drive (487),a
 43.7102022,-79.2432582,2,Chine Drive (621),a
-43.7102033,-79.2802509,2,Warden Avenue (712),a
-43.7102033,-79.2802509,2,Warden Avenue (712),a
-43.7102033,-79.2802509,2,Warden Avenue (935),a
-43.7102033,-79.2802509,2,Warden Avenue (935),a
 43.7102053,-79.2497472,2,Sandown Lane (099),a
 43.7102053,-79.2497472,2,Sandown Lane (543),a
 43.7102257,-79.249726,2,Sandown Lane (100),a
@@ -1763,12 +321,6 @@ lat,lon,sz,names,len_cat
 43.7102363,-79.2447572,2,Cliffcrest Drive (130),a
 43.7102363,-79.2447572,2,Cliffcrest Drive (841),a
 43.7102363,-79.2447572,2,Cliffcrest Drive (841),a
-43.7102364,-79.2727681,2,Annan Drive (416),a
-43.7102364,-79.2727681,2,Annan Drive (586),a
-43.7102364,-79.2727681,2,Flagstaff Road (317),a
-43.7102364,-79.2727681,2,Flagstaff Road (564),a
-43.7102413,-79.2753632,2,Clapperton Avenue (554),a
-43.7102413,-79.2753632,2,Clapperton Avenue (632),a
 43.7102458,-79.2497043,2,Sandown Lane (101),a
 43.7102458,-79.2497043,2,Sandown Lane (545),a
 43.7102655,-79.2496819,2,Sandown Lane (102),a
@@ -1787,48 +339,22 @@ lat,lon,sz,names,len_cat
 43.7103245,-79.2384221,2,Brimley Road South (902),a
 43.710339,-79.2694817,2,Birchmount Road (179),a
 43.710339,-79.2694817,2,Birchmount Road (516),a
-43.7103412,-79.2742382,2,Chesapeake Avenue (126),a
-43.7103412,-79.2742382,2,Chesapeake Avenue (544),a
-43.7103618,-79.2646541,2,North Woodrow Boulevard (219),a
-43.7103618,-79.2646541,2,North Woodrow Boulevard (230),a
-43.7103738,-79.2728243,2,Annan Drive (415),a
-43.7103738,-79.2728243,2,Annan Drive (585),a
 43.7103819,-79.2432281,2,Chine Drive (489),a
 43.7103819,-79.2432281,2,Chine Drive (623),a
-43.7103915,-79.2740212,2,Chesapeake Avenue (125),a
-43.7103915,-79.2740212,2,Chesapeake Avenue (543),a
-43.7103915,-79.2740212,2,Trinnell Boulevard (707),a
-43.7103915,-79.2740212,2,Trinnell Boulevard (870),a
-43.7103952,-79.2643327,2,Danforth Road (224),a
-43.7103952,-79.2643327,2,Danforth Road (251),a
 43.710427,-79.2445869,2,Cliffcrest Drive (134),a
 43.710427,-79.2445869,2,Cliffcrest Drive (134),a
 43.710427,-79.2445869,2,Cliffcrest Drive (845),a
 43.710427,-79.2445869,2,Cliffcrest Drive (845),a
-43.7104403,-79.2642514,2,Danforth Road (406),a
-43.7104403,-79.2642514,2,Danforth Road (796),a
-43.7104514,-79.2717422,2,Flagstaff Road (316),a
-43.7104514,-79.2717422,2,Flagstaff Road (563),a
 43.7104641,-79.2356612,2,Larwood Boulevard (593),a
 43.7104641,-79.2356612,2,Larwood Boulevard (816),a
 43.7104696,-79.2460745,2,Glenridge Road (278),a
 43.7104696,-79.2460745,2,Glenridge Road (928),a
 43.7104717,-79.243213,2,Chine Drive (490),a
 43.7104717,-79.243213,2,Chine Drive (624),a
-43.7104846,-79.2715836,2,Elfreda Boulevard (355),a
-43.7104846,-79.2715836,2,Elfreda Boulevard (820),a
-43.7104846,-79.2715836,2,Flagstaff Road (315),a
-43.7104846,-79.2715836,2,Flagstaff Road (562),a
-43.7105178,-79.2803742,2,Warden Avenue (437),a
-43.7105178,-79.2803742,2,Warden Avenue (437),a
-43.7105178,-79.2803742,2,Warden Avenue (486),a
-43.7105178,-79.2803742,2,Warden Avenue (486),a
 43.7105198,-79.2445131,2,Cliffcrest Drive (136),a
 43.7105198,-79.2445131,2,Cliffcrest Drive (136),a
 43.7105198,-79.2445131,2,Cliffcrest Drive (847),a
 43.7105198,-79.2445131,2,Cliffcrest Drive (847),a
-43.7105328,-79.264108,2,Danforth Road (225),a
-43.7105328,-79.264108,2,Danforth Road (253),a
 43.7105569,-79.2695745,2,Birchmount Road (178),a
 43.7105569,-79.2695745,2,Birchmount Road (515),a
 43.7105795,-79.2431975,2,Chine Drive (491),a
@@ -1837,52 +363,28 @@ lat,lon,sz,names,len_cat
 43.7105795,-79.2431975,2,Chine Drive (625),a
 43.7105812,-79.2366957,2,Redland Crescent West (445),a
 43.7105812,-79.2366957,2,Redland Crescent West (943),a
-43.710628,-79.2639602,2,Danforth Road (411),a
-43.710628,-79.2639602,2,Danforth Road (801),a
 43.7106285,-79.2444539,2,Cliffcrest Drive (139),a
 43.7106285,-79.2444539,2,Cliffcrest Drive (139),a
 43.7106285,-79.2444539,2,Cliffcrest Drive (850),a
 43.7106285,-79.2444539,2,Cliffcrest Drive (850),a
 43.710634,-79.2475083,2,Kelsonia Avenue (018),a
 43.710634,-79.2475083,2,Kelsonia Avenue (042),a
-43.7106521,-79.2767166,2,Santamonica Boulevard (502),a
-43.7106521,-79.2767166,2,Santamonica Boulevard (609),a
 43.7106605,-79.2431951,2,Chine Drive (492),a
 43.7106605,-79.2431951,2,Chine Drive (492),a
 43.7106605,-79.2431951,2,Chine Drive (626),a
 43.7106605,-79.2431951,2,Chine Drive (626),a
-43.710681,-79.2638838,2,Danforth Road (405),a
-43.710681,-79.2638838,2,Danforth Road (412),a
-43.710681,-79.2638838,2,Danforth Road (795),a
-43.710681,-79.2638838,2,Danforth Road (802),a
 43.7106905,-79.2444459,2,Cliffcrest Drive (140),a
 43.7106905,-79.2444459,2,Cliffcrest Drive (140),a
 43.7106905,-79.2444459,2,Cliffcrest Drive (851),a
 43.7106905,-79.2444459,2,Cliffcrest Drive (851),a
-43.7107152,-79.2620852,2,Glasgow Avenue (123),a
-43.7107152,-79.2620852,2,Glasgow Avenue (657),a
-43.7107152,-79.2620852,2,Kilmarnock Avenue (034),a
-43.7107152,-79.2620852,2,Kilmarnock Avenue (037),a
-43.7107152,-79.2620852,2,Kilmarnock Avenue (482),a
-43.7107152,-79.2620852,2,Kilmarnock Avenue (489),a
 43.7107325,-79.243193,2,Chine Drive (493),a
 43.7107325,-79.243193,2,Chine Drive (493),a
 43.7107325,-79.243193,2,Chine Drive (627),a
 43.7107325,-79.243193,2,Chine Drive (627),a
-43.7107329,-79.2620057,2,Glasgow Avenue (124),a
-43.7107329,-79.2620057,2,Glasgow Avenue (658),a
 43.7107548,-79.2444503,2,Cliffcrest Drive (142),a
 43.7107548,-79.2444503,2,Cliffcrest Drive (142),a
 43.7107548,-79.2444503,2,Cliffcrest Drive (852),a
 43.7107548,-79.2444503,2,Cliffcrest Drive (852),a
-43.7107638,-79.2741843,2,Trinnell Boulevard (708),a
-43.7107638,-79.2741843,2,Trinnell Boulevard (871),a
-43.7107757,-79.2637472,2,Danforth Road (403),a
-43.7107757,-79.2637472,2,Danforth Road (793),a
-43.7107757,-79.2637472,2,North Bonnington Avenue (222),a
-43.7107757,-79.2637472,2,North Bonnington Avenue (957),a
-43.710778,-79.2659942,2,Larmere Court (144),a
-43.710778,-79.2659942,2,Larmere Court (712),a
 43.7107835,-79.2357933,2,Larwood Boulevard (591),a
 43.7107835,-79.2357933,2,Larwood Boulevard (594),a
 43.7107835,-79.2357933,2,Larwood Boulevard (814),a
@@ -1899,28 +401,10 @@ lat,lon,sz,names,len_cat
 43.7108333,-79.244481,2,Cliffcrest Drive (143),a
 43.7108333,-79.244481,2,Cliffcrest Drive (853),a
 43.7108333,-79.244481,2,Cliffcrest Drive (853),a
-43.7108385,-79.2634503,2,North Bonnington Avenue (220),a
-43.7108385,-79.2634503,2,North Bonnington Avenue (955),a
-43.7108525,-79.2805207,2,Warden Avenue (365),a
-43.7108525,-79.2805207,2,Warden Avenue (365),a
-43.7108525,-79.2805207,2,Warden Avenue (414),a
-43.7108525,-79.2805207,2,Warden Avenue (414),a
-43.7108525,-79.2805207,2,Warden Avenue (439),a
-43.7108525,-79.2805207,2,Warden Avenue (439),a
-43.7108525,-79.2805207,2,Warden Avenue (488),a
-43.7108525,-79.2805207,2,Warden Avenue (488),a
 43.7108588,-79.2432141,2,Chine Drive (495),a
 43.7108588,-79.2432141,2,Chine Drive (495),a
 43.7108588,-79.2432141,2,Chine Drive (629),a
 43.7108588,-79.2432141,2,Chine Drive (629),a
-43.7108633,-79.2742575,2,Trinnell Boulevard (709),a
-43.7108633,-79.2742575,2,Trinnell Boulevard (872),a
-43.7108682,-79.2634606,2,North Bonnington Avenue (667),a
-43.7108682,-79.2634606,2,North Bonnington Avenue (758),a
-43.7109152,-79.2768908,2,Santamonica Boulevard (503),a
-43.7109152,-79.2768908,2,Santamonica Boulevard (610),a
-43.710917,-79.2638104,2,North Bonnington Avenue (668),a
-43.710917,-79.2638104,2,North Bonnington Avenue (759),a
 43.7109215,-79.2445308,2,Cliffcrest Drive (144),a
 43.7109215,-79.2445308,2,Cliffcrest Drive (144),a
 43.7109215,-79.2445308,2,Cliffcrest Drive (854),a
@@ -1929,14 +413,6 @@ lat,lon,sz,names,len_cat
 43.7109224,-79.2432495,2,Chine Drive (496),a
 43.7109224,-79.2432495,2,Chine Drive (630),a
 43.7109224,-79.2432495,2,Chine Drive (630),a
-43.7109436,-79.2638217,2,North Bonnington Avenue (223),a
-43.7109436,-79.2638217,2,North Bonnington Avenue (958),a
-43.710976,-79.2634981,2,Danforth Road (401),a
-43.710976,-79.2634981,2,Danforth Road (404),a
-43.710976,-79.2634981,2,Danforth Road (791),a
-43.710976,-79.2634981,2,Danforth Road (794),a
-43.710976,-79.2634981,2,North Bonnington Avenue (221),a
-43.710976,-79.2634981,2,North Bonnington Avenue (956),a
 43.7109765,-79.2314304,2,Bluffers Park Road (318),a
 43.7109765,-79.2314304,2,Bluffers Park Road (318),a
 43.7109765,-79.2314304,2,Bluffers Park Road (878),a
@@ -1945,14 +421,10 @@ lat,lon,sz,names,len_cat
 43.7109768,-79.2432728,2,Chine Drive (497),a
 43.7109768,-79.2432728,2,Chine Drive (631),a
 43.7109768,-79.2432728,2,Chine Drive (631),a
-43.710997,-79.259911,2,Raleigh Avenue (270),a
-43.710997,-79.259911,2,Raleigh Avenue (988),a
 43.7110064,-79.2446124,2,Cliffcrest Drive (145),a
 43.7110064,-79.2446124,2,Cliffcrest Drive (145),a
 43.7110064,-79.2446124,2,Cliffcrest Drive (855),a
 43.7110064,-79.2446124,2,Cliffcrest Drive (855),a
-43.71101,-79.2744086,2,Trinnell Boulevard (710),a
-43.71101,-79.2744086,2,Trinnell Boulevard (873),a
 43.7110368,-79.2313742,2,Bluffers Park Road (073),a
 43.7110368,-79.2313742,2,Bluffers Park Road (073),a
 43.7110368,-79.2313742,2,Bluffers Park Road (973),a
@@ -1961,30 +433,14 @@ lat,lon,sz,names,len_cat
 43.7110496,-79.2433203,2,Chine Drive (498),a
 43.7110496,-79.2433203,2,Chine Drive (632),a
 43.7110496,-79.2433203,2,Chine Drive (632),a
-43.7110753,-79.2697954,2,Birchmount Road (091),a
-43.7110753,-79.2697954,2,Birchmount Road (223),a
-43.7110753,-79.2697954,2,Birchmount Road (351),a
-43.7110753,-79.2697954,2,Birchmount Road (831),a
-43.7110753,-79.2697954,2,Zenith Drive (241),a
-43.7110753,-79.2697954,2,Zenith Drive (316),a
 43.7110856,-79.2313113,2,Bluffers Park Road (283),a
 43.7110856,-79.2313113,2,Bluffers Park Road (307),a
 43.7110856,-79.2313113,2,Bluffers Park Road (319),a
 43.7110856,-79.2313113,2,Bluffers Park Road (843),a
 43.7110856,-79.2313113,2,Bluffers Park Road (867),a
 43.7110856,-79.2313113,2,Bluffers Park Road (879),a
-43.711101,-79.25987,2,Raleigh Avenue (125),a
-43.711101,-79.25987,2,Raleigh Avenue (751),a
 43.7111045,-79.2433807,2,Chine Drive (499),a
 43.7111045,-79.2433807,2,Chine Drive (633),a
-43.7111059,-79.2696668,2,Zenith Drive (444),a
-43.7111059,-79.2696668,2,Zenith Drive (646),a
-43.711107,-79.2696622,2,Zenith Drive (242),a
-43.711107,-79.2696622,2,Zenith Drive (317),a
-43.7111195,-79.2698134,2,Birchmount Road (583),a
-43.7111195,-79.2698134,2,Birchmount Road (764),a
-43.71113,-79.2745049,2,Trinnell Boulevard (711),a
-43.71113,-79.2745049,2,Trinnell Boulevard (874),a
 43.7111319,-79.2434048,2,Chine Drive (500),a
 43.7111319,-79.2434048,2,Chine Drive (634),a
 43.7111373,-79.2453222,2,Glenridge Road (279),a
@@ -1993,8 +449,6 @@ lat,lon,sz,names,len_cat
 43.7111416,-79.2448432,2,Cliffcrest Drive (146),a
 43.7111416,-79.2448432,2,Cliffcrest Drive (856),a
 43.7111416,-79.2448432,2,Cliffcrest Drive (856),a
-43.7111484,-79.2598584,2,Raleigh Avenue (127),a
-43.7111484,-79.2598584,2,Raleigh Avenue (752),a
 43.7111503,-79.2434291,2,Chine Drive (501),a
 43.7111503,-79.2434291,2,Chine Drive (635),a
 43.7111732,-79.2359463,2,Larwood Boulevard (585),a
@@ -2003,34 +457,14 @@ lat,lon,sz,names,len_cat
 43.7111732,-79.2359463,2,Larwood Boulevard (815),a
 43.7111732,-79.2359463,2,Redland Crescent East (518),a
 43.7111732,-79.2359463,2,Redland Crescent East (945),a
-43.7111734,-79.2771114,2,Santamonica Boulevard (504),a
-43.7111734,-79.2771114,2,Santamonica Boulevard (611),a
-43.7111751,-79.2598561,2,Raleigh Avenue (128),a
-43.7111751,-79.2598561,2,Raleigh Avenue (753),a
-43.7111886,-79.2599944,2,Glasgow Avenue (181),a
-43.7111886,-79.2599944,2,Glasgow Avenue (696),a
 43.7111958,-79.243465,2,Chine Drive (502),a
 43.7111958,-79.243465,2,Chine Drive (636),a
-43.711218,-79.2598646,2,Glasgow Avenue (125),a
-43.711218,-79.2598646,2,Glasgow Avenue (126),a
-43.711218,-79.2598646,2,Glasgow Avenue (659),a
-43.711218,-79.2598646,2,Glasgow Avenue (660),a
-43.711218,-79.2598646,2,Raleigh Avenue (073),a
-43.711218,-79.2598646,2,Raleigh Avenue (130),a
-43.711218,-79.2598646,2,Raleigh Avenue (713),a
-43.711218,-79.2598646,2,Raleigh Avenue (754),a
 43.7112287,-79.2311204,2,Bluffers Park Road (308),a
 43.7112287,-79.2311204,2,Bluffers Park Road (868),a
 43.7112324,-79.2435011,2,Chine Drive (503),a
 43.7112324,-79.2435011,2,Chine Drive (637),a
 43.7112439,-79.284773,2,St Clair Avenue East (136),a
 43.7112439,-79.284773,2,St Clair Avenue East (940),a
-43.7112694,-79.2686269,2,Silvio Avenue (925),a
-43.7112694,-79.2686269,2,Silvio Avenue (925),a
-43.7112694,-79.2686269,2,Silvio Avenue (980),a
-43.7112694,-79.2686269,2,Silvio Avenue (980),a
-43.7112729,-79.2631281,2,Danforth Road (400),a
-43.7112729,-79.2631281,2,Danforth Road (790),a
 43.7112782,-79.2435494,2,Chine Drive (504),a
 43.7112782,-79.2435494,2,Chine Drive (638),a
 43.7113059,-79.2435983,2,Chine Drive (505),a
@@ -2047,220 +481,48 @@ lat,lon,sz,names,len_cat
 43.7113151,-79.2451237,2,Glenridge Road (921),a
 43.7113151,-79.2451237,2,Glenridge Road (930),a
 43.7113151,-79.2451237,2,Glenridge Road (930),a
-43.7113227,-79.277323,2,Santamonica Boulevard (505),a
-43.7113227,-79.277323,2,Santamonica Boulevard (612),a
-43.7113227,-79.277323,2,Tartan Avenue (525),a
-43.7113227,-79.277323,2,Tartan Avenue (945),a
-43.7113395,-79.2593747,2,Glasgow Avenue (127),a
-43.7113395,-79.2593747,2,Glasgow Avenue (661),a
 43.7113408,-79.2380974,2,Brimley Road South (326),a
 43.7113408,-79.2380974,2,Brimley Road South (903),a
-43.7113462,-79.2686581,2,Silvio Avenue (921),a
-43.7113462,-79.2686581,2,Silvio Avenue (926),a
-43.7113462,-79.2686581,2,Silvio Avenue (976),a
-43.7113462,-79.2686581,2,Silvio Avenue (981),a
-43.7113462,-79.2686581,2,Zenith Drive (243),a
-43.7113462,-79.2686581,2,Zenith Drive (247),a
-43.7113462,-79.2686581,2,Zenith Drive (318),a
-43.7113462,-79.2686581,2,Zenith Drive (322),a
-43.711355,-79.277206,2,Tartan Avenue (524),a
-43.711355,-79.277206,2,Tartan Avenue (944),a
 43.7113703,-79.2436833,2,Chine Drive (506),a
 43.7113703,-79.2436833,2,Chine Drive (640),a
 43.7113786,-79.235002,2,Redland Crescent East (519),a
 43.7113786,-79.235002,2,Redland Crescent East (946),a
-43.7113949,-79.2699253,2,Birchmount Road (582),a
-43.7113949,-79.2699253,2,Birchmount Road (763),a
 43.7114067,-79.2437071,2,Chine Drive (507),a
 43.7114067,-79.2437071,2,Chine Drive (641),a
 43.7114526,-79.2437678,2,Chine Drive (508),a
 43.7114526,-79.2437678,2,Chine Drive (642),a
-43.7114728,-79.2687112,2,Silvio Avenue (922),a
-43.7114728,-79.2687112,2,Silvio Avenue (977),a
-43.7114835,-79.2775231,2,Santamonica Boulevard (506),a
-43.7114835,-79.2775231,2,Santamonica Boulevard (613),a
 43.7114982,-79.2438037,2,Chine Drive (509),a
 43.7114982,-79.2438037,2,Chine Drive (643),a
-43.711529,-79.2674767,2,Marta Avenue (684),a
-43.711529,-79.2674767,2,Marta Avenue (965),a
-43.7115294,-79.2628866,2,Danforth Road (398),a
-43.7115294,-79.2628866,2,Danforth Road (402),a
-43.7115294,-79.2628866,2,Danforth Road (788),a
-43.7115294,-79.2628866,2,Danforth Road (792),a
-43.7115294,-79.2628866,2,Marsh Road (105),a
-43.7115294,-79.2628866,2,Marsh Road (874),a
 43.7115349,-79.2438523,2,Chine Drive (510),a
 43.7115349,-79.2438523,2,Chine Drive (644),a
 43.7115642,-79.2463463,2,Kelsonia Avenue (027),a
 43.7115642,-79.2463463,2,Kelsonia Avenue (051),a
-43.7115928,-79.2629536,2,Marsh Road (106),a
-43.7115952,-79.2761188,2,Tartan Avenue (523),a
-43.7115952,-79.2761188,2,Tartan Avenue (943),a
 43.7115985,-79.2438876,2,Chine Drive (511),a
 43.7115985,-79.2438876,2,Chine Drive (645),a
-43.7116079,-79.2675086,2,Marta Avenue (093),a
-43.7116079,-79.2675086,2,Marta Avenue (954),a
-43.7116079,-79.2675086,2,Zenith Drive (239),a
-43.7116079,-79.2675086,2,Zenith Drive (248),a
-43.7116079,-79.2675086,2,Zenith Drive (314),a
-43.7116079,-79.2675086,2,Zenith Drive (323),a
-43.7116158,-79.2624723,2,Kilmarnock Avenue (120),a
-43.7116158,-79.2624723,2,Kilmarnock Avenue (473),a
-43.7116391,-79.2759248,2,Clapperton Avenue (553),a
-43.7116391,-79.2759248,2,Clapperton Avenue (631),a
-43.7116391,-79.2759248,2,Tartan Avenue (522),a
-43.7116391,-79.2759248,2,Tartan Avenue (942),a
 43.7116529,-79.2439109,2,Chine Drive (512),a
 43.7116529,-79.2439109,2,Chine Drive (646),a
-43.7116572,-79.2775746,2,Santamonica Boulevard (507),a
-43.7116572,-79.2775746,2,Santamonica Boulevard (614),a
-43.7116651,-79.2596842,2,Kennedy Road (005),a
-43.7116651,-79.2596842,2,Kennedy Road (026),a
-43.7116651,-79.2596842,2,Kennedy Road (392),a
-43.7116651,-79.2596842,2,Kennedy Road (682),a
-43.7116679,-79.2629854,2,Marsh Road (673),a
-43.7116891,-79.2629944,2,Marsh Road (107),a
-43.7116891,-79.2629944,2,Marsh Road (876),a
-43.711703,-79.2625035,2,Davidson Avenue (072),a
-43.711703,-79.2625035,2,Davidson Avenue (475),a
-43.711703,-79.2625035,2,Kilmarnock Avenue (035),a
-43.711703,-79.2625035,2,Kilmarnock Avenue (038),a
-43.711703,-79.2625035,2,Kilmarnock Avenue (484),a
-43.711703,-79.2625035,2,Kilmarnock Avenue (491),a
 43.7117071,-79.2439217,2,Chine Drive (513),a
 43.7117071,-79.2439217,2,Chine Drive (647),a
-43.7117277,-79.2623907,2,Davidson Avenue (073),a
-43.7117277,-79.2623907,2,Davidson Avenue (476),a
-43.7117422,-79.2625695,2,Kilmarnock Avenue (670),a
-43.7117544,-79.2625898,2,Kilmarnock Avenue (762),a
 43.7117793,-79.243932,2,Chine Drive (514),a
 43.7117793,-79.243932,2,Chine Drive (648),a
-43.7117932,-79.266443,2,Larmere Court (066),a
-43.7117932,-79.266443,2,Larmere Court (522),a
-43.7118142,-79.2626888,2,Danforth Road (787),a
-43.7118142,-79.2626888,2,Kilmarnock Avenue (036),a
-43.7118142,-79.2626888,2,Kilmarnock Avenue (487),a
 43.7118603,-79.2439296,2,Chine Drive (515),a
 43.7118603,-79.2439296,2,Chine Drive (649),a
-43.7118607,-79.2664728,2,Larmere Court (145),a
-43.7118607,-79.2664728,2,Larmere Court (713),a
-43.7118607,-79.2664728,2,Zenith Drive (232),a
-43.7118607,-79.2664728,2,Zenith Drive (240),a
-43.7118607,-79.2664728,2,Zenith Drive (307),a
-43.7118607,-79.2664728,2,Zenith Drive (315),a
-43.7118696,-79.2748425,2,Trinnell Boulevard (001),a
-43.7118696,-79.2748425,2,Trinnell Boulevard (007),a
-43.7118696,-79.2748425,2,Trinnell Boulevard (850),a
-43.7118696,-79.2748425,2,Trinnell Boulevard (856),a
-43.7118913,-79.2748524,2,Trinnell Boulevard (001),a
-43.7118913,-79.2748524,2,Trinnell Boulevard (601),a
-43.7119064,-79.2749244,2,Trinnell Boulevard (003),a
-43.7119064,-79.2749244,2,Trinnell Boulevard (603),a
 43.7119234,-79.2439402,2,Chine Drive (516),a
 43.7119234,-79.2439402,2,Chine Drive (650),a
-43.711925,-79.2749628,2,Trinnell Boulevard (004),a
-43.711925,-79.2749628,2,Trinnell Boulevard (604),a
-43.7119253,-79.2626088,2,Danforth Road (399),a
-43.7119253,-79.2626088,2,Danforth Road (789),a
-43.7119253,-79.2626088,2,Danforth Road (815),a
-43.7119332,-79.270144,2,Birchmount Road (552),a
-43.7119332,-79.270144,2,Birchmount Road (552),a
-43.7119332,-79.270144,2,Birchmount Road (638),a
-43.7119332,-79.270144,2,Birchmount Road (638),a
-43.7119514,-79.2749913,2,Trinnell Boulevard (005),a
-43.7119514,-79.2749913,2,Trinnell Boulevard (605),a
 43.7119514,-79.2379609,2,Brimley Road South (327),a
 43.7119514,-79.2379609,2,Brimley Road South (904),a
-43.7119572,-79.2625858,2,Danforth Road (424),a
-43.7119572,-79.2625858,2,Danforth Road (814),a
-43.7119709,-79.2745969,2,Trinnell Boulevard (008),a
-43.7119709,-79.2745969,2,Trinnell Boulevard (608),a
-43.7119759,-79.2745755,2,Trinnell Boulevard (005),a
-43.7119759,-79.2745755,2,Trinnell Boulevard (006),a
-43.7119759,-79.2745755,2,Trinnell Boulevard (854),a
-43.7119759,-79.2745755,2,Trinnell Boulevard (855),a
-43.7119828,-79.275007,2,Trinnell Boulevard (006),a
-43.7119828,-79.275007,2,Trinnell Boulevard (606),a
-43.7119844,-79.2701648,2,Birchmount Road (551),a
-43.7119844,-79.2701648,2,Birchmount Road (551),a
-43.7119844,-79.2701648,2,Birchmount Road (637),a
-43.7119844,-79.2701648,2,Birchmount Road (637),a
 43.7119868,-79.2439632,2,Chine Drive (517),a
 43.7119868,-79.2439632,2,Chine Drive (651),a
-43.7120163,-79.2750084,2,Trinnell Boulevard (010),a
-43.7120163,-79.2750084,2,Trinnell Boulevard (610),a
-43.7120195,-79.274671,2,Trinnell Boulevard (007),a
-43.7120195,-79.274671,2,Trinnell Boulevard (607),a
-43.7120232,-79.2775403,2,Santamonica Boulevard (508),a
-43.7120232,-79.2775403,2,Santamonica Boulevard (615),a
-43.712025,-79.265368,2,North Woodrow Boulevard (065),a
-43.712025,-79.265368,2,North Woodrow Boulevard (521),a
-43.7120483,-79.2749954,2,Trinnell Boulevard (011),a
-43.7120483,-79.2749954,2,Trinnell Boulevard (611),a
 43.7120496,-79.2439489,2,Chine Drive (518),a
 43.7120496,-79.2439489,2,Chine Drive (652),a
-43.7120631,-79.2598321,2,Kennedy Road (025),a
-43.7120631,-79.2598321,2,Kennedy Road (391),a
-43.712065,-79.2774988,2,Santamonica Boulevard (509),a
-43.712065,-79.2774988,2,Santamonica Boulevard (616),a
-43.7120682,-79.2735172,2,Annan Drive (414),a
-43.7120682,-79.2735172,2,Annan Drive (584),a
-43.7120704,-79.2747494,2,Trinnell Boulevard (599),a
-43.7120704,-79.2747494,2,Trinnell Boulevard (999),a
-43.7120759,-79.2749692,2,Trinnell Boulevard (012),a
-43.7120759,-79.2749692,2,Trinnell Boulevard (612),a
-43.7120764,-79.2655325,2,Zenith Drive (308),a
-43.7120875,-79.2625068,2,Danforth Road (177),a
-43.7120875,-79.2625068,2,Danforth Road (459),a
-43.712094,-79.2747876,2,Trinnell Boulevard (598),a
-43.712094,-79.2747876,2,Trinnell Boulevard (998),a
-43.7120951,-79.2773951,2,Santamonica Boulevard (510),a
-43.7120951,-79.2773951,2,Santamonica Boulevard (617),a
-43.7120962,-79.2749325,2,Trinnell Boulevard (595),a
-43.7120962,-79.2749325,2,Trinnell Boulevard (995),a
 43.7121038,-79.2439598,2,Chine Drive (519),a
 43.7121038,-79.2439598,2,Chine Drive (653),a
-43.712107,-79.2748345,2,Trinnell Boulevard (597),a
-43.712107,-79.2748345,2,Trinnell Boulevard (997),a
-43.7121077,-79.2748848,2,Trinnell Boulevard (596),a
-43.7121077,-79.2748848,2,Trinnell Boulevard (996),a
-43.7121084,-79.2654038,2,North Woodrow Boulevard (221),a
-43.7121084,-79.2654038,2,North Woodrow Boulevard (231),a
-43.7121084,-79.2654038,2,Zenith Drive (234),a
-43.7121084,-79.2654038,2,Zenith Drive (235),a
-43.7121084,-79.2654038,2,Zenith Drive (309),a
-43.7121084,-79.2654038,2,Zenith Drive (310),a
 43.7121341,-79.2441699,2,Glenridge Road (272),a
 43.7121341,-79.2441699,2,Glenridge Road (922),a
-43.7121343,-79.2652832,2,Zenith Drive (311),a
-43.7121484,-79.2702315,2,Birchmount Road (550),a
-43.7121484,-79.2702315,2,Birchmount Road (550),a
-43.7121484,-79.2702315,2,Birchmount Road (636),a
-43.7121484,-79.2702315,2,Birchmount Road (636),a
 43.712158,-79.2439706,2,Chine Drive (520),a
 43.712158,-79.2439706,2,Chine Drive (654),a
-43.7121634,-79.2603984,2,Davidson Avenue (074),a
-43.7121634,-79.2603984,2,Davidson Avenue (477),a
-43.7121733,-79.2603594,2,Davidson Avenue (075),a
-43.7121733,-79.2603594,2,Davidson Avenue (478),a
-43.7121903,-79.2602755,2,Davidson Avenue (076),a
-43.7121903,-79.2602755,2,Davidson Avenue (479),a
-43.7121903,-79.2602755,2,Raleigh Avenue (074),a
-43.7121903,-79.2602755,2,Raleigh Avenue (075),a
-43.7121903,-79.2602755,2,Raleigh Avenue (714),a
-43.7121903,-79.2602755,2,Raleigh Avenue (715),a
 43.7121959,-79.2440936,2,Glenridge Road (273),a
 43.7121959,-79.2440936,2,Glenridge Road (923),a
-43.7122093,-79.2735749,2,Annan Drive (413),a
-43.7122093,-79.2735749,2,Annan Drive (583),a
-43.7122093,-79.2735749,2,Trinnell Boulevard (002),a
-43.7122093,-79.2735749,2,Trinnell Boulevard (851),a
-43.7122125,-79.2768643,2,Clapperton Avenue (549),a
-43.7122125,-79.2768643,2,Clapperton Avenue (627),a
-43.7122125,-79.2768643,2,Santamonica Boulevard (511),a
-43.7122125,-79.2768643,2,Santamonica Boulevard (521),a
-43.7122125,-79.2768643,2,Santamonica Boulevard (618),a
-43.7122125,-79.2768643,2,Santamonica Boulevard (628),a
 43.7122255,-79.2379412,2,Brimley Road South (565),a
 43.7122255,-79.2379412,2,Brimley Road South (903),a
 43.7122306,-79.2440057,2,Chine Drive (463),a
@@ -2269,132 +531,12 @@ lat,lon,sz,names,len_cat
 43.7122306,-79.2440057,2,Chine Drive (655),a
 43.7122306,-79.2440057,2,Glenridge Road (274),a
 43.7122306,-79.2440057,2,Glenridge Road (924),a
-43.7122408,-79.2761697,2,Clapperton Avenue (552),a
-43.7122408,-79.2761697,2,Clapperton Avenue (630),a
-43.7122557,-79.2603037,2,Raleigh Avenue (076),a
-43.7122662,-79.2603044,2,Raleigh Avenue (077),a
-43.7122662,-79.2603044,2,Raleigh Avenue (717),a
-43.7122767,-79.2603041,2,Raleigh Avenue (078),a
-43.7122767,-79.2603041,2,Raleigh Avenue (718),a
-43.7122872,-79.2603031,2,Raleigh Avenue (079),a
-43.7122872,-79.2603031,2,Raleigh Avenue (719),a
-43.7122873,-79.2645363,2,Zenith Drive (237),a
-43.7122873,-79.2645363,2,Zenith Drive (312),a
-43.7122929,-79.2769015,2,Santamonica Boulevard (264),a
-43.7122977,-79.2603012,2,Raleigh Avenue (080),a
-43.7122977,-79.2603012,2,Raleigh Avenue (720),a
-43.7123068,-79.2702958,2,Birchmount Road (549),a
-43.7123068,-79.2702958,2,Birchmount Road (549),a
-43.7123068,-79.2702958,2,Birchmount Road (635),a
-43.7123068,-79.2702958,2,Birchmount Road (635),a
-43.712308,-79.2602984,2,Raleigh Avenue (081),a
-43.712308,-79.2602984,2,Raleigh Avenue (721),a
-43.7123148,-79.27627,2,Clapperton Avenue (551),a
-43.7123148,-79.27627,2,Clapperton Avenue (629),a
-43.7123183,-79.2602949,2,Raleigh Avenue (082),a
-43.7123183,-79.2602949,2,Raleigh Avenue (722),a
-43.7123257,-79.2643723,2,North Bonnington Avenue (224),a
-43.7123257,-79.2643723,2,North Bonnington Avenue (959),a
-43.7123257,-79.2643723,2,North Bonnington Avenue (962),a
-43.7123257,-79.2643723,2,Zenith Drive (313),a
-43.7123257,-79.2643723,2,Zenith Drive (319),a
-43.7123283,-79.2602905,2,Raleigh Avenue (083),a
-43.7123283,-79.2602905,2,Raleigh Avenue (723),a
-43.7123285,-79.2763441,2,Clapperton Avenue (550),a
-43.7123285,-79.2763441,2,Clapperton Avenue (628),a
-43.7123381,-79.2602854,2,Raleigh Avenue (084),a
-43.7123381,-79.2602854,2,Raleigh Avenue (724),a
-43.7123431,-79.2769248,2,Santamonica Boulevard (520),a
-43.7123431,-79.2769248,2,Santamonica Boulevard (627),a
-43.7123449,-79.2642842,2,Zenith Drive (245),a
-43.7123449,-79.2642842,2,Zenith Drive (320),a
-43.7123456,-79.2703116,2,Birchmount Road (548),a
-43.7123456,-79.2703116,2,Birchmount Road (548),a
-43.7123456,-79.2703116,2,Birchmount Road (634),a
-43.7123456,-79.2703116,2,Birchmount Road (634),a
-43.7123478,-79.2602794,2,Raleigh Avenue (725),a
-43.7123571,-79.2602726,2,Raleigh Avenue (086),a
-43.7123571,-79.2602726,2,Raleigh Avenue (726),a
-43.7123662,-79.2602653,2,Raleigh Avenue (087),a
-43.7123662,-79.2602653,2,Raleigh Avenue (727),a
-43.7123707,-79.2623351,2,Danforth Road (426),a
-43.7123707,-79.2623351,2,Danforth Road (816),a
-43.7123707,-79.2623351,2,Danforth Road (818),a
-43.7123749,-79.2602572,2,Raleigh Avenue (728),a
-43.7123832,-79.2602483,2,Raleigh Avenue (729),a
-43.7123845,-79.2703274,2,Birchmount Road (547),a
-43.7123845,-79.2703274,2,Birchmount Road (547),a
-43.7123845,-79.2703274,2,Birchmount Road (633),a
-43.7123845,-79.2703274,2,Birchmount Road (633),a
-43.7123912,-79.2602389,2,Raleigh Avenue (090),a
-43.7123912,-79.2602389,2,Raleigh Avenue (730),a
-43.7123989,-79.2602288,2,Raleigh Avenue (091),a
-43.7123989,-79.2602288,2,Raleigh Avenue (731),a
-43.712406,-79.2602181,2,Raleigh Avenue (092),a
-43.712406,-79.2602181,2,Raleigh Avenue (732),a
-43.7124127,-79.2602068,2,Raleigh Avenue (093),a
-43.7124127,-79.2602068,2,Raleigh Avenue (733),a
-43.7124189,-79.2601951,2,Raleigh Avenue (095),a
-43.7124189,-79.2601951,2,Raleigh Avenue (734),a
-43.7124241,-79.2726096,2,Trinnell Boulevard (004),a
-43.7124241,-79.2726096,2,Trinnell Boulevard (853),a
-43.7124246,-79.2601829,2,Raleigh Avenue (096),a
-43.7124246,-79.2601829,2,Raleigh Avenue (735),a
-43.7124297,-79.2601702,2,Raleigh Avenue (097),a
-43.7124297,-79.2601702,2,Raleigh Avenue (736),a
-43.7124343,-79.2601572,2,Raleigh Avenue (737),a
-43.7124385,-79.2601437,2,Raleigh Avenue (738),a
-43.712442,-79.2601301,2,Raleigh Avenue (739),a
-43.7124449,-79.2601162,2,Raleigh Avenue (103),a
-43.7124449,-79.2601162,2,Raleigh Avenue (740),a
-43.7124525,-79.2600771,2,Raleigh Avenue (105),a
-43.7124525,-79.2600771,2,Raleigh Avenue (741),a
 43.7124564,-79.2379536,2,Brimley Road South (328),a
 43.7124564,-79.2379536,2,Brimley Road South (905),a
-43.7124606,-79.2600376,2,Raleigh Avenue (184),a
-43.7124606,-79.2600376,2,Raleigh Avenue (699),a
-43.7124665,-79.2724192,2,Elfreda Boulevard (354),a
-43.7124665,-79.2724192,2,Elfreda Boulevard (819),a
-43.7124665,-79.2724192,2,Trinnell Boulevard (003),a
-43.7124665,-79.2724192,2,Trinnell Boulevard (852),a
-43.7124776,-79.2599555,2,Kennedy Road (024),a
-43.7124776,-79.2599555,2,Kennedy Road (390),a
-43.7124776,-79.2599555,2,Raleigh Avenue (107),a
-43.7124776,-79.2599555,2,Raleigh Avenue (742),a
-43.7124828,-79.2703674,2,Birchmount Road (546),a
-43.7124828,-79.2703674,2,Birchmount Road (546),a
-43.7124828,-79.2703674,2,Birchmount Road (632),a
-43.7124828,-79.2703674,2,Birchmount Road (632),a
-43.7125129,-79.2703796,2,Birchmount Road (545),a
-43.7125129,-79.2703796,2,Birchmount Road (545),a
-43.7125129,-79.2703796,2,Birchmount Road (631),a
-43.7125129,-79.2703796,2,Birchmount Road (631),a
-43.7125534,-79.2633603,2,Marsh Road (108),a
-43.7125534,-79.2633603,2,Marsh Road (109),a
-43.7125534,-79.2633603,2,Marsh Road (877),a
-43.7125534,-79.2633603,2,Marsh Road (878),a
-43.7125534,-79.2633603,2,Zenith Drive (246),a
-43.7125534,-79.2633603,2,Zenith Drive (321),a
-43.7125644,-79.2622177,2,Cotton Avenue (117),a
-43.7125644,-79.2622177,2,Cotton Avenue (548),a
-43.7125644,-79.2622177,2,Danforth Road (427),a
-43.7125644,-79.2622177,2,Danforth Road (817),a
-43.7125681,-79.2599743,2,Kennedy Road (474),a
-43.7125681,-79.2599743,2,Kennedy Road (690),a
 43.7125823,-79.2452119,2,Kelsonia Avenue (028),a
 43.7125823,-79.2452119,2,Kelsonia Avenue (028),a
 43.7125823,-79.2452119,2,Kelsonia Avenue (052),a
 43.7125823,-79.2452119,2,Kelsonia Avenue (052),a
-43.712583,-79.2770527,2,Santamonica Boulevard (519),a
-43.712583,-79.2770527,2,Santamonica Boulevard (626),a
-43.7125956,-79.2621982,2,Danforth Road (396),a
-43.7125956,-79.2621982,2,Danforth Road (429),a
-43.7125956,-79.2621982,2,Danforth Road (786),a
-43.7125956,-79.2621982,2,Danforth Road (819),a
-43.7126142,-79.2770422,2,Santamonica Boulevard (189),a
-43.7126142,-79.2770422,2,Santamonica Boulevard (255),a
-43.7126412,-79.2770209,2,Santamonica Boulevard (518),a
-43.7126412,-79.2770209,2,Santamonica Boulevard (625),a
 43.7126603,-79.2344974,2,Eastville Avenue (763),a
 43.7126603,-79.2344974,2,Eastville Avenue (763),a
 43.7126603,-79.2344974,2,Eastville Avenue (909),a
@@ -2403,16 +545,12 @@ lat,lon,sz,names,len_cat
 43.712668,-79.2344102,2,Eastville Avenue (762),a
 43.712668,-79.2344102,2,Eastville Avenue (908),a
 43.712668,-79.2344102,2,Eastville Avenue (908),a
-43.7126686,-79.2769777,2,Santamonica Boulevard (188),a
-43.7126686,-79.2769777,2,Santamonica Boulevard (254),a
 43.7126703,-79.2345591,2,Eastville Avenue (764),a
 43.7126703,-79.2345591,2,Eastville Avenue (764),a
 43.7126703,-79.2345591,2,Eastville Avenue (910),a
 43.7126703,-79.2345591,2,Eastville Avenue (910),a
 43.7126804,-79.2380085,2,Brimley Road South (566),a
 43.7126804,-79.2380085,2,Brimley Road South (904),a
-43.7126833,-79.2769296,2,Santamonica Boulevard (517),a
-43.7126833,-79.2769296,2,Santamonica Boulevard (624),a
 43.7126888,-79.2345958,2,Eastville Avenue (765),a
 43.7126888,-79.2345958,2,Eastville Avenue (765),a
 43.7126888,-79.2345958,2,Eastville Avenue (911),a
@@ -2423,22 +561,6 @@ lat,lon,sz,names,len_cat
 43.7126929,-79.234273,2,Eastville Avenue (907),a
 43.7127042,-79.277931,2,St Clair Avenue East (635),a
 43.7127042,-79.277931,2,St Clair Avenue East (810),a
-43.7127156,-79.270462,2,Birchmount Road (544),a
-43.7127156,-79.270462,2,Birchmount Road (544),a
-43.7127156,-79.270462,2,Birchmount Road (630),a
-43.7127156,-79.270462,2,Birchmount Road (630),a
-43.7127497,-79.2622803,2,Cotton Avenue (657),a
-43.7127549,-79.2600132,2,Kennedy Road (023),a
-43.7127549,-79.2600132,2,Kennedy Road (389),a
-43.7127558,-79.2622824,2,Cotton Avenue (118),a
-43.7127688,-79.276567,2,Santamonica Boulevard (516),a
-43.7127688,-79.276567,2,Santamonica Boulevard (623),a
-43.7127904,-79.2765259,2,Santamonica Boulevard (187),a
-43.7127904,-79.2765259,2,Santamonica Boulevard (253),a
-43.7128074,-79.2704993,2,Birchmount Road (543),a
-43.7128074,-79.2704993,2,Birchmount Road (543),a
-43.7128074,-79.2704993,2,Birchmount Road (629),a
-43.7128074,-79.2704993,2,Birchmount Road (629),a
 43.7128102,-79.2777765,2,St Clair Avenue East (371),a
 43.7128102,-79.2777765,2,St Clair Avenue East (636),a
 43.7128102,-79.2777765,2,St Clair Avenue East (966),a
@@ -2447,52 +569,22 @@ lat,lon,sz,names,len_cat
 43.7128106,-79.2337358,2,Eastville Avenue (760),a
 43.7128106,-79.2337358,2,Eastville Avenue (906),a
 43.7128106,-79.2337358,2,Eastville Avenue (906),a
-43.7128116,-79.2692587,2,Dunlop Avenue (260),a
-43.7128116,-79.2692587,2,Dunlop Avenue (260),a
-43.7128116,-79.2692587,2,Dunlop Avenue (746),a
-43.7128116,-79.2692587,2,Dunlop Avenue (746),a
-43.7128116,-79.2692587,2,Silvio Avenue (901),a
-43.7128116,-79.2692587,2,Silvio Avenue (901),a
-43.7128116,-79.2692587,2,Silvio Avenue (923),a
-43.7128116,-79.2692587,2,Silvio Avenue (923),a
-43.7128116,-79.2692587,2,Silvio Avenue (952),a
-43.7128116,-79.2692587,2,Silvio Avenue (952),a
-43.7128116,-79.2692587,2,Silvio Avenue (978),a
-43.7128116,-79.2692587,2,Silvio Avenue (978),a
-43.7128235,-79.276495,2,Santamonica Boulevard (515),a
-43.7128235,-79.276495,2,Santamonica Boulevard (622),a
 43.7128546,-79.2336724,2,Eastville Avenue (759),a
 43.7128546,-79.2336724,2,Eastville Avenue (759),a
 43.7128546,-79.2336724,2,Eastville Avenue (905),a
 43.7128546,-79.2336724,2,Eastville Avenue (905),a
-43.7128618,-79.2764831,2,Santamonica Boulevard (186),a
-43.7128618,-79.2764831,2,Santamonica Boulevard (252),a
-43.7128897,-79.2705327,2,Birchmount Road (542),a
-43.7128897,-79.2705327,2,Birchmount Road (542),a
-43.7128897,-79.2705327,2,Birchmount Road (628),a
-43.7128897,-79.2705327,2,Birchmount Road (628),a
 43.7128905,-79.2336589,2,Eastville Avenue (758),a
 43.7128905,-79.2336589,2,Eastville Avenue (758),a
 43.7128905,-79.2336589,2,Eastville Avenue (904),a
 43.7128905,-79.2336589,2,Eastville Avenue (904),a
 43.7128952,-79.2380758,2,Brimley Road South (329),a
 43.7128952,-79.2380758,2,Brimley Road South (906),a
-43.7129058,-79.2764958,2,Santamonica Boulevard (514),a
-43.7129058,-79.2764958,2,Santamonica Boulevard (621),a
 43.7129271,-79.2772635,2,St Clair Avenue East (203),a
 43.7129271,-79.2772635,2,St Clair Avenue East (457),a
-43.7129284,-79.2619904,2,Blanche Avenue (769),a
-43.7129284,-79.2619904,2,Blanche Avenue (934),a
-43.7129284,-79.2619904,2,Danforth Road (785),a
-43.7129434,-79.2618538,2,Blanche Avenue (451),a
-43.7129434,-79.2618538,2,Blanche Avenue (653),a
-43.7129524,-79.2617723,2,Blanche Avenue (935),a
 43.7129538,-79.2336298,2,Eastville Avenue (757),a
 43.7129538,-79.2336298,2,Eastville Avenue (757),a
 43.7129538,-79.2336298,2,Eastville Avenue (903),a
 43.7129538,-79.2336298,2,Eastville Avenue (903),a
-43.712967,-79.2765183,2,Santamonica Boulevard (513),a
-43.712967,-79.2765183,2,Santamonica Boulevard (620),a
 43.7130271,-79.2347365,2,Eastville Avenue (766),a
 43.7130271,-79.2347365,2,Eastville Avenue (766),a
 43.7130271,-79.2347365,2,Eastville Avenue (912),a
@@ -2501,152 +593,50 @@ lat,lon,sz,names,len_cat
 43.7130392,-79.2336504,2,Eastville Avenue (756),a
 43.7130392,-79.2336504,2,Eastville Avenue (902),a
 43.7130392,-79.2336504,2,Eastville Avenue (902),a
-43.713057,-79.2766813,2,St Clair Avenue East (204),a
-43.713057,-79.2766813,2,St Clair Avenue East (458),a
-43.7130821,-79.2765709,2,Santamonica Boulevard (512),a
-43.7130821,-79.2765709,2,Santamonica Boulevard (619),a
-43.7130821,-79.2765709,2,St Clair Avenue East (202),a
-43.7130821,-79.2765709,2,St Clair Avenue East (205),a
-43.7130821,-79.2765709,2,St Clair Avenue East (456),a
-43.7130821,-79.2765709,2,St Clair Avenue East (459),a
-43.7131041,-79.2764729,2,St Clair Avenue East (206),a
-43.7131041,-79.2764729,2,St Clair Avenue East (460),a
 43.7131064,-79.2336526,2,Eastville Avenue (755),a
 43.7131064,-79.2336526,2,Eastville Avenue (755),a
 43.7131064,-79.2336526,2,Eastville Avenue (901),a
 43.7131064,-79.2336526,2,Eastville Avenue (901),a
-43.7131082,-79.2706215,2,Birchmount Road (541),a
-43.7131082,-79.2706215,2,Birchmount Road (541),a
-43.7131082,-79.2706215,2,Birchmount Road (627),a
-43.7131082,-79.2706215,2,Birchmount Road (627),a
 43.7131459,-79.2445819,2,Kelsonia Avenue (188),a
 43.7131459,-79.2445819,2,Kelsonia Avenue (460),a
-43.7131601,-79.2762055,2,St Clair Avenue East (181),a
-43.7131601,-79.2762055,2,St Clair Avenue East (207),a
-43.7131601,-79.2762055,2,St Clair Avenue East (437),a
-43.7131601,-79.2762055,2,St Clair Avenue East (461),a
 43.7131694,-79.2336507,2,Eastville Avenue (754),a
 43.7131694,-79.2336507,2,Eastville Avenue (754),a
 43.7131694,-79.2336507,2,Eastville Avenue (900),a
 43.7131694,-79.2336507,2,Eastville Avenue (900),a
 43.7131772,-79.2445545,2,Kelsonia Avenue (029),a
 43.7131772,-79.2445545,2,Kelsonia Avenue (053),a
-43.7132512,-79.2603701,2,Blanche Avenue (772),a
-43.7132512,-79.2603701,2,Blanche Avenue (936),a
-43.713261,-79.2603241,2,Blanche Avenue (652),a
 43.7132634,-79.2444224,2,Chine Drive (464),a
 43.7132634,-79.2444224,2,Chine Drive (522),a
 43.7132634,-79.2444224,2,Chine Drive (598),a
 43.7132634,-79.2444224,2,Chine Drive (656),a
 43.7132634,-79.2444224,2,Kelsonia Avenue (030),a
 43.7132634,-79.2444224,2,Kelsonia Avenue (054),a
-43.7132727,-79.2706883,2,Birchmount Road (540),a
-43.7132727,-79.2706883,2,Birchmount Road (540),a
-43.7132727,-79.2706883,2,Birchmount Road (626),a
-43.7132727,-79.2706883,2,Birchmount Road (626),a
 43.7132744,-79.2348393,2,Eastville Avenue (767),a
 43.7132744,-79.2348393,2,Eastville Avenue (767),a
 43.7132744,-79.2348393,2,Eastville Avenue (913),a
 43.7132744,-79.2348393,2,Eastville Avenue (913),a
-43.7132814,-79.2602286,2,Blanche Avenue (773),a
-43.7132814,-79.2602286,2,Blanche Avenue (937),a
-43.7132814,-79.2602286,2,Kennedy Road (022),a
-43.7132814,-79.2602286,2,Kennedy Road (388),a
-43.7132909,-79.2755814,2,Pengelly Court (282),a
-43.7132909,-79.2755814,2,Pengelly Court (506),a
-43.7132909,-79.2755814,2,St Clair Avenue East (913),a
-43.7132909,-79.2755814,2,St Clair Avenue East (977),a
 43.7133039,-79.2382591,2,Brimley Road South (567),a
 43.7133039,-79.2382591,2,Brimley Road South (905),a
-43.713309,-79.2707031,2,Birchmount Road (539),a
-43.713309,-79.2707031,2,Birchmount Road (539),a
-43.713309,-79.2707031,2,Birchmount Road (625),a
-43.713309,-79.2707031,2,Birchmount Road (625),a
-43.7133091,-79.2670462,2,Dunlop Avenue (261),a
-43.7133091,-79.2670462,2,Dunlop Avenue (270),a
-43.7133091,-79.2670462,2,Dunlop Avenue (747),a
-43.7133091,-79.2670462,2,Dunlop Avenue (756),a
-43.7133091,-79.2670462,2,Silvio Avenue (920),a
-43.7133091,-79.2670462,2,Silvio Avenue (975),a
 43.7133131,-79.2336217,2,Eastville Avenue (753),a
 43.7133131,-79.2336217,2,Eastville Avenue (753),a
 43.7133131,-79.2336217,2,Eastville Avenue (899),a
 43.7133131,-79.2336217,2,Eastville Avenue (899),a
-43.7133234,-79.2669783,2,Dunlop Avenue (271),a
-43.7133234,-79.2669783,2,Dunlop Avenue (757),a
-43.7133301,-79.2602491,2,Kennedy Road (182),a
-43.7133301,-79.2602491,2,Kennedy Road (967),a
-43.7133439,-79.2694909,2,Silvio Avenue (902),a
-43.7133439,-79.2694909,2,Silvio Avenue (902),a
-43.7133439,-79.2694909,2,Silvio Avenue (953),a
-43.7133439,-79.2694909,2,Silvio Avenue (953),a
-43.7133839,-79.2756223,2,Pengelly Court (342),a
-43.7133839,-79.2756223,2,Pengelly Court (710),a
 43.7133849,-79.2336072,2,Eastville Avenue (752),a
 43.7133849,-79.2336072,2,Eastville Avenue (752),a
 43.7133849,-79.2336072,2,Eastville Avenue (898),a
 43.7133849,-79.2336072,2,Eastville Avenue (898),a
-43.7134031,-79.2695085,2,Silvio Avenue (903),a
-43.7134031,-79.2695085,2,Silvio Avenue (903),a
-43.7134031,-79.2695085,2,Silvio Avenue (954),a
-43.7134031,-79.2695085,2,Silvio Avenue (954),a
-43.7134032,-79.2750871,2,St Clair Avenue East (914),a
-43.7134032,-79.2750871,2,St Clair Avenue East (978),a
-43.7134215,-79.2756389,2,Pengelly Court (281),a
-43.7134215,-79.2756389,2,Pengelly Court (505),a
-43.7134397,-79.2707562,2,Birchmount Road (538),a
-43.7134397,-79.2707562,2,Birchmount Road (538),a
-43.7134397,-79.2707562,2,Birchmount Road (624),a
-43.7134397,-79.2707562,2,Birchmount Road (624),a
-43.7134703,-79.2695108,2,Silvio Avenue (904),a
-43.7134703,-79.2695108,2,Silvio Avenue (904),a
-43.7134703,-79.2695108,2,Silvio Avenue (955),a
 43.7134751,-79.2336169,2,Eastville Avenue (751),a
 43.7134751,-79.2336169,2,Eastville Avenue (751),a
 43.7134751,-79.2336169,2,Eastville Avenue (897),a
 43.7134751,-79.2336169,2,Eastville Avenue (897),a
-43.7134789,-79.2728354,2,Elfreda Boulevard (076),a
-43.7134789,-79.2728354,2,Elfreda Boulevard (429),a
 43.7134899,-79.2445151,2,Chine Drive (523),a
 43.7134899,-79.2445151,2,Chine Drive (657),a
-43.7134918,-79.2747038,2,St Clair Avenue East (915),a
-43.7134918,-79.2747038,2,St Clair Avenue East (979),a
-43.7135036,-79.2661732,2,Dunlop Avenue (272),a
-43.7135036,-79.2661732,2,Dunlop Avenue (758),a
-43.7135157,-79.2694906,2,Silvio Avenue (905),a
-43.7135157,-79.2694906,2,Silvio Avenue (905),a
-43.7135157,-79.2694906,2,Silvio Avenue (957),a
-43.7135378,-79.2660111,2,Dunlop Avenue (273),a
-43.7135378,-79.2660111,2,Dunlop Avenue (752),a
-43.7135378,-79.2660111,2,Dunlop Avenue (759),a
-43.7135378,-79.2660111,2,North Woodrow Boulevard (222),a
-43.7135378,-79.2660111,2,North Woodrow Boulevard (231),a
-43.7135378,-79.2660111,2,North Woodrow Boulevard (242),a
-43.7135524,-79.2694448,2,Silvio Avenue (906),a
-43.7135524,-79.2694448,2,Silvio Avenue (906),a
-43.7135524,-79.2694448,2,Silvio Avenue (958),a
-43.7135524,-79.2694448,2,Silvio Avenue (958),a
 43.7135564,-79.2336394,2,Eastville Avenue (750),a
 43.7135564,-79.2336394,2,Eastville Avenue (750),a
 43.7135564,-79.2336394,2,Eastville Avenue (896),a
 43.7135564,-79.2336394,2,Eastville Avenue (896),a
-43.7135599,-79.2744044,2,St Clair Avenue East (916),a
-43.7135599,-79.2744044,2,St Clair Avenue East (980),a
-43.7135691,-79.2658737,2,Dunlop Avenue (753),a
-43.7135794,-79.2693916,2,Silvio Avenue (666),a
-43.7135794,-79.2693916,2,Silvio Avenue (666),a
-43.7135794,-79.2693916,2,Silvio Avenue (911),a
-43.7135794,-79.2693916,2,Silvio Avenue (911),a
-43.7135978,-79.2693461,2,Silvio Avenue (907),a
-43.7135978,-79.2693461,2,Silvio Avenue (907),a
-43.7135978,-79.2693461,2,Silvio Avenue (960),a
-43.7135978,-79.2693461,2,Silvio Avenue (960),a
 43.7135987,-79.2445616,2,Chine Drive (524),a
 43.7135987,-79.2445616,2,Chine Drive (658),a
-43.7136062,-79.2741306,2,St Clair Avenue East (200),a
-43.7136062,-79.2741306,2,St Clair Avenue East (201),a
-43.7136062,-79.2741306,2,St Clair Avenue East (454),a
-43.7136062,-79.2741306,2,St Clair Avenue East (455),a
 43.7136258,-79.2615439,2,Danforth Road (392),a
 43.7136258,-79.2615439,2,Danforth Road (394),a
 43.7136258,-79.2615439,2,Danforth Road (782),a
@@ -2657,22 +647,8 @@ lat,lon,sz,names,len_cat
 43.7136378,-79.2336618,2,Eastville Avenue (749),a
 43.7136378,-79.2336618,2,Eastville Avenue (895),a
 43.7136378,-79.2336618,2,Eastville Avenue (895),a
-43.7136441,-79.2708392,2,Birchmount Road (537),a
-43.7136441,-79.2708392,2,Birchmount Road (537),a
-43.7136441,-79.2708392,2,Birchmount Road (623),a
-43.7136441,-79.2708392,2,Birchmount Road (623),a
-43.7136699,-79.2729139,2,Elfreda Boulevard (353),a
-43.7136699,-79.2729139,2,Elfreda Boulevard (818),a
-43.7136705,-79.2757292,2,Pengelly Court (280),a
-43.7136705,-79.2757292,2,Pengelly Court (504),a
-43.7136769,-79.2737107,2,St Clair Avenue East (198),a
-43.7136769,-79.2737107,2,St Clair Avenue East (199),a
-43.7136769,-79.2737107,2,St Clair Avenue East (452),a
-43.7136769,-79.2737107,2,St Clair Avenue East (453),a
 43.7136985,-79.2446083,2,Chine Drive (525),a
 43.7136985,-79.2446083,2,Chine Drive (659),a
-43.7137011,-79.2729282,2,Elfreda Boulevard (358),a
-43.7137011,-79.2729282,2,Elfreda Boulevard (730),a
 43.7137049,-79.2384656,2,Brimley Road South (330),a
 43.7137049,-79.2384656,2,Brimley Road South (907),a
 43.7137104,-79.2336969,2,Eastville Avenue (748),a
@@ -2687,164 +663,42 @@ lat,lon,sz,names,len_cat
 43.7137104,-79.2336969,2,Sunnypoint Crescent (869),a
 43.7137104,-79.2336969,2,Sunnypoint Crescent (986),a
 43.7137104,-79.2336969,2,Sunnypoint Crescent (986),a
-43.7137321,-79.2651585,2,Dunlop Avenue (268),a
-43.7137321,-79.2651585,2,Dunlop Avenue (754),a
-43.7137406,-79.2733353,2,St Clair Avenue East (196),a
-43.7137406,-79.2733353,2,St Clair Avenue East (197),a
-43.7137406,-79.2733353,2,St Clair Avenue East (450),a
-43.7137406,-79.2733353,2,St Clair Avenue East (451),a
-43.7137476,-79.2604252,2,Kennedy Road (021),a
-43.7137476,-79.2604252,2,Kennedy Road (387),a
-43.7137513,-79.2709097,2,Birchmount Road (053),a
-43.7137513,-79.2709097,2,Birchmount Road (053),a
-43.7137513,-79.2709097,2,Birchmount Road (060),a
-43.7137513,-79.2709097,2,Birchmount Road (060),a
-43.7137513,-79.2709097,2,Birchmount Road (090),a
-43.7137513,-79.2709097,2,Birchmount Road (090),a
-43.7137513,-79.2709097,2,Birchmount Road (331),a
-43.7137513,-79.2709097,2,Birchmount Road (331),a
-43.7137513,-79.2709097,2,Birchmount Road (334),a
-43.7137513,-79.2709097,2,Birchmount Road (334),a
-43.7137513,-79.2709097,2,Birchmount Road (350),a
-43.7137513,-79.2709097,2,Birchmount Road (350),a
 43.7137624,-79.2446685,2,Chine Drive (526),a
 43.7137624,-79.2446685,2,Chine Drive (660),a
-43.7137741,-79.264974,2,Dunlop Avenue (262),a
-43.7137741,-79.264974,2,Dunlop Avenue (269),a
-43.7137741,-79.264974,2,Dunlop Avenue (748),a
-43.7137741,-79.264974,2,Dunlop Avenue (755),a
-43.7137741,-79.264974,2,North Bonnington Avenue (216),a
-43.7137741,-79.264974,2,North Bonnington Avenue (228),a
-43.7137741,-79.264974,2,North Bonnington Avenue (951),a
-43.7137814,-79.2757064,2,Pengelly Court (279),a
-43.7137814,-79.2757064,2,Pengelly Court (503),a
-43.7138008,-79.2729827,2,Elfreda Boulevard (352),a
-43.7138008,-79.2729827,2,Elfreda Boulevard (817),a
-43.7138008,-79.2729827,2,St Clair Avenue East (192),a
-43.7138008,-79.2729827,2,St Clair Avenue East (195),a
-43.7138008,-79.2729827,2,St Clair Avenue East (446),a
-43.7138008,-79.2729827,2,St Clair Avenue East (449),a
-43.7138046,-79.2710165,2,Birchmount Road (051),a
-43.7138046,-79.2710165,2,Birchmount Road (330),a
-43.7138072,-79.2648345,2,Dunlop Avenue (263),a
-43.7138072,-79.2648345,2,Dunlop Avenue (749),a
-43.7138101,-79.2672589,2,Silvio Avenue (918),a
-43.7138101,-79.2672589,2,Silvio Avenue (973),a
 43.7138168,-79.2446918,2,Chine Drive (527),a
 43.7138168,-79.2446918,2,Chine Drive (661),a
-43.713818,-79.2604534,2,Kennedy Road (473),a
-43.713818,-79.2604534,2,Kennedy Road (689),a
-43.7138247,-79.2616376,2,Hubert Avenue (453),a
-43.7138247,-79.2616376,2,Hubert Avenue (655),a
-43.7138322,-79.2708802,2,Birchmount Road (063),a
-43.7138322,-79.2708802,2,Birchmount Road (063),a
-43.7138322,-79.2708802,2,Birchmount Road (335),a
-43.7138322,-79.2708802,2,Birchmount Road (335),a
-43.7138476,-79.2727046,2,St Clair Avenue East (193),a
-43.7138476,-79.2727046,2,St Clair Avenue East (447),a
-43.7138495,-79.2616493,2,Hubert Avenue (048),a
 43.7138715,-79.2447398,2,Chine Drive (528),a
 43.7138715,-79.2447398,2,Chine Drive (662),a
-43.7138733,-79.2672695,2,Silvio Avenue (917),a
-43.7138733,-79.2672695,2,Silvio Avenue (972),a
-43.7138756,-79.2604765,2,Kennedy Road (181),a
-43.7138756,-79.2604765,2,Kennedy Road (966),a
-43.7138856,-79.2724792,2,St Clair Avenue East (191),a
-43.7138856,-79.2724792,2,St Clair Avenue East (194),a
-43.7138856,-79.2724792,2,St Clair Avenue East (445),a
-43.7138856,-79.2724792,2,St Clair Avenue East (448),a
-43.7139184,-79.2672806,2,Silvio Avenue (916),a
-43.7139184,-79.2672806,2,Silvio Avenue (971),a
-43.713927,-79.2722334,2,St Clair Avenue East (190),a
-43.713927,-79.2722334,2,St Clair Avenue East (444),a
 43.7139355,-79.2448,2,Chine Drive (529),a
 43.7139355,-79.2448,2,Chine Drive (529),a
 43.7139355,-79.2448,2,Chine Drive (663),a
 43.7139355,-79.2448,2,Chine Drive (663),a
-43.713972,-79.2717436,2,St Clair Avenue East (342),a
-43.713972,-79.2717436,2,St Clair Avenue East (528),a
 43.7139723,-79.2448486,2,Chine Drive (530),a
 43.7139723,-79.2448486,2,Chine Drive (530),a
 43.7139723,-79.2448486,2,Chine Drive (664),a
 43.7139723,-79.2448486,2,Chine Drive (664),a
-43.7139735,-79.2641325,2,Dunlop Avenue (264),a
-43.7139735,-79.2641325,2,Dunlop Avenue (750),a
-43.7139779,-79.2605176,2,Kennedy Road (180),a
-43.7139779,-79.2605176,2,Kennedy Road (965),a
-43.7139818,-79.2673036,2,Silvio Avenue (915),a
-43.7139818,-79.2673036,2,Silvio Avenue (970),a
-43.713988,-79.2718715,2,St Clair Avenue East (341),a
-43.713988,-79.2718715,2,St Clair Avenue East (348),a
-43.713988,-79.2718715,2,St Clair Avenue East (526),a
-43.713988,-79.2718715,2,St Clair Avenue East (555),a
 43.713989,-79.2324971,2,Brooklawn Avenue (286),a
 43.713989,-79.2324971,2,Brooklawn Avenue (664),a
 43.713989,-79.2324971,2,Sunnypoint Crescent (870),a
 43.713989,-79.2324971,2,Sunnypoint Crescent (871),a
 43.713989,-79.2324971,2,Sunnypoint Crescent (987),a
 43.713989,-79.2324971,2,Sunnypoint Crescent (988),a
-43.7139926,-79.2676059,2,Silvio Avenue (911),a
-43.7139926,-79.2676059,2,Silvio Avenue (966),a
 43.714009,-79.2448972,2,Chine Drive (531),a
 43.714009,-79.2448972,2,Chine Drive (531),a
 43.714009,-79.2448972,2,Chine Drive (665),a
 43.714009,-79.2448972,2,Chine Drive (665),a
-43.7140094,-79.2673401,2,Silvio Avenue (914),a
-43.7140094,-79.2673401,2,Silvio Avenue (969),a
-43.7140111,-79.2639741,2,Dunlop Avenue (265),a
-43.7140111,-79.2639741,2,Dunlop Avenue (274),a
-43.7140111,-79.2639741,2,Dunlop Avenue (751),a
-43.7140111,-79.2639741,2,Dunlop Avenue (760),a
-43.7140111,-79.2639741,2,Marsh Road (111),a
-43.7140111,-79.2639741,2,Marsh Road (879),a
-43.7140111,-79.2639741,2,Marsh Road (880),a
-43.7140243,-79.2711264,2,Birchmount Road (329),a
-43.7140274,-79.2675003,2,Silvio Avenue (912),a
-43.7140283,-79.2674016,2,Silvio Avenue (913),a
-43.7140283,-79.2674016,2,Silvio Avenue (968),a
-43.7140385,-79.2638492,2,Dunlop Avenue (275),a
-43.7140385,-79.2638492,2,Dunlop Avenue (761),a
-43.7140433,-79.2711361,2,Birchmount Road (049),a
-43.7140549,-79.2709916,2,Birchmount Road (336),a
-43.7140703,-79.2710022,2,Birchmount Road (065),a
 43.7140729,-79.2325313,2,Brooklawn Avenue (836),a
 43.7140729,-79.2325313,2,Brooklawn Avenue (942),a
 43.7140858,-79.2712735,2,St Clair Avenue East (343),a
 43.7140858,-79.2712735,2,St Clair Avenue East (530),a
-43.7140941,-79.261273,2,Danforth Road (391),a
-43.7140941,-79.261273,2,Danforth Road (781),a
-43.7140941,-79.261273,2,Danforth Road (783),a
-43.7141026,-79.2711714,2,Birchmount Road (047),a
-43.7141026,-79.2711714,2,Birchmount Road (070),a
-43.7141026,-79.2711714,2,Birchmount Road (328),a
-43.7141026,-79.2711714,2,Birchmount Road (339),a
-43.7141026,-79.2711714,2,St Clair Avenue East (344),a
-43.7141026,-79.2711714,2,St Clair Avenue East (353),a
-43.7141026,-79.2711714,2,St Clair Avenue East (533),a
-43.7141026,-79.2711714,2,St Clair Avenue East (571),a
 43.7141147,-79.2318975,2,Sunnypoint Crescent (872),a
 43.7141147,-79.2318975,2,Sunnypoint Crescent (989),a
-43.7141275,-79.2710346,2,Birchmount Road (055),a
-43.7141275,-79.2710346,2,Birchmount Road (067),a
-43.7141275,-79.2710346,2,Birchmount Road (332),a
-43.7141275,-79.2710346,2,Birchmount Road (337),a
-43.7141275,-79.2710346,2,St Clair Avenue East (349),a
-43.7141275,-79.2710346,2,St Clair Avenue East (354),a
-43.7141275,-79.2710346,2,St Clair Avenue East (562),a
-43.7141275,-79.2710346,2,St Clair Avenue East (572),a
-43.714145,-79.2709452,2,St Clair Avenue East (350),a
-43.714145,-79.2709452,2,St Clair Avenue East (563),a
 43.7141492,-79.2317972,2,Sunnypoint Crescent (873),a
 43.7141492,-79.2317972,2,Sunnypoint Crescent (990),a
 43.7141494,-79.2449185,2,Kingston Road (219),a
 43.7141494,-79.2449185,2,Kingston Road (219),a
 43.7141494,-79.2449185,2,Kingston Road (355),a
 43.7141494,-79.2449185,2,Kingston Road (355),a
-43.714157,-79.2605895,2,Kennedy Road (179),a
-43.7141759,-79.2630945,2,Dunlop Avenue (762),a
-43.7141811,-79.2707607,2,St Clair Avenue East (834),a
-43.7141811,-79.2707607,2,St Clair Avenue East (834),a
-43.7141811,-79.2707607,2,St Clair Avenue East (997),a
 43.7141844,-79.2317465,2,Sunnypoint Crescent (874),a
 43.7141844,-79.2317465,2,Sunnypoint Crescent (991),a
 43.7141938,-79.2817744,2,Roper Road (439),a
@@ -2855,66 +709,22 @@ lat,lon,sz,names,len_cat
 43.7142065,-79.2817156,2,Roper Road (109),a
 43.7142065,-79.2817156,2,Roper Road (617),a
 43.7142065,-79.2817156,2,Roper Road (617),a
-43.7142125,-79.2629275,2,Cotton Avenue (114),a
-43.7142125,-79.2629275,2,Cotton Avenue (119),a
-43.7142125,-79.2629275,2,Cotton Avenue (545),a
-43.7142125,-79.2629275,2,Cotton Avenue (550),a
-43.7142125,-79.2629275,2,Dunlop Avenue (277),a
-43.7142125,-79.2629275,2,Dunlop Avenue (278),a
-43.7142125,-79.2629275,2,Dunlop Avenue (763),a
-43.7142125,-79.2629275,2,Dunlop Avenue (764),a
 43.7142197,-79.2316958,2,Sunnypoint Crescent (875),a
 43.7142197,-79.2316958,2,Sunnypoint Crescent (992),a
-43.7142202,-79.2705614,2,St Clair Avenue East (351),a
-43.7142202,-79.2705614,2,St Clair Avenue East (351),a
-43.7142202,-79.2705614,2,St Clair Avenue East (564),a
-43.7142202,-79.2705614,2,St Clair Avenue East (564),a
-43.7142347,-79.26283,2,Dunlop Avenue (279),a
-43.7142347,-79.26283,2,Dunlop Avenue (765),a
 43.7142731,-79.231657,2,Sunnypoint Crescent (876),a
 43.7142731,-79.231657,2,Sunnypoint Crescent (993),a
-43.7142847,-79.2611628,2,Danforth Road (110),a
-43.7142847,-79.2611628,2,Danforth Road (111),a
-43.7142847,-79.2611628,2,Danforth Road (154),a
-43.7142847,-79.2611628,2,Danforth Road (155),a
 43.7143089,-79.2316436,2,Sunnypoint Crescent (877),a
 43.7143089,-79.2316436,2,Sunnypoint Crescent (994),a
-43.7143262,-79.2704218,2,St Clair Avenue East (352),a
-43.7143262,-79.2704218,2,St Clair Avenue East (352),a
-43.7143262,-79.2704218,2,St Clair Avenue East (381),a
-43.7143262,-79.2704218,2,St Clair Avenue East (381),a
-43.7143262,-79.2704218,2,St Clair Avenue East (565),a
-43.7143262,-79.2704218,2,St Clair Avenue East (565),a
-43.7143262,-79.2704218,2,St Clair Avenue East (573),a
-43.7143262,-79.2704218,2,St Clair Avenue East (573),a
 43.7143275,-79.2545205,2,Natal Avenue (219),a
 43.7143275,-79.2545205,2,Natal Avenue (225),a
 43.7143275,-79.2545205,2,Natal Avenue (875),a
 43.7143275,-79.2545205,2,Natal Avenue (881),a
 43.7143275,-79.2545205,2,Wilkie Avenue (628),a
 43.7143275,-79.2545205,2,Wilkie Avenue (886),a
-43.714338,-79.2706077,2,St Clair Avenue East (382),a
-43.714338,-79.2706077,2,St Clair Avenue East (382),a
-43.714338,-79.2706077,2,St Clair Avenue East (575),a
-43.714338,-79.2706077,2,St Clair Avenue East (575),a
-43.7143449,-79.2703472,2,St Clair Avenue East (188),a
-43.7143449,-79.2703472,2,St Clair Avenue East (188),a
-43.7143449,-79.2703472,2,St Clair Avenue East (442),a
-43.7143449,-79.2703472,2,St Clair Avenue East (442),a
 43.714345,-79.2544435,2,Wilkie Avenue (181),a
 43.714345,-79.2544435,2,Wilkie Avenue (410),a
 43.7143623,-79.2316048,2,Sunnypoint Crescent (878),a
 43.7143623,-79.2316048,2,Sunnypoint Crescent (995),a
-43.714376,-79.2702228,2,St Clair Avenue East (182),a
-43.714376,-79.2702228,2,St Clair Avenue East (182),a
-43.714376,-79.2702228,2,St Clair Avenue East (189),a
-43.714376,-79.2702228,2,St Clair Avenue East (189),a
-43.714376,-79.2702228,2,St Clair Avenue East (438),a
-43.714376,-79.2702228,2,St Clair Avenue East (438),a
-43.714376,-79.2702228,2,St Clair Avenue East (443),a
-43.714376,-79.2702228,2,St Clair Avenue East (443),a
-43.7143863,-79.261067,2,Danforth Road (112),a
-43.7143863,-79.261067,2,Danforth Road (156),a
 43.7144005,-79.280844,2,Mendelssohn Street (214),a
 43.7144005,-79.280844,2,Mendelssohn Street (214),a
 43.7144005,-79.280844,2,Mendelssohn Street (619),a
@@ -2927,12 +737,6 @@ lat,lon,sz,names,len_cat
 43.7144131,-79.2545555,2,Natal Avenue (876),a
 43.7144161,-79.2315908,2,Sunnypoint Crescent (879),a
 43.7144161,-79.2315908,2,Sunnypoint Crescent (996),a
-43.7144177,-79.2620276,2,Dunlop Avenue (766),a
-43.7144404,-79.2619279,2,Dunlop Avenue (767),a
-43.7144404,-79.2619279,2,Hubert Avenue (049),a
-43.7144404,-79.2619279,2,Hubert Avenue (050),a
-43.7144404,-79.2619279,2,Hubert Avenue (996),a
-43.7144404,-79.2619279,2,Hubert Avenue (997),a
 43.7144519,-79.2448289,2,Kingston Road (427),a
 43.7144519,-79.2448289,2,Kingston Road (427),a
 43.7144519,-79.2448289,2,Kingston Road (470),a
@@ -2941,18 +745,6 @@ lat,lon,sz,names,len_cat
 43.7144519,-79.2448289,2,Kingston Road (584),a
 43.7144519,-79.2448289,2,Kingston Road (622),a
 43.7144519,-79.2448289,2,Kingston Road (622),a
-43.7144524,-79.2699172,2,St Clair Avenue East (836),a
-43.7144524,-79.2699172,2,St Clair Avenue East (836),a
-43.7144524,-79.2699172,2,St Clair Avenue East (999),a
-43.7144524,-79.2699172,2,St Clair Avenue East (999),a
-43.7144527,-79.2607082,2,Kennedy Road (020),a
-43.7144527,-79.2607082,2,Kennedy Road (173),a
-43.7144527,-79.2607082,2,Kennedy Road (386),a
-43.7144527,-79.2607082,2,Kennedy Road (564),a
-43.7144628,-79.2611068,2,Danforth Road (109),a
-43.714463,-79.2609931,2,Danforth Road (113),a
-43.714463,-79.2609931,2,Danforth Road (140),a
-43.714463,-79.2609931,2,Danforth Road (157),a
 43.7144701,-79.2315892,2,Sunnypoint Crescent (880),a
 43.7144701,-79.2315892,2,Sunnypoint Crescent (997),a
 43.7144711,-79.2808836,2,Mendelssohn Street (215),a
@@ -2971,12 +763,8 @@ lat,lon,sz,names,len_cat
 43.714589,-79.2533709,2,Wilkie Avenue (630),a
 43.714589,-79.2533709,2,Wilkie Avenue (887),a
 43.714589,-79.2533709,2,Wilkie Avenue (888),a
-43.7145972,-79.2609166,2,Danforth Road (097),a
-43.7145972,-79.2609166,2,Danforth Road (141),a
 43.7146059,-79.2316348,2,Sunnypoint Crescent (882),a
 43.7146059,-79.2316348,2,Sunnypoint Crescent (999),a
-43.7146321,-79.2607769,2,Kennedy Road (172),a
-43.7146321,-79.2607769,2,Kennedy Road (563),a
 43.7146601,-79.2815333,2,Mendelssohn Street (594),a
 43.7146601,-79.2815333,2,Mendelssohn Street (594),a
 43.7146601,-79.2815333,2,Mendelssohn Street (923),a
@@ -2989,30 +777,14 @@ lat,lon,sz,names,len_cat
 43.7146655,-79.2813676,2,Mendelssohn Street (595),a
 43.7146655,-79.2813676,2,Mendelssohn Street (924),a
 43.7146655,-79.2813676,2,Mendelssohn Street (924),a
-43.7147022,-79.2689191,2,St Clair Avenue East (397),a
-43.7147022,-79.2689191,2,St Clair Avenue East (595),a
-43.7147022,-79.2689191,2,St Clair Avenue East (595),a
-43.7147149,-79.2609778,2,Danforth Road (108),a
-43.7147149,-79.2609778,2,Danforth Road (152),a
 43.7147227,-79.2811253,2,Mendelssohn Street (271),a
 43.7147227,-79.2811253,2,Mendelssohn Street (271),a
 43.7147227,-79.2811253,2,Mendelssohn Street (548),a
 43.7147227,-79.2811253,2,Mendelssohn Street (548),a
-43.7147383,-79.2687795,2,St Clair Avenue East (153),a
-43.7147383,-79.2687795,2,St Clair Avenue East (153),a
-43.7147383,-79.2687795,2,St Clair Avenue East (245),a
-43.7147383,-79.2687795,2,St Clair Avenue East (245),a
 43.7147384,-79.2810588,2,Mendelssohn Street (197),a
 43.7147384,-79.2810588,2,Mendelssohn Street (197),a
 43.7147384,-79.2810588,2,Mendelssohn Street (928),a
 43.7147384,-79.2810588,2,Mendelssohn Street (928),a
-43.7147447,-79.2608329,2,Danforth Road (098),a
-43.7147447,-79.2608329,2,Danforth Road (103),a
-43.7147447,-79.2608329,2,Danforth Road (142),a
-43.7147447,-79.2608329,2,Danforth Road (147),a
-43.7147447,-79.2608329,2,Kennedy Road (027),a
-43.7147447,-79.2608329,2,Kennedy Road (393),a
-43.7147447,-79.2608329,2,Kennedy Road (562),a
 43.7147534,-79.2809955,2,Mendelssohn Street (216),a
 43.7147534,-79.2809955,2,Mendelssohn Street (216),a
 43.7147534,-79.2809955,2,Mendelssohn Street (621),a
@@ -3029,20 +801,10 @@ lat,lon,sz,names,len_cat
 43.7148328,-79.2522342,2,Wilkie Avenue (889),a
 43.7148776,-79.2317386,2,Sunnypoint Crescent (000),a
 43.7148776,-79.2317386,2,Sunnypoint Crescent (883),a
-43.7148808,-79.2607492,2,Danforth Road (104),a
-43.7148808,-79.2607492,2,Danforth Road (148),a
 43.7148824,-79.2714776,2,Birchmount Road (003),a
 43.7148824,-79.2714776,2,Birchmount Road (770),a
 43.7148824,-79.2714776,2,Birchmount Road (775),a
 43.7148824,-79.2714776,2,Birchmount Road (990),a
-43.7148903,-79.2608847,2,Danforth Road (102),a
-43.7148903,-79.2608847,2,Danforth Road (107),a
-43.7148903,-79.2608847,2,Danforth Road (146),a
-43.7148903,-79.2608847,2,Danforth Road (151),a
-43.7148903,-79.2608847,2,Kennedy Road (028),a
-43.7148903,-79.2608847,2,Kennedy Road (263),a
-43.7148903,-79.2608847,2,Kennedy Road (394),a
-43.7148903,-79.2608847,2,Kennedy Road (915),a
 43.7148905,-79.2389685,2,Brimley Road South (332),a
 43.7148905,-79.2389685,2,Brimley Road South (355),a
 43.7148905,-79.2389685,2,Brimley Road South (909),a
@@ -3051,14 +813,10 @@ lat,lon,sz,names,len_cat
 43.7149022,-79.2794633,2,Howe Avenue (938),a
 43.7149798,-79.2547871,2,Natal Avenue (221),a
 43.7149798,-79.2547871,2,Natal Avenue (877),a
-43.7149857,-79.2609159,2,Kennedy Road (262),a
-43.7149857,-79.2609159,2,Kennedy Road (914),a
 43.7149941,-79.2510589,2,Heale Avenue (175),a
 43.7149941,-79.2510589,2,Heale Avenue (404),a
 43.7150135,-79.251067,2,Heale Avenue (174),a
 43.7150135,-79.251067,2,Heale Avenue (403),a
-43.7150196,-79.2608017,2,Danforth Road (101),a
-43.7150196,-79.2608017,2,Danforth Road (145),a
 43.7150571,-79.2705861,2,Pine Hills Cemetery Crossing (215),a
 43.7150571,-79.2705861,2,Pine Hills Cemetery Crossing (215),a
 43.7150571,-79.2705861,2,Pine Hills Cemetery Crossing (865),a
@@ -3087,8 +845,6 @@ lat,lon,sz,names,len_cat
 43.7150855,-79.2510972,2,Wilkie Avenue (632),a
 43.7150855,-79.2510972,2,Wilkie Avenue (885),a
 43.7150855,-79.2510972,2,Wilkie Avenue (890),a
-43.7150877,-79.2674281,2,St Clair Avenue East (152),a
-43.7150877,-79.2674281,2,St Clair Avenue East (244),a
 43.715124,-79.2736903,2,Anaconda Avenue (212),a
 43.715124,-79.2736903,2,Anaconda Avenue (479),a
 43.7151351,-79.2811554,2,Mendelssohn Street (219),a
@@ -3103,29 +859,20 @@ lat,lon,sz,names,len_cat
 43.7151351,-79.2811554,2,Tranter Trail (169),a
 43.7151351,-79.2811554,2,Tranter Trail (690),a
 43.7151351,-79.2811554,2,Tranter Trail (690),a
-43.7151369,-79.2666492,2,North Woodrow Boulevard (232),a
-43.7151369,-79.2666492,2,North Woodrow Boulevard (243),a
 43.7151651,-79.2810284,2,Tranter Trail (170),a
 43.7151651,-79.2810284,2,Tranter Trail (170),a
 43.7151651,-79.2810284,2,Tranter Trail (691),a
 43.7151651,-79.2810284,2,Tranter Trail (691),a
-43.7151651,-79.2666606,2,North Woodrow Boulevard (677),a
-43.7151651,-79.2666606,2,North Woodrow Boulevard (905),a
 43.7151657,-79.2511302,2,Heale Avenue (170),a
 43.7151657,-79.2511302,2,Heale Avenue (399),a
 43.7151903,-79.2511403,2,Heale Avenue (171),a
 43.7151903,-79.2511403,2,Heale Avenue (400),a
-43.7151957,-79.2605901,2,Danforth Road (105),a
-43.7151957,-79.2605901,2,Danforth Road (149),a
-43.7152041,-79.2606815,2,Danforth Road (100),a
-43.7152041,-79.2606815,2,Danforth Road (144),a
+43.7152094,-79.2706012,2,Pine Hills Cemetery Crossing (224),a
 43.7152094,-79.2706012,2,Pine Hills Cemetery Crossing (224),a
 43.7152094,-79.2706012,2,Pine Hills Cemetery Crossing (874),a
 43.7152094,-79.2706012,2,Pine Hills Cemetery Crossing (874),a
 43.7152336,-79.2547968,2,Natal Avenue (223),a
 43.7152336,-79.2547968,2,Natal Avenue (879),a
-43.7152478,-79.266809,2,St Clair Avenue East (696),a
-43.7152478,-79.266809,2,St Clair Avenue East (850),a
 43.7152534,-79.2806495,2,Tranter Trail (172),a
 43.7152534,-79.2806495,2,Tranter Trail (172),a
 43.7152534,-79.2806495,2,Tranter Trail (693),a
@@ -3136,14 +883,8 @@ lat,lon,sz,names,len_cat
 43.7152545,-79.2391198,2,Brimley Road South (354),a
 43.7152545,-79.2391198,2,Brimley Road South (927),a
 43.7152545,-79.2391198,2,Brimley Road South (931),a
-43.7152748,-79.2667047,2,North Woodrow Boulevard (233),a
-43.7152748,-79.2667047,2,North Woodrow Boulevard (244),a
-43.7152748,-79.2667047,2,St Clair Avenue East (398),a
-43.7152748,-79.2667047,2,St Clair Avenue East (596),a
 43.7152819,-79.2389822,2,Barkdene Hills (761),a
 43.7152819,-79.2389822,2,Barkdene Hills (879),a
-43.7152843,-79.2666677,2,St Clair Avenue East (697),a
-43.7152843,-79.2666677,2,St Clair Avenue East (851),a
 43.7152853,-79.2785249,2,Pethick Street (001),a
 43.7152853,-79.2785249,2,Pethick Street (684),a
 43.7152853,-79.2785249,2,Pidgeon Street (681),a
@@ -3182,16 +923,8 @@ lat,lon,sz,names,len_cat
 43.715352,-79.2461614,2,Chine Drive (592),a
 43.7153642,-79.278387,2,Pidgeon Street (680),a
 43.7153642,-79.278387,2,Pidgeon Street (917),a
-43.7153791,-79.2605508,2,Danforth Road (099),a
-43.7153791,-79.2605508,2,Danforth Road (106),a
-43.7153791,-79.2605508,2,Danforth Road (143),a
-43.7153791,-79.2605508,2,Danforth Road (150),a
-43.7153791,-79.2605508,2,Danforth Road (327),a
-43.7153791,-79.2605508,2,Danforth Road (371),a
 43.7154014,-79.280397,2,Tranter Trail (174),a
 43.7154014,-79.280397,2,Tranter Trail (695),a
-43.7154108,-79.2656629,2,North Bonnington Avenue (217),a
-43.7154108,-79.2656629,2,North Bonnington Avenue (952),a
 43.7154124,-79.2383806,2,Barkdene Hills (762),a
 43.7154124,-79.2383806,2,Barkdene Hills (769),a
 43.7154124,-79.2383806,2,Barkdene Hills (880),a
@@ -3202,8 +935,6 @@ lat,lon,sz,names,len_cat
 43.7154159,-79.2462216,2,Chine Drive (459),a
 43.7154159,-79.2462216,2,Chine Drive (593),a
 43.7154159,-79.2462216,2,Chine Drive (593),a
-43.7154296,-79.2656704,2,North Bonnington Avenue (674),a
-43.7154296,-79.2656704,2,North Bonnington Avenue (902),a
 43.715435,-79.281285,2,Mendelssohn Street (221),a
 43.715435,-79.281285,2,Mendelssohn Street (221),a
 43.715435,-79.281285,2,Mendelssohn Street (626),a
@@ -3242,10 +973,6 @@ lat,lon,sz,names,len_cat
 43.7155262,-79.2463673,2,Chine Drive (595),a
 43.7155266,-79.2384305,2,Thatcher Avenue (443),a
 43.7155266,-79.2384305,2,Thatcher Avenue (809),a
-43.7155288,-79.2657101,2,North Bonnington Avenue (218),a
-43.7155288,-79.2657101,2,North Bonnington Avenue (953),a
-43.7155288,-79.2657101,2,St Clair Avenue East (399),a
-43.7155288,-79.2657101,2,St Clair Avenue East (597),a
 43.7155384,-79.2799114,2,Tranter Trail (179),a
 43.7155384,-79.2799114,2,Tranter Trail (700),a
 43.7155389,-79.2802808,2,Gerigs Street (650),a
@@ -3302,8 +1029,6 @@ lat,lon,sz,names,len_cat
 43.7156214,-79.2434963,2,Kingston Road (942),a
 43.7156305,-79.2749589,2,Chestnut Crescent (700),a
 43.7156305,-79.2749589,2,Chestnut Crescent (709),a
-43.7156435,-79.2646363,2,Marsh Road (112),a
-43.7156435,-79.2646363,2,Marsh Road (881),a
 43.7156526,-79.2463885,2,Montvale Drive (594),a
 43.7156526,-79.2463885,2,Montvale Drive (594),a
 43.7156526,-79.2463885,2,Montvale Drive (661),a
@@ -3316,8 +1041,6 @@ lat,lon,sz,names,len_cat
 43.7156652,-79.2466239,2,Chine Drive (446),a
 43.7156652,-79.2466239,2,Chine Drive (580),a
 43.7156652,-79.2466239,2,Chine Drive (580),a
-43.7156679,-79.2646457,2,Marsh Road (678),a
-43.7156679,-79.2646457,2,Marsh Road (906),a
 43.7156705,-79.2798054,2,Howe Avenue (213),a
 43.7156705,-79.2798054,2,Howe Avenue (944),a
 43.7156848,-79.2371589,2,Barkdene Hills (763),a
@@ -3328,8 +1051,6 @@ lat,lon,sz,names,len_cat
 43.7156848,-79.2371589,2,St Quentin Avenue (992),a
 43.7156939,-79.2758885,2,Willowmount Drive (220),a
 43.7156939,-79.2758885,2,Willowmount Drive (364),a
-43.7156985,-79.2604023,2,Danforth Road (020),a
-43.7156985,-79.2604023,2,Danforth Road (567),a
 43.7156999,-79.2819773,2,Mendelssohn Street (597),a
 43.7156999,-79.2819773,2,Mendelssohn Street (597),a
 43.7156999,-79.2819773,2,Mendelssohn Street (926),a
@@ -3370,10 +1091,6 @@ lat,lon,sz,names,len_cat
 43.7157681,-79.2805002,2,Ayers Crescent (211),a
 43.7157681,-79.2805002,2,Ayers Crescent (942),a
 43.7157681,-79.2805002,2,Ayers Crescent (942),a
-43.7157694,-79.2646845,2,Marsh Road (113),a
-43.7157694,-79.2646845,2,Marsh Road (882),a
-43.7157694,-79.2646845,2,St Clair Avenue East (400),a
-43.7157694,-79.2646845,2,St Clair Avenue East (598),a
 43.7157797,-79.2372108,2,St Quentin Avenue (973),a
 43.7157797,-79.2372108,2,St Quentin Avenue (993),a
 43.7157856,-79.2803898,2,Ayers Crescent (210),a
@@ -3396,8 +1113,6 @@ lat,lon,sz,names,len_cat
 43.7158207,-79.2461973,2,Montvale Drive (664),a
 43.7158219,-79.2734698,2,Anaconda Avenue (218),a
 43.7158219,-79.2734698,2,Anaconda Avenue (483),a
-43.7158451,-79.2625126,2,Hubert Avenue (683),a
-43.7158451,-79.2625126,2,Hubert Avenue (941),a
 43.7158556,-79.2461219,2,Montvale Drive (598),a
 43.7158556,-79.2461219,2,Montvale Drive (598),a
 43.7158556,-79.2461219,2,Montvale Drive (665),a
@@ -3414,12 +1129,8 @@ lat,lon,sz,names,len_cat
 43.7158646,-79.2332612,2,Sunnypoint Crescent (009),a
 43.7158646,-79.2332612,2,Sunnypoint Crescent (892),a
 43.7158646,-79.2332612,2,Sunnypoint Crescent (892),a
-43.7158755,-79.2636278,2,Cotton Avenue (115),a
-43.7158755,-79.2636278,2,Cotton Avenue (546),a
 43.7158758,-79.232243,2,Sunnypoint Crescent (003),a
 43.7158758,-79.232243,2,Sunnypoint Crescent (886),a
-43.7158958,-79.2636362,2,Cotton Avenue (675),a
-43.7158958,-79.2636362,2,Cotton Avenue (903),a
 43.7158993,-79.2460337,2,Montvale Drive (599),a
 43.7158993,-79.2460337,2,Montvale Drive (599),a
 43.7158993,-79.2460337,2,Montvale Drive (666),a
@@ -3466,10 +1177,6 @@ lat,lon,sz,names,len_cat
 43.715972,-79.2326374,2,Sunnypoint Crescent (006),a
 43.715972,-79.2326374,2,Sunnypoint Crescent (889),a
 43.715972,-79.2326374,2,Sunnypoint Crescent (889),a
-43.7159887,-79.2636747,2,Cotton Avenue (116),a
-43.7159887,-79.2636747,2,Cotton Avenue (547),a
-43.7159887,-79.2636747,2,St Clair Avenue East (401),a
-43.7159887,-79.2636747,2,St Clair Avenue East (599),a
 43.7160007,-79.2820156,2,Mendelssohn Street (593),a
 43.7160007,-79.2820156,2,Mendelssohn Street (593),a
 43.7160007,-79.2820156,2,Mendelssohn Street (922),a
@@ -3478,8 +1185,6 @@ lat,lon,sz,names,len_cat
 43.7160034,-79.2457824,2,Montvale Drive (601),a
 43.7160034,-79.2457824,2,Montvale Drive (668),a
 43.7160034,-79.2457824,2,Montvale Drive (668),a
-43.7160125,-79.2602563,2,Danforth Road (019),a
-43.7160125,-79.2602563,2,Danforth Road (566),a
 43.7160275,-79.2768129,2,Chestnut Crescent (707),a
 43.7160275,-79.2768129,2,Chestnut Crescent (716),a
 43.7160289,-79.2456823,2,Montvale Drive (602),a
@@ -3524,8 +1229,6 @@ lat,lon,sz,names,len_cat
 43.7160867,-79.2815667,2,Mendelssohn Street (225),a
 43.7160867,-79.2815667,2,Mendelssohn Street (630),a
 43.7160867,-79.2815667,2,Mendelssohn Street (630),a
-43.7161013,-79.2626192,2,Hubert Avenue (051),a
-43.7161013,-79.2626192,2,Hubert Avenue (998),a
 43.7161074,-79.2455187,2,Montvale Drive (606),a
 43.7161074,-79.2455187,2,Montvale Drive (606),a
 43.7161074,-79.2455187,2,Montvale Drive (673),a
@@ -3534,8 +1237,6 @@ lat,lon,sz,names,len_cat
 43.7161174,-79.2613089,2,Kennedy Road (879),a
 43.7161203,-79.2611931,2,Kennedy Road (232),a
 43.7161203,-79.2611931,2,Kennedy Road (884),a
-43.7161222,-79.2626266,2,Hubert Avenue (676),a
-43.7161222,-79.2626266,2,Hubert Avenue (904),a
 43.7161238,-79.2799789,2,Howe Avenue (661),a
 43.7161238,-79.2799789,2,Howe Avenue (933),a
 43.7161238,-79.2799789,2,Winkler Terrace (671),a
@@ -3574,10 +1275,6 @@ lat,lon,sz,names,len_cat
 43.7161867,-79.2612062,2,Kennedy Road (774),a
 43.7161961,-79.2800027,2,Howe Avenue (214),a
 43.7161961,-79.2800027,2,Howe Avenue (945),a
-43.7162204,-79.2626614,2,Hubert Avenue (052),a
-43.7162204,-79.2626614,2,Hubert Avenue (999),a
-43.7162204,-79.2626614,2,St Clair Avenue East (402),a
-43.7162204,-79.2626614,2,St Clair Avenue East (600),a
 43.7162248,-79.2455401,2,Montvale Drive (609),a
 43.7162248,-79.2455401,2,Montvale Drive (609),a
 43.7162248,-79.2455401,2,Montvale Drive (676),a
@@ -3612,15 +1309,6 @@ lat,lon,sz,names,len_cat
 43.7163389,-79.2342404,2,Barkdene Hills (749),a
 43.7163389,-79.2342404,2,Barkdene Hills (867),a
 43.7163389,-79.2342404,2,Barkdene Hills (867),a
-43.7163402,-79.2621982,2,St Clair Avenue East (421),a
-43.7163402,-79.2621982,2,St Clair Avenue East (841),a
-43.7163547,-79.261894,2,St Clair Avenue East (273),a
-43.7163547,-79.261894,2,St Clair Avenue East (995),a
-43.7163798,-79.2620451,2,St Clair Avenue East (009),a
-43.7163798,-79.2620451,2,St Clair Avenue East (272),a
-43.7163798,-79.2620451,2,St Clair Avenue East (279),a
-43.7163798,-79.2620451,2,St Clair Avenue East (601),a
-43.7163798,-79.2620451,2,St Clair Avenue East (994),a
 43.7163827,-79.2341646,2,Barkdene Hills (750),a
 43.7163827,-79.2341646,2,Barkdene Hills (750),a
 43.7163827,-79.2341646,2,Barkdene Hills (868),a
@@ -3631,38 +1319,16 @@ lat,lon,sz,names,len_cat
 43.7163865,-79.2821372,2,Deans Drive (204),a
 43.7163865,-79.2821372,2,Deans Drive (935),a
 43.7163865,-79.2821372,2,Deans Drive (935),a
-43.7163873,-79.2613794,2,Kennedy Road (226),a
-43.7163873,-79.2613794,2,Kennedy Road (878),a
-43.7164058,-79.2612492,2,Kennedy Road (233),a
-43.7164058,-79.2612492,2,Kennedy Road (885),a
-43.716411,-79.260071,2,Danforth Road (305),a
-43.716411,-79.260071,2,Danforth Road (326),a
-43.716411,-79.260071,2,Danforth Road (349),a
-43.716411,-79.260071,2,Danforth Road (370),a
 43.7164121,-79.2744268,2,Chestnut Crescent (695),a
 43.7164121,-79.2744268,2,Chestnut Crescent (704),a
 43.7164266,-79.2340888,2,Barkdene Hills (751),a
 43.7164266,-79.2340888,2,Barkdene Hills (751),a
 43.7164266,-79.2340888,2,Barkdene Hills (869),a
 43.7164266,-79.2340888,2,Barkdene Hills (869),a
-43.7164351,-79.2615207,2,St Clair Avenue East (274),a
-43.7164351,-79.2615207,2,St Clair Avenue East (999),a
 43.7164483,-79.281723,2,Mendelssohn Street (226),a
 43.7164483,-79.281723,2,Mendelssohn Street (226),a
 43.7164483,-79.281723,2,Mendelssohn Street (631),a
 43.7164483,-79.281723,2,Mendelssohn Street (631),a
-43.71645,-79.2600531,2,Danforth Road (311),a
-43.71645,-79.2600531,2,Danforth Road (985),a
-43.7164553,-79.2619183,2,St Clair Avenue East (008),a
-43.7164553,-79.2619183,2,St Clair Avenue East (278),a
-43.7164612,-79.2613947,2,Kennedy Road (225),a
-43.7164612,-79.2613947,2,Kennedy Road (230),a
-43.7164612,-79.2613947,2,Kennedy Road (877),a
-43.7164612,-79.2613947,2,Kennedy Road (882),a
-43.7164612,-79.2613947,2,St Clair Avenue East (000),a
-43.7164612,-79.2613947,2,St Clair Avenue East (022),a
-43.7164612,-79.2613947,2,St Clair Avenue East (275),a
-43.7164612,-79.2613947,2,St Clair Avenue East (281),a
 43.7164708,-79.2340379,2,Barkdene Hills (752),a
 43.7164708,-79.2340379,2,Barkdene Hills (752),a
 43.7164708,-79.2340379,2,Barkdene Hills (870),a
@@ -3671,14 +1337,6 @@ lat,lon,sz,names,len_cat
 43.7164796,-79.2818331,2,Deans Drive (206),a
 43.7164796,-79.2818331,2,Deans Drive (937),a
 43.7164796,-79.2818331,2,Deans Drive (937),a
-43.7164913,-79.2612599,2,Kennedy Road (234),a
-43.7164913,-79.2612599,2,Kennedy Road (259),a
-43.7164913,-79.2612599,2,Kennedy Road (886),a
-43.7164913,-79.2612599,2,Kennedy Road (911),a
-43.7164913,-79.2612599,2,St Clair Avenue East (023),a
-43.7164913,-79.2612599,2,St Clair Avenue East (029),a
-43.7164913,-79.2612599,2,St Clair Avenue East (383),a
-43.7164913,-79.2612599,2,St Clair Avenue East (384),a
 43.7165066,-79.2817482,2,Deans Drive (203),a
 43.7165066,-79.2817482,2,Deans Drive (203),a
 43.7165066,-79.2817482,2,Deans Drive (934),a
@@ -3693,14 +1351,10 @@ lat,lon,sz,names,len_cat
 43.7165148,-79.2339745,2,Barkdene Hills (753),a
 43.7165148,-79.2339745,2,Barkdene Hills (871),a
 43.7165148,-79.2339745,2,Barkdene Hills (871),a
-43.7165213,-79.2611303,2,St Clair Avenue East (030),a
-43.7165213,-79.2611303,2,St Clair Avenue East (385),a
 43.71653,-79.2738257,2,Chestnut Crescent (694),a
 43.71653,-79.2738257,2,Chestnut Crescent (703),a
 43.7165314,-79.2660167,2,Pine Hills Cemetery Crossing (229),a
 43.7165314,-79.2660167,2,Pine Hills Cemetery Crossing (879),a
-43.7165346,-79.2615461,2,St Clair Avenue East (007),a
-43.7165346,-79.2615461,2,St Clair Avenue East (277),a
 43.716536,-79.2779897,2,Pidgeon Street (677),a
 43.716536,-79.2779897,2,Pidgeon Street (914),a
 43.716536,-79.2779897,2,Winkler Terrace (674),a
@@ -3721,43 +1375,20 @@ lat,lon,sz,names,len_cat
 43.7165607,-79.2812318,2,Ayers Crescent (497),a
 43.7165607,-79.2812318,2,Ayers Crescent (642),a
 43.7165607,-79.2812318,2,Ayers Crescent (642),a
-43.7165641,-79.2614166,2,Kennedy Road (229),a
-43.7165641,-79.2614166,2,Kennedy Road (238),a
-43.7165641,-79.2614166,2,Kennedy Road (881),a
-43.7165641,-79.2614166,2,Kennedy Road (890),a
-43.7165641,-79.2614166,2,St Clair Avenue East (006),a
-43.7165641,-79.2614166,2,St Clair Avenue East (015),a
-43.7165641,-79.2614166,2,St Clair Avenue East (276),a
-43.7165641,-79.2614166,2,St Clair Avenue East (280),a
 43.7165644,-79.2736691,2,Anaconda Avenue (206),a
 43.7165644,-79.2736691,2,Anaconda Avenue (220),a
 43.7165644,-79.2736691,2,Anaconda Avenue (476),a
 43.7165644,-79.2736691,2,Anaconda Avenue (485),a
 43.7165644,-79.2736691,2,Chestnut Crescent (693),a
 43.7165644,-79.2736691,2,Chestnut Crescent (702),a
-43.716591,-79.261278,2,Kennedy Road (221),a
-43.716591,-79.261278,2,Kennedy Road (260),a
-43.716591,-79.261278,2,Kennedy Road (912),a
-43.716591,-79.261278,2,St Clair Avenue East (014),a
-43.716591,-79.261278,2,St Clair Avenue East (195),a
-43.716591,-79.261278,2,St Clair Avenue East (360),a
-43.716591,-79.261278,2,St Clair Avenue East (382),a
 43.7165941,-79.2338605,2,Barkdene Hills (755),a
 43.7165941,-79.2338605,2,Barkdene Hills (755),a
 43.7165941,-79.2338605,2,Barkdene Hills (873),a
 43.7165941,-79.2338605,2,Barkdene Hills (873),a
-43.7165979,-79.2608265,2,St Clair Avenue East (005),a
-43.7165979,-79.2608265,2,St Clair Avenue East (775),a
 43.7166081,-79.2464599,2,Kidbrooke Crescent (080),a
 43.7166081,-79.2464599,2,Kidbrooke Crescent (080),a
 43.7166081,-79.2464599,2,Kidbrooke Crescent (557),a
 43.7166081,-79.2464599,2,Kidbrooke Crescent (557),a
-43.7166097,-79.2607798,2,St Clair Avenue East (031),a
-43.7166097,-79.2607798,2,St Clair Avenue East (280),a
-43.7166097,-79.2607798,2,St Clair Avenue East (386),a
-43.7166097,-79.2607798,2,St Clair Avenue East (788),a
-43.716616,-79.2611561,2,St Clair Avenue East (194),a
-43.716616,-79.2611561,2,St Clair Avenue East (631),a
 43.7166161,-79.2463976,2,Kidbrooke Crescent (078),a
 43.7166161,-79.2463976,2,Kidbrooke Crescent (078),a
 43.7166161,-79.2463976,2,Kidbrooke Crescent (556),a
@@ -3776,8 +1407,6 @@ lat,lon,sz,names,len_cat
 43.7166203,-79.23381,2,Barkdene Hills (874),a
 43.7166299,-79.2467075,2,Kidbrooke Crescent (086),a
 43.7166299,-79.2467075,2,Kidbrooke Crescent (560),a
-43.7166319,-79.2614315,2,Kennedy Road (237),a
-43.7166319,-79.2614315,2,Kennedy Road (889),a
 43.7166385,-79.2812665,2,Ayers Crescent (496),a
 43.7166385,-79.2812665,2,Ayers Crescent (496),a
 43.7166385,-79.2812665,2,Ayers Crescent (641),a
@@ -3806,10 +1435,6 @@ lat,lon,sz,names,len_cat
 43.7166511,-79.280191,2,Howe Avenue (659),a
 43.7166511,-79.280191,2,Howe Avenue (930),a
 43.7166511,-79.280191,2,Howe Avenue (931),a
-43.71666,-79.2605662,2,St Clair Avenue East (273),a
-43.71666,-79.2605662,2,St Clair Avenue East (627),a
-43.7166614,-79.2612934,2,Kennedy Road (222),a
-43.7166614,-79.2612934,2,Kennedy Road (874),a
 43.7166647,-79.2811462,2,Deans Drive (199),a
 43.7166647,-79.2811462,2,Deans Drive (199),a
 43.7166647,-79.2811462,2,Deans Drive (930),a
@@ -3826,6 +1451,7 @@ lat,lon,sz,names,len_cat
 43.716674,-79.2336997,2,Barkdene Hills (876),a
 43.716681,-79.2800603,2,Ferguson Street (668),a
 43.716681,-79.2800603,2,Ferguson Street (942),a
+43.7166845,-79.2695453,2,Pine Hills Cemetery Crossing (217),a
 43.7166845,-79.2695453,2,Pine Hills Cemetery Crossing (217),a
 43.7166845,-79.2695453,2,Pine Hills Cemetery Crossing (867),a
 43.7166845,-79.2695453,2,Pine Hills Cemetery Crossing (867),a
@@ -3847,12 +1473,6 @@ lat,lon,sz,names,len_cat
 43.7167159,-79.2809116,2,Deans Drive (931),a
 43.7167226,-79.2468786,2,Kidbrooke Crescent (092),a
 43.7167226,-79.2468786,2,Kidbrooke Crescent (563),a
-43.7167257,-79.2602875,2,St Clair Avenue East (248),a
-43.7167257,-79.2602875,2,St Clair Avenue East (281),a
-43.7167257,-79.2602875,2,St Clair Avenue East (383),a
-43.7167257,-79.2602875,2,St Clair Avenue East (789),a
-43.7167319,-79.2599304,2,Danforth Road (304),a
-43.7167319,-79.2599304,2,Danforth Road (348),a
 43.7167399,-79.2808015,2,Deans Drive (385),a
 43.7167399,-79.2808015,2,Deans Drive (385),a
 43.7167399,-79.2808015,2,Deans Drive (634),a
@@ -3861,10 +1481,6 @@ lat,lon,sz,names,len_cat
 43.7167399,-79.2808015,2,Gerigs Street (654),a
 43.7167399,-79.2808015,2,Gerigs Street (763),a
 43.7167399,-79.2808015,2,Gerigs Street (763),a
-43.7167465,-79.2606445,2,St Clair Avenue East (193),a
-43.7167465,-79.2606445,2,St Clair Avenue East (215),a
-43.7167465,-79.2606445,2,St Clair Avenue East (630),a
-43.7167465,-79.2606445,2,St Clair Avenue East (634),a
 43.7167504,-79.2457606,2,Kidbrooke Crescent (075),a
 43.7167504,-79.2457606,2,Kidbrooke Crescent (075),a
 43.7167504,-79.2457606,2,Kidbrooke Crescent (555),a
@@ -3881,8 +1497,6 @@ lat,lon,sz,names,len_cat
 43.716771,-79.2336566,2,Brooklawn Avenue (282),a
 43.716771,-79.2336566,2,Brooklawn Avenue (660),a
 43.716771,-79.2336566,2,Brooklawn Avenue (660),a
-43.7167789,-79.2600558,2,St Clair Avenue East (249),a
-43.7167789,-79.2600558,2,St Clair Avenue East (384),a
 43.7167863,-79.2469264,2,Kidbrooke Crescent (094),a
 43.7167863,-79.2469264,2,Kidbrooke Crescent (564),a
 43.7167879,-79.2802756,2,Howe Avenue (657),a
@@ -3893,14 +1507,6 @@ lat,lon,sz,names,len_cat
 43.716807,-79.280357,2,Howe Avenue (656),a
 43.716807,-79.280357,2,Howe Avenue (928),a
 43.716807,-79.280357,2,Howe Avenue (928),a
-43.7168158,-79.2598777,2,Danforth Road (094),a
-43.7168158,-79.2598777,2,Danforth Road (138),a
-43.7168158,-79.2598777,2,Danforth Road (303),a
-43.7168158,-79.2598777,2,Danforth Road (347),a
-43.7168158,-79.2598777,2,St Clair Avenue East (224),a
-43.7168158,-79.2598777,2,St Clair Avenue East (250),a
-43.7168158,-79.2598777,2,St Clair Avenue East (368),a
-43.7168158,-79.2598777,2,St Clair Avenue East (385),a
 43.716822,-79.2804248,2,Deans Drive (384),a
 43.716822,-79.2804248,2,Deans Drive (384),a
 43.716822,-79.2804248,2,Deans Drive (633),a
@@ -3925,12 +1531,11 @@ lat,lon,sz,names,len_cat
 43.7168699,-79.2803213,2,Howe Avenue (169),a
 43.7168699,-79.2803213,2,Howe Avenue (317),a
 43.7168699,-79.2803213,2,Howe Avenue (317),a
-43.7168817,-79.2599984,2,St Clair Avenue East (211),a
-43.7168817,-79.2599984,2,St Clair Avenue East (633),a
 43.7168834,-79.2778219,2,Pidgeon Street (676),a
 43.7168834,-79.2778219,2,Pidgeon Street (913),a
 43.7169164,-79.2593853,2,St Clair Avenue East (227),a
 43.7169164,-79.2593853,2,St Clair Avenue East (371),a
+43.7169231,-79.2598205,2,Danforth Road (095),a
 43.7169231,-79.2598205,2,Danforth Road (139),a
 43.7169231,-79.2598205,2,Danforth Road (330),a
 43.7169231,-79.2598205,2,Danforth Road (374),a
@@ -3955,6 +1560,7 @@ lat,lon,sz,names,len_cat
 43.7169951,-79.275215,2,Willowmount Drive (218),a
 43.7169951,-79.275215,2,Willowmount Drive (362),a
 43.7169958,-79.2594665,2,St Clair Avenue East (178),a
+43.7169958,-79.2594665,2,St Clair Avenue East (265),a
 43.7169958,-79.2594665,2,St Clair Avenue East (635),a
 43.7169958,-79.2594665,2,St Clair Avenue East (795),a
 43.717,-79.2597872,2,Danforth Road (329),a
@@ -3990,6 +1596,7 @@ lat,lon,sz,names,len_cat
 43.7170858,-79.233635,2,Broadmead Avenue (927),a
 43.7170858,-79.233635,2,Broadmead Avenue (927),a
 43.717107,-79.2597388,2,Danforth Road (021),a
+43.717107,-79.2597388,2,Danforth Road (568),a
 43.7171119,-79.2335721,2,Broadmead Avenue (225),a
 43.7171119,-79.2335721,2,Broadmead Avenue (225),a
 43.7171119,-79.2335721,2,Broadmead Avenue (928),a
@@ -4008,6 +1615,7 @@ lat,lon,sz,names,len_cat
 43.7171647,-79.2334961,2,Broadmead Avenue (929),a
 43.7171733,-79.2739552,2,Anaconda Avenue (208),a
 43.7171733,-79.2739552,2,Anaconda Avenue (477),a
+43.7171777,-79.2691898,2,Pine Hills Cemetery Crossing (227),a
 43.7171777,-79.2691898,2,Pine Hills Cemetery Crossing (227),a
 43.7171777,-79.2691898,2,Pine Hills Cemetery Crossing (877),a
 43.7171777,-79.2691898,2,Pine Hills Cemetery Crossing (877),a
@@ -4301,6 +1909,7 @@ lat,lon,sz,names,len_cat
 43.7176385,-79.2806349,2,Howe Avenue (315),a
 43.7176577,-79.2560451,2,St Clair Avenue East (285),a
 43.7176577,-79.2560451,2,St Clair Avenue East (400),a
+43.7176693,-79.2609204,2,Brenda Crescent (568),a
 43.7176693,-79.2609204,2,Brenda Crescent (749),a
 43.7176742,-79.2783453,2,Fusiller Drve (171),a
 43.7176742,-79.2783453,2,Fusiller Drve (319),a
@@ -4326,6 +1935,7 @@ lat,lon,sz,names,len_cat
 43.717732,-79.2557074,2,St Clair Avenue East (746),a
 43.717735,-79.2297171,2,Broadmead Avenue (203),a
 43.717735,-79.2297171,2,Broadmead Avenue (918),a
+43.7177391,-79.2688062,2,Pine Hills Cemetery Crossing (218),a
 43.7177391,-79.2688062,2,Pine Hills Cemetery Crossing (218),a
 43.7177391,-79.2688062,2,Pine Hills Cemetery Crossing (868),a
 43.7177391,-79.2688062,2,Pine Hills Cemetery Crossing (868),a
@@ -4409,6 +2019,7 @@ lat,lon,sz,names,len_cat
 43.718148,-79.2783228,2,Cleanside Road (296),a
 43.718148,-79.2783228,2,Fusiller Drve (174),a
 43.718148,-79.2783228,2,Fusiller Drve (322),a
+43.7181703,-79.2635894,2,Pine Hills Cemetery Crossing (273),a
 43.7181703,-79.2635894,2,Pine Hills Cemetery Crossing (302),a
 43.7181703,-79.2635894,2,Pine Hills Cemetery Crossing (923),a
 43.7181703,-79.2635894,2,Pine Hills Cemetery Crossing (952),a
@@ -4490,6 +2101,7 @@ lat,lon,sz,names,len_cat
 43.7183944,-79.2549238,2,Laurel Avenue (959),a
 43.7184035,-79.2738879,2,Anaconda Avenue (192),a
 43.7184035,-79.2738879,2,Anaconda Avenue (469),a
+43.7184044,-79.2634013,2,Pine Hills Cemetery Crossing (299),a
 43.7184044,-79.2634013,2,Pine Hills Cemetery Crossing (949),a
 43.7184173,-79.2475989,2,Kidbrooke Crescent (100),a
 43.7184173,-79.2475989,2,Kidbrooke Crescent (567),a
@@ -4509,6 +2121,7 @@ lat,lon,sz,names,len_cat
 43.7184824,-79.273049,2,Birchmount Road (954),a
 43.7184903,-79.2476588,2,Kidbrooke Crescent (102),a
 43.7184903,-79.2476588,2,Kidbrooke Crescent (568),a
+43.7185202,-79.2682444,2,Pine Hills Cemetery Crossing (228),a
 43.7185202,-79.2682444,2,Pine Hills Cemetery Crossing (228),a
 43.7185202,-79.2682444,2,Pine Hills Cemetery Crossing (878),a
 43.7185202,-79.2682444,2,Pine Hills Cemetery Crossing (878),a
@@ -4579,6 +2192,7 @@ lat,lon,sz,names,len_cat
 43.718791,-79.2587484,2,Danforth Road (139),a
 43.718791,-79.2587484,2,Danforth Road (183),a
 43.718791,-79.2587484,2,Hart Avenue (521),a
+43.718791,-79.2587484,2,Hart Avenue (844),a
 43.7187953,-79.2561944,2,Linden Avenue (396),a
 43.7187953,-79.2561944,2,Linden Avenue (396),a
 43.7187953,-79.2561944,2,Linden Avenue (463),a
@@ -4597,6 +2211,7 @@ lat,lon,sz,names,len_cat
 43.7188036,-79.2514087,2,Midland Avenue (853),a
 43.7188036,-79.2514087,2,St Clair Avenue East (499),a
 43.7188036,-79.2514087,2,St Clair Avenue East (738),a
+43.7188116,-79.268137,2,Pine Hills Cemetery Crossing (280),a
 43.7188116,-79.268137,2,Pine Hills Cemetery Crossing (280),a
 43.7188116,-79.268137,2,Pine Hills Cemetery Crossing (930),a
 43.7188116,-79.268137,2,Pine Hills Cemetery Crossing (930),a
@@ -4632,9 +2247,11 @@ lat,lon,sz,names,len_cat
 43.7188567,-79.2398221,2,Kingston Road (127),a
 43.7188576,-79.2514318,2,Midland Avenue (271),a
 43.7188576,-79.2514318,2,Midland Avenue (833),a
+43.7188778,-79.262943,2,Pine Hills Cemetery Crossing (305),a
 43.7188778,-79.262943,2,Pine Hills Cemetery Crossing (955),a
 43.7188836,-79.2513045,2,Midland Avenue (268),a
 43.7188836,-79.2513045,2,Midland Avenue (830),a
+43.7189156,-79.2629255,2,Pine Hills Cemetery Crossing (304),a
 43.7189156,-79.2629255,2,Pine Hills Cemetery Crossing (954),a
 43.7189276,-79.2586424,2,Danforth Road (809),a
 43.7189276,-79.2586424,2,Danforth Road (815),a
@@ -4666,6 +2283,7 @@ lat,lon,sz,names,len_cat
 43.7191469,-79.2584721,2,Danforth Road (182),a
 43.7191562,-79.2277891,2,Lyme Regis Crescent (149),a
 43.7191562,-79.2277891,2,Lyme Regis Crescent (882),a
+43.7191579,-79.2629671,2,Pine Hills Cemetery Crossing (308),a
 43.7191579,-79.2629671,2,Pine Hills Cemetery Crossing (958),a
 43.7191613,-79.2596283,2,Brenda Crescent (553),a
 43.7191613,-79.2596283,2,Brenda Crescent (578),a
@@ -4674,6 +2292,7 @@ lat,lon,sz,names,len_cat
 43.7191613,-79.2596283,2,Hart Avenue (517),a
 43.7191613,-79.2596283,2,Hart Avenue (840),a
 43.7191705,-79.2584535,2,Danforth Road (554),a
+43.7191705,-79.2584535,2,Danforth Road (850),a
 43.719176,-79.2359872,2,Eastville Avenue (450),a
 43.719176,-79.2359872,2,Eastville Avenue (951),a
 43.7191829,-79.2683558,2,Pine Hills Cemetery Crossing (282),a
@@ -4681,6 +2300,7 @@ lat,lon,sz,names,len_cat
 43.7191829,-79.2683558,2,Pine Hills Cemetery Crossing (932),a
 43.7191829,-79.2683558,2,Pine Hills Cemetery Crossing (932),a
 43.7192063,-79.2629465,2,Pine Hills Cemetery Crossing (258),a
+43.7192063,-79.2629465,2,Pine Hills Cemetery Crossing (297),a
 43.7192063,-79.2629465,2,Pine Hills Cemetery Crossing (908),a
 43.7192063,-79.2629465,2,Pine Hills Cemetery Crossing (947),a
 43.71921,-79.2277751,2,Lyme Regis Crescent (150),a
@@ -4804,6 +2424,7 @@ lat,lon,sz,names,len_cat
 43.719711,-79.2543714,2,Magnolia Avenue (348),a
 43.719711,-79.2543714,2,Magnolia Avenue (803),a
 43.719713,-79.2677944,2,Pine Hills Cemetery Crossing (288),a
+43.719713,-79.2677944,2,Pine Hills Cemetery Crossing (288),a
 43.719713,-79.2677944,2,Pine Hills Cemetery Crossing (938),a
 43.719713,-79.2677944,2,Pine Hills Cemetery Crossing (938),a
 43.719722,-79.226531,2,Lakehill Crescent (505),a
@@ -4830,7 +2451,9 @@ lat,lon,sz,names,len_cat
 43.7197417,-79.2266422,2,Scarborough Heights Boulevard (355),a
 43.7197461,-79.2263441,2,Lakehill Crescent (508),a
 43.7197461,-79.2263441,2,Lakehill Crescent (700),a
+43.7197463,-79.2677106,2,Pine Hills Cemetery Crossing (291),a
 43.7197463,-79.2677106,2,Pine Hills Cemetery Crossing (941),a
+43.719749,-79.2672967,2,Pine Hills Cemetery Crossing (286),a
 43.719749,-79.2672967,2,Pine Hills Cemetery Crossing (936),a
 43.7197541,-79.2510465,2,Olga Street (112),a
 43.7197541,-79.2510465,2,Olga Street (253),a
@@ -4840,6 +2463,7 @@ lat,lon,sz,names,len_cat
 43.7197625,-79.2676125,2,Pine Hills Cemetery Crossing (935),a
 43.7197696,-79.2674571,2,Pine Hills Cemetery Crossing (294),a
 43.7197696,-79.2674571,2,Pine Hills Cemetery Crossing (944),a
+43.7197725,-79.2675389,2,Pine Hills Cemetery Crossing (293),a
 43.7197725,-79.2675389,2,Pine Hills Cemetery Crossing (943),a
 43.7197788,-79.2267156,2,Scarborough Heights Boulevard (100),a
 43.7197788,-79.2267156,2,Scarborough Heights Boulevard (354),a
@@ -4986,6 +2610,8 @@ lat,lon,sz,names,len_cat
 43.7201576,-79.2380554,2,Kingston Road (135),a
 43.7201576,-79.2380554,2,Kingston Road (993),a
 43.7201685,-79.2566711,2,Harmony Avenue (706),a
+43.7201685,-79.2566711,2,Harmony Avenue (706),a
+43.7201685,-79.2566711,2,Harmony Avenue (828),a
 43.7201685,-79.2566711,2,Harmony Avenue (828),a
 43.7201911,-79.2445947,2,Andrew Avenue (140),a
 43.7201911,-79.2445947,2,Andrew Avenue (140),a
@@ -5042,6 +2668,7 @@ lat,lon,sz,names,len_cat
 43.7203521,-79.2557732,2,Harmony Avenue (830),a
 43.7203521,-79.2557732,2,Harmony Avenue (830),a
 43.7203521,-79.2557732,2,Harmony Avenue (831),a
+43.7203521,-79.2557732,2,Harmony Avenue (831),a
 43.7203521,-79.2557732,2,Laurel Avenue (764),a
 43.7203521,-79.2557732,2,Laurel Avenue (764),a
 43.7203521,-79.2557732,2,Laurel Avenue (772),a
@@ -5056,6 +2683,7 @@ lat,lon,sz,names,len_cat
 43.7203859,-79.2294909,2,Lyme Regis Crescent (869),a
 43.7203905,-79.2556108,2,Harmony Avenue (710),a
 43.7203905,-79.2556108,2,Harmony Avenue (710),a
+43.7203905,-79.2556108,2,Harmony Avenue (832),a
 43.7203905,-79.2556108,2,Harmony Avenue (832),a
 43.7204057,-79.2282981,2,Lyme Regis Crescent (153),a
 43.7204057,-79.2282981,2,Lyme Regis Crescent (886),a
@@ -5125,6 +2753,7 @@ lat,lon,sz,names,len_cat
 43.7205393,-79.2474715,2,Olga Street (251),a
 43.7205463,-79.2509662,2,Minerva Avenue (177),a
 43.7205463,-79.2509662,2,Minerva Avenue (388),a
+43.7205634,-79.2665157,2,Pine Hills Cemetery Crossing (257),a
 43.7205634,-79.2665157,2,Pine Hills Cemetery Crossing (907),a
 43.7205663,-79.2275613,2,Sloley Road (549),a
 43.7205663,-79.2275613,2,Sloley Road (947),a
@@ -5154,6 +2783,7 @@ lat,lon,sz,names,len_cat
 43.7206332,-79.2506347,2,Minerva Avenue (391),a
 43.7206339,-79.2365847,2,Eastville Avenue (771),a
 43.7206339,-79.2365847,2,Eastville Avenue (917),a
+43.720645,-79.2664431,2,Pine Hills Cemetery Crossing (246),a
 43.720645,-79.2664431,2,Pine Hills Cemetery Crossing (896),a
 43.7206581,-79.2505683,2,Minerva Avenue (181),a
 43.7206581,-79.2505683,2,Minerva Avenue (392),a
@@ -5181,6 +2811,7 @@ lat,lon,sz,names,len_cat
 43.7207239,-79.236664,2,Eastville Avenue (923),a
 43.720726,-79.2570575,2,Linden Avenue (394),a
 43.720726,-79.2570575,2,Linden Avenue (394),a
+43.720726,-79.2570575,2,Linden Avenue (461),a
 43.720726,-79.2570575,2,Linden Avenue (461),a
 43.7207485,-79.2663708,2,Pine Hills Cemetery Crossing (256),a
 43.7207485,-79.2663708,2,Pine Hills Cemetery Crossing (906),a
@@ -5216,6 +2847,7 @@ lat,lon,sz,names,len_cat
 43.7208708,-79.2571158,2,Danforth Road (181),a
 43.7208708,-79.2571158,2,Linden Avenue (393),a
 43.7208708,-79.2571158,2,Linden Avenue (393),a
+43.7208708,-79.2571158,2,Linden Avenue (460),a
 43.7208708,-79.2571158,2,Linden Avenue (460),a
 43.7208818,-79.2537992,2,Granger Avenue (111),a
 43.7208818,-79.2537992,2,Granger Avenue (671),a
@@ -5315,6 +2947,7 @@ lat,lon,sz,names,len_cat
 43.7211048,-79.2775518,2,Sinnott Road (290),a
 43.7211048,-79.2775518,2,Sinnott Road (307),a
 43.7211048,-79.2775518,2,Sinnott Road (983),a
+43.7211608,-79.2660198,2,Pine Hills Cemetery Crossing (244),a
 43.7211608,-79.2660198,2,Pine Hills Cemetery Crossing (894),a
 43.7211926,-79.2400128,2,Pherrill Mews (594),a
 43.7211926,-79.2400128,2,Pherrill Mews (961),a
@@ -5394,6 +3027,7 @@ lat,lon,sz,names,len_cat
 43.7214626,-79.2392107,2,Fermoy Road (915),a
 43.721473,-79.2356388,2,Brooklawn Avenue (269),a
 43.721473,-79.2356388,2,Brooklawn Avenue (647),a
+43.7214766,-79.2655733,2,Pine Hills Cemetery Crossing (242),a
 43.7214766,-79.2655733,2,Pine Hills Cemetery Crossing (892),a
 43.7214868,-79.2392211,2,Fermoy Road (130),a
 43.7214868,-79.2392211,2,Fermoy Road (728),a
@@ -5467,6 +3101,7 @@ lat,lon,sz,names,len_cat
 43.721784,-79.2364523,2,Kingston Road (123),a
 43.7217887,-79.236046,2,Brooklawn Avenue (156),a
 43.7217887,-79.236046,2,Brooklawn Avenue (478),a
+43.7217923,-79.265537,2,Pine Hills Cemetery Crossing (240),a
 43.7217923,-79.265537,2,Pine Hills Cemetery Crossing (890),a
 43.7218005,-79.2563846,2,Danforth Road (136),a
 43.7218005,-79.2563846,2,Danforth Road (136),a
@@ -5478,6 +3113,7 @@ lat,lon,sz,names,len_cat
 43.7218005,-79.2563846,2,Laurel Avenue (766),a
 43.7218005,-79.2563846,2,Laurel Avenue (938),a
 43.7218005,-79.2563846,2,Laurel Avenue (938),a
+43.7218005,-79.2563846,2,Laurel Avenue (951),a
 43.7218005,-79.2563846,2,Laurel Avenue (951),a
 43.7218282,-79.2264937,2,Fenwood Heights (503),a
 43.7218282,-79.2264937,2,Fenwood Heights (680),a
@@ -5509,6 +3145,7 @@ lat,lon,sz,names,len_cat
 43.7218657,-79.2361124,2,St Clair Avenue East (934),a
 43.7218775,-79.2407444,2,Willamere Drive (118),a
 43.7218775,-79.2407444,2,Willamere Drive (948),a
+43.7218786,-79.2655849,2,Pine Hills Cemetery Crossing (248),a
 43.7218786,-79.2655849,2,Pine Hills Cemetery Crossing (898),a
 43.7218818,-79.2363373,2,Brooklawn Avenue (217),a
 43.7218818,-79.2363373,2,Brooklawn Avenue (955),a
@@ -5583,6 +3220,7 @@ lat,lon,sz,names,len_cat
 43.7219815,-79.2635804,2,Kennedy Road (112),a
 43.7219815,-79.2635804,2,Kennedy Road (480),a
 43.7219815,-79.2635804,2,Summer Drive (045),a
+43.7219815,-79.2635804,2,Summer Drive (644),a
 43.7219875,-79.2501905,2,Vivian Road (225),a
 43.7219875,-79.2501905,2,Vivian Road (742),a
 43.7219913,-79.2729549,2,Foxridge Drive (307),a
@@ -5614,6 +3252,7 @@ lat,lon,sz,names,len_cat
 43.7220215,-79.2735294,2,Foxridge Drive (313),a
 43.7220215,-79.2735294,2,Foxridge Drive (967),a
 43.7220232,-79.2634025,2,Summer Drive (046),a
+43.7220232,-79.2634025,2,Summer Drive (646),a
 43.7220313,-79.2736228,2,Foxridge Drive (314),a
 43.7220313,-79.2736228,2,Foxridge Drive (968),a
 43.7220456,-79.2301072,2,Purley Crescent (469),a
@@ -5675,6 +3314,7 @@ lat,lon,sz,names,len_cat
 43.7221711,-79.2729408,2,Maywood Park (120),a
 43.7221711,-79.2729408,2,Maywood Park (344),a
 43.7221849,-79.2658832,2,Pine Hills Cemetery Crossing (238),a
+43.7221849,-79.2658832,2,Pine Hills Cemetery Crossing (312),a
 43.7221849,-79.2658832,2,Pine Hills Cemetery Crossing (888),a
 43.7221849,-79.2658832,2,Pine Hills Cemetery Crossing (962),a
 43.7221989,-79.2737813,2,Roebuck Drive (570),a
@@ -5683,6 +3323,7 @@ lat,lon,sz,names,len_cat
 43.7222002,-79.2541553,2,Granger Avenue (871),a
 43.722204,-79.2298666,2,Purley Crescent (472),a
 43.722204,-79.2298666,2,Purley Crescent (541),a
+43.7222292,-79.2620979,2,Cleta Drive (651),a
 43.7222292,-79.2620979,2,Cleta Drive (909),a
 43.7222369,-79.2267175,2,Fenwood Heights (508),a
 43.7222369,-79.2267175,2,Fenwood Heights (685),a
@@ -5725,6 +3366,7 @@ lat,lon,sz,names,len_cat
 43.722305,-79.2621308,2,Summer Drive (047),a
 43.722305,-79.2621308,2,Summer Drive (048),a
 43.722305,-79.2621308,2,Summer Drive (648),a
+43.722305,-79.2621308,2,Summer Drive (649),a
 43.7223093,-79.2267402,2,Fenwood Heights (509),a
 43.7223093,-79.2267402,2,Fenwood Heights (686),a
 43.7223283,-79.2297297,2,Purley Crescent (474),a
@@ -5761,6 +3403,7 @@ lat,lon,sz,names,len_cat
 43.7223723,-79.2542248,2,Granger Avenue (873),a
 43.7223725,-79.2267508,2,Fenwood Heights (510),a
 43.7223725,-79.2267508,2,Fenwood Heights (687),a
+43.7223787,-79.2656151,2,Pine Hills Cemetery Crossing (314),a
 43.7223787,-79.2656151,2,Pine Hills Cemetery Crossing (964),a
 43.7223999,-79.2347183,2,Harewood Avenue (461),a
 43.7223999,-79.2347183,2,Harewood Avenue (470),a
@@ -5832,6 +3475,7 @@ lat,lon,sz,names,len_cat
 43.7225553,-79.2409107,2,Willamere Drive (133),a
 43.7225553,-79.2409107,2,Willamere Drive (955),a
 43.7225553,-79.2409107,2,Willamere Drive (956),a
+43.7225663,-79.2655863,2,Pine Hills Cemetery Crossing (316),a
 43.7225663,-79.2655863,2,Pine Hills Cemetery Crossing (966),a
 43.7225779,-79.2297288,2,Cathedral Bluffs Drive (004),a
 43.7225779,-79.2297288,2,Cathedral Bluffs Drive (306),a
@@ -5886,6 +3530,8 @@ lat,lon,sz,names,len_cat
 43.722631,-79.2350863,2,Harewood Avenue (601),a
 43.722631,-79.2350863,2,Harewood Avenue (969),a
 43.7226326,-79.2606967,2,Hart Avenue (522),a
+43.7226326,-79.2606967,2,Hart Avenue (526),a
+43.7226326,-79.2606967,2,Hart Avenue (845),a
 43.7226326,-79.2606967,2,Hart Avenue (849),a
 43.7226326,-79.2606967,2,Summer Drive (049),a
 43.7226326,-79.2606967,2,Summer Drive (052),a
@@ -5947,6 +3593,7 @@ lat,lon,sz,names,len_cat
 43.7227183,-79.2699111,2,Foxridge Drive (989),a
 43.7227183,-79.2699111,2,Martorino Drive (065),a
 43.7227183,-79.2699111,2,Martorino Drive (835),a
+43.7227237,-79.2607363,2,Hart Avenue (636),a
 43.7227237,-79.2607363,2,Hart Avenue (902),a
 43.7227316,-79.2335099,2,Neilson Avenue (239),a
 43.7227316,-79.2335099,2,Neilson Avenue (804),a
@@ -5956,6 +3603,7 @@ lat,lon,sz,names,len_cat
 43.722732,-79.2556587,2,Danforth Road (179),a
 43.722732,-79.2556587,2,Magnolia Avenue (347),a
 43.722732,-79.2556587,2,Magnolia Avenue (347),a
+43.722732,-79.2556587,2,Magnolia Avenue (351),a
 43.722732,-79.2556587,2,Magnolia Avenue (351),a
 43.722732,-79.2556587,2,Magnolia Avenue (802),a
 43.722732,-79.2556587,2,Magnolia Avenue (802),a
@@ -6062,6 +3710,7 @@ lat,lon,sz,names,len_cat
 43.7229557,-79.2694977,2,Foxridge Drive (318),a
 43.7229557,-79.2694977,2,Foxridge Drive (972),a
 43.7229559,-79.2592733,2,Brenda Crescent (562),a
+43.7229559,-79.2592733,2,Brenda Crescent (563),a
 43.7229559,-79.2592733,2,Brenda Crescent (743),a
 43.7229559,-79.2592733,2,Brenda Crescent (744),a
 43.7229559,-79.2592733,2,Summer Drive (042),a
@@ -6153,11 +3802,13 @@ lat,lon,sz,names,len_cat
 43.7231684,-79.2784632,2,Sinnott Road (826),a
 43.7231752,-79.2390676,2,Fermoy Road (125),a
 43.7231752,-79.2390676,2,Fermoy Road (723),a
+43.7231804,-79.2652663,2,Pine Hills Cemetery Crossing (275),a
 43.7231804,-79.2652663,2,Pine Hills Cemetery Crossing (278),a
 43.7231804,-79.2652663,2,Pine Hills Cemetery Crossing (925),a
 43.7231804,-79.2652663,2,Pine Hills Cemetery Crossing (928),a
 43.723181,-79.2545789,2,Granger Avenue (556),a
 43.723181,-79.2545789,2,Granger Avenue (900),a
+43.7231855,-79.2688665,2,Garthwood Drive (430),a
 43.7231855,-79.2688665,2,Garthwood Drive (430),a
 43.7231855,-79.2688665,2,Garthwood Drive (930),a
 43.7231855,-79.2688665,2,Garthwood Drive (930),a
@@ -6188,6 +3839,7 @@ lat,lon,sz,names,len_cat
 43.7232219,-79.2581089,2,Linden Avenue (390),a
 43.7232219,-79.2581089,2,Linden Avenue (457),a
 43.7232219,-79.2581089,2,Summer Drive (040),a
+43.7232219,-79.2581089,2,Summer Drive (633),a
 43.7232258,-79.2356836,2,Harewood Avenue (457),a
 43.7232258,-79.2356836,2,Harewood Avenue (875),a
 43.723227,-79.2337597,2,Neilson Avenue (242),a
@@ -6204,12 +3856,14 @@ lat,lon,sz,names,len_cat
 43.7232485,-79.2504369,2,National Street (583),a
 43.7232485,-79.2504369,2,National Street (762),a
 43.7232485,-79.2504369,2,National Street (768),a
+43.7232486,-79.2647105,2,Pine Hills Cemetery Crossing (268),a
 43.7232486,-79.2647105,2,Pine Hills Cemetery Crossing (918),a
 43.7232525,-79.2650539,2,Pine Hills Cemetery Crossing (272),a
 43.7232525,-79.2650539,2,Pine Hills Cemetery Crossing (276),a
 43.7232525,-79.2650539,2,Pine Hills Cemetery Crossing (922),a
 43.7232525,-79.2650539,2,Pine Hills Cemetery Crossing (926),a
 43.7232674,-79.2682257,2,Foxridge Drive (692),a
+43.7232674,-79.2682257,2,Foxridge Drive (960),a
 43.7232742,-79.2338131,2,Neilson Avenue (243),a
 43.7232742,-79.2338131,2,Neilson Avenue (808),a
 43.7232761,-79.264764,2,Pine Hills Cemetery Crossing (260),a
@@ -8388,10 +6042,6 @@ lat,lon,sz,names,len_cat
 43.7279133,-79.2362841,2,Horfield Avenue (990),a
 43.727933,-79.2877592,2,Eglinton Avenue East (303),a
 43.727933,-79.2877592,2,Eglinton Avenue East (774),a
-43.727933,-79.2877592,2,Warden Avenue (599),a
-43.727933,-79.2877592,2,Warden Avenue (600),a
-43.727933,-79.2877592,2,Warden Avenue (648),a
-43.727933,-79.2877592,2,Warden Avenue (649),a
 43.7279344,-79.2827502,2,Civic Road (242),a
 43.7279344,-79.2827502,2,Civic Road (243),a
 43.7279344,-79.2827502,2,Civic Road (276),a
@@ -8414,10 +6064,6 @@ lat,lon,sz,names,len_cat
 43.7279637,-79.2876111,2,Eglinton Avenue East (302),a
 43.7279637,-79.2876111,2,Eglinton Avenue East (772),a
 43.7279637,-79.2876111,2,Eglinton Avenue East (773),a
-43.7279637,-79.2876111,2,Warden Avenue (595),a
-43.7279637,-79.2876111,2,Warden Avenue (602),a
-43.7279637,-79.2876111,2,Warden Avenue (644),a
-43.7279637,-79.2876111,2,Warden Avenue (653),a
 43.727967,-79.2491455,2,Glenshephard Drive (461),a
 43.727967,-79.2491455,2,Glenshephard Drive (661),a
 43.727975,-79.2490832,2,Glenshephard Drive (660),a
@@ -8440,8 +6086,6 @@ lat,lon,sz,names,len_cat
 43.7280065,-79.2539199,2,Commonwealth Avenue (666),a
 43.7280077,-79.2873914,2,Eglinton Avenue East (300),a
 43.7280077,-79.2873914,2,Eglinton Avenue East (771),a
-43.7280132,-79.2877863,2,Warden Avenue (598),a
-43.7280132,-79.2877863,2,Warden Avenue (647),a
 43.7280251,-79.222586,2,Pine Ridge Drive (831),a
 43.7280356,-79.2823211,2,Civic Road (149),a
 43.7280356,-79.2823211,2,Civic Road (149),a
@@ -8449,8 +6093,6 @@ lat,lon,sz,names,len_cat
 43.7280356,-79.2823211,2,Civic Road (455),a
 43.7280369,-79.2490069,2,Glenshephard Drive (458),a
 43.7280369,-79.2490069,2,Glenshephard Drive (656),a
-43.7280498,-79.2876375,2,Warden Avenue (603),a
-43.7280498,-79.2876375,2,Warden Avenue (655),a
 43.7280506,-79.2493169,2,Glenshephard Drive (464),a
 43.7280506,-79.2493169,2,Glenshephard Drive (664),a
 43.7280621,-79.2871199,2,Eglinton Avenue East (299),a
@@ -8665,8 +6307,6 @@ lat,lon,sz,names,len_cat
 43.7284773,-79.2441217,2,Skagway Avenue (143),a
 43.7284773,-79.2441217,2,Skagway Avenue (964),a
 43.728482,-79.2594897,2,Benjamin Boulevard (418),a
-43.728483,-79.2879557,2,Warden Avenue (597),a
-43.728483,-79.2879557,2,Warden Avenue (646),a
 43.7284945,-79.2803747,2,Civic Road (238),a
 43.7284945,-79.2803747,2,Civic Road (238),a
 43.7284945,-79.2803747,2,Civic Road (272),a
@@ -8679,8 +6319,6 @@ lat,lon,sz,names,len_cat
 43.7284945,-79.2803747,2,Sinnott Road (992),a
 43.7284945,-79.2803747,2,Sinnott Road (993),a
 43.7284945,-79.2803747,2,Sinnott Road (993),a
-43.7285166,-79.2877815,2,Warden Avenue (604),a
-43.7285166,-79.2877815,2,Warden Avenue (658),a
 43.7285231,-79.2239246,2,Pine Ridge Drive (798),a
 43.7285323,-79.2439877,2,Skagway Avenue (145),a
 43.7285323,-79.2439877,2,Skagway Avenue (965),a
@@ -8706,10 +6344,6 @@ lat,lon,sz,names,len_cat
 43.7285732,-79.2446411,2,Brimley Road (809),a
 43.728575,-79.2614138,2,Merrian Road (465),a
 43.728575,-79.2614138,2,Merrian Road (878),a
-43.7285802,-79.2878997,2,Warden Avenue (596),a
-43.7285802,-79.2878997,2,Warden Avenue (605),a
-43.7285802,-79.2878997,2,Warden Avenue (645),a
-43.7285802,-79.2878997,2,Warden Avenue (659),a
 43.7285842,-79.2804071,2,Sinnott Road (301),a
 43.7285842,-79.2804071,2,Sinnott Road (301),a
 43.7285842,-79.2804071,2,Sinnott Road (994),a
@@ -8974,8 +6608,6 @@ lat,lon,sz,names,len_cat
 43.7293047,-79.2429742,2,Skagway Avenue (342),a
 43.7293155,-79.2396326,2,Randall Crescent (847),a
 43.7293155,-79.2396326,2,Randall Crescent (886),a
-43.7293258,-79.288196,2,Warden Avenue (457),a
-43.7293258,-79.288196,2,Warden Avenue (558),a
 43.7293511,-79.2777229,2,Birchmount Road (017),a
 43.7293511,-79.2777229,2,Birchmount Road (020),a
 43.7293511,-79.2777229,2,Birchmount Road (297),a
@@ -9290,10 +6922,6 @@ lat,lon,sz,names,len_cat
 43.730067,-79.2779701,2,Birchmount Road (304),a
 43.730067,-79.2779701,2,Birchmount Road (309),a
 43.730067,-79.2779701,2,Eglinton Avenue East (337),a
-43.73007,-79.2884954,2,Warden Avenue (458),a
-43.73007,-79.2884954,2,Warden Avenue (461),a
-43.73007,-79.2884954,2,Warden Avenue (559),a
-43.73007,-79.2884954,2,Warden Avenue (562),a
 43.730078,-79.258249,2,Safari Street (143),a
 43.7300842,-79.262208,2,Chevron Crescent (775),a
 43.7300842,-79.262208,2,Kenmark Boulevard (907),a
@@ -19304,8 +16932,6 @@ lat,lon,sz,names,len_cat
 43.7473778,-79.218476,2,Dunelm Street (289),a
 43.7473778,-79.218476,2,Dunelm Street (945),a
 43.74738,-79.2002578,2,Guildwood Parkway (232),a
-43.7473896,-79.2955526,2,Warden Avenue (740),a
-43.7473896,-79.2955526,2,Warden Avenue (811),a
 43.7473923,-79.2055337,2,Guildcrest Drive (164),a
 43.7473923,-79.2055337,2,Guildcrest Drive (650),a
 43.7473985,-79.2369415,2,Ascolda Boulevard (102),a
@@ -29058,8 +26684,6 @@ lat,lon,sz,names,len_cat
 43.7610264,-79.2197686,2,Lawrence Avenue East (897),a
 43.7610273,-79.2393805,2,Benlight Crescent (637),a
 43.7610275,-79.2394729,2,Benlight Crescent (636),a
-43.7610352,-79.3006199,2,Warden Avenue (472),a
-43.7610352,-79.3006199,2,Warden Avenue (521),a
 43.7610377,-79.2627155,2,Birkdale Road (807),a
 43.76104,-79.2288508,2,Six Nations Avenue (148),a
 43.7610423,-79.2653863,2,Brookridge Drive (746),a
@@ -38230,10 +35854,6 @@ lat,lon,sz,names,len_cat
 43.7717027,-79.158954,2,Satok Terrace (456),a
 43.7717066,-79.1952989,2,Silvertip Crescent (395),a
 43.7717066,-79.1952989,2,Silvertip Crescent (467),a
-43.7717069,-79.3047654,2,Warden Avenue (351),a
-43.7717069,-79.3047654,2,Warden Avenue (400),a
-43.7717069,-79.3047654,2,Warden Avenue (691),a
-43.7717069,-79.3047654,2,Warden Avenue (757),a
 43.7717069,-79.1658242,2,Bennett Road (389),a
 43.7717069,-79.1658242,2,Bennett Road (600),a
 43.7717072,-79.2033379,2,Copping Road (492),a
@@ -38265,10 +35885,6 @@ lat,lon,sz,names,len_cat
 43.7717284,-79.2481917,2,Earlthorpe Crescent (597),a
 43.7717299,-79.2430202,2,Parkington Crescent (391),a
 43.7717299,-79.2430202,2,Parkington Crescent (666),a
-43.7717331,-79.3046429,2,Warden Avenue (359),a
-43.7717331,-79.3046429,2,Warden Avenue (408),a
-43.7717331,-79.3046429,2,Warden Avenue (656),a
-43.7717331,-79.3046429,2,Warden Avenue (710),a
 43.771736,-79.2034489,2,Copping Road (491),a
 43.771736,-79.2034489,2,Copping Road (794),a
 43.7717362,-79.2586768,2,Borough Drive (338),a
@@ -40667,14 +38283,6 @@ lat,lon,sz,names,len_cat
 43.7736894,-79.2404716,2,Pendle Hill Court (971),a
 43.7736894,-79.2404716,2,Pendle Hill Court (981),a
 43.7736927,-79.2128212,2,Ivy Green Crescent (093),a
-43.7736935,-79.3056016,2,Warden Avenue (663),a
-43.7736935,-79.3056016,2,Warden Avenue (663),a
-43.7736935,-79.3056016,2,Warden Avenue (722),a
-43.7736935,-79.3056016,2,Warden Avenue (722),a
-43.7736935,-79.3056016,2,Warden Avenue (783),a
-43.7736935,-79.3056016,2,Warden Avenue (783),a
-43.7736935,-79.3056016,2,Warden Avenue (858),a
-43.7736935,-79.3056016,2,Warden Avenue (858),a
 43.7736945,-79.2406237,2,Pendle Hill Court (133),a
 43.7736945,-79.2406237,2,Pendle Hill Court (453),a
 43.773696,-79.162608,2,Lawrence Avenue East (065),a
@@ -42360,14 +39968,6 @@ lat,lon,sz,names,len_cat
 43.7751679,-79.1456459,2,Corningham Street (981),a
 43.7751729,-79.2055826,2,Botany Hill Road (039),a
 43.7751729,-79.2055826,2,Botany Hill Road (585),a
-43.7751734,-79.3062387,2,Warden Avenue (685),a
-43.7751734,-79.3062387,2,Warden Avenue (685),a
-43.7751734,-79.3062387,2,Warden Avenue (691),a
-43.7751734,-79.3062387,2,Warden Avenue (691),a
-43.7751734,-79.3062387,2,Warden Avenue (757),a
-43.7751734,-79.3062387,2,Warden Avenue (757),a
-43.7751734,-79.3062387,2,Warden Avenue (762),a
-43.7751734,-79.3062387,2,Warden Avenue (762),a
 43.775174,-79.1780589,2,Manse Road (045),a
 43.7751761,-79.263317,2,Progress Avenue (282),a
 43.7751761,-79.263317,2,Progress Avenue (839),a
@@ -45369,8 +42969,6 @@ lat,lon,sz,names,len_cat
 43.7790726,-79.2544069,2,Corporate Drive (180),a
 43.7790733,-79.1768483,2,Old Kingston Road (336),a
 43.7790733,-79.1768483,2,Old Kingston Road (869),a
-43.7790741,-79.3079987,2,Warden Avenue (045),a
-43.7790741,-79.3079987,2,Warden Avenue (069),a
 43.7790754,-79.2229844,2,Portico Drive (588),a
 43.7790754,-79.2229844,2,Portico Drive (731),a
 43.779078,-79.2510632,2,Consilium Place (401),a
@@ -45392,8 +42990,6 @@ lat,lon,sz,names,len_cat
 43.7790943,-79.1580414,2,Meadowvale Road (911),a
 43.7791005,-79.2229045,2,Portico Drive (732),a
 43.7791022,-79.1387789,2,Lawrence Avenue East (211),a
-43.7791056,-79.3080238,2,Warden Avenue (457),a
-43.7791056,-79.3080238,2,Warden Avenue (506),a
 43.7791098,-79.166994,2,Highland Creek Drive (482),a
 43.7791098,-79.166994,2,Highland Creek Drive (543),a
 43.77911,-79.253882,2,Corporate Drive (175),a
@@ -45409,8 +43005,6 @@ lat,lon,sz,names,len_cat
 43.7791299,-79.2002979,2,Morningside Park Road (054),a
 43.7791299,-79.2002979,2,Morningside Park Road (821),a
 43.7791307,-79.2231969,2,Portico Drive (727),a
-43.7791322,-79.3080631,2,Warden Avenue (046),a
-43.7791322,-79.3080631,2,Warden Avenue (070),a
 43.7791346,-79.1386312,2,Lawrence Avenue East (210),a
 43.7791346,-79.1322574,2,Marine Approach Drive (052),a
 43.7791346,-79.1322574,2,Marine Approach Drive (761),a
@@ -68538,10 +66132,6 @@ lat,lon,sz,names,len_cat
 43.8195388,-79.3245403,2,Steeles Avenue East (554),a
 43.8195388,-79.3245403,2,Steeles Avenue East (775),a
 43.8195388,-79.3245403,2,Steeles Avenue East (787),a
-43.8195388,-79.3245403,2,Warden Avenue (544),a
-43.8195388,-79.3245403,2,Warden Avenue (551),a
-43.8195388,-79.3245403,2,Warden Avenue (593),a
-43.8195388,-79.3245403,2,Warden Avenue (600),a
 43.8195454,-79.2762582,2,Wharton Square (559),a
 43.8195501,-79.282721,2,Goldhawk Trail (324),a
 43.8195501,-79.282721,2,Goldhawk Trail (478),a

@@ -98,20 +98,14 @@ lat,lon,sz,names,len_cat
 20.6872578,-105.2704072,2,Vidanta Acceso principal (005),a
 20.6872966,-105.2668159,2,Vidanta Acceso principal (815),a
 20.6873079,-105.2730801,2,Vidanta Acceso principal (977),a
-20.6873093,-105.2919209,2,Boulevard de Nayarit (155),a
-20.6873093,-105.2919209,2,Boulevard de Nayarit (163),a
-20.6873206,-105.2918631,2,Boulevard de Nayarit (350),a
-20.6873265,-105.2917926,2,Boulevard de Nayarit (156),a
 20.6873405,-105.2706768,2,Vidanta Acceso principal (006),a
 20.6873405,-105.2706768,2,Vidanta Acceso principal (012),a
-20.6873647,-105.2897458,2,Boulevard de Nayarit (851),a
 20.6873647,-105.2897458,2,Calle 20 de Noviembre (956),a
 20.6873656,-105.2707747,2,Vidanta Acceso principal (011),a
 20.6873656,-105.2707747,2,Vidanta Acceso principal (013),a
 20.6874133,-105.2727931,2,Vidanta Acceso principal (991),a
 20.687415,-105.2709842,2,Vidanta Acceso principal (017),a
 20.6874634,-105.2667502,2,Vidanta Acceso principal (814),a
-20.6874666,-105.2917644,2,Boulevard de Nayarit (166),a
 20.6874666,-105.2917644,2,Calle 18 de Marzo (318),a
 20.6874673,-105.2712079,2,Vidanta Acceso principal (016),a
 20.6875011,-105.2713889,2,Vidanta Acceso principal (015),a
@@ -306,7 +300,6 @@ lat,lon,sz,names,len_cat
 20.6940074,-105.29468,2,Avenida Paseo de los Cocoteros (242),a
 20.6940187,-105.2948409,2,Avenida Paseo de los Cocoteros (274),a
 20.6940187,-105.2948409,2,Avenida Paseo de los Cocoteros (274),a
-20.6940718,-105.2801237,2,Boulevard de Nayarit (979),a
 20.6941499,-105.2616538,2,Puente Río Ameca (345),a
 20.6941513,-105.2777794,2,Privada de la Laguna (063),a
 20.6941755,-105.2726131,2,Avenida Ingreso (845),a
@@ -315,11 +308,9 @@ lat,lon,sz,names,len_cat
 20.6943447,-105.2772764,2,Privada Niños Héroes (962),a
 20.6943447,-105.2772764,2,Prolongación Gustavo Díaz Ordaz (060),a
 20.6943447,-105.2772764,2,Prolongación Niños Héroes (055),a
-20.6944104,-105.2799013,2,Boulevard de Nayarit (980),a
 20.6944123,-105.2948747,2,Avenida Paseo de los Cocoteros (273),a
 20.6944123,-105.2948747,2,Avenida Paseo de los Cocoteros (273),a
 20.6944739,-105.2735671,2,Avenida México (737),a
-20.6944869,-105.2800334,2,Boulevard Nayarit (773),a
 20.694496,-105.2948957,2,Avenida Paseo de los Cocoteros (272),a
 20.694496,-105.2948957,2,Avenida Paseo de los Cocoteros (272),a
 20.6945444,-105.2947296,2,Avenida Paseo de los Cocoteros (244),a
@@ -419,7 +410,6 @@ lat,lon,sz,names,len_cat
 20.6965254,-105.269144,2,Avenida Ingreso (887),a
 20.6965312,-105.2959523,2,Avenida Paseo de los Cocoteros (266),a
 20.6965505,-105.2957958,2,Avenida Paseo de los Cocoteros (249),a
-20.6965554,-105.278492,2,Boulevard de Nayarit (051),a
 20.6965682,-105.2674783,2,Carretera a Tepic (406),a
 20.6965942,-105.2958203,2,Avenida Paseo de los Cocoteros (250),a
 20.6966377,-105.2958428,2,Avenida Paseo de los Cocoteros (251),a
@@ -428,7 +418,6 @@ lat,lon,sz,names,len_cat
 20.6966948,-105.2676665,2,Avenida Ingreso (896),a
 20.6966948,-105.2676665,2,Carretera a Tepic (405),a
 20.6967487,-105.2688342,2,Avenida Ingreso (888),a
-20.6967668,-105.2783579,2,Boulevard de Nayarit (050),a
 20.6967852,-105.267902,2,Avenida Ingreso (895),a
 20.6968089,-105.2679851,2,Avenida Ingreso (894),a
 20.6968202,-105.2686666,2,Avenida Ingreso (889),a
@@ -496,8 +485,6 @@ lat,lon,sz,names,len_cat
 20.6980114,-105.2715859,2,Calle Pera (258),a
 20.6980245,-105.2694377,2,Carretera a Tepic (280),a
 20.6980245,-105.2694377,2,Carretera a Tepic (280),a
-20.6982767,-105.2773611,2,Boulevard de Nayarit (981),a
-20.6983501,-105.2774917,2,Boulevard Nayarit (772),a
 20.6984172,-105.2700144,2,Carretera a Tepic (281),a
 20.6984172,-105.2700144,2,Carretera a Tepic (281),a
 20.698503,-105.2703346,2,Carretera a Tepic (403),a
@@ -531,13 +518,10 @@ lat,lon,sz,names,len_cat
 20.6993368,-105.2720583,2,Calle Pera (991),a
 20.6993614,-105.2935031,2,Retorno del Olmo (019),a
 20.6993614,-105.2935031,2,Retorno del Olmo (019),a
-20.6994008,-105.2927864,2,Calle Paseo de las Palmas (434),a
 20.6994403,-105.2711537,2,Carretera a Tepic (285),a
 20.6994932,-105.2938509,2,Retorno del Olmo (043),a
 20.6994932,-105.2938509,2,Retorno del Olmo (043),a
 20.6995312,-105.2713662,2,Carretera a Tepic (399),a
-20.6995551,-105.29295,2,Calle Paseo de las Palmas (433),a
-20.6995834,-105.2928044,2,Calle Paseo de las Palmas (885),a
 20.699646,-105.2938521,2,Retorno del Olmo (044),a
 20.699646,-105.2938521,2,Retorno del Olmo (044),a
 20.6996768,-105.2966097,2,Avenida Paseo de los Cocoteros (500),a
@@ -546,59 +530,35 @@ lat,lon,sz,names,len_cat
 20.6997283,-105.2753465,2,Privada Parque Victoria (591),a
 20.699769,-105.2714031,2,Carretera a Tepic (286),a
 20.6998031,-105.2762083,2,Boulevard Nayarit (929),a
-20.6998031,-105.2762083,2,Boulevard de Nayarit (044),a
-20.6998197,-105.2931739,2,Calle Paseo de las Palmas (432),a
 20.6998222,-105.2938344,2,Retorno del Olmo (021),a
 20.6998222,-105.2938344,2,Retorno del Olmo (021),a
 20.6998222,-105.2938344,2,Retorno del Olmo (045),a
 20.6998222,-105.2938344,2,Retorno del Olmo (045),a
 20.6998222,-105.2938344,2,Retorno del Olmo (046),a
 20.6998222,-105.2938344,2,Retorno del Olmo (046),a
-20.6998407,-105.2930316,2,Calle Paseo de las Palmas (886),a
 20.6998411,-105.2715942,2,Carretera a Tepic (398),a
 20.6998487,-105.2966184,2,Avenida Paseo de los Cocoteros (499),a
-20.6998649,-105.2762549,2,Boulevard de Nayarit (045),a
 20.6998716,-105.2964638,2,Avenida Paseo de los Cocoteros (505),a
-20.6998722,-105.2766207,2,Boulevard de Nayarit (050),a
 20.6999051,-105.2761781,2,Boulevard Nayarit (383),a
-20.6999085,-105.2765675,2,Boulevard de Nayarit (049),a
-20.6999104,-105.2763196,2,Boulevard de Nayarit (046),a
-20.6999351,-105.276396,2,Boulevard Nayarit (470),a
-20.6999351,-105.276396,2,Boulevard de Nayarit (047),a
-20.6999377,-105.2764672,2,Avenida México Oriente (324),a
-20.6999377,-105.2764672,2,Boulevard de Nayarit (048),a
 20.6999392,-105.274819,2,Privada Parque Victoria (590),a
-20.6999917,-105.2761365,2,Boulevard Nayarit (384),a
 20.7000017,-105.2725223,2,Calle Pera (990),a
 20.7000017,-105.2715607,2,Carretera a Tepic (287),a
-20.7000117,-105.2763216,2,Boulevard Nayarit (323),a
 20.7000482,-105.2966524,2,Avenida Paseo de los Cocoteros (498),a
-20.7000494,-105.2764691,2,Avenida México Oriente (325),a
 20.7000509,-105.2964842,2,Avenida Paseo de los Cocoteros (506),a
 20.7000706,-105.2749661,2,Privada Parque Victoria (589),a
 20.7000706,-105.2749661,2,Privada Parque Victoria (592),a
-20.7000741,-105.293167,2,Calle Paseo de las Palmas (887),a
-20.7000895,-105.2762532,2,Boulevard Nayarit (471),a
-20.7000977,-105.2933308,2,Calle Paseo de las Palmas (431),a
-20.7001579,-105.2764919,2,Avenida México Oriente (326),a
 20.7001644,-105.2938544,2,Retorno del Olmo (047),a
 20.7001644,-105.2938544,2,Retorno del Olmo (047),a
 20.7001972,-105.2966921,2,Avenida Paseo de los Cocoteros (497),a
 20.7002397,-105.2965397,2,Avenida Paseo de los Cocoteros (507),a
-20.7002564,-105.2765489,2,Avenida México Oriente (327),a
-20.7002748,-105.2932528,2,Calle Paseo de las Palmas (888),a
 20.7002953,-105.2718584,2,Carretera a Tepic (397),a
-20.7003053,-105.2934045,2,Calle Paseo de las Palmas (430),a
 20.7003592,-105.2659884,2,Calle Catania (317),a
 20.7003818,-105.2717699,2,Carretera a Tepic (288),a
-20.700466,-105.2933194,2,Calle Paseo de las Palmas (889),a
-20.7004702,-105.2757915,2,Boulevard Nayarit (910),a
 20.7005013,-105.2968048,2,Avenida Paseo de los Cocoteros (496),a
 20.7005013,-105.2968048,2,Retorno Paseo de los Cocoteros (077),a
 20.700517,-105.2938784,2,Retorno del Olmo (048),a
 20.700517,-105.2938784,2,Retorno del Olmo (048),a
 20.7005186,-105.2664162,2,Calle Lucca (336),a
-20.7005398,-105.2934569,2,Calle Paseo de las Palmas (429),a
 20.700551,-105.2966661,2,Avenida Paseo de los Cocoteros (508),a
 20.700551,-105.2966661,2,Retorno Paseo de los Cocoteros (078),a
 20.7006049,-105.2968471,2,Avenida Paseo de los Cocoteros (495),a
@@ -608,12 +568,8 @@ lat,lon,sz,names,len_cat
 20.7006555,-105.2967084,2,Retorno Paseo de los Cocoteros (075),a
 20.7006628,-105.2720254,2,Carretera a Tepic (396),a
 20.7006653,-105.2668347,2,Calle Matera (337),a
-20.7006692,-105.2933459,2,Calle Paseo de las Palmas (890),a
 20.700686,-105.2651073,2,Calle Paseo Villanova (349),a
-20.7006861,-105.2756417,2,Boulevard Nayarit (382),a
-20.7006861,-105.2756417,2,Privada Parque Victoria (588),a
 20.7007223,-105.2653983,2,Calle Paseo Villanova (359),a
-20.7007425,-105.2934736,2,Calle Paseo de las Palmas (428),a
 20.7007486,-105.2969049,2,Avenida Paseo de los Cocoteros (654),a
 20.700765,-105.2969115,2,Avenida Paseo de los Cocoteros (494),a
 20.7007858,-105.26537,2,Calle Paseo Villanova (351),a
@@ -622,21 +578,15 @@ lat,lon,sz,names,len_cat
 20.7008347,-105.2672759,2,Calle Palermo (346),a
 20.7008413,-105.2938937,2,Retorno del Olmo (049),a
 20.7008413,-105.2938937,2,Retorno del Olmo (049),a
-20.7008614,-105.2755166,2,Boulevard Nayarit (932),a
 20.7008649,-105.265782,2,Calle Barí (329),a
 20.7008649,-105.265782,2,Calle Catania (318),a
 20.7008649,-105.265782,2,Calle Paseo Villanova (358),a
 20.7009303,-105.2657581,2,Calle Barí (328),a
 20.7009303,-105.2657581,2,Calle Paseo Villanova (350),a
-20.7009454,-105.275643,2,Boulevard Nayarit (089),a
-20.7009454,-105.275643,2,Boulevard Nayarit (910),a
-20.7009493,-105.2933454,2,Calle Paseo de las Palmas (891),a
 20.701003,-105.2771573,2,Avenida México Oriente (967),a
 20.7010034,-105.2721629,2,Carretera a Tepic (395),a
 20.7010219,-105.2662019,2,Calle Lucca (335),a
 20.7010219,-105.2662019,2,Calle Paseo Villanova (361),a
-20.7010467,-105.2934469,2,Calle Paseo de las Palmas (427),a
-20.7010467,-105.2934469,2,Retorno del Olmo (025),a
 20.701053,-105.2938475,2,Retorno del Olmo (050),a
 20.701053,-105.2938475,2,Retorno del Olmo (050),a
 20.7010611,-105.293574,2,Retorno del Olmo (024),a
@@ -660,10 +610,8 @@ lat,lon,sz,names,len_cat
 20.7012114,-105.2667132,2,Calle Paseo Villanova (363),a
 20.701244,-105.2665945,2,Calle Matera (339),a
 20.701244,-105.2665945,2,Calle Paseo Villanova (354),a
-20.701272,-105.2932756,2,Calle Paseo de las Palmas (892),a
 20.7012781,-105.266683,2,Calle Padua (341),a
 20.7012781,-105.266683,2,Calle Paseo Villanova (355),a
-20.7013553,-105.2933805,2,Calle Paseo de las Palmas (426),a
 20.7013616,-105.2671062,2,Calle Palermo (348),a
 20.7013616,-105.2671062,2,Calle Paseo Villanova (364),a
 20.7014262,-105.2670794,2,Calle Palermo (347),a
@@ -671,18 +619,11 @@ lat,lon,sz,names,len_cat
 20.7015102,-105.2682897,2,Avenida Paseo de Vulcano (020),a
 20.7015328,-105.2683648,2,Avenida Paseo de Vulcano (014),a
 20.7015749,-105.2722313,2,Carretera a Tepic (290),a
-20.7016235,-105.2930999,2,Calle Paseo de las Palmas (893),a
-20.7016457,-105.2749496,2,Boulevard Nayarit (933),a
-20.7016683,-105.2750945,2,Boulevard Nayarit (909),a
-20.7016777,-105.2932168,2,Calle Paseo de las Palmas (425),a
-20.7016777,-105.2932168,2,Calle Paseo de las Palmas (454),a
 20.7018024,-105.2778098,2,Avenida México Oriente (328),a
 20.7018383,-105.2647298,2,Calle Verona (316),a
 20.7018696,-105.2694706,2,Avenida Paseo Atlas (186),a
 20.7018703,-105.2724847,2,Boulevard Nayarit (087),a
 20.7018703,-105.2724847,2,Carretera a Tepic (394),a
-20.701891,-105.2747592,2,Boulevard Nayarit (075),a
-20.701891,-105.2747592,2,Boulevard Nayarit (934),a
 20.7019064,-105.2649039,2,Calle Verona (313),a
 20.7019111,-105.2937935,2,Retorno del Sauce (026),a
 20.7019111,-105.2937935,2,Retorno del Sauce (026),a
@@ -694,8 +635,6 @@ lat,lon,sz,names,len_cat
 20.7019431,-105.2938824,2,Retorno del Sauce (091),a
 20.7019588,-105.2937031,2,Retorno del Sauce (027),a
 20.7019588,-105.2937031,2,Retorno del Sauce (027),a
-20.7019619,-105.2748316,2,Boulevard Nayarit (074),a
-20.7019619,-105.2748316,2,Boulevard Nayarit (908),a
 20.7019848,-105.2679695,2,Circuito Perses (119),a
 20.701993,-105.2653101,2,Calle Barí (330),a
 20.7020108,-105.2987677,2,Retorno Cozumel (061),a
@@ -704,7 +643,6 @@ lat,lon,sz,names,len_cat
 20.7020243,-105.268112,2,Avenida Paseo de Vulcano (021),a
 20.7020243,-105.268112,2,Circuito Perses (118),a
 20.7020243,-105.268112,2,Retorno Paseo de Vulcano (129),a
-20.7020378,-105.274538,2,Boulevard Nayarit (076),a
 20.7020441,-105.2681838,2,Avenida Paseo de Vulcano (013),a
 20.7020441,-105.2681838,2,Circuito Altea (115),a
 20.7020441,-105.2681838,2,Retorno Paseo de Vulcano (128),a
@@ -724,40 +662,31 @@ lat,lon,sz,names,len_cat
 20.7021068,-105.2694042,2,Avenida Paseo Atlas (728),a
 20.7021068,-105.2694042,2,Avenida Paseo Atlas (951),a
 20.7021068,-105.2694042,2,Calle Nereo (990),a
-20.7021124,-105.2745554,2,Boulevard Nayarit (385),a
 20.7021205,-105.2652973,2,Calle Barí (326),a
 20.70213,-105.298417,2,Retorno Cozumel (064),a
 20.70213,-105.298417,2,Retorno Cozumel (065),a
 20.7021319,-105.268287,2,Circuito Altea (131),a
 20.7021401,-105.2716311,2,Continuación Boulevard Nayarit (262),a
-20.7021657,-105.2746023,2,Boulevard Nayarit (305),a
 20.7021657,-105.2743113,2,Boulevard Nayarit (077),a
 20.7021742,-105.2984077,2,Retorno Cozumel (066),a
-20.7021891,-105.2746645,2,Boulevard Nayarit (073),a
 20.7022159,-105.2726946,2,Boulevard Nayarit (086),a
 20.7022212,-105.2657369,2,Calle Savona (323),a
 20.7022212,-105.2657369,2,Calle Verona (311),a
 20.7022264,-105.2988946,2,Retorno Cozumel (518),a
-20.7022398,-105.2746211,2,Boulevard Nayarit (072),a
 20.7022523,-105.2699072,2,Calle Nereo (989),a
 20.7022523,-105.2699072,2,Calle Nereo (989),a
 20.7022617,-105.265845,2,Calle Mantua (331),a
 20.7022617,-105.265845,2,Calle Verona (314),a
 20.702266,-105.2973581,2,Avenida Paseo de los Cocoteros (511),a
-20.7022855,-105.2743751,2,Boulevard Nayarit (907),a
-20.7022855,-105.2743751,2,Boulevard Nayarit (935),a
-20.7022855,-105.2743751,2,Continuación Boulevard Nayarit (261),a
 20.7022899,-105.2740578,2,Boulevard Nayarit (078),a
 20.7022924,-105.2670854,2,Avenida Paseo del Arque (995),a
 20.702296,-105.2717084,2,Continuación Boulevard Nayarit (263),a
 20.7022996,-105.2989247,2,Retorno Cozumel (517),a
-20.7023238,-105.2743059,2,Continuación Boulevard Nayarit (260),a
 20.7023276,-105.2727925,2,Boulevard Nayarit (085),a
 20.7023351,-105.2984519,2,Retorno Cozumel (067),a
 20.70236,-105.2662326,2,Calle Padua (343),a
 20.7023847,-105.2949067,2,Retorno del Sauce (123),a
 20.7023923,-105.2728722,2,Boulevard Nayarit (084),a
-20.7023953,-105.2744441,2,Boulevard Nayarit (071),a
 20.7024,-105.2661955,2,Calle Padua (340),a
 20.7024,-105.2661955,2,Calle Siena (320),a
 20.7024,-105.2661955,2,Calle Verona (315),a
@@ -785,7 +714,6 @@ lat,lon,sz,names,len_cat
 20.7024857,-105.2781905,2,Avenida México Oriente (330),a
 20.7024857,-105.2781905,2,Circuito Ikal (322),a
 20.7024882,-105.2736005,2,Boulevard Nayarit (079),a
-20.7024944,-105.2740257,2,Continuación Boulevard Nayarit (259),a
 20.7024962,-105.2948343,2,Retorno del Sauce (129),a
 20.7024962,-105.2948343,2,Retorno del Sauce (129),a
 20.7024991,-105.2949737,2,Retorno del Sauce (126),a
@@ -797,7 +725,6 @@ lat,lon,sz,names,len_cat
 20.7025313,-105.2949307,2,Retorno del Sauce (127),a
 20.7025414,-105.2679344,2,Avenida Paseo de Vulcano (023),a
 20.7025414,-105.2679344,2,Avenida Paseo del Arque (994),a
-20.7025415,-105.2742831,2,Boulevard Nayarit (070),a
 20.702544,-105.2780584,2,Circuito Ikal (321),a
 20.7025509,-105.266604,2,Calle Palermo (344),a
 20.7025509,-105.266604,2,Calle Verona (310),a
@@ -858,7 +785,6 @@ lat,lon,sz,names,len_cat
 20.702842,-105.2975877,2,Avenida Paseo de los Cocoteros (034),a
 20.702842,-105.2975877,2,Avenida Paseo de los Cocoteros (512),a
 20.7028632,-105.2986081,2,Retorno Cozumel (526),a
-20.7028695,-105.292608,2,Calle Paseo de las Palmas (453),a
 20.7028707,-105.2979329,2,Avenida Paseo de los Cocoteros (028),a
 20.7028739,-105.2726215,2,Continuación Boulevard Nayarit (252),a
 20.7028802,-105.2784077,2,Avenida México Oriente (331),a
@@ -877,8 +803,6 @@ lat,lon,sz,names,len_cat
 20.7029128,-105.2979537,2,Avenida Paseo de los Cocoteros (027),a
 20.7029235,-105.2980891,2,Retorno Cozumel (522),a
 20.7029243,-105.2991931,2,Retorno Cozumel (515),a
-20.7029282,-105.2925803,2,Calle Paseo de las Palmas (452),a
-20.7029282,-105.2925803,2,Retorno del Sauce (271),a
 20.7029378,-105.2696979,2,Circuito Hydros (997),a
 20.7029426,-105.2956369,2,Calle Jacarandas (134),a
 20.7029456,-105.2955775,2,Calle Jacarandas (133),a
@@ -891,13 +815,11 @@ lat,lon,sz,names,len_cat
 20.7029798,-105.2956812,2,Calle Jacarandas (135),a
 20.702983,-105.2932133,2,Retorno del Sauce (029),a
 20.702983,-105.2932133,2,Retorno del Sauce (099),a
-20.7029837,-105.2737561,2,Boulevard Nayarit (069),a
 20.7029849,-105.2992096,2,Retorno Cozumel (514),a
 20.7029871,-105.2955377,2,Calle Jacarandas (132),a
 20.7030025,-105.265971,2,Circuito Hermes (308),a
 20.7030045,-105.2979622,2,Avenida Paseo de los Cocoteros (025),a
 20.7030045,-105.2979622,2,Retorno Cozumel (521),a
-20.7030165,-105.2923876,2,Calle Paseo de las Palmas (894),a
 20.7030243,-105.2975399,2,Avenida Paseo de los Cocoteros (037),a
 20.7030353,-105.2956844,2,Calle Jacarandas (136),a
 20.7030384,-105.2991943,2,Retorno Cozumel (060),a
@@ -944,11 +866,9 @@ lat,lon,sz,names,len_cat
 20.7031749,-105.2988896,2,Retorno Cozumel (058),a
 20.7031771,-105.2977413,2,Avenida Paseo de los Cocoteros (020),a
 20.7031771,-105.2977413,2,Avenida Paseo de los Cocoteros (462),a
-20.70318,-105.2923151,2,Calle Paseo de las Palmas (895),a
 20.7031853,-105.2677885,2,Avenida Paseo de Vulcano (009),a
 20.7031853,-105.2677885,2,Circuito Titán (132),a
 20.7031853,-105.2677885,2,Retorno Paseo de Vulcano (111),a
-20.7031857,-105.2735603,2,Boulevard Nayarit (068),a
 20.7031895,-105.2690462,2,Avenida Paseo Atlas (722),a
 20.7031895,-105.2690462,2,Avenida Paseo Atlas (950),a
 20.7031895,-105.2690462,2,Circuito Prometeo (179),a
@@ -957,8 +877,6 @@ lat,lon,sz,names,len_cat
 20.7031938,-105.2663398,2,Circuito Ceres (856),a
 20.7032007,-105.2925979,2,Retorno del Sauce (096),a
 20.7032183,-105.2663042,2,Circuito Ceres (855),a
-20.7032208,-105.2924457,2,Calle Paseo de las Palmas (451),a
-20.7032208,-105.2924457,2,Retorno del Sauce (095),a
 20.7032321,-105.2679468,2,Circuito Titán (133),a
 20.7032785,-105.2728053,2,Carretera a Tepic (292),a
 20.7032847,-105.2666563,2,Circuito Ceres (850),a
@@ -979,7 +897,6 @@ lat,lon,sz,names,len_cat
 20.7033814,-105.2652689,2,Circuito Hermes (122),a
 20.7033814,-105.2652689,2,Circuito Hermes (938),a
 20.7034035,-105.2652787,2,Circuito Hermes (937),a
-20.7034108,-105.2922226,2,Calle Paseo de las Palmas (896),a
 20.703414,-105.2647432,2,Avenida La Minerva (950),a
 20.703414,-105.2647432,2,Calle Paseo de Lares (262),a
 20.7034328,-105.2734141,2,Boulevard Nayarit (067),a
@@ -991,11 +908,9 @@ lat,lon,sz,names,len_cat
 20.70353,-105.2689375,2,Avenida Paseo Atlas (886),a
 20.7035344,-105.2654084,2,Circuito Hermes (231),a
 20.7035344,-105.2654084,2,Circuito Hermes (671),a
-20.7035483,-105.2923196,2,Calle Paseo de las Palmas (450),a
 20.703572,-105.2649296,2,Avenida La Minerva (952),a
 20.703572,-105.2649296,2,Calle Paseo de Lares (900),a
 20.7035833,-105.2646755,2,Calle Paseo de Lares (261),a
-20.7036044,-105.2921609,2,Calle Paseo de las Palmas (897),a
 20.7036066,-105.2689213,2,Avenida Paseo Atlas (885),a
 20.7036066,-105.2689213,2,Circuito Prometeo (174),a
 20.7036222,-105.267579,2,Avenida Paseo de Vulcano (026),a
@@ -1025,7 +940,6 @@ lat,lon,sz,names,len_cat
 20.7037533,-105.2675629,2,Avenida Paseo de Vulcano (028),a
 20.7037652,-105.2788181,2,Avenida México (269),a
 20.7037659,-105.2647586,2,Calle Paseo de Lares (898),a
-20.703788,-105.2921228,2,Calle Paseo de las Palmas (898),a
 20.7037897,-105.2651764,2,Avenida La Minerva (954),a
 20.7037897,-105.2651764,2,Circuito Hermes (669),a
 20.7037916,-105.2646326,2,Calle Paseo de Lares (913),a
@@ -1034,7 +948,6 @@ lat,lon,sz,names,len_cat
 20.7038004,-105.2676286,2,Avenida Paseo de Vulcano (006),a
 20.7038198,-105.2652119,2,Avenida La Minerva (955),a
 20.7038198,-105.2652119,2,Calle Paseo de Erato (925),a
-20.7038292,-105.292262,2,Calle Paseo de las Palmas (449),a
 20.7038499,-105.2658998,2,Circuito Ceres (852),a
 20.7038555,-105.2646869,2,Calle Paseo de Lares (897),a
 20.7038602,-105.2877438,2,Circuito Paseo de los Lagos (385),a
@@ -1071,7 +984,6 @@ lat,lon,sz,names,len_cat
 20.7040375,-105.2933858,2,Continuación Jacarandas (088),a
 20.7040411,-105.2675778,2,Avenida Paseo de Vulcano (029),a
 20.7040411,-105.2675778,2,Retorno Paseo de Vulcano (309),a
-20.7040464,-105.2920962,2,Calle Paseo de las Palmas (899),a
 20.7040526,-105.2662465,2,Circuito Ceres (871),a
 20.7040662,-105.2661844,2,Circuito Ceres (870),a
 20.7040669,-105.2662198,2,Circuito Ceres (743),a
@@ -1100,7 +1012,6 @@ lat,lon,sz,names,len_cat
 20.7042035,-105.2958009,2,Retorno Tulipanes (145),a
 20.7042088,-105.2978412,2,Avenida Paseo de los Cocoteros (463),a
 20.7042314,-105.2959603,2,Retorno Tulipanes (142),a
-20.7042583,-105.2880804,2,Avenida Paseo de las Garzas (441),a
 20.7042606,-105.2731383,2,Carretera a Tepic (293),a
 20.7042689,-105.2658308,2,Avenida La Minerva (957),a
 20.7042689,-105.2658308,2,Circuito Mercurio (871),a
@@ -1117,11 +1028,8 @@ lat,lon,sz,names,len_cat
 20.7042934,-105.2658744,2,Avenida La Minerva (958),a
 20.7042934,-105.2658744,2,Circuito Mercurio (237),a
 20.7042934,-105.2658744,2,Circuito Mercurio (749),a
-20.704299,-105.2877787,2,Avenida Paseo de las Garzas (442),a
-20.704299,-105.2877787,2,Circuito Paseo de los Lagos (384),a
 20.7043047,-105.2731552,2,Avenida de las Ceibas (877),a
 20.7043047,-105.2731552,2,Carretera a Tepic (886),a
-20.7043053,-105.2877048,2,Avenida Paseo de las Garzas (443),a
 20.7043109,-105.2958619,2,Retorno Tulipanes (147),a
 20.7043109,-105.2958619,2,Retorno Tulipanes (357),a
 20.7043109,-105.2958619,2,Retorno Tulipanes (985),a

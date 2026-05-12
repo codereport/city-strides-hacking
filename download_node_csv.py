@@ -88,6 +88,7 @@ class City(str, Enum):
     MARKHAM      = 37680  # 🌍
     BAHIA        = 159152  # 🌍
     DUBLIN       = 171357  # 🌍
+    SAN_JOSE     = 2098  # 🌍
 # fmt: on
 
 
@@ -196,6 +197,7 @@ CityGrids = {
     City.MARKHAM:        CityGrid(-79.1702147, 43.9625146, -79.428729, 43.7980391),
     City.BAHIA:          CityGrid(-105.24636624208972, 20.74529878208358, -105.31167621200521, 20.66644161877153),
     City.DUBLIN:         CityGrid(-6.1148829, 53.4105416, -6.3870259, 53.2987342),
+    City.SAN_JOSE:       CityGrid(-121.5858438, 37.4691477, -122.046227, 37.1231596),
 }
 # fmt: on
 

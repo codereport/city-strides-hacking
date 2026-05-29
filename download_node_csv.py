@@ -90,6 +90,7 @@ class City(str, Enum):
     DUBLIN       = 171357  # 🌍
     SAN_JOSE     = 2098  # 🌍
     BARRIE       = 132377  # 🌍
+    RICHMOND_HILL = 37878  # 🌍
 # fmt: on
 
 
@@ -200,6 +201,7 @@ CityGrids = {
     City.DUBLIN:         CityGrid(-6.1148829, 53.4105416, -6.3870259, 53.2987342),
     City.SAN_JOSE:       CityGrid(-121.5858438, 37.4691477, -122.046227, 37.1231596),
     City.BARRIE:         CityGrid(-79.5859115, 44.4245913, -79.7456044, 44.2937481),
+    City.RICHMOND_HILL:  CityGrid(-79.3708618, 43.9776956, -79.4855416, 43.8275458),
 }
 # fmt: on
 

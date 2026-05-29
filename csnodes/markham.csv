@@ -5065,20 +5065,11 @@ lat,lon,sz,names,len_cat
 43.8400162,-79.2973945,2,Highglen Avenue (421),a
 43.8400162,-79.2973945,2,Highglen Avenue (962),a
 43.8400162,-79.2973945,2,Noble Street (691),a
-43.8400165,-79.4026914,2,Highway 7 (530),a
-43.8400165,-79.4026914,2,Highway 7 (558),a
-43.8400184,-79.4023789,2,Highway 7 (068),a
-43.8400184,-79.4019914,2,Highway 7 (506),a
-43.8400184,-79.4019914,2,Highway 7 (571),a
 43.8400184,-79.2627633,2,Norman Ross Drive (431),a
-43.8400194,-79.402914,2,Highway 7 (529),a
-43.8400213,-79.4016655,2,Highway 7 (572),a
 43.8400233,-79.2874755,2,Galbraith Crescent (273),a
 43.8400253,-79.3296365,2,Warden Avenue (886),a
 43.8400323,-79.2841681,2,Hillcroft Drive (661),a
 43.8400331,-79.2437956,2,Ferncliffe Crescent (373),a
-43.8400349,-79.4048613,2,Highway 7 (131),a
-43.8400349,-79.4048613,2,Highway 7 (152),a
 43.8400412,-79.2725772,2,William Honey Crescent (072),a
 43.8400422,-79.2786102,2,Kenborough Court (398),a
 43.8400422,-79.2786102,2,Kenborough Court (398),a
@@ -5349,11 +5340,9 @@ lat,lon,sz,names,len_cat
 43.8406057,-79.2828922,2,Timbers Circle (842),a
 43.8406102,-79.2828482,2,Timbers Circle (066),a
 43.8406115,-79.2829352,2,Timbers Circle (065),a
-43.8406164,-79.3947464,2,Suncrest Boulevard (054),a
 43.8406167,-79.2927837,2,Saddlewood Court (421),a
 43.840617,-79.3982036,2,Highway 7 (560),a
 43.840617,-79.3982036,2,Highway 7 (560),a
-43.840617,-79.3947078,2,Suncrest Boulevard (055),a
 43.8406191,-79.2756704,2,Rosseter Road (839),a
 43.8406202,-79.2520208,2,Markham Road (094),a
 43.8406206,-79.3276586,2,Royal Crest Court (844),a
@@ -5531,7 +5520,6 @@ lat,lon,sz,names,len_cat
 43.8410433,-79.3259882,2,Royal Crest Court (959),a
 43.8410433,-79.3259882,2,Royal Crest Court (959),a
 43.8410546,-79.2747,2,Terrosa Road (928),a
-43.8410637,-79.3949218,2,Saddlecreek Drive (136),a
 43.8410706,-79.2821177,2,Timbers Circle (068),a
 43.8410731,-79.2384259,2,Kirkham Drive (529),a
 43.8410765,-79.3038202,2,Lee Avenue (858),a
@@ -5580,7 +5568,6 @@ lat,lon,sz,names,len_cat
 43.8412143,-79.2977111,2,Regal Court (353),a
 43.8412165,-79.2884534,2,Page Crescent (152),a
 43.8412165,-79.2884534,2,Page Crescent (152),a
-43.8412238,-79.3951181,2,Saddlecreek Drive (127),a
 43.8412267,-79.2552024,2,Herrick Place (040),a
 43.8412336,-79.2820396,2,Timbers Circle (072),a
 43.841234,-79.2859164,2,Galbraith Crescent (570),a
@@ -5591,7 +5578,6 @@ lat,lon,sz,names,len_cat
 43.8412428,-79.2592074,2,Fairty Drive (822),a
 43.8412428,-79.2592074,2,Taplane Drive (843),a
 43.8412442,-79.2747319,2,Terrosa Road (927),a
-43.8412448,-79.3950169,2,Saddlecreek Drive (137),a
 43.84125,-79.24714,2,Eastvale Drive (057),a
 43.8412549,-79.2700792,2,Lavron Court (554),a
 43.8412657,-79.2651632,2,Denison Street (434),a
@@ -5643,15 +5629,10 @@ lat,lon,sz,names,len_cat
 43.8413313,-79.2656783,2,Denison Street (474),a
 43.8413335,-79.2657604,2,Denison Street (476),a
 43.8413335,-79.2657604,2,Denison Street (476),a
-43.8413336,-79.3951562,2,Highway 7 (531),a
-43.8413336,-79.3951562,2,Highway 7 (534),a
-43.8413336,-79.3951562,2,Saddlecreek Drive (802),a
 43.8413388,-79.3247299,2,Royal Crest Court (897),a
 43.8413388,-79.3247299,2,Royal Crest Court (897),a
 43.8413459,-79.2880765,2,Page Crescent (153),a
 43.8413486,-79.2703253,2,Lavron Court (556),a
-43.8413607,-79.3950525,2,Highway 7 (532),a
-43.8413607,-79.3950525,2,Saddlecreek Drive (807),a
 43.8413639,-79.2788054,2,Denison Street (183),a
 43.8413639,-79.2788054,2,Denison Street (218),a
 43.8413639,-79.2788054,2,Denison Street (619),a
@@ -5698,7 +5679,6 @@ lat,lon,sz,names,len_cat
 43.84139,-79.2779777,2,McCowan Road (320),a
 43.8413965,-79.2648312,2,Denison Street (409),a
 43.8413965,-79.2648312,2,Denison Street (409),a
-43.8414026,-79.3948803,2,Highway 7 (160),a
 43.8414073,-79.2706346,2,Lavron Court (557),a
 43.8414094,-79.2646006,2,Denison Street (981),a
 43.8414094,-79.2646006,2,Denison Street (981),a
@@ -5792,7 +5772,6 @@ lat,lon,sz,names,len_cat
 43.8415253,-79.3239359,2,Royal Crest Court (997),a
 43.84153,-79.25104,2,Monique Court (388),a
 43.84153,-79.238475,2,Bousfield Gate (739),a
-43.8415326,-79.3942764,2,Highway 7 (162),a
 43.8415338,-79.2879965,2,Page Crescent (157),a
 43.8415442,-79.2775356,2,Denison Street (161),a
 43.8415442,-79.2775356,2,Denison Street (161),a
@@ -5858,8 +5837,6 @@ lat,lon,sz,names,len_cat
 43.8416509,-79.2682288,2,Denison Street (481),a
 43.8416523,-79.2779115,2,McCowan Road (230),a
 43.8416523,-79.2779115,2,McCowan Road (230),a
-43.8416586,-79.3937133,2,Highway 7 (133),a
-43.8416586,-79.3937133,2,Highway 7 (164),a
 43.8416603,-79.2772649,2,Denison Street (789),a
 43.8416603,-79.2772649,2,Denison Street (789),a
 43.8416605,-79.312462,2,14th Avenue (777),a
@@ -6035,7 +6012,6 @@ lat,lon,sz,names,len_cat
 43.8420678,-79.2596374,2,Coxworth Avenue (632),a
 43.8420695,-79.2531999,2,Erla Court (127),a
 43.8420695,-79.2531999,2,Erla Court (127),a
-43.8420749,-79.3919603,2,Highway 7 (135),a
 43.8420755,-79.2939041,2,Foxleigh Court (144),a
 43.8420774,-79.2584368,2,Durant Crescent (600),a
 43.8420865,-79.2382938,2,Erintol Way (862),a
@@ -6057,8 +6033,6 @@ lat,lon,sz,names,len_cat
 43.8421048,-79.2840493,2,Randall Avenue (632),a
 43.842106,-79.2532361,2,Erla Court (128),a
 43.842106,-79.2532361,2,Erla Court (128),a
-43.842108,-79.3918042,2,Highway 7 (136),a
-43.842108,-79.3918042,2,Highway 7 (507),a
 43.8421099,-79.2682756,2,Featherstone Avenue (322),a
 43.8421209,-79.2478729,2,Elson Street (584),a
 43.8421213,-79.2554126,2,Durant Crescent (614),a
@@ -8828,8 +8802,6 @@ lat,lon,sz,names,len_cat
 43.8482,-79.35067,2,Fairburn Drive (165),a
 43.8482001,-79.3576036,2,Woodbine Avenue (299),a
 43.8482001,-79.3576036,2,Woodbine Avenue (538),a
-43.8482009,-79.2005832,2,Reesor Road (628),a
-43.8482009,-79.2005832,2,Reesor Road (728),a
 43.848209,-79.2590421,2,Stella Drive (044),a
 43.8482126,-79.2550659,2,Angela Court (554),a
 43.8482126,-79.2550659,2,Angela Court (554),a
@@ -9019,7 +8991,6 @@ lat,lon,sz,names,len_cat
 43.8486466,-79.2538312,2,Markham Road (672),a
 43.8486492,-79.2868202,2,Tillie Square (899),a
 43.8486507,-79.269741,2,Summerlea Street (820),a
-43.8486511,-79.1994603,2,Reesor Road (765),a
 43.8486548,-79.3642025,2,Highway 7 (594),a
 43.8486599,-79.283774,2,Ramsgate Court (109),a
 43.848663,-79.3066159,2,Kennedy Road (201),a
@@ -10039,8 +10010,6 @@ lat,lon,sz,names,len_cat
 43.8507791,-79.353321,2,Highway 7 (625),a
 43.8507796,-79.285506,2,Redkey Road (963),a
 43.85078,-79.32855,2,Bonnycastle Road (082),a
-43.8507863,-79.1897403,2,Gordon Murison Lane (494),a
-43.8507863,-79.1897403,2,Gordon Murison Lane (971),a
 43.8507875,-79.3548381,2,Lunar Crescent (427),a
 43.8507939,-79.3226445,2,Andre De Grasse Street (234),a
 43.8507939,-79.3226445,2,Andre De Grasse Street (806),a
@@ -11196,8 +11165,6 @@ lat,lon,sz,names,len_cat
 43.8531434,-79.24143,2,Song Bird Drive (504),a
 43.853147,-79.3383945,2,South Town Centre Boulevard (819),a
 43.853147,-79.3383945,2,South Town Centre Boulevard (819),a
-43.8531472,-79.1799911,2,Beare Road (027),a
-43.8531472,-79.1799911,2,Beare Road (231),a
 43.8531561,-79.3141803,2,Enterprise Boulevard (786),a
 43.8531561,-79.3141803,2,Enterprise Boulevard (786),a
 43.8531586,-79.2625911,2,Vanni Avenue (304),a
@@ -12258,8 +12225,6 @@ lat,lon,sz,names,len_cat
 43.8552723,-79.2911137,2,Caboto Trail (551),a
 43.8552729,-79.3399948,2,Town Centre Boulevard (402),a
 43.8552729,-79.3399948,2,Town Centre Boulevard (402),a
-43.8552741,-79.1710263,2,Steeles Avenue East (566),a
-43.8552741,-79.1710263,2,Steeles Avenue East (844),a
 43.855278,-79.2432336,2,Boxwood Crescent (688),a
 43.855278,-79.2432336,2,Boxwood Crescent (688),a
 43.8552788,-79.3338814,2,Warden Avenue (104),a
@@ -12341,7 +12306,6 @@ lat,lon,sz,names,len_cat
 43.8553751,-79.2574141,2,14th Avenue (944),a
 43.855376,-79.3400145,2,Town Centre Boulevard (400),a
 43.855376,-79.3400145,2,Town Centre Boulevard (400),a
-43.8553802,-79.1709242,2,Steeles Avenue East (813),a
 43.8553817,-79.3443526,2,Alpen Way (608),a
 43.8553834,-79.3412396,2,Cox Boulevard (306),a
 43.8553845,-79.3398671,2,Town Centre Boulevard (386),a
@@ -12396,8 +12360,6 @@ lat,lon,sz,names,len_cat
 43.8554408,-79.2573115,2,14th Avenue (329),a
 43.8554409,-79.2310352,2,Ridgevale Drive (354),a
 43.8554409,-79.2310352,2,Ridgevale Drive (354),a
-43.8554425,-79.1702147,2,Scarborough-Pickering Townline Road (001),a
-43.8554425,-79.1702147,2,Scarborough-Pickering Townline Road (402),a
 43.8554486,-79.3105459,2,Enterprise Boulevard (747),a
 43.8554497,-79.3406353,2,Cox Boulevard (310),a
 43.8554497,-79.3406353,2,Cox Boulevard (320),a
@@ -12435,7 +12397,6 @@ lat,lon,sz,names,len_cat
 43.8554682,-79.3398902,2,Town Centre Boulevard (388),a
 43.8554682,-79.3398902,2,Town Centre Boulevard (388),a
 43.8554708,-79.246998,2,Teversham Court (221),a
-43.855473,-79.1704466,2,Steeles Avenue East (560),a
 43.8554749,-79.3104137,2,Enterprise Boulevard (790),a
 43.85548,-79.3107984,2,Enterprise Boulevard (794),a
 43.8554837,-79.2625756,2,Travail Road (835),a

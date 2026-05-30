@@ -1,7 +1,4 @@
 lat,lon,sz,names,len_cat
-44.7014879,-79.9063161,2,Marshall Road (112),a
-44.7111899,-79.9146234,2,Angela Schmidt Foster Road (693),a
-44.7111899,-79.9146234,2,The Angela Schmidt Foster Road (975),a
 44.7147141,-79.895897,2,Sarah Burke Memorial Highway (103),a
 44.7147141,-79.895897,2,Sarah Burke Memorial Highway (103),a
 44.7148247,-79.8959554,2,Sarah Burke Memorial Highway (245),a
@@ -22,7 +19,7 @@ lat,lon,sz,names,len_cat
 44.7182357,-79.8988317,2,Angela Schmidt Foster Road (709),a
 44.7184567,-79.8984108,2,Angela Schmidt Foster Road (711),a
 44.7187436,-79.8977446,2,Angela Schmidt Foster Road (712),a
-44.7187436,-79.8977446,2,County 93 Road (142),a
+44.7187436,-79.8977446,2,County Road 93 (138),a
 44.7187436,-79.8977446,2,Highway 12 (224),a
 44.7187436,-79.8977446,2,Sarah Burke Memorial Highway (243),a
 44.719116,-79.8906872,2,Brebeuf Road (994),a
@@ -32,8 +29,8 @@ lat,lon,sz,names,len_cat
 44.719583,-79.8910238,2,Brebeuf Road (996),a
 44.7197496,-79.8910412,2,Brebeuf Road (997),a
 44.7198756,-79.8910388,2,Brebeuf Road (998),a
-44.7200529,-79.8983704,2,County 93 Road (145),a
-44.7200529,-79.8983704,2,County 93 Road (145),a
+44.7200529,-79.8983704,2,County Road 93 (139),a
+44.7200529,-79.8983704,2,County Road 93 (139),a
 44.7200529,-79.8983704,2,County Road 93 (923),a
 44.7200529,-79.8983704,2,County Road 93 (923),a
 44.720118,-79.8909539,2,Brebeuf Road (999),a
@@ -90,8 +87,6 @@ lat,lon,sz,names,len_cat
 44.7237341,-79.8863395,2,Highway 12 (206),a
 44.7237341,-79.8863395,2,Les Barber Boulevard (184),a
 44.7237341,-79.8863395,2,Sumac Lane (178),a
-44.7241323,-79.9257334,2,Balm Beach Road East (537),a
-44.7241323,-79.9257334,2,Balm Beach Road East (687),a
 44.7242518,-79.886766,2,Sumac Lane (885),a
 44.7244395,-79.9248943,2,Balm Beach Road East (538),a
 44.7248831,-79.9232445,2,Balm Beach Road East (539),a
@@ -113,7 +108,6 @@ lat,lon,sz,names,len_cat
 44.7270051,-79.9182171,2,Balm Beach Road East (542),a
 44.7271125,-79.9014537,2,County Road 93 (926),a
 44.7273008,-79.8898696,2,Sumac Lane (190),a
-44.7273216,-79.9284369,2,Old School House Road (287),a
 44.7274729,-79.917236,2,Balm Beach Road East (543),a
 44.7277478,-79.9167889,2,Balm Beach Road East (544),a
 44.7277478,-79.8902787,2,Sumac Lane (191),a
@@ -121,8 +115,6 @@ lat,lon,sz,names,len_cat
 44.7281889,-79.8940024,2,Sumac Lane (203),a
 44.7282359,-79.8939444,2,Sumac Lane (886),a
 44.7284172,-79.8937207,2,Sumac Lane (202),a
-44.7285494,-79.8754635,2,Highway 12 (219),a
-44.7285494,-79.8754635,2,Highway 12 (223),a
 44.7286229,-79.9021561,2,County Road 93 (927),a
 44.7286581,-79.8910565,2,Sumac Lane (192),a
 44.7288276,-79.8930547,2,Sumac Lane (201),a
@@ -132,8 +124,6 @@ lat,lon,sz,names,len_cat
 44.7293742,-79.891701,2,Sumac Lane (194),a
 44.72939,-79.8918578,2,Sumac Lane (196),a
 44.7293939,-79.8917675,2,Sumac Lane (195),a
-44.729587,-79.8730224,2,Highway 12 (741),a
-44.729587,-79.8730224,2,Highway 12 (741),a
 44.7305839,-79.9130262,2,Balm Beach Road East (533),a
 44.7305839,-79.9130262,2,Balm Beach Road East (546),a
 44.7305839,-79.9130262,2,Sundowner Road (454),a
@@ -199,6 +189,7 @@ lat,lon,sz,names,len_cat
 44.738723,-79.9165252,2,Lanigan Drive (314),a
 44.7387931,-79.9163653,2,Lanigan Drive (315),a
 44.7391338,-79.8574773,2,Pillsbury Drive (215),a
+44.7392335,-79.9153598,2,Lanigan Drive (158),a
 44.7392335,-79.9153598,2,Lanigan Drive (936),a
 44.7392911,-79.9152284,2,Lanigan Drive (117),a
 44.7395105,-79.8573309,2,Pillsbury Drive (216),a
@@ -276,8 +267,6 @@ lat,lon,sz,names,len_cat
 44.7430014,-79.8963019,2,Norene Street (834),a
 44.7430303,-79.8528206,2,Riverwalk Place (638),a
 44.743152,-79.8561136,2,Pillsbury Drive (223),a
-44.7431533,-79.9422669,2,Golf Link Road (142),a
-44.7431533,-79.9422669,2,Golf Link Road (183),a
 44.7431722,-79.856104,2,Pillsbury Drive (460),a
 44.7432503,-79.896517,2,Norene Street (837),a
 44.7432811,-79.8930846,2,Seventh Street (524),a
@@ -344,6 +333,7 @@ lat,lon,sz,names,len_cat
 44.7456884,-79.9363339,2,Golf Link Road (132),a
 44.7457584,-79.9368942,2,Par Four Drive (177),a
 44.7457594,-79.9237257,2,County Road 93 (906),a
+44.7458415,-79.9238551,2,County Road 93 (137),a
 44.7460231,-79.9355445,2,Golf Link Road (134),a
 44.7460294,-79.9369822,2,Par Four Drive (178),a
 44.7461158,-79.9242875,2,County Road 93 (907),a
@@ -460,6 +450,8 @@ lat,lon,sz,names,len_cat
 44.748599,-79.9237352,2,Vindin Street (850),a
 44.7486065,-79.9297239,2,Golf Link Road (105),a
 44.7487219,-79.9243015,2,Vindin Street (849),a
+44.7487501,-79.9266204,2,County Road 93 (141),a
+44.7487501,-79.9266204,2,County Road 93 (143),a
 44.7487501,-79.9266204,2,County Road 93 (913),a
 44.7487826,-79.9293038,2,Golf Link Road (109),a
 44.7487891,-79.8642062,2,Taylor Drive (167),a
@@ -485,6 +477,10 @@ lat,lon,sz,names,len_cat
 44.7491428,-79.9279022,2,Golf Link Road (039),a
 44.7491534,-79.9275663,2,Golf Link Road (122),a
 44.7491537,-79.9274541,2,Golf Link Road (124),a
+44.7491537,-79.9274541,2,Golf Link Road (149),a
+44.7491537,-79.9274541,2,Golf Link Road (150),a
+44.7491595,-79.9260292,2,Vindin Street (208),a
+44.7491595,-79.9260292,2,Vindin Street (209),a
 44.7491595,-79.9260292,2,Vindin Street (844),a
 44.7492592,-79.8641381,2,Taylor Drive (166),a
 44.7492622,-79.9271552,2,Golf Link Road (445),a
@@ -492,6 +488,8 @@ lat,lon,sz,names,len_cat
 44.7493394,-79.9270929,2,County Road 93 (446),a
 44.7494145,-79.9267222,2,County Road 93 (451),a
 44.7494168,-79.8641587,2,Taylor Drive (518),a
+44.7496518,-79.9270085,2,County Road 93 (140),a
+44.7496518,-79.9270085,2,County Road 93 (142),a
 44.7496518,-79.9270085,2,County Road 93 (937),a
 44.7496617,-79.8626943,2,Aberdeen Boulevard (157),a
 44.7497812,-79.8628334,2,Aberdeen Boulevard (771),a
@@ -597,8 +595,6 @@ lat,lon,sz,names,len_cat
 44.7550626,-79.8841554,2,Bayshore Drive (942),a
 44.7550626,-79.8841554,2,Manly Street (222),a
 44.7551058,-79.9271691,2,County Road 93 (946),a
-44.7552669,-79.9221102,2,Murray Road (499),a
-44.7552669,-79.9221102,2,Murray Road (499),a
 44.7559289,-79.9270292,2,County Road 93 (947),a
 44.7559525,-79.8831979,2,Bayshore Drive (922),a
 44.756282,-79.882816,2,Bayshore Drive (079),a
@@ -612,10 +608,7 @@ lat,lon,sz,names,len_cat
 44.7583296,-79.8788455,2,Bayshore Drive (929),a
 44.7583653,-79.8785097,2,Bayshore Drive (930),a
 44.7583874,-79.8782001,2,Bayshore Drive (931),a
-44.761168,-79.9212678,2,Brunelle Sideroad (462),a
-44.761168,-79.9212678,2,Brunelle Sideroad (462),a
 44.7677337,-79.9007511,2,Fuller Avenue (409),a
-44.7692722,-79.9020841,2,Fuller Avenue (383),a
 44.7692722,-79.9020841,2,Fuller Avenue (413),a
 44.7692722,-79.9020841,2,Midland Point Road (387),a
 44.7693678,-79.9014626,2,Gawley Drive (567),a
@@ -626,7 +619,6 @@ lat,lon,sz,names,len_cat
 44.769395,-79.9008289,2,Gawley Drive (568),a
 44.7695545,-79.8981325,2,Gawley Drive (570),a
 44.7695545,-79.8981325,2,Gawley Drive (570),a
-44.7695613,-79.9023459,2,Fuller Avenue (386),a
 44.7696345,-79.8964347,2,Gawley Drive (571),a
 44.7696345,-79.8964347,2,Gawley Drive (572),a
 44.7696345,-79.8964347,2,Parkview Court (924),a
@@ -665,7 +657,7 @@ lat,lon,sz,names,len_cat
 44.7725236,-79.8899707,2,Portage Park Lane (462),a
 44.7725675,-79.8910967,2,Portage Park Lane (479),a
 44.772568,-79.8899066,2,Portage Park Lane (463),a
-44.7725888,-79.8901018,2,Portage Park Lane (461),a
+44.7725888,-79.8901018,2,Portage Park Lane (185),a
 44.7725888,-79.8901018,2,Portage Park Lane (465),a
 44.7725888,-79.8901018,2,Portage Park Lane (485),a
 44.772599,-79.8901984,2,Portage Park Lane (484),a
@@ -716,8 +708,6 @@ lat,lon,sz,names,len_cat
 44.7752782,-79.8884667,2,Glenbrook Drive (896),a
 44.7753112,-79.8917618,2,Midland Point Road (381),a
 44.7754122,-79.891641,2,Midland Point Road (382),a
-44.7754627,-79.9074626,2,Fuller Avenue (982),a
-44.7754627,-79.9074626,2,Fuller Avenue (982),a
 44.7755069,-79.8914794,2,Midland Point Road (383),a
 44.7760775,-79.8901038,2,Glenbrook Drive (900),a
 44.7760775,-79.8901038,2,Midland Point Road (369),a
@@ -755,8 +745,8 @@ lat,lon,sz,names,len_cat
 44.7800983,-79.8732907,2,Estate Court (959),a
 44.7801543,-79.8760512,2,Curry Road (100),a
 44.7802982,-79.8725663,2,Estate Court (942),a
-44.7803101,-79.8728568,2,Estate Court (939),a
-44.7803101,-79.8728568,2,Estate Court (939),a
+44.7803101,-79.8728568,2,Estate Court (146),a
+44.7803101,-79.8728568,2,Estate Court (146),a
 44.7803101,-79.8728568,2,Estate Court (952),a
 44.7803101,-79.8728568,2,Estate Court (952),a
 44.7803101,-79.8728568,2,Estate Court (961),a
@@ -774,7 +764,6 @@ lat,lon,sz,names,len_cat
 44.7811501,-79.878056,2,Midland Point Road (367),a
 44.7812209,-79.8675864,2,Lakewood Drive (120),a
 44.7813672,-79.8675056,2,Lakewood Drive (121),a
-44.7814949,-79.8772332,2,Curry Road (088),a
 44.7814949,-79.8772332,2,Curry Road (101),a
 44.7814949,-79.8772332,2,Midland Point Road (359),a
 44.7814949,-79.8772332,2,Midland Point Road (368),a
@@ -806,8 +795,6 @@ lat,lon,sz,names,len_cat
 44.7858565,-79.8667264,2,Midland Point Road (400),a
 44.7858972,-79.8666102,2,Islandview Lane (593),a
 44.7859915,-79.8665764,2,Islandview Lane (594),a
-44.7862507,-79.8812468,2,Curry Road (091),a
-44.7862507,-79.8812468,2,Curry Road (559),a
 44.7864649,-79.8666609,2,Islandview Lane (595),a
 44.7871939,-79.8667214,2,Islandview Lane (596),a
 44.7880394,-79.8668688,2,Islandview Lane (597),a
@@ -818,4 +805,3 @@ lat,lon,sz,names,len_cat
 44.7901644,-79.8675768,2,Islandview Lane (602),a
 44.7909053,-79.8679224,2,Islandview Lane (603),a
 44.7914025,-79.8681333,2,Islandview Lane (604),a
-44.7916955,-79.8683138,2,Islandview Lane (605),a

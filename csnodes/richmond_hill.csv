@@ -1296,7 +1296,6 @@ lat,lon,sz,names,len_cat
 43.8419472,-79.423067,2,Red Maple Road (112),a
 43.8419681,-79.4542403,2,Moodie Drive (940),a
 43.8419681,-79.4542403,2,Moodie Drive (940),a
-43.8419731,-79.393353,2,Highway 7 (208),a
 43.8419767,-79.4535435,2,Jenkins Drive (274),a
 43.8419767,-79.4535435,2,Jenkins Drive (274),a
 43.8419787,-79.4229637,2,High Tech Road (220),a
@@ -1307,8 +1306,6 @@ lat,lon,sz,names,len_cat
 43.8419943,-79.423215,2,Red Maple Road (072),a
 43.8420136,-79.4542765,2,Moodie Drive (941),a
 43.8420136,-79.4542765,2,Moodie Drive (941),a
-43.8420253,-79.3931225,2,Highway 7 (565),a
-43.8420253,-79.3931225,2,Highway 7 (568),a
 43.8420288,-79.4231022,2,High Tech Road (666),a
 43.8420288,-79.4231022,2,High Tech Road (689),a
 43.8420288,-79.4231022,2,Red Maple Road (050),a
@@ -1324,7 +1321,6 @@ lat,lon,sz,names,len_cat
 43.8421018,-79.453478,2,Jenkins Drive (276),a
 43.8421018,-79.453478,2,Jenkins Drive (276),a
 43.842119,-79.4231539,2,Red Maple Road (179),a
-43.8421508,-79.3926038,2,Highway 7 (705),a
 43.8421578,-79.4226634,2,High Tech Road (665),a
 43.8421645,-79.4534515,2,Jenkins Drive (277),a
 43.8421645,-79.4534515,2,Jenkins Drive (277),a
@@ -1334,27 +1330,20 @@ lat,lon,sz,names,len_cat
 43.8421824,-79.4224886,2,High Tech Road (442),a
 43.8421824,-79.4224886,2,High Tech Road (664),a
 43.8421824,-79.4224886,2,High Tech Road (681),a
-43.8422083,-79.3918365,2,Times Avenue (240),a
 43.842209,-79.4223936,2,High Tech Road (237),a
 43.8422363,-79.4534372,2,Jenkins Drive (278),a
 43.8422363,-79.4534372,2,Jenkins Drive (278),a
-43.84224,-79.3917115,2,Valleymede Drive (524),a
 43.842247,-79.4222578,2,High Tech Road (238),a
 43.8422596,-79.4222129,2,High Tech Road (239),a
 43.8422695,-79.454556,2,Moodie Drive (944),a
 43.8422695,-79.454556,2,Moodie Drive (944),a
 43.8422729,-79.4302691,2,Yonge Street (408),a
 43.8422729,-79.4302691,2,Yonge Street (408),a
-43.8422733,-79.3920528,2,Highway 7 (570),a
 43.8422812,-79.4534236,2,Jenkins Drive (279),a
 43.8422812,-79.4534236,2,Jenkins Drive (279),a
 43.8422937,-79.4233813,2,Red Maple Road (054),a
 43.8423014,-79.4357338,2,Sunnywood Crescent (142),a
 43.8423081,-79.4218135,2,High Tech Road (240),a
-43.8423081,-79.3918781,2,Highway 7 (567),a
-43.8423081,-79.3918781,2,Times Avenue (239),a
-43.8423081,-79.3918781,2,Valleymede Drive (108),a
-43.8423081,-79.3918781,2,Valleymede Drive (118),a
 43.8423093,-79.4356465,2,Sunnywood Crescent (140),a
 43.8423113,-79.4357957,2,Sunnywood Crescent (143),a
 43.8423116,-79.4358206,2,Sunnywood Crescent (146),a
@@ -1363,10 +1352,6 @@ lat,lon,sz,names,len_cat
 43.8423192,-79.4232687,2,Red Maple Road (051),a
 43.84233,-79.435845,2,Sunnywood Crescent (147),a
 43.8423346,-79.4355214,2,Sunnywood Crescent (138),a
-43.8423408,-79.3917498,2,Highway 7 (455),a
-43.8423408,-79.3917498,2,Highway 7 (535),a
-43.8423408,-79.3917498,2,Valleymede Drive (109),a
-43.8423408,-79.3917498,2,Valleymede Drive (123),a
 43.8423416,-79.4406464,2,Claridge Drive (583),a
 43.8423416,-79.4406464,2,Westwood Lane (580),a
 43.8423427,-79.4546411,2,Moodie Drive (945),a
@@ -1377,7 +1362,6 @@ lat,lon,sz,names,len_cat
 43.8423707,-79.453384,2,Jenkins Drive (282),a
 43.8423707,-79.453384,2,Jenkins Drive (282),a
 43.8423753,-79.4358687,2,Sunnywood Crescent (151),a
-43.8423804,-79.391585,2,Highway 7 (533),a
 43.8423976,-79.391894,2,Valleymede Drive (106),a
 43.842398,-79.4547392,2,Moodie Drive (946),a
 43.842398,-79.4547392,2,Moodie Drive (946),a
@@ -1501,16 +1485,10 @@ lat,lon,sz,names,len_cat
 43.8426963,-79.4186311,2,High Tech Road (248),a
 43.8426963,-79.4186311,2,High Tech Road (248),a
 43.8426981,-79.4469939,2,Bryson Drive (549),a
-43.8426989,-79.4175239,2,High Tech Road (250),a
-43.8426989,-79.4175239,2,High Tech Road (250),a
 43.8426993,-79.447081,2,Bryson Drive (548),a
 43.842701,-79.4472053,2,Bryson Drive (547),a
 43.8427013,-79.4189917,2,High Tech Road (247),a
 43.8427013,-79.4189917,2,High Tech Road (247),a
-43.8427048,-79.4172998,2,High Tech Road (251),a
-43.8427048,-79.4172998,2,High Tech Road (251),a
-43.8427048,-79.4172998,2,Moresby Street (257),a
-43.8427048,-79.4172998,2,Moresby Street (257),a
 43.8427052,-79.4065632,2,Creswick Road (102),a
 43.8427052,-79.4065632,2,Creswick Road (102),a
 43.8427052,-79.4065632,2,Creswick Road (138),a
@@ -1523,11 +1501,8 @@ lat,lon,sz,names,len_cat
 43.8427265,-79.4530638,2,Jenkins Drive (292),a
 43.8427303,-79.4306238,2,Yonge Street (983),a
 43.8427303,-79.4306238,2,Yonge Street (983),a
-43.8427386,-79.4164903,2,Ferris Street (508),a
-43.8427386,-79.4164903,2,High Tech Road (252),a
 43.8427511,-79.4555512,2,Moodie Drive (926),a
 43.8427552,-79.446557,2,Bryson Drive (551),a
-43.8427579,-79.41593,2,High Tech Road (253),a
 43.8427587,-79.4474775,2,Bryson Drive (545),a
 43.8427619,-79.4238241,2,Oneida Crescent (461),a
 43.8427664,-79.4553517,2,Tennison Road (664),a
@@ -1535,18 +1510,12 @@ lat,lon,sz,names,len_cat
 43.8427707,-79.4237811,2,Oneida Crescent (997),a
 43.8427711,-79.4147871,2,Silver Linden Drive (073),a
 43.8427719,-79.4491068,2,Maryvale Crescent (366),a
-43.8427742,-79.4157165,2,High Tech Road (998),a
 43.8427745,-79.3919829,2,Valleymede Drive (104),a
 43.8427745,-79.3919829,2,Valleymede Drive (113),a
 43.8427745,-79.3919829,2,Valleymede Drive (319),a
 43.8427798,-79.4530127,2,Jenkins Drive (293),a
-43.8427808,-79.4156309,2,High Tech Road (694),a
-43.8427808,-79.4156309,2,Holmwood Street (052),a
 43.842781,-79.4065408,2,Creswick Road (434),a
 43.842781,-79.4065408,2,Creswick Road (434),a
-43.8428016,-79.4151743,2,High Tech Road (622),a
-43.8428034,-79.4173256,2,Moresby Street (299),a
-43.8428034,-79.4173256,2,Moresby Street (299),a
 43.8428045,-79.4146458,2,Silver Linden Drive (838),a
 43.8428056,-79.4383456,2,Westwood Lane (578),a
 43.8428071,-79.455699,2,Moodie Drive (927),a
@@ -1557,27 +1526,16 @@ lat,lon,sz,names,len_cat
 43.8428114,-79.442749,2,Orlon Crescent (303),a
 43.8428114,-79.442749,2,Orlon Crescent (303),a
 43.8428244,-79.4476748,2,Bryson Drive (544),a
-43.8428274,-79.416488,2,Ferris Street (916),a
 43.8428286,-79.4552879,2,Tennison Road (665),a
 43.8428286,-79.4552879,2,Tennison Road (665),a
 43.8428303,-79.4428107,2,Orlon Crescent (305),a
 43.8428303,-79.4428107,2,Orlon Crescent (305),a
-43.8428308,-79.4148968,2,High Tech Road (623),a
 43.8428349,-79.4424871,2,Orlon Crescent (299),a
 43.8428349,-79.4424871,2,Orlon Crescent (299),a
-43.8428376,-79.4164877,2,Ferris Street (509),a
-43.8428406,-79.4153062,2,High Tech Road (621),a
-43.8428406,-79.4153062,2,High Tech Road (695),a
-43.8428406,-79.4153062,2,High Tech Road (710),a
 43.8428417,-79.4331073,2,Sunnywood Crescent (134),a
 43.8428441,-79.4557727,2,Moodie Drive (928),a
 43.8428509,-79.4463057,2,Bryson Drive (552),a
 43.8428516,-79.4529984,2,Jenkins Drive (294),a
-43.8428582,-79.4147207,2,High Tech Road (624),a
-43.8428582,-79.4147207,2,High Tech Road (625),a
-43.8428582,-79.4147207,2,Silver Linden Drive (140),a
-43.8428582,-79.4147207,2,Silver Linden Drive (141),a
-43.8428582,-79.4147207,2,Silver Linden Drive (593),a
 43.8428615,-79.4065476,2,Creswick Road (435),a
 43.8428615,-79.4065476,2,Creswick Road (435),a
 43.8428641,-79.4552497,2,Tennison Road (666),a
@@ -1586,12 +1544,9 @@ lat,lon,sz,names,len_cat
 43.8428671,-79.4428719,2,Orlon Crescent (306),a
 43.8428722,-79.4558466,2,Moodie Drive (929),a
 43.8428741,-79.4145956,2,High Tech Road (626),a
-43.8428863,-79.4173472,2,Moresby Street (258),a
-43.8428863,-79.4173472,2,Moresby Street (258),a
 43.8428888,-79.3920108,2,Valleymede Drive (174),a
 43.8428916,-79.4575962,2,Bathurst Street (628),a
 43.842893,-79.4236317,2,Red Maple Road (205),a
-43.8428974,-79.4156538,2,Holmwood Street (088),a
 43.8428991,-79.4551741,2,Tennison Road (667),a
 43.8428991,-79.4551741,2,Tennison Road (667),a
 43.8428992,-79.4065549,2,Creswick Road (436),a
@@ -1602,45 +1557,30 @@ lat,lon,sz,names,len_cat
 43.8429083,-79.4478841,2,Bryson Drive (543),a
 43.8429085,-79.4306716,2,Yonge Street (982),a
 43.8429085,-79.4306716,2,Yonge Street (982),a
-43.8429107,-79.4152052,2,High Tech Road (709),a
-43.842912,-79.416495,2,Ferris Street (510),a
 43.8429182,-79.45592,2,Moodie Drive (930),a
 43.8429319,-79.4141963,2,High Tech Road (627),a
 43.8429332,-79.4490528,2,Maryvale Crescent (369),a
-43.8429368,-79.4164975,2,Ferris Street (511),a
 43.8429395,-79.4428949,2,Orlon Crescent (309),a
 43.8429395,-79.4428949,2,Orlon Crescent (309),a
 43.8429416,-79.4529961,2,Jenkins Drive (295),a
 43.8429424,-79.4550486,2,Tennison Road (668),a
 43.8429424,-79.4550486,2,Tennison Road (668),a
 43.8429475,-79.3920252,2,Valleymede Drive (732),a
-43.8429488,-79.4156639,2,Holmwood Street (053),a
 43.8429503,-79.4575463,2,Bathurst Street (791),a
 43.8429547,-79.4559564,2,Moodie Drive (931),a
-43.8429568,-79.4149285,2,High Tech Road (708),a
 43.842968,-79.4200127,2,Nahanni Drive (776),a
 43.8429707,-79.4375324,2,Westwood Lane (577),a
-43.8429744,-79.41476,2,High Tech Road (634),a
-43.8429744,-79.41476,2,High Tech Road (707),a
-43.8429744,-79.41476,2,Silver Linden Drive (138),a
-43.8429744,-79.41476,2,Silver Linden Drive (594),a
-43.8429802,-79.4146171,2,High Tech Road (633),a
 43.8429847,-79.4141078,2,High Tech Road (443),a
 43.8429847,-79.4141078,2,High Tech Road (628),a
 43.8429847,-79.4141078,2,High Tech Road (631),a
 43.8429893,-79.437435,2,Pearson Avenue (558),a
 43.8429893,-79.437435,2,Westwood Lane (576),a
-43.8429925,-79.4156725,2,Holmwood Street (462),a
-43.843009,-79.4139081,2,High Tech Road (254),a
-43.843009,-79.4139081,2,Navarre Street (997),a
-43.8430272,-79.41652,2,Ferris Street (512),a
 43.8430307,-79.420028,2,Nahanni Drive (008),a
 43.8430307,-79.420028,2,Nahanni Drive (009),a
 43.8430307,-79.420028,2,Waterton Crescent (639),a
 43.8430321,-79.4142118,2,High Tech Road (632),a
 43.8430365,-79.4560165,2,Moodie Drive (932),a
 43.8430444,-79.419941,2,Waterton Crescent (459),a
-43.8430502,-79.4147813,2,Silver Linden Drive (531),a
 43.8430721,-79.4374776,2,Pearson Avenue (557),a
 43.8430884,-79.3920597,2,Valleymede Drive (733),a
 43.8430939,-79.4489491,2,Maryvale Crescent (371),a
@@ -1652,13 +1592,9 @@ lat,lon,sz,names,len_cat
 43.8430946,-79.4066036,2,Creswick Road (142),a
 43.8430969,-79.4412363,2,Orlon Crescent (296),a
 43.8430969,-79.4412363,2,Orlon Crescent (296),a
-43.8431073,-79.4132089,2,High Tech Road (255),a
 43.8431216,-79.4409062,2,Claridge Drive (042),a
-43.8431313,-79.4139297,2,Navarre Street (998),a
 43.843136,-79.4560513,2,Moodie Drive (933),a
 43.8431382,-79.441046,2,Orlon Crescent (074),a
-43.8431382,-79.4130817,2,High Tech Road (256),a
-43.8431382,-79.4130817,2,Magenta Street (905),a
 43.8431446,-79.4304838,2,Yonge Street (407),a
 43.8431446,-79.4304838,2,Yonge Street (407),a
 43.8431466,-79.419291,2,Waterton Crescent (640),a
@@ -1677,7 +1613,6 @@ lat,lon,sz,names,len_cat
 43.8431701,-79.4190416,2,Waterton Crescent (642),a
 43.8431731,-79.4062012,2,Creswick Road (113),a
 43.8431731,-79.4062012,2,Creswick Road (113),a
-43.8431824,-79.4139387,2,Navarre Street (999),a
 43.8431865,-79.4307461,2,Yonge Street (414),a
 43.8431865,-79.4307461,2,Yonge Street (414),a
 43.8431997,-79.4258307,2,Oneida Crescent (558),a
@@ -1690,7 +1625,6 @@ lat,lon,sz,names,len_cat
 43.8432392,-79.4058658,2,Creswick Road (115),a
 43.8432392,-79.4058658,2,Creswick Road (115),a
 43.8432395,-79.4576163,2,Bathurst Street (793),a
-43.8432471,-79.4131156,2,Magenta Street (906),a
 43.8432675,-79.4182677,2,Waterton Crescent (646),a
 43.8432675,-79.4182677,2,Waterton Crescent (646),a
 43.8432745,-79.4058151,2,Creswick Road (116),a
@@ -1698,8 +1632,6 @@ lat,lon,sz,names,len_cat
 43.8432808,-79.4360562,2,Sunnywood Crescent (157),a
 43.8432808,-79.4360562,2,Westwood Lane (575),a
 43.8433034,-79.4485896,2,Bryson Drive (099),a
-43.8433053,-79.4131271,2,Magenta Street (907),a
-43.8433158,-79.4139622,2,Navarre Street (000),a
 43.8433258,-79.448633,2,Bryson Drive (918),a
 43.8433306,-79.4182785,2,Waterton Crescent (647),a
 43.8433306,-79.4182785,2,Waterton Crescent (647),a
@@ -1723,7 +1655,6 @@ lat,lon,sz,names,len_cat
 43.8433851,-79.4576536,2,Bathurst Street (796),a
 43.8433851,-79.4576536,2,Teefy Avenue (550),a
 43.8433914,-79.4576245,2,Teefy Avenue (551),a
-43.8433947,-79.4157515,2,Holmwood Street (054),a
 43.8434132,-79.4575045,2,Teefy Avenue (552),a
 43.843421,-79.418301,2,Waterton Crescent (648),a
 43.843421,-79.418301,2,Waterton Crescent (648),a
@@ -1731,9 +1662,7 @@ lat,lon,sz,names,len_cat
 43.8434398,-79.4305515,2,Yonge Street (042),a
 43.8434398,-79.4305515,2,Yonge Street (454),a
 43.8434398,-79.4305515,2,Yonge Street (454),a
-43.8434398,-79.4131628,2,Magenta Street (908),a
 43.8434493,-79.4486041,2,Maryvale Crescent (241),a
-43.8434513,-79.4139959,2,Navarre Street (001),a
 43.8434569,-79.4075608,2,Bayview Avenue (957),a
 43.8434569,-79.4075608,2,Bayview Avenue (962),a
 43.84348,-79.4571351,2,Teefy Avenue (553),a
@@ -1744,8 +1673,6 @@ lat,lon,sz,names,len_cat
 43.8435286,-79.4484776,2,Maryvale Crescent (244),a
 43.8435477,-79.4183474,2,Waterton Crescent (649),a
 43.8435477,-79.4183474,2,Waterton Crescent (649),a
-43.8435506,-79.4120651,2,High Tech Road (259),a
-43.8435506,-79.4120651,2,Monet Street (274),a
 43.8435565,-79.4445707,2,Bryson Drive (554),a
 43.8435866,-79.4444642,2,Bryson Drive (882),a
 43.8435986,-79.4562406,2,Moodie Drive (934),a
@@ -1758,7 +1685,6 @@ lat,lon,sz,names,len_cat
 43.8436167,-79.4443577,2,Silkstone Gate (117),a
 43.8436167,-79.4200862,2,Waterton Crescent (460),a
 43.8436287,-79.4442947,2,Silkstone Gate (007),a
-43.8436316,-79.4121728,2,Monet Street (275),a
 43.8436363,-79.4442553,2,Silkstone Gate (008),a
 43.8436486,-79.3921906,2,Valleymede Drive (734),a
 43.8436662,-79.4074183,2,Bayview Avenue (049),a
@@ -1766,16 +1692,13 @@ lat,lon,sz,names,len_cat
 43.8436663,-79.4202169,2,Nahanni Drive (885),a
 43.8436758,-79.4443814,2,Denham Drive (014),a
 43.8436784,-79.4482374,2,Maryvale Crescent (249),a
-43.843679,-79.4122359,2,Monet Street (276),a
 43.8436792,-79.4562736,2,Moodie Drive (935),a
 43.8436792,-79.4562736,2,Teefy Avenue (554),a
 43.8436792,-79.4562736,2,Teefy Avenue (562),a
-43.8437006,-79.4118496,2,High Tech Road (260),a
 43.8437012,-79.4183806,2,Waterton Crescent (650),a
 43.8437012,-79.4183806,2,Waterton Crescent (650),a
 43.8437318,-79.419288,2,Waterton Crescent (656),a
 43.8437491,-79.448136,2,Maryvale Crescent (252),a
-43.8437614,-79.4123332,2,Monet Street (277),a
 43.8437627,-79.4059638,2,Creswick Road (124),a
 43.8437627,-79.4059638,2,Creswick Road (124),a
 43.8437726,-79.4577383,2,Bathurst Street (799),a
@@ -1811,11 +1734,9 @@ lat,lon,sz,names,len_cat
 43.8438268,-79.4432575,2,Orlon Crescent (258),a
 43.8438268,-79.4432575,2,Orlon Crescent (311),a
 43.8438268,-79.4432575,2,Silkstone Gate (120),a
-43.8438283,-79.4132644,2,Magenta Street (910),a
 43.8438286,-79.448022,2,Maryvale Crescent (255),a
 43.8438319,-79.4060596,2,Creswick Road (127),a
 43.8438319,-79.4060596,2,Creswick Road (127),a
-43.8438344,-79.4124059,2,Monet Street (278),a
 43.8438348,-79.4518119,2,Udine Court (131),a
 43.8438365,-79.4520285,2,Udine Court (607),a
 43.8438541,-79.4309191,2,Yonge Street (165),a
@@ -1824,18 +1745,15 @@ lat,lon,sz,names,len_cat
 43.843867,-79.4520548,2,Udine Court (606),a
 43.8438678,-79.4063965,2,Creswick Road (130),a
 43.8438678,-79.4063965,2,Creswick Road (130),a
-43.8438684,-79.4116088,2,High Tech Road (261),a
 43.8438829,-79.4061846,2,Creswick Road (128),a
 43.8438829,-79.4061846,2,Creswick Road (128),a
 43.8438844,-79.4062965,2,Creswick Road (129),a
 43.8438844,-79.4062965,2,Creswick Road (129),a
-43.8438853,-79.4141213,2,Navarre Street (002),a
 43.84389,-79.42601,2,Oneida Crescent (559),a
 43.84389,-79.42601,2,Oneida Crescent (560),a
 43.8438954,-79.4517736,2,Udine Court (312),a
 43.8438954,-79.4517736,2,Udine Court (598),a
 43.8439021,-79.4520653,2,Udine Court (605),a
-43.8439161,-79.4124535,2,Monet Street (279),a
 43.8439172,-79.4479202,2,Maryvale Crescent (257),a
 43.8439267,-79.4419984,2,Colby Lane (034),a
 43.8439267,-79.4419984,2,Colby Lane (034),a
@@ -1852,7 +1770,6 @@ lat,lon,sz,names,len_cat
 43.843955,-79.4378076,2,MacKay Drive (070),a
 43.843955,-79.4378076,2,Pearson Avenue (555),a
 43.8439604,-79.4517932,2,Udine Court (600),a
-43.8439609,-79.4150274,2,Silver Linden Drive (530),a
 43.8439638,-79.4420845,2,Colby Lane (039),a
 43.8439638,-79.4420845,2,Colby Lane (039),a
 43.8439697,-79.4520365,2,Udine Court (128),a
@@ -1871,8 +1788,6 @@ lat,lon,sz,names,len_cat
 43.8440094,-79.4421207,2,Colby Lane (041),a
 43.8440094,-79.4421207,2,Colby Lane (041),a
 43.8440119,-79.4519083,2,Udine Court (603),a
-43.8440134,-79.41141,2,High Tech Road (262),a
-43.8440156,-79.4124882,2,Monet Street (280),a
 43.8440239,-79.4324737,2,Westwood Lane (468),a
 43.8440304,-79.4309594,2,Yonge Street (163),a
 43.8440304,-79.4309594,2,Yonge Street (163),a
@@ -1883,8 +1798,6 @@ lat,lon,sz,names,len_cat
 43.8440539,-79.4413928,2,Colby Lane (022),a
 43.8440612,-79.4412983,2,Colby Lane (020),a
 43.8440612,-79.4412983,2,Colby Lane (020),a
-43.8440627,-79.4113424,2,Far Niente Street (814),a
-43.8440627,-79.4113424,2,High Tech Road (263),a
 43.8440637,-79.4421441,2,Colby Lane (042),a
 43.8440637,-79.4421441,2,Colby Lane (042),a
 43.8440693,-79.4412359,2,Claridge Drive (565),a
@@ -1893,31 +1806,25 @@ lat,lon,sz,names,len_cat
 43.8440693,-79.4412359,2,Claridge Drive (582),a
 43.8440693,-79.4412359,2,Colby Lane (016),a
 43.8440693,-79.4412359,2,Colby Lane (016),a
-43.8440724,-79.4133326,2,Magenta Street (911),a
 43.844095,-79.4245118,2,Oneida Crescent (886),a
 43.8441006,-79.4244705,2,Oneida Crescent (887),a
 43.8441159,-79.4519456,2,Udine Court (136),a
-43.8441233,-79.4112538,2,High Tech Road (264),a
 43.8441245,-79.4242962,2,Oneida Crescent (562),a
 43.8441245,-79.4242962,2,Red Maple Road (063),a
 43.8441245,-79.4242962,2,Red Maple Road (207),a
-43.8441359,-79.4114374,2,Far Niente Street (815),a
 43.84414,-79.4477527,2,Maryvale Crescent (267),a
 43.8441507,-79.4412586,2,Claridge Drive (566),a
 43.8441507,-79.4412586,2,Claridge Drive (566),a
 43.8441586,-79.4309887,2,Yonge Street (030),a
 43.8441586,-79.4309887,2,Yonge Street (030),a
-43.8441597,-79.4150843,2,Silver Linden Drive (529),a
 43.8441606,-79.4203465,2,Grasslands Avenue (299),a
 43.8441606,-79.4203465,2,Nahanni Drive (015),a
 43.8441606,-79.4203465,2,Nahanni Drive (041),a
-43.8441692,-79.4125214,2,Monet Street (281),a
 43.8441769,-79.4202303,2,Grasslands Avenue (465),a
 43.8441804,-79.4077498,2,Bayview Avenue (034),a
 43.8441847,-79.4307233,2,Yonge Street (043),a
 43.8441847,-79.4307233,2,Yonge Street (043),a
 43.8441986,-79.4316253,2,Westwood Lane (105),a
-43.8442108,-79.4142246,2,Navarre Street (003),a
 43.8442139,-79.4412455,2,Claridge Drive (567),a
 43.8442139,-79.4412455,2,Claridge Drive (567),a
 43.8442263,-79.4068852,2,Creswick Road (574),a
@@ -1932,7 +1839,6 @@ lat,lon,sz,names,len_cat
 43.8442743,-79.4412368,2,Claridge Drive (568),a
 43.8442743,-79.4412368,2,Claridge Drive (568),a
 43.8442896,-79.4073399,2,Creswick Road (931),a
-43.8442919,-79.4116349,2,Far Niente Street (816),a
 43.8442965,-79.4070002,2,Creswick Road (576),a
 43.8442965,-79.4070002,2,Creswick Road (576),a
 43.8442985,-79.4073812,2,Creswick Road (930),a
@@ -1951,7 +1857,6 @@ lat,lon,sz,names,len_cat
 43.8443161,-79.406907,2,Creswick Road (132),a
 43.8443161,-79.406907,2,Creswick Road (136),a
 43.8443161,-79.406907,2,Creswick Road (136),a
-43.8443192,-79.4142466,2,Navarre Street (004),a
 43.8443193,-79.4310185,2,Westwood Lane (531),a
 43.8443193,-79.4310185,2,Westwood Lane (531),a
 43.8443193,-79.4310185,2,Yonge Street (029),a
@@ -1967,11 +1872,9 @@ lat,lon,sz,names,len_cat
 43.844349,-79.4307577,2,Yonge Street (491),a
 43.844349,-79.4307577,2,Yonge Street (491),a
 43.8443511,-79.4520266,2,Udine Court (138),a
-43.8443614,-79.4133996,2,Magenta Street (913),a
 43.8443645,-79.4306126,2,Beresford Drive (146),a
 43.8443645,-79.4306126,2,Beresford Drive (146),a
 43.8443734,-79.4379696,2,Pearson Avenue (554),a
-43.8443736,-79.4116825,2,Far Niente Street (817),a
 43.844388,-79.4304685,2,Beresford Drive (006),a
 43.844388,-79.4304685,2,Beresford Drive (006),a
 43.8444193,-79.430772,2,Yonge Street (198),a
@@ -1988,13 +1891,9 @@ lat,lon,sz,names,len_cat
 43.84444,-79.43015,2,Beresford Drive (147),a
 43.84444,-79.43015,2,Beresford Drive (147),a
 43.8444439,-79.4475831,2,Maryvale Crescent (273),a
-43.8444473,-79.417755,2,Moresby Street (466),a
-43.8444473,-79.417755,2,Moresby Street (466),a
-43.8444582,-79.4125884,2,Monet Street (282),a
 43.8444688,-79.4520733,2,Udine Court (140),a
 43.8444692,-79.4310509,2,Yonge Street (525),a
 43.8444692,-79.4310509,2,Yonge Street (525),a
-43.8444735,-79.4117421,2,Far Niente Street (818),a
 43.8444996,-79.4307883,2,Yonge Street (524),a
 43.8444996,-79.4307883,2,Yonge Street (524),a
 43.8445,-79.42954,2,Baffin Court (603),a
@@ -2005,21 +1904,11 @@ lat,lon,sz,names,len_cat
 43.8445,-79.42954,2,Beresford Drive (144),a
 43.8445054,-79.4294578,2,Beresford Drive (856),a
 43.8445054,-79.4294578,2,Beresford Drive (856),a
-43.8445073,-79.4178729,2,Grasslands Avenue (915),a
-43.8445073,-79.4178729,2,Grasslands Avenue (915),a
 43.8445144,-79.4521219,2,Teefy Avenue (556),a
 43.8445144,-79.4521219,2,Udine Court (142),a
 43.8445175,-79.4523458,2,Teefy Avenue (559),a
-43.8445211,-79.4177743,2,Grasslands Avenue (293),a
-43.8445211,-79.4177743,2,Grasslands Avenue (293),a
-43.8445211,-79.4177743,2,Grasslands Avenue (300),a
-43.8445211,-79.4177743,2,Grasslands Avenue (300),a
-43.8445211,-79.4177743,2,Moresby Street (259),a
-43.8445211,-79.4177743,2,Moresby Street (259),a
 43.8445222,-79.4301672,2,Baffin Court (643),a
 43.8445222,-79.4301672,2,Baffin Court (643),a
-43.8445304,-79.4106582,2,High Tech Road (265),a
-43.8445304,-79.4106582,2,Nappa Street (366),a
 43.8445334,-79.4521961,2,Teefy Avenue (557),a
 43.8445343,-79.4522582,2,Teefy Avenue (558),a
 43.84454,-79.3822648,2,Highway 7 (622),a
@@ -2031,8 +1920,6 @@ lat,lon,sz,names,len_cat
 43.844544,-79.4410493,2,Claridge Drive (571),a
 43.844544,-79.4410493,2,Claridge Drive (571),a
 43.8445452,-79.3924081,2,Valleymede Drive (736),a
-43.8445595,-79.4169273,2,Ferris Street (469),a
-43.8445595,-79.4169273,2,Ferris Street (469),a
 43.8445774,-79.3824387,2,Leslie Street (362),a
 43.8445774,-79.3824387,2,Leslie Street (362),a
 43.8445782,-79.4475298,2,Maryvale Crescent (275),a
@@ -2040,45 +1927,28 @@ lat,lon,sz,names,len_cat
 43.8445799,-79.3820911,2,Highway 7 (621),a
 43.8445853,-79.4295582,2,Baffin Court (642),a
 43.8445853,-79.4295582,2,Baffin Court (642),a
-43.8445965,-79.413468,2,Magenta Street (915),a
 43.8446035,-79.4204716,2,Nahanni Drive (045),a
-43.8446055,-79.4107481,2,Nappa Street (367),a
-43.8446095,-79.4105193,2,High Tech Road (266),a
 43.8446135,-79.3822846,2,Leslie Street (246),a
 43.8446135,-79.3822846,2,Leslie Street (246),a
 43.8446146,-79.440948,2,Claridge Drive (572),a
 43.8446146,-79.440948,2,Claridge Drive (572),a
 43.8446171,-79.4579816,2,Bathurst Street (406),a
 43.8446171,-79.4579816,2,Bathurst Street (408),a
-43.8446288,-79.4170567,2,Grasslands Avenue (897),a
-43.8446288,-79.4170567,2,Grasslands Avenue (897),a
 43.8446324,-79.4284451,2,Beresford Drive (127),a
 43.8446407,-79.4284271,2,Beresford Drive (857),a
-43.8446448,-79.41695,2,Ferris Street (513),a
-43.8446448,-79.41695,2,Ferris Street (513),a
-43.8446448,-79.41695,2,Grasslands Avenue (294),a
-43.8446448,-79.41695,2,Grasslands Avenue (294),a
-43.8446448,-79.41695,2,Grasslands Avenue (297),a
-43.8446448,-79.41695,2,Grasslands Avenue (297),a
-43.8446481,-79.4126456,2,Monet Street (283),a
 43.8446498,-79.4408849,2,Claridge Drive (573),a
 43.8446499,-79.4284073,2,Beresford Drive (128),a
-43.8446553,-79.4108077,2,Nappa Street (368),a
 43.8446575,-79.4204702,2,Nahanni Drive (048),a
 43.8446583,-79.4474655,2,Maryvale Crescent (278),a
-43.8446633,-79.4117992,2,Far Niente Street (819),a
 43.8446707,-79.4408243,2,Claridge Drive (574),a
 43.8446707,-79.4408243,2,Claridge Drive (575),a
 43.8446707,-79.4408243,2,Orlon Crescent (274),a
 43.8446763,-79.4560034,2,Bay Lily Crescent (561),a
 43.8446764,-79.4283693,2,Beresford Drive (129),a
-43.8446798,-79.4161041,2,Holmwood Street (055),a
 43.8446869,-79.4436083,2,Orlon Crescent (261),a
 43.8446888,-79.4407588,2,Claridge Drive (905),a
 43.8446935,-79.4204693,2,Nahanni Drive (050),a
 43.8447016,-79.4407218,2,Claridge Drive (576),a
-43.8447054,-79.4102928,2,High Tech Road (267),a
-43.8447135,-79.4108773,2,Nappa Street (369),a
 43.8447165,-79.4561426,2,Bay Lily Crescent (560),a
 43.844721,-79.4283432,2,Beresford Drive (130),a
 43.844727,-79.4406092,2,Claridge Drive (577),a
@@ -2086,12 +1956,8 @@ lat,lon,sz,names,len_cat
 43.8447388,-79.4474261,2,Maryvale Crescent (280),a
 43.8447425,-79.4424002,2,Colby Lane (044),a
 43.8447425,-79.4424002,2,Colby Lane (044),a
-43.8447434,-79.4162407,2,Grasslands Avenue (914),a
 43.8447468,-79.4204181,2,Nahanni Drive (052),a
 43.8447488,-79.4448119,2,Denham Drive (546),a
-43.8447594,-79.4161259,2,Grasslands Avenue (295),a
-43.8447594,-79.4161259,2,Grasslands Avenue (298),a
-43.8447594,-79.4161259,2,Holmwood Street (056),a
 43.8447624,-79.3812973,2,Highway 7 (620),a
 43.8447624,-79.3812973,2,Highway 7 (620),a
 43.8447627,-79.4409131,2,Orlon Crescent (065),a
@@ -2099,40 +1965,26 @@ lat,lon,sz,names,len_cat
 43.8447634,-79.4203181,2,Nahanni Drive (053),a
 43.844766,-79.4381216,2,Pearson Avenue (553),a
 43.844766,-79.428342,2,Beresford Drive (131),a
-43.8447662,-79.4101295,2,Berringer Street (551),a
-43.8447662,-79.4101295,2,High Tech Road (268),a
 43.8447771,-79.4436184,2,Orlon Crescent (264),a
 43.8447857,-79.4580189,2,Bathurst Street (407),a
 43.8447857,-79.4580189,2,Bathurst Street (409),a
 43.8447946,-79.4409433,2,Orlon Crescent (275),a
 43.8447946,-79.4409433,2,Orlon Crescent (275),a
-43.8447958,-79.4109622,2,Nappa Street (370),a
 43.8448193,-79.4473867,2,Maryvale Crescent (283),a
 43.8448202,-79.4283531,2,Beresford Drive (132),a
 43.8448309,-79.4436046,2,Orlon Crescent (266),a
 43.8448373,-79.4401087,2,Claridge Drive (578),a
 43.8448549,-79.4197338,2,Nahanni Drive (924),a
-43.844856,-79.4101552,2,Berringer Street (552),a
 43.8448571,-79.4435417,2,Orlon Crescent (268),a
-43.8448619,-79.4118313,2,Far Niente Street (820),a
-43.8448627,-79.4093059,2,Caymus Street (838),a
-43.8448627,-79.4093059,2,High Tech Road (696),a
-43.8448628,-79.415402,2,Grasslands Avenue (449),a
 43.8448635,-79.4550401,2,Bay Lily Crescent (562),a
 43.844871,-79.4196311,2,Nahanni Drive (016),a
 43.844871,-79.4196311,2,Nahanni Drive (055),a
 43.844871,-79.4196311,2,Sibley Street (964),a
-43.8448773,-79.4109974,2,Nappa Street (371),a
-43.8448825,-79.4152642,2,Grasslands Avenue (296),a
-43.8448825,-79.4152642,2,Iron Horse Avenue (591),a
-43.8448825,-79.4152642,2,Silver Linden Drive (528),a
 43.8448906,-79.4245432,2,Red Maple Road (451),a
 43.8448912,-79.443404,2,Orlon Crescent (270),a
 43.8448948,-79.4410278,2,Orlon Crescent (277),a
 43.8448948,-79.4410278,2,Orlon Crescent (277),a
-43.8448994,-79.4151383,2,Iron Horse Avenue (876),a
 43.8448998,-79.4473473,2,Maryvale Crescent (285),a
-43.8449035,-79.4101688,2,Berringer Street (553),a
 43.8449158,-79.4381216,2,Pearson Avenue (743),a
 43.8449158,-79.4381216,2,Scott Drive (771),a
 43.8449173,-79.4079487,2,Bayview Avenue (033),a
@@ -2141,16 +1993,12 @@ lat,lon,sz,names,len_cat
 43.8449303,-79.4379841,2,Scott Drive (158),a
 43.8449305,-79.4396833,2,Claridge Drive (579),a
 43.8449353,-79.40882,2,High Tech Road (269),a
-43.8449356,-79.4144113,2,Navarre Street (005),a
-43.8449396,-79.4148398,2,Iron Horse Avenue (592),a
 43.8449463,-79.4077542,2,Bayview Avenue (871),a
 43.8449478,-79.4396331,2,Claridge Drive (538),a
 43.8449478,-79.4396331,2,Claridge Drive (580),a
 43.8449478,-79.4396331,2,Trimingham Court (163),a
 43.8449556,-79.4283744,2,Beresford Drive (133),a
 43.8449595,-79.4196548,2,Sibley Street (458),a
-43.844965,-79.4101864,2,Berringer Street (554),a
-43.8449664,-79.4152876,2,Silver Linden Drive (527),a
 43.8449665,-79.408363,2,High Tech Road (724),a
 43.8449713,-79.4473081,2,Maryvale Crescent (288),a
 43.8449758,-79.3823822,2,Leslie Street (248),a
@@ -2164,10 +2012,6 @@ lat,lon,sz,names,len_cat
 43.8449845,-79.4085334,2,High Tech Road (722),a
 43.8449888,-79.4381216,2,Pearson Avenue (742),a
 43.8449904,-79.4081385,2,High Tech Road (725),a
-43.8449934,-79.4093378,2,Caymus Street (841),a
-43.844997,-79.4144277,2,Iron Horse Avenue (593),a
-43.844997,-79.4144277,2,Iron Horse Avenue (594),a
-43.844997,-79.4144277,2,Navarre Street (006),a
 43.8449999,-79.4080772,2,High Tech Road (726),a
 43.8450043,-79.4425166,2,Colby Lane (070),a
 43.8450043,-79.4425166,2,Colby Lane (070),a
@@ -2177,11 +2021,8 @@ lat,lon,sz,names,len_cat
 43.845025,-79.3801475,2,Highway 7 (687),a
 43.8450312,-79.4411237,2,Orlon Crescent (279),a
 43.8450312,-79.4411237,2,Orlon Crescent (279),a
-43.8450336,-79.4118765,2,Far Niente Street (821),a
 43.8450338,-79.4077712,2,Bayview Avenue (040),a
 43.8450338,-79.4077712,2,Bayview Avenue (723),a
-43.8450404,-79.4093493,2,Caymus Street (843),a
-43.8450423,-79.4135961,2,Magenta Street (918),a
 43.8450436,-79.437401,2,Scott Drive (769),a
 43.845045,-79.4448034,2,Denham Drive (545),a
 43.8450461,-79.4396994,2,Trimingham Court (101),a
@@ -2208,9 +2049,6 @@ lat,lon,sz,names,len_cat
 43.8451097,-79.3867725,2,Wertheim Court (835),a
 43.84511,-79.43029,2,Baffin Court (607),a
 43.84511,-79.43029,2,Baffin Court (607),a
-43.8451117,-79.413616,2,Iron Horse Avenue (595),a
-43.8451117,-79.413616,2,Iron Horse Avenue (599),a
-43.8451117,-79.413616,2,Magenta Street (920),a
 43.8451249,-79.4178081,2,Nahanni Drive (022),a
 43.8451249,-79.4178081,2,Nahanni Drive (022),a
 43.8451291,-79.4077969,2,Bayview Avenue (188),a
@@ -2237,11 +2075,8 @@ lat,lon,sz,names,len_cat
 43.8451528,-79.4295746,2,Beresford Drive (062),a
 43.8451547,-79.450202,2,Cividale Court (122),a
 43.8451582,-79.3865557,2,Wertheim Court (836),a
-43.8451594,-79.412762,2,Monet Street (284),a
 43.8451624,-79.4318655,2,MacKay Drive (097),a
 43.8451685,-79.436977,2,Scott Drive (766),a
-43.8451847,-79.4110887,2,Nappa Street (372),a
-43.8451962,-79.4119219,2,Far Niente Street (822),a
 43.8452088,-79.4291142,2,Beresford Drive (140),a
 43.8452088,-79.4291142,2,Beresford Drive (140),a
 43.8452118,-79.4471153,2,Maryvale Crescent (295),a
@@ -2253,9 +2088,6 @@ lat,lon,sz,names,len_cat
 43.8452309,-79.4412429,2,Orlon Crescent (282),a
 43.8452316,-79.4392051,2,Claridge Drive (091),a
 43.8452335,-79.4078241,2,Bayview Avenue (462),a
-43.8452352,-79.4127793,2,Iron Horse Avenue (596),a
-43.8452352,-79.4127793,2,Iron Horse Avenue (600),a
-43.8452352,-79.4127793,2,Monet Street (285),a
 43.8452546,-79.4285158,2,Beresford Drive (136),a
 43.8452553,-79.4314082,2,MacKay Drive (010),a
 43.8452633,-79.4176234,2,Liana Street (490),a
@@ -2289,44 +2121,31 @@ lat,lon,sz,names,len_cat
 43.8453204,-79.4398846,2,Trimingham Court (164),a
 43.8453292,-79.4309832,2,Yonge Street (199),a
 43.845331,-79.3857842,2,Wertheim Court (838),a
-43.8453389,-79.4120989,2,Iron Horse Avenue (597),a
 43.8453412,-79.4366179,2,Scott Drive (763),a
-43.845342,-79.4120784,2,Iron Horse Avenue (857),a
 43.8453426,-79.382481,2,Leslie Street (251),a
 43.8453426,-79.382481,2,Leslie Street (251),a
 43.8453443,-79.4469252,2,Maryvale Crescent (300),a
-43.8453589,-79.4119674,2,Far Niente Street (808),a
-43.8453589,-79.4119674,2,Far Niente Street (823),a
-43.8453589,-79.4119674,2,Iron Horse Avenue (598),a
 43.8453631,-79.3856408,2,Wertheim Court (037),a
 43.8453669,-79.4380349,2,Pearson Avenue (741),a
 43.8453692,-79.4500845,2,Cividale Court (124),a
 43.8453785,-79.45644,2,Bay Lily Crescent (559),a
-43.845389,-79.4154011,2,Silver Linden Drive (812),a
 43.8454061,-79.4468366,2,Maryvale Crescent (303),a
-43.8454138,-79.4094405,2,Caymus Street (828),a
-43.8454138,-79.4094405,2,Caymus Street (845),a
-43.8454138,-79.4094405,2,Opus Court (011),a
 43.845417,-79.4259239,2,Bantry Avenue (503),a
 43.8454222,-79.4197783,2,Bassett Avenue (163),a
 43.8454222,-79.4197783,2,Sibley Street (971),a
 43.8454222,-79.4197783,2,Sibley Street (973),a
 43.845427,-79.4246617,2,Red Maple Road (452),a
-43.8454272,-79.4093489,2,Opus Court (012),a
 43.8454362,-79.4196837,2,Bassett Avenue (164),a
 43.8454383,-79.4362512,2,Scott Drive (762),a
 43.8454385,-79.4255253,2,Bantry Avenue (502),a
-43.8454395,-79.4156283,2,Nahanni Drive (033),a
 43.8454407,-79.4564679,2,Bay Lily Crescent (558),a
 43.8454407,-79.4564679,2,Birch Avenue (954),a
 43.8454411,-79.378317,2,Highway 7 (615),a
 43.8454424,-79.4261792,2,Bantry Avenue (504),a
 43.8454443,-79.3852782,2,Wertheim Court (839),a
 43.8454497,-79.4500451,2,Cividale Court (125),a
-43.84545,-79.4155572,2,Nahanni Drive (626),a
 43.8454521,-79.4297796,2,Baffin Court (601),a
 43.8454521,-79.4297796,2,Baffin Court (601),a
-43.8454619,-79.4103101,2,Berringer Street (555),a
 43.8454669,-79.3825911,2,Leslie Street (253),a
 43.8454669,-79.3825911,2,Leslie Street (253),a
 43.8454669,-79.3825911,2,Leslie Street (354),a
@@ -2334,15 +2153,9 @@ lat,lon,sz,names,len_cat
 43.8454669,-79.3825911,2,Leslie Street (375),a
 43.8454669,-79.3825911,2,Leslie Street (375),a
 43.8454674,-79.4467106,2,Maryvale Crescent (305),a
-43.8454699,-79.4154228,2,Camellia Drive (957),a
-43.8454699,-79.4154228,2,Nahanni Drive (038),a
-43.8454699,-79.4154228,2,Silver Linden Drive (526),a
-43.8454739,-79.4111681,2,Nappa Street (373),a
 43.8454779,-79.4251137,2,Bantry Avenue (501),a
 43.8454826,-79.4265007,2,Bantry Avenue (505),a
 43.8454826,-79.4265007,2,Bantry Avenue (541),a
-43.8454827,-79.4153235,2,Camellia Drive (958),a
-43.8454861,-79.4152974,2,Camellia Drive (124),a
 43.8454864,-79.3781211,2,East Beaver Creek Road (252),a
 43.8454864,-79.3781211,2,Highway 7 (613),a
 43.8454864,-79.3781211,2,Highway 7 (815),a
@@ -2358,8 +2171,6 @@ lat,lon,sz,names,len_cat
 43.8455222,-79.377963,2,Highway 7 (462),a
 43.8455222,-79.377963,2,Highway 7 (814),a
 43.8455265,-79.4078748,2,Bayview Avenue (463),a
-43.8455289,-79.4086537,2,Opus Court (013),a
-43.8455367,-79.4085664,2,Opus Court (014),a
 43.8455416,-79.4444801,2,Denham Drive (543),a
 43.8455416,-79.4444801,2,Maryvale Crescent (337),a
 43.8455457,-79.4189415,2,Bassett Avenue (165),a
@@ -2367,31 +2178,25 @@ lat,lon,sz,names,len_cat
 43.8455471,-79.4247031,2,Bantry Avenue (499),a
 43.8455471,-79.4247031,2,Red Maple Road (064),a
 43.8455471,-79.4247031,2,Red Maple Road (905),a
-43.8455537,-79.4084913,2,Opus Court (015),a
 43.845554,-79.4464595,2,Maryvale Crescent (311),a
 43.845556,-79.4298053,2,Baffin Court (600),a
 43.8455648,-79.3777702,2,Highway 7 (579),a
-43.845571,-79.4084411,2,Opus Court (016),a
 43.8455743,-79.4245186,2,Bantry Avenue (494),a
 43.8455792,-79.446322,2,Maryvale Crescent (313),a
 43.8455792,-79.3781575,2,East Beaver Creek Road (251),a
 43.8455807,-79.4445408,2,Maryvale Crescent (801),a
 43.8455843,-79.4500167,2,Cividale Court (127),a
 43.8456045,-79.4389317,2,Claridge Drive (549),a
-43.8456065,-79.4084028,2,Opus Court (017),a
 43.8456088,-79.3845438,2,Wertheim Court (842),a
 43.8456117,-79.4445889,2,Maryvale Crescent (335),a
 43.8456123,-79.427026,2,Bantry Avenue (542),a
 43.8456128,-79.446147,2,Maryvale Crescent (316),a
 43.8456134,-79.3780026,2,East Beaver Creek Road (146),a
-43.8456163,-79.4142869,2,Camellia Drive (959),a
 43.8456553,-79.4459593,2,Maryvale Crescent (318),a
 43.8456553,-79.4080283,2,Bayview Avenue (036),a
 43.8456553,-79.4080283,2,Bayview Avenue (041),a
 43.8456553,-79.4080283,2,Bayview Avenue (731),a
 43.8456563,-79.4500148,2,Cividale Court (128),a
-43.8456581,-79.4140619,2,Camellia Drive (960),a
-43.8456603,-79.408389,2,Opus Court (018),a
 43.8456664,-79.424734,2,Red Maple Road (906),a
 43.8456687,-79.4180674,2,Bassett Avenue (166),a
 43.845688,-79.4179061,2,Bassett Avenue (167),a
@@ -2407,31 +2212,25 @@ lat,lon,sz,names,len_cat
 43.845709,-79.4177304,2,Liana Street (491),a
 43.845709,-79.4177304,2,Liana Street (492),a
 43.8457127,-79.3770989,2,Highway 7 (578),a
-43.8457148,-79.4103655,2,Berringer Street (556),a
 43.8457149,-79.4441715,2,Denham Drive (542),a
 43.8457193,-79.4500132,2,Cividale Court (129),a
 43.8457219,-79.4176388,2,Bassett Avenue (160),a
 43.8457334,-79.4550388,2,Birch Avenue (955),a
 43.8457334,-79.4550388,2,Birch Avenue (955),a
-43.8457391,-79.4095189,2,Caymus Street (829),a
 43.8457572,-79.4448494,2,Maryvale Crescent (329),a
-43.8457596,-79.4084112,2,Opus Court (019),a
 43.8457638,-79.4387285,2,Claridge Drive (553),a
 43.84577,-79.43044,2,Baffin Court (589),a
-43.8457719,-79.4131756,2,Camellia Drive (961),a
 43.8457765,-79.4230329,2,Bantry Avenue (495),a
 43.8457827,-79.4500364,2,Cividale Court (130),a
 43.8457834,-79.4276809,2,Bantry Avenue (475),a
 43.8457834,-79.4276809,2,Bantry Avenue (543),a
 43.8457842,-79.4177481,2,Liana Street (841),a
-43.8457889,-79.4131005,2,Camellia Drive (962),a
 43.84579,-79.41989,2,Lane F (318),a
 43.84579,-79.41989,2,Sibley Street (975),a
 43.8457929,-79.4277179,2,Bantry Avenue (476),a
 43.8457933,-79.4439555,2,Denham Drive (999),a
 43.8457946,-79.444948,2,Maryvale Crescent (327),a
 43.8458042,-79.4197919,2,Lane F (319),a
-43.845806,-79.4130378,2,Camellia Drive (963),a
 43.8458161,-79.4452086,2,Maryvale Crescent (322),a
 43.8458231,-79.4450592,2,Maryvale Crescent (324),a
 43.8458277,-79.4437383,2,Avenue Road (028),a
@@ -2440,7 +2239,6 @@ lat,lon,sz,names,len_cat
 43.84583,-79.42576,2,Lane J (458),a
 43.8458369,-79.4379242,2,Pearson Avenue (740),a
 43.84584,-79.4259,2,Lane J (459),a
-43.8458506,-79.4130118,2,Camellia Drive (964),a
 43.845868,-79.4384521,2,Claridge Drive (558),a
 43.84587,-79.42597,2,Lane J (460),a
 43.8458714,-79.4298831,2,Baffin Court (599),a
@@ -2454,7 +2252,6 @@ lat,lon,sz,names,len_cat
 43.8459005,-79.4221215,2,Bantry Avenue (496),a
 43.8459005,-79.4221215,2,Bantry Avenue (527),a
 43.8459005,-79.4221215,2,Fundy Street (660),a
-43.8459045,-79.4129979,2,Camellia Drive (965),a
 43.8459115,-79.378288,2,East Beaver Creek Road (549),a
 43.8459188,-79.4382144,2,Claridge Drive (561),a
 43.8459297,-79.4380675,2,Claridge Drive (092),a
@@ -2465,10 +2262,8 @@ lat,lon,sz,names,len_cat
 43.84594,-79.43048,2,Baffin Court (590),a
 43.84594,-79.4299,2,Baffin Court (598),a
 43.8459424,-79.4250062,2,Lane J (970),a
-43.8459438,-79.4112925,2,Nappa Street (374),a
 43.8459463,-79.4283981,2,Bantry Avenue (478),a
 43.8459465,-79.424983,2,Lane J (968),a
-43.8459495,-79.4129967,2,Camellia Drive (966),a
 43.8459556,-79.3992373,2,Valleymede Drive (101),a
 43.8459699,-79.4248507,2,Lane J (456),a
 43.8459699,-79.4248507,2,Lane K (113),a
@@ -2478,22 +2273,15 @@ lat,lon,sz,names,len_cat
 43.8459905,-79.3827211,2,Leslie Street (844),a
 43.8459941,-79.4156992,2,Bassett Avenue (129),a
 43.8460006,-79.424705,2,Lane K (086),a
-43.8460011,-79.4095866,2,Caymus Street (831),a
 43.8460087,-79.4501052,2,Cividale Court (132),a
 43.8460099,-79.4246604,2,Lane K (087),a
 43.84601,-79.43047,2,Baffin Court (591),a
-43.8460122,-79.4155702,2,Bassett Avenue (162),a
-43.8460122,-79.4155702,2,Callowhill Avenue (059),a
-43.8460122,-79.4155702,2,Silver Linden Drive (525),a
 43.8460126,-79.4299475,2,Baffin Court (597),a
-43.8460127,-79.4130075,2,Camellia Drive (967),a
 43.8460221,-79.4221522,2,Fundy Street (001),a
 43.8460234,-79.4304522,2,Baffin Court (592),a
 43.8460249,-79.4212309,2,Bantry Avenue (528),a
-43.8460276,-79.4154441,2,Callowhill Avenue (606),a
 43.846031,-79.4286696,2,Bantry Avenue (479),a
 43.846031,-79.4286696,2,Bantry Avenue (544),a
-43.8460323,-79.415406,2,Callowhill Avenue (060),a
 43.8460378,-79.4300144,2,Baffin Court (641),a
 43.84604,-79.43043,2,Baffin Court (593),a
 43.84605,-79.42601,2,Lane J (462),a
@@ -2509,13 +2297,10 @@ lat,lon,sz,names,len_cat
 43.8460748,-79.4179247,2,Lane F (999),a
 43.8460838,-79.4533651,2,Birch Avenue (752),a
 43.8460845,-79.4379499,2,Pearson Avenue (738),a
-43.8460889,-79.4155965,2,Silver Linden Drive (811),a
 43.84609,-79.41782,2,Lane D (120),a
 43.84609,-79.41782,2,Lane F (321),a
 43.84609,-79.41782,2,Liana Street (493),a
 43.84609,-79.41782,2,Liana Street (494),a
-43.8460944,-79.4085267,2,Opus Court (020),a
-43.8460944,-79.4085267,2,Opus Court (020),a
 43.8460948,-79.4199583,2,Sibley Street (825),a
 43.8460948,-79.4199583,2,Sibley Street (825),a
 43.8461007,-79.4177426,2,Lane D (121),a
@@ -2524,7 +2309,6 @@ lat,lon,sz,names,len_cat
 43.8461357,-79.4204375,2,Bantry Avenue (529),a
 43.8461357,-79.4204375,2,Bantry Avenue (529),a
 43.84614,-79.42599,2,Lane J (464),a
-43.8461684,-79.4144962,2,Callowhill Avenue (061),a
 43.8461687,-79.4249338,2,Red Maple Road (908),a
 43.8461814,-79.4331722,2,Clinton Drive (422),a
 43.8461851,-79.4200835,2,Bantry Avenue (530),a
@@ -2551,7 +2335,6 @@ lat,lon,sz,names,len_cat
 43.8462253,-79.4257783,2,King William Crescent (665),a
 43.8462301,-79.4312214,2,Yonge Street (225),a
 43.8462301,-79.4312214,2,Yonge Street (225),a
-43.8462413,-79.4139096,2,Callowhill Avenue (062),a
 43.8462423,-79.4322565,2,Scott Drive (759),a
 43.8462423,-79.4322565,2,Scott Drive (759),a
 43.8462423,-79.4322565,2,Scott Drive (773),a
@@ -2567,14 +2350,11 @@ lat,lon,sz,names,len_cat
 43.8462729,-79.4258951,2,Lane J (467),a
 43.8462785,-79.4535239,2,Sala Drive (595),a
 43.8462813,-79.4533978,2,Sala Drive (141),a
-43.8462843,-79.4085838,2,Opus Court (021),a
-43.8462843,-79.4085838,2,Opus Court (021),a
 43.8462981,-79.4535598,2,Sala Drive (594),a
 43.8463001,-79.4533665,2,Sala Drive (142),a
 43.8463095,-79.431894,2,Scott Drive (000),a
 43.8463095,-79.431894,2,Scott Drive (000),a
 43.8463096,-79.4292843,2,Bantry Avenue (522),a
-43.8463241,-79.4132961,2,Callowhill Avenue (063),a
 43.846325,-79.4533447,2,Sala Drive (105),a
 43.846325,-79.4533447,2,Sala Drive (584),a
 43.8463255,-79.4535843,2,Sala Drive (593),a
@@ -2589,9 +2369,6 @@ lat,lon,sz,names,len_cat
 43.8463472,-79.4189576,2,Bantry Avenue (473),a
 43.8463472,-79.4189576,2,Bantry Avenue (512),a
 43.8463472,-79.4189576,2,Bantry Avenue (512),a
-43.8463474,-79.413123,2,Callowhill Avenue (064),a
-43.8463474,-79.413123,2,Camellia Drive (951),a
-43.8463474,-79.413123,2,Camellia Drive (968),a
 43.84635,-79.4316227,2,Scott Drive (775),a
 43.84635,-79.4316227,2,Scott Drive (775),a
 43.8463536,-79.4533347,2,Sala Drive (585),a
@@ -2603,7 +2380,6 @@ lat,lon,sz,names,len_cat
 43.8463636,-79.4222385,2,Lane L (982),a
 43.8463679,-79.4250157,2,King William Crescent (667),a
 43.8463679,-79.4250157,2,Red Maple Road (909),a
-43.8463687,-79.4158011,2,Lane D (287),a
 43.8463701,-79.4314894,2,Bantry Avenue (738),a
 43.8463701,-79.4314894,2,Bantry Avenue (738),a
 43.8463701,-79.4314894,2,Scott Drive (123),a
@@ -2629,22 +2405,15 @@ lat,lon,sz,names,len_cat
 43.8463831,-79.4312562,2,Yonge Street (226),a
 43.8463831,-79.4312562,2,Yonge Street (226),a
 43.846384,-79.4178916,2,Liana Street (000),a
-43.8463882,-79.4156892,2,Lane D (123),a
-43.8463882,-79.4156892,2,Lane E (131),a
-43.8463882,-79.4156892,2,Silver Linden Drive (524),a
 43.8463895,-79.4535889,2,Sala Drive (591),a
 43.8463961,-79.4310911,2,Bantry Avenue (481),a
 43.8463961,-79.4310911,2,Bantry Avenue (481),a
 43.846403,-79.4295307,2,Bantry Avenue (523),a
-43.846409,-79.4155453,2,Lane E (291),a
 43.8464103,-79.4533527,2,Sala Drive (587),a
-43.8464145,-79.4155132,2,Lane E (132),a
 43.8464154,-79.4313947,2,Scott Drive (221),a
 43.8464154,-79.4313947,2,Scott Drive (221),a
 43.8464185,-79.4535684,2,Sala Drive (139),a
-43.84642,-79.4105707,2,Berringer Street (557),a
 43.8464328,-79.4533789,2,Sala Drive (588),a
-43.8464393,-79.4131312,2,Camellia Drive (933),a
 43.8464407,-79.4535354,2,Sala Drive (138),a
 43.8464484,-79.4534136,2,Sala Drive (589),a
 43.8464498,-79.4307917,2,Bantry Avenue (482),a
@@ -2653,7 +2422,6 @@ lat,lon,sz,names,len_cat
 43.8464534,-79.4534939,2,Sala Drive (137),a
 43.8464534,-79.4534939,2,Sala Drive (146),a
 43.8464555,-79.4534532,2,Sala Drive (590),a
-43.8464556,-79.4131326,2,Camellia Drive (952),a
 43.8464595,-79.4312735,2,Bantry Avenue (741),a
 43.8464595,-79.4312735,2,Bantry Avenue (741),a
 43.8464595,-79.4312735,2,Scott Drive (220),a
@@ -2676,13 +2444,10 @@ lat,lon,sz,names,len_cat
 43.8465099,-79.4307026,2,Bantry Avenue (483),a
 43.8465099,-79.4307026,2,Bantry Avenue (532),a
 43.8465099,-79.4307026,2,Bantry Avenue (645),a
-43.8465191,-79.4086398,2,Opus Court (022),a
-43.8465191,-79.4086398,2,Opus Court (022),a
 43.8465246,-79.3734262,2,Highway 7 (497),a
 43.8465314,-79.4308278,2,Bantry Avenue (533),a
 43.8465314,-79.4308278,2,Bantry Avenue (533),a
 43.8465334,-79.4304976,2,Bantry Avenue (015),a
-43.8465371,-79.4131677,2,Camellia Drive (953),a
 43.8465378,-79.4301616,2,Bantry Avenue (526),a
 43.8465378,-79.4301616,2,Bantry Avenue (646),a
 43.8465378,-79.4301616,2,Ellesmere Street (947),a
@@ -2695,7 +2460,6 @@ lat,lon,sz,names,len_cat
 43.8465631,-79.4278867,2,King William Crescent (680),a
 43.846578,-79.4313005,2,Yonge Street (202),a
 43.846578,-79.4313005,2,Yonge Street (202),a
-43.8465883,-79.4123204,2,Far Niente Street (810),a
 43.846595,-79.425159,2,Red Maple Road (911),a
 43.8465995,-79.3731322,2,Highway 7 (495),a
 43.8465995,-79.3731322,2,Highway 7 (811),a
@@ -2704,8 +2468,6 @@ lat,lon,sz,names,len_cat
 43.8466062,-79.4279204,2,King William Crescent (681),a
 43.84662,-79.4179484,2,Frobisher Street (786),a
 43.8466358,-79.4179522,2,Frobisher Street (172),a
-43.8466373,-79.4087355,2,Opus Court (023),a
-43.8466373,-79.4087355,2,Opus Court (023),a
 43.8466401,-79.4301306,2,Ellesmere Street (807),a
 43.8466428,-79.4168971,2,Bantry Avenue (485),a
 43.8466428,-79.4168971,2,Bantry Avenue (489),a
@@ -2725,7 +2487,6 @@ lat,lon,sz,names,len_cat
 43.8466787,-79.4439456,2,Avenue Road (027),a
 43.8466787,-79.4439456,2,Avenue Road (027),a
 43.8466848,-79.4223308,2,Fundy Street (663),a
-43.8466966,-79.4157827,2,Silver Linden Drive (523),a
 43.8467004,-79.378451,2,East Beaver Creek Road (149),a
 43.846704,-79.4449492,2,Trilogy Court (823),a
 43.846706,-79.4503982,2,Birch Avenue (945),a
@@ -2733,8 +2494,6 @@ lat,lon,sz,names,len_cat
 43.846706,-79.4503982,2,Cividale Court (133),a
 43.8467109,-79.4569338,2,Winterport Court (922),a
 43.8467155,-79.4223396,2,Fundy Street (002),a
-43.84674,-79.41321,2,Camellia Drive (954),a
-43.84674,-79.41321,2,Lane E (133),a
 43.8467502,-79.4253166,2,Red Maple Road (913),a
 43.8467514,-79.4265083,2,King William Crescent (676),a
 43.8467529,-79.4300938,2,Ellesmere Street (949),a
@@ -2755,12 +2514,8 @@ lat,lon,sz,names,len_cat
 43.8467892,-79.3722953,2,Highway 7 (810),a
 43.8467906,-79.4446981,2,Trilogy Court (824),a
 43.8467906,-79.4446981,2,Trilogy Court (824),a
-43.8467989,-79.4158106,2,Bantry Avenue (490),a
-43.8467989,-79.4158106,2,Bantry Avenue (519),a
-43.8467989,-79.4158106,2,Silver Linden Drive (522),a
 43.8468206,-79.4389746,2,Edgar Avenue (256),a
 43.8468206,-79.4389746,2,Pearson Avenue (720),a
-43.8468215,-79.4156606,2,Bantry Avenue (161),a
 43.8468226,-79.3829338,2,Leslie Street (238),a
 43.8468226,-79.3829338,2,Leslie Street (238),a
 43.8468226,-79.3829338,2,Leslie Street (378),a
@@ -2795,7 +2550,6 @@ lat,lon,sz,names,len_cat
 43.8469225,-79.4441101,2,Trilogy Court (782),a
 43.8469285,-79.4180217,2,Frobisher Street (173),a
 43.8469312,-79.4158428,2,Silver Linden Drive (521),a
-43.8469319,-79.4098356,2,Caymus Street (832),a
 43.8469348,-79.4440475,2,Avenue Road (026),a
 43.8469348,-79.4440475,2,Avenue Road (026),a
 43.8469348,-79.4440475,2,Trilogy Court (826),a
@@ -2810,9 +2564,6 @@ lat,lon,sz,names,len_cat
 43.8469598,-79.4030261,2,Fanshawe Drive (051),a
 43.8469598,-79.4030261,2,Queens College Drive (943),a
 43.8469598,-79.4030261,2,Queens College Drive (944),a
-43.846972,-79.4146615,2,Bantry Avenue (469),a
-43.846972,-79.4146615,2,Bantry Avenue (520),a
-43.846972,-79.4146615,2,Yukon Drive (979),a
 43.8469736,-79.3829046,2,Leslie Street (380),a
 43.8469736,-79.3829046,2,Leslie Street (380),a
 43.8469754,-79.4556661,2,Winterport Court (924),a
@@ -2828,16 +2579,11 @@ lat,lon,sz,names,len_cat
 43.8469911,-79.4336075,2,Clinton Drive (062),a
 43.8469911,-79.4334931,2,Clinton Drive (061),a
 43.8469912,-79.4028386,2,Queens College Drive (945),a
-43.8470131,-79.4132832,2,Camellia Drive (955),a
 43.8470188,-79.4316422,2,Yonge Street (528),a
 43.8470188,-79.4316422,2,Yonge Street (528),a
 43.8470232,-79.4071001,2,Queensmill Court (870),a
 43.8470232,-79.4071001,2,Queensmill Court (870),a
 43.8470256,-79.4306175,2,Lane B (201),a
-43.8470262,-79.408386,2,Bayview Avenue (958),a
-43.8470262,-79.408386,2,Bayview Avenue (958),a
-43.8470262,-79.408386,2,Bayview Avenue (968),a
-43.8470262,-79.408386,2,Bayview Avenue (968),a
 43.8470284,-79.4302976,2,Lane B (200),a
 43.8470292,-79.4302553,2,Lane B (883),a
 43.8470308,-79.4070004,2,Queensmill Court (867),a
@@ -2847,8 +2593,6 @@ lat,lon,sz,names,len_cat
 43.8470311,-79.4301525,2,Ellesmere Street (945),a
 43.8470311,-79.4301525,2,Ellesmere Street (951),a
 43.8470311,-79.4301525,2,Lane B (199),a
-43.8470351,-79.4132891,2,Camellia Drive (934),a
-43.8470385,-79.4142617,2,Bantry Avenue (470),a
 43.8470408,-79.3772447,2,York Boulevard (082),a
 43.8470457,-79.378529,2,East Beaver Creek Road (242),a
 43.8470457,-79.378529,2,East Beaver Creek Road (260),a
@@ -2866,7 +2610,6 @@ lat,lon,sz,names,len_cat
 43.8470703,-79.420198,2,Melville Street (459),a
 43.8470703,-79.420198,2,Selkirk Drive (619),a
 43.8470703,-79.420198,2,Selkirk Drive (619),a
-43.8470721,-79.4140217,2,Bantry Avenue (471),a
 43.8470786,-79.377302,2,York Boulevard (081),a
 43.8470803,-79.4146869,2,Yukon Drive (065),a
 43.8470813,-79.3786688,2,East Beaver Creek Road (234),a
@@ -2887,21 +2630,15 @@ lat,lon,sz,names,len_cat
 43.8471257,-79.4279575,2,MacGregor Avenue (944),a
 43.8471258,-79.3774056,2,York Boulevard (080),a
 43.8471258,-79.3771927,2,York Boulevard (063),a
-43.847128,-79.412468,2,Far Niente Street (812),a
 43.8471284,-79.3785207,2,East Beaver Creek Road (243),a
 43.84713,-79.43077,2,Lane B (204),a
 43.84713,-79.43077,2,Lane B (204),a
 43.8471351,-79.4258041,2,Red Maple Road (916),a
-43.8471382,-79.4124708,2,Far Niente Street (777),a
 43.8471455,-79.3772569,2,York Boulevard (064),a
 43.8471473,-79.4276467,2,MacGregor Avenue (945),a
 43.8471487,-79.4147029,2,Yukon Drive (473),a
 43.8471512,-79.4584738,2,Bathurst Street (714),a
-43.8471695,-79.4133251,2,Bantry Avenue (472),a
-43.8471695,-79.4133251,2,Bantry Avenue (513),a
-43.8471695,-79.4133251,2,Camellia Drive (956),a
 43.8471755,-79.3786606,2,East Beaver Creek Road (233),a
-43.8471836,-79.4132325,2,Bantry Avenue (988),a
 43.8471837,-79.3773434,2,York Boulevard (065),a
 43.847184,-79.3775212,2,York Boulevard (079),a
 43.8472064,-79.3998259,2,Valleymede Drive (103),a
@@ -2921,20 +2658,13 @@ lat,lon,sz,names,len_cat
 43.8472558,-79.4316988,2,Yonge Street (493),a
 43.8472605,-79.3786413,2,East Beaver Creek Road (232),a
 43.8472622,-79.3774905,2,York Boulevard (066),a
-43.8472649,-79.411652,2,Nappa Street (375),a
 43.8472719,-79.4390624,2,Pearson Avenue (722),a
-43.8472783,-79.4126088,2,Bantry Avenue (514),a
-43.847282,-79.4116566,2,Nappa Street (879),a
 43.847286,-79.3784849,2,East Beaver Creek Road (245),a
-43.8472933,-79.4125132,2,Bantry Avenue (515),a
-43.8472933,-79.4125132,2,Bantry Avenue (516),a
-43.8472933,-79.4125132,2,Far Niente Street (813),a
 43.8473083,-79.4259613,2,Red Maple Road (917),a
 43.8473104,-79.405734,2,Queens College Drive (952),a
 43.8473174,-79.4539557,2,Winterport Court (708),a
 43.8473257,-79.4013579,2,Queens College Drive (947),a
 43.847326,-79.3775901,2,York Boulevard (067),a
-43.8473328,-79.4108202,2,Berringer Street (558),a
 43.8473373,-79.4234972,2,Rideau Drive (801),a
 43.847338,-79.4538528,2,Camgreen Court (652),a
 43.847338,-79.4538528,2,Sala Drive (144),a
@@ -2961,19 +2691,13 @@ lat,lon,sz,names,len_cat
 43.847412,-79.4302258,2,Ellesmere Street (952),a
 43.8474136,-79.4442376,2,Avenue Road (133),a
 43.8474136,-79.4442376,2,Avenue Road (133),a
-43.8474194,-79.4108392,2,Berringer Street (559),a
 43.8474217,-79.430146,2,Coburg Crescent (798),a
 43.8474223,-79.4529391,2,Camgreen Court (847),a
-43.8474226,-79.4117897,2,Bantry Avenue (990),a
 43.8474268,-79.4301036,2,Coburg Crescent (148),a
 43.8474295,-79.452688,2,Camgreen Court (769),a
-43.8474303,-79.4108416,2,Berringer Street (920),a
 43.8474383,-79.4058199,2,Queens College Drive (953),a
 43.8474413,-79.3779153,2,York Boulevard (076),a
 43.8474414,-79.3777494,2,York Boulevard (068),a
-43.8474418,-79.4117001,2,Bantry Avenue (491),a
-43.8474418,-79.4117001,2,Bantry Avenue (518),a
-43.8474418,-79.4117001,2,Nappa Street (376),a
 43.8474419,-79.4079025,2,Thames Court (244),a
 43.8474419,-79.4079025,2,Thames Court (244),a
 43.8474436,-79.4391077,2,Pearson Avenue (725),a
@@ -3006,12 +2730,6 @@ lat,lon,sz,names,len_cat
 43.8474947,-79.407814,2,Thames Court (245),a
 43.8474947,-79.407814,2,Thames Court (245),a
 43.8475012,-79.4236298,2,Rideau Drive (802),a
-43.8475035,-79.4085106,2,Bayview Avenue (058),a
-43.8475035,-79.4085106,2,Bayview Avenue (058),a
-43.8475035,-79.4085106,2,Bayview Avenue (061),a
-43.8475035,-79.4085106,2,Bayview Avenue (061),a
-43.8475035,-79.4085106,2,Bayview Avenue (775),a
-43.8475035,-79.4085106,2,Bayview Avenue (775),a
 43.8475041,-79.4260594,2,MacGregor Avenue (947),a
 43.8475041,-79.4260594,2,Red Maple Road (918),a
 43.8475163,-79.4069486,2,Queensmill Court (895),a
@@ -3030,23 +2748,15 @@ lat,lon,sz,names,len_cat
 43.8475528,-79.3999895,2,Valleymede Drive (362),a
 43.8475539,-79.4585523,2,Bathurst Street (715),a
 43.8475571,-79.3784972,2,East Beaver Creek Road (229),a
-43.8475575,-79.4100221,2,Caymus Street (834),a
 43.8475617,-79.4528666,2,Camgreen Court (762),a
 43.8475617,-79.4528666,2,Camgreen Court (985),a
 43.8475637,-79.4527731,2,Camgreen Court (854),a
 43.8475648,-79.4291134,2,Coburg Crescent (799),a
 43.847565,-79.4281469,2,King William Crescent (669),a
-43.8475684,-79.4109748,2,Bantry Avenue (974),a
 43.8475686,-79.4528201,2,Camgreen Court (852),a
-43.8475727,-79.4085955,2,Bayview Avenue (057),a
-43.8475727,-79.4085955,2,Bayview Avenue (057),a
-43.8475745,-79.4100272,2,Caymus Street (880),a
 43.8475792,-79.3783256,2,East Beaver Creek Road (273),a
 43.8475814,-79.3781166,2,York Boulevard (074),a
 43.8475853,-79.4290767,2,Coburg Crescent (151),a
-43.8475857,-79.4108757,2,Bantry Avenue (492),a
-43.8475857,-79.4108757,2,Bantry Avenue (536),a
-43.8475857,-79.4108757,2,Berringer Street (560),a
 43.8475872,-79.4308876,2,Lane B (205),a
 43.8475872,-79.4308876,2,Lane B (205),a
 43.8475875,-79.4058873,2,Queens College Drive (954),a
@@ -3123,21 +2833,13 @@ lat,lon,sz,names,len_cat
 43.8476976,-79.3781203,2,York Boulevard (071),a
 43.8477072,-79.4251584,2,Selkirk Drive (612),a
 43.8477133,-79.3781633,2,York Boulevard (152),a
-43.8477201,-79.4101686,2,Bantry Avenue (993),a
 43.8477218,-79.4390382,2,Pearson Avenue (729),a
 43.8477283,-79.3868235,2,West Pearce Street (753),a
 43.8477283,-79.3868235,2,West Pearce Street (760),a
 43.8477338,-79.3782195,2,East Beaver Creek Road (239),a
 43.8477338,-79.3782195,2,York Boulevard (072),a
-43.8477366,-79.4100755,2,Bantry Avenue (467),a
-43.8477366,-79.4100755,2,Bantry Avenue (538),a
-43.8477366,-79.4100755,2,Caymus Street (836),a
 43.8477398,-79.4581048,2,Carrville Road (735),a
-43.8477421,-79.4098265,2,Bantry Avenue (507),a
 43.8477421,-79.3761455,2,York Boulevard (054),a
-43.8477449,-79.4100255,2,Bantry Avenue (468),a
-43.8477449,-79.4100255,2,Bantry Avenue (506),a
-43.8477449,-79.4100255,2,Bantry Avenue (648),a
 43.8477494,-79.4274887,2,King William Crescent (672),a
 43.847756,-79.4030707,2,Lisa Crescent (854),a
 43.8477594,-79.4072077,2,Thames Court (237),a
@@ -3179,11 +2881,9 @@ lat,lon,sz,names,len_cat
 43.8478485,-79.3782973,2,East Beaver Creek Road (680),a
 43.8478529,-79.3862605,2,West Pearce Street (754),a
 43.8478535,-79.417201,2,Ludford Drive (136),a
-43.8478567,-79.4092257,2,Bantry Avenue (508),a
 43.8478575,-79.4586205,2,Bathurst Street (738),a
 43.8478577,-79.4071362,2,Queensmill Court (906),a
 43.8478577,-79.4071362,2,Queensmill Court (906),a
-43.8478676,-79.4086704,2,Bayview Avenue (793),a
 43.847868,-79.4182456,2,Frobisher Street (174),a
 43.8478692,-79.3861871,2,West Pearce Street (858),a
 43.8478713,-79.4447198,2,Birch Avenue (950),a
@@ -3199,7 +2899,6 @@ lat,lon,sz,names,len_cat
 43.8479176,-79.4445153,2,Birch Avenue (911),a
 43.8479176,-79.4445153,2,Birch Avenue (911),a
 43.8479179,-79.4388963,2,Pearson Avenue (731),a
-43.8479235,-79.4088773,2,Bantry Avenue (509),a
 43.84793,-79.4044623,2,Avonlea Place (670),a
 43.8479308,-79.444457,2,Avenue Road (024),a
 43.8479308,-79.444457,2,Avenue Road (024),a
@@ -15994,6 +15693,7 @@ lat,lon,sz,names,len_cat
 43.882279,-79.4072361,2,Garland Crescent (744),a
 43.882279,-79.4072361,2,Garland Crescent (744),a
 43.8822799,-79.4364862,2,Stephenson Crescent (850),a
+43.8822802,-79.4228497,2,Talmage Avenue (296),a
 43.8822915,-79.3840954,2,Major MacKenzie Drive East (085),a
 43.8822915,-79.3840954,2,Major MacKenzie Drive East (085),a
 43.8822915,-79.3840954,2,Major MacKenzie Drive East (088),a
@@ -16242,7 +15942,6 @@ lat,lon,sz,names,len_cat
 43.882891,-79.4157619,2,Bridlepath Street (037),a
 43.8828925,-79.3956965,2,Gemini Crescent (037),a
 43.8828925,-79.3956965,2,Gemini Crescent (037),a
-43.8828942,-79.4216758,2,Balkan Road (752),a
 43.8828962,-79.3927314,2,Gemini Crescent (031),a
 43.8828962,-79.3927314,2,Gemini Crescent (047),a
 43.8828972,-79.447255,2,Laverock Avenue (405),a
@@ -16254,7 +15953,6 @@ lat,lon,sz,names,len_cat
 43.882914,-79.3814737,2,Major MacKenzie Drive East (784),a
 43.8829219,-79.4434441,2,Harrygan Crescent (025),a
 43.8829219,-79.4434441,2,Harrygan Crescent (025),a
-43.8829221,-79.4217374,2,Balkan Road (753),a
 43.8829231,-79.4120651,2,Alpine Crescent (233),a
 43.8829232,-79.3946749,2,Joplin Gate (293),a
 43.8829232,-79.3946749,2,Joplin Gate (293),a
@@ -16372,6 +16070,7 @@ lat,lon,sz,names,len_cat
 43.8832565,-79.3939897,2,Harlequin Court (502),a
 43.8832633,-79.4229732,2,Osiris Drive (958),a
 43.8832633,-79.4229732,2,Osiris Drive (964),a
+43.8832633,-79.4229732,2,Talmage Avenue (303),a
 43.8832641,-79.4105909,2,Frank Endean Road (694),a
 43.8832641,-79.4105909,2,Frank Endean Road (723),a
 43.8832641,-79.4105909,2,Futura Avenue (764),a
@@ -16413,7 +16112,6 @@ lat,lon,sz,names,len_cat
 43.8834316,-79.4513686,2,Ellsworth Avenue (810),a
 43.8834317,-79.4188732,2,Balkan Road (762),a
 43.8834317,-79.4188732,2,Balkan Road (762),a
-43.8834345,-79.4219867,2,Balkan Road (757),a
 43.8834357,-79.3991176,2,Walnut Grove Crescent (630),a
 43.8834369,-79.4305165,2,Newkirk Road (171),a
 43.8834436,-79.4399951,2,Yonge Street (491),a
@@ -16435,7 +16133,6 @@ lat,lon,sz,names,len_cat
 43.8834971,-79.4446271,2,Penstock Court (288),a
 43.883511,-79.4220081,2,Balkan Road (758),a
 43.883511,-79.4220081,2,Osiris Drive (959),a
-43.883511,-79.4220081,2,Osiris Drive (960),a
 43.8835156,-79.4492363,2,Gretel Drive (605),a
 43.8835254,-79.4184849,2,Balkan Road (764),a
 43.8835379,-79.4249248,2,Osiris Drive (955),a
@@ -16483,7 +16180,6 @@ lat,lon,sz,names,len_cat
 43.8836494,-79.4069931,2,Wayside Avenue (315),a
 43.8836494,-79.4069931,2,Wayside Avenue (316),a
 43.8836494,-79.4069931,2,Wayside Avenue (316),a
-43.8836501,-79.4248621,2,Crosby Avenue (983),a
 43.8836502,-79.4423669,2,Jacey Anne Drive (658),a
 43.8836531,-79.4617376,2,Tannery Court (789),a
 43.8836578,-79.4182946,2,Balkan Road (767),a
@@ -16658,7 +16354,6 @@ lat,lon,sz,names,len_cat
 43.8842382,-79.446151,2,Lucas Street (555),a
 43.8842393,-79.400565,2,Walnut Grove Crescent (617),a
 43.8842457,-79.4307601,2,Taylor Mills Drive South (073),a
-43.8842457,-79.4307601,2,Taylor Mills Drive South (073),a
 43.8842465,-79.4673339,2,Bathurst Street (310),a
 43.8842465,-79.4673339,2,Bathurst Street (310),a
 43.8842469,-79.3844608,2,Ultimate Drive (436),a
@@ -16690,7 +16385,6 @@ lat,lon,sz,names,len_cat
 43.8843051,-79.440389,2,Yonge Street (197),a
 43.884316,-79.4203188,2,Alverna Road (612),a
 43.884316,-79.4203188,2,Alverna Road (612),a
-43.8843165,-79.4184017,2,Balkan Road (776),a
 43.8843165,-79.4184017,2,Balkan Road (776),a
 43.8843165,-79.4184017,2,Balkan Road (777),a
 43.8843165,-79.4184017,2,Balkan Road (777),a
@@ -16898,7 +16592,6 @@ lat,lon,sz,names,len_cat
 43.8850012,-79.4074163,2,Formosa Drive (430),a
 43.8850085,-79.4637442,2,Hiram Road (287),a
 43.8850132,-79.4463417,2,Pairash Avenue (713),a
-43.8850151,-79.420736,2,Felix Road (089),a
 43.8850245,-79.4007059,2,Royal Gala Crescent (646),a
 43.8850287,-79.4424351,2,Trayborn Drive (153),a
 43.8850287,-79.4424351,2,Trayborn Drive (153),a
@@ -16924,8 +16617,6 @@ lat,lon,sz,names,len_cat
 43.8850729,-79.4184242,2,Crosby Avenue (537),a
 43.8850729,-79.4184242,2,Crosby Avenue (537),a
 43.8850734,-79.4288883,2,Anzac Road (924),a
-43.8850734,-79.4288883,2,Taylor Mills Drive South (033),a
-43.8850734,-79.4288883,2,Taylor Mills Drive South (040),a
 43.8850742,-79.462515,2,Elgin Mills Road West (484),a
 43.8850742,-79.462515,2,Tannery Court (760),a
 43.8850752,-79.400468,2,Royal Gala Crescent (647),a
@@ -16936,7 +16627,6 @@ lat,lon,sz,names,len_cat
 43.8850921,-79.4074761,2,Formosa Drive (431),a
 43.8850921,-79.4074761,2,Formosa Drive (431),a
 43.885098,-79.3975917,2,Jonagold Court (431),a
-43.8851087,-79.4209949,2,Felix Road (094),a
 43.8851146,-79.4077992,2,Formosa Drive (435),a
 43.8851146,-79.4077992,2,Formosa Drive (435),a
 43.8851195,-79.445993,2,Pairash Avenue (650),a
@@ -17004,6 +16694,7 @@ lat,lon,sz,names,len_cat
 43.8853276,-79.3985566,2,Jonagold Court (437),a
 43.8853329,-79.417669,2,Bayview Avenue (847),a
 43.8853346,-79.4574204,2,Peterhouse Street (440),a
+43.8853358,-79.4211383,2,Felix Road (100),a
 43.8853397,-79.4163493,2,Bridlepath Street (414),a
 43.8853418,-79.4029438,2,Golden Oak Avenue (744),a
 43.8853418,-79.4029438,2,Golden Oak Avenue (758),a
@@ -17205,7 +16896,6 @@ lat,lon,sz,names,len_cat
 43.8861273,-79.399449,2,Golden Oak Avenue (750),a
 43.8861277,-79.4204576,2,Alverna Road (567),a
 43.8861277,-79.4204576,2,Becker Road (388),a
-43.8861277,-79.4204576,2,Becker Road (400),a
 43.8861279,-79.4055687,2,Peninsula Crescent (599),a
 43.88614,-79.457748,2,Elgin Mills Road West (194),a
 43.88614,-79.457748,2,Elgin Mills Road West (199),a
@@ -17524,7 +17214,6 @@ lat,lon,sz,names,len_cat
 43.8871367,-79.4075337,2,Shirley Drive (569),a
 43.8871367,-79.4075337,2,Shirley Drive (569),a
 43.8871376,-79.3960836,2,Sun Valley Drive (232),a
-43.8871378,-79.4251491,2,Browndale Crescent (423),a
 43.8871386,-79.4137821,2,Angelica Avenue (577),a
 43.8871386,-79.4137821,2,Frank Endean Road (667),a
 43.8871386,-79.4137821,2,Frank Endean Road (752),a
@@ -17638,7 +17327,6 @@ lat,lon,sz,names,len_cat
 43.8873757,-79.4182585,2,Bayview Avenue (824),a
 43.8873757,-79.4182585,2,Bayview Avenue (824),a
 43.8873757,-79.4182585,2,Taylor Mills Drive South (583),a
-43.8873757,-79.4182585,2,Taylor Mills Drive South (583),a
 43.8873772,-79.4523094,2,Elgin Mills Road West (478),a
 43.8873772,-79.4523094,2,Elgin Mills Road West (496),a
 43.8873772,-79.4523094,2,Shaftsbury Avenue (034),a
@@ -17668,7 +17356,6 @@ lat,lon,sz,names,len_cat
 43.8874361,-79.3935474,2,Sun Valley Drive (116),a
 43.8874474,-79.3880941,2,Performance Drive (198),a
 43.8874484,-79.425477,2,Browndale Crescent (435),a
-43.8874518,-79.4309546,2,Demaine Crescent (929),a
 43.8874518,-79.4309546,2,Demaine Crescent (929),a
 43.8874523,-79.4013833,2,Valley Ridge Avenue (859),a
 43.8874564,-79.4227878,2,Lynett Crescent (102),a
@@ -17722,12 +17409,12 @@ lat,lon,sz,names,len_cat
 43.8875565,-79.4239023,2,McConvey Drive (971),a
 43.887558,-79.4210174,2,Alverna Road (599),a
 43.887558,-79.4210174,2,Lynett Crescent (091),a
+43.887558,-79.4210174,2,Lynett Crescent (111),a
 43.8875624,-79.4265571,2,Browndale Crescent (548),a
 43.8875627,-79.4239677,2,McConvey Drive (972),a
 43.8875678,-79.4511163,2,Elgin Mills Road West (514),a
 43.8875678,-79.4511163,2,Elgin Mills Road West (515),a
 43.8875699,-79.436846,2,Industrial Road (555),a
-43.8875756,-79.4255608,2,Browndale Crescent (443),a
 43.8875786,-79.4078569,2,Redstone Road (836),a
 43.8875786,-79.4078569,2,Redstone Road (836),a
 43.8875827,-79.4241165,2,McConvey Drive (973),a
@@ -17775,7 +17462,6 @@ lat,lon,sz,names,len_cat
 43.8876521,-79.3962686,2,Sapphire Drive (520),a
 43.8876524,-79.4177846,2,Cameo Drive (766),a
 43.887654,-79.4227577,2,Lynett Crescent (113),a
-43.8876582,-79.4243635,2,McConvey Drive (979),a
 43.8876656,-79.4073726,2,Redstone Road (307),a
 43.8876656,-79.4073726,2,Redstone Road (307),a
 43.8876679,-79.4609476,2,Topham Crescent (197),a
@@ -17799,7 +17485,6 @@ lat,lon,sz,names,len_cat
 43.8877226,-79.4244614,2,McConvey Drive (983),a
 43.8877339,-79.4361221,2,Industrial Road (628),a
 43.8877348,-79.4286192,2,Blue Grass Boulevard (060),a
-43.8877348,-79.4286192,2,Blue Grass Boulevard (062),a
 43.8877348,-79.4286192,2,Demaine Crescent (921),a
 43.8877364,-79.4039364,2,Monaco Crescent (019),a
 43.8877364,-79.4039364,2,Redstone Road (371),a
@@ -17888,7 +17573,6 @@ lat,lon,sz,names,len_cat
 43.8879957,-79.4670502,2,Whalen Court (234),a
 43.8879985,-79.4235827,2,Neal Drive (500),a
 43.8879987,-79.4349534,2,Industrial Road (556),a
-43.8880016,-79.4310024,2,Ashlar Road (512),a
 43.8880016,-79.4310024,2,Ashlar Road (512),a
 43.8880016,-79.4310024,2,Demaine Crescent (912),a
 43.8880016,-79.4310024,2,Demaine Crescent (912),a
@@ -17981,7 +17665,6 @@ lat,lon,sz,names,len_cat
 43.8883398,-79.4122093,2,Copperstone Crescent (750),a
 43.8883398,-79.4122093,2,Newcastle Crescent (792),a
 43.888343,-79.4186686,2,Windhurst Gate (734),a
-43.888343,-79.4186686,2,Windhurst Gate (734),a
 43.8883453,-79.4245695,2,Barber Road (723),a
 43.8883453,-79.4245695,2,McConvey Drive (948),a
 43.8883453,-79.4245695,2,McConvey Drive (993),a
@@ -18046,13 +17729,13 @@ lat,lon,sz,names,len_cat
 43.8884336,-79.4550621,2,Tollbar Court (156),a
 43.8884369,-79.386245,2,Performance Drive (197),a
 43.8884418,-79.4012173,2,Redstone Road (332),a
+43.888448,-79.4235335,2,Neal Drive (505),a
 43.8884494,-79.4288618,2,Ashlar Road (515),a
 43.8884562,-79.4185778,2,Bayview Avenue (955),a
 43.8884562,-79.4185778,2,Bayview Avenue (955),a
 43.8884579,-79.4196864,2,Lynett Crescent (129),a
 43.8884579,-79.4196864,2,Lynett Crescent (129),a
 43.888459,-79.4275944,2,Ashlar Road (510),a
-43.888459,-79.4275944,2,Taylor Mills Drive North (749),a
 43.8884657,-79.4287369,2,Ashlar Road (516),a
 43.8884709,-79.4284607,2,Ashlar Road (853),a
 43.8884726,-79.4285873,2,Ashlar Road (511),a
@@ -18086,6 +17769,7 @@ lat,lon,sz,names,len_cat
 43.888549,-79.4197587,2,Lynett Crescent (126),a
 43.888549,-79.4197587,2,Lynett Crescent (126),a
 43.8885507,-79.4411623,2,Yonge Street (774),a
+43.8885514,-79.4199329,2,Lynett Crescent (123),a
 43.8885523,-79.4551357,2,Tollbar Court (159),a
 43.8885523,-79.4551357,2,Tollbar Court (159),a
 43.8885554,-79.4552138,2,Tollbar Court (160),a
@@ -18093,7 +17777,6 @@ lat,lon,sz,names,len_cat
 43.8885566,-79.4112182,2,Copperstone Crescent (749),a
 43.8885581,-79.4172816,2,Frank Endean Road (775),a
 43.8885585,-79.4197958,2,Lynett Crescent (125),a
-43.8885595,-79.4198704,2,Lynett Crescent (124),a
 43.8885624,-79.4169914,2,Ebony Gate (406),a
 43.8885641,-79.3970939,2,Sun Valley Drive (243),a
 43.8885681,-79.4235241,2,Neal Drive (506),a
@@ -18186,7 +17869,6 @@ lat,lon,sz,names,len_cat
 43.888797,-79.4166945,2,Frank Endean Road (519),a
 43.8888011,-79.4214669,2,Ambler Lane (479),a
 43.8888123,-79.4631019,2,Whalen Court (228),a
-43.8888171,-79.4235238,2,Neal Drive (509),a
 43.8888236,-79.4008854,2,Redstone Road (066),a
 43.8888236,-79.4008854,2,Redstone Road (336),a
 43.8888544,-79.4255769,2,Browndale Crescent (463),a
@@ -18204,6 +17886,7 @@ lat,lon,sz,names,len_cat
 43.888896,-79.4178459,2,Lane P (174),a
 43.888896,-79.4178459,2,Lane P (174),a
 43.8888977,-79.414474,2,Frank Endean Road (704),a
+43.8888987,-79.4213744,2,Ambler Lane (478),a
 43.8889,-79.4275801,2,Taylor Mills Drive North (748),a
 43.8889004,-79.4177863,2,Lane P (013),a
 43.8889004,-79.4177863,2,Lane P (013),a
@@ -18215,6 +17898,7 @@ lat,lon,sz,names,len_cat
 43.8889049,-79.418623,2,Bayview Avenue (963),a
 43.8889049,-79.418623,2,Bayview Avenue (963),a
 43.8889072,-79.45903,2,Waterhouse Way (697),a
+43.8889076,-79.4179029,2,Lane P (012),a
 43.8889076,-79.4179029,2,Lane P (012),a
 43.8889139,-79.4163292,2,Frank Endean Road (520),a
 43.8889146,-79.3943272,2,Sapphire Drive (356),a
@@ -18252,6 +17936,7 @@ lat,lon,sz,names,len_cat
 43.8889569,-79.3941269,2,Sapphire Drive (355),a
 43.8889577,-79.4128758,2,Newcastle Crescent (808),a
 43.8889591,-79.4129753,2,Newcastle Crescent (812),a
+43.8889624,-79.4255741,2,Browndale Crescent (465),a
 43.8889637,-79.3973315,2,Sun Valley Drive (246),a
 43.8889659,-79.4264828,2,Browndale Crescent (497),a
 43.8889672,-79.3986324,2,Princeton Avenue (765),a
@@ -18259,7 +17944,6 @@ lat,lon,sz,names,len_cat
 43.8889735,-79.3940269,2,Sapphire Drive (354),a
 43.8889812,-79.3939395,2,Sapphire Drive (353),a
 43.8889812,-79.3939395,2,Sapphire Drive (353),a
-43.888983,-79.4264201,2,Browndale Crescent (499),a
 43.8889877,-79.4179616,2,Lane P (011),a
 43.8889877,-79.4179616,2,Lane P (011),a
 43.8889879,-79.4436625,2,Creekview Avenue (669),a
@@ -18273,7 +17957,6 @@ lat,lon,sz,names,len_cat
 43.889011,-79.419264,2,Bennett Lane (421),a
 43.8890203,-79.3988609,2,Princeton Avenue (768),a
 43.8890254,-79.4255724,2,Browndale Crescent (467),a
-43.8890255,-79.4262323,2,Browndale Crescent (504),a
 43.889026,-79.3851287,2,Performance Drive (196),a
 43.8890325,-79.4321437,2,Newkirk Road (179),a
 43.8890383,-79.3976653,2,Princeton Avenue (191),a
@@ -18798,6 +18481,7 @@ lat,lon,sz,names,len_cat
 43.8902692,-79.4285186,2,Blue Grass Boulevard (032),a
 43.8902736,-79.4524335,2,Pickett Crescent (125),a
 43.890275,-79.4208709,2,Marybay Crescent (654),a
+43.8902769,-79.4210078,2,Marybay Crescent (656),a
 43.8902771,-79.3964569,2,Ruby Crescent (541),a
 43.8902777,-79.3958593,2,Ruby Crescent (545),a
 43.8902798,-79.4511804,2,Espby Court (364),a
@@ -18810,6 +18494,7 @@ lat,lon,sz,names,len_cat
 43.8902828,-79.4273072,2,Taylor Mills Drive North (738),a
 43.8902828,-79.4239834,2,Kerswell Drive (770),a
 43.8902925,-79.4208331,2,Marybay Crescent (653),a
+43.8902959,-79.421082,2,Marybay Crescent (657),a
 43.8902967,-79.4309421,2,Zelda Crescent (272),a
 43.8902967,-79.4309421,2,Zelda Crescent (272),a
 43.8902973,-79.4066112,2,Coco Avenue (654),a
@@ -18910,6 +18595,7 @@ lat,lon,sz,names,len_cat
 43.8904411,-79.4419482,2,Leonard Street (637),a
 43.8904411,-79.4419482,2,Leonard Street (637),a
 43.8904417,-79.4182855,2,Lane P (178),a
+43.8904417,-79.4182855,2,Lane P (178),a
 43.8904422,-79.4376343,2,Elgin Mills Road East (750),a
 43.8904444,-79.4177047,2,Catalina Crescent (611),a
 43.8904444,-79.4177047,2,Catalina Crescent (611),a
@@ -18944,6 +18630,7 @@ lat,lon,sz,names,len_cat
 43.890469,-79.4166995,2,Catalina Crescent (618),a
 43.89047,-79.46595,2,Sunnyside Drive (490),a
 43.89047,-79.46595,2,Sunnyside Drive (490),a
+43.8904705,-79.4182412,2,Lane P (177),a
 43.8904705,-79.4182412,2,Lane P (177),a
 43.8904728,-79.4215006,2,Marybay Crescent (661),a
 43.8904734,-79.4176433,2,Catalina Crescent (612),a
@@ -18994,7 +18681,6 @@ lat,lon,sz,names,len_cat
 43.8905696,-79.4239506,2,Neal Drive (517),a
 43.89057,-79.46436,2,Sunnyside Drive (483),a
 43.8905705,-79.4168525,2,Catalina Crescent (056),a
-43.8905722,-79.4228301,2,Marybay Crescent (670),a
 43.8905735,-79.430773,2,Elka Drive (643),a
 43.8905735,-79.430773,2,Elka Drive (643),a
 43.8905747,-79.3964294,2,Manorheights Street (317),a
@@ -19077,6 +18763,7 @@ lat,lon,sz,names,len_cat
 43.890779,-79.3897224,2,Via Renzo Drive (617),a
 43.890779,-79.3897224,2,Via Renzo Drive (686),a
 43.8907805,-79.4195692,2,Taylor Mills Drive North (724),a
+43.8907853,-79.4195144,2,Taylor Mills Drive North (403),a
 43.8907945,-79.399915,2,Redstone Road (622),a
 43.8908013,-79.4500114,2,Rainey Court (690),a
 43.8908024,-79.4100724,2,Holly Drive (883),a
@@ -19123,6 +18810,7 @@ lat,lon,sz,names,len_cat
 43.8908803,-79.4536814,2,Gracedale Drive (395),a
 43.89089,-79.46713,2,Abilene Court (330),a
 43.89089,-79.46713,2,Abilene Court (330),a
+43.8908902,-79.4204313,2,Marybay Crescent (648),a
 43.8908902,-79.4204313,2,Taylor Mills Drive North (038),a
 43.8908957,-79.4416367,2,Yonge Street (304),a
 43.8908957,-79.4416367,2,Yonge Street (304),a
@@ -19175,6 +18863,7 @@ lat,lon,sz,names,len_cat
 43.8910209,-79.4286074,2,Blue Grass Boulevard (050),a
 43.8910219,-79.4046761,2,Darwin Court (795),a
 43.8910272,-79.4241362,2,Neal Drive (520),a
+43.8910272,-79.4241362,2,Taylor Mills Drive North (728),a
 43.8910282,-79.4380825,2,Oldhill Street (826),a
 43.8910382,-79.4383551,2,Oldhill Street (819),a
 43.8910429,-79.4365403,2,Elmpark Court (532),a
@@ -19218,6 +18907,7 @@ lat,lon,sz,names,len_cat
 43.8911355,-79.3963298,2,Manorheights Street (095),a
 43.8911399,-79.4096457,2,Holly Drive (435),a
 43.8911476,-79.3956489,2,Ruby Crescent (559),a
+43.8911525,-79.4231381,2,Marybay Crescent (676),a
 43.8911606,-79.4276327,2,Skopit Road (849),a
 43.8911693,-79.4269601,2,Skopit Road (841),a
 43.8911758,-79.4119477,2,Shirley Drive (418),a
@@ -19409,6 +19099,7 @@ lat,lon,sz,names,len_cat
 43.8916803,-79.4171083,2,Plowman Lane (858),a
 43.8916803,-79.4171083,2,Plowman Lane (858),a
 43.8916803,-79.4171083,2,Plowman Lane (864),a
+43.8916803,-79.4171083,2,Plowman Lane (864),a
 43.8916819,-79.408548,2,Shoshana Drive (545),a
 43.8916899,-79.4339915,2,Oldhill Street (894),a
 43.8916963,-79.4000993,2,Redstone Road (623),a
@@ -19464,6 +19155,7 @@ lat,lon,sz,names,len_cat
 43.8917918,-79.4311979,2,Elgin Mills Road East (756),a
 43.8917982,-79.4315882,2,Elgin Mills Road East (747),a
 43.8917982,-79.4173363,2,Plowman Lane (863),a
+43.8917982,-79.4173363,2,Plowman Lane (863),a
 43.8918006,-79.3963904,2,Kiwi Crescent (498),a
 43.8918059,-79.4112544,2,Remington Drive (050),a
 43.8918196,-79.4315548,2,Elgin Mills Road East (759),a
@@ -19471,6 +19163,7 @@ lat,lon,sz,names,len_cat
 43.8918272,-79.4175348,2,Plowman Lane (449),a
 43.8918291,-79.4178218,2,Plowman Lane (862),a
 43.8918291,-79.4178218,2,Plowman Lane (862),a
+43.8918291,-79.4178218,2,Point Pelee Lane (246),a
 43.8918291,-79.4178218,2,Point Pelee Lane (246),a
 43.8918291,-79.4135463,2,Romance Drive (967),a
 43.8918338,-79.4087206,2,Shoshana Drive (547),a
@@ -19519,6 +19212,7 @@ lat,lon,sz,names,len_cat
 43.8919474,-79.4306937,2,Elgin Mills Road East (651),a
 43.8919475,-79.4051269,2,Toporowski Avenue (187),a
 43.8919475,-79.4051269,2,Toporowski Avenue (187),a
+43.8919507,-79.4287822,2,Blue Grass Boulevard (069),a
 43.8919631,-79.4308469,2,Elgin Mills Road East (630),a
 43.8919631,-79.4308469,2,Elgin Mills Road East (630),a
 43.8919663,-79.4307876,2,Elgin Mills Road East (741),a
@@ -19551,6 +19245,7 @@ lat,lon,sz,names,len_cat
 43.8921428,-79.4224649,2,Allgood Street (220),a
 43.89216,-79.40533,2,Melbourne Drive (619),a
 43.89216,-79.40533,2,Melbourne Drive (619),a
+43.8921652,-79.4256779,2,Gells Road (745),a
 43.8921666,-79.4359851,2,Newmill Crescent (767),a
 43.8921669,-79.409237,2,Shoshana Drive (109),a
 43.8921703,-79.3947128,2,Kiwi Crescent (502),a
@@ -19576,11 +19271,13 @@ lat,lon,sz,names,len_cat
 43.8922239,-79.4053475,2,Melbourne Drive (087),a
 43.8922327,-79.4347877,2,Forestside Court (046),a
 43.8922374,-79.4288944,2,Blue Grass Boulevard (298),a
+43.8922404,-79.4262845,2,Gells Road (757),a
 43.8922461,-79.3946294,2,Kiwi Crescent (181),a
 43.8922461,-79.3946294,2,Kiwi Crescent (181),a
 43.8922501,-79.458692,2,Buckhorn Avenue (256),a
 43.8922501,-79.458692,2,Red Rock Drive (080),a
 43.8922501,-79.458692,2,Taos Court (209),a
+43.8922507,-79.425724,2,Gells Road (746),a
 43.8922565,-79.4113593,2,Mariposa Avenue (937),a
 43.8922565,-79.4113593,2,Remington Drive (841),a
 43.8922565,-79.4113593,2,Remington Drive (842),a
@@ -19588,6 +19285,7 @@ lat,lon,sz,names,len_cat
 43.8922687,-79.4112479,2,Mariposa Avenue (938),a
 43.8922719,-79.436443,2,Newmill Crescent (772),a
 43.8922741,-79.4222,2,Allgood Street (223),a
+43.8922746,-79.4261467,2,Gells Road (756),a
 43.8922771,-79.3946228,2,Kiwi Crescent (505),a
 43.8922771,-79.3946228,2,Kiwi Crescent (505),a
 43.8922781,-79.4257482,2,Gells Road (747),a
@@ -19619,6 +19317,7 @@ lat,lon,sz,names,len_cat
 43.8923226,-79.4362052,2,Newmill Crescent (770),a
 43.8923265,-79.4259959,2,Gells Road (753),a
 43.8923304,-79.4348036,2,Forestside Court (048),a
+43.8923335,-79.4258463,2,Gells Road (750),a
 43.8923403,-79.4053938,2,Melbourne Drive (088),a
 43.8923403,-79.4053938,2,Melbourne Drive (088),a
 43.892343,-79.4349552,2,Forestside Court (042),a

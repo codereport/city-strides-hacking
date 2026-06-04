@@ -210,21 +210,24 @@ def get_city_from_user():
     terminal_size = shutil.get_terminal_size((80, 20))
     max_width = terminal_size.columns
     cities = [enum_to_cityname(c) for c in City]
-    max_city_name_length = max(len(city) for city in cities) + 7
-    num_columns = max(1, max_width // max_city_name_length)
-    num_rows = ceil(len(cities) / num_columns)
+    n = len(cities)
+    num_width = len(str(n))
+    labels = [f"{i + 1:>{num_width}}. {city}" for i, city in enumerate(cities)]
 
-    table = []
+    sep = "    "  # gap between columns
+    col_width = max(len(label) for label in labels)  # uniform width for every column
+
+    # Pick the largest number of equal-width columns that still fits the terminal.
+    num_columns = max(1, (max_width + len(sep)) // (col_width + len(sep)))
+    num_rows = ceil(n / num_columns)
+
     for i in range(num_rows):
-        row = []
-        for j in range(num_columns):
-            idx = i + j * num_rows
-            to_add = f"{idx + 1}. {cities[idx]}" if idx < len(cities) else ""
-            row.append(to_add)
-        table.append(row)
-
-    for row in table:
-        print("  ".join(f"{cell:<{max_city_name_length}}" for cell in row if cell))
+        cells = [
+            f"{labels[i + j * num_rows]:<{col_width}}"
+            for j in range(num_columns)
+            if i + j * num_rows < n
+        ]
+        print(sep.join(cells).rstrip())
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]

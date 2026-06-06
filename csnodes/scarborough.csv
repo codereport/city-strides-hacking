@@ -1,8 +1,16 @@
 lat,lon,sz,names,len_cat
+43.6997328,-79.2593301,2,Anneke Road (124),a
+43.6997328,-79.2593301,2,Anneke Road (125),a
+43.700149,-79.2729269,2,Mack Avenue (796),a
 43.7004734,-79.2653971,2,Birchmount Road (202),a
 43.7004734,-79.2653971,2,Birchmount Road (205),a
 43.7004734,-79.2653971,2,Birchmount Road (795),a
 43.7004734,-79.2653971,2,Birchmount Road (798),a
+43.700777,-79.2697953,2,Mack Avenue (747),a
+43.700777,-79.2697953,2,Mack Avenue (747),a
+43.7008187,-79.2695922,2,Mack Avenue (748),a
+43.7008187,-79.2695922,2,Mack Avenue (748),a
+43.7009627,-79.2688916,2,Mack Avenue (562),a
 43.7024106,-79.2536274,2,Kingston Road (064),a
 43.7024106,-79.2536274,2,Kingston Road (578),a
 43.7025042,-79.2542215,2,Kingston Road (251),a
@@ -797,6 +805,7 @@ lat,lon,sz,names,len_cat
 43.7147534,-79.2809955,2,Mendelssohn Street (216),a
 43.7147534,-79.2809955,2,Mendelssohn Street (621),a
 43.7147534,-79.2809955,2,Mendelssohn Street (621),a
+43.714761,-79.2522121,2,Atlee Avenue (375),a
 43.7147962,-79.2441871,2,Kingston Road (220),a
 43.7147962,-79.2441871,2,Kingston Road (356),a
 43.7148181,-79.2810188,2,Mendelssohn Street (217),a
@@ -806,6 +815,8 @@ lat,lon,sz,names,len_cat
 43.714826,-79.2810255,2,Mendelssohn Street (015),a
 43.7148328,-79.2522342,2,Wilkie Avenue (626),a
 43.7148328,-79.2522342,2,Wilkie Avenue (631),a
+43.7148406,-79.252245,2,Atlee Avenue (348),a
+43.7148406,-79.252245,2,Atlee Avenue (376),a
 43.7148406,-79.252245,2,Wilkie Avenue (344),a
 43.7148406,-79.252245,2,Wilkie Avenue (428),a
 43.7148521,-79.252191,2,Wilkie Avenue (429),a
@@ -821,6 +832,7 @@ lat,lon,sz,names,len_cat
 43.7148905,-79.2389685,2,Brimley Road South (932),a
 43.7149022,-79.2794633,2,Howe Avenue (666),a
 43.7149022,-79.2794633,2,Howe Avenue (938),a
+43.714913,-79.2522756,2,Atlee Avenue (349),a
 43.7149776,-79.2547942,2,Natal Avenue (347),a
 43.7149798,-79.2547871,2,Natal Avenue (221),a
 43.7149941,-79.2510589,2,Heale Avenue (175),a
@@ -9042,6 +9054,8 @@ lat,lon,sz,names,len_cat
 43.7340042,-79.2255798,2,Oakridge Drive (544),a
 43.7340116,-79.2255487,2,Oakridge Drive (489),a
 43.7340116,-79.2255487,2,Oakridge Drive (692),a
+43.7340298,-79.2853662,2,Bertrand Avenue (542),a
+43.7340298,-79.2853662,2,Bertrand Avenue (839),a
 43.7340378,-79.2254439,2,Bellamy Road South (951),a
 43.7340378,-79.2254439,2,Oakridge Drive (854),a
 43.7340401,-79.2254285,2,Bellamy Road South (418),a
@@ -9060,6 +9074,7 @@ lat,lon,sz,names,len_cat
 43.7340912,-79.2114669,2,Heathfield Drive (064),a
 43.7340912,-79.2114669,2,Heathfield Drive (753),a
 43.7341163,-79.2220499,2,Whitecap Boulevard (607),a
+43.7341396,-79.2848726,2,Bertrand Avenue (966),a
 43.7341401,-79.2099878,2,Sylvan Avenue (305),a
 43.7341401,-79.2099878,2,Sylvan Avenue (592),a
 43.7341417,-79.2481237,2,Century Drive (307),a
@@ -9068,6 +9083,7 @@ lat,lon,sz,names,len_cat
 43.7341602,-79.2497808,2,Neston Avenue (023),a
 43.7341608,-79.2101611,2,Catalina Drive (354),a
 43.7341608,-79.2101611,2,Catalina Drive (469),a
+43.7341721,-79.2847284,2,Bertrand Avenue (543),a
 43.7341781,-79.2579142,2,Midland Avenue (882),a
 43.7341816,-79.2114891,2,Heathfield Drive (065),a
 43.7341816,-79.2114891,2,Heathfield Drive (754),a
@@ -9086,6 +9102,7 @@ lat,lon,sz,names,len_cat
 43.7342124,-79.2220551,2,Whitecap Boulevard (608),a
 43.7342164,-79.2102587,2,Catalina Drive (355),a
 43.7342164,-79.2102587,2,Catalina Drive (470),a
+43.7342271,-79.2844849,2,Bertrand Avenue (967),a
 43.7342272,-79.2139752,2,Brinloor Boulevard (351),a
 43.7342272,-79.2139752,2,Brinloor Boulevard (879),a
 43.7342272,-79.2139752,2,Hill Crescent (018),a
@@ -9098,6 +9115,7 @@ lat,lon,sz,names,len_cat
 43.734256,-79.2139357,2,Hill Crescent (445),a
 43.734263,-79.2115115,2,Heathfield Drive (066),a
 43.734263,-79.2115115,2,Heathfield Drive (755),a
+43.7342638,-79.2843157,2,Bertrand Avenue (544),a
 43.7342715,-79.2103316,2,Catalina Drive (356),a
 43.7342715,-79.2103316,2,Catalina Drive (471),a
 43.7342774,-79.2484774,2,Century Drive (309),a
@@ -17364,6 +17382,7 @@ lat,lon,sz,names,len_cat
 43.753629,-79.2404011,2,Perivale Crescent (147),a
 43.7536312,-79.2431737,2,Dignam Court (783),a
 43.7536365,-79.1929986,2,Toynbee Trail (503),a
+43.7536487,-79.2742528,2,Wickware Gate (347),a
 43.7536586,-79.1857566,2,Poplar Road (520),a
 43.7536586,-79.1857566,2,Poplar Road (520),a
 43.753659,-79.1994446,2,Westlake Road (665),a
@@ -17385,6 +17404,7 @@ lat,lon,sz,names,len_cat
 43.7537103,-79.1974059,2,Toynbee Trail (775),a
 43.7537106,-79.1787009,2,Denny Court (540),a
 43.7537142,-79.1786799,2,Denny Court (106),a
+43.753717,-79.2739234,2,Wickware Gate (348),a
 43.7537267,-79.2403303,2,Perivale Crescent (884),a
 43.7537267,-79.2403303,2,Perivale Crescent (936),a
 43.7537309,-79.1857875,2,Poplar Road (521),a
@@ -17396,6 +17416,7 @@ lat,lon,sz,names,len_cat
 43.7537427,-79.2513223,2,Barrymore Road (787),a
 43.753743,-79.1901004,2,Wooster Wood (277),a
 43.753743,-79.1901004,2,Wooster Wood (940),a
+43.753754,-79.2737447,2,Wickware Gate (349),a
 43.7537763,-79.1993044,2,Westlake Road (666),a
 43.7537763,-79.1993044,2,Westlake Road (679),a
 43.7537766,-79.202293,2,Kingston Road (113),a
@@ -17410,6 +17431,7 @@ lat,lon,sz,names,len_cat
 43.753795,-79.2433324,2,Dignam Court (072),a
 43.7538016,-79.2433165,2,Dignam Court (944),a
 43.7538161,-79.2350125,2,Burnview Crescent (682),a
+43.7538263,-79.2733962,2,Wickware Gate (350),a
 43.7538332,-79.1842429,2,Scarcliff Gardens (010),a
 43.7538332,-79.1842429,2,Scarcliff Gardens (010),a
 43.7538336,-79.2422577,2,Perivale Crescent (944),a
@@ -20772,6 +20794,7 @@ lat,lon,sz,names,len_cat
 43.7596921,-79.1803328,2,Darlingside Drive (638),a
 43.7596948,-79.2205052,2,Holmfirth Terrace (387),a
 43.7597044,-79.2207665,2,Holmfirth Terrace (685),a
+43.7597076,-79.2072228,2,Shoreland Crescent (231),a
 43.7597084,-79.1836213,2,Gardentree Street (834),a
 43.7597089,-79.2254794,2,Lawrence Avenue East (833),a
 43.7597095,-79.2192007,2,Holmfirth Terrace (695),a
@@ -20929,6 +20952,7 @@ lat,lon,sz,names,len_cat
 43.7599508,-79.2096863,2,Summerbridge Road (135),a
 43.7599508,-79.2096863,2,Summerbridge Road (594),a
 43.7599524,-79.1999363,2,Athenia Court (909),a
+43.7599538,-79.1998992,2,Athenia Court (888),a
 43.7599547,-79.2243664,2,Lawrence Avenue East (655),a
 43.759956,-79.2362709,2,Ben Alder Drive (581),a
 43.759956,-79.2362709,2,Ben Alder Drive (788),a
@@ -20946,10 +20970,12 @@ lat,lon,sz,names,len_cat
 43.7599669,-79.2228738,2,Greencrest Circuit (648),a
 43.7599712,-79.1759933,2,Darlingside Drive (800),a
 43.7599748,-79.2252741,2,Markham Road (743),a
+43.759975,-79.2096964,2,Summerbridge Road (269),a
 43.759975,-79.2096964,2,Summerbridge Road (573),a
 43.759975,-79.2096964,2,Summerbridge Road (573),a
 43.7599756,-79.2064561,2,Kirker Avenue (415),a
 43.7599756,-79.2064561,2,Kirker Avenue (418),a
+43.7599756,-79.2064561,2,Shoreland Crescent (238),a
 43.7599763,-79.2307405,2,Greenbrae Circuit (759),a
 43.7599789,-79.1967677,2,Kingston Road (634),a
 43.7599804,-79.1831544,2,Gardentree Street (948),a
@@ -21024,6 +21050,7 @@ lat,lon,sz,names,len_cat
 43.760096,-79.1828084,2,Morningside Avenue (905),a
 43.760096,-79.1828084,2,Pixley Crescent (416),a
 43.760096,-79.1828084,2,Pixley Crescent (720),a
+43.7600964,-79.199925,2,Athenia Court (886),a
 43.7600964,-79.182055,2,Pixley Crescent (412),a
 43.7600964,-79.182055,2,Pixley Crescent (716),a
 43.7600998,-79.1703034,2,Copperfield Road (607),a
@@ -21586,6 +21613,7 @@ lat,lon,sz,names,len_cat
 43.7609035,-79.2346579,2,Longhouse Place (867),a
 43.7609035,-79.2346579,2,Longhouse Place (867),a
 43.7609051,-79.2056677,2,Marcella Street (476),a
+43.7609051,-79.2056677,2,Samson Crescent (963),a
 43.7609056,-79.1909652,2,Coronation Drive (489),a
 43.7609056,-79.1909652,2,Coronation Drive (590),a
 43.7609071,-79.2419434,2,Ben Nevis Drive (135),a
@@ -22501,6 +22529,7 @@ lat,lon,sz,names,len_cat
 43.7620465,-79.2381796,2,Benlight Crescent (660),a
 43.7620496,-79.1853526,2,Coronation Drive (767),a
 43.7620496,-79.1853526,2,Coronation Drive (767),a
+43.7620503,-79.19915,2,Templeton Court (730),a
 43.7620514,-79.2148769,2,Lawrence Avenue East (148),a
 43.7620514,-79.2148769,2,Lawrence Avenue East (482),a
 43.7620514,-79.2148769,2,Lawrence Avenue East (483),a
@@ -22949,6 +22978,7 @@ lat,lon,sz,names,len_cat
 43.7627369,-79.2192721,2,Janray Drive (161),a
 43.7627369,-79.2192721,2,Janray Drive (975),a
 43.7627382,-79.2350247,2,Calumet Crescent (466),a
+43.7627425,-79.2085705,2,Susan Street (157),a
 43.7627443,-79.2459445,2,Benshire Drive (277),a
 43.7627443,-79.2459445,2,Benshire Drive (881),a
 43.7627443,-79.2459445,2,Benshire Drive (881),a
@@ -23154,6 +23184,7 @@ lat,lon,sz,names,len_cat
 43.7631647,-79.233162,2,Jutten Court (814),a
 43.7631677,-79.2333793,2,Jutten Court (128),a
 43.7631677,-79.2333793,2,Jutten Court (260),a
+43.7631718,-79.2042986,2,3939 Lawrence Avenue East (616),a
 43.7631772,-79.1814199,2,Briarbluff Avenue (002),a
 43.7631783,-79.2326265,2,Painted Post Drive (992),a
 43.7631783,-79.2326265,2,Painted Post Drive (992),a
@@ -23192,6 +23223,7 @@ lat,lon,sz,names,len_cat
 43.763208,-79.2041313,2,3939 Lawrence Avenue East (099),a
 43.763208,-79.2041313,2,3939 Lawrence Avenue East (618),a
 43.7632101,-79.1814423,2,Briarbluff Avenue (778),a
+43.763216,-79.2044369,2,3939 Lawrence Avenue East (614),a
 43.7632162,-79.179137,2,Coronation Drive (008),a
 43.7632162,-79.179137,2,Coronation Drive (782),a
 43.76322,-79.17886,2,Shoreview Drive (128),a
@@ -23245,6 +23277,7 @@ lat,lon,sz,names,len_cat
 43.763292,-79.1788932,2,Deekshill Drive (365),a
 43.763292,-79.1788932,2,Shoreview Drive (698),a
 43.7632925,-79.2243119,2,Shawford Crescent (679),a
+43.7632935,-79.2037285,2,3939 Lawrence Avenue East (620),a
 43.7632942,-79.2145968,2,Golfhaven Drive (912),a
 43.7632946,-79.2373172,2,Pandora Circle (148),a
 43.7632946,-79.2373172,2,Pandora Circle (803),a
@@ -23260,10 +23293,12 @@ lat,lon,sz,names,len_cat
 43.7633283,-79.2333876,2,Jutten Court (125),a
 43.7633283,-79.2333876,2,Jutten Court (125),a
 43.7633283,-79.2333876,2,Jutten Court (257),a
+43.7633305,-79.1979858,2,Celeste Drive (936),a
 43.7633356,-79.2380602,2,Benleigh Drive (442),a
 43.7633356,-79.2380602,2,Benleigh Drive (996),a
 43.7633405,-79.2088212,2,Lawrence Avenue East (913),a
 43.7633405,-79.2088212,2,Lawrence Avenue East (913),a
+43.7633405,-79.2088212,2,Susan Street (159),a
 43.763344,-79.2035065,2,3939 Lawrence Avenue East (102),a
 43.763344,-79.2035065,2,3939 Lawrence Avenue East (621),a
 43.7633443,-79.2206952,2,Chandler Drive (355),a
@@ -23324,6 +23359,7 @@ lat,lon,sz,names,len_cat
 43.7634252,-79.1753497,2,Donnacona Crescent (670),a
 43.7634252,-79.1753497,2,Donnacona Crescent (790),a
 43.7634274,-79.2033389,2,3939 Lawrence Avenue East (233),a
+43.7634274,-79.2033389,2,3939 Lawrence Avenue East (624),a
 43.7634281,-79.153307,2,Copperfield Road (627),a
 43.7634281,-79.153307,2,Copperfield Road (754),a
 43.7634308,-79.2376719,2,Benleigh Drive (445),a
@@ -23365,6 +23401,7 @@ lat,lon,sz,names,len_cat
 43.7635042,-79.2046393,2,3939 Lawrence Avenue East (052),a
 43.7635069,-79.1754493,2,Darlingside Drive (012),a
 43.7635123,-79.1975207,2,Celeste Drive (931),a
+43.7635193,-79.2045979,2,3939 Lawrence Avenue East (119),a
 43.7635235,-79.177541,2,Homestead Road (306),a
 43.7635235,-79.177541,2,Homestead Road (782),a
 43.7635288,-79.1514347,2,Beechgrove Drive (545),a
@@ -23390,6 +23427,7 @@ lat,lon,sz,names,len_cat
 43.7635566,-79.1953424,2,Galloway Road (589),a
 43.7635572,-79.2375689,2,Bellamy Road North (358),a
 43.7635572,-79.2375689,2,Bellamy Road North (848),a
+43.7635635,-79.1973452,2,Celeste Drive (929),a
 43.7635732,-79.1952606,2,Montoro Lane (966),a
 43.7635735,-79.1968356,2,Adams Drive (326),a
 43.7635735,-79.1968356,2,Adams Drive (326),a
@@ -23405,6 +23443,7 @@ lat,lon,sz,names,len_cat
 43.76359,-79.1775691,2,Homestead Road (483),a
 43.7635904,-79.222042,2,Hiscock Boulevard (469),a
 43.7635904,-79.222042,2,Hiscock Boulevard (622),a
+43.7635964,-79.1971455,2,Celeste Drive (927),a
 43.7635981,-79.2301558,2,Abbeville Road (738),a
 43.7635984,-79.1755243,2,Darlingside Drive (539),a
 43.7635984,-79.1755243,2,Darlingside Drive (614),a
@@ -23599,6 +23638,7 @@ lat,lon,sz,names,len_cat
 43.7639939,-79.1885117,2,Danzig Street (963),a
 43.7639995,-79.2055937,2,Lawrence Avenue East (523),a
 43.7639995,-79.2055937,2,Lawrence Avenue East (528),a
+43.7639995,-79.2055937,2,Lawrence Avenue East (903),a
 43.7639995,-79.2055937,2,Lawrence Avenue East (908),a
 43.7639995,-79.2055937,2,Orton Park Road (725),a
 43.7639995,-79.2055937,2,Orton Park Road (791),a
@@ -23676,6 +23716,7 @@ lat,lon,sz,names,len_cat
 43.7641236,-79.2036338,2,3939 Lawrence Avenue East (630),a
 43.764126,-79.2337292,2,Wantanopa Crescent (294),a
 43.764126,-79.2337292,2,Wantanopa Crescent (294),a
+43.7641295,-79.2055069,2,Lawrence Avenue East (774),a
 43.7641295,-79.2055069,2,Lawrence Avenue East (853),a
 43.7641384,-79.2279736,2,Rochman Boulevard (857),a
 43.7641391,-79.204303,2,3939 Lawrence Avenue East (244),a
@@ -23700,6 +23741,7 @@ lat,lon,sz,names,len_cat
 43.7641856,-79.1877059,2,Danzig Street (318),a
 43.7641868,-79.19284,2,Ignatius Lane (858),a
 43.7641917,-79.2201005,2,Lucerne Court (395),a
+43.7641946,-79.2036871,2,3939 Lawrence Avenue East (632),a
 43.7641964,-79.2049733,2,Lawrence Avenue East (302),a
 43.7641964,-79.2049733,2,Lawrence Avenue East (525),a
 43.7641964,-79.2049733,2,Lawrence Avenue East (529),a
@@ -23774,6 +23816,7 @@ lat,lon,sz,names,len_cat
 43.7643259,-79.2305676,2,Abbeville Road (396),a
 43.7643259,-79.2305676,2,Abbeville Road (967),a
 43.7643279,-79.2093109,2,Nightingale Place (025),a
+43.7643287,-79.2031521,2,3967 Lawrence Avenue East (815),a
 43.7643297,-79.2032141,2,3967 Lawrence Avenue East (817),a
 43.7643309,-79.2349654,2,Sedgemount Drive (762),a
 43.7643309,-79.2349654,2,Sedgemount Drive (851),a
@@ -23908,10 +23951,12 @@ lat,lon,sz,names,len_cat
 43.7644668,-79.203757,2,Lawrence Avenue East (736),a
 43.7644721,-79.2064492,2,Northfield Road (512),a
 43.7644721,-79.2064492,2,Northfield Road (526),a
+43.7644731,-79.2065113,2,Northfield Road (513),a
 43.7644737,-79.2105405,2,Par Avenue (204),a
 43.7644737,-79.1872262,2,Marlena Drive (908),a
 43.7644794,-79.2063372,2,Northfield Road (511),a
 43.7644794,-79.2063372,2,Northfield Road (525),a
+43.7644829,-79.2065828,2,Northfield Road (514),a
 43.7644829,-79.2065828,2,Northfield Road (528),a
 43.7644859,-79.21172,2,Mossbank Drive (211),a
 43.7644874,-79.2062748,2,Northfield Road (510),a
@@ -23930,7 +23975,9 @@ lat,lon,sz,names,len_cat
 43.7644964,-79.2152839,2,Golfhaven Drive (707),a
 43.7644973,-79.221307,2,Chandler Drive (372),a
 43.7645022,-79.2117271,2,Caddy Drive (217),a
+43.764503,-79.2066968,2,Northfield Road (517),a
 43.764503,-79.2066968,2,Northfield Road (531),a
+43.7645042,-79.2061998,2,Northfield Road (509),a
 43.7645042,-79.2061998,2,Northfield Road (523),a
 43.7645073,-79.1865997,2,Danzig Street (967),a
 43.7645094,-79.1690625,2,Coronation Drive (447),a
@@ -23945,6 +23992,7 @@ lat,lon,sz,names,len_cat
 43.7645201,-79.2338045,2,Wantanopa Crescent (710),a
 43.7645201,-79.2338045,2,Wantanopa Crescent (844),a
 43.7645217,-79.2184507,2,Janray Drive (879),a
+43.7645316,-79.2067953,2,Northfield Road (519),a
 43.7645316,-79.2067953,2,Northfield Road (533),a
 43.7645346,-79.1847493,2,Morningside Avenue (744),a
 43.7645346,-79.1847493,2,Morningside Avenue (744),a
@@ -23960,6 +24008,7 @@ lat,lon,sz,names,len_cat
 43.7645478,-79.215305,2,Golfhaven Drive (898),a
 43.7645478,-79.215305,2,Par Avenue (840),a
 43.7645478,-79.215305,2,Par Avenue (843),a
+43.7645503,-79.2068444,2,Northfield Road (520),a
 43.7645503,-79.2068444,2,Northfield Road (534),a
 43.764556,-79.2153078,2,Golfhaven Drive (167),a
 43.764556,-79.2153078,2,Golfhaven Drive (228),a
@@ -23968,6 +24017,7 @@ lat,lon,sz,names,len_cat
 43.7645624,-79.192283,2,Kingston Road (008),a
 43.7645624,-79.192283,2,Kingston Road (059),a
 43.7645624,-79.192283,2,Kingston Road (982),a
+43.7645785,-79.2069181,2,Northfield Road (521),a
 43.7645785,-79.2069181,2,Northfield Road (535),a
 43.7645799,-79.2058621,2,Northfield Road (507),a
 43.7645799,-79.2058621,2,Northfield Road (521),a
@@ -24155,6 +24205,7 @@ lat,lon,sz,names,len_cat
 43.7648439,-79.1731087,2,Deanscroft Square (417),a
 43.7648439,-79.1731087,2,Deanscroft Square (539),a
 43.7648439,-79.1731087,2,Deanscroft Square (539),a
+43.764844,-79.207196,2,Northfield Road (528),a
 43.764844,-79.207196,2,Northfield Road (542),a
 43.7648441,-79.2303039,2,Painted Post Drive (045),a
 43.7648468,-79.1850315,2,Danzig Street (111),a
@@ -24588,6 +24639,7 @@ lat,lon,sz,names,len_cat
 43.7654882,-79.1732373,2,Deanscroft Square (441),a
 43.7654882,-79.1732373,2,Deanscroft Square (563),a
 43.7654882,-79.1732373,2,Deanscroft Square (563),a
+43.7654903,-79.2076487,2,Northfield Road (535),a
 43.7654903,-79.2076487,2,Northfield Road (549),a
 43.7654928,-79.173016,2,Deanscroft Square (437),a
 43.7654928,-79.173016,2,Deanscroft Square (437),a
@@ -24609,6 +24661,7 @@ lat,lon,sz,names,len_cat
 43.765528,-79.1962083,2,Galloway Road (993),a
 43.7655309,-79.2333771,2,Wantanopa Crescent (846),a
 43.7655309,-79.2333771,2,Wantanopa Crescent (846),a
+43.7655334,-79.1961869,2,Galloway Road (202),a
 43.7655335,-79.2345525,2,Sedgemount Drive (770),a
 43.7655335,-79.2345525,2,Sedgemount Drive (859),a
 43.7655446,-79.1632341,2,Chemical Court (410),a
@@ -24703,6 +24756,7 @@ lat,lon,sz,names,len_cat
 43.7658102,-79.179993,2,Deekshill Drive (346),a
 43.7658102,-79.179993,2,Deekshill Drive (370),a
 43.7658123,-79.2081483,2,Lisa Road (872),a
+43.7658123,-79.2081483,2,Northfield Road (483),a
 43.7658123,-79.2081483,2,Northfield Road (541),a
 43.7658123,-79.2081483,2,Northfield Road (541),a
 43.7658174,-79.2344372,2,Sedgemount Drive (772),a
@@ -24767,6 +24821,7 @@ lat,lon,sz,names,len_cat
 43.7659287,-79.174337,2,Manse Road (594),a
 43.7659321,-79.2307936,2,Pandora Circle (682),a
 43.7659345,-79.2064111,2,Ladysbridge Drive (078),a
+43.7659367,-79.2063421,2,Ladysbridge Drive (602),a
 43.7659414,-79.1912163,2,Kingston Road (149),a
 43.7659414,-79.1912163,2,Kingston Road (168),a
 43.7659507,-79.2063481,2,Ladysbridge Drive (079),a
@@ -24918,6 +24973,7 @@ lat,lon,sz,names,len_cat
 43.7661152,-79.1963946,2,Lawrence Avenue East (545),a
 43.7661152,-79.1963946,2,Lawrence Avenue East (546),a
 43.7661152,-79.1963946,2,Lawrence Avenue East (546),a
+43.7661152,-79.1963946,2,Lawrence Avenue East (925),a
 43.7661152,-79.1963946,2,Lawrence Avenue East (926),a
 43.7661152,-79.1963946,2,Lawrence Avenue East (926),a
 43.7661154,-79.278127,2,Ellesmere Road (453),a
@@ -24957,6 +25013,7 @@ lat,lon,sz,names,len_cat
 43.7661561,-79.234209,2,Sedgemount Drive (993),a
 43.7661606,-79.20756,2,Lisa Road (031),a
 43.7661606,-79.20756,2,Lisa Road (880),a
+43.766163,-79.2092065,2,Northfield Road (486),a
 43.7661654,-79.2053426,2,Ladysbridge Drive (137),a
 43.7661654,-79.2053426,2,Ladysbridge Drive (874),a
 43.7661654,-79.1965619,2,Lawrence Avenue East (539),a
@@ -24967,6 +25024,7 @@ lat,lon,sz,names,len_cat
 43.7661773,-79.1579574,2,Minuk Acres (890),a
 43.7661773,-79.1579574,2,Minuk Acres (956),a
 43.7661908,-79.234128,2,Sedgemount Drive (780),a
+43.7661917,-79.2052921,2,Ladysbridge Drive (138),a
 43.7661917,-79.2052921,2,Ladysbridge Drive (875),a
 43.7661955,-79.1964343,2,Galloway Road (057),a
 43.7661955,-79.1964343,2,Galloway Road (119),a
@@ -25014,6 +25072,7 @@ lat,lon,sz,names,len_cat
 43.7662501,-79.2124922,2,Mossbank Drive (199),a
 43.7662531,-79.1957724,2,Lawrence Avenue East (548),a
 43.7662531,-79.1957724,2,Lawrence Avenue East (928),a
+43.7662558,-79.2093777,2,Northfield Road (488),a
 43.7662558,-79.2093777,2,Northfield Road (502),a
 43.7662629,-79.2052403,2,Ladysbridge Drive (140),a
 43.7662629,-79.2052403,2,Ladysbridge Drive (877),a
@@ -25074,6 +25133,7 @@ lat,lon,sz,names,len_cat
 43.766349,-79.1579417,2,Beechgrove Drive (847),a
 43.766349,-79.1579417,2,Minuk Acres (152),a
 43.766349,-79.1579417,2,Minuk Acres (663),a
+43.7663503,-79.2067051,2,Lisa Road (610),a
 43.7663503,-79.2067051,2,Lisa Road (817),a
 43.7663506,-79.1881012,2,Marlena Drive (375),a
 43.7663506,-79.1881012,2,Marlena Drive (640),a
@@ -25395,6 +25455,7 @@ lat,lon,sz,names,len_cat
 43.7669407,-79.2267385,2,Armada Court (429),a
 43.7669433,-79.2213196,2,Densgrove Road (146),a
 43.7669437,-79.2234584,2,Grassington Crescent (055),a
+43.7669465,-79.1966224,2,Galloway Road (066),a
 43.7669481,-79.1898885,2,Kitchener Road (043),a
 43.7669483,-79.2307139,2,Wantanopa Crescent (830),a
 43.7669519,-79.2061142,2,Amboy Road (557),a
@@ -25430,6 +25491,7 @@ lat,lon,sz,names,len_cat
 43.767003,-79.1709455,2,Woodgarden Crescent (410),a
 43.767003,-79.1709455,2,Woodgarden Crescent (727),a
 43.7670037,-79.2313832,2,Wantanopa Crescent (817),a
+43.7670063,-79.2049944,2,Ladysbridge Drive (149),a
 43.7670063,-79.2049944,2,Ladysbridge Drive (886),a
 43.7670073,-79.2142503,2,Mossbank Drive (635),a
 43.7670073,-79.2142503,2,Mossbank Drive (919),a
@@ -25441,6 +25503,7 @@ lat,lon,sz,names,len_cat
 43.7670226,-79.1965741,2,Galloway Road (048),a
 43.7670257,-79.1965082,2,Galloway Road (069),a
 43.7670303,-79.2059503,2,Amboy Road (015),a
+43.7670303,-79.2059503,2,Amboy Road (559),a
 43.7670315,-79.1900152,2,Kitchener Road (030),a
 43.7670332,-79.2222631,2,Delawana Drive (185),a
 43.7670378,-79.1529799,2,Beechgrove Drive (525),a
@@ -25587,6 +25650,7 @@ lat,lon,sz,names,len_cat
 43.7672711,-79.1880763,2,Florist Lane (371),a
 43.7672711,-79.1880763,2,Florist Lane (380),a
 43.7672757,-79.2055206,2,Amboy Road (025),a
+43.7672757,-79.2055206,2,Amboy Road (563),a
 43.7672789,-79.2224297,2,Delawana Drive (431),a
 43.7672839,-79.2146645,2,Mossbank Drive (639),a
 43.7672839,-79.2146645,2,Mossbank Drive (921),a
@@ -25633,6 +25697,7 @@ lat,lon,sz,names,len_cat
 43.7673649,-79.1660728,2,Woodgrove Drive (736),a
 43.7673649,-79.1660728,2,Woodgrove Drive (878),a
 43.7673674,-79.1963066,2,Galloway Road (056),a
+43.767374,-79.1963238,2,Galloway Road (095),a
 43.7673818,-79.2117171,2,Firth Crescent (407),a
 43.7673818,-79.2117171,2,Firth Crescent (841),a
 43.7673928,-79.2188629,2,Janray Drive (258),a
@@ -26440,6 +26505,7 @@ lat,lon,sz,names,len_cat
 43.7686949,-79.1888841,2,Falaise Road (262),a
 43.7686991,-79.213616,2,Point Grey Crescent (996),a
 43.7686991,-79.213616,2,Thornbeck Drive (434),a
+43.7687037,-79.2076967,2,Thornbeck Drive (612),a
 43.7687038,-79.1788612,2,Skelding Court (547),a
 43.7687042,-79.2125607,2,Lakeland Crescent (156),a
 43.7687058,-79.1788742,2,Skelding Court (345),a
@@ -26554,6 +26620,7 @@ lat,lon,sz,names,len_cat
 43.7689099,-79.1730082,2,Hainford Street (277),a
 43.7689099,-79.1730082,2,Hainford Street (854),a
 43.7689099,-79.1730082,2,Hainford Street (854),a
+43.7689127,-79.2064231,2,Ladysbridge Drive (286),a
 43.7689294,-79.219722,2,Janray Drive (012),a
 43.7689294,-79.219722,2,Janray Drive (198),a
 43.7689336,-79.2136463,2,Point Grey Crescent (999),a
@@ -26641,6 +26708,7 @@ lat,lon,sz,names,len_cat
 43.7691229,-79.1721304,2,Melchior Drive (187),a
 43.7691229,-79.1721304,2,Melchior Drive (704),a
 43.7691229,-79.1721304,2,Melchior Drive (704),a
+43.7691232,-79.2077749,2,Ladysbridge Drive (296),a
 43.7691232,-79.2077749,2,Orton Park Road (734),a
 43.7691232,-79.2077749,2,Orton Park Road (794),a
 43.7691318,-79.1621162,2,Ravenview Drive (969),a
@@ -26662,6 +26730,7 @@ lat,lon,sz,names,len_cat
 43.7691581,-79.1647488,2,Bennett Road (955),a
 43.7691619,-79.2225106,2,Hiscock Boulevard (608),a
 43.7691619,-79.2065248,2,Ladysbridge Drive (273),a
+43.7691619,-79.2065248,2,Ladysbridge Drive (287),a
 43.7691631,-79.1828306,2,Collinsgrove Road (621),a
 43.7691631,-79.1828306,2,Collinsgrove Road (624),a
 43.7691631,-79.1828306,2,Lawrence Avenue East (248),a
@@ -26813,6 +26882,7 @@ lat,lon,sz,names,len_cat
 43.7693737,-79.1582421,2,Bethley Drive (554),a
 43.7693769,-79.1712232,2,Valia Road (340),a
 43.7693769,-79.1712232,2,Valia Road (393),a
+43.7693799,-79.206671,2,Ladysbridge Drive (292),a
 43.7693807,-79.2151736,2,Linville Road (158),a
 43.7693807,-79.2151736,2,Linville Road (253),a
 43.7693818,-79.1701503,2,Stoney Creek Drive (287),a
@@ -27434,29 +27504,18 @@ lat,lon,sz,names,len_cat
 43.7706339,-79.1618409,2,Dunstall Crescent (307),a
 43.7706339,-79.1618409,2,Dunstall Crescent (321),a
 43.7706351,-79.1633668,2,Brightside Drive (336),a
-43.7706441,-79.2032952,2,Bow Valley Drive (207),a
 43.7706456,-79.2583927,2,Ellesmere Road (039),a
 43.7706456,-79.2583927,2,Ellesmere Road (379),a
-43.7706459,-79.203407,2,Bow Valley Drive (208),a
 43.7706472,-79.1761503,2,Lawrence Avenue East (208),a
 43.7706477,-79.2341449,2,Bluefin Crescent (451),a
 43.7706477,-79.2341335,2,Bluefin Crescent (130),a
-43.7706488,-79.2035933,2,Bow Valley Drive (209),a
 43.7706501,-79.2241156,2,Carew Gate (060),a
 43.7706501,-79.2241156,2,Mountland Drive (071),a
 43.7706516,-79.1633696,2,Brightside Drive (585),a
-43.7706524,-79.2035921,2,Bow Valley Drive (201),a
-43.7706566,-79.2034107,2,Bow Valley Drive (200),a
 43.7706567,-79.2265789,2,Stonehenge Crescent (971),a
 43.7706579,-79.1618383,2,Dunstall Crescent (306),a
 43.7706593,-79.1761068,2,Lawrence Avenue East (311),a
-43.7706594,-79.2036923,2,Bow Valley Drive (053),a
-43.7706594,-79.2036923,2,Bow Valley Drive (210),a
 43.7706604,-79.1867214,2,Kingston Road (317),a
-43.770661,-79.2033014,2,Bow Valley Drive (199),a
-43.7706793,-79.203816,2,Bow Valley Drive (211),a
-43.7706798,-79.2031838,2,Bow Valley Drive (198),a
-43.7706873,-79.2038086,2,Bow Valley Drive (202),a
 43.7706884,-79.1618401,2,Dunstall Crescent (305),a
 43.7706932,-79.1966962,2,Weir Crescent (267),a
 43.7706932,-79.1966962,2,Weir Crescent (456),a
@@ -27475,12 +27534,8 @@ lat,lon,sz,names,len_cat
 43.7707097,-79.1633836,2,Brightside Drive (337),a
 43.7707115,-79.226627,2,Stonehenge Crescent (943),a
 43.7707115,-79.226627,2,Stonehenge Crescent (972),a
-43.770712,-79.2030323,2,Bow Valley Drive (048),a
-43.770712,-79.2030323,2,Bow Valley Drive (205),a
-43.7707171,-79.2039267,2,Bow Valley Drive (212),a
 43.7707195,-79.224054,2,Mountland Drive (072),a
 43.7707205,-79.1618505,2,Dunstall Crescent (304),a
-43.7707207,-79.2039144,2,Bow Valley Drive (203),a
 43.7707209,-79.2216526,2,Jeffton Crescent (423),a
 43.7707218,-79.186863,2,Kingston Road (312),a
 43.7707218,-79.186863,2,Morningside Avenue (158),a
@@ -27497,42 +27552,30 @@ lat,lon,sz,names,len_cat
 43.7707383,-79.1719389,2,Valia Road (564),a
 43.7707383,-79.1719389,2,Valia Road (564),a
 43.7707428,-79.1762938,2,Manse Road (639),a
-43.7707457,-79.2028821,2,Bow Valley Drive (047),a
-43.7707457,-79.2028821,2,Bow Valley Drive (204),a
 43.770751,-79.1549992,2,Satok Terrace (108),a
 43.770751,-79.1549992,2,Satok Terrace (470),a
-43.770754,-79.2039877,2,Bow Valley Drive (056),a
-43.770754,-79.2039877,2,Bow Valley Drive (213),a
 43.770755,-79.2509949,2,McCowan Road (092),a
 43.770755,-79.2509949,2,McCowan Road (999),a
 43.7707602,-79.1547162,2,Satok Terrace (110),a
 43.7707602,-79.1547162,2,Satok Terrace (472),a
-43.7707605,-79.2026829,2,Bow Valley Drive (046),a
-43.7707605,-79.2026829,2,Bow Valley Drive (203),a
-43.7707822,-79.2040614,2,Bow Valley Drive (214),a
-43.7707822,-79.2040565,2,Bow Valley Drive (204),a
 43.7707828,-79.1633952,2,Brightside Drive (587),a
 43.7707835,-79.2584142,2,Ellesmere Road (046),a
 43.7707835,-79.2584142,2,Ellesmere Road (386),a
 43.7707841,-79.1550163,2,Satok Terrace (107),a
 43.7707841,-79.1550163,2,Satok Terrace (469),a
 43.7707873,-79.2118516,2,Mid Pines Road (290),a
-43.7707881,-79.2021478,2,Bow Valley Drive (202),a
 43.7707892,-79.1633805,2,Brightside Drive (338),a
 43.7707938,-79.2239969,2,Mountland Drive (073),a
-43.7707965,-79.2021103,2,Bow Valley Drive (201),a
 43.7707986,-79.214299,2,Dalehurst Avenue (724),a
 43.7707987,-79.1547028,2,Satok Terrace (111),a
 43.7707987,-79.1547028,2,Satok Terrace (473),a
 43.7707988,-79.1641484,2,Brightview Crescent (992),a
 43.7707998,-79.2216148,2,Jeffton Crescent (424),a
-43.7708039,-79.2021159,2,Bow Valley Drive (197),a
 43.7708041,-79.1867778,2,Kingston Road (926),a
 43.7708046,-79.1867754,2,Kingston Road (311),a
 43.7708048,-79.2143022,2,Brimorton Drive (122),a
 43.7708048,-79.2143022,2,Brimorton Drive (137),a
 43.7708124,-79.2267483,2,Stonehenge Crescent (945),a
-43.7708134,-79.2020352,2,Bow Valley Drive (200),a
 43.7708157,-79.1642182,2,Brightview Crescent (294),a
 43.7708174,-79.16426,2,Brightview Crescent (991),a
 43.7708195,-79.1550185,2,Satok Terrace (106),a
@@ -27541,12 +27584,8 @@ lat,lon,sz,names,len_cat
 43.7708219,-79.1642756,2,Brightview Crescent (293),a
 43.7708233,-79.1918217,2,Rodda Boulevard (095),a
 43.7708235,-79.2179303,2,Welwyn Avenue (051),a
-43.7708376,-79.2041467,2,Bow Valley Drive (058),a
-43.7708376,-79.2041467,2,Bow Valley Drive (215),a
 43.7708383,-79.1547085,2,Satok Terrace (112),a
 43.7708383,-79.1547085,2,Satok Terrace (474),a
-43.7708394,-79.2019723,2,Bow Valley Drive (042),a
-43.7708394,-79.2019723,2,Bow Valley Drive (199),a
 43.7708418,-79.1869076,2,Morningside Avenue (159),a
 43.7708431,-79.2178444,2,Hoshlega Drive (126),a
 43.7708472,-79.1643128,2,Brightview Crescent (292),a
@@ -27561,8 +27600,6 @@ lat,lon,sz,names,len_cat
 43.7708548,-79.1966664,2,Weir Crescent (270),a
 43.7708548,-79.1966664,2,Weir Crescent (459),a
 43.7708548,-79.1966664,2,Weir Crescent (459),a
-43.7708654,-79.2019094,2,Bow Valley Drive (198),a
-43.7708708,-79.2019187,2,Bow Valley Drive (195),a
 43.770874,-79.1547326,2,Satok Terrace (113),a
 43.770874,-79.1547326,2,Satok Terrace (475),a
 43.7708766,-79.2268209,2,Stonehenge Crescent (946),a
@@ -27585,11 +27622,8 @@ lat,lon,sz,names,len_cat
 43.7709086,-79.2570618,2,Ellesmere Road (032),a
 43.7709086,-79.2570618,2,Ellesmere Road (364),a
 43.7709086,-79.2570618,2,Ellesmere Road (364),a
-43.7709098,-79.2018708,2,Bow Valley Drive (197),a
 43.7709098,-79.1549302,2,Satok Terrace (095),a
 43.7709098,-79.1549302,2,Satok Terrace (439),a
-43.7709109,-79.2042315,2,Bow Valley Drive (059),a
-43.7709109,-79.2042315,2,Bow Valley Drive (216),a
 43.7709179,-79.1548224,2,Satok Terrace (093),a
 43.7709179,-79.1548224,2,Satok Terrace (437),a
 43.7709204,-79.1633662,2,Brightside Drive (588),a
@@ -27607,8 +27641,6 @@ lat,lon,sz,names,len_cat
 43.7709608,-79.186964,2,Morningside Avenue (744),a
 43.7709621,-79.1866436,2,Kingston Road (157),a
 43.7709622,-79.1634528,2,Brightview Crescent (994),a
-43.7709634,-79.2018537,2,Bow Valley Drive (193),a
-43.7709634,-79.2018444,2,Bow Valley Drive (196),a
 43.7709634,-79.163514,2,Brightview Crescent (296),a
 43.7709665,-79.1870823,2,Morningside Avenue (759),a
 43.7709697,-79.1633558,2,Brightside Drive (589),a
@@ -27633,11 +27665,9 @@ lat,lon,sz,names,len_cat
 43.771021,-79.225686,2,Stonehenge Crescent (969),a
 43.7710229,-79.1699429,2,Stoney Creek Drive (294),a
 43.7710229,-79.1699429,2,Stoney Creek Drive (647),a
-43.7710244,-79.2018509,2,Bow Valley Drive (192),a
 43.7710252,-79.196624,2,Weir Crescent (461),a
 43.7710252,-79.196624,2,Weir Crescent (461),a
 43.7710259,-79.2318113,2,Dolly Varden Boulevard (120),a
-43.7710264,-79.2018425,2,Bow Valley Drive (195),a
 43.7710474,-79.1633564,2,Brightside Drive (341),a
 43.7710568,-79.193492,2,Westcroft Drive (576),a
 43.7710667,-79.1743616,2,Lawrence Avenue East (963),a
@@ -27654,8 +27684,6 @@ lat,lon,sz,names,len_cat
 43.7710934,-79.1912693,2,Rodda Boulevard (219),a
 43.7710934,-79.1912693,2,Weir Crescent (204),a
 43.771094,-79.225746,2,Stonehenge Crescent (968),a
-43.7710956,-79.2018869,2,Bow Valley Drive (191),a
-43.771099,-79.2018776,2,Bow Valley Drive (194),a
 43.7711002,-79.2257348,2,Stonehenge Crescent (933),a
 43.7711028,-79.2118427,2,Mid Pines Road (621),a
 43.7711045,-79.1836622,2,Collinsgrove Road (294),a
@@ -27696,8 +27724,6 @@ lat,lon,sz,names,len_cat
 43.7711642,-79.1601622,2,Beechgrove Drive (498),a
 43.7711642,-79.1601622,2,Beechgrove Drive (780),a
 43.7711642,-79.1601622,2,Beechgrove Drive (780),a
-43.7711718,-79.2019251,2,Bow Valley Drive (036),a
-43.7711718,-79.2019251,2,Bow Valley Drive (193),a
 43.771174,-79.1695477,2,Stoney Creek Drive (296),a
 43.771174,-79.1695477,2,Stoney Creek Drive (648),a
 43.7711772,-79.1763961,2,Manse Road (078),a
@@ -27737,8 +27763,6 @@ lat,lon,sz,names,len_cat
 43.7712385,-79.1600956,2,Cathlo Street (486),a
 43.7712386,-79.1600952,2,Cathlo Street (383),a
 43.7712402,-79.2107075,2,Echo Glen Road (311),a
-43.7712444,-79.2019602,2,Bow Valley Drive (035),a
-43.7712444,-79.2019602,2,Bow Valley Drive (192),a
 43.7712463,-79.2297055,2,Markham Road (059),a
 43.7712463,-79.2297055,2,Markham Road (768),a
 43.7712527,-79.2298304,2,Markham Road (113),a
@@ -27821,8 +27845,6 @@ lat,lon,sz,names,len_cat
 43.7714272,-79.1966161,2,Weir Crescent (161),a
 43.7714283,-79.1722178,2,Valia Road (341),a
 43.7714283,-79.1722178,2,Valia Road (394),a
-43.7714325,-79.2047626,2,Bow Valley Drive (060),a
-43.7714325,-79.2047626,2,Bow Valley Drive (217),a
 43.7714399,-79.1898275,2,Falaise Road (520),a
 43.7714399,-79.1898275,2,Falaise Road (520),a
 43.771442,-79.1897039,2,Rodda Boulevard (211),a
@@ -27899,8 +27921,6 @@ lat,lon,sz,names,len_cat
 43.7715596,-79.1722251,2,Lawrence Avenue East (361),a
 43.7715596,-79.1722251,2,Lawrence Avenue East (551),a
 43.7715604,-79.2267112,2,Stonehenge Crescent (930),a
-43.7715619,-79.2021122,2,Bow Valley Drive (034),a
-43.7715619,-79.2021122,2,Bow Valley Drive (191),a
 43.7715633,-79.1890907,2,Rodda Boulevard (797),a
 43.7715635,-79.1678157,2,Davis Downs Place (190),a
 43.7715635,-79.1678157,2,Davis Downs Place (654),a
@@ -27971,14 +27991,8 @@ lat,lon,sz,names,len_cat
 43.771674,-79.2207899,2,Jeffton Crescent (717),a
 43.771678,-79.1589057,2,Satok Terrace (093),a
 43.771678,-79.1589057,2,Satok Terrace (455),a
-43.7716869,-79.2031894,2,Copping Road (493),a
-43.7716869,-79.2031894,2,Copping Road (796),a
 43.7716879,-79.229913,2,Markham Road (702),a
 43.7716879,-79.229913,2,Markham Road (729),a
-43.7716891,-79.2050531,2,Bow Valley Drive (061),a
-43.7716891,-79.2050531,2,Bow Valley Drive (218),a
-43.7716939,-79.203065,2,Copping Road (494),a
-43.7716939,-79.203065,2,Copping Road (797),a
 43.7716986,-79.2323911,2,Bluefin Crescent (066),a
 43.7716986,-79.2323911,2,Bluefin Crescent (134),a
 43.7716991,-79.2206587,2,Brimorton Drive (376),a
@@ -27987,8 +28001,6 @@ lat,lon,sz,names,len_cat
 43.7716991,-79.2206587,2,Jeffton Crescent (570),a
 43.7716999,-79.1677557,2,Davis Downs Place (191),a
 43.7716999,-79.1677557,2,Davis Downs Place (655),a
-43.7717008,-79.2029281,2,Copping Road (495),a
-43.7717008,-79.2029281,2,Copping Road (798),a
 43.7717027,-79.158954,2,Cathlo Street (490),a
 43.7717027,-79.158954,2,Cathlo Street (530),a
 43.7717027,-79.158954,2,Satok Terrace (094),a
@@ -27996,8 +28008,6 @@ lat,lon,sz,names,len_cat
 43.7717066,-79.1952989,2,Silvertip Crescent (395),a
 43.7717066,-79.1952989,2,Silvertip Crescent (467),a
 43.7717069,-79.1658242,2,Bennett Road (389),a
-43.7717072,-79.2033379,2,Copping Road (492),a
-43.7717072,-79.2033379,2,Copping Road (795),a
 43.7717111,-79.1898939,2,Falaise Road (522),a
 43.7717132,-79.1392246,2,Lakeridge Drive (084),a
 43.7717132,-79.1392246,2,Lakeridge Drive (338),a
@@ -28009,8 +28019,6 @@ lat,lon,sz,names,len_cat
 43.7717221,-79.13926,2,Waterbridge Way (799),a
 43.7717231,-79.2118113,2,Mid Pines Road (271),a
 43.7717231,-79.2118113,2,Mid Pines Road (658),a
-43.771736,-79.2034489,2,Copping Road (491),a
-43.771736,-79.2034489,2,Copping Road (794),a
 43.7717379,-79.2322719,2,Bluefin Crescent (067),a
 43.7717379,-79.2322719,2,Bluefin Crescent (135),a
 43.7717404,-79.1945897,2,Craggview Drive (476),a
@@ -28024,7 +28032,6 @@ lat,lon,sz,names,len_cat
 43.7717516,-79.1717932,2,Fern Meadow Road (231),a
 43.7717541,-79.1945327,2,Craggview Drive (132),a
 43.7717541,-79.1945327,2,Craggview Drive (193),a
-43.7717628,-79.2022096,2,Bow Valley Drive (190),a
 43.7717632,-79.1856831,2,Kingston Road (082),a
 43.7717632,-79.1856831,2,Kingston Road (082),a
 43.7717632,-79.1856831,2,Kingston Road (224),a
@@ -28048,13 +28055,8 @@ lat,lon,sz,names,len_cat
 43.771779,-79.1873783,2,Morningside Avenue (773),a
 43.7717796,-79.2194635,2,Greenock Avenue (633),a
 43.7717796,-79.2194635,2,Scarborough Golf Club Road (765),a
-43.7717807,-79.2051498,2,Bow Valley Drive (062),a
-43.7717807,-79.2051498,2,Bow Valley Drive (219),a
 43.771783,-79.1657987,2,Brightside Drive (348),a
-43.7717831,-79.2035841,2,Copping Road (490),a
-43.7717831,-79.2035841,2,Copping Road (793),a
 43.7717846,-79.1657915,2,Brightside Drive (596),a
-43.7717946,-79.202225,2,Bow Valley Drive (189),a
 43.7717971,-79.1953335,2,Silvertip Crescent (397),a
 43.7717971,-79.1953335,2,Silvertip Crescent (468),a
 43.7718033,-79.1885821,2,Rodda Boulevard (110),a
@@ -28072,36 +28074,25 @@ lat,lon,sz,names,len_cat
 43.7718239,-79.1677621,2,Davis Downs Place (656),a
 43.7718257,-79.2117552,2,Echo Glen Road (282),a
 43.7718332,-79.2193413,2,Greenock Avenue (028),a
-43.7718387,-79.2036819,2,Copping Road (489),a
-43.7718387,-79.2036819,2,Copping Road (792),a
 43.7718395,-79.2100366,2,Curran Hall Crescent (163),a
 43.7718395,-79.2100366,2,Curran Hall Crescent (163),a
 43.7718395,-79.2100366,2,Curran Hall Crescent (588),a
 43.7718395,-79.2100366,2,Curran Hall Crescent (588),a
-43.7718434,-79.2022653,2,Bow Valley Drive (190),a
-43.7718434,-79.2022653,2,Copping Road (231),a
 43.7718441,-79.2193009,2,Greenock Avenue (029),a
-43.7718456,-79.2052721,2,Bow Valley Drive (063),a
-43.7718456,-79.2052721,2,Bow Valley Drive (220),a
 43.7718472,-79.1658849,2,Bennett Road (391),a
 43.7718509,-79.1938343,2,Westcroft Drive (202),a
-43.7718624,-79.2011837,2,Copping Road (237),a
 43.7718638,-79.2321934,2,Dolly Varden Boulevard (409),a
 43.7718638,-79.2321934,2,Dolly Varden Boulevard (479),a
-43.7718644,-79.2022828,2,Copping Road (241),a
 43.7718671,-79.2831879,2,Kennedy Road (676),a
 43.7718671,-79.2831879,2,Kennedy Road (676),a
 43.7718671,-79.2831879,2,Kennedy Road (995),a
 43.7718671,-79.2831879,2,Kennedy Road (995),a
-43.771869,-79.202261,2,Bow Valley Drive (188),a
-43.771869,-79.202261,2,Copping Road (242),a
 43.771871,-79.1766937,2,Manse Road (152),a
 43.771871,-79.1766937,2,Manse Road (494),a
 43.7718746,-79.2100478,2,Curran Hall Crescent (164),a
 43.7718746,-79.2100478,2,Curran Hall Crescent (164),a
 43.7718746,-79.2100478,2,Curran Hall Crescent (589),a
 43.7718746,-79.2100478,2,Curran Hall Crescent (589),a
-43.7718774,-79.20214,2,Copping Road (232),a
 43.7718793,-79.2725562,2,Midland Avenue (903),a
 43.7718806,-79.2725354,2,Midland Avenue (392),a
 43.7718808,-79.1874228,2,Morningside Avenue (323),a
@@ -28115,11 +28106,7 @@ lat,lon,sz,names,len_cat
 43.7718837,-79.2118486,2,Mid Pines Road (143),a
 43.7718855,-79.2118313,2,Mid Pines Road (641),a
 43.771892,-79.2089372,2,Orton Park Road (222),a
-43.771892,-79.2053577,2,Bow Valley Drive (064),a
-43.771892,-79.2053577,2,Bow Valley Drive (221),a
 43.771894,-79.2089232,2,Orton Park Road (459),a
-43.771894,-79.2037672,2,Copping Road (488),a
-43.771894,-79.2037672,2,Copping Road (791),a
 43.7718974,-79.2100477,2,Curran Hall Crescent (165),a
 43.7718974,-79.2100477,2,Curran Hall Crescent (165),a
 43.7718974,-79.2100477,2,Curran Hall Crescent (590),a
@@ -28129,7 +28116,6 @@ lat,lon,sz,names,len_cat
 43.7719,-79.1938642,2,Westcroft Drive (903),a
 43.7719,-79.1938642,2,Westcroft Drive (920),a
 43.7719031,-79.213533,2,Merkley Square (323),a
-43.7719042,-79.2012202,2,Copping Road (247),a
 43.7719061,-79.1953923,2,Silvertip Crescent (399),a
 43.7719061,-79.1953923,2,Silvertip Crescent (469),a
 43.771908,-79.1886827,2,Rodda Boulevard (803),a
@@ -28144,8 +28130,6 @@ lat,lon,sz,names,len_cat
 43.7719156,-79.1938622,2,Craggview Drive (134),a
 43.7719156,-79.1938622,2,Westcroft Drive (137),a
 43.7719156,-79.1938622,2,Westcroft Drive (203),a
-43.7719206,-79.2054562,2,Bow Valley Drive (896),a
-43.7719206,-79.2054562,2,Copping Road (780),a
 43.7719207,-79.2134854,2,Merkley Square (310),a
 43.7719221,-79.2100419,2,Curran Hall Crescent (166),a
 43.7719221,-79.2100419,2,Curran Hall Crescent (166),a
@@ -28162,21 +28146,15 @@ lat,lon,sz,names,len_cat
 43.7719262,-79.2223355,2,Painted Post Drive (971),a
 43.7719291,-79.1592149,2,Satok Terrace (096),a
 43.7719291,-79.1592149,2,Satok Terrace (458),a
-43.7719308,-79.2038158,2,Copping Road (487),a
-43.7719308,-79.2038158,2,Copping Road (790),a
 43.7719315,-79.1737714,2,Wildflower Way (013),a
 43.7719315,-79.1737714,2,Wildflower Way (013),a
 43.7719315,-79.1737714,2,Wildflower Way (519),a
 43.7719315,-79.1737714,2,Wildflower Way (519),a
 43.7719318,-79.213644,2,Merkley Square (321),a
 43.7719318,-79.213644,2,Merkley Square (357),a
-43.7719339,-79.2054732,2,Bow Valley Drive (205),a
-43.7719339,-79.2054732,2,Copping Road (234),a
 43.7719367,-79.2133829,2,Merkley Square (325),a
-43.7719373,-79.2019394,2,Copping Road (233),a
 43.7719376,-79.1623737,2,Dunstall Crescent (303),a
 43.7719376,-79.1623737,2,Dunstall Crescent (303),a
-43.7719385,-79.2014424,2,Copping Road (236),a
 43.7719389,-79.16478,2,Brightview Crescent (290),a
 43.7719431,-79.2109102,2,Echo Glen Road (039),a
 43.7719431,-79.2109102,2,Echo Glen Road (039),a
@@ -28189,14 +28167,12 @@ lat,lon,sz,names,len_cat
 43.7719448,-79.2100275,2,Curran Hall Crescent (592),a
 43.7719448,-79.2100275,2,Curran Hall Crescent (592),a
 43.7719456,-79.2133952,2,Merkley Square (311),a
-43.7719462,-79.2014349,2,Copping Road (246),a
 43.7719503,-79.1857315,2,Kingston Road (786),a
 43.7719503,-79.1857315,2,Kingston Road (786),a
 43.7719503,-79.1857315,2,Kingston Road (792),a
 43.7719503,-79.1857315,2,Kingston Road (792),a
 43.7719514,-79.1647599,2,Brightview Crescent (989),a
 43.7719543,-79.2183954,2,Welwyn Avenue (055),a
-43.7719551,-79.2019501,2,Copping Road (243),a
 43.7719551,-79.1767298,2,Chelmer Gate (644),a
 43.7719551,-79.1767298,2,Chelmer Gate (799),a
 43.7719551,-79.1767298,2,Manse Road (155),a
@@ -28208,11 +28184,8 @@ lat,lon,sz,names,len_cat
 43.7719613,-79.2099989,2,Curran Hall Crescent (593),a
 43.7719619,-79.2109593,2,Echo Glen Road (126),a
 43.7719619,-79.2109593,2,Echo Glen Road (126),a
-43.7719671,-79.2015409,2,Copping Road (235),a
 43.7719686,-79.2136926,2,Merkley Square (320),a
 43.7719686,-79.2136926,2,Merkley Square (356),a
-43.7719692,-79.2016775,2,Copping Road (234),a
-43.7719694,-79.2015334,2,Copping Road (245),a
 43.7719699,-79.2109519,2,Echo Glen Road (279),a
 43.7719699,-79.2109519,2,Echo Glen Road (279),a
 43.7719757,-79.2099646,2,Curran Hall Crescent (169),a
@@ -28238,8 +28211,6 @@ lat,lon,sz,names,len_cat
 43.7719857,-79.1735238,2,Wildflower Way (518),a
 43.7719891,-79.2207743,2,Brimorton Drive (377),a
 43.7719891,-79.2207743,2,Brimorton Drive (661),a
-43.7719901,-79.2016893,2,Copping Road (244),a
-43.7719916,-79.205392,2,Copping Road (781),a
 43.7719943,-79.1659639,2,Bennett Road (356),a
 43.7719952,-79.1623757,2,Dunstall Crescent (302),a
 43.7719952,-79.1623757,2,Dunstall Crescent (302),a
@@ -28257,7 +28228,6 @@ lat,lon,sz,names,len_cat
 43.772004,-79.2234701,2,Mountland Drive (582),a
 43.7720048,-79.213704,2,Merkley Square (319),a
 43.7720048,-79.213704,2,Merkley Square (355),a
-43.7720051,-79.205426,2,Copping Road (235),a
 43.7720059,-79.195439,2,Silvertip Crescent (401),a
 43.7720059,-79.195439,2,Silvertip Crescent (470),a
 43.7720076,-79.1648126,2,Brightside Drive (347),a
@@ -28271,13 +28241,10 @@ lat,lon,sz,names,len_cat
 43.7720173,-79.2184214,2,Greenock Avenue (030),a
 43.7720173,-79.2184214,2,Greenock Avenue (039),a
 43.7720173,-79.2184214,2,Welwyn Avenue (056),a
-43.7720223,-79.2054147,2,Copping Road (236),a
 43.7720226,-79.1734999,2,Wildflower Way (008),a
 43.7720226,-79.1734999,2,Wildflower Way (514),a
 43.7720226,-79.1734999,2,Wildflower Way (514),a
 43.7720227,-79.2183131,2,Greenock Avenue (660),a
-43.772025,-79.205801,2,Bow Valley Drive (897),a
-43.7720286,-79.2057973,2,Bow Valley Drive (206),a
 43.7720293,-79.1659787,2,Bennett Road (319),a
 43.7720293,-79.1659787,2,Bennett Road (357),a
 43.7720293,-79.1659674,2,Bennett Road (949),a
@@ -28287,8 +28254,6 @@ lat,lon,sz,names,len_cat
 43.7720314,-79.2183644,2,Greenock Avenue (040),a
 43.7720382,-79.1623582,2,Dunstall Crescent (301),a
 43.7720382,-79.1623582,2,Dunstall Crescent (301),a
-43.7720389,-79.2089814,2,Botany Hill Road (655),a
-43.7720389,-79.2089814,2,Orton Park Road (726),a
 43.7720445,-79.1734983,2,Wildflower Way (009),a
 43.7720445,-79.1734983,2,Wildflower Way (009),a
 43.7720445,-79.1734983,2,Wildflower Way (515),a
@@ -28297,10 +28262,6 @@ lat,lon,sz,names,len_cat
 43.7720456,-79.1706391,2,Megan Avenue (559),a
 43.7720488,-79.2182942,2,Greenock Avenue (041),a
 43.7720488,-79.2182503,2,Greenock Avenue (661),a
-43.7720524,-79.2090057,2,Botany Hill Road (226),a
-43.7720524,-79.2090057,2,Orton Park Road (223),a
-43.772053,-79.2089193,2,Botany Hill Road (607),a
-43.7720602,-79.2088875,2,Botany Hill Road (656),a
 43.7720636,-79.2096049,2,Curran Hall Crescent (171),a
 43.7720636,-79.2096049,2,Curran Hall Crescent (171),a
 43.7720636,-79.2096049,2,Curran Hall Crescent (596),a
@@ -28309,7 +28270,6 @@ lat,lon,sz,names,len_cat
 43.7720655,-79.1592922,2,Satok Terrace (459),a
 43.7720685,-79.1840673,2,Collinsgrove Road (628),a
 43.7720685,-79.1840673,2,Collinsgrove Road (631),a
-43.7720732,-79.2089277,2,Botany Hill Road (227),a
 43.7720757,-79.1623155,2,Dunstall Crescent (015),a
 43.7720757,-79.1623155,2,Dunstall Crescent (015),a
 43.7720774,-79.2137391,2,Merkley Square (318),a
@@ -28317,11 +28277,8 @@ lat,lon,sz,names,len_cat
 43.7720796,-79.1623188,2,Dunstall Crescent (300),a
 43.7720796,-79.1623188,2,Dunstall Crescent (300),a
 43.7720834,-79.2181622,2,Greenock Avenue (662),a
-43.7720838,-79.2088847,2,Botany Hill Road (228),a
 43.772097,-79.1930329,2,Craggview Drive (135),a
 43.7720975,-79.2181866,2,Greenock Avenue (042),a
-43.7721007,-79.2060348,2,Bow Valley Drive (898),a
-43.7721096,-79.2060274,2,Bow Valley Drive (207),a
 43.7721134,-79.2941482,2,Birchmount Road (234),a
 43.7721134,-79.2941482,2,Birchmount Road (234),a
 43.7721134,-79.2941482,2,Birchmount Road (272),a
@@ -28355,14 +28312,6 @@ lat,lon,sz,names,len_cat
 43.7721374,-79.1875351,2,Morningside Avenue (175),a
 43.7721382,-79.2726571,2,Midland Avenue (904),a
 43.7721421,-79.2726406,2,Midland Avenue (393),a
-43.7721452,-79.2092261,2,Curran Hall Crescent (445),a
-43.7721452,-79.2092261,2,Curran Hall Crescent (445),a
-43.7721452,-79.2092261,2,Curran Hall Crescent (506),a
-43.7721452,-79.2092261,2,Curran Hall Crescent (506),a
-43.7721503,-79.2092026,2,Curran Hall Crescent (651),a
-43.7721503,-79.2092026,2,Curran Hall Crescent (651),a
-43.7721503,-79.2092026,2,Curran Hall Crescent (962),a
-43.7721503,-79.2092026,2,Curran Hall Crescent (962),a
 43.7721509,-79.1966399,2,Weir Crescent (582),a
 43.7721509,-79.1966399,2,Weir Crescent (991),a
 43.7721521,-79.1855452,2,Kingston Road (073),a
@@ -28374,7 +28323,6 @@ lat,lon,sz,names,len_cat
 43.7721547,-79.1875426,2,Morningside Avenue (324),a
 43.7721553,-79.1841359,2,Collinsgrove Road (629),a
 43.7721553,-79.1841359,2,Collinsgrove Road (632),a
-43.7721579,-79.209034,2,Orton Park Road (727),a
 43.7721606,-79.1638161,2,Brightside Drive (343),a
 43.7721633,-79.211978,2,Mid Pines Road (145),a
 43.7721675,-79.1637868,2,Brightside Drive (592),a
@@ -28383,16 +28331,11 @@ lat,lon,sz,names,len_cat
 43.7721786,-79.2148804,2,Dalehurst Avenue (679),a
 43.7721816,-79.2323534,2,Dolly Varden Boulevard (411),a
 43.7721816,-79.2323534,2,Dolly Varden Boulevard (481),a
-43.7721818,-79.2090596,2,Curran Hall Crescent (218),a
-43.7721818,-79.2090596,2,Orton Park Road (224),a
-43.7721844,-79.2090439,2,Curran Hall Crescent (597),a
-43.7721844,-79.2090439,2,Orton Park Road (728),a
 43.7721866,-79.168846,2,Morning Dew Road (141),a
 43.7721866,-79.168846,2,Morning Dew Road (626),a
 43.7721885,-79.2179727,2,Greenock Avenue (664),a
 43.7721914,-79.1443194,2,Holmcrest Trail (073),a
 43.7721914,-79.1443194,2,Holmcrest Trail (950),a
-43.7721933,-79.2061936,2,Bow Valley Drive (899),a
 43.7721941,-79.2301108,2,Markham Road (701),a
 43.7721941,-79.2301108,2,Markham Road (728),a
 43.7721949,-79.2119917,2,Mid Pines Road (146),a
@@ -28413,14 +28356,12 @@ lat,lon,sz,names,len_cat
 43.7722074,-79.2942731,2,Birchmount Road (233),a
 43.7722074,-79.2942731,2,Birchmount Road (852),a
 43.7722074,-79.2942731,2,Birchmount Road (852),a
-43.7722088,-79.2061749,2,Bow Valley Drive (208),a
 43.7722096,-79.1688558,2,Morning Dew Road (557),a
 43.7722096,-79.1688558,2,Morning Dew Road (863),a
 43.7722157,-79.1639182,2,Brightside Drive (345),a
 43.7722231,-79.1842752,2,Collinsgrove Road (630),a
 43.7722231,-79.1842752,2,Collinsgrove Road (633),a
 43.7722289,-79.1639174,2,Brightside Drive (593),a
-43.7722293,-79.2050494,2,Copping Road (782),a
 43.7722326,-79.1449414,2,Holmcrest Trail (069),a
 43.7722326,-79.1449414,2,Holmcrest Trail (946),a
 43.7722352,-79.1929943,2,Pickford Road (143),a
@@ -28435,7 +28376,6 @@ lat,lon,sz,names,len_cat
 43.7722423,-79.1875809,2,Morningside Avenue (668),a
 43.772247,-79.2120927,2,Merkley Square (312),a
 43.7722499,-79.1966369,2,Weir Crescent (992),a
-43.7722569,-79.2050805,2,Copping Road (237),a
 43.7722601,-79.2149152,2,Dalehurst Avenue (794),a
 43.7722601,-79.2149152,2,Wonderland Drive (017),a
 43.7722637,-79.1854416,2,Kingston Road (072),a
@@ -28446,8 +28386,6 @@ lat,lon,sz,names,len_cat
 43.7722641,-79.2120218,2,Mid Pines Road (147),a
 43.7722672,-79.2149164,2,Dalehurst Avenue (135),a
 43.7722672,-79.2149164,2,Wonderland Drive (323),a
-43.7722831,-79.2079056,2,Botany Hill Road (000),a
-43.7722831,-79.2079056,2,Madras Crescent (477),a
 43.7722844,-79.138529,2,Lakeridge Drive (082),a
 43.7722844,-79.138529,2,Lakeridge Drive (082),a
 43.7722844,-79.138529,2,Lakeridge Drive (336),a
@@ -28466,17 +28404,12 @@ lat,lon,sz,names,len_cat
 43.7723046,-79.1688963,2,Morning Dew Road (558),a
 43.7723046,-79.1688963,2,Morning Dew Road (864),a
 43.7723057,-79.1844428,2,Collinsgrove Road (298),a
-43.7723081,-79.207914,2,Botany Hill Road (229),a
-43.7723081,-79.207914,2,Madras Crescent (160),a
 43.7723085,-79.1876098,2,Morningside Avenue (433),a
 43.7723085,-79.1876098,2,Morningside Avenue (435),a
 43.7723085,-79.1876098,2,Morningside Avenue (665),a
 43.7723085,-79.1876098,2,Morningside Avenue (667),a
 43.7723104,-79.232485,2,Dolly Varden Boulevard (412),a
 43.7723104,-79.232485,2,Dolly Varden Boulevard (482),a
-43.7723124,-79.2063267,2,Bow Valley Drive (900),a
-43.7723171,-79.2063155,2,Bow Valley Drive (209),a
-43.772332,-79.2078069,2,Botany Hill Road (230),a
 43.7723392,-79.2177956,2,Greenock Avenue (045),a
 43.772341,-79.138636,2,Rockport Drive (651),a
 43.772341,-79.138636,2,Rockport Drive (651),a
@@ -28484,8 +28417,6 @@ lat,lon,sz,names,len_cat
 43.772341,-79.138636,2,Rockport Drive (694),a
 43.7723471,-79.1966416,2,Weir Crescent (162),a
 43.7723489,-79.196634,2,Weir Crescent (993),a
-43.772361,-79.2042627,2,Copping Road (486),a
-43.772361,-79.2042627,2,Copping Road (789),a
 43.7723625,-79.1918002,2,Craggview Drive (480),a
 43.7723625,-79.1918002,2,Weir Crescent (197),a
 43.7723625,-79.1918002,2,Weir Crescent (249),a
@@ -28496,27 +28427,21 @@ lat,lon,sz,names,len_cat
 43.7723764,-79.191808,2,Craggview Drive (136),a
 43.7723764,-79.191808,2,Weir Crescent (126),a
 43.7723764,-79.191808,2,Weir Crescent (206),a
-43.772377,-79.207474,2,Botany Hill Road (001),a
-43.7723828,-79.2079449,2,Madras Crescent (161),a
 43.7723883,-79.1888794,2,Rodda Boulevard (112),a
 43.7723883,-79.1888794,2,Rodda Boulevard (804),a
 43.7724017,-79.2177092,2,Greenock Avenue (019),a
 43.7724017,-79.2177092,2,Greenock Avenue (046),a
 43.7724017,-79.2177092,2,Ingrid Drive (031),a
-43.7724018,-79.2074837,2,Botany Hill Road (231),a
 43.7724035,-79.1609259,2,Dunstall Crescent (295),a
 43.7724035,-79.1609259,2,Dunstall Crescent (868),a
 43.7724044,-79.1689369,2,Flerimac Road (614),a
-43.7724062,-79.2079545,2,Madras Crescent (162),a
 43.7724071,-79.2177167,2,Greenock Avenue (654),a
 43.7724071,-79.2177167,2,Greenock Avenue (666),a
 43.7724071,-79.2177167,2,Ingrid Drive (089),a
 43.7724112,-79.1689401,2,Flerimac Road (912),a
 43.7724128,-79.195551,2,Silvertip Crescent (407),a
 43.7724128,-79.195551,2,Silvertip Crescent (473),a
-43.7724132,-79.2047208,2,Copping Road (783),a
 43.7724138,-79.1918228,2,Weir Crescent (127),a
-43.7724296,-79.2047491,2,Copping Road (238),a
 43.7724299,-79.1966451,2,Weir Crescent (163),a
 43.7724299,-79.1966315,2,Weir Crescent (994),a
 43.7724338,-79.1451139,2,Holmcrest Trail (068),a
@@ -28528,20 +28453,18 @@ lat,lon,sz,names,len_cat
 43.7724408,-79.1607546,2,Beechgrove Drive (777),a
 43.7724408,-79.1607546,2,Dunstall Crescent (007),a
 43.7724408,-79.1607546,2,Dunstall Crescent (807),a
-43.7724432,-79.2043347,2,Copping Road (485),a
-43.7724432,-79.2043347,2,Copping Road (788),a
 43.7724447,-79.2175898,2,Greenock Avenue (655),a
 43.7724503,-79.1876718,2,Morningside Avenue (431),a
 43.7724503,-79.1876718,2,Morningside Avenue (663),a
 43.7724543,-79.1850542,2,Kingston Road (083),a
 43.7724543,-79.1850542,2,Kingston Road (083),a
-43.7724571,-79.204645,2,Copping Road (784),a
 43.7724601,-79.1850663,2,Kingston Road (318),a
 43.7724601,-79.1850663,2,Kingston Road (318),a
 43.7724601,-79.1850663,2,Kingston Road (449),a
 43.7724601,-79.1850663,2,Kingston Road (449),a
 43.7724605,-79.214075,2,Wonderland Drive (324),a
 43.7724619,-79.2177394,2,Ingrid Drive (032),a
+43.7724635,-79.3103106,2,Castleford Drive (992),a
 43.7724654,-79.1847731,2,Collinsgrove Road (632),a
 43.7724693,-79.2197415,2,Scarborough Golf Club Road (604),a
 43.7724693,-79.2197415,2,Scarborough Golf Club Road (735),a
@@ -28549,34 +28472,24 @@ lat,lon,sz,names,len_cat
 43.7724706,-79.217743,2,Ingrid Drive (680),a
 43.7724722,-79.2326821,2,Dolly Varden Boulevard (313),a
 43.7724722,-79.2326821,2,Dolly Varden Boulevard (421),a
-43.7724724,-79.2046592,2,Copping Road (239),a
 43.7724727,-79.1847671,2,Collinsgrove Road (299),a
 43.7724742,-79.2140176,2,Wonderland Drive (325),a
 43.7724754,-79.1810147,2,West Hill Drive (670),a
 43.7724754,-79.1810147,2,West Hill Drive (837),a
-43.7724861,-79.2064954,2,Bow Valley Drive (901),a
 43.772494,-79.2139147,2,Merkley Square (316),a
 43.772494,-79.2139147,2,Wonderland Drive (189),a
-43.7724942,-79.2064954,2,Bow Valley Drive (210),a
-43.7724981,-79.2043952,2,Copping Road (484),a
-43.7724981,-79.2043952,2,Copping Road (787),a
 43.7725002,-79.2139085,2,Merkley Square (308),a
 43.7725002,-79.2139085,2,Wonderland Drive (326),a
-43.7725007,-79.2045567,2,Copping Road (785),a
 43.7725019,-79.1966294,2,Weir Crescent (995),a
 43.7725038,-79.1966379,2,Weir Crescent (164),a
 43.7725097,-79.1848646,2,Collinsgrove Road (044),a
 43.7725097,-79.1848405,2,Collinsgrove Road (300),a
-43.7725119,-79.2045638,2,Copping Road (240),a
-43.7725175,-79.2044816,2,Copping Road (483),a
-43.7725175,-79.2044816,2,Copping Road (786),a
 43.7725231,-79.1848717,2,Collinsgrove Road (301),a
 43.7725241,-79.1745958,2,Asterfield Drive (316),a
 43.7725241,-79.1745958,2,Asterfield Drive (316),a
 43.7725241,-79.1745958,2,Asterfield Drive (646),a
 43.7725241,-79.1745958,2,Asterfield Drive (646),a
 43.7725243,-79.1848948,2,Collinsgrove Road (633),a
-43.7725317,-79.2065286,2,Bow Valley Drive (211),a
 43.772546,-79.1851796,2,Kingston Road (368),a
 43.772546,-79.1851796,2,Kingston Road (368),a
 43.772546,-79.1851796,2,Kingston Road (922),a
@@ -28594,34 +28507,16 @@ lat,lon,sz,names,len_cat
 43.7725669,-79.14082,2,Waterbridge Way (709),a
 43.7725669,-79.14082,2,Waterbridge Way (801),a
 43.7725675,-79.2232298,2,Mountland Drive (583),a
-43.7725684,-79.2105933,2,Merkley Square (839),a
-43.7725684,-79.2105933,2,Merkley Square (839),a
-43.7725687,-79.2065924,2,Botany Hill Road (002),a
-43.7725687,-79.2065924,2,Botany Hill Road (003),a
-43.7725687,-79.2065924,2,Bow Valley Drive (902),a
 43.7725691,-79.223245,2,Mountland Drive (078),a
 43.7725872,-79.1877281,2,Morningside Avenue (432),a
 43.7725872,-79.1877281,2,Morningside Avenue (434),a
 43.7725872,-79.1877281,2,Morningside Avenue (664),a
 43.7725872,-79.1877281,2,Morningside Avenue (666),a
-43.7725888,-79.2066258,2,Botany Hill Road (232),a
 43.7725921,-79.1966391,2,Weir Crescent (996),a
-43.7725945,-79.2065171,2,Botany Hill Road (004),a
-43.7725954,-79.2106196,2,Merkley Square (314),a
-43.7725954,-79.2106196,2,Merkley Square (314),a
-43.7725992,-79.2065778,2,Botany Hill Road (099),a
-43.7725992,-79.2065778,2,Botany Hill Road (233),a
-43.7725992,-79.2065778,2,Bow Valley Drive (212),a
-43.7726001,-79.2106014,2,Merkley Square (283),a
-43.7726001,-79.2106014,2,Merkley Square (283),a
-43.7726001,-79.2106014,2,Merkley Square (315),a
-43.7726001,-79.2106014,2,Merkley Square (315),a
 43.772601,-79.1829714,2,Eli Shackleton Court (076),a
 43.772601,-79.1829714,2,Eli Shackleton Court (661),a
 43.7726081,-79.1408961,2,Waterbridge Way (710),a
 43.7726081,-79.1408961,2,Waterbridge Way (802),a
-43.7726183,-79.21052,2,Merkley Square (316),a
-43.7726183,-79.21052,2,Merkley Square (316),a
 43.7726208,-79.216747,2,Greenock Avenue (021),a
 43.7726208,-79.216747,2,Greenock Avenue (088),a
 43.7726208,-79.216747,2,Marawa Court (327),a
@@ -28632,7 +28527,6 @@ lat,lon,sz,names,len_cat
 43.7726239,-79.2167569,2,Marawa Court (046),a
 43.772624,-79.1757915,2,Plumrose Boulevard (234),a
 43.772624,-79.1757915,2,Plumrose Boulevard (637),a
-43.7726289,-79.2064166,2,Botany Hill Road (005),a
 43.7726298,-79.1956066,2,Silvertip Crescent (409),a
 43.7726298,-79.1956066,2,Silvertip Crescent (474),a
 43.7726313,-79.1850966,2,Collinsgrove Road (967),a
@@ -28647,7 +28541,6 @@ lat,lon,sz,names,len_cat
 43.772637,-79.2166687,2,Greenock Avenue (089),a
 43.7726424,-79.1407447,2,Rockport Drive (642),a
 43.7726424,-79.1407447,2,Rockport Drive (685),a
-43.772643,-79.2064264,2,Botany Hill Road (100),a
 43.7726481,-79.1608371,2,Beechgrove Drive (489),a
 43.7726481,-79.1608371,2,Beechgrove Drive (606),a
 43.7726481,-79.1608371,2,Beechgrove Drive (776),a
@@ -28656,15 +28549,11 @@ lat,lon,sz,names,len_cat
 43.7726481,-79.1608371,2,Satok Terrace (466),a
 43.7726543,-79.159584,2,Satok Terrace (098),a
 43.7726543,-79.159584,2,Satok Terrace (460),a
-43.7726548,-79.2063413,2,Botany Hill Road (006),a
 43.7726567,-79.2231774,2,Mountland Drive (584),a
 43.7726567,-79.2231774,2,Mountland Drive (584),a
 43.7726616,-79.1903164,2,Falaise Road (131),a
 43.7726629,-79.1903001,2,Falaise Road (523),a
 43.7726646,-79.223198,2,Mountland Drive (079),a
-43.7726669,-79.2063581,2,Botany Hill Road (101),a
-43.772667,-79.2106295,2,Merkley Square (284),a
-43.772667,-79.2106295,2,Merkley Square (284),a
 43.7726719,-79.1607314,2,Satok Terrace (629),a
 43.772672,-79.1607312,2,Satok Terrace (103),a
 43.7726729,-79.1966242,2,Weir Crescent (997),a
@@ -28675,7 +28564,6 @@ lat,lon,sz,names,len_cat
 43.7726784,-79.1877651,2,Tefft Road (736),a
 43.7726795,-79.160698,2,Satok Terrace (236),a
 43.7726795,-79.160698,2,Satok Terrace (679),a
-43.7726806,-79.206266,2,Botany Hill Road (007),a
 43.772681,-79.1392843,2,Rockport Drive (650),a
 43.772681,-79.1392843,2,Rockport Drive (693),a
 43.7726839,-79.1672158,2,Lawrence Avenue East (199),a
@@ -28687,8 +28575,6 @@ lat,lon,sz,names,len_cat
 43.7726923,-79.1741018,2,Green Ash Terrace (610),a
 43.7726923,-79.1741018,2,Green Ash Terrace (938),a
 43.7726923,-79.1741018,2,Green Ash Terrace (938),a
-43.772694,-79.2106408,2,Merkley Square (285),a
-43.772694,-79.2106408,2,Merkley Square (285),a
 43.7727002,-79.1876301,2,Tefft Road (123),a
 43.7727002,-79.1876301,2,Tefft Road (735),a
 43.7727022,-79.1956293,2,Silvertip Crescent (411),a
@@ -28709,7 +28595,6 @@ lat,lon,sz,names,len_cat
 43.7727088,-79.1745977,2,Green Ash Terrace (609),a
 43.7727088,-79.1745977,2,Green Ash Terrace (937),a
 43.7727088,-79.1745977,2,Green Ash Terrace (937),a
-43.7727154,-79.2061904,2,Botany Hill Road (008),a
 43.7727184,-79.1410998,2,Waterbridge Way (711),a
 43.7727184,-79.1410998,2,Waterbridge Way (803),a
 43.7727195,-79.1670471,2,Lawrence Avenue East (198),a
@@ -28718,10 +28603,6 @@ lat,lon,sz,names,len_cat
 43.7727293,-79.1829604,2,Eli Shackleton Court (078),a
 43.7727293,-79.1829604,2,Eli Shackleton Court (663),a
 43.7727296,-79.2167969,2,Marawa Court (329),a
-43.7727326,-79.2061402,2,Botany Hill Road (009),a
-43.7727339,-79.2062,2,Botany Hill Road (102),a
-43.7727362,-79.2080908,2,Madras Crescent (478),a
-43.7727362,-79.2080908,2,Madras Crescent (762),a
 43.7727369,-79.2231254,2,Mountland Drive (585),a
 43.7727369,-79.2231254,2,Mountland Drive (585),a
 43.7727406,-79.1737751,2,Green Ash Terrace (612),a
@@ -28746,12 +28627,10 @@ lat,lon,sz,names,len_cat
 43.7727654,-79.1847576,2,Kingston Road (930),a
 43.7727672,-79.1878019,2,Morningside Avenue (090),a
 43.7727672,-79.1878019,2,Morningside Avenue (178),a
-43.7727677,-79.206077,2,Botany Hill Road (010),a
 43.7727733,-79.1871858,2,Tefft Road (122),a
 43.7727762,-79.1672551,2,Minnacote Avenue (905),a
 43.772778,-79.1847851,2,Amiens Road (453),a
 43.772778,-79.1847851,2,Kingston Road (459),a
-43.7727806,-79.2060908,2,Botany Hill Road (103),a
 43.7727815,-79.2323809,2,Brimorton Drive (594),a
 43.7727815,-79.2323809,2,Brimorton Drive (717),a
 43.7727815,-79.1662972,2,Bennett Road (320),a
@@ -28772,7 +28651,6 @@ lat,lon,sz,names,len_cat
 43.7728015,-79.1624966,2,McMorrow Court (082),a
 43.7728015,-79.1624966,2,McMorrow Court (844),a
 43.7728015,-79.1624966,2,McMorrow Court (844),a
-43.7728025,-79.2060014,2,Botany Hill Road (011),a
 43.7728092,-79.15979,2,Satok Terrace (100),a
 43.7728092,-79.15979,2,Satok Terrace (462),a
 43.7728105,-79.1870742,2,Tefft Road (121),a
@@ -28783,8 +28661,6 @@ lat,lon,sz,names,len_cat
 43.7728114,-79.1957006,2,Silvertip Crescent (478),a
 43.7728125,-79.1672705,2,Minnacote Avenue (102),a
 43.7728125,-79.1672705,2,Minnacote Avenue (494),a
-43.7728127,-79.2095267,2,Merkley Square (327),a
-43.7728127,-79.2095267,2,Merkley Square (327),a
 43.7728149,-79.1959241,2,Silvertip Crescent (423),a
 43.7728149,-79.1959241,2,Silvertip Crescent (482),a
 43.7728159,-79.1629681,2,McMorrow Court (085),a
@@ -28793,8 +28669,6 @@ lat,lon,sz,names,len_cat
 43.7728159,-79.1629681,2,McMorrow Court (847),a
 43.772817,-79.2230609,2,Mountland Drive (586),a
 43.772817,-79.2230609,2,Mountland Drive (586),a
-43.7728178,-79.2081257,2,Madras Crescent (479),a
-43.7728178,-79.2081257,2,Madras Crescent (763),a
 43.7728209,-79.1957376,2,Silvertip Crescent (418),a
 43.7728209,-79.1957376,2,Silvertip Crescent (479),a
 43.7728214,-79.1511586,2,Holmcrest Trail (052),a
@@ -28809,8 +28683,6 @@ lat,lon,sz,names,len_cat
 43.7728221,-79.1628479,2,McMorrow Court (084),a
 43.7728221,-79.1628479,2,McMorrow Court (846),a
 43.7728221,-79.1628479,2,McMorrow Court (846),a
-43.7728223,-79.2094847,2,Merkley Square (599),a
-43.7728223,-79.2094847,2,Merkley Square (599),a
 43.7728229,-79.1958618,2,Silvertip Crescent (421),a
 43.7728229,-79.1958618,2,Silvertip Crescent (481),a
 43.7728242,-79.2230764,2,Mountland Drive (081),a
@@ -28819,9 +28691,6 @@ lat,lon,sz,names,len_cat
 43.7728278,-79.1600389,2,Satok Terrace (464),a
 43.7728349,-79.1966194,2,Weir Crescent (212),a
 43.7728349,-79.1966194,2,Weir Crescent (401),a
-43.7728375,-79.2095417,2,Merkley Square (317),a
-43.7728375,-79.2095417,2,Merkley Square (317),a
-43.7728375,-79.2059382,2,Botany Hill Road (012),a
 43.7728396,-79.1870688,2,Tefft Road (409),a
 43.7728396,-79.1870688,2,Tefft Road (409),a
 43.7728402,-79.1599187,2,Satok Terrace (101),a
@@ -28834,21 +28703,12 @@ lat,lon,sz,names,len_cat
 43.7728407,-79.1630539,2,McMorrow Court (848),a
 43.7728414,-79.1849107,2,Amiens Road (355),a
 43.7728414,-79.1849107,2,Kingston Road (366),a
-43.7728463,-79.2094911,2,Merkley Square (318),a
-43.7728463,-79.2094911,2,Merkley Square (318),a
-43.772848,-79.2059654,2,Botany Hill Road (104),a
 43.7728524,-79.1664172,2,Lawrence Avenue East (309),a
 43.7728525,-79.1664167,2,Lawrence Avenue East (197),a
 43.7728531,-79.1626685,2,McMorrow Court (083),a
 43.7728531,-79.1626685,2,McMorrow Court (083),a
 43.7728531,-79.1626685,2,McMorrow Court (845),a
 43.7728531,-79.1626685,2,McMorrow Court (845),a
-43.7728549,-79.2093422,2,Merkley Square (328),a
-43.7728549,-79.2093422,2,Merkley Square (328),a
-43.7728549,-79.2093422,2,Orton Park Road (700),a
-43.7728549,-79.2093422,2,Orton Park Road (700),a
-43.7728549,-79.2093422,2,Orton Park Road (730),a
-43.7728549,-79.2093422,2,Orton Park Road (730),a
 43.7728603,-79.1849537,2,Amiens Road (356),a
 43.7728603,-79.1849537,2,Amiens Road (594),a
 43.7728695,-79.215455,2,Greenock Avenue (504),a
@@ -28857,15 +28717,8 @@ lat,lon,sz,names,len_cat
 43.7728698,-79.1663346,2,Lawrence Avenue East (196),a
 43.7728698,-79.1663346,2,Lawrence Avenue East (616),a
 43.7728698,-79.1663346,2,Lawrence Avenue East (953),a
-43.7728774,-79.2093519,2,Merkley Square (319),a
-43.7728774,-79.2093519,2,Merkley Square (319),a
-43.7728774,-79.2093519,2,Orton Park Road (143),a
-43.7728774,-79.2093519,2,Orton Park Road (143),a
-43.7728774,-79.2093519,2,Orton Park Road (225),a
-43.7728774,-79.2093519,2,Orton Park Road (225),a
 43.7728799,-79.196618,2,Weir Crescent (213),a
 43.7728799,-79.196618,2,Weir Crescent (402),a
-43.7728817,-79.2058872,2,Botany Hill Road (013),a
 43.772883,-79.2154812,2,Greenock Avenue (090),a
 43.7728863,-79.21538,2,Greenock Avenue (505),a
 43.7728867,-79.1850088,2,Amiens Road (357),a
@@ -28876,9 +28729,6 @@ lat,lon,sz,names,len_cat
 43.7728882,-79.2230091,2,Mountland Drive (587),a
 43.7728891,-79.1850138,2,Amiens Road (455),a
 43.7728891,-79.1850138,2,Amiens Road (455),a
-43.7728893,-79.2059002,2,Botany Hill Road (105),a
-43.77289,-79.2081359,2,Madras Crescent (480),a
-43.77289,-79.2081359,2,Madras Crescent (764),a
 43.7728937,-79.22302,2,Mountland Drive (082),a
 43.7728937,-79.22302,2,Mountland Drive (082),a
 43.7728946,-79.21533,2,Greenock Avenue (506),a
@@ -28886,14 +28736,10 @@ lat,lon,sz,names,len_cat
 43.7728949,-79.2199191,2,Scarborough Golf Club Road (605),a
 43.7728949,-79.2199191,2,Scarborough Golf Club Road (736),a
 43.7729011,-79.2154043,2,Greenock Avenue (091),a
-43.7729019,-79.2093622,2,Orton Park Road (144),a
-43.7729019,-79.2093622,2,Orton Park Road (144),a
 43.7729035,-79.1869798,2,Tefft Road (120),a
 43.7729035,-79.1869798,2,Tefft Road (120),a
 43.7729035,-79.1869798,2,Tefft Road (732),a
 43.7729035,-79.1869798,2,Tefft Road (732),a
-43.7729082,-79.2127452,2,Ivy Green Crescent (077),a
-43.7729091,-79.2128073,2,Ivy Green Crescent (078),a
 43.7729114,-79.215255,2,Greenock Avenue (507),a
 43.7729114,-79.215255,2,Greenock Avenue (863),a
 43.7729119,-79.1850535,2,Amiens Road (021),a
@@ -28910,34 +28756,22 @@ lat,lon,sz,names,len_cat
 43.7729205,-79.1850687,2,Amiens Road (358),a
 43.7729205,-79.1850687,2,Amiens Road (596),a
 43.7729205,-79.1850687,2,Amiens Road (596),a
-43.7729248,-79.2126577,2,Ivy Green Crescent (076),a
-43.7729281,-79.2128688,2,Ivy Green Crescent (079),a
-43.7729353,-79.2127398,2,Ivy Green Crescent (264),a
-43.7729378,-79.2127976,2,Ivy Green Crescent (265),a
-43.7729405,-79.2128591,2,Ivy Green Crescent (266),a
 43.7729413,-79.1394817,2,Rockport Drive (648),a
 43.7729413,-79.1394817,2,Rockport Drive (691),a
-43.7729434,-79.2057984,2,Botany Hill Road (014),a
 43.7729466,-79.2152042,2,Greenock Avenue (508),a
 43.7729466,-79.2152042,2,Greenock Avenue (864),a
-43.772951,-79.2058033,2,Botany Hill Road (106),a
 43.7729516,-79.1463263,2,Holmcrest Trail (066),a
 43.7729516,-79.1463263,2,Holmcrest Trail (943),a
 43.7729519,-79.1966158,2,Weir Crescent (214),a
 43.7729519,-79.1966158,2,Weir Crescent (403),a
-43.7729557,-79.2129053,2,Ivy Green Crescent (080),a
-43.7729557,-79.2129053,2,Ivy Green Crescent (920),a
 43.7729582,-79.1403052,2,Rockport Drive (644),a
 43.7729582,-79.1403052,2,Rockport Drive (687),a
-43.7729591,-79.2125449,2,Ivy Green Crescent (075),a
 43.772961,-79.2321044,2,Brimorton Drive (317),a
 43.772961,-79.2321044,2,Brimorton Drive (425),a
 43.7729616,-79.1380209,2,Bridgeport Drive (239),a
 43.7729616,-79.1380209,2,Bridgeport Drive (239),a
 43.7729616,-79.1380209,2,Bridgeport Drive (683),a
 43.7729616,-79.1380209,2,Bridgeport Drive (683),a
-43.7729622,-79.2081462,2,Madras Crescent (481),a
-43.7729622,-79.2081462,2,Madras Crescent (765),a
 43.7729742,-79.1380466,2,Bridgeport Drive (552),a
 43.7729742,-79.1380466,2,Bridgeport Drive (552),a
 43.7729742,-79.1380466,2,Bridgeport Drive (666),a
@@ -28946,13 +28780,8 @@ lat,lon,sz,names,len_cat
 43.7729748,-79.1659075,2,Lawrence Avenue East (624),a
 43.7729748,-79.1659075,2,Lawrence Avenue East (861),a
 43.7729748,-79.1659075,2,Lawrence Avenue East (862),a
-43.7729755,-79.212445,2,Ivy Green Crescent (074),a
 43.7729824,-79.2151907,2,Greenock Avenue (509),a
 43.7729824,-79.2151907,2,Greenock Avenue (865),a
-43.7729923,-79.2129415,2,Ivy Green Crescent (081),a
-43.7729923,-79.2129286,2,Ivy Green Crescent (267),a
-43.7729949,-79.2124718,2,Ivy Green Crescent (263),a
-43.7730011,-79.2123572,2,Ivy Green Crescent (073),a
 43.7730021,-79.2946107,2,Birchmount Road (232),a
 43.7730021,-79.2946107,2,Birchmount Road (232),a
 43.7730021,-79.2946107,2,Birchmount Road (850),a
@@ -28961,12 +28790,9 @@ lat,lon,sz,names,len_cat
 43.7730051,-79.1414178,2,Waterbridge Way (804),a
 43.7730069,-79.1933171,2,Pickford Road (144),a
 43.7730069,-79.1933171,2,Pickford Road (641),a
-43.7730136,-79.2056845,2,Botany Hill Road (015),a
 43.7730149,-79.1966139,2,Weir Crescent (215),a
 43.7730149,-79.1966139,2,Weir Crescent (404),a
 43.7730184,-79.2151897,2,Greenock Avenue (510),a
-43.7730236,-79.2123787,2,Ivy Green Crescent (262),a
-43.7730266,-79.2122571,2,Ivy Green Crescent (072),a
 43.7730278,-79.2944561,2,Birchmount Road (274),a
 43.7730278,-79.2944561,2,Birchmount Road (274),a
 43.7730278,-79.2944561,2,Birchmount Road (937),a
@@ -28981,28 +28807,18 @@ lat,lon,sz,names,len_cat
 43.7730456,-79.193338,2,Pickford Road (642),a
 43.7730458,-79.2152137,2,Greenock Avenue (511),a
 43.7730458,-79.2152137,2,Greenock Avenue (867),a
-43.7730465,-79.2129523,2,Ivy Green Crescent (082),a
-43.7730465,-79.2129523,2,Ivy Green Crescent (922),a
-43.7730475,-79.2122882,2,Ivy Green Crescent (261),a
 43.7730539,-79.1724327,2,Green Ash Terrace (613),a
 43.7730539,-79.1724327,2,Green Ash Terrace (942),a
-43.7730614,-79.2121815,2,Ivy Green Crescent (071),a
 43.7730628,-79.1395497,2,Rockport Drive (647),a
 43.7730628,-79.1395497,2,Rockport Drive (690),a
-43.7730666,-79.2056207,2,Botany Hill Road (016),a
 43.7730698,-79.1655211,2,Lawrence Avenue East (623),a
 43.7730698,-79.1655211,2,Lawrence Avenue East (859),a
 43.7730698,-79.1655211,2,McMillan Avenue (400),a
 43.7730698,-79.1655211,2,McMillan Avenue (523),a
-43.7730737,-79.2081854,2,Madras Crescent (163),a
 43.773074,-79.1723465,2,Fern Meadow Road (230),a
 43.773074,-79.1723465,2,Fern Meadow Road (606),a
 43.773074,-79.1723465,2,Green Ash Terrace (614),a
 43.773074,-79.1723465,2,Green Ash Terrace (943),a
-43.7730753,-79.2122201,2,Ivy Green Crescent (260),a
-43.77308,-79.2081924,2,Hapley Drive (777),a
-43.77308,-79.2081924,2,Madras Crescent (910),a
-43.7730836,-79.2056508,2,Botany Hill Road (107),a
 43.7730867,-79.1965994,2,Weir Crescent (216),a
 43.7730867,-79.1965994,2,Weir Crescent (405),a
 43.773091,-79.2152248,2,Greenock Avenue (512),a
@@ -29011,28 +28827,18 @@ lat,lon,sz,names,len_cat
 43.7730938,-79.1396785,2,Rockport Drive (688),a
 43.7730938,-79.1395926,2,Rockport Drive (646),a
 43.7730938,-79.1395926,2,Rockport Drive (689),a
-43.7730964,-79.2121183,2,Ivy Green Crescent (070),a
 43.7730994,-79.2169547,2,Marawa Court (045),a
 43.7730994,-79.2169547,2,Marawa Court (174),a
 43.7731003,-79.146704,2,Holmcrest Trail (065),a
 43.7731003,-79.146704,2,Holmcrest Trail (942),a
-43.7731076,-79.2081973,2,Hapley Drive (146),a
-43.7731076,-79.2081973,2,Madras Crescent (164),a
-43.7731096,-79.2121408,2,Ivy Green Crescent (259),a
 43.7731149,-79.1844321,2,Kingston Road (931),a
 43.7731227,-79.1933533,2,Pickford Road (146),a
 43.7731227,-79.1933533,2,Pickford Road (643),a
-43.7731276,-79.2081049,2,Hapley Drive (147),a
-43.773129,-79.2055816,2,Botany Hill Road (017),a
-43.7731313,-79.2120427,2,Ivy Green Crescent (069),a
 43.7731315,-79.1383667,2,Bridgeport Drive (240),a
 43.7731315,-79.1383667,2,Bridgeport Drive (240),a
 43.7731315,-79.1383667,2,Bridgeport Drive (684),a
 43.7731315,-79.1383667,2,Bridgeport Drive (684),a
 43.7731331,-79.1844149,2,Kingston Road (932),a
-43.7731372,-79.2129993,2,Ivy Green Crescent (083),a
-43.7731372,-79.2129993,2,Ivy Green Crescent (923),a
-43.7731373,-79.2080605,2,Hapley Drive (148),a
 43.7731392,-79.2169366,2,Marawa Court (048),a
 43.7731392,-79.2169366,2,Marawa Court (177),a
 43.7731474,-79.2164873,2,Marawa Court (104),a
@@ -29062,9 +28868,6 @@ lat,lon,sz,names,len_cat
 43.7731628,-79.2945977,2,Birchmount Road (939),a
 43.7731642,-79.1933521,2,Pickford Road (147),a
 43.7731642,-79.1933521,2,Pickford Road (644),a
-43.7731646,-79.2055711,2,Botany Hill Road (108),a
-43.7731646,-79.2055557,2,Botany Hill Road (018),a
-43.7731665,-79.211992,2,Ivy Green Crescent (068),a
 43.7731684,-79.1655632,2,McMillan Avenue (403),a
 43.7731684,-79.1655632,2,McMillan Avenue (524),a
 43.773177,-79.2164038,2,Marawa Court (106),a
@@ -29088,14 +28891,10 @@ lat,lon,sz,names,len_cat
 43.7732054,-79.2163774,2,Marawa Court (229),a
 43.773209,-79.2166285,2,Marawa Court (100),a
 43.773209,-79.2166285,2,Marawa Court (222),a
-43.7732103,-79.2119161,2,Ivy Green Crescent (067),a
-43.7732177,-79.205492,2,Botany Hill Road (019),a
 43.7732182,-79.1384611,2,Bridgeport Drive (241),a
 43.7732182,-79.1384611,2,Bridgeport Drive (241),a
 43.7732182,-79.1384611,2,Bridgeport Drive (685),a
 43.7732182,-79.1384611,2,Bridgeport Drive (685),a
-43.773225,-79.2119504,2,Ivy Green Crescent (258),a
-43.7732259,-79.2055156,2,Botany Hill Road (109),a
 43.7732373,-79.216662,2,Marawa Court (042),a
 43.7732373,-79.216662,2,Marawa Court (049),a
 43.7732414,-79.2315717,2,Brimorton Drive (772),a
@@ -29107,15 +28906,12 @@ lat,lon,sz,names,len_cat
 43.7732479,-79.1965448,2,Weir Crescent (219),a
 43.7732493,-79.216366,2,Marawa Court (108),a
 43.7732493,-79.216366,2,Marawa Court (230),a
-43.773254,-79.2118278,2,Ivy Green Crescent (066),a
 43.7732655,-79.2166351,2,Marawa Court (119),a
 43.7732655,-79.2166351,2,Marawa Court (238),a
 43.7732663,-79.1502921,2,Holmcrest Trail (054),a
 43.7732663,-79.1502921,2,Holmcrest Trail (054),a
 43.7732663,-79.1502921,2,Holmcrest Trail (931),a
 43.7732663,-79.1502921,2,Holmcrest Trail (931),a
-43.7732695,-79.2118675,2,Ivy Green Crescent (257),a
-43.7732711,-79.2054531,2,Botany Hill Road (020),a
 43.7732738,-79.1469185,2,Holmcrest Trail (941),a
 43.7732746,-79.2314937,2,Brimorton Drive (773),a
 43.7732746,-79.2314937,2,Brimorton Drive (896),a
@@ -29136,9 +28932,7 @@ lat,lon,sz,names,len_cat
 43.7732926,-79.1385212,2,Bridgeport Drive (686),a
 43.7732971,-79.2166174,2,Marawa Court (118),a
 43.7732971,-79.2166174,2,Marawa Court (237),a
-43.7732982,-79.2117768,2,Ivy Green Crescent (065),a
 43.7733013,-79.1920726,2,Warnsworth Street (394),a
-43.7733021,-79.2118101,2,Ivy Green Crescent (256),a
 43.7733039,-79.1841131,2,Eli Shackleton Court (451),a
 43.7733074,-79.1920459,2,Warnsworth Street (581),a
 43.7733074,-79.1920459,2,Warnsworth Street (878),a
@@ -29156,22 +28950,14 @@ lat,lon,sz,names,len_cat
 43.7733296,-79.1501973,2,Paulander Avenue (601),a
 43.7733322,-79.216439,2,Marawa Court (111),a
 43.7733322,-79.216439,2,Marawa Court (233),a
-43.773333,-79.2117012,2,Ivy Green Crescent (064),a
-43.7733333,-79.2054015,2,Botany Hill Road (021),a
-43.7733361,-79.2117484,2,Ivy Green Crescent (255),a
 43.7733373,-79.1965048,2,Weir Crescent (220),a
 43.7733385,-79.2165441,2,Marawa Court (116),a
 43.7733385,-79.2165441,2,Marawa Court (235),a
-43.7733386,-79.2054316,2,Botany Hill Road (110),a
 43.7733388,-79.1841942,2,Eli Shackleton Court (666),a
 43.7733388,-79.1841942,2,Kingston Road (933),a
 43.77334,-79.1965209,2,Weir Crescent (166),a
-43.7733422,-79.207116,2,Hapley Drive (778),a
-43.7733422,-79.207116,2,Madras Crescent (931),a
 43.7733433,-79.2164973,2,Marawa Court (113),a
 43.7733433,-79.2164973,2,Marawa Court (234),a
-43.7733476,-79.2071299,2,Hapley Drive (149),a
-43.7733476,-79.2071299,2,Madras Crescent (176),a
 43.7733526,-79.1415802,2,Waterbridge Way (713),a
 43.7733526,-79.1415802,2,Waterbridge Way (805),a
 43.7733543,-79.1842006,2,Eli Shackleton Court (452),a
@@ -29183,42 +28969,22 @@ lat,lon,sz,names,len_cat
 43.7733586,-79.1501105,2,Holmcrest Trail (056),a
 43.7733586,-79.1501105,2,Holmcrest Trail (933),a
 43.7733586,-79.1501105,2,Holmcrest Trail (933),a
-43.773359,-79.2116383,2,Ivy Green Crescent (063),a
 43.7733616,-79.2305827,2,Markham Road (696),a
 43.7733616,-79.2305827,2,Markham Road (723),a
-43.7733619,-79.2070703,2,Hapley Drive (150),a
 43.773366,-79.2311708,2,Brimorton Drive (768),a
 43.773366,-79.2311708,2,Brimorton Drive (774),a
 43.773366,-79.2311708,2,Brimorton Drive (891),a
 43.773366,-79.2311708,2,Brimorton Drive (897),a
-43.7733665,-79.2069413,2,Hapley Drive (531),a
 43.7733703,-79.1933628,2,Pickford Road (148),a
 43.7733703,-79.1933206,2,Pickford Road (645),a
-43.7733706,-79.2116812,2,Ivy Green Crescent (254),a
-43.7733728,-79.2130917,2,Ivy Green Crescent (084),a
-43.7733728,-79.2130917,2,Ivy Green Crescent (924),a
 43.7733768,-79.1844153,2,Kingston Road (467),a
 43.7733802,-79.1760043,2,May Apple Terrace (431),a
 43.7733802,-79.1760043,2,May Apple Terrace (641),a
-43.773393,-79.2053986,2,Botany Hill Road (111),a
-43.7733935,-79.2115379,2,Ivy Green Crescent (062),a
-43.7734009,-79.2068409,2,Hapley Drive (532),a
 43.7734029,-79.1503026,2,Paulander Avenue (039),a
 43.7734029,-79.1503026,2,Paulander Avenue (600),a
 43.7734029,-79.1503026,2,Paulander Avenue (600),a
-43.7734047,-79.2053621,2,Botany Hill Road (022),a
-43.7734076,-79.2053897,2,Botany Hill Road (112),a
-43.7734101,-79.2114504,2,Ivy Green Crescent (061),a
-43.7734113,-79.2115765,2,Ivy Green Crescent (253),a
-43.7734148,-79.2068484,2,Hapley Drive (151),a
 43.7734171,-79.1964279,2,Weir Crescent (221),a
-43.773418,-79.213115,2,Ivy Green Crescent (268),a
-43.773418,-79.2131027,2,Ivy Green Crescent (086),a
-43.7734227,-79.2071621,2,Madras Crescent (175),a
 43.7734325,-79.1964391,2,Weir Crescent (167),a
-43.7734351,-79.206728,2,Hapley Drive (533),a
-43.7734354,-79.2113378,2,Ivy Green Crescent (060),a
-43.7734363,-79.2114694,2,Ivy Green Crescent (252),a
 43.7734392,-79.1639141,2,Atkinson Avenue (494),a
 43.7734392,-79.1639141,2,Atkinson Avenue (867),a
 43.7734392,-79.1639141,2,Lawrence Avenue East (622),a
@@ -29229,16 +28995,9 @@ lat,lon,sz,names,len_cat
 43.7734482,-79.16332,2,McMorrow Court (894),a
 43.7734506,-79.1724965,2,Fern Meadow Road (229),a
 43.7734506,-79.1724965,2,Fern Meadow Road (605),a
-43.7734509,-79.2071741,2,Madras Crescent (174),a
 43.7734528,-79.2308282,2,Brimorton Drive (769),a
 43.7734528,-79.2308282,2,Brimorton Drive (892),a
-43.7734585,-79.2053595,2,Botany Hill Road (113),a
-43.7734585,-79.2053481,2,Botany Hill Road (023),a
-43.7734591,-79.2067398,2,Hapley Drive (152),a
 43.7734613,-79.1963769,2,Weir Crescent (222),a
-43.7734634,-79.2131262,2,Ivy Green Crescent (087),a
-43.7734634,-79.2131262,2,Ivy Green Crescent (926),a
-43.7734648,-79.2113603,2,Ivy Green Crescent (251),a
 43.7734653,-79.1633271,2,McMorrow Court (087),a
 43.7734653,-79.1633271,2,McMorrow Court (849),a
 43.7734679,-79.1933474,2,Pickford Road (149),a
@@ -29246,8 +29005,6 @@ lat,lon,sz,names,len_cat
 43.7734873,-79.1415093,2,Waterbridge Way (715),a
 43.7734873,-79.1415093,2,Waterbridge Way (807),a
 43.7734875,-79.1963264,2,Weir Crescent (223),a
-43.7734906,-79.2109831,2,Merkley Square (286),a
-43.7734906,-79.2109831,2,Merkley Square (286),a
 43.7734931,-79.2306347,2,Brimorton Drive (651),a
 43.7734931,-79.2306347,2,Brimorton Drive (770),a
 43.7734931,-79.2306347,2,Brimorton Drive (774),a
@@ -29256,22 +29013,10 @@ lat,lon,sz,names,len_cat
 43.7734931,-79.2306347,2,Markham Road (722),a
 43.7734931,-79.2306347,2,Markham Road (917),a
 43.7734974,-79.1839975,2,Kingston Road (463),a
-43.7734992,-79.2131128,2,Ivy Green Crescent (089),a
-43.7734992,-79.2131128,2,Ivy Green Crescent (927),a
-43.7735033,-79.2053392,2,Botany Hill Road (114),a
-43.7735033,-79.2053343,2,Botany Hill Road (024),a
-43.7735054,-79.2066141,2,Hapley Drive (534),a
-43.7735136,-79.2111449,2,Ivy Green Crescent (250),a
-43.7735199,-79.2109874,2,Ivy Green Crescent (059),a
-43.7735199,-79.2109874,2,Ivy Green Crescent (059),a
-43.7735199,-79.2109874,2,Merkley Square (840),a
-43.7735199,-79.2109874,2,Merkley Square (840),a
-43.7735209,-79.2066345,2,Hapley Drive (153),a
 43.7735217,-79.1496222,2,Holmcrest Trail (057),a
 43.7735217,-79.1496222,2,Holmcrest Trail (057),a
 43.7735217,-79.1496222,2,Holmcrest Trail (934),a
 43.7735217,-79.1496222,2,Holmcrest Trail (934),a
-43.7735223,-79.2111065,2,Ivy Green Crescent (249),a
 43.7735234,-79.1744899,2,Asterfield Drive (625),a
 43.7735234,-79.1744899,2,Asterfield Drive (625),a
 43.7735234,-79.1744899,2,Asterfield Drive (643),a
@@ -29283,32 +29028,20 @@ lat,lon,sz,names,len_cat
 43.7735317,-79.1962753,2,Weir Crescent (224),a
 43.7735341,-79.1472962,2,Holmcrest Trail (063),a
 43.7735341,-79.1472962,2,Holmcrest Trail (940),a
-43.7735348,-79.2130868,2,Ivy Green Crescent (090),a
-43.7735348,-79.2130868,2,Ivy Green Crescent (928),a
 43.7735356,-79.1933308,2,Pickford Road (646),a
 43.7735395,-79.1639551,2,Atkinson Avenue (493),a
 43.7735395,-79.1639551,2,Atkinson Avenue (866),a
 43.7735453,-79.1962967,2,Weir Crescent (168),a
-43.7735455,-79.2110067,2,Ivy Green Crescent (248),a
-43.7735455,-79.2110067,2,Ivy Green Crescent (248),a
-43.7735455,-79.2110067,2,Merkley Square (287),a
-43.7735455,-79.2110067,2,Merkley Square (287),a
 43.7735472,-79.1633629,2,Lawrence Avenue East (621),a
 43.7735472,-79.1633629,2,Lawrence Avenue East (860),a
 43.7735472,-79.1633629,2,McMorrow Court (088),a
 43.7735472,-79.1633629,2,McMorrow Court (850),a
 43.7735521,-79.1841932,2,Kingston Road (364),a
 43.7735521,-79.1841932,2,Kingston Road (508),a
-43.7735584,-79.2065504,2,Hapley Drive (535),a
-43.7735653,-79.2053157,2,Botany Hill Road (115),a
-43.7735661,-79.20532,2,Botany Hill Road (025),a
 43.7735665,-79.1906869,2,Falaise Road (576),a
 43.7735665,-79.1906869,2,Falaise Road (876),a
 43.7735674,-79.163967,2,Atkinson Avenue (050),a
 43.7735674,-79.163967,2,Atkinson Avenue (454),a
-43.77357,-79.2130479,2,Ivy Green Crescent (269),a
-43.77357,-79.2130361,2,Ivy Green Crescent (091),a
-43.7735708,-79.2065697,2,Hapley Drive (154),a
 43.7735719,-79.1933638,2,Pickford Road (397),a
 43.7735755,-79.1961995,2,Weir Crescent (225),a
 43.7735811,-79.1863504,2,Amiens Road (420),a
@@ -29329,17 +29062,12 @@ lat,lon,sz,names,len_cat
 43.7735859,-79.1863665,2,Amiens Road (359),a
 43.7735859,-79.1863665,2,Tefft Road (119),a
 43.7735859,-79.1863665,2,Tefft Road (119),a
-43.7735995,-79.2053035,2,Botany Hill Road (116),a
 43.7736016,-79.1961366,2,Weir Crescent (226),a
 43.7736034,-79.1908375,2,Warnsworth Street (395),a
 43.7736096,-79.1960742,2,Weir Crescent (227),a
-43.7736116,-79.2064991,2,Hapley Drive (536),a
 43.7736132,-79.1961478,2,Weir Crescent (169),a
-43.7736136,-79.2129478,2,Ivy Green Crescent (092),a
-43.7736193,-79.2065109,2,Hapley Drive (155),a
 43.7736195,-79.2306803,2,Markham Road (358),a
 43.7736195,-79.2306803,2,Markham Road (497),a
-43.7736197,-79.2052936,2,Botany Hill Road (026),a
 43.7736259,-79.1744959,2,Asterfield Drive (624),a
 43.7736259,-79.1744959,2,Asterfield Drive (624),a
 43.7736259,-79.1744959,2,Asterfield Drive (642),a
@@ -29347,8 +29075,6 @@ lat,lon,sz,names,len_cat
 43.7736267,-79.1374102,2,Freeport Drive (141),a
 43.7736267,-79.1374102,2,Freeport Drive (141),a
 43.7736267,-79.1374102,2,Freeport Drive (665),a
-43.7736306,-79.2129682,2,Ivy Green Crescent (270),a
-43.7736329,-79.2052979,2,Botany Hill Road (117),a
 43.7736333,-79.1907155,2,Falaise Road (355),a
 43.7736333,-79.1907155,2,Falaise Road (524),a
 43.7736333,-79.1907155,2,Warnsworth Street (248),a
@@ -29384,8 +29110,6 @@ lat,lon,sz,names,len_cat
 43.7736653,-79.1624603,2,Lawrence Avenue East (316),a
 43.773667,-79.2202306,2,Scarborough Golf Club Road (063),a
 43.773667,-79.2202306,2,Scarborough Golf Club Road (414),a
-43.7736735,-79.2064227,2,Hapley Drive (537),a
-43.7736735,-79.2052795,2,Botany Hill Road (027),a
 43.7736848,-79.1746193,2,May Apple Terrace (432),a
 43.7736848,-79.1746193,2,May Apple Terrace (432),a
 43.7736848,-79.1746193,2,May Apple Terrace (642),a
@@ -29394,7 +29118,6 @@ lat,lon,sz,names,len_cat
 43.7736866,-79.1476958,2,Holmcrest Trail (939),a
 43.7736882,-79.1959227,2,Weir Crescent (230),a
 43.7736882,-79.1959227,2,Weir Crescent (419),a
-43.7736927,-79.2128212,2,Ivy Green Crescent (093),a
 43.773696,-79.162608,2,Lawrence Avenue East (065),a
 43.773696,-79.162608,2,Lawrence Avenue East (065),a
 43.773696,-79.162608,2,Lawrence Avenue East (315),a
@@ -29427,19 +29150,10 @@ lat,lon,sz,names,len_cat
 43.7737399,-79.1617011,2,Beechgrove Drive (737),a
 43.77374,-79.1483861,2,Holmcrest Trail (058),a
 43.77374,-79.1483861,2,Holmcrest Trail (935),a
-43.7737445,-79.2063584,2,Hapley Drive (538),a
-43.7737455,-79.2052774,2,Botany Hill Road (028),a
-43.7737455,-79.2052774,2,Botany Hill Road (029),a
-43.7737455,-79.2052774,2,Cresswell Drive (896),a
-43.7737553,-79.2063756,2,Hapley Drive (156),a
 43.773756,-79.1625787,2,Lawrence Avenue East (214),a
 43.773756,-79.1625787,2,Lawrence Avenue East (214),a
 43.773756,-79.1625787,2,Lawrence Avenue East (570),a
 43.773756,-79.1625787,2,Lawrence Avenue East (570),a
-43.7737565,-79.2054013,2,Cresswell Drive (897),a
-43.7737592,-79.2052773,2,Botany Hill Road (118),a
-43.7737592,-79.2052773,2,Botany Hill Road (133),a
-43.7737592,-79.2052773,2,Cresswell Drive (119),a
 43.7737594,-79.1376964,2,Freeport Drive (142),a
 43.7737594,-79.1376964,2,Freeport Drive (142),a
 43.7737594,-79.1376964,2,Freeport Drive (666),a
@@ -29450,20 +29164,16 @@ lat,lon,sz,names,len_cat
 43.7737629,-79.1617231,2,Beechgrove Drive (840),a
 43.7737661,-79.1477297,2,Cherryhill Avenue (566),a
 43.7737661,-79.1477297,2,Cherryhill Avenue (715),a
-43.7737674,-79.2055252,2,Cresswell Drive (898),a
 43.7737696,-79.1959451,2,Weir Crescent (232),a
 43.7737696,-79.1959451,2,Weir Crescent (421),a
-43.7737699,-79.2053765,2,Cresswell Drive (120),a
 43.77377,-79.1625687,2,Lawrence Avenue East (213),a
 43.77377,-79.1625687,2,Lawrence Avenue East (213),a
 43.77377,-79.1625687,2,Lawrence Avenue East (569),a
 43.77377,-79.1625687,2,Lawrence Avenue East (569),a
-43.7737729,-79.2054111,2,Cresswell Drive (121),a
 43.7737762,-79.1619843,2,Lawrence Avenue East (067),a
 43.7737762,-79.1619843,2,Lawrence Avenue East (067),a
 43.7737762,-79.1619843,2,Lawrence Avenue East (317),a
 43.7737762,-79.1619843,2,Lawrence Avenue East (317),a
-43.7737802,-79.2126571,2,Ivy Green Crescent (094),a
 43.7737817,-79.1625499,2,Lawrence Avenue East (302),a
 43.7737817,-79.1625499,2,Lawrence Avenue East (302),a
 43.7737817,-79.1625499,2,Lawrence Avenue East (818),a
@@ -29476,21 +29186,14 @@ lat,lon,sz,names,len_cat
 43.7737827,-79.1745174,2,Asterfield Drive (622),a
 43.7737827,-79.1745174,2,Asterfield Drive (640),a
 43.7737827,-79.1745174,2,Asterfield Drive (640),a
-43.773787,-79.2056241,2,Cresswell Drive (899),a
-43.7737875,-79.2055252,2,Cresswell Drive (122),a
 43.7737904,-79.1900571,2,Warnsworth Street (388),a
 43.7737904,-79.1900571,2,Warnsworth Street (392),a
-43.7737988,-79.2126925,2,Ivy Green Crescent (271),a
 43.7738009,-79.1838143,2,Kingston Road (466),a
 43.7738009,-79.1838143,2,Old Kingston Road (422),a
 43.7738018,-79.1838313,2,Kingston Road (363),a
 43.7738018,-79.1838313,2,Old Kingston Road (306),a
-43.7738063,-79.2057104,2,Cresswell Drive (900),a
 43.7738071,-79.1763081,2,Plumrose Boulevard (236),a
 43.7738071,-79.1763081,2,Plumrose Boulevard (639),a
-43.7738079,-79.2144331,2,Merkley Square (315),a
-43.7738079,-79.2144331,2,Merkley Square (351),a
-43.7738079,-79.2056209,2,Cresswell Drive (123),a
 43.7738131,-79.1617735,2,Beechgrove Drive (487),a
 43.7738131,-79.1617735,2,Beechgrove Drive (487),a
 43.7738131,-79.1617735,2,Beechgrove Drive (602),a
@@ -29507,7 +29210,6 @@ lat,lon,sz,names,len_cat
 43.7738131,-79.1617735,2,Lawrence Avenue East (345),a
 43.7738131,-79.1617735,2,Lawrence Avenue East (484),a
 43.7738131,-79.1617735,2,Lawrence Avenue East (484),a
-43.7738171,-79.2052504,2,Botany Hill Road (030),a
 43.7738181,-79.21739,2,Slan Avenue (354),a
 43.7738185,-79.1899297,2,Warnsworth Street (251),a
 43.7738298,-79.1745314,2,Asterfield Drive (621),a
@@ -29541,10 +29243,7 @@ lat,lon,sz,names,len_cat
 43.7738586,-79.137808,2,Freeport Drive (667),a
 43.7738586,-79.137808,2,Freeport Drive (667),a
 43.7738592,-79.1838709,2,Old Kingston Road (423),a
-43.7738596,-79.2058916,2,Cresswell Drive (124),a
 43.7738609,-79.2172521,2,Slan Avenue (356),a
-43.7738621,-79.2144573,2,Merkley Square (314),a
-43.7738621,-79.2144573,2,Merkley Square (350),a
 43.7738706,-79.1833276,2,Kingston Road (115),a
 43.7738706,-79.1833276,2,Kingston Road (257),a
 43.7738717,-79.2172717,2,Slan Avenue (188),a
@@ -29552,7 +29251,6 @@ lat,lon,sz,names,len_cat
 43.7738723,-79.1745495,2,Asterfield Drive (620),a
 43.7738723,-79.1745495,2,Asterfield Drive (638),a
 43.7738723,-79.1745495,2,Asterfield Drive (638),a
-43.7738728,-79.2059321,2,Cresswell Drive (901),a
 43.7738797,-79.1839034,2,Old Kingston Road (424),a
 43.7738819,-79.1839244,2,Old Kingston Road (308),a
 43.7738842,-79.1924279,2,Weir Crescent (184),a
@@ -29560,26 +29258,18 @@ lat,lon,sz,names,len_cat
 43.7738865,-79.1868337,2,Amiens Road (347),a
 43.7738865,-79.1868337,2,Amiens Road (585),a
 43.7738865,-79.1868337,2,Amiens Road (585),a
-43.7738914,-79.2059688,2,Cresswell Drive (902),a
 43.7738956,-79.2171641,2,Slan Avenue (357),a
 43.7738966,-79.1960034,2,Weir Crescent (234),a
 43.7738966,-79.1960034,2,Weir Crescent (423),a
 43.7738978,-79.1896272,2,Warnsworth Street (389),a
-43.7738979,-79.2052355,2,Botany Hill Road (031),a
-43.7739029,-79.206219,2,Hapley Drive (157),a
 43.7739055,-79.1620074,2,Lawrence Avenue East (085),a
 43.7739055,-79.1620074,2,Lawrence Avenue East (085),a
 43.7739055,-79.1620074,2,Lawrence Avenue East (335),a
 43.7739055,-79.1620074,2,Lawrence Avenue East (335),a
-43.7739075,-79.2144674,2,Merkley Square (313),a
-43.7739075,-79.2144674,2,Merkley Square (349),a
 43.7739091,-79.2171931,2,Slan Avenue (189),a
-43.7739095,-79.205257,2,Botany Hill Road (134),a
-43.7739102,-79.2060086,2,Cresswell Drive (125),a
 43.773911,-79.1895169,2,Rodda Boulevard (805),a
 43.773911,-79.1895169,2,Warnsworth Street (252),a
 43.773911,-79.1895169,2,Warnsworth Street (253),a
-43.7739198,-79.206055,2,Cresswell Drive (903),a
 43.7739205,-79.1623435,2,Beechgrove Drive (482),a
 43.7739205,-79.1623435,2,Beechgrove Drive (482),a
 43.7739205,-79.1623435,2,Beechgrove Drive (772),a
@@ -29592,7 +29282,6 @@ lat,lon,sz,names,len_cat
 43.7739253,-79.1895225,2,Rodda Boulevard (406),a
 43.7739253,-79.1895225,2,Warnsworth Street (390),a
 43.7739253,-79.1895225,2,Warnsworth Street (416),a
-43.773926,-79.2061946,2,Hapley Drive (158),a
 43.7739277,-79.1831706,2,Kingston Road (943),a
 43.7739277,-79.1831706,2,Kingston Road (974),a
 43.7739289,-79.1618944,2,Beechgrove Drive (485),a
@@ -29619,11 +29308,6 @@ lat,lon,sz,names,len_cat
 43.7739441,-79.1623527,2,Beechgrove Drive (873),a
 43.7739441,-79.1623527,2,Beechgrove Drive (873),a
 43.7739482,-79.1894304,2,Warnsworth Street (417),a
-43.7739523,-79.2144536,2,Merkley Square (312),a
-43.7739523,-79.2144536,2,Merkley Square (348),a
-43.7739568,-79.206116,2,Cresswell Drive (904),a
-43.7739568,-79.206116,2,Cresswell Drive (905),a
-43.7739568,-79.206116,2,Hapley Drive (539),a
 43.7739599,-79.1840373,2,Fairwood Crescent (578),a
 43.7739691,-79.1830563,2,Kingston Road (111),a
 43.7739691,-79.1830563,2,Kingston Road (116),a
@@ -29637,18 +29321,13 @@ lat,lon,sz,names,len_cat
 43.7739701,-79.1378938,2,Freeport Drive (668),a
 43.773978,-79.1960258,2,Weir Crescent (235),a
 43.773978,-79.1960258,2,Weir Crescent (424),a
-43.7739787,-79.2144156,2,Merkley Square (311),a
 43.7739794,-79.1790287,2,Orchard Park Drive (232),a
 43.7739794,-79.1790287,2,Orchard Park Drive (994),a
-43.7739818,-79.2144354,2,Merkley Square (307),a
 43.7739826,-79.1883032,2,Morningside Avenue (113),a
 43.7739826,-79.1883032,2,Morningside Avenue (129),a
 43.7739826,-79.1883032,2,Morningside Avenue (404),a
 43.7739826,-79.1883032,2,Morningside Avenue (413),a
 43.7739838,-79.2170496,2,Slan Avenue (359),a
-43.7739839,-79.2061332,2,Cresswell Drive (126),a
-43.7739839,-79.2061332,2,Cresswell Drive (127),a
-43.7739839,-79.2061332,2,Hapley Drive (159),a
 43.7739867,-79.1869052,2,Amiens Road (349),a
 43.7739867,-79.1869052,2,Amiens Road (349),a
 43.7739867,-79.1869052,2,Amiens Road (587),a
@@ -29658,43 +29337,29 @@ lat,lon,sz,names,len_cat
 43.7739885,-79.217058,2,Slan Avenue (191),a
 43.7739896,-79.1834335,2,Kingston Road (362),a
 43.7739896,-79.1834335,2,Kingston Road (506),a
-43.7739961,-79.2143778,2,Merkley Square (310),a
 43.7740013,-79.1829653,2,Kingston Road (942),a
 43.7740013,-79.1829653,2,Kingston Road (973),a
-43.7740027,-79.2061767,2,Cresswell Drive (906),a
 43.7740049,-79.2308269,2,Markham Road (357),a
 43.7740049,-79.2308269,2,Markham Road (359),a
 43.7740049,-79.2308269,2,Markham Road (496),a
 43.7740049,-79.2308269,2,Markham Road (498),a
 43.7740114,-79.1476395,2,Cherryhill Avenue (567),a
 43.7740114,-79.1476395,2,Cherryhill Avenue (716),a
-43.7740132,-79.2143151,2,Merkley Square (309),a
-43.7740135,-79.2143877,2,Merkley Square (306),a
-43.774021,-79.2142404,2,Merkley Square (308),a
-43.7740222,-79.2074187,2,Madras Crescent (585),a
-43.7740222,-79.2074187,2,Madras Crescent (930),a
 43.7740335,-79.1841826,2,Fairwood Crescent (505),a
 43.7740335,-79.1841826,2,Fairwood Crescent (779),a
-43.774038,-79.2141777,2,Merkley Square (307),a
 43.7740381,-79.2308395,2,Markham Road (356),a
 43.7740381,-79.2308395,2,Markham Road (495),a
 43.7740389,-79.1890657,2,Warnsworth Street (254),a
 43.7740389,-79.1890657,2,Warnsworth Street (543),a
-43.7740397,-79.2061964,2,Cresswell Drive (128),a
 43.7740397,-79.138993,2,Waterbridge Way (056),a
-43.7740435,-79.2142503,2,Merkley Square (305),a
 43.7740438,-79.138972,2,Waterbridge Way (716),a
 43.7740438,-79.138972,2,Waterbridge Way (808),a
-43.7740483,-79.2062127,2,Cresswell Drive (907),a
-43.7740491,-79.2062073,2,Cresswell Drive (129),a
 43.7740502,-79.1869406,2,Amiens Road (350),a
 43.7740502,-79.1869406,2,Amiens Road (588),a
 43.7740525,-79.1828208,2,Kingston Road (112),a
 43.7740525,-79.1828208,2,Kingston Road (254),a
-43.7740549,-79.2141027,2,Merkley Square (306),a
 43.7740574,-79.1832711,2,Kingston Road (014),a
 43.7740574,-79.1832711,2,Kingston Road (688),a
-43.7740682,-79.2141112,2,Merkley Square (304),a
 43.7740684,-79.196048,2,Weir Crescent (236),a
 43.7740684,-79.196048,2,Weir Crescent (425),a
 43.774071,-79.1388572,2,Bridgeport Drive (243),a
@@ -29708,22 +29373,16 @@ lat,lon,sz,names,len_cat
 43.7740719,-79.2169228,2,Slan Avenue (360),a
 43.7740729,-79.194773,2,Westcroft Drive (138),a
 43.7740766,-79.2169396,2,Slan Avenue (192),a
-43.7740803,-79.2140025,2,Merkley Square (305),a
 43.7740859,-79.1611907,2,Lawrence Avenue East (074),a
 43.7740859,-79.1611907,2,Lawrence Avenue East (074),a
 43.7740859,-79.1611907,2,Lawrence Avenue East (324),a
 43.7740859,-79.1611907,2,Lawrence Avenue East (324),a
 43.774093,-79.1763323,2,Plumrose Boulevard (223),a
 43.774093,-79.1763323,2,Plumrose Boulevard (631),a
-43.7740973,-79.2139399,2,Merkley Square (304),a
 43.7740989,-79.1831696,2,Kingston Road (465),a
 43.7740989,-79.1831696,2,Old Kingston Road (426),a
 43.7741021,-79.1831731,2,Kingston Road (361),a
 43.7741021,-79.1831731,2,Old Kingston Road (326),a
-43.7741031,-79.2062607,2,Cresswell Drive (495),a
-43.7741031,-79.2062607,2,Cresswell Drive (908),a
-43.7741038,-79.2074536,2,Madras Crescent (584),a
-43.7741038,-79.2074536,2,Madras Crescent (929),a
 43.7741115,-79.1432202,2,Pepper Tree Drive (917),a
 43.7741135,-79.196059,2,Weir Crescent (237),a
 43.7741135,-79.196059,2,Weir Crescent (426),a
@@ -29731,7 +29390,6 @@ lat,lon,sz,names,len_cat
 43.7741136,-79.1826044,2,Kingston Road (255),a
 43.7741136,-79.1826044,2,Kingston Road (371),a
 43.7741136,-79.1826044,2,Kingston Road (515),a
-43.7741147,-79.2139526,2,Merkley Square (303),a
 43.774115,-79.1887527,2,Warnsworth Street (255),a
 43.774115,-79.1887527,2,Warnsworth Street (544),a
 43.7741216,-79.1883605,2,Morningside Avenue (414),a
@@ -29740,7 +29398,6 @@ lat,lon,sz,names,len_cat
 43.7741296,-79.1836927,2,Old Kingston Road (427),a
 43.774132,-79.1869878,2,Amiens Road (351),a
 43.774132,-79.1869878,2,Amiens Road (589),a
-43.7741322,-79.2138643,2,Merkley Square (303),a
 43.7741358,-79.1830451,2,Kingston Road (013),a
 43.7741358,-79.1830451,2,Kingston Road (687),a
 43.774144,-79.1817102,2,West Hill Drive (474),a
@@ -29751,28 +29408,17 @@ lat,lon,sz,names,len_cat
 43.7741574,-79.1832174,2,Old Kingston Road (858),a
 43.7741577,-79.1885333,2,Warnsworth Street (632),a
 43.7741663,-79.1476739,2,Cherryhill Avenue (717),a
-43.774167,-79.2137887,2,Merkley Square (302),a
 43.7741673,-79.196045,2,Weir Crescent (238),a
 43.7741673,-79.196045,2,Weir Crescent (427),a
-43.7741803,-79.2138057,2,Merkley Square (302),a
-43.7741849,-79.206308,2,Cresswell Drive (496),a
-43.7741849,-79.206308,2,Cresswell Drive (909),a
 43.7741861,-79.1883871,2,Morningside Avenue (377),a
 43.7741861,-79.1883871,2,Warnsworth Street (257),a
 43.7741916,-79.1883914,2,Morningside Avenue (411),a
 43.7741916,-79.1883914,2,Morningside Avenue (415),a
 43.7741916,-79.1883914,2,Warnsworth Street (419),a
-43.774193,-79.2137258,2,Merkley Square (301),a
-43.7742016,-79.2119735,2,Ivy Green Crescent (095),a
 43.774203,-79.1960191,2,Weir Crescent (239),a
-43.7742034,-79.2074879,2,Madras Crescent (583),a
-43.7742034,-79.2074879,2,Madras Crescent (928),a
-43.7742037,-79.205214,2,Botany Hill Road (032),a
-43.7742037,-79.205214,2,Botany Hill Road (578),a
 43.7742057,-79.1960352,2,Weir Crescent (170),a
 43.7742187,-79.1418723,2,Long Island Crescent (217),a
 43.7742187,-79.1418723,2,Long Island Crescent (616),a
-43.7742194,-79.2120035,2,Ivy Green Crescent (272),a
 43.7742221,-79.1418409,2,Long Island Crescent (218),a
 43.7742221,-79.1418409,2,Long Island Crescent (846),a
 43.7742252,-79.1827039,2,Kingston Road (360),a
@@ -29781,9 +29427,6 @@ lat,lon,sz,names,len_cat
 43.7742271,-79.1818698,2,Kingston Road (516),a
 43.7742294,-79.195981,2,Weir Crescent (240),a
 43.7742309,-79.141761,2,Long Island Crescent (219),a
-43.7742369,-79.2136499,2,Merkley Square (300),a
-43.7742394,-79.2063436,2,Cresswell Drive (497),a
-43.7742394,-79.2063436,2,Cresswell Drive (910),a
 43.7742402,-79.1960061,2,Weir Crescent (171),a
 43.7742407,-79.1835128,2,Old Kingston Road (302),a
 43.7742407,-79.1835128,2,Old Kingston Road (835),a
@@ -29805,7 +29448,6 @@ lat,lon,sz,names,len_cat
 43.7742531,-79.1498969,2,Rodarick Drive (080),a
 43.7742531,-79.1498969,2,Rodarick Drive (754),a
 43.7742531,-79.1498969,2,Rodarick Drive (754),a
-43.7742539,-79.2118601,2,Ivy Green Crescent (096),a
 43.7742542,-79.183491,2,Old Kingston Road (303),a
 43.774255,-79.1832934,2,Old Kingston Road (425),a
 43.7742625,-79.1776998,2,Manse Road (157),a
@@ -29818,21 +29460,15 @@ lat,lon,sz,names,len_cat
 43.7742657,-79.1834724,2,Old Kingston Road (589),a
 43.7742669,-79.1368153,2,Eastport Drive (844),a
 43.7742669,-79.1368153,2,Eastport Drive (844),a
-43.7742672,-79.2075357,2,Madras Crescent (927),a
-43.7742682,-79.2075244,2,Madras Crescent (173),a
 43.7742706,-79.1959295,2,Weir Crescent (172),a
 43.774271,-79.2166726,2,Slan Avenue (193),a
 43.7742724,-79.1791521,2,Orchard Park Drive (102),a
 43.7742724,-79.1791521,2,Orchard Park Drive (712),a
 43.7742745,-79.1419682,2,Long Island Crescent (216),a
 43.7742745,-79.1419682,2,Long Island Crescent (615),a
-43.7742757,-79.2052118,2,Botany Hill Road (033),a
-43.7742757,-79.2052118,2,Botany Hill Road (579),a
 43.7742764,-79.1824476,2,Kingston Road (464),a
 43.7742779,-79.1535618,2,Holmcrest Trail (051),a
 43.7742779,-79.1535618,2,Holmcrest Trail (928),a
-43.7742787,-79.2118719,2,Ivy Green Crescent (273),a
-43.7742791,-79.2117476,2,Ivy Green Crescent (097),a
 43.7742811,-79.1598492,2,Lawrence Avenue East (071),a
 43.7742811,-79.1598492,2,Lawrence Avenue East (321),a
 43.7742811,-79.1598492,2,Lawrence Avenue East (346),a
@@ -29850,11 +29486,8 @@ lat,lon,sz,names,len_cat
 43.7743003,-79.1368677,2,Eastport Drive (730),a
 43.7743003,-79.1368677,2,Eastport Drive (894),a
 43.7743003,-79.1368677,2,Eastport Drive (894),a
-43.7743042,-79.2116226,2,Ivy Green Crescent (098),a
 43.7743043,-79.1955936,2,Weir Crescent (244),a
 43.7743043,-79.1955936,2,Weir Crescent (433),a
-43.7743073,-79.2135484,2,Merkley Square (299),a
-43.7743078,-79.2117615,2,Ivy Green Crescent (274),a
 43.7743098,-79.2246817,2,Brimorton Drive (394),a
 43.7743098,-79.2246817,2,Brimorton Drive (678),a
 43.774315,-79.1501114,2,Rodarick Drive (082),a
@@ -29875,47 +29508,31 @@ lat,lon,sz,names,len_cat
 43.7743229,-79.1833797,2,Old Kingston Road (446),a
 43.7743229,-79.1833797,2,Old Kingston Road (838),a
 43.7743229,-79.1833797,2,Old Kingston Road (857),a
-43.7743247,-79.2135668,2,Merkley Square (301),a
 43.7743271,-79.2165424,2,Slan Avenue (362),a
-43.77433,-79.2063782,2,Cresswell Drive (498),a
-43.77433,-79.2063782,2,Cresswell Drive (911),a
-43.7743399,-79.2075832,2,Madras Crescent (926),a
-43.7743409,-79.2075747,2,Madras Crescent (172),a
 43.7743419,-79.2165676,2,Slan Avenue (194),a
-43.7743477,-79.2052211,2,Botany Hill Road (135),a
-43.7743477,-79.2052097,2,Botany Hill Road (034),a
-43.7743553,-79.2115142,2,Ivy Green Crescent (275),a
 43.7743606,-79.1369926,2,Eastport Drive (587),a
 43.7743606,-79.1369926,2,Eastport Drive (587),a
 43.7743606,-79.1369926,2,Eastport Drive (673),a
 43.7743606,-79.1369926,2,Eastport Drive (673),a
-43.7743652,-79.211465,2,Ivy Green Crescent (276),a
 43.7743662,-79.1747594,2,Asterfield Drive (619),a
 43.7743662,-79.1747594,2,Asterfield Drive (619),a
 43.7743662,-79.1747594,2,Asterfield Drive (637),a
 43.7743662,-79.1747594,2,Asterfield Drive (637),a
 43.7743706,-79.1952312,2,Weir Crescent (246),a
 43.7743706,-79.1952312,2,Weir Crescent (435),a
-43.7743719,-79.2113472,2,Ivy Green Crescent (099),a
-43.7743719,-79.2113472,2,Merkley Square (841),a
 43.7743763,-79.1948999,2,Westcroft Drive (140),a
-43.7743776,-79.2134345,2,Merkley Square (298),a
 43.7743794,-79.1441485,2,Rolling Meadows (221),a
 43.7743794,-79.1441485,2,Rolling Meadows (977),a
 43.7743794,-79.1439339,2,Rolling Meadows (222),a
 43.7743794,-79.1439339,2,Rolling Meadows (978),a
 43.7743798,-79.183334,2,Old Kingston Road (445),a
 43.7743815,-79.1833257,2,Old Kingston Road (032),a
-43.7743861,-79.2113603,2,Ivy Green Crescent (277),a
-43.7743861,-79.2113603,2,Merkley Square (288),a
-43.7743861,-79.2113603,2,Merkley Square (289),a
 43.7743883,-79.2164288,2,Slan Avenue (363),a
 43.7743886,-79.1807804,2,Kingston Road (478),a
 43.7743924,-79.1599085,2,Lawrence Avenue East (070),a
 43.7743924,-79.1599085,2,Lawrence Avenue East (073),a
 43.7743924,-79.1599085,2,Lawrence Avenue East (320),a
 43.7743924,-79.1599085,2,Lawrence Avenue East (323),a
-43.7743949,-79.2076437,2,Madras Crescent (925),a
 43.7743949,-79.1817181,2,Kingston Road (358),a
 43.7743949,-79.1817181,2,Kingston Road (502),a
 43.7743949,-79.1817181,2,West Hill Drive (673),a
@@ -29923,21 +29540,18 @@ lat,lon,sz,names,len_cat
 43.7743949,-79.1817181,2,West Hill Drive (840),a
 43.7743949,-79.1817181,2,West Hill Drive (847),a
 43.7743971,-79.2164568,2,Slan Avenue (195),a
-43.7744,-79.2076196,2,Madras Crescent (171),a
 43.7744018,-79.1478713,2,Cherryhill Avenue (569),a
 43.7744018,-79.1478713,2,Cherryhill Avenue (718),a
 43.7744035,-79.174911,2,Plumrose Boulevard (226),a
 43.7744035,-79.174911,2,Plumrose Boulevard (632),a
 43.774416,-79.1805917,2,Kingston Road (479),a
 43.7744162,-79.1832937,2,Old Kingston Road (102),a
-43.774423,-79.2052343,2,Botany Hill Road (136),a
 43.7744247,-79.1453264,2,Centennial Road (555),a
 43.7744247,-79.1453264,2,Centennial Road (884),a
 43.7744247,-79.1453264,2,Rolling Meadows (217),a
 43.7744247,-79.1453264,2,Rolling Meadows (973),a
 43.7744255,-79.1433329,2,Pepper Tree Drive (916),a
 43.7744255,-79.1433329,2,Pepper Tree Drive (962),a
-43.7744289,-79.2052197,2,Botany Hill Road (035),a
 43.7744289,-79.1949794,2,Weir Crescent (173),a
 43.7744307,-79.1747868,2,Asterfield Drive (618),a
 43.7744307,-79.1747868,2,Asterfield Drive (618),a
@@ -29957,12 +29571,9 @@ lat,lon,sz,names,len_cat
 43.7744411,-79.1370956,2,Eastport Drive (588),a
 43.7744411,-79.1370956,2,Eastport Drive (674),a
 43.7744411,-79.1370956,2,Eastport Drive (674),a
-43.7744427,-79.2113827,2,Merkley Square (290),a
 43.7744448,-79.1451981,2,Rolling Meadows (736),a
 43.7744448,-79.1451981,2,Rolling Meadows (903),a
 43.7744462,-79.2163125,2,Slan Avenue (196),a
-43.7744495,-79.2076793,2,Madras Crescent (579),a
-43.7744495,-79.2076793,2,Madras Crescent (924),a
 43.7744505,-79.1434931,2,Rolling Meadows (737),a
 43.7744505,-79.1434931,2,Rolling Meadows (904),a
 43.7744585,-79.1434436,2,Rolling Meadows (223),a
@@ -29970,7 +29581,6 @@ lat,lon,sz,names,len_cat
 43.7744592,-79.1716564,2,Megan Avenue (688),a
 43.7744608,-79.1948334,2,Weir Crescent (589),a
 43.7744608,-79.1948334,2,Weir Crescent (998),a
-43.7744652,-79.2132828,2,Merkley Square (297),a
 43.7744682,-79.1817161,2,West Hill Drive (681),a
 43.7744682,-79.1817161,2,West Hill Drive (848),a
 43.7744731,-79.1792355,2,Orchard Park Drive (490),a
@@ -29983,7 +29593,6 @@ lat,lon,sz,names,len_cat
 43.7744762,-79.1487725,2,Rodarick Drive (079),a
 43.7744762,-79.1487725,2,Rodarick Drive (752),a
 43.7744762,-79.1487725,2,Rodarick Drive (752),a
-43.7744795,-79.2133196,2,Merkley Square (300),a
 43.7744824,-79.1446612,2,Rolling Meadows (220),a
 43.7744824,-79.1446612,2,Rolling Meadows (976),a
 43.7744838,-79.1792486,2,Orchard Park Drive (069),a
@@ -30005,20 +29614,12 @@ lat,lon,sz,names,len_cat
 43.7745021,-79.224921,2,Brimorton Drive (680),a
 43.7745027,-79.1448295,2,Rolling Meadows (219),a
 43.7745029,-79.1792462,2,Orchard Park Drive (491),a
-43.7745046,-79.2077522,2,Madras Crescent (578),a
-43.7745046,-79.2077522,2,Madras Crescent (923),a
 43.7745155,-79.1809127,2,Kingston Road (124),a
 43.7745155,-79.1809127,2,Kingston Road (266),a
 43.7745155,-79.1809127,2,Kingston Road (357),a
 43.7745155,-79.1809127,2,Kingston Road (501),a
-43.7745197,-79.2052666,2,Botany Hill Road (036),a
-43.7745197,-79.2052666,2,Botany Hill Road (582),a
 43.7745205,-79.1946204,2,Weir Crescent (000),a
 43.7745205,-79.1946204,2,Weir Crescent (591),a
-43.774521,-79.2087955,2,Madras Crescent (566),a
-43.774521,-79.2087955,2,Madras Crescent (566),a
-43.774521,-79.2087955,2,Madras Crescent (911),a
-43.774521,-79.2087955,2,Madras Crescent (911),a
 43.774531,-79.13618,2,Lakeridge Drive (162),a
 43.774531,-79.13618,2,Lakeridge Drive (674),a
 43.7745549,-79.1945127,2,Weir Crescent (001),a
@@ -30045,12 +29646,6 @@ lat,lon,sz,names,len_cat
 43.7746,-79.1793008,2,Kingston Road (279),a
 43.7746,-79.1793008,2,Orchard Park Drive (104),a
 43.7746,-79.1793008,2,Orchard Park Drive (714),a
-43.7746208,-79.2088422,2,Madras Crescent (567),a
-43.7746208,-79.2088422,2,Madras Crescent (567),a
-43.7746208,-79.2088422,2,Madras Crescent (912),a
-43.7746208,-79.2088422,2,Madras Crescent (912),a
-43.7746286,-79.2053255,2,Botany Hill Road (037),a
-43.7746286,-79.2053255,2,Botany Hill Road (583),a
 43.7746311,-79.1481803,2,Cherryhill Avenue (570),a
 43.7746311,-79.1481803,2,Cherryhill Avenue (719),a
 43.7746349,-79.1830923,2,Old Kingston Road (101),a
@@ -30059,27 +29654,17 @@ lat,lon,sz,names,len_cat
 43.7746399,-79.1943537,2,Weir Crescent (594),a
 43.7746431,-79.1361002,2,Lakeridge Drive (161),a
 43.7746431,-79.1361002,2,Lakeridge Drive (673),a
-43.7746436,-79.2114621,2,Merkley Square (291),a
-43.7746436,-79.2114509,2,Merkley Square (842),a
 43.7746441,-79.1938173,2,Pickford Road (649),a
 43.7746441,-79.1938173,2,Pickford Road (873),a
-43.7746497,-79.2129915,2,Merkley Square (853),a
-43.7746497,-79.2129915,2,Spraywood Gate (741),a
 43.7746729,-79.1521255,2,Paulander Avenue (038),a
 43.7746729,-79.1521255,2,Paulander Avenue (599),a
 43.7746736,-79.1943027,2,Weir Crescent (004),a
 43.7746737,-79.2251463,2,Brimorton Drive (397),a
 43.7746737,-79.2251463,2,Brimorton Drive (681),a
-43.7746742,-79.2130241,2,Merkley Square (299),a
-43.7746742,-79.2130241,2,Spraywood Gate (177),a
 43.7746772,-79.1787578,2,Kingston Road (137),a
 43.7746772,-79.1787578,2,Kingston Road (147),a
 43.7746772,-79.1787578,2,Kingston Road (277),a
 43.7746772,-79.1787578,2,Kingston Road (283),a
-43.7746844,-79.2088776,2,Madras Crescent (568),a
-43.7746844,-79.2088776,2,Madras Crescent (568),a
-43.7746844,-79.2088776,2,Madras Crescent (913),a
-43.7746844,-79.2088776,2,Madras Crescent (913),a
 43.774693,-79.1938611,2,Pickford Road (650),a
 43.7746965,-79.1485204,2,Rodarick Drive (077),a
 43.7746965,-79.1485204,2,Rodarick Drive (748),a
@@ -30090,14 +29675,9 @@ lat,lon,sz,names,len_cat
 43.7747244,-79.1942638,2,Weir Crescent (005),a
 43.7747244,-79.1942638,2,Weir Crescent (596),a
 43.7747258,-79.193908,2,Pickford Road (651),a
-43.7747261,-79.2130844,2,Spraywood Gate (178),a
 43.7747273,-79.1778972,2,Manse Road (151),a
 43.7747273,-79.1778972,2,Manse Road (159),a
 43.7747273,-79.1778972,2,Manse Road (486),a
-43.7747294,-79.2088762,2,Madras Crescent (569),a
-43.7747294,-79.2088762,2,Madras Crescent (569),a
-43.7747294,-79.2088762,2,Madras Crescent (914),a
-43.7747294,-79.2088762,2,Madras Crescent (914),a
 43.7747308,-79.1361361,2,Lakeridge Drive (843),a
 43.7747346,-79.1886471,2,Beath Street (531),a
 43.7747346,-79.1886471,2,Beath Street (963),a
@@ -30112,19 +29692,12 @@ lat,lon,sz,names,len_cat
 43.774744,-79.1793634,2,Kingston Road (476),a
 43.774744,-79.1793634,2,Orchard Park Drive (492),a
 43.774744,-79.1793634,2,Orchard Park Drive (695),a
-43.7747468,-79.2082669,2,Madras Crescent (922),a
 43.7747489,-79.1484721,2,Cherryhill Avenue (571),a
 43.7747489,-79.1484721,2,Cherryhill Avenue (720),a
 43.7747489,-79.1484721,2,Rodarick Drive (745),a
-43.7747496,-79.2131117,2,Spraywood Gate (179),a
-43.7747519,-79.20824,2,Madras Crescent (170),a
 43.7747586,-79.1939598,2,Pickford Road (652),a
 43.7747616,-79.1393393,2,Long Island Crescent (119),a
 43.7747616,-79.1393393,2,Long Island Crescent (848),a
-43.774765,-79.2088503,2,Madras Crescent (570),a
-43.774765,-79.2088503,2,Madras Crescent (570),a
-43.774765,-79.2088503,2,Madras Crescent (915),a
-43.774765,-79.2088503,2,Madras Crescent (915),a
 43.7747658,-79.1885062,2,Beath Street (631),a
 43.7747658,-79.1885062,2,Beath Street (836),a
 43.7747696,-79.1393026,2,Long Island Crescent (220),a
@@ -30135,7 +29708,6 @@ lat,lon,sz,names,len_cat
 43.7747818,-79.136157,2,Lakeridge Drive (834),a
 43.7747818,-79.136157,2,Lakeridge Drive (842),a
 43.7747818,-79.136157,2,Wharfside Lane (841),a
-43.7747842,-79.2083527,2,Madras Crescent (921),a
 43.7747862,-79.179368,2,Orchard Park Drive (112),a
 43.7747867,-79.1942122,2,Weir Crescent (006),a
 43.7747867,-79.1942122,2,Weir Crescent (597),a
@@ -30143,8 +29715,6 @@ lat,lon,sz,names,len_cat
 43.7747905,-79.1817072,2,West Hill Drive (849),a
 43.7747906,-79.1662553,2,McMillan Avenue (404),a
 43.7747906,-79.1662553,2,McMillan Avenue (525),a
-43.774791,-79.2087874,2,Madras Crescent (916),a
-43.774791,-79.2087874,2,Madras Crescent (916),a
 43.7747931,-79.1361609,2,Lakeridge Drive (075),a
 43.7747931,-79.1361609,2,Lakeridge Drive (087),a
 43.7747931,-79.1361609,2,Wharfside Lane (582),a
@@ -30162,35 +29732,23 @@ lat,lon,sz,names,len_cat
 43.7747977,-79.2311301,2,Markham Road (693),a
 43.7747977,-79.2311301,2,Markham Road (720),a
 43.7747977,-79.2311301,2,Markham Road (941),a
-43.7747992,-79.2087987,2,Madras Crescent (165),a
-43.7747992,-79.2087987,2,Madras Crescent (165),a
 43.7748,-79.1360524,2,Wharfside Lane (840),a
 43.774801,-79.1829339,2,Old Kingston Road (439),a
 43.7748049,-79.1793882,2,Orchard Park Drive (693),a
 43.7748072,-79.1793889,2,Orchard Park Drive (110),a
 43.7748081,-79.1940265,2,Pickford Road (400),a
 43.7748122,-79.1940634,2,Pickford Road (654),a
-43.7748162,-79.2086748,2,Madras Crescent (917),a
-43.7748162,-79.2086748,2,Madras Crescent (917),a
 43.7748188,-79.1777882,2,Kingston Road (638),a
 43.7748191,-79.1777861,2,Kingston Road (126),a
 43.7748192,-79.1421854,2,Long Island Crescent (215),a
 43.7748192,-79.1421854,2,Long Island Crescent (614),a
-43.7748211,-79.2084137,2,Madras Crescent (920),a
 43.7748222,-79.1940605,2,Pickford Road (401),a
 43.7748246,-79.194105,2,Pickford Road (655),a
-43.7748264,-79.208689,2,Madras Crescent (166),a
-43.7748264,-79.208689,2,Madras Crescent (166),a
-43.7748293,-79.208401,2,Madras Crescent (169),a
-43.7748315,-79.2085004,2,Madras Crescent (919),a
-43.7748327,-79.2085749,2,Madras Crescent (918),a
 43.7748347,-79.1794066,2,Orchard Park Drive (109),a
 43.7748347,-79.1794066,2,Orchard Park Drive (719),a
-43.7748419,-79.2085891,2,Madras Crescent (167),a
 43.7748421,-79.1358588,2,Wharfside Lane (839),a
 43.7748459,-79.1750486,2,Asterfield Drive (617),a
 43.7748459,-79.1750486,2,Asterfield Drive (635),a
-43.7748468,-79.2085018,2,Madras Crescent (168),a
 43.7748471,-79.1941492,2,Pickford Road (656),a
 43.7748471,-79.1941492,2,Weir Crescent (007),a
 43.7748516,-79.1358719,2,Wharfside Lane (159),a
@@ -30214,8 +29772,6 @@ lat,lon,sz,names,len_cat
 43.7748735,-79.1627651,2,Beechgrove Drive (481),a
 43.7748735,-79.1627651,2,Beechgrove Drive (771),a
 43.7748735,-79.1627651,2,Beechgrove Drive (771),a
-43.7748737,-79.206598,2,Cresswell Drive (499),a
-43.7748737,-79.206598,2,Cresswell Drive (912),a
 43.7748764,-79.1794735,2,Orchard Park Drive (108),a
 43.7748764,-79.1794735,2,Orchard Park Drive (718),a
 43.7748812,-79.1421596,2,Long Island Crescent (214),a
@@ -30276,14 +29832,10 @@ lat,lon,sz,names,len_cat
 43.774992,-79.1817888,2,West Hill Drive (687),a
 43.775004,-79.1766641,2,Kingston Road (100),a
 43.775004,-79.1766641,2,Kingston Road (715),a
-43.7750054,-79.2116147,2,Merkley Square (292),a
-43.7750061,-79.2116016,2,Merkley Square (843),a
-43.7750096,-79.2123968,2,Merkley Square (852),a
 43.7750146,-79.1773814,2,Kingston Road (153),a
 43.7750146,-79.1773814,2,Kingston Road (287),a
 43.7750164,-79.1780024,2,Manse Road (068),a
 43.7750164,-79.1780024,2,Manse Road (627),a
-43.77502,-79.2124167,2,Merkley Square (298),a
 43.7750203,-79.1873586,2,Amiens Road (343),a
 43.7750203,-79.1873586,2,Amiens Road (353),a
 43.7750203,-79.1873586,2,Amiens Road (581),a
@@ -30298,35 +29850,26 @@ lat,lon,sz,names,len_cat
 43.7750238,-79.1566489,2,Lawrence Avenue East (322),a
 43.7750238,-79.1566489,2,Lawrence Avenue East (627),a
 43.7750239,-79.1827213,2,Old Kingston Road (438),a
-43.7750524,-79.2122588,2,Merkley Square (851),a
 43.7750581,-79.1771397,2,Kingston Road (586),a
 43.7750628,-79.186065,2,Fairwood Crescent (510),a
 43.7750628,-79.186065,2,Fairwood Crescent (510),a
 43.7750628,-79.186065,2,Fairwood Crescent (784),a
 43.7750628,-79.186065,2,Fairwood Crescent (784),a
-43.7750645,-79.2122784,2,Merkley Square (297),a
 43.7750728,-79.1357151,2,Wharfside Lane (257),a
 43.7750728,-79.1357151,2,Wharfside Lane (580),a
 43.7750775,-79.1511358,2,Rodarick Drive (083),a
 43.7750775,-79.1511358,2,Rodarick Drive (757),a
-43.7750778,-79.2055212,2,Botany Hill Road (137),a
 43.7750778,-79.1819144,2,West Hill Drive (843),a
-43.7750787,-79.2116451,2,Merkley Square (293),a
-43.7750787,-79.2116367,2,Merkley Square (844),a
 43.775081,-79.1819022,2,West Hill Drive (688),a
 43.7750833,-79.1563777,2,Lawrence Avenue East (077),a
 43.7750833,-79.1563777,2,Lawrence Avenue East (327),a
 43.7750833,-79.1563777,2,Lawrence Avenue East (628),a
 43.7750833,-79.1563777,2,Meadowvale Road (013),a
 43.7750833,-79.1563777,2,Meadowvale Road (785),a
-43.7750865,-79.2121335,2,Merkley Square (850),a
-43.7750973,-79.2121503,2,Merkley Square (296),a
 43.7750985,-79.1762327,2,Kingston Road (127),a
 43.7750985,-79.1762327,2,Kingston Road (269),a
-43.7751089,-79.2055224,2,Botany Hill Road (038),a
 43.77511,-79.1873969,2,Amiens Road (584),a
 43.77511,-79.1873969,2,Amiens Road (879),a
-43.775111,-79.2119713,2,Merkley Square (849),a
 43.7751135,-79.1456225,2,Centennial Road (554),a
 43.7751135,-79.1456225,2,Centennial Road (883),a
 43.775115,-79.176816,2,Kingston Road (152),a
@@ -30339,31 +29882,20 @@ lat,lon,sz,names,len_cat
 43.7751267,-79.1861252,2,Fairwood Crescent (511),a
 43.7751267,-79.1861252,2,Fairwood Crescent (785),a
 43.7751267,-79.1861252,2,Fairwood Crescent (785),a
-43.7751333,-79.2116724,2,Merkley Square (596),a
-43.7751333,-79.2116724,2,Merkley Square (845),a
 43.7751337,-79.1888106,2,Morningside Avenue (158),a
 43.7751337,-79.1888106,2,Morningside Avenue (778),a
 43.775135,-79.1567013,2,Lawrence Avenue East (069),a
 43.775135,-79.1567013,2,Lawrence Avenue East (083),a
 43.775135,-79.1567013,2,Lawrence Avenue East (319),a
 43.775135,-79.1567013,2,Lawrence Avenue East (333),a
-43.7751353,-79.2119825,2,Merkley Square (295),a
-43.7751364,-79.2118711,2,Merkley Square (848),a
 43.7751482,-79.1819786,2,West Hill Drive (689),a
-43.7751512,-79.2118804,2,Merkley Square (294),a
-43.7751521,-79.2117215,2,Merkley Square (597),a
-43.7751521,-79.2117215,2,Merkley Square (846),a
 43.7751544,-79.1825992,2,Old Kingston Road (437),a
-43.7751619,-79.211771,2,Merkley Square (598),a
-43.7751619,-79.211771,2,Merkley Square (847),a
 43.7751628,-79.1765704,2,Kingston Road (195),a
 43.7751628,-79.1765704,2,Kingston Road (835),a
 43.7751679,-79.1456459,2,Centennial Road (552),a
 43.7751679,-79.1456459,2,Centennial Road (882),a
 43.7751679,-79.1456459,2,Corningham Street (273),a
 43.7751679,-79.1456459,2,Corningham Street (981),a
-43.7751702,-79.20559,2,Botany Hill Road (138),a
-43.7751729,-79.2055826,2,Botany Hill Road (039),a
 43.775174,-79.1780589,2,Manse Road (045),a
 43.775174,-79.1780589,2,Manse Road (694),a
 43.7751831,-79.1512829,2,Rodarick Drive (084),a
@@ -30389,24 +29921,15 @@ lat,lon,sz,names,len_cat
 43.7752199,-79.1763043,2,Kingston Road (499),a
 43.7752219,-79.1682953,2,Minnacote Avenue (625),a
 43.7752219,-79.1682953,2,Minnacote Avenue (904),a
-43.7752221,-79.2067424,2,Cresswell Drive (130),a
-43.775227,-79.2056456,2,Botany Hill Road (139),a
-43.7752279,-79.2056431,2,Botany Hill Road (040),a
 43.7752366,-79.1556852,2,Lawrence Avenue East (078),a
 43.7752366,-79.1556852,2,Lawrence Avenue East (328),a
 43.775241,-79.1525191,2,Paulander Avenue (036),a
 43.775241,-79.1525191,2,Paulander Avenue (597),a
-43.7752446,-79.2067517,2,Cresswell Drive (131),a
 43.7752496,-79.1456806,2,Centennial Road (881),a
 43.7752562,-79.1821501,2,West Hill Drive (690),a
 43.7752622,-79.182158,2,West Hill Drive (845),a
-43.775265,-79.2057165,2,Botany Hill Road (041),a
-43.7752673,-79.2070087,2,Botany Hill Road (985),a
-43.7752683,-79.2070708,2,Botany Hill Road (986),a
-43.7752686,-79.2057054,2,Botany Hill Road (140),a
 43.7752693,-79.1526602,2,Holmcrest Trail (046),a
 43.7752693,-79.1526602,2,Holmcrest Trail (923),a
-43.77527,-79.2071826,2,Botany Hill Road (987),a
 43.7752723,-79.1862202,2,Beath Street (517),a
 43.7752723,-79.1862202,2,Beath Street (517),a
 43.7752723,-79.1862202,2,Beath Street (535),a
@@ -30423,20 +29946,11 @@ lat,lon,sz,names,len_cat
 43.7752723,-79.1862202,2,Fairwood Crescent (787),a
 43.7752723,-79.1862202,2,Fairwood Crescent (787),a
 43.7752727,-79.1825046,2,Old Kingston Road (346),a
-43.7752747,-79.2069091,2,Botany Hill Road (984),a
 43.7752761,-79.1564547,2,Meadowvale Road (787),a
-43.7752784,-79.2070727,2,Botany Hill Road (246),a
-43.7752806,-79.2072817,2,Botany Hill Road (988),a
-43.7752808,-79.2071845,2,Botany Hill Road (247),a
 43.7752877,-79.1701585,2,Flerimac Road (648),a
 43.7752877,-79.1701585,2,Flerimac Road (910),a
 43.7752891,-79.1632649,2,Beechgrove Drive (477),a
 43.7752891,-79.1632649,2,Beechgrove Drive (768),a
-43.7752906,-79.206772,2,Botany Hill Road (962),a
-43.7752906,-79.206772,2,Botany Hill Road (983),a
-43.7752906,-79.206772,2,Cresswell Drive (913),a
-43.7752908,-79.2072845,2,Botany Hill Road (248),a
-43.7752916,-79.206924,2,Botany Hill Road (245),a
 43.7752942,-79.152549,2,Holmcrest Trail (045),a
 43.7752942,-79.152549,2,Holmcrest Trail (922),a
 43.7752942,-79.152549,2,Paulander Avenue (035),a
@@ -30444,7 +29958,6 @@ lat,lon,sz,names,len_cat
 43.7752991,-79.1564659,2,Meadowvale Road (631),a
 43.7752993,-79.1752472,2,Asterfield Drive (073),a
 43.7752993,-79.1752472,2,Asterfield Drive (259),a
-43.7753003,-79.2073929,2,Botany Hill Road (989),a
 43.7753031,-79.1556085,2,Lawrence Avenue East (079),a
 43.7753031,-79.1556085,2,Lawrence Avenue East (080),a
 43.7753031,-79.1556085,2,Lawrence Avenue East (329),a
@@ -30456,42 +29969,21 @@ lat,lon,sz,names,len_cat
 43.7753128,-79.1759679,2,Kingston Road (498),a
 43.7753131,-79.1524666,2,Holmcrest Trail (044),a
 43.7753131,-79.1524666,2,Holmcrest Trail (921),a
-43.7753134,-79.2068118,2,Botany Hill Road (244),a
-43.7753162,-79.2066842,2,Botany Hill Road (963),a
-43.7753183,-79.2067823,2,Botany Hill Road (243),a
-43.7753183,-79.2067823,2,Botany Hill Road (260),a
-43.7753183,-79.2067823,2,Cresswell Drive (132),a
-43.7753191,-79.2074421,2,Botany Hill Road (990),a
 43.7753206,-79.182278,2,West Hill Drive (691),a
 43.7753211,-79.1564726,2,Meadowvale Road (300),a
 43.7753211,-79.1564726,2,Meadowvale Road (871),a
-43.7753222,-79.2074237,2,Botany Hill Road (249),a
 43.7753225,-79.1752624,2,Asterfield Drive (616),a
 43.7753225,-79.1752624,2,Asterfield Drive (634),a
-43.7753271,-79.2057973,2,Botany Hill Road (141),a
-43.7753298,-79.2058264,2,Botany Hill Road (042),a
 43.7753368,-79.1557513,2,Lawrence Avenue East (081),a
 43.7753368,-79.1557513,2,Lawrence Avenue East (331),a
 43.7753386,-79.178118,2,Manse Road (004),a
-43.7753415,-79.2065716,2,Botany Hill Road (964),a
-43.7753473,-79.2075158,2,Botany Hill Road (991),a
-43.7753486,-79.2058756,2,Botany Hill Road (043),a
-43.7753486,-79.2058756,2,Botany Hill Road (969),a
-43.7753486,-79.2058756,2,Plover Road (282),a
 43.7753537,-79.1930644,2,Weir Crescent (023),a
 43.7753552,-79.1937229,2,Weir Crescent (008),a
 43.7753552,-79.1937229,2,Weir Crescent (599),a
 43.7753552,-79.1824163,2,Old Kingston Road (435),a
-43.7753585,-79.2059374,2,Botany Hill Road (968),a
 43.7753593,-79.1889009,2,Morningside Avenue (380),a
 43.7753593,-79.1889009,2,Morningside Avenue (993),a
-43.7753614,-79.2058896,2,Botany Hill Road (142),a
-43.7753614,-79.2058896,2,Botany Hill Road (265),a
-43.7753614,-79.2058896,2,Plover Road (266),a
 43.7753615,-79.1930485,2,Weir Crescent (183),a
-43.7753659,-79.2075525,2,Botany Hill Road (992),a
-43.7753659,-79.2075454,2,Botany Hill Road (250),a
-43.7753685,-79.2065595,2,Botany Hill Road (261),a
 43.7753714,-79.1635317,2,Beechgrove Drive (476),a
 43.7753714,-79.1635317,2,Beechgrove Drive (767),a
 43.7753782,-79.1823963,2,Old Kingston Road (434),a
@@ -30502,37 +29994,26 @@ lat,lon,sz,names,len_cat
 43.7753812,-79.149808,2,Cherryhill Avenue (721),a
 43.7753817,-79.1757397,2,Kingston Road (194),a
 43.7753817,-79.1757397,2,Kingston Road (834),a
-43.7753918,-79.206334,2,Botany Hill Road (965),a
 43.7753933,-79.1752951,2,Asterfield Drive (615),a
 43.7753933,-79.1752951,2,Asterfield Drive (633),a
 43.7753933,-79.1752951,2,Kingston Road (129),a
 43.7753933,-79.1752951,2,Kingston Road (271),a
-43.775394,-79.2076262,2,Botany Hill Road (993),a
-43.7753973,-79.2061102,2,Botany Hill Road (967),a
 43.7753981,-79.1525915,2,Paulander Avenue (034),a
 43.7753981,-79.1525915,2,Paulander Avenue (595),a
 43.7753984,-79.1824094,2,Old Kingston Road (345),a
 43.7753984,-79.1824094,2,West Hill Drive (846),a
-43.7753988,-79.2062096,2,Botany Hill Road (966),a
 43.7753995,-79.1446697,2,Corningham Street (277),a
 43.7753995,-79.1446697,2,Corningham Street (983),a
 43.7754081,-79.1930876,2,Weir Crescent (022),a
 43.7754082,-79.167547,2,Fergalea Avenue (143),a
 43.7754082,-79.167547,2,Fergalea Avenue (522),a
-43.7754094,-79.2060934,2,Botany Hill Road (264),a
-43.7754114,-79.2063144,2,Botany Hill Road (262),a
 43.7754149,-79.1756467,2,Kingston Road (790),a
 43.7754149,-79.1756467,2,Kingston Road (863),a
-43.7754157,-79.2061928,2,Botany Hill Road (263),a
 43.775417,-79.1936465,2,Weir Crescent (009),a
-43.7754242,-79.205857,2,Plover Road (267),a
 43.7754288,-79.1639287,2,Beechgrove Drive (475),a
 43.7754288,-79.1639287,2,Beechgrove Drive (766),a
-43.7754314,-79.2077121,2,Botany Hill Road (994),a
-43.7754345,-79.2077022,2,Botany Hill Road (251),a
 43.7754376,-79.1437448,2,Pepper Tree Drive (913),a
 43.7754376,-79.1437448,2,Pepper Tree Drive (959),a
-43.7754378,-79.2058232,2,Plover Road (281),a
 43.7754494,-79.1498938,2,Cherryhill Avenue (573),a
 43.7754494,-79.1498938,2,Cherryhill Avenue (573),a
 43.7754494,-79.1498938,2,Cherryhill Avenue (722),a
@@ -30543,17 +30024,14 @@ lat,lon,sz,names,len_cat
 43.7754499,-79.252499,2,McCowan Road (409),a
 43.7754537,-79.1931235,2,Weir Crescent (021),a
 43.7754566,-79.1931063,2,Weir Crescent (182),a
-43.7754587,-79.2058391,2,Plover Road (268),a
 43.7754597,-79.1755214,2,Kingston Road (353),a
 43.7754597,-79.1755214,2,Kingston Road (497),a
 43.7754616,-79.1936203,2,Weir Crescent (010),a
 43.775467,-79.1751109,2,Kingston Road (639),a
-43.7754686,-79.2077855,2,Botany Hill Road (995),a
 43.7754745,-79.1936274,2,Weir Crescent (177),a
 43.7754797,-79.1889648,2,Morningside Avenue (294),a
 43.7754797,-79.1889648,2,Morningside Avenue (360),a
 43.7754815,-79.1931724,2,Weir Crescent (020),a
-43.775482,-79.2057722,2,Plover Road (277),a
 43.7754836,-79.1396631,2,Long Island Crescent (172),a
 43.7754836,-79.1396631,2,Long Island Crescent (853),a
 43.7754871,-79.1750607,2,Kingston Road (717),a
@@ -30589,7 +30067,6 @@ lat,lon,sz,names,len_cat
 43.7755209,-79.1394932,2,Bridgeport Drive (689),a
 43.7755209,-79.1394932,2,Long Island Crescent (210),a
 43.7755214,-79.1931818,2,Weir Crescent (181),a
-43.7755237,-79.2078585,2,Botany Hill Road (996),a
 43.7755277,-79.1932456,2,Weir Crescent (018),a
 43.7755314,-79.1934815,2,Weir Crescent (013),a
 43.7755361,-79.1935417,2,Weir Crescent (178),a
@@ -30601,13 +30078,9 @@ lat,lon,sz,names,len_cat
 43.7755439,-79.1514588,2,Holmcrest Trail (920),a
 43.7755439,-79.1514588,2,Rodarick Drive (086),a
 43.7755439,-79.1514588,2,Rodarick Drive (760),a
-43.7755442,-79.2057206,2,Plover Road (276),a
 43.7755476,-79.1933692,2,Weir Crescent (016),a
 43.7755482,-79.1934065,2,Weir Crescent (015),a
 43.7755576,-79.1932772,2,Weir Crescent (180),a
-43.7755607,-79.2079195,2,Botany Hill Road (543),a
-43.7755607,-79.2079195,2,Botany Hill Road (997),a
-43.7755617,-79.2057477,2,Plover Road (269),a
 43.7755717,-79.1778734,2,4662 Kingston Road (262),a
 43.7755717,-79.1778734,2,4662 Kingston Road (571),a
 43.7755718,-79.1890136,2,Morningside Avenue (128),a
@@ -30617,7 +30090,6 @@ lat,lon,sz,names,len_cat
 43.7755771,-79.1752327,2,4662 Kingston Road (620),a
 43.7755771,-79.1752327,2,Kingston Road (352),a
 43.7755771,-79.1752327,2,Kingston Road (496),a
-43.775588,-79.2056447,2,Plover Road (279),a
 43.7755902,-79.1438077,2,Pepper Tree Drive (957),a
 43.7755913,-79.1748326,2,Kingston Road (103),a
 43.7755913,-79.1748326,2,Kingston Road (718),a
@@ -30627,8 +30099,6 @@ lat,lon,sz,names,len_cat
 43.7755949,-79.1665959,2,McMillan Avenue (526),a
 43.7755969,-79.1777608,2,4662 Kingston Road (264),a
 43.7755969,-79.1777608,2,4662 Kingston Road (572),a
-43.7756139,-79.2055694,2,Plover Road (278),a
-43.7756177,-79.2056512,2,Plover Road (270),a
 43.7756226,-79.1751387,2,4662 Kingston Road (322),a
 43.7756226,-79.1751387,2,4662 Kingston Road (623),a
 43.7756226,-79.1751387,2,Kingston Road (351),a
@@ -30637,8 +30107,6 @@ lat,lon,sz,names,len_cat
 43.7756227,-79.1776855,2,4662 Kingston Road (573),a
 43.7756233,-79.1655467,2,Beechgrove Drive (472),a
 43.7756233,-79.1655467,2,Beechgrove Drive (763),a
-43.7756305,-79.2054819,2,Plover Road (275),a
-43.7756496,-79.2055517,2,Plover Road (271),a
 43.7756525,-79.1752702,2,4662 Kingston Road (318),a
 43.7756577,-79.1776223,2,4662 Kingston Road (268),a
 43.7756577,-79.1776223,2,4662 Kingston Road (574),a
@@ -30650,21 +30118,12 @@ lat,lon,sz,names,len_cat
 43.7756683,-79.1890683,2,Morningside Avenue (361),a
 43.7756693,-79.1662722,2,Fergalea Avenue (141),a
 43.7756693,-79.1662722,2,Fergalea Avenue (520),a
-43.7756703,-79.2054642,2,Plover Road (272),a
 43.7756725,-79.1425553,2,Portsmouth Drive (173),a
 43.7756725,-79.1425553,2,Portsmouth Drive (707),a
-43.7756806,-79.2081023,2,Botany Hill Road (544),a
-43.7756806,-79.2081023,2,Botany Hill Road (998),a
-43.7756894,-79.2052192,2,Plover Road (280),a
-43.7756899,-79.20927,2,Doucett Place (922),a
-43.7756899,-79.20927,2,Doucett Place (922),a
 43.7756942,-79.1751721,2,4662 Kingston Road (637),a
 43.7756971,-79.1751745,2,4662 Kingston Road (323),a
 43.7757011,-79.1775216,2,4662 Kingston Road (271),a
 43.7757011,-79.1775216,2,4662 Kingston Road (575),a
-43.7757251,-79.2051921,2,Plover Road (273),a
-43.7757385,-79.2092681,2,Doucett Place (238),a
-43.7757385,-79.2092681,2,Doucett Place (238),a
 43.7757449,-79.1774457,2,4662 Kingston Road (273),a
 43.7757449,-79.1774457,2,4662 Kingston Road (576),a
 43.7757524,-79.1864045,2,Fairwood Crescent (487),a
@@ -30725,8 +30184,6 @@ lat,lon,sz,names,len_cat
 43.7758526,-79.2526344,2,McCowan Road (414),a
 43.7758549,-79.1459378,2,Centennial Road (548),a
 43.7758549,-79.1459378,2,Centennial Road (880),a
-43.7758643,-79.2089045,2,Doucett Place (923),a
-43.7758643,-79.2089045,2,Doucett Place (923),a
 43.7758644,-79.177032,2,4662 Kingston Road (278),a
 43.7758644,-79.177032,2,4662 Kingston Road (579),a
 43.7758678,-79.1783739,2,Manse Road (071),a
@@ -30735,8 +30192,6 @@ lat,lon,sz,names,len_cat
 43.7758706,-79.1836424,2,Beath Street (530),a
 43.7758706,-79.1836424,2,Beath Street (951),a
 43.7758706,-79.1836424,2,Beath Street (962),a
-43.7758793,-79.2089237,2,Doucett Place (239),a
-43.7758793,-79.2089237,2,Doucett Place (239),a
 43.7758906,-79.1396406,2,Bridgend Street (716),a
 43.7758906,-79.1396406,2,Bridgend Street (830),a
 43.7758906,-79.1396406,2,Bridgeport Drive (246),a
@@ -30798,8 +30253,6 @@ lat,lon,sz,names,len_cat
 43.7759742,-79.1387517,2,Freeport Drive (145),a
 43.775976,-79.1387526,2,Freeport Drive (845),a
 43.7759801,-79.1782525,2,Stornoway Court (821),a
-43.7759818,-79.2087548,2,Doucett Place (240),a
-43.7759818,-79.2087548,2,Doucett Place (240),a
 43.7759849,-79.1817756,2,Old Kingston Road (412),a
 43.7759852,-79.1753832,2,4662 Kingston Road (316),a
 43.7759852,-79.1753832,2,4662 Kingston Road (320),a
@@ -30816,8 +30269,6 @@ lat,lon,sz,names,len_cat
 43.7759953,-79.1799357,2,Manse Road (658),a
 43.7759985,-79.1782134,2,Stornoway Court (824),a
 43.7760037,-79.1781994,2,Stornoway Court (825),a
-43.7760057,-79.2087215,2,Doucett Place (241),a
-43.7760057,-79.2087215,2,Doucett Place (241),a
 43.7760083,-79.1781853,2,Stornoway Court (826),a
 43.776009,-79.1812597,2,Manse Road (073),a
 43.7760124,-79.1781707,2,Stornoway Court (827),a
@@ -30836,12 +30287,6 @@ lat,lon,sz,names,len_cat
 43.7760297,-79.1740436,2,Kingston Road (484),a
 43.7760317,-79.1835836,2,Beath Street (527),a
 43.7760317,-79.1835836,2,Beath Street (959),a
-43.77604,-79.2086259,2,Botany Hill Road (970),a
-43.77604,-79.2086259,2,Botany Hill Road (970),a
-43.77604,-79.2086259,2,Botany Hill Road (999),a
-43.77604,-79.2086259,2,Botany Hill Road (999),a
-43.77604,-79.2086259,2,Doucett Place (924),a
-43.77604,-79.2086259,2,Doucett Place (924),a
 43.7760499,-79.1813562,2,Manse Road (660),a
 43.7760501,-79.176256,2,4662 Kingston Road (279),a
 43.7760501,-79.176256,2,4662 Kingston Road (580),a
@@ -30849,12 +30294,6 @@ lat,lon,sz,names,len_cat
 43.7760608,-79.1865443,2,Fairwood Crescent (489),a
 43.7760608,-79.1865443,2,Fairwood Crescent (763),a
 43.7760608,-79.1865443,2,Fairwood Crescent (763),a
-43.7760623,-79.2086427,2,Botany Hill Road (252),a
-43.7760623,-79.2086427,2,Botany Hill Road (252),a
-43.7760623,-79.2086427,2,Botany Hill Road (253),a
-43.7760623,-79.2086427,2,Botany Hill Road (253),a
-43.7760623,-79.2086427,2,Doucett Place (242),a
-43.7760623,-79.2086427,2,Doucett Place (242),a
 43.7760653,-79.1528196,2,Goldberry Square (027),a
 43.7760653,-79.1528196,2,Goldberry Square (100),a
 43.7760675,-79.152301,2,Lawrence Avenue East (348),a
@@ -30879,10 +30318,6 @@ lat,lon,sz,names,len_cat
 43.7760989,-79.1834746,2,Beath Street (957),a
 43.7761006,-79.1833974,2,Beath Street (524),a
 43.7761006,-79.1833974,2,Beath Street (956),a
-43.7761135,-79.2087231,2,Botany Hill Road (517),a
-43.7761135,-79.2087231,2,Botany Hill Road (517),a
-43.7761135,-79.2087231,2,Botany Hill Road (971),a
-43.7761135,-79.2087231,2,Botany Hill Road (971),a
 43.7761251,-79.1378537,2,Eastport Drive (174),a
 43.7761251,-79.1378537,2,Eastport Drive (174),a
 43.7761251,-79.1378537,2,Eastport Drive (731),a
@@ -30920,10 +30355,6 @@ lat,lon,sz,names,len_cat
 43.7761657,-79.1378713,2,Eastport Drive (676),a
 43.7761788,-79.1866029,2,Fairwood Crescent (490),a
 43.7761788,-79.1866029,2,Fairwood Crescent (764),a
-43.7761961,-79.20882,2,Botany Hill Road (518),a
-43.7761961,-79.20882,2,Botany Hill Road (518),a
-43.7761961,-79.20882,2,Botany Hill Road (972),a
-43.7761961,-79.20882,2,Botany Hill Road (972),a
 43.7762166,-79.1400123,2,Portsmouth Drive (162),a
 43.7762297,-79.1399499,2,Portsmouth Drive (171),a
 43.7762298,-79.1399497,2,Portsmouth Drive (816),a
@@ -30967,10 +30398,6 @@ lat,lon,sz,names,len_cat
 43.7762916,-79.1771508,2,Stornoway Court (833),a
 43.7762925,-79.1771965,2,Stornoway Court (645),a
 43.776295,-79.1442854,2,Dunhill Street (911),a
-43.776296,-79.2088792,2,Botany Hill Road (519),a
-43.776296,-79.2088792,2,Botany Hill Road (519),a
-43.776296,-79.2088792,2,Botany Hill Road (973),a
-43.776296,-79.2088792,2,Botany Hill Road (973),a
 43.7763061,-79.1771785,2,Stornoway Court (646),a
 43.776308,-79.1771381,2,Stornoway Court (834),a
 43.776312,-79.1442064,2,Dunhill Street (422),a
@@ -31100,10 +30527,6 @@ lat,lon,sz,names,len_cat
 43.7764707,-79.1363004,2,Wharfside Lane (176),a
 43.7764754,-79.1529943,2,Goldberry Square (028),a
 43.7764754,-79.1529943,2,Goldberry Square (101),a
-43.7764774,-79.2089607,2,Botany Hill Road (520),a
-43.7764774,-79.2089607,2,Botany Hill Road (520),a
-43.7764774,-79.2089607,2,Botany Hill Road (974),a
-43.7764774,-79.2089607,2,Botany Hill Road (974),a
 43.7764796,-79.150521,2,Bathgate Drive (759),a
 43.7764796,-79.150521,2,Bathgate Drive (973),a
 43.7764796,-79.150521,2,Cherryhill Avenue (576),a
@@ -31188,18 +30611,12 @@ lat,lon,sz,names,len_cat
 43.7765573,-79.1478943,2,Tredvalley Grove (509),a
 43.7765628,-79.1721716,2,Beechgrove Drive (039),a
 43.7765628,-79.1721716,2,Beechgrove Drive (854),a
-43.776568,-79.2089953,2,Botany Hill Road (521),a
-43.776568,-79.2089953,2,Botany Hill Road (521),a
-43.776568,-79.2089953,2,Botany Hill Road (975),a
-43.776568,-79.2089953,2,Botany Hill Road (975),a
 43.7765712,-79.1750596,2,4662 Kingston Road (235),a
 43.7765712,-79.1750596,2,4662 Kingston Road (554),a
 43.7765731,-79.141842,2,Bar Harbour Square (295),a
 43.7765752,-79.1476973,2,Tredvalley Grove (505),a
 43.7765789,-79.1478507,2,Tredvalley Grove (241),a
 43.7765789,-79.1478507,2,Tredvalley Grove (508),a
-43.7765824,-79.2093428,2,Botany Hill Road (980),a
-43.7765824,-79.2093428,2,Botany Hill Road (980),a
 43.7765834,-79.1505773,2,Bathgate Drive (758),a
 43.7765834,-79.1505773,2,Bathgate Drive (972),a
 43.7765883,-79.147747,2,Tredvalley Grove (239),a
@@ -31210,8 +30627,6 @@ lat,lon,sz,names,len_cat
 43.7765906,-79.1369287,2,Vessel Crescent (380),a
 43.7765906,-79.1369287,2,Vessel Crescent (567),a
 43.7765906,-79.1369287,2,Vessel Crescent (567),a
-43.7765966,-79.2093551,2,Botany Hill Road (256),a
-43.7765966,-79.2093551,2,Botany Hill Road (256),a
 43.7765968,-79.1735517,2,Kingston Road (009),a
 43.7765968,-79.1735517,2,Kingston Road (009),a
 43.7765968,-79.1735517,2,Kingston Road (683),a
@@ -31226,10 +30641,6 @@ lat,lon,sz,names,len_cat
 43.776603,-79.1499583,2,Lawrence Avenue East (752),a
 43.776603,-79.1499583,2,Lawrence Avenue East (920),a
 43.776603,-79.1499583,2,Lawrence Avenue East (920),a
-43.7766046,-79.2090315,2,Botany Hill Road (522),a
-43.7766046,-79.2090315,2,Botany Hill Road (522),a
-43.7766046,-79.2090315,2,Botany Hill Road (976),a
-43.7766046,-79.2090315,2,Botany Hill Road (976),a
 43.7766072,-79.1505902,2,Bathgate Drive (056),a
 43.7766072,-79.1505902,2,Bathgate Drive (813),a
 43.7766076,-79.1750834,2,4662 Kingston Road (236),a
@@ -31237,24 +30648,12 @@ lat,lon,sz,names,len_cat
 43.7766161,-79.1363613,2,Bridgend Street (837),a
 43.7766161,-79.1363613,2,Bridgend Street (837),a
 43.7766161,-79.1363613,2,Wharfside Lane (579),a
-43.7766165,-79.2092175,2,Botany Hill Road (979),a
-43.7766165,-79.2092175,2,Botany Hill Road (979),a
 43.7766212,-79.136942,2,Vessel Crescent (588),a
 43.7766212,-79.136942,2,Vessel Crescent (588),a
 43.7766212,-79.136942,2,Vessel Crescent (765),a
 43.7766212,-79.136942,2,Vessel Crescent (765),a
-43.7766231,-79.2090682,2,Botany Hill Road (523),a
-43.7766231,-79.2090682,2,Botany Hill Road (523),a
-43.7766231,-79.2090682,2,Botany Hill Road (977),a
-43.7766231,-79.2090682,2,Botany Hill Road (977),a
-43.7766241,-79.2091303,2,Botany Hill Road (978),a
-43.7766241,-79.2091303,2,Botany Hill Road (978),a
-43.776629,-79.2092187,2,Botany Hill Road (255),a
-43.776629,-79.2092187,2,Botany Hill Road (255),a
 43.7766291,-79.1479764,2,Tredvalley Grove (234),a
 43.7766291,-79.1479764,2,Tredvalley Grove (501),a
-43.7766374,-79.2091365,2,Botany Hill Road (254),a
-43.7766374,-79.2091365,2,Botany Hill Road (254),a
 43.7766428,-79.1869119,2,Fairwood Crescent (492),a
 43.7766428,-79.1869119,2,Fairwood Crescent (766),a
 43.7766561,-79.1361102,2,Bridgend Street (822),a
@@ -31653,16 +31052,10 @@ lat,lon,sz,names,len_cat
 43.7776676,-79.1900818,2,Morningside Avenue (997),a
 43.7776762,-79.1345293,2,Colinroy Street (654),a
 43.7776762,-79.1345293,2,Colinroy Street (840),a
-43.7776868,-79.202479,2,Morningside Park Road (002),a
-43.7776868,-79.202479,2,Morningside Park Road (671),a
 43.7776936,-79.2261504,2,Ellesmere Road (485),a
 43.7776936,-79.2261504,2,Ellesmere Road (535),a
 43.7776936,-79.2261504,2,Ellesmere Road (638),a
 43.7776936,-79.2261504,2,Ellesmere Road (688),a
-43.7777045,-79.2023954,2,Morningside Park Road (010),a
-43.7777045,-79.2023954,2,Morningside Park Road (679),a
-43.777724,-79.2022751,2,Morningside Park Road (009),a
-43.777724,-79.2022751,2,Morningside Park Road (678),a
 43.777733,-79.1345528,2,Colinroy Street (653),a
 43.777733,-79.1345528,2,Colinroy Street (839),a
 43.7777479,-79.1598558,2,Colonel Danforth Trail (377),a
@@ -31685,8 +31078,6 @@ lat,lon,sz,names,len_cat
 43.7777712,-79.133419,2,GO Transit Path to Parking Overflow (852),a
 43.7777903,-79.1333635,2,GO Transit Path to Parking Overflow (703),a
 43.7777903,-79.1333635,2,GO Transit Path to Parking Overflow (841),a
-43.7777992,-79.2019716,2,Morningside Park Road (003),a
-43.7777992,-79.2019716,2,Morningside Park Road (672),a
 43.7778007,-79.1510868,2,Bathgate Drive (756),a
 43.7778007,-79.1510868,2,Bathgate Drive (970),a
 43.7778008,-79.1599425,2,Colonel Danforth Trail (376),a
@@ -31699,8 +31090,6 @@ lat,lon,sz,names,len_cat
 43.7778171,-79.1722002,2,Kingston Road (260),a
 43.7778171,-79.1722002,2,Kingston Road (794),a
 43.7778171,-79.1722002,2,Kingston Road (794),a
-43.77783,-79.2018864,2,Morningside Park Road (004),a
-43.77783,-79.2018864,2,Morningside Park Road (673),a
 43.7778373,-79.1337911,2,Wynnecastle Road (838),a
 43.7778373,-79.1337911,2,Wynnecastle Road (841),a
 43.7778532,-79.1517303,2,Boxhill Drive (065),a
@@ -31714,8 +31103,6 @@ lat,lon,sz,names,len_cat
 43.777884,-79.1405045,2,Bridgeport Drive (256),a
 43.777884,-79.1405045,2,Bridgeport Drive (697),a
 43.7778861,-79.1518309,2,Boxhill Drive (861),a
-43.7778928,-79.2017638,2,Morningside Park Road (005),a
-43.7778928,-79.2017638,2,Morningside Park Road (674),a
 43.7779072,-79.1518517,2,Boxhill Drive (068),a
 43.7779072,-79.1433639,2,Portsmouth Drive (103),a
 43.7779089,-79.133821,2,Wynnecastle Road (839),a
@@ -31723,8 +31110,6 @@ lat,lon,sz,names,len_cat
 43.7779115,-79.1518798,2,Boxhill Drive (862),a
 43.7779181,-79.1510961,2,Bathgate Drive (755),a
 43.7779181,-79.1510961,2,Bathgate Drive (969),a
-43.7779329,-79.2016953,2,Morningside Park Road (006),a
-43.7779329,-79.2016953,2,Morningside Park Road (675),a
 43.777936,-79.2966166,2,Birchmount Road (399),a
 43.777936,-79.2966166,2,Birchmount Road (538),a
 43.7779377,-79.1433764,2,Portsmouth Drive (178),a
@@ -31741,8 +31126,6 @@ lat,lon,sz,names,len_cat
 43.7779675,-79.1479446,2,Tesson Place (774),a
 43.7779679,-79.1519882,2,Boxhill Drive (070),a
 43.7779679,-79.1519882,2,Boxhill Drive (111),a
-43.7779689,-79.2016529,2,Morningside Park Road (011),a
-43.7779689,-79.2016529,2,Morningside Park Road (680),a
 43.7779713,-79.1511893,2,Goldberry Square (630),a
 43.7779934,-79.1510748,2,Bathgate Drive (876),a
 43.7779934,-79.1510748,2,Goldberry Square (629),a
@@ -31760,8 +31143,6 @@ lat,lon,sz,names,len_cat
 43.7780118,-79.1331557,2,GO Transit Path to Parking Overflow (842),a
 43.7780161,-79.1479768,2,Tesson Place (537),a
 43.7780161,-79.1479768,2,Tesson Place (773),a
-43.7780217,-79.2016175,2,Morningside Park Road (012),a
-43.7780217,-79.2016175,2,Morningside Park Road (681),a
 43.7780219,-79.1722535,2,Kingston Road (757),a
 43.7780219,-79.1722535,2,Kingston Road (757),a
 43.7780219,-79.1722535,2,Kingston Road (918),a
@@ -31921,6 +31302,7 @@ lat,lon,sz,names,len_cat
 43.7783929,-79.1496823,2,Feagan Drive (120),a
 43.7783929,-79.1496823,2,Feagan Drive (680),a
 43.7783929,-79.1496823,2,Feagan Drive (680),a
+43.7784082,-79.3022256,2,Amulet Street (071),a
 43.7784087,-79.13276,2,Bridgend Street (731),a
 43.7784087,-79.13276,2,Bridgend Street (732),a
 43.7784087,-79.13276,2,Bridgend Street (845),a
@@ -32137,6 +31519,10 @@ lat,lon,sz,names,len_cat
 43.7789137,-79.1371297,2,Vessel Crescent (366),a
 43.7789137,-79.1371297,2,Vessel Crescent (553),a
 43.7789137,-79.1371297,2,Vessel Crescent (553),a
+43.7789236,-79.3040809,2,Aragon Avenue (060),a
+43.7789236,-79.3040809,2,Aragon Avenue (060),a
+43.7789236,-79.3040809,2,Aragon Avenue (061),a
+43.7789236,-79.3040809,2,Aragon Avenue (061),a
 43.7789269,-79.1356993,2,Elsbury Lane (609),a
 43.7789269,-79.1356993,2,Elsbury Lane (820),a
 43.7789413,-79.1395036,2,Lawrence Avenue East (768),a
@@ -32148,6 +31534,8 @@ lat,lon,sz,names,len_cat
 43.7790051,-79.1322044,2,Bridgend Street (730),a
 43.7790051,-79.1322044,2,Bridgend Street (844),a
 43.779023,-79.158027,2,Meadowvale Road (619),a
+43.779042,-79.3041301,2,Aragon Avenue (059),a
+43.779042,-79.3041301,2,Aragon Avenue (059),a
 43.779047,-79.1409879,2,Charlottetown Boulevard (013),a
 43.779047,-79.1409879,2,Charlottetown Boulevard (014),a
 43.779047,-79.1409879,2,Charlottetown Boulevard (487),a
@@ -36380,6 +35768,7 @@ lat,lon,sz,names,len_cat
 43.7864454,-79.2198011,2,Creekwood Drive (991),a
 43.7864465,-79.2157673,2,Creekwood Drive (792),a
 43.7864471,-79.217923,2,Oakmeadow Boulevard (018),a
+43.7864511,-79.2380805,2,Executive Court (461),a
 43.786461,-79.155886,2,Satchell Boulevard (377),a
 43.786461,-79.155886,2,Satchell Boulevard (987),a
 43.7864644,-79.2164647,2,Logstone Crescent (088),a
@@ -36428,6 +35817,7 @@ lat,lon,sz,names,len_cat
 43.7865226,-79.1384383,2,Ravine Park Crescent (308),a
 43.7865226,-79.1384383,2,Ravine Park Crescent (308),a
 43.7865238,-79.2158706,2,Oakmeadow Boulevard (230),a
+43.7865246,-79.237952,2,Executive Court (176),a
 43.7865249,-79.2358154,2,Markham Road (274),a
 43.7865249,-79.2358154,2,Markham Road (280),a
 43.7865249,-79.2358154,2,Markham Road (411),a
@@ -36448,6 +35838,7 @@ lat,lon,sz,names,len_cat
 43.7865426,-79.2158067,2,Oakmeadow Boulevard (231),a
 43.7865604,-79.1416641,2,Wichey Road (938),a
 43.7865692,-79.1416675,2,Wichey Road (939),a
+43.7865697,-79.2378903,2,Executive Court (267),a
 43.7865737,-79.1329762,2,Hartsville Avenue (581),a
 43.7865737,-79.1329762,2,Hartsville Avenue (950),a
 43.7865775,-79.1882709,2,Ellesmere Road (275),a
@@ -37747,6 +37138,7 @@ lat,lon,sz,names,len_cat
 43.7886057,-79.1611116,2,Stagecoach Circle (573),a
 43.7886129,-79.2196727,2,Oakmeadow Boulevard (074),a
 43.7886129,-79.2196727,2,Oakmeadow Boulevard (535),a
+43.7886141,-79.2814895,2,Lockie Avenue (548),a
 43.7886142,-79.209114,2,Neilson Road (185),a
 43.7886142,-79.209114,2,Neilson Road (614),a
 43.7886142,-79.209114,2,Neilson Road (614),a
@@ -41342,6 +40734,7 @@ lat,lon,sz,names,len_cat
 43.7946148,-79.1581056,2,Muirbank Boulevard (646),a
 43.7946148,-79.1581056,2,Orleans Drive (449),a
 43.7946189,-79.139626,2,Rouge Highlands Drive (441),a
+43.7946198,-79.2501864,2,Shorting Road (079),a
 43.7946237,-79.1852074,2,Ponymeadow Terrace (327),a
 43.7946237,-79.1852074,2,Ponymeadow Terrace (327),a
 43.7946254,-79.1844144,2,Good Road (318),a
@@ -41739,6 +41132,7 @@ lat,lon,sz,names,len_cat
 43.7952095,-79.1775915,2,Charcoal Drive (075),a
 43.7952095,-79.1775915,2,Charcoal Drive (415),a
 43.7952144,-79.2178479,2,Milner Avenue (968),a
+43.795219,-79.2504384,2,Shorting Road (080),a
 43.7952401,-79.182736,2,Calverley Trail (309),a
 43.7952442,-79.1828587,2,Houndtrail Drive (761),a
 43.7952442,-79.1828587,2,Houndtrail Drive (767),a
@@ -41901,6 +41295,7 @@ lat,lon,sz,names,len_cat
 43.7957321,-79.1419045,2,Blue Anchor Trail (792),a
 43.7957333,-79.1812164,2,Pictorial Street (765),a
 43.7957333,-79.1812164,2,Pictorial Street (771),a
+43.7957343,-79.2506551,2,Shorting Road (081),a
 43.7957605,-79.181228,2,Pictorial Street (484),a
 43.7957605,-79.181228,2,Pictorial Street (858),a
 43.7957941,-79.1790968,2,Calverley Trail (398),a
@@ -43177,14 +42572,19 @@ lat,lon,sz,names,len_cat
 43.7978549,-79.1500632,2,Rylander Boulevard (794),a
 43.7978549,-79.1500632,2,Rylander Boulevard (801),a
 43.7978549,-79.1500632,2,Rylander Boulevard (801),a
+43.7978581,-79.268251,2,Huntingwood Drive (954),a
 43.7978662,-79.1527737,2,Carlisle Crescent (062),a
 43.7978662,-79.1527737,2,Rylander Boulevard (791),a
 43.7978662,-79.1527737,2,Rylander Boulevard (813),a
+43.7978687,-79.2678438,2,Huntingwood Drive (796),a
 43.7978694,-79.1646659,2,Lavery Trail (579),a
+43.7978704,-79.2677773,2,Huntingwood Drive (955),a
 43.7978732,-79.1646128,2,Lavery Trail (471),a
+43.7978779,-79.2684096,2,Huntingwood Drive (795),a
 43.7978834,-79.1527823,2,Carlisle Crescent (356),a
 43.7978834,-79.1527823,2,Rylander Boulevard (357),a
 43.7978834,-79.1527823,2,Rylander Boulevard (362),a
+43.797889,-79.2684983,2,Huntingwood Drive (953),a
 43.7978939,-79.1447803,2,Port Union Road (685),a
 43.7978939,-79.1447803,2,Port Union Road (741),a
 43.7978952,-79.1501345,2,Rylander Boulevard (793),a
@@ -43195,6 +42595,7 @@ lat,lon,sz,names,len_cat
 43.7978955,-79.1499067,2,Rylander Boulevard (784),a
 43.7978955,-79.1499067,2,Rylander Boulevard (791),a
 43.7978955,-79.1499067,2,Rylander Boulevard (791),a
+43.7978958,-79.2675608,2,Huntingwood Drive (620),a
 43.797923,-79.1396058,2,Island Road (968),a
 43.797923,-79.1396058,2,Island Road (974),a
 43.7979294,-79.1388245,2,East Avenue (639),a
@@ -43256,6 +42657,10 @@ lat,lon,sz,names,len_cat
 43.7980344,-79.1504451,2,Rylander Boulevard (700),a
 43.7980424,-79.1390333,2,Island Road (978),a
 43.7980468,-79.1519195,2,Rylander Boulevard (814),a
+43.7980488,-79.2691935,2,Huntingwood Drive (763),a
+43.7980488,-79.2691935,2,Huntingwood Drive (763),a
+43.7980488,-79.2691935,2,Huntingwood Drive (773),a
+43.7980488,-79.2691935,2,Huntingwood Drive (773),a
 43.7980492,-79.1657476,2,Meadowvale Road (166),a
 43.7980492,-79.1657476,2,Meadowvale Road (943),a
 43.7980501,-79.1519232,2,Rylander Boulevard (358),a
@@ -43313,6 +42718,7 @@ lat,lon,sz,names,len_cat
 43.7980882,-79.1517015,2,Rylander Boulevard (816),a
 43.7980882,-79.1517015,2,Rylander Boulevard (819),a
 43.7980882,-79.1517015,2,Rylander Boulevard (823),a
+43.7980891,-79.2785964,2,Huntingwood Drive (932),a
 43.7981024,-79.1645966,2,Lavery Trail (577),a
 43.7981068,-79.1387783,2,Island Road (501),a
 43.7981068,-79.1387783,2,Island Road (501),a
@@ -43334,10 +42740,15 @@ lat,lon,sz,names,len_cat
 43.7981232,-79.1501563,2,Durnford Road (120),a
 43.7981232,-79.1501563,2,Durnford Road (143),a
 43.7981232,-79.1501563,2,Durnford Road (143),a
+43.7981305,-79.2782681,2,Huntingwood Drive (933),a
 43.7981383,-79.1504099,2,Rylander Boulevard (808),a
 43.7981383,-79.1504099,2,Rylander Boulevard (808),a
 43.7981383,-79.1504099,2,Rylander Boulevard (815),a
 43.7981383,-79.1504099,2,Rylander Boulevard (815),a
+43.7981453,-79.2779875,2,Huntingwood Drive (934),a
+43.7981481,-79.27774,2,Huntingwood Drive (059),a
+43.7981481,-79.27774,2,Huntingwood Drive (935),a
+43.7981495,-79.2776792,2,Huntingwood Drive (060),a
 43.7981529,-79.1343074,2,Brycemoor Road (503),a
 43.7981619,-79.1501298,2,Durnford Road (312),a
 43.7981619,-79.1501298,2,Durnford Road (312),a
@@ -43346,6 +42757,7 @@ lat,lon,sz,names,len_cat
 43.7981654,-79.1450834,2,Port Union Road (573),a
 43.7981654,-79.1450834,2,Port Union Road (670),a
 43.7981654,-79.1450834,2,Port Union Road (737),a
+43.798167,-79.2764664,2,Huntingwood Drive (061),a
 43.7981704,-79.1657901,2,Meadowvale Road (165),a
 43.7981704,-79.1657901,2,Meadowvale Road (941),a
 43.79818,-79.1644364,2,Lavery Trail (468),a
@@ -43430,6 +42842,8 @@ lat,lon,sz,names,len_cat
 43.7984725,-79.15,2,Durnford Road (122),a
 43.7984725,-79.15,2,Durnford Road (145),a
 43.7984725,-79.15,2,Durnford Road (145),a
+43.7984735,-79.2710419,2,Huntingwood Drive (777),a
+43.7984735,-79.2710419,2,Huntingwood Drive (934),a
 43.7984889,-79.1768422,2,Morrish Road (265),a
 43.7984889,-79.1768422,2,Morrish Road (305),a
 43.7984952,-79.139061,2,East Avenue (205),a
@@ -43440,6 +42854,7 @@ lat,lon,sz,names,len_cat
 43.7985187,-79.1455527,2,Port Union Road (103),a
 43.7985187,-79.1455527,2,Port Union Road (354),a
 43.7985187,-79.1455527,2,Port Union Road (355),a
+43.7985457,-79.2713564,2,Huntingwood Drive (949),a
 43.7985501,-79.1698528,2,Zaph Avenue (488),a
 43.7985501,-79.1698528,2,Zaph Avenue (506),a
 43.7985575,-79.1468873,2,Kingston Road (055),a
@@ -43462,6 +42877,11 @@ lat,lon,sz,names,len_cat
 43.7985795,-79.1366553,2,Island Road (889),a
 43.7985795,-79.1366553,2,Island Road (889),a
 43.7986256,-79.1553919,2,Tideswell Boulevard (316),a
+43.7986305,-79.2717912,2,Huntingwood Drive (081),a
+43.7986305,-79.2717912,2,Huntingwood Drive (933),a
+43.7986483,-79.2723147,2,Huntingwood Drive (768),a
+43.7986483,-79.2723147,2,Huntingwood Drive (770),a
+43.7986516,-79.2718992,2,Huntingwood Drive (771),a
 43.7986693,-79.1554112,2,Tideswell Boulevard (315),a
 43.7986701,-79.1554037,2,Tideswell Boulevard (138),a
 43.7987105,-79.1460209,2,Port Union Road (614),a
@@ -46595,6 +46015,7 @@ lat,lon,sz,names,len_cat
 43.8111302,-79.2268782,2,Wingarden Court (540),a
 43.8111327,-79.2357378,2,Melford Drive (685),a
 43.8111327,-79.2357378,2,Tapscott Road (441),a
+43.811142,-79.3105267,2,Ivy Bush Avenue (238),a
 43.8111473,-79.2327932,2,Bradstone Square (888),a
 43.8111473,-79.2327932,2,Bradstone Square (888),a
 43.8111473,-79.2327932,2,Crow Trail (935),a
@@ -52415,10 +51836,12 @@ lat,lon,sz,names,len_cat
 43.822726,-79.270012,2,Whiteleaf Crescent (098),a
 43.822726,-79.270012,2,Whiteleaf Crescent (446),a
 43.822726,-79.270012,2,Whiteleaf Crescent (446),a
+43.8227301,-79.2859195,2,Audrelane Court (782),a
 43.8227301,-79.212675,2,Gramercy Square (895),a
 43.8227374,-79.229504,2,Morningside Avenue (292),a
 43.8227374,-79.229504,2,Morningside Avenue (903),a
 43.8227393,-79.2768782,2,Alton Towers Circle (262),a
+43.8227404,-79.2858734,2,Audrelane Court (783),a
 43.822744,-79.2289486,2,Flycatcher Avenue (757),a
 43.8227469,-79.265135,2,Pebblewood Avenue (004),a
 43.8227469,-79.265135,2,Pebblewood Avenue (422),a
@@ -52435,6 +51858,7 @@ lat,lon,sz,names,len_cat
 43.8227553,-79.2729647,2,Alton Towers Circle (337),a
 43.8227553,-79.2729647,2,Alton Towers Circle (354),a
 43.8227553,-79.2729647,2,Alton Towers Circle (373),a
+43.8227623,-79.285798,2,Audrelane Court (784),a
 43.8227623,-79.285798,2,Lorna Rae Boulevard (771),a
 43.8227623,-79.285798,2,Lorna Rae Boulevard (974),a
 43.8227637,-79.285797,2,Lorna Rae Boulevard (206),a

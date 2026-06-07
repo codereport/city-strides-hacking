@@ -13190,8 +13190,6 @@ lat,lon,sz,names,len_cat
 44.373471,-79.7303087,2,Pringle Drive (535),a
 44.3734778,-79.6536407,2,Forestwood Lane (891),a
 44.3734785,-79.6552561,2,Lovers Court (476),a
-44.3734792,-79.6810543,2,Lakeshore Drive (570),a
-44.3734792,-79.6810543,2,Lakeshore Drive (570),a
 44.3734793,-79.6802337,2,Lakeshore Drive (553),a
 44.373483,-79.7385898,2,Miller Drive (964),a
 44.373483,-79.7385898,2,Miller Drive (968),a
@@ -13220,14 +13218,10 @@ lat,lon,sz,names,len_cat
 44.3735661,-79.7303263,2,Pringle Drive (538),a
 44.3735712,-79.6536189,2,Forestwood Lane (892),a
 44.3735726,-79.7314982,2,McAvoy Drive (223),a
-44.3735751,-79.6810375,2,Lakeshore Drive (554),a
-44.3735751,-79.6810375,2,Lakeshore Drive (554),a
 44.3735899,-79.7315084,2,McAvoy Drive (224),a
 44.3735993,-79.7303356,2,Pringle Drive (539),a
 44.3735993,-79.7303356,2,Pringle Drive (539),a
 44.3736015,-79.6909719,2,Essa Road (005),a
-44.3736042,-79.6813087,2,Lakeshore Drive (555),a
-44.3736042,-79.6813087,2,Lakeshore Drive (555),a
 44.3736069,-79.7315194,2,McAvoy Drive (225),a
 44.3736158,-79.6472125,2,Gray Lane (917),a
 44.3736225,-79.6940037,2,Innisfil Street (234),a
@@ -13268,7 +13262,6 @@ lat,lon,sz,names,len_cat
 44.3738014,-79.7098951,2,Dyment Road (549),a
 44.3738014,-79.7098951,2,John Street (450),a
 44.3738019,-79.6536329,2,Forestwood Lane (332),a
-44.3738031,-79.6828573,2,Lakeshore Drive (556),a
 44.3738072,-79.6940643,2,Innisfil Street (213),a
 44.3738072,-79.6940643,2,Innisfil Street (213),a
 44.3738072,-79.6940643,2,Innisfil Street (235),a
@@ -13297,25 +13290,15 @@ lat,lon,sz,names,len_cat
 44.373949,-79.7375198,2,Pringle Drive (574),a
 44.373949,-79.7375198,2,Ruffet Drive (712),a
 44.373949,-79.7375198,2,Ruffet Drive (840),a
-44.3739549,-79.6850183,2,Lakeshore Drive (569),a
-44.3739684,-79.6851923,2,Lakeshore Drive (568),a
 44.373973,-79.7337035,2,Reynolds Lane (552),a
-44.3739826,-79.6844442,2,Lakeshore Drive (557),a
-44.3739881,-79.6853428,2,Lakeshore Drive (567),a
 44.3739937,-79.6941837,2,Innisfil Street (214),a
 44.3739937,-79.6941837,2,Innisfil Street (214),a
 44.3739962,-79.7100781,2,Dyment Road (184),a
 44.3740424,-79.6521955,2,Royal Oak Drive (457),a
 44.3740453,-79.7375622,2,Ruffet Drive (475),a
-44.3740457,-79.6849974,2,Lakeshore Drive (558),a
 44.3740537,-79.7238064,2,Dunlop Street West (832),a
-44.3740648,-79.6851812,2,Lakeshore Drive (559),a
-44.3740648,-79.6851812,2,Lakeshore Drive (584),a
 44.3740686,-79.6462202,2,Tyndale Road (983),a
 44.3740686,-79.6462202,2,Tyndale Road (983),a
-44.3740857,-79.685328,2,Lakeshore Drive (585),a
-44.3740973,-79.6860628,2,Lakeshore Drive (566),a
-44.3741077,-79.6855098,2,Lakeshore Drive (586),a
 44.3741262,-79.6521904,2,Royal Oak Drive (458),a
 44.3741379,-79.7318965,2,McAvoy Drive (789),a
 44.374143,-79.7009584,2,Brock Street (511),a
@@ -13324,7 +13307,6 @@ lat,lon,sz,names,len_cat
 44.3741525,-79.6567333,2,Royal Oak Drive (912),a
 44.3741525,-79.6567333,2,Royal Oak Drive (912),a
 44.3741532,-79.7376096,2,Ruffet Drive (713),a
-44.3741534,-79.6858369,2,Lakeshore Drive (587),a
 44.3741883,-79.7364549,2,Kraus Road (903),a
 44.3741886,-79.7338907,2,Reynolds Lane (553),a
 44.3741901,-79.6521931,2,Royal Oak Drive (903),a
@@ -13333,9 +13315,7 @@ lat,lon,sz,names,len_cat
 44.3742127,-79.7319481,2,McAvoy Drive (229),a
 44.3742127,-79.7319481,2,Sproule Drive (495),a
 44.3742127,-79.7319481,2,Sproule Drive (515),a
-44.3742195,-79.6865686,2,Lakeshore Drive (565),a
 44.374223,-79.7339119,2,Reynolds Lane (561),a
-44.3742301,-79.6861882,2,Lakeshore Drive (588),a
 44.3742348,-79.6567688,2,Royal Oak Drive (913),a
 44.3742348,-79.6567688,2,Royal Oak Drive (913),a
 44.3742556,-79.733919,2,Reynolds Lane (568),a
@@ -13370,7 +13350,6 @@ lat,lon,sz,names,len_cat
 44.3743789,-79.6473941,2,Gray Lane (920),a
 44.3743868,-79.7186492,2,Elliott Avenue (111),a
 44.3743868,-79.7186492,2,Ferndale Drive North (609),a
-44.3743965,-79.6870499,2,Lakeshore Drive (564),a
 44.3744067,-79.6522384,2,Royal Oak Drive (904),a
 44.3744285,-79.7353648,2,Knupp Road (028),a
 44.3744525,-79.6456254,2,Gray Lane (293),a
@@ -14103,7 +14082,6 @@ lat,lon,sz,names,len_cat
 44.3792162,-79.7071825,2,George Street (346),a
 44.3792162,-79.7071825,2,George Street (346),a
 44.379234,-79.7281457,2,Jagges Drive (468),a
-44.3792443,-79.6903007,2,Lakeshore Drive (480),a
 44.379253,-79.7139501,2,Cedar Pointe Drive (511),a
 44.3792925,-79.7041936,2,Army Navy & Air Force Drive (721),a
 44.3792943,-79.6920553,2,Ellen Street (984),a
@@ -14115,7 +14093,6 @@ lat,lon,sz,names,len_cat
 44.3793974,-79.7039604,2,Army Navy & Air Force Drive (432),a
 44.3793986,-79.7124517,2,Dunlop Street West (722),a
 44.3793986,-79.7124517,2,Dunlop Street West (770),a
-44.3794005,-79.6903449,2,Lakeshore Drive (479),a
 44.3794521,-79.7328264,2,Edgehill Drive (869),a
 44.3794576,-79.7139463,2,Cedar Pointe Drive (513),a
 44.3795016,-79.6936089,2,Bradford Street (982),a
@@ -14136,7 +14113,6 @@ lat,lon,sz,names,len_cat
 44.3796669,-79.6966763,2,John Street (461),a
 44.379668,-79.6967685,2,John Street (490),a
 44.3796685,-79.6968067,2,John Street (460),a
-44.3796728,-79.6904975,2,Lakeshore Drive (605),a
 44.3796817,-79.7281686,2,Bird Street (811),a
 44.3796817,-79.7281686,2,Jagges Drive (480),a
 44.3796817,-79.7281686,2,Jagges Drive (587),a
@@ -14175,7 +14151,6 @@ lat,lon,sz,names,len_cat
 44.3797366,-79.6988388,2,Dufferin Street (689),a
 44.3797366,-79.6988388,2,Robert Street (413),a
 44.3797366,-79.6988388,2,Robert Street (414),a
-44.3797423,-79.6904137,2,Lakeshore Drive (735),a
 44.3797509,-79.7008846,2,Victoria Street (276),a
 44.3797562,-79.6951657,2,Sanford Street (235),a
 44.3797562,-79.6951657,2,Sanford Street (235),a
@@ -14197,13 +14172,11 @@ lat,lon,sz,names,len_cat
 44.3798729,-79.702903,2,Vespra Street (884),a
 44.3798806,-79.7138555,2,Cedar Pointe Drive (335),a
 44.3799184,-79.7028008,2,Vespra Street (885),a
-44.3799392,-79.6904348,2,Lakeshore Drive (478),a
 44.379946,-79.7306896,2,Edgehill Drive (765),a
 44.379946,-79.7306896,2,Edgehill Drive (765),a
 44.3799772,-79.7029938,2,Anne Street South (654),a
 44.3799785,-79.7138345,2,Cedar Pointe Drive (514),a
 44.3800582,-79.7137955,2,Cedar Pointe Drive (937),a
-44.380059,-79.6904697,2,Lakeshore Drive (477),a
 44.3801039,-79.7051893,2,George Street (714),a
 44.3801397,-79.7137556,2,Cedar Pointe Drive (515),a
 44.3801583,-79.7090936,2,Hart Drive (914),a
@@ -14227,11 +14200,9 @@ lat,lon,sz,names,len_cat
 44.3805273,-79.7034788,2,Anne Street South (645),a
 44.3805381,-79.7131999,2,Cedar Pointe Drive (895),a
 44.3805514,-79.7041844,2,George Street (000),a
-44.3805517,-79.6906534,2,Lakeshore Drive (604),a
 44.38061,-79.7080882,2,Hart Drive (903),a
 44.380614,-79.6936725,2,Bradford Street (821),a
 44.380614,-79.6936725,2,Bradford Street (821),a
-44.3806218,-79.6905443,2,Lakeshore Drive (482),a
 44.3806291,-79.7080458,2,Hart Drive (916),a
 44.3806382,-79.6968188,2,Dufferin Street (690),a
 44.3806391,-79.7039874,2,George Street (001),a
@@ -14241,7 +14212,6 @@ lat,lon,sz,names,len_cat
 44.3806707,-79.7129406,2,Cedar Pointe Drive (518),a
 44.380688,-79.7038776,2,George Street (347),a
 44.3807147,-79.6967334,2,Innisfil Street (011),a
-44.3807165,-79.6905568,2,Lakeshore Drive (476),a
 44.3807436,-79.7240724,2,Ferndale Drive North (701),a
 44.3807466,-79.7094803,2,Dunlop Street West (720),a
 44.3807466,-79.7094803,2,Dunlop Street West (776),a
@@ -14254,7 +14224,6 @@ lat,lon,sz,names,len_cat
 44.3808576,-79.7127482,2,Cedar Pointe Drive (519),a
 44.3808597,-79.7266133,2,Edgehill Drive (901),a
 44.380893,-79.7074581,2,Hart Drive (915),a
-44.3809159,-79.6905756,2,Lakeshore Drive (475),a
 44.38097,-79.7072869,2,Hart Drive (907),a
 44.3810868,-79.7070268,2,Hart Drive (906),a
 44.3810868,-79.7070268,2,Hart Drive (906),a
@@ -14289,8 +14258,6 @@ lat,lon,sz,names,len_cat
 44.3813142,-79.7245625,2,Edgehill Drive (781),a
 44.3813142,-79.7245625,2,Ferndale Drive North (700),a
 44.3813142,-79.7245625,2,Ferndale Drive North (709),a
-44.3813236,-79.6907351,2,Lakeshore Drive (197),a
-44.3813271,-79.6906167,2,Lakeshore Drive (483),a
 44.3813312,-79.7124365,2,Cedar Pointe Drive (520),a
 44.3813386,-79.7081454,2,Dunlop Street West (773),a
 44.3813386,-79.7081454,2,Dunlop Street West (774),a
@@ -14320,11 +14287,6 @@ lat,lon,sz,names,len_cat
 44.3814378,-79.6910479,2,Victoria Street (269),a
 44.3814388,-79.7063496,2,Hart Drive (442),a
 44.3814388,-79.7063496,2,Hart Drive (442),a
-44.3814455,-79.6908346,2,Victoria Street (230),a
-44.3814483,-79.6907577,2,Lakeshore Drive (603),a
-44.3814483,-79.6907577,2,Victoria Street (270),a
-44.3814503,-79.690629,2,Lakeshore Drive (643),a
-44.3814503,-79.690629,2,Victoria Street (271),a
 44.3814768,-79.7063326,2,Hart Drive (568),a
 44.3814768,-79.7063326,2,Hart Drive (568),a
 44.3814909,-79.6967839,2,Innisfil Street (012),a
@@ -14342,8 +14304,6 @@ lat,lon,sz,names,len_cat
 44.3815842,-79.7063477,2,Hart Drive (570),a
 44.3815881,-79.724935,2,Ferndale Drive North (708),a
 44.3815912,-79.7123429,2,Cedar Pointe Drive (521),a
-44.3816027,-79.690769,2,Lakeshore Drive (196),a
-44.3816072,-79.6906442,2,Lakeshore Drive (199),a
 44.3816299,-79.7074723,2,Dunlop Street West (759),a
 44.3816299,-79.7074723,2,Dunlop Street West (775),a
 44.381633,-79.7232762,2,Edgehill Drive (739),a
@@ -14410,7 +14370,6 @@ lat,lon,sz,names,len_cat
 44.3823088,-79.6923041,2,Vespra Street (881),a
 44.3823106,-79.7245965,2,MacAllister Court (345),a
 44.3823202,-79.7030298,2,Perry Street (666),a
-44.3823402,-79.6907151,2,Lakeshore Drive (644),a
 44.3823774,-79.7058103,2,Dunlop Street West (837),a
 44.3823774,-79.7058103,2,Dunlop Street West (837),a
 44.3823774,-79.7058103,2,Dunlop Street West (843),a
@@ -14432,11 +14391,9 @@ lat,lon,sz,names,len_cat
 44.3824758,-79.7055964,2,Dunlop Street West (842),a
 44.3824758,-79.7055964,2,Dunlop Street West (844),a
 44.3824758,-79.7055964,2,Dunlop Street West (844),a
-44.3824936,-79.6907312,2,Lakeshore Drive (645),a
 44.3825048,-79.7024949,2,Perry Street (898),a
 44.3825195,-79.7052025,2,Anne Street South (858),a
 44.3825195,-79.7052025,2,Anne Street South (858),a
-44.3825461,-79.6907344,2,Lakeshore Drive (646),a
 44.382561,-79.7121208,2,Cedar Pointe Drive (523),a
 44.3825699,-79.7193139,2,Edgehill Drive (745),a
 44.3825791,-79.70235,2,Perry Street (900),a
@@ -14458,7 +14415,6 @@ lat,lon,sz,names,len_cat
 44.3827405,-79.7184691,2,Fox Run (821),a
 44.382773,-79.7077726,2,Henry Street (486),a
 44.3827897,-79.701953,2,Perry Street (668),a
-44.3827923,-79.6907494,2,Lakeshore Drive (647),a
 44.3827936,-79.7119902,2,Cedar Pointe Drive (524),a
 44.3828095,-79.7218524,2,Oates Lane (507),a
 44.3828214,-79.6969753,2,Innisfil Street (199),a
@@ -14491,7 +14447,6 @@ lat,lon,sz,names,len_cat
 44.3831687,-79.6938238,2,Bradford Street (112),a
 44.3831687,-79.6938238,2,Bradford Street (112),a
 44.3831746,-79.7157731,2,Edgehill Drive (894),a
-44.3831856,-79.6907733,2,Lakeshore Drive (648),a
 44.38324,-79.711654,2,Cedar Pointe Drive (525),a
 44.3832465,-79.6938303,2,Bradford Street (824),a
 44.3832465,-79.6938303,2,Bradford Street (824),a
@@ -14503,7 +14458,6 @@ lat,lon,sz,names,len_cat
 44.3832901,-79.7253872,2,Moore Place (860),a
 44.3832905,-79.7154289,2,Edgehill Drive (893),a
 44.3832905,-79.7154289,2,Engel Crescent (791),a
-44.383291,-79.6908921,2,Lakeshore Drive (602),a
 44.3833009,-79.7021626,2,Boys Street South (918),a
 44.3833036,-79.7189088,2,Eden Drive (134),a
 44.3833036,-79.7189088,2,Fox Run (825),a
@@ -14521,7 +14475,6 @@ lat,lon,sz,names,len_cat
 44.3834936,-79.7225053,2,McCarthy Court (753),a
 44.3834992,-79.7186911,2,Eden Drive (135),a
 44.3834992,-79.7186911,2,Eden Drive (135),a
-44.3835187,-79.7003433,2,Perry Street (662),a
 44.3835309,-79.7208147,2,Fox Run (838),a
 44.3835396,-79.7198828,2,Broadfoot Road (200),a
 44.3835459,-79.7060608,2,Anne Street North (413),a
@@ -14552,14 +14505,10 @@ lat,lon,sz,names,len_cat
 44.3838209,-79.7142359,2,Edgehill Drive (897),a
 44.3838507,-79.7155198,2,Engel Crescent (794),a
 44.3838529,-79.7197253,2,Broadfoot Road (202),a
-44.3838584,-79.6908143,2,Lakeshore Drive (649),a
 44.3838716,-79.7213946,2,Fox Run (830),a
 44.3838726,-79.7174652,2,Eden Drive (138),a
 44.3838726,-79.7174652,2,Eden Drive (138),a
 44.3838863,-79.7276646,2,Ferndale Drive North (603),a
-44.3839077,-79.6994315,2,Frances Street South (319),a
-44.3839077,-79.6994315,2,Perry Street (663),a
-44.3839077,-79.6994315,2,Perry Street (664),a
 44.3839149,-79.7140245,2,Edgehill Drive (777),a
 44.3839149,-79.7140245,2,Engel Crescent (798),a
 44.3839296,-79.7209414,2,Hemingway Crescent (914),a
@@ -14577,10 +14526,8 @@ lat,lon,sz,names,len_cat
 44.3840588,-79.7065168,2,Anne Street North (422),a
 44.3840588,-79.7065168,2,Anne Street North (448),a
 44.3840588,-79.7065168,2,Anne Street North (448),a
-44.3840961,-79.6908277,2,Lakeshore Drive (650),a
 44.3841461,-79.71938,2,Broadfoot Road (204),a
 44.3841962,-79.7206343,2,Hemingway Crescent (915),a
-44.3841996,-79.6909404,2,Lakeshore Drive (601),a
 44.3842075,-79.7216384,2,Fox Run (831),a
 44.3842292,-79.7133161,2,Edgehill Drive (405),a
 44.3842326,-79.714256,2,Engel Crescent (797),a
@@ -14588,7 +14535,6 @@ lat,lon,sz,names,len_cat
 44.3842544,-79.7145945,2,Engel Crescent (795),a
 44.3842572,-79.7116442,2,Cedar Pointe Drive (529),a
 44.3842883,-79.7144055,2,Engel Crescent (796),a
-44.384311,-79.6997709,2,Frances Street South (320),a
 44.3843443,-79.7067694,2,Anne Street North (423),a
 44.3843443,-79.7067694,2,Donald Street (883),a
 44.3843487,-79.7205808,2,Hemingway Crescent (916),a
@@ -14600,9 +14546,6 @@ lat,lon,sz,names,len_cat
 44.3844269,-79.706579,2,Donald Street (884),a
 44.3844524,-79.7185949,2,Broadfoot Road (205),a
 44.3844524,-79.7185949,2,Broadfoot Road (205),a
-44.3844574,-79.6981714,2,Innisfil Street (202),a
-44.3844574,-79.6981714,2,Perry Street (665),a
-44.3844574,-79.6981714,2,Perry Street (670),a
 44.3844777,-79.7160334,2,Eden Drive (140),a
 44.3844969,-79.7217576,2,Fox Run (832),a
 44.3845137,-79.7264902,2,Browning Trail (066),a
@@ -14615,16 +14558,12 @@ lat,lon,sz,names,len_cat
 44.3846194,-79.7158294,2,Eden Drive (141),a
 44.3846242,-79.7062408,2,Donald Street (886),a
 44.3846242,-79.7062408,2,Donald Street (886),a
-44.3846271,-79.6908465,2,Lakeshore Drive (651),a
 44.3846349,-79.7124018,2,Edgehill Drive (778),a
 44.3846457,-79.7254076,2,Carr Drive (028),a
-44.3846458,-79.700053,2,Frances Street South (321),a
 44.3846577,-79.7061973,2,Donald Street (748),a
 44.3846577,-79.7061973,2,Donald Street (748),a
 44.38466,-79.7266879,2,Browning Trail (067),a
-44.3846731,-79.6909377,2,Lakeshore Drive (600),a
 44.3846762,-79.7224944,2,Moore Place (111),a
-44.3847094,-79.697536,2,Perry Street (671),a
 44.3847123,-79.7033359,2,Boys Street North (896),a
 44.3847123,-79.7033359,2,Boys Street North (897),a
 44.3847123,-79.7033359,2,Henry Street (482),a
@@ -14632,13 +14571,10 @@ lat,lon,sz,names,len_cat
 44.3847145,-79.7061236,2,Donald Street (887),a
 44.3847145,-79.7061236,2,Donald Street (887),a
 44.3847549,-79.7222918,2,Moore Place (109),a
-44.384772,-79.6974365,2,Perry Street (672),a
 44.3847788,-79.7120813,2,Cedar Pointe Drive (530),a
 44.3847788,-79.7120813,2,Edgehill Drive (747),a
 44.3847788,-79.7120813,2,Edgehill Drive (779),a
 44.3847788,-79.7120813,2,Leacock Drive (187),a
-44.3847823,-79.6909565,2,Lakeshore Drive (599),a
-44.3847823,-79.6908519,2,Lakeshore Drive (781),a
 44.384798,-79.7156999,2,Eden Drive (142),a
 44.3848051,-79.7060544,2,Donald Street (888),a
 44.3848051,-79.7060544,2,Donald Street (888),a
@@ -14646,19 +14582,12 @@ lat,lon,sz,names,len_cat
 44.3848365,-79.7207333,2,Hemingway Crescent (917),a
 44.3848488,-79.7218253,2,Fox Run (833),a
 44.3848488,-79.7218253,2,Moore Place (112),a
-44.3848514,-79.6973571,2,Eccles Street South (366),a
-44.3848514,-79.6973571,2,Perry Street (673),a
-44.3848524,-79.7002224,2,Dunlop Street West (757),a
-44.3848524,-79.7002224,2,Frances Street North (750),a
-44.3848524,-79.7002224,2,Frances Street South (322),a
 44.3848702,-79.7245491,2,Browning Trail (055),a
 44.3848856,-79.7060223,2,Donald Street (889),a
 44.3848856,-79.7060223,2,Donald Street (889),a
-44.3848878,-79.6909779,2,Lakeshore Drive (598),a
 44.3848887,-79.7173551,2,Broadfoot Road (206),a
 44.3848887,-79.7173551,2,Broadfoot Road (206),a
 44.384937,-79.7256901,2,Carr Drive (029),a
-44.3849599,-79.697332,2,Eccles Street South (367),a
 44.3849694,-79.705997,2,Donald Street (890),a
 44.3849694,-79.705997,2,Donald Street (890),a
 44.3849776,-79.7156584,2,Eden Drive (143),a
@@ -14667,7 +14596,6 @@ lat,lon,sz,names,len_cat
 44.3849941,-79.7171268,2,Broadfoot Road (207),a
 44.3849941,-79.7171268,2,Broadfoot Road (207),a
 44.3850141,-79.7269564,2,Browning Trail (070),a
-44.3850315,-79.6909216,2,Lakeshore Drive (780),a
 44.3850335,-79.705811,2,Donald Street (874),a
 44.3850335,-79.705811,2,Donald Street (874),a
 44.3850341,-79.705861,2,Donald Street (873),a
@@ -14681,7 +14609,6 @@ lat,lon,sz,names,len_cat
 44.3850385,-79.7059875,2,Wellington Street West (384),a
 44.385048,-79.6939289,2,Bradford Street (826),a
 44.385048,-79.6939289,2,Bradford Street (826),a
-44.3850492,-79.6973401,2,Eccles Street South (368),a
 44.3850559,-79.7218333,2,Fox Run (823),a
 44.3850656,-79.705649,2,Donald Street (875),a
 44.3850656,-79.705649,2,Donald Street (875),a
@@ -14689,21 +14616,15 @@ lat,lon,sz,names,len_cat
 44.3850959,-79.7055479,2,Donald Street (876),a
 44.3851,-79.711337,2,Edgehill Drive (748),a
 44.3851001,-79.725787,2,Carr Drive (027),a
-44.3851018,-79.6910662,2,Lakeshore Drive (597),a
-44.3851018,-79.6910662,2,Toronto Street (287),a
-44.3851101,-79.6909592,2,Lakeshore Drive (782),a
-44.3851101,-79.6909592,2,Toronto Street (293),a
 44.3851131,-79.7059855,2,Wellington Street West (385),a
 44.3851131,-79.7059855,2,Wellington Street West (385),a
 44.385127,-79.7169356,2,Broadfoot Road (208),a
 44.385127,-79.7169356,2,Broadfoot Road (208),a
 44.3851401,-79.7156925,2,Eden Drive (144),a
 44.3851501,-79.7112273,2,Edgehill Drive (426),a
-44.3851791,-79.6910074,2,Toronto Street (294),a
 44.3851821,-79.7059945,2,Wellington Street West (386),a
 44.3851821,-79.7059945,2,Wellington Street West (386),a
 44.3852215,-79.7269895,2,Browning Trail (072),a
-44.3852271,-79.7005508,2,Frances Street North (751),a
 44.3852441,-79.7217539,2,Fox Run (828),a
 44.3852476,-79.728657,2,Ferndale Drive North (605),a
 44.3852476,-79.728657,2,Ferndale Drive North (605),a
@@ -14711,7 +14632,6 @@ lat,lon,sz,names,len_cat
 44.3852538,-79.70602,2,Wellington Street West (387),a
 44.3852892,-79.7257954,2,Carr Drive (026),a
 44.3852994,-79.7162539,2,Leacock Drive (922),a
-44.3853113,-79.6973991,2,Eccles Street South (369),a
 44.3853229,-79.7060661,2,Wellington Street West (388),a
 44.3853229,-79.7060661,2,Wellington Street West (388),a
 44.3853395,-79.7158136,2,Eden Drive (145),a
@@ -14731,9 +14651,6 @@ lat,lon,sz,names,len_cat
 44.3854385,-79.7126101,2,Leacock Drive (189),a
 44.3854497,-79.7216239,2,Fox Run (836),a
 44.3854497,-79.7216239,2,Lewis Lane (064),a
-44.3854836,-79.6928109,2,Checkley Street (074),a
-44.3854836,-79.6928109,2,Checkley Street (074),a
-44.3854871,-79.697463,2,Eccles Street South (194),a
 44.3854992,-79.725251,2,Orwell Crescent (993),a
 44.385504,-79.7104523,2,Edgehill Drive (166),a
 44.3855046,-79.725728,2,Carr Drive (107),a
@@ -14744,7 +14661,6 @@ lat,lon,sz,names,len_cat
 44.3855314,-79.7232918,2,Shakespeare Crescent (732),a
 44.3855524,-79.7103463,2,Edgehill Drive (167),a
 44.3855597,-79.7250237,2,Orwell Crescent (996),a
-44.3855691,-79.6975125,2,Eccles Street South (193),a
 44.3855918,-79.7078487,2,Anne Street North (316),a
 44.3855918,-79.7078487,2,Anne Street North (320),a
 44.3855976,-79.7171513,2,Leacock Drive (925),a
@@ -14754,7 +14670,6 @@ lat,lon,sz,names,len_cat
 44.3856106,-79.7064295,2,Wellington Street West (392),a
 44.3856144,-79.7202519,2,Hemingway Crescent (919),a
 44.3856376,-79.7231263,2,Browning Trail (043),a
-44.3856634,-79.6975868,2,Eccles Street South (370),a
 44.3856664,-79.7100966,2,Edgehill Drive (427),a
 44.3856925,-79.72482,2,Orwell Crescent (992),a
 44.3857032,-79.7041803,2,Boys Street North (898),a
@@ -14770,10 +14685,6 @@ lat,lon,sz,names,len_cat
 44.3857472,-79.725685,2,Carr Drive (108),a
 44.3857667,-79.7129796,2,Leacock Drive (190),a
 44.3857673,-79.720236,2,Hemingway Crescent (920),a
-44.3857724,-79.7009918,2,Frances Street North (752),a
-44.3857724,-79.7009918,2,Frances Street North (753),a
-44.3857724,-79.7009918,2,Henry Street (484),a
-44.3857724,-79.7009918,2,Henry Street (488),a
 44.3857813,-79.709845,2,Edgehill Drive (428),a
 44.3858042,-79.7267635,2,Browning Trail (076),a
 44.3858121,-79.7234364,2,Shakespeare Crescent (733),a
@@ -14785,11 +14696,6 @@ lat,lon,sz,names,len_cat
 44.3858878,-79.7080835,2,Anne Street North (322),a
 44.3858925,-79.7225809,2,Browning Trail (075),a
 44.3858925,-79.7225809,2,Lewis Lane (066),a
-44.3859036,-79.6978255,2,Dunlop Street West (758),a
-44.3859036,-79.6978255,2,Eccles Street North (842),a
-44.3859036,-79.6978255,2,Eccles Street South (371),a
-44.3859048,-79.6931732,2,Checkley Street (075),a
-44.3859048,-79.6931732,2,Checkley Street (075),a
 44.3859328,-79.7068156,2,Wellington Street West (395),a
 44.3859543,-79.7256931,2,Carr Drive (109),a
 44.3859721,-79.7136279,2,Leacock Drive (192),a
@@ -14807,27 +14713,12 @@ lat,lon,sz,names,len_cat
 44.3860506,-79.7246364,2,Orwell Crescent (989),a
 44.3860605,-79.7082303,2,Anne Street North (318),a
 44.3860605,-79.7082303,2,Anne Street North (321),a
-44.386062,-79.6974567,2,Dunlop Street West (947),a
-44.386062,-79.6974567,2,Dunlop Street West (953),a
 44.386075,-79.7203799,2,Hemingway Crescent (921),a
-44.3860846,-79.6940083,2,Bradford Street (827),a
-44.3860846,-79.6940083,2,Bradford Street (827),a
-44.3860846,-79.6940083,2,Bradford Street (844),a
-44.3860846,-79.6940083,2,Bradford Street (844),a
-44.3860846,-79.6940083,2,Simcoe Street (054),a
-44.3860846,-79.6940083,2,Simcoe Street (054),a
 44.3860872,-79.7094698,2,Edgehill Drive (750),a
-44.3861071,-79.6932294,2,Checkley Street (076),a
-44.3861071,-79.6932294,2,Checkley Street (076),a
-44.3861071,-79.6932294,2,Simcoe Street (053),a
-44.3861071,-79.6932294,2,Simcoe Street (053),a
 44.3861282,-79.7002098,2,Henry Street (489),a
-44.3861302,-79.7032163,2,Donald Street (881),a
 44.3861399,-79.7069309,2,Wellington Street West (867),a
 44.3861566,-79.7164235,2,Thackeray Crescent (315),a
 44.3861566,-79.7164235,2,Thackeray Crescent (315),a
-44.3861657,-79.6926617,2,Simcoe Street (027),a
-44.3861657,-79.6926617,2,Simcoe Street (027),a
 44.386177,-79.7291546,2,Ferndale Drive North (606),a
 44.386177,-79.7291546,2,Ferndale Drive North (606),a
 44.386189,-79.7257508,2,Carr Drive (110),a
@@ -14837,20 +14728,16 @@ lat,lon,sz,names,len_cat
 44.3862912,-79.7163829,2,Thackeray Crescent (316),a
 44.3862912,-79.7163829,2,Thackeray Crescent (316),a
 44.3863043,-79.706977,2,Wellington Street West (857),a
-44.3863164,-79.6968644,2,Dunlop Street West (948),a
 44.3863385,-79.7094015,2,Edgehill Drive (751),a
 44.386341,-79.7292444,2,Ferndale Drive North (682),a
 44.386341,-79.7292444,2,Ferndale Drive North (682),a
 44.3863477,-79.7206125,2,Hemingway Crescent (922),a
-44.3863596,-79.7026984,2,Donald Street (264),a
 44.386367,-79.7143223,2,Gaskin Court (772),a
 44.3863882,-79.7069816,2,Wellington Street West (866),a
 44.3864204,-79.7247037,2,Orwell Crescent (988),a
 44.3864213,-79.7207616,2,Hemingway Crescent (923),a
 44.3864664,-79.7208579,2,Fox Run (952),a
 44.3864664,-79.7208579,2,Hemingway Crescent (924),a
-44.386476,-79.6922084,2,Toronto Street (956),a
-44.386476,-79.6922084,2,Toronto Street (956),a
 44.3864819,-79.7069723,2,Wellington Street West (871),a
 44.3864859,-79.7144829,2,Gaskin Court (773),a
 44.3865247,-79.6904869,2,Mary Street (821),a
@@ -14863,8 +14750,6 @@ lat,lon,sz,names,len_cat
 44.3866034,-79.7233564,2,Shakespeare Crescent (951),a
 44.3866362,-79.716639,2,Thackeray Crescent (317),a
 44.3866362,-79.716639,2,Thackeray Crescent (317),a
-44.3866546,-79.6940519,2,Bradford Street (412),a
-44.3866546,-79.6940519,2,Bradford Street (412),a
 44.3866645,-79.7151569,2,Gaskin Court (775),a
 44.3866715,-79.6989716,2,Henry Street (490),a
 44.3866791,-79.7069217,2,Wellington Street West (855),a
@@ -14873,12 +14758,8 @@ lat,lon,sz,names,len_cat
 44.3867394,-79.7154064,2,Gaskin Court (776),a
 44.3867408,-79.713134,2,Layton Crescent (802),a
 44.3867434,-79.7205788,2,Fox Run (953),a
-44.3867478,-79.7018221,2,Donald Street (870),a
-44.3867478,-79.7018221,2,Donald Street (882),a
-44.3867478,-79.7018221,2,Frances Street North (754),a
 44.3867618,-79.7270566,2,Browning Trail (078),a
 44.3867638,-79.7068881,2,Wellington Street West (861),a
-44.3867703,-79.7017704,2,Donald Street (126),a
 44.3867792,-79.7093542,2,Edgehill Drive (753),a
 44.3867838,-79.7129573,2,Layton Crescent (803),a
 44.3867981,-79.7190198,2,Gibbon Drive (857),a
@@ -14891,12 +14772,6 @@ lat,lon,sz,names,len_cat
 44.3868272,-79.7295411,2,Ferndale Drive North (508),a
 44.3868299,-79.7093264,2,Edgehill Drive (754),a
 44.3868606,-79.7156483,2,Gaskin Court (777),a
-44.3868676,-79.6940682,2,Bradford Street (845),a
-44.3868676,-79.6940682,2,Bradford Street (845),a
-44.3868676,-79.6940682,2,High Street (945),a
-44.3868676,-79.6940682,2,High Street (945),a
-44.3868824,-79.6955469,2,Dunlop Street West (749),a
-44.3868824,-79.6955469,2,Parkside Drive (851),a
 44.3868891,-79.7089448,2,Anne Street North (319),a
 44.3869509,-79.7270651,2,Browning Trail (079),a
 44.3869539,-79.7216916,2,Browning Trail (080),a
@@ -14907,9 +14782,6 @@ lat,lon,sz,names,len_cat
 44.3870395,-79.7229075,2,Shakespeare Crescent (949),a
 44.3870441,-79.7184882,2,Gibbon Drive (871),a
 44.3870441,-79.7184882,2,Leacock Drive (924),a
-44.3870461,-79.7011376,2,Donald Street (871),a
-44.3870461,-79.7011376,2,Donald Street (878),a
-44.3870461,-79.7011376,2,Simcoe Terrace (572),a
 44.3870719,-79.7201699,2,Fox Run (954),a
 44.387137,-79.709158,2,Anne Street North (885),a
 44.387137,-79.709158,2,Edgehill Drive (769),a
@@ -14929,18 +14801,8 @@ lat,lon,sz,names,len_cat
 44.3873447,-79.718808,2,Leacock Drive (917),a
 44.3873554,-79.6929797,2,Toronto Street (943),a
 44.3873554,-79.6929797,2,Toronto Street (943),a
-44.3873565,-79.6945005,2,Dunlop Street West (750),a
-44.3873565,-79.6945005,2,Dunlop Street West (778),a
-44.3873565,-79.6945005,2,High Street (946),a
-44.3873565,-79.6945005,2,High Street (947),a
-44.3873725,-79.6970073,2,Mulholland Street (943),a
 44.3873823,-79.7269929,2,Browning Trail (051),a
 44.3873823,-79.7269929,2,Orwell Crescent (899),a
-44.3873924,-79.6991337,2,Eccles Street North (833),a
-44.3873924,-79.6991337,2,Eccles Street North (836),a
-44.3873924,-79.6991337,2,Park Street (254),a
-44.387419,-79.7014683,2,Simcoe Terrace (573),a
-44.3874676,-79.6901488,2,Maple Avenue (377),a
 44.3874728,-79.7300719,2,Ferndale Drive North (507),a
 44.3874728,-79.7300719,2,Ferndale Drive North (507),a
 44.3874813,-79.7253838,2,Orwell Crescent (997),a
@@ -14970,18 +14832,12 @@ lat,lon,sz,names,len_cat
 44.3876225,-79.714684,2,Gibbon Drive (863),a
 44.3876236,-79.7171824,2,Gibbon Drive (860),a
 44.3876236,-79.7171824,2,Gibbon Drive (860),a
-44.3876293,-79.701918,2,Simcoe Terrace (569),a
-44.3876342,-79.7018408,2,Simcoe Terrace (570),a
 44.3876372,-79.6938874,2,Dunlop Street West (379),a
 44.3876372,-79.6938874,2,Dunlop Street West (379),a
 44.3876372,-79.6938874,2,Dunlop Street West (383),a
 44.3876372,-79.6938874,2,Dunlop Street West (383),a
-44.38765,-79.7019905,2,Simcoe Terrace (568),a
 44.3876537,-79.719065,2,Fox Run (956),a
 44.3876537,-79.719065,2,Leacock Drive (175),a
-44.3876796,-79.7016909,2,Simcoe Terrace (556),a
-44.3876796,-79.7016909,2,Simcoe Terrace (571),a
-44.3876796,-79.7016909,2,Simcoe Terrace (574),a
 44.3877107,-79.7063755,2,Wellington Street West (850),a
 44.3877226,-79.6948003,2,High Street (948),a
 44.3877235,-79.7108651,2,Layton Crescent (805),a
@@ -14989,7 +14845,6 @@ lat,lon,sz,names,len_cat
 44.387738,-79.6918128,2,Mary Street (833),a
 44.3877472,-79.693318,2,Toronto Street (137),a
 44.3877472,-79.693318,2,Toronto Street (137),a
-44.3877511,-79.7015637,2,Simcoe Terrace (557),a
 44.3877599,-79.7148944,2,Gibbon Drive (862),a
 44.3877599,-79.7148944,2,Templeton Crescent (789),a
 44.3877665,-79.6933347,2,Toronto Street (138),a
@@ -14999,12 +14854,6 @@ lat,lon,sz,names,len_cat
 44.3877852,-79.7304122,2,Ferndale Drive North (679),a
 44.3877901,-79.6935419,2,Dunlop Street West (536),a
 44.3877901,-79.6935419,2,Dunlop Street West (536),a
-44.3877924,-79.6994764,2,Donald Street (879),a
-44.3877924,-79.6994764,2,Eccles Street North (834),a
-44.3877924,-79.6994764,2,Eccles Street North (837),a
-44.3877959,-79.6981957,2,Florence Street (602),a
-44.3877959,-79.6981957,2,Park Street (244),a
-44.3877959,-79.6981957,2,Park Street (255),a
 44.3877994,-79.6935209,2,Dunlop Street West (535),a
 44.3877994,-79.6935209,2,Dunlop Street West (535),a
 44.3878098,-79.7063187,2,Wellington Street West (870),a
@@ -15012,7 +14861,6 @@ lat,lon,sz,names,len_cat
 44.3878233,-79.7077493,2,Edgehill Drive (771),a
 44.3878239,-79.7205929,2,Browning Trail (068),a
 44.3878311,-79.7108251,2,Layton Crescent (806),a
-44.3878484,-79.7014184,2,Simcoe Terrace (558),a
 44.38785,-79.6934044,2,Dunlop Street West (955),a
 44.38785,-79.6934044,2,Dunlop Street West (955),a
 44.38785,-79.6934044,2,Dunlop Street West (956),a
@@ -15054,9 +14902,6 @@ lat,lon,sz,names,len_cat
 44.3880433,-79.7160809,2,Gibbon Drive (868),a
 44.3880504,-79.715905,2,Gibbon Drive (869),a
 44.3880504,-79.715905,2,Gibbon Drive (869),a
-44.388059,-79.6975872,2,Mulholland Street (944),a
-44.388059,-79.6975872,2,Park Street (245),a
-44.388059,-79.6975872,2,Park Street (246),a
 44.3880621,-79.692925,2,Dunlop Street West (957),a
 44.3880621,-79.692925,2,Dunlop Street West (957),a
 44.388077,-79.7247054,2,Shakespeare Crescent (938),a
@@ -15080,27 +14925,18 @@ lat,lon,sz,names,len_cat
 44.3882331,-79.6922462,2,Mary Street (412),a
 44.3882331,-79.6922462,2,Mary Street (412),a
 44.3882451,-79.7236346,2,Shakespeare Crescent (945),a
-44.3882461,-79.7011231,2,Simcoe Terrace (559),a
 44.3882593,-79.6922692,2,Mary Street (969),a
 44.3882593,-79.6922692,2,Mary Street (969),a
-44.3882614,-79.6893121,2,Bayfield Street (816),a
-44.3882614,-79.6893121,2,Chase McEachern Way (268),a
 44.3882721,-79.7196164,2,Browning Trail (071),a
 44.3882721,-79.7196164,2,Leacock Drive (176),a
 44.3882724,-79.7156365,2,Shirley Avenue (800),a
-44.3882818,-79.7011163,2,Simcoe Terrace (560),a
 44.3882848,-79.7247762,2,Shakespeare Crescent (952),a
-44.3882981,-79.7025251,2,Simcoe Terrace (567),a
-44.3883008,-79.6893471,2,Bayfield Street (815),a
 44.3883026,-79.7223402,2,Fitzgerald Lane (558),a
 44.3883026,-79.7223402,2,Letitia Street (974),a
 44.388313,-79.6908325,2,Maple Avenue (929),a
-44.3883135,-79.6892183,2,Chase McEachern Way (983),a
-44.3883142,-79.7011299,2,Simcoe Terrace (561),a
 44.3883321,-79.6923332,2,Dunlop Street West (753),a
 44.3883321,-79.6923332,2,Mary Street (815),a
 44.3883321,-79.6923332,2,Mary Street (831),a
-44.3883458,-79.7025218,2,Simcoe Terrace (566),a
 44.388354,-79.696933,2,Park Street (129),a
 44.3883562,-79.7142787,2,Templeton Crescent (791),a
 44.3883591,-79.7073609,2,Edgehill Drive (773),a
@@ -15110,13 +14946,10 @@ lat,lon,sz,names,len_cat
 44.3883646,-79.6967991,2,Parkside Drive (844),a
 44.3883646,-79.6967991,2,Parkside Drive (852),a
 44.3883746,-79.6966351,2,Park Street (035),a
-44.3883824,-79.7024971,2,Simcoe Terrace (565),a
 44.3883904,-79.6923832,2,Mary Street (069),a
 44.3884011,-79.7271127,2,Browning Trail (085),a
 44.3884082,-79.7213209,2,Shaw Crescent (711),a
-44.3884149,-79.6890356,2,Chase McEachern Way (188),a
 44.3884323,-79.6968487,2,Parkside Drive (059),a
-44.3884415,-79.6987589,2,Florence Street (603),a
 44.3884457,-79.7174406,2,Fox Run (816),a
 44.3884457,-79.7174406,2,Fox Run (816),a
 44.3884483,-79.7072836,2,Edgehill Drive (774),a
@@ -15126,8 +14959,6 @@ lat,lon,sz,names,len_cat
 44.3884757,-79.6909853,2,Maple Avenue (928),a
 44.3884827,-79.7247594,2,Shakespeare Crescent (944),a
 44.3885157,-79.7212684,2,Shaw Crescent (712),a
-44.3885211,-79.6888444,2,Chase McEachern Way (189),a
-44.3885436,-79.6888039,2,Chase McEachern Way (067),a
 44.3885488,-79.7113994,2,Gibbon Drive (361),a
 44.3885488,-79.7113994,2,Layton Crescent (807),a
 44.3885567,-79.7185054,2,Keats Drive (378),a
@@ -15143,7 +14974,6 @@ lat,lon,sz,names,len_cat
 44.3886288,-79.700186,2,Eccles Street North (835),a
 44.3886288,-79.700186,2,Eccles Street North (840),a
 44.3886288,-79.700186,2,Sophia Street West (692),a
-44.3886295,-79.6886492,2,Chase McEachern Way (190),a
 44.3886308,-79.7227097,2,Letitia Street (968),a
 44.3886355,-79.7239274,2,Shakespeare Crescent (943),a
 44.3886515,-79.7213408,2,Shaw Crescent (713),a
@@ -15158,20 +14988,15 @@ lat,lon,sz,names,len_cat
 44.388719,-79.7169199,2,Fox Run (815),a
 44.3887265,-79.6970863,2,Parkside Drive (060),a
 44.3887267,-79.6958388,2,Park Street (037),a
-44.3887288,-79.6884703,2,Chase McEachern Way (191),a
 44.3887356,-79.7245942,2,Shakespeare Crescent (953),a
 44.3887464,-79.6971024,2,Parkside Drive (845),a
 44.3887512,-79.6912135,2,Maple Avenue (008),a
 44.3887629,-79.7200326,2,Leacock Drive (914),a
 44.3887631,-79.6913296,2,Dunlop Street West (954),a
-44.3887768,-79.7015206,2,Simcoe Terrace (562),a
 44.3887772,-79.724527,2,Shakespeare Crescent (939),a
 44.3887794,-79.7317455,2,Ferndale Drive North (677),a
 44.3887933,-79.7187262,2,Keats Drive (379),a
 44.3887933,-79.7187262,2,Keats Drive (379),a
-44.3887935,-79.687219,2,Lakeshore Mews (098),a
-44.3887941,-79.6869748,2,Lakeshore Mews (097),a
-44.3887946,-79.7016159,2,Simcoe Terrace (564),a
 44.3887957,-79.7157381,2,Fox Run (928),a
 44.3887958,-79.695713,2,High Street (951),a
 44.3887958,-79.695713,2,Park Street (243),a
@@ -15179,10 +15004,7 @@ lat,lon,sz,names,len_cat
 44.3887967,-79.6912512,2,Dunlop Street West (754),a
 44.3887967,-79.6912512,2,Maple Avenue (927),a
 44.3887967,-79.6912512,2,Maple Avenue (944),a
-44.3887975,-79.7015634,2,Simcoe Terrace (563),a
 44.3888218,-79.7228813,2,Letitia Street (966),a
-44.3888257,-79.6882959,2,Chase McEachern Way (269),a
-44.3888279,-79.6868757,2,Lakeshore Mews (339),a
 44.3888385,-79.699629,2,Sophia Street West (693),a
 44.3888434,-79.6911455,2,Dunlop Street West (953),a
 44.3888541,-79.7241612,2,Shakespeare Crescent (942),a
@@ -15192,33 +15014,19 @@ lat,lon,sz,names,len_cat
 44.3888665,-79.7107174,2,Gibbon Drive (870),a
 44.3888675,-79.7165149,2,Fox Run (818),a
 44.3888688,-79.695614,2,Park Street (171),a
-44.3888726,-79.6867348,2,Lakeshore Mews (096),a
-44.3888744,-79.6865618,2,Lakeshore Mews (338),a
 44.3888759,-79.6913276,2,Maple Avenue (010),a
-44.3888774,-79.6862714,2,Lakeshore Mews (337),a
-44.3888804,-79.6859844,2,Lakeshore Mews (336),a
 44.3888834,-79.6913349,2,Maple Avenue (943),a
-44.388885,-79.6855424,2,Lakeshore Mews (095),a
 44.3888917,-79.7162633,2,Fox Run (930),a
 44.3888917,-79.7162633,2,Pinsent Court (618),a
-44.3889259,-79.685487,2,Simcoe Street (067),a
 44.3889322,-79.6928479,2,Mary Street (072),a
 44.3889511,-79.689896,2,Bayfield Street (814),a
 44.3889632,-79.727486,2,Browning Trail (041),a
-44.3889657,-79.6854807,2,Simcoe Street (066),a
 44.3889755,-79.7229408,2,Letitia Street (967),a
 44.3889868,-79.7282867,2,Hailey Hollow (233),a
-44.3890012,-79.6854593,2,Simcoe Street (832),a
 44.3890216,-79.7278739,2,Hailey Hollow (234),a
 44.3890219,-79.6952817,2,Park Street (172),a
 44.3890219,-79.6952817,2,Park Street (172),a
 44.3890223,-79.7150677,2,Shirley Avenue (805),a
-44.389023,-79.6992231,2,Florence Street (604),a
-44.389023,-79.6992231,2,Sophia Street West (694),a
-44.389023,-79.6992231,2,Sophia Street West (697),a
-44.3890309,-79.6854263,2,Simcoe Street (052),a
-44.3890309,-79.6854263,2,Simcoe Street (065),a
-44.3890309,-79.6854263,2,Simcoe Street (090),a
 44.389041,-79.712732,2,Templeton Crescent (793),a
 44.3890715,-79.7275087,2,Browning Trail (035),a
 44.3890715,-79.7275087,2,Hailey Hollow (235),a
@@ -15228,9 +15036,6 @@ lat,lon,sz,names,len_cat
 44.3891191,-79.6905208,2,Dunlop Street West (382),a
 44.38913,-79.7126422,2,Templeton Crescent (794),a
 44.3891363,-79.7204137,2,Leacock Drive (913),a
-44.3891638,-79.6989438,2,Sophia Street West (690),a
-44.3891638,-79.6989438,2,Sophia Street West (698),a
-44.3891638,-79.6989438,2,Thomson Street (839),a
 44.3891643,-79.704272,2,Wellington Street West (862),a
 44.3891717,-79.6900659,2,Bayfield Street (813),a
 44.389174,-79.7321773,2,Ferndale Drive North (676),a
@@ -15239,7 +15044,6 @@ lat,lon,sz,names,len_cat
 44.3892172,-79.7006913,2,Eccles Street North (783),a
 44.38922,-79.7041552,2,Wellington Street West (868),a
 44.3892354,-79.6902574,2,Dunlop Street West (381),a
-44.3892398,-79.6854262,2,Simcoe Street (091),a
 44.3892547,-79.691665,2,Maple Avenue (942),a
 44.3892563,-79.6899071,2,Dunlop Street East (540),a
 44.3892569,-79.7127147,2,Templeton Crescent (795),a
@@ -15268,50 +15072,27 @@ lat,lon,sz,names,len_cat
 44.3893066,-79.6867545,2,Dunlop Street East (445),a
 44.3893249,-79.6900587,2,Clapperton Street (247),a
 44.3893296,-79.7232093,2,Letitia Street (980),a
-44.389331,-79.6855505,2,Dunlop Street East (083),a
-44.3893332,-79.6854247,2,Dunlop Street East (082),a
-44.3893332,-79.6854247,2,Mulcaster Street (015),a
-44.3893332,-79.6854247,2,Simcoe Street (092),a
-44.3893358,-79.6852849,2,Dunlop Street East (836),a
 44.3893388,-79.6902188,2,Bayfield Street (539),a
-44.3893403,-79.6849804,2,Dunlop Street East (835),a
-44.3893403,-79.6849804,2,Dunlop Street East (837),a
 44.389344,-79.7148598,2,Richler Crescent (959),a
-44.3893496,-79.6843973,2,Dunlop Street East (844),a
 44.3893599,-79.6900239,2,Clapperton Street (511),a
 44.3893642,-79.7038121,2,Wellington Street West (856),a
 44.3893653,-79.6877909,2,Owen Street (417),a
-44.3893768,-79.6830862,2,Dunlop Street East (841),a
-44.3893768,-79.6830862,2,Dunlop Street East (841),a
-44.3893768,-79.6830862,2,Poyntz Street (732),a
-44.3893768,-79.6830862,2,Poyntz Street (732),a
 44.3893897,-79.7416013,2,Benson Drive (215),a
 44.3893914,-79.6877929,2,Owen Street (535),a
-44.3893915,-79.6814543,2,Dunlop Street East (843),a
-44.389401,-79.6808239,2,Dunlop Street East (079),a
-44.389401,-79.6808239,2,Sampson Street (903),a
-44.3894037,-79.6854278,2,Mulcaster Street (432),a
-44.3894086,-79.680628,2,Dunlop Street East (078),a
 44.3894094,-79.7037057,2,Wellington Street West (875),a
 44.3894125,-79.6902769,2,Bayfield Street (820),a
 44.3894125,-79.6902769,2,Bayfield Street (896),a
 44.3894127,-79.6917973,2,Maple Avenue (411),a
-44.3894144,-79.6805336,2,Dunlop Street East (519),a
 44.3894177,-79.7142053,2,Shirley Avenue (950),a
-44.3894287,-79.6804416,2,Dunlop Street East (077),a
 44.3894415,-79.6900376,2,Clapperton Street (250),a
 44.3894415,-79.6900376,2,Clapperton Street (251),a
 44.389446,-79.723144,2,Letitia Street (971),a
-44.3894495,-79.6803577,2,Dunlop Street East (517),a
 44.3894517,-79.7220515,2,Shaw Crescent (714),a
 44.389461,-79.7164517,2,Pinsent Court (620),a
 44.3894647,-79.7416586,2,Benson Drive (880),a
 44.3894768,-79.7275251,2,Browning Trail (030),a
-44.3894853,-79.6802354,2,Dunlop Street East (518),a
 44.389515,-79.7180576,2,Kenny Crescent (904),a
 44.389515,-79.7180576,2,Kenny Crescent (904),a
-44.3895155,-79.6801434,2,Berczy Street (726),a
-44.3895155,-79.6801434,2,Dunlop Street East (076),a
 44.3895315,-79.732469,2,Ferndale Drive North (675),a
 44.3895381,-79.7193126,2,Keats Drive (380),a
 44.3895381,-79.7193126,2,Keats Drive (380),a
@@ -15321,18 +15102,10 @@ lat,lon,sz,names,len_cat
 44.3895578,-79.7228774,2,Letitia Street (986),a
 44.3895638,-79.6919184,2,Maple Avenue (410),a
 44.3895764,-79.7404364,2,Benson Drive (878),a
-44.3895829,-79.6796312,2,Kempenfelt Drive (593),a
-44.3895839,-79.6795981,2,Kempenfelt Drive (689),a
 44.3895843,-79.7138124,2,Callaghan Drive (108),a
 44.3895843,-79.7138124,2,Shirley Avenue (951),a
-44.3895874,-79.6795637,2,Kempenfelt Drive (688),a
-44.3895892,-79.6796712,2,Kempenfelt Drive (691),a
-44.3895934,-79.6796978,2,Kempenfelt Drive (592),a
 44.3896057,-79.7221361,2,Shaw Crescent (715),a
 44.3896213,-79.7227258,2,Letitia Street (976),a
-44.3896297,-79.6798606,2,Dunlop Street East (075),a
-44.3896297,-79.6798606,2,Dunlop Street East (089),a
-44.3896297,-79.6798606,2,Kempenfelt Drive (591),a
 44.389633,-79.679326,2,Kempenfelt Drive (690),a
 44.3896377,-79.6978661,2,Parkside Drive (846),a
 44.3896377,-79.6978661,2,Parkside Drive (847),a
@@ -15341,38 +15114,26 @@ lat,lon,sz,names,len_cat
 44.3896391,-79.7403018,2,Benson Drive (212),a
 44.3896391,-79.7403018,2,Cloughley Drive (077),a
 44.3896495,-79.6877998,2,Owen Street (759),a
-44.389676,-79.6797652,2,Dunlop Street East (521),a
 44.389679,-79.7166227,2,Pinsent Court (621),a
-44.3896884,-79.6793736,2,Kempenfelt Drive (614),a
-44.389689,-79.679398,2,Kempenfelt Drive (701),a
 44.3896901,-79.7224356,2,Letitia Street (977),a
-44.3896921,-79.6794212,2,Kempenfelt Drive (699),a
 44.3896954,-79.679111,2,Kempenfelt Drive (594),a
 44.3896954,-79.679111,2,Kempenfelt Drive (615),a
 44.3896954,-79.679111,2,Kempenfelt Drive (616),a
 44.3896961,-79.7221579,2,Letitia Street (829),a
 44.3896961,-79.7221579,2,Shaw Crescent (716),a
-44.3896971,-79.6794464,2,Kempenfelt Drive (700),a
-44.3897054,-79.6794679,2,Kempenfelt Drive (613),a
 44.3897089,-79.7401556,2,Benson Drive (209),a
 44.3897176,-79.7029804,2,Wellington Street West (876),a
 44.3897186,-79.7403732,2,Cloughley Drive (866),a
-44.3897287,-79.6795025,2,Kempenfelt Drive (702),a
-44.3897291,-79.679671,2,Dunlop Street East (520),a
 44.389734,-79.7403871,2,Cloughley Drive (867),a
 44.3897376,-79.6788224,2,Kempenfelt Drive (704),a
 44.3897381,-79.7218946,2,Letitia Street (830),a
 44.3897437,-79.7029189,2,Wellington Street West (877),a
 44.3897573,-79.6900599,2,Clapperton Street (332),a
 44.3897639,-79.727431,2,Browning Trail (033),a
-44.3897825,-79.679582,2,Dunlop Street East (088),a
-44.3897825,-79.679582,2,Dunlop Street East (093),a
-44.3897825,-79.679582,2,Kempenfelt Drive (612),a
 44.3897974,-79.7183528,2,Kenny Crescent (905),a
 44.3897974,-79.7183528,2,Kenny Crescent (905),a
 44.3898166,-79.6936064,2,Mary Street (147),a
 44.3898212,-79.6783474,2,Kempenfelt Drive (617),a
-44.3898297,-79.6804004,2,Berczy Street (849),a
 44.3898433,-79.701229,2,Eccles Street North (872),a
 44.3898459,-79.6878114,2,Owen Street (761),a
 44.3898472,-79.7404889,2,Cloughley Drive (078),a
@@ -15382,12 +15143,9 @@ lat,lon,sz,names,len_cat
 44.3898566,-79.7132038,2,Templeton Crescent (796),a
 44.3898712,-79.7273659,2,Browning Trail (065),a
 44.3898712,-79.7273659,2,Carman Court (748),a
-44.3898749,-79.6794406,2,Dunlop Street East (526),a
 44.3898896,-79.6854515,2,Mulcaster Street (016),a
-44.3899085,-79.6804649,2,Berczy Street (550),a
 44.3899309,-79.6777528,2,Kempenfelt Drive (618),a
 44.3899336,-79.7167234,2,Pinsent Court (622),a
-44.3899453,-79.6793211,2,Dunlop Street East (525),a
 44.3899563,-79.7084808,2,Vine Crescent (478),a
 44.389972,-79.7210735,2,Leacock Drive (911),a
 44.389972,-79.7210735,2,Letitia Street (831),a
@@ -15431,8 +15189,6 @@ lat,lon,sz,names,len_cat
 44.3903192,-79.7199234,2,Letitia Street (954),a
 44.3903286,-79.7121248,2,Shirley Avenue (660),a
 44.3903386,-79.6854736,2,Mulcaster Street (433),a
-44.3903443,-79.6784601,2,Albert Street (611),a
-44.3903443,-79.6784601,2,Dunlop Street East (092),a
 44.3903545,-79.7214669,2,Leacock Drive (907),a
 44.3903575,-79.6895645,2,Collier Street (467),a
 44.3903582,-79.6899495,2,Collier Street (180),a
@@ -15450,8 +15206,6 @@ lat,lon,sz,names,len_cat
 44.3903868,-79.687711,2,Collier Street (542),a
 44.390387,-79.7119858,2,Anne Street North (882),a
 44.390387,-79.7119858,2,Shirley Avenue (961),a
-44.3903895,-79.6808626,2,Berczy Street (727),a
-44.3903895,-79.6808626,2,Sampson Street (732),a
 44.3903945,-79.6878288,2,Collier Street (634),a
 44.3903945,-79.6878288,2,Owen Street (763),a
 44.3903951,-79.6901612,2,Collier Street (179),a
@@ -15462,9 +15216,7 @@ lat,lon,sz,names,len_cat
 44.3903975,-79.690069,2,Collier Street (626),a
 44.3903975,-79.690069,2,Collier Street (629),a
 44.3904069,-79.6926489,2,Maple Avenue (941),a
-44.3904136,-79.6785226,2,Albert Street (728),a
 44.3904145,-79.6856086,2,Collier Street (635),a
-44.3904262,-79.6785345,2,Albert Street (725),a
 44.3904298,-79.6899546,2,Collier Street (178),a
 44.3904402,-79.6895699,2,Collier Street (227),a
 44.3904474,-79.6885246,2,Collier Street (621),a
@@ -15508,13 +15260,8 @@ lat,lon,sz,names,len_cat
 44.3905346,-79.6878448,2,Owen Street (505),a
 44.3905404,-79.7405683,2,Hodgson Drive (843),a
 44.3905473,-79.7405061,2,Hodgson Drive (433),a
-44.3905474,-79.681044,2,Berczy Street (722),a
-44.3905474,-79.681044,2,Berczy Street (736),a
-44.3905474,-79.681044,2,Collier Street (604),a
-44.3905474,-79.681044,2,Collier Street (613),a
 44.3905522,-79.7270749,2,Browning Trail (042),a
 44.3905571,-79.6854837,2,Mulcaster Street (422),a
-44.3905808,-79.680856,2,Collier Street (614),a
 44.3905823,-79.7403453,2,Hodgson Drive (375),a
 44.3905838,-79.6986438,2,Parkside Drive (076),a
 44.3905871,-79.7101243,2,Vine Crescent (486),a
@@ -15524,7 +15271,6 @@ lat,lon,sz,names,len_cat
 44.3906411,-79.7189245,2,Letitia Street (982),a
 44.3906608,-79.7401176,2,Hodgson Drive (376),a
 44.3906744,-79.6772628,2,Duckworth Street (183),a
-44.3906778,-79.6805408,2,Collier Street (615),a
 44.3907039,-79.6914149,2,Bayfield Street (843),a
 44.3907039,-79.6914149,2,Bayfield Street (850),a
 44.3907039,-79.6914149,2,Ross Street (228),a
@@ -15567,14 +15313,11 @@ lat,lon,sz,names,len_cat
 44.3907697,-79.6958832,2,Toronto Street (276),a
 44.3907714,-79.6960125,2,Ross Street (277),a
 44.3907796,-79.7398527,2,Hodgson Drive (434),a
-44.390782,-79.6802732,2,Collier Street (616),a
 44.3907843,-79.6773256,2,Duckworth Street (581),a
-44.3907874,-79.7003424,2,Thomson Street (840),a
 44.3907941,-79.6969091,2,Ross Street (213),a
 44.3907996,-79.6971247,2,Ross Street (238),a
 44.3908041,-79.7330953,2,Ferndale Drive North (672),a
 44.3908043,-79.6972779,2,Ross Street (214),a
-44.390809,-79.7005878,2,Wellington Street West (872),a
 44.3908093,-79.6974365,2,Ross Street (239),a
 44.3908105,-79.6986575,2,Parkside Drive (850),a
 44.3908105,-79.6986575,2,Ross Street (274),a
@@ -15594,10 +15337,7 @@ lat,lon,sz,names,len_cat
 44.3908575,-79.7181538,2,Letitia Street (962),a
 44.390872,-79.6990479,2,Ross Street (267),a
 44.390872,-79.6990479,2,Ross Street (276),a
-44.390878,-79.7004555,2,Thomson Street (841),a
-44.390878,-79.7004555,2,Wellington Street West (854),a
 44.3908782,-79.7103941,2,Vine Crescent (488),a
-44.390879,-79.680061,2,Collier Street (638),a
 44.3908946,-79.699144,2,Ross Street (232),a
 44.3909086,-79.7178891,2,Letitia Street (964),a
 44.3909086,-79.7178891,2,Letitia Street (964),a
@@ -15607,7 +15347,6 @@ lat,lon,sz,names,len_cat
 44.3909438,-79.6772886,2,Dunlop Street East (522),a
 44.3909569,-79.6878682,2,Owen Street (766),a
 44.3910023,-79.7206241,2,Kipling Place (093),a
-44.3910046,-79.7002656,2,Wellington Street West (852),a
 44.3910108,-79.6946101,2,Mary Street (383),a
 44.3910108,-79.6946101,2,Mary Street (383),a
 44.3910205,-79.6995355,2,Ross Street (266),a
@@ -15631,7 +15370,6 @@ lat,lon,sz,names,len_cat
 44.3910777,-79.6946702,2,Sophia Street West (689),a
 44.3910777,-79.6946702,2,Sophia Street West (695),a
 44.3910777,-79.6946702,2,Sophia Street West (695),a
-44.3910916,-79.6997565,2,Ross Street (271),a
 44.3910938,-79.7207602,2,Kipling Place (087),a
 44.391102,-79.7166795,2,Letitia Street (961),a
 44.3911202,-79.7417777,2,Benson Drive (219),a
@@ -15640,21 +15378,12 @@ lat,lon,sz,names,len_cat
 44.391121,-79.6947071,2,Mary Street (506),a
 44.3911214,-79.7272634,2,Browning Trail (059),a
 44.3911214,-79.7272634,2,Lampman Lane (330),a
-44.3911408,-79.6791906,2,Albert Street (726),a
 44.3911491,-79.7271694,2,Lampman Lane (331),a
-44.3911491,-79.6794693,2,Collier Street (617),a
 44.3911631,-79.7369588,2,Benson Drive (210),a
-44.3911644,-79.6792104,2,Albert Street (727),a
 44.3911734,-79.7369357,2,Benson Drive (596),a
 44.3911929,-79.7159152,2,Letitia Street (984),a
-44.39121,-79.7000445,2,Ross Street (272),a
-44.39121,-79.7000445,2,Sunnidale Road (275),a
-44.39121,-79.7000445,2,Wellington Street West (430),a
-44.3912275,-79.6792632,2,Albert Street (724),a
-44.3912275,-79.6792632,2,Collier Street (618),a
 44.3912288,-79.6918475,2,Bayfield Street (456),a
 44.391244,-79.7197023,2,Kipling Place (092),a
-44.3912562,-79.6791441,2,Collier Street (608),a
 44.391257,-79.6770241,2,Dunlop Street East (524),a
 44.391257,-79.6770241,2,Dunlop Street East (529),a
 44.3912794,-79.6770018,2,Dunlop Street East (530),a
@@ -15667,7 +15396,6 @@ lat,lon,sz,names,len_cat
 44.3913086,-79.6788397,2,Collier Street (635),a
 44.3913188,-79.715143,2,Callaghan Drive (377),a
 44.3913188,-79.715143,2,Letitia Street (960),a
-44.3913202,-79.6999427,2,Wellington Street West (431),a
 44.3913272,-79.7223121,2,Leacock Drive (908),a
 44.3913321,-79.6855106,2,Mulcaster Street (999),a
 44.3913393,-79.6769422,2,Collier Street (593),a
@@ -15686,10 +15414,6 @@ lat,lon,sz,names,len_cat
 44.3913785,-79.7408486,2,Cloughley Drive (081),a
 44.3913785,-79.7408486,2,Cloughley Drive (085),a
 44.39138,-79.6768871,2,Dunlop Street East (528),a
-44.3913816,-79.6817332,2,Berczy Street (737),a
-44.3913816,-79.6817332,2,Berczy Street (737),a
-44.3913816,-79.6817332,2,Theresa Street (628),a
-44.3913816,-79.6817332,2,Theresa Street (628),a
 44.3913842,-79.6770423,2,Collier Street (634),a
 44.3913937,-79.6770636,2,Collier Street (633),a
 44.3913997,-79.7183303,2,Frost Trail (020),a
@@ -15703,8 +15427,6 @@ lat,lon,sz,names,len_cat
 44.3914069,-79.7262151,2,Lampman Lane (333),a
 44.3914078,-79.690087,2,Clapperton Street (199),a
 44.3914158,-79.7260956,2,Lampman Lane (323),a
-44.391426,-79.6816375,2,Theresa Street (629),a
-44.391426,-79.6816375,2,Theresa Street (629),a
 44.3914294,-79.7250487,2,Lampman Lane (179),a
 44.3914294,-79.7250093,2,Lampman Lane (326),a
 44.3914297,-79.7252616,2,Lampman Lane (325),a
@@ -15818,13 +15540,11 @@ lat,lon,sz,names,len_cat
 44.3916527,-79.6820264,2,Worsley Street (134),a
 44.3916527,-79.6820264,2,Worsley Street (134),a
 44.3916625,-79.7225056,2,Leacock Drive (915),a
-44.3916639,-79.6996777,2,Wellington Street West (444),a
 44.3916701,-79.6772194,2,Dundonald Street (642),a
 44.3916829,-79.7130914,2,Anne Street North (886),a
 44.3916829,-79.7130914,2,Letitia Street (969),a
 44.3916916,-79.7336074,2,Ferndale Drive North (670),a
 44.3917047,-79.6772441,2,Dundonald Street (880),a
-44.3917088,-79.6996431,2,Wellington Street West (432),a
 44.3917098,-79.6931486,2,Sophia Street West (287),a
 44.3917138,-79.6922398,2,Bayfield Street (802),a
 44.3917138,-79.6922398,2,Bayfield Street (811),a
@@ -15844,14 +15564,11 @@ lat,lon,sz,names,len_cat
 44.391798,-79.6722659,2,Kempenfelt Drive (695),a
 44.3917982,-79.7015325,2,Sunnidale Road (220),a
 44.3918154,-79.696747,2,Toronto Street (158),a
-44.3918219,-79.6995325,2,Wellington Street West (525),a
 44.3918226,-79.6721956,2,Kempenfelt Drive (597),a
 44.3918226,-79.6721956,2,St Vincent Square (106),a
 44.3918329,-79.7226811,2,Lampman Lane (335),a
 44.3918376,-79.7337225,2,Ferndale Drive North (163),a
 44.3918441,-79.7282899,2,Browning Trail (064),a
-44.3918503,-79.6995047,2,Wellington Street West (423),a
-44.3918503,-79.6995047,2,Wellington Street West (433),a
 44.3918524,-79.7225769,2,Lampman Lane (336),a
 44.3918524,-79.7225769,2,Leacock Drive (909),a
 44.3918616,-79.6720852,2,Kempenfelt Drive (694),a
@@ -15871,8 +15588,6 @@ lat,lon,sz,names,len_cat
 44.391938,-79.6755175,2,Dunlop Street East (473),a
 44.3919473,-79.7338197,2,Ferndale Drive North (600),a
 44.3919523,-79.6968665,2,Toronto Street (159),a
-44.3919571,-79.6993342,2,Wellington Street West (424),a
-44.391959,-79.6804877,2,Theresa Street (496),a
 44.3919762,-79.7377666,2,Hodgson Drive (380),a
 44.3919809,-79.7420038,2,Northview Crescent (370),a
 44.3919809,-79.7420038,2,Northview Crescent (370),a
@@ -15884,7 +15599,6 @@ lat,lon,sz,names,len_cat
 44.3920036,-79.6924811,2,Sophia Street West (700),a
 44.3920213,-79.7421923,2,Huntington Drive (855),a
 44.3920213,-79.7421923,2,Huntington Drive (855),a
-44.3920222,-79.6991731,2,Wellington Street West (425),a
 44.3920254,-79.728399,2,Browning Trail (057),a
 44.3920353,-79.6940008,2,Maple Avenue (373),a
 44.3920353,-79.6940008,2,Maple Avenue (373),a
@@ -15892,14 +15606,11 @@ lat,lon,sz,names,len_cat
 44.3920645,-79.7422319,2,Huntington Drive (713),a
 44.3920952,-79.708145,2,Aleda Street (907),a
 44.3920952,-79.708145,2,Shirley Avenue (808),a
-44.3921093,-79.6988007,2,Wellington Street West (398),a
 44.3921228,-79.7201979,2,Wilde Place (351),a
 44.3921232,-79.7417012,2,Northview Crescent (871),a
 44.3921232,-79.7417012,2,Northview Crescent (871),a
 44.3921501,-79.6900808,2,Clapperton Street (241),a
 44.3921597,-79.6748843,2,Dunlop Street East (472),a
-44.3921603,-79.6800171,2,Theresa Street (394),a
-44.3921715,-79.6985349,2,Wellington Street West (399),a
 44.3921759,-79.7422895,2,Huntington Drive (856),a
 44.3921759,-79.7422895,2,Huntington Drive (856),a
 44.3922071,-79.6724516,2,St Vincent Square (088),a
@@ -15950,7 +15661,6 @@ lat,lon,sz,names,len_cat
 44.3923874,-79.7342013,2,Benson Drive (207),a
 44.3923874,-79.7342013,2,Ferndale Drive North (713),a
 44.392413,-79.7381841,2,Hodgson Drive (381),a
-44.392417,-79.6974855,2,Wellington Street West (426),a
 44.3924323,-79.6726016,2,St Vincent Square (087),a
 44.3924336,-79.6943413,2,Maple Avenue (744),a
 44.3924336,-79.6943413,2,Maple Avenue (744),a
@@ -15964,9 +15674,6 @@ lat,lon,sz,names,len_cat
 44.3924658,-79.7073263,2,Shirley Avenue (812),a
 44.3924658,-79.7073263,2,Shirley Avenue (812),a
 44.392471,-79.7215464,2,Kipling Place (090),a
-44.3924722,-79.6973201,2,Toronto Street (265),a
-44.3924722,-79.6973201,2,Toronto Street (277),a
-44.3924722,-79.6973201,2,Wellington Street West (427),a
 44.3924837,-79.7307495,2,Burns Circle (006),a
 44.3924837,-79.7307495,2,Burns Circle (006),a
 44.3924854,-79.6739524,2,Dunlop Street East (840),a
@@ -15999,7 +15706,6 @@ lat,lon,sz,names,len_cat
 44.3926226,-79.6879156,2,McDonald Street (167),a
 44.3926226,-79.6879156,2,Owen Street (751),a
 44.3926226,-79.6879156,2,Owen Street (752),a
-44.3926231,-79.6969065,2,Wellington Street West (400),a
 44.3926231,-79.6880335,2,McDonald Street (165),a
 44.3926263,-79.688727,2,McDonald Street (164),a
 44.3926281,-79.6701784,2,Rodney Street (570),a
@@ -16071,17 +15777,11 @@ lat,lon,sz,names,len_cat
 44.3928575,-79.7141034,2,Anne Street North (891),a
 44.3928623,-79.7227181,2,Frost Trail (023),a
 44.3928623,-79.7227181,2,Leacock Drive (912),a
-44.3928917,-79.6961701,2,Mary Street (825),a
-44.3928917,-79.6961701,2,Mary Street (829),a
-44.3928917,-79.6961701,2,Wellington Street West (428),a
 44.3928954,-79.7297236,2,Burns Circle (007),a
 44.3928954,-79.7297236,2,Burns Circle (007),a
 44.3928956,-79.7373059,2,Lang Drive (217),a
 44.3928956,-79.7373059,2,Wismer Avenue (218),a
 44.3928956,-79.7373059,2,Wismer Avenue (791),a
-44.392897,-79.6782945,2,Dundonald Street (881),a
-44.392897,-79.6782945,2,Dundonald Street (882),a
-44.392897,-79.6782945,2,Theresa Street (497),a
 44.3929041,-79.7280786,2,Browning Trail (058),a
 44.3929077,-79.6727272,2,Blake Street (923),a
 44.3929105,-79.7222023,2,Frost Trail (024),a
@@ -16142,14 +15842,11 @@ lat,lon,sz,names,len_cat
 44.3931293,-79.7052955,2,Sunnidale Road (270),a
 44.3931332,-79.7276342,2,Barrett Crescent (354),a
 44.3931332,-79.7276342,2,Browning Trail (061),a
-44.3931421,-79.6808127,2,Albert Street (615),a
-44.3931421,-79.6808127,2,Amelia Street (152),a
 44.3931509,-79.6864828,2,Peel Street (238),a
 44.3931522,-79.6832483,2,Berczy Street (725),a
 44.3931522,-79.6832483,2,Berczy Street (732),a
 44.3931522,-79.6832483,2,Eugenia Street (957),a
 44.3931522,-79.6832483,2,Poyntz Street (727),a
-44.3931584,-79.6806617,2,Amelia Street (151),a
 44.3931615,-79.7444492,2,Northview Crescent (615),a
 44.3931687,-79.6934901,2,Bayfield Street (947),a
 44.3931687,-79.6934901,2,Bayfield Street (947),a
@@ -16157,7 +15854,6 @@ lat,lon,sz,names,len_cat
 44.3931694,-79.7178445,2,Shelley Lane (842),a
 44.3931734,-79.7312494,2,Burns Circle (010),a
 44.3931774,-79.6736976,2,St. Vincent Street (846),a
-44.3931793,-79.6809123,2,Albert Street (616),a
 44.3931808,-79.7102054,2,Valley Drive (433),a
 44.3932029,-79.7290389,2,Burns Circle (005),a
 44.3932029,-79.7290389,2,Dickens Drive (113),a
@@ -16211,7 +15907,6 @@ lat,lon,sz,names,len_cat
 44.3934818,-79.6937613,2,Bayfield Street (335),a
 44.3934818,-79.6937613,2,Bayfield Street (349),a
 44.3934818,-79.6937613,2,Bayfield Street (349),a
-44.3935007,-79.6799006,2,Amelia Street (150),a
 44.3935021,-79.6707689,2,Rodney Street (571),a
 44.3935021,-79.6707689,2,Rodney Street (571),a
 44.3935031,-79.6854548,2,Codrington Street (327),a
@@ -16273,10 +15968,6 @@ lat,lon,sz,names,len_cat
 44.3938082,-79.7123513,2,Valley Drive (852),a
 44.3938126,-79.6517046,2,Crestwood Drive (562),a
 44.3938126,-79.6517046,2,Shanty Bay Road (818),a
-44.3938154,-79.6790899,2,Amelia Street (141),a
-44.3938154,-79.6790899,2,Amelia Street (149),a
-44.3938154,-79.6790899,2,Dundonald Street (883),a
-44.3938154,-79.6790899,2,Dundonald Street (884),a
 44.3938188,-79.7260227,2,Barrett Crescent (362),a
 44.3938188,-79.7260227,2,Browning Trail (047),a
 44.3938252,-79.6607167,2,Puget Street (194),a
@@ -16342,14 +16033,6 @@ lat,lon,sz,names,len_cat
 44.3939722,-79.6659394,2,Kempenfelt Drive (697),a
 44.3939832,-79.6933454,2,Wellington Street East (958),a
 44.3939832,-79.6933454,2,Wellington Street East (958),a
-44.3939888,-79.6816224,2,Albert Street (613),a
-44.3939888,-79.6816224,2,Albert Street (613),a
-44.3939888,-79.6816224,2,Albert Street (617),a
-44.3939888,-79.6816224,2,Albert Street (617),a
-44.3939888,-79.6816224,2,Eugenia Street (959),a
-44.3939888,-79.6816224,2,Eugenia Street (959),a
-44.3939888,-79.6816224,2,Eugenia Street (960),a
-44.3939888,-79.6816224,2,Eugenia Street (960),a
 44.3939955,-79.687096,2,Sophia Street East (796),a
 44.3940037,-79.7081407,2,Castle Drive (873),a
 44.3940037,-79.7081407,2,Letitia Street (958),a
@@ -16544,9 +16227,6 @@ lat,lon,sz,names,len_cat
 44.3945677,-79.7113398,2,Parker Court (952),a
 44.3945692,-79.651546,2,Shoreview Drive (881),a
 44.3945726,-79.7375121,2,Lang Drive (226),a
-44.3945748,-79.6976032,2,Dalton Street (078),a
-44.3945748,-79.6976032,2,Dalton Street (079),a
-44.3945748,-79.6976032,2,Mary Street (826),a
 44.3945862,-79.6600106,2,Shanty Bay Road (135),a
 44.3945883,-79.6751387,2,Highland Avenue (562),a
 44.3945896,-79.6917392,2,Clapperton Street (230),a
@@ -16561,7 +16241,6 @@ lat,lon,sz,names,len_cat
 44.3946177,-79.6538515,2,Shoreview Drive (877),a
 44.3946261,-79.6991331,2,Toronto Street (270),a
 44.3946283,-79.6918619,2,Wellington Street East (030),a
-44.3946411,-79.6732891,2,White Pine Place (865),a
 44.3946425,-79.6514382,2,Shoreview Drive (798),a
 44.3946449,-79.6603562,2,Shanty Bay Road (137),a
 44.394648,-79.7413399,2,Cloughley Drive (809),a
@@ -16596,7 +16275,6 @@ lat,lon,sz,names,len_cat
 44.3947497,-79.6918726,2,Clapperton Street (237),a
 44.3947546,-79.7411682,2,Cloughley Drive (075),a
 44.3947546,-79.7411682,2,Cloughley Drive (075),a
-44.3947576,-79.6729608,2,White Pine Place (812),a
 44.3947594,-79.6798665,2,Dundonald Street (641),a
 44.3947594,-79.6798665,2,Dundonald Street (645),a
 44.3947594,-79.6798665,2,Eugenia Street (386),a
@@ -16617,10 +16295,6 @@ lat,lon,sz,names,len_cat
 44.3948112,-79.6513046,2,Shoreview Drive (799),a
 44.3948164,-79.6499744,2,Crestwood Drive (565),a
 44.3948363,-79.7119277,2,Parker Court (946),a
-44.3948435,-79.6823566,2,Albert Street (614),a
-44.3948435,-79.6823566,2,Albert Street (614),a
-44.3948435,-79.6823566,2,Codrington Street (331),a
-44.3948435,-79.6823566,2,Codrington Street (331),a
 44.3948534,-79.7228506,2,Austen Lane (850),a
 44.3948534,-79.7228506,2,Leacock Drive (903),a
 44.3948564,-79.6846624,2,Berczy Street (729),a
@@ -16637,7 +16311,6 @@ lat,lon,sz,names,len_cat
 44.3948885,-79.6862606,2,Mulcaster Street (022),a
 44.3948993,-79.661204,2,Shanty Bay Road (766),a
 44.3949045,-79.6512756,2,Shoreview Drive (883),a
-44.3949061,-79.6964434,2,Maple Avenue (936),a
 44.394909,-79.7061996,2,Brookdale Drive (081),a
 44.394909,-79.7061996,2,Brookdale Drive (081),a
 44.3949117,-79.7112096,2,Parker Court (942),a
@@ -16648,7 +16321,6 @@ lat,lon,sz,names,len_cat
 44.3949254,-79.7408041,2,Cloughley Drive (810),a
 44.394932,-79.6613891,2,Shanty Bay Road (811),a
 44.3949376,-79.7112254,2,Parker Court (143),a
-44.3949462,-79.6724065,2,White Pine Place (866),a
 44.3949599,-79.6616046,2,Shanty Bay Road (764),a
 44.3949668,-79.6616584,2,Shanty Bay Road (813),a
 44.394973,-79.689815,2,Owen Street (739),a
@@ -16660,7 +16332,6 @@ lat,lon,sz,names,len_cat
 44.3949847,-79.7241285,2,Mowat Crescent (839),a
 44.394988,-79.6617704,2,Shanty Bay Road (763),a
 44.3949898,-79.6498497,2,Crestwood Drive (566),a
-44.3949975,-79.6722681,2,White Pine Place (813),a
 44.3950008,-79.7151252,2,Valley Drive (436),a
 44.3950055,-79.6618317,2,Shanty Bay Road (761),a
 44.3950065,-79.7060594,2,Brookdale Drive (073),a
@@ -16674,8 +16345,6 @@ lat,lon,sz,names,len_cat
 44.3950114,-79.7112702,2,Parker Court (943),a
 44.3950136,-79.7216817,2,Austen Lane (851),a
 44.3950211,-79.6618762,2,Shanty Bay Road (814),a
-44.3950245,-79.6819372,2,Codrington Street (540),a
-44.3950245,-79.6819372,2,Codrington Street (540),a
 44.3950259,-79.721613,2,Austen Lane (852),a
 44.3950259,-79.721613,2,Christie Crescent (473),a
 44.3950279,-79.6628652,2,Vancouver Street (622),a
@@ -16683,17 +16352,12 @@ lat,lon,sz,names,len_cat
 44.3950329,-79.6843699,2,Penetang Street (088),a
 44.3950362,-79.6663476,2,Nelson Square West (715),a
 44.3950373,-79.6619152,2,Shanty Bay Road (760),a
-44.3950396,-79.6721735,2,White Pine Place (867),a
-44.3950458,-79.6965436,2,Dalton Street (080),a
-44.3950458,-79.6965436,2,Dalton Street (081),a
-44.3950458,-79.6965436,2,Maple Avenue (937),a
 44.3950485,-79.7057947,2,Brookdale Drive (074),a
 44.3950485,-79.7057947,2,Brookdale Drive (074),a
 44.3950523,-79.7148981,2,Valley Drive (437),a
 44.3950587,-79.7146719,2,Valley Drive (438),a
 44.3950621,-79.6950895,2,Bayfield Street (338),a
 44.3950665,-79.6619629,2,Shanty Bay Road (759),a
-44.3950744,-79.6721221,2,White Pine Place (814),a
 44.3950858,-79.6569588,2,Johnson Street (526),a
 44.3950858,-79.6569588,2,Johnson Street (526),a
 44.3950918,-79.6555669,2,Campfire Court (252),a
@@ -16704,7 +16368,6 @@ lat,lon,sz,names,len_cat
 44.3951109,-79.7057431,2,Brookdale Drive (075),a
 44.3951109,-79.7057431,2,Brookdale Drive (075),a
 44.3951124,-79.6620167,2,Shanty Bay Road (768),a
-44.3951129,-79.6720796,2,White Pine Place (810),a
 44.3951234,-79.6630555,2,Blake Street (536),a
 44.3951243,-79.6632191,2,Blake Street (537),a
 44.3951281,-79.6633424,2,Blake Street (538),a
@@ -16728,7 +16391,6 @@ lat,lon,sz,names,len_cat
 44.3951765,-79.7059677,2,Brookdale Drive (078),a
 44.3951765,-79.7059677,2,Brookdale Drive (078),a
 44.3951818,-79.6623942,2,Blake Street (547),a
-44.3951911,-79.6720345,2,White Pine Place (868),a
 44.3951935,-79.7058794,2,Brookdale Drive (077),a
 44.3951935,-79.7058794,2,Brookdale Drive (077),a
 44.395196,-79.7204825,2,Austen Lane (853),a
@@ -16776,14 +16438,11 @@ lat,lon,sz,names,len_cat
 44.3952988,-79.6997089,2,Grove Street West (953),a
 44.3952988,-79.6997089,2,Toronto Street (271),a
 44.3952988,-79.6997089,2,Toronto Street (278),a
-44.3952989,-79.6720157,2,White Pine Place (439),a
 44.3953062,-79.7140715,2,Kearsey Court (195),a
 44.3953062,-79.7140715,2,Kearsey Court (210),a
 44.3953091,-79.6618197,2,Blake Street (532),a
-44.3953105,-79.6748114,2,Orchard Drive (988),a
 44.3953143,-79.7254272,2,Mowat Crescent (835),a
 44.3953151,-79.6900898,2,Owen Street (737),a
-44.3953196,-79.6747479,2,Orchard Drive (987),a
 44.3953224,-79.6695286,2,Cook Street (575),a
 44.3953224,-79.6695286,2,Cook Street (575),a
 44.3953261,-79.7139881,2,Kearsey Court (196),a
@@ -16792,8 +16451,6 @@ lat,lon,sz,names,len_cat
 44.3953313,-79.6511977,2,Shoreview Drive (800),a
 44.3953425,-79.7141251,2,Kearsey Court (209),a
 44.3953437,-79.7139488,2,Kearsey Court (197),a
-44.395344,-79.6746721,2,Orchard Drive (986),a
-44.3953481,-79.6748691,2,Orchard Drive (991),a
 44.3953542,-79.6953288,2,Bayfield Street (341),a
 44.3953547,-79.6902329,2,Wellington Street East (315),a
 44.3953577,-79.6616584,2,Blake Street (533),a
@@ -16805,35 +16462,23 @@ lat,lon,sz,names,len_cat
 44.3953709,-79.7141562,2,Kearsey Court (208),a
 44.3953757,-79.6883921,2,Peel Street (213),a
 44.3953774,-79.723015,2,Leacock Drive (905),a
-44.3953828,-79.6742971,2,Orchard Drive (978),a
 44.3953842,-79.7138979,2,Kearsey Court (198),a
-44.3953878,-79.6743399,2,Orchard Drive (977),a
-44.3953881,-79.6742543,2,Orchard Drive (550),a
 44.3953911,-79.6901514,2,Owen Street (736),a
 44.3953911,-79.6901514,2,Owen Street (741),a
 44.3953911,-79.6901514,2,Wellington Street East (316),a
 44.3953911,-79.6901514,2,Wellington Street East (320),a
 44.3953916,-79.7395184,2,Wismer Avenue (786),a
-44.3954026,-79.6743781,2,Orchard Drive (976),a
-44.3954033,-79.6742164,2,Orchard Drive (551),a
 44.395407,-79.6537148,2,Garrett Crescent (241),a
-44.3954079,-79.6720671,2,White Pine Place (811),a
 44.3954129,-79.6615045,2,Blake Street (534),a
 44.3954145,-79.714185,2,Kearsey Court (207),a
 44.3954186,-79.6900898,2,Wellington Street East (319),a
 44.3954226,-79.6694974,2,Cook Street (238),a
 44.3954226,-79.6694974,2,Cook Street (238),a
 44.3954248,-79.7396825,2,Cloughley Drive (811),a
-44.3954255,-79.6744072,2,Orchard Drive (975),a
-44.3954255,-79.6744072,2,Orchard Drive (984),a
-44.3954255,-79.6744072,2,Orchard Drive (985),a
-44.3954265,-79.6741877,2,Orchard Drive (552),a
 44.3954287,-79.683707,2,Penetang Street (090),a
 44.3954319,-79.7138805,2,Kearsey Court (199),a
 44.3954351,-79.721733,2,Christie Crescent (474),a
 44.3954521,-79.6614018,2,Blake Street (531),a
-44.3954533,-79.6744239,2,Orchard Drive (559),a
-44.3954552,-79.6741712,2,Orchard Drive (553),a
 44.395459,-79.6902062,2,Owen Street (742),a
 44.3954599,-79.7141837,2,Kearsey Court (206),a
 44.3954632,-79.6604427,2,Puget Street (178),a
@@ -16843,8 +16488,6 @@ lat,lon,sz,names,len_cat
 44.3954682,-79.7395849,2,Wismer Avenue (940),a
 44.3954687,-79.6536633,2,Garrett Crescent (242),a
 44.3954821,-79.7138954,2,Kearsey Court (200),a
-44.3954834,-79.6744272,2,Orchard Drive (558),a
-44.3954862,-79.6741689,2,Orchard Drive (979),a
 44.3954899,-79.6902309,2,Owen Street (743),a
 44.3954984,-79.7141595,2,Kearsey Court (205),a
 44.3954989,-79.6695307,2,Collingwood Street (766),a
@@ -16857,53 +16500,28 @@ lat,lon,sz,names,len_cat
 44.3955034,-79.7206014,2,Christie Crescent (485),a
 44.3955088,-79.7179633,2,Atwood Court (559),a
 44.3955088,-79.7179633,2,Atwood Court (559),a
-44.3955126,-79.6744168,2,Orchard Drive (557),a
-44.3955152,-79.6741805,2,Orchard Drive (980),a
 44.395517,-79.6535741,2,Garrett Crescent (912),a
 44.3955184,-79.7139342,2,Kearsey Court (201),a
 44.39553,-79.7141111,2,Kearsey Court (204),a
 44.395531,-79.669437,2,Collingwood Street (770),a
 44.395531,-79.669437,2,Collingwood Street (770),a
-44.395532,-79.695477,2,Bayfield Street (892),a
-44.395532,-79.695477,2,Dalton Street (082),a
-44.3955379,-79.6743939,2,Orchard Drive (556),a
-44.39554,-79.6742046,2,Orchard Drive (981),a
 44.3955406,-79.7139922,2,Kearsey Court (202),a
 44.395541,-79.6534602,2,Garrett Crescent (245),a
 44.3955429,-79.7140622,2,Kearsey Court (203),a
 44.3955495,-79.7396602,2,Wismer Avenue (853),a
 44.3955544,-79.6834965,2,Penetang Street (091),a
-44.3955549,-79.6752914,2,Orchard Drive (995),a
-44.3955549,-79.6752914,2,St. Vincent Street (155),a
-44.3955567,-79.6743607,2,Orchard Drive (555),a
-44.395558,-79.6742385,2,Orchard Drive (982),a
-44.3955668,-79.6743209,2,Orchard Drive (554),a
-44.3955672,-79.6742787,2,Orchard Drive (983),a
 44.3955686,-79.7396779,2,Wismer Avenue (854),a
-44.3955824,-79.6752123,2,Orchard Drive (560),a
-44.3955841,-79.6721862,2,Highland Avenue (970),a
-44.3955841,-79.6721862,2,Rodney Street (631),a
-44.3955841,-79.6721862,2,White Pine Place (869),a
 44.3955856,-79.7299153,2,Wiseman Court (002),a
 44.3955856,-79.7299153,2,Wiseman Court (002),a
 44.3955892,-79.6779592,2,Eugenia Street (387),a
-44.3955952,-79.6751754,2,Orchard Drive (994),a
-44.3955967,-79.6750383,2,Orchard Drive (992),a
 44.3956016,-79.7245545,2,Mowat Crescent (837),a
-44.3956043,-79.6805943,2,Codrington Street (333),a
-44.3956043,-79.6805943,2,Dundonald Street (639),a
-44.3956043,-79.6805943,2,Dundonald Street (640),a
 44.3956094,-79.6834045,2,Penetang Street (092),a
-44.3956136,-79.6750995,2,Orchard Drive (993),a
-44.3956166,-79.6720949,2,Highland Avenue (973),a
 44.3956256,-79.7218669,2,Christie Crescent (475),a
 44.3956303,-79.7247046,2,Mowat Crescent (836),a
-44.3956304,-79.672056,2,Highland Avenue (971),a
 44.3956408,-79.7192046,2,Austen Lane (856),a
 44.3956408,-79.7192046,2,Chaucer Crescent (826),a
 44.3956451,-79.7179865,2,Atwood Court (560),a
 44.3956451,-79.7179865,2,Atwood Court (560),a
-44.3956451,-79.6722268,2,Rodney Street (632),a
 44.3956616,-79.7342667,2,McCutcheon Court (339),a
 44.3956644,-79.6568525,2,Johnson Street (527),a
 44.3956644,-79.6568525,2,Johnson Street (527),a
@@ -16920,7 +16538,6 @@ lat,lon,sz,names,len_cat
 44.3958162,-79.7001459,2,Toronto Street (280),a
 44.3958265,-79.6568233,2,Johnson Street (673),a
 44.3958265,-79.6568233,2,Johnson Street (673),a
-44.395833,-79.6957352,2,Bayfield Street (414),a
 44.3958371,-79.6603771,2,Blake Street (841),a
 44.3958371,-79.6603771,2,Puget Street (191),a
 44.3958399,-79.7233188,2,Leacock Drive (901),a
@@ -16945,7 +16562,6 @@ lat,lon,sz,names,len_cat
 44.3959302,-79.6928709,2,Clapperton Street (238),a
 44.3959305,-79.660135,2,Blake Street (141),a
 44.3959451,-79.6828422,2,Penetang Street (093),a
-44.3959482,-79.695834,2,Bayfield Street (415),a
 44.3959515,-79.6888537,2,Peel Street (216),a
 44.3959515,-79.6888537,2,Peel Street (217),a
 44.3959515,-79.6888537,2,Wellington Street East (297),a
@@ -17012,21 +16628,16 @@ lat,lon,sz,names,len_cat
 44.3962303,-79.7376105,2,Livingstone Street West (549),a
 44.3962385,-79.7266317,2,Cundles Road West (964),a
 44.3962406,-79.6975955,2,Grove Street West (955),a
-44.3962465,-79.6726312,2,Lakeview Crescent (567),a
-44.3962465,-79.6726312,2,Rodney Street (905),a
-44.3962465,-79.6726312,2,Rodney Street (910),a
 44.3962498,-79.7285837,2,Wallace Drive (299),a
 44.3962498,-79.7285837,2,Wallace Drive (299),a
 44.3962642,-79.6702085,2,Highland Avenue (972),a
 44.3962642,-79.6702085,2,Highland Avenue (972),a
 44.3962683,-79.7197685,2,Chaucer Crescent (827),a
-44.3962722,-79.6757728,2,St. Vincent Street (474),a
 44.3962729,-79.6762356,2,Duckworth Street (642),a
 44.396273,-79.6510244,2,Algonquin Trail (385),a
 44.396273,-79.6510244,2,Shoreview Drive (875),a
 44.396273,-79.6510244,2,Shoreview Drive (887),a
 44.3962749,-79.7375193,2,Livingstone Street West (085),a
-44.396286,-79.6725161,2,Lakeview Crescent (980),a
 44.3962865,-79.7351375,2,Vansittart Court (577),a
 44.3962866,-79.6511537,2,Algonquin Trail (868),a
 44.3962874,-79.7331158,2,Cundles Road West (948),a
@@ -17054,9 +16665,6 @@ lat,lon,sz,names,len_cat
 44.3963216,-79.6891543,2,Peel Street (143),a
 44.3963235,-79.7247021,2,Cundles Road West (969),a
 44.3963239,-79.6637844,2,Codrington Street (844),a
-44.3963299,-79.6726952,2,Rodney Street (628),a
-44.3963334,-79.6961644,2,Bayfield Street (337),a
-44.3963334,-79.6961644,2,Bayfield Street (351),a
 44.3963382,-79.6559939,2,Indian Arrow Road (763),a
 44.3963512,-79.6699571,2,Highland Avenue (976),a
 44.3963512,-79.6699571,2,Highland Avenue (976),a
@@ -17087,7 +16695,6 @@ lat,lon,sz,names,len_cat
 44.3964018,-79.7328405,2,Cundles Road West (950),a
 44.396406,-79.7304889,2,Wallace Drive (305),a
 44.396406,-79.7304889,2,Wallace Drive (305),a
-44.396406,-79.675888,2,St. Vincent Street (480),a
 44.3964175,-79.7094074,2,Powell Drive (249),a
 44.3964175,-79.7094074,2,Sunnidale Road (255),a
 44.3964175,-79.7094074,2,Sunnidale Road (293),a
@@ -17096,7 +16703,6 @@ lat,lon,sz,names,len_cat
 44.3964362,-79.7307771,2,Wallace Drive (307),a
 44.3964372,-79.7243983,2,Cundles Road West (970),a
 44.3964417,-79.6971409,2,Grove Street West (956),a
-44.3964601,-79.6761629,2,Duckworth Street (640),a
 44.3964646,-79.6653332,2,Codrington Street (848),a
 44.3964744,-79.73787,2,Ferndale Drive (466),a
 44.3964744,-79.73787,2,Ferndale Drive North (458),a
@@ -17108,8 +16714,6 @@ lat,lon,sz,names,len_cat
 44.3964754,-79.6910473,2,Owen Street (744),a
 44.3964838,-79.6655348,2,Codrington Street (847),a
 44.3964853,-79.6532488,2,Algonquin Trail (386),a
-44.3964866,-79.6719312,2,Lakeview Crescent (568),a
-44.3964872,-79.6761206,2,Duckworth Street (308),a
 44.396497,-79.7289551,2,Wallace Drive (301),a
 44.396497,-79.7289551,2,Wallace Drive (301),a
 44.3965008,-79.6533823,2,Algonquin Trail (869),a
@@ -17121,8 +16725,6 @@ lat,lon,sz,names,len_cat
 44.3965228,-79.6534622,2,Algonquin Trail (871),a
 44.3965368,-79.7226498,2,Christie Crescent (477),a
 44.3965448,-79.7187329,2,Chaucer Crescent (835),a
-44.3965486,-79.6760307,2,Duckworth Street (309),a
-44.3965486,-79.6760307,2,St. Vincent Street (153),a
 44.3965505,-79.6654333,2,Nelson Street (063),a
 44.3965528,-79.7226629,2,Christie Crescent (478),a
 44.3965534,-79.6535361,2,Algonquin Trail (387),a
@@ -17130,13 +16732,10 @@ lat,lon,sz,names,len_cat
 44.396557,-79.6584858,2,Blake Street (856),a
 44.3965591,-79.6566906,2,Johnson Street (709),a
 44.3965591,-79.6566906,2,Johnson Street (709),a
-44.3965625,-79.6717333,2,Lakeview Crescent (569),a
 44.3965687,-79.6654301,2,Nelson Street (062),a
 44.3965814,-79.7300708,2,Wallace Drive (304),a
 44.3965814,-79.7300708,2,Wallace Drive (304),a
 44.3965871,-79.7273458,2,Cundles Road West (960),a
-44.3965895,-79.6967974,2,Grove Street West (957),a
-44.3965987,-79.6716745,2,Lakeview Crescent (978),a
 44.3966021,-79.6583644,2,Blake Street (700),a
 44.3966021,-79.6583644,2,Blake Street (700),a
 44.3966022,-79.6852492,2,Queen Street (470),a
@@ -17152,8 +16751,6 @@ lat,lon,sz,names,len_cat
 44.3966244,-79.7226237,2,Christie Crescent (479),a
 44.3966272,-79.709706,2,Sunnidale Road (256),a
 44.3966381,-79.6873139,2,Wellington Street East (300),a
-44.3966381,-79.6716231,2,Lakeview Crescent (570),a
-44.3966477,-79.6761264,2,St. Vincent Street (475),a
 44.3966492,-79.6894316,2,Gunn Street (954),a
 44.3966492,-79.6894316,2,Peel Street (184),a
 44.3966492,-79.6894316,2,Peel Street (222),a
@@ -17161,7 +16758,6 @@ lat,lon,sz,names,len_cat
 44.3966707,-79.6552212,2,Indian Arrow Road (707),a
 44.3966729,-79.6815158,2,Dundonald Street (872),a
 44.3966729,-79.6815158,2,Dundonald Street (872),a
-44.3966811,-79.6715764,2,Lakeview Crescent (979),a
 44.3966849,-79.6893499,2,Gunn Street (955),a
 44.3966912,-79.6893352,2,Gunn Street (956),a
 44.3966914,-79.6848564,2,Queen Street (471),a
@@ -17169,24 +16765,16 @@ lat,lon,sz,names,len_cat
 44.3967088,-79.6689321,2,Highland Avenue (974),a
 44.3967088,-79.6689321,2,Highland Avenue (974),a
 44.3967102,-79.6912395,2,Owen Street (745),a
-44.3967167,-79.6761963,2,Duckworth Street (318),a
-44.3967167,-79.6761963,2,St. Vincent Street (152),a
-44.3967185,-79.6964948,2,Bayfield Street (350),a
-44.3967185,-79.6964948,2,Bayfield Street (352),a
-44.3967185,-79.6964948,2,Grove Street East (824),a
-44.3967185,-79.6964948,2,Grove Street West (958),a
 44.396723,-79.6681051,2,Codrington Street (843),a
 44.396723,-79.6681051,2,Weldon Street (828),a
 44.3967254,-79.6689297,2,Highland Avenue (975),a
 44.3967254,-79.6689297,2,Highland Avenue (975),a
-44.3967342,-79.6715255,2,Lakeview Crescent (571),a
 44.3967429,-79.6815749,2,Dundonald Street (873),a
 44.3967429,-79.6815749,2,Dundonald Street (873),a
 44.3967429,-79.6815749,2,Penetang Street (095),a
 44.3967429,-79.6815749,2,Penetang Street (095),a
 44.3967429,-79.6815749,2,Penetang Street (106),a
 44.3967429,-79.6815749,2,Penetang Street (106),a
-44.3967838,-79.671491,2,Lakeview Crescent (977),a
 44.3967898,-79.731918,2,Cundles Road West (951),a
 44.3968001,-79.668091,2,Weldon Street (892),a
 44.3968015,-79.6689186,2,Codrington Street (846),a
@@ -17195,23 +16783,19 @@ lat,lon,sz,names,len_cat
 44.3968015,-79.6689186,2,Highland Avenue (565),a
 44.3968117,-79.684327,2,Queen Street (472),a
 44.3968147,-79.726888,2,McCron Crescent (053),a
-44.3968183,-79.6730257,2,Rodney Street (629),a
 44.3968193,-79.6680875,2,Weldon Street (891),a
 44.39683,-79.6842468,2,Queen Street (473),a
 44.3968334,-79.7235986,2,Cundles Road West (926),a
 44.3968387,-79.7216647,2,Christie Crescent (483),a
 44.3968466,-79.6704419,2,Cook Street (577),a
 44.3968466,-79.6704419,2,Cook Street (577),a
-44.3968473,-79.6714562,2,Lakeview Crescent (572),a
 44.3968714,-79.6704453,2,Cook Street (580),a
 44.3968714,-79.6704453,2,Cook Street (580),a
 44.3968759,-79.6548015,2,Indian Arrow Road (708),a
-44.3968842,-79.6763662,2,St. Vincent Street (476),a
 44.3968912,-79.6864256,2,Berczy Street (740),a
 44.3969038,-79.6864371,2,Berczy Street (741),a
 44.3969061,-79.6888594,2,Gunn Street (957),a
 44.3969122,-79.7339186,2,Delaney Crescent (061),a
-44.396925,-79.6761218,2,Duckworth Street (647),a
 44.3969301,-79.6896766,2,Peel Street (188),a
 44.3969319,-79.7340688,2,Delaney Crescent (060),a
 44.396939,-79.7217755,2,Christie Crescent (482),a
@@ -17224,12 +16808,10 @@ lat,lon,sz,names,len_cat
 44.3969506,-79.6704561,2,Codrington Street (841),a
 44.3969506,-79.6704561,2,Cook Street (241),a
 44.3969506,-79.6704561,2,Cook Street (241),a
-44.3969515,-79.6714248,2,Lakeview Crescent (573),a
 44.3969596,-79.6566216,2,Johnson Street (514),a
 44.3969596,-79.6566216,2,Johnson Street (514),a
 44.3969607,-79.7253287,2,Ferguson Drive (421),a
 44.3969612,-79.710206,2,Sunnidale Road (257),a
-44.3969648,-79.6714231,2,Lakeview Crescent (981),a
 44.3969711,-79.6865001,2,Berczy Street (742),a
 44.3969711,-79.6865001,2,Berczy Street (743),a
 44.3969711,-79.6865001,2,Wellington Street East (303),a
@@ -17246,15 +16828,7 @@ lat,lon,sz,names,len_cat
 44.3970229,-79.6704467,2,Cook Street (578),a
 44.3970322,-79.7341797,2,Delaney Crescent (059),a
 44.3970346,-79.6494763,2,Indian Arrow Road (694),a
-44.397038,-79.6714135,2,Codrington Street (842),a
-44.397038,-79.6714135,2,Lakeview Crescent (574),a
 44.3970443,-79.6495827,2,Indian Arrow Road (760),a
-44.3970457,-79.6938092,2,Clapperton Street (239),a
-44.3970457,-79.6938092,2,Clapperton Street (239),a
-44.3970457,-79.6938092,2,Clapperton Street (243),a
-44.3970457,-79.6938092,2,Clapperton Street (243),a
-44.3970457,-79.6938092,2,East Street (417),a
-44.3970457,-79.6938092,2,East Street (417),a
 44.3970457,-79.6704423,2,Cook Street (576),a
 44.3970457,-79.6704423,2,Cook Street (576),a
 44.3970468,-79.6496098,2,Indian Arrow Road (759),a
@@ -17278,7 +16852,6 @@ lat,lon,sz,names,len_cat
 44.3970934,-79.6540072,2,Algonquin Trail (873),a
 44.3970975,-79.6574319,2,Downsview Drive (784),a
 44.3970975,-79.6574319,2,Downsview Drive (784),a
-44.3971069,-79.6732126,2,Rodney Street (907),a
 44.397119,-79.6860206,2,Wellington Street East (307),a
 44.3971293,-79.6569868,2,Blake Street (984),a
 44.3971293,-79.6569868,2,Blake Street (984),a
@@ -17287,8 +16860,6 @@ lat,lon,sz,names,len_cat
 44.3971295,-79.6589678,2,Varden Crescent (322),a
 44.3971301,-79.6898396,2,Peel Street (190),a
 44.3971317,-79.7204906,2,Chaucer Crescent (828),a
-44.3971443,-79.6953045,2,Drury Lane (866),a
-44.3971447,-79.673217,2,Rodney Street (630),a
 44.3971557,-79.6883044,2,Gunn Street (945),a
 44.3971557,-79.6883044,2,Gunn Street (958),a
 44.3971557,-79.6883044,2,Newton Street (282),a
@@ -17313,19 +16884,10 @@ lat,lon,sz,names,len_cat
 44.3971956,-79.6568114,2,Blake Street (985),a
 44.3971979,-79.6565787,2,Johnson Street (518),a
 44.3971979,-79.6565787,2,Johnson Street (518),a
-44.3971984,-79.6953503,2,Drury Lane (867),a
-44.3971984,-79.6953503,2,Grove Street East (825),a
-44.3971984,-79.6953503,2,Grove Street East (855),a
 44.3972023,-79.6883508,2,Newton Street (283),a
-44.3972064,-79.673105,2,Codrington Street (850),a
 44.3972084,-79.685587,2,Wellington Street East (309),a
-44.3972089,-79.6731317,2,Codrington Street (852),a
 44.3972094,-79.7105941,2,Sunnidale Road (258),a
 44.397214,-79.6883624,2,Newton Street (284),a
-44.3972175,-79.6732255,2,Codrington Street (335),a
-44.3972175,-79.6732255,2,Rodney Street (908),a
-44.3972175,-79.6732255,2,Rodney Street (911),a
-44.397218,-79.6766637,2,St. Vincent Street (477),a
 44.3972229,-79.7165834,2,Oakridge Drive (278),a
 44.3972229,-79.7165834,2,Oakridge Drive (278),a
 44.3972255,-79.6567321,2,Blake Street (986),a
@@ -17333,22 +16895,13 @@ lat,lon,sz,names,len_cat
 44.3972275,-79.7282612,2,Cundles Road West (958),a
 44.3972283,-79.657529,2,Downsview Drive (786),a
 44.3972283,-79.657529,2,Downsview Drive (786),a
-44.3972297,-79.6733578,2,Codrington Street (851),a
-44.3972324,-79.6733869,2,Codrington Street (849),a
-44.397235,-79.6766793,2,St. Vincent Street (479),a
 44.3972395,-79.7244938,2,Ferguson Drive (420),a
 44.3972395,-79.7244938,2,Leacock Drive (929),a
 44.3972486,-79.7204755,2,Chaucer Crescent (829),a
 44.3972486,-79.6854334,2,Wellington Street East (310),a
-44.3972541,-79.676832,2,Codrington Street (834),a
 44.3972623,-79.6519346,2,Chippawa Court (441),a
 44.3972623,-79.6519346,2,Indian Arrow Road (761),a
 44.3972623,-79.6519346,2,Indian Arrow Road (766),a
-44.3972659,-79.6768035,2,Codrington Street (839),a
-44.3972795,-79.6732328,2,Rodney Street (633),a
-44.3972859,-79.6951349,2,Grove Street East (856),a
-44.3972859,-79.6951349,2,Grove Street East (857),a
-44.3972859,-79.6951349,2,Lount Street (896),a
 44.3972898,-79.656562,2,Blake Street (839),a
 44.3972898,-79.656562,2,Blake Street (839),a
 44.3972898,-79.656562,2,Johnson Street (205),a
@@ -17356,20 +16909,15 @@ lat,lon,sz,names,len_cat
 44.3972898,-79.656562,2,Johnson Street (247),a
 44.3972898,-79.656562,2,Johnson Street (247),a
 44.3972929,-79.6672556,2,Weldon Crescent (690),a
-44.3972948,-79.676734,2,Codrington Street (334),a
-44.3972948,-79.676734,2,St. Vincent Street (151),a
 44.3973048,-79.6671356,2,Weldon Crescent (856),a
-44.3973055,-79.6732358,2,Rodney Street (912),a
 44.3973064,-79.6675127,2,Weldon Crescent (689),a
 44.3973214,-79.7286107,2,Cundles Road West (957),a
 44.3973214,-79.7286107,2,Cundles Road West (957),a
-44.3973293,-79.6766512,2,Codrington Street (840),a
 44.3973303,-79.7257969,2,Ferguson Drive (423),a
 44.3973339,-79.6564454,2,Blake Street (530),a
 44.3973339,-79.6564454,2,Blake Street (530),a
 44.3973429,-79.6678681,2,Weldon Crescent (861),a
 44.3973434,-79.6670439,2,Weldon Crescent (691),a
-44.3973438,-79.6766165,2,Codrington Street (835),a
 44.3973447,-79.6519197,2,Chippawa Court (931),a
 44.3973478,-79.6805929,2,Penetang Street (107),a
 44.3973478,-79.6805929,2,Penetang Street (107),a
@@ -17377,9 +16925,7 @@ lat,lon,sz,names,len_cat
 44.3973554,-79.6679898,2,Weldon Crescent (688),a
 44.3973554,-79.6679898,2,Weldon Street (824),a
 44.3973554,-79.6679898,2,Weldon Street (830),a
-44.3973595,-79.6952005,2,Lount Street (897),a
 44.3973607,-79.6519168,2,Chippawa Court (930),a
-44.3973644,-79.6767978,2,St. Vincent Street (478),a
 44.3973725,-79.6624351,2,Vancouver Street (142),a
 44.3973769,-79.6563314,2,Blake Street (528),a
 44.3973782,-79.6530937,2,Huron Street (017),a
@@ -17388,12 +16934,9 @@ lat,lon,sz,names,len_cat
 44.3973789,-79.6535067,2,Indian Arrow Road (697),a
 44.3973814,-79.7108199,2,Sunnidale Road (259),a
 44.3973898,-79.6532341,2,Indian Arrow Road (698),a
-44.3973951,-79.6760297,2,Duckworth Street (648),a
-44.3974001,-79.6952368,2,Lount Street (898),a
 44.3974023,-79.6576583,2,Downsview Drive (785),a
 44.3974023,-79.6576583,2,Downsview Drive (785),a
 44.3974034,-79.6669718,2,Weldon Crescent (857),a
-44.3974047,-79.6760281,2,Duckworth Street (649),a
 44.3974068,-79.720133,2,Chaucer Crescent (831),a
 44.3974081,-79.6764062,2,Codrington Street (833),a
 44.3974303,-79.7303036,2,Cundles Road West (954),a
@@ -17410,23 +16953,16 @@ lat,lon,sz,names,len_cat
 44.3974518,-79.662416,2,Bowman Avenue (292),a
 44.3974518,-79.662416,2,Vancouver Street (966),a
 44.3974518,-79.662416,2,Vancouver Street (969),a
-44.3974567,-79.6762097,2,Codrington Street (837),a
 44.3974618,-79.6625426,2,Bowman Avenue (664),a
 44.3974682,-79.6530757,2,Huron Street (896),a
 44.3974685,-79.6565295,2,Johnson Street (491),a
 44.3974685,-79.6565295,2,Johnson Street (491),a
-44.3974687,-79.6761543,2,Codrington Street (838),a
 44.3974693,-79.7297628,2,Cundles Road West (956),a
 44.3974693,-79.7297628,2,Cundles Road West (956),a
 44.3974723,-79.7300389,2,Cundles Road West (955),a
 44.3974723,-79.7300389,2,Cundles Road West (955),a
 44.3974735,-79.6669386,2,Weldon Crescent (692),a
-44.3974744,-79.6758839,2,Codrington Street (336),a
-44.3974763,-79.6759195,2,Codrington Street (854),a
 44.39748,-79.7345329,2,Delaney Crescent (972),a
-44.3974812,-79.6760148,2,Codrington Street (337),a
-44.3974812,-79.6760148,2,Duckworth Street (316),a
-44.3974812,-79.6760148,2,Duckworth Street (319),a
 44.3974905,-79.6577098,2,Downsview Drive (317),a
 44.3974905,-79.6577098,2,Downsview Drive (317),a
 44.397493,-79.7345431,2,Delaney Crescent (971),a
@@ -17437,16 +16973,12 @@ lat,lon,sz,names,len_cat
 44.3975384,-79.6577166,2,Downsview Drive (783),a
 44.3975384,-79.6577166,2,Downsview Drive (783),a
 44.3975408,-79.6901931,2,Peel Street (191),a
-44.3975421,-79.6760042,2,Duckworth Street (646),a
 44.3975451,-79.7196277,2,Chaucer Crescent (834),a
 44.3975521,-79.7196771,2,Chaucer Crescent (833),a
 44.3975647,-79.7197654,2,Chaucer Crescent (832),a
-44.397566,-79.676,2,Duckworth Street (645),a
 44.3975738,-79.6638026,2,Bowman Avenue (293),a
 44.3975738,-79.6638026,2,Bowman Avenue (294),a
 44.3975738,-79.6638026,2,Isobel Street (398),a
-44.3975874,-79.6942773,2,Clapperton Street (244),a
-44.3975874,-79.6942773,2,Clapperton Street (244),a
 44.3975889,-79.7346187,2,Delaney Crescent (058),a
 44.3975889,-79.7346187,2,Livingstone Street West (656),a
 44.3976014,-79.6557386,2,Blake Street (086),a
@@ -17461,12 +16993,6 @@ lat,lon,sz,names,len_cat
 44.3976386,-79.6819422,2,Queen Street (479),a
 44.3976477,-79.6637892,2,Isobel Street (143),a
 44.3976484,-79.6870561,2,Berczy Street (746),a
-44.3976549,-79.6943356,2,Clapperton Street (245),a
-44.3976549,-79.6943356,2,Clapperton Street (245),a
-44.3976549,-79.6943356,2,Grove Street East (802),a
-44.3976549,-79.6943356,2,Grove Street East (802),a
-44.3976549,-79.6943356,2,Grove Street East (858),a
-44.3976549,-79.6943356,2,Grove Street East (858),a
 44.3976578,-79.68716,2,Gunn Street (946),a
 44.3976694,-79.6637853,2,Isobel Street (993),a
 44.3976866,-79.6564929,2,Johnson Street (409),a
@@ -17484,14 +17010,10 @@ lat,lon,sz,names,len_cat
 44.3977007,-79.6652292,2,Nelson Street (677),a
 44.3977019,-79.7216193,2,Cundles Road West (929),a
 44.3977201,-79.7304605,2,Longman Drive (257),a
-44.3977262,-79.6922207,2,East Street (178),a
 44.3977451,-79.7262408,2,Ferguson Drive (425),a
 44.3977506,-79.6588,2,Varden Crescent (962),a
 44.3977578,-79.6903799,2,Peel Street (193),a
 44.3977604,-79.6869305,2,Gunn Street (180),a
-44.3977623,-79.6921365,2,East Street (419),a
-44.3977623,-79.6921365,2,Owen Street (746),a
-44.3977623,-79.6921365,2,Owen Street (770),a
 44.3977745,-79.7214618,2,Cundles Road West (930),a
 44.3977786,-79.6518414,2,Chippawa Court (442),a
 44.3977839,-79.7248713,2,Irwin Drive (906),a
@@ -17537,7 +17059,6 @@ lat,lon,sz,names,len_cat
 44.3980237,-79.666844,2,Weldon Crescent (693),a
 44.3980409,-79.650478,2,Chippawa Court (447),a
 44.3980643,-79.6515501,2,Chippawa Court (445),a
-44.3980671,-79.6715905,2,Mountbatten Crescent (379),a
 44.3980806,-79.6906577,2,Peel Street (197),a
 44.3980912,-79.6837308,2,Wellington Street East (420),a
 44.3980933,-79.6564334,2,Johnson Street (206),a
@@ -17557,12 +17078,10 @@ lat,lon,sz,names,len_cat
 44.3981263,-79.7240979,2,Irwin Drive (907),a
 44.3981275,-79.6576142,2,Downsview Drive (669),a
 44.3981275,-79.6576142,2,Downsview Drive (669),a
-44.3981284,-79.6713386,2,Mountbatten Crescent (378),a
 44.3981324,-79.6840328,2,Wellington Street East (327),a
 44.3981348,-79.6840349,2,Wellington Street East (328),a
 44.3981372,-79.6840368,2,Wellington Street East (329),a
 44.3981397,-79.6840386,2,Wellington Street East (330),a
-44.3981401,-79.6730834,2,Rodney Street (634),a
 44.3981422,-79.6840404,2,Wellington Street East (331),a
 44.3981448,-79.6840419,2,Wellington Street East (332),a
 44.3981455,-79.6599664,2,Napier Street (418),a
@@ -17598,9 +17117,7 @@ lat,lon,sz,names,len_cat
 44.3981955,-79.6575014,2,Napier Street (678),a
 44.3981955,-79.6575014,2,Napier Street (678),a
 44.3981973,-79.6840469,2,Wellington Street East (351),a
-44.3981977,-79.6729406,2,Mountbatten Crescent (991),a
 44.3982,-79.6840459,2,Wellington Street East (352),a
-44.3982004,-79.6729677,2,Mountbatten Crescent (992),a
 44.3982027,-79.6840446,2,Wellington Street East (353),a
 44.398205,-79.6576007,2,Downsview Drive (309),a
 44.398205,-79.6576007,2,Downsview Drive (309),a
@@ -17613,10 +17130,6 @@ lat,lon,sz,names,len_cat
 44.3982054,-79.6840433,2,Wellington Street East (354),a
 44.3982077,-79.6670408,2,Weldon Crescent (859),a
 44.398208,-79.6840418,2,Wellington Street East (355),a
-44.3982103,-79.6730706,2,Mountbatten Crescent (380),a
-44.3982103,-79.6730706,2,Mountbatten Road (225),a
-44.3982103,-79.6730706,2,Rodney Street (914),a
-44.3982103,-79.6730706,2,Rodney Street (922),a
 44.3982106,-79.6840402,2,Wellington Street East (356),a
 44.3982131,-79.6840385,2,Wellington Street East (357),a
 44.3982156,-79.6840367,2,Wellington Street East (358),a
@@ -17626,13 +17139,11 @@ lat,lon,sz,names,len_cat
 44.3982181,-79.6840347,2,Wellington Street East (359),a
 44.3982193,-79.683841,2,Wellington Street East (418),a
 44.3982194,-79.7204889,2,Cundles Road West (931),a
-44.3982202,-79.6731721,2,Mountbatten Road (734),a
 44.3982205,-79.6840326,2,Wellington Street East (360),a
 44.3982217,-79.6838431,2,Wellington Street East (417),a
 44.3982228,-79.6840304,2,Wellington Street East (361),a
 44.3982238,-79.6671657,2,Weldon Crescent (695),a
 44.398224,-79.6838454,2,Wellington Street East (416),a
-44.3982242,-79.6732134,2,Mountbatten Road (733),a
 44.3982251,-79.6840281,2,Wellington Street East (362),a
 44.3982262,-79.6838478,2,Wellington Street East (415),a
 44.3982273,-79.6840257,2,Wellington Street East (363),a
@@ -17709,7 +17220,6 @@ lat,lon,sz,names,len_cat
 44.398287,-79.6678226,2,Weldon Crescent (696),a
 44.398287,-79.6678226,2,Weldon Street (825),a
 44.398287,-79.6678226,2,Weldon Street (826),a
-44.3982879,-79.6730561,2,Rodney Street (635),a
 44.3982895,-79.7145635,2,Oakridge Drive (272),a
 44.3982934,-79.7042584,2,Coulter Street (320),a
 44.3982934,-79.7042584,2,Coulter Street (320),a
@@ -17720,8 +17230,6 @@ lat,lon,sz,names,len_cat
 44.398316,-79.71612,2,Susan Place (548),a
 44.398316,-79.71612,2,Susan Place (553),a
 44.398316,-79.71612,2,Susan Place (555),a
-44.3983174,-79.6925994,2,Owen Street (771),a
-44.3983174,-79.6925994,2,Owen Street (771),a
 44.3983288,-79.6826654,2,Oak Street (481),a
 44.3983295,-79.6585877,2,Napier Street (675),a
 44.3983302,-79.7254245,2,Leacock Drive (930),a
@@ -17736,8 +17244,6 @@ lat,lon,sz,names,len_cat
 44.3983456,-79.6586856,2,Napier Street (411),a
 44.3983456,-79.6586856,2,Varden Avenue (844),a
 44.3983456,-79.6586856,2,Varden Crescent (324),a
-44.3983464,-79.6926213,2,Owen Street (772),a
-44.3983464,-79.6926213,2,Owen Street (772),a
 44.3983493,-79.6947499,2,North Street (655),a
 44.3983541,-79.7189141,2,Anne Street North (432),a
 44.3983631,-79.6826962,2,Oak Street (482),a
@@ -17750,14 +17256,6 @@ lat,lon,sz,names,len_cat
 44.3983958,-79.7045282,2,Coulter Street (321),a
 44.3983958,-79.7045282,2,Coulter Street (321),a
 44.3983976,-79.6636541,2,Isobel Street (995),a
-44.3984075,-79.6926676,2,Grove Street East (785),a
-44.3984075,-79.6926676,2,Grove Street East (785),a
-44.3984075,-79.6926676,2,Grove Street East (809),a
-44.3984075,-79.6926676,2,Grove Street East (809),a
-44.3984075,-79.6926676,2,Owen Street (773),a
-44.3984075,-79.6926676,2,Owen Street (773),a
-44.3984075,-79.6926676,2,Owen Street (779),a
-44.3984075,-79.6926676,2,Owen Street (779),a
 44.3984131,-79.6827411,2,Oak Street (468),a
 44.3984131,-79.6827411,2,Oak Street (483),a
 44.3984131,-79.6827411,2,Wellington Street East (433),a
@@ -17767,17 +17265,9 @@ lat,lon,sz,names,len_cat
 44.3984245,-79.6622374,2,Vancouver Street (692),a
 44.3984293,-79.658671,2,Varden Avenue (722),a
 44.3984331,-79.7323137,2,Delaney Crescent (974),a
-44.3984383,-79.6757056,2,Mountbatten Road (732),a
-44.3984386,-79.6925955,2,Grove Street East (810),a
-44.3984386,-79.6925955,2,Grove Street East (810),a
 44.3984424,-79.6592614,2,Napier Street (804),a
 44.3984429,-79.662234,2,Vancouver Street (691),a
 44.3984466,-79.6586679,2,Varden Avenue (721),a
-44.3984495,-79.6758381,2,Duckworth Street (638),a
-44.3984495,-79.6758381,2,Duckworth Street (644),a
-44.3984495,-79.6758381,2,Mountbatten Road (227),a
-44.3984547,-79.6927088,2,Owen Street (778),a
-44.3984547,-79.6927088,2,Owen Street (778),a
 44.3984548,-79.716456,2,Susan Place (551),a
 44.3984548,-79.716456,2,Susan Place (551),a
 44.3984579,-79.6534768,2,Blake Street (529),a
@@ -17788,10 +17278,7 @@ lat,lon,sz,names,len_cat
 44.3984702,-79.6636414,2,Isobel Street (399),a
 44.3984702,-79.6636414,2,Napier Street (406),a
 44.3984702,-79.6636414,2,Napier Street (415),a
-44.3984822,-79.6869981,2,Davidson Street (086),a
 44.3984859,-79.7256597,2,Leacock Drive (931),a
-44.3984873,-79.6927367,2,Owen Street (777),a
-44.3984873,-79.6927367,2,Owen Street (777),a
 44.3984877,-79.6787437,2,Penetang Street (588),a
 44.3984894,-79.7300169,2,Ferguson Drive (428),a
 44.3984894,-79.7300169,2,Ferguson Drive (428),a
@@ -17825,11 +17312,6 @@ lat,lon,sz,names,len_cat
 44.3985924,-79.656349,2,Johnson Street (207),a
 44.3985995,-79.6650742,2,Napier Street (421),a
 44.3985995,-79.6650742,2,Nelson Street (676),a
-44.3986074,-79.6871066,2,Davidson Street (063),a
-44.3986074,-79.6871066,2,Davidson Street (087),a
-44.3986074,-79.6871066,2,Parkdale Crescent (002),a
-44.3986141,-79.6921942,2,Grove Street East (062),a
-44.3986141,-79.6921942,2,Grove Street East (062),a
 44.3986526,-79.6647854,2,Nelson Street (060),a
 44.3986559,-79.698203,2,Bayfield Street (805),a
 44.3986559,-79.698203,2,Bayfield Street (809),a
@@ -17837,19 +17319,16 @@ lat,lon,sz,names,len_cat
 44.3986567,-79.702856,2,Coulter Street (890),a
 44.3986653,-79.7264092,2,Geddes Crescent (400),a
 44.3986653,-79.7264092,2,Leacock Drive (934),a
-44.3986659,-79.6920728,2,Grove Street East (811),a
 44.3986718,-79.6647822,2,Nelson Street (059),a
 44.3986744,-79.7143667,2,Oakridge Drive (273),a
 44.3986766,-79.6848559,2,Gunn Street (199),a
 44.3986766,-79.6848559,2,Gunn Street (233),a
 44.3986907,-79.67842,2,Penetang Street (587),a
-44.3986946,-79.686866,2,Parkdale Crescent (003),a
 44.398717,-79.6912084,2,Peel Street (205),a
 44.3987258,-79.6980602,2,Rose Street (793),a
 44.3987362,-79.6963966,2,Lount Street (901),a
 44.3987385,-79.6527299,2,Blake Street (526),a
 44.398744,-79.6677391,2,Weldon Street (889),a
-44.3987457,-79.691886,2,Grove Street East (812),a
 44.3987627,-79.6677361,2,Weldon Street (890),a
 44.3987636,-79.7142894,2,Oakridge Drive (274),a
 44.3987636,-79.7142894,2,Sunnidale Road (252),a
@@ -17862,15 +17341,11 @@ lat,lon,sz,names,len_cat
 44.3987782,-79.7179935,2,Oakridge Drive (280),a
 44.3987782,-79.7179935,2,Oakridge Drive (280),a
 44.3987805,-79.6964097,2,Lount Street (902),a
-44.3987871,-79.678031,2,St. Vincent Street (481),a
 44.3987929,-79.6981172,2,Rose Street (611),a
 44.3988017,-79.6979982,2,Rose Street (480),a
-44.3988045,-79.6780443,2,St. Vincent Street (532),a
 44.3988045,-79.6563076,2,Johnson Street (208),a
 44.3988045,-79.6563076,2,Johnson Street (208),a
 44.3988116,-79.6621658,2,Vancouver Street (974),a
-44.3988128,-79.6917289,2,Grove Street East (813),a
-44.3988214,-79.6782086,2,Penetang Street (108),a
 44.3988238,-79.6983582,2,Bayfield Street (808),a
 44.3988238,-79.6983582,2,Bayfield Street (811),a
 44.3988238,-79.6983582,2,Rose Street (612),a
@@ -17879,35 +17354,17 @@ lat,lon,sz,names,len_cat
 44.3988261,-79.697842,2,Rose Street (825),a
 44.3988303,-79.6964007,2,Agnes Street (115),a
 44.3988303,-79.6964007,2,Lount Street (903),a
-44.3988336,-79.6781846,2,Penetang Street (580),a
 44.3988339,-79.6677247,2,Napier Street (407),a
 44.3988339,-79.6677247,2,Napier Street (422),a
 44.3988339,-79.6677247,2,Weldon Street (827),a
 44.3988389,-79.7312965,2,Longman Drive (945),a
-44.398839,-79.6916673,2,Grove Street East (814),a
 44.3988531,-79.7049355,2,Coulter Street (896),a
 44.3988531,-79.7049355,2,Coulter Street (896),a
-44.3988578,-79.6913298,2,Peel Street (206),a
-44.3988739,-79.6913452,2,Peel Street (207),a
 44.3988748,-79.6963621,2,Agnes Street (116),a
-44.3988767,-79.6780994,2,Penetang Street (096),a
-44.3988767,-79.6780994,2,Penetang Street (109),a
-44.3988767,-79.6780994,2,St. Vincent Street (149),a
 44.3988941,-79.7279493,2,Leacock Drive (932),a
-44.3989013,-79.6915214,2,Grove Street East (815),a
-44.3989115,-79.6780006,2,Penetang Street (578),a
-44.3989192,-79.6779789,2,Penetang Street (097),a
 44.3989282,-79.7313676,2,Livingstone Street West (658),a
 44.3989282,-79.7313676,2,Longman Drive (260),a
-44.3989416,-79.6781481,2,St. Vincent Street (531),a
-44.3989464,-79.6914062,2,Grove Street East (803),a
-44.3989464,-79.6914062,2,Grove Street East (816),a
-44.3989464,-79.6914062,2,Peel Street (208),a
-44.3989464,-79.6914062,2,Peel Street (227),a
-44.3989486,-79.6778773,2,Penetang Street (098),a
 44.3989495,-79.7188185,2,Cundles Road West (920),a
-44.3989589,-79.678161,2,St. Vincent Street (148),a
-44.398972,-79.6874337,2,Davidson Street (064),a
 44.3989738,-79.6931373,2,Owen Street (776),a
 44.3989738,-79.6931373,2,Owen Street (776),a
 44.3989759,-79.6815308,2,Wellington Street East (434),a
@@ -17920,7 +17377,6 @@ lat,lon,sz,names,len_cat
 44.3989863,-79.6932614,2,North Street (656),a
 44.3989897,-79.6931564,2,Owen Street (775),a
 44.3989897,-79.6931564,2,Owen Street (775),a
-44.3989916,-79.6874524,2,Davidson Street (065),a
 44.3989973,-79.693232,2,North Street (657),a
 44.3989973,-79.693232,2,North Street (657),a
 44.3989999,-79.6931915,2,North Street (658),a
@@ -17928,18 +17384,12 @@ lat,lon,sz,names,len_cat
 44.3989999,-79.6931915,2,Owen Street (774),a
 44.3989999,-79.6931915,2,Owen Street (774),a
 44.3990004,-79.696127,2,Agnes Street (117),a
-44.3990027,-79.6914573,2,Peel Street (228),a
 44.3990097,-79.6621048,2,Vancouver Street (693),a
-44.3990112,-79.6874699,2,Davidson Street (066),a
 44.399016,-79.6814508,2,Wellington Street East (126),a
 44.399016,-79.6814508,2,Wellington Street East (126),a
 44.3990226,-79.6519738,2,Blake Street (980),a
-44.3990237,-79.6874812,2,Davidson Street (067),a
-44.3990337,-79.6782166,2,St. Vincent Street (482),a
 44.3990363,-79.670005,2,Napier Street (803),a
 44.3990363,-79.670005,2,Napier Street (803),a
-44.3990367,-79.6874925,2,Davidson Street (068),a
-44.3990426,-79.6914933,2,Peel Street (229),a
 44.3990439,-79.6700906,2,Cook Street (228),a
 44.3990439,-79.6700906,2,Cook Street (228),a
 44.3990439,-79.6700906,2,Cook Street (240),a
@@ -17950,17 +17400,8 @@ lat,lon,sz,names,len_cat
 44.3990439,-79.6700906,2,Napier Street (408),a
 44.399044,-79.7288873,2,Leacock Drive (207),a
 44.399044,-79.7288873,2,Leacock Drive (207),a
-44.399048,-79.6875016,2,Davidson Street (069),a
-44.3990593,-79.6875108,2,Davidson Street (070),a
-44.3990712,-79.6875203,2,Davidson Street (071),a
 44.3990726,-79.718225,2,Oakridge Drive (049),a
-44.3990846,-79.6875312,2,Davidson Street (072),a
-44.39909,-79.6860159,2,Northpark Road (772),a
-44.39909,-79.6860159,2,Parkdale Crescent (004),a
-44.39909,-79.6860159,2,Parkdale Crescent (993),a
 44.3990968,-79.6899716,2,Newton Street (287),a
-44.3990988,-79.6875413,2,Davidson Street (073),a
-44.3991113,-79.6875497,2,Davidson Street (074),a
 44.3991185,-79.7291118,2,Leacock Drive (208),a
 44.3991185,-79.7291118,2,Leacock Drive (208),a
 44.3991246,-79.6700757,2,Cook Street (571),a
@@ -17973,34 +17414,26 @@ lat,lon,sz,names,len_cat
 44.3991622,-79.6516033,2,Blake Street (981),a
 44.3991673,-79.7051658,2,Coulter Street (247),a
 44.3991673,-79.7051658,2,Coulter Street (247),a
-44.3991841,-79.6783429,2,St. Vincent Street (147),a
 44.3991869,-79.718311,2,Cundles Road West (921),a
 44.3991869,-79.718311,2,Oakridge Drive (281),a
-44.3991964,-79.6908174,2,Grove Street East (805),a
 44.3992013,-79.6728886,2,Rodney Street (576),a
 44.3992129,-79.6833951,2,Oak Street (471),a
 44.3992157,-79.6916472,2,Peel Street (230),a
 44.3992182,-79.6728855,2,Rodney Street (577),a
-44.3992185,-79.6876207,2,Davidson Street (075),a
 44.3992372,-79.7292599,2,Leacock Drive (209),a
 44.3992372,-79.7292599,2,Leacock Drive (209),a
-44.399272,-79.6901213,2,Newton Street (288),a
-44.3992754,-79.6784262,2,St. Vincent Street (146),a
 44.399286,-79.6834567,2,Gunn Street (948),a
 44.399286,-79.6834567,2,Gunn Street (963),a
 44.399286,-79.6834567,2,Oak Street (473),a
 44.399286,-79.6834567,2,Oak Street (484),a
-44.399287,-79.687666,2,Davidson Street (076),a
 44.399288,-79.7262547,2,Geddes Crescent (401),a
 44.3992889,-79.6727693,2,Napier Street (671),a
 44.3992982,-79.6728709,2,Napier Street (401),a
 44.3992982,-79.6728709,2,Napier Street (402),a
 44.3992982,-79.6728709,2,Rodney Street (920),a
 44.3992982,-79.6728709,2,Rodney Street (923),a
-44.3993001,-79.6765491,2,Penetang Street (636),a
 44.3993007,-79.7180197,2,Cundles Road West (843),a
 44.3993007,-79.7180197,2,Cundles Road West (843),a
-44.3993033,-79.6905657,2,Grove Street East (806),a
 44.3993074,-79.6729713,2,Napier Street (672),a
 44.399317,-79.681186,2,Wellington Street East (436),a
 44.399317,-79.681186,2,Wellington Street East (436),a
@@ -18015,70 +17448,35 @@ lat,lon,sz,names,len_cat
 44.399343,-79.6562101,2,Johnson Street (489),a
 44.399343,-79.6562101,2,Johnson Street (489),a
 44.3993438,-79.6511251,2,Blake Street (835),a
-44.3993479,-79.6877027,2,Davidson Street (077),a
 44.3993602,-79.6835217,2,Oak Street (485),a
-44.3993606,-79.6901971,2,Newton Street (289),a
 44.3993682,-79.6728579,2,Rodney Street (575),a
-44.3993702,-79.6902054,2,Newton Street (290),a
 44.3993765,-79.6966065,2,Rose Street (826),a
 44.3993772,-79.6835372,2,Oak Street (486),a
 44.3993892,-79.6728541,2,Rodney Street (574),a
 44.3993902,-79.6988627,2,Bayfield Street (810),a
-44.3993918,-79.6903572,2,Grove Street East (807),a
 44.3993989,-79.6509834,2,Blake Street (978),a
 44.3994062,-79.6810946,2,Wellington Street East (127),a
 44.3994062,-79.6810946,2,Wellington Street East (127),a
 44.3994138,-79.7012575,2,Coulter Street (317),a
-44.3994227,-79.6852047,2,Parkdale Crescent (994),a
-44.3994297,-79.6902555,2,Grove Street East (808),a
-44.3994297,-79.6902555,2,Grove Street East (837),a
-44.3994297,-79.6902555,2,Newton Street (281),a
-44.3994297,-79.6902555,2,Newton Street (291),a
-44.3994434,-79.6785797,2,St. Vincent Street (145),a
-44.3994491,-79.6756545,2,Duckworth Street (639),a
-44.3994604,-79.6851233,2,Parkdale Crescent (995),a
 44.3994617,-79.6989213,2,Bayfield Street (746),a
 44.3994617,-79.6989213,2,Bayfield Street (750),a
 44.3994627,-79.6964765,2,Rose Street (827),a
-44.3994685,-79.6786005,2,St. Vincent Street (533),a
 44.3994742,-79.7263695,2,Geddes Crescent (403),a
-44.3994846,-79.6863416,2,Northpark Road (773),a
-44.3994851,-79.6786147,2,St. Vincent Street (536),a
 44.3994858,-79.6809925,2,Wellington Street East (437),a
 44.3994858,-79.6809925,2,Wellington Street East (437),a
-44.3994922,-79.678811,2,Queen Street (686),a
-44.3994954,-79.6903137,2,Newton Street (280),a
-44.3994963,-79.6863494,2,Northpark Road (774),a
-44.3994975,-79.6877899,2,Davidson Street (078),a
-44.3994993,-79.6757957,2,Penetang Street (637),a
 44.399501,-79.7264182,2,Geddes Crescent (404),a
-44.3995023,-79.6850774,2,Parkdale Crescent (996),a
 44.3995049,-79.6561814,2,Johnson Street (490),a
 44.3995049,-79.6561814,2,Johnson Street (490),a
-44.3995064,-79.6757384,2,Penetang Street (579),a
 44.3995085,-79.7011425,2,Coulter Street (888),a
-44.3995104,-79.690327,2,Newton Street (279),a
-44.3995185,-79.675641,2,Duckworth Street (297),a
-44.3995185,-79.675641,2,Duckworth Street (330),a
-44.3995185,-79.675641,2,Napier Street (404),a
-44.3995185,-79.675641,2,Penetang Street (099),a
 44.3995212,-79.6506688,2,Blake Street (921),a
-44.3995217,-79.6787632,2,Queen Street (687),a
-44.3995346,-79.6863752,2,Northpark Road (775),a
-44.3995377,-79.6754866,2,Napier Street (403),a
 44.3995416,-79.7295005,2,Leacock Drive (907),a
 44.3995416,-79.7295005,2,Leacock Drive (907),a
-44.3995458,-79.6850546,2,Parkdale Crescent (997),a
 44.3995509,-79.6963651,2,Rose Street (828),a
 44.3995624,-79.729517,2,Leacock Drive (908),a
 44.3995624,-79.729517,2,Leacock Drive (908),a
 44.3995633,-79.6644784,2,Strabane Avenue (593),a
 44.3995664,-79.7297516,2,Livingstone Street West (659),a
 44.3995664,-79.7297516,2,Livingstone Street West (659),a
-44.3995667,-79.6878288,2,Davidson Street (079),a
-44.3995691,-79.6786863,2,Queen Street (476),a
-44.3995691,-79.6786863,2,Queen Street (481),a
-44.3995691,-79.6786863,2,St. Vincent Street (144),a
 44.3995757,-79.6561688,2,Adam Street (208),a
 44.3995757,-79.6561688,2,Adam Street (208),a
 44.3995757,-79.6561688,2,Johnson Street (209),a
@@ -18097,34 +17495,23 @@ lat,lon,sz,names,len_cat
 44.3995869,-79.6562663,2,Adam Street (866),a
 44.3995903,-79.6562958,2,Adam Street (865),a
 44.3995903,-79.6562958,2,Adam Street (865),a
-44.3995925,-79.6850555,2,Parkdale Crescent (998),a
-44.3996024,-79.686396,2,Northpark Road (776),a
-44.3996109,-79.6756231,2,Duckworth Street (583),a
 44.3996138,-79.6573472,2,Downsview Drive (665),a
 44.3996138,-79.6573472,2,Downsview Drive (665),a
-44.3996263,-79.6785935,2,Queen Street (682),a
-44.3996283,-79.6850746,2,Parkdale Crescent (999),a
-44.399637,-79.675618,2,Duckworth Street (652),a
 44.3996381,-79.6962887,2,Rose Street (829),a
-44.3996448,-79.6785636,2,Queen Street (681),a
 44.3996455,-79.7295768,2,Leacock Drive (210),a
 44.3996455,-79.7295768,2,Leacock Drive (210),a
 44.3996455,-79.7295768,2,Livingstone Street West (660),a
 44.3996455,-79.7295768,2,Livingstone Street West (660),a
-44.3996479,-79.6787536,2,St. Vincent Street (535),a
 44.3996513,-79.6645948,2,Nelson Street (061),a
 44.3996513,-79.6645948,2,Strabane Avenue (671),a
 44.3996572,-79.7055247,2,Coulter Street (447),a
 44.3996572,-79.7055247,2,Coulter Street (447),a
-44.3996577,-79.6787619,2,St. Vincent Street (534),a
 44.399659,-79.7269508,2,Geddes Crescent (405),a
 44.3996594,-79.6646886,2,Strabane Avenue (608),a
 44.3996624,-79.664723,2,Strabane Avenue (674),a
 44.3996625,-79.6990859,2,Bayfield Street (941),a
 44.3996641,-79.6920304,2,Peel Street (231),a
 44.3996641,-79.6920304,2,Peel Street (231),a
-44.3996692,-79.686395,2,Northpark Road (777),a
-44.3996709,-79.6897005,2,Grove Street East (838),a
 44.3996742,-79.6572108,2,Adam Street (707),a
 44.3996742,-79.6572108,2,Adam Street (707),a
 44.3996832,-79.7009697,2,Coulter Street (316),a
@@ -18155,9 +17542,7 @@ lat,lon,sz,names,len_cat
 44.3997513,-79.692105,2,Peel Street (232),a
 44.399752,-79.7294228,2,Livingstone Street West (661),a
 44.399752,-79.7294228,2,Livingstone Street West (661),a
-44.3997629,-79.6894925,2,Grove Street East (161),a
 44.3997639,-79.7273397,2,Geddes Crescent (406),a
-44.3997684,-79.6879424,2,Davidson Street (080),a
 44.3997733,-79.727423,2,Geddes Crescent (407),a
 44.3997745,-79.7008586,2,Coulter Street (315),a
 44.3997796,-79.6583091,2,Adam Street (708),a
@@ -18194,10 +17579,8 @@ lat,lon,sz,names,len_cat
 44.3999089,-79.6596672,2,Puget Street (183),a
 44.3999089,-79.6596672,2,Puget Street (193),a
 44.3999217,-79.7006272,2,Coulter Street (886),a
-44.3999222,-79.688029,2,Davidson Street (081),a
 44.3999323,-79.6779465,2,Queen Street (477),a
 44.3999363,-79.649826,2,Blake Street (924),a
-44.3999402,-79.686361,2,Northpark Road (778),a
 44.3999429,-79.7255276,2,Irwin Drive (910),a
 44.3999546,-79.6679441,2,Strabane Avenue (672),a
 44.3999546,-79.6679441,2,Strabane Avenue (672),a
@@ -18209,21 +17592,17 @@ lat,lon,sz,names,len_cat
 44.3999915,-79.7165136,2,Cundles Road West (945),a
 44.3999915,-79.7165136,2,Cundles Road West (945),a
 44.4000072,-79.6617465,2,Vancouver Street (619),a
-44.4000079,-79.6854056,2,Parkdale Crescent (000),a
 44.4000139,-79.6526198,2,Alexander Avenue (252),a
 44.4000282,-79.7292092,2,Livingstone Street West (016),a
 44.4000282,-79.7292092,2,Livingstone Street West (016),a
 44.4000367,-79.6528583,2,Alexander Avenue (251),a
 44.4000367,-79.6525343,2,Alexander Avenue (915),a
-44.4000395,-79.6863337,2,Northpark Road (779),a
 44.4000601,-79.6699036,2,Cook Street (562),a
 44.4000601,-79.6699036,2,Cook Street (562),a
 44.4000796,-79.6699,2,Cook Street (565),a
 44.4000796,-79.6699,2,Cook Street (565),a
 44.4000859,-79.6525028,2,Alexander Avenue (253),a
 44.4000859,-79.6525028,2,Oliver Street (361),a
-44.4000925,-79.6862948,2,Northpark Road (780),a
-44.4001068,-79.6862749,2,Northpark Road (781),a
 44.4001089,-79.6962403,2,Rose Street (824),a
 44.4001089,-79.6962403,2,Rose Street (833),a
 44.4001095,-79.7002329,2,Coulter Street (326),a
@@ -18252,51 +17631,25 @@ lat,lon,sz,names,len_cat
 44.4001632,-79.7058955,2,Mall Street (615),a
 44.4001642,-79.6489441,2,Penetanguishene Road (147),a
 44.4001643,-79.6700239,2,Strabane Avenue (604),a
-44.400169,-79.679204,2,St. Vincent Street (449),a
 44.4001764,-79.7000726,2,Coulter Street (327),a
-44.4001805,-79.6885483,2,Grove Street East (839),a
-44.4001894,-79.6814371,2,Elm Street (985),a
-44.4001894,-79.6814371,2,Elm Street (985),a
-44.4001894,-79.6814371,2,Gunn Street (949),a
-44.4001894,-79.6814371,2,Gunn Street (949),a
-44.4001894,-79.6814371,2,Gunn Street (950),a
-44.4001894,-79.6814371,2,Gunn Street (950),a
-44.4001894,-79.6794004,2,Wellington Street East (438),a
-44.4001995,-79.6793761,2,Wellington Street East (636),a
 44.4002052,-79.6489745,2,Penetanguishene Road (146),a
 44.4002182,-79.72916,2,Livingstone Street West (663),a
 44.4002182,-79.72916,2,Livingstone Street West (663),a
 44.4002189,-79.6959388,2,Rose Street (822),a
-44.4002264,-79.6861078,2,Northpark Road (782),a
 44.4002306,-79.6698718,2,Cook Street (564),a
 44.4002306,-79.6698718,2,Cook Street (564),a
 44.4002354,-79.7259231,2,Irwin Drive (912),a
-44.4002447,-79.6792678,2,St. Vincent Street (143),a
-44.4002447,-79.6792678,2,St. Vincent Street (158),a
-44.4002447,-79.6792678,2,Wellington Street East (440),a
-44.4002467,-79.6882115,2,Davidson Street (082),a
 44.400247,-79.6490143,2,Penetanguishene Road (145),a
 44.4002495,-79.6698682,2,Cook Street (563),a
 44.4002495,-79.6698682,2,Cook Street (563),a
-44.4002527,-79.6814918,2,Elm Street (744),a
-44.4002527,-79.6814918,2,Elm Street (744),a
 44.4002682,-79.7059799,2,Coulter Street (323),a
-44.4002707,-79.6815073,2,Elm Street (987),a
-44.4002707,-79.6815073,2,Elm Street (987),a
 44.4002766,-79.6998211,2,Coulter Street (328),a
-44.4002781,-79.6883276,2,Grove Street East (840),a
 44.400282,-79.6490721,2,Penetanguishene Road (144),a
-44.400308,-79.6793217,2,St. Vincent Street (451),a
 44.4003083,-79.649361,2,Blake Street (547),a
 44.4003093,-79.6726843,2,Rodney Street (572),a
-44.400313,-79.6882488,2,Davidson Street (083),a
-44.400313,-79.6882488,2,Davidson Street (093),a
-44.400313,-79.6882488,2,Grove Street East (841),a
-44.400313,-79.6882488,2,Grove Street East (859),a
 44.4003171,-79.6558925,2,Alexander Avenue (913),a
 44.4003213,-79.6559362,2,Alexander Avenue (914),a
 44.4003235,-79.6491565,2,Penetanguishene Road (143),a
-44.4003237,-79.6859652,2,Northpark Road (783),a
 44.4003267,-79.715699,2,Cundles Road West (901),a
 44.4003267,-79.715699,2,Cundles Road West (946),a
 44.4003267,-79.715699,2,Lillian Crescent (114),a
@@ -18308,10 +17661,8 @@ lat,lon,sz,names,len_cat
 44.4003395,-79.6996632,2,Bayfield Street (883),a
 44.4003395,-79.6996632,2,Coulter Street (325),a
 44.4003511,-79.6956363,2,Rose Street (820),a
-44.400353,-79.6881573,2,Grove Street East (860),a
 44.400365,-79.7054264,2,Mall Street (616),a
 44.400365,-79.7054264,2,Mall Street (616),a
-44.4003844,-79.6882853,2,Davidson Street (094),a
 44.4003849,-79.6492684,2,Blake Street (858),a
 44.4003849,-79.6492684,2,Penetanguishene Road (991),a
 44.4003849,-79.6492684,2,Penetanguishene Road (995),a
@@ -18332,20 +17683,12 @@ lat,lon,sz,names,len_cat
 44.4004343,-79.6730214,2,Strabane Avenue (667),a
 44.4004358,-79.6743646,2,Strabane Avenue (590),a
 44.4004377,-79.6879634,2,Grove Street East (861),a
-44.4004399,-79.6794331,2,St. Vincent Street (450),a
 44.4004401,-79.6928357,2,Agnes Street (118),a
 44.4004421,-79.673517,2,Strabane Avenue (589),a
 44.4004444,-79.6732738,2,Strabane Avenue (668),a
-44.4004461,-79.682989,2,Oakley Park Square (693),a
-44.4004467,-79.6857846,2,Northpark Road (784),a
-44.4004467,-79.6857846,2,Northpark Road (785),a
-44.4004467,-79.6857846,2,Parkdale Crescent (001),a
 44.4004484,-79.6494056,2,Steel Street (563),a
 44.4004496,-79.6928146,2,Agnes Street (205),a
-44.4004508,-79.6829503,2,Oakley Park Square (691),a
-44.4004581,-79.6830306,2,Oakley Park Square (692),a
 44.4004647,-79.6494584,2,Steel Street (564),a
-44.4004724,-79.6828884,2,Oakley Park Square (449),a
 44.4004743,-79.6495121,2,Steel Street (565),a
 44.4004745,-79.7175295,2,Riverwood Court (287),a
 44.4004745,-79.7175295,2,Riverwood Court (287),a
@@ -18354,7 +17697,6 @@ lat,lon,sz,names,len_cat
 44.4004819,-79.6616611,2,Melrose Avenue (216),a
 44.4004819,-79.6616611,2,Vancouver Street (964),a
 44.4004819,-79.6616611,2,Vancouver Street (967),a
-44.4004834,-79.683073,2,Oakley Park Square (450),a
 44.4004839,-79.7172542,2,Riverwood Court (286),a
 44.4004862,-79.6927331,2,Agnes Street (119),a
 44.4004862,-79.6927331,2,Peel Street (223),a
@@ -18364,9 +17706,6 @@ lat,lon,sz,names,len_cat
 44.4005004,-79.6998118,2,Bayfield Street (882),a
 44.4005124,-79.6500913,2,Steel Street (973),a
 44.4005162,-79.7268839,2,Irwin Drive (914),a
-44.4005199,-79.6795007,2,St. Vincent Street (157),a
-44.4005199,-79.6795007,2,St. Vincent Street (175),a
-44.4005199,-79.6795007,2,Wellington Street East (423),a
 44.400522,-79.6753131,2,Strabane Avenue (600),a
 44.4005233,-79.6753277,2,Strabane Avenue (602),a
 44.400534,-79.675452,2,Duckworth Street (331),a
@@ -18374,15 +17713,11 @@ lat,lon,sz,names,len_cat
 44.4005492,-79.7177664,2,Riverwood Court (288),a
 44.4005492,-79.7177664,2,Riverwood Court (288),a
 44.400564,-79.727134,2,Irwin Drive (915),a
-44.4005677,-79.6793903,2,Wellington Street East (632),a
 44.4005707,-79.7302107,2,Nugent Court (472),a
-44.4005784,-79.6793656,2,Wellington Street East (425),a
 44.4005885,-79.7049397,2,Mall Street (322),a
 44.4005885,-79.7049397,2,Mall Street (322),a
 44.4005922,-79.6509406,2,Steel Street (799),a
 44.4005922,-79.6509406,2,Steel Street (799),a
-44.4005924,-79.679565,2,St. Vincent Street (460),a
-44.4005924,-79.679565,2,St. Vincent Street (460),a
 44.4006008,-79.7159444,2,Lillian Crescent (115),a
 44.400615,-79.651173,2,Corrinhall Street (315),a
 44.400615,-79.651173,2,Steel Street (796),a
@@ -18420,18 +17755,10 @@ lat,lon,sz,names,len_cat
 44.4007326,-79.6644744,2,Melrose Avenue (661),a
 44.4007357,-79.6645058,2,Melrose Avenue (660),a
 44.4007397,-79.6524858,2,Steel Street (568),a
-44.400749,-79.6846727,2,Creswick Court (540),a
-44.400749,-79.6846727,2,Oak Street (466),a
-44.400749,-79.6846727,2,Oak Street (487),a
 44.4007589,-79.6489665,2,Penetanguishene Road (994),a
 44.4007666,-79.6648268,2,Melrose Avenue (655),a
 44.400769,-79.6527908,2,Steel Street (977),a
 44.4007699,-79.6760676,2,Queen Street (683),a
-44.4007791,-79.6819477,2,Elm Street (988),a
-44.4007791,-79.6819477,2,Elm Street (988),a
-44.4007919,-79.6819592,2,Elm Street (012),a
-44.4007919,-79.6819592,2,Elm Street (012),a
-44.4007922,-79.6845768,2,Creswick Court (955),a
 44.400796,-79.6530747,2,Steel Street (978),a
 44.4007989,-79.7064811,2,Coulter Street (324),a
 44.4007989,-79.7064811,2,Coulter Street (324),a
@@ -18439,20 +17766,10 @@ lat,lon,sz,names,len_cat
 44.4008049,-79.664376,2,Nelson Street (749),a
 44.4008309,-79.7179989,2,Riverwood Court (290),a
 44.4008309,-79.7179989,2,Riverwood Court (290),a
-44.4008346,-79.6799627,2,Gunn Street (951),a
 44.4008393,-79.6870441,2,Grove Street East (862),a
-44.4008488,-79.6799283,2,Gunn Street (699),a
 44.400849,-79.6787615,2,Wellington Street East (633),a
-44.4008596,-79.6820197,2,Elm Street (990),a
-44.4008596,-79.6820197,2,Elm Street (990),a
-44.4008596,-79.6820197,2,Oakley Park Square (448),a
-44.4008596,-79.6820197,2,Oakley Park Square (448),a
-44.4008596,-79.6820197,2,Oakley Park Square (460),a
-44.4008596,-79.6820197,2,Oakley Park Square (460),a
 44.4008597,-79.7001243,2,Bayfield Street (880),a
 44.4008682,-79.7206061,2,Sunnidale Road (273),a
-44.4008901,-79.6798284,2,Gunn Street (953),a
-44.4008901,-79.6798284,2,St. Vincent Street (174),a
 44.4009111,-79.6488543,2,Penetanguishene Road (464),a
 44.400933,-79.6661284,2,Melrose Avenue (657),a
 44.4009439,-79.6785498,2,Wellington Street East (426),a
@@ -18471,15 +17788,12 @@ lat,lon,sz,names,len_cat
 44.4010493,-79.6558953,2,Johnson Street (216),a
 44.4010493,-79.6558953,2,Steel Street (974),a
 44.4010493,-79.6558953,2,Steel Street (979),a
-44.4010497,-79.6851749,2,Northpark Road (786),a
-44.4010529,-79.6815932,2,Oakley Park Square (461),a
 44.4010556,-79.6886107,2,Davidson Street (095),a
 44.401061,-79.6560066,2,Steel Street (567),a
 44.4010643,-79.6560384,2,Steel Street (566),a
 44.401073,-79.6673368,2,Melrose Avenue (662),a
 44.4010751,-79.6673597,2,Melrose Avenue (221),a
 44.4010799,-79.6570828,2,Downsview Drive (667),a
-44.4010808,-79.6815222,2,Oakley Park Square (698),a
 44.4010827,-79.6487531,2,Penetanguishene Road (463),a
 44.4010827,-79.6487531,2,Penetanguishene Road (465),a
 44.4010844,-79.6753559,2,Duckworth Street (332),a
@@ -18488,25 +17802,15 @@ lat,lon,sz,names,len_cat
 44.4010999,-79.6939236,2,Rose Street (406),a
 44.4010999,-79.6939236,2,Rose Street (406),a
 44.401102,-79.716486,2,Lillian Crescent (117),a
-44.4011149,-79.6850862,2,Northpark Road (787),a
-44.4011187,-79.6814883,2,Oakley Park Square (697),a
 44.4011189,-79.7066932,2,Coulter Street (448),a
 44.4011189,-79.7066932,2,Coulter Street (448),a
 44.4011194,-79.7003596,2,Bayfield Street (879),a
 44.4011291,-79.6558759,2,Johnson Street (488),a
-44.4011321,-79.6838218,2,Creswick Court (166),a
-44.4011321,-79.6838218,2,Creswick Court (166),a
-44.4011483,-79.6837859,2,Creswick Court (542),a
-44.4011483,-79.6837859,2,Creswick Court (542),a
 44.4011541,-79.6558698,2,Johnson Street (487),a
 44.4011573,-79.6865096,2,Grove Street East (863),a
-44.4011621,-79.6814863,2,Oakley Park Square (462),a
 44.4011641,-79.6570676,2,Downsview Drive (313),a
 44.4011641,-79.6570676,2,Steel Street (975),a
 44.4011641,-79.6570676,2,Steel Street (986),a
-44.4011693,-79.6849619,2,Northpark Road (788),a
-44.4011693,-79.6849619,2,Oak Street (467),a
-44.4011693,-79.6849619,2,Oak Street (474),a
 44.4011701,-79.6937629,2,Rose Street (405),a
 44.4011802,-79.6581817,2,Varden Avenue (150),a
 44.4011802,-79.6581817,2,Varden Avenue (150),a
@@ -18517,15 +17821,6 @@ lat,lon,sz,names,len_cat
 44.4011832,-79.6886704,2,Davidson Street (096),a
 44.4011925,-79.7215248,2,Sunnidale Road (249),a
 44.401197,-79.7217456,2,Sunnidale Road (250),a
-44.4011978,-79.6836767,2,Creswick Court (544),a
-44.4011978,-79.6836767,2,Creswick Court (544),a
-44.4011978,-79.6836767,2,Creswick Court (545),a
-44.4011978,-79.6836767,2,Creswick Court (545),a
-44.4011978,-79.6836767,2,Oakley Park Square (451),a
-44.4011978,-79.6836767,2,Oakley Park Square (451),a
-44.4011978,-79.6836767,2,Oakley Park Square (456),a
-44.4011978,-79.6836767,2,Oakley Park Square (456),a
-44.4011987,-79.6815073,2,Oakley Park Square (463),a
 44.4011987,-79.658178,2,Varden Avenue (718),a
 44.4011987,-79.658178,2,Varden Avenue (718),a
 44.4012001,-79.7218589,2,Sunnidale Road (251),a
@@ -18537,8 +17832,6 @@ lat,lon,sz,names,len_cat
 44.4012248,-79.7067462,2,Coulter Street (900),a
 44.4012318,-79.6936103,2,Rose Street (404),a
 44.4012349,-79.6933502,2,Peel Street (224),a
-44.4012362,-79.6835916,2,Creswick Court (546),a
-44.4012362,-79.6835916,2,Creswick Court (546),a
 44.4012453,-79.6933597,2,Peel Street (225),a
 44.40125,-79.7184418,2,Lillian Crescent (124),a
 44.40125,-79.7184418,2,Lillian Crescent (124),a
@@ -18579,32 +17872,14 @@ lat,lon,sz,names,len_cat
 44.4013158,-79.7291074,2,Livingstone Street West (018),a
 44.4013166,-79.659412,2,Puget Street (723),a
 44.4013166,-79.659412,2,Puget Street (723),a
-44.401318,-79.6831772,2,Creswick Court (529),a
-44.401318,-79.6831772,2,Creswick Court (529),a
-44.4013215,-79.6831286,2,Creswick Court (530),a
-44.4013215,-79.6831286,2,Creswick Court (530),a
-44.4013254,-79.683225,2,Creswick Court (528),a
-44.4013254,-79.683225,2,Creswick Court (528),a
-44.4013356,-79.6830838,2,Creswick Court (531),a
-44.4013356,-79.6830838,2,Creswick Court (531),a
 44.401338,-79.7291061,2,Livingstone Street West (019),a
-44.4013393,-79.6832725,2,Creswick Court (527),a
-44.4013393,-79.6832725,2,Creswick Court (527),a
 44.4013469,-79.719055,2,Lillian Crescent (126),a
 44.4013469,-79.719055,2,Lillian Crescent (126),a
-44.4013558,-79.6833211,2,Creswick Court (526),a
-44.4013558,-79.6833211,2,Creswick Court (526),a
-44.4013558,-79.6833211,2,Creswick Court (547),a
-44.4013558,-79.6833211,2,Creswick Court (547),a
-44.4013589,-79.6830474,2,Creswick Court (532),a
-44.4013589,-79.6830474,2,Creswick Court (532),a
 44.4013814,-79.7068026,2,Coulter Street (249),a
 44.4013814,-79.7068026,2,Coulter Street (249),a
 44.4013815,-79.6593105,2,Steel Street (080),a
 44.4013815,-79.6593105,2,Steel Street (080),a
 44.4013879,-79.6495456,2,Buchanan Street (728),a
-44.4013891,-79.6830229,2,Creswick Court (533),a
-44.4013891,-79.6830229,2,Creswick Court (533),a
 44.4013894,-79.6496305,2,Buchanan Street (055),a
 44.40139,-79.6593991,2,Puget Street (184),a
 44.40139,-79.6593991,2,Puget Street (184),a
@@ -18612,8 +17887,6 @@ lat,lon,sz,names,len_cat
 44.40139,-79.6593991,2,Steel Street (966),a
 44.40139,-79.6593991,2,Steel Street (967),a
 44.40139,-79.6593991,2,Steel Street (967),a
-44.4013934,-79.6833325,2,Creswick Court (525),a
-44.4013934,-79.6833325,2,Creswick Court (525),a
 44.4013954,-79.7006097,2,Bayfield Street (877),a
 44.4014067,-79.728949,2,Sunnidale Road (050),a
 44.4014085,-79.6494754,2,Buchanan Street (729),a
@@ -18623,20 +17896,12 @@ lat,lon,sz,names,len_cat
 44.4014113,-79.7291021,2,Sunnidale Road (295),a
 44.4014152,-79.7292478,2,Sunnidale Road (056),a
 44.4014165,-79.6931328,2,Rose Street (434),a
-44.4014232,-79.6830127,2,Creswick Court (534),a
-44.4014232,-79.6830127,2,Creswick Court (534),a
 44.4014265,-79.6500075,2,Buchanan Street (727),a
 44.4014271,-79.6510193,2,Corrinhall Street (920),a
-44.4014356,-79.6833238,2,Creswick Court (524),a
-44.4014356,-79.6833238,2,Creswick Court (524),a
 44.4014418,-79.6802994,2,Shannon Street (006),a
 44.4014418,-79.6802994,2,St. Vincent Street (173),a
 44.401445,-79.6494267,2,Buchanan Street (056),a
 44.4014512,-79.7129045,2,Cundles Road West (904),a
-44.401458,-79.6830178,2,Creswick Court (535),a
-44.401458,-79.6830178,2,Creswick Court (535),a
-44.4014695,-79.6833134,2,Creswick Court (523),a
-44.4014695,-79.6833134,2,Creswick Court (523),a
 44.4014724,-79.6860966,2,Bothwell Crescent (988),a
 44.4014724,-79.6860966,2,Grove Street East (817),a
 44.4014724,-79.6860966,2,Grove Street East (864),a
@@ -18648,24 +17913,16 @@ lat,lon,sz,names,len_cat
 44.4014873,-79.7319487,2,Sunnidale Road (294),a
 44.4014887,-79.6494045,2,Buchanan Street (730),a
 44.4014893,-79.6801938,2,Shannon Street (748),a
-44.4014899,-79.6830377,2,Creswick Court (536),a
-44.4014899,-79.6830377,2,Creswick Court (536),a
 44.4014932,-79.6888209,2,Davidson Street (097),a
 44.4014985,-79.7290967,2,Livingstone Street West (054),a
-44.4014995,-79.6832889,2,Creswick Court (522),a
-44.4014995,-79.6832889,2,Creswick Court (522),a
 44.4015005,-79.6614756,2,Vancouver Street (400),a
 44.4015012,-79.6801672,2,Shannon Street (008),a
 44.4015152,-79.6606825,2,Steel Street (989),a
-44.4015157,-79.6830703,2,Creswick Court (537),a
-44.4015157,-79.6830703,2,Creswick Court (537),a
 44.4015168,-79.6614724,2,Vancouver Street (620),a
 44.4015169,-79.6861706,2,Bothwell Crescent (989),a
 44.4015187,-79.6509992,2,Buchanan Street (044),a
 44.4015187,-79.6509992,2,Buchanan Street (054),a
 44.4015187,-79.6509992,2,Corrinhall Street (316),a
-44.4015227,-79.6832527,2,Creswick Court (521),a
-44.4015227,-79.6832527,2,Creswick Court (521),a
 44.4015237,-79.671191,2,Melrose Avenue (649),a
 44.4015237,-79.671191,2,Melrose Avenue (649),a
 44.4015239,-79.6712736,2,Melrose Avenue (716),a
@@ -18677,14 +17934,6 @@ lat,lon,sz,names,len_cat
 44.40153,-79.6713684,2,Melrose Avenue (212),a
 44.4015318,-79.6696333,2,Cook Street (225),a
 44.4015318,-79.6696333,2,Melrose Avenue (209),a
-44.401533,-79.6831123,2,Creswick Court (538),a
-44.401533,-79.6831123,2,Creswick Court (538),a
-44.4015367,-79.6832082,2,Creswick Court (520),a
-44.4015367,-79.6832082,2,Creswick Court (520),a
-44.4015403,-79.6831599,2,Creswick Court (519),a
-44.4015403,-79.6831599,2,Creswick Court (519),a
-44.4015403,-79.6831599,2,Creswick Court (539),a
-44.4015403,-79.6831599,2,Creswick Court (539),a
 44.4015406,-79.6697345,2,Melrose Avenue (652),a
 44.4015432,-79.6697656,2,Melrose Avenue (651),a
 44.4015432,-79.6697656,2,Melrose Avenue (651),a
@@ -18805,12 +18054,6 @@ lat,lon,sz,names,len_cat
 44.4018991,-79.6982753,2,Patricia Avenue (110),a
 44.4018996,-79.6752063,2,Duckworth Street (333),a
 44.4018996,-79.6752063,2,Melrose Avenue (215),a
-44.4019007,-79.6821145,2,Beecroft Gate (663),a
-44.4019007,-79.6821145,2,Beecroft Gate (663),a
-44.4019007,-79.6821145,2,Oakley Park Square (452),a
-44.4019007,-79.6821145,2,Oakley Park Square (452),a
-44.4019007,-79.6821145,2,Oakley Park Square (464),a
-44.4019007,-79.6821145,2,Oakley Park Square (464),a
 44.4019027,-79.6538801,2,Radenhurst Crescent (184),a
 44.4019185,-79.6869446,2,Jonathan Court (126),a
 44.4019215,-79.6856385,2,Grove Street East (818),a
@@ -18818,15 +18061,12 @@ lat,lon,sz,names,len_cat
 44.4019215,-79.6856385,2,Oak Street (478),a
 44.4019247,-79.7280589,2,Etherington Crescent (483),a
 44.4019267,-79.6641509,2,Nelson Street (753),a
-44.4019278,-79.684312,2,Oakley Park Square (457),a
 44.4019285,-79.7251705,2,Janice Drive (649),a
 44.4019307,-79.69418,2,Ottaway Avenue (329),a
 44.4019307,-79.69418,2,Ottaway Avenue (329),a
 44.4019416,-79.6941021,2,Ottaway Avenue (330),a
 44.4019416,-79.6941021,2,Ottaway Avenue (330),a
 44.4019424,-79.6641479,2,Nelson Street (752),a
-44.4019431,-79.6820185,2,Beecroft Gate (665),a
-44.4019431,-79.6820185,2,Beecroft Gate (665),a
 44.4019436,-79.6942516,2,Ottaway Avenue (328),a
 44.4019436,-79.6942516,2,Ottaway Avenue (328),a
 44.4019572,-79.6762655,2,Wellington Street East (427),a
@@ -18840,7 +18080,6 @@ lat,lon,sz,names,len_cat
 44.4019767,-79.6571058,2,Douglas Drive (880),a
 44.4019811,-79.7011099,2,Bayfield Street (926),a
 44.4019997,-79.6571998,2,Douglas Drive (211),a
-44.4020038,-79.6842839,2,Oakley Park Square (458),a
 44.4020044,-79.7289724,2,Livingstone Street West (699),a
 44.4020066,-79.7104761,2,Cundles Road West (906),a
 44.4020086,-79.6943363,2,Ottaway Avenue (326),a
@@ -18935,18 +18174,10 @@ lat,lon,sz,names,len_cat
 44.4022624,-79.6853533,2,Grove Street East (843),a
 44.4022635,-79.6673875,2,Jeffrey Street (148),a
 44.4022902,-79.6694905,2,Cook Street (397),a
-44.4022907,-79.6836674,2,Bennett Road (992),a
-44.4022907,-79.6836674,2,Bennett Road (992),a
-44.4022907,-79.6836674,2,Oakley Park Square (455),a
-44.4022907,-79.6836674,2,Oakley Park Square (455),a
-44.4022907,-79.6836674,2,Oakley Park Square (459),a
-44.4022907,-79.6836674,2,Oakley Park Square (459),a
-44.4022907,-79.6812182,2,Beecroft Gate (666),a
 44.402295,-79.6514967,2,Buchanan Street (719),a
 44.4022994,-79.6613221,2,Vancouver Street (689),a
 44.4022999,-79.7070651,2,Coulter Street (902),a
 44.4022999,-79.7070651,2,Coulter Street (902),a
-44.4023071,-79.6811805,2,Beecroft Gate (765),a
 44.4023153,-79.661319,2,Vancouver Street (690),a
 44.4023203,-79.6867581,2,Bothwell Crescent (982),a
 44.4023212,-79.6590939,2,Jones Drive (625),a
@@ -18961,13 +18192,7 @@ lat,lon,sz,names,len_cat
 44.4023485,-79.7287467,2,Etherington Crescent (482),a
 44.4023485,-79.7287467,2,Livingstone Street West (698),a
 44.4023494,-79.6503467,2,Sutton Drive (657),a
-44.4023498,-79.6837239,2,Bennett Road (993),a
-44.4023498,-79.6837239,2,Bennett Road (993),a
-44.4023552,-79.6810846,2,Beecroft Gate (668),a
-44.4023552,-79.6810846,2,St. Vincent Street (172),a
 44.4023559,-79.6693701,2,Steel Street (025),a
-44.4023636,-79.6837371,2,Bennett Road (994),a
-44.4023636,-79.6837371,2,Bennett Road (994),a
 44.4023656,-79.6694758,2,Cook Street (222),a
 44.4023656,-79.6694758,2,Steel Street (949),a
 44.4023656,-79.6694758,2,Steel Street (953),a
@@ -19037,15 +18262,11 @@ lat,lon,sz,names,len_cat
 44.4025955,-79.7072286,2,Coulter Street (905),a
 44.4025955,-79.7072286,2,Coulter Street (905),a
 44.4025957,-79.7014793,2,Ferris Lane (206),a
-44.4025976,-79.6827152,2,Oakley Park Square (453),a
-44.4025976,-79.6827152,2,Oakley Park Square (453),a
 44.4025979,-79.6970771,2,Patricia Avenue (116),a
 44.4025999,-79.6849808,2,Grove Street East (845),a
 44.4026015,-79.6718911,2,Steel Street (957),a
 44.4026061,-79.6990413,2,Baker Crescent (169),a
 44.4026068,-79.6991178,2,Baker Crescent (170),a
-44.402608,-79.6829165,2,Oakley Park Square (454),a
-44.402608,-79.6829165,2,Oakley Park Square (454),a
 44.4026101,-79.7107577,2,Oren Boulevard (856),a
 44.4026103,-79.7033937,2,Glenwood Drive (951),a
 44.4026116,-79.6590378,2,Jones Drive (626),a
@@ -19062,13 +18283,7 @@ lat,lon,sz,names,len_cat
 44.4026243,-79.6721226,2,Steel Street (629),a
 44.4026255,-79.6991603,2,Baker Crescent (171),a
 44.4026274,-79.7152345,2,Lillian Crescent (150),a
-44.4026282,-79.6827516,2,Oakley Park Square (696),a
-44.4026282,-79.6827516,2,Oakley Park Square (696),a
 44.4026329,-79.7039676,2,Glenwood Drive (945),a
-44.4026335,-79.6828546,2,Oakley Park Square (694),a
-44.4026335,-79.6828546,2,Oakley Park Square (694),a
-44.4026349,-79.6827983,2,Oakley Park Square (695),a
-44.4026349,-79.6827983,2,Oakley Park Square (695),a
 44.4026359,-79.6722477,2,Rodney Street (901),a
 44.4026359,-79.6722477,2,Steel Street (958),a
 44.4026359,-79.6722477,2,Steel Street (969),a
@@ -19160,7 +18375,6 @@ lat,lon,sz,names,len_cat
 44.402885,-79.6899991,2,Davidson Street (060),a
 44.4028859,-79.6770561,2,Shannon Street (749),a
 44.4028877,-79.6748728,2,Steel Street (630),a
-44.4028896,-79.6841916,2,Bennett Road (995),a
 44.4028898,-79.7027501,2,Glenwood Drive (954),a
 44.4028902,-79.6748998,2,Steel Street (631),a
 44.4028928,-79.700813,2,Ferris Lane (832),a
@@ -19176,7 +18390,6 @@ lat,lon,sz,names,len_cat
 44.402904,-79.6897373,2,Rose Street (814),a
 44.4029073,-79.6900149,2,Davidson Street (061),a
 44.4029085,-79.7211896,2,Janice Drive (657),a
-44.4029096,-79.684209,2,Bennett Road (996),a
 44.4029134,-79.6751422,2,Wellington Street East (642),a
 44.4029161,-79.6751697,2,Wellington Street East (641),a
 44.4029178,-79.6754174,2,Wellington Street East (445),a
@@ -19205,9 +18418,6 @@ lat,lon,sz,names,len_cat
 44.4029618,-79.6570568,2,Douglas Drive (088),a
 44.4029619,-79.7025919,2,Glenwood Drive (064),a
 44.4029635,-79.669359,2,Cook Street (219),a
-44.4029667,-79.6842586,2,Bennett Road (997),a
-44.4029667,-79.6842586,2,Grove Street East (826),a
-44.4029667,-79.6842586,2,Grove Street East (847),a
 44.4029667,-79.649135,2,Kinzie Lane (194),a
 44.4029752,-79.6588899,2,Jones Drive (627),a
 44.4029752,-79.6588899,2,Jones Drive (627),a
@@ -19219,7 +18429,6 @@ lat,lon,sz,names,len_cat
 44.4029842,-79.7005992,2,Ferris Lane (833),a
 44.4029852,-79.7160441,2,Lillian Crescent (113),a
 44.4029906,-79.7043294,2,Glenwood Drive (182),a
-44.4029948,-79.684196,2,Grove Street East (102),a
 44.4029972,-79.658252,2,Arthur Avenue (610),a
 44.4029972,-79.658252,2,Arthur Avenue (610),a
 44.4030018,-79.727074,2,Etherington Crescent (492),a

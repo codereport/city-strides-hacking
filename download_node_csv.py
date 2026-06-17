@@ -217,13 +217,23 @@ def get_city_from_user():
     sep = "    "  # gap between columns
     col_width = max(len(label) for label in labels)  # uniform width for every column
 
+    highlighted = {City.VAUGHAN, City.MARKHAM, City.ETOBICOKE, City.SCARBOROUGH}
+    bold_green, reset = "\033[1;32m", "\033[0m"
+
+    def cell(idx: int) -> str:
+        # Pad to the visible width first, then apply color so alignment is exact.
+        padded = f"{labels[idx]:<{col_width}}"
+        if list(City)[idx] in highlighted:
+            return f"{bold_green}{padded}{reset}"
+        return padded
+
     # Pick the largest number of equal-width columns that still fits the terminal.
     num_columns = max(1, (max_width + len(sep)) // (col_width + len(sep)))
     num_rows = ceil(n / num_columns)
 
     for i in range(num_rows):
         cells = [
-            f"{labels[i + j * num_rows]:<{col_width}}"
+            cell(i + j * num_rows)
             for j in range(num_columns)
             if i + j * num_rows < n
         ]

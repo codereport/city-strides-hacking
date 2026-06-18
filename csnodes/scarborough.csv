@@ -36520,10 +36520,6 @@ lat,lon,sz,names,len_cat
 43.7918384,-79.1580851,2,Smithy Court (975),a
 43.791839,-79.2141489,2,Neilson Road (002),a
 43.791839,-79.2141489,2,Neilson Road (419),a
-43.791844,-79.1811191,2,Parade Square (360),a
-43.791844,-79.1811191,2,Parade Square (588),a
-43.7918441,-79.1811796,2,Parade Square (359),a
-43.7918441,-79.1811796,2,Parade Square (587),a
 43.7918467,-79.1580099,2,Hearth Place (979),a
 43.7918477,-79.2098518,2,Edenmills Drive (003),a
 43.7918477,-79.2098518,2,Edenmills Drive (003),a
@@ -36539,16 +36535,10 @@ lat,lon,sz,names,len_cat
 43.7918512,-79.1243969,2,Rouge Hills Drive (470),a
 43.7918525,-79.2019031,2,Moeller Court (149),a
 43.7918525,-79.2019031,2,Moeller Court (611),a
-43.7918528,-79.1810802,2,Parade Square (361),a
-43.7918528,-79.1810802,2,Parade Square (589),a
 43.7918559,-79.1580218,2,Hearth Place (025),a
 43.7918559,-79.1580218,2,Hearth Place (128),a
 43.7918559,-79.1580218,2,Smithy Court (029),a
 43.7918559,-79.1580218,2,Smithy Court (251),a
-43.7918618,-79.1810584,2,Parade Square (362),a
-43.7918618,-79.1810584,2,Parade Square (590),a
-43.7918622,-79.1812036,2,Parade Square (358),a
-43.7918622,-79.1812036,2,Parade Square (586),a
 43.7918789,-79.1962784,2,Bonspiel Drive (123),a
 43.7918789,-79.1962784,2,Bonspiel Drive (123),a
 43.7918789,-79.1962784,2,Bonspiel Drive (133),a
@@ -36565,8 +36555,6 @@ lat,lon,sz,names,len_cat
 43.7918789,-79.1962784,2,Tams Road (577),a
 43.7918789,-79.1962784,2,Tams Road (589),a
 43.7918789,-79.1962784,2,Tams Road (589),a
-43.7918803,-79.1812354,2,Parade Square (357),a
-43.7918803,-79.1812354,2,Parade Square (585),a
 43.7918804,-79.1595295,2,White Avenue (263),a
 43.7918828,-79.1291332,2,Bowes Garden Court (729),a
 43.7918828,-79.1291332,2,Bowes Garden Court (730),a
@@ -36613,8 +36601,6 @@ lat,lon,sz,names,len_cat
 43.791941,-79.1599378,2,White Avenue (555),a
 43.7919447,-79.1287899,2,Milldock Drive (293),a
 43.7919447,-79.1287899,2,Milldock Drive (847),a
-43.7919524,-79.1812707,2,Parade Square (356),a
-43.7919524,-79.1812707,2,Parade Square (584),a
 43.7919531,-79.1954739,2,Morningside Avenue (353),a
 43.7919531,-79.1954739,2,Morningside Avenue (964),a
 43.7919556,-79.1963048,2,Bonspiel Drive (132),a
@@ -36629,14 +36615,10 @@ lat,lon,sz,names,len_cat
 43.7919591,-79.209647,2,Keeler Boulevard (066),a
 43.7919591,-79.209647,2,Keeler Boulevard (143),a
 43.7919591,-79.209647,2,Keeler Boulevard (143),a
-43.7919601,-79.1806187,2,Parade Square (261),a
-43.7919601,-79.1806187,2,Parade Square (427),a
 43.7919611,-79.1374336,2,Fanfare Avenue (144),a
 43.7919611,-79.1374336,2,Fanfare Avenue (144),a
 43.7919611,-79.1374336,2,Fanfare Avenue (894),a
 43.7919611,-79.1374336,2,Fanfare Avenue (894),a
-43.7919618,-79.1782022,2,Grantown Avenue (455),a
-43.7919618,-79.1782022,2,Grantown Avenue (765),a
 43.7919633,-79.1359138,2,Ridgewood Road (619),a
 43.7919633,-79.1359138,2,Ridgewood Road (619),a
 43.7919633,-79.1359138,2,Ridgewood Road (938),a
@@ -36671,8 +36653,6 @@ lat,lon,sz,names,len_cat
 43.7920054,-79.1359879,2,Ridgewood Road (366),a
 43.7920054,-79.1359879,2,Ridgewood Road (366),a
 43.7920054,-79.1359879,2,Ridgewood Road (724),a
-43.7920067,-79.1781593,2,Grantown Avenue (456),a
-43.7920067,-79.1781593,2,Grantown Avenue (766),a
 43.7920067,-79.13418,2,Jaybell Grove (755),a
 43.7920067,-79.13418,2,Jaybell Grove (823),a
 43.7920074,-79.1704366,2,Scarboro Avenue (110),a
@@ -36717,10 +36697,6 @@ lat,lon,sz,names,len_cat
 43.7920496,-79.1955146,2,Pan Am Drive (831),a
 43.7920496,-79.1955146,2,Tams Road (280),a
 43.7920496,-79.1955146,2,Tams Road (957),a
-43.792052,-79.1781085,2,Grantown Avenue (417),a
-43.792052,-79.1781085,2,Grantown Avenue (619),a
-43.7920569,-79.182369,2,Calverley Trail (369),a
-43.7920569,-79.182369,2,Calverley Trail (860),a
 43.7920581,-79.1268566,2,Clearlake Avenue (099),a
 43.7920581,-79.1268566,2,Clearlake Avenue (736),a
 43.7920581,-79.1268566,2,Starspray Boulevard (135),a
@@ -36733,26 +36709,18 @@ lat,lon,sz,names,len_cat
 43.7920606,-79.1568043,2,Valmount Avenue (954),a
 43.7920607,-79.2100989,2,Edenmills Drive (007),a
 43.7920607,-79.2100989,2,Edenmills Drive (049),a
-43.7920612,-79.1801485,2,Parade Square (262),a
-43.7920612,-79.1801485,2,Parade Square (428),a
 43.792078,-79.2093785,2,Keeler Boulevard (069),a
 43.792078,-79.2093785,2,Keeler Boulevard (069),a
 43.792078,-79.2093785,2,Keeler Boulevard (146),a
 43.792078,-79.2093785,2,Keeler Boulevard (146),a
-43.7920842,-79.1801066,2,Parade Square (367),a
-43.7920842,-79.1801066,2,Parade Square (595),a
 43.7920874,-79.2029391,2,Keeler Boulevard (071),a
 43.7920874,-79.2029391,2,Keeler Boulevard (958),a
-43.7920878,-79.178006,2,Grantown Avenue (418),a
-43.7920884,-79.1779973,2,Grantown Avenue (620),a
 43.7920897,-79.1953385,2,Pan Am Drive (307),a
 43.7920897,-79.1953385,2,Pan Am Drive (830),a
 43.7920952,-79.1269299,2,Clearlake Avenue (103),a
 43.7920952,-79.1269299,2,Clearlake Avenue (737),a
 43.7920964,-79.2119082,2,Sandrift Square (025),a
 43.7920964,-79.2119082,2,Sandrift Square (067),a
-43.7920966,-79.1813305,2,Parade Square (355),a
-43.7920966,-79.1813305,2,Parade Square (583),a
 43.7921059,-79.1269563,2,Clearlake Avenue (485),a
 43.7921059,-79.1269563,2,Clearlake Avenue (532),a
 43.7921106,-79.1568779,2,Kingston Road (401),a
@@ -36772,8 +36740,6 @@ lat,lon,sz,names,len_cat
 43.7921243,-79.2092732,2,Keeler Boulevard (147),a
 43.7921273,-79.2102015,2,Edenmills Drive (074),a
 43.7921273,-79.2102015,2,Edenmills Drive (317),a
-43.7921294,-79.1800917,2,Parade Square (368),a
-43.7921294,-79.1800917,2,Parade Square (596),a
 43.7921471,-79.2119528,2,Sandrift Square (024),a
 43.7921471,-79.2119528,2,Sandrift Square (066),a
 43.792158,-79.2091733,2,Keeler Boulevard (071),a
@@ -36812,19 +36778,11 @@ lat,lon,sz,names,len_cat
 43.7921916,-79.195576,2,Morningside Avenue (232),a
 43.7921916,-79.195576,2,Morningside Avenue (315),a
 43.7921916,-79.195576,2,Morningside Avenue (316),a
-43.7921922,-79.1800983,2,Parade Square (369),a
-43.7921922,-79.1800983,2,Parade Square (597),a
 43.7921941,-79.1374458,2,Decimal Place (876),a
 43.7922009,-79.209019,2,Keeler Boulevard (072),a
 43.7922009,-79.209019,2,Keeler Boulevard (072),a
 43.7922009,-79.209019,2,Keeler Boulevard (149),a
 43.7922009,-79.209019,2,Keeler Boulevard (149),a
-43.7922075,-79.1774152,2,Grantown Avenue (419),a
-43.7922075,-79.1774152,2,Grantown Avenue (621),a
-43.7922103,-79.176935,2,Grantown Avenue (462),a
-43.7922103,-79.176935,2,Grantown Avenue (772),a
-43.792211,-79.1771905,2,Grantown Avenue (461),a
-43.792211,-79.1771905,2,Grantown Avenue (771),a
 43.7922155,-79.2051888,2,Neelands Crescent (630),a
 43.7922155,-79.2051888,2,Neelands Crescent (637),a
 43.7922157,-79.1372336,2,Fanfare Avenue (143),a
@@ -36843,8 +36801,6 @@ lat,lon,sz,names,len_cat
 43.7922267,-79.1947556,2,Pan Am Drive (548),a
 43.7922267,-79.1947556,2,Pan Am Drive (581),a
 43.7922267,-79.1947556,2,Pan Am Drive (829),a
-43.7922317,-79.1813849,2,Parade Square (354),a
-43.7922317,-79.1813849,2,Parade Square (582),a
 43.7922372,-79.208901,2,Keeler Boulevard (074),a
 43.7922372,-79.208901,2,Keeler Boulevard (074),a
 43.7922372,-79.208901,2,Keeler Boulevard (151),a
@@ -36869,10 +36825,6 @@ lat,lon,sz,names,len_cat
 43.7922543,-79.2088423,2,Skyridge Road (178),a
 43.7922551,-79.1945048,2,Pan Am Drive (506),a
 43.7922551,-79.1945048,2,Pan Am Drive (795),a
-43.7922552,-79.1801267,2,Parade Square (370),a
-43.7922552,-79.1801267,2,Parade Square (598),a
-43.7922554,-79.1824604,2,Calverley Trail (370),a
-43.7922554,-79.1824604,2,Calverley Trail (861),a
 43.7922682,-79.2134608,2,Sandrift Square (119),a
 43.7922682,-79.2134608,2,Sandrift Square (633),a
 43.7922689,-79.1943828,2,Pan Am Drive (497),a
@@ -36883,16 +36835,10 @@ lat,lon,sz,names,len_cat
 43.7922758,-79.210483,2,Edenmills Drive (325),a
 43.792276,-79.1566147,2,Kingston Road (400),a
 43.792276,-79.1566147,2,Kingston Road (949),a
-43.7922851,-79.1755615,2,Grantown Avenue (420),a
-43.7922851,-79.1755615,2,Grantown Avenue (622),a
-43.7923129,-79.1814249,2,Parade Square (353),a
-43.7923129,-79.1814249,2,Parade Square (581),a
 43.792316,-79.2146124,2,Neilson Road (003),a
 43.792316,-79.2146124,2,Neilson Road (421),a
 43.7923226,-79.213484,2,Sandrift Square (120),a
 43.7923226,-79.213484,2,Sandrift Square (634),a
-43.7923285,-79.1753981,2,Grantown Avenue (421),a
-43.7923285,-79.1753981,2,Grantown Avenue (623),a
 43.7923315,-79.2042607,2,Neelands Crescent (635),a
 43.7923315,-79.2042607,2,Neelands Crescent (642),a
 43.7923469,-79.2042218,2,Neelands Crescent (636),a
@@ -36941,8 +36887,6 @@ lat,lon,sz,names,len_cat
 43.792381,-79.136502,2,Fanfare Avenue (889),a
 43.7923827,-79.1436464,2,Andona Crescent (022),a
 43.7923827,-79.1436464,2,Andona Crescent (483),a
-43.7923849,-79.1814439,2,Parade Square (352),a
-43.7923849,-79.1814439,2,Parade Square (580),a
 43.7923864,-79.1491499,2,Karina Road (176),a
 43.7923864,-79.1491499,2,Karina Road (910),a
 43.7923934,-79.12656,2,Starspray Boulevard (137),a
@@ -36975,8 +36919,6 @@ lat,lon,sz,names,len_cat
 43.7924291,-79.2133814,2,Sandrift Square (125),a
 43.7924291,-79.2133814,2,Sandrift Square (639),a
 43.7924319,-79.1511251,2,Laura Ellis Court (719),a
-43.792448,-79.181456,2,Parade Square (351),a
-43.792448,-79.181456,2,Parade Square (579),a
 43.7924555,-79.2133433,2,Sandrift Square (126),a
 43.7924555,-79.2133433,2,Sandrift Square (640),a
 43.7924595,-79.2108442,2,Edenmills Drive (085),a
@@ -37014,8 +36956,6 @@ lat,lon,sz,names,len_cat
 43.7925039,-79.1430653,2,Andona Crescent (850),a
 43.7925148,-79.1293735,2,Bowes Garden Court (732),a
 43.7925148,-79.1293735,2,Bowes Garden Court (828),a
-43.7925154,-79.1814633,2,Parade Square (260),a
-43.7925154,-79.1814633,2,Parade Square (426),a
 43.7925167,-79.1633944,2,Ellesmere Road (580),a
 43.7925167,-79.1633944,2,Ellesmere Road (826),a
 43.7925191,-79.1976932,2,Bonspiel Drive (097),a
@@ -37027,12 +36967,6 @@ lat,lon,sz,names,len_cat
 43.7925291,-79.1438657,2,Andona Crescent (939),a
 43.7925355,-79.1409687,2,Calderstone Crescent (541),a
 43.7925395,-79.1410293,2,Calderstone Crescent (540),a
-43.7925439,-79.1814664,2,Parade Square (259),a
-43.7925439,-79.1814664,2,Parade Square (267),a
-43.7925439,-79.1814664,2,Parade Square (275),a
-43.7925439,-79.1814664,2,Parade Square (425),a
-43.7925439,-79.1814664,2,Parade Square (433),a
-43.7925439,-79.1814664,2,Parade Square (441),a
 43.7925442,-79.1957255,2,Morningside Avenue (419),a
 43.7925442,-79.1957255,2,Morningside Avenue (419),a
 43.7925442,-79.1957255,2,Morningside Avenue (651),a
@@ -37094,15 +37028,9 @@ lat,lon,sz,names,len_cat
 43.7926132,-79.1583802,2,Hearth Place (978),a
 43.7926137,-79.2123233,2,Sandrift Square (023),a
 43.7926137,-79.2123233,2,Sandrift Square (065),a
-43.7926138,-79.1814777,2,Parade Square (274),a
-43.7926138,-79.1814777,2,Parade Square (440),a
 43.7926154,-79.1510364,2,Laura Ellis Court (721),a
 43.7926164,-79.159027,2,Hearth Place (022),a
 43.7926164,-79.159027,2,Hearth Place (125),a
-43.7926228,-79.1814791,2,Parade Square (273),a
-43.7926228,-79.1814791,2,Parade Square (439),a
-43.7926272,-79.1810655,2,Parade Square (266),a
-43.7926272,-79.1810655,2,Parade Square (432),a
 43.7926348,-79.1590855,2,Hearth Place (427),a
 43.7926348,-79.1590855,2,Hearth Place (976),a
 43.7926352,-79.1975426,2,Bonspiel Drive (100),a
@@ -37113,8 +37041,6 @@ lat,lon,sz,names,len_cat
 43.7926411,-79.2123466,2,Sandrift Square (064),a
 43.7926478,-79.1426107,2,Andona Crescent (851),a
 43.7926478,-79.1426107,2,Andona Crescent (906),a
-43.7926518,-79.1802986,2,Parade Square (371),a
-43.7926518,-79.1802986,2,Parade Square (599),a
 43.7926539,-79.2110629,2,Edenmills Drive (090),a
 43.7926539,-79.2110629,2,Edenmills Drive (335),a
 43.7926546,-79.1585393,2,Hearth Place (428),a
@@ -37137,8 +37063,6 @@ lat,lon,sz,names,len_cat
 43.7926872,-79.1974593,2,Bonspiel Drive (101),a
 43.7926872,-79.1974593,2,Bonspiel Drive (936),a
 43.7926872,-79.1974593,2,Bonspiel Drive (936),a
-43.7926913,-79.1814922,2,Parade Square (272),a
-43.7926913,-79.1814922,2,Parade Square (438),a
 43.7926918,-79.2124133,2,Sandrift Square (020),a
 43.7926918,-79.2124133,2,Sandrift Square (062),a
 43.7926979,-79.202931,2,Keeler Boulevard (072),a
@@ -37156,10 +37080,6 @@ lat,lon,sz,names,len_cat
 43.7927094,-79.2125003,2,Sandrift Square (018),a
 43.7927094,-79.2125003,2,Sandrift Square (060),a
 43.792713,-79.1352272,2,Jaybell Grove (756),a
-43.792714,-79.1806594,2,Parade Square (265),a
-43.792714,-79.1806594,2,Parade Square (431),a
-43.7927149,-79.1803262,2,Parade Square (372),a
-43.7927149,-79.1803262,2,Parade Square (600),a
 43.7927199,-79.1529659,2,Centennial Road North (543),a
 43.7927249,-79.1421346,2,Port Union Road (626),a
 43.7927249,-79.1421346,2,Port Union Road (717),a
@@ -37170,25 +37090,15 @@ lat,lon,sz,names,len_cat
 43.7927274,-79.1973763,2,Bonspiel Drive (103),a
 43.7927274,-79.1973763,2,Bonspiel Drive (938),a
 43.7927274,-79.1973763,2,Bonspiel Drive (938),a
-43.7927317,-79.1805756,2,Parade Square (264),a
-43.7927317,-79.1805756,2,Parade Square (430),a
 43.7927394,-79.1966401,2,Bonspiel Drive (130),a
 43.7927394,-79.1966401,2,Bonspiel Drive (130),a
 43.7927394,-79.1966401,2,Bonspiel Drive (592),a
 43.7927394,-79.1966401,2,Bonspiel Drive (592),a
-43.7927419,-79.1803602,2,Parade Square (373),a
-43.7927419,-79.1803602,2,Parade Square (601),a
 43.7927448,-79.1425077,2,Andona Crescent (879),a
 43.7927497,-79.1972939,2,Bonspiel Drive (104),a
 43.7927497,-79.1972939,2,Bonspiel Drive (104),a
 43.7927497,-79.1972939,2,Bonspiel Drive (939),a
 43.7927497,-79.1972939,2,Bonspiel Drive (939),a
-43.792751,-79.1803943,2,Parade Square (374),a
-43.792751,-79.1803943,2,Parade Square (602),a
-43.7927511,-79.1804269,2,Parade Square (375),a
-43.7927511,-79.1804269,2,Parade Square (603),a
-43.792753,-79.1804775,2,Parade Square (263),a
-43.792753,-79.1804775,2,Parade Square (429),a
 43.7927606,-79.2151957,2,Neilson Road (297),a
 43.7927606,-79.2151957,2,Neilson Road (363),a
 43.7927828,-79.1958267,2,Morningside Avenue (117),a
@@ -37453,8 +37363,6 @@ lat,lon,sz,names,len_cat
 43.7930789,-79.1495327,2,Brumwell Street (933),a
 43.7930797,-79.1414586,2,Dear Gate (074),a
 43.7930843,-79.1426265,2,Andona Crescent (883),a
-43.7930946,-79.1815362,2,Parade Square (271),a
-43.7930946,-79.1815362,2,Parade Square (437),a
 43.793097,-79.153129,2,Centennial Road North (621),a
 43.793097,-79.153129,2,Centennial Road North (664),a
 43.7930981,-79.1341004,2,Flagstone Terrace (135),a
@@ -37470,8 +37378,6 @@ lat,lon,sz,names,len_cat
 43.7931088,-79.1430583,2,Andona Crescent (872),a
 43.7931096,-79.1413314,2,Dear Gate (073),a
 43.7931096,-79.1413314,2,Dear Gate (863),a
-43.7931137,-79.1745494,2,Morrish Road (061),a
-43.7931137,-79.1745494,2,Morrish Road (423),a
 43.7931149,-79.1959635,2,Morningside Avenue (390),a
 43.7931149,-79.1959635,2,Morningside Avenue (390),a
 43.7931149,-79.1959635,2,Morningside Avenue (622),a
@@ -37532,8 +37438,6 @@ lat,lon,sz,names,len_cat
 43.7932203,-79.1637706,2,Meadowvale Road (904),a
 43.7932238,-79.2047432,2,Keeler Boulevard (082),a
 43.7932238,-79.2047432,2,Keeler Boulevard (159),a
-43.7932273,-79.1815555,2,Parade Square (270),a
-43.7932273,-79.1815555,2,Parade Square (436),a
 43.7932273,-79.1342401,2,Flagstone Terrace (134),a
 43.7932273,-79.1342401,2,Flagstone Terrace (767),a
 43.7932356,-79.2097702,2,Steepmaple Grove (087),a
@@ -37550,8 +37454,6 @@ lat,lon,sz,names,len_cat
 43.7932451,-79.1320874,2,Flagstone Terrace (773),a
 43.7932451,-79.1320874,2,Friendship Avenue (353),a
 43.7932451,-79.1320874,2,Friendship Avenue (710),a
-43.7932561,-79.1815585,2,Parade Square (269),a
-43.7932561,-79.1815585,2,Parade Square (435),a
 43.7932611,-79.126665,2,Rouge Hills Drive (106),a
 43.7932611,-79.126665,2,Rouge Hills Drive (479),a
 43.7932717,-79.1308623,2,Birdsilver Gardens (687),a
@@ -37565,8 +37467,6 @@ lat,lon,sz,names,len_cat
 43.7932813,-79.2084442,2,Edenmills Drive (770),a
 43.7932835,-79.209941,2,Edenmills Drive (011),a
 43.7932835,-79.209941,2,Edenmills Drive (053),a
-43.7933041,-79.1820951,2,Canmore Boulevard (239),a
-43.7933041,-79.1820951,2,Canmore Boulevard (439),a
 43.7933062,-79.2097947,2,Edenmills Drive (012),a
 43.7933062,-79.2097947,2,Edenmills Drive (054),a
 43.7933062,-79.2097947,2,Edenmills Drive (099),a
@@ -37577,10 +37477,6 @@ lat,lon,sz,names,len_cat
 43.7933111,-79.2072689,2,Tweedrock Crescent (783),a
 43.7933113,-79.2046652,2,Tweedrock Crescent (119),a
 43.7933113,-79.2046652,2,Tweedrock Crescent (796),a
-43.7933177,-79.1818212,2,Canmore Boulevard (240),a
-43.7933177,-79.1818212,2,Canmore Boulevard (440),a
-43.7933302,-79.1816121,2,Canmore Boulevard (276),a
-43.7933302,-79.1816121,2,Canmore Boulevard (442),a
 43.7933306,-79.130887,2,Birdsilver Gardens (688),a
 43.7933306,-79.130887,2,Birdsilver Gardens (749),a
 43.7933306,-79.130887,2,Clearlake Avenue (114),a
@@ -37589,20 +37485,12 @@ lat,lon,sz,names,len_cat
 43.7933311,-79.154972,2,Kingston Road (397),a
 43.7933311,-79.154972,2,Kingston Road (488),a
 43.7933311,-79.154972,2,Kingston Road (946),a
-43.7933329,-79.1815669,2,Canmore Boulevard (277),a
-43.7933329,-79.1815669,2,Canmore Boulevard (443),a
-43.7933329,-79.1815669,2,Parade Square (268),a
-43.7933329,-79.1815669,2,Parade Square (434),a
-43.7933406,-79.1814144,2,Canmore Boulevard (278),a
-43.7933406,-79.1814144,2,Canmore Boulevard (444),a
 43.7933411,-79.1961518,2,Morningside Avenue (273),a
 43.7933411,-79.1961518,2,Morningside Avenue (273),a
 43.7933411,-79.1961518,2,Morningside Avenue (884),a
 43.7933411,-79.1961518,2,Morningside Avenue (884),a
 43.793343,-79.2046747,2,Tweedrock Crescent (118),a
 43.793343,-79.2046747,2,Tweedrock Crescent (795),a
-43.7933458,-79.1813232,2,Canmore Boulevard (243),a
-43.7933458,-79.1813232,2,Canmore Boulevard (443),a
 43.7933586,-79.2038258,2,Keeler Boulevard (084),a
 43.7933586,-79.2038258,2,Keeler Boulevard (161),a
 43.7933646,-79.2084655,2,Edenmills Drive (094),a
@@ -37610,16 +37498,12 @@ lat,lon,sz,names,len_cat
 43.7933646,-79.2084655,2,Edenmills Drive (771),a
 43.7933646,-79.2084655,2,Edenmills Drive (771),a
 43.7933695,-79.1496381,2,Brumwell Street (934),a
-43.7933707,-79.1811857,2,Canmore Boulevard (244),a
-43.7933707,-79.1811857,2,Canmore Boulevard (444),a
 43.7933776,-79.2072937,2,Tweedrock Crescent (107),a
 43.7933776,-79.2072937,2,Tweedrock Crescent (784),a
 43.7933814,-79.2036855,2,Keeler Boulevard (085),a
 43.7933814,-79.2036855,2,Keeler Boulevard (162),a
 43.793404,-79.2036083,2,Keeler Boulevard (086),a
 43.793404,-79.2036083,2,Keeler Boulevard (163),a
-43.7934092,-79.1809849,2,Canmore Boulevard (279),a
-43.7934092,-79.1809849,2,Canmore Boulevard (445),a
 43.7934255,-79.1548295,2,Kingston Road (034),a
 43.7934255,-79.1548295,2,Kingston Road (487),a
 43.79343,-79.1484909,2,Linderwood Drive (064),a
@@ -37636,8 +37520,6 @@ lat,lon,sz,names,len_cat
 43.7934604,-79.1391297,2,Decimal Place (871),a
 43.7934604,-79.1391297,2,Rouge Highlands Drive (101),a
 43.7934604,-79.1391297,2,Rouge Highlands Drive (878),a
-43.7934627,-79.1807479,2,Canmore Boulevard (246),a
-43.7934627,-79.1807479,2,Canmore Boulevard (446),a
 43.7934647,-79.2019721,2,Keeler Boulevard (328),a
 43.7934647,-79.2019721,2,Keeler Boulevard (814),a
 43.7934678,-79.2034738,2,David Drive (101),a
@@ -37692,8 +37574,6 @@ lat,lon,sz,names,len_cat
 43.7935758,-79.2073681,2,Tweedrock Crescent (785),a
 43.7935767,-79.1625287,2,Bluenose Crescent (443),a
 43.7935767,-79.1625287,2,Bluenose Crescent (992),a
-43.7935836,-79.1747458,2,Morrish Road (093),a
-43.7935836,-79.1747458,2,Morrish Road (519),a
 43.7935904,-79.1960565,2,Morningside Avenue (112),a
 43.7935904,-79.1960565,2,Morningside Avenue (112),a
 43.7935904,-79.1960565,2,Morningside Avenue (707),a
@@ -37710,8 +37590,6 @@ lat,lon,sz,names,len_cat
 43.7935999,-79.2031236,2,Keeler Boulevard (807),a
 43.7936036,-79.1627211,2,Bluenose Crescent (440),a
 43.7936036,-79.1627211,2,Bluenose Crescent (989),a
-43.7936073,-79.1801433,2,Canmore Boulevard (280),a
-43.7936073,-79.1801433,2,Canmore Boulevard (446),a
 43.7936177,-79.1309986,2,Birdsilver Gardens (689),a
 43.7936177,-79.1309986,2,Birdsilver Gardens (750),a
 43.7936301,-79.2073737,2,Tweedrock Crescent (109),a
@@ -37724,16 +37602,10 @@ lat,lon,sz,names,len_cat
 43.7936486,-79.1587161,2,Ellesmere Road (831),a
 43.7936486,-79.1587161,2,Ellesmere Road (836),a
 43.7936486,-79.1381111,2,Decimal Place (578),a
-43.7936524,-79.1747737,2,Euclid Avenue (089),a
-43.7936524,-79.1747737,2,Euclid Avenue (515),a
-43.7936524,-79.1747737,2,Morrish Road (094),a
-43.7936524,-79.1747737,2,Morrish Road (520),a
 43.7936543,-79.1382545,2,Decimal Place (096),a
 43.7936543,-79.1382545,2,Decimal Place (873),a
 43.7936738,-79.1546815,2,Ellesmere Road (319),a
 43.7936738,-79.1546815,2,Ellesmere Road (742),a
-43.7936778,-79.1746763,2,Euclid Avenue (185),a
-43.7936778,-79.1746763,2,Euclid Avenue (268),a
 43.7936816,-79.2022674,2,Caley Terrace (361),a
 43.7936816,-79.2022674,2,Caley Terrace (802),a
 43.7936816,-79.2022674,2,Keeler Boulevard (325),a
@@ -37764,8 +37636,6 @@ lat,lon,sz,names,len_cat
 43.7937269,-79.1991108,2,Cindy Nicholas Drive (832),a
 43.7937269,-79.1991108,2,Pickthall Terrace (362),a
 43.7937269,-79.1991108,2,Pickthall Terrace (818),a
-43.7937317,-79.1795619,2,Canmore Boulevard (281),a
-43.7937317,-79.1795619,2,Canmore Boulevard (447),a
 43.7937355,-79.2156695,2,Neilson Road (012),a
 43.7937355,-79.2156695,2,Neilson Road (436),a
 43.7937387,-79.2007806,2,Lampman Drive (314),a
@@ -37779,11 +37649,7 @@ lat,lon,sz,names,len_cat
 43.7937636,-79.1640107,2,Meadowvale Road (481),a
 43.7937636,-79.1640107,2,Muirbank Boulevard (028),a
 43.7937636,-79.1640107,2,Muirbank Boulevard (479),a
-43.793765,-79.1794115,2,Canmore Boulevard (282),a
-43.793765,-79.1794115,2,Canmore Boulevard (448),a
 43.7937663,-79.1447801,2,Andona Crescent (942),a
-43.7937778,-79.1748353,2,Morrish Road (095),a
-43.7937778,-79.1748353,2,Morrish Road (521),a
 43.7937819,-79.1991713,2,Pickthall Terrace (363),a
 43.7937819,-79.1991713,2,Pickthall Terrace (819),a
 43.7937843,-79.2008841,2,Lampman Drive (317),a
@@ -37796,16 +37662,10 @@ lat,lon,sz,names,len_cat
 43.7938018,-79.1638394,2,Muirbank Boulevard (477),a
 43.7938022,-79.1991936,2,Pickthall Terrace (364),a
 43.7938022,-79.1991936,2,Pickthall Terrace (820),a
-43.7938147,-79.179197,2,Canmore Boulevard (283),a
-43.7938147,-79.179197,2,Canmore Boulevard (449),a
 43.7938282,-79.1310301,2,Birdsilver Gardens (690),a
 43.7938282,-79.1310301,2,Birdsilver Gardens (751),a
 43.7938336,-79.128067,2,Rouge Hills Drive (481),a
 43.7938336,-79.128067,2,Taylor Road (515),a
-43.7938367,-79.1791018,2,Canmore Boulevard (284),a
-43.7938367,-79.1791018,2,Canmore Boulevard (450),a
-43.7938367,-79.1791018,2,Halfmoon Square (321),a
-43.7938367,-79.1791018,2,Halfmoon Square (505),a
 43.7938375,-79.1323629,2,Friendship Avenue (351),a
 43.7938375,-79.1323629,2,Friendship Avenue (708),a
 43.7938436,-79.2048199,2,Tweedrock Crescent (117),a
@@ -37815,12 +37675,8 @@ lat,lon,sz,names,len_cat
 43.7938496,-79.154156,2,Kingston Road (029),a
 43.7938496,-79.154156,2,Kingston Road (480),a
 43.7938496,-79.154156,2,Kingston Road (523),a
-43.7938584,-79.1789523,2,Canmore Boulevard (285),a
-43.7938584,-79.1789523,2,Canmore Boulevard (451),a
 43.7938673,-79.2021849,2,Caley Terrace (218),a
 43.7938673,-79.2021849,2,Caley Terrace (436),a
-43.7938682,-79.1788339,2,Canmore Boulevard (286),a
-43.7938682,-79.1788339,2,Canmore Boulevard (452),a
 43.7938687,-79.1333712,2,King Arthurs Court (127),a
 43.7938687,-79.1333712,2,King Arthurs Court (357),a
 43.7938708,-79.200963,2,Lampman Drive (319),a
@@ -37829,8 +37685,6 @@ lat,lon,sz,names,len_cat
 43.7938717,-79.1448244,2,Andona Crescent (057),a
 43.7938717,-79.1448244,2,Andona Crescent (937),a
 43.7938717,-79.1448244,2,Andona Crescent (944),a
-43.7938726,-79.1787055,2,Canmore Boulevard (287),a
-43.7938726,-79.1787055,2,Canmore Boulevard (453),a
 43.7938728,-79.1577521,2,Ellesmere Road (119),a
 43.7938728,-79.1577521,2,Ellesmere Road (387),a
 43.7938728,-79.1577521,2,Ellesmere Road (819),a
@@ -37845,48 +37699,25 @@ lat,lon,sz,names,len_cat
 43.7938795,-79.1549559,2,Ellesmere Road (318),a
 43.7938809,-79.1993012,2,Pickthall Terrace (365),a
 43.7938809,-79.1993012,2,Pickthall Terrace (821),a
-43.7938815,-79.1782198,2,Calverley Trail (318),a
-43.7938815,-79.1782198,2,Calverley Trail (485),a
-43.7938815,-79.1782198,2,Canmore Boulevard (288),a
-43.7938815,-79.1782198,2,Canmore Boulevard (454),a
-43.7938848,-79.1772087,2,Canmore Boulevard (290),a
-43.7938848,-79.1772087,2,Canmore Boulevard (456),a
-43.7938848,-79.1772087,2,Charcoal Drive (486),a
-43.7938848,-79.1772087,2,Charcoal Drive (627),a
-43.7938856,-79.1772475,2,Canmore Boulevard (289),a
-43.7938856,-79.1772475,2,Canmore Boulevard (455),a
 43.7938871,-79.1324487,2,Friendship Avenue (350),a
 43.7938871,-79.1324487,2,Friendship Avenue (707),a
-43.7938877,-79.1769066,2,Canmore Boulevard (266),a
-43.7938877,-79.1769066,2,Canmore Boulevard (466),a
-43.7938893,-79.1770853,2,Canmore Boulevard (457),a
 43.7938903,-79.2009748,2,Lampman Drive (359),a
 43.7938903,-79.2009748,2,Lampman Drive (799),a
 43.7938917,-79.1963389,2,Morningside Avenue (156),a
 43.7938917,-79.1963389,2,Morningside Avenue (156),a
 43.7938917,-79.1963389,2,Morningside Avenue (776),a
 43.7938917,-79.1963389,2,Morningside Avenue (776),a
-43.7938927,-79.1769929,2,Canmore Boulevard (291),a
-43.7938927,-79.1769929,2,Canmore Boulevard (458),a
-43.7938945,-79.1767697,2,Canmore Boulevard (267),a
-43.7938945,-79.1767697,2,Canmore Boulevard (467),a
 43.7938968,-79.1576478,2,Ellesmere Road (577),a
 43.7939006,-79.1613525,2,Bluenose Crescent (445),a
 43.7939006,-79.1613525,2,Bluenose Crescent (445),a
 43.7939006,-79.1613525,2,Bluenose Crescent (994),a
 43.7939006,-79.1613525,2,Bluenose Crescent (994),a
-43.7939103,-79.1766325,2,Canmore Boulevard (268),a
-43.7939103,-79.1766325,2,Canmore Boulevard (468),a
 43.7939108,-79.2021816,2,Caley Terrace (214),a
 43.7939108,-79.2021816,2,Caley Terrace (432),a
-43.7939123,-79.1791359,2,Halfmoon Square (322),a
-43.7939123,-79.1791359,2,Halfmoon Square (506),a
 43.7939127,-79.1283571,2,Rouge Hills Drive (111),a
 43.7939127,-79.1283571,2,Rouge Hills Drive (482),a
 43.7939146,-79.1629022,2,Bluenose Crescent (439),a
 43.7939146,-79.1629022,2,Bluenose Crescent (988),a
-43.7939399,-79.1791483,2,Halfmoon Square (141),a
-43.7939399,-79.1791483,2,Halfmoon Square (208),a
 43.7939403,-79.1963554,2,Morningside Avenue (272),a
 43.7939403,-79.1963554,2,Morningside Avenue (272),a
 43.7939403,-79.1963554,2,Morningside Avenue (883),a
@@ -37894,8 +37725,6 @@ lat,lon,sz,names,len_cat
 43.7939408,-79.1416575,2,Calderstone Crescent (534),a
 43.7939408,-79.1416575,2,Kirkdene Drive (083),a
 43.7939408,-79.1416575,2,Kirkdene Drive (179),a
-43.7939442,-79.176486,2,Canmore Boulevard (292),a
-43.7939442,-79.176486,2,Canmore Boulevard (459),a
 43.7939464,-79.1629208,2,Bluenose Crescent (438),a
 43.7939464,-79.1629208,2,Bluenose Crescent (987),a
 43.7939527,-79.2010126,2,Lampman Drive (320),a
@@ -37903,14 +37732,10 @@ lat,lon,sz,names,len_cat
 43.7939537,-79.2021911,2,Caley Terrace (210),a
 43.7939537,-79.2021911,2,Caley Terrace (428),a
 43.7939541,-79.1550483,2,Ellesmere Road (317),a
-43.7939572,-79.1782244,2,Calverley Trail (760),a
-43.7939572,-79.1782244,2,Calverley Trail (766),a
 43.7939599,-79.1415866,2,Kirkdene Drive (084),a
 43.7939599,-79.1415866,2,Kirkdene Drive (180),a
 43.793961,-79.127196,2,Taylor Road (109),a
 43.793961,-79.127196,2,Taylor Road (513),a
-43.7939658,-79.1772136,2,Charcoal Drive (487),a
-43.7939658,-79.1772136,2,Charcoal Drive (628),a
 43.7939664,-79.1415567,2,Kirkdene Drive (085),a
 43.7939664,-79.1415567,2,Kirkdene Drive (181),a
 43.7939716,-79.1994322,2,Pickthall Terrace (366),a
@@ -37926,12 +37751,6 @@ lat,lon,sz,names,len_cat
 43.793983,-79.2048365,2,Tweedrock Crescent (793),a
 43.7939917,-79.1535178,2,Centennial Road North (543),a
 43.7939917,-79.1535178,2,Centennial Road North (974),a
-43.7939922,-79.1772138,2,Charcoal Drive (488),a
-43.7939922,-79.1772138,2,Charcoal Drive (629),a
-43.7939925,-79.1782249,2,Calverley Trail (407),a
-43.7939925,-79.1782249,2,Calverley Trail (896),a
-43.7939974,-79.1762526,2,Canmore Boulevard (293),a
-43.7939974,-79.1762526,2,Canmore Boulevard (460),a
 43.7940057,-79.1578187,2,Muirbank Boulevard (513),a
 43.7940057,-79.1578187,2,Muirbank Boulevard (810),a
 43.7940113,-79.1986614,2,Cindy Nicholas Drive (378),a
@@ -37960,17 +37779,11 @@ lat,lon,sz,names,len_cat
 43.7940391,-79.1995823,2,Pickthall Terrace (823),a
 43.7940469,-79.2049814,2,Tweedrock Crescent (114),a
 43.7940469,-79.2049814,2,Tweedrock Crescent (791),a
-43.7940478,-79.1760263,2,Canmore Boulevard (294),a
-43.7940478,-79.1760263,2,Canmore Boulevard (461),a
-43.7940478,-79.1760263,2,Charcoal Drive (502),a
-43.7940478,-79.1760263,2,Charcoal Drive (643),a
 43.7940485,-79.1437394,2,Adams Park Gate (174),a
 43.79405,-79.1289603,2,Rouge Hills Drive (113),a
 43.79405,-79.1289603,2,Rouge Hills Drive (483),a
 43.7940533,-79.1985868,2,Cindy Nicholas Drive (240),a
 43.7940533,-79.1985868,2,Cindy Nicholas Drive (957),a
-43.794058,-79.1759766,2,Canmore Boulevard (295),a
-43.794058,-79.1759766,2,Canmore Boulevard (462),a
 43.7940596,-79.1653934,2,Hania Terrace (058),a
 43.7940596,-79.1653934,2,Hania Terrace (484),a
 43.7940606,-79.1332215,2,King Arthurs Court (126),a
@@ -37980,8 +37793,6 @@ lat,lon,sz,names,len_cat
 43.7940694,-79.1551864,2,Ellesmere Road (495),a
 43.7940694,-79.1551864,2,Ellesmere Road (818),a
 43.79408,-79.153804,2,Kingston Road (570),a
-43.7940869,-79.1814491,2,Halfmoon Square (303),a
-43.7940869,-79.1814491,2,Halfmoon Square (987),a
 43.7940909,-79.1605058,2,Bluenose Crescent (446),a
 43.7940909,-79.1605058,2,Bluenose Crescent (446),a
 43.7940909,-79.1605058,2,Bluenose Crescent (995),a
@@ -37990,13 +37801,9 @@ lat,lon,sz,names,len_cat
 43.7940916,-79.1997453,2,Pickthall Terrace (824),a
 43.7940994,-79.1552223,2,Ellesmere Road (494),a
 43.7941028,-79.1265736,2,Taylor Road (512),a
-43.7941051,-79.181628,2,Halfmoon Square (297),a
-43.7941051,-79.181628,2,Halfmoon Square (981),a
 43.7941071,-79.1985176,2,Cindy Nicholas Drive (241),a
 43.7941071,-79.1985176,2,Cindy Nicholas Drive (958),a
 43.7941191,-79.1535921,2,Centennial Road North (546),a
-43.7941196,-79.176059,2,Charcoal Drive (501),a
-43.7941196,-79.176059,2,Charcoal Drive (642),a
 43.7941223,-79.1962277,2,Morningside Avenue (113),a
 43.7941223,-79.1962277,2,Morningside Avenue (113),a
 43.7941223,-79.1962277,2,Morningside Avenue (708),a
@@ -38010,8 +37817,6 @@ lat,lon,sz,names,len_cat
 43.7941278,-79.1602036,2,Bluenose Crescent (996),a
 43.7941278,-79.1602036,2,Bluenose Crescent (996),a
 43.7941451,-79.1346927,2,Flagstone Terrace (132),a
-43.7941472,-79.1760706,2,Charcoal Drive (500),a
-43.7941472,-79.1760706,2,Charcoal Drive (641),a
 43.7941544,-79.1627566,2,Muirbank Boulevard (022),a
 43.7941544,-79.1627566,2,Muirbank Boulevard (473),a
 43.7941621,-79.1553066,2,Ellesmere Road (493),a
@@ -38026,8 +37831,6 @@ lat,lon,sz,names,len_cat
 43.79418,-79.140571,2,Kirkdene Drive (182),a
 43.7941857,-79.200034,2,Pickthall Terrace (369),a
 43.7941857,-79.200034,2,Pickthall Terrace (825),a
-43.7941858,-79.1772162,2,Charcoal Drive (489),a
-43.7941858,-79.1772162,2,Charcoal Drive (630),a
 43.7941877,-79.1536423,2,Centennial Road North (547),a
 43.7941877,-79.1536423,2,Centennial Road North (593),a
 43.7941877,-79.1536423,2,Kingston Road (379),a
@@ -38037,22 +37840,14 @@ lat,lon,sz,names,len_cat
 43.794188,-79.1563838,2,Ellesmere Road (820),a
 43.794204,-79.1984146,2,Cindy Nicholas Drive (244),a
 43.794204,-79.1984146,2,Cindy Nicholas Drive (961),a
-43.7942046,-79.1816887,2,Halfmoon Square (294),a
-43.7942046,-79.1816887,2,Halfmoon Square (978),a
 43.7942051,-79.1553824,2,Ellesmere Road (492),a
 43.7942051,-79.1553824,2,Ellesmere Road (830),a
-43.7942131,-79.1752237,2,Canmore Boulevard (140),a
-43.7942131,-79.1752237,2,Canmore Boulevard (207),a
 43.7942189,-79.1404861,2,Kirkdene Drive (087),a
 43.7942189,-79.1404861,2,Kirkdene Drive (183),a
-43.7942209,-79.1751885,2,Canmore Boulevard (296),a
-43.7942209,-79.1751885,2,Canmore Boulevard (463),a
 43.7942214,-79.2002552,2,Pickthall Terrace (370),a
 43.7942214,-79.2002552,2,Pickthall Terrace (826),a
 43.7942216,-79.1429514,2,Adams Park Gate (070),a
 43.7942216,-79.1429514,2,Adams Park Gate (175),a
-43.7942235,-79.1782341,2,Calverley Trail (406),a
-43.7942235,-79.1782341,2,Calverley Trail (895),a
 43.7942237,-79.216058,2,Neilson Road (235),a
 43.7942237,-79.216058,2,Neilson Road (413),a
 43.7942237,-79.216058,2,Neilson Road (664),a
@@ -38083,12 +37878,6 @@ lat,lon,sz,names,len_cat
 43.7942512,-79.1428095,2,Port Union Road (178),a
 43.7942525,-79.2008227,2,Pickthall Terrace (372),a
 43.7942525,-79.2008227,2,Pickthall Terrace (828),a
-43.794254,-79.1750577,2,Canmore Boulevard (297),a
-43.794254,-79.1750577,2,Canmore Boulevard (464),a
-43.794254,-79.1750577,2,Morrish Road (096),a
-43.794254,-79.1750577,2,Morrish Road (522),a
-43.794254,-79.1750577,2,Morrish Road (588),a
-43.794254,-79.1750577,2,Morrish Road (644),a
 43.7942699,-79.1555487,2,Ellesmere Road (037),a
 43.7942699,-79.1555487,2,Ellesmere Road (127),a
 43.7942699,-79.1555487,2,Ellesmere Road (291),a
@@ -38108,19 +37897,13 @@ lat,lon,sz,names,len_cat
 43.7942981,-79.1558913,2,Ellesmere Road (710),a
 43.7942991,-79.1557089,2,Ellesmere Road (289),a
 43.7942991,-79.1557089,2,Ellesmere Road (712),a
-43.7942995,-79.1782522,2,Calverley Trail (188),a
-43.7942995,-79.1782522,2,Calverley Trail (405),a
 43.7942996,-79.1983622,2,Cindy Nicholas Drive (245),a
 43.7942996,-79.1983622,2,Cindy Nicholas Drive (962),a
-43.7943,-79.1772178,2,Charcoal Drive (490),a
-43.7943,-79.1772178,2,Charcoal Drive (631),a
 43.7943019,-79.1557986,2,Ellesmere Road (288),a
 43.7943019,-79.1557986,2,Ellesmere Road (711),a
 43.7943123,-79.1387865,2,Bluebird Place (886),a
 43.7943166,-79.1555132,2,Ellesmere Road (036),a
 43.7943166,-79.1555132,2,Ellesmere Road (489),a
-43.7943353,-79.1772203,2,Charcoal Drive (070),a
-43.7943353,-79.1772203,2,Charcoal Drive (410),a
 43.7943357,-79.1625515,2,Muirbank Boulevard (020),a
 43.7943357,-79.1625515,2,Muirbank Boulevard (471),a
 43.7943359,-79.2011757,2,Lampman Drive (325),a
@@ -38141,31 +37924,17 @@ lat,lon,sz,names,len_cat
 43.7943813,-79.1714795,2,Scarboro Avenue (112),a
 43.7943813,-79.1714795,2,Scarboro Avenue (538),a
 43.7943813,-79.1714795,2,Scarboro Avenue (538),a
-43.7943816,-79.1751142,2,Morrish Road (589),a
-43.7943816,-79.1751142,2,Morrish Road (645),a
 43.7943893,-79.1624561,2,Muirbank Boulevard (019),a
 43.7943893,-79.1624561,2,Muirbank Boulevard (470),a
 43.794391,-79.1401703,2,Kirkdene Drive (089),a
 43.794391,-79.1401703,2,Kirkdene Drive (185),a
-43.7943923,-79.1858678,2,Conlins Road (321),a
-43.7943923,-79.1858678,2,Conlins Road (341),a
-43.7943923,-79.1858678,2,Conlins Road (358),a
-43.7943923,-79.1858678,2,Conlins Road (525),a
-43.7943923,-79.1858678,2,Good Road (342),a
-43.7943923,-79.1858678,2,Good Road (526),a
 43.7943938,-79.2038737,2,David Drive (344),a
 43.7943938,-79.2038737,2,David Drive (671),a
-43.794396,-79.1782957,2,Calverley Trail (404),a
-43.794396,-79.1782957,2,Calverley Trail (894),a
 43.7943982,-79.1346607,2,Flagstone Terrace (130),a
-43.7944074,-79.1772432,2,Charcoal Drive (071),a
-43.7944074,-79.1772432,2,Charcoal Drive (411),a
 43.7944078,-79.1983507,2,Cindy Nicholas Drive (379),a
 43.7944078,-79.1983507,2,Cindy Nicholas Drive (835),a
 43.7944078,-79.1983507,2,Lampman Drive (380),a
 43.7944078,-79.1983507,2,Lampman Drive (836),a
-43.7944163,-79.1857708,2,Good Road (343),a
-43.7944163,-79.1857708,2,Good Road (527),a
 43.7944168,-79.1554358,2,Ellesmere Road (123),a
 43.7944168,-79.1554358,2,Ellesmere Road (840),a
 43.7944261,-79.1253654,2,Taylor Road (107),a
@@ -38178,8 +37947,6 @@ lat,lon,sz,names,len_cat
 43.7944271,-79.1532521,2,Kingston Road (928),a
 43.7944271,-79.1532521,2,Kingston Road (943),a
 43.7944271,-79.1532521,2,Kingston Road (961),a
-43.7944274,-79.1857236,2,Good Road (344),a
-43.7944274,-79.1857236,2,Good Road (528),a
 43.7944278,-79.1623347,2,Muirbank Boulevard (018),a
 43.7944278,-79.1623347,2,Muirbank Boulevard (469),a
 43.7944309,-79.1983716,2,Lampman Drive (351),a
@@ -38210,12 +37977,8 @@ lat,lon,sz,names,len_cat
 43.7944561,-79.139554,2,Rouge Highlands Drive (634),a
 43.7944667,-79.1984804,2,Lampman Drive (349),a
 43.7944667,-79.1984804,2,Lampman Drive (541),a
-43.7944689,-79.1793867,2,Halfmoon Square (323),a
-43.7944689,-79.1793867,2,Halfmoon Square (507),a
 43.7944818,-79.1985388,2,Lampman Drive (348),a
 43.7944818,-79.1985388,2,Lampman Drive (540),a
-43.7944857,-79.185471,2,Good Road (345),a
-43.7944857,-79.185471,2,Good Road (529),a
 43.7944945,-79.1986209,2,Lampman Drive (347),a
 43.7944945,-79.1986209,2,Lampman Drive (539),a
 43.7945069,-79.1986872,2,Lampman Drive (346),a
@@ -38224,14 +37987,6 @@ lat,lon,sz,names,len_cat
 43.7945107,-79.1244299,2,West Point Avenue (229),a
 43.7945107,-79.1244299,2,West Point Avenue (774),a
 43.7945107,-79.1244299,2,West Point Avenue (774),a
-43.7945137,-79.1795398,2,Halfmoon Square (017),a
-43.7945137,-79.1795398,2,Halfmoon Square (803),a
-43.7945155,-79.1772815,2,Charcoal Drive (072),a
-43.7945155,-79.1772815,2,Charcoal Drive (412),a
-43.7945181,-79.1853308,2,Good Road (346),a
-43.7945181,-79.1853308,2,Good Road (346),a
-43.7945181,-79.1853308,2,Good Road (530),a
-43.7945181,-79.1853308,2,Good Road (530),a
 43.7945191,-79.1987418,2,Lampman Drive (345),a
 43.7945191,-79.1987418,2,Lampman Drive (537),a
 43.7945245,-79.2012391,2,Lampman Drive (327),a
@@ -38240,57 +37995,23 @@ lat,lon,sz,names,len_cat
 43.7945271,-79.1715501,2,Scarboro Avenue (087),a
 43.7945271,-79.1715501,2,Scarboro Avenue (513),a
 43.7945271,-79.1715501,2,Scarboro Avenue (513),a
-43.79454,-79.1794187,2,Halfmoon Square (324),a
-43.79454,-79.1794187,2,Halfmoon Square (325),a
-43.79454,-79.1794187,2,Halfmoon Square (508),a
-43.79454,-79.1794187,2,Halfmoon Square (509),a
 43.7945412,-79.1395902,2,Kirkdene Drive (091),a
 43.7945412,-79.1395902,2,Kirkdene Drive (187),a
 43.7945412,-79.1395902,2,Rouge Highlands Drive (442),a
-43.7945522,-79.1851792,2,Good Road (329),a
-43.7945522,-79.1851792,2,Good Road (329),a
-43.7945522,-79.1851792,2,Good Road (347),a
-43.7945522,-79.1851792,2,Good Road (347),a
-43.7945522,-79.1851792,2,Good Road (513),a
-43.7945522,-79.1851792,2,Good Road (513),a
-43.7945522,-79.1851792,2,Good Road (531),a
-43.7945522,-79.1851792,2,Good Road (531),a
-43.7945522,-79.1851792,2,Ponymeadow Terrace (326),a
-43.7945522,-79.1851792,2,Ponymeadow Terrace (326),a
-43.7945522,-79.1851792,2,Ponymeadow Terrace (510),a
-43.7945522,-79.1851792,2,Ponymeadow Terrace (510),a
-43.7945688,-79.1850851,2,Good Road (330),a
-43.7945688,-79.1850851,2,Good Road (330),a
-43.7945688,-79.1850851,2,Good Road (514),a
-43.7945688,-79.1850851,2,Good Road (514),a
 43.7945782,-79.1617419,2,Lavery Trail (379),a
 43.7945782,-79.1617419,2,Lavery Trail (454),a
 43.7945782,-79.1617419,2,Muirbank Boulevard (017),a
 43.7945782,-79.1617419,2,Muirbank Boulevard (468),a
-43.7945958,-79.182926,2,Calverley Trail (378),a
-43.7945958,-79.182926,2,Calverley Trail (869),a
-43.7945967,-79.1773199,2,Charcoal Drive (073),a
-43.7945967,-79.1773199,2,Charcoal Drive (413),a
-43.7945984,-79.1818667,2,Halfmoon Square (292),a
-43.7945984,-79.1818667,2,Halfmoon Square (976),a
 43.7945984,-79.1582403,2,Bluenose Crescent (448),a
 43.7945984,-79.1582403,2,Bluenose Crescent (997),a
 43.7946034,-79.1547143,2,Ellesmere Road (121),a
 43.7946034,-79.1547143,2,Ellesmere Road (839),a
 43.7946069,-79.1582011,2,Bluenose Crescent (449),a
 43.7946069,-79.1582011,2,Bluenose Crescent (998),a
-43.7946082,-79.1846926,2,Good Road (230),a
-43.7946082,-79.1846926,2,Good Road (230),a
-43.7946082,-79.1846926,2,Good Road (317),a
-43.7946082,-79.1846926,2,Good Road (317),a
 43.794614,-79.1344965,2,Flagstone Terrace (129),a
 43.794614,-79.1344965,2,Flagstone Terrace (762),a
 43.7946189,-79.139626,2,Rouge Highlands Drive (441),a
 43.7946189,-79.139626,2,Rouge Highlands Drive (543),a
-43.7946237,-79.1852074,2,Ponymeadow Terrace (327),a
-43.7946237,-79.1852074,2,Ponymeadow Terrace (327),a
-43.7946237,-79.1852074,2,Ponymeadow Terrace (511),a
-43.7946237,-79.1852074,2,Ponymeadow Terrace (511),a
 43.7946281,-79.1581023,2,Bluenose Crescent (450),a
 43.7946281,-79.1581023,2,Bluenose Crescent (999),a
 43.7946281,-79.1581023,2,Muirbank Boulevard (451),a
@@ -38307,25 +38028,11 @@ lat,lon,sz,names,len_cat
 43.7946506,-79.1451518,2,Andona Crescent (915),a
 43.7946514,-79.2039869,2,David Drive (345),a
 43.7946514,-79.2039869,2,David Drive (672),a
-43.7946522,-79.1852186,2,Ponymeadow Terrace (328),a
-43.7946522,-79.1852186,2,Ponymeadow Terrace (328),a
-43.7946522,-79.1852186,2,Ponymeadow Terrace (512),a
-43.7946522,-79.1852186,2,Ponymeadow Terrace (512),a
-43.7946551,-79.1842627,2,Good Road (331),a
-43.7946551,-79.1842627,2,Good Road (331),a
-43.7946551,-79.1842627,2,Good Road (515),a
-43.7946551,-79.1842627,2,Good Road (515),a
-43.7946551,-79.1842627,2,Graybark Crescent (335),a
-43.7946551,-79.1842627,2,Graybark Crescent (335),a
-43.7946551,-79.1842627,2,Graybark Crescent (519),a
-43.7946551,-79.1842627,2,Graybark Crescent (519),a
 43.7946558,-79.157981,2,Orleans Drive (043),a
 43.7946558,-79.157981,2,Orleans Drive (501),a
 43.7946612,-79.1617782,2,Lavery Trail (381),a
 43.7946612,-79.1617782,2,Lavery Trail (456),a
 43.7946678,-79.1529367,2,Kingston Road (058),a
-43.7946805,-79.1829555,2,Calverley Trail (307),a
-43.7946805,-79.1829555,2,Calverley Trail (474),a
 43.7946864,-79.138943,2,Bluebird Place (173),a
 43.7946864,-79.138943,2,Bluebird Place (885),a
 43.7946864,-79.138943,2,Kirkdene Drive (119),a
@@ -38364,25 +38071,11 @@ lat,lon,sz,names,len_cat
 43.7947135,-79.1344209,2,Friendship Avenue (705),a
 43.7947136,-79.1388059,2,Kirkdene Drive (121),a
 43.7947136,-79.1388059,2,Kirkdene Drive (188),a
-43.794716,-79.1818788,2,Halfmoon Square (289),a
-43.794716,-79.1818788,2,Halfmoon Square (973),a
 43.7947165,-79.1387901,2,Kirkdene Drive (122),a
 43.7947165,-79.1387901,2,Kirkdene Drive (189),a
-43.7947173,-79.1830575,2,Good Road (333),a
-43.7947173,-79.1830575,2,Good Road (517),a
-43.794719,-79.1830951,2,Good Road (332),a
-43.794719,-79.1830951,2,Good Road (516),a
-43.7947205,-79.1829695,2,Calverley Trail (308),a
-43.7947205,-79.1829695,2,Calverley Trail (475),a
-43.7947205,-79.1829695,2,Good Road (334),a
-43.7947205,-79.1829695,2,Good Road (518),a
 43.7947223,-79.2039573,2,David Drive (348),a
 43.7947223,-79.2039573,2,David Drive (675),a
 43.7947249,-79.1451433,2,Andona Crescent (916),a
-43.7947257,-79.184277,2,Graybark Crescent (336),a
-43.7947257,-79.184277,2,Graybark Crescent (336),a
-43.7947257,-79.184277,2,Graybark Crescent (520),a
-43.7947257,-79.184277,2,Graybark Crescent (520),a
 43.7947264,-79.2039391,2,David Drive (349),a
 43.7947264,-79.2039391,2,David Drive (676),a
 43.7947279,-79.2039301,2,David Drive (350),a
@@ -38393,10 +38086,6 @@ lat,lon,sz,names,len_cat
 43.7947359,-79.1702993,2,Euclid Avenue (504),a
 43.7947541,-79.1544848,2,Ellesmere Road (120),a
 43.7947541,-79.1544848,2,Ellesmere Road (838),a
-43.7947565,-79.1842832,2,Graybark Crescent (337),a
-43.7947565,-79.1842832,2,Graybark Crescent (337),a
-43.7947565,-79.1842832,2,Graybark Crescent (521),a
-43.7947565,-79.1842832,2,Graybark Crescent (521),a
 43.794759,-79.1374907,2,East Avenue (110),a
 43.794759,-79.1374907,2,East Avenue (138),a
 43.794759,-79.1374907,2,East Avenue (177),a
@@ -38413,12 +38102,8 @@ lat,lon,sz,names,len_cat
 43.7947758,-79.1609071,2,Muirbank Boulevard (467),a
 43.7947765,-79.1662441,2,Claresholme Drive (061),a
 43.7947765,-79.1662441,2,Claresholme Drive (487),a
-43.7947847,-79.1817317,2,Halfmoon Square (285),a
-43.7947847,-79.1817317,2,Halfmoon Square (969),a
 43.7947869,-79.2012312,2,Lampman Drive (328),a
 43.7947869,-79.2012312,2,Lampman Drive (520),a
-43.7947894,-79.1829743,2,Calverley Trail (187),a
-43.7947894,-79.1829743,2,Calverley Trail (380),a
 43.7947922,-79.1607105,2,Muirbank Boulevard (014),a
 43.7947922,-79.1607105,2,Muirbank Boulevard (014),a
 43.7947922,-79.1607105,2,Muirbank Boulevard (465),a
@@ -38444,10 +38129,6 @@ lat,lon,sz,names,len_cat
 43.7948033,-79.1236916,2,West Point Avenue (232),a
 43.7948033,-79.1236916,2,West Point Avenue (777),a
 43.7948033,-79.1236916,2,West Point Avenue (777),a
-43.7948045,-79.1852938,2,Ponymeadow Terrace (218),a
-43.7948045,-79.1852938,2,Ponymeadow Terrace (218),a
-43.7948045,-79.1852938,2,Ponymeadow Terrace (239),a
-43.7948045,-79.1852938,2,Ponymeadow Terrace (239),a
 43.794807,-79.1704397,2,Fawnridge Trail (080),a
 43.794807,-79.1704397,2,Fawnridge Trail (506),a
 43.7948081,-79.1657321,2,Hania Terrace (059),a
@@ -38490,8 +38171,6 @@ lat,lon,sz,names,len_cat
 43.7948594,-79.1965375,2,Morningside Avenue (954),a
 43.7948613,-79.1645169,2,Meadowvale Road (219),a
 43.7948613,-79.1645169,2,Meadowvale Road (274),a
-43.7948666,-79.1829675,2,Calverley Trail (381),a
-43.7948666,-79.1829675,2,Calverley Trail (871),a
 43.7948669,-79.1571259,2,Orleans Drive (452),a
 43.7948669,-79.1571259,2,Orleans Drive (699),a
 43.7948716,-79.2025919,2,Caley Terrace (203),a
@@ -38538,8 +38217,6 @@ lat,lon,sz,names,len_cat
 43.7949043,-79.1656739,2,Claresholme Drive (491),a
 43.7949073,-79.1582213,2,Muirbank Boulevard (002),a
 43.7949073,-79.1582213,2,Muirbank Boulevard (453),a
-43.7949204,-79.1829534,2,Calverley Trail (382),a
-43.7949204,-79.1829534,2,Calverley Trail (872),a
 43.7949232,-79.1442678,2,Andona Crescent (919),a
 43.7949241,-79.2012041,2,Lampman Drive (330),a
 43.7949241,-79.2012041,2,Lampman Drive (522),a
@@ -38625,19 +38302,13 @@ lat,lon,sz,names,len_cat
 43.7950798,-79.1598416,2,Littleborough Court (498),a
 43.7950814,-79.1374019,2,Kirkdene Drive (129),a
 43.7950814,-79.1374019,2,Kirkdene Drive (196),a
-43.7950851,-79.1828689,2,Calverley Trail (383),a
-43.7950851,-79.1828689,2,Calverley Trail (873),a
 43.7951097,-79.1593004,2,Muirbank Boulevard (009),a
 43.7951097,-79.1593004,2,Muirbank Boulevard (460),a
 43.7951139,-79.1371816,2,Kirkdene Drive (130),a
 43.7951139,-79.1371816,2,Kirkdene Drive (197),a
 43.7951139,-79.1371816,2,Kirkdene Drive (197),a
-43.7951141,-79.1796646,2,Halfmoon Square (278),a
-43.7951141,-79.1796646,2,Halfmoon Square (962),a
 43.7951169,-79.1648204,2,Claresholme Drive (068),a
 43.7951169,-79.1648204,2,Claresholme Drive (494),a
-43.7951194,-79.1775516,2,Charcoal Drive (074),a
-43.7951194,-79.1775516,2,Charcoal Drive (414),a
 43.7951207,-79.137644,2,East Avenue (113),a
 43.7951207,-79.137644,2,East Avenue (180),a
 43.7951235,-79.1519967,2,Kingston Road (103),a
@@ -38676,8 +38347,6 @@ lat,lon,sz,names,len_cat
 43.7951648,-79.1591197,2,Muirbank Boulevard (458),a
 43.7951788,-79.14227,2,Blue Anchor Trail (063),a
 43.7951788,-79.14227,2,Blue Anchor Trail (694),a
-43.7951918,-79.1786414,2,Calverley Trail (403),a
-43.7951918,-79.1786414,2,Calverley Trail (893),a
 43.7951939,-79.1590199,2,Muirbank Boulevard (006),a
 43.7951939,-79.1590199,2,Muirbank Boulevard (457),a
 43.7951962,-79.1422267,2,Blue Anchor Trail (064),a
@@ -38685,10 +38354,6 @@ lat,lon,sz,names,len_cat
 43.7951963,-79.1587651,2,Muirbank Boulevard (455),a
 43.7951967,-79.1589338,2,Muirbank Boulevard (005),a
 43.7951967,-79.1589338,2,Muirbank Boulevard (456),a
-43.7951993,-79.179905,2,Halfmoon Square (284),a
-43.7951993,-79.179905,2,Halfmoon Square (968),a
-43.7951998,-79.1797502,2,Halfmoon Square (179),a
-43.7951998,-79.1797502,2,Halfmoon Square (278),a
 43.7952039,-79.1233253,2,West Point Avenue (233),a
 43.7952039,-79.1233253,2,West Point Avenue (778),a
 43.7952045,-79.1431578,2,Port Union Road (722),a
@@ -38698,10 +38363,6 @@ lat,lon,sz,names,len_cat
 43.7952046,-79.173016,2,Cosens Street (269),a
 43.7952066,-79.1706411,2,Fawnridge Trail (081),a
 43.7952066,-79.1706411,2,Fawnridge Trail (507),a
-43.7952076,-79.1827835,2,Calverley Trail (384),a
-43.7952076,-79.1827835,2,Calverley Trail (874),a
-43.7952076,-79.1827835,2,Houndtrail Drive (678),a
-43.7952076,-79.1827835,2,Houndtrail Drive (696),a
 43.7952089,-79.1683147,2,Euclid Avenue (189),a
 43.7952089,-79.1683147,2,Euclid Avenue (190),a
 43.7952089,-79.1683147,2,Euclid Avenue (272),a
@@ -38710,79 +38371,33 @@ lat,lon,sz,names,len_cat
 43.7952089,-79.1683147,2,Zaph Avenue (492),a
 43.7952089,-79.1683147,2,Zaph Avenue (503),a
 43.7952089,-79.1683147,2,Zaph Avenue (510),a
-43.7952095,-79.1775915,2,Charcoal Drive (075),a
-43.7952095,-79.1775915,2,Charcoal Drive (415),a
 43.7952206,-79.1422,2,Blue Anchor Trail (065),a
-43.7952401,-79.182736,2,Calverley Trail (309),a
-43.7952401,-79.182736,2,Calverley Trail (476),a
-43.7952442,-79.1828587,2,Houndtrail Drive (761),a
-43.7952442,-79.1828587,2,Houndtrail Drive (767),a
 43.7952556,-79.1421931,2,Blue Anchor Trail (066),a
-43.7952595,-79.1828902,2,Houndtrail Drive (477),a
-43.7952595,-79.1828902,2,Houndtrail Drive (854),a
 43.7952694,-79.1311121,2,Rouge Hills Drive (487),a
-43.7952728,-79.1826881,2,Calverley Trail (385),a
-43.7952728,-79.1826881,2,Calverley Trail (875),a
 43.7952801,-79.1731201,2,Cosens Street (077),a
 43.7952801,-79.1731201,2,Cosens Street (077),a
 43.7952801,-79.1731201,2,Cosens Street (144),a
 43.7952801,-79.1731201,2,Cosens Street (144),a
-43.7952864,-79.1776334,2,Charcoal Drive (491),a
-43.7952864,-79.1776334,2,Charcoal Drive (632),a
-43.7953223,-79.1854555,2,Ponymeadow Terrace (219),a
-43.7953223,-79.1854555,2,Ponymeadow Terrace (240),a
 43.7953269,-79.1599706,2,Littleborough Court (693),a
 43.7953269,-79.1599706,2,Littleborough Court (872),a
-43.7953335,-79.1776474,2,Charcoal Drive (492),a
-43.7953335,-79.1776474,2,Charcoal Drive (633),a
 43.7953405,-79.1719109,2,Scarboro Avenue (524),a
 43.7953405,-79.1719109,2,Scarboro Avenue (780),a
 43.7953458,-79.1431899,2,Port Union Road (101),a
-43.7953551,-79.1825425,2,Calverley Trail (386),a
-43.7953551,-79.1825425,2,Calverley Trail (876),a
 43.7953726,-79.1518258,2,Kingston Road (107),a
-43.7953903,-79.1776488,2,Charcoal Drive (493),a
-43.7953903,-79.1776488,2,Charcoal Drive (634),a
-43.7954021,-79.1823482,2,Calverley Trail (310),a
-43.7954021,-79.1823482,2,Calverley Trail (477),a
 43.7954103,-79.1399412,2,Donshire Court (108),a
 43.7954103,-79.1399412,2,Donshire Court (175),a
 43.7954103,-79.1399412,2,Rouge Highlands Drive (100),a
 43.7954103,-79.1399412,2,Rouge Highlands Drive (877),a
-43.7954236,-79.1831793,2,Houndtrail Drive (023),a
-43.7954236,-79.1831793,2,Houndtrail Drive (484),a
-43.7954306,-79.1775821,2,Charcoal Drive (494),a
-43.7954306,-79.1775821,2,Charcoal Drive (635),a
 43.7954405,-79.1965307,2,Morningside Avenue (106),a
 43.7954405,-79.1965307,2,Morningside Avenue (106),a
 43.7954405,-79.1965307,2,Morningside Avenue (701),a
 43.7954405,-79.1965307,2,Morningside Avenue (701),a
-43.7954479,-79.178761,2,Calverley Trail (402),a
-43.7954479,-79.178761,2,Calverley Trail (402),a
-43.7954479,-79.178761,2,Calverley Trail (892),a
-43.7954479,-79.178761,2,Calverley Trail (892),a
 43.7954514,-79.1422567,2,Blue Anchor Trail (697),a
 43.7954514,-79.1422567,2,Blue Anchor Trail (789),a
-43.7954583,-79.1821387,2,Calverley Trail (311),a
-43.7954583,-79.1821387,2,Calverley Trail (478),a
-43.7954583,-79.1821387,2,Houndtrail Drive (340),a
-43.7954583,-79.1821387,2,Houndtrail Drive (524),a
-43.7954682,-79.1833194,2,Houndtrail Drive (686),a
-43.7954682,-79.1833194,2,Houndtrail Drive (704),a
 43.7954704,-79.1433183,2,Port Union Road (647),a
 43.7954704,-79.1433183,2,Port Union Road (727),a
-43.7954751,-79.1820652,2,Calverley Trail (312),a
-43.7954751,-79.1820652,2,Calverley Trail (479),a
-43.7954873,-79.1833749,2,Houndtrail Drive (691),a
-43.7954873,-79.1833749,2,Houndtrail Drive (709),a
-43.7954996,-79.1766681,2,Charcoal Drive (499),a
-43.7954996,-79.1766681,2,Charcoal Drive (640),a
-43.7955113,-79.1834113,2,Houndtrail Drive (695),a
-43.7955113,-79.1834113,2,Houndtrail Drive (713),a
 43.7955134,-79.1422653,2,Blue Anchor Trail (698),a
 43.7955134,-79.1422653,2,Blue Anchor Trail (790),a
-43.7955214,-79.1821692,2,Houndtrail Drive (339),a
-43.7955214,-79.1821692,2,Houndtrail Drive (523),a
 43.7955245,-79.1573516,2,Orleans Drive (047),a
 43.7955245,-79.1573516,2,Orleans Drive (505),a
 43.7955376,-79.1390155,2,Donshire Court (422),a
@@ -38793,44 +38408,16 @@ lat,lon,sz,names,len_cat
 43.7955458,-79.1378117,2,East Avenue (114),a
 43.7955482,-79.1313524,2,Rouge Hills Drive (122),a
 43.7955482,-79.1313524,2,Rouge Hills Drive (488),a
-43.7955494,-79.1834429,2,Houndtrail Drive (700),a
-43.7955494,-79.1834429,2,Houndtrail Drive (718),a
-43.7955504,-79.1821805,2,Houndtrail Drive (478),a
-43.7955504,-79.1821805,2,Houndtrail Drive (855),a
-43.7955751,-79.1834532,2,Houndtrail Drive (703),a
-43.7955751,-79.1834532,2,Houndtrail Drive (721),a
 43.7955773,-79.1432377,2,Port Union Road (654),a
 43.7955773,-79.1432377,2,Port Union Road (730),a
-43.7955774,-79.1788471,2,Calverley Trail (401),a
-43.7955774,-79.1788471,2,Calverley Trail (891),a
-43.7955824,-79.1767065,2,Charcoal Drive (498),a
-43.7955824,-79.1767065,2,Charcoal Drive (639),a
 43.7955877,-79.142188,2,Blue Anchor Trail (699),a
 43.7955877,-79.142188,2,Blue Anchor Trail (791),a
 43.7955895,-79.157398,2,Orleans Drive (048),a
 43.7955895,-79.157398,2,Orleans Drive (506),a
-43.7956009,-79.183457,2,Houndtrail Drive (706),a
-43.7956009,-79.183457,2,Houndtrail Drive (724),a
 43.7956139,-79.1708317,2,Fawnridge Trail (082),a
 43.7956139,-79.1708317,2,Fawnridge Trail (508),a
-43.7956153,-79.1769673,2,Charcoal Drive (495),a
-43.7956153,-79.1769673,2,Charcoal Drive (636),a
-43.7956227,-79.176888,2,Charcoal Drive (496),a
-43.7956227,-79.176888,2,Charcoal Drive (637),a
-43.7956365,-79.1813171,2,Calverley Trail (313),a
-43.7956365,-79.1813171,2,Calverley Trail (480),a
-43.7956372,-79.1767809,2,Charcoal Drive (497),a
-43.7956372,-79.1767809,2,Charcoal Drive (638),a
 43.7956377,-79.1574681,2,Orleans Drive (049),a
 43.7956377,-79.1574681,2,Orleans Drive (507),a
-43.7956416,-79.186412,2,Conlins Road (561),a
-43.7956416,-79.186412,2,Conlins Road (730),a
-43.7956482,-79.1789041,2,Calverley Trail (400),a
-43.7956482,-79.1789041,2,Calverley Trail (890),a
-43.7956692,-79.1811855,2,Calverley Trail (314),a
-43.7956692,-79.1811855,2,Calverley Trail (481),a
-43.7956692,-79.1811855,2,Pictorial Street (319),a
-43.7956692,-79.1811855,2,Pictorial Street (503),a
 43.7956823,-79.1708591,2,Fawnridge Trail (070),a
 43.7956823,-79.1708591,2,Fawnridge Trail (083),a
 43.7956823,-79.1708591,2,Fawnridge Trail (496),a
@@ -38839,20 +38426,12 @@ lat,lon,sz,names,len_cat
 43.7956823,-79.1708591,2,Goldene Way (438),a
 43.7956993,-79.1412353,2,Dillon Place (370),a
 43.7956993,-79.1412353,2,Dillon Place (550),a
-43.7957032,-79.1789645,2,Calverley Trail (399),a
-43.7957032,-79.1789645,2,Calverley Trail (889),a
 43.7957109,-79.1707353,2,Goldene Way (364),a
 43.7957109,-79.1707353,2,Goldene Way (439),a
 43.795713,-79.1349385,2,Friendship Avenue (020),a
 43.795713,-79.1349385,2,Friendship Avenue (509),a
 43.7957321,-79.1419045,2,Blue Anchor Trail (700),a
 43.7957321,-79.1419045,2,Blue Anchor Trail (792),a
-43.7957333,-79.1812164,2,Pictorial Street (765),a
-43.7957333,-79.1812164,2,Pictorial Street (771),a
-43.7957605,-79.181228,2,Pictorial Street (484),a
-43.7957605,-79.181228,2,Pictorial Street (858),a
-43.7957941,-79.1790968,2,Calverley Trail (398),a
-43.7957941,-79.1790968,2,Calverley Trail (888),a
 43.7957968,-79.1733619,2,Bellew Gate (013),a
 43.7957968,-79.1733619,2,Bellew Gate (013),a
 43.7957968,-79.1733619,2,Bellew Gate (274),a
@@ -38871,46 +38450,10 @@ lat,lon,sz,names,len_cat
 43.7957973,-79.1968043,2,Morningside Avenue (969),a
 43.7957986,-79.1601923,2,Littleborough Court (694),a
 43.7957986,-79.1601923,2,Littleborough Court (873),a
-43.7958163,-79.1864901,2,Conlins Road (511),a
-43.7958163,-79.1864901,2,Conlins Road (511),a
-43.7958163,-79.1864901,2,Conlins Road (554),a
-43.7958163,-79.1864901,2,Conlins Road (554),a
-43.7958163,-79.1864901,2,Conlins Road (562),a
-43.7958163,-79.1864901,2,Conlins Road (562),a
-43.7958163,-79.1864901,2,Conlins Road (683),a
-43.7958163,-79.1864901,2,Conlins Road (683),a
-43.7958163,-79.1864901,2,Conlins Road (723),a
-43.7958163,-79.1864901,2,Conlins Road (723),a
-43.7958163,-79.1864901,2,Conlins Road (731),a
-43.7958163,-79.1864901,2,Conlins Road (731),a
 43.7958169,-79.1732688,2,Bellew Gate (085),a
 43.7958169,-79.1732688,2,Bellew Gate (085),a
 43.7958169,-79.1732688,2,Bellew Gate (511),a
 43.7958169,-79.1732688,2,Bellew Gate (511),a
-43.7958174,-79.1866736,2,Conlins Road (518),a
-43.7958174,-79.1866736,2,Conlins Road (518),a
-43.7958174,-79.1866736,2,Conlins Road (690),a
-43.7958174,-79.1866736,2,Conlins Road (690),a
-43.7958181,-79.1866536,2,Conlins Road (515),a
-43.7958181,-79.1866536,2,Conlins Road (515),a
-43.7958181,-79.1866536,2,Conlins Road (687),a
-43.7958181,-79.1866536,2,Conlins Road (687),a
-43.795821,-79.1867034,2,Conlins Road (521),a
-43.795821,-79.1867034,2,Conlins Road (521),a
-43.795821,-79.1867034,2,Conlins Road (693),a
-43.795821,-79.1867034,2,Conlins Road (693),a
-43.7958216,-79.1866331,2,Conlins Road (513),a
-43.7958216,-79.1866331,2,Conlins Road (513),a
-43.7958216,-79.1866331,2,Conlins Road (685),a
-43.7958216,-79.1866331,2,Conlins Road (685),a
-43.795824,-79.1865606,2,Conlins Road (512),a
-43.795824,-79.1865606,2,Conlins Road (512),a
-43.795824,-79.1865606,2,Conlins Road (684),a
-43.795824,-79.1865606,2,Conlins Road (684),a
-43.7958263,-79.186722,2,Conlins Road (524),a
-43.7958263,-79.186722,2,Conlins Road (524),a
-43.7958263,-79.186722,2,Conlins Road (695),a
-43.7958263,-79.186722,2,Conlins Road (695),a
 43.7958269,-79.131524,2,Rouge Hills Drive (123),a
 43.7958269,-79.131524,2,Rouge Hills Drive (489),a
 43.7958277,-79.1732187,2,Bellew Gate (490),a
@@ -38921,18 +38464,12 @@ lat,lon,sz,names,len_cat
 43.7958339,-79.1401332,2,Rouge Highlands Drive (439),a
 43.7958339,-79.1401332,2,Rouge Highlands Drive (540),a
 43.7958339,-79.1401332,2,Rouge Highlands Drive (541),a
-43.7958383,-79.1867472,2,Conlins Road (529),a
-43.7958383,-79.1867472,2,Conlins Road (529),a
-43.7958383,-79.1867472,2,Conlins Road (698),a
-43.7958383,-79.1867472,2,Conlins Road (698),a
 43.7958384,-79.1966546,2,Morningside Avenue (096),a
 43.7958384,-79.1966546,2,Morningside Avenue (107),a
 43.7958384,-79.1966546,2,Morningside Avenue (691),a
 43.7958384,-79.1966546,2,Morningside Avenue (702),a
 43.7958479,-79.1434964,2,Port Union Road (056),a
 43.7958479,-79.1434964,2,Port Union Road (166),a
-43.7958519,-79.1792256,2,Calverley Trail (397),a
-43.7958519,-79.1792256,2,Calverley Trail (887),a
 43.7958534,-79.1744538,2,Bazalgette Drive (148),a
 43.7958534,-79.1744538,2,Bazalgette Drive (148),a
 43.7958534,-79.1744538,2,Bazalgette Drive (998),a
@@ -38941,50 +38478,26 @@ lat,lon,sz,names,len_cat
 43.7958566,-79.1745017,2,Bazalgette Drive (149),a
 43.7958566,-79.1745017,2,Bazalgette Drive (999),a
 43.7958566,-79.1745017,2,Bazalgette Drive (999),a
-43.7958607,-79.1867728,2,Conlins Road (533),a
-43.7958607,-79.1867728,2,Conlins Road (533),a
-43.7958607,-79.1867728,2,Conlins Road (702),a
-43.7958607,-79.1867728,2,Conlins Road (702),a
-43.7958739,-79.1867813,2,Conlins Road (535),a
-43.7958739,-79.1867813,2,Conlins Road (535),a
-43.7958739,-79.1867813,2,Conlins Road (704),a
-43.7958739,-79.1867813,2,Conlins Road (704),a
 43.7958749,-79.1743566,2,Bazalgette Drive (147),a
 43.7958749,-79.1743566,2,Bazalgette Drive (147),a
 43.7958749,-79.1743566,2,Bazalgette Drive (997),a
 43.7958749,-79.1743566,2,Bazalgette Drive (997),a
 43.7958763,-79.1700171,2,Goldene Way (365),a
 43.7958763,-79.1700171,2,Goldene Way (440),a
-43.7958772,-79.1802597,2,Calverley Trail (315),a
-43.7958772,-79.1802597,2,Calverley Trail (482),a
 43.7958806,-79.1348972,2,Friendship Avenue (021),a
 43.7958806,-79.1348972,2,Friendship Avenue (510),a
-43.7958864,-79.1802178,2,Calverley Trail (316),a
-43.7958864,-79.1802178,2,Calverley Trail (483),a
-43.7958864,-79.1802178,2,Portrush Crescent (452),a
-43.7958864,-79.1802178,2,Portrush Crescent (568),a
 43.7958866,-79.1745529,2,Bazalgette Drive (000),a
 43.7958866,-79.1745529,2,Bazalgette Drive (000),a
 43.7958866,-79.1745529,2,Bazalgette Drive (150),a
 43.7958866,-79.1745529,2,Bazalgette Drive (150),a
 43.7958878,-79.1433357,2,Port Union Road (057),a
 43.7958878,-79.1433357,2,Port Union Road (169),a
-43.795895,-79.1867888,2,Conlins Road (538),a
-43.795895,-79.1867888,2,Conlins Road (538),a
-43.795895,-79.1867888,2,Conlins Road (707),a
-43.795895,-79.1867888,2,Conlins Road (707),a
-43.7958956,-79.1865286,2,Conlins Road (555),a
-43.7958956,-79.1865286,2,Conlins Road (555),a
-43.7958956,-79.1865286,2,Conlins Road (724),a
-43.7958956,-79.1865286,2,Conlins Road (724),a
 43.7958958,-79.173412,2,Cosens Street (008),a
 43.7958958,-79.173412,2,Cosens Street (008),a
 43.7958958,-79.173412,2,Cosens Street (267),a
 43.7958958,-79.173412,2,Cosens Street (267),a
 43.7958968,-79.1649615,2,Meadowvale Road (625),a
 43.7958968,-79.1649615,2,Meadowvale Road (908),a
-43.7958991,-79.1793507,2,Calverley Trail (396),a
-43.7958991,-79.1793507,2,Calverley Trail (886),a
 43.7959036,-79.1699314,2,Goldene Way (362),a
 43.7959036,-79.1699314,2,Goldene Way (988),a
 43.7959062,-79.1435225,2,Port Union Road (642),a
@@ -38993,18 +38506,10 @@ lat,lon,sz,names,len_cat
 43.7959062,-79.1435225,2,Port Union Road (726),a
 43.7959161,-79.1414599,2,Dillon Place (369),a
 43.7959161,-79.1414599,2,Dillon Place (549),a
-43.7959198,-79.1794416,2,Calverley Trail (317),a
-43.7959198,-79.1794416,2,Calverley Trail (484),a
 43.7959198,-79.1742192,2,Bazalgette Drive (146),a
 43.7959198,-79.1742192,2,Bazalgette Drive (146),a
 43.7959198,-79.1742192,2,Bazalgette Drive (996),a
 43.7959198,-79.1742192,2,Bazalgette Drive (996),a
-43.7959371,-79.1795176,2,Calverley Trail (395),a
-43.7959371,-79.1795176,2,Calverley Trail (885),a
-43.7959371,-79.1795176,2,Grover Drive (213),a
-43.7959371,-79.1795176,2,Grover Drive (343),a
-43.7959385,-79.1799625,2,Calverley Trail (392),a
-43.7959385,-79.1799625,2,Calverley Trail (882),a
 43.7959455,-79.1698957,2,Goldene Way (363),a
 43.7959455,-79.1698957,2,Goldene Way (989),a
 43.7959495,-79.1433632,2,Island Road (168),a
@@ -39017,16 +38522,10 @@ lat,lon,sz,names,len_cat
 43.7959495,-79.1433632,2,Port Union Road (170),a
 43.7959512,-79.1601628,2,Littleborough Court (695),a
 43.7959512,-79.1601628,2,Littleborough Court (874),a
-43.7959526,-79.1802508,2,Portrush Crescent (453),a
-43.7959526,-79.1802508,2,Portrush Crescent (569),a
-43.7959537,-79.1796663,2,Calverley Trail (394),a
-43.7959537,-79.1796663,2,Calverley Trail (884),a
 43.7959546,-79.174573,2,Bazalgette Drive (001),a
 43.7959546,-79.174573,2,Bazalgette Drive (001),a
 43.7959546,-79.174573,2,Bazalgette Drive (151),a
 43.7959546,-79.174573,2,Bazalgette Drive (151),a
-43.7959558,-79.1798002,2,Calverley Trail (393),a
-43.7959558,-79.1798002,2,Calverley Trail (883),a
 43.7959579,-79.1623628,2,Lavery Trail (382),a
 43.7959579,-79.1623628,2,Lavery Trail (382),a
 43.7959579,-79.1623628,2,Lavery Trail (457),a
@@ -39039,26 +38538,10 @@ lat,lon,sz,names,len_cat
 43.7959709,-79.1415167,2,Blue Anchor Trail (793),a
 43.7959709,-79.1415167,2,Dillon Place (368),a
 43.7959709,-79.1415167,2,Dillon Place (548),a
-43.7959783,-79.1802604,2,Portrush Crescent (454),a
-43.7959783,-79.1802604,2,Portrush Crescent (570),a
-43.795984,-79.1855903,2,Graybark Crescent (412),a
-43.795984,-79.1855903,2,Graybark Crescent (412),a
-43.795984,-79.1855903,2,Graybark Crescent (923),a
-43.795984,-79.1855903,2,Graybark Crescent (923),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (180),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (180),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (201),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (201),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (220),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (220),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (241),a
-43.795984,-79.1855903,2,Ponymeadow Terrace (241),a
 43.7959903,-79.1698819,2,Goldene Way (364),a
 43.7959903,-79.1698819,2,Goldene Way (990),a
 43.7959908,-79.1431897,2,Island Road (371),a
 43.7959908,-79.1431897,2,Island Road (877),a
-43.7959924,-79.1845829,2,Graybark Crescent (383),a
-43.7959924,-79.1845829,2,Graybark Crescent (894),a
 43.7959934,-79.1966935,2,Morningside Avenue (097),a
 43.7959934,-79.1966935,2,Morningside Avenue (692),a
 43.7959973,-79.1650075,2,Euclid Avenue (192),a
@@ -39069,16 +38552,6 @@ lat,lon,sz,names,len_cat
 43.7959973,-79.1650075,2,Meadowvale Road (623),a
 43.7959973,-79.1650075,2,Meadowvale Road (898),a
 43.7959973,-79.1650075,2,Meadowvale Road (906),a
-43.7960008,-79.1794883,2,Grover Drive (460),a
-43.7960008,-79.1794883,2,Grover Drive (576),a
-43.7960053,-79.1855016,2,Graybark Crescent (411),a
-43.7960053,-79.1855016,2,Graybark Crescent (411),a
-43.7960053,-79.1855016,2,Graybark Crescent (922),a
-43.7960053,-79.1855016,2,Graybark Crescent (922),a
-43.7960103,-79.1854624,2,Graybark Crescent (338),a
-43.7960103,-79.1854624,2,Graybark Crescent (338),a
-43.7960103,-79.1854624,2,Graybark Crescent (522),a
-43.7960103,-79.1854624,2,Graybark Crescent (522),a
 43.7960172,-79.173473,2,Cosens Street (084),a
 43.7960172,-79.173473,2,Cosens Street (084),a
 43.7960172,-79.173473,2,Cosens Street (510),a
@@ -39095,8 +38568,6 @@ lat,lon,sz,names,len_cat
 43.7960264,-79.138032,2,East Avenue (182),a
 43.7960265,-79.1648825,2,Lavery Trail (570),a
 43.7960265,-79.1648825,2,Lavery Trail (588),a
-43.7960308,-79.1794799,2,Grover Drive (494),a
-43.7960308,-79.1794799,2,Grover Drive (861),a
 43.7960381,-79.1648434,2,Lavery Trail (403),a
 43.7960381,-79.1648434,2,Lavery Trail (478),a
 43.7960415,-79.1433213,2,Island Road (167),a
@@ -39109,8 +38580,6 @@ lat,lon,sz,names,len_cat
 43.7960504,-79.1379311,2,Beaverbrook Court (176),a
 43.7960535,-79.1698924,2,Goldene Way (365),a
 43.7960535,-79.1698924,2,Goldene Way (991),a
-43.7960539,-79.1845964,2,Graybark Crescent (388),a
-43.7960539,-79.1845964,2,Graybark Crescent (899),a
 43.7960558,-79.1378875,2,Beaverbrook Court (066),a
 43.7960558,-79.1378875,2,Beaverbrook Court (066),a
 43.7960558,-79.1378875,2,Beaverbrook Court (783),a
@@ -39125,8 +38594,6 @@ lat,lon,sz,names,len_cat
 43.7960765,-79.1360639,2,Beaverbrook Court (790),a
 43.7960784,-79.1647083,2,Lavery Trail (569),a
 43.7960784,-79.1647083,2,Lavery Trail (587),a
-43.7960802,-79.1846097,2,Graybark Crescent (460),a
-43.7960802,-79.1846097,2,Graybark Crescent (898),a
 43.796084,-79.196728,2,Morningside Avenue (098),a
 43.796084,-79.196728,2,Morningside Avenue (693),a
 43.7960913,-79.1735102,2,Bazalgette Drive (144),a
@@ -39147,10 +38614,6 @@ lat,lon,sz,names,len_cat
 43.7960951,-79.1376946,2,Beaverbrook Court (773),a
 43.7960951,-79.1376946,2,Beaverbrook Court (792),a
 43.7960951,-79.1376946,2,Beaverbrook Court (792),a
-43.7960992,-79.1846356,2,Graybark Crescent (397),a
-43.7960992,-79.1846356,2,Graybark Crescent (908),a
-43.7961009,-79.184754,2,Graybark Crescent (405),a
-43.7961009,-79.184754,2,Graybark Crescent (916),a
 43.7961053,-79.1402587,2,Rouge Highlands Drive (437),a
 43.7961053,-79.1402587,2,Rouge Highlands Drive (539),a
 43.7961057,-79.1316614,2,Rouge Hills Drive (124),a
@@ -39159,8 +38622,6 @@ lat,lon,sz,names,len_cat
 43.7961058,-79.1613762,2,Orleans Drive (468),a
 43.7961058,-79.1613762,2,Orleans Drive (715),a
 43.7961058,-79.1613762,2,Orleans Drive (715),a
-43.7961078,-79.1846909,2,Graybark Crescent (461),a
-43.7961078,-79.1846909,2,Graybark Crescent (899),a
 43.7961145,-79.1348618,2,Friendship Avenue (023),a
 43.7961145,-79.1348618,2,Friendship Avenue (512),a
 43.796124,-79.1646305,2,Lavery Trail (402),a
@@ -39221,48 +38682,24 @@ lat,lon,sz,names,len_cat
 43.796191,-79.1425785,2,Island Road (559),a
 43.796191,-79.1425785,2,Island Road (879),a
 43.796191,-79.1425785,2,Island Road (911),a
-43.7961927,-79.1835981,2,Houndtrail Drive (707),a
-43.7961927,-79.1835981,2,Houndtrail Drive (725),a
 43.7962034,-79.1400864,2,Blue Anchor Trail (061),a
 43.7962034,-79.1400864,2,Blue Anchor Trail (550),a
-43.7962039,-79.1794103,2,Grover Drive (214),a
-43.7962039,-79.1794103,2,Grover Drive (344),a
 43.7962057,-79.1782504,2,Grover Drive (261),a
 43.7962057,-79.1782504,2,Grover Drive (391),a
-43.7962073,-79.1869611,2,Conlins Road (539),a
-43.7962073,-79.1869611,2,Conlins Road (539),a
-43.7962073,-79.1869611,2,Conlins Road (708),a
-43.7962073,-79.1869611,2,Conlins Road (708),a
 43.7962142,-79.1613977,2,Orleans Drive (466),a
 43.7962142,-79.1613977,2,Orleans Drive (466),a
 43.7962142,-79.1613977,2,Orleans Drive (713),a
 43.7962142,-79.1613977,2,Orleans Drive (713),a
-43.7962163,-79.1794041,2,Grover Drive (215),a
-43.7962163,-79.1794041,2,Grover Drive (345),a
-43.7962165,-79.183591,2,Houndtrail Drive (710),a
-43.7962165,-79.183591,2,Houndtrail Drive (728),a
 43.7962201,-79.1644845,2,Lavery Trail (401),a
 43.7962201,-79.1644845,2,Lavery Trail (476),a
 43.7962203,-79.1686209,2,Pythagoras Drive (358),a
 43.7962203,-79.1686209,2,Pythagoras Drive (433),a
-43.7962289,-79.1793988,2,Grover Drive (216),a
-43.7962289,-79.1793988,2,Grover Drive (346),a
 43.7962338,-79.1424032,2,Island Road (071),a
 43.7962338,-79.1424032,2,Island Road (560),a
-43.7962386,-79.1835768,2,Houndtrail Drive (713),a
-43.7962386,-79.1835768,2,Houndtrail Drive (731),a
-43.7962417,-79.1793941,2,Grover Drive (217),a
-43.7962417,-79.1793941,2,Grover Drive (347),a
 43.796251,-79.1624227,2,Lavery Trail (543),a
 43.796251,-79.1624227,2,Lavery Trail (543),a
 43.796251,-79.1624227,2,Lavery Trail (561),a
 43.796251,-79.1624227,2,Lavery Trail (561),a
-43.7962519,-79.1835637,2,Houndtrail Drive (715),a
-43.7962519,-79.1835637,2,Houndtrail Drive (733),a
-43.7962545,-79.1793903,2,Grover Drive (218),a
-43.7962545,-79.1793903,2,Grover Drive (348),a
-43.7962676,-79.1793873,2,Grover Drive (219),a
-43.7962676,-79.1793873,2,Grover Drive (349),a
 43.7962692,-79.1410637,2,Blue Anchor Trail (702),a
 43.7962692,-79.1410637,2,Blue Anchor Trail (794),a
 43.796271,-79.1502331,2,Kingston Road (104),a
@@ -39273,34 +38710,20 @@ lat,lon,sz,names,len_cat
 43.796271,-79.1502331,2,Kingston Road (246),a
 43.796271,-79.1502331,2,Kingston Road (290),a
 43.796271,-79.1502331,2,Kingston Road (290),a
-43.7962736,-79.1835304,2,Houndtrail Drive (719),a
-43.7962736,-79.1835304,2,Houndtrail Drive (737),a
 43.796277,-79.1613833,2,Orleans Drive (465),a
 43.796277,-79.1613833,2,Orleans Drive (465),a
 43.796277,-79.1613833,2,Orleans Drive (712),a
 43.796277,-79.1613833,2,Orleans Drive (712),a
-43.7962807,-79.1793851,2,Grover Drive (220),a
-43.7962807,-79.1793851,2,Grover Drive (350),a
-43.7962816,-79.1835108,2,Houndtrail Drive (721),a
-43.7962816,-79.1835108,2,Houndtrail Drive (739),a
-43.7962895,-79.1834789,2,Houndtrail Drive (724),a
-43.7962895,-79.1834789,2,Houndtrail Drive (742),a
 43.7962901,-79.164401,2,Lavery Trail (400),a
 43.7962901,-79.164401,2,Lavery Trail (475),a
-43.7962939,-79.1793837,2,Grover Drive (221),a
-43.7962939,-79.1793837,2,Grover Drive (351),a
 43.7963058,-79.1747338,2,Bazalgette Drive (004),a
 43.7963058,-79.1747338,2,Bazalgette Drive (004),a
 43.7963058,-79.1747338,2,Bazalgette Drive (154),a
 43.7963058,-79.1747338,2,Bazalgette Drive (154),a
-43.7963071,-79.1793831,2,Grover Drive (222),a
-43.7963071,-79.1793831,2,Grover Drive (352),a
 43.796312,-79.1711619,2,Fawnridge Trail (071),a
 43.796312,-79.1711619,2,Fawnridge Trail (497),a
 43.7963172,-79.1968179,2,Morningside Avenue (100),a
 43.7963172,-79.1968179,2,Morningside Avenue (695),a
-43.7963202,-79.1793834,2,Grover Drive (223),a
-43.7963202,-79.1793834,2,Grover Drive (353),a
 43.7963262,-79.1771968,2,Grover Drive (467),a
 43.7963262,-79.1771968,2,Grover Drive (472),a
 43.7963262,-79.1771968,2,Grover Drive (586),a
@@ -39309,22 +38732,14 @@ lat,lon,sz,names,len_cat
 43.7963262,-79.1771968,2,Ponymeadow Terrace (583),a
 43.796328,-79.1394941,2,Blue Anchor Trail (060),a
 43.796328,-79.1394941,2,Blue Anchor Trail (549),a
-43.7963335,-79.1793845,2,Grover Drive (224),a
-43.7963335,-79.1793845,2,Grover Drive (354),a
 43.7963396,-79.1613566,2,Orleans Drive (464),a
 43.7963396,-79.1613566,2,Orleans Drive (464),a
 43.7963396,-79.1613566,2,Orleans Drive (711),a
 43.7963396,-79.1613566,2,Orleans Drive (711),a
-43.7963465,-79.1793862,2,Grover Drive (225),a
-43.7963465,-79.1793862,2,Grover Drive (355),a
 43.7963471,-79.1624036,2,Lavery Trail (544),a
 43.7963471,-79.1624036,2,Lavery Trail (544),a
 43.7963471,-79.1624036,2,Lavery Trail (562),a
 43.7963471,-79.1624036,2,Lavery Trail (562),a
-43.7963593,-79.1825346,2,Houndtrail Drive (744),a
-43.7963593,-79.1825346,2,Houndtrail Drive (762),a
-43.7963596,-79.1793889,2,Grover Drive (226),a
-43.7963596,-79.1793889,2,Grover Drive (356),a
 43.7963621,-79.1503589,2,Kingston Road (106),a
 43.7963621,-79.1503589,2,Kingston Road (106),a
 43.7963621,-79.1503589,2,Kingston Road (248),a
@@ -39337,10 +38752,6 @@ lat,lon,sz,names,len_cat
 43.7963644,-79.1348223,2,Friendship Avenue (514),a
 43.7963658,-79.1643579,2,Lavery Trail (399),a
 43.7963658,-79.1643579,2,Lavery Trail (474),a
-43.7963726,-79.1793925,2,Grover Drive (227),a
-43.7963726,-79.1793925,2,Grover Drive (357),a
-43.7963817,-79.1825541,2,Houndtrail Drive (741),a
-43.7963817,-79.1825541,2,Houndtrail Drive (759),a
 43.7963838,-79.1394169,2,Blue Anchor Trail (059),a
 43.7963838,-79.1394169,2,Blue Anchor Trail (548),a
 43.7963993,-79.1772283,2,Ponymeadow Terrace (560),a
@@ -39355,20 +38766,12 @@ lat,lon,sz,names,len_cat
 43.7964045,-79.1500382,2,Kingston Road (157),a
 43.7964045,-79.1500382,2,Kingston Road (291),a
 43.7964045,-79.1500382,2,Kingston Road (291),a
-43.7964062,-79.182589,2,Houndtrail Drive (737),a
-43.7964062,-79.182589,2,Houndtrail Drive (755),a
 43.7964125,-79.1334424,2,Brownfield Gardens (017),a
 43.7964125,-79.1334424,2,Brownfield Gardens (506),a
 43.7964155,-79.1317558,2,Rouge Hills Drive (125),a
 43.7964155,-79.1317558,2,Rouge Hills Drive (491),a
-43.7964197,-79.1826207,2,Houndtrail Drive (734),a
-43.7964197,-79.1826207,2,Houndtrail Drive (752),a
 43.7964202,-79.1772374,2,Ponymeadow Terrace (561),a
 43.7964202,-79.1772374,2,Ponymeadow Terrace (585),a
-43.7964299,-79.1826672,2,Houndtrail Drive (730),a
-43.7964299,-79.1826672,2,Houndtrail Drive (748),a
-43.7964306,-79.1827158,2,Houndtrail Drive (726),a
-43.7964306,-79.1827158,2,Houndtrail Drive (744),a
 43.7964365,-79.14048,2,Rouge Highlands Drive (435),a
 43.7964365,-79.14048,2,Rouge Highlands Drive (537),a
 43.7964457,-79.1393825,2,Blue Anchor Trail (058),a
@@ -39391,18 +38794,10 @@ lat,lon,sz,names,len_cat
 43.7964808,-79.1436117,2,Port Union Road (663),a
 43.7964808,-79.1436117,2,Port Union Road (733),a
 43.7964808,-79.1436117,2,Port Union Road (734),a
-43.796501,-79.1857869,2,Ponymeadow Terrace (438),a
-43.796501,-79.1857869,2,Ponymeadow Terrace (438),a
-43.796501,-79.1857869,2,Ponymeadow Terrace (549),a
-43.796501,-79.1857869,2,Ponymeadow Terrace (549),a
 43.7965064,-79.1676815,2,Archimedes Court (374),a
 43.7965064,-79.1676815,2,Archimedes Court (449),a
 43.7965307,-79.1762491,2,Grover Drive (472),a
 43.7965307,-79.1762491,2,Grover Drive (852),a
-43.79654,-79.1858061,2,Ponymeadow Terrace (189),a
-43.79654,-79.1858061,2,Ponymeadow Terrace (189),a
-43.79654,-79.1858061,2,Ponymeadow Terrace (210),a
-43.79654,-79.1858061,2,Ponymeadow Terrace (210),a
 43.7965459,-79.1761836,2,Grover Drive (616),a
 43.7965459,-79.1761836,2,Grover Drive (822),a
 43.7965523,-79.1623404,2,Lavery Trail (385),a
@@ -39411,10 +38806,6 @@ lat,lon,sz,names,len_cat
 43.7965523,-79.1623404,2,Lavery Trail (460),a
 43.7965589,-79.1677064,2,Archimedes Court (227),a
 43.7965589,-79.1677064,2,Archimedes Court (858),a
-43.7965639,-79.1871635,2,Conlins Road (540),a
-43.7965639,-79.1871635,2,Conlins Road (540),a
-43.7965639,-79.1871635,2,Conlins Road (709),a
-43.7965639,-79.1871635,2,Conlins Road (709),a
 43.796567,-79.1760975,2,Grover Drive (468),a
 43.796567,-79.1760975,2,Grover Drive (587),a
 43.796567,-79.1760975,2,Morrish Road (591),a
@@ -39427,38 +38818,18 @@ lat,lon,sz,names,len_cat
 43.7965803,-79.1712409,2,Fawnridge Trail (498),a
 43.7965872,-79.134841,2,Friendship Avenue (026),a
 43.7965872,-79.134841,2,Friendship Avenue (515),a
-43.7965902,-79.185816,2,Ponymeadow Terrace (439),a
-43.7965902,-79.185816,2,Ponymeadow Terrace (439),a
-43.7965902,-79.185816,2,Ponymeadow Terrace (550),a
-43.7965902,-79.185816,2,Ponymeadow Terrace (550),a
 43.796599,-79.1406842,2,Rouge Highlands Drive (434),a
 43.796599,-79.1406842,2,Rouge Highlands Drive (536),a
-43.7966078,-79.1815873,2,Pictorial Street (320),a
-43.7966078,-79.1815873,2,Pictorial Street (447),a
-43.7966078,-79.1815873,2,Pictorial Street (504),a
-43.7966078,-79.1815873,2,Pictorial Street (563),a
-43.7966078,-79.1815873,2,Portrush Crescent (459),a
-43.7966078,-79.1815873,2,Portrush Crescent (575),a
-43.7966266,-79.1858077,2,Ponymeadow Terrace (440),a
-43.7966266,-79.1858077,2,Ponymeadow Terrace (440),a
-43.7966266,-79.1858077,2,Ponymeadow Terrace (551),a
-43.7966266,-79.1858077,2,Ponymeadow Terrace (551),a
 43.7966298,-79.1417547,2,Island Road (073),a
 43.7966298,-79.1417547,2,Island Road (562),a
 43.7966328,-79.1438758,2,Port Union Road (640),a
 43.7966328,-79.1438758,2,Port Union Road (724),a
-43.7966362,-79.1814543,2,Portrush Crescent (458),a
-43.7966362,-79.1814543,2,Portrush Crescent (574),a
 43.7966367,-79.1407316,2,Blue Anchor Trail (050),a
 43.7966367,-79.1407316,2,Blue Anchor Trail (539),a
 43.7966367,-79.1407316,2,Blue Anchor Trail (703),a
 43.7966367,-79.1407316,2,Blue Anchor Trail (795),a
 43.7966367,-79.1407316,2,Rouge Highlands Drive (433),a
 43.7966367,-79.1407316,2,Rouge Highlands Drive (535),a
-43.7966561,-79.1857879,2,Ponymeadow Terrace (441),a
-43.7966561,-79.1857879,2,Ponymeadow Terrace (441),a
-43.7966561,-79.1857879,2,Ponymeadow Terrace (552),a
-43.7966561,-79.1857879,2,Ponymeadow Terrace (552),a
 43.796662,-79.1652286,2,Meadowvale Road (126),a
 43.796662,-79.1652286,2,Meadowvale Road (367),a
 43.796662,-79.1652286,2,Meadowvale Road (442),a
@@ -39467,24 +38838,8 @@ lat,lon,sz,names,len_cat
 43.7966782,-79.1622704,2,Lavery Trail (386),a
 43.7966782,-79.1622704,2,Lavery Trail (461),a
 43.7966782,-79.1622704,2,Lavery Trail (461),a
-43.7966858,-79.1857408,2,Ponymeadow Terrace (442),a
-43.7966858,-79.1857408,2,Ponymeadow Terrace (442),a
-43.7966858,-79.1857408,2,Ponymeadow Terrace (553),a
-43.7966858,-79.1857408,2,Ponymeadow Terrace (553),a
 43.7966861,-79.1335475,2,Brownfield Gardens (019),a
 43.7966861,-79.1335475,2,Brownfield Gardens (812),a
-43.7966886,-79.1816227,2,Pictorial Street (448),a
-43.7966886,-79.1816227,2,Pictorial Street (564),a
-43.7967037,-79.1805764,2,Portrush Crescent (455),a
-43.7967037,-79.1805764,2,Portrush Crescent (571),a
-43.7967174,-79.1856319,2,Ponymeadow Terrace (443),a
-43.7967174,-79.1856319,2,Ponymeadow Terrace (443),a
-43.7967174,-79.1856319,2,Ponymeadow Terrace (554),a
-43.7967174,-79.1856319,2,Ponymeadow Terrace (554),a
-43.7967482,-79.1806488,2,Portrush Crescent (456),a
-43.7967482,-79.1806488,2,Portrush Crescent (572),a
-43.796766,-79.1807564,2,Portrush Crescent (457),a
-43.796766,-79.1807564,2,Portrush Crescent (573),a
 43.7967781,-79.1349123,2,Friendship Avenue (027),a
 43.7967781,-79.1349123,2,Friendship Avenue (516),a
 43.7967934,-79.1439966,2,Port Union Road (637),a
@@ -39535,8 +38890,6 @@ lat,lon,sz,names,len_cat
 43.7969228,-79.160812,2,Orleans Drive (707),a
 43.7969271,-79.1795797,2,Grover Drive (462),a
 43.7969271,-79.1795797,2,Grover Drive (578),a
-43.7969415,-79.1840508,2,Ponymeadow Terrace (444),a
-43.7969415,-79.1840508,2,Ponymeadow Terrace (555),a
 43.796962,-79.1972506,2,Morningside Avenue (269),a
 43.796962,-79.1972506,2,Morningside Avenue (269),a
 43.796962,-79.1972506,2,Morningside Avenue (562),a
@@ -39553,8 +38906,6 @@ lat,lon,sz,names,len_cat
 43.7969726,-79.1971239,2,Morningside Avenue (855),a
 43.7969726,-79.1971239,2,Morningside Avenue (985),a
 43.7969726,-79.1971239,2,Morningside Avenue (985),a
-43.7969753,-79.1874101,2,Conlins Road (541),a
-43.7969753,-79.1874101,2,Conlins Road (710),a
 43.7969854,-79.1794893,2,Grover Drive (463),a
 43.7969854,-79.1794893,2,Grover Drive (579),a
 43.796993,-79.1369221,2,Sunny Slope (048),a
@@ -39565,8 +38916,6 @@ lat,lon,sz,names,len_cat
 43.7970031,-79.1395865,2,Blue Anchor Trail (057),a
 43.7970031,-79.1395865,2,Blue Anchor Trail (529),a
 43.7970031,-79.1395865,2,Blue Anchor Trail (546),a
-43.7970156,-79.1835977,2,Ponymeadow Terrace (445),a
-43.7970156,-79.1835977,2,Ponymeadow Terrace (556),a
 43.7970187,-79.1384296,2,East Avenue (116),a
 43.7970187,-79.1384296,2,East Avenue (116),a
 43.7970187,-79.1384296,2,East Avenue (183),a
@@ -39673,8 +39022,6 @@ lat,lon,sz,names,len_cat
 43.7972058,-79.1396917,2,Blue Anchor Trail (544),a
 43.7972152,-79.1354633,2,Friendship Avenue (031),a
 43.7972152,-79.1354633,2,Friendship Avenue (520),a
-43.7972206,-79.1818508,2,Pictorial Street (449),a
-43.7972206,-79.1818508,2,Pictorial Street (565),a
 43.7972268,-79.1385139,2,Blue Anchor Trail (687),a
 43.7972268,-79.1385139,2,Blue Anchor Trail (687),a
 43.7972268,-79.1385139,2,Blue Anchor Trail (779),a
@@ -39693,8 +39040,6 @@ lat,lon,sz,names,len_cat
 43.7972372,-79.1398045,2,Blue Anchor Trail (543),a
 43.7972378,-79.141202,2,Island Road (078),a
 43.7972378,-79.141202,2,Island Road (567),a
-43.7972496,-79.1818632,2,Pictorial Street (450),a
-43.7972496,-79.1818632,2,Pictorial Street (566),a
 43.7972781,-79.1618347,2,Lavery Trail (388),a
 43.7972781,-79.1618347,2,Lavery Trail (388),a
 43.7972781,-79.1618347,2,Lavery Trail (463),a
@@ -39709,12 +39054,6 @@ lat,lon,sz,names,len_cat
 43.7973144,-79.1670821,2,Pythagoras Drive (240),a
 43.7973165,-79.1672128,2,Pythagoras Drive (234),a
 43.7973165,-79.1672128,2,Pythagoras Drive (237),a
-43.7973225,-79.1818945,2,Pictorial Street (451),a
-43.7973225,-79.1818945,2,Pictorial Street (567),a
-43.7973225,-79.1818945,2,Ponymeadow Terrace (446),a
-43.7973225,-79.1818945,2,Ponymeadow Terrace (554),a
-43.7973225,-79.1818945,2,Ponymeadow Terrace (557),a
-43.7973225,-79.1818945,2,Ponymeadow Terrace (558),a
 43.7973229,-79.1671146,2,Pythagoras Drive (236),a
 43.7973229,-79.1671146,2,Pythagoras Drive (239),a
 43.7973271,-79.1671572,2,Pythagoras Drive (235),a
@@ -39885,22 +39224,10 @@ lat,lon,sz,names,len_cat
 43.7978056,-79.1401691,2,Island Road (421),a
 43.7978535,-79.1778565,2,Ponymeadow Terrace (216),a
 43.7978535,-79.1778565,2,Ponymeadow Terrace (237),a
-43.7978581,-79.268251,2,Huntingwood Drive (288),a
-43.7978581,-79.268251,2,Huntingwood Drive (954),a
-43.7978687,-79.2678438,2,Huntingwood Drive (429),a
-43.7978687,-79.2678438,2,Huntingwood Drive (796),a
-43.7978704,-79.2677773,2,Huntingwood Drive (289),a
-43.7978704,-79.2677773,2,Huntingwood Drive (955),a
 43.7978732,-79.1646128,2,Lavery Trail (396),a
 43.7978732,-79.1646128,2,Lavery Trail (471),a
-43.7978779,-79.2684096,2,Huntingwood Drive (428),a
-43.7978779,-79.2684096,2,Huntingwood Drive (795),a
-43.797889,-79.2684983,2,Huntingwood Drive (287),a
-43.797889,-79.2684983,2,Huntingwood Drive (953),a
 43.7978939,-79.1447803,2,Port Union Road (685),a
 43.7978939,-79.1447803,2,Port Union Road (741),a
-43.7978958,-79.2675608,2,Huntingwood Drive (606),a
-43.7978958,-79.2675608,2,Huntingwood Drive (620),a
 43.7979294,-79.1388245,2,East Avenue (639),a
 43.7979294,-79.1388245,2,East Avenue (639),a
 43.7979294,-79.1388245,2,East Avenue (717),a
@@ -39929,14 +39256,6 @@ lat,lon,sz,names,len_cat
 43.798029,-79.1449274,2,Port Union Road (742),a
 43.798034,-79.1391466,2,Island Road (045),a
 43.798034,-79.1391466,2,Island Road (534),a
-43.7980488,-79.2691935,2,Huntingwood Drive (315),a
-43.7980488,-79.2691935,2,Huntingwood Drive (315),a
-43.7980488,-79.2691935,2,Huntingwood Drive (325),a
-43.7980488,-79.2691935,2,Huntingwood Drive (325),a
-43.7980488,-79.2691935,2,Huntingwood Drive (763),a
-43.7980488,-79.2691935,2,Huntingwood Drive (763),a
-43.7980488,-79.2691935,2,Huntingwood Drive (773),a
-43.7980488,-79.2691935,2,Huntingwood Drive (773),a
 43.7980492,-79.1657476,2,Meadowvale Road (166),a
 43.7980492,-79.1657476,2,Meadowvale Road (943),a
 43.7980584,-79.1390185,2,Island Road (046),a
@@ -39965,32 +39284,18 @@ lat,lon,sz,names,len_cat
 43.7980838,-79.1452098,2,Port Union Road (616),a
 43.7980838,-79.1452098,2,Port Union Road (704),a
 43.7980838,-79.1452098,2,Port Union Road (712),a
-43.7980891,-79.2785964,2,Huntingwood Drive (266),a
-43.7980891,-79.2785964,2,Huntingwood Drive (932),a
 43.7981068,-79.1387783,2,Island Road (012),a
 43.7981068,-79.1387783,2,Island Road (012),a
 43.7981068,-79.1387783,2,Island Road (501),a
 43.7981068,-79.1387783,2,Island Road (501),a
 43.7981185,-79.136457,2,Friendship Avenue (344),a
 43.7981185,-79.136457,2,Friendship Avenue (701),a
-43.7981305,-79.2782681,2,Huntingwood Drive (267),a
-43.7981305,-79.2782681,2,Huntingwood Drive (933),a
-43.7981453,-79.2779875,2,Huntingwood Drive (268),a
-43.7981453,-79.2779875,2,Huntingwood Drive (934),a
-43.7981481,-79.27774,2,Huntingwood Drive (059),a
-43.7981481,-79.27774,2,Huntingwood Drive (269),a
-43.7981481,-79.27774,2,Huntingwood Drive (388),a
-43.7981481,-79.27774,2,Huntingwood Drive (935),a
-43.7981495,-79.2776792,2,Huntingwood Drive (060),a
-43.7981495,-79.2776792,2,Huntingwood Drive (389),a
 43.7981529,-79.1343074,2,Brycemoor Road (014),a
 43.7981529,-79.1343074,2,Brycemoor Road (503),a
 43.7981654,-79.1450834,2,Port Union Road (084),a
 43.7981654,-79.1450834,2,Port Union Road (573),a
 43.7981654,-79.1450834,2,Port Union Road (670),a
 43.7981654,-79.1450834,2,Port Union Road (737),a
-43.798167,-79.2764664,2,Huntingwood Drive (061),a
-43.798167,-79.2764664,2,Huntingwood Drive (390),a
 43.7981704,-79.1657901,2,Meadowvale Road (165),a
 43.7981704,-79.1657901,2,Meadowvale Road (941),a
 43.79818,-79.1644364,2,Lavery Trail (393),a
@@ -40045,10 +39350,6 @@ lat,lon,sz,names,len_cat
 43.7984671,-79.1371576,2,Island Road (000),a
 43.7984671,-79.1371576,2,Island Road (693),a
 43.7984671,-79.1371576,2,Island Road (693),a
-43.7984735,-79.2710419,2,Huntingwood Drive (126),a
-43.7984735,-79.2710419,2,Huntingwood Drive (589),a
-43.7984735,-79.2710419,2,Huntingwood Drive (777),a
-43.7984735,-79.2710419,2,Huntingwood Drive (934),a
 43.7984889,-79.1768422,2,Morrish Road (265),a
 43.7984889,-79.1768422,2,Morrish Road (305),a
 43.7984952,-79.139061,2,East Avenue (205),a
@@ -40059,8 +39360,6 @@ lat,lon,sz,names,len_cat
 43.7985187,-79.1455527,2,Port Union Road (103),a
 43.7985187,-79.1455527,2,Port Union Road (354),a
 43.7985187,-79.1455527,2,Port Union Road (355),a
-43.7985457,-79.2713564,2,Huntingwood Drive (283),a
-43.7985457,-79.2713564,2,Huntingwood Drive (949),a
 43.7985501,-79.1698528,2,Zaph Avenue (488),a
 43.7985501,-79.1698528,2,Zaph Avenue (506),a
 43.7985705,-79.176813,2,Morrish Road (073),a
@@ -40077,16 +39376,6 @@ lat,lon,sz,names,len_cat
 43.7985795,-79.1366553,2,Island Road (464),a
 43.7985795,-79.1366553,2,Island Road (889),a
 43.7985795,-79.1366553,2,Island Road (889),a
-43.7986305,-79.2717912,2,Huntingwood Drive (081),a
-43.7986305,-79.2717912,2,Huntingwood Drive (588),a
-43.7986305,-79.2717912,2,Huntingwood Drive (676),a
-43.7986305,-79.2717912,2,Huntingwood Drive (933),a
-43.7986483,-79.2723147,2,Huntingwood Drive (320),a
-43.7986483,-79.2723147,2,Huntingwood Drive (322),a
-43.7986483,-79.2723147,2,Huntingwood Drive (768),a
-43.7986483,-79.2723147,2,Huntingwood Drive (770),a
-43.7986516,-79.2718992,2,Huntingwood Drive (323),a
-43.7986516,-79.2718992,2,Huntingwood Drive (771),a
 43.798713,-79.1318835,2,Rouge Hills Drive (131),a
 43.798713,-79.1318835,2,Rouge Hills Drive (497),a
 43.7987157,-79.1460278,2,Port Union Road (088),a

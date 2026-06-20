@@ -16051,11 +16051,14 @@ lat,lon,sz,names,len_cat
 52.2558288,-7.120213,2,Barrack Street (271),a
 52.2558288,-7.120213,2,Barrack Street (271),a
 52.2558288,-7.120213,2,Mount Sion Avenue (987),a
+52.2558288,-7.120213,2,Mount Sion Avenue (987),a
 52.2558293,-7.1142429,2,Henry Street Terrace (135),a
 52.2558293,-7.1142429,2,Henry Street Terrace (135),a
 52.2558301,-7.1123728,2,Poleberry Link Road (723),a
+52.2558301,-7.1123728,2,Poleberry Link Road (723),a
 52.2558301,-7.1123728,2,Poleberry Link Road (724),a
 52.2558301,-7.1123728,2,Poleberry Link Road (724),a
+52.2558301,-7.1123728,2,Poleberry Link Road (847),a
 52.2558301,-7.1123728,2,Poleberry Link Road (847),a
 52.2558337,-7.1686711,2,Knockhouse Road (636),a
 52.2558339,-7.1349225,2,Cleaboy Avenue (115),a
@@ -16068,10 +16071,12 @@ lat,lon,sz,names,len_cat
 52.2558501,-7.1348691,2,Cleaboy Avenue (116),a
 52.255853,-7.1272735,2,Ard Na Greine (115),a
 52.2558604,-7.1445676,2,Hazelbourne (994),a
+52.2558626,-7.1124194,2,Poleberry Link Road (247),a
 52.2558646,-7.143881,2,Hazelbourne (019),a
 52.2558651,-7.1420991,2,Comeragh Green (813),a
 52.2558662,-7.1348234,2,Cleaboy Avenue (117),a
 52.2558695,-7.139908,2,Corbusier Close (017),a
+52.2558696,-7.1202483,2,Mount Sion Avenue (988),a
 52.2558748,-7.1021453,2,Dunmore Road (716),a
 52.2558748,-7.1021453,2,Newtown Road (184),a
 52.2558748,-7.1021453,2,Park Road (357),a
@@ -16087,8 +16092,10 @@ lat,lon,sz,names,len_cat
 52.2558914,-7.1438849,2,Hazelbourne (018),a
 52.2558955,-7.1197812,2,Barrack Street (021),a
 52.2558957,-7.1445204,2,Hazelbourne (992),a
+52.2558963,-7.118001,2,Manor Hill (751),a
 52.2558976,-7.1397579,2,Corbusier Close (013),a
 52.2558989,-7.1273391,2,Ard Na Greine (605),a
+52.2559081,-7.1138211,2,Closegate (611),a
 52.2559094,-7.1379949,2,Cezanne Drive (219),a
 52.2559103,-7.1445094,2,Hazelbourne (991),a
 52.2559103,-7.1138494,2,Closegate (612),a
@@ -16110,6 +16117,8 @@ lat,lon,sz,names,len_cat
 52.2559293,-7.1148513,2,Rice Park (345),a
 52.2559307,-7.1273801,2,Ard Na Greine (113),a
 52.2559307,-7.1273801,2,Ard Na Greine (114),a
+52.2559307,-7.1273801,2,Griffith Place (848),a
+52.2559307,-7.1273801,2,Griffith Place (865),a
 52.2559324,-7.1128282,2,Manor Street (343),a
 52.2559324,-7.1128282,2,Manor Street (345),a
 52.2559338,-7.1432013,2,Hazelbourne (967),a
@@ -16124,16 +16133,20 @@ lat,lon,sz,names,len_cat
 52.2559476,-7.1380019,2,Cezanne Drive (928),a
 52.2559476,-7.1380019,2,Monet Court (962),a
 52.2559504,-7.113729,2,Closegate (607),a
+52.2559527,-7.1272731,2,Griffith Place (805),a
 52.2559559,-7.1395626,2,Corbusier Close (007),a
 52.2559559,-7.1395626,2,Gandon Drive (215),a
 52.2559593,-7.1021668,2,Dunmore Road (188),a
 52.2559629,-7.1380017,2,Cezanne Drive (217),a
 52.2559638,-7.1126888,2,Poleberry Link Road (397),a
 52.2559639,-7.1439074,2,Hazelbourne (015),a
+52.2559668,-7.1126924,2,Poleberry Link Road (396),a
 52.2559676,-7.1139261,2,Closegate (616),a
 52.2559691,-7.1137167,2,Closegate (606),a
 52.2559708,-7.1196176,2,Barrack Street (022),a
+52.2559746,-7.1127894,2,Manor Street (586),a
 52.2559746,-7.1127894,2,Manor Street (848),a
+52.2559746,-7.1127894,2,Poleberry Link Road (392),a
 52.2559751,-7.1471841,2,IDA Waterford Industrial Estate - Northern Extension (307),a
 52.2559758,-7.1127152,2,Poleberry Link Road (395),a
 52.2559804,-7.1380009,2,Cezanne Drive (216),a
@@ -16151,17 +16164,20 @@ lat,lon,sz,names,len_cat
 52.2560141,-7.112769,2,Manor Street (512),a
 52.2560142,-7.1433164,2,Hazelbourne (968),a
 52.2560145,-7.1137025,2,Closegate (604),a
+52.2560162,-7.1139133,2,Closegate (618),a
 52.2560167,-7.1396087,2,Gandon Drive (981),a
 52.2560198,-7.1445156,2,Hazelbourne (987),a
 52.2560232,-7.1494492,2,IDA Waterford Industrial Estate - Northern Extension (254),a
 52.2560249,-7.1497827,2,IDA Waterford Industrial Estate - Northern Extension (249),a
 52.2560254,-7.14912,2,IDA Waterford Industrial Estate - Northern Extension (250),a
 52.2560286,-7.1194883,2,Barrack Street (023),a
+52.2560286,-7.1194883,2,Barrack Street (049),a
 52.2560286,-7.1194883,2,Doyle's Street (114),a
 52.2560317,-7.1488197,2,IDA Waterford Industrial Estate - Northern Extension (253),a
 52.2560346,-7.1423151,2,Cleaboy Road (688),a
 52.2560347,-7.1137055,2,Closegate (603),a
 52.2560355,-7.1445129,2,Hazelbourne (986),a
+52.256038,-7.1269007,2,Griffith Place (852),a
 52.2560407,-7.1485324,2,IDA Waterford Industrial Estate - Northern Extension (252),a
 52.2560421,-7.1138938,2,Closegate (619),a
 52.2560454,-7.1274822,2,Ard Na Greine (112),a
@@ -16174,6 +16190,7 @@ lat,lon,sz,names,len_cat
 52.2560608,-7.1138719,2,Closegate (620),a
 52.2560609,-7.1444957,2,Hazelbourne (984),a
 52.2560692,-7.112565,2,Poleberry Link Road (242),a
+52.25607,-7.1231229,2,Luke Wadding Street (932),a
 52.25607,-7.1137449,2,Closegate (601),a
 52.2560727,-7.1204151,2,Mount Sion Avenue (991),a
 52.2560734,-7.1444802,2,Hazelbourne (983),a
@@ -16183,6 +16200,7 @@ lat,lon,sz,names,len_cat
 52.2560786,-7.1421904,2,Comeragh Green (249),a
 52.2560818,-7.1137784,2,Closegate (357),a
 52.2560818,-7.1137784,2,Closegate (623),a
+52.256083,-7.1138084,2,Closegate (622),a
 52.2560837,-7.1444639,2,Hazelbourne (982),a
 52.2560916,-7.1104787,2,Johnstown (280),a
 52.2560918,-7.1125723,2,Poleberry Link Road (337),a
@@ -16191,32 +16209,39 @@ lat,lon,sz,names,len_cat
 52.2560933,-7.1444433,2,Hazelbourne (981),a
 52.2561032,-7.1421129,2,Cleaboy Road (686),a
 52.2561043,-7.1444127,2,Hazelbourne (980),a
+52.2561098,-7.112683,2,Manor Street (849),a
 52.2561112,-7.1685641,2,Knockhouse Road (496),a
 52.2561145,-7.1443695,2,Hazelbourne (979),a
 52.2561178,-7.112575,2,Poleberry Link Road (338),a
 52.2561189,-7.1801483,2,Western Link Road (497),a
+52.256121,-7.1105043,2,Johnstown (178),a
 52.2561301,-7.1420231,2,Cleaboy Road (682),a
 52.2561304,-7.14724,2,IDA Waterford Industrial Estate - Northern Extension (248),a
 52.2561304,-7.14724,2,IDA Waterford Industrial Estate - Northern Extension (293),a
+52.2561349,-7.1125768,2,Poleberry Link Road (239),a
 52.2561397,-7.1264554,2,Griffith Place (806),a
 52.2561418,-7.1022132,2,Dunmore Road (715),a
 52.2561579,-7.1685444,2,Knockhouse Road (637),a
+52.2561579,-7.1275622,2,Ard Na Greine (063),a
 52.2561693,-7.1126296,2,Manor Street (513),a
 52.2561704,-7.1308807,2,Keane's Road (532),a
 52.2561736,-7.1214969,2,Morrisson's Road (177),a
 52.2561736,-7.1214969,2,Saint Ignatius Street (063),a
+52.2561744,-7.1125701,2,Poleberry Link Road (238),a
 52.2561806,-7.1232482,2,Luke Wadding Street (813),a
 52.2561808,-7.1440367,2,Hazelbourne (013),a
 52.2561808,-7.1440367,2,Hazelbourne (978),a
 52.2561813,-7.1435423,2,Hazelbourne (497),a
 52.2561813,-7.1435423,2,Hazelbourne (656),a
 52.2561875,-7.1262494,2,Griffith Place (854),a
+52.2561875,-7.1262494,2,Sexton Street (807),a
 52.2561988,-7.1156055,2,Hennessy's Road (330),a
 52.2562025,-7.1685247,2,Knockhouse Road (497),a
 52.2562039,-7.1435737,2,Hazelbourne (969),a
 52.256213,-7.1379625,2,Cezanne Drive (212),a
 52.2562174,-7.1435962,2,Hazelbourne (970),a
 52.2562178,-7.1185074,2,Manor Hill (756),a
+52.2562178,-7.1125585,2,Manor Street (858),a
 52.2562178,-7.1125585,2,Poleberry Link Road (237),a
 52.2562266,-7.1563281,2,Carrickphierish Road (391),a
 52.2562268,-7.1472698,2,IDA Waterford Industrial Estate - Northern Extension (308),a
@@ -16228,6 +16253,7 @@ lat,lon,sz,names,len_cat
 52.2562397,-7.1436532,2,Hazelbourne (972),a
 52.2562403,-7.1437524,2,Hazelbourne (976),a
 52.2562434,-7.1125361,2,Manor Street (854),a
+52.2562434,-7.1125361,2,Manor Street (857),a
 52.2562436,-7.1437284,2,Hazelbourne (975),a
 52.256245,-7.1685005,2,Knockhouse Road (638),a
 52.2562453,-7.1436842,2,Hazelbourne (908),a
@@ -16240,6 +16266,7 @@ lat,lon,sz,names,len_cat
 52.2562609,-7.1379686,2,Renoir Close (542),a
 52.2562787,-7.1472816,2,IDA Waterford Industrial Estate - Northern Extension (309),a
 52.2562787,-7.1437026,2,Hazelbourne (909),a
+52.2562807,-7.1129961,2,Closegate (445),a
 52.2562818,-7.112985,2,Closegate (444),a
 52.2562818,-7.112985,2,Closegate (648),a
 52.256282,-7.1130105,2,Closegate (446),a
@@ -16249,6 +16276,7 @@ lat,lon,sz,names,len_cat
 52.2562916,-7.1130481,2,Closegate (448),a
 52.2562919,-7.1379782,2,Cezanne Drive (236),a
 52.2562927,-7.1129654,2,Closegate (650),a
+52.2562953,-7.1233865,2,Luke Wadding Street (812),a
 52.2563033,-7.1129541,2,Closegate (651),a
 52.2563045,-7.137983,2,Cezanne Drive (402),a
 52.2563101,-7.1136184,2,Closegate (450),a
@@ -16271,15 +16299,20 @@ lat,lon,sz,names,len_cat
 52.2563683,-7.1411806,2,Comeragh Park (762),a
 52.2563689,-7.1187227,2,Barrack Street (051),a
 52.2563689,-7.1187227,2,Barrack Street (053),a
+52.2563689,-7.1187227,2,Manor Hill (752),a
 52.2563698,-7.1277015,2,Ard Na Greine (062),a
 52.2563732,-7.1132922,2,Closegate (449),a
 52.2563732,-7.1132922,2,Closegate (581),a
+52.2563768,-7.1254138,2,Griffith Place (856),a
 52.2563803,-7.1683867,2,Knockhouse Road (640),a
 52.2563846,-7.1437573,2,Hazelbourne (910),a
 52.2563852,-7.1562666,2,Carrickphierish Road (384),a
 52.2563855,-7.1380301,2,Cezanne Drive (232),a
 52.2563875,-7.1022771,2,Dunmore Road (714),a
 52.2563962,-7.114414,2,Rice Park (335),a
+52.2563962,-7.114414,2,Rice Park (551),a
+52.2563972,-7.1123984,2,Manor Street (342),a
+52.256404,-7.1206901,2,Mount Sion Avenue (993),a
 52.2564061,-7.1472968,2,IDA Waterford Industrial Estate - Northern Extension (298),a
 52.2564088,-7.1380521,2,Cezanne Drive (231),a
 52.2564166,-7.1235406,2,Luke Wadding Street (928),a
@@ -16296,13 +16329,17 @@ lat,lon,sz,names,len_cat
 52.2564446,-7.1381039,2,Cezanne Drive (334),a
 52.2564483,-7.1409182,2,Cleaboy Road (680),a
 52.2564483,-7.1409182,2,Cleaboy Road (680),a
+52.2564486,-7.1136906,2,Closegate (596),a
 52.2564515,-7.1309936,2,Keane's Road (531),a
 52.2564541,-7.1398018,2,Gandon Drive (976),a
 52.2564551,-7.1123456,2,Manor Street (511),a
+52.2564551,-7.1123456,2,Manor Street (516),a
 52.2564563,-7.113692,2,Closegate (595),a
 52.2564583,-7.1437975,2,Hazelbourne (912),a
 52.2564589,-7.1381384,2,Cezanne Drive (229),a
+52.2564646,-7.1250597,2,Griffith Place (858),a
 52.2564646,-7.1250597,2,Leamy Street (155),a
+52.2564655,-7.1136895,2,Closegate (594),a
 52.2564658,-7.114348,2,Rice Park (552),a
 52.2564699,-7.1381687,2,Cezanne Drive (228),a
 52.2564763,-7.1136839,2,Closegate (593),a
@@ -16310,22 +16347,22 @@ lat,lon,sz,names,len_cat
 52.2564894,-7.1380444,2,Cezanne Drive (824),a
 52.2564902,-7.1472979,2,IDA Waterford Industrial Estate - Northern Extension (312),a
 52.2564905,-7.1131898,2,Closegate (582),a
-52.2564915,-7.1108099,2,Johnstown (539),a
 52.2564922,-7.1136713,2,Closegate (592),a
 52.2564939,-7.1382246,2,Cezanne Drive (226),a
 52.2564993,-7.1438283,2,Hazelbourne (913),a
 52.2565003,-7.1803495,2,Western Link Road (872),a
 52.2565061,-7.1131718,2,Closegate (583),a
 52.2565066,-7.1382434,2,Cezanne Drive (225),a
-52.2565141,-7.1108303,2,Waterside (056),a
 52.2565144,-7.1122948,2,Castle Street (562),a
+52.2565144,-7.1122948,2,Manor Street (845),a
 52.2565213,-7.1131504,2,Closegate (584),a
 52.2565243,-7.1382615,2,Cezanne Drive (099),a
 52.2565283,-7.1379965,2,Cezanne Drive (825),a
 52.2565341,-7.1183419,2,Barrack Street (040),a
+52.2565341,-7.1183419,2,Barrack Street (055),a
 52.2565341,-7.1183419,2,Newport's Terrace (420),a
+52.2565347,-7.1236934,2,Luke Wadding Street (810),a
 52.2565349,-7.1131275,2,Closegate (585),a
-52.2565367,-7.1107953,2,Waterside (057),a
 52.2565368,-7.1399129,2,Gandon Drive (213),a
 52.2565368,-7.1399129,2,Wren Court (775),a
 52.2565387,-7.1406406,2,Ashley Avenue (926),a
@@ -16338,7 +16375,7 @@ lat,lon,sz,names,len_cat
 52.2565568,-7.1379762,2,Cezanne Drive (826),a
 52.2565599,-7.1427551,2,Hazelbourne (907),a
 52.2565599,-7.1427551,2,Hazelbourne (956),a
-52.2565626,-7.110892,2,John Street (143),a
+52.2565648,-7.1067975,2,Otteran Place (654),a
 52.2565648,-7.1067975,2,Otteran Place (655),a
 52.2565663,-7.1130726,2,Closegate (587),a
 52.2565731,-7.113599,2,Closegate (591),a
@@ -16347,6 +16384,7 @@ lat,lon,sz,names,len_cat
 52.256575,-7.1427357,2,Hazelbourne (957),a
 52.2565755,-7.1399491,2,Gandon Drive (973),a
 52.2565776,-7.132249,2,The Willows (321),a
+52.2565777,-7.1265088,2,Sexton Street (566),a
 52.2565782,-7.1321633,2,The Willows (324),a
 52.2565843,-7.1322685,2,The Willows (320),a
 52.2565855,-7.1130492,2,Closegate (588),a
@@ -16368,11 +16406,11 @@ lat,lon,sz,names,len_cat
 52.2566298,-7.1151719,2,Hennessy's Road (331),a
 52.2566304,-7.1399824,2,Gandon Drive (971),a
 52.2566334,-7.119889,2,Doyle's Street (109),a
+52.2566334,-7.119889,2,Saint Ignatius Street (061),a
 52.2566407,-7.1379672,2,Cezanne Drive (829),a
 52.2566425,-7.1427191,2,Hazelbourne (961),a
 52.2566432,-7.1023455,2,Dunmore Road (713),a
 52.2566466,-7.1067471,2,Otteran Place (433),a
-52.2566509,-7.1105106,2,Waterside (058),a
 52.2566587,-7.1427287,2,Hazelbourne (962),a
 52.2566659,-7.1379765,2,Cezanne Drive (830),a
 52.2566682,-7.1407081,2,Ashley Avenue (885),a
@@ -16385,59 +16423,60 @@ lat,lon,sz,names,len_cat
 52.2566953,-7.1179629,2,Mount Sion Crescent (312),a
 52.2566953,-7.1179629,2,Mount Sion Crescent (312),a
 52.2566961,-7.1128865,2,Castle Street (561),a
+52.2566996,-7.1279193,2,Ard Na Greine (061),a
 52.2567026,-7.1680258,2,Knockhouse Road (642),a
-52.2567092,-7.1121175,2,Manor Street (847),a
 52.2567095,-7.1312867,2,The Willows (990),a
 52.256712,-7.1380145,2,Cezanne Drive (832),a
 52.2567139,-7.1129424,2,Castle Street (489),a
 52.2567139,-7.1129424,2,Castle Street (560),a
 52.256719,-7.1179073,2,Barrack Street (604),a
 52.256719,-7.1179073,2,Barrack Street (604),a
+52.2567258,-7.121951,2,Monastery Street (113),a
+52.2567258,-7.121951,2,Morrisson's Road (178),a
 52.2567317,-7.1400327,2,Cleaboy Road (726),a
 52.2567317,-7.1400327,2,Gandon Drive (212),a
 52.2567338,-7.138046,2,Cezanne Drive (833),a
 52.2567417,-7.1178539,2,Barrack Street (042),a
+52.2567417,-7.1178539,2,Barrack Street (042),a
 52.256743,-7.1023745,2,Dunmore Road (712),a
 52.2567513,-7.1383872,2,Cezanne Drive (222),a
+52.256752,-7.1066821,2,Otteran Place (652),a
 52.2567592,-7.139936,2,Cleaboy Road (677),a
-52.256767,-7.112061,2,Manor Street (843),a
 52.2567702,-7.1560551,2,Carrickphierish Road (382),a
+52.2567709,-7.1066738,2,Otteran Place (651),a
 52.2567718,-7.1472772,2,IDA Waterford Industrial Estate - Northern Extension (240),a
 52.2567718,-7.1472772,2,IDA Waterford Industrial Estate - Northern Extension (290),a
 52.2567746,-7.1679511,2,Knockhouse Road (500),a
 52.2567784,-7.141021,2,Ashley Mews (226),a
 52.2567784,-7.141021,2,Ashley Mews (226),a
 52.2567867,-7.1066706,2,Otteran Place (650),a
-52.2567899,-7.1101558,2,Waterside Close (842),a
 52.2567935,-7.1407695,2,Ashley Avenue (886),a
 52.2567935,-7.1407695,2,Ashley Avenue (886),a
 52.2567942,-7.1397589,2,Cleaboy Road (675),a
 52.2567973,-7.1397316,2,Cleaboy Road (674),a
 52.2567981,-7.1240293,2,Griffith Place (861),a
 52.2567981,-7.1240293,2,Luke Wadding Street (925),a
-52.2568008,-7.1121707,2,Parliament Street (886),a
 52.2568009,-7.118505,2,Newport's Terrace (418),a
 52.2568025,-7.1066718,2,Otteran Place (649),a
 52.2568029,-7.1396827,2,Cleaboy Road (672),a
 52.2568095,-7.1396065,2,Cleaboy Road (671),a
 52.2568137,-7.1181482,2,Mount Sion Crescent (313),a
-52.2568203,-7.110077,2,Waterside (060),a
 52.256825,-7.1220335,2,Morrisson's Road (179),a
+52.2568313,-7.1066822,2,Otteran Place (647),a
 52.2568427,-7.1176232,2,Barrack Street (043),a
 52.2568443,-7.1066917,2,Otteran Place (646),a
 52.2568469,-7.102402,2,Dunmore Road (711),a
 52.2568474,-7.1678904,2,Knockhouse Road (643),a
 52.2568597,-7.1181965,2,Mount Sion Crescent (314),a
+52.2568603,-7.1067069,2,Catherine Street (348),a
 52.2568603,-7.1067069,2,Otteran Place (645),a
-52.2568629,-7.1134094,2,Castle Street (488),a
 52.2568698,-7.1384392,2,Cezanne Drive (096),a
 52.2568698,-7.1384392,2,Cleaboy Road (723),a
 52.2568747,-7.1465068,2,IDA Waterford Industrial Estate - Northern Extension (239),a
 52.2568794,-7.1408116,2,Ashley Avenue (887),a
+52.2568836,-7.106732,2,Catherine Street (347),a
+52.2569033,-7.1067545,2,Catherine Street (346),a
 52.2569044,-7.1678462,2,Knockhouse Road (501),a
-52.2569051,-7.1104713,2,Waterside Close (837),a
-52.2569077,-7.1098395,2,Waterside (061),a
-52.2569086,-7.1135404,2,Castle Street (472),a
 52.2569096,-7.1559561,2,Carrickphierish Road (389),a
 52.2569159,-7.1379452,2,Cleaboy Road (722),a
 52.256922,-7.1024199,2,Dunmore Road (710),a
@@ -16446,8 +16485,7 @@ lat,lon,sz,names,len_cat
 52.2569315,-7.1417391,2,Maplewood (091),a
 52.2569387,-7.1311867,2,Keane's Road (530),a
 52.2569424,-7.1067947,2,Catherine Street (344),a
-52.2569429,-7.1103653,2,Waterside Close (838),a
-52.256947,-7.1103332,2,Waterside Close (839),a
+52.2569517,-7.1221357,2,Morrisson's Road (180),a
 52.256955,-7.144499,2,Lynwood (576),a
 52.256955,-7.1211414,2,Monastery Street (114),a
 52.256955,-7.1211414,2,Mount Sion Avenue (995),a
@@ -16461,8 +16499,10 @@ lat,lon,sz,names,len_cat
 52.2569627,-7.1069656,2,Waterside (080),a
 52.256963,-7.1408573,2,Ashley Avenue (888),a
 52.2569633,-7.1432499,2,Hazelbourne (965),a
-52.2569642,-7.1173543,2,Barrack Street (046),a
+52.2569656,-7.1068144,2,Catherine Street (343),a
+52.2569656,-7.1068144,2,Waterside (083),a
 52.2569658,-7.1445725,2,Lynwood (690),a
+52.2569658,-7.1297237,2,Tycor Avenue (570),a
 52.2569658,-7.1297237,2,Tycor Avenue (570),a
 52.2569674,-7.1070093,2,Waterside (079),a
 52.2569676,-7.1324522,2,The Willows (314),a
@@ -16479,6 +16519,7 @@ lat,lon,sz,names,len_cat
 52.2569915,-7.1024363,2,Dunmore Road (709),a
 52.2569924,-7.1411545,2,Ashley Mews (698),a
 52.2569924,-7.1411545,2,Ashley Mews (698),a
+52.2569927,-7.1182394,2,Mount Sion Crescent (315),a
 52.2570037,-7.1443587,2,Lynwood (685),a
 52.2570062,-7.1411611,2,Ashley Mews (699),a
 52.2570062,-7.1411611,2,Ashley Mews (699),a
@@ -16506,18 +16547,12 @@ lat,lon,sz,names,len_cat
 52.2570551,-7.1558422,2,Carrickphierish Road (383),a
 52.2570554,-7.1447754,2,Lynwood (693),a
 52.257057,-7.1434381,2,Oakdown (303),a
-52.2570585,-7.1146581,2,Hennessy's Road (334),a
 52.2570608,-7.1419122,2,Maplewood (095),a
 52.2570608,-7.1419122,2,Maplewood (095),a
-52.2570614,-7.1139456,2,Castle Street (470),a
 52.2570617,-7.1677562,2,Knockhouse Road (502),a
-52.2570634,-7.1140382,2,Castle Street (468),a
 52.2570634,-7.1043842,2,Canada Street (409),a
 52.2570636,-7.1324333,2,The Willows (310),a
 52.2570649,-7.1472415,2,IDA Waterford Industrial Estate - Northern Extension (294),a
-52.2570659,-7.1141143,2,Castle Street (466),a
-52.257067,-7.1139892,2,Castle Street (469),a
-52.2570772,-7.1141417,2,Castle Street (465),a
 52.2570793,-7.1024669,2,Dunmore Road (707),a
 52.2570814,-7.1448105,2,Lynwood (694),a
 52.2570828,-7.1222451,2,Morrisson's Road (181),a
@@ -16533,20 +16568,9 @@ lat,lon,sz,names,len_cat
 52.2570922,-7.1409385,2,Ashley Mews (228),a
 52.2570987,-7.1077042,2,Waterside (075),a
 52.2571076,-7.1181697,2,Mount Sion Crescent (317),a
-52.257108,-7.1131689,2,Parliament Street (892),a
-52.2571086,-7.1170453,2,Barrack Street (024),a
-52.2571086,-7.1170453,2,Barrack Street (024),a
-52.2571086,-7.1170453,2,Barrack Street (048),a
-52.2571086,-7.1170453,2,Barrack Street (048),a
-52.2571086,-7.1170453,2,Green Street (386),a
-52.2571086,-7.1170453,2,Green Street (386),a
 52.2571089,-7.1187046,2,Newport's Terrace (416),a
 52.2571104,-7.1448447,2,Lynwood (695),a
 52.2571109,-7.1091956,2,Waterside (064),a
-52.2571118,-7.1113964,2,John Street (137),a
-52.2571142,-7.1145266,2,Castle Terrace (939),a
-52.2571142,-7.1145266,2,Hennessy's Road (340),a
-52.257115,-7.1141568,2,Castle Street (463),a
 52.2571168,-7.1419439,2,Maplewood (097),a
 52.2571168,-7.1419439,2,Maplewood (097),a
 52.2571173,-7.102484,2,Dunmore Road (706),a
@@ -16565,18 +16589,16 @@ lat,lon,sz,names,len_cat
 52.2571404,-7.1180758,2,Mount Sion Crescent (531),a
 52.2571404,-7.1180758,2,Mount Sion Crescent (531),a
 52.2571413,-7.1323255,2,The Willows (306),a
-52.2571419,-7.1141515,2,Castle Street (462),a
 52.2571444,-7.1419482,2,Maplewood (098),a
 52.2571444,-7.1419482,2,Maplewood (098),a
 52.2571447,-7.1079717,2,Waterside (073),a
 52.25715,-7.132288,2,The Willows (352),a
 52.2571525,-7.1025021,2,Dunmore Road (705),a
-52.2571551,-7.1171043,2,Green Street (383),a
-52.2571551,-7.1171043,2,Green Street (383),a
 52.2571598,-7.1223101,2,Morrisson's Road (182),a
 52.2571601,-7.1442561,2,Ashley Avenue (039),a
 52.2571619,-7.1322167,2,The Willows (304),a
 52.2571672,-7.1081073,2,Cuilin (026),a
+52.2571672,-7.1081073,2,Waterside (072),a
 52.2571683,-7.1180785,2,Mount Sion Crescent (532),a
 52.2571683,-7.1180785,2,Mount Sion Crescent (532),a
 52.2571687,-7.142323,2,Willow Park (583),a
@@ -16585,19 +16607,13 @@ lat,lon,sz,names,len_cat
 52.2571698,-7.14194,2,Maplewood (099),a
 52.2571738,-7.1157598,2,Convent Hill (333),a
 52.2571739,-7.1449368,2,Lynwood (697),a
-52.2571786,-7.1143138,2,Hennessy's Road (343),a
 52.257188,-7.1025235,2,Dunmore Road (704),a
-52.2571898,-7.1171426,2,Green Street (380),a
-52.2571898,-7.1171426,2,Green Street (380),a
 52.2571899,-7.1419228,2,Maplewood (100),a
 52.2571899,-7.1419228,2,Maplewood (100),a
-52.2571899,-7.1142832,2,Hennessy's Road (344),a
 52.2571934,-7.1557156,2,Carrickphierish Road (326),a
 52.2571934,-7.1557156,2,Carrickphierish Road (821),a
 52.2571966,-7.1472127,2,IDA Waterford Industrial Estate - Northern Extension (315),a
 52.2572005,-7.1088725,2,Waterside (065),a
-52.2572017,-7.1142544,2,Hennessy's Road (342),a
-52.2572025,-7.1141657,2,Castle Street (610),a
 52.2572066,-7.1069752,2,Catherine Street (341),a
 52.2572091,-7.1442424,2,Ashley Avenue (038),a
 52.25721,-7.1418963,2,Maplewood (101),a
@@ -16606,7 +16622,6 @@ lat,lon,sz,names,len_cat
 52.2572136,-7.1202632,2,Doyle's Street (107),a
 52.2572136,-7.1202632,2,Monastery Street (115),a
 52.2572157,-7.1088074,2,Waterside (066),a
-52.2572193,-7.1171722,2,Green Street (376),a
 52.2572222,-7.1025463,2,Dunmore Road (703),a
 52.2572233,-7.1077931,2,Syme's Lane / Grubb's Lane (804),a
 52.2572317,-7.1085436,2,Waterside (070),a
@@ -16614,12 +16629,12 @@ lat,lon,sz,names,len_cat
 52.257232,-7.1418556,2,Maplewood (102),a
 52.2572327,-7.1187912,2,Newport's Terrace (415),a
 52.2572328,-7.1450486,2,Lynwood (578),a
-52.2572329,-7.1142046,2,Brown's Lane (313),a
 52.2572355,-7.1086448,2,Waterside (336),a
 52.2572365,-7.1086091,2,Waterside (069),a
+52.2572381,-7.1158601,2,Convent Hill (128),a
 52.2572487,-7.1471924,2,IDA Waterford Industrial Estate - Northern Extension (291),a
 52.2572492,-7.1282697,2,Ard Na Greine (060),a
-52.2572494,-7.1171976,2,Green Street (373),a
+52.2572492,-7.1282697,2,Ard Na Greine (060),a
 52.2572497,-7.1223897,2,Morrisson's Road (183),a
 52.2572498,-7.1442303,2,Ashley Avenue (037),a
 52.2572606,-7.1417847,2,Maplewood (995),a
@@ -16627,19 +16642,18 @@ lat,lon,sz,names,len_cat
 52.2572612,-7.1424486,2,Willow Park (079),a
 52.2572638,-7.1676521,2,Knockhouse Road (645),a
 52.2572646,-7.1159014,2,Convent Hill (520),a
+52.2572646,-7.1159014,2,Convent Hill (701),a
 52.2572688,-7.1410698,2,Ashley Avenue (889),a
 52.2572804,-7.1435644,2,Oakdown (051),a
 52.2572828,-7.144215,2,Ashley Avenue (036),a
 52.2572854,-7.1417074,2,Maplewood (103),a
 52.2572854,-7.1417074,2,Maplewood (103),a
 52.2572882,-7.115935,2,Convent Hill (570),a
+52.2572976,-7.1077631,2,Syme's Lane / Grubb's Lane (805),a
 52.2572979,-7.1313256,2,Keane's Road (528),a
 52.2572979,-7.1313256,2,The Willows (303),a
 52.257298,-7.1026006,2,Dunmore Road (702),a
-52.2572991,-7.1166414,2,Barrack Street (026),a
-52.2572991,-7.1166414,2,Barrack Street (026),a
 52.2573044,-7.1471575,2,IDA Waterford Industrial Estate - Northern Extension (319),a
-52.2573045,-7.117234,2,Green Street (367),a
 52.2573099,-7.1416188,2,Maplewood (104),a
 52.2573099,-7.1416188,2,Maplewood (104),a
 52.257313,-7.1441953,2,Ashley Avenue (035),a
@@ -16649,10 +16663,9 @@ lat,lon,sz,names,len_cat
 52.257321,-7.1411114,2,Ashley Avenue (890),a
 52.2573214,-7.1285006,2,Morrissons Avenue (529),a
 52.2573262,-7.1224599,2,Griffith Place (862),a
+52.2573262,-7.1224599,2,Morrisson's Road (184),a
 52.2573262,-7.1224599,2,Morrisson's Road (416),a
 52.2573317,-7.1555741,2,Carrickphierish Road (202),a
-52.2573414,-7.1177596,2,Green Street Court (421),a
-52.2573414,-7.1177596,2,Green Street Court (421),a
 52.2573421,-7.1441681,2,Ashley Avenue (034),a
 52.2573442,-7.1026352,2,Dunmore Road (756),a
 52.2573444,-7.1188696,2,Newport's Terrace (414),a
@@ -16663,20 +16676,14 @@ lat,lon,sz,names,len_cat
 52.2573496,-7.1283304,2,Morrissons Avenue (334),a
 52.2573558,-7.1070733,2,Catherine Street (340),a
 52.2573604,-7.1080363,2,Cuilin (027),a
-52.2573627,-7.1120688,2,John's Lane (836),a
 52.2573684,-7.1441385,2,Ashley Avenue (033),a
-52.2573718,-7.1172671,2,Green Street (522),a
-52.2573718,-7.1172671,2,Mandeville Lane (391),a
-52.2573718,-7.1172671,2,Mandeville Lane (391),a
 52.2573764,-7.141158,2,Ashley Avenue (891),a
 52.2573768,-7.1436067,2,Oakdown (048),a
-52.2573899,-7.1176036,2,Green Street Court (422),a
+52.2573874,-7.1225178,2,Morrisson's Road (417),a
 52.2573901,-7.135836,2,Cleaboy Avenue (851),a
 52.2573901,-7.135836,2,Cleaboy Road (717),a
 52.2573905,-7.1203709,2,Doyle's Street (105),a
 52.2573925,-7.1281331,2,Morrissons Avenue (527),a
-52.2573967,-7.1164401,2,Barrack Street (027),a
-52.2573967,-7.1164401,2,Barrack Street (027),a
 52.2573969,-7.1440977,2,Ashley Avenue (232),a
 52.2573969,-7.1440977,2,Ashley Avenue (940),a
 52.2573969,-7.1440977,2,Rosemount (660),a
@@ -16684,7 +16691,6 @@ lat,lon,sz,names,len_cat
 52.257399,-7.1243709,2,The Courtyard (293),a
 52.2573998,-7.1256927,2,Leamy Street (536),a
 52.2573999,-7.1436114,2,Oakdown (047),a
-52.2574041,-7.1122277,2,John's Lane (834),a
 52.2574096,-7.1441197,2,Rosemount (105),a
 52.2574179,-7.1411953,2,Ashley Avenue (929),a
 52.2574179,-7.1411953,2,Ashley Avenue (929),a
@@ -16695,6 +16701,7 @@ lat,lon,sz,names,len_cat
 52.2574228,-7.1440542,2,Ashley Avenue (925),a
 52.2574229,-7.1436163,2,Oakdown (046),a
 52.2574241,-7.1441494,2,Rosemount (106),a
+52.2574278,-7.1187289,2,Mount Sion Crescent (536),a
 52.257437,-7.1441819,2,Rosemount (107),a
 52.2574376,-7.1426293,2,Willow Park (582),a
 52.2574454,-7.1436231,2,Oakdown (045),a
@@ -16702,7 +16709,6 @@ lat,lon,sz,names,len_cat
 52.2574481,-7.1440072,2,Ashley Avenue (924),a
 52.2574521,-7.1356122,2,Cleaboy Road (716),a
 52.2574521,-7.1356122,2,Crescent Drive (033),a
-52.2574522,-7.1123891,2,John's Lane (832),a
 52.2574528,-7.1442176,2,Rosemount (108),a
 52.2574564,-7.1027192,2,Dunmore Road (755),a
 52.2574569,-7.1283885,2,Ard Na Greine (059),a
@@ -16713,50 +16719,38 @@ lat,lon,sz,names,len_cat
 52.2574613,-7.1810094,2,Western Link Road (900),a
 52.2574646,-7.1554175,2,Carrickphierish Road (822),a
 52.2574647,-7.1182072,2,Mount Sion Crescent (533),a
-52.2574702,-7.1173128,2,Green Street (361),a
 52.2574714,-7.1436345,2,Oakdown (044),a
 52.2574716,-7.1442513,2,Rosemount (109),a
 52.2574716,-7.1426597,2,Willow Park (077),a
-52.2574808,-7.1162668,2,Shortcourse (538),a
-52.2574808,-7.1162668,2,Shortcourse (538),a
-52.2574812,-7.1124691,2,John's Lane (831),a
+52.2574901,-7.1182521,2,Mount Sion Crescent (534),a
 52.2574919,-7.1442787,2,Rosemount (110),a
-52.2574925,-7.1175312,2,Green Street Court (424),a
-52.2574925,-7.1175312,2,Green Street Court (424),a
-52.2574982,-7.1162315,2,Barrack Street (029),a
-52.2574982,-7.1162315,2,Barrack Street (029),a
-52.2574982,-7.1162315,2,Convent Hill (569),a
+52.2574942,-7.1183158,2,Mount Sion Crescent (535),a
 52.2575007,-7.1436561,2,Oakdown (043),a
 52.2575056,-7.1412718,2,Ashley Avenue (893),a
 52.2575071,-7.1426876,2,Willow Park (076),a
+52.2575083,-7.1238482,2,The Courtyard (285),a
 52.2575118,-7.121642,2,Mount Sion Avenue (000),a
+52.2575139,-7.1239448,2,The Courtyard (286),a
 52.2575185,-7.1443083,2,Rosemount (111),a
-52.2575247,-7.1173376,2,Green Street (521),a
-52.2575247,-7.1173376,2,Green Street Court (425),a
-52.2575247,-7.1173376,2,Green Street Court (425),a
-52.2575259,-7.1163212,2,Shortcourse (539),a
-52.2575259,-7.1163212,2,Shortcourse (539),a
 52.2575265,-7.1436826,2,Oakdown (042),a
+52.2575289,-7.12266,2,Morrisson's Road (419),a
 52.2575384,-7.1190053,2,Newport's Terrace (413),a
 52.2575415,-7.1324472,2,The Willows (991),a
 52.2575434,-7.1427118,2,Willow Park (075),a
-52.2575455,-7.1126185,2,John's Lane (829),a
+52.2575483,-7.1236965,2,The Courtyard (284),a
 52.2575597,-7.1190186,2,Newport's Terrace (412),a
 52.257569,-7.1077108,2,Syme's Lane / Grubb's Lane (759),a
+52.2575705,-7.1204778,2,Doyle's Street (102),a
 52.2575705,-7.1204778,2,Emmett Place (480),a
 52.2575741,-7.1190273,2,Newport's Terrace (411),a
 52.2575755,-7.1437406,2,Ashley Avenue (939),a
 52.2575755,-7.1437406,2,Oakdown (302),a
-52.2575773,-7.1163726,2,Mandeville Lane (390),a
-52.2575773,-7.1163726,2,Mandeville Lane (390),a
-52.2575773,-7.1163726,2,Shortcourse (155),a
-52.2575773,-7.1163726,2,Shortcourse (155),a
 52.2575806,-7.1427326,2,Willow Park (074),a
 52.2575817,-7.1245397,2,The Courtyard (458),a
-52.2575827,-7.1126933,2,John's Lane (828),a
 52.2575905,-7.1190359,2,Newport's Terrace (410),a
 52.2575908,-7.1413426,2,Ashley Avenue (894),a
 52.2575908,-7.1413426,2,Ashley Avenue (894),a
+52.2575984,-7.127163,2,Sexton Street (186),a
 52.2576017,-7.1227385,2,Morrisson's Road (420),a
 52.2576036,-7.1552386,2,Carrickphierish Road (203),a
 52.2576071,-7.1190432,2,Newport's Terrace (409),a
@@ -16767,19 +16761,21 @@ lat,lon,sz,names,len_cat
 52.2576127,-7.1240107,2,The Courtyard (295),a
 52.2576131,-7.1349886,2,Cleaboy Road (713),a
 52.2576138,-7.1427482,2,Willow Park (073),a
+52.2576141,-7.1072459,2,Catherine Street (339),a
 52.2576181,-7.1403708,2,Beechwood (022),a
 52.2576181,-7.1403708,2,Beechwood (022),a
 52.2576231,-7.1271789,2,Morrissons Avenue (333),a
 52.2576231,-7.1271789,2,Sexton Street (806),a
+52.2576265,-7.1190503,2,Newport's Terrace (408),a
+52.2576342,-7.1240945,2,The Courtyard (459),a
 52.2576407,-7.1028572,2,Dunmore Road (701),a
-52.2576511,-7.1164325,2,Shortcourse (542),a
-52.2576511,-7.1164325,2,Shortcourse (542),a
 52.2576529,-7.1435824,2,Ashley Avenue (923),a
 52.2576538,-7.142765,2,Willow Park (072),a
+52.2576553,-7.1241237,2,The Courtyard (290),a
 52.2576569,-7.1190599,2,Newport's Terrace (407),a
+52.2576581,-7.1140361,2,Brown's Lane (311),a
 52.2576641,-7.1072795,2,Catherine Street (803),a
 52.2576733,-7.1246005,2,The Courtyard (287),a
-52.2576735,-7.112853,2,John's Lane (826),a
 52.2576776,-7.1347307,2,Cleaboy Road (712),a
 52.2576776,-7.1347307,2,Hawthorn Drive (698),a
 52.2576902,-7.1427815,2,Willow Park (581),a
@@ -16787,17 +16783,17 @@ lat,lon,sz,names,len_cat
 52.2576913,-7.1237044,2,Morrisson's Close (191),a
 52.2576966,-7.1674349,2,Knockhouse Road (646),a
 52.2576966,-7.1190706,2,Newport's Terrace (406),a
-52.2576967,-7.1164601,2,Shortcourse (543),a
 52.2576995,-7.1077005,2,Grubb's Lane (424),a
 52.2577003,-7.1414326,2,Ashley Avenue (895),a
 52.2577003,-7.1414326,2,Ashley Avenue (895),a
 52.2577122,-7.1218138,2,Mount Sion Avenue (002),a
 52.2577127,-7.1196939,2,Emmett Place (478),a
 52.2577152,-7.1809801,2,Western Link Road (076),a
-52.2577241,-7.114951,2,Butcher's Lane (579),a
+52.2577172,-7.1076959,2,Grubb's Lane (425),a
 52.2577249,-7.1427988,2,Willow Park (071),a
 52.2577272,-7.1434284,2,Ashley Avenue (938),a
 52.2577323,-7.1076859,2,Grubb's Lane (426),a
+52.2577328,-7.1073255,2,Catherine Street (338),a
 52.2577361,-7.1550527,2,Carrickphierish Road (823),a
 52.2577379,-7.1344841,2,Cleaboy Road (711),a
 52.2577445,-7.1811643,2,Western Link Road (901),a
@@ -16810,9 +16806,10 @@ lat,lon,sz,names,len_cat
 52.2577601,-7.1076552,2,Grubb's Lane (428),a
 52.2577656,-7.1445579,2,Rosemount (663),a
 52.2577699,-7.1234256,2,Morrisson's Close (192),a
-52.2577733,-7.115002,2,Butcher's Lane (578),a
+52.257772,-7.1193578,2,Emmett Place (475),a
 52.2577779,-7.1415002,2,Ashley Avenue (896),a
 52.2577791,-7.1433057,2,Ashley Avenue (922),a
+52.2577806,-7.1206036,2,Doyle's Street (101),a
 52.2577826,-7.1029611,2,Dunmore Road (700),a
 52.2577826,-7.1029611,2,William Street (333),a
 52.2577847,-7.1192689,2,Emmett Place (474),a
@@ -16820,8 +16817,9 @@ lat,lon,sz,names,len_cat
 52.2577906,-7.1315202,2,Keane's Road (527),a
 52.2577965,-7.1465872,2,IDA Waterford Industrial Estate - Northern Extension (317),a
 52.2577991,-7.1017921,2,Canada Square (498),a
-52.2577996,-7.1150503,2,Butcher's Lane (577),a
 52.2578042,-7.1190955,2,Emmett Place (471),a
+52.2578042,-7.1190955,2,Newport's Square (995),a
+52.2578042,-7.1190955,2,Newport's Terrace (405),a
 52.2578052,-7.1432287,2,Ashley Avenue (921),a
 52.2578066,-7.1673818,2,Knockhouse Road (504),a
 52.2578158,-7.1029857,2,William Street (332),a
@@ -16829,22 +16827,25 @@ lat,lon,sz,names,len_cat
 52.2578178,-7.1031786,2,Canada Street (411),a
 52.2578195,-7.1428813,2,Willow Park (068),a
 52.25782,-7.1810414,2,Western Link Road (075),a
-52.2578288,-7.1155818,2,Barrack Street (030),a
 52.2578297,-7.1431465,2,Ashley Avenue (936),a
 52.2578331,-7.1319848,2,The Mews (230),a
+52.2578374,-7.1075372,2,Grubb's Lane (429),a
+52.2578387,-7.1191027,2,Newport's Square (994),a
 52.2578436,-7.1415612,2,Ashley Avenue (897),a
 52.2578458,-7.1030087,2,William Street (331),a
 52.2578474,-7.1429161,2,Willow Park (067),a
 52.2578481,-7.1465253,2,IDA Waterford Industrial Estate - Northern Extension (318),a
+52.2578481,-7.1262591,2,Morrissons Avenue (526),a
 52.2578517,-7.1075094,2,Grubb's Lane (430),a
 52.2578519,-7.1430784,2,Ashley Avenue (920),a
 52.2578583,-7.1548613,2,Carrickphierish Road (204),a
 52.2578583,-7.1548613,2,Mountneil (622),a
-52.2578589,-7.1165419,2,Shortcourse (545),a
 52.2578647,-7.1074751,2,Grubb's Lane (431),a
 52.2578647,-7.1031033,2,Canada Street (412),a
 52.2578649,-7.1430418,2,Ashley Avenue (919),a
+52.2578737,-7.1260073,2,Leamy Street (184),a
 52.2578738,-7.1030315,2,William Street (330),a
+52.2578788,-7.1074268,2,Catherine Street (337),a
 52.2578788,-7.1074268,2,Grubb's Lane (432),a
 52.2578798,-7.1430076,2,Ashley Avenue (918),a
 52.2578848,-7.1328715,2,Tycor Mews (891),a
@@ -16866,6 +16867,7 @@ lat,lon,sz,names,len_cat
 52.2579046,-7.1315667,2,Keane's Road (903),a
 52.2579046,-7.1315667,2,The Mews (231),a
 52.2579067,-7.1464614,2,IDA Waterford Industrial Estate - Northern Extension (300),a
+52.2579085,-7.1260304,2,Leamy Street (154),a
 52.2579085,-7.1260304,2,Morrissons Avenue (331),a
 52.2579088,-7.1411315,2,Springlawn (619),a
 52.2579088,-7.1411315,2,Springlawn (619),a
@@ -16874,7 +16876,6 @@ lat,lon,sz,names,len_cat
 52.2579146,-7.1286172,2,Ard Na Greine (058),a
 52.2579146,-7.1286172,2,Ard Na Greine (058),a
 52.2579157,-7.1030147,2,Canada Street (414),a
-52.2579206,-7.1153907,2,Barrack Street (032),a
 52.2579214,-7.1429397,2,Ashley Avenue (917),a
 52.2579277,-7.1673285,2,Knockhouse Road (647),a
 52.2579293,-7.1811099,2,Western Link Road (074),a
@@ -16884,6 +16885,7 @@ lat,lon,sz,names,len_cat
 52.257937,-7.1416448,2,Ashley Avenue (898),a
 52.2579372,-7.102973,2,Canada Street (415),a
 52.2579381,-7.1411486,2,Springlawn (122),a
+52.2579437,-7.1260525,2,Leamy Street (185),a
 52.2579444,-7.1231041,2,Morrisson's Road (421),a
 52.2579465,-7.1018898,2,Canada Square (497),a
 52.2579509,-7.1429004,2,Ashley Avenue (916),a
@@ -16903,22 +16905,16 @@ lat,lon,sz,names,len_cat
 52.2579796,-7.1411947,2,Springlawn (120),a
 52.2579797,-7.1031512,2,William Street (325),a
 52.2579859,-7.1019177,2,Canada Square (496),a
-52.2579907,-7.1152314,2,Barrack Street (037),a
 52.257994,-7.1412234,2,Springlawn (119),a
 52.257994,-7.1412234,2,Springlawn (119),a
-52.2579957,-7.1172404,2,Saint Anne's Terrace (158),a
-52.2579957,-7.1172404,2,Saint Anne's Terrace (158),a
 52.2580045,-7.10319,2,William Street (324),a
-52.2580054,-7.1151922,2,Butcher's Lane (575),a
-52.2580054,-7.1151922,2,Newgate Street (315),a
 52.2580061,-7.1333683,2,Cleaboy Road (663),a
 52.2580068,-7.1412585,2,Springlawn (118),a
 52.2580159,-7.1416993,2,Ashley Avenue (900),a
 52.2580159,-7.1416993,2,Ashley Avenue (900),a
 52.2580172,-7.1412976,2,Springlawn (618),a
 52.2580172,-7.1412976,2,Springlawn (618),a
-52.2580195,-7.1133545,2,John's Lane (820),a
-52.2580214,-7.1151467,2,Newgate Street (319),a
+52.2580208,-7.1220771,2,Mount Sion Avenue (006),a
 52.2580234,-7.1019472,2,Canada Square (320),a
 52.2580234,-7.1019472,2,Canada Square (321),a
 52.2580234,-7.1019472,2,Canada Square (495),a
@@ -16929,11 +16925,8 @@ lat,lon,sz,names,len_cat
 52.2580358,-7.1018996,2,Canada Square (322),a
 52.2580358,-7.1018996,2,Canada Square (711),a
 52.2580385,-7.1811839,2,Western Link Road (496),a
-52.2580433,-7.1139295,2,Brown's Lane (737),a
 52.2580439,-7.1551771,2,Mountneil (620),a
-52.2580464,-7.1152065,2,Mayor's Walk (040),a
 52.2580479,-7.1545341,2,Carrickphierish Road (825),a
-52.2580507,-7.1150489,2,Newgate Street (325),a
 52.2580509,-7.1316255,2,Keane's Road (525),a
 52.2580509,-7.1316255,2,Keane's Road (540),a
 52.2580509,-7.1316255,2,Keane's Road (541),a
@@ -16944,7 +16937,6 @@ lat,lon,sz,names,len_cat
 52.2580529,-7.1417264,2,Ashley Avenue (931),a
 52.2580529,-7.1417264,2,Springlawn (617),a
 52.2580529,-7.1417264,2,Springlawn (617),a
-52.2580546,-7.1133899,2,John's Lane (819),a
 52.2580614,-7.1415146,2,Springlawn (117),a
 52.2580614,-7.1415146,2,Springlawn (117),a
 52.2580621,-7.14169,2,Springlawn (113),a
@@ -16954,14 +16946,11 @@ lat,lon,sz,names,len_cat
 52.2580683,-7.1416524,2,Springlawn (114),a
 52.2580686,-7.1415671,2,Springlawn (116),a
 52.2580686,-7.1415671,2,Springlawn (116),a
-52.25807,-7.114977,2,Newgate Street (328),a
 52.2580709,-7.1416125,2,Springlawn (115),a
 52.2580709,-7.1416125,2,Springlawn (115),a
 52.258074,-7.133102,2,Cleaboy Road (708),a
 52.2580772,-7.101996,2,Canada Square (862),a
 52.2580799,-7.1427359,2,Ashley Avenue (915),a
-52.2580804,-7.11392,2,Brown's Lane (736),a
-52.2580812,-7.113413,2,New Street (336),a
 52.258083,-7.1330688,2,Cleaboy Road (370),a
 52.258083,-7.1330688,2,Tycor Mews (892),a
 52.258085,-7.1417551,2,Ashley Avenue (901),a
@@ -16974,28 +16963,16 @@ lat,lon,sz,names,len_cat
 52.2580889,-7.1524797,2,Ard Phiarais (331),a
 52.2580891,-7.1436502,2,Greenbank (056),a
 52.25809,-7.155349,2,Mountneil (615),a
-52.2580924,-7.11522,2,Mayor's Walk (043),a
 52.2580931,-7.1561389,2,Cherry Grove (339),a
-52.2581076,-7.1166696,2,Saint Anne's Terrace (159),a
-52.2581076,-7.1166696,2,Saint Anne's Terrace (159),a
-52.2581076,-7.1166696,2,Saint Martin's Avenue (392),a
-52.2581076,-7.1166696,2,Saint Martin's Avenue (392),a
-52.2581076,-7.1166696,2,Shortcourse (546),a
-52.2581076,-7.1166696,2,Shortcourse (546),a
-52.2581076,-7.1166696,2,Shortcourse (767),a
-52.2581076,-7.1166696,2,Shortcourse (767),a
 52.2581097,-7.1020298,2,Canada Square (863),a
 52.2581154,-7.131678,2,Keane's Road (504),a
 52.2581164,-7.1417883,2,Ashley Avenue (902),a
 52.2581164,-7.1417883,2,Ashley Avenue (902),a
 52.2581177,-7.1436719,2,Greenbank (057),a
-52.258118,-7.1147888,2,Newgate Street (332),a
 52.2581198,-7.1553824,2,Mountneil (614),a
 52.2581212,-7.1213983,2,Barrett Court (535),a
 52.2581227,-7.1525091,2,Ard Phiarais (330),a
 52.2581227,-7.1525091,2,Ard Phiarais (330),a
-52.2581235,-7.1132628,2,New Street (352),a
-52.2581273,-7.1147505,2,Newgate Street (940),a
 52.2581301,-7.102051,2,Canada Square (319),a
 52.2581301,-7.102051,2,Canada Square (966),a
 52.2581312,-7.1015321,2,Canada Square (500),a
@@ -17003,7 +16980,6 @@ lat,lon,sz,names,len_cat
 52.2581371,-7.1317029,2,Keane's Road (545),a
 52.2581388,-7.1812581,2,Western Link Road (073),a
 52.2581415,-7.1328523,2,Cleaboy Road (662),a
-52.2581449,-7.1132155,2,New Street (353),a
 52.258148,-7.1571178,2,Cherry Grove (340),a
 52.258148,-7.1316517,2,Keane's Road (500),a
 52.2581495,-7.1426513,2,Ashley Avenue (914),a
@@ -17012,19 +16988,14 @@ lat,lon,sz,names,len_cat
 52.2581521,-7.1034408,2,William Street (323),a
 52.2581556,-7.1525282,2,Ard Phiarais (329),a
 52.2581556,-7.1525282,2,Ard Phiarais (329),a
-52.2581559,-7.1164327,2,Saint Martin's Avenue (393),a
-52.2581559,-7.1164327,2,Saint Martin's Avenue (393),a
 52.2581582,-7.1418372,2,Ashley Avenue (932),a
 52.2581595,-7.1672354,2,Knockhouse Road (506),a
-52.2581631,-7.1138124,2,New Street (344),a
 52.2581658,-7.109762,2,Parnell Street (438),a
 52.2581662,-7.1317454,2,Keane's Road (546),a
 52.2581742,-7.1212286,2,Barrett Court (438),a
 52.2581742,-7.1212286,2,Barrett Court (534),a
 52.2581757,-7.1462621,2,IDA Waterford Industrial Estate - Northern Extension (320),a
 52.2581814,-7.1316525,2,Keane's Road (535),a
-52.2581816,-7.1145278,2,Newgate Street (335),a
-52.2581816,-7.1145278,2,O'Brien Street (842),a
 52.2581826,-7.1554142,2,Mountneil (612),a
 52.2581833,-7.1437073,2,Greenbank (059),a
 52.2581875,-7.1814702,2,Western Link Road (206),a
@@ -17033,10 +17004,10 @@ lat,lon,sz,names,len_cat
 52.2581913,-7.1418824,2,Ashley Avenue (903),a
 52.2581933,-7.1525421,2,Ard Phiarais (328),a
 52.2581933,-7.1525421,2,Ard Phiarais (328),a
+52.2581951,-7.1185471,2,Military Barracks (523),a
 52.2581953,-7.1021315,2,Canada Square (965),a
 52.2581968,-7.1579901,2,Cherry Grove (341),a
 52.2582034,-7.1326249,2,Cleaboy Road (707),a
-52.2582045,-7.1144304,2,Newgate Street (338),a
 52.2582066,-7.1318054,2,Keane's Road (809),a
 52.2582071,-7.1580571,2,Cherry Grove (342),a
 52.2582074,-7.1262179,2,Leamy Street (534),a
@@ -17044,7 +17015,6 @@ lat,lon,sz,names,len_cat
 52.2582107,-7.1437167,2,Greenbank (666),a
 52.258214,-7.1554142,2,Mountneil (611),a
 52.2582148,-7.1425689,2,Ashley Avenue (913),a
-52.2582153,-7.1145515,2,O'Brien Street (843),a
 52.2582194,-7.1419283,2,Ashley Avenue (904),a
 52.2582194,-7.1419283,2,Ashley Avenue (904),a
 52.2582241,-7.1549425,2,Butterfield Drive (661),a
@@ -17052,21 +17022,18 @@ lat,lon,sz,names,len_cat
 52.2582257,-7.1581066,2,Cherry Grove (343),a
 52.2582257,-7.1581066,2,Cherry Walk (344),a
 52.2582268,-7.1129852,2,New Street (329),a
+52.2582268,-7.1129852,2,New Street (357),a
 52.2582297,-7.1316415,2,Keane's Road (497),a
 52.2582325,-7.1550272,2,Butterfield Drive (662),a
 52.2582325,-7.1547977,2,Butterfield Drive (659),a
 52.2582342,-7.1325003,2,Cleaboy Road (770),a
-52.2582382,-7.1142643,2,Newgate Street (345),a
 52.2582411,-7.141972,2,Ashley Avenue (905),a
 52.2582411,-7.141972,2,Ashley Avenue (905),a
 52.2582419,-7.1316396,2,Keane's Road (808),a
-52.258243,-7.1142334,2,Newgate Street (348),a
 52.2582431,-7.1425228,2,Ashley Avenue (912),a
-52.2582453,-7.1145696,2,O'Brien Street (844),a
 52.2582457,-7.1547392,2,Butterfield Drive (658),a
 52.2582462,-7.1246097,2,Morrissons Avenue (329),a
 52.2582467,-7.1129028,2,New Street (330),a
-52.2582471,-7.1141995,2,Newgate Street (349),a
 52.2582476,-7.1554036,2,Mountneil (610),a
 52.2582494,-7.1318756,2,Cleaboy Road (444),a
 52.2582502,-7.1437285,2,Greenbank (060),a
@@ -17082,19 +17049,13 @@ lat,lon,sz,names,len_cat
 52.2582672,-7.142464,2,Ashley Avenue (911),a
 52.2582676,-7.1546761,2,Butterfield Drive (657),a
 52.258268,-7.1813613,2,Western Link Road (072),a
-52.2582721,-7.115927,2,Saint Martin's Avenue (395),a
-52.2582721,-7.115927,2,Saint Martin's Avenue (396),a
-52.2582729,-7.1145831,2,O'Brien Street (845),a
+52.2582705,-7.12089,2,Doyle's Street (096),a
 52.2582736,-7.1553859,2,Mountneil (609),a
 52.2582744,-7.1287835,2,Ard Na Greine (057),a
 52.2582744,-7.1287835,2,Ard Na Greine (057),a
 52.2582754,-7.1316236,2,Upper Yellow Road (313),a
-52.2582764,-7.1159114,2,Saint Martin's Avenue (716),a
 52.2582772,-7.1420782,2,Ashley Avenue (907),a
 52.2582772,-7.1420782,2,Ashley Avenue (907),a
-52.2582794,-7.1176795,2,Green Street (520),a
-52.2582794,-7.1176795,2,Shortcourse Court (399),a
-52.2582794,-7.1176795,2,Shortcourse Court (399),a
 52.2582821,-7.1671821,2,Knockhouse Road (507),a
 52.2582834,-7.1581277,2,Cherry Walk (346),a
 52.2582847,-7.1424012,2,Ashley Avenue (934),a
@@ -17104,6 +17065,7 @@ lat,lon,sz,names,len_cat
 52.2582882,-7.1321555,2,Cleaboy Road (768),a
 52.2582882,-7.1321555,2,Cleaboy Road (769),a
 52.2582882,-7.1321555,2,Cleaboy Road (772),a
+52.2582889,-7.1126944,2,New Street (332),a
 52.25829,-7.1022587,2,Canada Square (964),a
 52.25829,-7.1022587,2,Canada Street (416),a
 52.2582907,-7.1421626,2,Ashley Avenue (933),a
@@ -17125,6 +17087,7 @@ lat,lon,sz,names,len_cat
 52.2583029,-7.1529366,2,Ard Phiarais (324),a
 52.2583045,-7.1531163,2,Ard Phiarais (143),a
 52.2583045,-7.1531163,2,Ard Phiarais (143),a
+52.2583095,-7.119629,2,Newport's Square (450),a
 52.2583127,-7.1077188,2,Catherine Street (336),a
 52.2583135,-7.152839,2,Ard Phiarais (325),a
 52.2583135,-7.152839,2,Ard Phiarais (325),a
@@ -17133,13 +17096,11 @@ lat,lon,sz,names,len_cat
 52.2583151,-7.1315735,2,Upper Yellow Road (140),a
 52.2583162,-7.1461625,2,IDA Waterford Industrial Estate - Northern Extension (321),a
 52.2583163,-7.1421532,2,The Grove (063),a
-52.2583167,-7.1167743,2,Shortcourse (086),a
 52.2583188,-7.1532043,2,Ard Phiarais (322),a
 52.2583188,-7.1532043,2,Ard Phiarais (322),a
 52.2583189,-7.1319044,2,Cleaboy Road (778),a
 52.2583284,-7.1526981,2,Ard Phiarais (144),a
 52.2583284,-7.1526981,2,Ard Phiarais (144),a
-52.2583324,-7.1146025,2,O'Brien Street (847),a
 52.2583328,-7.1315443,2,Upper Yellow Road (421),a
 52.258337,-7.1437472,2,Greenbank (062),a
 52.2583381,-7.1421415,2,The Grove (064),a
@@ -17150,8 +17111,6 @@ lat,lon,sz,names,len_cat
 52.2583424,-7.1816044,2,Western Link Road (529),a
 52.2583429,-7.1532872,2,Ard Phiarais (321),a
 52.2583429,-7.1532872,2,Ard Phiarais (321),a
-52.2583432,-7.1167846,2,Shortcourse (088),a
-52.2583432,-7.1167846,2,Shortcourse (088),a
 52.2583453,-7.1552793,2,Cherry Avenue (865),a
 52.2583453,-7.1552793,2,Mountneil (749),a
 52.2583456,-7.1315151,2,Upper Yellow Road (420),a
@@ -17166,8 +17125,8 @@ lat,lon,sz,names,len_cat
 52.2583732,-7.1317493,2,Marian Park (648),a
 52.2583733,-7.142112,2,The Grove (066),a
 52.258374,-7.1288307,2,Ard Na Greine (056),a
+52.258374,-7.1288307,2,Ard Na Greine (056),a
 52.2583742,-7.1056509,2,Bolton Street (011),a
-52.2583744,-7.1146101,2,O'Brien Street (848),a
 52.2583747,-7.1197842,2,Newport's Square (449),a
 52.2583752,-7.1461078,2,IDA Waterford Industrial Estate - Northern Extension (299),a
 52.2583781,-7.131824,2,Marian Park (698),a
@@ -17179,10 +17138,6 @@ lat,lon,sz,names,len_cat
 52.2583801,-7.1533877,2,Ard Phiarais (320),a
 52.2583801,-7.1533877,2,Ard Phiarais (320),a
 52.2583834,-7.1552602,2,Cherry Avenue (864),a
-52.2583844,-7.116789,2,Shortcourse (085),a
-52.2583844,-7.116789,2,Shortcourse (085),a
-52.2583856,-7.1172396,2,Shortcourse Court (400),a
-52.2583856,-7.1172396,2,Shortcourse Court (400),a
 52.2583865,-7.107768,2,Catherine Street (335),a
 52.258392,-7.1317709,2,Marian Park (487),a
 52.2583939,-7.1240124,2,Morrissons Avenue (328),a
@@ -17190,8 +17145,6 @@ lat,lon,sz,names,len_cat
 52.2583961,-7.1404294,2,Pinewood Avenue (874),a
 52.2583961,-7.1404294,2,Pinewood Avenue (874),a
 52.2583973,-7.1318181,2,Marian Park (699),a
-52.2583985,-7.1172089,2,Shortcourse Court (401),a
-52.2583985,-7.1172089,2,Shortcourse Court (401),a
 52.258399,-7.1020544,2,Canada Street (418),a
 52.2583991,-7.1404811,2,Pinewood Avenue (875),a
 52.2583991,-7.1404811,2,Pinewood Avenue (875),a
@@ -17200,39 +17153,30 @@ lat,lon,sz,names,len_cat
 52.2584004,-7.1403817,2,Pinewood Avenue (469),a
 52.2584007,-7.1525674,2,Ard Phiarais (334),a
 52.2584007,-7.1525674,2,Ard Phiarais (334),a
-52.2584024,-7.1167851,2,Robinson's Lane (776),a
-52.2584024,-7.1167851,2,Robinson's Lane (776),a
-52.2584024,-7.1167851,2,Shortcourse (084),a
-52.2584024,-7.1167851,2,Shortcourse (084),a
 52.2584053,-7.1192325,2,Military Barracks (737),a
 52.2584064,-7.1317899,2,Marian Park (486),a
 52.2584073,-7.1403429,2,Pinewood Avenue (873),a
-52.2584082,-7.1154331,2,Saint Martin's Avenue (397),a
 52.2584108,-7.1405393,2,Pinewood Avenue (471),a
 52.2584108,-7.1405393,2,Pinewood Avenue (471),a
-52.2584124,-7.1171814,2,Shortcourse Court (402),a
-52.2584124,-7.1171814,2,Shortcourse Court (402),a
 52.2584157,-7.1318153,2,Marian Park (652),a
 52.258416,-7.1020327,2,Canada Street (419),a
 52.2584167,-7.1309838,2,Upper Yellow Road (437),a
 52.2584169,-7.1671049,2,Knockhouse Road (648),a
+52.2584178,-7.1239362,2,Morrissons Avenue (525),a
 52.2584181,-7.1403059,2,Pinewood Avenue (872),a
-52.2584192,-7.1152502,2,Mayor's Walk (045),a
-52.2584205,-7.1177332,2,Green Street (348),a
-52.2584235,-7.1167702,2,Robinson's Lane (777),a
 52.2584267,-7.1534901,2,Ard Phiarais (142),a
 52.2584267,-7.1534901,2,Ard Phiarais (142),a
 52.258427,-7.1405916,2,Pinewood Avenue (876),a
 52.258427,-7.1405916,2,Pinewood Avenue (876),a
-52.2584298,-7.1171579,2,Shortcourse Court (403),a
-52.2584298,-7.1171579,2,Shortcourse Court (403),a
 52.2584314,-7.1056543,2,Bolton Street (008),a
 52.2584332,-7.1402724,2,Pinewood Avenue (466),a
 52.2584339,-7.1020163,2,Canada Street (420),a
 52.2584363,-7.130746,2,Upper Yellow Road (436),a
 52.2584385,-7.1288654,2,Ard Na Greine (055),a
+52.2584385,-7.1288654,2,Ard Na Greine (055),a
 52.2584403,-7.1039376,2,Congreve Lane (928),a
 52.2584403,-7.1039376,2,William Street (322),a
+52.2584407,-7.1188542,2,Military Barracks (738),a
 52.2584419,-7.1318167,2,Marian Park (645),a
 52.2584419,-7.1318167,2,Marian Park (646),a
 52.2584419,-7.1318167,2,Marian Park (653),a
@@ -17240,67 +17184,47 @@ lat,lon,sz,names,len_cat
 52.2584427,-7.1420221,2,The Grove (666),a
 52.258444,-7.140634,2,Pinewood Avenue (877),a
 52.258444,-7.140634,2,Pinewood Avenue (877),a
-52.2584451,-7.1152508,2,Saint Martin's Avenue (398),a
 52.2584461,-7.1238546,2,Morrissons Avenue (524),a
-52.2584481,-7.117126,2,Trinity Square (911),a
-52.2584487,-7.1170968,2,Trinity Square (910),a
-52.2584492,-7.1171377,2,Shortcourse Court (404),a
-52.2584492,-7.1171377,2,Shortcourse Court (404),a
-52.2584507,-7.1171539,2,Trinity Square (912),a
-52.2584515,-7.117067,2,Trinity Square (909),a
 52.2584519,-7.1525754,2,Ard Phiarais (146),a
 52.2584519,-7.1525754,2,Ard Phiarais (146),a
 52.258454,-7.1020049,2,Canada Street (421),a
 52.2584546,-7.121423,2,Barrett Court (437),a
+52.2584546,-7.121423,2,Barrett Court (486),a
 52.2584549,-7.1402391,2,Pinewood Avenue (871),a
-52.2584569,-7.1170415,2,Trinity Square (908),a
 52.2584572,-7.1078139,2,Catherine Street (332),a
 52.2584572,-7.1078139,2,Catherine Street (334),a
 52.258459,-7.1552377,2,Cherry Avenue (868),a
-52.2584599,-7.1167029,2,Robinson's Lane (780),a
-52.2584599,-7.1167029,2,Robinson's Lane (780),a
 52.2584605,-7.1460185,2,IDA Waterford Industrial Estate - Northern Extension (301),a
-52.2584645,-7.1172021,2,Trinity Square (914),a
-52.2584645,-7.1172021,2,Trinity Square (914),a
-52.2584647,-7.1170201,2,Trinity Square (907),a
-52.2584663,-7.1166712,2,Robinson's Lane (781),a
-52.2584663,-7.1166712,2,Robinson's Lane (781),a
 52.2584667,-7.1406764,2,Pinewood Avenue (878),a
 52.2584682,-7.130369,2,Tycor Avenue (037),a
+52.258469,-7.1113233,2,Spring Garden Alley (857),a
 52.2584694,-7.1303483,2,Upper Yellow Road (869),a
 52.2584694,-7.1303483,2,Yellow Gardens (095),a
 52.2584695,-7.1224479,2,Mount Sion Avenue (008),a
 52.258471,-7.1019992,2,Canada Street (422),a
 52.258471,-7.1019992,2,Scotch Quay (265),a
 52.258473,-7.1091632,2,Parnell Street (440),a
-52.2584734,-7.1166486,2,Robinson's Lane (782),a
-52.2584734,-7.1166486,2,Robinson's Lane (782),a
-52.2584741,-7.1170002,2,Trinity Square (906),a
 52.2584764,-7.1188076,2,Military Barracks (739),a
-52.2584775,-7.1172194,2,Trinity Square (915),a
-52.2584775,-7.1172194,2,Trinity Square (915),a
 52.2584781,-7.130201,2,Upper Yellow Road (433),a
-52.2584824,-7.1166301,2,Robinson's Lane (783),a
-52.2584824,-7.1166301,2,Robinson's Lane (783),a
+52.2584781,-7.130201,2,Upper Yellow Road (433),a
+52.2584795,-7.1237763,2,Morrissons Avenue (523),a
 52.2584825,-7.1402089,2,Pinewood Avenue (870),a
 52.2584851,-7.1525875,2,Ard Phiarais (335),a
 52.2584851,-7.1525875,2,Ard Phiarais (335),a
+52.2584852,-7.1224602,2,Mount Sion Avenue (200),a
 52.2584865,-7.1300085,2,Upper Yellow Road (491),a
-52.2584865,-7.1169833,2,Trinity Square (905),a
+52.2584865,-7.1300085,2,Upper Yellow Road (491),a
 52.2584873,-7.1056562,2,Bolton Street (003),a
 52.2584873,-7.1056562,2,Bolton Street (003),a
 52.2584897,-7.1298139,2,Upper Yellow Road (425),a
 52.2584897,-7.1298139,2,Upper Yellow Road (425),a
 52.2584897,-7.1298139,2,Upper Yellow Road (432),a
+52.2584897,-7.1298139,2,Upper Yellow Road (432),a
 52.2584901,-7.126635,2,Hobble Court (282),a
 52.2584902,-7.1550426,2,Mountneil (606),a
-52.258491,-7.1166164,2,Robinson's Lane (784),a
-52.258491,-7.1166164,2,Robinson's Lane (784),a
 52.2584921,-7.1292424,2,Upper Yellow Road (483),a
 52.2584921,-7.1292424,2,Upper Yellow Road (483),a
 52.2584929,-7.1817405,2,Western Link Road (207),a
-52.2584932,-7.1172317,2,Trinity Square (916),a
-52.2584936,-7.115252,2,Mayor's Walk (039),a
 52.2584947,-7.1020001,2,Scotch Quay (264),a
 52.258495,-7.1407231,2,Pinewood Avenue (879),a
 52.258495,-7.1407231,2,Pinewood Avenue (879),a
@@ -17312,15 +17236,13 @@ lat,lon,sz,names,len_cat
 52.258495,-7.1288999,2,Upper Yellow Road (442),a
 52.2584974,-7.1040355,2,William Street (321),a
 52.2584988,-7.118591,2,Military Barracks (740),a
-52.2585,-7.1165977,2,Robinson's Lane (785),a
-52.2585,-7.1165977,2,Robinson's Lane (785),a
 52.2585009,-7.1287776,2,Upper Yellow Road (530),a
 52.2585009,-7.1287776,2,Upper Yellow Road (530),a
-52.258501,-7.1169707,2,Trinity Square (904),a
 52.2585041,-7.128715,2,Upper Yellow Road (529),a
 52.2585041,-7.128715,2,Upper Yellow Road (529),a
 52.2585074,-7.104052,2,William Street (082),a
 52.2585086,-7.1286524,2,Upper Yellow Road (441),a
+52.2585111,-7.1217126,2,Barrett Court (532),a
 52.2585114,-7.1237127,2,Morrisson's Road (422),a
 52.2585158,-7.1020049,2,Scotch Quay (263),a
 52.2585163,-7.1407597,2,Pinewood Avenue (880),a
@@ -17331,12 +17253,7 @@ lat,lon,sz,names,len_cat
 52.2585211,-7.12853,2,Upper Yellow Road (528),a
 52.2585222,-7.1526128,2,Ard Phiarais (336),a
 52.2585222,-7.1526128,2,Ard Phiarais (336),a
-52.2585261,-7.116468,2,Five Alley Lane (881),a
-52.2585261,-7.116468,2,Five Alley Lane (881),a
-52.2585261,-7.116468,2,Robinson's Lane (787),a
-52.2585261,-7.116468,2,Robinson's Lane (787),a
 52.258527,-7.1318459,2,Marian Park (644),a
-52.2585277,-7.1169584,2,Trinity Square (902),a
 52.2585279,-7.1264055,2,Leamy Street (677),a
 52.2585298,-7.1670329,2,Knockhouse Road (508),a
 52.2585298,-7.1020128,2,Scotch Quay (262),a
@@ -17353,8 +17270,6 @@ lat,lon,sz,names,len_cat
 52.2585358,-7.1407998,2,Pinewood Avenue (881),a
 52.2585397,-7.128924,2,Congress Place (039),a
 52.2585397,-7.128924,2,Congress Place (039),a
-52.2585423,-7.1164728,2,Five Alley Lane (882),a
-52.2585423,-7.1164728,2,Five Alley Lane (882),a
 52.2585424,-7.107863,2,Catherine Street (974),a
 52.2585434,-7.1210421,2,Barrett Court (484),a
 52.2585434,-7.1210421,2,Doyle's Street (094),a
@@ -17366,11 +17281,13 @@ lat,lon,sz,names,len_cat
 52.2585529,-7.1025208,2,Scotch Quay (252),a
 52.2585532,-7.1526482,2,Ard Phiarais (147),a
 52.2585532,-7.1526482,2,Ard Phiarais (147),a
+52.2585532,-7.1192667,2,Newport's Square (985),a
 52.2585534,-7.1816205,2,Western Link Road (070),a
 52.2585539,-7.1408415,2,Pinewood Avenue (473),a
 52.2585545,-7.1028091,2,Scotch Quay (249),a
 52.2585555,-7.1020415,2,Scotch Quay (260),a
 52.2585573,-7.1282866,2,Upper Yellow Road (816),a
+52.2585577,-7.1237601,2,Morrisson's Road (423),a
 52.2585585,-7.1024092,2,Scotch Quay (253),a
 52.2585592,-7.1028586,2,Scotch Quay (248),a
 52.2585597,-7.1215386,2,Barrett Court (436),a
@@ -17383,40 +17300,36 @@ lat,lon,sz,names,len_cat
 52.2585689,-7.1056539,2,Bolton Street (998),a
 52.2585689,-7.1056539,2,Bolton Street (998),a
 52.258569,-7.1401439,2,Pinewood Avenue (464),a
-52.2585702,-7.1169589,2,Trinity Square (900),a
-52.2585714,-7.1152521,2,Mayor's Walk (046),a
 52.2585714,-7.1022293,2,Scotch Quay (255),a
 52.2585723,-7.1020962,2,Scotch Quay (258),a
 52.2585742,-7.1021728,2,Scotch Quay (256),a
 52.2585743,-7.10294,2,Scotch Quay (246),a
 52.2585746,-7.1021335,2,Scotch Quay (257),a
 52.258575,-7.1553212,2,Cherry Avenue (862),a
-52.2585759,-7.1164814,2,Five Alley Lane (883),a
-52.2585759,-7.1164814,2,Five Alley Lane (883),a
 52.2585792,-7.1198327,2,Newport's Square (448),a
-52.2585794,-7.1172625,2,Trinity Square (918),a
 52.2585882,-7.1029811,2,Scotch Quay (245),a
 52.2585925,-7.1289517,2,Congress Place (038),a
 52.2585925,-7.1289517,2,Congress Place (038),a
+52.2585946,-7.123799,2,Morrisson's Road (424),a
 52.2585956,-7.1499437,2,Blackberry Fields (080),a
 52.258598,-7.1318704,2,Marian Park (643),a
 52.2586013,-7.1056535,2,Bolton Street (995),a
 52.2586013,-7.1056535,2,Bolton Street (995),a
-52.2586072,-7.116965,2,Trinity Square (899),a
+52.258608,-7.1280158,2,Upper Yellow Road (820),a
 52.2586096,-7.1030309,2,Scotch Quay (244),a
 52.258611,-7.1192808,2,Newport's Square (531),a
 52.2586183,-7.1042301,2,William Street (318),a
 52.2586223,-7.1554594,2,Cherry Avenue (861),a
+52.258625,-7.1079071,2,Catherine Street (976),a
 52.2586251,-7.1238284,2,Morrisson's Road (425),a
+52.2586287,-7.1267891,2,Hobble Court (281),a
+52.2586357,-7.1192868,2,Newport's Square (031),a
 52.2586367,-7.1818857,2,Western Link Road (208),a
 52.2586397,-7.155557,2,Cherry Avenue (860),a
 52.2586466,-7.1458115,2,IDA Waterford Industrial Estate - Northern Extension (297),a
 52.258648,-7.1139213,2,Stephen's Street (760),a
-52.2586488,-7.1180059,2,Military Barracks (899),a
-52.2586488,-7.1180059,2,Military Barracks (899),a
 52.2586489,-7.1056539,2,Bolton Street (991),a
 52.2586489,-7.1056539,2,Bolton Street (991),a
-52.2586499,-7.1152509,2,Mayor's Walk (044),a
 52.2586511,-7.1559331,2,Cherry Avenue (867),a
 52.2586511,-7.1559331,2,Cherry Road (870),a
 52.2586571,-7.1561302,2,Cherry Avenue (859),a
@@ -17440,15 +17353,14 @@ lat,lon,sz,names,len_cat
 52.2587107,-7.1428844,2,Greenbank (088),a
 52.2587168,-7.1056604,2,Bolton Street (985),a
 52.2587168,-7.1056604,2,Bolton Street (985),a
-52.2587221,-7.1153472,2,Robinson's Lane (788),a
 52.2587238,-7.1239013,2,Morrisson's Road (428),a
 52.2587264,-7.1428443,2,Greenbank (089),a
 52.2587293,-7.1565815,2,Cherry Avenue (858),a
 52.2587324,-7.1211452,2,Doyle's Street (093),a
 52.2587342,-7.1532999,2,Carrickphierish Road (826),a
 52.2587342,-7.1532999,2,Carrickphierish Road (826),a
-52.258742,-7.1187372,2,Andrew's Court (310),a
 52.2587461,-7.1668784,2,Knockhouse Road (649),a
+52.2587471,-7.1056668,2,Bolton Street (982),a
 52.2587471,-7.1056668,2,Bolton Street (982),a
 52.25875,-7.1569845,2,Cherry Avenue (866),a
 52.25875,-7.1569845,2,Cherry Drive (744),a
@@ -17456,9 +17368,11 @@ lat,lon,sz,names,len_cat
 52.2587563,-7.1529405,2,Ard Phiarais (148),a
 52.2587563,-7.1529405,2,Ard Phiarais (148),a
 52.2587624,-7.1427763,2,Greenbank (090),a
+52.2587635,-7.1239214,2,Morrisson's Road (429),a
 52.2587645,-7.1290358,2,Congress Place (037),a
 52.2587645,-7.1290358,2,Congress Place (037),a
 52.2587654,-7.1495455,2,Blackberry Fields (256),a
+52.2587702,-7.1198761,2,Newport's Square (447),a
 52.2587767,-7.1820372,2,Western Link Road (209),a
 52.2587773,-7.1341677,2,Marian Park (631),a
 52.2587778,-7.1056747,2,Bolton Street (979),a
@@ -17471,25 +17385,27 @@ lat,lon,sz,names,len_cat
 52.2587892,-7.1033792,2,Scotch Quay (243),a
 52.2587906,-7.1364801,2,Crescent Drive (975),a
 52.2587954,-7.1494908,2,Blackberry Fields (254),a
-52.2587981,-7.1152488,2,Mayor's Walk (047),a
 52.2588015,-7.1668344,2,Knockhouse Road (509),a
 52.2588034,-7.1580256,2,Cherry Avenue (336),a
 52.2588034,-7.1580256,2,Cherry Walk (347),a
-52.2588076,-7.118051,2,Military Barracks (898),a
-52.2588076,-7.118051,2,Military Barracks (898),a
 52.2588088,-7.1494724,2,Blackberry Fields (253),a
 52.2588107,-7.1434064,2,Greenbank (081),a
+52.2588151,-7.1080015,2,Catherine Street (677),a
 52.2588179,-7.1198532,2,Newport's Square (498),a
+52.2588189,-7.1109763,2,Spring Garden Alley (844),a
+52.2588215,-7.1217938,2,Barrett Place (432),a
 52.2588235,-7.1084801,2,Parnell Street (442),a
 52.2588252,-7.1494548,2,Blackberry Fields (252),a
-52.2588273,-7.1178454,2,Green Street (341),a
 52.2588302,-7.123951,2,Morrisson's Road (430),a
+52.2588385,-7.1110445,2,Little Michael Street (774),a
 52.2588392,-7.1303349,2,Yellow Gardens (093),a
 52.2588392,-7.1303349,2,Yellow Gardens (093),a
 52.2588459,-7.1197927,2,Newport's Square (497),a
 52.2588464,-7.1494407,2,Blackberry Fields (079),a
 52.2588545,-7.1101466,2,Spring Gardens (799),a
 52.2588561,-7.1667847,2,Knockhouse Road (650),a
+52.2588571,-7.1250256,2,The Close (482),a
+52.2588579,-7.125039,2,The Close (483),a
 52.258858,-7.1250093,2,The Close (481),a
 52.2588613,-7.1249848,2,The Close (480),a
 52.2588618,-7.1250493,2,The Close (484),a
@@ -17502,35 +17418,45 @@ lat,lon,sz,names,len_cat
 52.2588754,-7.1112037,2,Little Michael Street (771),a
 52.258876,-7.125064,2,The Close (486),a
 52.258887,-7.1250701,2,The Close (487),a
+52.2588927,-7.1112976,2,Little Michael Street (770),a
 52.2588949,-7.126613,2,Leamy Street (153),a
 52.2588949,-7.126613,2,Upper Yellow Road (817),a
 52.2588971,-7.1100347,2,Spring Gardens (800),a
 52.2588977,-7.1353699,2,Hawthorn Drive (695),a
 52.2589004,-7.1227866,2,Barrett Place (211),a
+52.2589008,-7.1108851,2,Spring Garden Alley (846),a
+52.2589024,-7.1057083,2,Bolton Street (977),a
 52.2589024,-7.1057083,2,Bolton Street (977),a
 52.2589042,-7.1494239,2,Blackberry Fields (250),a
 52.2589044,-7.1080445,2,Catherine Street (973),a
-52.2589089,-7.1138296,2,Stephen's Street (758),a
 52.2589108,-7.1667218,2,Knockhouse Road (510),a
+52.2589187,-7.1218667,2,Barrett Place (429),a
+52.2589199,-7.1108594,2,Spring Garden Alley (847),a
+52.2589208,-7.1246254,2,The Close (479),a
 52.2589211,-7.1822069,2,Western Link Road (530),a
 52.2589226,-7.1308357,2,Yellow Gardens (096),a
 52.2589299,-7.1193563,2,Newport's Square (615),a
 52.2589302,-7.1264229,2,Upper Yellow Road (823),a
 52.2589332,-7.1226814,2,Barrett Place (215),a
+52.2589369,-7.1082507,2,Parnell Street (445),a
 52.2589375,-7.1494211,2,Blackberry Fields (078),a
 52.2589375,-7.1494211,2,Blackberry Fields (081),a
 52.2589396,-7.1489951,2,Blackberry Fields (082),a
 52.2589407,-7.105717,2,Bolton Street (974),a
 52.2589407,-7.105717,2,Bolton Street (974),a
 52.2589442,-7.1303225,2,Yellow Gardens (092),a
+52.2589442,-7.1303225,2,Yellow Gardens (092),a
 52.2589469,-7.1291252,2,Congress Place (152),a
 52.2589469,-7.1291252,2,Congress Place (152),a
 52.258948,-7.1508046,2,Blackberry Fields (069),a
+52.2589525,-7.1107712,2,Spring Garden Alley (827),a
 52.2589537,-7.1666507,2,Knockhouse Road (651),a
 52.2589547,-7.1047177,2,William Street (314),a
 52.2589547,-7.1047177,2,William Street (314),a
+52.2589554,-7.1228315,2,Mount Sion Avenue (199),a
 52.2589569,-7.1262599,2,Upper Yellow Road (826),a
 52.2589592,-7.1225881,2,Barrett Place (217),a
+52.2589593,-7.1218915,2,Barrett Place (428),a
 52.2589594,-7.1333806,2,Marian Park (067),a
 52.2589614,-7.1399239,2,Chestnut Green (944),a
 52.2589614,-7.1399239,2,Pinewood Avenue (459),a
@@ -17550,7 +17476,10 @@ lat,lon,sz,names,len_cat
 52.2589974,-7.1494219,2,Blackberry Fields (249),a
 52.2589984,-7.1037454,2,George's Quay (162),a
 52.2590007,-7.1665577,2,Knockhouse Road (511),a
+52.2590013,-7.1212956,2,Doyle's Street (088),a
 52.2590019,-7.121913,2,Barrett Place (427),a
+52.2590024,-7.1240291,2,Morrisson's Road (431),a
+52.2590041,-7.105722,2,Bolton Street (970),a
 52.2590041,-7.105722,2,Bolton Street (970),a
 52.2590045,-7.1399004,2,Pinewood Avenue (868),a
 52.2590049,-7.1547599,2,Butterfield Meadow (630),a
@@ -17558,13 +17487,17 @@ lat,lon,sz,names,len_cat
 52.259006,-7.122385,2,Barrett Place (220),a
 52.2590084,-7.1080979,2,Catherine Street (972),a
 52.2590084,-7.1080979,2,Parnell Street (447),a
+52.2590084,-7.1080979,2,The Mall (564),a
+52.2590114,-7.1047987,2,George's Quay (708),a
 52.2590114,-7.1047987,2,George's Quay (708),a
 52.2590114,-7.1047987,2,William Street (313),a
 52.2590169,-7.125836,2,Upper Yellow Road (815),a
+52.2590224,-7.122283,2,Barrett Place (222),a
 52.2590233,-7.1305773,2,Yellow Gardens (098),a
 52.2590234,-7.1824093,2,Western Link Road (218),a
-52.2590268,-7.1188375,2,Andrew's Court (311),a
+52.2590234,-7.1213058,2,Doyle's Street (086),a
 52.2590283,-7.1222234,2,Barrett Place (203),a
+52.2590291,-7.1057201,2,Bolton Street (968),a
 52.2590291,-7.1057201,2,Bolton Street (968),a
 52.2590302,-7.12169,2,Barrett Place (232),a
 52.2590302,-7.12169,2,Barrett Place (268),a
@@ -17583,36 +17516,39 @@ lat,lon,sz,names,len_cat
 52.259048,-7.1303598,2,Yellow Gardens (090),a
 52.2590493,-7.1255626,2,Upper Yellow Road (825),a
 52.25905,-7.1080036,2,Colbeck Street (120),a
+52.25905,-7.1080036,2,The Mall (562),a
+52.25905,-7.1080036,2,The Mall (813),a
 52.2590508,-7.1825277,2,Western Link Road (222),a
 52.2590513,-7.166442,2,Knockhouse Road (652),a
 52.2590516,-7.1103256,2,Spring Garden Alley (829),a
+52.2590516,-7.1103256,2,Spring Garden Alley (841),a
 52.2590516,-7.1103256,2,Spring Gardens (798),a
+52.2590539,-7.1057128,2,Bank Lane (020),a
 52.2590539,-7.1057128,2,Bank Lane (020),a
 52.2590539,-7.1057128,2,Bolton Street (965),a
 52.2590545,-7.1320246,2,Marian Park (612),a
-52.2590588,-7.1140466,2,Bachelors Walk (567),a
 52.2590593,-7.1057513,2,Bank Lane (019),a
 52.2590645,-7.1057957,2,Bank Lane (018),a
 52.2590653,-7.1060075,2,Bank Lane (013),a
+52.2590663,-7.1060285,2,Bank Lane (010),a
 52.2590663,-7.1060285,2,Bank Lane (010),a
 52.259067,-7.10584,2,Bank Lane (017),a
 52.259067,-7.10584,2,Bank Lane (017),a
 52.2590672,-7.1173874,2,Trinity Square (104),a
 52.2590672,-7.1173874,2,Trinity Square (104),a
 52.2590673,-7.1058841,2,Bank Lane (015),a
+52.2590685,-7.1213218,2,Doyle's Street (083),a
 52.2590689,-7.106052,2,Bank Lane (008),a
 52.2590689,-7.106052,2,Bank Lane (008),a
 52.2590706,-7.1057034,2,Bolton Street (963),a
 52.2590706,-7.1057034,2,Bolton Street (963),a
-52.2590715,-7.1144307,2,Bachelors Walk (569),a
 52.259072,-7.1060659,2,Bank Lane (006),a
 52.259072,-7.1060659,2,Bank Lane (006),a
 52.2590755,-7.1303701,2,Yellow Gardens (089),a
 52.2590755,-7.1303701,2,Yellow Gardens (089),a
 52.2590755,-7.1303701,2,Yellow Gardens (099),a
 52.2590755,-7.1303701,2,Yellow Gardens (099),a
-52.2590757,-7.1147118,2,Bachelors Walk (570),a
-52.2590757,-7.1147118,2,O'Brien Street (849),a
+52.2590772,-7.1060777,2,Bank Lane (004),a
 52.2590772,-7.1060777,2,Bank Lane (004),a
 52.2590829,-7.1152514,2,Mayor's Walk (097),a
 52.2590829,-7.1152514,2,Mayor's Walk (592),a
@@ -17625,24 +17561,31 @@ lat,lon,sz,names,len_cat
 52.2590928,-7.1663226,2,Knockhouse Road (653),a
 52.2590933,-7.1060954,2,Bank Lane (001),a
 52.2590933,-7.1060954,2,Bank Lane (001),a
+52.2590936,-7.1251733,2,The Close (488),a
+52.2590936,-7.1251733,2,Upper Yellow Road (819),a
 52.2590965,-7.1213283,2,Doyle's Street (082),a
 52.2590984,-7.1505242,2,Blackberry Fields (068),a
 52.2590996,-7.1078827,2,The Mall (813),a
 52.2591042,-7.1100896,2,Spring Garden Alley (830),a
 52.2591057,-7.1061025,2,Bank Lane (999),a
 52.259107,-7.1056644,2,Bolton Street (956),a
+52.259107,-7.1056644,2,Bolton Street (956),a
 52.259107,-7.1056644,2,Bolton Street (959),a
 52.259107,-7.1056644,2,Mall Lane (871),a
+52.2591095,-7.1240749,2,Morrisson's Road (233),a
+52.2591117,-7.1173988,2,Trinity Square (919),a
 52.2591122,-7.1250105,2,Upper Yellow Road (822),a
 52.2591123,-7.1039467,2,George's Quay (160),a
 52.2591124,-7.1026744,2,Adelphi Quay (172),a
 52.2591137,-7.1821969,2,Western Link Road (068),a
 52.2591151,-7.1078443,2,The Mall (814),a
 52.2591151,-7.1078443,2,The Mall (816),a
+52.2591154,-7.1100326,2,Spring Garden Alley (831),a
 52.2591205,-7.1061088,2,Bank Lane (997),a
 52.2591205,-7.1061088,2,Bank Lane (997),a
 52.2591205,-7.1056376,2,Bolton Street (954),a
 52.2591205,-7.1056376,2,Bolton Street (954),a
+52.2591226,-7.1099777,2,Spring Garden Alley (832),a
 52.2591243,-7.1215685,2,Barrett Place (553),a
 52.2591248,-7.1213325,2,Doyle's Street (079),a
 52.2591248,-7.1213325,2,Doyle's Street (129),a
@@ -17653,21 +17596,29 @@ lat,lon,sz,names,len_cat
 52.2591298,-7.1049686,2,Lombard Street (410),a
 52.2591298,-7.1049686,2,Lombard Street (411),a
 52.2591298,-7.1049686,2,Lombard Street (411),a
+52.2591307,-7.1078053,2,The Mall (775),a
+52.2591309,-7.1080503,2,Colbeck Street (115),a
 52.2591313,-7.1056064,2,Bolton Street (951),a
 52.2591313,-7.1056064,2,Bolton Street (951),a
 52.2591314,-7.1098438,2,Spring Garden Alley (834),a
 52.2591317,-7.1056862,2,Mall Lane (874),a
+52.2591317,-7.1056862,2,Mall Lane (874),a
 52.2591325,-7.1248505,2,Upper Yellow Road (814),a
 52.2591364,-7.109642,2,Spring Garden Alley (835),a
+52.2591375,-7.1229801,2,Mount Sion Avenue (012),a
 52.2591397,-7.1055682,2,Bolton Street (949),a
 52.2591397,-7.1055682,2,Bolton Street (949),a
 52.2591401,-7.106116,2,Bank Lane (995),a
 52.2591402,-7.1170751,2,Trinity Square (898),a
+52.2591402,-7.1170751,2,Trinity Square (898),a
 52.2591427,-7.1822195,2,Western Link Road (067),a
+52.2591444,-7.1240899,2,Morrisson's Road (432),a
+52.2591492,-7.1093496,2,Spring Garden Alley (774),a
 52.2591492,-7.1093496,2,Spring Garden Alley (836),a
 52.2591519,-7.1213338,2,Doyle's Street (127),a
 52.2591553,-7.1660594,2,Knockhouse Road (654),a
 52.2591553,-7.1660594,2,Knockhouse Road (654),a
+52.259157,-7.1061241,2,Bank Lane (994),a
 52.259157,-7.1061241,2,Bank Lane (994),a
 52.2591594,-7.1050093,2,Lombard Street (409),a
 52.2591594,-7.1050093,2,Lombard Street (409),a
@@ -17676,12 +17627,14 @@ lat,lon,sz,names,len_cat
 52.2591675,-7.1053949,2,Bolton Street (946),a
 52.2591675,-7.1053949,2,Bolton Street (946),a
 52.259171,-7.1061329,2,Bank Lane (992),a
+52.259171,-7.1061329,2,Bank Lane (992),a
 52.2591712,-7.1245859,2,Upper Yellow Road (821),a
 52.2591749,-7.1080733,2,Colbeck Street (114),a
 52.2591757,-7.1822396,2,Western Link Road (066),a
 52.2591759,-7.1213331,2,Doyle's Street (124),a
 52.2591764,-7.1659375,2,Knockhouse Road (513),a
 52.2591764,-7.1659375,2,Knockhouse Road (513),a
+52.2591769,-7.1152581,2,Mayor's Walk (096),a
 52.2591828,-7.1044909,2,George's Quay (709),a
 52.2591828,-7.1044909,2,George's Quay (709),a
 52.259183,-7.1053211,2,Bolton Street (944),a
@@ -17701,7 +17654,9 @@ lat,lon,sz,names,len_cat
 52.2591976,-7.1052564,2,Bolton Street (941),a
 52.2591981,-7.1304159,2,Yellow Gardens (088),a
 52.2591997,-7.1061593,2,Bank Lane (989),a
+52.2591997,-7.1061593,2,Bank Lane (989),a
 52.2592,-7.1494322,2,Blackberry Fields (248),a
+52.2592007,-7.1213311,2,Doyle's Street (122),a
 52.2592023,-7.1657554,2,Knockhouse Road (655),a
 52.2592023,-7.1657554,2,Knockhouse Road (655),a
 52.2592025,-7.1083737,2,Spring Garden Alley (924),a
@@ -17718,6 +17673,7 @@ lat,lon,sz,names,len_cat
 52.2592141,-7.1061788,2,Bank Lane (987),a
 52.2592141,-7.1061788,2,Bank Lane (987),a
 52.2592192,-7.1050833,2,Lombard Street (407),a
+52.2592192,-7.1050833,2,Lombard Street (407),a
 52.2592206,-7.1398073,2,Pinewood Avenue (866),a
 52.2592225,-7.108095,2,Colbeck Street (113),a
 52.2592225,-7.108095,2,Colbeck Street (363),a
@@ -17728,7 +17684,6 @@ lat,lon,sz,names,len_cat
 52.2592269,-7.1061974,2,Bank Lane (985),a
 52.2592281,-7.1051547,2,Bolton Street (935),a
 52.259229,-7.1042316,2,George's Quay (159),a
-52.2592314,-7.113714,2,Stephen's Street (755),a
 52.2592333,-7.1043404,2,George's Quay (712),a
 52.2592346,-7.1042847,2,George's Quay (473),a
 52.2592346,-7.1042847,2,George's Quay (713),a
@@ -17737,6 +17692,8 @@ lat,lon,sz,names,len_cat
 52.2592408,-7.1062194,2,Bank Lane (983),a
 52.2592445,-7.1051114,2,Bolton Street (931),a
 52.2592445,-7.1051114,2,Lombard Street (406),a
+52.2592445,-7.1051114,2,Lombard Street (406),a
+52.2592454,-7.1241259,2,Morrisson's Road (434),a
 52.2592454,-7.1241259,2,Morrisson's Road (448),a
 52.2592454,-7.1241259,2,Upper Yellow Road (407),a
 52.259247,-7.1653529,2,Knockhouse Road (656),a
@@ -17744,11 +17701,13 @@ lat,lon,sz,names,len_cat
 52.259248,-7.1244828,2,Summerland Square (297),a
 52.2592507,-7.1075032,2,The Mall (578),a
 52.2592564,-7.1062407,2,Bank Lane (982),a
+52.2592564,-7.1062407,2,Bank Lane (982),a
 52.259257,-7.1320909,2,Marian Park (642),a
 52.2592574,-7.119435,2,Newport's Square (028),a
 52.2592616,-7.1822696,2,Western Link Road (064),a
 52.2592646,-7.1408202,2,Chestnut Green (883),a
 52.2592646,-7.1408202,2,Chestnut Green (883),a
+52.259268,-7.1062545,2,Bank Lane (980),a
 52.259268,-7.1062545,2,Bank Lane (980),a
 52.2592682,-7.1051356,2,Lombard Street (405),a
 52.2592685,-7.1650713,2,Knockhouse Road (657),a
@@ -17762,18 +17721,19 @@ lat,lon,sz,names,len_cat
 52.259285,-7.1171035,2,Trinity Square (189),a
 52.259285,-7.1171035,2,Trinity Square (189),a
 52.2592884,-7.121318,2,Doyle's Street (116),a
+52.2592884,-7.121318,2,Lower Yellow Road (876),a
 52.2592884,-7.121318,2,Lower Yellow Road (942),a
-52.2592885,-7.1136913,2,Stephen's Street (092),a
 52.2592908,-7.121412,2,Lower Yellow Road (878),a
 52.2592914,-7.1051574,2,Lombard Street (404),a
 52.2592914,-7.1051574,2,Lombard Street (404),a
-52.2592927,-7.1194452,2,Newport's Square (025),a
+52.2592935,-7.1209849,2,Lower Yellow Road (934),a
 52.2592947,-7.1215141,2,Lower Yellow Road (880),a
+52.2592963,-7.124135,2,Morrisson's Road (450),a
 52.259298,-7.1428163,2,Pinewood Avenue (475),a
-52.2592992,-7.1208867,2,Lower Yellow Road (932),a
 52.2592997,-7.121612,2,Lower Yellow Road (882),a
 52.2592998,-7.1648479,2,Knockhouse Road (658),a
 52.2592998,-7.1648479,2,Knockhouse Road (658),a
+52.2593008,-7.1062805,2,Bank Lane (977),a
 52.2593008,-7.1062805,2,Bank Lane (977),a
 52.2593055,-7.1501573,2,Blackberry Fields (224),a
 52.2593056,-7.1124653,2,Alexander Street (108),a
@@ -17800,8 +17760,10 @@ lat,lon,sz,names,len_cat
 52.2593434,-7.1051981,2,Lombard Street (402),a
 52.2593449,-7.1221954,2,Lower Yellow Road (889),a
 52.2593475,-7.1063017,2,Bank Lane (973),a
+52.2593475,-7.1063017,2,Bank Lane (973),a
 52.2593531,-7.1081449,2,Colbeck Street (136),a
 52.2593531,-7.1081449,2,Colbeck Street (362),a
+52.2593539,-7.1277355,2,Rathfadden Villas (974),a
 52.2593563,-7.1243377,2,Summerland Square (299),a
 52.2593574,-7.1646422,2,Knockhouse Road (516),a
 52.2593574,-7.1646422,2,Knockhouse Road (516),a
@@ -17811,22 +17773,27 @@ lat,lon,sz,names,len_cat
 52.2593631,-7.1063081,2,Bank Lane (972),a
 52.2593638,-7.1224001,2,Lower Yellow Road (891),a
 52.259366,-7.1072055,2,The Mall (774),a
+52.259366,-7.1072055,2,The Mall (809),a
 52.2593745,-7.1179732,2,Green Street (331),a
 52.2593745,-7.1179732,2,Green Street (331),a
 52.2593752,-7.1071821,2,The Mall (807),a
 52.2593752,-7.1071821,2,The Mall (810),a
 52.2593793,-7.1063172,2,Bank Lane (971),a
 52.2593793,-7.1063172,2,Bank Lane (971),a
+52.2593816,-7.1131538,2,Alexander Street (111),a
+52.259382,-7.107165,2,The Mall (806),a
 52.2593848,-7.1241242,2,Morrisson's Road (454),a
+52.2593862,-7.1052276,2,Lombard Street (401),a
 52.2593862,-7.1052276,2,Lombard Street (401),a
 52.2593862,-7.1052276,2,Rose Lane (519),a
 52.2593874,-7.107151,2,The Mall (808),a
+52.2593876,-7.1152834,2,Mayor's Walk (094),a
 52.2593953,-7.1071305,2,The Mall (804),a
-52.2593958,-7.1194838,2,Newport's Square (016),a
-52.2593985,-7.1199753,2,Lower Yellow Road (921),a
 52.2594005,-7.1063317,2,Bank Lane (970),a
+52.2594019,-7.1229023,2,Lower Yellow Road (898),a
 52.2594036,-7.1051729,2,Rose Lane (518),a
 52.2594036,-7.1051729,2,Rose Lane (518),a
+52.2594067,-7.1229988,2,Lower Yellow Road (217),a
 52.2594098,-7.1548037,2,Butterfield Avenue (675),a
 52.2594103,-7.1241158,2,Morrisson's Road (455),a
 52.259411,-7.123086,2,Lower Yellow Road (899),a
@@ -17839,15 +17806,14 @@ lat,lon,sz,names,len_cat
 52.2594203,-7.134431,2,Marian Park (593),a
 52.2594214,-7.1293613,2,Congress Place (151),a
 52.2594214,-7.1293613,2,Congress Place (151),a
-52.2594231,-7.1197997,2,Lower Yellow Road (919),a
 52.2594246,-7.1234849,2,Lower Yellow Road (902),a
 52.2594255,-7.1644702,2,Knockhouse Road (670),a
 52.2594304,-7.12382,2,Lower Yellow Road (766),a
 52.2594341,-7.1050974,2,Rose Lane (516),a
 52.2594368,-7.1241044,2,Lower Yellow Road (906),a
+52.2594368,-7.1241044,2,Military Road (310),a
 52.2594368,-7.1241044,2,Military Road (320),a
 52.2594368,-7.1241044,2,Morrisson's Road (456),a
-52.2594391,-7.1136284,2,Stephen's Street (752),a
 52.259441,-7.1171361,2,Trinity Square (896),a
 52.259441,-7.1171361,2,Trinity Square (896),a
 52.2594412,-7.1548037,2,Butterfield Avenue (674),a
@@ -17855,12 +17821,11 @@ lat,lon,sz,names,len_cat
 52.2594435,-7.1052599,2,Lombard Street (399),a
 52.2594449,-7.1494465,2,Blackberry Fields (247),a
 52.2594461,-7.1344312,2,Marian Park (594),a
-52.2594467,-7.1196374,2,Lower Yellow Road (917),a
+52.2594537,-7.105061,2,Rose Lane (515),a
 52.2594537,-7.105061,2,Rose Lane (515),a
 52.2594568,-7.1535654,2,Butterfield Meadow (634),a
 52.2594568,-7.1535654,2,Butterfield Meadow (634),a
-52.2594661,-7.1195143,2,Lower Yellow Road (916),a
-52.2594661,-7.1195143,2,Newport's Square (013),a
+52.2594678,-7.1240877,2,Military Road (321),a
 52.2594699,-7.1494499,2,Blackberry Fields (246),a
 52.2594705,-7.1548214,2,Butterfield Avenue (318),a
 52.2594705,-7.1548214,2,Butterfield Avenue (673),a
@@ -17872,11 +17837,14 @@ lat,lon,sz,names,len_cat
 52.2594832,-7.1052798,2,Lombard Street (398),a
 52.2594832,-7.1052798,2,Lombard Street (398),a
 52.2594841,-7.1058319,2,Mall Lane (879),a
+52.2594841,-7.1058319,2,Mall Lane (879),a
 52.2594856,-7.130967,2,Rathfadden Park (423),a
 52.2594866,-7.1344061,2,Marian Park (633),a
 52.2594891,-7.1494568,2,Blackberry Fields (245),a
 52.2594934,-7.1511855,2,Blackberry Fields (088),a
-52.2594999,-7.1193185,2,Lower Yellow Road (912),a
+52.2594945,-7.1180071,2,Green Street (326),a
+52.2594957,-7.1153004,2,Mayor's Walk (093),a
+52.2594967,-7.1240701,2,Military Road (322),a
 52.2595053,-7.1448582,2,IDA Waterford Industrial Estate - Northern Extension (292),a
 52.2595053,-7.1448582,2,IDA Waterford Industrial Estate - Northern Extension (510),a
 52.2595056,-7.1494655,2,Blackberry Fields (244),a
@@ -17888,11 +17856,14 @@ lat,lon,sz,names,len_cat
 52.2595224,-7.1518771,2,Carrickphierish Road (206),a
 52.2595229,-7.1494801,2,Blackberry Fields (077),a
 52.2595239,-7.1049576,2,Rose Lane (513),a
+52.2595239,-7.1049576,2,Rose Lane (513),a
 52.259524,-7.1304819,2,Rathfadden Park (418),a
 52.2595247,-7.1548549,2,Butterfield Avenue (317),a
 52.2595247,-7.1548549,2,Butterfield Avenue (757),a
+52.2595253,-7.1242864,2,Summerland Square (300),a
 52.2595287,-7.1240486,2,Military Road (311),a
 52.2595287,-7.1240486,2,Military Road (323),a
+52.2595287,-7.1240486,2,Ozanam Street (328),a
 52.2595325,-7.1523762,2,Butterfield Drive (653),a
 52.2595356,-7.153798,2,Butterfield Meadow (629),a
 52.2595356,-7.153798,2,Butterfield Meadow (629),a
@@ -17924,22 +17895,25 @@ lat,lon,sz,names,len_cat
 52.2595842,-7.1510259,2,Blackberry Fields (086),a
 52.2595855,-7.1028044,2,Adelphi Quay (669),a
 52.259586,-7.103542,2,Adelphi Quay (170),a
+52.2595885,-7.1066256,2,The Mall (800),a
 52.2595885,-7.1066256,2,The Mall (805),a
+52.259591,-7.1240045,2,Military Road (312),a
+52.2595915,-7.1242785,2,Ozanam Street (303),a
+52.2595915,-7.1242785,2,Ozanam Street (675),a
 52.2595915,-7.1242785,2,Summerland Square (301),a
 52.259592,-7.1640112,2,Knockhouse Road (517),a
 52.259594,-7.124288,2,Ozanam Street (759),a
 52.2595981,-7.1369179,2,Hawthorn Close (393),a
-52.2596006,-7.1187816,2,Andrew Street (779),a
-52.2596006,-7.1187816,2,Ballybricken (351),a
-52.2596006,-7.1187816,2,Lower Yellow Road (908),a
 52.2596036,-7.1305427,2,Rathfadden Park (404),a
 52.2596036,-7.1305427,2,Rathfadden Park (417),a
 52.2596037,-7.1322053,2,Marian Park (609),a
 52.259604,-7.11532,2,Mayor's Walk (092),a
 52.2596044,-7.1048371,2,Rose Lane (511),a
 52.2596044,-7.1048371,2,Rose Lane (511),a
+52.2596052,-7.12433,2,Ozanam Street (026),a
 52.2596062,-7.1171763,2,Trinity Square (895),a
 52.2596062,-7.1171763,2,Trinity Square (895),a
+52.2596075,-7.1180428,2,Green Street (322),a
 52.2596126,-7.1496041,2,Blackberry Fields (067),a
 52.2596126,-7.1496041,2,Blackberry Fields (076),a
 52.2596136,-7.153448,2,Butterfield Meadow (626),a
@@ -17953,10 +17927,7 @@ lat,lon,sz,names,len_cat
 52.2596307,-7.1047936,2,Rose Lane (510),a
 52.2596307,-7.1047936,2,Rose Lane (510),a
 52.2596311,-7.1065136,2,The Mall (798),a
-52.2596341,-7.1208972,2,The Square (550),a
-52.2596369,-7.1185978,2,Ballybricken (255),a
-52.2596369,-7.1185978,2,Ballybricken (331),a
-52.2596369,-7.1185978,2,Ballybricken (350),a
+52.2596317,-7.1082422,2,Colbeck Street (129),a
 52.259641,-7.106488,2,The Mall (799),a
 52.259641,-7.106488,2,The Mall (799),a
 52.259641,-7.106488,2,The Mall (801),a
@@ -17967,35 +17938,33 @@ lat,lon,sz,names,len_cat
 52.2596465,-7.1082529,2,Colbeck Street (127),a
 52.2596468,-7.1525746,2,Butterfield Drive (651),a
 52.2596468,-7.1525746,2,Butterfield Drive (651),a
-52.2596487,-7.120608,2,Philip Street (081),a
-52.2596487,-7.120608,2,The Square (549),a
-52.2596519,-7.1184714,2,Ballybricken (870),a
+52.2596522,-7.1239586,2,Military Road (313),a
 52.259654,-7.1305781,2,Rathfadden Park (416),a
 52.2596544,-7.1059141,2,Mall Lane (884),a
 52.2596544,-7.1059141,2,Mall Lane (884),a
 52.2596564,-7.1064481,2,The Mall (797),a
+52.2596564,-7.1064481,2,The Mall (797),a
 52.2596564,-7.1064481,2,The Mall (802),a
 52.2596564,-7.1064481,2,The Mall (802),a
+52.2596565,-7.1086737,2,Lady Lane (637),a
 52.2596565,-7.1086737,2,Lady Lane (645),a
 52.2596565,-7.1086737,2,Saint Francis Place (757),a
 52.2596585,-7.1082665,2,Colbeck Street (123),a
 52.2596585,-7.1082665,2,Lady Lane (652),a
+52.2596613,-7.1175749,2,Trinity Square (922),a
 52.2596622,-7.1322378,2,Marian Park (641),a
-52.2596625,-7.1185326,2,Ballybricken (333),a
+52.2596671,-7.1047317,2,Rose Lane (509),a
 52.2596671,-7.1047317,2,Rose Lane (509),a
 52.2596676,-7.1082844,2,Lady Lane (651),a
-52.2596694,-7.1183957,2,Ballybricken (254),a
-52.2596694,-7.1183957,2,Ballybricken (254),a
-52.2596694,-7.1183957,2,Ballybricken (353),a
-52.2596694,-7.1183957,2,Ballybricken (353),a
 52.2596698,-7.1305881,2,Rathfadden Park (415),a
 52.25968,-7.108447,2,Lady Lane (646),a
+52.2596804,-7.1183481,2,Ballybricken (869),a
 52.2596804,-7.1183481,2,Ballybricken (869),a
 52.2596812,-7.1239354,2,Military Road (865),a
 52.2596836,-7.108367,2,Lady Lane (648),a
 52.2596852,-7.1446697,2,IDA Waterford Industrial Estate - Northern Extension (538),a
-52.259686,-7.1194916,2,Clashrea Place (772),a
 52.2596875,-7.1305942,2,Rathfadden Park (414),a
+52.2596893,-7.1183095,2,Ballybricken (868),a
 52.2596893,-7.1183095,2,Ballybricken (868),a
 52.2596971,-7.1636462,2,Knockhouse Road (688),a
 52.2597031,-7.1046668,2,Rose Lane (508),a
@@ -18008,9 +17977,9 @@ lat,lon,sz,names,len_cat
 52.2597072,-7.1063164,2,The Mall (796),a
 52.2597072,-7.1063164,2,The Mall (796),a
 52.2597076,-7.1059507,2,Mall Lane (887),a
-52.2597078,-7.1184921,2,Ballybricken (336),a
-52.2597078,-7.1184921,2,Ballybricken (336),a
+52.2597076,-7.1059507,2,Mall Lane (887),a
 52.259714,-7.1247991,2,Ozanam Street (024),a
+52.2597142,-7.1182104,2,Ballybricken (588),a
 52.2597142,-7.1182104,2,Ballybricken (588),a
 52.259715,-7.1181835,2,Ballybricken (587),a
 52.259715,-7.1181835,2,Ballybricken (587),a
@@ -18019,13 +17988,13 @@ lat,lon,sz,names,len_cat
 52.2597178,-7.1181562,2,Ballybricken (250),a
 52.2597178,-7.1181562,2,Ballybricken (250),a
 52.2597178,-7.1181562,2,Ballybricken (352),a
+52.2597178,-7.1181562,2,Ballybricken (352),a
 52.2597178,-7.1181562,2,Ballybricken (370),a
 52.2597178,-7.1181562,2,Ballybricken (370),a
 52.2597194,-7.1182766,2,Ballybricken (590),a
 52.2597194,-7.1182766,2,Ballybricken (590),a
 52.2597205,-7.144628,2,IDA Waterford Industrial Estate - Northern Extension (541),a
 52.2597216,-7.130588,2,Rathfadden Park (412),a
-52.2597253,-7.1184873,2,Ballybricken (337),a
 52.2597275,-7.1183195,2,Ballybricken (591),a
 52.2597275,-7.1183195,2,Ballybricken (591),a
 52.2597289,-7.1322827,2,Marian Park (608),a
@@ -18037,8 +18006,8 @@ lat,lon,sz,names,len_cat
 52.2597303,-7.1180839,2,Green Street (315),a
 52.2597303,-7.1180839,2,Green Street (315),a
 52.2597307,-7.1032912,2,Adelphi Quay (167),a
-52.2597343,-7.1134858,2,Stephen's Street (746),a
 52.259736,-7.1305783,2,Rathfadden Park (411),a
+52.259736,-7.1183564,2,Ballybricken (592),a
 52.259736,-7.1183564,2,Ballybricken (592),a
 52.2597438,-7.1045907,2,Rose Lane (507),a
 52.2597438,-7.1045907,2,Rose Lane (507),a
@@ -18048,8 +18017,8 @@ lat,lon,sz,names,len_cat
 52.2597463,-7.1183858,2,Ballybricken (593),a
 52.2597463,-7.1183858,2,Ballybricken (593),a
 52.2597477,-7.1305666,2,Rathfadden Park (410),a
-52.259749,-7.1195069,2,Clashrea Place (769),a
 52.2597501,-7.1445915,2,IDA Waterford Industrial Estate - Northern Extension (540),a
+52.2597547,-7.1059877,2,Mall Lane (889),a
 52.2597547,-7.1059877,2,Mall Lane (889),a
 52.259758,-7.1514527,2,Carrickphierish Road (827),a
 52.2597582,-7.1305512,2,Rathfadden Park (409),a
@@ -18058,8 +18027,6 @@ lat,lon,sz,names,len_cat
 52.2597617,-7.1184189,2,Ballybricken (594),a
 52.2597637,-7.1080061,2,Cathedral Square (091),a
 52.2597652,-7.1507067,2,Blackberry Fields (286),a
-52.2597684,-7.1184862,2,Ballybricken (339),a
-52.2597684,-7.1184862,2,Ballybricken (339),a
 52.2597691,-7.1305299,2,Rathfadden Park (408),a
 52.2597695,-7.153384,2,Butterfield Court (668),a
 52.2597695,-7.153384,2,Butterfield Court (668),a
@@ -18085,12 +18052,12 @@ lat,lon,sz,names,len_cat
 52.259794,-7.1551719,2,Butterfield Avenue (316),a
 52.259794,-7.1551719,2,Butterfield Avenue (756),a
 52.2597948,-7.1080063,2,Cathedral Square (093),a
-52.259795,-7.120971,2,The Square (551),a
 52.2597954,-7.1533332,2,Butterfield Court (667),a
 52.2597954,-7.1533332,2,Butterfield Court (667),a
 52.2597976,-7.1167948,2,Five Alley Lane (884),a
 52.2597976,-7.1167948,2,Five Alley Lane (884),a
 52.2597977,-7.144484,2,IDA Waterford Industrial Estate - Northern Extension (543),a
+52.2597996,-7.1184908,2,Ballybricken (340),a
 52.2597996,-7.1184908,2,Ballybricken (340),a
 52.2597997,-7.1184722,2,Ballybricken (596),a
 52.2597997,-7.1184722,2,Ballybricken (596),a
@@ -18100,9 +18067,9 @@ lat,lon,sz,names,len_cat
 52.2598054,-7.1304069,2,Rathfadden Park (400),a
 52.2598054,-7.1304069,2,Rathfadden Park (400),a
 52.2598062,-7.1176336,2,Trinity Square (923),a
+52.2598062,-7.1176336,2,Trinity Square (923),a
 52.2598063,-7.1072407,2,Cathedral Square (083),a
 52.2598065,-7.1444414,2,IDA Waterford Industrial Estate - Northern Extension (536),a
-52.2598135,-7.1134492,2,Stephen's Street (743),a
 52.2598138,-7.1060402,2,Mall Lane (892),a
 52.2598138,-7.1060402,2,Mall Lane (892),a
 52.2598138,-7.1060402,2,The Mall (791),a
@@ -18115,11 +18082,12 @@ lat,lon,sz,names,len_cat
 52.2598183,-7.1632679,2,Knockhouse Road (691),a
 52.2598188,-7.1499205,2,Blackberry Fields (241),a
 52.2598253,-7.1303539,2,Rathfadden Park (398),a
-52.2598258,-7.1206562,2,Philip Street (080),a
+52.2598253,-7.1303539,2,Rathfadden Park (398),a
 52.259826,-7.1552243,2,Butterfield Avenue (315),a
 52.259826,-7.1552243,2,Butterfield Avenue (755),a
 52.2598334,-7.1184982,2,Ballybricken (251),a
 52.2598334,-7.1184982,2,Ballybricken (251),a
+52.2598334,-7.1184982,2,Ballybricken (341),a
 52.2598334,-7.1184982,2,Ballybricken (341),a
 52.2598334,-7.1184982,2,Ballybricken (355),a
 52.2598334,-7.1184982,2,Ballybricken (355),a
@@ -18127,9 +18095,6 @@ lat,lon,sz,names,len_cat
 52.2598344,-7.1174649,2,Ballybricken (346),a
 52.2598355,-7.1303413,2,Rathfadden Park (397),a
 52.2598355,-7.1303413,2,Rathfadden Park (397),a
-52.2598389,-7.1206594,2,Philip Street (119),a
-52.2598389,-7.1206594,2,Philip Street (719),a
-52.2598389,-7.1206594,2,The Square (552),a
 52.25984,-7.1329342,2,Marian Park (601),a
 52.2598404,-7.1323818,2,Marian Park (606),a
 52.2598409,-7.1532689,2,Butterfield Court (600),a
@@ -18152,12 +18117,16 @@ lat,lon,sz,names,len_cat
 52.2598586,-7.1173302,2,Ballybricken (345),a
 52.2598586,-7.1173302,2,Ballybricken (345),a
 52.2598653,-7.1043643,2,Rose Lane (505),a
+52.259866,-7.1172985,2,Ballybricken (344),a
 52.2598677,-7.1506595,2,Blackberry Fields (072),a
 52.2598677,-7.1506595,2,Blackberry Fields (083),a
+52.2598681,-7.1303304,2,Rathfadden Park (394),a
 52.2598682,-7.15062,2,Blackberry Fields (229),a
 52.259872,-7.1506925,2,Blackberry Fields (228),a
 52.2598722,-7.1505814,2,Blackberry Fields (230),a
 52.2598722,-7.1054686,2,Lombard Street (871),a
+52.2598722,-7.1054686,2,Lombard Street (871),a
+52.2598742,-7.117269,2,Ballybricken (343),a
 52.2598749,-7.1080193,2,Cathedral Square (094),a
 52.2598756,-7.1185096,2,Ballybricken (356),a
 52.2598756,-7.1185096,2,Ballybricken (356),a
@@ -18192,7 +18161,6 @@ lat,lon,sz,names,len_cat
 52.2598978,-7.1071207,2,Cathedral Square (078),a
 52.2598978,-7.1054901,2,Lombard Street (872),a
 52.2598978,-7.1054901,2,Lombard Street (872),a
-52.2598984,-7.1206738,2,Philip Street (790),a
 52.2598996,-7.1555539,2,Butterfield Avenue (313),a
 52.2598996,-7.1555539,2,Butterfield Avenue (753),a
 52.2599019,-7.1042988,2,Rose Lane (504),a
@@ -18203,6 +18171,7 @@ lat,lon,sz,names,len_cat
 52.2599061,-7.1163607,2,Ballybricken (546),a
 52.2599077,-7.1057898,2,The Mall (784),a
 52.2599077,-7.1057898,2,The Mall (784),a
+52.2599077,-7.1057898,2,The Mall (794),a
 52.2599077,-7.1057898,2,The Mall (794),a
 52.2599094,-7.155691,2,Butterfield Avenue (312),a
 52.2599094,-7.155691,2,Butterfield Avenue (759),a
@@ -18217,9 +18186,12 @@ lat,lon,sz,names,len_cat
 52.2599183,-7.1567399,2,Butterfield Avenue (758),a
 52.2599184,-7.11589,2,Ballybricken (544),a
 52.2599203,-7.1325234,2,Marian Park (603),a
+52.2599209,-7.1171853,2,Ballybricken (806),a
 52.2599229,-7.13257,2,Marian Park (638),a
 52.2599246,-7.1057484,2,The Mall (782),a
+52.2599262,-7.1071148,2,Cathedral Square (077),a
 52.2599275,-7.1258247,2,Ozanam Street (014),a
+52.2599282,-7.1185234,2,Ballybricken (357),a
 52.2599282,-7.1185234,2,Ballybricken (357),a
 52.2599306,-7.1237361,2,Military Road (314),a
 52.259931,-7.1153809,2,Mayor's Walk (114),a
@@ -18235,6 +18207,7 @@ lat,lon,sz,names,len_cat
 52.2599362,-7.1057192,2,The Mall (780),a
 52.2599362,-7.1057192,2,The Mall (783),a
 52.2599362,-7.1057192,2,The Mall (783),a
+52.2599364,-7.1171694,2,Ballybricken (805),a
 52.2599368,-7.1055279,2,Lombard Street (873),a
 52.2599368,-7.1055279,2,Lombard Street (873),a
 52.2599372,-7.1500978,2,Blackberry Fields (240),a
@@ -18255,16 +18228,17 @@ lat,lon,sz,names,len_cat
 52.2599659,-7.1503473,2,Blackberry Fields (235),a
 52.2599674,-7.1577613,2,Butterfield Avenue (306),a
 52.2599674,-7.1577613,2,Cherry Walk (349),a
+52.2599681,-7.1080289,2,Cathedral Square (096),a
 52.259969,-7.1501678,2,Blackberry Fields (239),a
 52.2599706,-7.1041897,2,Rose Lane (502),a
 52.2599752,-7.1503104,2,Blackberry Fields (236),a
-52.259976,-7.1206903,2,Philip Street (791),a
 52.2599773,-7.1502041,2,Blackberry Fields (238),a
 52.2599791,-7.1577151,2,Butterfield Avenue (307),a
 52.2599796,-7.1171386,2,Ballybricken (803),a
 52.2599802,-7.150272,2,Blackberry Fields (074),a
 52.2599802,-7.1502388,2,Blackberry Fields (237),a
 52.259987,-7.1576054,2,Butterfield Avenue (308),a
+52.2599892,-7.1055893,2,Lombard Street (874),a
 52.2599892,-7.1055893,2,Lombard Street (874),a
 52.2599892,-7.1055893,2,The Mall (772),a
 52.2599892,-7.1055893,2,The Mall (772),a
@@ -18278,41 +18252,38 @@ lat,lon,sz,names,len_cat
 52.2600024,-7.1171277,2,Ballybricken (802),a
 52.2600024,-7.1171277,2,Ballybricken (802),a
 52.2600032,-7.1359972,2,Hawthorn Drive (685),a
-52.2600048,-7.1206945,2,Philip Street (793),a
 52.2600048,-7.1054821,2,The Mall (773),a
 52.2600048,-7.1054821,2,The Mall (773),a
 52.2600132,-7.1071278,2,Cathedral Square (074),a
 52.2600179,-7.1262512,2,Ozanam Street (033),a
-52.260023,-7.1206957,2,Philip Street (794),a
+52.2600261,-7.1088334,2,Saint Francis Place (756),a
 52.2600263,-7.1054427,2,The Mall (554),a
 52.2600266,-7.1509659,2,Blackberry Fields (070),a
 52.2600266,-7.1509659,2,Carrickphierish Road (207),a
 52.260031,-7.1627025,2,Knockhouse Road (519),a
 52.2600316,-7.1373012,2,Crescent Drive (981),a
-52.2600365,-7.1195455,2,Clashrea Place (759),a
 52.2600366,-7.1041034,2,Rose Lane (500),a
+52.2600381,-7.10884,2,Saint Francis Place (755),a
+52.2600388,-7.112283,2,Patrick Street (362),a
 52.2600389,-7.1080279,2,Cathedral Square (099),a
 52.2600389,-7.1071375,2,Cathedral Square (073),a
 52.2600398,-7.1158249,2,Ballybricken (582),a
-52.2600405,-7.1206958,2,Philip Street (796),a
 52.2600424,-7.1153998,2,Ballybricken (586),a
+52.2600434,-7.1158875,2,Ballybricken (581),a
 52.2600476,-7.1088471,2,Saint Francis Place (754),a
-52.2600478,-7.1134216,2,Patrick Street (331),a
-52.260048,-7.1133744,2,Patrick Street (332),a
-52.260048,-7.1133744,2,Stephen's Street (730),a
 52.2600489,-7.1137655,2,Patrick Street (329),a
-52.260049,-7.1131226,2,Patrick Street (333),a
-52.2600496,-7.1130222,2,O'Brien's Terrace (005),a
 52.2600526,-7.1296614,2,Congress Place (036),a
 52.2600526,-7.1296614,2,Congress Place (036),a
 52.260053,-7.1141249,2,Patrick Street (328),a
 52.2600539,-7.1185478,2,Ballybricken (359),a
 52.2600539,-7.1185478,2,Ballybricken (359),a
-52.260059,-7.1206942,2,Philip Street (798),a
+52.2600551,-7.1146052,2,Patrick Street (358),a
+52.2600552,-7.1143686,2,Patrick Street (327),a
 52.2600591,-7.1088579,2,Saint Francis Place (753),a
 52.2600612,-7.1055485,2,The Mall (786),a
 52.2600612,-7.1055485,2,The Mall (786),a
 52.260062,-7.1053873,2,The Mall (552),a
+52.2600628,-7.1171051,2,Ballybricken (801),a
 52.2600628,-7.1171051,2,Ballybricken (801),a
 52.2600662,-7.1160859,2,Ballybricken (577),a
 52.260069,-7.1264613,2,Ozanam Street (015),a
@@ -18321,15 +18292,17 @@ lat,lon,sz,names,len_cat
 52.2600693,-7.1055368,2,The Mall (789),a
 52.2600693,-7.1055368,2,The Mall (789),a
 52.2600697,-7.1088699,2,Saint Francis Place (752),a
+52.2600725,-7.1071515,2,Cathedral Square (072),a
 52.260076,-7.1055274,2,The Mall (788),a
 52.260076,-7.1055274,2,The Mall (788),a
-52.2600761,-7.1197746,2,Grace's Lane (499),a
+52.2600772,-7.1161685,2,Ballybricken (575),a
+52.2600772,-7.1161685,2,Saint Patrick's Terrace (427),a
 52.2600776,-7.1319755,2,Highfield Park (238),a
 52.2600792,-7.108882,2,Saint Francis Place (751),a
-52.2600797,-7.1206907,2,Philip Street (799),a
 52.2600862,-7.1080173,2,Cathedral Square (069),a
 52.2600863,-7.1055128,2,The Mall (776),a
 52.2600863,-7.1055128,2,The Mall (776),a
+52.2600863,-7.1055128,2,The Mall (790),a
 52.2600863,-7.1055128,2,The Mall (790),a
 52.2600874,-7.1088264,2,Peter Street (592),a
 52.2600881,-7.1079903,2,Cathedral Square (897),a
@@ -18338,13 +18311,15 @@ lat,lon,sz,names,len_cat
 52.2600901,-7.1088945,2,Peter Street (627),a
 52.2600901,-7.1088945,2,Saint Francis Place (750),a
 52.2600921,-7.1037597,2,Adelphi Quay (666),a
+52.2600938,-7.1089321,2,Peter Street (626),a
 52.2600942,-7.1170955,2,Ballybricken (795),a
+52.2600942,-7.1170955,2,Ballybricken (795),a
+52.2600942,-7.1170955,2,Ballybricken (800),a
 52.2600942,-7.1170955,2,Ballybricken (800),a
 52.2600992,-7.1085492,2,Peter Street (596),a
 52.2601019,-7.1089049,2,Olaf Street (940),a
-52.260103,-7.120685,2,Philip Street (800),a
-52.2601069,-7.1134125,2,Carrigeen Park (132),a
-52.2601082,-7.1130193,2,O'Brien's Terrace (004),a
+52.2601036,-7.1090116,2,Peter Street (622),a
+52.2601094,-7.1266138,2,Ozanam Street (028),a
 52.2601104,-7.1054793,2,The Mall (628),a
 52.2601125,-7.1038053,2,Adelphi Quay (665),a
 52.260113,-7.1164036,2,Ballybricken (572),a
@@ -18354,8 +18329,11 @@ lat,lon,sz,names,len_cat
 52.2601145,-7.1170839,2,Ballybricken (794),a
 52.2601169,-7.1170899,2,Ballybricken (779),a
 52.2601169,-7.1170899,2,Ballybricken (779),a
-52.2601298,-7.1206769,2,Philip Street (801),a
+52.260121,-7.1185554,2,Ballybricken (360),a
+52.2601281,-7.1089177,2,Olaf Street (938),a
 52.2601301,-7.103852,2,Adelphi Quay (663),a
+52.2601309,-7.1170687,2,Ballybricken (793),a
+52.2601314,-7.1161565,2,Saint Patrick's Terrace (579),a
 52.2601317,-7.1395838,2,Chestnut Grove (145),a
 52.260134,-7.1170889,2,Ballybricken (778),a
 52.260134,-7.1170889,2,Ballybricken (778),a
@@ -18364,6 +18342,7 @@ lat,lon,sz,names,len_cat
 52.2601459,-7.1170493,2,Ballybricken (792),a
 52.2601465,-7.1038975,2,Adelphi Quay (659),a
 52.2601475,-7.1080058,2,Cathedral Square (104),a
+52.2601502,-7.1170914,2,Ballybricken (777),a
 52.2601535,-7.1267566,2,Cathal Brugha Street (525),a
 52.2601564,-7.128485,2,Rathfadden Grove (680),a
 52.2601567,-7.1284663,2,Rathfadden Grove (681),a
@@ -18376,14 +18355,15 @@ lat,lon,sz,names,len_cat
 52.2601624,-7.128508,2,Rathfadden Grove (677),a
 52.2601638,-7.1039452,2,Adelphi Quay (657),a
 52.2601638,-7.1039452,2,Rose Lane (499),a
-52.2601664,-7.1134064,2,Carrigeen Park (133),a
 52.2601669,-7.1397017,2,Chestnut Grove (147),a
 52.2601669,-7.1170973,2,Ballybricken (776),a
 52.2601669,-7.1170973,2,Ballybricken (776),a
 52.2601673,-7.1080063,2,Cathedral Square (105),a
-52.2601681,-7.1130156,2,O'Brien's Terrace (003),a
+52.2601678,-7.1285128,2,Rathfadden Grove (676),a
+52.2601689,-7.1185587,2,Ballybricken (361),a
 52.2601689,-7.1185587,2,Ballybricken (361),a
 52.26017,-7.1458097,2,Paraid na bPaisti (009),a
+52.2601709,-7.116997,2,Ballybricken (790),a
 52.2601709,-7.116997,2,Ballybricken (790),a
 52.2601709,-7.1054132,2,The Mall (629),a
 52.2601752,-7.1285147,2,Rathfadden Grove (675),a
@@ -18394,11 +18374,18 @@ lat,lon,sz,names,len_cat
 52.2601845,-7.1168336,2,Ballybricken (570),a
 52.2601845,-7.1168336,2,Ballybricken (570),a
 52.2601845,-7.1168336,2,Ballybricken (785),a
+52.2601845,-7.1168336,2,Ballybricken (816),a
 52.2601854,-7.1171086,2,Ballybricken (775),a
+52.2601854,-7.1169349,2,Ballybricken (788),a
+52.2601854,-7.1169349,2,Ballybricken (788),a
 52.2601864,-7.1285168,2,Rathfadden Grove (674),a
+52.260188,-7.1168663,2,Ballybricken (786),a
+52.260188,-7.1168663,2,Ballybricken (786),a
+52.2601885,-7.1169001,2,Ballybricken (787),a
 52.2601885,-7.1169001,2,Ballybricken (787),a
 52.2601887,-7.1278543,2,Rathfadden Grove (683),a
 52.2601887,-7.1278543,2,Rathfadden Villas (973),a
+52.2601913,-7.1080097,2,Henrietta Street (922),a
 52.2602,-7.138168,2,Pinewood Avenue (128),a
 52.2602011,-7.1267369,2,Cathal Brugha Street (144),a
 52.2602035,-7.1383026,2,Pinewood Avenue (130),a
@@ -18409,41 +18396,51 @@ lat,lon,sz,names,len_cat
 52.2602103,-7.1080136,2,Henrietta Street (905),a
 52.2602117,-7.1383695,2,Pinewood Avenue (131),a
 52.2602141,-7.1380092,2,Oakwood (469),a
+52.260215,-7.1170083,2,Ballybricken (815),a
+52.2602151,-7.1269701,2,Ozanam Street (027),a
 52.2602167,-7.1171383,2,Ballybricken (773),a
 52.2602168,-7.1185579,2,Ballybricken (362),a
+52.2602168,-7.1185579,2,Ballybricken (362),a
 52.260218,-7.1080151,2,Henrietta Street (921),a
-52.2602232,-7.1130109,2,O'Brien's Terrace (002),a
 52.2602262,-7.1506121,2,Carrickphierish Road (828),a
 52.2602272,-7.1379254,2,Pinewood Avenue (125),a
 52.260228,-7.1171545,2,Ballybricken (772),a
 52.260228,-7.1171545,2,Ballybricken (772),a
-52.2602294,-7.1134045,2,Carrigeen Park (134),a
+52.2602301,-7.1051382,2,The Mall (550),a
 52.2602301,-7.1051382,2,The Mall (550),a
 52.2602316,-7.1171013,2,Ballybricken (814),a
+52.2602316,-7.1171013,2,Ballybricken (814),a
 52.2602317,-7.1041034,2,Adelphi Quay (656),a
+52.2602391,-7.1171748,2,Ballybricken (771),a
 52.2602426,-7.1053393,2,The Mall (630),a
 52.2602426,-7.1053393,2,The Mall (630),a
 52.2602441,-7.137842,2,Pinewood Avenue (124),a
 52.2602447,-7.1068993,2,Bailey's New Street (841),a
 52.2602448,-7.107184,2,Chairman's Arch (572),a
+52.2602453,-7.1267261,2,Cathal Brugha Street (145),a
 52.2602456,-7.1069271,2,Bailey's New Street (842),a
 52.2602474,-7.145971,2,Paraid na bPaisti (008),a
+52.2602484,-7.117199,2,Ballybricken (770),a
 52.2602484,-7.117199,2,Ballybricken (770),a
 52.2602487,-7.1071168,2,Greyfriars (183),a
 52.260249,-7.1069534,2,Bailey's New Street (843),a
 52.2602519,-7.1394224,2,Pinewood Avenue (864),a
 52.260253,-7.1066182,2,Bailey's New Street (840),a
-52.2602551,-7.1130092,2,O'Brien's Terrace (001),a
 52.2602553,-7.1072449,2,Chairman's Arch (207),a
+52.2602555,-7.1080229,2,Henrietta Street (920),a
 52.2602555,-7.1069805,2,Bailey's New Street (844),a
 52.2602556,-7.1172277,2,Ballybricken (745),a
 52.2602556,-7.1172277,2,Ballybricken (745),a
+52.2602556,-7.1172277,2,Ballybricken (769),a
+52.2602556,-7.1172277,2,Ballybricken (813),a
+52.2602558,-7.1073617,2,Chairman's Arch (208),a
 52.2602589,-7.1065188,2,Bailey's New Street (927),a
 52.2602589,-7.1065188,2,Bailey's New Street (927),a
 52.2602631,-7.1297379,2,Congress Place (035),a
 52.2602631,-7.1297379,2,Congress Place (035),a
 52.2602632,-7.1064454,2,Bailey's New Street (839),a
 52.2602632,-7.1064454,2,Bailey's New Street (839),a
+52.2602666,-7.1185544,2,Ballybricken (363),a
 52.2602666,-7.1185544,2,Ballybricken (363),a
 52.2602688,-7.1050898,2,The Mall (548),a
 52.2602698,-7.1063757,2,Bailey's New Street (838),a
@@ -18454,16 +18451,20 @@ lat,lon,sz,names,len_cat
 52.2602765,-7.1070379,2,Greyfriars (203),a
 52.2602765,-7.1070379,2,Greyfriars (495),a
 52.2602792,-7.1063179,2,Bailey's New Street (837),a
+52.2602792,-7.1063179,2,Bailey's New Street (837),a
 52.2602863,-7.139399,2,Pinewood Avenue (863),a
 52.2602864,-7.1173897,2,Ballybricken (743),a
 52.2602864,-7.1173897,2,Ballybricken (743),a
 52.2602866,-7.1070314,2,Greyfriars (204),a
+52.260289,-7.1272423,2,Ozanam Street (031),a
 52.2602931,-7.1062637,2,Bailey's New Street (836),a
 52.2602931,-7.1062637,2,Bailey's New Street (836),a
 52.2602933,-7.146035,2,Paraid na bPaisti (449),a
+52.2602942,-7.1267212,2,Cathal Brugha Street (146),a
+52.2602955,-7.1080295,2,Henrietta Street (919),a
 52.2602957,-7.1174341,2,Ballybricken (742),a
 52.2602957,-7.1174341,2,Ballybricken (742),a
-52.2602964,-7.1134087,2,Carrigeen Park (135),a
+52.2602992,-7.1285304,2,Rathfadden Grove (673),a
 52.2603013,-7.1050562,2,The Mall (547),a
 52.2603019,-7.1234343,2,Military Road (315),a
 52.2603026,-7.1185483,2,Ballybricken (364),a
@@ -18475,6 +18476,7 @@ lat,lon,sz,names,len_cat
 52.2603122,-7.1620143,2,Knockhouse Road (696),a
 52.2603136,-7.1175096,2,Ballybricken (740),a
 52.260322,-7.1175389,2,Ballybricken (739),a
+52.260322,-7.1175389,2,Ballybricken (739),a
 52.260322,-7.1175389,2,Wellington Street (779),a
 52.260322,-7.1175389,2,Wellington Street (779),a
 52.260325,-7.1393655,2,Pinewood Avenue (862),a
@@ -18483,8 +18485,11 @@ lat,lon,sz,names,len_cat
 52.2603313,-7.1061613,2,Bailey's New Street (834),a
 52.2603313,-7.1061613,2,Bailey's New Street (834),a
 52.2603324,-7.1052541,2,The Mall (631),a
+52.2603324,-7.1052541,2,The Mall (631),a
 52.2603342,-7.1175741,2,Ballybricken (738),a
 52.260336,-7.1050295,2,The Mall (545),a
+52.260336,-7.1050295,2,The Mall (545),a
+52.2603396,-7.1185371,2,Ballybricken (365),a
 52.2603396,-7.1185371,2,Ballybricken (365),a
 52.2603437,-7.1460915,2,Paraid na bPaisti (448),a
 52.2603441,-7.1391172,2,Pinewood Avenue (132),a
@@ -18493,6 +18498,7 @@ lat,lon,sz,names,len_cat
 52.2603605,-7.1275242,2,Ozanam Street (030),a
 52.2603618,-7.1392522,2,Pinewood Avenue (134),a
 52.2603627,-7.1060914,2,Bailey's New Street (833),a
+52.2603666,-7.1176517,2,Ballybricken (736),a
 52.2603672,-7.1185246,2,Ballybricken (366),a
 52.2603672,-7.1185246,2,Ballybricken (366),a
 52.2603678,-7.1393203,2,Pinewood Avenue (452),a
@@ -18506,6 +18512,8 @@ lat,lon,sz,names,len_cat
 52.2603832,-7.146128,2,Paraid na bPaisti (447),a
 52.2603833,-7.1052082,2,The Mall (633),a
 52.2603866,-7.130533,2,Rathfadden Park (393),a
+52.2603866,-7.130533,2,Rathfadden Park (393),a
+52.2603905,-7.1177008,2,Ballybricken (735),a
 52.2603953,-7.118507,2,Ballybricken (367),a
 52.2603953,-7.118507,2,Ballybricken (367),a
 52.2604032,-7.1618045,2,Knockhouse Road (520),a
@@ -18518,6 +18526,7 @@ lat,lon,sz,names,len_cat
 52.2604219,-7.1184849,2,Ballybricken (249),a
 52.2604219,-7.1184849,2,Ballybricken (249),a
 52.2604219,-7.1184849,2,Ballybricken (368),a
+52.2604219,-7.1184849,2,Ballybricken (368),a
 52.2604219,-7.1184849,2,Morgan Street (510),a
 52.2604219,-7.1184849,2,Morgan Street (510),a
 52.2604224,-7.1306723,2,Highfield Park (379),a
@@ -18526,7 +18535,7 @@ lat,lon,sz,names,len_cat
 52.2604246,-7.1059666,2,Bailey's New Street (926),a
 52.2604246,-7.1059666,2,Bailey's New Street (926),a
 52.2604256,-7.1363014,2,Hawthorn Drive (683),a
-52.2604271,-7.1134364,2,Carrigeen Park (137),a
+52.2604291,-7.1051829,2,The Mall (637),a
 52.2604291,-7.1051829,2,The Mall (637),a
 52.2604316,-7.1306444,2,Highfield Park (378),a
 52.2604319,-7.1059519,2,Bailey's New Street (832),a
@@ -18537,17 +18546,20 @@ lat,lon,sz,names,len_cat
 52.2604403,-7.1305705,2,Rathfadden Park (390),a
 52.2604403,-7.1305705,2,Rathfadden Park (390),a
 52.2604425,-7.1177978,2,Ballybricken (734),a
+52.2604425,-7.1177978,2,Ballybricken (734),a
 52.2604435,-7.1184628,2,Ballybricken (228),a
 52.2604435,-7.1184628,2,Ballybricken (228),a
 52.2604438,-7.1278912,2,Ozanam Street (011),a
 52.2604438,-7.1278912,2,Rathfadden Villas (972),a
 52.2604447,-7.1045715,2,Adelphi Quay (653),a
+52.2604451,-7.1186058,2,Morgan Street (508),a
 52.2604466,-7.1050112,2,The Mall (540),a
 52.2604489,-7.1051758,2,Custom House Parade (892),a
 52.2604489,-7.1051758,2,Custom House Parade (894),a
 52.2604489,-7.1051758,2,Parade Quay (014),a
 52.2604489,-7.1051758,2,The Mall (639),a
 52.2604489,-7.1051758,2,The Mall (639),a
+52.2604496,-7.1306061,2,Highfield Park (376),a
 52.2604496,-7.1306061,2,Highfield Park (376),a
 52.2604522,-7.1461755,2,Paraid na bPaisti (007),a
 52.2604558,-7.1186722,2,Morgan Street (507),a
@@ -18557,8 +18569,8 @@ lat,lon,sz,names,len_cat
 52.260461,-7.1046146,2,Adelphi Quay (650),a
 52.2604611,-7.1616915,2,Knockhouse Road (699),a
 52.2604644,-7.1279755,2,Ozanam Street (012),a
+52.2604671,-7.1187486,2,Morgan Street (506),a
 52.2604671,-7.1187486,2,Morgan Street (525),a
-52.2604695,-7.1134535,2,Carrigeen Park (138),a
 52.2604711,-7.130584,2,Rathfadden Park (389),a
 52.2604711,-7.130584,2,Rathfadden Park (389),a
 52.2604716,-7.1050215,2,Adelphi Quay (638),a
@@ -18582,6 +18594,7 @@ lat,lon,sz,names,len_cat
 52.2604828,-7.1049443,2,Adelphi Quay (639),a
 52.2604837,-7.1501401,2,Carrickphierish Road (208),a
 52.2604845,-7.1305762,2,Rathfadden Park (388),a
+52.2604845,-7.1305762,2,Rathfadden Park (388),a
 52.2604851,-7.107004,2,Greyfriars (209),a
 52.2604861,-7.1280664,2,Dominick Place (070),a
 52.2604861,-7.1280664,2,Ozanam Street (013),a
@@ -18594,16 +18607,20 @@ lat,lon,sz,names,len_cat
 52.2604941,-7.1051821,2,Parade Quay (016),a
 52.2604941,-7.1051821,2,Parade Quay (016),a
 52.2604951,-7.1178895,2,Ballybricken (733),a
+52.2604951,-7.1178895,2,Ballybricken (733),a
 52.2604956,-7.1048396,2,Adelphi Quay (642),a
 52.2604956,-7.1048396,2,Adelphi Quay (642),a
 52.2604959,-7.1047516,2,Adelphi Quay (644),a
 52.2604967,-7.1083807,2,High Street (765),a
 52.2604969,-7.1084474,2,High Street (753),a
 52.2604973,-7.1047956,2,Adelphi Quay (643),a
+52.2604973,-7.1047956,2,Adelphi Quay (643),a
 52.2604999,-7.1461981,2,Paraid na bPaisti (445),a
 52.2605007,-7.1082075,2,High Street (763),a
 52.2605015,-7.1080361,2,Henrietta Street (914),a
+52.2605015,-7.1080361,2,High Street (761),a
 52.260502,-7.1081293,2,High Street (762),a
+52.2605026,-7.1183896,2,Ballybricken (230),a
 52.2605026,-7.1183896,2,Ballybricken (230),a
 52.2605028,-7.1085982,2,High Street (756),a
 52.2605049,-7.1305675,2,Rathfadden Park (387),a
@@ -18614,10 +18631,15 @@ lat,lon,sz,names,len_cat
 52.2605142,-7.1051897,2,Parade Quay (017),a
 52.2605155,-7.1087149,2,High Street (758),a
 52.260517,-7.1080338,2,Henrietta Street (839),a
+52.2605216,-7.1282473,2,Ozanam Street (016),a
 52.2605217,-7.161596,2,Knockhouse Road (701),a
+52.2605254,-7.1191923,2,Morgan Street (524),a
 52.2605255,-7.1280379,2,Dominick Place (074),a
 52.2605319,-7.105073,2,Parade Quay (756),a
+52.2605348,-7.1283383,2,Ozanam Street (022),a
 52.2605367,-7.1052117,2,Parade Quay (018),a
+52.2605384,-7.1080306,2,Henrietta Street (913),a
+52.2605388,-7.118345,2,Ballybricken (231),a
 52.2605388,-7.118345,2,Ballybricken (721),a
 52.2605388,-7.118345,2,The Glen (232),a
 52.2605388,-7.118345,2,The Glen (232),a
@@ -18627,12 +18649,18 @@ lat,lon,sz,names,len_cat
 52.2605434,-7.1298038,2,Congress Place (034),a
 52.2605456,-7.1284333,2,Ozanam Street (020),a
 52.2605469,-7.1057391,2,Bailey's New Street (831),a
+52.2605469,-7.1057391,2,Bailey's New Street (831),a
 52.2605492,-7.1179847,2,Ballybricken (732),a
 52.2605492,-7.1179847,2,Ballybricken (732),a
 52.2605533,-7.1051004,2,Parade Quay (750),a
+52.2605533,-7.1051004,2,Parade Quay (750),a
 52.2605538,-7.1462177,2,Paraid na bPaisti (444),a
 52.2605579,-7.1183142,2,Ballybricken (722),a
+52.2605579,-7.1183142,2,Ballybricken (722),a
+52.2605582,-7.118325,2,The Glen (233),a
+52.2605603,-7.1194424,2,Morgan Street (523),a
 52.2605608,-7.1069968,2,Greyfriars (211),a
+52.2605624,-7.128627,2,Ozanam Street (017),a
 52.2605637,-7.1232234,2,Military Road (316),a
 52.260569,-7.1052547,2,Parade Quay (019),a
 52.260569,-7.1052547,2,Parade Quay (019),a
@@ -18640,6 +18668,7 @@ lat,lon,sz,names,len_cat
 52.2605721,-7.128015,2,Dominick Place (075),a
 52.2605728,-7.118284,2,Ballybricken (723),a
 52.2605728,-7.118284,2,Ballybricken (723),a
+52.2605751,-7.1195409,2,Morgan Street (522),a
 52.2605751,-7.1088479,2,Keyser Street (237),a
 52.2605751,-7.1080235,2,Henrietta Street (912),a
 52.2605756,-7.1183122,2,The Glen (234),a
@@ -18683,6 +18712,7 @@ lat,lon,sz,names,len_cat
 52.2606171,-7.1181094,2,Francis Street (946),a
 52.2606171,-7.1181094,2,Francis Street (946),a
 52.2606171,-7.1181094,2,The Glen (873),a
+52.2606171,-7.1181094,2,The Glen (873),a
 52.2606189,-7.1069892,2,Greyfriars (931),a
 52.2606193,-7.1088357,2,Keyser Street (238),a
 52.2606197,-7.127999,2,Dominick Place (073),a
@@ -18692,13 +18722,17 @@ lat,lon,sz,names,len_cat
 52.2606206,-7.1409184,2,Pinewood Drive (597),a
 52.2606213,-7.1051997,2,Parade Quay (866),a
 52.260622,-7.1182963,2,The Glen (236),a
+52.260622,-7.1182963,2,The Glen (236),a
 52.260631,-7.1053542,2,Parade Quay (022),a
 52.260631,-7.1053542,2,Parade Quay (022),a
+52.2606311,-7.1109265,2,Arundel Square (606),a
 52.2606363,-7.1052274,2,Parade Quay (865),a
 52.2606363,-7.1052274,2,Parade Quay (865),a
 52.2606375,-7.129544,2,Ozanam Street (019),a
 52.2606375,-7.129544,2,Ozanam Street (019),a
 52.2606376,-7.1180797,2,Francis Street (172),a
+52.2606376,-7.1180797,2,Francis Street (172),a
+52.2606426,-7.1303254,2,Ozanam Street (485),a
 52.2606426,-7.1303254,2,Ozanam Street (485),a
 52.2606427,-7.1304632,2,Ozanam Street (358),a
 52.2606427,-7.1304632,2,Ozanam Street (358),a
@@ -18715,14 +18749,18 @@ lat,lon,sz,names,len_cat
 52.2606511,-7.1182939,2,The Glen (237),a
 52.2606519,-7.1307022,2,Ozanam Street (362),a
 52.2606538,-7.1299859,2,Ozanam Street (484),a
+52.2606538,-7.1299859,2,Ozanam Street (484),a
 52.2606538,-7.1053933,2,Parade Quay (023),a
 52.2606538,-7.1053933,2,Parade Quay (023),a
 52.260654,-7.1088241,2,Keyser Street (239),a
 52.260654,-7.1080018,2,Henrietta Street (910),a
+52.2606547,-7.1199326,2,Morgan Street (517),a
 52.2606553,-7.105263,2,Parade Quay (864),a
+52.2606638,-7.1055468,2,Bailey's New Street (829),a
 52.2606638,-7.1055468,2,Bailey's New Street (829),a
 52.260665,-7.1298306,2,Congress Place (143),a
 52.260665,-7.1298306,2,Congress Place (143),a
+52.260665,-7.1298306,2,Dominick Place (840),a
 52.260665,-7.1298306,2,Dominick Place (840),a
 52.260665,-7.1298306,2,Ozanam Street (367),a
 52.260665,-7.1298306,2,Ozanam Street (367),a
@@ -18731,24 +18769,28 @@ lat,lon,sz,names,len_cat
 52.2606697,-7.1309789,2,Ozanam Street (864),a
 52.2606716,-7.1054302,2,Parade Quay (024),a
 52.2606716,-7.1054302,2,Parade Quay (024),a
+52.2606719,-7.118296,2,The Glen (238),a
 52.2606726,-7.1180326,2,Francis Street (944),a
 52.2606726,-7.1180326,2,Francis Street (944),a
 52.2606734,-7.1497229,2,Carrickphierish Road (209),a
 52.2606743,-7.1279919,2,Dominick Place (071),a
 52.2606746,-7.1172014,2,Wellington Street (472),a
 52.2606746,-7.1172014,2,Wellington Street (472),a
+52.2606787,-7.1095254,2,High Street (749),a
 52.2606798,-7.1053118,2,Parade Quay (863),a
 52.2606798,-7.1053118,2,Parade Quay (863),a
 52.2606855,-7.1200472,2,Morgan Street (516),a
 52.2606873,-7.1088115,2,Keyser Street (240),a
 52.2606889,-7.1182462,2,The Glen (872),a
 52.2606889,-7.1182462,2,The Glen (872),a
+52.2606895,-7.1095816,2,High Street (748),a
 52.2606914,-7.1183012,2,The Glen (239),a
 52.2606914,-7.1183012,2,The Glen (239),a
 52.2606927,-7.1312534,2,Ozanam Street (365),a
 52.2606927,-7.1312534,2,Ozanam Street (374),a
 52.2606954,-7.1313164,2,Ozanam Street (376),a
 52.2606977,-7.1096274,2,High Street (747),a
+52.2607,-7.1054927,2,Bailey's New Street (013),a
 52.2607,-7.1054927,2,Bailey's New Street (013),a
 52.2607,-7.1054927,2,Parade Quay (025),a
 52.2607041,-7.1096689,2,High Street (743),a
@@ -18759,11 +18801,9 @@ lat,lon,sz,names,len_cat
 52.260707,-7.1053671,2,Parade Quay (862),a
 52.2607072,-7.1179914,2,Francis Street (943),a
 52.2607072,-7.1179914,2,Francis Street (943),a
-52.26071,-7.1204697,2,Philip Street (804),a
 52.2607103,-7.1108711,2,Arundel Square (610),a
 52.2607107,-7.1183126,2,The Glen (240),a
 52.2607107,-7.1183126,2,The Glen (240),a
-52.2607147,-7.1201474,2,Morgan Street (515),a
 52.2607192,-7.140808,2,Pinewood Drive (852),a
 52.2607192,-7.140808,2,Pinewood Drive (852),a
 52.2607195,-7.1298414,2,Dominick Place (851),a
@@ -18776,7 +18816,6 @@ lat,lon,sz,names,len_cat
 52.2607328,-7.1054267,2,Parade Quay (205),a
 52.2607328,-7.1054267,2,Parade Quay (861),a
 52.2607392,-7.1232069,2,Oak Mews (484),a
-52.2607403,-7.1204566,2,Philip Street (805),a
 52.260741,-7.1179535,2,Francis Street (942),a
 52.260741,-7.1179535,2,Francis Street (942),a
 52.2607419,-7.1183447,2,The Glen (803),a
@@ -18784,17 +18823,18 @@ lat,lon,sz,names,len_cat
 52.2607419,-7.1183447,2,The Glen (871),a
 52.2607419,-7.1183447,2,The Glen (871),a
 52.2607419,-7.1183447,2,The Glen (883),a
+52.2607419,-7.1183447,2,The Glen (883),a
 52.2607452,-7.1230766,2,Military Road (317),a
+52.2607469,-7.1160265,2,Saint Patrick's Terrace (423),a
+52.2607546,-7.1100953,2,High Street (746),a
 52.2607546,-7.1100953,2,High Street (766),a
-52.260761,-7.1204466,2,Philip Street (806),a
 52.2607626,-7.105639,2,Parade Quay (031),a
 52.2607653,-7.1069585,2,Greyfriars (220),a
+52.2607686,-7.1232839,2,Oak Mews (483),a
 52.2607721,-7.1055139,2,Parade Quay (204),a
 52.2607721,-7.1055139,2,Parade Quay (204),a
 52.2607736,-7.1298468,2,Dominick Place (852),a
 52.2607736,-7.1298468,2,Dominick Place (852),a
-52.2607753,-7.1203418,2,Morgan Street (513),a
-52.2607796,-7.1204358,2,Philip Street (807),a
 52.2607832,-7.105703,2,Parade Quay (032),a
 52.2607835,-7.1184188,2,The Glen (882),a
 52.2607835,-7.1184188,2,The Glen (882),a
@@ -18804,19 +18844,17 @@ lat,lon,sz,names,len_cat
 52.2607913,-7.110748,2,Blackfriars Street (780),a
 52.2608009,-7.1233556,2,Oak Mews (482),a
 52.2608009,-7.1057687,2,Parade Quay (034),a
-52.2608019,-7.1204219,2,Morgan Street (512),a
-52.2608019,-7.1204219,2,Philip Street (808),a
 52.260808,-7.1056094,2,Parade Quay (203),a
 52.260808,-7.1056094,2,Parade Quay (203),a
 52.2608114,-7.1107073,2,Arundel Square (615),a
 52.2608145,-7.1298464,2,Dominick Place (841),a
+52.2608169,-7.1108077,2,Blackfriars Street (779),a
 52.2608173,-7.1106,2,High Street (768),a
 52.2608182,-7.1058356,2,Parade Quay (036),a
 52.2608186,-7.110676,2,Arundel Square (616),a
 52.2608194,-7.110621,2,Arundel Square (619),a
+52.2608194,-7.110621,2,Conduit Lane (487),a
 52.2608194,-7.110621,2,High Street (769),a
-52.2608209,-7.1204768,2,Morgan Street (608),a
-52.2608209,-7.1204768,2,The Glen (857),a
 52.260831,-7.123413,2,Oak Mews (481),a
 52.2608324,-7.1056833,2,Parade Quay (202),a
 52.2608324,-7.1056833,2,Parade Quay (202),a
@@ -18824,37 +18862,45 @@ lat,lon,sz,names,len_cat
 52.2608382,-7.1059203,2,Parade Quay (038),a
 52.2608382,-7.1059203,2,Parade Quay (038),a
 52.2608427,-7.1612041,2,Knockhouse Road (702),a
+52.2608441,-7.106939,2,Coffee House Lane (805),a
 52.2608502,-7.118541,2,The Glen (881),a
-52.2608539,-7.120571,2,Morgan Street (860),a
+52.2608502,-7.118541,2,The Glen (881),a
+52.2608519,-7.1106052,2,Conduit Lane (488),a
 52.2608547,-7.1109203,2,Blackfriars Street (777),a
+52.2608552,-7.1060087,2,Parade Quay (039),a
 52.2608552,-7.1060087,2,Parade Quay (039),a
 52.2608575,-7.1057781,2,Parade Quay (201),a
 52.2608575,-7.1057781,2,Parade Quay (201),a
 52.2608589,-7.1491974,2,Carrickphierish Road (832),a
+52.2608597,-7.1298376,2,Dominick Place (854),a
+52.2608645,-7.1279935,2,Dominick Place (078),a
 52.2608655,-7.1234683,2,Oak Mews (480),a
 52.2608691,-7.1109774,2,Blackfriars Street (776),a
 52.2608703,-7.1071616,2,Coffee House Lane (806),a
 52.2608736,-7.1061204,2,Parade Quay (040),a
 52.2608773,-7.1110205,2,Blackfriars Street (775),a
 52.2608827,-7.1110486,2,Blackfriars Street (774),a
-52.2608875,-7.1206633,2,Morgan Street (862),a
 52.2608934,-7.1073409,2,Coffee House Lane (807),a
+52.2608936,-7.1059283,2,Parade Quay (200),a
 52.2608936,-7.1059283,2,Parade Quay (200),a
 52.2608968,-7.1069255,2,Greyfriars (225),a
 52.2608995,-7.1186272,2,The Glen (880),a
 52.2608995,-7.1186272,2,The Glen (880),a
 52.2609002,-7.1062892,2,Parade Quay (042),a
+52.2609002,-7.1062892,2,Parade Quay (042),a
 52.2609025,-7.129821,2,Dominick Place (848),a
 52.2609071,-7.1111999,2,Blackfriars Street (773),a
+52.2609075,-7.1235381,2,Oak Mews (479),a
 52.2609093,-7.1377874,2,Crescent Drive (678),a
 52.2609097,-7.1063569,2,Parade Quay (719),a
 52.2609121,-7.1169741,2,Wellington Street (408),a
 52.2609121,-7.1169741,2,Wellington Street (408),a
 52.2609163,-7.1074987,2,Coffee House Lane (808),a
 52.2609238,-7.1169652,2,Wellington Street (409),a
+52.2609238,-7.1169652,2,Wellington Street (409),a
 52.2609242,-7.1489744,2,Carrickphierish Road (211),a
 52.2609248,-7.1087064,2,Keyser Street (241),a
-52.2609252,-7.1207656,2,Morgan Street (861),a
+52.2609262,-7.1064735,2,Parade Quay (043),a
 52.2609262,-7.1064735,2,Parade Quay (043),a
 52.2609276,-7.1060974,2,Parade Quay (199),a
 52.2609276,-7.1060974,2,Parade Quay (199),a
@@ -18865,6 +18911,7 @@ lat,lon,sz,names,len_cat
 52.2609363,-7.1061452,2,Parade Quay (859),a
 52.2609363,-7.1061452,2,Parade Quay (859),a
 52.2609363,-7.1061452,2,Parade Quay (862),a
+52.260937,-7.1076298,2,Coffee House Lane (809),a
 52.2609414,-7.1105679,2,Conduit Lane (490),a
 52.2609419,-7.1169561,2,Margaret's Avenue (588),a
 52.2609419,-7.1169561,2,Margaret's Avenue (588),a
@@ -18877,15 +18924,20 @@ lat,lon,sz,names,len_cat
 52.2609541,-7.1378082,2,Crescent Drive (679),a
 52.2609577,-7.1069086,2,Greyfriars (227),a
 52.2609583,-7.1077476,2,Coffee House Lane (627),a
+52.2609599,-7.1169667,2,Margaret's Avenue (404),a
 52.2609609,-7.1067039,2,Parade Quay (045),a
 52.2609609,-7.1067039,2,Parade Quay (045),a
 52.2609619,-7.1236318,2,Oak Mews (478),a
+52.2609654,-7.1169752,2,Margaret's Avenue (403),a
+52.2609683,-7.1187344,2,The Glen (878),a
 52.2609724,-7.1487894,2,Carrickphierish Road (833),a
+52.2609733,-7.1208939,2,Morgan Street (859),a
 52.2609733,-7.1208939,2,Morgan Street (863),a
 52.2609736,-7.1063499,2,Parade Quay (860),a
 52.2609736,-7.1063499,2,Parade Quay (860),a
 52.2609739,-7.1169925,2,Margaret's Avenue (402),a
 52.2609739,-7.1169925,2,Margaret's Avenue (402),a
+52.2609817,-7.1078767,2,Coffee House Lane (811),a
 52.2609817,-7.1078767,2,Henrietta Street (906),a
 52.2609841,-7.1170176,2,Margaret's Avenue (400),a
 52.2609841,-7.1170176,2,Margaret's Avenue (400),a
@@ -18901,19 +18953,17 @@ lat,lon,sz,names,len_cat
 52.2610102,-7.1228587,2,Military Road (318),a
 52.2610133,-7.1237333,2,Oak Mews (477),a
 52.2610176,-7.1485994,2,Carrickphierish Road (212),a
-52.2610201,-7.1151948,2,King's Terrace (540),a
-52.2610212,-7.1150864,2,King's Terrace (541),a
-52.2610231,-7.1202784,2,The Glen (860),a
-52.2610246,-7.1153218,2,Barker Street (645),a
-52.2610246,-7.1153218,2,King's Terrace (537),a
-52.2610247,-7.1149769,2,King's Terrace (542),a
-52.2610304,-7.1148752,2,King's Terrace (543),a
+52.2610286,-7.1188147,2,The Glen (876),a
+52.2610309,-7.1070983,2,Custom House Quay (192),a
+52.2610327,-7.1297105,2,Dominick Place (849),a
 52.2610327,-7.1297105,2,Dominick Place (849),a
 52.261033,-7.1267051,2,Cathal Brugha Street (529),a
 52.261038,-7.1378409,2,Crescent Drive (680),a
+52.2610538,-7.1267043,2,Cathal Brugha Street (147),a
 52.2610573,-7.1280057,2,Dominick Place (072),a
-52.2610585,-7.12024,2,The Glen (807),a
+52.2610589,-7.1238323,2,Oak Mews (476),a
 52.2610591,-7.1078394,2,Henrietta Street (628),a
+52.2610604,-7.1188514,2,The Glen (875),a
 52.2610637,-7.1483845,2,Carrickphierish Road (834),a
 52.2610671,-7.1267007,2,Cathal Brugha Street (148),a
 52.2610706,-7.1384665,2,Oakwood (135),a
@@ -18921,38 +18971,43 @@ lat,lon,sz,names,len_cat
 52.2610773,-7.1068721,2,Custom House Quay (939),a
 52.2610773,-7.1068721,2,Parade Quay (861),a
 52.2610789,-7.1608932,2,Knockhouse Road (522),a
-52.2610799,-7.1155676,2,Barker Street (642),a
 52.2610808,-7.1266922,2,Cathal Brugha Street (149),a
 52.2610815,-7.1378541,2,Crescent Drive (040),a
+52.2610834,-7.1073721,2,Custom House Quay (193),a
 52.2610856,-7.1384764,2,Oakwood (136),a
+52.2610938,-7.118887,2,The Glen (874),a
 52.2610938,-7.118887,2,The Glen (886),a
-52.2610938,-7.118887,2,Thomas Street (799),a
 52.2610949,-7.1266794,2,Cathal Brugha Street (150),a
+52.2610963,-7.1239197,2,Oak Mews (475),a
 52.2611016,-7.107464,2,Custom House Quay (194),a
-52.2611033,-7.1202717,2,Glen Terrace (645),a
 52.2611037,-7.1481696,2,Carrickphierish Road (213),a
 52.2611037,-7.129618,2,Dominick Place (843),a
 52.2611037,-7.129618,2,Dominick Place (843),a
 52.2611086,-7.1385017,2,Oakwood (138),a
 52.2611112,-7.1608343,2,Knockhouse Road (707),a
+52.261113,-7.1266572,2,Cathal Brugha Street (151),a
 52.2611162,-7.1385201,2,Oakwood (139),a
-52.2611167,-7.1203065,2,Glen Terrace (646),a
 52.261118,-7.1070851,2,Custom House Quay (938),a
 52.2611209,-7.1385385,2,Oakwood (140),a
 52.2611248,-7.138559,2,Oak Drive (656),a
 52.2611248,-7.138559,2,Oakwood (471),a
-52.2611256,-7.1159574,2,Saint Patrick's Terrace (419),a
 52.2611283,-7.1189212,2,The Glen (885),a
 52.2611305,-7.1386206,2,Oak Drive (658),a
+52.2611332,-7.1076179,2,Custom House Quay (195),a
 52.2611336,-7.1213391,2,Morgan Street (498),a
 52.2611375,-7.1607712,2,Knockhouse Road (710),a
 52.2611406,-7.1479125,2,Carrickphierish Road (835),a
 52.2611431,-7.1072204,2,Custom House Quay (940),a
+52.2611431,-7.1072204,2,Custom House Quay (943),a
 52.2611468,-7.1190547,2,The Glen (396),a
+52.2611478,-7.1190805,2,The Glen (395),a
 52.2611479,-7.1190287,2,The Glen (397),a
 52.2611486,-7.1077945,2,Henrietta Street (903),a
 52.2611487,-7.1388591,2,Oak Drive (659),a
 52.2611498,-7.1072566,2,Custom House Quay (941),a
+52.2611502,-7.1191046,2,The Glen (394),a
+52.2611513,-7.1190021,2,The Glen (398),a
+52.2611539,-7.119129,2,The Glen (393),a
 52.2611563,-7.1189776,2,The Glen (399),a
 52.2611575,-7.1390003,2,Oak Drive (657),a
 52.2611575,-7.1390003,2,Oak Grove (148),a
@@ -18970,15 +19025,16 @@ lat,lon,sz,names,len_cat
 52.2611641,-7.1392381,2,Oak Drive (660),a
 52.2611654,-7.1191767,2,The Glen (391),a
 52.2611667,-7.1476604,2,Carrickphierish Road (214),a
+52.2611674,-7.1175254,2,Francis Street (941),a
 52.2611674,-7.1175254,2,Margaret's Avenue (587),a
 52.2611674,-7.1175254,2,Margaret's Avenue (587),a
-52.2611674,-7.1159013,2,Barker Street (639),a
 52.2611675,-7.1077853,2,Custom House Quay (340),a
 52.2611675,-7.1077853,2,Custom House Quay (420),a
 52.2611675,-7.1077853,2,Henrietta Street (504),a
+52.2611675,-7.1077853,2,Henrietta Street (902),a
+52.2611713,-7.1085914,2,Keyser Street (243),a
+52.2611713,-7.1085914,2,Keyser Street (244),a
 52.2611724,-7.1396402,2,Oak Drive (663),a
-52.2611779,-7.1159581,2,Barker Street (265),a
-52.2611779,-7.1159581,2,Barker Street (676),a
 52.2611784,-7.1396938,2,Oak Drive (624),a
 52.2611784,-7.1396938,2,Oak Drive (932),a
 52.2611815,-7.1294926,2,Dominick Place (850),a
@@ -18988,19 +19044,18 @@ lat,lon,sz,names,len_cat
 52.2611892,-7.1473901,2,Carrickphierish Road (836),a
 52.2611899,-7.1605905,2,Knockhouse Road (954),a
 52.2611948,-7.1389949,2,Oak Grove (149),a
-52.2611958,-7.1159662,2,Barker Street (675),a
 52.2612041,-7.1471173,2,Carrickphierish Road (215),a
 52.2612049,-7.1398176,2,Oak Drive (933),a
-52.2612096,-7.1200588,2,Glen Cottage (802),a
+52.261212,-7.1193357,2,The Glen (390),a
 52.2612174,-7.1604672,2,Knockhouse Road (955),a
 52.261218,-7.1467306,2,Carrickphierish Road (837),a
 52.2612217,-7.1389886,2,Oak Grove (150),a
 52.2612243,-7.1398785,2,Oak Drive (934),a
+52.2612286,-7.1216011,2,Morgan Street (497),a
 52.2612289,-7.1085537,2,Keyser Street (250),a
 52.2612297,-7.1463637,2,Carrickphierish Road (216),a
 52.2612297,-7.1463637,2,Paraid na bPaisti (443),a
 52.2612315,-7.1194095,2,The Glen (389),a
-52.261237,-7.1201393,2,Glen Cottage (801),a
 52.2612402,-7.146111,2,Carrickphierish Road (838),a
 52.2612429,-7.1603348,2,Knockhouse Road (550),a
 52.2612429,-7.1603348,2,Knockhouse Road (568),a
@@ -19013,7 +19068,7 @@ lat,lon,sz,names,len_cat
 52.2612579,-7.140981,2,Oak Drive (312),a
 52.2612626,-7.1293547,2,Dominick Place (847),a
 52.261263,-7.1083521,2,Custom House Quay (982),a
-52.2612686,-7.1195794,2,The Glen (387),a
+52.261265,-7.1083979,2,Custom House Quay (983),a
 52.2612686,-7.108204,2,Custom House Quay (111),a
 52.2612692,-7.1083073,2,Custom House Quay (977),a
 52.2612692,-7.1083073,2,Custom House Quay (981),a
@@ -19034,24 +19089,19 @@ lat,lon,sz,names,len_cat
 52.2613051,-7.1369337,2,Hawthorn Drive (496),a
 52.2613051,-7.1369337,2,Hawthorn Drive (696),a
 52.2613051,-7.1369337,2,Hawthorn Grove (311),a
-52.2613075,-7.1208955,2,Glen Terrace (648),a
 52.261311,-7.1085003,2,Custom House Quay (174),a
 52.261311,-7.1085003,2,Keyser Street (170),a
+52.2613126,-7.1093055,2,Exchange Street (047),a
 52.2613129,-7.1080053,2,Custom House Quay (931),a
+52.2613129,-7.1080053,2,Custom House Quay (937),a
 52.2613146,-7.1085046,2,Coal Quay (978),a
 52.2613195,-7.1453804,2,Carrickphierish Road (839),a
-52.26132,-7.1162184,2,Barker Street (671),a
-52.2613205,-7.1198433,2,The Glen (865),a
 52.261321,-7.1243224,2,Oak Mews (474),a
 52.2613225,-7.1225982,2,Military Road (319),a
 52.2613225,-7.1225982,2,Military Road (324),a
 52.2613266,-7.1292326,2,Dominick Place (855),a
 52.2613279,-7.1218756,2,Morgan Street (496),a
-52.2613288,-7.1204094,2,Glen Cottage (800),a
 52.2613293,-7.1389286,2,Oak Grove (154),a
-52.2613298,-7.1199144,2,The Glen (804),a
-52.2613298,-7.1199144,2,The Glen (808),a
-52.2613298,-7.1199144,2,The Glen (887),a
 52.2613309,-7.1400356,2,Oak Drive (938),a
 52.2613344,-7.1225875,2,Military Road (325),a
 52.2613354,-7.1085312,2,Coal Quay (979),a
@@ -19059,8 +19109,10 @@ lat,lon,sz,names,len_cat
 52.2613468,-7.1081516,2,Custom House Quay (935),a
 52.2613497,-7.1280316,2,Dominick Place (076),a
 52.2613498,-7.1085552,2,Coal Quay (113),a
+52.2613537,-7.1225678,2,Military Road (327),a
 52.2613557,-7.1389029,2,Oak Grove (155),a
 52.2613624,-7.1225572,2,Military Road (328),a
+52.2613628,-7.1085874,2,Coal Quay (114),a
 52.2613683,-7.10819,2,Custom House Quay (934),a
 52.2613684,-7.1400644,2,Oak Drive (318),a
 52.2613705,-7.1225468,2,Military Road (329),a
@@ -19072,17 +19124,21 @@ lat,lon,sz,names,len_cat
 52.2613848,-7.1290997,2,Dominick Place (857),a
 52.261385,-7.1594529,2,Knockhouse Road (552),a
 52.2613899,-7.1086796,2,Coal Quay (115),a
+52.2613953,-7.1191628,2,The Glen (868),a
 52.2613967,-7.1225069,2,Military Road (331),a
-52.2614018,-7.1211834,2,Glen Terrace (649),a
 52.261404,-7.1280405,2,Dominick Place (077),a
 52.2614078,-7.1593282,2,Knockhouse Road (938),a
+52.2614104,-7.1082234,2,Custom House Quay (421),a
 52.2614158,-7.1087944,2,Coal Quay (360),a
+52.2614158,-7.1087944,2,Coal Quay (887),a
+52.2614163,-7.1221259,2,Morgan Street (495),a
 52.2614166,-7.122472,2,Military Road (332),a
 52.2614276,-7.1401085,2,Oak Drive (939),a
 52.2614284,-7.1082513,2,Custom House Quay (483),a
 52.2614286,-7.1447877,2,Carrickphierish Road (840),a
 52.2614319,-7.1592386,2,Knockhouse Road (939),a
 52.2614335,-7.1289702,2,Dominick Place (844),a
+52.2614387,-7.1084931,2,Coal Quay (928),a
 52.2614395,-7.108536,2,Coal Quay (929),a
 52.2614406,-7.1224274,2,Military Road (333),a
 52.2614425,-7.1103977,2,Conduit Lane (493),a
@@ -19091,6 +19147,7 @@ lat,lon,sz,names,len_cat
 52.2614449,-7.1082867,2,Custom House Quay (482),a
 52.2614467,-7.1280528,2,Dominick Place (427),a
 52.2614467,-7.1280528,2,Dominick Place (431),a
+52.2614467,-7.1280528,2,Dominick Place (766),a
 52.261447,-7.1084315,2,Coal Quay (930),a
 52.2614479,-7.1086091,2,Coal Quay (926),a
 52.2614518,-7.1084161,2,Custom House Quay (479),a
@@ -19100,9 +19157,8 @@ lat,lon,sz,names,len_cat
 52.2614571,-7.1083725,2,Custom House Quay (480),a
 52.2614601,-7.1591584,2,Knockhouse Road (553),a
 52.2614675,-7.1261939,2,Airmount Villas (457),a
-52.2614753,-7.1208473,2,Glen Cottage (798),a
+52.2614675,-7.1261939,2,Cathal Brugha Street (152),a
 52.2614812,-7.1288332,2,Dominick Place (856),a
-52.2614826,-7.1197203,2,The Glen (889),a
 52.2614865,-7.1399326,2,Oak Close (861),a
 52.2614879,-7.1223345,2,Gracedieu Road (528),a
 52.2614879,-7.1223345,2,Military Road (334),a
@@ -19113,13 +19169,14 @@ lat,lon,sz,names,len_cat
 52.2615096,-7.128045,2,Dominick Place (571),a
 52.2615096,-7.1103729,2,Conduit Lane (494),a
 52.261512,-7.1091915,2,Coal Quay (912),a
-52.2615293,-7.1196572,2,The Glen (890),a
 52.2615385,-7.1589875,2,Knockhouse Road (554),a
 52.2615396,-7.122233,2,Summerhill (806),a
 52.2615407,-7.140181,2,Oak Drive (941),a
 52.2615462,-7.1281155,2,Dominick Place (765),a
-52.2615467,-7.1210634,2,Glen Cottage (797),a
+52.2615474,-7.1090472,2,Coal Quay (218),a
+52.261549,-7.128629,2,Dominick Place (846),a
 52.261567,-7.1442843,2,Carrickphierish Road (841),a
+52.2615679,-7.1225696,2,Gracedieu Road (527),a
 52.2615693,-7.1280303,2,Dominick Place (570),a
 52.2615784,-7.141424,2,Oak Drive (858),a
 52.2615784,-7.141424,2,Oak Drive (858),a
@@ -19127,13 +19184,12 @@ lat,lon,sz,names,len_cat
 52.2615803,-7.1370762,2,Hawthorn Drive (779),a
 52.2615817,-7.1094558,2,Coal Quay (892),a
 52.2615982,-7.1103315,2,Conduit Lane (496),a
-52.2616027,-7.1195451,2,The Glen (892),a
 52.2616085,-7.1414607,2,Oak Drive (857),a
 52.2616085,-7.1414607,2,Oak Drive (857),a
 52.2616141,-7.1284357,2,Dominick Place (845),a
 52.2616276,-7.1280099,2,Dominick Place (569),a
+52.2616364,-7.128201,2,Dominick Place (076),a
 52.2616371,-7.1107122,2,Cathedral Lane (066),a
-52.2616375,-7.1194868,2,The Glen (893),a
 52.2616381,-7.1103091,2,Conduit Lane (497),a
 52.2616384,-7.1379561,2,Crescent Drive (255),a
 52.2616422,-7.141493,2,Oak Drive (856),a
@@ -19141,18 +19197,11 @@ lat,lon,sz,names,len_cat
 52.2616428,-7.1440599,2,Carrickphierish Road (220),a
 52.2616432,-7.1094178,2,Coal Quay (222),a
 52.2616476,-7.1402451,2,Oak Drive (944),a
-52.2616509,-7.1170647,2,Barker Street (264),a
-52.2616509,-7.1170647,2,Barker Street (264),a
-52.2616509,-7.1170647,2,Francis Street (940),a
 52.2616514,-7.1107907,2,Cathedral Lane (068),a
 52.2616536,-7.1359623,2,Hawthorn Grove (314),a
-52.2616561,-7.1194014,2,The Glen (866),a
 52.2616581,-7.1587802,2,Knockhouse Road (940),a
 52.2616641,-7.1108705,2,Cathedral Lane (070),a
 52.2616678,-7.1402612,2,Oak Drive (945),a
-52.2616694,-7.117111,2,Barker Street (227),a
-52.2616694,-7.117111,2,Thomas Hill (807),a
-52.2616759,-7.1194206,2,The Glen (894),a
 52.2616805,-7.1415253,2,Oak Drive (855),a
 52.2616821,-7.1282416,2,Dominick Place (429),a
 52.2616821,-7.1282416,2,Dominick Place (430),a
@@ -19162,91 +19211,53 @@ lat,lon,sz,names,len_cat
 52.2616882,-7.1111659,2,Cathedral Lane (082),a
 52.2616935,-7.1370764,2,Hawthorn Drive (784),a
 52.2616942,-7.1102767,2,Conduit Lane (498),a
-52.2616945,-7.1170823,2,Thomas Hill (806),a
 52.2617141,-7.140311,2,Oak Drive (947),a
 52.2617158,-7.1415607,2,Oak Drive (854),a
 52.2617158,-7.1415607,2,Oak Drive (854),a
-52.2617158,-7.1170553,2,Thomas Hill (805),a
-52.2617158,-7.1170553,2,Thomas Hill (805),a
 52.2617166,-7.1586744,2,Knockhouse Road (941),a
-52.261719,-7.1193053,2,James Street (877),a
 52.2617208,-7.1279619,2,Dominick Place (567),a
 52.2617237,-7.1384798,2,Oak Grove (156),a
 52.2617321,-7.1438222,2,Carrickphierish Road (842),a
-52.2617342,-7.1170277,2,Thomas Hill (804),a
 52.2617418,-7.1403475,2,Oak Drive (319),a
-52.261749,-7.1170021,2,Thomas Hill (803),a
-52.261749,-7.1170021,2,Thomas Hill (803),a
 52.2617523,-7.1416059,2,Oak Drive (853),a
 52.2617523,-7.1416059,2,Oak Drive (853),a
 52.2617548,-7.1370694,2,Hawthorn Drive (790),a
-52.261759,-7.1169787,2,Thomas Hill (802),a
-52.261759,-7.1169787,2,Thomas Hill (802),a
+52.2617661,-7.1280207,2,Dominick Place (839),a
 52.2617709,-7.1279309,2,Dominick Place (566),a
+52.2617718,-7.110227,2,Coal Quay (894),a
+52.2617718,-7.110227,2,Conduit Lane (367),a
 52.2617718,-7.110227,2,Meagher's Quay (114),a
-52.2617745,-7.1195146,2,The Glen (398),a
 52.261775,-7.1585641,2,Knockhouse Road (555),a
-52.2617763,-7.116919,2,Thomas Hill (800),a
-52.2617763,-7.116919,2,Thomas Hill (800),a
-52.2617773,-7.1157881,2,Thomas Hill (791),a
-52.2617806,-7.1162251,2,Thomas Hill (794),a
-52.2617816,-7.1168762,2,Thomas Hill (799),a
-52.2617827,-7.1164006,2,Thomas Hill (795),a
-52.2617842,-7.1168268,2,Thomas Hill (798),a
-52.2617847,-7.1165607,2,Thomas Hill (559),a
-52.2617854,-7.1167756,2,Thomas Hill (797),a
-52.2617919,-7.1156076,2,Thomas Hill (786),a
-52.2618029,-7.1195417,2,The Glen (511),a
-52.2618074,-7.1155636,2,Thomas Hill (783),a
 52.261813,-7.1279001,2,Dominick Place (426),a
 52.261813,-7.1279001,2,Dominick Place (428),a
 52.261813,-7.1279001,2,Dominick Place (565),a
 52.2618191,-7.1370533,2,Hawthorn Drive (780),a
 52.2618245,-7.1435945,2,Carrickphierish Road (221),a
 52.2618299,-7.1584481,2,Knockhouse Road (942),a
-52.2618339,-7.1195716,2,The Glen (399),a
-52.2618359,-7.1155297,2,Thomas Hill (780),a
 52.2618402,-7.1101801,2,Conduit Lane (221),a
 52.2618402,-7.1101801,2,Meagher's Quay (112),a
-52.2618479,-7.1155199,2,Thomas Hill (779),a
-52.2618492,-7.1178618,2,Thomas Street (796),a
-52.2618492,-7.1178618,2,Thomas Street (796),a
+52.2618421,-7.1216417,2,Summerhill (807),a
 52.2618585,-7.1105745,2,Meagher's Quay (558),a
 52.2618585,-7.1105745,2,Meagher's Quay (789),a
 52.261868,-7.1370354,2,Hawthorn Drive (791),a
-52.2618766,-7.1190633,2,James Street (878),a
 52.2618903,-7.1583012,2,Knockhouse Road (943),a
-52.2618932,-7.1196265,2,The Glen (900),a
-52.2618985,-7.1176678,2,Barker Street (228),a
 52.2619111,-7.140602,2,Oak Avenue (859),a
 52.2619111,-7.140602,2,Oak Drive (320),a
-52.2619129,-7.1176995,2,Barker Street (229),a
 52.2619228,-7.137011,2,Hawthorn Drive (789),a
-52.2619261,-7.1177266,2,Barker Street (230),a
-52.2619261,-7.1177266,2,Barker Street (230),a
 52.2619284,-7.143371,2,Carrickphierish Road (844),a
-52.2619291,-7.11965,2,The Glen (898),a
 52.2619385,-7.158172,2,Knockhouse Road (944),a
-52.2619401,-7.1177523,2,Anne Street (004),a
-52.2619401,-7.1177523,2,Barker Street (231),a
 52.2619417,-7.127595,2,Dominick Place (831),a
 52.2619527,-7.1418843,2,Oak Drive (311),a
 52.2619527,-7.1418843,2,Oak Drive (311),a
 52.2619527,-7.1418843,2,Oak Drive (324),a
 52.2619527,-7.1418843,2,Oak Drive (324),a
-52.2619586,-7.117782,2,Anne Street (016),a
 52.2619679,-7.123702,2,Gracedieu Road (650),a
 52.26197,-7.1580996,2,Knockhouse Road (945),a
-52.2619747,-7.1178054,2,Anne Street (015),a
-52.2619747,-7.1178054,2,Anne Street (015),a
+52.26198,-7.1110818,2,Meagher's Quay (053),a
 52.2619806,-7.1369794,2,Hawthorn Drive (788),a
-52.2619899,-7.1178292,2,Anne Street (014),a
-52.2619899,-7.1178292,2,Anne Street (014),a
-52.2620038,-7.1178537,2,Anne Street (013),a
 52.2620055,-7.1580383,2,Knockhouse Road (556),a
-52.2620126,-7.1196865,2,Glass House Lane (555),a
-52.2620126,-7.1196865,2,The Glen (806),a
 52.2620159,-7.1274205,2,Dominick Place (832),a
+52.2620309,-7.110918,2,Meagher's Quay (902),a
 52.2620309,-7.110918,2,Meagher's Quay (906),a
 52.2620456,-7.1239218,2,Gracedieu Road (526),a
 52.2620456,-7.1239218,2,Rockfield Park (204),a
@@ -19254,17 +19265,11 @@ lat,lon,sz,names,len_cat
 52.2620562,-7.1431232,2,Carrickphierish Road (222),a
 52.2620562,-7.1431232,2,Mount Suir (306),a
 52.2620595,-7.1369276,2,Hawthorn Drive (786),a
-52.2620607,-7.1196093,2,Glass House Lane (556),a
-52.262066,-7.1197067,2,The Glen (870),a
 52.2620892,-7.1238825,2,Rockfield Park (208),a
-52.2620957,-7.1175527,2,Thomas Street (787),a
-52.2620988,-7.1195482,2,Glass House Lane (557),a
 52.2621064,-7.1485272,2,Woodbrook (737),a
 52.2621134,-7.1579053,2,Knockhouse Road (947),a
 52.2621143,-7.1408891,2,Oak Drive (321),a
-52.262119,-7.1175266,2,Thomas Street (651),a
-52.262119,-7.1175266,2,Thomas Street (651),a
-52.2621211,-7.1197294,2,The Glen (867),a
+52.2621143,-7.1272133,2,Dominick Place (825),a
 52.2621268,-7.1433083,2,Mount Suir (307),a
 52.2621354,-7.1429787,2,Carrickphierish Road (845),a
 52.2621375,-7.1409234,2,Oak Drive (948),a
@@ -19276,7 +19281,6 @@ lat,lon,sz,names,len_cat
 52.2621614,-7.1412425,2,Oak Drive (323),a
 52.2621692,-7.1409883,2,Oak Drive (950),a
 52.2621692,-7.1409883,2,Oak Drive (950),a
-52.2621694,-7.1174702,2,Thomas Street (785),a
 52.2621736,-7.1270988,2,Dominick Place (837),a
 52.2621754,-7.1411911,2,Oak Drive (954),a
 52.2621754,-7.1411911,2,Oak Drive (954),a
@@ -19291,6 +19295,8 @@ lat,lon,sz,names,len_cat
 52.2621904,-7.1434677,2,Mount Suir (308),a
 52.2622211,-7.1223786,2,Rockfield Park (464),a
 52.2622215,-7.1223395,2,Rockfield Park (214),a
+52.2622259,-7.1224249,2,Rockfield Park (463),a
+52.2622287,-7.1222902,2,Rockfield Park (465),a
 52.2622294,-7.1366609,2,Hawthorn Walk (133),a
 52.2622321,-7.1367358,2,Hawthorn Walk (132),a
 52.2622321,-7.1365886,2,Hawthorn Walk (134),a
@@ -19311,10 +19317,12 @@ lat,lon,sz,names,len_cat
 52.262266,-7.14277,2,Carrickphierish Road (223),a
 52.262266,-7.14277,2,Carrickphierish Road (223),a
 52.262266,-7.1251319,2,Airmount Villas (459),a
+52.2622677,-7.1197986,2,The Glen (868),a
 52.2622727,-7.1577031,2,Knockhouse Road (558),a
 52.2622781,-7.1364127,2,Hawthorn Walk (096),a
 52.2622878,-7.122168,2,Rockfield Park (467),a
 52.2622958,-7.1367843,2,Hawthorn Drive (772),a
+52.2623005,-7.1250924,2,Airmount Villas (460),a
 52.2623152,-7.1363473,2,Hawthorn Walk (097),a
 52.2623215,-7.1437767,2,Mount Suir (310),a
 52.2623218,-7.1221217,2,Rockfield Park (468),a
@@ -19323,39 +19331,36 @@ lat,lon,sz,names,len_cat
 52.2623287,-7.1268312,2,Dominick Place (838),a
 52.2623305,-7.1198321,2,The Glen (486),a
 52.2623305,-7.1198321,2,The Glen (878),a
+52.2623334,-7.1250572,2,Airmount Villas (461),a
 52.2623651,-7.1250258,2,Airmount Villas (437),a
+52.2623694,-7.1220749,2,Rockfield Park (218),a
 52.2623708,-7.1438761,2,Mount Suir (311),a
 52.2623744,-7.1485587,2,Woodbrook (671),a
 52.2623747,-7.1312683,2,Carraig Heights (930),a
-52.2623832,-7.1172613,2,Thomas Street (780),a
 52.2623915,-7.1425922,2,Carrickphierish Road (846),a
 52.2623915,-7.1425922,2,Carrickphierish Road (846),a
 52.2623969,-7.1484941,2,Woodbrook (670),a
-52.2624078,-7.1206783,2,Springfield (620),a
 52.2624103,-7.1249832,2,Airmount Villas (438),a
 52.2624103,-7.1249832,2,Gracedieu Road (525),a
+52.2624139,-7.122041,2,Rockfield Park (469),a
 52.2624147,-7.1487728,2,Woodbrook (731),a
 52.262415,-7.1266989,2,Dominick Place (826),a
 52.2624166,-7.1309288,2,Carraig Heights (906),a
+52.2624166,-7.1309288,2,Carraig Heights (906),a
+52.2624166,-7.1309288,2,Carraig Heights (915),a
 52.2624166,-7.1309288,2,Carraig Heights (915),a
 52.2624236,-7.1439726,2,Mount Suir (312),a
 52.2624255,-7.1367582,2,Hawthorn Drive (761),a
-52.2624256,-7.1206971,2,Springfield (622),a
 52.2624337,-7.1480368,2,Woodbrook (740),a
 52.2624388,-7.1574737,2,Knockhouse Road (948),a
 52.2624531,-7.1306267,2,Carraig Heights (929),a
 52.2624531,-7.1306267,2,Carraig Heights (929),a
 52.2624607,-7.1220129,2,Rockfield Park (470),a
-52.2624707,-7.1207204,2,Springfield (625),a
-52.2624728,-7.1204494,2,Summerhill (396),a
 52.2624739,-7.1483053,2,Woodbrook (669),a
 52.262478,-7.1480532,2,Woodbrook (741),a
 52.2624804,-7.1440632,2,Mount Suir (313),a
-52.2624859,-7.1207197,2,Springfield (627),a
-52.2625042,-7.1207169,2,Springfield (628),a
 52.2625106,-7.1235091,2,Rockfield Park (455),a
 52.2625118,-7.1367766,2,Hawthorn Drive (767),a
-52.2625141,-7.1203709,2,Summerhill (397),a
 52.2625203,-7.1488255,2,Woodbrook (732),a
 52.2625216,-7.1424219,2,Carrickphierish Road (173),a
 52.2625216,-7.1424219,2,Carrickphierish Road (173),a
@@ -19363,76 +19368,60 @@ lat,lon,sz,names,len_cat
 52.2625216,-7.1424219,2,Carrickphierish Road (224),a
 52.2625218,-7.157337,2,Knockhouse Road (949),a
 52.2625236,-7.1265467,2,Dominick Place (833),a
-52.2625242,-7.1207149,2,Springfield (630),a
 52.2625258,-7.1441286,2,Mount Suir (314),a
 52.2625273,-7.1234929,2,Rockfield Park (457),a
-52.2625288,-7.1190258,2,Glass House Lane (558),a
+52.2625359,-7.1233563,2,Rockfield Park (462),a
 52.2625389,-7.1234756,2,Rockfield Park (210),a
 52.2625421,-7.1459177,2,Mount Suir (550),a
 52.2625425,-7.1219835,2,Rockfield Park (471),a
 52.262544,-7.1233854,2,Rockfield Park (461),a
 52.2625455,-7.138726,2,Oak Close (610),a
-52.2625468,-7.1207172,2,Springfield (631),a
 52.262547,-7.1234536,2,Rockfield Park (458),a
-52.2625475,-7.1190031,2,Glass House Lane (559),a
 52.2625495,-7.1234153,2,Rockfield Park (460),a
 52.2625496,-7.1234352,2,Rockfield Park (459),a
 52.2625513,-7.1481167,2,Woodbrook (733),a
 52.2625513,-7.1481167,2,Woodbrook (742),a
 52.2625553,-7.1441705,2,Mount Suir (315),a
 52.2625554,-7.136798,2,Hawthorn Drive (768),a
-52.2625675,-7.120726,2,Springfield (633),a
 52.2625723,-7.1442013,2,Mount Suir (316),a
 52.2625794,-7.1264741,2,Dominick Place (834),a
-52.2625807,-7.1202403,2,Summerhill (814),a
 52.2625853,-7.1442321,2,Mount Suir (317),a
-52.2625875,-7.12074,2,Springfield (635),a
 52.2625895,-7.1219755,2,Rockfield Park (472),a
 52.262594,-7.1571959,2,Knockhouse Road (559),a
 52.2625962,-7.1442665,2,Mount Suir (318),a
 52.2626029,-7.1443085,2,Mount Suir (319),a
 52.2626068,-7.1443561,2,Mount Suir (320),a
-52.262607,-7.1201848,2,Summerhill (815),a
 52.262608,-7.1444035,2,Mount Suir (321),a
 52.2626099,-7.1255435,2,Gracedieu Road (220),a
 52.2626111,-7.1444539,2,Mount Suir (322),a
-52.2626123,-7.119842,2,The Glen (876),a
 52.2626157,-7.144509,2,Mount Suir (323),a
-52.2626186,-7.1200032,2,The Glen (864),a
+52.2626215,-7.126424,2,Dominick Place (836),a
 52.2626244,-7.1368366,2,Hawthorn Drive (762),a
 52.2626282,-7.1445795,2,Mount Suir (324),a
-52.2626305,-7.120135,2,Summerhill (816),a
-52.2626305,-7.120135,2,Summerhill Terrace (958),a
 52.2626409,-7.1219772,2,Rockfield Park (473),a
 52.262646,-7.1478859,2,Woodbrook (668),a
 52.2626463,-7.1446448,2,Mount Suir (325),a
-52.262651,-7.1200867,2,Summerhill (817),a
 52.2626679,-7.1446958,2,Mount Suir (326),a
-52.262673,-7.1200355,2,The Glen (809),a
-52.262673,-7.1200355,2,The Glen (847),a
+52.2626711,-7.126374,2,Dominick Place (827),a
 52.2626824,-7.1422451,2,Carrickphierish Road (175),a
 52.2626824,-7.1422451,2,Carrickphierish Road (175),a
 52.2626829,-7.1478054,2,Woodbrook (667),a
 52.2626905,-7.1459442,2,Mount Suir (548),a
 52.262693,-7.1447389,2,Mount Suir (327),a
+52.262695,-7.1219848,2,Rockfield Park (223),a
 52.2626996,-7.156957,2,Knockhouse Road (950),a
-52.2627039,-7.1202194,2,Summerhill Terrace (959),a
 52.262711,-7.1477548,2,Woodbrook (666),a
 52.262713,-7.1459404,2,Mount Suir (552),a
 52.262718,-7.1263319,2,Dominick Place (835),a
 52.2627241,-7.1447777,2,Mount Suir (328),a
 52.2627289,-7.1459246,2,Mount Suir (553),a
-52.2627315,-7.1198955,2,Summerhill (820),a
 52.262732,-7.1477228,2,Woodbrook (665),a
 52.2627405,-7.1458994,2,Mount Suir (554),a
 52.2627468,-7.1458657,2,Mount Suir (547),a
 52.2627479,-7.1220018,2,Rockfield Park (475),a
 52.2627509,-7.1458238,2,Mount Suir (551),a
 52.2627512,-7.1448011,2,Mount Suir (329),a
-52.2627531,-7.1198514,2,Summerhill (821),a
 52.2627596,-7.1476935,2,Woodbrook (664),a
-52.2627705,-7.1202863,2,Summerhill Terrace (960),a
-52.2627728,-7.119818,2,Summerhill (822),a
 52.2627787,-7.1450017,2,Mount Suir (549),a
 52.2627787,-7.1450017,2,Mount Suir (555),a
 52.2627799,-7.1421406,2,Carrickphierish Road (459),a
@@ -19440,26 +19429,25 @@ lat,lon,sz,names,len_cat
 52.2627838,-7.1476756,2,Woodbrook (663),a
 52.2627846,-7.1448198,2,Mount Suir (330),a
 52.2627846,-7.1448198,2,Mount Suir (611),a
+52.2627902,-7.1262691,2,Dominick Place (830),a
 52.2627906,-7.1369673,2,Hawthorn Drive (770),a
-52.2627956,-7.1197863,2,Summerhill (823),a
-52.2628005,-7.1195905,2,Anne Street (008),a
+52.2628063,-7.1220246,2,Rockfield Park (476),a
 52.2628064,-7.156694,2,Knockhouse Road (560),a
 52.262817,-7.147659,2,Woodbrook (662),a
 52.262826,-7.1370054,2,Hawthorn Drive (778),a
 52.2628318,-7.1490276,2,Woodbrook (730),a
-52.2628343,-7.1197447,2,Anne Street (005),a
-52.2628343,-7.1197447,2,Bridge Street (949),a
 52.2628432,-7.1476525,2,Woodbrook (661),a
 52.2628455,-7.1467487,2,Woodbrook (384),a
+52.2628461,-7.1262213,2,Dominick Place (828),a
 52.2628461,-7.1262213,2,Gracedieu Road (524),a
+52.2628554,-7.1220496,2,Rockfield Park (225),a
 52.2628563,-7.1310591,2,Carraig Heights (905),a
 52.2628566,-7.1490351,2,Woodbrook (736),a
-52.2628669,-7.1205572,2,Summerhill Mews (880),a
 52.2628743,-7.1476513,2,Woodbrook (660),a
 52.2628795,-7.1490317,2,Woodbrook (735),a
 52.2628906,-7.1371319,2,Hawthorn Drive (771),a
-52.2628936,-7.1196956,2,Bridge Street (951),a
 52.2628961,-7.1564543,2,Knockhouse Road (951),a
+52.2628963,-7.1220751,2,Rockfield Park (478),a
 52.262897,-7.1490143,2,Woodbrook (729),a
 52.262903,-7.139512,2,Oak Avenue (860),a
 52.2629041,-7.1448549,2,Mount Suir (331),a
@@ -19469,25 +19457,19 @@ lat,lon,sz,names,len_cat
 52.2629225,-7.1264541,2,Gracedieu Road (523),a
 52.2629226,-7.1448591,2,Mount Suir (332),a
 52.2629271,-7.137344,2,Hawthorn Drive (765),a
+52.2629354,-7.1221065,2,Rockfield Park (479),a
 52.2629367,-7.1448577,2,Mount Suir (333),a
-52.2629427,-7.1204395,2,Summerhill Terrace (962),a
 52.2629466,-7.1448531,2,Mount Suir (334),a
 52.2629502,-7.1476681,2,Woodbrook (658),a
 52.2629568,-7.1448436,2,Mount Suir (335),a
-52.2629574,-7.1206548,2,Summerhill Mews (879),a
-52.2629574,-7.1206548,2,Summerhill Mews (885),a
 52.2629666,-7.1448304,2,Mount Suir (336),a
-52.262969,-7.120626,2,Summerhill Mews (884),a
 52.2629732,-7.1359182,2,Carn Glas Heights (163),a
 52.2629797,-7.1221503,2,Rockfield Park (480),a
 52.2629804,-7.1562102,2,Knockhouse Road (561),a
 52.2629808,-7.1448035,2,Mount Suir (337),a
 52.262985,-7.1382042,2,Crescent Drive (042),a
-52.2630052,-7.1205361,2,Summerhill Mews (882),a
-52.2630052,-7.1205361,2,Summerhill Mews (887),a
 52.2630053,-7.1357113,2,Carn Glas Heights (162),a
 52.2630089,-7.1467788,2,Woodbrook (382),a
-52.2630154,-7.1205107,2,Summerhill Mews (886),a
 52.2630203,-7.1447193,2,Mount Suir (339),a
 52.2630222,-7.1267616,2,Gracedieu Road (219),a
 52.2630253,-7.10053,2,Abbey Road (629),a
@@ -19499,7 +19481,6 @@ lat,lon,sz,names,len_cat
 52.2630314,-7.1362648,2,Carn Glas Grove (036),a
 52.2630322,-7.1363152,2,Carn Glas Grove (029),a
 52.2630353,-7.1446931,2,Mount Suir (340),a
-52.2630359,-7.1207394,2,Summerhill Mews (878),a
 52.263036,-7.1363234,2,Carn Glas Grove (028),a
 52.2630377,-7.1354694,2,Carn Glas Heights (161),a
 52.2630424,-7.1005966,2,Abbey Road (634),a
@@ -19512,9 +19493,12 @@ lat,lon,sz,names,len_cat
 52.2630651,-7.141892,2,Carrickphierish Road (460),a
 52.26307,-7.1559421,2,Knockhouse Road (562),a
 52.2630724,-7.1446579,2,Mount Suir (343),a
+52.2630745,-7.1195673,2,Bridge Street (953),a
 52.2630771,-7.1352097,2,Carn Glas Heights (159),a
+52.2630867,-7.1222812,2,Rockfield Park (483),a
 52.2630891,-7.1007331,2,Abbey Road (632),a
 52.2630912,-7.1269913,2,Gracedieu Road (521),a
+52.2630912,-7.1269913,2,Gracedieu Road (544),a
 52.2630915,-7.1446536,2,Mount Suir (344),a
 52.263098,-7.1359407,2,Carn Glas Grove (037),a
 52.2631008,-7.1350976,2,Carn Glas Heights (158),a
@@ -19522,6 +19506,8 @@ lat,lon,sz,names,len_cat
 52.2631195,-7.1008003,2,Abbey Road (630),a
 52.2631257,-7.1349958,2,Carn Glas Heights (157),a
 52.2631472,-7.1008551,2,Abbey Road (637),a
+52.263151,-7.1271937,2,Gracedieu Road (634),a
+52.2631594,-7.1223847,2,Rockfield Park (484),a
 52.2631625,-7.1365096,2,Carn Glas Grove (024),a
 52.2631643,-7.1348576,2,Carn Glas Heights (156),a
 52.2631713,-7.1446577,2,Mount Suir (346),a
@@ -19530,8 +19516,8 @@ lat,lon,sz,names,len_cat
 52.263175,-7.100919,2,Abbey Road (635),a
 52.2631757,-7.1468061,2,Woodbrook (381),a
 52.2631766,-7.1365269,2,Carn Glas Grove (023),a
-52.2631774,-7.1206691,2,Summerhill Terrace (963),a
 52.2631944,-7.1365424,2,Carn Glas Grove (022),a
+52.2632022,-7.1273791,2,Gracedieu Road (633),a
 52.2632055,-7.1009946,2,Abbey Road (636),a
 52.2632101,-7.1365507,2,Carn Glas Grove (020),a
 52.2632281,-7.1365567,2,Carn Glas Grove (018),a
@@ -19553,6 +19539,7 @@ lat,lon,sz,names,len_cat
 52.2632918,-7.1397172,2,Gracedieu Heights (228),a
 52.263294,-7.1365033,2,Carn Glas Grove (010),a
 52.2633016,-7.1396856,2,Gracedieu Heights (229),a
+52.263309,-7.119408,2,Bridge Street (954),a
 52.2633188,-7.1446784,2,Mount Suir (348),a
 52.2633232,-7.1396093,2,Gracedieu Heights (230),a
 52.2633233,-7.1311869,2,Carraig Heights (901),a
@@ -19615,8 +19602,6 @@ lat,lon,sz,names,len_cat
 52.2634337,-7.1390825,2,Gracedieu Heights (241),a
 52.2634337,-7.1353798,2,Carn Glas Way (964),a
 52.2634365,-7.1357702,2,Carn Glas Way (972),a
-52.2634444,-7.1209386,2,Summerhill Terrace (503),a
-52.2634444,-7.1209386,2,Summerhill Terrace (964),a
 52.2634448,-7.1362631,2,Carn Glas Grove (042),a
 52.2634455,-7.1357942,2,Carn Glas Way (973),a
 52.2634455,-7.1312999,2,Carraig Heights (897),a
@@ -19639,64 +19624,41 @@ lat,lon,sz,names,len_cat
 52.2635112,-7.1362898,2,Carn Glas Grove (044),a
 52.2635116,-7.1379913,2,Gracedieu Heights (191),a
 52.2635143,-7.1399579,2,Gracedieu Heights (217),a
-52.2635176,-7.1192709,2,Mary Street (604),a
 52.2635203,-7.1380183,2,Gracedieu Heights (192),a
 52.263524,-7.1339292,2,Carn Glas Court (855),a
 52.2635247,-7.1338831,2,Carn Glas Court (853),a
 52.2635254,-7.1416041,2,Carrickphierish Road (180),a
 52.2635302,-7.1314985,2,Carraig Heights (894),a
 52.2635322,-7.1380375,2,Gracedieu Heights (193),a
-52.2635334,-7.1210254,2,Summerhill Terrace (965),a
 52.2635358,-7.1399609,2,Gracedieu Heights (216),a
 52.2635411,-7.1335288,2,Carn Glas Heights (147),a
 52.2635412,-7.1363054,2,Carn Glas Grove (045),a
 52.2635463,-7.1287679,2,Gracedieu Road (629),a
 52.2635472,-7.138053,2,Gracedieu Heights (194),a
-52.2635493,-7.1194264,2,Mary Street (605),a
-52.263555,-7.1218707,2,Summerhill Close (519),a
-52.2635602,-7.1210469,2,Summerhill Terrace (967),a
 52.2635604,-7.1399599,2,Gracedieu Heights (215),a
 52.2635621,-7.1337715,2,Carn Glas Court (850),a
 52.2635661,-7.1380639,2,Gracedieu Heights (195),a
 52.2635661,-7.1316083,2,Carraig Heights (893),a
 52.2635667,-7.1374239,2,Gracedieu Heights (187),a
-52.2635705,-7.1210517,2,Summerhill Terrace (968),a
 52.2635731,-7.1374067,2,Gracedieu Heights (186),a
 52.2635759,-7.1343142,2,Carn Glas Court (857),a
-52.2635797,-7.1210533,2,Dyehouse Lane (792),a
-52.2635797,-7.1210533,2,Summerhill Close (510),a
-52.2635797,-7.1210533,2,Summerhill Terrace (969),a
-52.2635809,-7.1211639,2,Summerhill Close (511),a
 52.2635824,-7.1373922,2,Gracedieu Heights (185),a
-52.2635855,-7.1212366,2,Summerhill Close (512),a
 52.2635875,-7.1399543,2,Gracedieu Heights (214),a
-52.2635905,-7.1210523,2,Dyehouse Lane (795),a
-52.2635907,-7.1196177,2,Mary Street (606),a
 52.2635916,-7.1373825,2,Gracedieu Heights (184),a
 52.2635936,-7.1289493,2,Gracedieu Road (628),a
-52.2635949,-7.1213023,2,Summerhill Close (513),a
 52.2635987,-7.1317163,2,Carraig Heights (892),a
-52.2635993,-7.1210495,2,Dyehouse Lane (797),a
 52.2636015,-7.137376,2,Gracedieu Heights (183),a
 52.2636059,-7.1358944,2,Carn Glas Way (979),a
-52.2636065,-7.1213581,2,Summerhill Close (514),a
-52.2636084,-7.1210449,2,Dyehouse Lane (799),a
 52.2636149,-7.1399426,2,Gracedieu Heights (213),a
-52.263618,-7.1210378,2,Dyehouse Lane (800),a
-52.2636242,-7.1214172,2,Summerhill Close (515),a
 52.2636261,-7.1373713,2,Gracedieu Heights (181),a
 52.2636288,-7.1318298,2,Carraig Heights (891),a
-52.2636292,-7.1210274,2,Dyehouse Lane (802),a
 52.2636297,-7.1347885,2,Carn Glas Way (960),a
 52.2636313,-7.1446845,2,Mount Suir (351),a
 52.2636316,-7.1290926,2,Gracedieu Road (627),a
 52.2636323,-7.1337151,2,Carn Glas Court (846),a
-52.2636385,-7.1214551,2,Summerhill Close (583),a
 52.2636396,-7.1399269,2,Gracedieu Heights (212),a
 52.2636444,-7.1373733,2,Gracedieu Heights (180),a
 52.2636466,-7.1446879,2,Mount Suir (352),a
-52.2636472,-7.1191826,2,Bridge Street (956),a
-52.263649,-7.1214829,2,Summerhill Close (516),a
 52.2636512,-7.1319312,2,Carraig Heights (890),a
 52.2636518,-7.1337081,2,Carn Glas Court (845),a
 52.2636585,-7.144694,2,Mount Suir (353),a
@@ -19706,8 +19668,6 @@ lat,lon,sz,names,len_cat
 52.263665,-7.1373779,2,Gracedieu Heights (179),a
 52.2636669,-7.1320131,2,Carraig Heights (889),a
 52.2636728,-7.144706,2,Mount Suir (354),a
-52.2636751,-7.1199756,2,Mary Street (608),a
-52.263676,-7.1215442,2,Summerhill Close (517),a
 52.2636773,-7.1320818,2,Carraig Heights (888),a
 52.2636801,-7.1346801,2,Carn Glas Way (958),a
 52.2636844,-7.1332402,2,Carn Glas Heights (144),a
@@ -19720,14 +19680,11 @@ lat,lon,sz,names,len_cat
 52.2637042,-7.1019633,2,Abbey Road (978),a
 52.2637042,-7.1019633,2,Abbey Road (990),a
 52.2637065,-7.1337114,2,Carn Glas Court (843),a
-52.2637073,-7.1216068,2,Summerhill Close (518),a
-52.2637073,-7.1216068,2,Summerhill Close (564),a
 52.2637089,-7.1329983,2,Carraig Heights (883),a
 52.2637108,-7.1332007,2,Carn Glas Heights (143),a
 52.2637115,-7.1330458,2,Carraig Heights (882),a
 52.2637151,-7.1346303,2,Carn Glas Way (956),a
 52.2637163,-7.1330904,2,Carraig Heights (881),a
-52.2637218,-7.120148,2,Mary Street (609),a
 52.2637245,-7.1331237,2,Carraig Heights (880),a
 52.2637317,-7.1295541,2,Gracedieu Road (542),a
 52.2637321,-7.1541548,2,Knockhouse Road (392),a
@@ -19750,15 +19707,12 @@ lat,lon,sz,names,len_cat
 52.263791,-7.1539948,2,Knockhouse Road (394),a
 52.2637935,-7.1298888,2,Gracedieu Road (624),a
 52.2637947,-7.1374228,2,Gracedieu Heights (177),a
-52.2637991,-7.1190739,2,Bridge Street (958),a
-52.2637991,-7.1190739,2,Bridge Street (958),a
 52.2637997,-7.1450696,2,Mount Suir (363),a
 52.2638127,-7.1331739,2,Carn Glas Heights (139),a
 52.2638134,-7.1338458,2,Carn Glas Way (803),a
 52.263814,-7.1338852,2,Carn Glas Way (804),a
 52.2638158,-7.135913,2,Carn Glas Way (984),a
 52.2638158,-7.1345749,2,Carn Glas Way (952),a
-52.2638162,-7.12178,2,Summerhill Close (563),a
 52.2638169,-7.1374377,2,Gracedieu Heights (176),a
 52.2638195,-7.1337825,2,Carn Glas Way (801),a
 52.2638204,-7.1539061,2,Knockhouse Road (395),a
@@ -19770,7 +19724,6 @@ lat,lon,sz,names,len_cat
 52.2638343,-7.1374568,2,Gracedieu Heights (175),a
 52.2638382,-7.1341032,2,Carn Glas Way (807),a
 52.263844,-7.1337408,2,Carn Glas Way (799),a
-52.2638455,-7.1190371,2,Bridge Street (959),a
 52.2638459,-7.1364808,2,Carn Glas Grove (046),a
 52.2638471,-7.1538173,2,Knockhouse Road (542),a
 52.2638471,-7.1538173,2,Knockhouse Road (542),a
@@ -19800,49 +19753,35 @@ lat,lon,sz,names,len_cat
 52.2638735,-7.1347042,2,Carn Glas Way (815),a
 52.2638736,-7.1450297,2,Mount Suir (361),a
 52.2638756,-7.1450699,2,Mount Suir (362),a
-52.2638795,-7.1207806,2,Dyehouse Lane (808),a
 52.2638809,-7.13477,2,Carn Glas Way (816),a
 52.2638875,-7.1536436,2,Knockhouse Road (573),a
 52.2638875,-7.1536436,2,Knockhouse Road (573),a
 52.2638928,-7.1358947,2,Carn Glas Way (986),a
 52.2638938,-7.1460265,2,Mount Suir (557),a
-52.2638983,-7.1207585,2,Dyehouse Lane (809),a
 52.2639002,-7.1375884,2,Gracedieu Heights (171),a
 52.2639041,-7.1305186,2,Gracedieu Road (622),a
 52.2639041,-7.1305186,2,Gracedieu Road (622),a
 52.2639053,-7.1397073,2,Gracedieu Heights (208),a
-52.2639116,-7.1189884,2,Bridge Street (768),a
 52.2639136,-7.1534891,2,Knockhouse Road (959),a
 52.2639136,-7.1534891,2,Knockhouse Road (959),a
 52.2639142,-7.1376106,2,Gracedieu Heights (170),a
-52.2639149,-7.1207377,2,Dyehouse Lane (811),a
-52.2639149,-7.1207377,2,Mary Street (591),a
-52.2639149,-7.1207377,2,Mary Street (612),a
 52.263917,-7.1336609,2,Carn Glas Way (798),a
 52.2639259,-7.1358825,2,Carn Glas Way (987),a
 52.2639259,-7.130639,2,Gracedieu Road (541),a
 52.2639259,-7.130639,2,Gracedieu Road (541),a
 52.2639295,-7.1376276,2,Gracedieu Heights (169),a
-52.263931,-7.1207173,2,Suir Street (982),a
-52.2639358,-7.118977,2,Bridge Street (767),a
-52.2639358,-7.118977,2,Bridge Street (767),a
-52.2639358,-7.118977,2,Bridge Street (771),a
-52.2639358,-7.118977,2,Bridge Street (771),a
 52.2639363,-7.1396936,2,Gracedieu Heights (207),a
 52.263937,-7.1533456,2,Knockhouse Road (574),a
 52.263937,-7.1533456,2,Knockhouse Road (574),a
 52.2639453,-7.1376418,2,Gracedieu Heights (168),a
-52.2639484,-7.1206971,2,Suir Street (983),a
+52.2639503,-7.1307469,2,Gracedieu Road (621),a
 52.2639503,-7.1307469,2,Gracedieu Road (621),a
 52.2639512,-7.1336154,2,Carn Glas Way (796),a
 52.263958,-7.1022977,2,Abbey Road (200),a
 52.263958,-7.1022977,2,Abbey Road (241),a
 52.263958,-7.1022977,2,Abbey Road (242),a
 52.2639649,-7.1376531,2,Gracedieu Heights (167),a
-52.2639682,-7.1206771,2,Suir Street (984),a
 52.2639697,-7.1335609,2,Carn Glas Way (794),a
-52.2639698,-7.1189618,2,Bridge Street (770),a
-52.2639698,-7.1189618,2,Bridge Street (770),a
 52.2639708,-7.1396827,2,Gracedieu Heights (206),a
 52.2639723,-7.1331254,2,Carn Glas Way (785),a
 52.2639723,-7.1331254,2,Carn Glas Way (788),a
@@ -19864,18 +19803,12 @@ lat,lon,sz,names,len_cat
 52.2640131,-7.1309534,2,Gracedieu Road (619),a
 52.2640131,-7.1309534,2,Gracedieu Road (619),a
 52.2640132,-7.1396763,2,Gracedieu Heights (205),a
-52.2640173,-7.1189468,2,Bridge Street (769),a
-52.2640173,-7.1189468,2,Brother Ignatius Rice Bridge (486),a
-52.2640173,-7.1189468,2,Grattan Quay (392),a
-52.2640173,-7.1189468,2,Grattan Quay (392),a
 52.264019,-7.1026012,2,Abbey Road (652),a
 52.2640254,-7.1358225,2,Carn Glas Way (829),a
 52.2640254,-7.1358225,2,Carn Glas Way (991),a
 52.2640341,-7.102312,2,Abbey Road (195),a
 52.2640341,-7.102312,2,Abbey Road (642),a
 52.2640355,-7.1358076,2,Carn Glas Way (828),a
-52.2640377,-7.1210769,2,Mary Street (963),a
-52.264039,-7.1190432,2,Grattan Quay (396),a
 52.2640442,-7.135785,2,Carn Glas Way (827),a
 52.2640472,-7.1414244,2,Carrickphierish Road (463),a
 52.2640472,-7.1414244,2,Carrickphierish Road (463),a
@@ -19891,6 +19824,8 @@ lat,lon,sz,names,len_cat
 52.2640799,-7.1311462,2,Gracedieu Road (540),a
 52.2640799,-7.1311462,2,Gracedieu Road (540),a
 52.2640866,-7.1192483,2,Grattan Quay (400),a
+52.2640866,-7.1192483,2,Grattan Quay (402),a
+52.2640866,-7.1192483,2,Grattan Quay (407),a
 52.2640892,-7.1026596,2,Abbey Road (654),a
 52.2640911,-7.1193158,2,Grattan Quay (406),a
 52.2640971,-7.1193518,2,Grattan Quay (408),a
@@ -19901,10 +19836,13 @@ lat,lon,sz,names,len_cat
 52.2641145,-7.1191583,2,Grattan Quay (403),a
 52.2641163,-7.1396808,2,Gracedieu Heights (203),a
 52.2641264,-7.1191099,2,Grattan Quay (416),a
+52.2641264,-7.1191099,2,Grattan Quay (416),a
 52.2641276,-7.1376914,2,Gracedieu Heights (164),a
 52.2641291,-7.1026573,2,Abbey Road (655),a
+52.264143,-7.1190646,2,Grattan Quay (408),a
 52.2641475,-7.1022866,2,Abbey Road (648),a
 52.26415,-7.1519138,2,Knockhouse Road (916),a
+52.2641611,-7.1190221,2,Grattan Quay (411),a
 52.2641611,-7.1190221,2,Grattan Quay (411),a
 52.2641663,-7.1026334,2,Abbey Road (193),a
 52.2641663,-7.1026334,2,Abbey Road (656),a
@@ -19913,6 +19851,7 @@ lat,lon,sz,names,len_cat
 52.2641816,-7.1023196,2,Abbey Road (977),a
 52.2641837,-7.1189809,2,Grattan Quay (413),a
 52.2641837,-7.1189809,2,Grattan Quay (413),a
+52.2641859,-7.1189231,2,Brother Ignatius Rice Bridge (489),a
 52.2641861,-7.1314836,2,Gracedieu Road (617),a
 52.2641873,-7.1197025,2,Grattan Quay (881),a
 52.2641957,-7.1025922,2,Abbey Road (638),a
@@ -19934,6 +19873,7 @@ lat,lon,sz,names,len_cat
 52.2642342,-7.1397083,2,Gracedieu Heights (201),a
 52.264241,-7.1316735,2,Gracedieu Road (539),a
 52.2642444,-7.1413889,2,Carrickphierish Road (183),a
+52.2642447,-7.1189101,2,Brother Ignatius Rice Bridge (490),a
 52.2642447,-7.1189101,2,Brother Ignatius Rice Bridge (490),a
 52.2642447,-7.1189101,2,Brother Ignatius Rice Bridge (491),a
 52.2642447,-7.1189101,2,Brother Ignatius Rice Bridge (491),a
@@ -19964,9 +19904,9 @@ lat,lon,sz,names,len_cat
 52.264337,-7.1494642,2,Knockhouse Road (927),a
 52.264339,-7.150788,2,Knockhouse Road (921),a
 52.2643417,-7.1188731,2,Brother Edmund Ignatius Rice Bridge (472),a
+52.2643417,-7.1188731,2,Brother Edmund Ignatius Rice Bridge (472),a
 52.2643491,-7.1478436,2,Knockhouse Road (933),a
 52.2643503,-7.1496427,2,Knockhouse Road (542),a
-52.2643516,-7.1203463,2,Suir Street (985),a
 52.264357,-7.1477527,2,Knockhouse Road (934),a
 52.264361,-7.1497894,2,Knockhouse Road (926),a
 52.2643636,-7.1505996,2,Knockhouse Road (922),a
@@ -19994,7 +19934,6 @@ lat,lon,sz,names,len_cat
 52.2643843,-7.1420152,2,Knockhouse Road (582),a
 52.2643843,-7.1420152,2,Knockhouse Road (582),a
 52.2643865,-7.1474273,2,Knockhouse Road (546),a
-52.264394,-7.1204775,2,Grattan Quay (404),a
 52.2643944,-7.1019658,2,Wadding Manor (239),a
 52.2643946,-7.1411654,2,Knockhouse Road (956),a
 52.2643974,-7.1188432,2,Brother Edmund Ignatius Rice Bridge (045),a
@@ -20010,7 +19949,6 @@ lat,lon,sz,names,len_cat
 52.2644416,-7.1432629,2,Knockhouse Road (962),a
 52.2644483,-7.1467936,2,Knockhouse Road (937),a
 52.264449,-7.1339928,2,Carn Glas Mews (865),a
-52.2644492,-7.1206475,2,Grattan Quay (521),a
 52.2644614,-7.1465296,2,Knockhouse Road (548),a
 52.2644633,-7.1329533,2,Gracedieu Road (533),a
 52.2644822,-7.1026368,2,Abbey Road (191),a
@@ -20063,6 +20001,7 @@ lat,lon,sz,names,len_cat
 52.2647341,-7.1394983,2,Sherlock Walk (417),a
 52.2647397,-7.1027344,2,Abbey Road (847),a
 52.2647406,-7.1392589,2,Sherlock Walk (423),a
+52.2647452,-7.1215073,2,Grattan Quay (523),a
 52.2647519,-7.1392274,2,Sherlock Walk (424),a
 52.2647638,-7.1391987,2,Sherlock Walk (425),a
 52.2647741,-7.1395817,2,Sherlock Walk (460),a
@@ -20119,9 +20058,12 @@ lat,lon,sz,names,len_cat
 52.2649315,-7.1381736,2,Sherlock Walk (394),a
 52.2649366,-7.1221084,2,Grattan Quay (526),a
 52.2649369,-7.1184762,2,Brother Edmund Ignatius Rice Bridge (049),a
+52.2649369,-7.1184762,2,Brother Edmund Ignatius Rice Bridge (052),a
 52.2649376,-7.1373029,2,Sherlock Walk (408),a
 52.2649382,-7.1382634,2,Sherlock Walk (392),a
 52.2649429,-7.106317,2,Dock Road (685),a
+52.2649429,-7.106317,2,Dock Road (685),a
+52.2649431,-7.1063719,2,Dock Road (796),a
 52.2649431,-7.1063719,2,Dock Road (796),a
 52.2649436,-7.1064999,2,Dock Road (874),a
 52.2649441,-7.1049023,2,Fountain Street (923),a
@@ -20195,6 +20137,7 @@ lat,lon,sz,names,len_cat
 52.2650826,-7.1045106,2,Fountain Street (738),a
 52.2650976,-7.1376755,2,Sherlock Walk (404),a
 52.2651007,-7.1061643,2,Rockshire Road (873),a
+52.2651007,-7.1061643,2,Rockshire Road (873),a
 52.2651012,-7.102848,2,Abbey Road (982),a
 52.2651012,-7.102848,2,Abbey Road (985),a
 52.2651038,-7.1377102,2,Sherlock Walk (403),a
@@ -20209,6 +20152,7 @@ lat,lon,sz,names,len_cat
 52.265129,-7.1042448,2,Fountain Street (928),a
 52.265129,-7.1042448,2,Fountain Street (937),a
 52.2651298,-7.1091224,2,Dock Road (555),a
+52.2651396,-7.1183392,2,Brother Edmund Ignatius Rice Bridge (055),a
 52.2651396,-7.1183392,2,Brother Edmund Ignatius Rice Bridge (060),a
 52.2651396,-7.1183392,2,Brother Edmund Ignatius Rice Bridge (060),a
 52.2651407,-7.1366194,2,Quarry Road (879),a
@@ -20216,6 +20160,7 @@ lat,lon,sz,names,len_cat
 52.2651446,-7.1041493,2,Marymount (747),a
 52.2651476,-7.1388594,2,Sherlock Walk (390),a
 52.2651532,-7.1035499,2,Fountain Street (548),a
+52.2651631,-7.1061614,2,Rockshire Road (632),a
 52.2651631,-7.1061614,2,Rockshire Road (632),a
 52.2651651,-7.1366245,2,Quarry Road (878),a
 52.265175,-7.1389177,2,Sherlock Walk (389),a
@@ -20235,6 +20180,7 @@ lat,lon,sz,names,len_cat
 52.2652708,-7.139085,2,Sherlock Walk (436),a
 52.2652744,-7.1380002,2,Sherlock Walk (448),a
 52.2652792,-7.1033891,2,Fountain Street (041),a
+52.2652841,-7.1100607,2,Dock Road (757),a
 52.2652858,-7.1400064,2,Ard Álainn (570),a
 52.2652858,-7.1400064,2,Sherlock Walk (039),a
 52.2652869,-7.1144174,2,Dock Road (424),a
@@ -20248,6 +20194,7 @@ lat,lon,sz,names,len_cat
 52.2653023,-7.1094697,2,Dock Road (671),a
 52.2653043,-7.1032882,2,Fountain Street (042),a
 52.265306,-7.1149281,2,Dock Road (727),a
+52.2653132,-7.1102726,2,Dock Road (557),a
 52.2653197,-7.103234,2,Fountain Street (822),a
 52.2653211,-7.1032289,2,Fountain Street (821),a
 52.2653214,-7.1150899,2,Dock Road (728),a
@@ -20266,6 +20213,8 @@ lat,lon,sz,names,len_cat
 52.2653623,-7.1056968,2,Rockshire Court (132),a
 52.2653623,-7.1056968,2,Rockshire Court (132),a
 52.2653637,-7.1056563,2,Rockshire Court (133),a
+52.2653637,-7.1056563,2,Rockshire Court (133),a
+52.265364,-7.1154062,2,Dock Road (729),a
 52.2653647,-7.1031003,2,Abbey Road (980),a
 52.2653647,-7.1031003,2,Fountain Street (044),a
 52.2653667,-7.1056294,2,Rockshire Court (134),a
@@ -20278,6 +20227,7 @@ lat,lon,sz,names,len_cat
 52.2653723,-7.1061517,2,Rockshire Road (900),a
 52.2653723,-7.1061517,2,Rockshire Road (900),a
 52.2653733,-7.1144062,2,Dock Road (425),a
+52.2653733,-7.1144062,2,Dock Road (682),a
 52.2653742,-7.114537,2,Dock Road (779),a
 52.2653748,-7.1142907,2,Dock Road (806),a
 52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (021),a
@@ -20286,6 +20236,7 @@ lat,lon,sz,names,len_cat
 52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (025),a
 52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (042),a
 52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (042),a
+52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (057),a
 52.2653779,-7.1181741,2,Brother Edmund Ignatius Rice Bridge (057),a
 52.2653786,-7.1141461,2,Dock Road (804),a
 52.2653801,-7.1056035,2,Rockshire Court (136),a
@@ -20305,6 +20256,7 @@ lat,lon,sz,names,len_cat
 52.2654119,-7.1151413,2,Dock Road (776),a
 52.2654132,-7.1129397,2,Dock Road (809),a
 52.2654142,-7.1408545,2,Ard Álainn (565),a
+52.2654149,-7.1156815,2,Dock Road (544),a
 52.2654156,-7.1101912,2,Dock Road (669),a
 52.265416,-7.1131933,2,Dock Road (805),a
 52.265416,-7.1131933,2,Dock Road (807),a
@@ -20318,10 +20270,12 @@ lat,lon,sz,names,len_cat
 52.2654357,-7.1181527,2,Brother Edmund Ignatius Rice Bridge (137),a
 52.2654357,-7.1181527,2,Brother Edmund Ignatius Rice Bridge (137),a
 52.2654373,-7.1028398,2,Fountain Street (540),a
+52.2654452,-7.1121669,2,Dock Road (795),a
 52.2654478,-7.1104619,2,Dock Road (757),a
 52.2654481,-7.1120348,2,Dock Road (665),a
 52.2654543,-7.1154302,2,Dock Road (775),a
 52.2654544,-7.1028903,2,Fountain Street (266),a
+52.2654579,-7.1181209,2,Brother Edmund Ignatius Rice Bridge (782),a
 52.2654581,-7.1115648,2,Dock Road (666),a
 52.2654608,-7.1106251,2,Dock Road (668),a
 52.2654678,-7.138201,2,Sherlock Walk (453),a
@@ -20336,6 +20290,7 @@ lat,lon,sz,names,len_cat
 52.265486,-7.1028161,2,Ross Road (864),a
 52.265487,-7.1181418,2,Brother Edmund Ignatius Rice Bridge (026),a
 52.265487,-7.1181418,2,Brother Edmund Ignatius Rice Bridge (026),a
+52.2654961,-7.1238561,2,Bilberry Road (995),a
 52.2655049,-7.1366221,2,Quarry Road (241),a
 52.2655105,-7.1157116,2,Dock Road (774),a
 52.2655128,-7.1160571,2,Dock Road (534),a
@@ -20355,11 +20310,15 @@ lat,lon,sz,names,len_cat
 52.2655712,-7.1159428,2,Dock Road (661),a
 52.2655712,-7.1159428,2,Dock Road (678),a
 52.2655734,-7.1274548,2,Bilberry Road (006),a
+52.2655763,-7.1241312,2,Bilberry Road (997),a
 52.2655792,-7.1061452,2,Rockshire Road (901),a
 52.2655792,-7.1061452,2,Rockshire Road (901),a
+52.2655842,-7.1277876,2,Bilberry Road (009),a
 52.2655906,-7.1043536,2,Marymount (751),a
+52.2655964,-7.1269475,2,Bilberry Road (003),a
 52.265598,-7.1279821,2,Bilberry Road (581),a
 52.2655991,-7.1180457,2,Brother Edmund Ignatius Rice Bridge (785),a
+52.2656034,-7.1160486,2,Dock Road (732),a
 52.2656093,-7.1055503,2,Rockshire Court (140),a
 52.2656093,-7.1055503,2,Rockshire Court (140),a
 52.2656155,-7.1027092,2,Ross Road (709),a
@@ -20372,6 +20331,7 @@ lat,lon,sz,names,len_cat
 52.2656333,-7.1261206,2,Bilberry Road (580),a
 52.2656392,-7.1244332,2,Bilberry Road (998),a
 52.2656442,-7.1180294,2,Brother Edmund Ignatius Rice Bridge (786),a
+52.2656442,-7.1180294,2,Brother Edmund Ignatius Rice Bridge (786),a
 52.2656458,-7.1161809,2,Dock Road (731),a
 52.2656547,-7.1181438,2,Brother Edmund Ignatius Rice Bridge (027),a
 52.2656547,-7.1181438,2,Brother Edmund Ignatius Rice Bridge (027),a
@@ -20382,6 +20342,7 @@ lat,lon,sz,names,len_cat
 52.2656656,-7.1164997,2,Dock Road (124),a
 52.2656669,-7.1043688,2,Marymount (753),a
 52.2656701,-7.1247151,2,Bilberry Road (000),a
+52.2656717,-7.1249938,2,Bilberry Road (002),a
 52.2656742,-7.1248461,2,Bilberry Road (001),a
 52.2656871,-7.1178861,2,Brother Edmund Ignatius Rice Bridge (952),a
 52.2656871,-7.1178861,2,Brother Edmund Ignatius Rice Bridge (952),a
@@ -20398,6 +20359,7 @@ lat,lon,sz,names,len_cat
 52.2657256,-7.1055336,2,Rockshire Court (141),a
 52.2657283,-7.1395028,2,Ard Álainn (588),a
 52.2657382,-7.1178105,2,Brother Edmund Ignatius Rice Bridge (951),a
+52.2657382,-7.1178105,2,Brother Edmund Ignatius Rice Bridge (951),a
 52.2657478,-7.1180087,2,Brother Edmund Ignatius Rice Bridge (789),a
 52.2657478,-7.1180087,2,Brother Edmund Ignatius Rice Bridge (789),a
 52.2657548,-7.1043731,2,Marymount (755),a
@@ -20407,10 +20369,12 @@ lat,lon,sz,names,len_cat
 52.2657632,-7.1061914,2,Rockshire Road (905),a
 52.2657745,-7.1366218,2,Quarry Road (876),a
 52.2657773,-7.1181778,2,Brother Edmund Ignatius Rice Bridge (142),a
+52.2657773,-7.1181778,2,Brother Edmund Ignatius Rice Bridge (142),a
 52.2657851,-7.117733,2,Brother Edmund Ignatius Rice Bridge (946),a
 52.2657851,-7.117733,2,Brother Edmund Ignatius Rice Bridge (946),a
 52.2657917,-7.1399511,2,Ard Álainn (597),a
 52.2657967,-7.1055464,2,Rockshire Court (143),a
+52.2657977,-7.1292975,2,Bilberry Road (582),a
 52.2657998,-7.1180113,2,Brother Edmund Ignatius Rice Bridge (023),a
 52.2657998,-7.1180113,2,Brother Edmund Ignatius Rice Bridge (023),a
 52.265802,-7.1043685,2,Marymount (756),a
@@ -20421,14 +20385,19 @@ lat,lon,sz,names,len_cat
 52.2658186,-7.1401524,2,Ard Álainn (585),a
 52.2658251,-7.118203,2,Brother Edmund Ignatius Rice Bridge (029),a
 52.2658251,-7.118203,2,Brother Edmund Ignatius Rice Bridge (029),a
+52.2658263,-7.1169093,2,Dock Road (126),a
 52.2658321,-7.1025718,2,Ross Road (711),a
+52.265834,-7.1176392,2,Dock Road (171),a
 52.2658459,-7.1043612,2,Marymount (757),a
 52.2658474,-7.1180223,2,Brother Edmund Ignatius Rice Bridge (791),a
+52.2658474,-7.1180223,2,Brother Edmund Ignatius Rice Bridge (791),a
+52.265852,-7.1175843,2,Dock Road (489),a
 52.2658521,-7.1167359,2,Dock Road (729),a
 52.2658671,-7.1182329,2,Brother Edmund Ignatius Rice Bridge (143),a
 52.2658671,-7.1182329,2,Brother Edmund Ignatius Rice Bridge (143),a
 52.2658719,-7.1062394,2,Rockshire Road (907),a
 52.2658719,-7.1062394,2,Rockshire Road (907),a
+52.2658733,-7.1180301,2,Brother Edmund Ignatius Rice Bridge (067),a
 52.2658735,-7.1389197,2,Sherlock Walk (449),a
 52.2658766,-7.1170666,2,Dock Road (537),a
 52.2658766,-7.1170666,2,Dock Road (626),a
@@ -20443,15 +20412,20 @@ lat,lon,sz,names,len_cat
 52.2659071,-7.1182663,2,Brother Edmund Ignatius Rice Bridge (030),a
 52.2659106,-7.1055943,2,Rockshire Court (144),a
 52.2659106,-7.1055943,2,Rockshire Court (144),a
+52.2659115,-7.1169048,2,Dock Road (727),a
 52.265919,-7.1180547,2,Terminus Street (153),a
 52.265919,-7.1180547,2,Terminus Street (153),a
+52.2659259,-7.1182854,2,Brother Edmund Ignatius Rice Bridge (377),a
 52.2659317,-7.1182914,2,Brother Edmund Ignatius Rice Bridge (033),a
 52.2659317,-7.1182914,2,Brother Edmund Ignatius Rice Bridge (033),a
 52.265933,-7.1301725,2,Bilberry Road (583),a
+52.265933,-7.1301725,2,Bilberry Road (583),a
+52.2659338,-7.1180857,2,Terminus Street (364),a
 52.2659391,-7.1169909,2,Dock Road (658),a
 52.2659419,-7.1043314,2,Marymount (759),a
 52.2659601,-7.1181292,2,Terminus Street (365),a
 52.2659601,-7.1181292,2,Terminus Street (365),a
+52.2659623,-7.1183341,2,Brother Edmund Ignatius Rice Bridge (146),a
 52.2659625,-7.1170768,2,Dock Road (694),a
 52.2659832,-7.1171652,2,Dock Road (693),a
 52.2659833,-7.1181832,2,Terminus Street (366),a
@@ -20464,8 +20438,10 @@ lat,lon,sz,names,len_cat
 52.2660058,-7.1182508,2,Terminus Street (461),a
 52.2660102,-7.1182641,2,Terminus Street (367),a
 52.2660102,-7.1182641,2,Terminus Street (367),a
+52.2660174,-7.1173472,2,Dock Road (689),a
 52.266028,-7.1184525,2,Brother Edmund Ignatius Rice Bridge (147),a
 52.266028,-7.1184525,2,Brother Edmund Ignatius Rice Bridge (147),a
+52.2660316,-7.1174462,2,Dock Road (688),a
 52.2660423,-7.1175282,2,Dock Road (686),a
 52.2660428,-7.1042842,2,Marymount (761),a
 52.2660475,-7.1024568,2,Marymount (159),a
@@ -20475,27 +20451,38 @@ lat,lon,sz,names,len_cat
 52.2660611,-7.117656,2,Dock Road (684),a
 52.2660611,-7.117656,2,Dock Road (684),a
 52.2660719,-7.1177038,2,Dock Road (683),a
+52.2660719,-7.1177038,2,Dock Road (683),a
 52.2660764,-7.1185091,2,Terminus Street (369),a
 52.2660764,-7.1185091,2,Terminus Street (369),a
+52.2660833,-7.131389,2,Bilberry Road (584),a
 52.2660833,-7.131389,2,Bilberry Road (584),a
 52.2660861,-7.1063413,2,Rockshire Road (908),a
 52.2660861,-7.1063413,2,Rockshire Road (908),a
 52.2660869,-7.1178305,2,Terminus Street (883),a
+52.2660869,-7.1178305,2,Terminus Street (883),a
+52.2660877,-7.1179107,2,Terminus Street (882),a
 52.2660915,-7.1179876,2,Terminus Street (881),a
 52.2660915,-7.1179876,2,Terminus Street (881),a
+52.2660929,-7.1186141,2,Brother Edmund Ignatius Rice Bridge (150),a
+52.2660985,-7.1180696,2,Terminus Street (880),a
 52.2661106,-7.1181652,2,Terminus Street (879),a
+52.2661106,-7.1181652,2,Terminus Street (879),a
+52.2661239,-7.118245,2,Terminus Street (259),a
 52.2661239,-7.118245,2,Terminus Street (259),a
 52.2661242,-7.131647,2,Bilberry Road (014),a
 52.2661274,-7.1028758,2,Marymount (158),a
 52.2661323,-7.1187341,2,Brother Edmund Ignatius Rice Bridge (037),a
 52.2661323,-7.1187341,2,Brother Edmund Ignatius Rice Bridge (037),a
+52.2661323,-7.1187341,2,Terminus Street (811),a
 52.2661323,-7.1187341,2,Terminus Street (812),a
 52.2661323,-7.1187341,2,Terminus Street (812),a
 52.2661325,-7.1182897,2,Terminus Street (462),a
 52.2661325,-7.1182897,2,Terminus Street (462),a
 52.266141,-7.1183337,2,Terminus Street (878),a
+52.266141,-7.1183337,2,Terminus Street (878),a
 52.2661626,-7.136624,2,Quarry Road (240),a
 52.2661632,-7.1023953,2,Ross Road (713),a
+52.2661646,-7.118441,2,Terminus Street (877),a
 52.2661678,-7.1318906,2,Bilberry Road (015),a
 52.2661903,-7.1185448,2,Terminus Street (876),a
 52.2661903,-7.1185448,2,Terminus Street (876),a
@@ -20514,6 +20501,7 @@ lat,lon,sz,names,len_cat
 52.2663025,-7.1038782,2,Marymount (157),a
 52.2663171,-7.1366169,2,Quarry Road (239),a
 52.266318,-7.1194482,2,Terminus Street (938),a
+52.266318,-7.1194482,2,Terminus Street (938),a
 52.2663204,-7.1367202,2,Bowefield River Park (457),a
 52.2663254,-7.1040136,2,Marymount (156),a
 52.2663255,-7.1368185,2,Bowefield River Park (458),a
@@ -20530,6 +20518,7 @@ lat,lon,sz,names,len_cat
 52.2663797,-7.1370605,2,Bowefield River Park (462),a
 52.2663856,-7.1328697,2,Bilberry Road (018),a
 52.2663929,-7.1335903,2,Ard Rua (966),a
+52.266394,-7.1064807,2,Rockshire Road (489),a
 52.266394,-7.1064807,2,Rockshire Road (489),a
 52.2663972,-7.1045497,2,Marymount (153),a
 52.2664048,-7.106335,2,Marymount (148),a
@@ -20554,6 +20543,7 @@ lat,lon,sz,names,len_cat
 52.2664682,-7.1200372,2,Terminus Street (940),a
 52.2664803,-7.1023614,2,Rockenham (897),a
 52.266481,-7.1332538,2,Bilberry Road (019),a
+52.2664834,-7.119694,2,Terminus Street (875),a
 52.2664868,-7.1339399,2,Ard Rua (968),a
 52.2664887,-7.1371682,2,Bowefield River Park (465),a
 52.266494,-7.1021161,2,Ross Road (720),a
@@ -20569,17 +20559,22 @@ lat,lon,sz,names,len_cat
 52.2665337,-7.1020583,2,Ross Road (722),a
 52.2665381,-7.104098,2,Marymount (768),a
 52.2665464,-7.1203035,2,Sallypark (284),a
+52.2665464,-7.1203035,2,Terminus Street (262),a
+52.2665501,-7.1199628,2,Terminus Street (872),a
 52.266556,-7.1024187,2,Rockenham (900),a
 52.2665565,-7.1020195,2,Ross Road (723),a
 52.2665769,-7.1065547,2,Rockshire Road (911),a
 52.2665769,-7.1065547,2,Rockshire Road (911),a
 52.2665769,-7.1040964,2,Marymount (769),a
 52.2665783,-7.1353076,2,Ard Rua (668),a
+52.2665809,-7.1200768,2,Terminus Street (871),a
 52.266581,-7.1019699,2,Ross Road (724),a
 52.2665881,-7.133645,2,Bilberry Road (021),a
+52.2665889,-7.120421,2,Sallypark (885),a
 52.2665913,-7.1024292,2,Rockenham (901),a
 52.266603,-7.1372483,2,Bowefield River Park (402),a
 52.2666071,-7.1019148,2,Ross Road (725),a
+52.266613,-7.1201835,2,Sallypark (283),a
 52.266613,-7.1201835,2,Terminus Street (258),a
 52.2666194,-7.1040989,2,Marymount (770),a
 52.2666258,-7.1358689,2,Ard Rua (671),a
@@ -20591,6 +20586,7 @@ lat,lon,sz,names,len_cat
 52.2666592,-7.1041054,2,Marymount (771),a
 52.2666649,-7.1017779,2,Ross Road (630),a
 52.2666649,-7.1017779,2,Ross Road (633),a
+52.2666706,-7.1206124,2,Sallypark (887),a
 52.2666796,-7.1343659,2,Ard Rua (970),a
 52.2666884,-7.1373137,2,Bowefield River Park (466),a
 52.266699,-7.1041171,2,Marymount (772),a
@@ -20619,6 +20615,7 @@ lat,lon,sz,names,len_cat
 52.2668404,-7.1346353,2,Ard Rua (971),a
 52.2668427,-7.1024602,2,Rockenham (905),a
 52.2668452,-7.1041937,2,Marymount (776),a
+52.2668614,-7.1209429,2,Sallypark (889),a
 52.2668619,-7.1024527,2,Rockenham (906),a
 52.2668681,-7.1207322,2,Sallypark (853),a
 52.2668736,-7.1347327,2,Ard Rua (972),a
@@ -20629,6 +20626,7 @@ lat,lon,sz,names,len_cat
 52.26689,-7.137472,2,Bowefield River Park (469),a
 52.2668961,-7.1342528,2,Bilberry Road (024),a
 52.2669018,-7.1024205,2,Rockenham (908),a
+52.266915,-7.1208027,2,Sallypark (847),a
 52.266921,-7.1042609,2,Marymount (778),a
 52.2669227,-7.136612,2,Quarry Road (863),a
 52.2669239,-7.102393,2,Rockenham (909),a
@@ -20657,6 +20655,7 @@ lat,lon,sz,names,len_cat
 52.2669966,-7.1019006,2,Rockenham (919),a
 52.2670043,-7.1209333,2,Sallypark (281),a
 52.2670043,-7.1209333,2,Sallypark (753),a
+52.2670054,-7.1211575,2,Sallypark (286),a
 52.2670054,-7.1211575,2,Sallypark (752),a
 52.2670071,-7.1025696,2,Rockenham (964),a
 52.2670125,-7.1344228,2,Bilberry Road (025),a
@@ -20718,6 +20717,7 @@ lat,lon,sz,names,len_cat
 52.2673705,-7.1035807,2,Rockenham (975),a
 52.2673715,-7.1384304,2,Bowefield River Park (609),a
 52.267394,-7.1216162,2,Sallypark (961),a
+52.2673953,-7.1219509,2,Sallypark (951),a
 52.2673968,-7.1036438,2,Rockenham (976),a
 52.2674014,-7.1006494,2,Rockenham (930),a
 52.267402,-7.1002839,2,Rockenham (834),a

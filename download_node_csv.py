@@ -92,6 +92,7 @@ class City(str, Enum):
     BARRIE       = 132377  # 🌍
     RICHMOND_HILL = 37878  # 🌍
     WATERFORD    = 85187  # 🌍
+    KINSALE      = 86659  # 🌍
 # fmt: on
 
 
@@ -204,6 +205,7 @@ CityGrids = {
     City.BARRIE:         CityGrid(-79.5859115, 44.4245913, -79.7456044, 44.2937481),
     City.RICHMOND_HILL:  CityGrid(-79.3708618, 43.9776956, -79.4855416, 43.8275458),
     City.WATERFORD:      CityGrid(-7.0338797, 52.2798229, -7.1869522, 52.2102427),
+    City.KINSALE:        CityGrid(-8.4897026, 51.7157766, -8.5424283, 51.6927609),
 }
 # fmt: on
 

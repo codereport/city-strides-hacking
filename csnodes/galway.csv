@@ -6577,8 +6577,6 @@ lat,lon,sz,names,len_cat
 53.270295,-9.0759604,2,Rivendell (643),a
 53.270295,-9.0759604,2,Rivendell (643),a
 53.2702957,-9.0686,2,Averard East (348),a
-53.2702984,-9.0551376,2,Spanish Parade (216),a
-53.2702984,-9.0551376,2,Wolfe Tone Bridge (947),a
 53.2703034,-9.1014247,2,Bóthar Stiofáin (088),a
 53.2703034,-9.1014247,2,Bóthar Stiofáin (140),a
 53.2703034,-9.1014247,2,Bóthar Stiofáin (142),a
@@ -6586,7 +6584,6 @@ lat,lon,sz,names,len_cat
 53.270306,-9.074757,2,Ard Na Coille (687),a
 53.2703063,-9.1039704,2,Hawthorn Place (962),a
 53.2703071,-9.1245354,2,Clairin (606),a
-53.2703076,-9.0551161,2,Spanish Parade (048),a
 53.2703082,-9.0959463,2,An Logán (900),a
 53.2703113,-9.0766961,2,Beechmount Avenue (134),a
 53.2703113,-9.0766961,2,Beechmount Avenue (134),a
@@ -6627,9 +6624,6 @@ lat,lon,sz,names,len_cat
 53.2703688,-9.0761567,2,Cedarwood Close (387),a
 53.2703688,-9.0761567,2,Rivendell (637),a
 53.2703688,-9.0761567,2,Rivendell (637),a
-53.2703694,-9.0549612,2,Spanish Parade (049),a
-53.2703694,-9.0549612,2,Spanish Parade (160),a
-53.2703694,-9.0549612,2,Spanish Parade (211),a
 53.27037,-9.0959458,2,An Logán (901),a
 53.270373,-9.0174912,2,Ballyloughane Road (358),a
 53.2703756,-9.0807336,2,Saint Claires (547),a
@@ -6668,7 +6662,6 @@ lat,lon,sz,names,len_cat
 53.2704166,-9.1051862,2,Hawthorn Place (014),a
 53.2704249,-9.0761029,2,Cedarwood Close (385),a
 53.2704249,-9.0761029,2,Cedarwood Close (385),a
-53.2704271,-9.0548687,2,Spanish Parade (044),a
 53.2704295,-9.0873417,2,Friars Hill (883),a
 53.2704295,-9.0873417,2,Friars Hill (883),a
 53.2704346,-9.0472387,2,Galway Harbour Enterprise Park (676),a
@@ -6677,7 +6670,6 @@ lat,lon,sz,names,len_cat
 53.2704388,-9.1054286,2,Hawthorn Place (046),a
 53.2704394,-9.0822842,2,Droim Chaoin (530),a
 53.2704462,-9.0736033,2,Madden's Lane (503),a
-53.2704462,-9.0548218,2,Spanish Parade (163),a
 53.2704491,-9.0868066,2,Bishop O'Donnell Road (667),a
 53.2704491,-9.0868066,2,Bishop O'Donnell Road (667),a
 53.2704491,-9.0868066,2,Bishop O'Donnell Road (980),a
@@ -9557,7 +9549,6 @@ lat,lon,sz,names,len_cat
 53.2737151,-9.0572214,2,Nun's Island (370),a
 53.2737154,-9.0902597,2,Ros Geal (945),a
 53.2737175,-8.9916066,2,Rosshill Road (552),a
-53.2737179,-9.0460638,2,Station Road (833),a
 53.273719,-9.0686174,2,McDara Road (115),a
 53.2737198,-9.0676983,2,O'Flaherty Road (446),a
 53.2737216,-9.0183733,2,Elm Park (692),a
@@ -9576,7 +9567,6 @@ lat,lon,sz,names,len_cat
 53.27373,-8.989877,2,Rosshill Road (556),a
 53.27373,-8.989877,2,Rosshill Road (556),a
 53.2737304,-9.1079928,2,Clybaun Road Upper (324),a
-53.2737307,-9.0460409,2,Station Road (832),a
 53.2737314,-9.1346706,2,Cappagh Road (517),a
 53.2737314,-9.1346706,2,Cappagh Road (517),a
 53.2737321,-9.0833858,2,Corrach Buí (077),a
@@ -9592,8 +9582,6 @@ lat,lon,sz,names,len_cat
 53.273746,-9.1179224,2,Fána Buí (597),a
 53.2737464,-9.1079902,2,Clybaun Road Upper (323),a
 53.2737486,-9.0122498,2,Murrough Park (258),a
-53.2737496,-9.0460053,2,Station Road (073),a
-53.2737496,-9.0460053,2,Station Road (380),a
 53.2737512,-9.0004633,2,Lios an Uisce (327),a
 53.2737513,-9.1053152,2,Cartúr Mór (352),a
 53.2737541,-9.091502,2,Ros Geal (036),a
@@ -9612,7 +9600,6 @@ lat,lon,sz,names,len_cat
 53.2737666,-9.0848888,2,Rockfield Park (976),a
 53.2737697,-9.0305129,2,Lakeshore Drive (838),a
 53.2737698,-9.0915049,2,Ros Geal (038),a
-53.2737717,-9.0459651,2,Station Road (242),a
 53.2737744,-9.1063105,2,Cartúr Mór (505),a
 53.2737744,-8.9925441,2,Rosshill Road (550),a
 53.2737776,-9.1070169,2,Cnoc na Rí (930),a
@@ -9694,8 +9681,6 @@ lat,lon,sz,names,len_cat
 53.2738352,-9.0015698,2,Lios an Uisce (341),a
 53.2738384,-9.0914578,2,Ros Geal (044),a
 53.2738388,-9.0021496,2,Lios an Uisce (351),a
-53.2738397,-9.0467638,2,Frenchville Lane (016),a
-53.2738397,-9.0467638,2,Frenchville Lane (497),a
 53.2738413,-9.0207265,2,Holly Grove (037),a
 53.2738414,-9.0793753,2,Rahoon Road (687),a
 53.2738414,-8.9935299,2,Rosshill Road (548),a
@@ -9736,7 +9721,6 @@ lat,lon,sz,names,len_cat
 53.2738693,-9.115966,2,Ard Cré (634),a
 53.273871,-8.993748,2,Rosshill Road (547),a
 53.273871,-8.993748,2,Rosshill Road (595),a
-53.2738717,-9.0457694,2,Station Road (241),a
 53.2738733,-9.0914199,2,Ros Geal (046),a
 53.2738735,-8.9768481,2,Reileán (891),a
 53.2738735,-8.9768481,2,Reileán (891),a
@@ -9874,7 +9858,6 @@ lat,lon,sz,names,len_cat
 53.274,-9.0185326,2,Rowan Avenue (598),a
 53.2740008,-9.0893405,2,Cruachan Park (995),a
 53.274001,-9.0127433,2,Murrough Park (412),a
-53.2740023,-9.0449476,2,Fairgreen Road (187),a
 53.2740036,-9.1349011,2,Cappagh Road (514),a
 53.2740036,-9.1349011,2,Cappagh Road (514),a
 53.2740063,-9.0820021,2,Corrach Buí (063),a
@@ -9947,7 +9930,6 @@ lat,lon,sz,names,len_cat
 53.2740631,-9.0861213,2,Rockfield Park (788),a
 53.274066,-9.0839061,2,Corrach Buí (030),a
 53.2740667,-9.0313689,2,Lakeshore Drive (816),a
-53.2740685,-9.0453422,2,Station Road (378),a
 53.2740701,-9.0565627,2,Gaol Road (257),a
 53.2740706,-9.089847,2,Ros Geal (108),a
 53.2740719,-8.9765317,2,Reileán (894),a
@@ -10060,9 +10042,6 @@ lat,lon,sz,names,len_cat
 53.2741349,-9.1102317,2,Cúl Aitinn (953),a
 53.2741358,-9.0313776,2,Lakeshore Drive (810),a
 53.274137,-9.0903613,2,Ros Geal (069),a
-53.2741391,-9.0451813,2,Fairgreen Road (186),a
-53.2741391,-9.0451813,2,Fairgreen Road (450),a
-53.2741391,-9.0451813,2,Station Road (240),a
 53.27414,-9.1072573,2,Garraí Coirce (627),a
 53.27414,-9.1040637,2,Cartúr Mór (445),a
 53.2741412,-9.1068612,2,Garraí Coirce (284),a
@@ -10092,7 +10071,6 @@ lat,lon,sz,names,len_cat
 53.2741545,-9.1095139,2,Cúl Aitinn (956),a
 53.2741568,-9.0076536,2,Lurgan Park (992),a
 53.2741572,-8.9999712,2,Lios an Uisce (428),a
-53.2741576,-9.0465246,2,Frenchville Lane (015),a
 53.2741592,-9.1091565,2,Cúl Aitinn (957),a
 53.2741592,-9.1091565,2,Cúl Aitinn (957),a
 53.2741596,-9.0926898,2,Gort Gréine (028),a
@@ -10255,7 +10233,6 @@ lat,lon,sz,names,len_cat
 53.2742677,-9.0220403,2,Beechpark (174),a
 53.2742678,-9.0015749,2,Lios an Uisce (299),a
 53.2742682,-8.9743264,2,Reileán (902),a
-53.2742687,-9.0453575,2,Fairgreen Road (846),a
 53.274269,-9.0871545,2,Rockfield Park (805),a
 53.274269,-9.0871545,2,Rockfield Park (805),a
 53.2742695,-9.0089729,2,Lurgan Park (078),a
@@ -10282,7 +10259,6 @@ lat,lon,sz,names,len_cat
 53.2742826,-9.1009235,2,Cloch Ard (968),a
 53.2742854,-8.9741629,2,Reileán (904),a
 53.2742855,-9.0802986,2,Seamus Quirke Road (551),a
-53.2742863,-9.0453756,2,Fairgreen Road (849),a
 53.2742866,-9.090841,2,Ros Geal (061),a
 53.2742867,-9.0814641,2,Corrach Buí (043),a
 53.2742869,-9.0907962,2,Ros Geal (063),a
@@ -10443,7 +10419,6 @@ lat,lon,sz,names,len_cat
 53.2744112,-9.0857057,2,Rockfield Park (841),a
 53.2744112,-9.0857057,2,Rockfield Park (841),a
 53.2744112,-9.0184177,2,Rowan Avenue (602),a
-53.2744115,-9.0455046,2,Fairgreen Road (845),a
 53.2744122,-9.0992239,2,Riasc Na Rí (810),a
 53.2744122,-9.0992239,2,Riasc Na Rí (810),a
 53.2744168,-9.0030183,2,Lios an Uisce (317),a
@@ -10489,14 +10464,12 @@ lat,lon,sz,names,len_cat
 53.2744486,-9.0096589,2,Murrough Drive (356),a
 53.2744493,-9.0032927,2,Lios an Uisce (370),a
 53.2744511,-9.1023316,2,Cloch Ard (939),a
-53.2744511,-9.0455373,2,Fairgreen Road (848),a
 53.2744513,-9.0290901,2,Renmore Crescent (541),a
 53.274452,-9.014472,2,Ballyloughane Road (394),a
 53.2744552,-9.0033324,2,Lios an Uisce (369),a
 53.274458,-9.067771,2,O'Flaherty Road (610),a
 53.2744583,-9.0994356,2,Riasc Na Rí (804),a
 53.2744583,-9.0994356,2,Riasc Na Rí (811),a
-53.2744591,-9.0455439,2,Fairgreen Road (847),a
 53.2744591,-8.9696797,2,Caiseal Cam (138),a
 53.2744637,-8.974784,2,Reileán (110),a
 53.2744642,-9.0033767,2,Lios an Uisce (368),a
@@ -10724,8 +10697,6 @@ lat,lon,sz,names,len_cat
 53.27463,-9.102308,2,Cloch Ard (947),a
 53.2746354,-8.9708788,2,Caiseal Cam (276),a
 53.2746368,-9.0004366,2,Lios an Uisce (429),a
-53.2746369,-9.0456904,2,Fairgreen Road (180),a
-53.2746369,-9.0456904,2,Fairgreen Road (449),a
 53.2746382,-9.1153347,2,Ard Cré (096),a
 53.2746387,-9.00904,2,Murrough Drive (349),a
 53.27464,-8.9997979,2,Lios an Uisce (461),a
@@ -10803,7 +10774,6 @@ lat,lon,sz,names,len_cat
 53.2747027,-9.0838483,2,Corrach Buí (103),a
 53.2747031,-9.1035025,2,Cartúr Mór (497),a
 53.2747037,-9.0446451,2,The Elms (210),a
-53.2747051,-9.0457472,2,Fairgreen Road (176),a
 53.2747055,-8.9709093,2,Caiseal Cam (277),a
 53.2747069,-9.0000395,2,Lios an Uisce (460),a
 53.2747107,-9.0666524,2,Costello Road (529),a
@@ -10884,7 +10854,6 @@ lat,lon,sz,names,len_cat
 53.2747683,-9.0668382,2,Costello Road (531),a
 53.2747684,-9.1054442,2,Cartúr Mór (385),a
 53.2747702,-9.0444067,2,The Elms (217),a
-53.2747718,-9.0457769,2,Fairgreen Road (403),a
 53.2747726,-9.011368,2,Murrough Avenue (509),a
 53.2747749,-9.0075072,2,Lurgan Park (022),a
 53.2747764,-9.0130415,2,Murrough Avenue (454),a
@@ -10940,9 +10909,6 @@ lat,lon,sz,names,len_cat
 53.2748102,-9.1054637,2,Cartúr Mór (387),a
 53.2748111,-9.0669762,2,Costello Road (533),a
 53.2748112,-9.1065838,2,Cartúr Mór (459),a
-53.2748118,-9.0457947,2,Fairgreen Road (174),a
-53.2748118,-9.0457947,2,Fairgreen Road (447),a
-53.2748118,-9.0457947,2,Fairgreen Road (448),a
 53.2748128,-9.1065073,2,Cartúr Mór (460),a
 53.2748133,-9.0991237,2,Riasc Na Rí (805),a
 53.2748133,-9.0991237,2,Riasc Na Rí (805),a
@@ -11267,7 +11233,6 @@ lat,lon,sz,names,len_cat
 53.2750796,-9.0009695,2,Lios an Uisce (410),a
 53.2750796,-9.0009695,2,Lios an Uisce (431),a
 53.2750818,-8.9699487,2,Caiseal Cam (163),a
-53.275082,-9.0459539,2,Fairgreen Road (421),a
 53.2750823,-9.0909719,2,Gort Gréine (012),a
 53.2750824,-9.0774357,2,Seamus Quirke Road (018),a
 53.2750824,-9.0774357,2,Seamus Quirke Road (019),a
@@ -11280,7 +11245,6 @@ lat,lon,sz,names,len_cat
 53.2750995,-9.0707188,2,Colmcille Road (981),a
 53.2751018,-9.0436413,2,The Elms (223),a
 53.275103,-9.0822352,2,Corrach Buí (138),a
-53.2751068,-9.0459981,2,Fairgreen Road (544),a
 53.2751088,-9.0909324,2,Gort Gréine (889),a
 53.275111,-9.101371,2,Riasc Na Rí (825),a
 53.2751112,-8.9714344,2,Caiseal Cam (197),a
@@ -11288,26 +11252,19 @@ lat,lon,sz,names,len_cat
 53.2751132,-9.0266136,2,Dún na Mara (973),a
 53.2751132,-9.0266136,2,Dún na Mara (973),a
 53.2751139,-9.1078536,2,Clybaun Road Upper (301),a
-53.2751149,-9.0460127,2,Fairgreen Road (422),a
 53.2751159,-9.1047066,2,Cartúr Mór (480),a
 53.2751169,-9.0986315,2,Riasc Na Rí (831),a
 53.275118,-9.084551,2,Corrach Buí (114),a
-53.2751215,-9.0460402,2,Fairgreen Road (557),a
 53.2751223,-9.0694733,2,Fursey Road (641),a
 53.2751268,-9.0581874,2,Gaol Road (181),a
 53.2751272,-9.1059897,2,Cartúr Mór (403),a
 53.2751273,-9.1002719,2,Riasc Na Rí (837),a
-53.2751274,-9.0462152,2,Fairgreen Road (424),a
-53.2751274,-9.0462152,2,Forster Street (493),a
-53.2751274,-9.0462152,2,Forster Street (494),a
-53.2751274,-9.0462152,2,Forster Street (958),a
 53.2751293,-8.9999714,2,Dublin Road (567),a
 53.2751296,-8.9668398,2,Boireann Bheag (097),a
 53.2751296,-8.9668398,2,Boireann Bheag (097),a
 53.2751296,-8.9668398,2,Boireann Bheag (107),a
 53.2751296,-8.9668398,2,Boireann Bheag (107),a
 53.2751306,-9.0822613,2,Corrach Buí (137),a
-53.2751323,-9.0460988,2,Fairgreen Road (423),a
 53.2751333,-8.966429,2,Boireann Bheag (108),a
 53.2751333,-8.966429,2,Boireann Bheag (108),a
 53.2751341,-9.0266667,2,Dún na Mara (974),a
@@ -11329,9 +11286,6 @@ lat,lon,sz,names,len_cat
 53.2751442,-8.9658062,2,Boireann Bheag (110),a
 53.2751451,-9.006431,2,Lurgan Park (477),a
 53.2751468,-9.0771998,2,Seamus Quirke Road (699),a
-53.2751468,-9.044643,2,The Elms (404),a
-53.2751493,-9.0439581,2,The Elms (221),a
-53.2751502,-9.0438442,2,The Elms (222),a
 53.2751505,-9.1000529,2,Riasc Na Rí (830),a
 53.2751506,-8.9656398,2,Boireann Bheag (111),a
 53.2751506,-8.9656398,2,Boireann Bheag (111),a
@@ -11342,7 +11296,6 @@ lat,lon,sz,names,len_cat
 53.2751534,-9.0908633,2,Rahoon Road (872),a
 53.2751548,-9.104735,2,Cartúr Mór (478),a
 53.2751552,-9.1060607,2,Cartúr Mór (405),a
-53.2751552,-9.0458668,2,Fairgreen Road (844),a
 53.2751563,-9.0981791,2,Bóthar Stiofáin (112),a
 53.2751563,-9.0981791,2,Bóthar Stiofáin (112),a
 53.275157,-9.077163,2,Seamus Quirke Road (701),a
@@ -11366,7 +11319,6 @@ lat,lon,sz,names,len_cat
 53.275173,-9.0823054,2,Corrach Buí (136),a
 53.2751754,-9.0770962,2,Seamus Quirke Road (020),a
 53.2751754,-9.0770962,2,Seamus Quirke Road (702),a
-53.2751763,-9.0460156,2,Forster Street (788),a
 53.2751768,-9.1047457,2,Cartúr Mór (477),a
 53.2751793,-9.1061389,2,Cartúr Mór (407),a
 53.2751809,-9.0152493,2,Renmore Avenue (150),a
@@ -11378,11 +11330,9 @@ lat,lon,sz,names,len_cat
 53.2751874,-8.9744556,2,Caiseal Cam (231),a
 53.2751874,-8.9744556,2,Doughiska Road (306),a
 53.2751895,-9.0694142,2,Fursey Road (644),a
-53.2751896,-9.046197,2,Forster Street (776),a
 53.2751916,-9.106194,2,Cartúr Mór (408),a
 53.2751925,-9.0765888,2,Seamus Quirke Road (016),a
 53.2751952,-8.9743384,2,Caiseal Cam (233),a
-53.2751957,-9.0446219,2,The Elms (213),a
 53.2751975,-9.106903,2,Cartúr Mór (420),a
 53.2751981,-9.0682998,2,McDara Road (085),a
 53.2752017,-8.9741613,2,Caiseal Cam (235),a
@@ -11401,10 +11351,6 @@ lat,lon,sz,names,len_cat
 53.2752093,-9.1068494,2,Cartúr Mór (419),a
 53.2752117,-9.1068366,2,Cartúr Mór (453),a
 53.2752135,-9.0900961,2,Rosán Glas (248),a
-53.2752156,-9.0458882,2,Bóthar Bhreandán Ui Eithir (364),a
-53.2752156,-9.0458882,2,Fairgreen Road (357),a
-53.2752156,-9.0458882,2,Forster Street (470),a
-53.2752156,-9.0458882,2,Forster Street (496),a
 53.2752161,-8.9739863,2,Caiseal Cam (237),a
 53.2752168,-9.10631,2,Cartúr Mór (410),a
 53.2752173,-8.970811,2,Caiseal Cam (203),a
@@ -11413,7 +11359,6 @@ lat,lon,sz,names,len_cat
 53.2752176,-9.1178057,2,Ballymoneen Road (511),a
 53.2752176,-9.1178057,2,Ballymoneen Road (650),a
 53.2752193,-9.0050417,2,Lurgan Park (433),a
-53.2752194,-9.0461291,2,Forster Street (775),a
 53.2752196,-9.1067932,2,Cartúr Mór (418),a
 53.2752199,-9.0769345,2,Seamus Quirke Road (957),a
 53.2752214,-9.0842254,2,Corrach Buí (116),a
@@ -11437,7 +11382,6 @@ lat,lon,sz,names,len_cat
 53.2752394,-9.1065563,2,Cartúr Mór (414),a
 53.2752431,-8.9858859,2,Dublin Road (750),a
 53.2752441,-9.0012562,2,Lios an Uisce (407),a
-53.2752444,-9.0460762,2,Forster Street (778),a
 53.2752449,-9.0706165,2,Colmcille Road (979),a
 53.275246,-9.0708364,2,Colmcille Road (549),a
 53.2752487,-8.9654163,2,Boireann Bheag (114),a
@@ -11463,8 +11407,6 @@ lat,lon,sz,names,len_cat
 53.2752735,-8.9668361,2,Boireann Bheag (098),a
 53.2752735,-8.9668361,2,Boireann Bheag (098),a
 53.2752773,-9.1019778,2,Riasc Na Rí (794),a
-53.2752803,-9.0460145,2,Forster Street (779),a
-53.2752804,-9.0457212,2,Forster Street (677),a
 53.2752818,-8.9712134,2,Caiseal Cam (196),a
 53.275289,-9.0627395,2,Ashgrove Road (838),a
 53.275289,-9.0627395,2,Ashgrove Road (838),a
@@ -11478,7 +11420,6 @@ lat,lon,sz,names,len_cat
 53.2752915,-9.1019908,2,Riasc Na Rí (793),a
 53.2752919,-9.1047549,2,Cartúr Mór (474),a
 53.2752933,-9.0051338,2,Lurgan Park (001),a
-53.2752962,-9.0446284,2,The Elms (214),a
 53.2752976,-8.9776118,2,Duirling (392),a
 53.2752976,-8.9776118,2,Duirling (392),a
 53.2752976,-8.9642476,2,Boireann Bheag (174),a
@@ -11495,8 +11436,6 @@ lat,lon,sz,names,len_cat
 53.2753097,-9.0910968,2,Rosán Glas (613),a
 53.2753105,-8.9654158,2,Boireann Bheag (115),a
 53.2753105,-8.9654158,2,Boireann Bheag (115),a
-53.275312,-9.0453459,2,Forster Street (495),a
-53.275312,-9.0453459,2,Forster Street (890),a
 53.2753147,-8.9765828,2,Duirling (356),a
 53.2753147,-8.9765828,2,Duirling (447),a
 53.2753147,-8.9640758,2,Boireann Bheag (659),a
@@ -11506,7 +11445,6 @@ lat,lon,sz,names,len_cat
 53.2753151,-9.0157966,2,Renmore Avenue (152),a
 53.2753161,-9.0013696,2,Lios an Uisce (406),a
 53.2753161,-9.0013696,2,Lios an Uisce (406),a
-53.2753166,-9.0459682,2,Forster Street (773),a
 53.2753166,-8.9639919,2,Boireann Bheag (658),a
 53.2753176,-9.0063464,2,Lurgan Park (422),a
 53.275318,-8.970135,2,Caiseal Cam (171),a
@@ -11537,15 +11475,10 @@ lat,lon,sz,names,len_cat
 53.2753423,-9.1020058,2,Riasc Na Rí (790),a
 53.2753436,-9.0692787,2,Fursey Road (646),a
 53.2753503,-8.9850782,2,Dublin Road (525),a
-53.2753522,-9.0446342,2,Forster Street (889),a
-53.2753522,-9.0446342,2,The Elms (215),a
 53.2753538,-9.0770297,2,Bóthar Le Cheile (967),a
 53.2753546,-9.0851855,2,Claremont Park (255),a
 53.2753546,-9.0851855,2,Claremont Park (983),a
 53.2753546,-9.0851855,2,Claremont Park (983),a
-53.2753552,-9.0459453,2,Bóthar Bhreandán Ui Eithir (597),a
-53.2753552,-9.0459453,2,Bóthar Bhreandán Ui Eithir (681),a
-53.2753552,-9.0459453,2,Forster Street (777),a
 53.2753554,-9.0687045,2,Costello Road (111),a
 53.2753598,-9.0087527,2,Murrough Avenue (924),a
 53.2753609,-9.1047599,2,Cartúr Mór (472),a
@@ -11563,7 +11496,6 @@ lat,lon,sz,names,len_cat
 53.2753667,-9.008793,2,Murrough Avenue (917),a
 53.2753675,-9.074027,2,Ashe Road (863),a
 53.2753683,-9.076818,2,Bóthar Le Cheile (068),a
-53.2753721,-9.0441012,2,Forster Street (888),a
 53.2753758,-9.0859358,2,Claremont Park (743),a
 53.2753758,-9.0859358,2,Claremont Park (743),a
 53.2753778,-8.9731908,2,Caiseal Cam (244),a
@@ -11577,7 +11509,6 @@ lat,lon,sz,names,len_cat
 53.2753913,-8.976479,2,Duirling (448),a
 53.2753913,-8.976479,2,Duirling (473),a
 53.2753918,-9.0768364,2,Bóthar Le Cheile (711),a
-53.2753918,-9.043949,2,Forster Street (887),a
 53.2753954,-9.1047687,2,Cartúr Mór (471),a
 53.2753966,-8.9702279,2,Caiseal Cam (175),a
 53.275397,-9.0041243,2,Lurgan Park (960),a
@@ -11603,7 +11534,6 @@ lat,lon,sz,names,len_cat
 53.2754256,-9.0979097,2,Bóthar Stiofáin (118),a
 53.275426,-9.1047812,2,Cartúr Mór (470),a
 53.2754274,-8.9710447,2,Caiseal Cam (192),a
-53.2754328,-9.0437614,2,Forster Street (886),a
 53.2754344,-9.007232,2,Lurgan Park (471),a
 53.2754467,-9.0732362,2,Ashe Road (380),a
 53.2754467,-9.0732362,2,Ashe Road (380),a
@@ -11635,7 +11565,6 @@ lat,lon,sz,names,len_cat
 53.2755038,-9.0726718,2,Ashe Road (373),a
 53.2755051,-9.1057374,2,Cartúr Mór (636),a
 53.2755051,-9.1057374,2,Rathlao (891),a
-53.2755072,-9.043472,2,Forster Street (885),a
 53.2755093,-9.0726172,2,Ashe Road (861),a
 53.2755105,-9.099764,2,Riasc Na Rí (802),a
 53.2755109,-8.9709155,2,Caiseal Cam (188),a
@@ -11695,8 +11624,6 @@ lat,lon,sz,names,len_cat
 53.2755615,-8.966936,2,Boireann Bheag (125),a
 53.2755615,-8.966936,2,Boireann Bheag (125),a
 53.2755627,-8.9723524,2,Caiseal Cam (249),a
-53.275564,-9.0432913,2,College Road (571),a
-53.275564,-9.0432913,2,Forster Street (884),a
 53.2755654,-9.0294923,2,Lough Atalia Avenue (703),a
 53.2755661,-8.9707964,2,Caiseal Cam (186),a
 53.2755695,-9.069392,2,Costello Road (539),a
@@ -11885,7 +11812,6 @@ lat,lon,sz,names,len_cat
 53.2757309,-9.1056516,2,Cartúr Mór (625),a
 53.2757316,-9.0741911,2,Old Seamus Quirke Road (802),a
 53.2757316,-9.0741911,2,Old Seamus Quirke Road (833),a
-53.275732,-9.0428707,2,College Road (569),a
 53.2757326,-9.0988673,2,Linn Bhuí (986),a
 53.2757355,-9.0699185,2,Costello Road (541),a
 53.2757372,-9.0913422,2,Rosán Glas (226),a
@@ -12105,7 +12031,6 @@ lat,lon,sz,names,len_cat
 53.2759201,-9.0987255,2,Linn Bhuí (991),a
 53.2759233,-9.1373806,2,Cappagh Road (502),a
 53.2759239,-9.0461453,2,Bóthar Bhreandán Ui Eithir (592),a
-53.2759248,-9.0423933,2,College Road (568),a
 53.2759266,-9.0854914,2,Claremont Park (975),a
 53.2759266,-9.002591,2,Dublin Road (516),a
 53.2759266,-9.002591,2,Dublin Road (557),a
@@ -12219,7 +12144,6 @@ lat,lon,sz,names,len_cat
 53.2760006,-9.0265955,2,Gurteen (228),a
 53.2760006,-9.0265736,2,Gurteen (229),a
 53.2760006,-9.0265736,2,Gurteen (229),a
-53.2760025,-9.042213,2,College Road (566),a
 53.2760073,-9.099531,2,Linn Bhuí (001),a
 53.2760073,-9.099531,2,Linn Bhuí (001),a
 53.2760073,-9.099531,2,Linn Bhuí (972),a
@@ -12272,7 +12196,6 @@ lat,lon,sz,names,len_cat
 53.2760497,-8.967114,2,Boireann Bheag (062),a
 53.2760511,-9.0742837,2,Seamus Quirke Road (015),a
 53.2760511,-9.0742837,2,Seamus Quirke Road (261),a
-53.2760524,-9.0420924,2,College Road (416),a
 53.2760529,-9.0910611,2,Rosán Glas (232),a
 53.2760532,-9.0975261,2,Bóthar Stiofáin (129),a
 53.2760532,-9.0975261,2,Linn Bhuí (861),a
@@ -12319,7 +12242,6 @@ lat,lon,sz,names,len_cat
 53.2761001,-9.0091133,2,An Móinéar (897),a
 53.2761027,-9.1062193,2,Rathlao (873),a
 53.2761039,-9.1178712,2,Ballymoneen Road (497),a
-53.2761043,-9.0419912,2,College Road (530),a
 53.2761066,-9.0862974,2,Claremont Park (912),a
 53.276107,-8.9715268,2,Ros Caoin (706),a
 53.2761095,-8.9761805,2,Duirling (398),a
@@ -12353,7 +12275,6 @@ lat,lon,sz,names,len_cat
 53.2761391,-8.9748902,2,Doughiska Road (463),a
 53.2761403,-9.0974816,2,Bóthar Stiofáin (562),a
 53.2761421,-9.0055046,2,Geata Na Mara (163),a
-53.2761424,-9.0410045,2,Seaview Court (095),a
 53.2761426,-9.1046706,2,Driseog (265),a
 53.2761427,-8.9742106,2,Roscam House (083),a
 53.2761449,-9.1007116,2,Linn Bhuí (947),a
@@ -12364,7 +12285,6 @@ lat,lon,sz,names,len_cat
 53.2761522,-9.0081441,2,Lurgan Park (397),a
 53.2761526,-9.1080536,2,Clybaun Road Upper (739),a
 53.276154,-9.0089866,2,An Móinéar (593),a
-53.2761541,-9.0419057,2,College Road (564),a
 53.2761543,-9.1006159,2,Linn Bhuí (952),a
 53.2761544,-9.1046957,2,Driseog (264),a
 53.2761547,-9.1062255,2,Rathlao (872),a
@@ -12401,7 +12321,6 @@ lat,lon,sz,names,len_cat
 53.276193,-9.0169092,2,Melodys Court (151),a
 53.2761951,-9.0907807,2,Rosán Glas (078),a
 53.2761951,-8.9749153,2,Doughiska Road (462),a
-53.2761971,-9.0478531,2,Prospect Hill (224),a
 53.276198,-9.0908561,2,Rosán Glas (079),a
 53.2761987,-9.1005231,2,Linn Bhuí (956),a
 53.2761988,-9.074249,2,Seamus Quirke Road (876),a
@@ -12411,7 +12330,6 @@ lat,lon,sz,names,len_cat
 53.2762052,-9.0466429,2,Bóthar Bhreandán Ui Eithir (587),a
 53.2762057,-9.0067439,2,Lurgan Park (766),a
 53.2762057,-9.0067439,2,Lurgan Park (934),a
-53.2762059,-9.0410105,2,Seaview Court (094),a
 53.276207,-9.0742327,2,Seamus Quirke Road (677),a
 53.276207,-9.0742327,2,Seamus Quirke Road (684),a
 53.276207,-9.0742327,2,Seamus Quirke Road (684),a
@@ -12429,9 +12347,7 @@ lat,lon,sz,names,len_cat
 53.2762155,-9.1053895,2,Driseog (358),a
 53.2762187,-9.0036919,2,Dublin Road (587),a
 53.2762187,-9.0036919,2,Dublin Road (587),a
-53.276219,-9.041809,2,College Road (563),a
 53.2762214,-8.9687666,2,Boireann Bheag (997),a
-53.2762226,-9.0415813,2,Seaview Court (086),a
 53.2762348,-9.1004836,2,Linn Bhuí (958),a
 53.2762375,-9.0056911,2,Geata Na Mara (392),a
 53.2762383,-9.0294506,2,Lakeshore Drive (797),a
@@ -12444,8 +12360,6 @@ lat,lon,sz,names,len_cat
 53.2762414,-9.1053701,2,Driseog (357),a
 53.2762426,-9.0067756,2,Lurgan Park (931),a
 53.2762454,-9.0554207,2,Waterside (154),a
-53.2762502,-9.0416334,2,Seaview Court (085),a
-53.2762502,-9.0410706,2,Seaview Court (093),a
 53.2762526,-8.9692538,2,Boireann Bheag (002),a
 53.2762544,-9.0741384,2,Seamus Quirke Road (013),a
 53.2762544,-9.0741384,2,Seamus Quirke Road (184),a
@@ -12454,7 +12368,6 @@ lat,lon,sz,names,len_cat
 53.2762609,-9.0451368,2,Forster Court (273),a
 53.2762619,-9.0979557,2,Linn Bhuí (867),a
 53.2762619,-9.0979557,2,Linn Bhuí (867),a
-53.2762634,-9.0414972,2,Seaview Court (087),a
 53.2762655,-9.1053535,2,Driseog (356),a
 53.2762703,-9.0048934,2,Geata Na Mara (135),a
 53.2762704,-9.1009887,2,Linn Bhuí (926),a
@@ -12482,7 +12395,6 @@ lat,lon,sz,names,len_cat
 53.2762881,-9.0039718,2,Dublin Road (586),a
 53.2762893,-9.1107341,2,Ard Na Gaoithe (994),a
 53.2762893,-9.1107341,2,Ard Na Gaoithe (994),a
-53.2762897,-9.0411467,2,Seaview Court (092),a
 53.2762939,-9.0168595,2,Melodys Court (152),a
 53.2762944,-9.0056418,2,Geata Na Mara (391),a
 53.276299,-9.0069543,2,Lurgan Park (926),a
@@ -12490,10 +12402,7 @@ lat,lon,sz,names,len_cat
 53.2762994,-9.1053386,2,Driseog (343),a
 53.2762994,-9.1053386,2,Driseog (354),a
 53.2762995,-9.1062411,2,Rathlao (406),a
-53.2763012,-9.0417042,2,College Road (561),a
-53.2763012,-9.0417042,2,Seaview Court (084),a
 53.276302,-9.0046171,2,Geata Na Mara (127),a
-53.2763029,-9.0414391,2,Seaview Court (088),a
 53.2763038,-9.0451961,2,Forster Court (274),a
 53.2763047,-9.1009998,2,Linn Bhuí (923),a
 53.2763054,-9.0455337,2,Forster Court (431),a
@@ -12506,7 +12415,6 @@ lat,lon,sz,names,len_cat
 53.2763128,-8.9694582,2,Boireann Bheag (005),a
 53.2763129,-8.9655388,2,Boireann Bheag (028),a
 53.2763129,-8.9655388,2,Boireann Bheag (028),a
-53.2763137,-9.0412148,2,Seaview Court (091),a
 53.2763157,-8.9712931,2,Ros Caoin (707),a
 53.2763157,-8.9712931,2,Ros Caoin (785),a
 53.2763189,-9.0553624,2,Waterside (156),a
@@ -12516,13 +12424,11 @@ lat,lon,sz,names,len_cat
 53.2763213,-8.9749719,2,Doughiska Road (461),a
 53.2763214,-9.0056184,2,Geata Na Mara (390),a
 53.2763217,-9.0926018,2,Rahoon Road (935),a
-53.2763256,-9.041369,2,Seaview Court (089),a
 53.2763266,-9.105321,2,Driseog (342),a
 53.2763294,-8.9654232,2,Boireann Bheag (029),a
 53.2763294,-8.9654232,2,Boireann Bheag (029),a
 53.2763315,-8.9679752,2,Boireann Bheag (990),a
 53.2763322,-9.0454891,2,Forster Court (295),a
-53.2763328,-9.0412969,2,Seaview Court (090),a
 53.2763352,-9.0081102,2,Lurgan Park (908),a
 53.276336,-8.9651865,2,Boireann Bheag (030),a
 53.2763378,-9.1010044,2,Linn Bhuí (919),a
@@ -12551,10 +12457,6 @@ lat,lon,sz,names,len_cat
 53.2763627,-9.0073585,2,Lurgan Park (922),a
 53.2763641,-9.0080783,2,Lurgan Park (910),a
 53.2763659,-9.060901,2,University Road (190),a
-53.2763663,-9.0476865,2,Bóthar Bhreandán Ui Eithir (354),a
-53.2763663,-9.0476865,2,Prospect Hill (856),a
-53.2763663,-9.0476865,2,Prospect Hill (969),a
-53.2763663,-9.0476865,2,Prospect Hill (974),a
 53.2763703,-9.0061934,2,Geata Na Mara (486),a
 53.276371,-8.9749942,2,Doughiska Road (460),a
 53.2763717,-9.0927543,2,Bóthar Dhiarmada (270),a
@@ -12581,11 +12483,9 @@ lat,lon,sz,names,len_cat
 53.2763907,-9.1298764,2,Boleybeg Bóithrín (344),a
 53.2763907,-9.0738911,2,Seamus Quirke Road (991),a
 53.2763964,-9.007659,2,Lurgan Park (918),a
-53.2763979,-9.0419009,2,Yeats College (368),a
 53.2763989,-9.007962,2,Lurgan Park (915),a
 53.2763996,-9.0451686,2,Forster Court (298),a
 53.276403,-9.0167666,2,Melodys Court (153),a
-53.2764039,-9.04184,2,Yeats College (367),a
 53.2764054,-8.9672853,2,Boireann Bheag (134),a
 53.2764054,-8.9672853,2,Boireann Bheag (134),a
 53.2764062,-8.9680831,2,Boireann Bheag (992),a
@@ -12607,20 +12507,14 @@ lat,lon,sz,names,len_cat
 53.2764234,-9.105305,2,Driseog (339),a
 53.2764256,-9.0552073,2,Waterside (158),a
 53.2764262,-9.1380873,2,Cappagh Road (498),a
-53.2764264,-9.0473603,2,Bóthar Bhreandán Ui Eithir (682),a
-53.2764264,-9.0473603,2,Bóthar Bhreandán Ui Eithir (683),a
-53.2764264,-9.0473603,2,Bóthar Bhreandán Ui Eithir (883),a
 53.2764271,-9.0929509,2,Rahoon Road (937),a
 53.2764279,-9.0916236,2,Rosán Glas (612),a
 53.2764283,-9.0450664,2,Forster Court (299),a
-53.2764308,-9.0475684,2,Bóthar Bhreandán Ui Eithir (351),a
 53.2764326,-9.100943,2,Linn Bhuí (910),a
 53.2764338,-9.0986756,2,Linn Bhuí (874),a
 53.2764338,-9.0986756,2,Linn Bhuí (874),a
 53.2764363,-8.9711537,2,Ros Caoin (708),a
-53.2764396,-9.0474641,2,Bóthar Bhreandán Ui Eithir (353),a
 53.276441,-9.0916483,2,Rosán Glas (347),a
-53.2764415,-9.0475271,2,Bóthar Bhreandán Ui Eithir (352),a
 53.2764447,-9.0055115,2,Geata Na Mara (388),a
 53.2764462,-8.9682347,2,Boireann Bheag (995),a
 53.2764468,-9.0454445,2,Forster Court (439),a
@@ -12628,17 +12522,12 @@ lat,lon,sz,names,len_cat
 53.2764506,-9.1080461,2,Clybaun Road Upper (734),a
 53.2764536,-8.9681914,2,Boireann Bheag (994),a
 53.2764542,-8.9681522,2,Boireann Bheag (993),a
-53.2764551,-9.041508,2,College Road (559),a
-53.2764551,-9.041508,2,Glenmore (010),a
 53.2764601,-9.1052988,2,Driseog (338),a
 53.2764606,-9.1126076,2,Ard Na Gaoithe (982),a
 53.276461,-9.046428,2,Forster Court (340),a
-53.2764614,-9.0417933,2,Yeats College (365),a
-53.2764623,-9.042592,2,Yeats College (369),a
 53.2764631,-9.0054956,2,Geata Na Mara (130),a
 53.2764673,-9.0449763,2,Forster Court (435),a
 53.2764701,-9.1008586,2,Linn Bhuí (907),a
-53.2764703,-9.0474303,2,Bóthar Bhreandán Ui Eithir (346),a
 53.2764724,-9.1107341,2,Ard Na Gaoithe (993),a
 53.2764724,-9.1107341,2,Ard Na Gaoithe (993),a
 53.2764729,-9.0836663,2,Claremont Park (969),a
@@ -12649,8 +12538,6 @@ lat,lon,sz,names,len_cat
 53.2764953,-8.9664192,2,Boireann Bheag (046),a
 53.2764953,-8.9664192,2,Boireann Bheag (046),a
 53.2764967,-9.1080545,2,Clybaun Road Upper (733),a
-53.2764993,-9.0475813,2,Prospect Hill (968),a
-53.2765007,-9.0474666,2,Bóthar Bhreandán Ui Eithir (347),a
 53.2765012,-9.0893358,2,Rosán Glas (270),a
 53.2765032,-8.9674445,2,Boireann Bheag (133),a
 53.2765032,-8.9674445,2,Boireann Bheag (133),a
@@ -12666,10 +12553,8 @@ lat,lon,sz,names,len_cat
 53.2765162,-9.0927067,2,Bóthar Dhiarmada (277),a
 53.2765167,-9.0933776,2,Rahoon Road (596),a
 53.2765183,-9.1052964,2,Driseog (336),a
-53.276519,-9.041765,2,Yeats College (364),a
 53.2765212,-9.0397213,2,Lough Atalia Road (996),a
 53.2765212,-9.0397213,2,Lough Atalia Road (996),a
-53.2765253,-9.0474758,2,Bóthar Bhreandán Ui Eithir (350),a
 53.2765286,-9.0197561,2,Renmore Avenue (165),a
 53.2765302,-9.0991208,2,Linn Bhuí (006),a
 53.2765302,-9.0991208,2,Linn Bhuí (006),a
@@ -12677,13 +12562,11 @@ lat,lon,sz,names,len_cat
 53.2765302,-9.0991208,2,Linn Bhuí (875),a
 53.2765304,-9.1179153,2,Ballymoneen Road (498),a
 53.2765327,-9.091826,2,Rosán Glas (344),a
-53.2765364,-9.0416625,2,Glenmore (850),a
 53.2765433,-9.0455276,2,Forster Court (438),a
 53.2765474,-8.9664869,2,Boireann Bheag (044),a
 53.2765474,-8.9664869,2,Boireann Bheag (044),a
 53.2765479,-8.9696464,2,Boireann Bheag (009),a
 53.2765484,-9.1125635,2,Ard Na Gaoithe (981),a
-53.2765487,-9.0474741,2,Bóthar Bhreandán Ui Eithir (348),a
 53.2765498,-9.0050659,2,Dublin Road (543),a
 53.2765535,-9.1080686,2,Clybaun Road Upper (732),a
 53.2765542,-9.0280523,2,Woodlands Green (170),a
@@ -12695,18 +12578,12 @@ lat,lon,sz,names,len_cat
 53.2765623,-8.97508,2,Doughiska Road (459),a
 53.2765628,-9.1107031,2,Ard Na Gaoithe (992),a
 53.2765628,-9.1107031,2,Ard Na Gaoithe (992),a
-53.276564,-9.0513649,2,Saint Brendan's Avenue (816),a
-53.276564,-9.0513649,2,Saint Brendan's Avenue (816),a
 53.2765644,-9.0448485,2,Forster Court (437),a
 53.2765646,-8.9736411,2,Roscam House (087),a
-53.2765681,-9.0417227,2,Glenmore (011),a
-53.2765681,-9.0417227,2,Yeats College (362),a
 53.2765684,-9.099355,2,Linn Bhuí (879),a
 53.2765684,-9.099355,2,Linn Bhuí (879),a
 53.2765817,-9.0919201,2,Rosán Glas (343),a
 53.276584,-9.0927088,2,Bóthar Dhiarmada (601),a
-53.2765855,-9.0499998,2,Bóthar na mBan (866),a
-53.2765855,-9.0499998,2,Bóthar na mBan (866),a
 53.2765872,-9.1052925,2,Driseog (334),a
 53.276588,-9.0994807,2,Linn Bhuí (880),a
 53.2765908,-8.9716927,2,Ros Caoin (705),a
@@ -12729,13 +12606,7 @@ lat,lon,sz,names,len_cat
 53.2766229,-9.0242394,2,Renmore Road (503),a
 53.2766237,-9.0045542,2,Woodhaven (903),a
 53.2766238,-8.9736061,2,Roscam House (089),a
-53.2766248,-9.0500698,2,Bóthar na mBan (118),a
-53.2766248,-9.0500698,2,Bóthar na mBan (118),a
 53.2766299,-8.9728389,2,Ros Caoin (713),a
-53.2766305,-9.0474369,2,Bóthar Bhreandán Ui Eithir (349),a
-53.2766305,-9.0474369,2,Prospect Hill (959),a
-53.2766305,-9.0474369,2,Prospect Hill (965),a
-53.2766305,-9.0474369,2,Prospect Hill (967),a
 53.276633,-8.9696271,2,Boireann Bheag (010),a
 53.2766333,-9.0997449,2,Linn Bhuí (884),a
 53.2766333,-9.0997449,2,Linn Bhuí (884),a
@@ -12743,7 +12614,6 @@ lat,lon,sz,names,len_cat
 53.2766356,-8.9664422,2,Boireann Bheag (041),a
 53.2766369,-9.0920107,2,Rosán Glas (342),a
 53.2766369,-9.0279711,2,Woodlands Green (169),a
-53.276642,-9.041863,2,Glenmore (012),a
 53.2766422,-8.9781562,2,Dublin Road (510),a
 53.2766422,-8.9781562,2,Dublin Road (510),a
 53.2766427,-9.1004452,2,Linn Bhuí (905),a
@@ -12762,7 +12632,6 @@ lat,lon,sz,names,len_cat
 53.2766524,-8.9746438,2,Roscam House (095),a
 53.2766537,-9.0998743,2,Linn Bhuí (886),a
 53.2766537,-9.0998743,2,Linn Bhuí (886),a
-53.2766549,-9.0523578,2,Headford Road (946),a
 53.2766553,-8.9663826,2,Boireann Bheag (040),a
 53.2766553,-8.9663826,2,Boireann Bheag (040),a
 53.2766571,-9.0258596,2,Renmore Park (143),a
@@ -12772,7 +12641,6 @@ lat,lon,sz,names,len_cat
 53.2766621,-9.1179323,2,Ballymoneen Road (554),a
 53.2766627,-9.0839076,2,Claremont Park (254),a
 53.2766649,-9.0999719,2,Linn Bhuí (889),a
-53.2766692,-9.0474017,2,Prospect Hill (960),a
 53.2766714,-8.9673932,2,Boireann Bheag (888),a
 53.2766714,-8.9673932,2,Boireann Bheag (888),a
 53.2766729,-8.9729136,2,Ros Caoin (712),a
@@ -12805,11 +12673,8 @@ lat,lon,sz,names,len_cat
 53.2767223,-9.0920804,2,Rosán Glas (339),a
 53.2767261,-9.1052432,2,Driseog (331),a
 53.2767276,-8.974084,2,Roscam House (098),a
-53.2767285,-9.047349,2,Prospect Hill (945),a
 53.2767286,-9.0900701,2,Rosán Glas (267),a
 53.2767287,-9.07323,2,Seamus Quirke Road (859),a
-53.2767289,-9.0502553,2,Bóthar na mBan (584),a
-53.2767289,-9.0502553,2,Bóthar na mBan (584),a
 53.2767308,-9.1384623,2,Cappagh Road (495),a
 53.2767343,-8.9660533,2,Boireann Bheag (038),a
 53.2767343,-8.9660533,2,Boireann Bheag (038),a
@@ -12830,13 +12695,10 @@ lat,lon,sz,names,len_cat
 53.2767644,-9.1298603,2,Boleybeg Bóithrín (345),a
 53.2767681,-8.9737951,2,Roscam House (099),a
 53.2767787,-8.969296,2,Boireann Bheag (014),a
-53.2767788,-9.0487099,2,Saint Bridget's Place (184),a
 53.2767878,-9.1051981,2,Driseog (328),a
 53.2767899,-8.9736439,2,Roscam House (091),a
 53.2767899,-8.9736439,2,Roscam House (100),a
 53.2767901,-9.0846472,2,Claremont Park (908),a
-53.276791,-9.0472947,2,Prospect Hill (944),a
-53.276791,-9.0472947,2,Saint Bridget's Place (197),a
 53.2767918,-9.0051358,2,Woodhaven (899),a
 53.2767919,-8.9714208,2,Ros Caoin (703),a
 53.2767941,-9.0082751,2,Skerritt Roundabout (572),a
@@ -12846,13 +12708,11 @@ lat,lon,sz,names,len_cat
 53.276798,-8.9659528,2,Boireann Bheag (036),a
 53.2767994,-9.09211,2,Rosán Glas (338),a
 53.2767995,-9.0446638,2,Forster Court (302),a
-53.2768024,-9.0486622,2,Saint Bridget's Place (220),a
 53.2768074,-9.0085168,2,Lurgan Park (899),a
 53.2768074,-9.0085168,2,Skerritt Roundabout (576),a
 53.2768084,-9.0289211,2,Lakeshore Drive (795),a
 53.27681,-8.9744919,2,Ros Caoin (860),a
 53.2768106,-9.0082,2,Lurgan Park (900),a
-53.2768111,-9.0473637,2,Saint Bridget's Place (976),a
 53.2768137,-9.108144,2,Clybaun Road Upper (730),a
 53.2768143,-8.9719421,2,Ros Caoin (789),a
 53.2768165,-9.0733163,2,Seamus Quirke Road (185),a
@@ -12866,16 +12726,10 @@ lat,lon,sz,names,len_cat
 53.2768247,-8.9678891,2,Boireann Bheag (945),a
 53.2768254,-9.0835728,2,Circular Road (278),a
 53.2768285,-9.1179538,2,Ballymoneen Road (499),a
-53.2768335,-9.0429683,2,Glenmore (009),a
-53.2768368,-9.0510498,2,Saint Brendan's Avenue (814),a
-53.2768368,-9.0510498,2,Saint Brendan's Avenue (814),a
 53.2768445,-9.0905752,2,Rosán Glas (264),a
 53.2768449,-8.9733079,2,Roscam House (562),a
 53.2768451,-9.0867047,2,Cuar Na Lus (219),a
-53.2768454,-9.0516864,2,Caladh Mor (601),a
-53.2768454,-9.0516864,2,Caladh Mor (601),a
 53.2768489,-9.1385654,2,Cappagh Road (494),a
-53.2768495,-9.0424912,2,Glenmore (013),a
 53.2768498,-9.0289193,2,Lakeshore Drive (794),a
 53.2768511,-8.9714293,2,Ros Caoin (702),a
 53.2768522,-8.974217,2,Ros Caoin (861),a
@@ -12886,7 +12740,6 @@ lat,lon,sz,names,len_cat
 53.2768558,-9.1051191,2,Driseog (324),a
 53.2768568,-9.0636066,2,Newcastle Road (833),a
 53.2768568,-9.0636066,2,Newcastle Road (833),a
-53.2768582,-9.0478971,2,Drom Ard (753),a
 53.2768595,-8.973219,2,Ros Caoin (710),a
 53.2768595,-8.973219,2,Roscam House (101),a
 53.2768628,-9.0953693,2,Mincloon (400),a
@@ -12900,8 +12753,6 @@ lat,lon,sz,names,len_cat
 53.2768635,-9.0277549,2,Woodlands Green (242),a
 53.2768641,-8.9655527,2,Boireann Bheag (976),a
 53.2768641,-8.9655527,2,Boireann Bheag (976),a
-53.2768645,-9.051736,2,Caladh Mor (602),a
-53.2768645,-9.051736,2,Caladh Mor (602),a
 53.2768646,-8.9752177,2,Doughiska Road (300),a
 53.2768656,-8.9656303,2,Boireann Bheag (975),a
 53.2768656,-8.9656303,2,Boireann Bheag (975),a
@@ -12950,10 +12801,7 @@ lat,lon,sz,names,len_cat
 53.276923,-9.008025,2,Skerritt Roundabout (545),a
 53.2769233,-8.965944,2,Boireann Bheag (972),a
 53.2769233,-8.965944,2,Boireann Bheag (972),a
-53.276924,-9.0480995,2,Drom Ard (756),a
 53.2769244,-9.0087129,2,Skerritt Roundabout (568),a
-53.2769306,-9.0428882,2,Glenmore (008),a
-53.2769306,-9.0428882,2,Glenmore (014),a
 53.2769343,-9.0815644,2,Inishannagh Park (798),a
 53.2769356,-8.9647544,2,Boireann Bheag (982),a
 53.2769359,-9.0087203,2,Skerritt Roundabout (515),a
@@ -12966,19 +12814,11 @@ lat,lon,sz,names,len_cat
 53.2769404,-9.0954087,2,Mincloon (130),a
 53.2769421,-8.9646953,2,Boireann Bheag (065),a
 53.2769421,-8.9646953,2,Boireann Bheag (983),a
-53.2769425,-9.0506359,2,Bóthar na mBan (582),a
-53.2769425,-9.0506359,2,Bóthar na mBan (582),a
 53.2769441,-9.081613,2,Greenview Heights (723),a
 53.2769473,-8.9687836,2,Boireann Bheag (015),a
 53.2769476,-9.0163099,2,Melodys Court (154),a
 53.2769493,-8.9644022,2,Boireann Bheag (985),a
 53.2769494,-9.0816265,2,Greenview Heights (722),a
-53.2769496,-9.0519111,2,Caladh Mor (603),a
-53.2769496,-9.0519111,2,Caladh Mor (603),a
-53.2769496,-9.0519111,2,Headford Road (953),a
-53.2769496,-9.0519111,2,Headford Road (953),a
-53.276956,-9.0519013,2,Headford Road (951),a
-53.276956,-9.0519013,2,Headford Road (951),a
 53.2769592,-9.0911161,2,Rosán Glas (262),a
 53.2769648,-9.0864161,2,Cuar Na Lus (221),a
 53.2769653,-9.0445308,2,Forster Court (303),a
@@ -13012,33 +12852,19 @@ lat,lon,sz,names,len_cat
 53.2769857,-9.0863567,2,Cuar Na Lus (223),a
 53.2769857,-9.0863567,2,Tulach Ard (952),a
 53.2769857,-9.0863567,2,Tulach Ard (952),a
-53.2769864,-9.0507085,2,Bóthar na mBan (478),a
-53.2769864,-9.0507085,2,Bóthar na mBan (478),a
 53.2769868,-9.044593,2,Forster Court (929),a
-53.2769888,-9.0508457,2,Saint Brendan's Avenue (195),a
-53.2769888,-9.0508457,2,Saint Brendan's Avenue (195),a
 53.2769938,-8.9716718,2,Ros Caoin (701),a
 53.2769949,-9.0728961,2,Seamus Quirke Road (868),a
-53.2769977,-9.0408262,2,College Road (855),a
 53.2769992,-8.9735911,2,Ros Caoin (864),a
 53.277,-9.0079966,2,Skerritt Roundabout (542),a
 53.2770012,-8.9720481,2,Ros Caoin (792),a
 53.2770037,-9.0236286,2,Renmore Park (152),a
-53.277007,-9.0507225,2,Bóthar na mBan (576),a
-53.277007,-9.0507225,2,Bóthar na mBan (576),a
-53.277007,-9.0507225,2,Saint Brendan's Avenue (810),a
-53.277007,-9.0507225,2,Saint Brendan's Avenue (810),a
-53.277007,-9.0507225,2,Saint Brendan's Avenue (812),a
-53.277007,-9.0507225,2,Saint Brendan's Avenue (812),a
-53.2770073,-9.0480248,2,Drom Ard (758),a
-53.2770073,-9.0480248,2,Saint Bridget's Place (196),a
 53.2770121,-8.9661297,2,Boireann Bheag (970),a
 53.2770121,-8.9661297,2,Boireann Bheag (970),a
 53.2770124,-9.0861365,2,Tulach Ard (958),a
 53.2770124,-9.0861365,2,Tulach Ard (958),a
 53.2770128,-8.9740879,2,Ros Caoin (619),a
 53.2770129,-9.1014523,2,Asca Beag (218),a
-53.2770163,-9.0428192,2,Glenmore (007),a
 53.2770175,-9.0817045,2,Greenview Heights (720),a
 53.2770183,-9.0635634,2,Lower Newcastle Road (105),a
 53.2770183,-9.0635634,2,Lower Newcastle Road (105),a
@@ -13048,18 +12874,12 @@ lat,lon,sz,names,len_cat
 53.2770183,-9.0635634,2,Newcastle Road (474),a
 53.2770183,-9.0635634,2,University Road (186),a
 53.2770183,-9.0635634,2,University Road (186),a
-53.2770184,-9.0422448,2,The Green (269),a
 53.27702,-8.973363,2,Ros Caoin (551),a
-53.2770212,-9.047091,2,Bohermore (211),a
-53.2770212,-9.047091,2,Prospect Hill (943),a
-53.2770212,-9.047091,2,Saint Bridget's Terrace (496),a
 53.277024,-9.0921657,2,Rosán Glas (337),a
 53.2770261,-9.086013,2,Tulach Ard (959),a
 53.2770261,-9.086013,2,Tulach Ard (959),a
-53.2770267,-9.0527518,2,The Plots Road (861),a
 53.2770269,-9.0164363,2,Melodys Court (145),a
 53.2770269,-9.0164363,2,Melodys Court (155),a
-53.2770275,-9.0527787,2,The Plots Road (862),a
 53.2770296,-9.0046955,2,Woodhaven (930),a
 53.2770314,-9.023677,2,Renmore Park (151),a
 53.2770314,-9.0213882,2,Renmore Avenue (169),a
@@ -13067,16 +12887,10 @@ lat,lon,sz,names,len_cat
 53.277032,-9.1081928,2,Slí na Craoibhe (754),a
 53.277032,-9.0275641,2,Woodlands Green (234),a
 53.277032,-9.0275641,2,Woodlands Green (234),a
-53.2770339,-9.0528048,2,The Plots Road (863),a
-53.2770339,-9.0527116,2,The Plots Road (860),a
 53.2770392,-9.0915457,2,Rosán Glas (261),a
 53.2770401,-9.085926,2,Tulach Ard (960),a
-53.277041,-9.0507376,2,Saint Brendan's Avenue (986),a
-53.277041,-9.0507376,2,Saint Brendan's Avenue (986),a
 53.277042,-9.1387259,2,Cappagh Road (492),a
-53.2770435,-9.0471558,2,Saint Bridget's Terrace (971),a
 53.2770444,-9.0079984,2,Skerritt Roundabout (540),a
-53.2770451,-9.0528323,2,The Plots Road (864),a
 53.277051,-8.974043,2,Ros Caoin (617),a
 53.2770517,-9.1050599,2,Driseog (321),a
 53.2770525,-9.0730218,2,Seamus Quirke Road (001),a
@@ -13096,8 +12910,6 @@ lat,lon,sz,names,len_cat
 53.2770774,-9.0800989,2,Siobhan McKenna Road (979),a
 53.2770776,-9.0093671,2,Dublin Road (492),a
 53.2770787,-8.9681953,2,Boireann Bheag (129),a
-53.2770795,-9.0507545,2,Saint Brendan's Avenue (808),a
-53.2770795,-9.0507545,2,Saint Brendan's Avenue (808),a
 53.277081,-9.0091596,2,Dublin Road (493),a
 53.2770894,-9.0918276,2,Rosán Glas (260),a
 53.2770897,-9.008722,2,Skerritt Roundabout (521),a
@@ -13109,18 +12921,12 @@ lat,lon,sz,names,len_cat
 53.2770934,-9.008014,2,Skerritt Roundabout (538),a
 53.2770943,-9.0921778,2,Rosán Glas (259),a
 53.2770944,-9.0838947,2,Claremont Park (905),a
-53.2770959,-9.0507696,2,Saint Brendan's Avenue (985),a
-53.2770959,-9.0507696,2,Saint Brendan's Avenue (985),a
 53.2770984,-8.9738847,2,Ros Caoin (613),a
 53.2770997,-9.1075051,2,Slí na Craoibhe (763),a
 53.2771076,-9.0262164,2,Renmore Park (155),a
 53.2771076,-9.0262164,2,Renmore Park (155),a
 53.2771076,-9.0262164,2,Woodlands Avenue (473),a
 53.2771076,-9.0262164,2,Woodlands Avenue (473),a
-53.2771088,-9.0516624,2,Headford Road (952),a
-53.2771088,-9.0516624,2,Headford Road (952),a
-53.2771099,-9.0507887,2,Saint Brendan's Avenue (806),a
-53.2771099,-9.0507887,2,Saint Brendan's Avenue (806),a
 53.2771104,-8.9683446,2,Boireann Bheag (016),a
 53.2771122,-9.0919885,2,Rosán Glas (259),a
 53.2771129,-9.0856721,2,Tulach Ard (968),a
@@ -13131,8 +12937,6 @@ lat,lon,sz,names,len_cat
 53.2771156,-8.9732827,2,Ros Caoin (866),a
 53.277116,-8.9721541,2,Ros Caoin (793),a
 53.2771162,-9.0080223,2,Skerritt Roundabout (560),a
-53.2771175,-9.0483349,2,Saint Bridget's Place (185),a
-53.2771175,-9.0483349,2,Saint Bridget's Place (195),a
 53.2771201,-9.0087749,2,Dublin Road (496),a
 53.2771214,-9.0838287,2,Circular Road (277),a
 53.277124,-9.1179817,2,Ballymoneen Road (500),a
@@ -13154,8 +12958,6 @@ lat,lon,sz,names,len_cat
 53.2771388,-9.0927696,2,Rosán Glas (250),a
 53.2771395,-9.0818388,2,Greenview Heights (718),a
 53.2771408,-9.0928533,2,Rosán Glas (249),a
-53.2771432,-9.0406435,2,College Road (555),a
-53.2771432,-9.0406435,2,The Green (268),a
 53.2771433,-9.0635196,2,Lower Newcastle Road (135),a
 53.2771433,-9.0635196,2,Lower Newcastle Road (135),a
 53.2771436,-9.0970144,2,Bóthar Stiofáin (137),a
@@ -13190,15 +12992,12 @@ lat,lon,sz,names,len_cat
 53.2771806,-9.0808862,2,Inishannagh Park (805),a
 53.2771821,-8.9668974,2,Boireann Bheag (959),a
 53.2771821,-8.9668974,2,Boireann Bheag (959),a
-53.2771828,-9.0407279,2,The Green (782),a
 53.2771841,-8.9722345,2,Ros Caoin (699),a
 53.2771841,-8.9722345,2,Ros Caoin (794),a
 53.2771875,-9.0855516,2,Tulach Ard (974),a
 53.2771907,-9.0290122,2,Lakeshore Drive (791),a
 53.2771911,-9.079816,2,Siobhan McKenna Road (980),a
 53.2771916,-8.9731001,2,Ros Caoin (676),a
-53.2771931,-9.0509467,2,Saint Brendan's Avenue (804),a
-53.2771931,-9.0509467,2,Saint Brendan's Avenue (804),a
 53.2771951,-9.008147,2,Skerritt Roundabout (554),a
 53.2771953,-9.0783371,2,Camillaun Park (235),a
 53.2772048,-9.0171801,2,Melodys Court (156),a
@@ -13243,13 +13042,10 @@ lat,lon,sz,names,len_cat
 53.2772702,-9.0854539,2,Tulach Ard (982),a
 53.2772721,-8.9684257,2,Ros Caoin (887),a
 53.2772727,-8.9706405,2,Ros Caoin (721),a
-53.2772729,-9.0487012,2,Saint Bridget's Place (193),a
-53.2772729,-9.0487012,2,Saint Bridget's Terrace (504),a
 53.2772734,-8.9704588,2,Ros Caoin (638),a
 53.2772743,-9.0241788,2,Renmore Park (671),a
 53.2772788,-9.1388923,2,Cappagh Road (490),a
 53.2772823,-9.1006955,2,Asca Beag (224),a
-53.2772879,-9.0486371,2,Saint Bridget's Terrace (974),a
 53.2772902,-9.0823663,2,Greenview Heights (179),a
 53.2772903,-9.0854349,2,Tulach Ard (984),a
 53.2772903,-9.0442118,2,Forster Court (306),a
@@ -13266,21 +13062,16 @@ lat,lon,sz,names,len_cat
 53.2773068,-8.9728231,2,Ros Caoin (867),a
 53.2773102,-8.9753318,2,Durabhan (613),a
 53.2773108,-9.1082285,2,Clybaun Road Upper (724),a
-53.2773117,-9.0485823,2,Saint Bridget's Terrace (503),a
 53.2773162,-9.0854182,2,Tulach Ard (986),a
 53.2773164,-8.9647067,2,Boireann Bheag (068),a
 53.2773165,-9.1179651,2,Ballymoneen Road (502),a
 53.2773177,-9.0783024,2,Camillaun Park (255),a
 53.2773186,-9.0273524,2,Woodlands Green (233),a
 53.2773186,-9.0273524,2,Woodlands Green (233),a
-53.2773203,-9.0511816,2,Saint Brendan's Avenue (984),a
-53.2773203,-9.0511816,2,Saint Brendan's Avenue (984),a
 53.277322,-9.089426,2,Rosán Glas (939),a
 53.2773224,-9.0539969,2,Waterside (387),a
 53.2773249,-9.1389243,2,Cappagh Road (484),a
 53.277326,-9.0822426,2,Greenview Heights (180),a
-53.2773268,-9.0468036,2,Bohermore (209),a
-53.2773268,-9.0468036,2,Clós Ard (863),a
 53.2773299,-8.9706835,2,Ros Caoin (719),a
 53.2773313,-9.0634464,2,Lower Newcastle Road (751),a
 53.2773313,-9.0634464,2,Lower Newcastle Road (751),a
@@ -13290,8 +13081,6 @@ lat,lon,sz,names,len_cat
 53.2773386,-9.0981225,2,Rahoon Road (597),a
 53.2773393,-9.082206,2,Greenview Heights (181),a
 53.2773395,-9.1082313,2,Clybaun Road Upper (723),a
-53.2773402,-9.049847,2,Saint Bridgets Court (416),a
-53.2773402,-9.049847,2,Saint Bridgets Court (416),a
 53.2773405,-9.1014235,2,Asca Beag (236),a
 53.2773434,-9.0783261,2,Camillaun Park (085),a
 53.2773439,-9.0224008,2,Renmore Avenue (170),a
@@ -13299,17 +13088,7 @@ lat,lon,sz,names,len_cat
 53.2773485,-9.1082322,2,Clybaun Road Upper (722),a
 53.2773508,-9.0635483,2,Newcastle Avenue (820),a
 53.2773553,-9.0825495,2,Cluainin (478),a
-53.2773577,-9.048514,2,Saint Bridget's Terrace (502),a
 53.2773592,-8.9750665,2,Durabhan (114),a
-53.2773593,-9.0512707,2,Dyke Road (116),a
-53.2773593,-9.0512707,2,Dyke Road (116),a
-53.2773593,-9.0512707,2,Headford Road (949),a
-53.2773593,-9.0512707,2,Headford Road (949),a
-53.2773593,-9.0512707,2,Headford Road (955),a
-53.2773593,-9.0512707,2,Headford Road (955),a
-53.2773593,-9.0512707,2,Saint Brendan's Avenue (802),a
-53.2773593,-9.0512707,2,Saint Brendan's Avenue (802),a
-53.2773597,-9.0468823,2,Clós Ard (304),a
 53.2773603,-8.9725021,2,Ros Caoin (645),a
 53.2773715,-9.085407,2,Tulach Ard (937),a
 53.2773735,-9.1082343,2,Clybaun Road Upper (721),a
@@ -13319,15 +13098,12 @@ lat,lon,sz,names,len_cat
 53.2773835,-9.0840635,2,Circular Road (275),a
 53.2773846,-9.0540458,2,Waterside (388),a
 53.2773849,-9.0411586,2,The Green (267),a
-53.2773895,-9.0490065,2,Saint Bridget's Place (994),a
-53.2773895,-9.0490065,2,Saint Bridget's Place Upper (268),a
 53.2773899,-9.1073602,2,Slí na Craoibhe (762),a
 53.2773922,-9.1014667,2,Asca Beag (235),a
 53.2773932,-8.9748966,2,Durabhan (116),a
 53.2773933,-9.08542,2,Tulach Ard (936),a
 53.2773945,-9.0825631,2,Cluainin (480),a
 53.2773952,-9.1082341,2,Clybaun Road Upper (720),a
-53.2773964,-9.0484497,2,Saint Bridget's Terrace (501),a
 53.2773976,-9.0898042,2,Rosán Glas (274),a
 53.2773976,-9.0898042,2,Rosán Glas (304),a
 53.2773988,-9.044117,2,Forster Court (307),a
@@ -13339,12 +13115,7 @@ lat,lon,sz,names,len_cat
 53.2774051,-8.9725743,2,Ros Caoin (869),a
 53.2774054,-9.0272914,2,Woodlands Green (231),a
 53.2774054,-9.0272914,2,Woodlands Green (231),a
-53.2774069,-9.0484183,2,Saint Bridget's Terrace (973),a
 53.2774076,-9.0893814,2,Rosán Glas (054),a
-53.2774076,-9.0483344,2,Saint Bridget's Terrace (498),a
-53.2774092,-9.0514154,2,Dyke Road (117),a
-53.2774092,-9.0514154,2,Dyke Road (117),a
-53.2774097,-9.0483689,2,Saint Bridget's Terrace (500),a
 53.2774128,-9.0825633,2,Cluainin (482),a
 53.277416,-9.0793329,2,Siobhan McKenna Road (986),a
 53.2774171,-9.0802837,2,Inishannagh Park (701),a
@@ -13354,12 +13125,9 @@ lat,lon,sz,names,len_cat
 53.2774281,-9.0639517,2,Newcastle Avenue (599),a
 53.2774281,-9.0639517,2,Newcastle Avenue (599),a
 53.277429,-8.9706916,2,Ros Caoin (718),a
-53.2774292,-9.0514489,2,Dyke Road (118),a
-53.2774292,-9.0514489,2,Dyke Road (118),a
 53.2774308,-9.0849648,2,Tulach Ard (914),a
 53.2774312,-9.0849989,2,Tulach Ard (916),a
 53.2774318,-9.0849455,2,Tulach Ard (913),a
-53.2774346,-9.0520968,2,The Plots Road (859),a
 53.277437,-9.0850202,2,Tulach Ard (917),a
 53.2774374,-9.0848994,2,Tulach Ard (911),a
 53.2774404,-8.9685071,2,Ros Caoin (856),a
@@ -13378,37 +13146,21 @@ lat,lon,sz,names,len_cat
 53.2774512,-9.0161728,2,Melodys Court (147),a
 53.2774527,-9.0428011,2,The Green (288),a
 53.2774567,-9.0851608,2,Tulach Ard (538),a
-53.2774571,-9.0514798,2,Dyke Road (119),a
-53.2774571,-9.0514798,2,Dyke Road (119),a
 53.2774592,-9.0784284,2,Camillaun Park (087),a
 53.2774624,-8.964748,2,Boireann Bheag (069),a
 53.2774629,-9.0848062,2,Tulach Ard (909),a
-53.2774639,-9.0515733,2,The Plots Road (850),a
-53.2774639,-9.0515733,2,The Plots Road (850),a
 53.2774647,-9.0721675,2,Seamus Quirke Road (191),a
-53.2774659,-9.0515509,2,The Plots Road (849),a
-53.2774659,-9.0515509,2,The Plots Road (849),a
 53.2774666,-9.1082228,2,Clybaun Road Upper (718),a
-53.2774677,-9.0516004,2,The Plots Road (851),a
-53.2774677,-9.0516004,2,The Plots Road (851),a
 53.2774694,-9.0802689,2,Inishannagh Park (697),a
 53.277471,-9.0257918,2,Renmore Park (156),a
 53.277471,-9.0257918,2,Renmore Park (156),a
 53.2774711,-8.9718859,2,Ros Caoin (697),a
 53.2774714,-9.0894356,2,Rosán Glas (053),a
 53.2774733,-9.0867741,2,Tulach Ard (542),a
-53.2774762,-9.0514968,2,Dyke Road (120),a
-53.2774762,-9.0514968,2,Dyke Road (120),a
-53.2774762,-9.0514968,2,The Plots Road (848),a
-53.2774762,-9.0514968,2,The Plots Road (848),a
-53.2774766,-9.047546,2,Clós Ard (866),a
 53.2774779,-9.0792135,2,Siobhan McKenna Road (987),a
 53.277479,-8.9653154,2,Boireann Bheag (085),a
-53.2774795,-9.0466445,2,Bohermore (208),a
 53.2774814,-9.1072878,2,Slí na Craoibhe (761),a
 53.2774815,-9.0541119,2,Waterside (389),a
-53.2774844,-9.0516357,2,The Plots Road (852),a
-53.2774844,-9.0516357,2,The Plots Road (852),a
 53.2774849,-9.0851104,2,Tulach Ard (127),a
 53.2774849,-8.9653832,2,Boireann Bheag (084),a
 53.277485,-9.139036,2,Cappagh Road (481),a
@@ -13419,8 +13171,6 @@ lat,lon,sz,names,len_cat
 53.2774955,-9.0228834,2,Renmore Avenue (171),a
 53.2774963,-9.0132139,2,Dublin Road (571),a
 53.2774968,-9.0890522,2,Rosán Glas (331),a
-53.2774969,-9.0515101,2,Dyke Road (121),a
-53.2774969,-9.0515101,2,Dyke Road (121),a
 53.2775,-8.9688079,2,Ros Caoin (885),a
 53.2775013,-9.0850844,2,Tulach Ard (540),a
 53.2775032,-8.9722502,2,Ros Caoin (870),a
@@ -13433,8 +13183,6 @@ lat,lon,sz,names,len_cat
 53.2775071,-8.9654138,2,Boireann Bheag (083),a
 53.2775079,-9.1017117,2,Asca Beag (233),a
 53.2775102,-9.084732,2,Tulach Ard (907),a
-53.277511,-9.051685,2,The Plots Road (853),a
-53.277511,-9.051685,2,The Plots Road (853),a
 53.2775116,-9.0802417,2,Inishannagh Park (072),a
 53.2775125,-9.0850711,2,Tulach Ard (523),a
 53.2775125,-9.0850711,2,Tulach Ard (539),a
@@ -13448,18 +13196,12 @@ lat,lon,sz,names,len_cat
 53.2775261,-8.9647814,2,Boireann Bheag (070),a
 53.2775295,-9.108205,2,Clybaun Road Upper (717),a
 53.2775304,-8.9706809,2,Ros Caoin (717),a
-53.2775306,-9.0520228,2,The Plots Road (858),a
-53.2775306,-9.0520228,2,The Plots Road (858),a
-53.2775314,-9.0515242,2,Dyke Road (122),a
-53.2775314,-9.0515242,2,Dyke Road (122),a
 53.2775339,-8.9651492,2,Boireann Bheag (088),a
 53.2775346,-8.9654072,2,Boireann Bheag (082),a
 53.2775367,-9.0416408,2,The Green (266),a
 53.2775367,-9.0416408,2,The Green (270),a
 53.2775401,-9.0866102,2,Tulach Ard (545),a
 53.2775403,-9.0905476,2,Rosán Glas (275),a
-53.2775405,-9.0510836,2,Headford Road (956),a
-53.2775405,-9.0510836,2,Headford Road (956),a
 53.2775413,-9.1072587,2,Slí na Craoibhe (749),a
 53.2775413,-9.1072587,2,Slí na Craoibhe (755),a
 53.2775461,-8.9749472,2,Durabhan (930),a
@@ -13477,34 +13219,17 @@ lat,lon,sz,names,len_cat
 53.277561,-9.0850267,2,Tulach Ard (527),a
 53.2775633,-8.9651481,2,Boireann Bheag (089),a
 53.2775672,-9.0722232,2,Seamus Quirke Road (011),a
-53.2775679,-9.0494644,2,Saint Bridget's Place (192),a
 53.2775686,-8.9652782,2,Boireann Bheag (078),a
-53.2775706,-9.051789,2,The Plots Road (854),a
-53.2775706,-9.051789,2,The Plots Road (854),a
-53.2775716,-9.0519713,2,The Plots Road (857),a
-53.2775716,-9.0519713,2,The Plots Road (857),a
 53.2775736,-9.07851,2,Camillaun Park (263),a
 53.277578,-8.9690281,2,Ros Caoin (884),a
 53.2775791,-9.0841593,2,Carn Ard (028),a
 53.2775804,-8.9648368,2,Boireann Bheag (071),a
-53.2775805,-9.0474111,2,Clós Ard (864),a
-53.2775805,-9.0474111,2,Clós Ard (868),a
-53.2775814,-9.051538,2,Dyke Road (123),a
-53.2775814,-9.051538,2,Dyke Road (123),a
 53.2775815,-9.1081866,2,Clybaun Road Upper (716),a
 53.2775832,-9.0865094,2,Tulach Ard (128),a
-53.2775844,-9.0518278,2,The Plots Road (855),a
-53.2775844,-9.0518278,2,The Plots Road (855),a
 53.2775862,-8.9651874,2,Boireann Bheag (076),a
 53.2775892,-8.9749512,2,Durabhan (931),a
-53.27759,-9.0519313,2,The Plots Road (856),a
-53.27759,-9.0519313,2,The Plots Road (856),a
-53.2775916,-9.051864,2,The Plots Road (582),a
-53.2775916,-9.051864,2,The Plots Road (582),a
 53.2775922,-8.965149,2,Boireann Bheag (090),a
 53.2775922,-8.965149,2,Boireann Bheag (677),a
-53.277594,-9.0518982,2,The Plots Road (583),a
-53.277594,-9.0518982,2,The Plots Road (583),a
 53.2775964,-9.0083536,2,Ballybane Road (635),a
 53.2775973,-9.0994951,2,Rahoon Road (869),a
 53.2775973,-9.0994951,2,Rahoon Road (869),a
@@ -13519,10 +13244,6 @@ lat,lon,sz,names,len_cat
 53.2776087,-9.0410197,2,The Green (594),a
 53.2776096,-8.9650372,2,Boireann Bheag (073),a
 53.2776097,-9.0442145,2,Forster Court (536),a
-53.2776111,-9.049553,2,Saint Bridget's Place (191),a
-53.2776111,-9.049553,2,Saint Bridget's Place (191),a
-53.2776111,-9.049553,2,Saint Bridgets Court (415),a
-53.2776111,-9.049553,2,Saint Bridgets Court (415),a
 53.2776118,-9.1081759,2,Clybaun Road Upper (715),a
 53.2776123,-9.0410773,2,The Green (596),a
 53.277614,-9.013914,2,Belmont (987),a
@@ -13534,8 +13255,6 @@ lat,lon,sz,names,len_cat
 53.2776184,-9.0848954,2,Tulach Ard (531),a
 53.2776201,-9.0718893,2,Seamus Quirke Road (442),a
 53.2776201,-9.0718893,2,Seamus Quirke Road (997),a
-53.2776205,-9.0464761,2,Bohermore (207),a
-53.2776205,-9.0464761,2,Waterlane (477),a
 53.2776221,-9.0411016,2,The Green (597),a
 53.2776227,-9.1016865,2,Asca Beag (228),a
 53.277623,-9.1177922,2,Ballymoneen Road (504),a
@@ -13544,7 +13263,6 @@ lat,lon,sz,names,len_cat
 53.2776267,-9.0409704,2,The Green (592),a
 53.2776275,-9.0789756,2,Siobhan McKenna Road (894),a
 53.2776276,-9.0785133,2,Camillaun Park (268),a
-53.2776277,-9.0534719,2,The Plots Road (867),a
 53.277628,-9.0840203,2,Carn Ard (029),a
 53.2776295,-8.9679548,2,Ros Caoin (852),a
 53.2776295,-8.9679548,2,Ros Caoin (852),a
@@ -13569,7 +13287,6 @@ lat,lon,sz,names,len_cat
 53.2776537,-9.0411289,2,The Green (599),a
 53.2776554,-9.1072033,2,Slí na Craoibhe (760),a
 53.2776569,-9.0227629,2,Renmore Road (926),a
-53.277658,-9.046551,2,Waterlane (401),a
 53.277659,-9.0409495,2,The Green (590),a
 53.2776603,-9.0912141,2,Rosán Glas (276),a
 53.2776655,-8.9749332,2,Durabhan (119),a
@@ -13581,7 +13298,6 @@ lat,lon,sz,names,len_cat
 53.2776732,-8.9715897,2,Ros Caoin (873),a
 53.2776764,-9.040953,2,The Green (589),a
 53.2776781,-8.969476,2,Ros Caoin (881),a
-53.2776783,-9.04727,2,Clós Ard (870),a
 53.2776812,-8.9678932,2,Ros Caoin (850),a
 53.2776812,-8.9678932,2,Ros Caoin (850),a
 53.2776836,-9.0789005,2,Siobhan McKenna Road (893),a
@@ -13606,7 +13322,6 @@ lat,lon,sz,names,len_cat
 53.2777069,-9.050936,2,Headford Road (957),a
 53.2777069,-9.050936,2,Headford Road (957),a
 53.2777091,-8.9723808,2,Ros Caoin (629),a
-53.27771,-9.0535281,2,The Plots Road (868),a
 53.277712,-9.0410702,2,The Green (584),a
 53.2777127,-9.0410124,2,The Green (586),a
 53.2777152,-9.0410414,2,The Green (585),a
@@ -13658,10 +13373,6 @@ lat,lon,sz,names,len_cat
 53.2777703,-8.9707451,2,Ros Caoin (714),a
 53.2777703,-8.9707451,2,Ros Caoin (876),a
 53.2777727,-8.9704105,2,Ros Caoin (877),a
-53.277773,-9.049839,2,Saint Bridget's Place (189),a
-53.277773,-9.049839,2,Saint Bridget's Place (189),a
-53.277773,-9.049839,2,Saint Bridget's Place Lower (847),a
-53.277773,-9.049839,2,Saint Bridget's Place Lower (847),a
 53.2777744,-9.0918867,2,Rosán Glas (277),a
 53.2777783,-9.0432506,2,Forster Court (315),a
 53.2777818,-9.1081283,2,Clybaun Road Upper (713),a
@@ -13737,8 +13448,6 @@ lat,lon,sz,names,len_cat
 53.2778667,-8.9692213,2,Ros Caoin (824),a
 53.2778683,-8.9746414,2,Durabhan (936),a
 53.2778693,-9.0721794,2,Corrib Park (649),a
-53.2778695,-9.0397123,2,College Road (553),a
-53.2778695,-9.0397123,2,College Road (553),a
 53.27787,-9.1009875,2,Rahoon Road (873),a
 53.2778722,-8.9746018,2,Durabhan (937),a
 53.2778729,-8.9679904,2,Ros Caoin (847),a
@@ -13749,7 +13458,6 @@ lat,lon,sz,names,len_cat
 53.2778754,-9.108105,2,Clybaun Road Upper (712),a
 53.2778757,-9.0137436,2,Belmont (585),a
 53.2778757,-9.0137436,2,Belmont (585),a
-53.2778775,-9.0484432,2,Saint Bridget's Place Upper (269),a
 53.2778778,-9.0833276,2,Carn Ard (039),a
 53.2778788,-9.0722049,2,Corrib Park (226),a
 53.2778798,-9.092009,2,Rosán Glas (605),a
@@ -13772,7 +13480,6 @@ lat,lon,sz,names,len_cat
 53.2779093,-9.0782523,2,Camillaun Park (284),a
 53.2779105,-8.9725561,2,Ros Caoin (639),a
 53.2779109,-9.0858372,2,Tulach Ard (902),a
-53.2779109,-9.0494949,2,Saint Bridget's Place Lower (414),a
 53.2779137,-8.9738945,2,Durabhan (168),a
 53.2779145,-9.0804181,2,Inishannagh Park (702),a
 53.2779159,-9.078236,2,Camillaun Park (090),a
@@ -13789,16 +13496,12 @@ lat,lon,sz,names,len_cat
 53.2779276,-8.9668253,2,Ros Caoin (733),a
 53.2779305,-8.9666692,2,Ros Caoin (730),a
 53.2779305,-8.9666692,2,Ros Caoin (730),a
-53.2779328,-9.0501849,2,Saint Bridget's Place (188),a
-53.2779328,-9.0501849,2,Saint Bridget's Place (188),a
 53.2779329,-9.079538,2,Inishannagh Park (709),a
 53.2779349,-8.9708805,2,Ros Caoin (667),a
 53.2779368,-9.1297825,2,Boleybeg Bóithrín (347),a
 53.2779406,-8.9740534,2,Durabhan (944),a
 53.2779408,-8.9680423,2,Ros Caoin (846),a
 53.2779408,-8.9680423,2,Ros Caoin (846),a
-53.2779413,-9.0516236,2,Dyke Road (125),a
-53.2779413,-9.0516236,2,Dyke Road (125),a
 53.2779414,-9.139317,2,Cappagh Road (471),a
 53.2779417,-9.0381632,2,Lough Atalia Road (992),a
 53.2779417,-9.0381632,2,Lough Atalia Road (992),a
@@ -13822,8 +13525,6 @@ lat,lon,sz,names,len_cat
 53.2779681,-9.0135203,2,Belmont (995),a
 53.2779703,-9.0814135,2,Inishannagh Park (793),a
 53.2779718,-9.0084726,2,Ballybane Road (660),a
-53.2779753,-9.051631,2,Dyke Road (126),a
-53.2779753,-9.051631,2,Dyke Road (126),a
 53.2779819,-9.1016612,2,Rahoon Road (875),a
 53.2779848,-9.1393437,2,Cappagh Road (468),a
 53.2779849,-9.108078,2,Clybaun Road Upper (711),a
@@ -13843,12 +13544,6 @@ lat,lon,sz,names,len_cat
 53.278011,-9.0222665,2,Renmore Road (972),a
 53.2780119,-9.1018448,2,Rahoon Road (876),a
 53.2780133,-8.9738888,2,Durabhan (622),a
-53.2780146,-9.0516394,2,Dyke Road (176),a
-53.2780146,-9.0516394,2,Dyke Road (176),a
-53.2780146,-9.0516394,2,Dyke Road (433),a
-53.2780146,-9.0516394,2,Dyke Road (433),a
-53.2780146,-9.0516394,2,Dyke Road (434),a
-53.2780146,-9.0516394,2,Dyke Road (434),a
 53.278016,-8.9749238,2,Durabhan (171),a
 53.2780172,-9.0045,2,Glasán (426),a
 53.2780179,-9.0805342,2,Inishannagh Park (704),a
@@ -13863,11 +13558,7 @@ lat,lon,sz,names,len_cat
 53.2780354,-8.9661782,2,Ros Caoin (728),a
 53.2780375,-9.0765146,2,Camillaun Park (107),a
 53.2780411,-8.97376,2,Durabhan (619),a
-53.2780459,-9.0513382,2,Dyke Road (760),a
-53.2780459,-9.0513382,2,Dyke Road (760),a
 53.2780491,-9.0403518,2,The Green (946),a
-53.27805,-9.0394722,2,College Road (529),a
-53.27805,-9.0394722,2,College Road (529),a
 53.2780536,-9.0430699,2,Forster Court (317),a
 53.2780578,-8.9669202,2,Ros Caoin (737),a
 53.2780578,-8.9669202,2,Ros Caoin (737),a
@@ -13879,11 +13570,7 @@ lat,lon,sz,names,len_cat
 53.2780625,-9.1080564,2,Clybaun Road Upper (709),a
 53.278064,-9.0412531,2,The Green (272),a
 53.2780651,-9.0804549,2,Inishannagh Park (739),a
-53.2780659,-9.0505099,2,Saint Bridget's Place (828),a
-53.2780659,-9.0505099,2,Saint Bridget's Place (828),a
 53.2780664,-9.1021768,2,Rahoon Road (877),a
-53.2780748,-9.0505314,2,Saint Bridget's Place (187),a
-53.2780748,-9.0505314,2,Saint Bridget's Place (187),a
 53.278075,-9.076572,2,Camillaun Park (106),a
 53.2780797,-8.9736083,2,Durabhan (163),a
 53.2780797,-8.9736083,2,Durabhan (430),a
@@ -13905,14 +13592,7 @@ lat,lon,sz,names,len_cat
 53.2780988,-9.0870671,2,Tulach Ard (894),a
 53.2780991,-9.063168,2,Lower Newcastle Road (747),a
 53.2780991,-9.063168,2,Lower Newcastle Road (747),a
-53.2780991,-9.0490252,2,Saint Bridget's Place Lower (285),a
 53.2781001,-8.9757103,2,Doughiska Road (319),a
-53.2781046,-9.0506093,2,Dyke Road (180),a
-53.2781046,-9.0506093,2,Dyke Road (180),a
-53.2781046,-9.0506093,2,Headford Road (796),a
-53.2781046,-9.0506093,2,Headford Road (796),a
-53.2781046,-9.0506093,2,Saint Bridget's Place (186),a
-53.2781046,-9.0506093,2,Saint Bridget's Place (186),a
 53.2781056,-9.0843213,2,Carn Ard (019),a
 53.2781061,-8.9649215,2,Ros Caoin (679),a
 53.2781079,-8.9735534,2,Durabhan (620),a
@@ -13923,11 +13603,7 @@ lat,lon,sz,names,len_cat
 53.2781182,-8.9691829,2,Ros Caoin (822),a
 53.2781184,-8.9669374,2,Ros Caoin (739),a
 53.2781184,-8.9669374,2,Ros Caoin (739),a
-53.2781199,-9.0507786,2,Dyke Road (178),a
-53.2781199,-9.0507786,2,Dyke Road (178),a
 53.2781232,-9.1080282,2,Clybaun Road Upper (707),a
-53.2781239,-9.0506767,2,Dyke Road (179),a
-53.2781239,-9.0506767,2,Dyke Road (179),a
 53.2781271,-9.00458,2,Glasán (463),a
 53.2781309,-9.1297423,2,Boleybeg Bóithrín (348),a
 53.2781336,-9.1394121,2,Cappagh Road (467),a
@@ -13938,8 +13614,6 @@ lat,lon,sz,names,len_cat
 53.2781397,-9.0170351,2,Dublin Road (550),a
 53.278146,-9.08712,2,Tulach Ard (893),a
 53.2781485,-9.0888668,2,Rosán Glas (326),a
-53.2781485,-9.0393141,2,College Road (528),a
-53.2781485,-9.0393141,2,College Road (528),a
 53.2781507,-9.0894895,2,Rosán Glas (307),a
 53.278152,-8.966018,2,Ros Caoin (497),a
 53.278152,-8.966018,2,Ros Caoin (497),a
@@ -13947,12 +13621,6 @@ lat,lon,sz,names,len_cat
 53.2781555,-9.0889089,2,Rosán Glas (325),a
 53.2781558,-8.9669615,2,Ros Caoin (742),a
 53.2781558,-8.9669615,2,Ros Caoin (742),a
-53.2781595,-9.0516796,2,Dyke Road (211),a
-53.2781595,-9.0516796,2,Dyke Road (211),a
-53.2781595,-9.0516796,2,Dyke Wall (754),a
-53.2781595,-9.0516796,2,Dyke Wall (754),a
-53.2781596,-9.0517572,2,Dyke Wall (753),a
-53.2781596,-9.0517572,2,Dyke Wall (753),a
 53.2781636,-9.0889499,2,Rosán Glas (324),a
 53.2781648,-8.9657009,2,Ros Caoin (726),a
 53.2781648,-8.9657009,2,Ros Caoin (726),a
@@ -13962,10 +13630,6 @@ lat,lon,sz,names,len_cat
 53.27817,-9.0889877,2,Rosán Glas (323),a
 53.2781715,-9.0965743,2,Mincloon (403),a
 53.2781743,-9.0815795,2,Inishannagh Park (785),a
-53.2781753,-9.0518678,2,Dyke Wall (436),a
-53.2781753,-9.0518678,2,Dyke Wall (436),a
-53.2781753,-9.0518678,2,Dyke Wall (474),a
-53.2781753,-9.0518678,2,Dyke Wall (474),a
 53.2781784,-9.0428787,2,Forster Court (318),a
 53.278179,-9.089041,2,Rosán Glas (322),a
 53.2781794,-9.0239833,2,Renmore Park (863),a
@@ -14020,14 +13684,11 @@ lat,lon,sz,names,len_cat
 53.2782243,-9.0631467,2,Lower Newcastle Road (746),a
 53.2782246,-9.089244,2,Rosán Glas (317),a
 53.2782247,-9.0085739,2,Ballybane Road (659),a
-53.2782282,-9.0476904,2,Waterlane (476),a
 53.2782297,-9.0042197,2,Glasán (471),a
 53.2782311,-9.076815,2,Camillaun Park (323),a
 53.2782316,-9.0545252,2,Waterside (394),a
 53.2782321,-9.0892751,2,Rosán Glas (316),a
 53.2782339,-9.0771493,2,Camillaun Park (314),a
-53.2782339,-9.0391603,2,College Road (551),a
-53.2782339,-9.0391603,2,College Road (551),a
 53.2782343,-9.0894304,2,Rosán Glas (310),a
 53.2782358,-9.0771291,2,Camillaun Park (095),a
 53.2782359,-9.0759541,2,John Coogan Park (389),a
@@ -14086,7 +13747,6 @@ lat,lon,sz,names,len_cat
 53.2783215,-9.0862249,2,Tulach Ard (897),a
 53.2783223,-8.9703178,2,Ros Caoin (776),a
 53.2783228,-9.0918396,2,Rosán Glas (295),a
-53.2783233,-9.0455959,2,Bohermore (206),a
 53.2783237,-9.0728798,2,Corrib Park (229),a
 53.2783334,-9.1036106,2,Rahoon Road (881),a
 53.2783357,-9.0815147,2,Inishannagh Park (777),a
@@ -14114,9 +13774,6 @@ lat,lon,sz,names,len_cat
 53.2783592,-8.9661448,2,Ros Caoin (690),a
 53.2783599,-9.0801974,2,Inishannagh Park (730),a
 53.2783603,-9.0918571,2,Rosán Glas (297),a
-53.2783624,-9.0479793,2,Waterlane (475),a
-53.2783629,-9.051747,2,Dyke Road (210),a
-53.2783629,-9.051747,2,Dyke Road (210),a
 53.278363,-9.0857056,2,Tulach Ard (946),a
 53.278363,-9.0857056,2,Tulach Ard (946),a
 53.278367,-8.9720912,2,Ros Caoin (648),a
@@ -14129,7 +13786,6 @@ lat,lon,sz,names,len_cat
 53.2783695,-9.0084002,2,Ceann Boirne (442),a
 53.2783701,-9.0801836,2,Inishannagh Park (681),a
 53.2783707,-9.085732,2,Tulach Ard (942),a
-53.2783708,-9.0455342,2,Bohermore (205),a
 53.2783709,-9.0918687,2,Rosán Glas (607),a
 53.2783721,-8.9680863,2,Ros Caoin (840),a
 53.2783721,-8.9680863,2,Ros Caoin (840),a
@@ -14176,7 +13832,6 @@ lat,lon,sz,names,len_cat
 53.2784319,-9.0800823,2,Inishannagh Park (723),a
 53.2784349,-9.0705123,2,Seamus Quirke Road (996),a
 53.2784354,-8.97217,2,Ros Caoin (646),a
-53.27844,-9.0454141,2,Bohermore (204),a
 53.2784485,-9.0052548,2,Glasán (464),a
 53.2784507,-9.1171016,2,Ballymoneen Road (557),a
 53.2784508,-9.0248462,2,Renmore Park (948),a
@@ -14186,12 +13841,9 @@ lat,lon,sz,names,len_cat
 53.2784592,-9.0864978,2,Cnoc an Óir (522),a
 53.2784592,-9.0864978,2,Cnoc an Óir (522),a
 53.2784613,-8.9759163,2,Doughiska Road (320),a
-53.2784641,-9.0481843,2,Waterlane (474),a
 53.2784644,-9.0175274,2,Glenina Heights (668),a
 53.2784656,-9.0041682,2,Glasán (467),a
 53.2784656,-9.0041682,2,Glasán (467),a
-53.2784677,-9.0387504,2,College Road (549),a
-53.2784677,-9.0387504,2,College Road (549),a
 53.2784681,-9.0900128,2,Cnoc an Óir (419),a
 53.278469,-8.9662367,2,Ros Caoin (688),a
 53.278469,-8.9662367,2,Ros Caoin (688),a
@@ -14363,7 +14015,6 @@ lat,lon,sz,names,len_cat
 53.278728,-8.9682992,2,Ros Caoin (695),a
 53.278728,-8.9682992,2,Ros Caoin (695),a
 53.2787284,-9.0132642,2,Belmont (000),a
-53.2787296,-9.0449119,2,Bohermore (203),a
 53.2787314,-8.9651301,2,Ros Caoin (675),a
 53.2787314,-8.9651301,2,Ros Caoin (683),a
 53.2787325,-8.9734664,2,Durabhan (156),a
@@ -14407,8 +14058,6 @@ lat,lon,sz,names,len_cat
 53.2788008,-9.0229277,2,Renmore Park (579),a
 53.2788025,-9.0230109,2,Renmore Park (149),a
 53.2788025,-9.0230109,2,Renmore Park (176),a
-53.2788048,-9.0381999,2,College Road (546),a
-53.2788048,-9.0381999,2,College Road (546),a
 53.2788057,-8.9693724,2,Ros Caoin (813),a
 53.2788085,-9.0772202,2,John Coogan Park (420),a
 53.2788106,-9.0229041,2,Renmore Park (923),a
@@ -14531,7 +14180,6 @@ lat,lon,sz,names,len_cat
 53.2789555,-9.036978,2,Lough Atalia Road (644),a
 53.2789585,-9.0725723,2,Corrib Park (194),a
 53.2789585,-9.0725723,2,Corrib Park (236),a
-53.2789596,-9.0445241,2,Bohermore (202),a
 53.2789599,-8.965706,2,Eastern Approach Road (561),a
 53.2789605,-9.0897276,2,Cnoc an Óir (423),a
 53.2789607,-9.0043021,2,Glasán (397),a
@@ -14595,7 +14243,6 @@ lat,lon,sz,names,len_cat
 53.2790638,-9.0697254,2,Browne Roundabout (177),a
 53.2790642,-9.0918197,2,Bun a Cnoic (212),a
 53.2790645,-9.013201,2,Belmont (002),a
-53.2790658,-9.0378283,2,College Road (527),a
 53.2790682,-9.0457799,2,Cill Ard (521),a
 53.2790705,-9.0633142,2,Lower Newcastle Road (146),a
 53.2790705,-9.0633142,2,Lower Newcastle Road (146),a
@@ -14605,8 +14252,6 @@ lat,lon,sz,names,len_cat
 53.2790708,-9.0689677,2,Seamus Quirke Road (436),a
 53.2790753,-9.1165812,2,Ballymoneen Road (559),a
 53.2790768,-9.0688772,2,Seamus Quirke Road (916),a
-53.2790787,-9.0443213,2,Bohermore (201),a
-53.2790787,-9.0443213,2,Cill Ard (518),a
 53.2790791,-9.0918369,2,Bun a Cnoic (235),a
 53.2790808,-9.0172651,2,Glenina Heights (676),a
 53.279081,-9.0687347,2,Seamus Quirke Road (435),a
@@ -14624,7 +14269,6 @@ lat,lon,sz,names,len_cat
 53.2791027,-9.0759215,2,John Coogan Park (399),a
 53.279104,-9.0763452,2,John Coogan Park (362),a
 53.2791066,-9.0803535,2,Inishannagh Park (758),a
-53.2791072,-9.0443847,2,Cill Ard (400),a
 53.2791076,-9.0174341,2,Glenina Heights (678),a
 53.2791162,-9.0974932,2,Mincloon (404),a
 53.2791176,-9.0174975,2,Glenina Heights (679),a
@@ -14679,7 +14323,6 @@ lat,lon,sz,names,len_cat
 53.2791876,-9.0247018,2,Renmore Park (184),a
 53.2791885,-9.1083688,2,Rahoon Road (377),a
 53.2791891,-9.0179375,2,Glenina Heights (770),a
-53.2791913,-9.0376678,2,College Road (643),a
 53.2791915,-9.0179512,2,Glenina Heights (108),a
 53.2791942,-8.9722963,2,Eastern Approach Road (023),a
 53.2791961,-9.0680563,2,Seamus Quirke Road (427),a
@@ -14756,9 +14399,7 @@ lat,lon,sz,names,len_cat
 53.279296,-8.9727952,2,Eastern Approach Road (022),a
 53.2792979,-9.0776091,2,Siobhan McKenna Road (881),a
 53.2792987,-9.1090156,2,Rahoon Road (379),a
-53.2793001,-9.0440066,2,Bohermore (200),a
 53.2793007,-8.9853489,2,Coill Tire (007),a
-53.2793043,-9.0375104,2,College Road (526),a
 53.2793066,-9.0910243,2,Bun a Cnoic (197),a
 53.2793127,-8.9830328,2,Merlin Park Lane (774),a
 53.2793132,-8.9717121,2,Eastern Approach Road (390),a
@@ -14856,7 +14497,6 @@ lat,lon,sz,names,len_cat
 53.2794509,-9.0692944,2,Browne Roundabout (194),a
 53.2794522,-9.0871587,2,Cnoc an Óir (630),a
 53.2794522,-9.0871587,2,Cnoc an Óir (630),a
-53.2794524,-9.0451516,2,Cill Ard (517),a
 53.279454,-9.0924662,2,Bun a Cnoic (232),a
 53.2794558,-9.0126184,2,Belmont (022),a
 53.2794602,-9.0760295,2,John Coogan Park (405),a
@@ -14934,8 +14574,6 @@ lat,lon,sz,names,len_cat
 53.2795816,-9.0863794,2,Cnocan Glass (716),a
 53.2795816,-9.0863794,2,Letteragh Road (450),a
 53.2795816,-9.0863794,2,Letteragh Road (450),a
-53.2795817,-9.0436202,2,An Larnach (299),a
-53.2795817,-9.0436202,2,Bohermore (199),a
 53.2795825,-9.0725114,2,Corrib Park (309),a
 53.2795855,-9.0726639,2,Corrib Park (314),a
 53.2795887,-9.0006606,2,Coillte Mhuirlinne (387),a
@@ -14953,11 +14591,9 @@ lat,lon,sz,names,len_cat
 53.2796034,-9.0700182,2,Carbry Road (217),a
 53.279605,-9.0727148,2,Corrib Park (316),a
 53.2796095,-9.0527166,2,Dyke Wall (750),a
-53.2796099,-9.0370474,2,College Road (544),a
 53.2796099,-8.9846748,2,Coill Tire (011),a
 53.2796104,-9.0616576,2,Millennium Promenade (925),a
 53.2796127,-9.0723909,2,Corrib Park (307),a
-53.2796139,-9.0436929,2,An Larnach (300),a
 53.2796143,-9.0420943,2,Coole Park (707),a
 53.2796143,-9.0420943,2,Coole Park (709),a
 53.2796164,-9.0006351,2,Coillte Mhuirlinne (388),a
@@ -14971,7 +14607,6 @@ lat,lon,sz,names,len_cat
 53.2796265,-9.1110076,2,Rahoon Road (388),a
 53.2796265,-9.1110076,2,Rahoon Road (388),a
 53.2796271,-9.0830961,2,Carn Ard (980),a
-53.2796275,-9.0437237,2,An Larnach (301),a
 53.2796313,-9.0240621,2,Dublin Road (652),a
 53.2796323,-9.0924459,2,Bun a Cnoic (190),a
 53.2796329,-9.0070071,2,Glasán (415),a
@@ -15029,7 +14664,6 @@ lat,lon,sz,names,len_cat
 53.2796996,-9.0829903,2,Carn Ard (985),a
 53.2797002,-9.0857537,2,Cnocan Glass (897),a
 53.2797011,-9.0828755,2,Carn Ard (989),a
-53.2797025,-9.0438764,2,An Larnach (044),a
 53.2797026,-9.0829689,2,Carn Ard (986),a
 53.2797037,-9.0865166,2,Letteragh Road (449),a
 53.2797037,-9.0865166,2,Letteragh Road (449),a
@@ -15074,7 +14708,6 @@ lat,lon,sz,names,len_cat
 53.2797766,-9.0981994,2,Mincloon (279),a
 53.2797785,-9.0900357,2,Cul Gharrai (856),a
 53.2797821,-9.0699055,2,Thomas Hynes Road (622),a
-53.2797845,-9.0368005,2,College Road (542),a
 53.2797868,-9.0889665,2,Cnoc an Óir (433),a
 53.2797874,-9.0763542,2,John Coogan Park (409),a
 53.2797897,-9.1075168,2,Clybaun Road Upper (255),a
@@ -15119,7 +14752,6 @@ lat,lon,sz,names,len_cat
 53.2798663,-9.0749886,2,Corrib Park (580),a
 53.2798702,-9.0751353,2,Corrib Park (269),a
 53.2798714,-8.9858919,2,Coill Tire (027),a
-53.2798721,-9.0366544,2,College Road (525),a
 53.2798734,-8.9836592,2,Coill Tire (050),a
 53.2798748,-9.0494249,2,Headford Road (943),a
 53.2798807,-9.0140162,2,Saint James Crescent (354),a
@@ -15138,7 +14770,6 @@ lat,lon,sz,names,len_cat
 53.279894,-9.0180965,2,Cardinal Cushing Road (636),a
 53.2798957,-9.0530885,2,Dyke Wall (480),a
 53.2798958,-9.0832066,2,Circular Road (025),a
-53.2798972,-9.0431835,2,Bohermore (803),a
 53.2798981,-9.0751745,2,Corrib Park (266),a
 53.2798981,-9.0751745,2,Corrib Park (266),a
 53.2799022,-8.9860205,2,Coill Tire (029),a
@@ -15168,7 +14799,6 @@ lat,lon,sz,names,len_cat
 53.2799608,-8.9843426,2,Coill Tire (055),a
 53.279963,-9.0867961,2,Letteragh Road (595),a
 53.2799635,-9.0696939,2,Ardilaun Road (192),a
-53.2799648,-9.0364759,2,College Road (540),a
 53.2799658,-9.0985174,2,Mincloon (407),a
 53.2799658,-9.0985174,2,Mincloon (407),a
 53.2799714,-8.9860874,2,Coill Tire (030),a
@@ -15187,8 +14817,6 @@ lat,lon,sz,names,len_cat
 53.279992,-9.0860622,2,Cnocan Glass (883),a
 53.279992,-9.0860622,2,Cnocan Glass (883),a
 53.2799965,-9.0771278,2,Siobhan McKenna Road (877),a
-53.2800015,-9.0430391,2,Bohermore (198),a
-53.2800015,-9.0430391,2,Coole Park (705),a
 53.2800037,-8.9860771,2,Coill Tire (031),a
 53.2800066,-9.0149433,2,Saint James Crescent (642),a
 53.2800068,-8.9843274,2,Coill Tire (017),a
@@ -15197,7 +14825,6 @@ lat,lon,sz,names,len_cat
 53.2800105,-9.0697899,2,Ardilaun Road (191),a
 53.280011,-8.9768999,2,Merlin Park Lane (763),a
 53.280012,-9.0448112,2,Cookes Terrace (730),a
-53.2800131,-9.0363756,2,College Road (538),a
 53.2800169,-8.9767857,2,Merlin Park Lane (762),a
 53.2800207,-9.0446347,2,Cookes Terrace (948),a
 53.280023,-9.0711425,2,Corrib Park (656),a
@@ -15306,24 +14933,18 @@ lat,lon,sz,names,len_cat
 53.2801669,-9.0452353,2,Cookes Terrace (945),a
 53.2801674,-9.0159426,2,Saint James Crescent (382),a
 53.2801685,-8.9766853,2,Doughiska Road (326),a
-53.2801688,-9.0368709,2,The Stables (927),a
-53.2801704,-9.0368232,2,The Stables (928),a
 53.2801713,-8.9847561,2,Coill Tire (075),a
 53.2801714,-9.0662696,2,Snipe Lawn (256),a
 53.2801714,-9.0662696,2,Snipe Lawn (298),a
 53.2801714,-8.9848792,2,Coill Tire (076),a
 53.2801752,-8.9849525,2,Coill Tire (077),a
 53.280176,-8.985439,2,Coill Tire (022),a
-53.2801766,-9.0367787,2,The Stables (929),a
-53.2801785,-9.0369331,2,The Stables (926),a
 53.2801806,-8.9855291,2,Coill Tire (035),a
 53.2801806,-8.9850168,2,Coill Tire (078),a
 53.2801806,-8.9846515,2,Coill Tire (074),a
 53.280181,-9.0884605,2,Sliabh Rioga (867),a
 53.2801831,-9.0704493,2,Carbry Road (132),a
 53.2801846,-9.0534674,2,Dyke Wall (482),a
-53.2801849,-9.036752,2,Loyola Park (377),a
-53.2801849,-9.036752,2,The Stables (930),a
 53.280186,-9.0452758,2,Cookes Terrace (732),a
 53.2801861,-9.035616,2,Lough Atalia Road (795),a
 53.2801861,-8.999713,2,Coillte Mhuirlinne (951),a
@@ -15338,11 +14959,8 @@ lat,lon,sz,names,len_cat
 53.2801896,-9.0173148,2,Michael Collins Road (382),a
 53.2801901,-9.0265169,2,Dublin Road (595),a
 53.2801901,-9.0265169,2,Dublin Road (595),a
-53.2801914,-9.0369693,2,The Stables (925),a
 53.2801915,-9.0355226,2,Lough Atalia Road (478),a
 53.2801928,-8.9851162,2,Coill Tire (079),a
-53.280194,-9.0427714,2,Bohermore (197),a
-53.280194,-9.0427714,2,Saint Anthonys Terrace (446),a
 53.2801945,-8.9856011,2,Coill Tire (034),a
 53.2801951,-9.088415,2,Sliabh Rioga (868),a
 53.2801951,-9.088415,2,Sliabh Rioga (868),a
@@ -15358,7 +14976,6 @@ lat,lon,sz,names,len_cat
 53.2801997,-9.0881868,2,Sliabh Rioga (817),a
 53.2802012,-9.0883258,2,Sliabh Rioga (820),a
 53.2802012,-9.0198993,2,Cardinal Cushing Road (610),a
-53.2802017,-9.036732,2,Loyola Park (378),a
 53.2802031,-8.9845362,2,Coill Tire (073),a
 53.2802042,-9.0883852,2,Sliabh Rioga (821),a
 53.2802042,-9.0883852,2,Sliabh Rioga (821),a
@@ -15374,7 +14991,6 @@ lat,lon,sz,names,len_cat
 53.2802115,-9.0639186,2,Seamus Quirke Road (419),a
 53.2802119,-9.0703579,2,Carbry Road (130),a
 53.2802119,-9.0703579,2,Corrib Park (663),a
-53.280213,-9.0370099,2,The Stables (924),a
 53.2802132,-9.0356277,2,Lough Atalia Road (796),a
 53.2802169,-8.9844728,2,Coill Tire (020),a
 53.2802169,-8.9844728,2,Coill Tire (072),a
@@ -15384,13 +15000,10 @@ lat,lon,sz,names,len_cat
 53.2802177,-9.0354963,2,Lough Atalia Road (731),a
 53.2802193,-9.0176309,2,Loughnane Place (655),a
 53.2802193,-9.0176309,2,Loughnane Place (656),a
-53.28022,-9.0367162,2,Loyola Park (380),a
 53.2802206,-9.0086803,2,Castlepark Road (585),a
-53.2802207,-9.0428384,2,Saint Anthonys Terrace (664),a
 53.2802218,-9.1138701,2,Rahoon Road (397),a
 53.2802229,-9.0687395,2,Bóthar Na dTreabh (810),a
 53.2802229,-8.9852394,2,Coill Tire (080),a
-53.2802321,-9.0367098,2,Loyola Park (381),a
 53.2802324,-9.0453465,2,Cookes Terrace (734),a
 53.2802336,-9.0139229,2,Saint James Crescent (359),a
 53.2802343,-9.0122203,2,Belmont (017),a
@@ -15398,7 +15011,6 @@ lat,lon,sz,names,len_cat
 53.280241,-9.0678086,2,Snipe Avenue (580),a
 53.2802436,-9.0899023,2,Cul Gharrai (858),a
 53.2802444,-9.0356554,2,Lough Atalia Road (801),a
-53.2802457,-9.0367082,2,Loyola Park (383),a
 53.2802477,-9.0662998,2,Snipe Lawn (294),a
 53.2802542,-9.0661322,2,Snipe Lawn (258),a
 53.2802571,-9.0453593,2,Cookes Terrace (944),a
@@ -15437,9 +15049,6 @@ lat,lon,sz,names,len_cat
 53.2802863,-9.0144318,2,Saint James Crescent (659),a
 53.2802893,-8.9782684,2,An Castan (690),a
 53.2802893,-8.9782684,2,An Castan (690),a
-53.2802898,-9.0426256,2,Bohermore (226),a
-53.2802898,-9.0426256,2,Bohermore (233),a
-53.2802921,-9.0366955,2,Loyola Park (384),a
 53.2802925,-9.0453612,2,Cookes Terrace (735),a
 53.2802958,-9.0145233,2,Saint James Crescent (660),a
 53.2802966,-9.0660361,2,Snipe Lawn (260),a
@@ -15469,7 +15078,6 @@ lat,lon,sz,names,len_cat
 53.28032,-9.0271842,2,Dublin Road (593),a
 53.2803254,-9.0181941,2,Loughnane Place (223),a
 53.2803257,-9.0735199,2,Corrib Park (048),a
-53.2803259,-9.0354712,2,Lough Atalia Road (792),a
 53.2803291,-9.0528558,2,Dyke Road (853),a
 53.2803296,-8.9995979,2,Coillte Mhuirlinne (949),a
 53.28033,-9.0148539,2,Saint James Crescent (663),a
@@ -15478,17 +15086,14 @@ lat,lon,sz,names,len_cat
 53.2803358,-9.0247842,2,Wellpark Grove (200),a
 53.2803374,-9.0659183,2,Snipe Lawn (262),a
 53.2803379,-8.9853769,2,Coill Tire (998),a
-53.2803392,-9.036672,2,Loyola Park (385),a
 53.2803394,-9.0081948,2,Castlepark Road (586),a
 53.2803419,-9.0149695,2,Saint James Crescent (664),a
 53.2803429,-9.0149789,2,Saint James Crescent (665),a
 53.2803429,-9.0149789,2,Saint James Crescent (665),a
 53.2803468,-9.066333,2,Snipe Lawn (289),a
-53.2803507,-9.0357137,2,College Road (546),a
 53.2803517,-9.0158867,2,Saint James Crescent (586),a
 53.2803537,-8.9840314,2,An Fiodán (379),a
 53.2803537,-8.9840314,2,Coill Tire (070),a
-53.2803545,-9.0353499,2,Lough Atalia Road (491),a
 53.2803548,-9.0121458,2,Belmont (014),a
 53.2803568,-8.9833782,2,An Fiodán (415),a
 53.2803568,-8.9833782,2,An Fiodán (441),a
@@ -15507,7 +15112,6 @@ lat,lon,sz,names,len_cat
 53.2803746,-9.0658163,2,Snipe Lawn (264),a
 53.2803749,-9.0733528,2,Corrib Park (322),a
 53.2803749,-9.0733528,2,Corrib Park (337),a
-53.2803752,-9.0356697,2,College Road (642),a
 53.2803767,-8.9833183,2,An Fiodán (442),a
 53.2803784,-9.066342,2,Snipe Lawn (287),a
 53.2803801,-8.9807186,2,An Castan (561),a
@@ -15517,10 +15121,8 @@ lat,lon,sz,names,len_cat
 53.2803824,-9.0153603,2,Saint James Crescent (667),a
 53.2803827,-9.0248072,2,Wellpark Grove (902),a
 53.2803828,-8.9855769,2,Coill Tire (084),a
-53.2803848,-9.0354859,2,Lough Atalia Road (790),a
 53.2803883,-9.0185378,2,Loughnane Place (225),a
 53.2803901,-9.0121399,2,Belmont (013),a
-53.2803906,-9.0353151,2,Lough Atalia Road (556),a
 53.2803907,-9.0535117,2,Dyke Wall (484),a
 53.2803921,-9.0578844,2,Distillery Road (885),a
 53.2803931,-9.0158742,2,Saint James Crescent (587),a
@@ -15534,7 +15136,6 @@ lat,lon,sz,names,len_cat
 53.2804007,-9.0886043,2,Sliabh Rioga (870),a
 53.2804007,-8.9846518,2,Coill Tire (005),a
 53.2804011,-9.0682891,2,Snipe Avenue (578),a
-53.2804013,-9.0366165,2,Loyola Park (386),a
 53.2804024,-9.0708486,2,Corrib Park (298),a
 53.2804027,-9.0639928,2,Lower Newcastle Road (139),a
 53.2804074,-9.0248171,2,Wellpark Grove (903),a
@@ -15556,8 +15157,6 @@ lat,lon,sz,names,len_cat
 53.2804368,-9.0686023,2,Bóthar Na dTreabh (811),a
 53.2804403,-9.0278416,2,Dublin Road (591),a
 53.2804403,-9.0278416,2,Dublin Road (591),a
-53.2804404,-9.0352696,2,Lough Atalia Road (459),a
-53.2804404,-9.0352696,2,Lough Atalia Road (733),a
 53.2804407,-9.076682,2,Siobhan McKenna Road (874),a
 53.2804407,-9.076682,2,Siobhan McKenna Road (874),a
 53.2804407,-8.9807377,2,An Castan (562),a
@@ -15575,15 +15174,10 @@ lat,lon,sz,names,len_cat
 53.2804572,-9.1075847,2,Clybaun Road Upper (257),a
 53.2804589,-9.00738,2,An Culán (138),a
 53.2804602,-9.0662234,2,Snipe Lawn (272),a
-53.2804618,-9.0355145,2,College Road (528),a
-53.2804618,-9.0355145,2,College Road (531),a
-53.2804618,-9.0355145,2,Lough Atalia Road (787),a
-53.2804618,-9.0355145,2,Loyola Park (398),a
 53.2804643,-9.0661953,2,Snipe Lawn (270),a
 53.2804655,-9.0077461,2,Castlepark Road (587),a
 53.2804657,-8.9800641,2,An Castan (566),a
 53.2804657,-8.9800641,2,An Castan (566),a
-53.2804658,-9.0374075,2,The Stables (923),a
 53.2804666,-9.0678974,2,Snipe Avenue (046),a
 53.2804666,-9.0678974,2,Snipe Avenue (577),a
 53.2804672,-9.0014479,2,Coillte Mhuirlinne (916),a
@@ -15608,7 +15202,6 @@ lat,lon,sz,names,len_cat
 53.2804938,-9.0095765,2,Ballybane Road (343),a
 53.2804962,-9.0898301,2,Cul Gharrai (862),a
 53.2804994,-9.0673293,2,Inchagill Road (317),a
-53.2805018,-9.0365281,2,Loyola Park (387),a
 53.2805043,-8.9835549,2,An Fiodán (378),a
 53.2805043,-8.9835549,2,An Fiodán (405),a
 53.2805082,-9.1153471,2,An Bhuaile Bheag (513),a
@@ -15637,13 +15230,11 @@ lat,lon,sz,names,len_cat
 53.280529,-8.9801941,2,An Castan (559),a
 53.280529,-8.9801941,2,An Castan (559),a
 53.2805301,-9.0017998,2,Coillte Mhuirlinne (919),a
-53.2805329,-9.0353792,2,College Road (545),a
 53.2805358,-8.9848456,2,Coill Tire (002),a
 53.2805364,-8.9848001,2,Coill Tire (003),a
 53.2805364,-8.9848001,2,Coill Tire (061),a
 53.2805376,-9.0285048,2,Dublin Road (590),a
 53.2805376,-9.0285048,2,Dublin Road (590),a
-53.2805395,-9.0356356,2,Loyola Park (550),a
 53.2805397,-9.0640539,2,Lower Newcastle Road (138),a
 53.2805397,-8.9835902,2,An Fiodán (406),a
 53.2805407,-9.0248849,2,Wellpark Grove (905),a
@@ -15675,7 +15266,6 @@ lat,lon,sz,names,len_cat
 53.2805788,-8.9784252,2,An Castan (563),a
 53.2805788,-8.9784252,2,An Castan (563),a
 53.2805797,-9.0074017,2,Castlepark Road (590),a
-53.2805816,-9.0364448,2,Loyola Park (388),a
 53.280582,-9.0067957,2,An Culán (142),a
 53.2805823,-8.9816098,2,An Fiodán (449),a
 53.2805825,-9.0078709,2,Rahylin Glebe (003),a
@@ -15685,8 +15275,6 @@ lat,lon,sz,names,len_cat
 53.2805834,-8.9802388,2,An Castan (560),a
 53.2805834,-8.9802388,2,An Castan (560),a
 53.2805878,-9.0830118,2,Circular Road (053),a
-53.2805887,-9.0421706,2,Bohermore (228),a
-53.2805887,-9.0421706,2,Liam Mellowes Terrace (036),a
 53.2805892,-9.0078958,2,Rahylin Glebe (004),a
 53.2805906,-9.1157262,2,An Bhuaile Bheag (516),a
 53.280591,-9.0887718,2,Sliabh Rioga (827),a
@@ -15700,10 +15288,8 @@ lat,lon,sz,names,len_cat
 53.2805986,-8.9967456,2,Sruthán Mhuirlinne (056),a
 53.2805995,-9.0437879,2,Cookes Terrace (951),a
 53.2805995,-9.0437879,2,Saint Anthonys Terrace (447),a
-53.2805997,-9.0351368,2,Lough Atalia Road (458),a
 53.2806003,-9.0020149,2,Coillte Mhuirlinne (922),a
 53.2806003,-9.0020149,2,Coillte Mhuirlinne (927),a
-53.2806018,-9.0352491,2,College Road (526),a
 53.2806034,-9.0020289,2,Coillte Mhuirlinne (923),a
 53.2806069,-9.0290144,2,Dublin Road (646),a
 53.2806081,-9.0887835,2,Sliabh Rioga (828),a
@@ -15742,7 +15328,6 @@ lat,lon,sz,names,len_cat
 53.2806466,-9.1001044,2,Mincloon (412),a
 53.28065,-9.0888172,2,Sliabh Rioga (830),a
 53.28065,-9.0888172,2,Sliabh Rioga (874),a
-53.2806522,-9.0363581,2,Loyola Park (389),a
 53.2806532,-9.1001669,2,Mincloon (286),a
 53.2806534,-8.9847336,2,Coill Tire (062),a
 53.2806534,-8.9847336,2,Coill Tire (066),a
@@ -15805,15 +15390,11 @@ lat,lon,sz,names,len_cat
 53.2807083,-9.015123,2,Saint James Crescent (835),a
 53.2807133,-9.0005588,2,Coillte Mhuirlinne (910),a
 53.2807157,-8.9772561,2,Doughiska Road (329),a
-53.2807158,-9.0362632,2,Loyola Park (390),a
 53.2807162,-9.0249772,2,Wellpark Grove (908),a
 53.2807177,-9.0711476,2,Corrib Park (292),a
 53.280719,-9.0152256,2,Saint James Crescent (333),a
 53.280719,-9.0152256,2,Saint James Crescent (333),a
 53.280719,-9.0152256,2,Saint James Crescent (834),a
-53.2807193,-9.0350754,2,College Road (522),a
-53.2807193,-9.0350754,2,College Road (590),a
-53.2807193,-9.0350754,2,Lough Atalia Road (457),a
 53.2807203,-9.0019489,2,Coillte Mhuirlinne (928),a
 53.2807219,-9.0811566,2,Claonadh (780),a
 53.2807248,-8.9785721,2,An Castan (547),a
@@ -15858,7 +15439,6 @@ lat,lon,sz,names,len_cat
 53.2807639,-9.0879889,2,Sliabh Rioga (852),a
 53.280764,-8.9818336,2,An Fiodán (445),a
 53.280764,-8.9818336,2,An Fiodán (450),a
-53.2807688,-9.0361689,2,Loyola Park (391),a
 53.28077,-8.9773171,2,Doughiska Road (330),a
 53.2807701,-9.0736835,2,Corrib Park (670),a
 53.2807701,-9.0182685,2,Loughnane Terrace (699),a
@@ -15902,8 +15482,6 @@ lat,lon,sz,names,len_cat
 53.2808159,-9.0761414,2,Siobhan McKenna Road (867),a
 53.2808162,-9.0184859,2,Loughnane Terrace (695),a
 53.2808194,-9.1169174,2,An Bhuaile Bheag (523),a
-53.2808203,-9.036063,2,Loyola Park (392),a
-53.2808203,-9.036063,2,Loyola Park (395),a
 53.280821,-9.0068569,2,Castlepark Road (594),a
 53.2808236,-9.0682688,2,Bóthar Na dTreabh (814),a
 53.2808257,-9.0185308,2,Loughnane Terrace (694),a
@@ -16092,14 +15670,11 @@ lat,lon,sz,names,len_cat
 53.28097,-8.9840515,2,An Fiodán (454),a
 53.2809704,-9.0110332,2,Bayview Rise (486),a
 53.2809704,-9.0110332,2,Saint James Road (138),a
-53.2809711,-9.0348613,2,College Road (588),a
-53.2809711,-9.0348613,2,Gleann Nóinín (214),a
 53.2809712,-9.0172261,2,Quinn Place (335),a
 53.2809712,-9.0172261,2,Quinn Place (337),a
 53.280972,-9.0114939,2,Saint James Road (145),a
 53.2809724,-9.0109465,2,Saint James Road (137),a
 53.2809755,-9.0801348,2,Hy-Brasail Court (544),a
-53.2809757,-9.0357383,2,Loyola Park (393),a
 53.280976,-9.089501,2,Cul Gharrai (873),a
 53.2809778,-9.0192482,2,Loughnane Terrace (659),a
 53.2809786,-9.0749698,2,Corrib Park (241),a
@@ -16135,7 +15710,6 @@ lat,lon,sz,names,len_cat
 53.2810055,-9.0100258,2,Saint James Road (134),a
 53.2810097,-9.0597534,2,Distillery Road (897),a
 53.2810098,-8.9857513,2,Coill Tire (963),a
-53.2810108,-9.0350356,2,Gleann Nóinín (646),a
 53.2810126,-9.0017149,2,Coillte Mhuirlinne (931),a
 53.2810146,-8.9789172,2,An Castan (551),a
 53.2810146,-8.9789172,2,An Castan (551),a
@@ -16157,8 +15731,6 @@ lat,lon,sz,names,len_cat
 53.2810214,-9.0010124,2,Coillte Mhuirlinne (905),a
 53.2810214,-9.0010124,2,Coillte Mhuirlinne (981),a
 53.2810228,-9.0764273,2,Laurel Park (537),a
-53.2810229,-9.0413409,2,Bohermore (227),a
-53.2810229,-9.0413409,2,Cookes Terrace (927),a
 53.2810238,-9.088698,2,Sliabh Rioga (845),a
 53.2810238,-9.088698,2,Sliabh Rioga (845),a
 53.2810255,-9.0097706,2,Ballybane Road (627),a
@@ -16170,10 +15742,8 @@ lat,lon,sz,names,len_cat
 53.2810321,-8.9761423,2,Garrán Ard (843),a
 53.2810321,-8.9761423,2,Garrán Ard (865),a
 53.2810353,-9.0802092,2,Hy-Brasail Court (541),a
-53.2810367,-9.0356412,2,Loyola Park (394),a
 53.281038,-8.9789656,2,An Castan (552),a
 53.281038,-8.9789656,2,An Castan (552),a
-53.2810411,-9.0352446,2,Gleann Nóinín (211),a
 53.2810417,-9.0683586,2,Ardilaun Road (207),a
 53.2810439,-9.0774567,2,Laurel Park (556),a
 53.2810448,-8.9791015,2,An Castan (555),a
@@ -16203,7 +15773,6 @@ lat,lon,sz,names,len_cat
 53.2810697,-9.0319204,2,Dublin Road (844),a
 53.2810702,-9.1258151,2,An Bhuaile Bheag (479),a
 53.2810717,-9.0011202,2,Coillte Mhuirlinne (940),a
-53.2810739,-9.0353052,2,Gleann Nóinín (647),a
 53.2810742,-8.9776593,2,Doughiska Road (333),a
 53.2810753,-9.0756249,2,Siobhan McKenna Road (865),a
 53.2810755,-9.0630706,2,Distillery Road (096),a
@@ -16245,7 +15814,6 @@ lat,lon,sz,names,len_cat
 53.2811197,-9.1265638,2,An Bhuaile Bheag (481),a
 53.2811202,-9.0863639,2,Fánán (704),a
 53.2811207,-8.9864831,2,Coill Tire (965),a
-53.2811219,-9.0415386,2,Cookes Terrace (928),a
 53.2811244,-9.0252213,2,Wellpark Grove (203),a
 53.2811244,-9.0252213,2,Wellpark Grove (214),a
 53.2811258,-8.9829057,2,An Fiodán (399),a
@@ -16364,17 +15932,12 @@ lat,lon,sz,names,len_cat
 53.2812275,-9.0715139,2,Corrib Park (290),a
 53.2812297,-9.0816792,2,Hy-Brasail Court (508),a
 53.2812306,-9.0141565,2,Saint James Road (316),a
-53.2812314,-9.0346407,2,College Road (558),a
 53.2812316,-9.0485675,2,Headford Road (817),a
 53.2812344,-9.0603503,2,Distillery Road (898),a
 53.2812344,-8.9832263,2,An Fiodán (396),a
 53.2812346,-9.1280946,2,An Bhuaile Bheag (399),a
 53.2812354,-8.9866259,2,Coill Tire (966),a
 53.2812367,-9.0183966,2,Quinn Place (222),a
-53.2812368,-9.0407145,2,Bohermore (231),a
-53.2812368,-9.0407145,2,Bohermore (231),a
-53.2812368,-9.0407145,2,Cúirt Seoige (233),a
-53.2812368,-9.0407145,2,Cúirt Seoige (233),a
 53.2812373,-9.0322664,2,Dublin Road (846),a
 53.2812374,-9.0882165,2,Letteragh Road (577),a
 53.2812374,-9.0882165,2,Letteragh Road (577),a
@@ -16427,8 +15990,6 @@ lat,lon,sz,names,len_cat
 53.2812845,-9.0294825,2,Sáilín (509),a
 53.2812856,-9.0298008,2,Sáilín (502),a
 53.2812867,-9.0605034,2,Distillery Road (892),a
-53.2812894,-9.040764,2,Cúirt Seoige (234),a
-53.2812894,-9.040764,2,Cúirt Seoige (234),a
 53.28129,-9.0676673,2,Bóthar Na dTreabh (819),a
 53.2812902,-8.9866984,2,Coill Tire (967),a
 53.2812902,-8.9866984,2,Coill Tire (976),a
@@ -16450,13 +16011,7 @@ lat,lon,sz,names,len_cat
 53.2813083,-9.0149589,2,Saint James Road (319),a
 53.2813087,-9.0763789,2,Laurel Park (532),a
 53.2813088,-9.0443574,2,Cookes Terrace (936),a
-53.281309,-9.0409752,2,Cúirt Seoige (237),a
 53.2813108,-9.0149849,2,Saint James Road (160),a
-53.2813122,-9.0408089,2,Cúirt Seoige (235),a
-53.2813122,-9.0408089,2,Cúirt Seoige (235),a
-53.2813131,-9.0410706,2,Cúirt Seoige (238),a
-53.2813163,-9.0408703,2,Cúirt Seoige (236),a
-53.2813163,-9.0408703,2,Cúirt Seoige (236),a
 53.2813163,-9.0298859,2,Sáilín (501),a
 53.2813163,-9.0298859,2,Sáilín (564),a
 53.2813164,-9.0245011,2,Wellpark Grove (913),a
@@ -16482,7 +16037,6 @@ lat,lon,sz,names,len_cat
 53.2813399,-8.9870096,2,Coill Tire (970),a
 53.2813399,-8.9870096,2,Coill Tire (992),a
 53.2813399,-8.9868796,2,Coill Tire (969),a
-53.2813408,-9.0411346,2,Cúirt Seoige (239),a
 53.2813414,-8.9848891,2,Túr Uisce (345),a
 53.2813437,-8.9871013,2,Coill Tire (971),a
 53.2813449,-9.0293805,2,Sáilín (511),a
@@ -16545,8 +16099,6 @@ lat,lon,sz,names,len_cat
 53.2813961,-9.0325373,2,Dublin Road (938),a
 53.281397,-9.0674914,2,Bóthar Na dTreabh (820),a
 53.2813983,-9.0828123,2,Circular Road (042),a
-53.2814028,-9.0402286,2,Bohermore (229),a
-53.2814028,-9.0402286,2,Bohermore (229),a
 53.2814054,-9.1305722,2,An Bhuaile Bheag (487),a
 53.2814068,-8.9974625,2,Sruthán Mhuirlinne (702),a
 53.2814098,-8.9761928,2,Garrán Ard (894),a
@@ -16603,7 +16155,6 @@ lat,lon,sz,names,len_cat
 53.2814632,-9.0166208,2,Michael Collins Road (800),a
 53.2814632,-9.0166208,2,Saint James Road (170),a
 53.2814632,-9.0166208,2,Saint James Road (170),a
-53.2814642,-9.0413573,2,Cúirt Seoige (240),a
 53.2814643,-9.0749118,2,Laurel Park (919),a
 53.2814647,-9.0236718,2,Wellpark Grove (922),a
 53.2814649,-9.0761229,2,Laurel Park (527),a
@@ -16623,7 +16174,6 @@ lat,lon,sz,names,len_cat
 53.2814727,-9.0827956,2,Circular Road (024),a
 53.2814731,-8.9760635,2,Garrán Ard (896),a
 53.2814742,-9.075281,2,Laurel Park (516),a
-53.2814747,-9.0344284,2,College Road (557),a
 53.2814751,-9.076051,2,Laurel Park (526),a
 53.2814754,-9.0779202,2,Laurel Park (507),a
 53.2814757,-9.0235874,2,Wellpark Grove (924),a
@@ -16655,7 +16205,6 @@ lat,lon,sz,names,len_cat
 53.2815119,-8.9844355,2,Túr Uisce (346),a
 53.2815119,-8.9844355,2,Túr Uisce (357),a
 53.2815131,-9.0751229,2,Laurel Park (514),a
-53.2815164,-9.0358317,2,Gleann Nóinín (208),a
 53.2815188,-9.0778969,2,Laurel Park (492),a
 53.2815188,-9.0778969,2,Laurel Park (509),a
 53.2815196,-9.0013062,2,Beal Srutha (274),a
@@ -16748,16 +16297,11 @@ lat,lon,sz,names,len_cat
 53.2816527,-9.0316406,2,Wellpark Retail Centre (964),a
 53.2816554,-9.0711161,2,Ardilaun Road (093),a
 53.2816566,-9.0651142,2,Upper Newcastle Road (232),a
-53.2816566,-9.0359399,2,Gleann Nóinín (205),a
-53.2816567,-9.0344847,2,Moneenageisha Court (030),a
 53.2816574,-9.1337978,2,An Bhuaile Bheag (496),a
 53.2816617,-8.9999155,2,Sruthán Mhuirlinne (688),a
 53.2816652,-9.072584,2,Corrib Park (043),a
 53.2816674,-9.0187163,2,Walter Macken Place (827),a
 53.2816749,-9.0725497,2,Corrib Park (042),a
-53.2816777,-9.034248,2,College Road (286),a
-53.2816777,-9.034248,2,College Road (288),a
-53.2816777,-9.034248,2,College Road (587),a
 53.2816783,-9.0901928,2,Breacán (684),a
 53.2816808,-9.075095,2,Laurel Park (401),a
 53.2816808,-9.075095,2,Laurel Park (401),a
@@ -16813,7 +16357,6 @@ lat,lon,sz,names,len_cat
 53.2817372,-9.0186585,2,Walter Macken Place (960),a
 53.281738,-8.9858628,2,Coill Tire (040),a
 53.281738,-8.9858628,2,Coill Tire (068),a
-53.2817386,-9.035882,2,Gleann Nóinín (203),a
 53.2817396,-9.0249751,2,Tara Grove (095),a
 53.2817415,-9.0281447,2,Sáilín (547),a
 53.2817415,-9.0281447,2,Sáilín (547),a
@@ -16852,22 +16395,15 @@ lat,lon,sz,names,len_cat
 53.2817867,-8.9796971,2,An Fiodán (361),a
 53.2817867,-8.9796971,2,An Fiodán (361),a
 53.2817887,-9.0062543,2,Clareview Park (104),a
-53.28179,-9.0343754,2,Moneenageisha Court (028),a
-53.28179,-9.0343754,2,Moneenageisha Court (059),a
 53.28179,-9.0257866,2,Wellpark Grove (196),a
 53.28179,-9.0257866,2,Wellpark Grove (206),a
 53.2817954,-9.0292891,2,Sáilín (541),a
 53.2817958,-9.0752728,2,Laurel Park (404),a
 53.2817997,-9.0683629,2,Ardilaun Road (923),a
 53.2817998,-9.0557813,2,Dyke Road (200),a
-53.2818018,-9.0340796,2,College Road (784),a
 53.281806,-9.0331239,2,College Road (343),a
 53.281806,-9.0331239,2,Dublin Road (776),a
 53.281806,-9.0331239,2,Dublin Road (923),a
-53.2818067,-9.0390647,2,Bohermore (230),a
-53.2818067,-9.0390647,2,Bohermore (230),a
-53.2818071,-9.0358011,2,Gleann Nóinín (202),a
-53.2818173,-9.0344301,2,Moneenageisha Court (057),a
 53.2818175,-8.9796572,2,An Fiodán (360),a
 53.2818175,-8.9796572,2,An Fiodán (360),a
 53.2818179,-8.9861398,2,Coill Tire (985),a
@@ -16881,7 +16417,6 @@ lat,lon,sz,names,len_cat
 53.2818265,-9.0247125,2,Tara Grove (096),a
 53.2818268,-8.999398,2,Sruthán Mhuirlinne (685),a
 53.2818275,-8.9769364,2,Garrán Ard (853),a
-53.281829,-9.0341319,2,College Road (864),a
 53.2818304,-8.996546,2,Bóthar Waitman (383),a
 53.2818344,-9.011259,2,Bayview Rise (480),a
 53.2818344,-9.011259,2,Bayview Rise (485),a
@@ -16893,7 +16428,6 @@ lat,lon,sz,names,len_cat
 53.281853,-9.0437379,2,Cookes Terrace (933),a
 53.2818537,-9.0653501,2,Upper Newcastle Road (365),a
 53.2818542,-9.0017036,2,Beal Srutha (280),a
-53.2818573,-9.0357018,2,Gleann Nóinín (201),a
 53.2818628,-8.9796431,2,An Fiodán (359),a
 53.2818628,-8.9796431,2,An Fiodán (359),a
 53.2818638,-8.9861953,2,Coill Tire (986),a
@@ -16938,15 +16472,12 @@ lat,lon,sz,names,len_cat
 53.2819064,-9.0001211,2,Clós Na Coille (497),a
 53.281908,-8.9827978,2,Túr Uisce (568),a
 53.2819099,-9.0244512,2,Tara Grove (097),a
-53.2819101,-9.0346075,2,Moneenageisha Court (054),a
 53.2819144,-9.0785291,2,Laurel Park (461),a
 53.2819148,-9.0339234,2,College Road (287),a
 53.2819148,-9.0339234,2,College Road (782),a
 53.2819148,-9.0339234,2,College Road (860),a
 53.2819192,-9.0070682,2,Clareview Park (037),a
 53.2819203,-8.9846678,2,Túr Uisce (360),a
-53.281922,-9.038772,2,Bohermore (232),a
-53.281922,-9.038772,2,Bohermore (232),a
 53.281923,-8.998911,2,Sruthán Mhuirlinne (682),a
 53.281923,-8.998911,2,Sruthán Mhuirlinne (693),a
 53.2819238,-9.0029903,2,Beal Srutha (298),a
@@ -16961,12 +16492,6 @@ lat,lon,sz,names,len_cat
 53.2819344,-9.0286398,2,Sáilín (532),a
 53.2819363,-9.0754985,2,Laurel Park (406),a
 53.2819363,-9.0754985,2,Laurel Park (406),a
-53.2819395,-9.0387275,2,Bohermore (674),a
-53.2819395,-9.0387275,2,Bohermore (674),a
-53.2819395,-9.0387275,2,Bohermore (967),a
-53.2819395,-9.0387275,2,Bohermore (967),a
-53.2819395,-9.0387275,2,Bohermore (973),a
-53.2819395,-9.0387275,2,Bohermore (973),a
 53.2819405,-8.977903,2,Garrán Ard (861),a
 53.2819406,-8.9827214,2,Túr Uisce (617),a
 53.281941,-8.9845011,2,Túr Uisce (337),a
@@ -16984,7 +16509,6 @@ lat,lon,sz,names,len_cat
 53.2819564,-8.9765565,2,Garrán Ard (888),a
 53.2819583,-9.0479862,2,Headford Road (812),a
 53.2819583,-9.0337088,2,College Road (337),a
-53.2819606,-9.0354651,2,Gleann Nóinín (200),a
 53.2819617,-9.0059501,2,Clareview Park (097),a
 53.2819618,-8.9848765,2,Túr Uisce (351),a
 53.2819627,-8.9985894,2,Sruthán Mhuirlinne (183),a
@@ -17002,7 +16526,6 @@ lat,lon,sz,names,len_cat
 53.2819688,-9.0009886,2,Beal Srutha (272),a
 53.2819705,-8.9796302,2,An Fiodán (357),a
 53.2819705,-8.9796302,2,An Fiodán (357),a
-53.281971,-9.0341682,2,Moneenageisha Court (026),a
 53.2819716,-9.0479767,2,Headford Road (811),a
 53.2819716,-9.0479767,2,Headford Road (813),a
 53.281972,-8.9810548,2,An Fiodán (383),a
@@ -17029,7 +16552,6 @@ lat,lon,sz,names,len_cat
 53.2819954,-9.0479597,2,Headford Road (809),a
 53.281997,-9.0290489,2,Sáilín (526),a
 53.2819985,-8.9845099,2,Túr Uisce (335),a
-53.2819998,-9.0355104,2,Gleann Nóinín (579),a
 53.2820005,-9.0091771,2,Rahylin Glebe (873),a
 53.2820018,-9.0245618,2,Tara Grove (070),a
 53.2820029,-9.0105933,2,Bayview Rise (313),a
@@ -17052,7 +16574,6 @@ lat,lon,sz,names,len_cat
 53.2820307,-9.0240595,2,Tara Grove (098),a
 53.2820313,-9.0339258,2,College Road (548),a
 53.2820327,-9.0166348,2,Walter Macken Road (924),a
-53.2820347,-9.0384174,2,Bohermore (972),a
 53.2820359,-9.0332656,2,Dublin Road (839),a
 53.2820367,-9.0289842,2,Sáilín (527),a
 53.2820395,-9.0658759,2,Bóthar Na dTreabh (099),a
@@ -17090,19 +16611,12 @@ lat,lon,sz,names,len_cat
 53.2820713,-9.0481585,2,Headford Road (808),a
 53.2820721,-9.0657743,2,Bóthar Na dTreabh (097),a
 53.2820721,-9.0657743,2,Bóthar Na dTreabh (103),a
-53.2820725,-9.0354891,2,Moneenageisha Court (039),a
-53.2820736,-9.0354003,2,Moneenageisha Court (041),a
 53.2820763,-8.9787842,2,Doughiska Road (341),a
 53.2820763,-8.9787842,2,Doughiska Road (341),a
 53.2820766,-8.979529,2,An Fiodán (353),a
 53.2820766,-8.979529,2,An Fiodán (353),a
-53.2820768,-9.0384677,2,Bohermore (032),a
-53.2820772,-9.03829,2,Bohermore (971),a
-53.282088,-9.03555,2,Moneenageisha Court (037),a
 53.2820888,-9.0333742,2,Dublin Road (838),a
 53.2820897,-9.0083289,2,Rahylin Glebe (870),a
-53.2820956,-9.038431,2,Bohermore (517),a
-53.2820957,-9.0353504,2,Moneenageisha Court (042),a
 53.2820962,-9.0051664,2,Clareview Park (179),a
 53.2820995,-9.0009134,2,Beal Srutha (269),a
 53.2821008,-9.0288618,2,Sáilín (528),a
@@ -17118,7 +16632,6 @@ lat,lon,sz,names,len_cat
 53.2821077,-9.0081719,2,Rahylin Glebe (868),a
 53.2821082,-9.016143,2,Walter Macken Road (926),a
 53.2821082,-9.016143,2,Walter Macken Road (926),a
-53.2821085,-9.0381935,2,Bohermore (970),a
 53.2821094,-9.007652,2,Clareview Park (152),a
 53.2821114,-8.9823084,2,Túr Uisce (618),a
 53.2821116,-9.0903095,2,Breacán (572),a
@@ -17136,22 +16649,16 @@ lat,lon,sz,names,len_cat
 53.2821302,-9.090202,2,Bóthar Leitreach (428),a
 53.2821303,-9.0160341,2,Walter Macken Road (927),a
 53.2821303,-9.0160341,2,Walter Macken Road (927),a
-53.2821306,-9.0364951,2,Moneenageisha Court (018),a
 53.2821325,-8.9788471,2,Coill Aoibhinn (381),a
 53.2821325,-8.9788471,2,Coill Aoibhinn (381),a
 53.2821325,-8.9788471,2,Doughiska Road (342),a
 53.2821325,-8.9788471,2,Doughiska Road (342),a
-53.2821333,-9.0352895,2,Moneenageisha Court (044),a
 53.2821334,-9.0052426,2,Clareview Park (176),a
 53.282134,-8.9976475,2,Bóthar Waitman (858),a
 53.2821391,-8.9874232,2,Coill Tire (996),a
 53.2821409,-9.069649,2,Ardilaun Road (098),a
-53.2821421,-9.0356189,2,Moneenageisha Court (025),a
-53.2821421,-9.0356189,2,Moneenageisha Court (035),a
 53.2821424,-9.0334812,2,Dublin Road (837),a
 53.2821445,-9.0009456,2,Beal Srutha (267),a
-53.2821454,-9.0378347,2,Moneenageisha Road (887),a
-53.2821468,-9.037726,2,Moneenageisha Road (685),a
 53.2821501,-9.0476113,2,Sean Mulvoy Road (846),a
 53.2821503,-9.0476294,2,Sean Mulvoy Road (845),a
 53.2821503,-9.0476294,2,Sean Mulvoy Road (848),a
@@ -17162,8 +16669,6 @@ lat,lon,sz,names,len_cat
 53.2821522,-9.0478315,2,Headford Road (810),a
 53.2821522,-9.0478315,2,Sean Mulvoy Road (844),a
 53.2821526,-9.0474226,2,Sean Mulvoy Road (301),a
-53.2821546,-9.0383162,2,Bohermore (968),a
-53.2821546,-9.0375779,2,Moneenageisha Road (886),a
 53.2821554,-9.0478817,2,Bóthar Na dTreabh (877),a
 53.2821567,-9.0074053,2,Clareview Park (081),a
 53.2821567,-9.0074053,2,Clareview Park (149),a
@@ -17173,80 +16678,54 @@ lat,lon,sz,names,len_cat
 53.282159,-9.0337928,2,Dublin Road (798),a
 53.282159,-9.0337928,2,Moneenageisha Road (871),a
 53.282159,-9.0337928,2,Wellpark Road (788),a
-53.2821631,-9.0380594,2,Bohermore (969),a
-53.2821631,-9.0380594,2,Joyce Roundabout (659),a
-53.2821631,-9.0380594,2,Joyce Roundabout (705),a
-53.2821633,-9.0356328,2,Moneenageisha Court (033),a
 53.2821638,-9.0472233,2,Sean Mulvoy Road (303),a
 53.2821659,-9.0158583,2,Walter Macken Road (928),a
-53.282167,-9.0379946,2,Joyce Roundabout (684),a
-53.282167,-9.0379946,2,Joyce Roundabout (686),a
-53.282167,-9.0379946,2,Moneenageisha Road (888),a
 53.2821682,-9.0480829,2,Bóthar Na dTreabh (081),a
 53.2821682,-9.0480829,2,Bóthar Na dTreabh (878),a
 53.2821682,-9.0480829,2,Headford Road (606),a
 53.2821682,-9.0480829,2,Headford Road (804),a
-53.2821689,-9.0381123,2,Joyce Roundabout (660),a
 53.282172,-9.0113612,2,Bayview Rise (484),a
-53.282173,-9.0373559,2,Moneenageisha Road (885),a
 53.2821731,-9.0049239,2,Castlepark Road (604),a
 53.2821731,-9.0049239,2,Castlepark Road (604),a
 53.2821735,-9.0799856,2,Carraig Liath (650),a
-53.2821742,-9.0352322,2,Moneenageisha Court (046),a
 53.2821758,-9.0471087,2,Sean Mulvoy Road (904),a
-53.2821764,-9.0379528,2,Joyce Roundabout (685),a
 53.2821774,-9.003526,2,Ballybane Village (622),a
 53.2821774,-9.003526,2,Ballybane Village (622),a
 53.2821791,-9.0718383,2,Siobhan McKenna Road (853),a
 53.2821791,-9.0718383,2,Thomas Hynes Road (565),a
 53.282181,-8.9797579,2,An Fiodán (384),a
 53.282181,-8.9797579,2,An Fiodán (384),a
-53.2821824,-9.0381612,2,Joyce Roundabout (661),a
 53.2821842,-9.0020584,2,Beal Srutha (287),a
 53.2821842,-9.0009689,2,Beal Srutha (266),a
 53.2821846,-9.0470248,2,Sean Mulvoy Road (302),a
-53.2821853,-9.0355828,2,Moneenageisha Court (024),a
-53.2821856,-9.0357971,2,Moneenageisha Court (016),a
 53.2821861,-9.0335771,2,Dublin Road (805),a
 53.2821861,-9.0335771,2,Dublin Road (836),a
 53.2821861,-9.0335771,2,Wellpark Road (814),a
 53.2821861,-9.0335771,2,Wellpark Road (896),a
 53.2821864,-9.0653923,2,Bóthar Na dTreabh (110),a
 53.2821864,-9.0653923,2,Bóthar Na dTreabh (988),a
-53.2821897,-9.0349993,2,Moneenageisha Court (051),a
 53.2821903,-9.0483246,2,Bóthar Na dTreabh (082),a
 53.2821903,-9.0483246,2,Bóthar Na dTreabh (083),a
-53.2821908,-9.0379152,2,Joyce Roundabout (681),a
-53.2821908,-9.0379152,2,Joyce Roundabout (706),a
 53.2821916,-9.0653746,2,Bóthar Na dTreabh (109),a
 53.2821929,-9.0483532,2,Bóthar Na dTreabh (084),a
-53.2821933,-9.0356591,2,Moneenageisha Court (009),a
-53.2821933,-9.0356591,2,Moneenageisha Court (014),a
-53.2821933,-9.0356591,2,Moneenageisha Court (031),a
 53.2821934,-9.0072067,2,Clareview Park (044),a
 53.2821934,-9.0072067,2,Clareview Park (147),a
 53.2821945,-9.0483695,2,Bóthar Na dTreabh (085),a
 53.2821945,-9.0483695,2,Bóthar Na dTreabh (091),a
-53.2821952,-9.0351878,2,Moneenageisha Court (048),a
 53.282198,-9.0338967,2,Moneenageisha Road (872),a
 53.2821994,-9.0653445,2,Bóthar Na dTreabh (108),a
 53.2821994,-9.0653445,2,Bóthar Na dTreabh (112),a
 53.2822005,-9.0156878,2,Walter Macken Road (929),a
 53.2822005,-9.0156878,2,Walter Macken Road (929),a
-53.2822028,-9.0382028,2,Joyce Roundabout (662),a
 53.2822053,-9.0484813,2,Bóthar Na dTreabh (092),a
 53.2822084,-9.0653094,2,Bóthar Na dTreabh (107),a
 53.2822084,-9.0653094,2,Bóthar Na dTreabh (111),a
-53.2822086,-9.0378849,2,Joyce Roundabout (680),a
 53.2822086,-8.9786527,2,Coill Aoibhinn (385),a
 53.2822086,-8.9786527,2,Coill Aoibhinn (385),a
 53.2822086,-8.9786527,2,Coill Aoibhinn (388),a
 53.2822086,-8.9786527,2,Coill Aoibhinn (388),a
 53.2822088,-9.0469064,2,Sean Mulvoy Road (903),a
 53.2822101,-9.107387,2,Clybaun Road Upper (262),a
-53.2822107,-9.0376657,2,Moneenageisha Road (028),a
-53.2822119,-9.0375599,2,Moneenageisha Road (029),a
-53.2822151,-9.0350899,2,Moneenageisha Court (050),a
 53.2822158,-8.9967865,2,Bóthar Waitman (398),a
 53.2822166,-8.9778512,2,Garrán Ard (931),a
 53.2822168,-9.078348,2,Carraig Liath (626),a
@@ -17254,26 +16733,18 @@ lat,lon,sz,names,len_cat
 53.282217,-9.0652759,2,Bóthar Na dTreabh (106),a
 53.2822183,-8.9993898,2,Clós Na Coille (493),a
 53.2822188,-9.0807312,2,Carraig Liath (653),a
-53.2822203,-9.035532,2,Moneenageisha Court (392),a
 53.2822206,-9.0020979,2,Beal Srutha (288),a
 53.2822232,-9.0037861,2,Ballybane Village (625),a
 53.2822232,-9.0037861,2,Ballybane Village (625),a
 53.2822234,-8.9820409,2,Túr Uisce (619),a
-53.2822251,-9.0373888,2,Moneenageisha Road (030),a
 53.2822252,-9.0656738,2,Upper Newcastle Road (552),a
 53.282226,-9.0009851,2,Beal Srutha (264),a
-53.2822267,-9.0377308,2,Moneenageisha Road (027),a
 53.2822271,-9.0486444,2,Bóthar Na dTreabh (093),a
 53.2822271,-9.0486444,2,Bóthar Na dTreabh (983),a
 53.2822282,-9.0070233,2,Clareview Park (885),a
 53.2822283,-9.0028579,2,Ballybane Village (562),a
-53.2822289,-9.0382345,2,Bohermore (033),a
-53.2822289,-9.0382345,2,Joyce Roundabout (663),a
-53.2822289,-9.0382345,2,Joyce Roundabout (669),a
-53.2822296,-9.0378611,2,Joyce Roundabout (679),a
 53.2822315,-9.0048368,2,Castlepark Road (605),a
 53.2822315,-9.0048368,2,Castlepark Road (605),a
-53.2822333,-9.0356886,2,Moneenageisha Court (010),a
 53.2822366,-9.0069794,2,Clareview Park (884),a
 53.2822384,-9.0337043,2,Dublin Road (804),a
 53.2822384,-9.0337043,2,Moneenageisha Road (044),a
@@ -17281,12 +16752,7 @@ lat,lon,sz,names,len_cat
 53.2822384,-9.0337043,2,Wellpark Road (818),a
 53.2822441,-9.0467341,2,Sean Mulvoy Road (840),a
 53.2822441,-9.0467341,2,Sean Mulvoy Road (843),a
-53.2822452,-9.035475,2,Moneenageisha Court (391),a
-53.2822459,-9.0377823,2,Moneenageisha Road (026),a
 53.2822469,-9.0335056,2,Wellpark Road (895),a
-53.2822479,-9.0382487,2,Joyce Roundabout (670),a
-53.2822479,-9.0382487,2,Joyce Roundabout (703),a
-53.2822479,-9.0382487,2,Sean Mulvoy Road (533),a
 53.2822485,-9.0053553,2,Clareview Park (327),a
 53.2822496,-8.9820091,2,Túr Uisce (620),a
 53.2822507,-9.0048081,2,Castlepark Road (892),a
@@ -17294,10 +16760,8 @@ lat,lon,sz,names,len_cat
 53.2822511,-9.0039203,2,Ballybane Village (628),a
 53.2822513,-8.9870651,2,Coill Tire (990),a
 53.2822518,-9.0783224,2,Laurel Park (458),a
-53.282253,-9.0378447,2,Joyce Roundabout (678),a
 53.2822549,-9.0905155,2,Bóthar Leitreach (427),a
 53.2822556,-9.0340313,2,Moneenageisha Road (873),a
-53.282256,-9.0357162,2,Moneenageisha Court (011),a
 53.2822566,-9.0488649,2,Bóthar Na dTreabh (984),a
 53.2822604,-9.0474036,2,Sean Mulvoy Road (519),a
 53.2822608,-8.9967768,2,Bóthar Waitman (501),a
@@ -17313,8 +16777,6 @@ lat,lon,sz,names,len_cat
 53.2822666,-8.979058,2,An Fiodán (352),a
 53.2822666,-8.979058,2,An Fiodán (352),a
 53.2822676,-9.0068193,2,Clareview Park (882),a
-53.2822682,-9.0382576,2,Joyce Roundabout (681),a
-53.2822682,-9.0354133,2,Moneenageisha Court (022),a
 53.2822687,-9.0477636,2,Bóthar Na dTreabh (875),a
 53.2822687,-9.0477636,2,Headford Road (604),a
 53.2822687,-9.0477636,2,Headford Road (690),a
@@ -17326,9 +16788,6 @@ lat,lon,sz,names,len_cat
 53.2822739,-9.0334673,2,Wellpark Road (561),a
 53.2822758,-9.006773,2,Clareview Park (144),a
 53.2822762,-9.0657151,2,Upper Newcastle Road (551),a
-53.2822779,-9.0378365,2,Joyce Roundabout (677),a
-53.2822779,-9.0378365,2,Joyce Roundabout (704),a
-53.2822779,-9.0378365,2,Moneenageisha Road (025),a
 53.2822781,-9.0479991,2,Bóthar Na dTreabh (087),a
 53.2822781,-9.0479991,2,Bóthar Na dTreabh (874),a
 53.2822781,-9.0479991,2,Headford Road (607),a
@@ -17337,7 +16796,6 @@ lat,lon,sz,names,len_cat
 53.2822783,-8.9778902,2,Garrán Ard (882),a
 53.2822783,-8.9778902,2,Garrán Ard (927),a
 53.2822784,-9.0576172,2,Dyke Road (196),a
-53.2822785,-9.0383223,2,Sean Mulvoy Road (364),a
 53.2822801,-8.9967828,2,Bóthar Waitman (498),a
 53.2822809,-9.017199,2,Walter Macken Place (821),a
 53.2822812,-9.0469182,2,Sean Mulvoy Road (320),a
@@ -17367,9 +16825,7 @@ lat,lon,sz,names,len_cat
 53.2822933,-9.0649612,2,Bóthar Na dTreabh (094),a
 53.2822933,-9.0649612,2,Bóthar Na dTreabh (094),a
 53.2822933,-9.0649612,2,Bóthar Na dTreabh (887),a
-53.282294,-9.0366594,2,Moneenageisha Road (031),a
 53.2822989,-9.0341386,2,Moneenageisha Road (874),a
-53.2822993,-9.0382602,2,Joyce Roundabout (682),a
 53.2822999,-8.9967975,2,Bóthar Waitman (397),a
 53.2823,-9.0292264,2,Sáilín (548),a
 53.282301,-8.9868796,2,Coill Tire (989),a
@@ -17377,21 +16833,15 @@ lat,lon,sz,names,len_cat
 53.2823024,-9.017314,2,Walter Macken Place (822),a
 53.2823027,-9.0339007,2,Moneenageisha Road (043),a
 53.2823043,-9.0467703,2,Sean Mulvoy Road (517),a
-53.2823048,-9.0378369,2,Joyce Roundabout (680),a
-53.2823048,-9.0378369,2,Joyce Roundabout (683),a
-53.2823048,-9.0378369,2,Tuam Road (966),a
 53.2823049,-9.0484678,2,Bóthar Na dTreabh (964),a
 53.282306,-9.0334218,2,Wellpark Road (562),a
 53.2823061,-8.9867389,2,Coill Tire (987),a
-53.2823084,-9.0358029,2,Moneenageisha Court (389),a
-53.2823084,-9.0358029,2,Moneenageisha Road (884),a
 53.282312,-9.0339294,2,Moneenageisha Road (554),a
 53.2823125,-8.9968143,2,Bóthar Waitman (499),a
 53.2823128,-9.0788643,2,Carraig Liath (628),a
 53.2823152,-9.0173722,2,Walter Macken Place (957),a
 53.2823178,-9.0463976,2,Sean Mulvoy Road (327),a
 53.2823178,-8.9838169,2,Túr Uisce (333),a
-53.282319,-9.0363957,2,Moneenageisha Road (032),a
 53.2823192,-9.0022591,2,Beal Srutha (290),a
 53.2823207,-9.0648288,2,Bóthar Na dTreabh (886),a
 53.2823207,-9.0648288,2,Bóthar Na dTreabh (886),a
@@ -17399,7 +16849,6 @@ lat,lon,sz,names,len_cat
 53.2823226,-8.9838039,2,Túr Uisce (332),a
 53.2823226,-8.9838039,2,Túr Uisce (505),a
 53.2823229,-9.0066894,2,Clareview Park (133),a
-53.2823234,-9.0384779,2,Sean Mulvoy Road (365),a
 53.2823237,-9.0168665,2,Connolly Avenue (098),a
 53.2823237,-9.0168665,2,Walter Macken Place (819),a
 53.2823239,-9.0793435,2,Carraig Liath (634),a
@@ -17407,10 +16856,7 @@ lat,lon,sz,names,len_cat
 53.282325,-8.9968544,2,Bóthar Waitman (396),a
 53.2823257,-9.0761842,2,Laurel Park (442),a
 53.2823257,-9.0761842,2,Laurel Park (442),a
-53.28233,-9.03825,2,Joyce Roundabout (666),a
 53.2823303,-9.002914,2,Ballybane Village (569),a
-53.2823304,-9.038515,2,Sean Mulvoy Road (288),a
-53.282331,-9.0378468,2,Joyce Roundabout (665),a
 53.2823322,-9.0760843,2,Laurel Park (444),a
 53.2823322,-9.0760843,2,Laurel Park (444),a
 53.2823328,-8.9969298,2,Bóthar Waitman (395),a
@@ -17424,7 +16870,6 @@ lat,lon,sz,names,len_cat
 53.2823354,-9.0031741,2,Ballybane Village (572),a
 53.282336,-9.0103485,2,Ard Aoibhinn Drive (567),a
 53.2823362,-9.0342538,2,Moneenageisha Road (876),a
-53.282339,-9.0354516,2,Moneenageisha Road (883),a
 53.2823416,-9.0792991,2,Carraig Liath (633),a
 53.2823417,-9.0040368,2,Ballybane Village (594),a
 53.2823417,-9.0040368,2,Ballybane Village (631),a
@@ -17446,13 +16891,11 @@ lat,lon,sz,names,len_cat
 53.2823538,-9.0333541,2,Wellpark Road (894),a
 53.2823548,-9.0046396,2,Castlepark Road (607),a
 53.2823548,-9.0046396,2,Castlepark Road (607),a
-53.2823554,-9.0378657,2,Joyce Roundabout (664),a
 53.2823559,-9.0479429,2,Headford Road (685),a
 53.2823559,-9.0479429,2,Headford Road (686),a
 53.2823559,-9.0477107,2,Headford Road (689),a
 53.2823559,-9.0477107,2,Headford Road (693),a
 53.282356,-9.0175588,2,Walter Macken Place (958),a
-53.2823565,-9.0382294,2,Joyce Roundabout (667),a
 53.2823615,-9.0716233,2,Moyola Park (189),a
 53.2823615,-9.0715667,2,Moyola Park (190),a
 53.282362,-8.9779579,2,Garrán Ard (883),a
@@ -17469,8 +16912,6 @@ lat,lon,sz,names,len_cat
 53.2823681,-9.0477033,2,Headford Road (692),a
 53.2823682,-9.0104284,2,Ard Aoibhinn Drive (580),a
 53.2823691,-9.0479333,2,Headford Road (687),a
-53.2823698,-9.0350984,2,Moneenageisha Court (390),a
-53.2823698,-9.0350984,2,Moneenageisha Road (882),a
 53.2823699,-9.0645367,2,Bóthar Na dTreabh (885),a
 53.2823699,-9.0645367,2,Bóthar Na dTreabh (885),a
 53.28237,-9.0764462,2,Laurel Park (439),a
@@ -17480,21 +16921,14 @@ lat,lon,sz,names,len_cat
 53.2823751,-9.0578769,2,Dyke Road (193),a
 53.2823762,-9.0276389,2,Wellpark Grove (199),a
 53.2823762,-9.0276389,2,Wellpark Grove (199),a
-53.2823767,-9.0383465,2,Sean Mulvoy Road (516),a
 53.2823772,-8.9818677,2,Túr Uisce (275),a
 53.2823772,-8.9818677,2,Túr Uisce (622),a
-53.2823779,-9.0387676,2,Sean Mulvoy Road (367),a
-53.2823779,-9.0387676,2,Sean Mulvoy Road (367),a
 53.2823779,-9.0290615,2,Sáilín (550),a
 53.2823779,-9.0290615,2,Sáilín (550),a
 53.2823793,-8.977224,2,Garrán Ard (869),a
 53.2823793,-8.977224,2,Garrán Ard (871),a
-53.2823795,-9.0381992,2,Joyce Roundabout (653),a
-53.2823795,-9.0381992,2,Joyce Roundabout (668),a
-53.2823795,-9.0381992,2,Sean Mulvoy Road (513),a
 53.2823804,-8.9816623,2,Túr Uisce (271),a
 53.2823804,-8.9779787,2,Garrán Ard (884),a
-53.2823815,-9.0379003,2,Joyce Roundabout (679),a
 53.2823819,-9.0344532,2,Moneenageisha Road (878),a
 53.2823826,-9.0479236,2,Headford Road (593),a
 53.2823826,-9.0479236,2,Headford Road (688),a
@@ -17504,22 +16938,18 @@ lat,lon,sz,names,len_cat
 53.2823862,-9.0758519,2,Laurel Park (712),a
 53.2823862,-9.0758519,2,Laurel Park (712),a
 53.2823863,-9.0341815,2,Moneenageisha Road (041),a
-53.2823881,-9.0356307,2,Galway Financial Services Centre (393),a
-53.2823881,-9.0356307,2,Moneenageisha Road (033),a
 53.2823907,-9.0345421,2,Moneenageisha Road (879),a
 53.2823915,-9.0713027,2,Moyola Park (196),a
 53.2823915,-9.0493848,2,Bóthar Na dTreabh (863),a
 53.2823917,-9.002271,2,Ballybane Village (556),a
 53.2823917,-9.002271,2,Ballybane Village (605),a
 53.2823917,-9.002271,2,Beal Srutha (291),a
-53.2823918,-9.0348014,2,Moneenageisha Road (881),a
 53.2823926,-8.9780071,2,Garrán Ard (885),a
 53.2823931,-9.0039149,2,Ballybane Village (597),a
 53.2823931,-9.0039149,2,Ballybane Village (597),a
 53.2823933,-8.9836111,2,Túr Uisce (331),a
 53.2823935,-9.0487902,2,Bóthar Na dTreabh (864),a
 53.2823936,-9.0686926,2,Moyola Park (153),a
-53.2823945,-9.0385196,2,Sean Mulvoy Road (515),a
 53.2823948,-8.9816225,2,Túr Uisce (270),a
 53.2823958,-9.0346622,2,Moneenageisha Road (880),a
 53.2823981,-8.9971295,2,Bóthar Waitman (393),a
@@ -17527,16 +16957,12 @@ lat,lon,sz,names,len_cat
 53.2823993,-9.0497244,2,Bóthar Na dTreabh (962),a
 53.2823993,-9.0497244,2,Bóthar Na dTreabh (966),a
 53.2823993,-9.0497244,2,Bóthar Na dTreabh (985),a
-53.2823993,-9.0381569,2,Joyce Roundabout (654),a
 53.2823996,-9.0765116,2,Laurel Park (437),a
 53.2823996,-9.064313,2,Bóthar Na dTreabh (884),a
 53.2823996,-9.064313,2,Bóthar Na dTreabh (884),a
 53.2824002,-9.0476837,2,Headford Road (589),a
 53.2824002,-9.0476837,2,Headford Road (691),a
 53.2824011,-8.9780291,2,Garrán Ard (886),a
-53.2824013,-9.0379452,2,Joyce Roundabout (685),a
-53.2824013,-9.0379452,2,Joyce Roundabout (702),a
-53.2824013,-9.0379452,2,Tuam Road (962),a
 53.282402,-8.9997142,2,Ard Álainn (548),a
 53.282402,-8.980009,2,An Fiodán (385),a
 53.282402,-8.980009,2,An Fiodán (385),a
@@ -17549,11 +16975,7 @@ lat,lon,sz,names,len_cat
 53.2824087,-8.9998229,2,Ard Álainn (549),a
 53.2824108,-9.014629,2,Walter Macken Road (931),a
 53.2824108,-9.014629,2,Walter Macken Road (931),a
-53.2824121,-9.0381076,2,Joyce Roundabout (655),a
-53.2824121,-9.0381076,2,Joyce Roundabout (682),a
-53.2824121,-9.0381076,2,Sandyroad (036),a
 53.2824128,-9.0342982,2,Moneenageisha Road (040),a
-53.2824135,-9.0379971,2,Joyce Roundabout (684),a
 53.2824139,-9.0075324,2,Clareview Park (078),a
 53.2824142,-9.0463066,2,Sean Mulvoy Road (873),a
 53.2824142,-9.0463066,2,Sean Mulvoy Road (886),a
@@ -17562,18 +16984,15 @@ lat,lon,sz,names,len_cat
 53.2824144,-9.0045268,2,Castlepark Road (608),a
 53.2824145,-9.0579333,2,Dyke Road (747),a
 53.2824167,-8.9996432,2,Ard Álainn (547),a
-53.2824172,-9.0380525,2,Joyce Roundabout (683),a
 53.2824174,-9.0692541,2,Moyola Park (134),a
 53.2824175,-8.9988726,2,Ard Álainn (542),a
 53.2824179,-9.0484635,2,Bóthar Na dTreabh (866),a
 53.2824221,-8.9815566,2,Túr Uisce (269),a
-53.2824224,-9.0378173,2,Tuam Road (963),a
 53.2824266,-9.017881,2,Walter Macken Place (823),a
 53.2824266,-8.9834921,2,Túr Uisce (330),a
 53.2824271,-9.0765571,2,Laurel Park (435),a
 53.282428,-9.0640359,2,Bóthar Na dTreabh (883),a
 53.282428,-9.0640359,2,Bóthar Na dTreabh (883),a
-53.282428,-9.0351639,2,Moneenageisha Road (034),a
 53.2824313,-9.0145264,2,Walter Macken Road (933),a
 53.2824314,-9.0180805,2,Walter Macken Place (825),a
 53.2824315,-9.01797,2,Walter Macken Place (959),a
@@ -17581,10 +17000,6 @@ lat,lon,sz,names,len_cat
 53.2824344,-9.0180223,2,Walter Macken Place (824),a
 53.2824348,-9.0332273,2,Wellpark Road (893),a
 53.2824348,-9.0000559,2,Ard Álainn (550),a
-53.2824362,-9.0387583,2,Sean Mulvoy Road (514),a
-53.2824362,-9.0387583,2,Sean Mulvoy Road (514),a
-53.2824362,-9.0387583,2,Sean Mulvoy Road (538),a
-53.2824362,-9.0387583,2,Sean Mulvoy Road (538),a
 53.2824379,-8.9833964,2,Túr Uisce (329),a
 53.282438,-9.0391408,2,Sean Mulvoy Road (369),a
 53.282438,-9.0391408,2,Sean Mulvoy Road (369),a
@@ -17614,7 +17029,6 @@ lat,lon,sz,names,len_cat
 53.2824551,-8.9833207,2,Túr Uisce (328),a
 53.2824562,-9.0579775,2,Dyke Road (192),a
 53.2824569,-9.0115345,2,Heather Grove (685),a
-53.2824573,-9.0375786,2,Tuam Road (965),a
 53.2824574,-9.0075539,2,Clareview Park (864),a
 53.2824579,-9.0088349,2,Rahylin Glebe (553),a
 53.2824608,-9.0002862,2,Ard Álainn (551),a
@@ -17631,7 +17045,6 @@ lat,lon,sz,names,len_cat
 53.2824773,-9.0067416,2,Clareview Park (880),a
 53.2824776,-9.0634152,2,Bóthar Na dTreabh (882),a
 53.2824778,-9.0766059,2,Laurel Park (433),a
-53.2824785,-9.0376523,2,Tuam Road (964),a
 53.2824808,-9.0295272,2,The Village (296),a
 53.2824822,-9.0720566,2,Moyola Park (101),a
 53.2824822,-9.0720566,2,Thomas Hynes Road (563),a
@@ -17668,7 +17081,6 @@ lat,lon,sz,names,len_cat
 53.2825059,-8.9774369,2,Garrán Ard (873),a
 53.2825066,-9.0295107,2,The Village (298),a
 53.2825071,-9.0298462,2,The Village (282),a
-53.2825079,-9.0382023,2,Sandyroad (040),a
 53.28251,-9.008851,2,Rahylin Glebe (124),a
 53.282512,-9.0013327,2,Beal Srutha (261),a
 53.2825152,-9.0480215,2,Bóthar Na dTreabh (870),a
@@ -17678,7 +17090,6 @@ lat,lon,sz,names,len_cat
 53.2825223,-9.0299112,2,The Village (281),a
 53.2825233,-9.0253153,2,Tara Grove (092),a
 53.2825247,-9.000478,2,Ard Álainn (553),a
-53.2825264,-9.0356599,2,Galway Financial Services Centre (394),a
 53.2825281,-9.0014008,2,Beal Srutha (259),a
 53.2825314,-9.0299681,2,The Village (280),a
 53.2825336,-9.0075915,2,Clareview Park (862),a
@@ -17711,9 +17122,6 @@ lat,lon,sz,names,len_cat
 53.282566,-9.0302994,2,The Village (276),a
 53.2825699,-8.981363,2,Túr Uisce (265),a
 53.2825699,-8.981363,2,Túr Uisce (308),a
-53.2825702,-9.0374293,2,Tuam Road (119),a
-53.2825702,-9.0374293,2,Tuam Road (120),a
-53.2825702,-9.0374293,2,Tuam Road (476),a
 53.2825715,-8.9982977,2,Léas na Coille (993),a
 53.2825728,-8.9982698,2,Léas na Coille (992),a
 53.2825729,-8.9983291,2,Léas na Coille (994),a
@@ -17778,7 +17186,6 @@ lat,lon,sz,names,len_cat
 53.2826237,-9.0004658,2,Ard Álainn (554),a
 53.2826237,-8.9810816,2,Túr Uisce (304),a
 53.2826237,-8.9810816,2,Túr Uisce (304),a
-53.2826273,-9.0383988,2,Sandyroad (031),a
 53.2826335,-8.9985315,2,Léas na Coille (999),a
 53.282634,-9.0047956,2,Castle Park (891),a
 53.282634,-9.0047956,2,Castle Park (891),a
@@ -17847,7 +17254,6 @@ lat,lon,sz,names,len_cat
 53.2826948,-9.0521635,2,Bóthar Na dTreabh (969),a
 53.2826948,-9.0521635,2,Bóthar Na dTreabh (969),a
 53.2826959,-8.9981059,2,Léas na Coille (980),a
-53.2826977,-9.0385111,2,Sandyroad (042),a
 53.2826991,-9.079186,2,The Bailey (903),a
 53.2827002,-9.0443627,2,Sean Mulvoy Road (314),a
 53.2827002,-9.0325939,2,Wellpark Road (951),a

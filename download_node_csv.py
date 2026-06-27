@@ -94,6 +94,7 @@ class City(str, Enum):
     WATERFORD    = 85187  # 🌍
     KINSALE      = 86659  # 🌍
     GALWAY       = 84762  # 🌍
+    BRAY         = 85559  # 🌍
 # fmt: on
 
 
@@ -208,6 +209,7 @@ CityGrids = {
     City.WATERFORD:      CityGrid(-7.0338797, 52.2798229, -7.1869522, 52.2102427),
     City.KINSALE:        CityGrid(-8.4897026, 51.7157766, -8.5424283, 51.6927609),
     City.GALWAY:         CityGrid(-8.9548381, 53.3197423, -9.1426901, 53.2485189),
+    City.BRAY:           CityGrid(-6.0893992, 53.2150613, -6.1383488, 53.1788516),
 }
 # fmt: on
 

@@ -42574,10 +42574,6 @@ lat,lon,sz,names,len_cat
 43.8175085,-79.210653,2,Forest Creek Pathway (955),a
 43.8175301,-79.2216995,2,Finch Avenue East (070),a
 43.8175301,-79.2216995,2,Finch Avenue East (710),a
-43.8175578,-79.3331354,2,Steeles Avenue East (577),a
-43.8175578,-79.3331354,2,Steeles Avenue East (584),a
-43.8175578,-79.3331354,2,Steeles Avenue East (855),a
-43.8175578,-79.3331354,2,Steeles Avenue East (888),a
 43.8176011,-79.2107365,2,Forest Creek Pathway (497),a
 43.8176011,-79.2107365,2,Forest Creek Pathway (956),a
 43.8176053,-79.2121623,2,Wilcox Creek Pathway (283),a
@@ -42609,11 +42605,7 @@ lat,lon,sz,names,len_cat
 43.8177952,-79.271925,2,McCowan Road (843),a
 43.8178327,-79.2369181,2,Finchdene Square (075),a
 43.8178327,-79.2369181,2,Finchdene Square (218),a
-43.8178418,-79.2719461,2,McCowan Road (683),a
-43.8178418,-79.2719461,2,McCowan Road (845),a
 43.8178534,-79.2109583,2,Forest Creek Pathway (499),a
-43.8178707,-79.266987,2,White Heather Boulevard (096),a
-43.8178707,-79.266987,2,White Heather Boulevard (226),a
 43.8178995,-79.2110062,2,Forest Creek Pathway (201),a
 43.8178995,-79.2110062,2,Forest Creek Pathway (215),a
 43.8178995,-79.2110062,2,Wilcox Creek Pathway (887),a
@@ -42625,14 +42617,8 @@ lat,lon,sz,names,len_cat
 43.8179079,-79.2325101,2,Finchdene Square (237),a
 43.8179079,-79.2325101,2,Finchdene Square (245),a
 43.8179079,-79.2325101,2,Finchdene Square (245),a
-43.8179131,-79.3315626,2,Steeles Avenue East (589),a
-43.8179131,-79.3315626,2,Steeles Avenue East (893),a
 43.8179188,-79.2110286,2,Forest Creek Pathway (217),a
 43.8179188,-79.2110286,2,Forest Creek Pathway (853),a
-43.8179267,-79.2721783,2,McNicoll Avenue (019),a
-43.8179267,-79.2721783,2,McNicoll Avenue (023),a
-43.8179267,-79.2721783,2,McNicoll Avenue (843),a
-43.8179267,-79.2721783,2,McNicoll Avenue (847),a
 43.8179291,-79.2137516,2,Morningside Avenue (924),a
 43.8179304,-79.2210444,2,Finch Avenue East (249),a
 43.8179304,-79.2210444,2,Finch Avenue East (249),a
@@ -42640,8 +42626,6 @@ lat,lon,sz,names,len_cat
 43.8179305,-79.2167539,2,Courtlands Drive (559),a
 43.8179305,-79.2167539,2,Courtlands Drive (846),a
 43.817931,-79.2110443,2,Forest Creek Pathway (854),a
-43.8179337,-79.2721456,2,McNicoll Avenue (024),a
-43.8179337,-79.2721456,2,McNicoll Avenue (848),a
 43.8179427,-79.2110607,2,Forest Creek Pathway (855),a
 43.8179476,-79.2396426,2,Tapscott Road (333),a
 43.8179476,-79.2396426,2,Tapscott Road (354),a
@@ -42654,57 +42638,25 @@ lat,lon,sz,names,len_cat
 43.8179491,-79.2167337,2,Feeney Avenue (934),a
 43.817954,-79.2110775,2,Forest Creek Pathway (220),a
 43.817954,-79.2110775,2,Forest Creek Pathway (856),a
-43.8179643,-79.2720014,2,McCowan Road (218),a
-43.8179643,-79.2720014,2,McCowan Road (679),a
-43.8179643,-79.2720014,2,McCowan Road (721),a
-43.8179643,-79.2720014,2,McCowan Road (841),a
-43.8179643,-79.2720014,2,McNicoll Avenue (022),a
-43.8179643,-79.2720014,2,McNicoll Avenue (025),a
-43.8179643,-79.2720014,2,McNicoll Avenue (846),a
-43.8179643,-79.2720014,2,McNicoll Avenue (849),a
 43.8179649,-79.2139131,2,Morningside Avenue (329),a
 43.8179649,-79.2139131,2,Morningside Avenue (940),a
 43.8179752,-79.2111131,2,Forest Creek Pathway (222),a
 43.817985,-79.2111317,2,Forest Creek Pathway (223),a
 43.817985,-79.2111317,2,Forest Creek Pathway (859),a
 43.8179948,-79.2111491,2,Forest Creek Pathway (224),a
-43.8180011,-79.3315092,2,Steeles Avenue East (590),a
-43.8180011,-79.3315092,2,Steeles Avenue East (894),a
-43.818015,-79.2717633,2,McNicoll Avenue (027),a
-43.818015,-79.2717633,2,McNicoll Avenue (851),a
-43.8180218,-79.2717314,2,McNicoll Avenue (020),a
-43.8180218,-79.2717314,2,McNicoll Avenue (026),a
-43.8180218,-79.2717314,2,McNicoll Avenue (844),a
-43.8180218,-79.2717314,2,McNicoll Avenue (850),a
 43.8180382,-79.2137881,2,Morningside Avenue (307),a
 43.8180382,-79.2137881,2,Morningside Avenue (918),a
-43.8180593,-79.2720445,2,McCowan Road (147),a
-43.8180593,-79.2720445,2,McCowan Road (403),a
 43.8180595,-79.2112593,2,Forest Creek Pathway (505),a
 43.8180595,-79.2112593,2,Forest Creek Pathway (964),a
 43.8180605,-79.212357,2,Wilcox Creek Pathway (501),a
 43.8180621,-79.2211876,2,Finch Avenue East (068),a
 43.8180621,-79.2211876,2,Finch Avenue East (068),a
 43.8180621,-79.2211876,2,Finch Avenue East (708),a
-43.8180757,-79.3311911,2,Steeles Avenue East (302),a
-43.8180757,-79.3311911,2,Steeles Avenue East (731),a
-43.8180817,-79.2720546,2,McCowan Road (144),a
-43.8180817,-79.2720546,2,McCowan Road (146),a
-43.8180817,-79.2720546,2,McCowan Road (400),a
-43.8180817,-79.2720546,2,McCowan Road (402),a
 43.8180905,-79.2113122,2,Forest Creek Pathway (225),a
-43.8181392,-79.3309049,2,Steeles Avenue East (301),a
-43.8181392,-79.3309049,2,Steeles Avenue East (730),a
-43.8181578,-79.3304081,2,Steeles Avenue East (563),a
-43.8181578,-79.3304081,2,Steeles Avenue East (796),a
 43.8181809,-79.2209191,2,Finch Avenue East (250),a
 43.8181809,-79.2209191,2,Finch Avenue East (250),a
 43.8181809,-79.2209191,2,Finch Avenue East (486),a
 43.8181809,-79.2209191,2,Finch Avenue East (486),a
-43.8182057,-79.3306057,2,Steeles Avenue East (300),a
-43.8182057,-79.3306057,2,Steeles Avenue East (562),a
-43.8182057,-79.3306057,2,Steeles Avenue East (729),a
-43.8182057,-79.3306057,2,Steeles Avenue East (795),a
 43.8182087,-79.2289617,2,Neilson Road (705),a
 43.8182306,-79.2131965,2,Coopman Pathway (049),a
 43.8182306,-79.2131965,2,Coopman Pathway (777),a
@@ -42721,8 +42673,6 @@ lat,lon,sz,names,len_cat
 43.8182774,-79.2326619,2,Finchdene Square (238),a
 43.818279,-79.2130674,2,Coopman Pathway (889),a
 43.8182814,-79.2116161,2,Forest Creek Pathway (966),a
-43.8182849,-79.3298648,2,Steeles Avenue East (564),a
-43.8182849,-79.3298648,2,Steeles Avenue East (797),a
 43.818291,-79.2120909,2,Wilcox Creek Pathway (961),a
 43.8183012,-79.2326717,2,Finchdene Square (239),a
 43.8183012,-79.2326717,2,Finchdene Square (239),a
@@ -42736,29 +42686,13 @@ lat,lon,sz,names,len_cat
 43.8183096,-79.2290139,2,Neilson Road (592),a
 43.8183096,-79.2290139,2,Neilson Road (599),a
 43.8183096,-79.2290139,2,Neilson Road (706),a
-43.8183188,-79.3297197,2,Ferrier Street (142),a
-43.8183188,-79.3297197,2,Ferrier Street (269),a
-43.8183188,-79.3297197,2,Steeles Avenue East (558),a
-43.8183188,-79.3297197,2,Steeles Avenue East (565),a
-43.8183188,-79.3297197,2,Steeles Avenue East (791),a
-43.8183188,-79.3297197,2,Steeles Avenue East (798),a
 43.8183195,-79.229019,2,Neilson Road (164),a
-43.81832,-79.2721552,2,McCowan Road (113),a
-43.81832,-79.2721552,2,McCowan Road (145),a
-43.81832,-79.2721552,2,McCowan Road (369),a
-43.81832,-79.2721552,2,McCowan Road (401),a
 43.8183539,-79.206612,2,Sewells Road (676),a
 43.8183539,-79.206612,2,Sewells Road (993),a
-43.8183582,-79.3295255,2,Steeles Avenue East (559),a
-43.8183582,-79.3295255,2,Steeles Avenue East (792),a
 43.8183657,-79.22105,2,Finch Avenue East (067),a
 43.8183657,-79.22105,2,Finch Avenue East (707),a
-43.8183663,-79.2721748,2,McCowan Road (643),a
-43.8183663,-79.2721748,2,McCowan Road (805),a
 43.8183696,-79.2117636,2,Forest Creek Pathway (967),a
 43.8183937,-79.2129354,2,Coopman Pathway (972),a
-43.8183968,-79.2725451,2,Wharton Square (056),a
-43.8183968,-79.2725451,2,Wharton Square (872),a
 43.8184101,-79.2327164,2,Finchdene Square (085),a
 43.8184101,-79.2327164,2,Finchdene Square (085),a
 43.8184101,-79.2327164,2,Finchdene Square (240),a
@@ -42778,12 +42712,6 @@ lat,lon,sz,names,len_cat
 43.8184201,-79.30481,2,Kennedy Road (711),a
 43.8184201,-79.30481,2,Kennedy Road (711),a
 43.8184264,-79.2162404,2,Courtlands Drive (680),a
-43.8184289,-79.3292441,2,Steeles Avenue East (560),a
-43.8184289,-79.3292441,2,Steeles Avenue East (560),a
-43.8184289,-79.3292441,2,Steeles Avenue East (793),a
-43.8184289,-79.3292441,2,Steeles Avenue East (793),a
-43.8184309,-79.2725066,2,Wharton Square (060),a
-43.8184309,-79.2725066,2,Wharton Square (876),a
 43.8184332,-79.2135217,2,Coopman Pathway (050),a
 43.8184332,-79.2135217,2,Coopman Pathway (778),a
 43.8184342,-79.2162367,2,Courtlands Drive (044),a
@@ -42824,8 +42752,6 @@ lat,lon,sz,names,len_cat
 43.8184818,-79.2161908,2,Courtlands Drive (672),a
 43.818485,-79.2159779,2,Courtlands Drive (017),a
 43.818485,-79.2159779,2,Courtlands Drive (652),a
-43.818486,-79.2725002,2,Wharton Square (061),a
-43.818486,-79.2725002,2,Wharton Square (877),a
 43.8184871,-79.2161818,2,Courtlands Drive (036),a
 43.8184871,-79.2161818,2,Courtlands Drive (671),a
 43.8184892,-79.2136115,2,Coopman Pathway (051),a
@@ -42836,12 +42762,6 @@ lat,lon,sz,names,len_cat
 43.8184896,-79.2453323,2,Markham Road (943),a
 43.81849,-79.2159872,2,Courtlands Drive (018),a
 43.81849,-79.2159872,2,Courtlands Drive (653),a
-43.8184914,-79.2695061,2,Boxdene Avenue (042),a
-43.8184914,-79.2695061,2,Boxdene Avenue (858),a
-43.8184914,-79.2695061,2,McNicoll Avenue (690),a
-43.8184914,-79.2695061,2,McNicoll Avenue (693),a
-43.8184914,-79.2695061,2,McNicoll Avenue (903),a
-43.8184914,-79.2695061,2,McNicoll Avenue (906),a
 43.8184915,-79.2291079,2,Neilson Road (165),a
 43.8184915,-79.2291079,2,Neilson Road (594),a
 43.8184919,-79.2161723,2,Courtlands Drive (035),a
@@ -42874,30 +42794,6 @@ lat,lon,sz,names,len_cat
 43.8185114,-79.2160851,2,Courtlands Drive (027),a
 43.8185255,-79.2394017,2,Newgale Gate (206),a
 43.8185255,-79.2394017,2,Newgale Gate (232),a
-43.8185442,-79.329129,2,Steeles Avenue East (561),a
-43.8185442,-79.329129,2,Steeles Avenue East (561),a
-43.8185442,-79.329129,2,Steeles Avenue East (794),a
-43.8185442,-79.329129,2,Steeles Avenue East (794),a
-43.8185616,-79.2717411,2,Major Oak Terrace (224),a
-43.8185616,-79.2717411,2,Major Oak Terrace (243),a
-43.8185616,-79.2717411,2,Major Oak Terrace (299),a
-43.8185616,-79.2717411,2,Major Oak Terrace (727),a
-43.8185649,-79.2717263,2,Major Oak Terrace (223),a
-43.8185649,-79.2717263,2,Major Oak Terrace (726),a
-43.8185659,-79.2717871,2,Major Oak Terrace (244),a
-43.8185659,-79.2717871,2,Major Oak Terrace (300),a
-43.8185714,-79.2716967,2,Major Oak Terrace (222),a
-43.8185714,-79.2716967,2,Major Oak Terrace (725),a
-43.8185718,-79.2722493,2,McCowan Road (039),a
-43.8185718,-79.2722493,2,McCowan Road (948),a
-43.8185835,-79.2718265,2,Major Oak Terrace (245),a
-43.8185835,-79.2718265,2,Major Oak Terrace (301),a
-43.818584,-79.2695422,2,Boxdene Avenue (571),a
-43.818584,-79.2695422,2,Boxdene Avenue (775),a
-43.818605,-79.2718487,2,Major Oak Terrace (246),a
-43.818605,-79.2718487,2,Major Oak Terrace (302),a
-43.8186122,-79.2695532,2,Boxdene Avenue (043),a
-43.8186122,-79.2695532,2,Boxdene Avenue (859),a
 43.8186177,-79.2137693,2,Coopman Pathway (052),a
 43.8186177,-79.2137693,2,Coopman Pathway (780),a
 43.8186227,-79.294051,2,Midland Avenue (136),a
@@ -42936,19 +42832,11 @@ lat,lon,sz,names,len_cat
 43.8188014,-79.2328771,2,Finchdene Square (242),a
 43.8188078,-79.2138727,2,Coopman Pathway (053),a
 43.8188078,-79.2138727,2,Coopman Pathway (781),a
-43.8188147,-79.2673802,2,White Heather Boulevard (097),a
-43.8188147,-79.2673802,2,White Heather Boulevard (097),a
-43.8188147,-79.2673802,2,White Heather Boulevard (227),a
-43.8188147,-79.2673802,2,White Heather Boulevard (227),a
 43.8188189,-79.3049853,2,Kennedy Road (052),a
 43.8188189,-79.3049853,2,Kennedy Road (052),a
 43.8188189,-79.3049853,2,Kennedy Road (709),a
 43.8188189,-79.3049853,2,Kennedy Road (709),a
 43.8188252,-79.2125779,2,Forest Creek Pathway (949),a
-43.8188502,-79.2673949,2,White Heather Boulevard (098),a
-43.8188502,-79.2673949,2,White Heather Boulevard (098),a
-43.8188502,-79.2673949,2,White Heather Boulevard (228),a
-43.8188502,-79.2673949,2,White Heather Boulevard (228),a
 43.8188526,-79.3048351,2,Kennedy Road (048),a
 43.8188526,-79.3048351,2,Kennedy Road (048),a
 43.8188526,-79.3048351,2,Kennedy Road (706),a
@@ -42978,18 +42866,6 @@ lat,lon,sz,names,len_cat
 43.8189465,-79.2293057,2,Neilson Road (779),a
 43.8189466,-79.237487,2,Newgale Gate (335),a
 43.8189466,-79.237487,2,Newgale Gate (618),a
-43.8189484,-79.2674336,2,McNicoll Avenue (686),a
-43.8189484,-79.2674336,2,McNicoll Avenue (686),a
-43.8189484,-79.2674336,2,McNicoll Avenue (691),a
-43.8189484,-79.2674336,2,McNicoll Avenue (691),a
-43.8189484,-79.2674336,2,McNicoll Avenue (899),a
-43.8189484,-79.2674336,2,McNicoll Avenue (899),a
-43.8189484,-79.2674336,2,McNicoll Avenue (904),a
-43.8189484,-79.2674336,2,McNicoll Avenue (904),a
-43.8189484,-79.2674336,2,White Heather Boulevard (099),a
-43.8189484,-79.2674336,2,White Heather Boulevard (099),a
-43.8189484,-79.2674336,2,White Heather Boulevard (229),a
-43.8189484,-79.2674336,2,White Heather Boulevard (229),a
 43.8189595,-79.21355,2,Coopman Pathway (056),a
 43.8189595,-79.21355,2,Coopman Pathway (784),a
 43.8189673,-79.2373949,2,Finchdene Square (110),a
@@ -42998,32 +42874,12 @@ lat,lon,sz,names,len_cat
 43.8189673,-79.2373949,2,Finchdene Square (223),a
 43.8189673,-79.2373949,2,Newgale Gate (208),a
 43.8189673,-79.2373949,2,Newgale Gate (339),a
-43.8189844,-79.2698439,2,Major Oak Terrace (221),a
-43.8189844,-79.2698439,2,Major Oak Terrace (724),a
-43.8189888,-79.2698234,2,Major Oak Terrace (220),a
-43.8189888,-79.2698234,2,Major Oak Terrace (723),a
 43.8189935,-79.2208798,2,Finch Avenue East (679),a
 43.8189935,-79.2208798,2,Finch Avenue East (974),a
 43.8189935,-79.2208798,2,Finch Avenue East (974),a
 43.8190035,-79.2133576,2,Coopman Pathway (057),a
 43.8190035,-79.2133576,2,Coopman Pathway (785),a
-43.8190118,-79.2697174,2,Boxdene Avenue (039),a
-43.8190118,-79.2697174,2,Boxdene Avenue (855),a
-43.8190118,-79.2697174,2,Major Oak Terrace (219),a
-43.8190118,-79.2697174,2,Major Oak Terrace (722),a
 43.8190338,-79.2129235,2,Forest Creek Pathway (213),a
-43.819043,-79.2727491,2,Wharton Square (046),a
-43.819043,-79.2727491,2,Wharton Square (862),a
-43.8190515,-79.2669654,2,McNicoll Avenue (687),a
-43.8190515,-79.2669654,2,McNicoll Avenue (900),a
-43.8190678,-79.2727798,2,Wharton Square (179),a
-43.8190678,-79.2727798,2,Wharton Square (326),a
-43.8190738,-79.2729432,2,Wharton Square (175),a
-43.8190738,-79.2729432,2,Wharton Square (322),a
-43.819082,-79.2728174,2,Wharton Square (178),a
-43.819082,-79.2728174,2,Wharton Square (325),a
-43.8190843,-79.2728904,2,Wharton Square (176),a
-43.8190843,-79.2728904,2,Wharton Square (323),a
 43.8190913,-79.2130209,2,Coopman Pathway (892),a
 43.8190913,-79.2130209,2,Forest Creek Pathway (951),a
 43.8191092,-79.2208928,2,Finch Avenue East (032),a
@@ -43047,99 +42903,35 @@ lat,lon,sz,names,len_cat
 43.8192098,-79.2330448,2,Finchdene Square (089),a
 43.8192098,-79.2330448,2,Finchdene Square (321),a
 43.8192098,-79.2330448,2,Finchdene Square (321),a
-43.8192142,-79.2721098,2,Major Oak Terrace (247),a
-43.8192142,-79.2721098,2,Major Oak Terrace (303),a
-43.819219,-79.2660519,2,McNicoll Avenue (093),a
-43.819219,-79.2660519,2,McNicoll Avenue (206),a
 43.8192195,-79.2130891,2,Forest Creek Pathway (208),a
 43.8192195,-79.2130891,2,Forest Creek Pathway (844),a
-43.8192274,-79.2721188,2,Major Oak Terrace (248),a
-43.8192274,-79.2721188,2,Major Oak Terrace (304),a
-43.819247,-79.2721173,2,Major Oak Terrace (249),a
-43.819247,-79.2721173,2,Major Oak Terrace (305),a
 43.8192476,-79.2037197,2,Sewells Road (578),a
 43.8192476,-79.2037197,2,Sewells Road (688),a
-43.8192655,-79.2721084,2,Major Oak Terrace (250),a
-43.8192655,-79.2721084,2,Major Oak Terrace (306),a
 43.8192671,-79.2034442,2,Sewells Road (577),a
 43.8192671,-79.2034442,2,Sewells Road (687),a
-43.8192685,-79.2685162,2,Maresfield Drive (191),a
-43.8192685,-79.2685162,2,Maresfield Drive (191),a
-43.8192685,-79.2685162,2,Maresfield Drive (787),a
-43.8192685,-79.2685162,2,Maresfield Drive (787),a
-43.81927,-79.2686038,2,Maresfield Drive (193),a
-43.81927,-79.2686038,2,Maresfield Drive (193),a
-43.81927,-79.2686038,2,Maresfield Drive (789),a
-43.81927,-79.2686038,2,Maresfield Drive (789),a
-43.8192766,-79.2684802,2,Maresfield Drive (190),a
-43.8192766,-79.2684802,2,Maresfield Drive (190),a
-43.8192766,-79.2684802,2,Maresfield Drive (786),a
-43.8192766,-79.2684802,2,Maresfield Drive (786),a
 43.8192792,-79.2330733,2,Finchdene Square (244),a
 43.8192792,-79.2330733,2,Finchdene Square (244),a
 43.8192792,-79.2330733,2,Finchdene Square (321),a
 43.8192792,-79.2330733,2,Finchdene Square (321),a
 43.8192849,-79.2943659,2,Midland Avenue (421),a
 43.8192849,-79.2943659,2,Midland Avenue (466),a
-43.8192894,-79.2720815,2,Major Oak Terrace (251),a
-43.8192894,-79.2720815,2,Major Oak Terrace (307),a
 43.8192924,-79.2131165,2,Forest Creek Pathway (209),a
 43.8192924,-79.2131165,2,Forest Creek Pathway (845),a
-43.8192969,-79.2684446,2,Maresfield Drive (189),a
-43.8192969,-79.2684446,2,Maresfield Drive (189),a
-43.8192969,-79.2684446,2,Maresfield Drive (785),a
-43.8192969,-79.2684446,2,Maresfield Drive (785),a
-43.8192991,-79.2686815,2,Maresfield Drive (195),a
-43.8192991,-79.2686815,2,Maresfield Drive (195),a
-43.8192991,-79.2686815,2,Maresfield Drive (791),a
-43.8192991,-79.2686815,2,Maresfield Drive (791),a
-43.8192999,-79.2720555,2,Major Oak Terrace (208),a
-43.8192999,-79.2720555,2,Major Oak Terrace (252),a
-43.8192999,-79.2720555,2,Major Oak Terrace (308),a
-43.8192999,-79.2720555,2,Major Oak Terrace (711),a
-43.8193046,-79.2720199,2,Major Oak Terrace (209),a
-43.8193046,-79.2720199,2,Major Oak Terrace (712),a
 43.8193251,-79.325638,2,Steeles Avenue East (532),a
 43.8193251,-79.325638,2,Steeles Avenue East (773),a
-43.8193417,-79.2687283,2,Maresfield Drive (197),a
-43.8193417,-79.2687283,2,Maresfield Drive (197),a
-43.8193417,-79.2687283,2,Maresfield Drive (793),a
-43.8193417,-79.2687283,2,Maresfield Drive (793),a
-43.8193513,-79.2653302,2,McNicoll Avenue (688),a
-43.8193513,-79.2653302,2,McNicoll Avenue (901),a
 43.8193866,-79.2331174,2,Finchdene Square (245),a
 43.8193866,-79.2331174,2,Finchdene Square (247),a
 43.8193866,-79.2331174,2,Finchdene Square (247),a
-43.8194091,-79.2698771,2,Boxdene Avenue (041),a
-43.8194091,-79.2698771,2,Boxdene Avenue (857),a
-43.8194519,-79.2648425,2,McNicoll Avenue (094),a
-43.8194519,-79.2648425,2,McNicoll Avenue (207),a
-43.8194796,-79.2699057,2,Boxdene Avenue (040),a
-43.8194796,-79.2699057,2,Boxdene Avenue (856),a
 43.8194823,-79.2295386,2,Neilson Road (369),a
 43.8194823,-79.2295386,2,Neilson Road (532),a
-43.8194835,-79.2646896,2,McNicoll Avenue (667),a
-43.8194835,-79.2646896,2,McNicoll Avenue (689),a
-43.8194835,-79.2646896,2,McNicoll Avenue (880),a
-43.8194835,-79.2646896,2,McNicoll Avenue (902),a
-43.8194835,-79.2646896,2,Shady Hollow Drive (259),a
-43.8194835,-79.2646896,2,Shady Hollow Drive (753),a
-43.8195003,-79.2711428,2,Major Oak Terrace (210),a
-43.8195003,-79.2711428,2,Major Oak Terrace (713),a
 43.8195038,-79.2726565,2,McCowan Road (644),a
 43.8195038,-79.2726565,2,McCowan Road (806),a
 43.8195101,-79.3246759,2,Steeles Avenue East (534),a
 43.8195101,-79.3246759,2,Steeles Avenue East (774),a
-43.8195165,-79.2710993,2,Major Oak Terrace (211),a
-43.8195165,-79.2710993,2,Major Oak Terrace (714),a
 43.8195206,-79.2211077,2,Finch Avenue East (359),a
 43.8195206,-79.2211077,2,Finch Avenue East (891),a
-43.8195249,-79.2699225,2,Boxdene Avenue (061),a
-43.8195249,-79.2699225,2,Boxdene Avenue (479),a
 43.8195278,-79.2223374,2,Morningside Avenue (246),a
 43.8195278,-79.2223374,2,Morningside Avenue (821),a
-43.8195336,-79.2710668,2,Major Oak Terrace (212),a
-43.8195336,-79.2710668,2,Major Oak Terrace (715),a
 43.8195346,-79.2219646,2,Morningside Avenue (247),a
 43.8195346,-79.2219646,2,Morningside Avenue (822),a
 43.8195352,-79.2209611,2,Finch Avenue East (441),a
@@ -43150,20 +42942,6 @@ lat,lon,sz,names,len_cat
 43.8195388,-79.3245403,2,Steeles Avenue East (787),a
 43.8195612,-79.222678,2,Morningside Avenue (245),a
 43.8195612,-79.222678,2,Morningside Avenue (820),a
-43.8195616,-79.2710291,2,Major Oak Terrace (213),a
-43.8195616,-79.2710291,2,Major Oak Terrace (716),a
-43.8195763,-79.2647295,2,Shady Hollow Drive (570),a
-43.8195763,-79.2647295,2,Shady Hollow Drive (774),a
-43.8195923,-79.2699277,2,Boxdene Avenue (044),a
-43.8195923,-79.2699277,2,Boxdene Avenue (044),a
-43.8195923,-79.2699277,2,Boxdene Avenue (860),a
-43.8195923,-79.2699277,2,Boxdene Avenue (860),a
-43.8195941,-79.2647379,2,Shady Hollow Drive (260),a
-43.8195941,-79.2647379,2,Shady Hollow Drive (754),a
-43.8195956,-79.2670509,2,Maresfield Drive (368),a
-43.8195956,-79.2670509,2,Maresfield Drive (950),a
-43.8196004,-79.270997,2,Major Oak Terrace (214),a
-43.8196004,-79.270997,2,Major Oak Terrace (717),a
 43.8196085,-79.2212282,2,Morningside Avenue (248),a
 43.8196085,-79.2212282,2,Morningside Avenue (248),a
 43.8196085,-79.2212282,2,Morningside Avenue (823),a
@@ -43190,10 +42968,6 @@ lat,lon,sz,names,len_cat
 43.8196595,-79.2207637,2,Morningside Avenue (826),a
 43.8196717,-79.2234086,2,Morningside Avenue (244),a
 43.8196717,-79.2234086,2,Morningside Avenue (819),a
-43.8196786,-79.2699228,2,Boxdene Avenue (038),a
-43.8196786,-79.2699228,2,Boxdene Avenue (038),a
-43.8196786,-79.2699228,2,Boxdene Avenue (854),a
-43.8196786,-79.2699228,2,Boxdene Avenue (854),a
 43.8196851,-79.2221828,2,Morningside Avenue (282),a
 43.8196851,-79.2221828,2,Morningside Avenue (282),a
 43.8196851,-79.2221828,2,Morningside Avenue (893),a
@@ -43237,19 +43011,11 @@ lat,lon,sz,names,len_cat
 43.8197297,-79.2459896,2,Markham Road (353),a
 43.8197325,-79.2330842,2,Torham Place (829),a
 43.8197325,-79.2330842,2,Torham Place (929),a
-43.8197447,-79.2662282,2,Maresfield Drive (188),a
-43.8197447,-79.2662282,2,Maresfield Drive (202),a
-43.8197447,-79.2662282,2,Maresfield Drive (784),a
-43.8197447,-79.2662282,2,Maresfield Drive (798),a
-43.8197447,-79.2662282,2,Ponymill Drive (177),a
-43.8197447,-79.2662282,2,Ponymill Drive (963),a
 43.8197537,-79.221258,2,Morningside Avenue (039),a
 43.8197537,-79.221258,2,Morningside Avenue (108),a
 43.8197537,-79.221258,2,Morningside Avenue (108),a
 43.8197591,-79.2296589,2,Neilson Road (123),a
 43.8197591,-79.2296589,2,Neilson Road (892),a
-43.8197606,-79.2661348,2,Maresfield Drive (369),a
-43.8197606,-79.2661348,2,Maresfield Drive (951),a
 43.819765,-79.221134,2,Finch Avenue East (000),a
 43.819765,-79.221134,2,Finch Avenue East (275),a
 43.819765,-79.221134,2,Morningside Avenue (218),a
@@ -43274,8 +43040,6 @@ lat,lon,sz,names,len_cat
 43.819803,-79.2238945,2,Morningside Avenue (818),a
 43.8198079,-79.2233808,2,Morningside Avenue (284),a
 43.8198079,-79.2233808,2,Morningside Avenue (895),a
-43.8198217,-79.2662521,2,Ponymill Drive (136),a
-43.8198217,-79.2662521,2,Ponymill Drive (554),a
 43.8198283,-79.2223241,2,Flycatcher Avenue (413),a
 43.8198283,-79.2223241,2,Flycatcher Avenue (413),a
 43.8198283,-79.2223241,2,Flycatcher Avenue (664),a
@@ -43289,8 +43053,6 @@ lat,lon,sz,names,len_cat
 43.8198356,-79.2211455,2,Staines Road (529),a
 43.8198368,-79.2377603,2,Finchdene Square (224),a
 43.8198368,-79.2377603,2,Finchdene Square (241),a
-43.8198393,-79.2656733,2,Maresfield Drive (204),a
-43.8198393,-79.2656733,2,Maresfield Drive (800),a
 43.8198439,-79.2210144,2,Staines Road (060),a
 43.8198439,-79.2210144,2,Staines Road (092),a
 43.8198461,-79.2630749,2,McNicoll Avenue (669),a
@@ -43311,8 +43073,6 @@ lat,lon,sz,names,len_cat
 43.8198786,-79.2459436,2,Markham Road (212),a
 43.8198786,-79.2459436,2,Markham Road (349),a
 43.8198786,-79.2459436,2,Markham Road (349),a
-43.8198933,-79.2648678,2,Shady Hollow Drive (202),a
-43.8198933,-79.2648678,2,Shady Hollow Drive (856),a
 43.8198962,-79.222322,2,Flycatcher Avenue (663),a
 43.8198962,-79.222322,2,Flycatcher Avenue (663),a
 43.8198962,-79.222322,2,Flycatcher Avenue (698),a
@@ -43323,149 +43083,59 @@ lat,lon,sz,names,len_cat
 43.8199016,-79.2188397,2,Morningside Avenue (929),a
 43.819916,-79.2179419,2,Morningside Avenue (320),a
 43.819916,-79.2179419,2,Morningside Avenue (931),a
-43.8199207,-79.2689633,2,Maresfield Drive (366),a
-43.8199207,-79.2689633,2,Maresfield Drive (948),a
 43.8199218,-79.237796,2,Finchdene Square (225),a
 43.8199218,-79.237796,2,Finchdene Square (242),a
 43.8199273,-79.2182702,2,Morningside Avenue (319),a
 43.8199273,-79.2182702,2,Morningside Avenue (930),a
 43.8199316,-79.2475956,2,Nashdene Road (467),a
 43.8199316,-79.2475956,2,Nashdene Road (939),a
-43.8199423,-79.2699027,2,Boxdene Avenue (062),a
-43.8199423,-79.2699027,2,Boxdene Avenue (062),a
-43.8199423,-79.2699027,2,Boxdene Avenue (480),a
-43.8199423,-79.2699027,2,Boxdene Avenue (480),a
 43.8199442,-79.2238528,2,Morningside Avenue (285),a
 43.8199442,-79.2238528,2,Morningside Avenue (896),a
-43.8199492,-79.2648958,2,Shady Hollow Drive (408),a
-43.8199492,-79.2648958,2,Shady Hollow Drive (990),a
-43.8199522,-79.2662907,2,Ponymill Drive (178),a
-43.8199522,-79.2662907,2,Ponymill Drive (964),a
 43.819955,-79.2627377,2,McNicoll Avenue (670),a
 43.819955,-79.2627377,2,McNicoll Avenue (883),a
 43.8199566,-79.2233713,2,Flycatcher Avenue (888),a
 43.8199566,-79.2233713,2,Flycatcher Avenue (895),a
 43.8199711,-79.2474025,2,Nashdene Road (597),a
 43.8199711,-79.2474025,2,Nashdene Road (966),a
-43.8199744,-79.2650552,2,Maresfield Drive (207),a
-43.8199744,-79.2650552,2,Maresfield Drive (803),a
 43.8199826,-79.2211686,2,Staines Road (487),a
 43.8199826,-79.2211686,2,Staines Road (487),a
 43.8199826,-79.2211686,2,Staines Road (528),a
-43.8199833,-79.2650211,2,Maresfield Drive (370),a
-43.8199833,-79.2650211,2,Maresfield Drive (952),a
-43.8199909,-79.2689922,2,Maresfield Drive (201),a
-43.8199909,-79.2689922,2,Maresfield Drive (797),a
-43.8199909,-79.2689922,2,Ponymill Drive (175),a
-43.8199909,-79.2689922,2,Ponymill Drive (196),a
-43.8199909,-79.2689922,2,Ponymill Drive (961),a
-43.8199909,-79.2689922,2,Ponymill Drive (982),a
 43.8199925,-79.2626216,2,McNicoll Avenue (445),a
 43.8199925,-79.2626216,2,McNicoll Avenue (448),a
 43.8199925,-79.2626216,2,McNicoll Avenue (602),a
 43.8199925,-79.2626216,2,McNicoll Avenue (607),a
-43.8199949,-79.2690924,2,Ponymill Drive (205),a
-43.8199949,-79.2690924,2,Ponymill Drive (710),a
 43.8199977,-79.231938,2,Torham Place (322),a
 43.8199977,-79.231938,2,Torham Place (342),a
-43.8200073,-79.2649299,2,Maresfield Drive (208),a
-43.8200073,-79.2649299,2,Maresfield Drive (804),a
-43.8200073,-79.2649299,2,Shady Hollow Drive (248),a
-43.8200073,-79.2649299,2,Shady Hollow Drive (261),a
-43.8200073,-79.2649299,2,Shady Hollow Drive (742),a
-43.8200073,-79.2649299,2,Shady Hollow Drive (755),a
 43.8200087,-79.2297674,2,Neilson Road (166),a
 43.8200152,-79.2188663,2,Morningside Avenue (314),a
 43.8200152,-79.2188663,2,Morningside Avenue (925),a
 43.8200225,-79.2625131,2,McNicoll Avenue (447),a
 43.8200225,-79.2625131,2,McNicoll Avenue (606),a
-43.820023,-79.2697901,2,Ponymill Drive (135),a
-43.820023,-79.2697901,2,Ponymill Drive (135),a
-43.820023,-79.2697901,2,Ponymill Drive (553),a
-43.820023,-79.2697901,2,Ponymill Drive (553),a
 43.8200251,-79.2184651,2,Morningside Avenue (604),a
 43.8200251,-79.2184651,2,Morningside Avenue (988),a
-43.8200265,-79.2698963,2,Boxdene Avenue (757),a
-43.8200265,-79.2698963,2,Boxdene Avenue (757),a
-43.8200265,-79.2698963,2,Boxdene Avenue (825),a
-43.8200265,-79.2698963,2,Boxdene Avenue (825),a
-43.8200265,-79.2698963,2,Historic Terrace (047),a
-43.8200265,-79.2698963,2,Historic Terrace (047),a
-43.8200265,-79.2698963,2,Historic Terrace (896),a
-43.8200265,-79.2698963,2,Historic Terrace (896),a
-43.8200265,-79.2698963,2,Ponymill Drive (176),a
-43.8200265,-79.2698963,2,Ponymill Drive (176),a
-43.8200265,-79.2698963,2,Ponymill Drive (962),a
-43.8200265,-79.2698963,2,Ponymill Drive (962),a
-43.8200269,-79.2663129,2,Ponymill Drive (179),a
-43.8200269,-79.2663129,2,Ponymill Drive (965),a
 43.8200286,-79.2186016,2,Morningside Avenue (313),a
 43.8200286,-79.2186016,2,Morningside Avenue (605),a
 43.8200286,-79.2186016,2,Morningside Avenue (924),a
 43.8200286,-79.2186016,2,Morningside Avenue (989),a
-43.820031,-79.2700079,2,Historic Terrace (378),a
-43.820031,-79.2700079,2,Historic Terrace (378),a
-43.820031,-79.2700079,2,Historic Terrace (960),a
-43.820031,-79.2700079,2,Historic Terrace (960),a
 43.8200341,-79.2333834,2,Finchdene Square (229),a
 43.8200341,-79.2333834,2,Finchdene Square (229),a
 43.8200341,-79.2333834,2,Finchdene Square (244),a
-43.8200364,-79.2724328,2,Historic Terrace (059),a
-43.8200364,-79.2724328,2,Historic Terrace (908),a
 43.8200366,-79.2179539,2,Morningside Avenue (602),a
 43.8200366,-79.2179539,2,Morningside Avenue (986),a
-43.8200391,-79.272351,2,Historic Terrace (057),a
-43.8200391,-79.272351,2,Historic Terrace (906),a
 43.8200447,-79.2181413,2,Morningside Avenue (603),a
 43.8200447,-79.2181413,2,Morningside Avenue (987),a
-43.8200522,-79.2724713,2,Historic Terrace (060),a
-43.8200522,-79.2724713,2,Historic Terrace (909),a
-43.8200577,-79.2706646,2,Historic Terrace (377),a
-43.8200577,-79.2706646,2,Historic Terrace (377),a
-43.8200577,-79.2706646,2,Historic Terrace (959),a
-43.8200577,-79.2706646,2,Historic Terrace (959),a
-43.8200626,-79.2707596,2,Historic Terrace (048),a
-43.8200626,-79.2707596,2,Historic Terrace (048),a
-43.8200626,-79.2707596,2,Historic Terrace (049),a
-43.8200626,-79.2707596,2,Historic Terrace (049),a
-43.8200626,-79.2707596,2,Historic Terrace (897),a
-43.8200626,-79.2707596,2,Historic Terrace (897),a
-43.8200626,-79.2707596,2,Historic Terrace (898),a
-43.8200626,-79.2707596,2,Historic Terrace (898),a
-43.8200626,-79.2707596,2,Major Oak Terrace (215),a
-43.8200626,-79.2707596,2,Major Oak Terrace (215),a
-43.8200626,-79.2707596,2,Major Oak Terrace (718),a
-43.8200626,-79.2707596,2,Major Oak Terrace (718),a
-43.8200762,-79.2707884,2,Historic Terrace (216),a
-43.8200762,-79.2707884,2,Historic Terrace (216),a
-43.8200762,-79.2707884,2,Historic Terrace (719),a
-43.8200762,-79.2707884,2,Historic Terrace (719),a
 43.8200816,-79.2468626,2,Nashdene Road (466),a
 43.8200816,-79.2468626,2,Nashdene Road (466),a
 43.8200816,-79.2468626,2,Nashdene Road (938),a
 43.8200816,-79.2468626,2,Nashdene Road (938),a
-43.8200824,-79.272507,2,Historic Terrace (061),a
-43.8200824,-79.272507,2,Historic Terrace (910),a
 43.820085,-79.2315609,2,Torham Place (830),a
 43.820085,-79.2315609,2,Torham Place (930),a
 43.8200861,-79.2622806,2,McNicoll Avenue (021),a
 43.8200861,-79.2622806,2,McNicoll Avenue (029),a
 43.8200861,-79.2622806,2,McNicoll Avenue (845),a
 43.8200861,-79.2622806,2,McNicoll Avenue (853),a
-43.8200909,-79.2663533,2,Ponymill Drive (180),a
-43.8200909,-79.2663533,2,Ponymill Drive (966),a
 43.8200956,-79.2622453,2,McNicoll Avenue (030),a
 43.8200956,-79.2622453,2,McNicoll Avenue (854),a
-43.8201005,-79.2708396,2,Historic Terrace (217),a
-43.8201005,-79.2708396,2,Historic Terrace (217),a
-43.8201005,-79.2708396,2,Historic Terrace (720),a
-43.8201005,-79.2708396,2,Historic Terrace (720),a
-43.8201162,-79.2698901,2,Boxdene Avenue (063),a
-43.8201162,-79.2698901,2,Boxdene Avenue (063),a
-43.8201162,-79.2698901,2,Boxdene Avenue (481),a
-43.8201162,-79.2698901,2,Boxdene Avenue (481),a
-43.8201268,-79.2649974,2,Shady Hollow Drive (249),a
-43.8201268,-79.2649974,2,Shady Hollow Drive (743),a
 43.8201344,-79.2210657,2,Staines Road (059),a
 43.8201344,-79.2210657,2,Staines Road (091),a
 43.8201517,-79.2239748,2,Flycatcher Avenue (889),a
@@ -43482,8 +43152,6 @@ lat,lon,sz,names,len_cat
 43.8201856,-79.2212115,2,Staines Road (486),a
 43.8201856,-79.2212115,2,Staines Road (527),a
 43.8201856,-79.2212115,2,Staines Road (527),a
-43.8201955,-79.265039,2,Shady Hollow Drive (406),a
-43.8201955,-79.265039,2,Shady Hollow Drive (988),a
 43.8201968,-79.2462994,2,Markham Road (207),a
 43.8201968,-79.2462994,2,Markham Road (207),a
 43.8201968,-79.2462994,2,Markham Road (214),a
@@ -43504,8 +43172,6 @@ lat,lon,sz,names,len_cat
 43.820222,-79.2210647,2,Staines Road (062),a
 43.820222,-79.2210647,2,Staines Road (093),a
 43.820222,-79.2210647,2,Staines Road (094),a
-43.8202376,-79.2638622,2,Valley Stream Drive (113),a
-43.8202376,-79.2638622,2,Valley Stream Drive (531),a
 43.8202409,-79.2460838,2,Markham Road (208),a
 43.8202409,-79.2460838,2,Markham Road (208),a
 43.8202409,-79.2460838,2,Markham Road (213),a
@@ -43518,38 +43184,12 @@ lat,lon,sz,names,len_cat
 43.8202409,-79.2460838,2,Nashdene Road (421),a
 43.8202409,-79.2460838,2,Nashdene Road (872),a
 43.8202409,-79.2460838,2,Nashdene Road (872),a
-43.8202426,-79.2637482,2,Valley Stream Drive (114),a
-43.8202426,-79.2637482,2,Valley Stream Drive (532),a
-43.8202435,-79.2711418,2,Historic Terrace (050),a
-43.8202435,-79.2711418,2,Historic Terrace (050),a
-43.8202435,-79.2711418,2,Historic Terrace (899),a
-43.8202435,-79.2711418,2,Historic Terrace (899),a
-43.8202533,-79.2713889,2,Historic Terrace (056),a
-43.8202533,-79.2713889,2,Historic Terrace (905),a
-43.8202549,-79.2639087,2,Valley Stream Drive (569),a
-43.8202549,-79.2639087,2,Valley Stream Drive (878),a
-43.8202576,-79.2650807,2,Shady Hollow Drive (405),a
-43.8202576,-79.2650807,2,Shady Hollow Drive (987),a
 43.8202596,-79.2250156,2,Morningside Avenue (242),a
 43.8202596,-79.2250156,2,Morningside Avenue (817),a
-43.8202695,-79.2636901,2,Valley Stream Drive (571),a
-43.8202695,-79.2636901,2,Valley Stream Drive (880),a
-43.8202763,-79.2712148,2,Historic Terrace (052),a
-43.8202763,-79.2712148,2,Historic Terrace (052),a
-43.8202763,-79.2712148,2,Historic Terrace (901),a
-43.8202763,-79.2712148,2,Historic Terrace (901),a
-43.8202799,-79.2713125,2,Historic Terrace (054),a
-43.8202799,-79.2713125,2,Historic Terrace (903),a
-43.8202828,-79.2712634,2,Historic Terrace (053),a
-43.8202828,-79.2712634,2,Historic Terrace (902),a
-43.8202854,-79.2639364,2,Valley Stream Drive (112),a
-43.8202854,-79.2639364,2,Valley Stream Drive (530),a
 43.8203044,-79.2463428,2,Markham Road (022),a
 43.8203044,-79.2463428,2,Markham Road (022),a
 43.8203044,-79.2463428,2,Markham Road (230),a
 43.8203044,-79.2463428,2,Markham Road (230),a
-43.8203221,-79.2675092,2,Ponymill Drive (195),a
-43.8203221,-79.2675092,2,Ponymill Drive (981),a
 43.8203329,-79.2335061,2,Finchdene Square (230),a
 43.8203329,-79.2335061,2,Finchdene Square (230),a
 43.8203329,-79.2335061,2,Finchdene Square (752),a
@@ -43568,8 +43208,6 @@ lat,lon,sz,names,len_cat
 43.8203479,-79.2461309,2,Markham Road (023),a
 43.8203479,-79.2461309,2,Markham Road (231),a
 43.8203479,-79.2461309,2,Markham Road (231),a
-43.8203492,-79.2651527,2,Shady Hollow Drive (250),a
-43.8203492,-79.2651527,2,Shady Hollow Drive (744),a
 43.8203504,-79.2212072,2,Staines Road (482),a
 43.8203504,-79.2212072,2,Staines Road (482),a
 43.8203504,-79.2212072,2,Staines Road (484),a
@@ -43587,8 +43225,6 @@ lat,lon,sz,names,len_cat
 43.8203607,-79.2212978,2,Wharnsby Drive (561),a
 43.8203607,-79.2212978,2,Wharnsby Drive (694),a
 43.8203607,-79.2212978,2,Wharnsby Drive (694),a
-43.8203622,-79.2666156,2,Ponymill Drive (183),a
-43.8203622,-79.2666156,2,Ponymill Drive (969),a
 43.8203674,-79.2213599,2,Wharnsby Drive (527),a
 43.8203674,-79.2213599,2,Wharnsby Drive (527),a
 43.8203674,-79.2213599,2,Wharnsby Drive (752),a
@@ -43605,14 +43241,8 @@ lat,lon,sz,names,len_cat
 43.8203879,-79.2379919,2,Finchdene Square (234),a
 43.8203879,-79.2379919,2,Pullman Court (201),a
 43.8203879,-79.2379919,2,Pullman Court (894),a
-43.8203964,-79.266624,2,Ponymill Drive (184),a
-43.8203964,-79.266624,2,Ponymill Drive (970),a
 43.8203991,-79.2730475,2,McCowan Road (646),a
 43.8203991,-79.2730475,2,McCowan Road (808),a
-43.8204,-79.2639791,2,Valley Stream Drive (567),a
-43.8204,-79.2639791,2,Valley Stream Drive (876),a
-43.8204087,-79.2631877,2,Valley Stream Drive (572),a
-43.8204087,-79.2631877,2,Valley Stream Drive (881),a
 43.8204102,-79.2217756,2,Wharnsby Drive (487),a
 43.8204102,-79.2217756,2,Wharnsby Drive (487),a
 43.8204102,-79.2217756,2,Wharnsby Drive (528),a
@@ -43624,14 +43254,8 @@ lat,lon,sz,names,len_cat
 43.8204176,-79.2378538,2,Finchdene Square (616),a
 43.8204214,-79.2378341,2,Finchdene Square (272),a
 43.8204214,-79.2378341,2,Finchdene Square (615),a
-43.8204242,-79.2669501,2,Ponymill Drive (193),a
-43.8204242,-79.2669501,2,Ponymill Drive (979),a
 43.8204249,-79.2196883,2,Chicory Lane (671),a
 43.8204249,-79.2196883,2,Chicory Lane (679),a
-43.820428,-79.2666444,2,Ponymill Drive (185),a
-43.820428,-79.2666444,2,Ponymill Drive (971),a
-43.8204312,-79.2630539,2,Valley Stream Drive (574),a
-43.8204312,-79.2630539,2,Valley Stream Drive (883),a
 43.820442,-79.221022,2,Staines Road (491),a
 43.820442,-79.221022,2,Staines Road (532),a
 43.8204468,-79.2380166,2,Pullman Court (202),a
@@ -43640,8 +43264,6 @@ lat,lon,sz,names,len_cat
 43.8204482,-79.3056255,2,Kennedy Road (424),a
 43.8204482,-79.3056255,2,Kennedy Road (575),a
 43.8204482,-79.3056255,2,Kennedy Road (575),a
-43.8204483,-79.2630077,2,Valley Stream Drive (575),a
-43.8204483,-79.2630077,2,Valley Stream Drive (884),a
 43.8204538,-79.2223181,2,Flycatcher Avenue (660),a
 43.8204538,-79.2223181,2,Flycatcher Avenue (660),a
 43.8204538,-79.2223181,2,Flycatcher Avenue (695),a
@@ -43653,20 +43275,10 @@ lat,lon,sz,names,len_cat
 43.8204538,-79.2223181,2,Wharnsby Drive (419),a
 43.8204538,-79.2223181,2,Wharnsby Drive (719),a
 43.8204538,-79.2223181,2,Wharnsby Drive (719),a
-43.8204541,-79.2652612,2,Shady Hollow Drive (251),a
-43.8204541,-79.2652612,2,Shady Hollow Drive (745),a
 43.8204624,-79.2224206,2,Wharnsby Drive (420),a
 43.8204624,-79.2224206,2,Wharnsby Drive (420),a
 43.8204624,-79.2224206,2,Wharnsby Drive (720),a
 43.8204624,-79.2224206,2,Wharnsby Drive (720),a
-43.8204654,-79.2666941,2,Ponymill Drive (187),a
-43.8204654,-79.2666941,2,Ponymill Drive (973),a
-43.8204733,-79.2668582,2,Ponymill Drive (191),a
-43.8204733,-79.2668582,2,Ponymill Drive (977),a
-43.8204747,-79.2629697,2,Valley Stream Drive (576),a
-43.8204747,-79.2629697,2,Valley Stream Drive (885),a
-43.8204821,-79.2667577,2,Ponymill Drive (189),a
-43.8204821,-79.2667577,2,Ponymill Drive (975),a
 43.8204869,-79.2227127,2,Wharnsby Drive (489),a
 43.8204869,-79.2227127,2,Wharnsby Drive (489),a
 43.8204869,-79.2227127,2,Wharnsby Drive (714),a
@@ -43689,30 +43301,18 @@ lat,lon,sz,names,len_cat
 43.8205414,-79.2230307,2,Wharnsby Drive (421),a
 43.8205414,-79.2230307,2,Wharnsby Drive (721),a
 43.8205414,-79.2230307,2,Wharnsby Drive (721),a
-43.8205488,-79.2653752,2,Shady Hollow Drive (252),a
-43.8205488,-79.2653752,2,Shady Hollow Drive (746),a
 43.8205552,-79.2464421,2,Markham Road (206),a
 43.8205552,-79.2464421,2,Markham Road (206),a
 43.8205552,-79.2464421,2,Markham Road (343),a
 43.8205552,-79.2464421,2,Markham Road (343),a
 43.8205595,-79.224959,2,Flycatcher Avenue (414),a
 43.8205595,-79.224959,2,Flycatcher Avenue (714),a
-43.8205646,-79.262955,2,Valley Stream Drive (115),a
-43.8205646,-79.262955,2,Valley Stream Drive (533),a
 43.8205667,-79.2197679,2,Chicory Lane (033),a
 43.8205667,-79.2197679,2,Chicory Lane (489),a
 43.8205728,-79.237099,2,Finchdene Square (028),a
 43.8205728,-79.237099,2,Finchdene Square (791),a
-43.8205784,-79.2698578,2,Boxdene Avenue (059),a
-43.8205784,-79.2698578,2,Boxdene Avenue (059),a
-43.8205784,-79.2698578,2,Boxdene Avenue (477),a
-43.8205784,-79.2698578,2,Boxdene Avenue (477),a
 43.820586,-79.2197788,2,Chicory Lane (672),a
 43.820586,-79.2197788,2,Chicory Lane (680),a
-43.8206027,-79.2698561,2,Boxdene Avenue (060),a
-43.8206027,-79.2698561,2,Boxdene Avenue (060),a
-43.8206027,-79.2698561,2,Boxdene Avenue (478),a
-43.8206027,-79.2698561,2,Boxdene Avenue (478),a
 43.8206111,-79.2369128,2,Finchdene Square (442),a
 43.8206111,-79.2369128,2,Finchdene Square (857),a
 43.8206237,-79.2462404,2,Markham Road (209),a
@@ -43725,44 +43325,10 @@ lat,lon,sz,names,len_cat
 43.8206352,-79.2233975,2,Wharnsby Drive (722),a
 43.8206569,-79.2209187,2,Staines Road (493),a
 43.8206569,-79.2209187,2,Staines Road (534),a
-43.8206707,-79.2697927,2,Ingleton Boulevard (815),a
-43.8206707,-79.2697927,2,Ingleton Boulevard (815),a
-43.8206707,-79.2697927,2,Ingleton Boulevard (999),a
-43.8206707,-79.2697927,2,Ingleton Boulevard (999),a
-43.8206715,-79.2698513,2,Boxdene Avenue (758),a
-43.8206715,-79.2698513,2,Boxdene Avenue (758),a
-43.8206715,-79.2698513,2,Boxdene Avenue (826),a
-43.8206715,-79.2698513,2,Boxdene Avenue (826),a
-43.8206715,-79.2698513,2,Ingleton Boulevard (129),a
-43.8206715,-79.2698513,2,Ingleton Boulevard (129),a
-43.8206715,-79.2698513,2,Ingleton Boulevard (337),a
-43.8206715,-79.2698513,2,Ingleton Boulevard (337),a
-43.8206733,-79.2630059,2,Valley Stream Drive (579),a
-43.8206733,-79.2630059,2,Valley Stream Drive (888),a
-43.8206742,-79.2697051,2,Ingleton Boulevard (001),a
-43.8206742,-79.2697051,2,Ingleton Boulevard (001),a
-43.8206742,-79.2697051,2,Ingleton Boulevard (817),a
-43.8206742,-79.2697051,2,Ingleton Boulevard (817),a
 43.8206862,-79.3057318,2,Kennedy Road (341),a
 43.8206862,-79.3057318,2,Kennedy Road (341),a
 43.8206862,-79.3057318,2,Kennedy Road (915),a
 43.8206862,-79.3057318,2,Kennedy Road (915),a
-43.8206867,-79.2700257,2,Ingleton Boulevard (131),a
-43.8206867,-79.2700257,2,Ingleton Boulevard (131),a
-43.8206867,-79.2700257,2,Ingleton Boulevard (339),a
-43.8206867,-79.2700257,2,Ingleton Boulevard (339),a
-43.8206877,-79.2695894,2,Ingleton Boulevard (000),a
-43.8206877,-79.2695894,2,Ingleton Boulevard (000),a
-43.8206877,-79.2695894,2,Ingleton Boulevard (816),a
-43.8206877,-79.2695894,2,Ingleton Boulevard (816),a
-43.8206907,-79.272767,2,Historic Terrace (062),a
-43.8206907,-79.272767,2,Historic Terrace (911),a
-43.8206911,-79.2655743,2,Shady Hollow Drive (253),a
-43.8206911,-79.2655743,2,Shady Hollow Drive (254),a
-43.8206911,-79.2655743,2,Shady Hollow Drive (747),a
-43.8206911,-79.2655743,2,Shady Hollow Drive (748),a
-43.8206911,-79.2655743,2,Valley Stream Drive (118),a
-43.8206911,-79.2655743,2,Valley Stream Drive (536),a
 43.8206916,-79.2381195,2,Pullman Court (029),a
 43.8206916,-79.2381195,2,Pullman Court (204),a
 43.8207101,-79.2210421,2,Staines Road (272),a
@@ -43771,10 +43337,6 @@ lat,lon,sz,names,len_cat
 43.8207101,-79.2210421,2,Staines Road (915),a
 43.820712,-79.2257582,2,Morningside Avenue (287),a
 43.820712,-79.2257582,2,Morningside Avenue (898),a
-43.8207143,-79.2701671,2,Ingleton Boulevard (132),a
-43.8207143,-79.2701671,2,Ingleton Boulevard (132),a
-43.8207143,-79.2701671,2,Ingleton Boulevard (340),a
-43.8207143,-79.2701671,2,Ingleton Boulevard (340),a
 43.8207168,-79.2463754,2,Markham Road (204),a
 43.8207168,-79.2463754,2,Markham Road (204),a
 43.8207168,-79.2463754,2,Markham Road (205),a
@@ -43787,90 +43349,24 @@ lat,lon,sz,names,len_cat
 43.8207168,-79.2463754,2,Markham Road (342),a
 43.8207168,-79.2463754,2,Markham Road (347),a
 43.8207168,-79.2463754,2,Markham Road (347),a
-43.8207177,-79.264144,2,Valley Stream Drive (564),a
-43.8207177,-79.264144,2,Valley Stream Drive (873),a
-43.8207373,-79.270249,2,Ingleton Boulevard (133),a
-43.8207373,-79.270249,2,Ingleton Boulevard (133),a
-43.8207373,-79.270249,2,Ingleton Boulevard (341),a
-43.8207373,-79.270249,2,Ingleton Boulevard (341),a
-43.8207406,-79.2654977,2,Valley Stream Drive (117),a
-43.8207406,-79.2654977,2,Valley Stream Drive (535),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (316),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (316),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (318),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (318),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (695),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (695),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (697),a
-43.8207489,-79.2693173,2,Ingleton Boulevard (697),a
-43.8207489,-79.2693173,2,Presidents Court (082),a
-43.8207489,-79.2693173,2,Presidents Court (082),a
-43.8207489,-79.2693173,2,Presidents Court (248),a
-43.8207489,-79.2693173,2,Presidents Court (248),a
-43.8207498,-79.2727527,2,Historic Terrace (064),a
-43.8207498,-79.2727527,2,Historic Terrace (913),a
 43.820752,-79.246392,2,Markham Road (021),a
 43.820752,-79.246392,2,Markham Road (021),a
 43.820752,-79.246392,2,Markham Road (227),a
 43.820752,-79.246392,2,Markham Road (227),a
-43.8207528,-79.2656607,2,Shady Hollow Drive (255),a
-43.8207528,-79.2656607,2,Shady Hollow Drive (749),a
-43.8207585,-79.2654701,2,Valley Stream Drive (331),a
-43.8207585,-79.2654701,2,Valley Stream Drive (622),a
-43.8207585,-79.2654701,2,Valley Stream Drive (635),a
-43.8207585,-79.2654701,2,Valley Stream Drive (728),a
-43.8207651,-79.2703281,2,Ingleton Boulevard (134),a
-43.8207651,-79.2703281,2,Ingleton Boulevard (134),a
-43.8207651,-79.2703281,2,Ingleton Boulevard (342),a
-43.8207651,-79.2703281,2,Ingleton Boulevard (342),a
-43.8207676,-79.2727322,2,Historic Terrace (065),a
-43.8207676,-79.2727322,2,Historic Terrace (914),a
-43.8207818,-79.2726947,2,Historic Terrace (066),a
-43.8207818,-79.2726947,2,Historic Terrace (300),a
-43.8207818,-79.2726947,2,Historic Terrace (679),a
-43.8207818,-79.2726947,2,Historic Terrace (915),a
-43.8207897,-79.2726522,2,Historic Terrace (301),a
-43.8207897,-79.2726522,2,Historic Terrace (680),a
-43.8207971,-79.2726198,2,Historic Terrace (302),a
-43.8207971,-79.2726198,2,Historic Terrace (681),a
 43.8208049,-79.2359744,2,Finchdene Square (124),a
 43.8208049,-79.2359744,2,Finchdene Square (788),a
-43.8208196,-79.265743,2,Shady Hollow Drive (256),a
-43.8208196,-79.265743,2,Shady Hollow Drive (750),a
-43.8208214,-79.2704522,2,Ingleton Boulevard (135),a
-43.8208214,-79.2704522,2,Ingleton Boulevard (135),a
-43.8208214,-79.2704522,2,Ingleton Boulevard (343),a
-43.8208214,-79.2704522,2,Ingleton Boulevard (343),a
 43.8208247,-79.2263093,2,Morningside Avenue (240),a
 43.8208247,-79.2263093,2,Morningside Avenue (815),a
 43.8208253,-79.2238941,2,Wharnsby Drive (423),a
 43.8208253,-79.2238941,2,Wharnsby Drive (723),a
-43.8208266,-79.2693522,2,Presidents Court (130),a
-43.8208266,-79.2693522,2,Presidents Court (130),a
-43.8208266,-79.2693522,2,Presidents Court (548),a
-43.8208266,-79.2693522,2,Presidents Court (548),a
-43.8208354,-79.2641903,2,Valley Stream Drive (563),a
-43.8208354,-79.2641903,2,Valley Stream Drive (872),a
-43.8208487,-79.2693621,2,Presidents Court (129),a
-43.8208487,-79.2693621,2,Presidents Court (129),a
-43.8208487,-79.2693621,2,Presidents Court (547),a
-43.8208487,-79.2693621,2,Presidents Court (547),a
 43.820851,-79.2207705,2,Jacques Road (540),a
 43.820851,-79.2207705,2,Jacques Road (557),a
 43.820851,-79.2207705,2,Staines Road (494),a
 43.820851,-79.2207705,2,Staines Road (535),a
-43.8208556,-79.268843,2,Ingleton Boulevard (319),a
-43.8208556,-79.268843,2,Ingleton Boulevard (698),a
-43.8208608,-79.2705211,2,Ingleton Boulevard (136),a
-43.8208608,-79.2705211,2,Ingleton Boulevard (136),a
-43.8208608,-79.2705211,2,Ingleton Boulevard (344),a
-43.8208608,-79.2705211,2,Ingleton Boulevard (344),a
 43.8208663,-79.2732512,2,McCowan Road (647),a
 43.8208663,-79.2732512,2,McCowan Road (809),a
 43.820871,-79.2356527,2,Finchdene Square (441),a
 43.820871,-79.2356527,2,Finchdene Square (856),a
-43.820881,-79.2657944,2,Shady Hollow Drive (257),a
-43.820881,-79.2657944,2,Shady Hollow Drive (751),a
 43.8208811,-79.2221837,2,Salamander Street (765),a
 43.8208811,-79.2221837,2,Salamander Street (765),a
 43.8208811,-79.2221837,2,Salamander Street (806),a
@@ -43883,30 +43379,18 @@ lat,lon,sz,names,len_cat
 43.8209033,-79.2199449,2,Chicory Lane (674),a
 43.8209033,-79.2199449,2,Chicory Lane (681),a
 43.8209033,-79.2199449,2,Chicory Lane (682),a
-43.8209041,-79.2705856,2,Ingleton Boulevard (137),a
-43.8209041,-79.2705856,2,Ingleton Boulevard (137),a
-43.8209041,-79.2705856,2,Ingleton Boulevard (345),a
-43.8209041,-79.2705856,2,Ingleton Boulevard (345),a
 43.8209239,-79.2353953,2,Finchdene Square (121),a
 43.8209239,-79.2353953,2,Finchdene Square (751),a
 43.8209249,-79.2337493,2,Finchdene Square (231),a
 43.8209249,-79.2337493,2,Finchdene Square (231),a
 43.8209249,-79.2337493,2,Finchdene Square (753),a
 43.8209249,-79.2337493,2,Finchdene Square (753),a
-43.8209267,-79.2685272,2,Ingleton Boulevard (320),a
-43.8209267,-79.2685272,2,Ingleton Boulevard (699),a
 43.8209287,-79.2209515,2,Jacques Road (687),a
 43.8209287,-79.2209515,2,Jacques Road (687),a
 43.8209287,-79.2209515,2,Jacques Road (809),a
 43.8209287,-79.2209515,2,Jacques Road (809),a
-43.8209365,-79.2642181,2,Valley Stream Drive (562),a
-43.8209365,-79.2642181,2,Valley Stream Drive (871),a
 43.8209403,-79.2262731,2,Morningside Avenue (288),a
 43.8209403,-79.2262731,2,Morningside Avenue (899),a
-43.820948,-79.2706457,2,Ingleton Boulevard (138),a
-43.820948,-79.2706457,2,Ingleton Boulevard (138),a
-43.820948,-79.2706457,2,Ingleton Boulevard (346),a
-43.820948,-79.2706457,2,Ingleton Boulevard (346),a
 43.8209577,-79.2841604,2,Brimley Road (474),a
 43.8209577,-79.2841604,2,Brimley Road (531),a
 43.8209577,-79.2841604,2,Brimley Road (715),a
@@ -43923,10 +43407,6 @@ lat,lon,sz,names,len_cat
 43.8209979,-79.2337793,2,Finchdene Square (113),a
 43.8209979,-79.2337793,2,Finchdene Square (777),a
 43.8209979,-79.2337793,2,Finchdene Square (777),a
-43.8209993,-79.270701,2,Ingleton Boulevard (139),a
-43.8209993,-79.270701,2,Ingleton Boulevard (139),a
-43.8209993,-79.270701,2,Ingleton Boulevard (347),a
-43.8209993,-79.270701,2,Ingleton Boulevard (347),a
 43.8210238,-79.2222489,2,Salamander Street (767),a
 43.8210238,-79.2222489,2,Salamander Street (767),a
 43.8210238,-79.2222489,2,Salamander Street (808),a
@@ -43936,10 +43416,6 @@ lat,lon,sz,names,len_cat
 43.8210297,-79.2243396,2,Wharnsby Drive (724),a
 43.8210375,-79.2200005,2,Chicory Lane (675),a
 43.8210375,-79.2200005,2,Chicory Lane (683),a
-43.8210481,-79.2707553,2,Ingleton Boulevard (140),a
-43.8210481,-79.2707553,2,Ingleton Boulevard (140),a
-43.8210481,-79.2707553,2,Ingleton Boulevard (348),a
-43.8210481,-79.2707553,2,Ingleton Boulevard (348),a
 43.821057,-79.2347475,2,Finchdene Square (124),a
 43.821057,-79.2347475,2,Finchdene Square (754),a
 43.821057,-79.2347475,2,Finchdene Square (754),a
@@ -43961,12 +43437,6 @@ lat,lon,sz,names,len_cat
 43.8211031,-79.222399,2,Salamander Street (768),a
 43.8211031,-79.222399,2,Salamander Street (809),a
 43.8211031,-79.222399,2,Salamander Street (809),a
-43.8211047,-79.2677362,2,Ingleton Boulevard (321),a
-43.8211047,-79.2677362,2,Ingleton Boulevard (700),a
-43.8211093,-79.2708112,2,Ingleton Boulevard (142),a
-43.8211093,-79.2708112,2,Ingleton Boulevard (142),a
-43.8211093,-79.2708112,2,Ingleton Boulevard (350),a
-43.8211093,-79.2708112,2,Ingleton Boulevard (350),a
 43.8211118,-79.2242653,2,Nanaberry Street (635),a
 43.8211156,-79.2262324,2,Flycatcher Avenue (715),a
 43.8211156,-79.2262324,2,Plantain Way (407),a
@@ -43977,8 +43447,6 @@ lat,lon,sz,names,len_cat
 43.8211242,-79.2338907,2,Finchdene Square (781),a
 43.8211358,-79.2302574,2,Neilson Road (167),a
 43.8211358,-79.2302574,2,Neilson Road (596),a
-43.8211427,-79.2642227,2,Valley Stream Drive (560),a
-43.8211427,-79.2642227,2,Valley Stream Drive (869),a
 43.8211513,-79.2339294,2,Finchdene Square (118),a
 43.8211513,-79.2339294,2,Finchdene Square (118),a
 43.8211513,-79.2339294,2,Finchdene Square (782),a
@@ -44003,23 +43471,11 @@ lat,lon,sz,names,len_cat
 43.8211655,-79.2465871,2,Markham Road (858),a
 43.8211655,-79.2465871,2,Markham Road (924),a
 43.8211655,-79.2465871,2,Markham Road (924),a
-43.8211656,-79.2674655,2,Ingleton Boulevard (322),a
-43.8211656,-79.2674655,2,Ingleton Boulevard (701),a
 43.8211694,-79.2340055,2,Finchdene Square (120),a
 43.8211694,-79.2340055,2,Finchdene Square (120),a
 43.8211694,-79.2340055,2,Finchdene Square (784),a
-43.821172,-79.2646627,2,Valley Stream Drive (553),a
-43.821172,-79.2646627,2,Valley Stream Drive (862),a
-43.8211722,-79.2709787,2,Historic Terrace (303),a
-43.8211722,-79.2709787,2,Historic Terrace (303),a
-43.8211722,-79.2709787,2,Historic Terrace (682),a
-43.8211722,-79.2709787,2,Historic Terrace (682),a
 43.8211722,-79.2200799,2,Chicory Lane (676),a
 43.8211722,-79.2200799,2,Chicory Lane (684),a
-43.8211784,-79.2709516,2,Historic Terrace (304),a
-43.8211784,-79.2709516,2,Historic Terrace (304),a
-43.8211784,-79.2709516,2,Historic Terrace (683),a
-43.8211784,-79.2709516,2,Historic Terrace (683),a
 43.8211786,-79.2340606,2,Finchdene Square (121),a
 43.8211786,-79.2340606,2,Finchdene Square (121),a
 43.8211786,-79.2340606,2,Finchdene Square (785),a
@@ -44032,14 +43488,6 @@ lat,lon,sz,names,len_cat
 43.8211877,-79.2341079,2,Finchdene Square (122),a
 43.8211877,-79.2341079,2,Finchdene Square (122),a
 43.8211877,-79.2341079,2,Finchdene Square (786),a
-43.8211998,-79.2708586,2,Historic Terrace (305),a
-43.8211998,-79.2708586,2,Historic Terrace (305),a
-43.8211998,-79.2708586,2,Historic Terrace (684),a
-43.8211998,-79.2708586,2,Historic Terrace (684),a
-43.8211998,-79.2708586,2,Ingleton Boulevard (143),a
-43.8211998,-79.2708586,2,Ingleton Boulevard (143),a
-43.8211998,-79.2708586,2,Ingleton Boulevard (351),a
-43.8211998,-79.2708586,2,Ingleton Boulevard (351),a
 43.8212028,-79.3059634,2,Kennedy Road (342),a
 43.8212028,-79.3059634,2,Kennedy Road (342),a
 43.8212028,-79.3059634,2,Kennedy Road (916),a
@@ -44051,41 +43499,21 @@ lat,lon,sz,names,len_cat
 43.8212097,-79.2261612,2,Plantain Way (709),a
 43.8212103,-79.2410781,2,Tapscott Road (560),a
 43.8212103,-79.2410781,2,Tapscott Road (612),a
-43.821219,-79.2642468,2,Valley Stream Drive (559),a
-43.821219,-79.2642468,2,Valley Stream Drive (868),a
 43.8212351,-79.2204497,2,Staines Road (495),a
 43.8212351,-79.2204497,2,Staines Road (536),a
 43.8212379,-79.2230432,2,Salamander Street (770),a
 43.8212379,-79.2230432,2,Salamander Street (770),a
 43.8212379,-79.2230432,2,Salamander Street (811),a
-43.8212437,-79.2672128,2,Ingleton Boulevard (323),a
-43.8212437,-79.2672128,2,Ingleton Boulevard (702),a
-43.8212503,-79.2642711,2,Valley Stream Drive (110),a
-43.8212503,-79.2642711,2,Valley Stream Drive (528),a
 43.821256,-79.2383567,2,Pullman Court (806),a
 43.821256,-79.2383567,2,Pullman Court (895),a
-43.8212619,-79.2645008,2,Valley Stream Drive (556),a
-43.8212619,-79.2645008,2,Valley Stream Drive (865),a
-43.821266,-79.2671439,2,Ingleton Boulevard (324),a
-43.821266,-79.2671439,2,Ingleton Boulevard (703),a
-43.8212714,-79.2643149,2,Valley Stream Drive (558),a
-43.8212714,-79.2643149,2,Valley Stream Drive (867),a
 43.8212779,-79.2202067,2,Chicory Lane (677),a
 43.8212779,-79.2202067,2,Chicory Lane (686),a
-43.8212796,-79.2644396,2,Valley Stream Drive (557),a
-43.8212796,-79.2644396,2,Valley Stream Drive (866),a
 43.8212809,-79.2734325,2,McCowan Road (036),a
 43.8212809,-79.2734325,2,McCowan Road (945),a
 43.821284,-79.2411105,2,Tapscott Road (561),a
 43.821284,-79.2411105,2,Tapscott Road (613),a
-43.8212842,-79.2643771,2,Valley Stream Drive (109),a
-43.8212842,-79.2643771,2,Valley Stream Drive (527),a
 43.8212868,-79.220565,2,Staines Road (270),a
 43.8212868,-79.220565,2,Staines Road (913),a
-43.8212872,-79.2695589,2,Presidents Court (083),a
-43.8212872,-79.2695589,2,Presidents Court (083),a
-43.8212872,-79.2695589,2,Presidents Court (249),a
-43.8212872,-79.2695589,2,Presidents Court (249),a
 43.8213032,-79.2230532,2,Salamander Street (771),a
 43.8213032,-79.2230532,2,Salamander Street (812),a
 43.8213032,-79.2230532,2,Salamander Street (812),a
@@ -44110,10 +43538,6 @@ lat,lon,sz,names,len_cat
 43.8213852,-79.2203899,2,Staines Road (537),a
 43.8213852,-79.2203899,2,Staines Road (632),a
 43.8213852,-79.2203899,2,Staines Road (663),a
-43.8213863,-79.2697271,2,Presidents Court (084),a
-43.8213863,-79.2697271,2,Presidents Court (084),a
-43.8213863,-79.2697271,2,Presidents Court (250),a
-43.8213863,-79.2697271,2,Presidents Court (250),a
 43.8214079,-79.2229944,2,Salamander Street (772),a
 43.8214079,-79.2229944,2,Salamander Street (813),a
 43.8214079,-79.2229944,2,Salamander Street (813),a
@@ -44130,22 +43554,10 @@ lat,lon,sz,names,len_cat
 43.8214283,-79.2467111,2,Markham Road (467),a
 43.8214283,-79.2467111,2,Markham Road (643),a
 43.8214283,-79.2467111,2,Markham Road (643),a
-43.8214336,-79.2666254,2,Ingleton Boulevard (325),a
-43.8214336,-79.2666254,2,Ingleton Boulevard (704),a
 43.8214362,-79.2204745,2,Mantis Road (631),a
 43.8214362,-79.2204745,2,Mantis Road (662),a
-43.8214389,-79.2660334,2,Shady Hollow Drive (407),a
-43.8214389,-79.2660334,2,Shady Hollow Drive (413),a
-43.8214389,-79.2660334,2,Shady Hollow Drive (989),a
-43.8214389,-79.2660334,2,Shady Hollow Drive (995),a
 43.821441,-79.2250117,2,Bobolink Avenue (643),a
 43.821441,-79.2250117,2,Bobolink Avenue (674),a
-43.8214521,-79.2665533,2,Ingleton Boulevard (326),a
-43.8214521,-79.2665533,2,Ingleton Boulevard (705),a
-43.8214585,-79.2660424,2,Shady Hollow Drive (414),a
-43.8214585,-79.2660424,2,Shady Hollow Drive (996),a
-43.821469,-79.2632268,2,Valley Stream Drive (580),a
-43.821469,-79.2632268,2,Valley Stream Drive (889),a
 43.8214787,-79.2205473,2,Mantis Road (229),a
 43.8214787,-79.2205473,2,Mantis Road (745),a
 43.8214938,-79.2171574,2,Gristone Crescent (591),a
@@ -44158,49 +43570,23 @@ lat,lon,sz,names,len_cat
 43.8214986,-79.238574,2,Pullman Court (916),a
 43.821504,-79.2202748,2,Staines Road (464),a
 43.821504,-79.2202748,2,Staines Road (588),a
-43.8215097,-79.2662083,2,Ingleton Boulevard (327),a
-43.8215097,-79.2662083,2,Ingleton Boulevard (706),a
-43.8215142,-79.2661827,2,Ingleton Boulevard (328),a
-43.8215142,-79.2661827,2,Ingleton Boulevard (707),a
 43.8215152,-79.2172536,2,Gristone Crescent (656),a
 43.8215152,-79.2172536,2,Gristone Crescent (842),a
-43.8215326,-79.2660764,2,Ingleton Boulevard (329),a
-43.8215326,-79.2660764,2,Ingleton Boulevard (708),a
-43.8215326,-79.2660764,2,Shady Hollow Drive (409),a
-43.8215326,-79.2660764,2,Shady Hollow Drive (412),a
-43.8215326,-79.2660764,2,Shady Hollow Drive (991),a
-43.8215326,-79.2660764,2,Shady Hollow Drive (994),a
 43.8215328,-79.2466334,2,Markham Road (235),a
 43.8215328,-79.2466334,2,Markham Road (235),a
 43.8215328,-79.2466334,2,Markham Road (372),a
 43.8215328,-79.2466334,2,Markham Road (372),a
-43.821549,-79.2659814,2,Ingleton Boulevard (330),a
-43.821549,-79.2659814,2,Ingleton Boulevard (709),a
-43.821554,-79.2659523,2,Ingleton Boulevard (327),a
-43.821554,-79.2659523,2,Ingleton Boulevard (909),a
 43.8215581,-79.2170175,2,Gristone Crescent (590),a
 43.8215581,-79.2170175,2,Gristone Crescent (976),a
 43.8215601,-79.2277884,2,Morningside Avenue (239),a
 43.8215601,-79.2277884,2,Morningside Avenue (814),a
 43.8215653,-79.2206851,2,Mantis Road (228),a
 43.8215653,-79.2206851,2,Mantis Road (744),a
-43.8215737,-79.2658498,2,Ingleton Boulevard (160),a
-43.8215737,-79.2658498,2,Ingleton Boulevard (368),a
 43.8215861,-79.2228424,2,Salamander Street (773),a
 43.8215861,-79.2228424,2,Salamander Street (773),a
 43.8215861,-79.2228424,2,Salamander Street (814),a
 43.8215861,-79.2228424,2,Salamander Street (814),a
 43.8215961,-79.2258391,2,Plantain Way (411),a
-43.8216057,-79.2661099,2,Shady Hollow Drive (411),a
-43.8216057,-79.2661099,2,Shady Hollow Drive (993),a
-43.8216151,-79.2656985,2,Ingleton Boulevard (161),a
-43.8216151,-79.2656985,2,Ingleton Boulevard (369),a
-43.8216246,-79.2661186,2,Shady Hollow Drive (410),a
-43.8216246,-79.2661186,2,Shady Hollow Drive (992),a
-43.8216395,-79.2632872,2,Valley Stream Drive (116),a
-43.8216395,-79.2632872,2,Valley Stream Drive (534),a
-43.8216405,-79.2656289,2,Ingleton Boulevard (162),a
-43.8216405,-79.2656289,2,Ingleton Boulevard (370),a
 43.8216475,-79.2277163,2,Morningside Avenue (289),a
 43.8216475,-79.2277163,2,Morningside Avenue (900),a
 43.8216565,-79.2257919,2,Plantain Way (412),a
@@ -44210,20 +43596,12 @@ lat,lon,sz,names,len_cat
 43.8216755,-79.2844852,2,Brimley Road (528),a
 43.8216755,-79.2844852,2,Brimley Road (767),a
 43.8216755,-79.2844852,2,Brimley Road (770),a
-43.8216857,-79.2655381,2,Ingleton Boulevard (163),a
-43.8216857,-79.2655381,2,Ingleton Boulevard (371),a
 43.8216971,-79.2226502,2,Salamander Street (774),a
 43.8216971,-79.2226502,2,Salamander Street (774),a
 43.8216971,-79.2226502,2,Salamander Street (815),a
 43.8216971,-79.2226502,2,Salamander Street (815),a
-43.8217286,-79.2654597,2,Ingleton Boulevard (164),a
-43.8217286,-79.2654597,2,Ingleton Boulevard (372),a
 43.8217404,-79.2280929,2,Morningside Avenue (238),a
 43.8217404,-79.2280929,2,Morningside Avenue (813),a
-43.8217673,-79.2711087,2,Ingleton Boulevard (002),a
-43.8217673,-79.2711087,2,Ingleton Boulevard (818),a
-43.8217951,-79.2653644,2,Ingleton Boulevard (165),a
-43.8217951,-79.2653644,2,Ingleton Boulevard (373),a
 43.8218212,-79.2280025,2,Morningside Avenue (290),a
 43.8218212,-79.2280025,2,Morningside Avenue (901),a
 43.8218464,-79.2177883,2,Gristone Crescent (592),a
@@ -44234,8 +43612,6 @@ lat,lon,sz,names,len_cat
 43.8218501,-79.2222911,2,Salamander Street (775),a
 43.8218501,-79.2222911,2,Salamander Street (816),a
 43.8218501,-79.2222911,2,Salamander Street (816),a
-43.8218633,-79.2652903,2,Ingleton Boulevard (166),a
-43.8218633,-79.2652903,2,Ingleton Boulevard (374),a
 43.8218667,-79.2222564,2,Salamander Street (654),a
 43.8218667,-79.2222564,2,Salamander Street (654),a
 43.8218667,-79.2222564,2,Salamander Street (687),a
@@ -44255,8 +43631,6 @@ lat,lon,sz,names,len_cat
 43.8219251,-79.2305946,2,Neilson Road (686),a
 43.8219283,-79.2263698,2,Wharnsby Drive (428),a
 43.8219283,-79.2263698,2,Wharnsby Drive (728),a
-43.8219316,-79.265228,2,Ingleton Boulevard (167),a
-43.8219316,-79.265228,2,Ingleton Boulevard (375),a
 43.8219402,-79.2198522,2,Hoptree Avenue (821),a
 43.8219402,-79.2198522,2,Hoptree Avenue (916),a
 43.8219402,-79.2198522,2,Staines Road (423),a
@@ -44265,71 +43639,33 @@ lat,lon,sz,names,len_cat
 43.8219807,-79.2199535,2,Hoptree Avenue (645),a
 43.8219816,-79.2179593,2,Gristone Crescent (593),a
 43.8219816,-79.2179593,2,Gristone Crescent (979),a
-43.8219896,-79.2662777,2,Shady Hollow Drive (610),a
-43.8219896,-79.2662777,2,Shady Hollow Drive (667),a
 43.8219984,-79.2199945,2,Hoptree Avenue (613),a
 43.8219984,-79.2199945,2,Hoptree Avenue (644),a
-43.8220119,-79.2651798,2,Ingleton Boulevard (326),a
-43.8220119,-79.2651798,2,Ingleton Boulevard (908),a
 43.8220159,-79.2165006,2,Gristone Crescent (653),a
 43.8220159,-79.2165006,2,Gristone Crescent (839),a
 43.8220205,-79.2234542,2,Nanaberry Street (636),a
 43.8220205,-79.2234542,2,Nanaberry Street (667),a
 43.8220249,-79.2305489,2,Neilson Road (690),a
 43.8220249,-79.2305489,2,Neilson Road (811),a
-43.8220309,-79.2646531,2,Valley Stream Drive (591),a
-43.8220309,-79.2646531,2,Valley Stream Drive (900),a
 43.8220383,-79.2306944,2,Neilson Road (256),a
 43.8220383,-79.2306944,2,Neilson Road (685),a
-43.8220447,-79.2662829,2,Shady Hollow Drive (611),a
-43.8220447,-79.2662829,2,Shady Hollow Drive (668),a
-43.8220747,-79.2650114,2,Valley Stream Drive (623),a
-43.8220747,-79.2650114,2,Valley Stream Drive (636),a
-43.8220777,-79.2650342,2,Valley Stream Drive (243),a
-43.8220777,-79.2650342,2,Valley Stream Drive (548),a
 43.822078,-79.2201468,2,Hoptree Avenue (612),a
 43.822078,-79.2201468,2,Hoptree Avenue (643),a
 43.8220793,-79.2266438,2,Wharnsby Drive (429),a
 43.8220793,-79.2266438,2,Wharnsby Drive (729),a
-43.8220843,-79.2662807,2,Shady Hollow Drive (612),a
-43.8220843,-79.2662807,2,Shady Hollow Drive (669),a
-43.8220923,-79.2651363,2,Ingleton Boulevard (168),a
-43.8220923,-79.2651363,2,Ingleton Boulevard (169),a
-43.8220923,-79.2651363,2,Ingleton Boulevard (376),a
-43.8220923,-79.2651363,2,Ingleton Boulevard (377),a
-43.8220923,-79.2651363,2,Valley Stream Drive (593),a
-43.8220923,-79.2651363,2,Valley Stream Drive (902),a
 43.8221015,-79.2233244,2,Nanaberry Street (637),a
-43.822123,-79.2662717,2,Shady Hollow Drive (613),a
-43.822123,-79.2662717,2,Shady Hollow Drive (670),a
-43.8221647,-79.265114,2,Ingleton Boulevard (170),a
-43.8221647,-79.265114,2,Ingleton Boulevard (378),a
-43.8221701,-79.2635058,2,Valley Stream Drive (585),a
-43.8221701,-79.2635058,2,Valley Stream Drive (894),a
-43.8222121,-79.2635411,2,Valley Stream Drive (586),a
-43.8222121,-79.2635411,2,Valley Stream Drive (895),a
 43.8222153,-79.2288725,2,Morningside Avenue (237),a
 43.8222153,-79.2288725,2,Morningside Avenue (453),a
 43.8222153,-79.2288725,2,Morningside Avenue (754),a
 43.8222153,-79.2288725,2,Morningside Avenue (812),a
 43.8222264,-79.2203136,2,Hoptree Avenue (819),a
 43.8222264,-79.2203136,2,Hoptree Avenue (914),a
-43.8222396,-79.266239,2,Shady Hollow Drive (614),a
-43.8222396,-79.266239,2,Shady Hollow Drive (671),a
 43.822242,-79.2243118,2,Bobolink Avenue (644),a
 43.822242,-79.2243118,2,Bobolink Avenue (675),a
-43.8222492,-79.2636146,2,Valley Stream Drive (587),a
-43.8222492,-79.2636146,2,Valley Stream Drive (896),a
-43.8222504,-79.2636892,2,Valley Stream Drive (588),a
-43.8222504,-79.2636892,2,Valley Stream Drive (897),a
-43.8222516,-79.2651106,2,Ingleton Boulevard (171),a
-43.8222516,-79.2651106,2,Ingleton Boulevard (379),a
 43.8222855,-79.241544,2,Tapscott Road (509),a
 43.8222855,-79.241544,2,Tapscott Road (952),a
 43.8222922,-79.2287806,2,Morningside Avenue (291),a
 43.8222922,-79.2287806,2,Morningside Avenue (902),a
-43.822299,-79.2662289,2,Shady Hollow Drive (615),a
-43.822299,-79.2662289,2,Shady Hollow Drive (672),a
 43.8223028,-79.2270271,2,Kayak Crescent (444),a
 43.8223028,-79.2270271,2,Kayak Crescent (744),a
 43.8223028,-79.2270271,2,Wharnsby Drive (430),a
@@ -44346,10 +43682,6 @@ lat,lon,sz,names,len_cat
 43.8223406,-79.2227901,2,Nanaberry Street (639),a
 43.8223406,-79.2227901,2,Nanaberry Street (639),a
 43.8223406,-79.2227901,2,Nanaberry Street (670),a
-43.8223439,-79.2651041,2,Ingleton Boulevard (172),a
-43.8223439,-79.2651041,2,Ingleton Boulevard (380),a
-43.8223545,-79.2662302,2,Shady Hollow Drive (616),a
-43.8223545,-79.2662302,2,Shady Hollow Drive (673),a
 43.8223579,-79.2269616,2,Kayak Crescent (443),a
 43.8223579,-79.2269616,2,Kayak Crescent (743),a
 43.8223759,-79.2269402,2,Kayak Crescent (690),a
@@ -44366,8 +43698,6 @@ lat,lon,sz,names,len_cat
 43.8223917,-79.2183321,2,Gristone Crescent (981),a
 43.8224429,-79.2416122,2,Tapscott Road (510),a
 43.8224429,-79.2416122,2,Tapscott Road (953),a
-43.8224613,-79.2651256,2,Ingleton Boulevard (173),a
-43.8224613,-79.2651256,2,Ingleton Boulevard (381),a
 43.8224752,-79.2183079,2,Gristone Crescent (596),a
 43.8224752,-79.2183079,2,Gristone Crescent (982),a
 43.8224886,-79.2172542,2,Knowles Drive (572),a
@@ -44394,61 +43724,23 @@ lat,lon,sz,names,len_cat
 43.8226584,-79.2290079,2,Flycatcher Avenue (454),a
 43.8226584,-79.2290079,2,Flycatcher Avenue (717),a
 43.8226584,-79.2290079,2,Flycatcher Avenue (755),a
-43.8226878,-79.2701102,2,Whiteleaf Crescent (095),a
-43.8226878,-79.2701102,2,Whiteleaf Crescent (095),a
-43.8226878,-79.2701102,2,Whiteleaf Crescent (443),a
-43.8226878,-79.2701102,2,Whiteleaf Crescent (443),a
 43.8226904,-79.2219422,2,Mantis Road (227),a
 43.8226904,-79.2219422,2,Mantis Road (227),a
 43.8226904,-79.2219422,2,Mantis Road (743),a
 43.8226904,-79.2219422,2,Mantis Road (743),a
-43.8226964,-79.2700663,2,Whiteleaf Crescent (096),a
-43.8226964,-79.2700663,2,Whiteleaf Crescent (096),a
-43.8226964,-79.2700663,2,Whiteleaf Crescent (444),a
-43.8226964,-79.2700663,2,Whiteleaf Crescent (444),a
 43.8227076,-79.2266515,2,Kayak Crescent (442),a
 43.8227076,-79.2266515,2,Kayak Crescent (742),a
-43.8227089,-79.2700368,2,Whiteleaf Crescent (097),a
-43.8227089,-79.2700368,2,Whiteleaf Crescent (097),a
-43.8227089,-79.2700368,2,Whiteleaf Crescent (445),a
-43.8227089,-79.2700368,2,Whiteleaf Crescent (445),a
-43.8227226,-79.265241,2,Ingleton Boulevard (148),a
-43.8227226,-79.265241,2,Ingleton Boulevard (174),a
-43.8227226,-79.265241,2,Ingleton Boulevard (356),a
-43.8227226,-79.265241,2,Ingleton Boulevard (382),a
-43.8227226,-79.265241,2,Pebblewood Avenue (318),a
-43.8227226,-79.265241,2,Pebblewood Avenue (403),a
-43.822726,-79.270012,2,Whiteleaf Crescent (098),a
-43.822726,-79.270012,2,Whiteleaf Crescent (098),a
-43.822726,-79.270012,2,Whiteleaf Crescent (446),a
-43.822726,-79.270012,2,Whiteleaf Crescent (446),a
 43.8227374,-79.229504,2,Morningside Avenue (292),a
 43.8227374,-79.229504,2,Morningside Avenue (903),a
 43.822744,-79.2289486,2,Flycatcher Avenue (456),a
 43.822744,-79.2289486,2,Flycatcher Avenue (757),a
-43.8227469,-79.265135,2,Pebblewood Avenue (004),a
-43.8227469,-79.265135,2,Pebblewood Avenue (422),a
-43.8227536,-79.2699881,2,Whiteleaf Crescent (099),a
-43.8227536,-79.2699881,2,Whiteleaf Crescent (099),a
-43.8227536,-79.2699881,2,Whiteleaf Crescent (447),a
-43.8227536,-79.2699881,2,Whiteleaf Crescent (447),a
-43.8227542,-79.2651033,2,Pebblewood Avenue (003),a
-43.8227542,-79.2651033,2,Pebblewood Avenue (421),a
 43.8227702,-79.2176933,2,Knowles Drive (575),a
 43.8227702,-79.2176933,2,Knowles Drive (961),a
 43.8227745,-79.2304527,2,Neilson Road (536),a
-43.8227779,-79.2699786,2,Whiteleaf Crescent (100),a
-43.8227779,-79.2699786,2,Whiteleaf Crescent (100),a
-43.8227779,-79.2699786,2,Whiteleaf Crescent (448),a
-43.8227779,-79.2699786,2,Whiteleaf Crescent (448),a
 43.8227894,-79.2302681,2,Neilson Road (192),a
 43.8227894,-79.2302681,2,Neilson Road (621),a
 43.8228052,-79.2179835,2,Gristone Crescent (597),a
 43.8228052,-79.2179835,2,Gristone Crescent (983),a
-43.8228109,-79.2699776,2,Whiteleaf Crescent (101),a
-43.8228109,-79.2699776,2,Whiteleaf Crescent (101),a
-43.8228109,-79.2699776,2,Whiteleaf Crescent (449),a
-43.8228109,-79.2699776,2,Whiteleaf Crescent (449),a
 43.8228165,-79.2472094,2,Markham Road (229),a
 43.8228165,-79.2472094,2,Markham Road (478),a
 43.8228181,-79.2231002,2,Jacques Road (573),a
@@ -44474,8 +43766,6 @@ lat,lon,sz,names,len_cat
 43.8228828,-79.2179108,2,Knowles Drive (963),a
 43.8228828,-79.2179108,2,Loggerhead Grove (601),a
 43.8228828,-79.2179108,2,Loggerhead Grove (987),a
-43.8228945,-79.2664613,2,Shady Hollow Drive (617),a
-43.8228945,-79.2664613,2,Shady Hollow Drive (674),a
 43.8228946,-79.2231675,2,Bobolink Avenue (646),a
 43.8228946,-79.2231675,2,Bobolink Avenue (677),a
 43.8228946,-79.2231675,2,Jacques Road (651),a
@@ -44536,8 +43826,6 @@ lat,lon,sz,names,len_cat
 43.8231533,-79.2225969,2,Bobolink Avenue (567),a
 43.8231533,-79.2225969,2,Bobolink Avenue (567),a
 43.8231533,-79.2225969,2,Bobolink Avenue (761),a
-43.8231585,-79.2633366,2,Pebblewood Avenue (319),a
-43.8231585,-79.2633366,2,Pebblewood Avenue (406),a
 43.823175,-79.228497,2,Flycatcher Avenue (459),a
 43.823175,-79.228497,2,Flycatcher Avenue (760),a
 43.823175,-79.228497,2,Kayak Crescent (734),a
@@ -44577,45 +43865,11 @@ lat,lon,sz,names,len_cat
 43.8232901,-79.224576,2,Dragonfly Crescent (649),a
 43.8232958,-79.2474244,2,Markham Road (230),a
 43.8232958,-79.2474244,2,Markham Road (479),a
-43.8233062,-79.2701838,2,Whiteleaf Crescent (102),a
-43.8233062,-79.2701838,2,Whiteleaf Crescent (102),a
-43.8233062,-79.2701838,2,Whiteleaf Crescent (450),a
-43.8233062,-79.2701838,2,Whiteleaf Crescent (450),a
-43.8233135,-79.2722271,2,Alton Towers Circle (325),a
-43.8233135,-79.2722271,2,Alton Towers Circle (344),a
 43.8233337,-79.2245144,2,Dragonfly Crescent (325),a
 43.8233385,-79.2269885,2,Kayak Crescent (686),a
 43.8233385,-79.2269885,2,Kayak Crescent (791),a
-43.8233458,-79.270999,2,Whiteleaf Crescent (108),a
-43.8233458,-79.270999,2,Whiteleaf Crescent (456),a
-43.8233467,-79.2709531,2,Whiteleaf Crescent (107),a
-43.8233467,-79.2709531,2,Whiteleaf Crescent (455),a
-43.8233469,-79.2702123,2,Whiteleaf Crescent (103),a
-43.8233469,-79.2702123,2,Whiteleaf Crescent (103),a
-43.8233469,-79.2702123,2,Whiteleaf Crescent (451),a
-43.8233469,-79.2702123,2,Whiteleaf Crescent (451),a
-43.8233504,-79.2710446,2,Whiteleaf Crescent (109),a
-43.8233504,-79.2710446,2,Whiteleaf Crescent (457),a
-43.8233602,-79.2710885,2,Whiteleaf Crescent (110),a
-43.8233602,-79.2710885,2,Whiteleaf Crescent (458),a
-43.8233787,-79.2702574,2,Whiteleaf Crescent (104),a
-43.8233787,-79.2702574,2,Whiteleaf Crescent (104),a
-43.8233787,-79.2702574,2,Whiteleaf Crescent (452),a
-43.8233787,-79.2702574,2,Whiteleaf Crescent (452),a
-43.8233805,-79.2711421,2,Whiteleaf Crescent (111),a
-43.8233805,-79.2711421,2,Whiteleaf Crescent (459),a
-43.8233888,-79.2721837,2,Alton Towers Circle (326),a
-43.8233888,-79.2721837,2,Alton Towers Circle (345),a
-43.823398,-79.2703145,2,Whiteleaf Crescent (105),a
-43.823398,-79.2703145,2,Whiteleaf Crescent (105),a
-43.823398,-79.2703145,2,Whiteleaf Crescent (453),a
-43.823398,-79.2703145,2,Whiteleaf Crescent (453),a
 43.8234011,-79.2308732,2,Morningside Avenue (301),a
 43.8234011,-79.2308732,2,Morningside Avenue (912),a
-43.8234027,-79.2703772,2,Whiteleaf Crescent (106),a
-43.8234027,-79.2703772,2,Whiteleaf Crescent (106),a
-43.8234027,-79.2703772,2,Whiteleaf Crescent (454),a
-43.8234027,-79.2703772,2,Whiteleaf Crescent (454),a
 43.8234135,-79.2289101,2,Wharnsby Drive (499),a
 43.8234135,-79.2289101,2,Wharnsby Drive (724),a
 43.8234149,-79.2162731,2,Knowles Drive (570),a
@@ -44624,62 +43878,26 @@ lat,lon,sz,names,len_cat
 43.8234506,-79.2216501,2,Hoptree Avenue (818),a
 43.8234506,-79.2216501,2,Hoptree Avenue (913),a
 43.8234506,-79.2216501,2,Hoptree Avenue (913),a
-43.8234639,-79.2721494,2,Alton Towers Circle (231),a
-43.8234639,-79.2721494,2,Alton Towers Circle (817),a
-43.8234803,-79.2655771,2,Green Spring Drive (527),a
-43.8234803,-79.2655771,2,Green Spring Drive (679),a
-43.8234803,-79.2655771,2,Ingleton Boulevard (146),a
-43.8234803,-79.2655771,2,Ingleton Boulevard (149),a
-43.8234803,-79.2655771,2,Ingleton Boulevard (354),a
-43.8234803,-79.2655771,2,Ingleton Boulevard (357),a
 43.8234941,-79.221782,2,Hoptree Avenue (817),a
 43.8234941,-79.221782,2,Hoptree Avenue (817),a
 43.8234941,-79.221782,2,Hoptree Avenue (912),a
 43.8234941,-79.221782,2,Hoptree Avenue (912),a
 43.8234972,-79.230753,2,Morningside Avenue (222),a
 43.8234972,-79.230753,2,Morningside Avenue (797),a
-43.823504,-79.2654646,2,Green Spring Drive (086),a
-43.823504,-79.2654646,2,Green Spring Drive (504),a
-43.8235119,-79.2654275,2,Green Spring Drive (085),a
-43.8235119,-79.2654275,2,Green Spring Drive (503),a
-43.8235404,-79.2721201,2,Alton Towers Circle (327),a
-43.8235404,-79.2721201,2,Alton Towers Circle (346),a
 43.8235795,-79.2226763,2,Mantis Road (629),a
 43.8235795,-79.2226763,2,Mantis Road (660),a
-43.823582,-79.2715024,2,Whiteleaf Crescent (112),a
-43.823582,-79.2715024,2,Whiteleaf Crescent (460),a
 43.8235828,-79.2294262,2,Nightstar Road (087),a
 43.8235828,-79.2294262,2,Nightstar Road (711),a
 43.8235898,-79.2311072,2,Morningside Avenue (216),a
 43.8235898,-79.2311072,2,Morningside Avenue (791),a
 43.8235898,-79.2311072,2,Morningside Avenue (911),a
-43.8236044,-79.2720979,2,Alton Towers Circle (232),a
-43.8236044,-79.2720979,2,Alton Towers Circle (818),a
-43.8236048,-79.2715505,2,Whiteleaf Crescent (113),a
-43.8236048,-79.2715505,2,Whiteleaf Crescent (461),a
 43.8236096,-79.2292339,2,Wharnsby Drive (500),a
 43.8236219,-79.2292552,2,Wharnsby Drive (976),a
-43.8236229,-79.2715977,2,Whiteleaf Crescent (114),a
-43.8236229,-79.2715977,2,Whiteleaf Crescent (462),a
 43.8236306,-79.2295103,2,Nightstar Road (090),a
 43.8236306,-79.2295103,2,Nightstar Road (091),a
 43.8236306,-79.2295103,2,Nightstar Road (714),a
 43.8236326,-79.217174,2,Loggerhead Grove (603),a
 43.8236326,-79.217174,2,Loggerhead Grove (989),a
-43.8236367,-79.2716484,2,Whiteleaf Crescent (115),a
-43.8236367,-79.2716484,2,Whiteleaf Crescent (463),a
-43.8236471,-79.2717166,2,Whiteleaf Crescent (116),a
-43.8236471,-79.2717166,2,Whiteleaf Crescent (464),a
-43.8236646,-79.2719262,2,Whiteleaf Crescent (117),a
-43.8236646,-79.2719262,2,Whiteleaf Crescent (465),a
-43.8236657,-79.2719512,2,Whiteleaf Crescent (389),a
-43.8236657,-79.2719512,2,Whiteleaf Crescent (971),a
-43.8236715,-79.2720844,2,Alton Towers Circle (306),a
-43.8236715,-79.2720844,2,Alton Towers Circle (325),a
-43.8236715,-79.2720844,2,Alton Towers Circle (328),a
-43.8236715,-79.2720844,2,Alton Towers Circle (347),a
-43.8236715,-79.2720844,2,Whiteleaf Crescent (118),a
-43.8236715,-79.2720844,2,Whiteleaf Crescent (466),a
 43.8236855,-79.2280131,2,Kayak Crescent (737),a
 43.8236958,-79.2293834,2,Nightstar Road (089),a
 43.8236958,-79.2293834,2,Nightstar Road (512),a
@@ -44687,29 +43905,17 @@ lat,lon,sz,names,len_cat
 43.8236958,-79.2293834,2,Wharnsby Drive (501),a
 43.8236958,-79.2293834,2,Wharnsby Drive (726),a
 43.8237112,-79.2227288,2,Mantis Road (224),a
-43.8237179,-79.2643992,2,Green Spring Drive (088),a
-43.8237179,-79.2643992,2,Green Spring Drive (506),a
-43.8237203,-79.2644854,2,Green Spring Drive (528),a
-43.8237203,-79.2644854,2,Green Spring Drive (680),a
 43.8237216,-79.2227317,2,Mantis Road (628),a
 43.8237216,-79.2227317,2,Mantis Road (659),a
 43.8237248,-79.2228889,2,Dragonfly Crescent (622),a
 43.8237281,-79.2310353,2,Morningside Avenue (223),a
 43.8237281,-79.2310353,2,Morningside Avenue (798),a
-43.8237283,-79.2668243,2,Shady Hollow Drive (618),a
-43.8237283,-79.2668243,2,Shady Hollow Drive (675),a
 43.8237355,-79.2228644,2,Dragonfly Crescent (623),a
 43.8237355,-79.2228644,2,Dragonfly Crescent (654),a
-43.8237365,-79.2643176,2,Green Spring Drive (529),a
-43.8237365,-79.2643176,2,Green Spring Drive (681),a
-43.8237409,-79.2720769,2,Alton Towers Circle (307),a
-43.8237409,-79.2720769,2,Alton Towers Circle (326),a
 43.8237441,-79.2294679,2,Wharnsby Drive (975),a
 43.8237529,-79.2307806,2,Polarlights Way (447),a
 43.8237529,-79.2307806,2,Polarlights Way (689),a
 43.8237529,-79.2307806,2,Polarlights Way (747),a
-43.8237629,-79.2642795,2,Green Spring Drive (530),a
-43.8237629,-79.2642795,2,Green Spring Drive (682),a
 43.8237658,-79.229501,2,Wharnsby Drive (502),a
 43.823777,-79.23131,2,Morningside Avenue (214),a
 43.8237857,-79.2227495,2,Dragonfly Crescent (332),a
@@ -44718,64 +43924,32 @@ lat,lon,sz,names,len_cat
 43.8237857,-79.2227495,2,Poppy Place (673),a
 43.8238001,-79.2277706,2,Kayak Crescent (438),a
 43.8238001,-79.2277706,2,Kayak Crescent (738),a
-43.8238074,-79.2642409,2,Green Spring Drive (531),a
-43.8238074,-79.2642409,2,Green Spring Drive (683),a
 43.8238076,-79.2272395,2,Kayak Crescent (741),a
 43.8238115,-79.2308459,2,Polarlights Way (662),a
 43.8238211,-79.2226722,2,Poppy Place (615),a
 43.8238211,-79.2226722,2,Poppy Place (646),a
 43.8238354,-79.2478891,2,Markham Road (464),a
 43.8238354,-79.2478891,2,Markham Road (640),a
-43.8238389,-79.2720759,2,Alton Towers Circle (226),a
-43.8238389,-79.2720759,2,Alton Towers Circle (812),a
 43.8238419,-79.2274229,2,Kayak Crescent (739),a
 43.8238483,-79.2273287,2,Kayak Crescent (740),a
-43.8238524,-79.2642396,2,Green Spring Drive (532),a
-43.8238524,-79.2642396,2,Green Spring Drive (684),a
 43.8238795,-79.2476821,2,Markham Road (236),a
 43.8238795,-79.2476821,2,Markham Road (373),a
-43.8239133,-79.2668997,2,Shady Hollow Drive (619),a
-43.8239133,-79.2668997,2,Shady Hollow Drive (676),a
-43.8239305,-79.2669063,2,Shady Hollow Drive (620),a
-43.8239305,-79.2669063,2,Shady Hollow Drive (677),a
-43.8239344,-79.2642745,2,Green Spring Drive (533),a
-43.8239344,-79.2642745,2,Green Spring Drive (685),a
-43.8239353,-79.2720843,2,Alton Towers Circle (308),a
-43.8239353,-79.2720843,2,Alton Towers Circle (327),a
 43.8239709,-79.2247644,2,Skipperhill Crescent (789),a
 43.8239709,-79.2247644,2,Skipperhill Crescent (810),a
 43.8239797,-79.229832,2,Wharnsby Drive (503),a
 43.823982,-79.224857,2,Skipperhill Crescent (788),a
 43.823982,-79.224857,2,Skipperhill Crescent (809),a
-43.8239839,-79.2673488,2,Muirlands Drive (606),a
-43.8239839,-79.2673488,2,Muirlands Drive (818),a
-43.823986,-79.2671085,2,Muirlands Drive (605),a
-43.823986,-79.2671085,2,Muirlands Drive (817),a
 43.8239882,-79.2144712,2,Gristone Crescent (588),a
 43.8239882,-79.2144712,2,Gristone Crescent (974),a
 43.8239882,-79.2144712,2,Point Rouge Trail (014),a
 43.8239882,-79.2144712,2,Point Rouge Trail (689),a
-43.8239909,-79.2674391,2,Muirlands Drive (066),a
-43.8239909,-79.2674391,2,Muirlands Drive (484),a
-43.8239935,-79.2669306,2,Muirlands Drive (601),a
-43.8239935,-79.2669306,2,Muirlands Drive (604),a
-43.8239935,-79.2669306,2,Muirlands Drive (813),a
-43.8239935,-79.2669306,2,Muirlands Drive (816),a
-43.8239935,-79.2669306,2,Shady Hollow Drive (621),a
-43.8239935,-79.2669306,2,Shady Hollow Drive (678),a
-43.8239994,-79.2675317,2,Muirlands Drive (068),a
-43.8239994,-79.2675317,2,Muirlands Drive (486),a
 43.8240053,-79.2290217,2,Nightstar Road (821),a
 43.8240063,-79.2249002,2,Skipperhill Crescent (787),a
 43.8240063,-79.2249002,2,Skipperhill Crescent (808),a
-43.8240088,-79.2668342,2,Muirlands Drive (602),a
-43.8240088,-79.2668342,2,Muirlands Drive (814),a
 43.8240092,-79.2476011,2,McNicoll Avenue (128),a
 43.8240092,-79.2476011,2,McNicoll Avenue (665),a
 43.8240161,-79.2229445,2,Dragonfly Crescent (617),a
 43.8240161,-79.2229445,2,Dragonfly Crescent (648),a
-43.8240176,-79.2676453,2,Muirlands Drive (067),a
-43.8240176,-79.2676453,2,Muirlands Drive (485),a
 43.8240316,-79.2145511,2,Point Rouge Trail (013),a
 43.8240316,-79.2145511,2,Point Rouge Trail (688),a
 43.82404,-79.2245561,2,Skipperhill Crescent (790),a
@@ -44784,8 +43958,6 @@ lat,lon,sz,names,len_cat
 43.8240406,-79.2178995,2,Siskin Terrace (995),a
 43.8240422,-79.2145705,2,Point Rouge Trail (592),a
 43.8240422,-79.2145705,2,Point Rouge Trail (877),a
-43.8240471,-79.2677888,2,Muirlands Drive (607),a
-43.8240471,-79.2677888,2,Muirlands Drive (819),a
 43.8240539,-79.231116,2,Polarlights Way (702),a
 43.8240539,-79.231116,2,Polarlights Way (990),a
 43.8240621,-79.2228388,2,Dragonfly Crescent (324),a
@@ -44798,97 +43970,45 @@ lat,lon,sz,names,len_cat
 43.8240698,-79.231586,2,Morningside Avenue (789),a
 43.8240723,-79.2473106,2,McNicoll Avenue (129),a
 43.8240723,-79.2473106,2,McNicoll Avenue (986),a
-43.8240768,-79.2679035,2,Muirlands Drive (069),a
-43.8240768,-79.2679035,2,Muirlands Drive (487),a
-43.8240849,-79.2721243,2,Alton Towers Circle (309),a
-43.8240849,-79.2721243,2,Alton Towers Circle (328),a
-43.8240853,-79.2706909,2,Fieldwood Drive (098),a
-43.8240853,-79.2706909,2,Fieldwood Drive (998),a
-43.8240896,-79.2707132,2,Fieldwood Drive (097),a
-43.8240896,-79.2707132,2,Fieldwood Drive (997),a
 43.8240899,-79.2423251,2,Tapscott Road (562),a
 43.8240899,-79.2423251,2,Tapscott Road (614),a
-43.8240907,-79.2706446,2,Fieldwood Drive (099),a
-43.8240907,-79.2706446,2,Fieldwood Drive (999),a
 43.8240944,-79.229989,2,Wharnsby Drive (504),a
 43.8240955,-79.2178424,2,Siskin Terrace (608),a
 43.8240955,-79.2178424,2,Siskin Terrace (994),a
 43.8240955,-79.2178424,2,Weaver Drive (669),a
 43.8240955,-79.2178424,2,Weaver Drive (998),a
-43.8240989,-79.2706076,2,Fieldwood Drive (001),a
-43.8240989,-79.2706076,2,Fieldwood Drive (101),a
 43.8240994,-79.2227531,2,Poppy Place (616),a
 43.8240994,-79.2227531,2,Poppy Place (647),a
-43.8241028,-79.270745,2,Fieldwood Drive (096),a
-43.8241028,-79.270745,2,Fieldwood Drive (996),a
 43.8241094,-79.2227301,2,Poppy Place (330),a
 43.8241094,-79.2227301,2,Poppy Place (679),a
 43.8241156,-79.2314039,2,Morningside Avenue (224),a
 43.8241156,-79.2314039,2,Morningside Avenue (799),a
-43.8241203,-79.2680358,2,Muirlands Drive (608),a
-43.8241203,-79.2680358,2,Muirlands Drive (820),a
-43.8241268,-79.2707805,2,Fieldwood Drive (095),a
-43.8241268,-79.2707805,2,Fieldwood Drive (995),a
 43.8241272,-79.2472404,2,McNicoll Avenue (130),a
 43.8241272,-79.2472404,2,McNicoll Avenue (805),a
 43.8241272,-79.2472404,2,McNicoll Avenue (815),a
 43.8241272,-79.2472404,2,McNicoll Avenue (979),a
 43.8241272,-79.2472404,2,McNicoll Avenue (987),a
 43.8241272,-79.2472404,2,McNicoll Avenue (989),a
-43.8241294,-79.2658574,2,Ingleton Boulevard (323),a
-43.8241294,-79.2658574,2,Ingleton Boulevard (905),a
 43.8241372,-79.2228622,2,Mantis Road (627),a
 43.8241372,-79.2228622,2,Mantis Road (658),a
 43.8241406,-79.2179349,2,Weaver Drive (670),a
 43.8241406,-79.2179349,2,Weaver Drive (999),a
-43.8241512,-79.2708098,2,Fieldwood Drive (094),a
-43.8241512,-79.2708098,2,Fieldwood Drive (994),a
-43.824154,-79.2658678,2,Ingleton Boulevard (324),a
-43.824154,-79.2658678,2,Ingleton Boulevard (906),a
-43.8241638,-79.2681479,2,Muirlands Drive (609),a
-43.8241638,-79.2681479,2,Muirlands Drive (821),a
 43.8241643,-79.2288389,2,Nightstar Road (917),a
 43.8241681,-79.2302774,2,Polarlights Way (448),a
 43.8241714,-79.2473454,2,McNicoll Avenue (806),a
 43.8241714,-79.2473454,2,McNicoll Avenue (980),a
 43.8241945,-79.2302438,2,Polarlights Way (449),a
-43.8241959,-79.2660207,2,Muirlands Drive (064),a
-43.8241959,-79.2660207,2,Muirlands Drive (482),a
 43.8241999,-79.2218446,2,Poppy Place (319),a
 43.8241999,-79.2218446,2,Poppy Place (319),a
 43.8241999,-79.2218446,2,Poppy Place (674),a
 43.8241999,-79.2218446,2,Poppy Place (674),a
-43.8242,-79.2660031,2,Muirlands Drive (065),a
-43.8242,-79.2660031,2,Muirlands Drive (483),a
-43.8242003,-79.2682306,2,Muirlands Drive (070),a
-43.8242003,-79.2682306,2,Muirlands Drive (488),a
 43.8242151,-79.2468726,2,McNicoll Avenue (475),a
 43.8242151,-79.2468726,2,McNicoll Avenue (654),a
 43.8242151,-79.2468726,2,McNicoll Avenue (816),a
 43.8242151,-79.2468726,2,McNicoll Avenue (990),a
 43.8242162,-79.2228869,2,Mantis Road (221),a
-43.8242164,-79.2708471,2,Fieldwood Drive (382),a
-43.8242164,-79.2708471,2,Fieldwood Drive (964),a
-43.8242243,-79.2658975,2,Green Spring Drive (541),a
-43.8242243,-79.2658975,2,Green Spring Drive (693),a
-43.8242243,-79.2658975,2,Ingleton Boulevard (147),a
-43.8242243,-79.2658975,2,Ingleton Boulevard (199),a
-43.8242243,-79.2658975,2,Ingleton Boulevard (355),a
-43.8242243,-79.2658975,2,Ingleton Boulevard (407),a
-43.8242243,-79.2658975,2,Muirlands Drive (603),a
-43.8242243,-79.2658975,2,Muirlands Drive (815),a
-43.824235,-79.2683023,2,Muirlands Drive (610),a
-43.824235,-79.2683023,2,Muirlands Drive (822),a
 43.8242359,-79.2467854,2,McNicoll Avenue (035),a
 43.8242359,-79.2467854,2,McNicoll Avenue (936),a
-43.8242486,-79.2657864,2,Green Spring Drive (084),a
-43.8242486,-79.2657864,2,Green Spring Drive (502),a
-43.8242514,-79.2699207,2,Fieldwood Drive (018),a
-43.8242514,-79.2699207,2,Fieldwood Drive (018),a
-43.8242514,-79.2699207,2,Fieldwood Drive (650),a
-43.8242514,-79.2699207,2,Fieldwood Drive (650),a
-43.8242532,-79.2657656,2,Green Spring Drive (083),a
-43.8242532,-79.2657656,2,Green Spring Drive (501),a
 43.8242584,-79.2301623,2,Legends Drive (474),a
 43.8242584,-79.2301623,2,Legends Drive (775),a
 43.8242584,-79.2301623,2,Polarlights Way (750),a
@@ -44900,32 +44020,12 @@ lat,lon,sz,names,len_cat
 43.824268,-79.2218188,2,Poppy Place (322),a
 43.824268,-79.2218188,2,Poppy Place (675),a
 43.824268,-79.2218188,2,Poppy Place (675),a
-43.8242716,-79.2721998,2,Alton Towers Circle (310),a
-43.8242716,-79.2721998,2,Alton Towers Circle (329),a
-43.8242716,-79.2721998,2,Alton Towers Circle (348),a
-43.8242716,-79.2721998,2,Alton Towers Circle (367),a
-43.8242716,-79.2721998,2,Fieldwood Drive (086),a
-43.8242716,-79.2721998,2,Fieldwood Drive (986),a
-43.8242817,-79.2708782,2,Fieldwood Drive (381),a
-43.8242817,-79.2708782,2,Fieldwood Drive (963),a
-43.8242822,-79.26839,2,Muirlands Drive (071),a
-43.8242822,-79.26839,2,Muirlands Drive (071),a
-43.8242822,-79.26839,2,Muirlands Drive (489),a
-43.8242822,-79.26839,2,Muirlands Drive (489),a
 43.8242833,-79.2182332,2,Weaver Drive (000),a
 43.8242833,-79.2182332,2,Weaver Drive (671),a
-43.8242974,-79.2659293,2,Ingleton Boulevard (334),a
-43.8242974,-79.2659293,2,Ingleton Boulevard (916),a
 43.8243002,-79.2424161,2,Tapscott Road (037),a
 43.8243002,-79.2424161,2,Tapscott Road (857),a
-43.8243003,-79.2698742,2,Fieldwood Drive (019),a
-43.8243003,-79.2698742,2,Fieldwood Drive (019),a
-43.8243003,-79.2698742,2,Fieldwood Drive (651),a
-43.8243003,-79.2698742,2,Fieldwood Drive (651),a
 43.8243026,-79.2185005,2,Weaver Drive (002),a
 43.8243026,-79.2185005,2,Weaver Drive (673),a
-43.8243027,-79.2720661,2,Fieldwood Drive (087),a
-43.8243027,-79.2720661,2,Fieldwood Drive (987),a
 43.8243036,-79.2183478,2,Weaver Drive (001),a
 43.8243036,-79.2183478,2,Weaver Drive (672),a
 43.8243048,-79.2153002,2,Knowles Drive (569),a
@@ -44933,20 +44033,10 @@ lat,lon,sz,names,len_cat
 43.8243054,-79.2301054,2,Legends Drive (475),a
 43.824309,-79.2164549,2,Loggerhead Grove (604),a
 43.824309,-79.2164549,2,Loggerhead Grove (990),a
-43.8243128,-79.2659359,2,Ingleton Boulevard (333),a
-43.8243128,-79.2659359,2,Ingleton Boulevard (915),a
 43.8243187,-79.2187085,2,Weaver Drive (684),a
 43.8243187,-79.2187085,2,Weaver Drive (818),a
 43.8243197,-79.2302198,2,Wharnsby Drive (464),a
 43.8243197,-79.2302198,2,Wharnsby Drive (765),a
-43.8243205,-79.2684574,2,Muirlands Drive (023),a
-43.8243205,-79.2684574,2,Muirlands Drive (023),a
-43.8243205,-79.2684574,2,Muirlands Drive (658),a
-43.8243205,-79.2684574,2,Muirlands Drive (658),a
-43.8243293,-79.268473,2,Muirlands Drive (611),a
-43.8243293,-79.268473,2,Muirlands Drive (611),a
-43.8243293,-79.268473,2,Muirlands Drive (823),a
-43.8243293,-79.268473,2,Muirlands Drive (823),a
 43.8243335,-79.2175956,2,Siskin Terrace (607),a
 43.8243335,-79.2175956,2,Siskin Terrace (993),a
 43.8243444,-79.2300582,2,Legends Drive (476),a
@@ -44959,18 +44049,10 @@ lat,lon,sz,names,len_cat
 43.8243609,-79.2218789,2,Poppy Place (676),a
 43.8243644,-79.2424488,2,Tapscott Road (165),a
 43.8243644,-79.2424488,2,Tapscott Road (763),a
-43.8243651,-79.2698597,2,Fieldwood Drive (020),a
-43.8243651,-79.2698597,2,Fieldwood Drive (020),a
-43.8243651,-79.2698597,2,Fieldwood Drive (652),a
-43.8243651,-79.2698597,2,Fieldwood Drive (652),a
 43.824371,-79.2284712,2,Nightstar Road (824),a
 43.824371,-79.2284712,2,Nightstar Road (908),a
 43.8243879,-79.225133,2,Skipperhill Crescent (786),a
 43.8243879,-79.225133,2,Skipperhill Crescent (807),a
-43.8243917,-79.2685627,2,Muirlands Drive (612),a
-43.8243917,-79.2685627,2,Muirlands Drive (612),a
-43.8243917,-79.2685627,2,Muirlands Drive (824),a
-43.8243917,-79.2685627,2,Muirlands Drive (824),a
 43.8243922,-79.215208,2,Knowles Drive (568),a
 43.8243922,-79.215208,2,Knowles Drive (954),a
 43.8243922,-79.215208,2,Point Rouge Trail (011),a
@@ -44995,20 +44077,12 @@ lat,lon,sz,names,len_cat
 43.8244071,-79.2460724,2,McNicoll Avenue (937),a
 43.8244172,-79.2318229,2,Morningside Avenue (210),a
 43.8244172,-79.2318229,2,Morningside Avenue (788),a
-43.8244238,-79.2644766,2,Green Spring Drive (535),a
-43.8244238,-79.2644766,2,Green Spring Drive (687),a
-43.8244409,-79.270939,2,Fieldwood Drive (093),a
-43.8244409,-79.270939,2,Fieldwood Drive (993),a
 43.8244476,-79.2164372,2,Loggerhead Grove (512),a
 43.8244476,-79.2164372,2,Loggerhead Grove (642),a
-43.8244507,-79.2644891,2,Green Spring Drive (536),a
-43.8244507,-79.2644891,2,Green Spring Drive (688),a
 43.8244514,-79.215144,2,Knowles Drive (567),a
 43.8244514,-79.215144,2,Knowles Drive (953),a
 43.824464,-79.2251482,2,Skipperhill Crescent (785),a
 43.824464,-79.2251482,2,Skipperhill Crescent (806),a
-43.8244671,-79.2709511,2,Fieldwood Drive (092),a
-43.8244671,-79.2709511,2,Fieldwood Drive (992),a
 43.8244714,-79.2151224,2,Knowles Drive (566),a
 43.8244714,-79.2151224,2,Knowles Drive (952),a
 43.82448,-79.2461291,2,Ironside Crescent (408),a
@@ -45016,38 +44090,18 @@ lat,lon,sz,names,len_cat
 43.82448,-79.2461291,2,Ironside Crescent (582),a
 43.82448,-79.2461291,2,Ironside Crescent (582),a
 43.8244805,-79.2279228,2,Nightstar Road (907),a
-43.8244818,-79.2645223,2,Green Spring Drive (537),a
-43.8244818,-79.2645223,2,Green Spring Drive (689),a
 43.8244849,-79.2303749,2,Wharnsby Drive (521),a
 43.8244849,-79.2303749,2,Wharnsby Drive (746),a
 43.824486,-79.2175062,2,Siskin Terrace (523),a
 43.824486,-79.2175062,2,Siskin Terrace (765),a
-43.8244899,-79.2647279,2,Green Spring Drive (539),a
-43.8244899,-79.2647279,2,Green Spring Drive (691),a
-43.8244903,-79.2686868,2,Muirlands Drive (072),a
-43.8244903,-79.2686868,2,Muirlands Drive (072),a
-43.8244903,-79.2686868,2,Muirlands Drive (490),a
-43.8244903,-79.2686868,2,Muirlands Drive (490),a
-43.8244961,-79.2709971,2,Fieldwood Drive (091),a
-43.8244961,-79.2709971,2,Fieldwood Drive (991),a
 43.8244962,-79.2314327,2,Polarlights Way (701),a
 43.8244962,-79.2314327,2,Polarlights Way (989),a
-43.8244985,-79.2645858,2,Green Spring Drive (538),a
-43.8244985,-79.2645858,2,Green Spring Drive (690),a
 43.8245015,-79.2316618,2,Morningside Avenue (225),a
 43.8245015,-79.2316618,2,Morningside Avenue (800),a
-43.824503,-79.2646548,2,Green Spring Drive (087),a
-43.824503,-79.2646548,2,Green Spring Drive (505),a
 43.8245069,-79.2457009,2,McNicoll Avenue (029),a
 43.8245069,-79.2457009,2,McNicoll Avenue (029),a
 43.8245069,-79.2457009,2,McNicoll Avenue (930),a
 43.8245069,-79.2457009,2,McNicoll Avenue (930),a
-43.8245084,-79.271177,2,Fieldwood Drive (088),a
-43.8245084,-79.271177,2,Fieldwood Drive (988),a
-43.8245122,-79.2710538,2,Fieldwood Drive (090),a
-43.8245122,-79.2710538,2,Fieldwood Drive (990),a
-43.8245136,-79.2711147,2,Fieldwood Drive (089),a
-43.8245136,-79.2711147,2,Fieldwood Drive (989),a
 43.8245182,-79.2250741,2,Skipperhill Crescent (784),a
 43.8245182,-79.2250741,2,Skipperhill Crescent (805),a
 43.8245278,-79.2456514,2,McNicoll Avenue (037),a
@@ -45066,10 +44120,6 @@ lat,lon,sz,names,len_cat
 43.8245953,-79.2454918,2,McNicoll Avenue (931),a
 43.8245957,-79.2230977,2,Mantis Road (626),a
 43.8245957,-79.2230977,2,Mantis Road (657),a
-43.8246015,-79.2687959,2,Muirlands Drive (613),a
-43.8246015,-79.2687959,2,Muirlands Drive (613),a
-43.8246015,-79.2687959,2,Muirlands Drive (825),a
-43.8246015,-79.2687959,2,Muirlands Drive (825),a
 43.8246031,-79.2232966,2,Skipperhill Crescent (792),a
 43.8246031,-79.2232966,2,Skipperhill Crescent (813),a
 43.8246184,-79.2190046,2,Weaver Drive (686),a
@@ -45078,10 +44128,6 @@ lat,lon,sz,names,len_cat
 43.824622,-79.2232473,2,Skipperhill Crescent (819),a
 43.8246311,-79.227052,2,Nightstar Road (829),a
 43.8246311,-79.227052,2,Nightstar Road (916),a
-43.8246434,-79.2723649,2,Alton Towers Circle (319),a
-43.8246434,-79.2723649,2,Alton Towers Circle (338),a
-43.8246434,-79.2723649,2,Alton Towers Circle (350),a
-43.8246434,-79.2723649,2,Alton Towers Circle (369),a
 43.8246557,-79.2269564,2,Nightstar Road (830),a
 43.8246557,-79.2269564,2,Nightstar Road (906),a
 43.8246557,-79.2269564,2,Pogonia Street (349),a
@@ -45102,46 +44148,26 @@ lat,lon,sz,names,len_cat
 43.8247225,-79.2294941,2,Pogonia Street (774),a
 43.8247229,-79.2269845,2,Pogonia Street (802),a
 43.8247246,-79.2305439,2,Wharnsby Drive (747),a
-43.8247347,-79.2689043,2,Muirlands Drive (614),a
-43.8247347,-79.2689043,2,Muirlands Drive (614),a
-43.8247347,-79.2689043,2,Muirlands Drive (826),a
-43.8247347,-79.2689043,2,Muirlands Drive (826),a
 43.8247575,-79.226999,2,Pogonia Street (350),a
 43.8247575,-79.226999,2,Pogonia Street (791),a
-43.8247793,-79.2671726,2,Whistling Hills Drive (717),a
-43.8247793,-79.2671726,2,Whistling Hills Drive (734),a
 43.8247797,-79.2295508,2,Pogonia Street (472),a
 43.8247797,-79.2295508,2,Pogonia Street (773),a
-43.8247811,-79.2672969,2,Whistling Hills Drive (710),a
-43.8247811,-79.2672969,2,Whistling Hills Drive (735),a
 43.8247829,-79.2164322,2,Loggerhead Grove (605),a
 43.8247829,-79.2164322,2,Loggerhead Grove (991),a
 43.8247833,-79.2451969,2,McNicoll Avenue (031),a
 43.8247833,-79.2451969,2,McNicoll Avenue (031),a
 43.8247833,-79.2451969,2,McNicoll Avenue (932),a
 43.8247833,-79.2451969,2,McNicoll Avenue (932),a
-43.8247889,-79.2674087,2,Whistling Hills Drive (718),a
-43.8247889,-79.2674087,2,Whistling Hills Drive (736),a
-43.8247929,-79.2670356,2,Whistling Hills Drive (720),a
-43.8247929,-79.2670356,2,Whistling Hills Drive (733),a
 43.8247932,-79.2174473,2,Siskin Terrace (522),a
 43.8247932,-79.2174473,2,Siskin Terrace (764),a
-43.8247982,-79.2689424,2,Muirlands Drive (073),a
-43.8247982,-79.2689424,2,Muirlands Drive (073),a
-43.8247982,-79.2689424,2,Muirlands Drive (491),a
-43.8247982,-79.2689424,2,Muirlands Drive (491),a
 43.8248034,-79.2295794,2,Pogonia Street (471),a
 43.8248034,-79.2295794,2,Pogonia Street (772),a
-43.8248178,-79.26753,2,Whistling Hills Drive (697),a
-43.8248178,-79.26753,2,Whistling Hills Drive (737),a
 43.8248411,-79.2262371,2,Nightstar Road (514),a
 43.8248411,-79.2262371,2,Nightstar Road (832),a
 43.8248557,-79.2189624,2,Weaver Drive (687),a
 43.8248557,-79.2189624,2,Weaver Drive (821),a
 43.8248571,-79.2147169,2,Knowles Drive (565),a
 43.8248571,-79.2147169,2,Knowles Drive (951),a
-43.8248582,-79.2676304,2,Whistling Hills Drive (704),a
-43.8248582,-79.2676304,2,Whistling Hills Drive (738),a
 43.8248627,-79.2261532,2,Knotwood Crescent (138),a
 43.8248627,-79.2261532,2,Knotwood Crescent (812),a
 43.8248627,-79.2261532,2,Nightstar Road (833),a
@@ -45166,15 +44192,9 @@ lat,lon,sz,names,len_cat
 43.8249005,-79.2174267,2,Point Rouge Trail (872),a
 43.8249005,-79.2174267,2,Siskin Terrace (521),a
 43.8249005,-79.2174267,2,Siskin Terrace (763),a
-43.8249035,-79.2677205,2,Whistling Hills Drive (708),a
-43.8249035,-79.2677205,2,Whistling Hills Drive (739),a
 43.8249051,-79.2259886,2,Nightstar Road (834),a
 43.8249174,-79.223283,2,Mantis Road (297),a
 43.8249174,-79.223283,2,Mantis Road (458),a
-43.8249185,-79.2690039,2,Muirlands Drive (615),a
-43.8249185,-79.2690039,2,Muirlands Drive (615),a
-43.8249185,-79.2690039,2,Muirlands Drive (827),a
-43.8249185,-79.2690039,2,Muirlands Drive (827),a
 43.8249233,-79.2259182,2,Nightstar Road (835),a
 43.8249233,-79.2259182,2,Nightstar Road (910),a
 43.8249255,-79.214645,2,Knowles Drive (564),a
@@ -45185,10 +44205,6 @@ lat,lon,sz,names,len_cat
 43.8249302,-79.2320298,2,Morningside Avenue (736),a
 43.8249312,-79.2261806,2,Knotwood Crescent (506),a
 43.8249312,-79.2261806,2,Knotwood Crescent (813),a
-43.8249463,-79.2663535,2,Whistling Hills Drive (723),a
-43.8249463,-79.2663535,2,Whistling Hills Drive (732),a
-43.8249519,-79.2663289,2,Whistling Hills Drive (724),a
-43.8249519,-79.2663289,2,Whistling Hills Drive (731),a
 43.8249592,-79.2224815,2,Flower Crescent (651),a
 43.8249592,-79.2224815,2,Flower Crescent (759),a
 43.8249694,-79.2261959,2,Knotwood Crescent (139),a
@@ -45200,31 +44216,13 @@ lat,lon,sz,names,len_cat
 43.8249757,-79.2189399,2,Point Rouge Trail (871),a
 43.8249757,-79.2189399,2,Weaver Drive (688),a
 43.8249757,-79.2189399,2,Weaver Drive (822),a
-43.8249763,-79.2662203,2,Ingleton Boulevard (144),a
-43.8249763,-79.2662203,2,Ingleton Boulevard (200),a
-43.8249763,-79.2662203,2,Ingleton Boulevard (352),a
-43.8249763,-79.2662203,2,Ingleton Boulevard (408),a
-43.8249763,-79.2662203,2,Whistling Hills Drive (700),a
-43.8249763,-79.2662203,2,Whistling Hills Drive (730),a
-43.8249766,-79.2725126,2,Alton Towers Circle (297),a
-43.8249766,-79.2725126,2,Alton Towers Circle (316),a
-43.8249766,-79.2725126,2,Alton Towers Circle (320),a
-43.8249766,-79.2725126,2,Alton Towers Circle (339),a
-43.8249766,-79.2725126,2,Fieldwood Drive (011),a
-43.8249766,-79.2725126,2,Fieldwood Drive (111),a
 43.8249789,-79.23165,2,Polarlights Way (661),a
 43.8249789,-79.23165,2,Polarlights Way (687),a
-43.8249822,-79.2678319,2,Whistling Hills Drive (701),a
-43.8249822,-79.2678319,2,Whistling Hills Drive (740),a
 43.8249906,-79.2147609,2,Osprey Court (016),a
 43.8249906,-79.2147609,2,Osprey Court (710),a
-43.8249984,-79.2724063,2,Fieldwood Drive (383),a
-43.8249984,-79.2724063,2,Fieldwood Drive (965),a
 43.8250012,-79.2224506,2,Flower Crescent (345),a
 43.8250016,-79.2239759,2,Skipperhill Crescent (783),a
 43.8250016,-79.2239759,2,Skipperhill Crescent (804),a
-43.8250052,-79.2723734,2,Fieldwood Drive (010),a
-43.8250052,-79.2723734,2,Fieldwood Drive (110),a
 43.8250142,-79.2190269,2,Point Rouge Trail (008),a
 43.8250142,-79.2190269,2,Point Rouge Trail (683),a
 43.8250157,-79.2316564,2,Polarlights Way (686),a
@@ -45240,14 +44238,10 @@ lat,lon,sz,names,len_cat
 43.8250393,-79.242736,2,Tapscott Road (887),a
 43.8250613,-79.2224455,2,Flower Crescent (068),a
 43.8250613,-79.2224455,2,Flower Crescent (346),a
-43.8250668,-79.2679111,2,Whistling Hills Drive (716),a
-43.8250668,-79.2679111,2,Whistling Hills Drive (741),a
 43.8251021,-79.2316008,2,Polarlights Way (228),a
 43.8251021,-79.2316008,2,Polarlights Way (658),a
 43.8251023,-79.2319103,2,Morningside Avenue (226),a
 43.8251023,-79.2319103,2,Morningside Avenue (801),a
-43.8251116,-79.2751313,2,McCowan Road (664),a
-43.8251116,-79.2751313,2,McCowan Road (826),a
 43.8251355,-79.2132051,2,Gristone Crescent (587),a
 43.8251355,-79.2132051,2,Gristone Crescent (973),a
 43.8251367,-79.2236119,2,Skipperhill Crescent (782),a
@@ -45258,8 +44252,6 @@ lat,lon,sz,names,len_cat
 43.8251398,-79.2448082,2,McNicoll Avenue (038),a
 43.8251398,-79.2448082,2,McNicoll Avenue (939),a
 43.8251398,-79.2448082,2,McNicoll Avenue (939),a
-43.8251459,-79.2679576,2,Whistling Hills Drive (725),a
-43.8251459,-79.2679576,2,Whistling Hills Drive (742),a
 43.8251488,-79.2235851,2,Skipperhill Crescent (510),a
 43.8251488,-79.2235851,2,Skipperhill Crescent (818),a
 43.825152,-79.2253096,2,Fallen Oak Street (505),a
@@ -45277,46 +44269,24 @@ lat,lon,sz,names,len_cat
 43.8251866,-79.2235008,2,Mantis Road (735),a
 43.8251866,-79.2235008,2,Skipperhill Crescent (781),a
 43.8251866,-79.2235008,2,Skipperhill Crescent (802),a
-43.8252081,-79.2650114,2,Treetops Court (152),a
-43.8252081,-79.2650114,2,Treetops Court (652),a
-43.8252085,-79.2650788,2,Treetops Court (151),a
-43.8252085,-79.2650788,2,Treetops Court (651),a
 43.82521,-79.2428099,2,Tapscott Road (523),a
 43.82521,-79.2428099,2,Tapscott Road (536),a
 43.82521,-79.2428099,2,Tapscott Road (563),a
 43.82521,-79.2428099,2,Tapscott Road (575),a
 43.82521,-79.2428099,2,Tapscott Road (588),a
 43.82521,-79.2428099,2,Tapscott Road (615),a
-43.8252135,-79.2751838,2,McCowan Road (668),a
-43.8252135,-79.2751838,2,McCowan Road (830),a
 43.8252219,-79.2253493,2,Fallen Oak Street (810),a
-43.8252267,-79.2649532,2,Treetops Court (153),a
-43.8252267,-79.2649532,2,Treetops Court (653),a
-43.8252288,-79.2651457,2,Treetops Court (150),a
-43.8252288,-79.2651457,2,Treetops Court (650),a
-43.8252337,-79.2680012,2,Whistling Hills Drive (719),a
-43.8252337,-79.2680012,2,Whistling Hills Drive (743),a
 43.8252511,-79.2253659,2,Fallen Oak Street (439),a
-43.8252522,-79.2649209,2,Treetops Court (081),a
-43.8252522,-79.2649209,2,Treetops Court (499),a
 43.8252583,-79.229852,2,Pogonia Street (468),a
 43.8252603,-79.24291,2,Tapscott Road (535),a
 43.8252603,-79.24291,2,Tapscott Road (587),a
-43.8252628,-79.265186,2,Treetops Court (149),a
-43.8252628,-79.265186,2,Treetops Court (649),a
 43.8252682,-79.2308266,2,Polarlights Way (226),a
 43.8252682,-79.2308266,2,Polarlights Way (656),a
 43.8252682,-79.2308266,2,Wharnsby Drive (766),a
-43.8252705,-79.269162,2,Muirlands Drive (616),a
-43.8252705,-79.269162,2,Muirlands Drive (616),a
-43.8252705,-79.269162,2,Muirlands Drive (828),a
-43.8252705,-79.269162,2,Muirlands Drive (828),a
 43.8252734,-79.2130529,2,Gristone Crescent (586),a
 43.8252734,-79.2130529,2,Gristone Crescent (972),a
 43.8252854,-79.2427824,2,Tapscott Road (524),a
 43.8252854,-79.2427824,2,Tapscott Road (576),a
-43.8252895,-79.2648969,2,Treetops Court (154),a
-43.8252895,-79.2648969,2,Treetops Court (654),a
 43.8252898,-79.2150897,2,Osprey Court (044),a
 43.8252898,-79.2150897,2,Osprey Court (672),a
 43.8252915,-79.2446429,2,McNicoll Avenue (039),a
@@ -45324,61 +44294,29 @@ lat,lon,sz,names,len_cat
 43.8252915,-79.2446429,2,McNicoll Avenue (940),a
 43.8252915,-79.2446429,2,McNicoll Avenue (940),a
 43.8253069,-79.2309526,2,Polarlights Way (657),a
-43.8253138,-79.2652041,2,Treetops Court (148),a
-43.8253138,-79.2652041,2,Treetops Court (648),a
-43.82532,-79.2648922,2,Treetops Court (155),a
-43.82532,-79.2648922,2,Treetops Court (655),a
-43.8253214,-79.2726637,2,Alton Towers Circle (298),a
-43.8253214,-79.2726637,2,Alton Towers Circle (303),a
-43.8253214,-79.2726637,2,Alton Towers Circle (317),a
-43.8253214,-79.2726637,2,Alton Towers Circle (322),a
 43.8253251,-79.2298437,2,Pogonia Street (467),a
 43.8253251,-79.2298437,2,Pogonia Street (768),a
 43.825335,-79.2130161,2,Gristone Crescent (585),a
 43.825335,-79.2130161,2,Gristone Crescent (971),a
-43.8253429,-79.2702865,2,Fieldwood Drive (003),a
-43.8253429,-79.2702865,2,Fieldwood Drive (003),a
-43.8253429,-79.2702865,2,Fieldwood Drive (103),a
-43.8253429,-79.2702865,2,Fieldwood Drive (103),a
-43.8253517,-79.264894,2,Treetops Court (082),a
-43.8253517,-79.264894,2,Treetops Court (500),a
 43.8253555,-79.2273755,2,Legends Drive (897),a
 43.8253651,-79.2273251,2,Legends Drive (403),a
 43.8253651,-79.2273251,2,Legends Drive (781),a
-43.8253654,-79.2703108,2,Fieldwood Drive (004),a
-43.8253654,-79.2703108,2,Fieldwood Drive (004),a
-43.8253654,-79.2703108,2,Fieldwood Drive (104),a
-43.8253654,-79.2703108,2,Fieldwood Drive (104),a
 43.8253712,-79.22729,2,Legends Drive (479),a
-43.825379,-79.2651728,2,Treetops Court (147),a
-43.825379,-79.2651728,2,Treetops Court (647),a
 43.8253818,-79.2272286,2,Legends Drive (898),a
 43.8253818,-79.2272286,2,Pogonia Street (351),a
 43.8253818,-79.2272286,2,Pogonia Street (498),a
 43.8253818,-79.2272286,2,Pogonia Street (803),a
 43.8253818,-79.2272286,2,Pogonia Street (804),a
-43.8253834,-79.2649028,2,Treetops Court (156),a
-43.8253834,-79.2649028,2,Treetops Court (656),a
-43.8253844,-79.2703403,2,Fieldwood Drive (005),a
-43.8253844,-79.2703403,2,Fieldwood Drive (105),a
 43.8253954,-79.2862135,2,Brimley Road (515),a
 43.8253954,-79.2862135,2,Brimley Road (518),a
 43.8253954,-79.2862135,2,Brimley Road (757),a
 43.8253954,-79.2862135,2,Brimley Road (760),a
-43.8253991,-79.2703742,2,Fieldwood Drive (006),a
-43.8253991,-79.2703742,2,Fieldwood Drive (106),a
 43.8254019,-79.2130179,2,Gristone Crescent (584),a
 43.8254019,-79.2130179,2,Gristone Crescent (970),a
 43.825404,-79.2297801,2,Pogonia Street (462),a
 43.825404,-79.2297801,2,Pogonia Street (466),a
 43.825404,-79.2297801,2,Pogonia Street (763),a
 43.825404,-79.2297801,2,Pogonia Street (767),a
-43.8254093,-79.2704111,2,Fieldwood Drive (007),a
-43.8254093,-79.2704111,2,Fieldwood Drive (107),a
-43.8254112,-79.2705153,2,Fieldwood Drive (009),a
-43.8254112,-79.2705153,2,Fieldwood Drive (109),a
-43.8254148,-79.2704631,2,Fieldwood Drive (008),a
-43.8254148,-79.2704631,2,Fieldwood Drive (108),a
 43.8254304,-79.2130339,2,Gristone Crescent (583),a
 43.8254304,-79.2130339,2,Gristone Crescent (969),a
 43.8254328,-79.2263653,2,Knotwood Crescent (507),a
@@ -45387,8 +44325,6 @@ lat,lon,sz,names,len_cat
 43.8254368,-79.2272514,2,Pogonia Street (805),a
 43.8254392,-79.2465286,2,Ironside Crescent (149),a
 43.8254392,-79.2465286,2,Ironside Crescent (317),a
-43.8254402,-79.2651023,2,Treetops Court (146),a
-43.8254402,-79.2651023,2,Treetops Court (646),a
 43.8254482,-79.2444721,2,McNicoll Avenue (041),a
 43.8254482,-79.2444721,2,McNicoll Avenue (041),a
 43.8254482,-79.2444721,2,McNicoll Avenue (942),a
@@ -45403,8 +44339,6 @@ lat,lon,sz,names,len_cat
 43.8255014,-79.2131066,2,Gristone Crescent (968),a
 43.8255249,-79.2320607,2,Morningside Avenue (227),a
 43.8255249,-79.2320607,2,Morningside Avenue (802),a
-43.8255381,-79.2753334,2,McCowan Road (665),a
-43.8255381,-79.2753334,2,McCowan Road (827),a
 43.8255421,-79.2246162,2,Cranberry Drive (487),a
 43.8255456,-79.2443659,2,McNicoll Avenue (032),a
 43.8255456,-79.2443659,2,McNicoll Avenue (032),a
@@ -45414,12 +44348,6 @@ lat,lon,sz,names,len_cat
 43.8255642,-79.2465835,2,Ironside Crescent (950),a
 43.8255671,-79.2430551,2,Tapscott Road (380),a
 43.8255671,-79.2430551,2,Tapscott Road (658),a
-43.8255771,-79.2650074,2,Treetops Court (024),a
-43.8255771,-79.2650074,2,Treetops Court (138),a
-43.8255771,-79.2650074,2,Treetops Court (157),a
-43.8255771,-79.2650074,2,Treetops Court (638),a
-43.8255771,-79.2650074,2,Treetops Court (645),a
-43.8255771,-79.2650074,2,Treetops Court (663),a
 43.8255803,-79.2246373,2,Cranberry Drive (486),a
 43.8255803,-79.2246373,2,Cranberry Drive (790),a
 43.8256027,-79.2322921,2,Morningside Avenue (207),a
@@ -45433,20 +44361,10 @@ lat,lon,sz,names,len_cat
 43.8256612,-79.2241303,2,Nightstar Road (520),a
 43.8256646,-79.2237734,2,Mantis Road (035),a
 43.8256646,-79.2237734,2,Mantis Road (491),a
-43.8256661,-79.2728132,2,Alton Towers Circle (239),a
-43.8256661,-79.2728132,2,Alton Towers Circle (258),a
-43.8256661,-79.2728132,2,Alton Towers Circle (305),a
-43.8256661,-79.2728132,2,Alton Towers Circle (324),a
-43.8256661,-79.2728132,2,Hillfarm Drive (534),a
-43.8256661,-79.2728132,2,Hillfarm Drive (826),a
 43.8256716,-79.2441107,2,McNicoll Avenue (033),a
 43.8256716,-79.2441107,2,McNicoll Avenue (033),a
 43.8256716,-79.2441107,2,McNicoll Avenue (934),a
 43.8256716,-79.2441107,2,McNicoll Avenue (934),a
-43.825687,-79.2727108,2,Hillfarm Drive (371),a
-43.825687,-79.2727108,2,Hillfarm Drive (953),a
-43.8256925,-79.2726836,2,Hillfarm Drive (535),a
-43.8256925,-79.2726836,2,Hillfarm Drive (827),a
 43.8256957,-79.2239912,2,Nightstar Road (521),a
 43.8256957,-79.2239912,2,Nightstar Road (842),a
 43.8257131,-79.2239178,2,Nightstar Road (522),a
@@ -45454,10 +44372,6 @@ lat,lon,sz,names,len_cat
 43.8257182,-79.2137593,2,Knowles Drive (949),a
 43.8257227,-79.2135194,2,Gristone Crescent (581),a
 43.8257227,-79.2135194,2,Gristone Crescent (967),a
-43.8257247,-79.2693548,2,Muirlands Drive (617),a
-43.8257247,-79.2693548,2,Muirlands Drive (617),a
-43.8257247,-79.2693548,2,Muirlands Drive (829),a
-43.8257247,-79.2693548,2,Muirlands Drive (829),a
 43.8257326,-79.2238128,2,Flower Crescent (848),a
 43.8257326,-79.2238128,2,Knotwood Crescent (482),a
 43.8257326,-79.2238128,2,Mantis Road (655),a
@@ -45478,19 +44392,11 @@ lat,lon,sz,names,len_cat
 43.8257557,-79.2237179,2,Flower Crescent (847),a
 43.8257567,-79.2431443,2,Tapscott Road (534),a
 43.8257567,-79.2431443,2,Tapscott Road (586),a
-43.8257598,-79.2728561,2,Alton Towers Circle (240),a
-43.8257598,-79.2728561,2,Alton Towers Circle (259),a
 43.8257897,-79.242999,2,Tapscott Road (525),a
 43.8257897,-79.242999,2,Tapscott Road (577),a
-43.8257924,-79.2650905,2,Treetops Court (078),a
-43.8257924,-79.2650905,2,Treetops Court (496),a
 43.8257992,-79.2238406,2,Knotwood Crescent (427),a
 43.8258093,-79.2274132,2,Pogonia Street (500),a
 43.8258093,-79.2274132,2,Pogonia Street (806),a
-43.825823,-79.2694044,2,Muirlands Drive (618),a
-43.825823,-79.2694044,2,Muirlands Drive (618),a
-43.825823,-79.2694044,2,Muirlands Drive (830),a
-43.825823,-79.2694044,2,Muirlands Drive (830),a
 43.8258308,-79.2322179,2,Morningside Avenue (228),a
 43.8258308,-79.2322179,2,Morningside Avenue (228),a
 43.8258308,-79.2322179,2,Morningside Avenue (803),a
@@ -45506,12 +44412,6 @@ lat,lon,sz,names,len_cat
 43.8258518,-79.2431896,2,Tapscott Road (533),a
 43.8258518,-79.2431896,2,Tapscott Road (585),a
 43.825856,-79.2230455,2,Flower Crescent (761),a
-43.8258621,-79.2670749,2,Peppermill Place (185),a
-43.8258621,-79.2670749,2,Peppermill Place (863),a
-43.8258673,-79.2671257,2,Peppermill Place (073),a
-43.8258673,-79.2671257,2,Peppermill Place (453),a
-43.825869,-79.2670244,2,Peppermill Place (184),a
-43.825869,-79.2670244,2,Peppermill Place (862),a
 43.8258706,-79.2232004,2,Flower Crescent (666),a
 43.8258706,-79.2232004,2,Flower Crescent (846),a
 43.8258822,-79.2430401,2,McNicoll Avenue (776),a
@@ -45522,34 +44422,16 @@ lat,lon,sz,names,len_cat
 43.8258822,-79.2430401,2,Tapscott Road (527),a
 43.8258822,-79.2430401,2,Tapscott Road (578),a
 43.8258822,-79.2430401,2,Tapscott Road (579),a
-43.8258829,-79.2669876,2,Peppermill Place (374),a
-43.8258829,-79.2669876,2,Peppermill Place (956),a
-43.825884,-79.2671716,2,Peppermill Place (074),a
-43.825884,-79.2671716,2,Peppermill Place (454),a
 43.8258855,-79.2231112,2,Flower Crescent (069),a
 43.8258855,-79.2231112,2,Flower Crescent (347),a
-43.8259032,-79.266957,2,Peppermill Place (183),a
-43.8259032,-79.266957,2,Peppermill Place (861),a
 43.8259033,-79.2429315,2,McNicoll Avenue (777),a
 43.8259033,-79.2429315,2,McNicoll Avenue (959),a
-43.8259105,-79.2672076,2,Peppermill Place (075),a
-43.8259105,-79.2672076,2,Peppermill Place (455),a
-43.8259213,-79.2694527,2,Muirlands Drive (619),a
-43.8259213,-79.2694527,2,Muirlands Drive (619),a
-43.8259213,-79.2694527,2,Muirlands Drive (831),a
-43.8259213,-79.2694527,2,Muirlands Drive (831),a
-43.8259231,-79.2666374,2,Ingleton Boulevard (322),a
-43.8259231,-79.2666374,2,Ingleton Boulevard (904),a
-43.8259286,-79.2669349,2,Peppermill Place (182),a
-43.8259286,-79.2669349,2,Peppermill Place (860),a
 43.825929,-79.2433032,2,McNicoll Avenue (797),a
 43.825929,-79.2433032,2,McNicoll Avenue (971),a
 43.8259345,-79.2325219,2,Morningside Avenue (202),a
 43.8259345,-79.2325219,2,Morningside Avenue (202),a
 43.8259345,-79.2325219,2,Morningside Avenue (784),a
 43.8259345,-79.2325219,2,Morningside Avenue (784),a
-43.8259438,-79.2672299,2,Peppermill Place (186),a
-43.8259438,-79.2672299,2,Peppermill Place (864),a
 43.8259465,-79.2432345,2,McNicoll Avenue (796),a
 43.8259465,-79.2432345,2,McNicoll Avenue (804),a
 43.8259465,-79.2432345,2,McNicoll Avenue (970),a
@@ -45558,62 +44440,18 @@ lat,lon,sz,names,len_cat
 43.8259465,-79.2432345,2,Tapscott Road (532),a
 43.8259465,-79.2432345,2,Tapscott Road (574),a
 43.8259465,-79.2432345,2,Tapscott Road (584),a
-43.8259532,-79.2668615,2,Peppermill Place (170),a
-43.8259532,-79.2668615,2,Peppermill Place (490),a
-43.8259573,-79.2669227,2,Peppermill Place (191),a
-43.8259573,-79.2669227,2,Peppermill Place (656),a
-43.8259573,-79.2669227,2,Peppermill Place (762),a
-43.8259573,-79.2669227,2,Peppermill Place (859),a
-43.8259609,-79.2694431,2,Muirlands Drive (074),a
-43.8259609,-79.2694431,2,Muirlands Drive (074),a
-43.8259609,-79.2694431,2,Muirlands Drive (492),a
-43.8259609,-79.2694431,2,Muirlands Drive (492),a
-43.8259659,-79.2667994,2,Peppermill Place (375),a
-43.8259659,-79.2667994,2,Peppermill Place (957),a
 43.8259662,-79.2426122,2,McNicoll Avenue (778),a
 43.8259662,-79.2426122,2,McNicoll Avenue (960),a
-43.8259712,-79.2667736,2,Peppermill Place (376),a
-43.8259712,-79.2667736,2,Peppermill Place (958),a
 43.8259778,-79.2430858,2,McNicoll Avenue (803),a
 43.8259778,-79.2430858,2,McNicoll Avenue (977),a
 43.8259778,-79.2430858,2,Tapscott Road (528),a
 43.8259778,-79.2430858,2,Tapscott Road (580),a
-43.8259806,-79.2672362,2,Peppermill Place (187),a
-43.8259806,-79.2672362,2,Peppermill Place (865),a
-43.8259905,-79.2694048,2,Muirlands Drive (620),a
-43.8259905,-79.2694048,2,Muirlands Drive (620),a
-43.8259905,-79.2694048,2,Muirlands Drive (832),a
-43.8259905,-79.2694048,2,Muirlands Drive (832),a
-43.8259929,-79.2666682,2,Ingleton Boulevard (116),a
-43.8259929,-79.2666682,2,Ingleton Boulevard (145),a
-43.8259929,-79.2666682,2,Ingleton Boulevard (324),a
-43.8259929,-79.2666682,2,Ingleton Boulevard (353),a
-43.8259929,-79.2666682,2,Peppermill Place (169),a
-43.8259929,-79.2666682,2,Peppermill Place (489),a
-43.8259929,-79.2666682,2,Treetops Court (144),a
-43.8259929,-79.2666682,2,Treetops Court (644),a
-43.8259943,-79.2669226,2,Peppermill Place (072),a
-43.8259943,-79.2669226,2,Peppermill Place (452),a
 43.8259948,-79.2432529,2,Tapscott Road (521),a
 43.8259948,-79.2432529,2,Tapscott Road (573),a
 43.825998,-79.2429728,2,McNicoll Avenue (802),a
 43.825998,-79.2429728,2,McNicoll Avenue (976),a
-43.8260094,-79.2693727,2,Muirlands Drive (075),a
-43.8260094,-79.2693727,2,Muirlands Drive (075),a
-43.8260094,-79.2693727,2,Muirlands Drive (493),a
-43.8260094,-79.2693727,2,Muirlands Drive (493),a
 43.8260121,-79.2275225,2,Pogonia Street (501),a
 43.8260121,-79.2275225,2,Pogonia Street (807),a
-43.8260169,-79.2672258,2,Peppermill Place (188),a
-43.8260169,-79.2672258,2,Peppermill Place (866),a
-43.8260169,-79.2665589,2,Treetops Court (080),a
-43.8260169,-79.2665589,2,Treetops Court (498),a
-43.8260223,-79.2693242,2,Muirlands Drive (621),a
-43.8260223,-79.2693242,2,Muirlands Drive (621),a
-43.8260223,-79.2693242,2,Muirlands Drive (833),a
-43.8260223,-79.2693242,2,Muirlands Drive (833),a
-43.8260232,-79.2665303,2,Treetops Court (079),a
-43.8260232,-79.2665303,2,Treetops Court (497),a
 43.8260268,-79.242498,2,McNicoll Avenue (779),a
 43.8260268,-79.242498,2,McNicoll Avenue (788),a
 43.8260268,-79.242498,2,McNicoll Avenue (800),a
@@ -45622,84 +44460,20 @@ lat,lon,sz,names,len_cat
 43.8260268,-79.242498,2,McNicoll Avenue (974),a
 43.8260283,-79.2431058,2,Tapscott Road (529),a
 43.8260283,-79.2431058,2,Tapscott Road (581),a
-43.8260294,-79.266939,2,Peppermill Place (071),a
-43.8260294,-79.266939,2,Peppermill Place (451),a
-43.8260456,-79.2755656,2,McCowan Road (671),a
-43.8260456,-79.2755656,2,McCowan Road (833),a
-43.8260488,-79.2671999,2,Peppermill Place (189),a
-43.8260488,-79.2671999,2,Peppermill Place (867),a
 43.8260506,-79.2467971,2,Ironside Crescent (044),a
 43.8260506,-79.2467971,2,Ironside Crescent (220),a
 43.8260527,-79.2426586,2,McNicoll Avenue (801),a
 43.8260527,-79.2426586,2,McNicoll Avenue (975),a
-43.8260589,-79.2669701,2,Peppermill Place (070),a
-43.8260589,-79.2669701,2,Peppermill Place (450),a
-43.8260659,-79.2666997,2,Ingleton Boulevard (319),a
-43.8260659,-79.2666997,2,Ingleton Boulevard (901),a
-43.8260731,-79.2671611,2,Peppermill Place (190),a
-43.8260731,-79.2671611,2,Peppermill Place (868),a
-43.8260796,-79.2670127,2,Peppermill Place (069),a
-43.8260796,-79.2670127,2,Peppermill Place (449),a
-43.8260871,-79.2671135,2,Peppermill Place (076),a
-43.8260871,-79.2671135,2,Peppermill Place (316),a
-43.8260871,-79.2671135,2,Peppermill Place (447),a
-43.8260871,-79.2671135,2,Peppermill Place (657),a
 43.8260872,-79.2276517,2,Pogonia Street (762),a
-43.8260893,-79.2670622,2,Peppermill Place (068),a
-43.8260893,-79.2670622,2,Peppermill Place (448),a
 43.8260919,-79.2324468,2,Morningside Avenue (229),a
 43.8260919,-79.2324468,2,Morningside Avenue (229),a
 43.8260919,-79.2324468,2,Morningside Avenue (804),a
 43.8260919,-79.2324468,2,Morningside Avenue (804),a
-43.8261178,-79.2652327,2,Treetops Court (139),a
-43.8261178,-79.2652327,2,Treetops Court (639),a
-43.8261721,-79.2730429,2,Alton Towers Circle (241),a
-43.8261721,-79.2730429,2,Alton Towers Circle (260),a
-43.8261779,-79.2667455,2,Ingleton Boulevard (117),a
-43.8261779,-79.2667455,2,Ingleton Boulevard (325),a
-43.826189,-79.2685698,2,Muirlands Drive (076),a
-43.826189,-79.2685698,2,Muirlands Drive (076),a
-43.826189,-79.2685698,2,Muirlands Drive (494),a
-43.826189,-79.2685698,2,Muirlands Drive (494),a
-43.8261959,-79.2685384,2,Muirlands Drive (077),a
-43.8261959,-79.2685384,2,Muirlands Drive (077),a
-43.8261959,-79.2685384,2,Muirlands Drive (495),a
-43.8261959,-79.2685384,2,Muirlands Drive (495),a
-43.8262045,-79.2652722,2,Treetops Court (140),a
-43.8262045,-79.2652722,2,Treetops Court (640),a
-43.8262059,-79.2704145,2,Hillfarm Drive (536),a
-43.8262059,-79.2704145,2,Hillfarm Drive (828),a
 43.8262168,-79.2433448,2,Tapscott Road (211),a
 43.8262168,-79.2433448,2,Tapscott Road (823),a
-43.8262177,-79.2703817,2,Hillfarm Drive (537),a
-43.8262177,-79.2703817,2,Hillfarm Drive (829),a
-43.8262196,-79.2684315,2,Muirlands Drive (622),a
-43.8262196,-79.2684315,2,Muirlands Drive (622),a
-43.8262196,-79.2684315,2,Muirlands Drive (834),a
-43.8262196,-79.2684315,2,Muirlands Drive (834),a
-43.8262196,-79.2684315,2,Whistling Hills Drive (440),a
-43.8262196,-79.2684315,2,Whistling Hills Drive (440),a
-43.8262196,-79.2684315,2,Whistling Hills Drive (520),a
-43.8262196,-79.2684315,2,Whistling Hills Drive (520),a
 43.8262304,-79.2417098,2,McNicoll Avenue (497),a
 43.8262304,-79.2417098,2,McNicoll Avenue (586),a
-43.826239,-79.266762,2,Ingleton Boulevard (321),a
-43.826239,-79.266762,2,Ingleton Boulevard (903),a
-43.826241,-79.2703513,2,Hillfarm Drive (541),a
-43.826241,-79.2703513,2,Hillfarm Drive (833),a
-43.826253,-79.2654869,2,Treetops Court (143),a
-43.826253,-79.2654869,2,Treetops Court (643),a
 43.826254,-79.2258038,2,Fallen Oak Street (438),a
-43.8262588,-79.2703383,2,Hillfarm Drive (543),a
-43.8262588,-79.2703383,2,Hillfarm Drive (835),a
-43.8262598,-79.265337,2,Treetops Court (141),a
-43.8262598,-79.265337,2,Treetops Court (641),a
-43.826277,-79.2654096,2,Treetops Court (142),a
-43.826277,-79.2654096,2,Treetops Court (642),a
-43.8262776,-79.2730932,2,Alton Towers Circle (242),a
-43.8262776,-79.2730932,2,Alton Towers Circle (261),a
-43.8262993,-79.2667714,2,Ingleton Boulevard (118),a
-43.8262993,-79.2667714,2,Ingleton Boulevard (326),a
 43.8263143,-79.2328961,2,Morningside Avenue (200),a
 43.8263143,-79.2328961,2,Morningside Avenue (200),a
 43.8263143,-79.2328961,2,Morningside Avenue (783),a
@@ -45712,32 +44486,16 @@ lat,lon,sz,names,len_cat
 43.8263429,-79.2267459,2,Knotwood Crescent (636),a
 43.8263441,-79.2956209,2,Steeles Avenue East (378),a
 43.8263441,-79.2956209,2,Steeles Avenue East (551),a
-43.8263625,-79.2703501,2,Hillfarm Drive (550),a
-43.8263625,-79.2703501,2,Hillfarm Drive (839),a
-43.826364,-79.2731347,2,Alton Towers Circle (021),a
-43.826364,-79.2731347,2,Alton Towers Circle (287),a
-43.826364,-79.2731347,2,Alton Towers Circle (306),a
-43.826364,-79.2731347,2,Alton Towers Circle (653),a
-43.826364,-79.2731347,2,Whistling Hills Drive (696),a
-43.826364,-79.2731347,2,Whistling Hills Drive (760),a
-43.826384,-79.2730342,2,Whistling Hills Drive (726),a
-43.826384,-79.2730342,2,Whistling Hills Drive (759),a
-43.8263849,-79.2667809,2,Ingleton Boulevard (119),a
-43.8263849,-79.2667809,2,Ingleton Boulevard (327),a
 43.826386,-79.2411071,2,McNicoll Avenue (789),a
 43.826386,-79.2411071,2,McNicoll Avenue (824),a
 43.826386,-79.2411071,2,McNicoll Avenue (963),a
 43.826386,-79.2411071,2,McNicoll Avenue (998),a
-43.8263885,-79.2730116,2,Whistling Hills Drive (722),a
-43.8263885,-79.2730116,2,Whistling Hills Drive (758),a
 43.8263911,-79.2267292,2,Knotwood Crescent (489),a
 43.8263911,-79.2267292,2,Knotwood Crescent (509),a
 43.8263911,-79.2267292,2,Knotwood Crescent (793),a
 43.8263911,-79.2267292,2,Knotwood Crescent (817),a
 43.826398,-79.2249988,2,Cranberry Drive (485),a
 43.826398,-79.2249988,2,Cranberry Drive (789),a
-43.8264178,-79.2731964,2,Alton Towers Circle (288),a
-43.8264178,-79.2731964,2,Alton Towers Circle (307),a
 43.8264229,-79.2372093,2,McNicoll Avenue (025),a
 43.8264229,-79.2372093,2,McNicoll Avenue (851),a
 43.8264229,-79.2365392,2,McNicoll Avenue (024),a
@@ -45745,8 +44503,6 @@ lat,lon,sz,names,len_cat
 43.8264265,-79.2266674,2,Knotwood Crescent (490),a
 43.826439,-79.2364565,2,McNicoll Avenue (105),a
 43.826439,-79.2364565,2,McNicoll Avenue (906),a
-43.8264492,-79.2667807,2,Ingleton Boulevard (320),a
-43.8264492,-79.2667807,2,Ingleton Boulevard (902),a
 43.8264709,-79.2867118,2,Brimley Road (514),a
 43.8264709,-79.2867118,2,Brimley Road (756),a
 43.8264733,-79.2328766,2,Morningside Avenue (664),a
@@ -45754,10 +44510,6 @@ lat,lon,sz,names,len_cat
 43.8264733,-79.2328766,2,Morningside Avenue (690),a
 43.8264747,-79.2265152,2,Knotwood Crescent (491),a
 43.8264747,-79.2265152,2,Knotwood Crescent (795),a
-43.8264899,-79.2732569,2,Alton Towers Circle (289),a
-43.8264899,-79.2732569,2,Alton Towers Circle (308),a
-43.8265092,-79.2757778,2,McCowan Road (658),a
-43.8265092,-79.2757778,2,McCowan Road (820),a
 43.8265112,-79.2433119,2,Tapscott Road (511),a
 43.8265112,-79.2433119,2,Tapscott Road (622),a
 43.8265156,-79.2331941,2,Morningside Avenue (198),a
@@ -45766,8 +44518,6 @@ lat,lon,sz,names,len_cat
 43.8265156,-79.2331941,2,Morningside Avenue (782),a
 43.8265173,-79.2376334,2,McNicoll Avenue (103),a
 43.8265173,-79.2376334,2,McNicoll Avenue (904),a
-43.8265177,-79.2667704,2,Ingleton Boulevard (120),a
-43.8265177,-79.2667704,2,Ingleton Boulevard (328),a
 43.826534,-79.224159,2,Knotwood Crescent (147),a
 43.826534,-79.224159,2,Knotwood Crescent (640),a
 43.826539,-79.2359434,2,McNicoll Avenue (023),a
@@ -45776,65 +44526,23 @@ lat,lon,sz,names,len_cat
 43.8265518,-79.2329863,2,Morningside Avenue (231),a
 43.8265518,-79.2329863,2,Morningside Avenue (806),a
 43.8265518,-79.2329863,2,Morningside Avenue (806),a
-43.8265557,-79.273327,2,Alton Towers Circle (290),a
-43.8265557,-79.273327,2,Alton Towers Circle (309),a
 43.8265692,-79.2259425,2,Fallen Oak Street (503),a
 43.8265692,-79.2259425,2,Fallen Oak Street (809),a
-43.826608,-79.2685942,2,Ketchum Place (332),a
-43.826608,-79.2685942,2,Ketchum Place (332),a
-43.826608,-79.2685942,2,Ketchum Place (613),a
-43.826608,-79.2685942,2,Ketchum Place (613),a
-43.826608,-79.2685942,2,Whistling Hills Drive (441),a
-43.826608,-79.2685942,2,Whistling Hills Drive (441),a
-43.826608,-79.2685942,2,Whistling Hills Drive (521),a
-43.826608,-79.2685942,2,Whistling Hills Drive (521),a
-43.8266125,-79.2758114,2,McCowan Road (628),a
-43.8266125,-79.2758114,2,McCowan Road (647),a
-43.8266125,-79.2758114,2,McCowan Road (920),a
-43.8266125,-79.2758114,2,McCowan Road (939),a
-43.8266126,-79.2733979,2,Alton Towers Circle (291),a
-43.8266126,-79.2733979,2,Alton Towers Circle (310),a
 43.8266132,-79.2380951,2,McNicoll Avenue (026),a
 43.8266132,-79.2380951,2,McNicoll Avenue (852),a
 43.8266141,-79.2260789,2,Knotwood Crescent (492),a
 43.8266141,-79.2260789,2,Knotwood Crescent (796),a
-43.8266144,-79.2667432,2,Ingleton Boulevard (121),a
-43.8266144,-79.2667432,2,Ingleton Boulevard (329),a
-43.8266309,-79.2684937,2,Ketchum Place (480),a
-43.8266309,-79.2684937,2,Ketchum Place (480),a
-43.8266309,-79.2684937,2,Ketchum Place (954),a
-43.8266309,-79.2684937,2,Ketchum Place (954),a
 43.8266327,-79.2470528,2,Ironside Crescent (045),a
 43.8266327,-79.2470528,2,Ironside Crescent (221),a
 43.8266337,-79.2404231,2,McNicoll Avenue (825),a
 43.8266337,-79.2404231,2,McNicoll Avenue (999),a
-43.8266368,-79.2684676,2,Ketchum Place (479),a
-43.8266368,-79.2684676,2,Ketchum Place (479),a
-43.8266368,-79.2684676,2,Ketchum Place (953),a
-43.8266368,-79.2684676,2,Ketchum Place (953),a
 43.8266457,-79.2259799,2,Fallen Oak Street (502),a
 43.8266457,-79.2259799,2,Fallen Oak Street (808),a
 43.8266457,-79.2259799,2,Knotwood Crescent (797),a
-43.8266527,-79.2686125,2,Whistling Hills Drive (698),a
-43.8266527,-79.2686125,2,Whistling Hills Drive (698),a
-43.8266527,-79.2686125,2,Whistling Hills Drive (744),a
-43.8266527,-79.2686125,2,Whistling Hills Drive (744),a
-43.8266753,-79.2734879,2,Alton Towers Circle (292),a
-43.8266753,-79.2734879,2,Alton Towers Circle (311),a
-43.82669,-79.2667069,2,Ingleton Boulevard (122),a
-43.82669,-79.2667069,2,Ingleton Boulevard (330),a
-43.8267011,-79.2735284,2,Alton Towers Circle (011),a
-43.8267011,-79.2735284,2,Alton Towers Circle (647),a
 43.8267141,-79.2354702,2,McNicoll Avenue (104),a
 43.8267141,-79.2354702,2,McNicoll Avenue (905),a
-43.8267192,-79.2735569,2,Alton Towers Circle (223),a
-43.8267192,-79.2735569,2,Alton Towers Circle (809),a
 43.8267363,-79.2388371,2,McNicoll Avenue (006),a
 43.8267363,-79.2388371,2,McNicoll Avenue (832),a
-43.8267426,-79.2686567,2,Whistling Hills Drive (703),a
-43.8267426,-79.2686567,2,Whistling Hills Drive (703),a
-43.8267426,-79.2686567,2,Whistling Hills Drive (745),a
-43.8267426,-79.2686567,2,Whistling Hills Drive (745),a
 43.8267452,-79.23867,2,McNicoll Avenue (007),a
 43.8267452,-79.23867,2,McNicoll Avenue (008),a
 43.8267452,-79.23867,2,McNicoll Avenue (027),a
@@ -45847,22 +44555,12 @@ lat,lon,sz,names,len_cat
 43.8267641,-79.2435713,2,Tapscott Road (572),a
 43.8267659,-79.2398133,2,McNicoll Avenue (002),a
 43.8267659,-79.2398133,2,McNicoll Avenue (828),a
-43.826766,-79.2736427,2,Alton Towers Circle (293),a
-43.826766,-79.2736427,2,Alton Towers Circle (312),a
 43.82677,-79.2353191,2,McNicoll Avenue (022),a
 43.82677,-79.2353191,2,McNicoll Avenue (848),a
-43.8267772,-79.275865,2,McCowan Road (646),a
-43.8267772,-79.275865,2,McCowan Road (938),a
-43.8267792,-79.2666545,2,Ingleton Boulevard (123),a
-43.8267792,-79.2666545,2,Ingleton Boulevard (331),a
 43.8267935,-79.2394934,2,McNicoll Avenue (003),a
 43.8267935,-79.2394934,2,McNicoll Avenue (829),a
 43.8267948,-79.2434321,2,Tapscott Road (530),a
 43.8267948,-79.2434321,2,Tapscott Road (582),a
-43.8268013,-79.2677447,2,Ketchum Place (321),a
-43.8268013,-79.2677447,2,Ketchum Place (602),a
-43.8268013,-79.2677447,2,Ketchum Place (655),a
-43.8268013,-79.2677447,2,Ketchum Place (761),a
 43.8268027,-79.2392737,2,McNicoll Avenue (005),a
 43.8268027,-79.2392737,2,McNicoll Avenue (831),a
 43.8268035,-79.2393284,2,McNicoll Avenue (004),a
@@ -45873,60 +44571,24 @@ lat,lon,sz,names,len_cat
 43.8268073,-79.2399063,2,McNicoll Avenue (826),a
 43.8268073,-79.2399063,2,McNicoll Avenue (827),a
 43.8268073,-79.2399063,2,McNicoll Avenue (840),a
-43.8268079,-79.273734,2,Alton Towers Circle (294),a
-43.8268079,-79.273734,2,Alton Towers Circle (313),a
 43.8268152,-79.2388043,2,McNicoll Avenue (009),a
 43.8268152,-79.2388043,2,McNicoll Avenue (835),a
 43.8268231,-79.2471364,2,Ironside Crescent (472),a
 43.8268231,-79.2471364,2,Ironside Crescent (949),a
-43.8268297,-79.268715,2,Whistling Hills Drive (711),a
-43.8268297,-79.268715,2,Whistling Hills Drive (711),a
-43.8268297,-79.268715,2,Whistling Hills Drive (746),a
-43.8268297,-79.268715,2,Whistling Hills Drive (746),a
 43.8268318,-79.2251827,2,Cranberry Drive (484),a
 43.8268318,-79.2251827,2,Cranberry Drive (788),a
 43.8268326,-79.233505,2,Morningside Avenue (232),a
 43.8268326,-79.233505,2,Morningside Avenue (232),a
 43.8268326,-79.233505,2,Morningside Avenue (807),a
 43.8268326,-79.233505,2,Morningside Avenue (807),a
-43.8268409,-79.2705728,2,Hillfarm Drive (372),a
-43.8268409,-79.2705728,2,Hillfarm Drive (954),a
 43.8268429,-79.2398243,2,McNicoll Avenue (013),a
 43.8268429,-79.2398243,2,McNicoll Avenue (839),a
-43.8268584,-79.270581,2,Hillfarm Drive (373),a
-43.8268584,-79.270581,2,Hillfarm Drive (955),a
-43.8268597,-79.2674961,2,Ketchum Place (481),a
-43.8268597,-79.2674961,2,Ketchum Place (955),a
-43.8268605,-79.2738565,2,Alton Towers Circle (295),a
-43.8268605,-79.2738565,2,Alton Towers Circle (314),a
-43.8268643,-79.2665868,2,Ingleton Boulevard (124),a
-43.8268643,-79.2665868,2,Ingleton Boulevard (332),a
 43.8268692,-79.2394776,2,McNicoll Avenue (012),a
 43.8268692,-79.2394776,2,McNicoll Avenue (838),a
 43.8268699,-79.2392572,2,McNicoll Avenue (010),a
 43.8268699,-79.2392572,2,McNicoll Avenue (836),a
 43.8268717,-79.2393114,2,McNicoll Avenue (011),a
 43.8268717,-79.2393114,2,McNicoll Avenue (837),a
-43.8268791,-79.26746,2,Ketchum Place (485),a
-43.8268791,-79.26746,2,Ketchum Place (959),a
-43.8268806,-79.2761033,2,Alton Towers Circle (313),a
-43.8268806,-79.2761033,2,Alton Towers Circle (332),a
-43.8268933,-79.2739518,2,Alton Towers Circle (224),a
-43.8268933,-79.2739518,2,Alton Towers Circle (810),a
-43.8268941,-79.2687743,2,Whistling Hills Drive (712),a
-43.8268941,-79.2687743,2,Whistling Hills Drive (712),a
-43.8268941,-79.2687743,2,Whistling Hills Drive (747),a
-43.8268941,-79.2687743,2,Whistling Hills Drive (747),a
-43.8268968,-79.2677612,2,Ketchum Place (322),a
-43.8268968,-79.2677612,2,Ketchum Place (603),a
-43.8268982,-79.2759004,2,Alton Towers Circle (299),a
-43.8268982,-79.2759004,2,Alton Towers Circle (314),a
-43.8268982,-79.2759004,2,Alton Towers Circle (318),a
-43.8268982,-79.2759004,2,Alton Towers Circle (333),a
-43.8268982,-79.2759004,2,McCowan Road (635),a
-43.8268982,-79.2759004,2,McCowan Road (645),a
-43.8268982,-79.2759004,2,McCowan Road (927),a
-43.8268982,-79.2759004,2,McCowan Road (937),a
 43.8268999,-79.2435367,2,Tapscott Road (044),a
 43.8268999,-79.2435367,2,Tapscott Road (477),a
 43.8268999,-79.2435367,2,Tapscott Road (519),a
@@ -45937,84 +44599,24 @@ lat,lon,sz,names,len_cat
 43.8269054,-79.2252156,2,Cranberry Drive (787),a
 43.8269054,-79.2252156,2,Knotwood Crescent (494),a
 43.8269054,-79.2252156,2,Knotwood Crescent (798),a
-43.8269102,-79.2756588,2,Alton Towers Circle (225),a
-43.8269102,-79.2756588,2,Alton Towers Circle (811),a
-43.8269102,-79.2674373,2,Ketchum Place (330),a
-43.8269102,-79.2674373,2,Ketchum Place (611),a
-43.8269113,-79.2756823,2,Alton Towers Circle (300),a
-43.8269113,-79.2756823,2,Alton Towers Circle (319),a
-43.8269132,-79.2665389,2,Ingleton Boulevard (043),a
-43.8269132,-79.2665389,2,Ingleton Boulevard (722),a
 43.8269188,-79.2350441,2,McNicoll Avenue (015),a
 43.8269188,-79.2350441,2,McNicoll Avenue (020),a
 43.8269188,-79.2350441,2,McNicoll Avenue (021),a
 43.8269188,-79.2350441,2,McNicoll Avenue (841),a
 43.8269188,-79.2350441,2,McNicoll Avenue (846),a
 43.8269188,-79.2350441,2,McNicoll Avenue (847),a
-43.8269247,-79.2740606,2,Alton Towers Circle (012),a
-43.8269247,-79.2740606,2,Alton Towers Circle (245),a
-43.8269247,-79.2740606,2,Alton Towers Circle (264),a
-43.8269247,-79.2740606,2,Alton Towers Circle (648),a
-43.8269247,-79.2740606,2,Seamist Crescent (028),a
-43.8269247,-79.2740606,2,Seamist Crescent (446),a
 43.8269262,-79.2930988,2,Steeles Avenue East (377),a
 43.8269262,-79.2930988,2,Steeles Avenue East (377),a
 43.8269262,-79.2930988,2,Steeles Avenue East (550),a
 43.8269262,-79.2930988,2,Steeles Avenue East (550),a
-43.8269272,-79.270613,2,Hillfarm Drive (552),a
-43.8269272,-79.270613,2,Hillfarm Drive (840),a
-43.8269272,-79.270613,2,Whistling Hills Drive (721),a
-43.8269272,-79.270613,2,Whistling Hills Drive (757),a
 43.8269314,-79.2251403,2,Knotwood Crescent (495),a
 43.8269314,-79.2251403,2,Knotwood Crescent (799),a
-43.8269445,-79.2665082,2,Ingleton Boulevard (125),a
-43.8269445,-79.2665082,2,Ingleton Boulevard (333),a
-43.8269453,-79.2741606,2,Alton Towers Circle (246),a
-43.8269453,-79.2741606,2,Alton Towers Circle (265),a
-43.8269464,-79.267418,2,Ketchum Place (484),a
-43.8269464,-79.267418,2,Ketchum Place (958),a
-43.8269551,-79.2750638,2,Alton Towers Circle (301),a
-43.8269551,-79.2750638,2,Alton Towers Circle (320),a
-43.8269596,-79.2677434,2,Ketchum Place (323),a
-43.8269596,-79.2677434,2,Ketchum Place (604),a
-43.8269619,-79.2749713,2,Alton Towers Circle (251),a
-43.8269619,-79.2749713,2,Alton Towers Circle (270),a
-43.8269619,-79.2749713,2,Alton Towers Circle (302),a
-43.8269619,-79.2749713,2,Alton Towers Circle (321),a
-43.8269619,-79.2749713,2,Seamist Crescent (444),a
-43.8269619,-79.2749713,2,Seamist Crescent (906),a
-43.8269665,-79.2688629,2,Whistling Hills Drive (702),a
-43.8269665,-79.2688629,2,Whistling Hills Drive (702),a
-43.8269665,-79.2688629,2,Whistling Hills Drive (748),a
-43.8269665,-79.2688629,2,Whistling Hills Drive (748),a
-43.826968,-79.2742829,2,Alton Towers Circle (247),a
-43.826968,-79.2742829,2,Alton Towers Circle (266),a
-43.8269715,-79.2674153,2,Ketchum Place (329),a
-43.8269715,-79.2674153,2,Ketchum Place (610),a
-43.8269741,-79.2748107,2,Alton Towers Circle (210),a
-43.8269741,-79.2748107,2,Alton Towers Circle (796),a
-43.8269791,-79.2743764,2,Alton Towers Circle (248),a
-43.8269791,-79.2743764,2,Alton Towers Circle (267),a
-43.8269834,-79.2746286,2,Alton Towers Circle (250),a
-43.8269834,-79.2746286,2,Alton Towers Circle (269),a
 43.8269847,-79.2348563,2,McNicoll Avenue (016),a
 43.8269847,-79.2348563,2,McNicoll Avenue (842),a
-43.8269859,-79.274564,2,Alton Towers Circle (249),a
-43.8269859,-79.274564,2,Alton Towers Circle (268),a
-43.8269892,-79.2759062,2,McCowan Road (640),a
-43.8269892,-79.2759062,2,McCowan Road (932),a
-43.826992,-79.266437,2,Ingleton Boulevard (126),a
-43.826992,-79.266437,2,Ingleton Boulevard (334),a
-43.8270048,-79.2674275,2,Ketchum Place (483),a
-43.8270048,-79.2674275,2,Ketchum Place (957),a
 43.8270055,-79.2927631,2,Steeles Avenue East (376),a
 43.8270055,-79.2927631,2,Steeles Avenue East (376),a
 43.8270055,-79.2927631,2,Steeles Avenue East (549),a
 43.8270055,-79.2927631,2,Steeles Avenue East (549),a
-43.8270105,-79.2740166,2,Seamist Crescent (029),a
-43.8270105,-79.2740166,2,Seamist Crescent (447),a
-43.8270108,-79.2677131,2,Ketchum Place (324),a
-43.8270108,-79.2677131,2,Ketchum Place (605),a
 43.8270195,-79.2350168,2,McNicoll Avenue (019),a
 43.8270195,-79.2350168,2,McNicoll Avenue (845),a
 43.8270267,-79.2325561,2,Raponi Circle (070),a
@@ -46025,14 +44627,6 @@ lat,lon,sz,names,len_cat
 43.8270271,-79.2326096,2,Raponi Circle (069),a
 43.8270271,-79.2326096,2,Raponi Circle (678),a
 43.8270271,-79.2326096,2,Raponi Circle (678),a
-43.8270284,-79.2689655,2,Whistling Hills Drive (705),a
-43.8270284,-79.2689655,2,Whistling Hills Drive (705),a
-43.8270284,-79.2689655,2,Whistling Hills Drive (749),a
-43.8270284,-79.2689655,2,Whistling Hills Drive (749),a
-43.8270314,-79.2674504,2,Ketchum Place (328),a
-43.8270314,-79.2674504,2,Ketchum Place (609),a
-43.8270317,-79.2740057,2,Seamist Crescent (423),a
-43.8270317,-79.2740057,2,Seamist Crescent (885),a
 43.8270327,-79.2435937,2,Tapscott Road (210),a
 43.8270327,-79.2435937,2,Tapscott Road (478),a
 43.8270327,-79.2435937,2,Tapscott Road (822),a
@@ -46044,22 +44638,8 @@ lat,lon,sz,names,len_cat
 43.827045,-79.232667,2,Raponi Circle (348),a
 43.827045,-79.232667,2,Raponi Circle (822),a
 43.827045,-79.232667,2,Raponi Circle (822),a
-43.8270471,-79.2676636,2,Ketchum Place (325),a
-43.8270471,-79.2676636,2,Ketchum Place (606),a
 43.8270491,-79.28698,2,Brimley Road (513),a
 43.8270491,-79.28698,2,Brimley Road (755),a
-43.8270622,-79.2674966,2,Ketchum Place (482),a
-43.8270622,-79.2674966,2,Ketchum Place (956),a
-43.8270667,-79.2749781,2,Seamist Crescent (030),a
-43.8270667,-79.2749781,2,Seamist Crescent (448),a
-43.8270677,-79.2676081,2,Ketchum Place (326),a
-43.8270677,-79.2676081,2,Ketchum Place (607),a
-43.8270694,-79.2690562,2,Whistling Hills Drive (707),a
-43.8270694,-79.2690562,2,Whistling Hills Drive (707),a
-43.8270694,-79.2690562,2,Whistling Hills Drive (750),a
-43.8270694,-79.2690562,2,Whistling Hills Drive (750),a
-43.8270722,-79.2675578,2,Ketchum Place (327),a
-43.8270722,-79.2675578,2,Ketchum Place (608),a
 43.8270739,-79.2922031,2,Steeles Avenue East (500),a
 43.8270739,-79.2922031,2,Steeles Avenue East (500),a
 43.8270739,-79.2922031,2,Steeles Avenue East (742),a
@@ -46070,14 +44650,10 @@ lat,lon,sz,names,len_cat
 43.8270776,-79.2327095,2,Raponi Circle (676),a
 43.8270854,-79.2345038,2,Morningside Avenue (195),a
 43.8270854,-79.2345038,2,Morningside Avenue (781),a
-43.827089,-79.2749796,2,Seamist Crescent (443),a
-43.827089,-79.2749796,2,Seamist Crescent (905),a
 43.8270903,-79.2436184,2,Tapscott Road (498),a
 43.8270903,-79.2436184,2,Tapscott Road (595),a
 43.8270911,-79.2347482,2,McNicoll Avenue (650),a
 43.8270911,-79.2347482,2,McNicoll Avenue (776),a
-43.8270973,-79.2662598,2,Ingleton Boulevard (127),a
-43.8270973,-79.2662598,2,Ingleton Boulevard (335),a
 43.8271087,-79.2244803,2,Knotwood Crescent (480),a
 43.8271087,-79.2244803,2,Knotwood Crescent (496),a
 43.8271087,-79.2244803,2,Knotwood Crescent (784),a
@@ -46091,52 +44667,18 @@ lat,lon,sz,names,len_cat
 43.8271116,-79.292314,2,Steeles Avenue East (548),a
 43.8271116,-79.292314,2,Steeles Avenue East (741),a
 43.8271116,-79.292314,2,Steeles Avenue East (741),a
-43.8271173,-79.2662122,2,Ingleton Boulevard (022),a
-43.8271173,-79.2662122,2,Ingleton Boulevard (654),a
-43.8271174,-79.2691983,2,Whistling Hills Drive (699),a
-43.8271174,-79.2691983,2,Whistling Hills Drive (699),a
-43.8271174,-79.2691983,2,Whistling Hills Drive (751),a
-43.8271174,-79.2691983,2,Whistling Hills Drive (751),a
 43.8271276,-79.2345852,2,Morningside Avenue (285),a
 43.8271276,-79.2345852,2,Morningside Avenue (814),a
-43.8271406,-79.2696858,2,Whistling Hills Drive (714),a
-43.8271406,-79.2696858,2,Whistling Hills Drive (714),a
-43.8271406,-79.2696858,2,Whistling Hills Drive (756),a
-43.8271406,-79.2696858,2,Whistling Hills Drive (756),a
 43.8271418,-79.2327455,2,Raponi Circle (066),a
 43.8271418,-79.2327455,2,Raponi Circle (066),a
 43.8271418,-79.2327455,2,Raponi Circle (675),a
 43.8271418,-79.2327455,2,Raponi Circle (675),a
 43.8271433,-79.234873,2,McNicoll Avenue (654),a
 43.8271433,-79.234873,2,McNicoll Avenue (795),a
-43.8271437,-79.2693235,2,Whistling Hills Drive (706),a
-43.8271437,-79.2693235,2,Whistling Hills Drive (706),a
-43.8271437,-79.2693235,2,Whistling Hills Drive (752),a
-43.8271437,-79.2693235,2,Whistling Hills Drive (752),a
-43.8271445,-79.2661474,2,Ingleton Boulevard (128),a
-43.8271445,-79.2661474,2,Ingleton Boulevard (154),a
-43.8271445,-79.2661474,2,Ingleton Boulevard (336),a
-43.8271445,-79.2661474,2,Ingleton Boulevard (362),a
-43.8271509,-79.2696088,2,Whistling Hills Drive (715),a
-43.8271509,-79.2696088,2,Whistling Hills Drive (715),a
-43.8271509,-79.2696088,2,Whistling Hills Drive (755),a
-43.8271509,-79.2696088,2,Whistling Hills Drive (755),a
-43.8271526,-79.2694007,2,Whistling Hills Drive (713),a
-43.8271526,-79.2694007,2,Whistling Hills Drive (713),a
-43.8271526,-79.2694007,2,Whistling Hills Drive (753),a
-43.8271526,-79.2694007,2,Whistling Hills Drive (753),a
-43.8271564,-79.2695049,2,Whistling Hills Drive (709),a
-43.8271564,-79.2695049,2,Whistling Hills Drive (709),a
-43.8271564,-79.2695049,2,Whistling Hills Drive (754),a
-43.8271564,-79.2695049,2,Whistling Hills Drive (754),a
 43.8271598,-79.234276,2,Morningside Avenue (233),a
 43.8271598,-79.234276,2,Morningside Avenue (297),a
 43.8271598,-79.234276,2,Morningside Avenue (808),a
 43.8271598,-79.234276,2,Morningside Avenue (908),a
-43.8271661,-79.2759166,2,McCowan Road (638),a
-43.8271661,-79.2759166,2,McCowan Road (930),a
-43.8271693,-79.2749812,2,Seamist Crescent (442),a
-43.8271693,-79.2749812,2,Seamist Crescent (904),a
 43.8271704,-79.2346676,2,McNicoll Avenue (017),a
 43.8271704,-79.2346676,2,McNicoll Avenue (843),a
 43.8271704,-79.2346676,2,Morningside Avenue (060),a
@@ -46145,12 +44687,8 @@ lat,lon,sz,names,len_cat
 43.8271704,-79.2346676,2,Morningside Avenue (780),a
 43.8271704,-79.2346676,2,Oasis Boulevard (030),a
 43.8271704,-79.2346676,2,Oasis Boulevard (954),a
-43.8271795,-79.2660339,2,Ingleton Boulevard (155),a
-43.8271795,-79.2660339,2,Ingleton Boulevard (363),a
 43.8271909,-79.2472979,2,Ironside Crescent (046),a
 43.8271909,-79.2472979,2,Ironside Crescent (222),a
-43.8272023,-79.2749787,2,Seamist Crescent (441),a
-43.8272023,-79.2749787,2,Seamist Crescent (903),a
 43.8272159,-79.2344033,2,Morningside Avenue (298),a
 43.8272159,-79.2344033,2,Morningside Avenue (909),a
 43.8272215,-79.2347821,2,McNicoll Avenue (018),a
@@ -46159,8 +44697,6 @@ lat,lon,sz,names,len_cat
 43.8272215,-79.2347821,2,Morningside Avenue (877),a
 43.8272215,-79.2347821,2,Oasis Boulevard (059),a
 43.8272215,-79.2347821,2,Oasis Boulevard (224),a
-43.8272339,-79.2749659,2,Seamist Crescent (440),a
-43.8272339,-79.2749659,2,Seamist Crescent (902),a
 43.8272423,-79.2319125,2,Raponi Circle (076),a
 43.8272423,-79.2319125,2,Raponi Circle (076),a
 43.8272423,-79.2319125,2,Raponi Circle (685),a
@@ -46171,8 +44707,6 @@ lat,lon,sz,names,len_cat
 43.8272425,-79.2870634,2,Brimley Road (989),a
 43.8272492,-79.2344763,2,Morningside Avenue (663),a
 43.8272492,-79.2344763,2,Morningside Avenue (797),a
-43.8272828,-79.2749414,2,Seamist Crescent (439),a
-43.8272828,-79.2749414,2,Seamist Crescent (901),a
 43.8272842,-79.2345531,2,Morningside Avenue (299),a
 43.8272842,-79.2345531,2,Morningside Avenue (371),a
 43.8272842,-79.2345531,2,Morningside Avenue (910),a
@@ -46181,12 +44715,6 @@ lat,lon,sz,names,len_cat
 43.8272842,-79.2345531,2,Oasis Boulevard (031),a
 43.8272842,-79.2345531,2,Oasis Boulevard (934),a
 43.8272842,-79.2345531,2,Oasis Boulevard (955),a
-43.8273087,-79.2654264,2,Ingleton Boulevard (325),a
-43.8273087,-79.2654264,2,Ingleton Boulevard (341),a
-43.8273087,-79.2654264,2,Ingleton Boulevard (907),a
-43.8273087,-79.2654264,2,Ingleton Boulevard (923),a
-43.8273162,-79.2653922,2,Ingleton Boulevard (342),a
-43.8273162,-79.2653922,2,Ingleton Boulevard (924),a
 43.8273307,-79.2345127,2,Oasis Boulevard (300),a
 43.8273307,-79.2345127,2,Oasis Boulevard (945),a
 43.8273312,-79.2491706,2,Markham Road (033),a
@@ -46199,24 +44727,14 @@ lat,lon,sz,names,len_cat
 43.8273361,-79.2346834,2,Oasis Boulevard (058),a
 43.8273361,-79.2346834,2,Oasis Boulevard (223),a
 43.8273361,-79.2346834,2,Oasis Boulevard (945),a
-43.8273628,-79.2758758,2,McCowan Road (634),a
-43.8273628,-79.2758758,2,McCowan Road (926),a
 43.8273739,-79.2473783,2,Ironside Crescent (471),a
 43.8273739,-79.2473783,2,Ironside Crescent (948),a
 43.8273831,-79.2346381,2,Oasis Boulevard (680),a
 43.8273831,-79.2346381,2,Oasis Boulevard (798),a
-43.8274003,-79.2738108,2,Seamist Crescent (424),a
-43.8274003,-79.2738108,2,Seamist Crescent (886),a
 43.8274223,-79.243761,2,Tapscott Road (209),a
 43.8274223,-79.243761,2,Tapscott Road (821),a
-43.8274378,-79.2737918,2,Seamist Crescent (425),a
-43.8274378,-79.2737918,2,Seamist Crescent (887),a
 43.8274571,-79.2871322,2,Brimley Road (309),a
 43.8274571,-79.2871322,2,Brimley Road (837),a
-43.8274768,-79.2737798,2,Seamist Crescent (426),a
-43.8274768,-79.2737798,2,Seamist Crescent (888),a
-43.8275432,-79.2737764,2,Seamist Crescent (427),a
-43.8275432,-79.2737764,2,Seamist Crescent (889),a
 43.827564,-79.2642794,2,Passmore Avenue (049),a
 43.827564,-79.2642794,2,Passmore Avenue (551),a
 43.827564,-79.2642794,2,Passmore Avenue (688),a
@@ -46259,8 +44777,6 @@ lat,lon,sz,names,len_cat
 43.827764,-79.2303998,2,Raponi Circle (821),a
 43.8277824,-79.2871877,2,Brimley Road (307),a
 43.8277824,-79.2871877,2,Brimley Road (835),a
-43.8277964,-79.2738314,2,Seamist Crescent (428),a
-43.8277964,-79.2738314,2,Seamist Crescent (890),a
 43.8277968,-79.2303904,2,Raponi Circle (079),a
 43.8277968,-79.2303904,2,Raponi Circle (688),a
 43.8278086,-79.2331387,2,Raponi Circle (054),a
@@ -46268,10 +44784,6 @@ lat,lon,sz,names,len_cat
 43.8278086,-79.2331387,2,Raponi Circle (221),a
 43.8278243,-79.2303977,2,Raponi Circle (080),a
 43.8278243,-79.2303977,2,Raponi Circle (689),a
-43.8278369,-79.2738248,2,Seamist Crescent (429),a
-43.8278369,-79.2738248,2,Seamist Crescent (891),a
-43.8278606,-79.2738328,2,Seamist Crescent (430),a
-43.8278606,-79.2738328,2,Seamist Crescent (892),a
 43.8278618,-79.2304267,2,Raponi Circle (081),a
 43.8278663,-79.288981,2,Steeles Avenue East (075),a
 43.8278663,-79.288981,2,Steeles Avenue East (691),a
@@ -46279,38 +44791,20 @@ lat,lon,sz,names,len_cat
 43.8278857,-79.233323,2,Raponi Circle (091),a
 43.8278857,-79.233323,2,Raponi Circle (701),a
 43.8278857,-79.233323,2,Raponi Circle (701),a
-43.8278892,-79.2738543,2,Seamist Crescent (431),a
-43.8278892,-79.2738543,2,Seamist Crescent (893),a
 43.827906,-79.247612,2,Ironside Crescent (040),a
 43.827906,-79.247612,2,Ironside Crescent (471),a
-43.8279146,-79.2738985,2,Seamist Crescent (432),a
-43.8279146,-79.2738985,2,Seamist Crescent (894),a
 43.8279329,-79.2439801,2,Tapscott Road (500),a
 43.8279329,-79.2439801,2,Tapscott Road (500),a
 43.8279329,-79.2439801,2,Tapscott Road (597),a
 43.8279329,-79.2439801,2,Tapscott Road (597),a
-43.8279416,-79.2746146,2,Seamist Crescent (438),a
-43.8279416,-79.2746146,2,Seamist Crescent (900),a
-43.8279995,-79.2745943,2,Seamist Crescent (437),a
-43.8279995,-79.2745943,2,Seamist Crescent (899),a
-43.8280224,-79.2756277,2,McCowan Road (639),a
-43.8280224,-79.2756277,2,McCowan Road (931),a
 43.8280228,-79.2882911,2,Steeles Avenue East (074),a
 43.8280228,-79.2882911,2,Steeles Avenue East (690),a
 43.8280233,-79.2440227,2,Tapscott Road (501),a
 43.8280233,-79.2440227,2,Tapscott Road (501),a
 43.8280233,-79.2440227,2,Tapscott Road (598),a
 43.8280233,-79.2440227,2,Tapscott Road (598),a
-43.8280302,-79.2745665,2,Seamist Crescent (436),a
-43.8280302,-79.2745665,2,Seamist Crescent (898),a
 43.8280357,-79.230586,2,Raponi Circle (082),a
 43.8280357,-79.230586,2,Raponi Circle (691),a
-43.8280369,-79.2743585,2,Seamist Crescent (433),a
-43.8280369,-79.2743585,2,Seamist Crescent (895),a
-43.8280505,-79.2745243,2,Seamist Crescent (435),a
-43.8280505,-79.2745243,2,Seamist Crescent (897),a
-43.8280573,-79.2744744,2,Seamist Crescent (434),a
-43.8280573,-79.2744744,2,Seamist Crescent (896),a
 43.8280732,-79.2337719,2,Raponi Circle (272),a
 43.8280732,-79.2337719,2,Raponi Circle (272),a
 43.8280732,-79.2337719,2,Raponi Circle (584),a
@@ -46357,8 +44851,6 @@ lat,lon,sz,names,len_cat
 43.8283099,-79.2337352,2,Oasis Boulevard (159),a
 43.8283099,-79.2337352,2,Oasis Boulevard (756),a
 43.8283099,-79.2337352,2,Oasis Boulevard (756),a
-43.8283432,-79.2754533,2,McCowan Road (637),a
-43.8283432,-79.2754533,2,McCowan Road (929),a
 43.8283527,-79.2478082,2,Ironside Crescent (150),a
 43.8283527,-79.2478082,2,Ironside Crescent (318),a
 43.8283733,-79.286522,2,Steeles Avenue East (467),a
@@ -46502,8 +44994,6 @@ lat,lon,sz,names,len_cat
 43.8288658,-79.2462289,2,Ironside Crescent (849),a
 43.8288725,-79.2371813,2,Hummingbird Drive (284),a
 43.8288725,-79.2371813,2,Hummingbird Drive (473),a
-43.8288892,-79.2752005,2,McCowan Road (010),a
-43.8288892,-79.2752005,2,McCowan Road (646),a
 43.828891,-79.2461175,2,Ironside Crescent (042),a
 43.828891,-79.2461175,2,Ironside Crescent (473),a
 43.8289235,-79.2444059,2,Tapscott Road (342),a
@@ -46546,8 +45036,6 @@ lat,lon,sz,names,len_cat
 43.8291251,-79.2571847,2,Passmore Avenue (517),a
 43.8291273,-79.2289025,2,Grackle Trail (468),a
 43.8291273,-79.2289025,2,Grackle Trail (652),a
-43.8291338,-79.2750872,2,McCowan Road (633),a
-43.8291338,-79.2750872,2,McCowan Road (925),a
 43.8291351,-79.231277,2,Grackle Trail (438),a
 43.8291351,-79.231277,2,Grackle Trail (912),a
 43.8291411,-79.2303533,2,Grackle Trail (298),a
@@ -46555,8 +45043,6 @@ lat,lon,sz,names,len_cat
 43.8291505,-79.2262793,2,Canoe Crescent (681),a
 43.8291526,-79.233817,2,Oasis Boulevard (158),a
 43.8291526,-79.233817,2,Oasis Boulevard (755),a
-43.8291611,-79.2750819,2,McCowan Road (643),a
-43.8291611,-79.2750819,2,McCowan Road (935),a
 43.829176,-79.2262358,2,Canoe Crescent (443),a
 43.829176,-79.2262358,2,Canoe Crescent (682),a
 43.8291764,-79.2289097,2,Grackle Trail (439),a
@@ -46587,8 +45073,6 @@ lat,lon,sz,names,len_cat
 43.8292179,-79.2338478,2,Oasis Boulevard (953),a
 43.8292179,-79.2338478,2,Seasons Drive (009),a
 43.8292179,-79.2338478,2,Seasons Drive (721),a
-43.8292248,-79.275069,2,McCowan Road (636),a
-43.8292248,-79.275069,2,McCowan Road (928),a
 43.8292272,-79.2305318,2,Grackle Trail (295),a
 43.8292272,-79.2305318,2,Grackle Trail (379),a
 43.8292339,-79.2308576,2,Grackle Trail (292),a
@@ -46642,8 +45126,6 @@ lat,lon,sz,names,len_cat
 43.8292843,-79.2280316,2,Canoe Crescent (930),a
 43.8292865,-79.2338803,2,Oasis Boulevard (156),a
 43.8292865,-79.2338803,2,Oasis Boulevard (753),a
-43.8292888,-79.2750562,2,McCowan Road (644),a
-43.8292888,-79.2750562,2,McCowan Road (936),a
 43.8292888,-79.25,2,Markham Road (458),a
 43.8292888,-79.25,2,Markham Road (634),a
 43.8292978,-79.2291318,2,Seasons Drive (140),a
@@ -46687,10 +45169,6 @@ lat,lon,sz,names,len_cat
 43.8295866,-79.2375292,2,Hummingbird Drive (479),a
 43.8295877,-79.235002,2,Hyacinth Crescent (407),a
 43.8295877,-79.235002,2,Hyacinth Crescent (881),a
-43.8295987,-79.2814509,2,Steeles Avenue East (630),a
-43.8295987,-79.2814509,2,Steeles Avenue East (630),a
-43.8295987,-79.2814509,2,Steeles Avenue East (993),a
-43.8295987,-79.2814509,2,Steeles Avenue East (993),a
 43.8296019,-79.229516,2,Grapevine Circle (904),a
 43.8296107,-79.2349732,2,Hyacinth Crescent (406),a
 43.8296107,-79.2349732,2,Hyacinth Crescent (880),a
@@ -46709,30 +45187,12 @@ lat,lon,sz,names,len_cat
 43.8296336,-79.2366803,2,Hyacinth Crescent (654),a
 43.8296417,-79.2349551,2,Hyacinth Crescent (274),a
 43.8296417,-79.2349551,2,Hyacinth Crescent (669),a
-43.8296576,-79.2809361,2,Steeles Avenue East (512),a
-43.8296576,-79.2809361,2,Steeles Avenue East (512),a
-43.8296576,-79.2809361,2,Steeles Avenue East (754),a
-43.8296576,-79.2809361,2,Steeles Avenue East (754),a
-43.82966,-79.2811873,2,Steeles Avenue East (511),a
-43.82966,-79.2811873,2,Steeles Avenue East (511),a
-43.82966,-79.2811873,2,Steeles Avenue East (629),a
-43.82966,-79.2811873,2,Steeles Avenue East (629),a
-43.82966,-79.2811873,2,Steeles Avenue East (753),a
-43.82966,-79.2811873,2,Steeles Avenue East (753),a
-43.82966,-79.2811873,2,Steeles Avenue East (992),a
-43.82966,-79.2811873,2,Steeles Avenue East (992),a
 43.8296716,-79.2319503,2,Seasons Drive (321),a
 43.8296716,-79.2319503,2,Seasons Drive (321),a
 43.8296716,-79.2319503,2,Seasons Drive (957),a
 43.8296716,-79.2319503,2,Seasons Drive (957),a
 43.8296842,-79.2349503,2,Hyacinth Crescent (275),a
 43.8296842,-79.2349503,2,Hyacinth Crescent (671),a
-43.8296911,-79.2803325,2,Strawberry Hills Drive (416),a
-43.8296911,-79.2803325,2,Strawberry Hills Drive (416),a
-43.8296911,-79.2803325,2,Strawberry Hills Drive (570),a
-43.8296911,-79.2803325,2,Strawberry Hills Drive (570),a
-43.8296911,-79.2749757,2,McCowan Road (632),a
-43.8296911,-79.2749757,2,McCowan Road (924),a
 43.829703,-79.2501705,2,Markham Road (078),a
 43.829703,-79.2501705,2,Markham Road (103),a
 43.829703,-79.2501705,2,Markham Road (846),a
@@ -46744,18 +45204,6 @@ lat,lon,sz,names,len_cat
 43.8297348,-79.2349725,2,Hyacinth Crescent (276),a
 43.8297348,-79.2349725,2,Hyacinth Crescent (672),a
 43.8297374,-79.226435,2,Canoe Crescent (934),a
-43.8297529,-79.2805112,2,Steeles Avenue East (204),a
-43.8297529,-79.2805112,2,Steeles Avenue East (204),a
-43.8297529,-79.2805112,2,Steeles Avenue East (208),a
-43.8297529,-79.2805112,2,Steeles Avenue East (208),a
-43.8297529,-79.2805112,2,Steeles Avenue East (340),a
-43.8297529,-79.2805112,2,Steeles Avenue East (340),a
-43.8297529,-79.2805112,2,Steeles Avenue East (344),a
-43.8297529,-79.2805112,2,Steeles Avenue East (344),a
-43.8297614,-79.280474,2,Steeles Avenue East (206),a
-43.8297614,-79.280474,2,Steeles Avenue East (206),a
-43.8297614,-79.280474,2,Steeles Avenue East (342),a
-43.8297614,-79.280474,2,Steeles Avenue East (342),a
 43.8297648,-79.2315613,2,Seasons Drive (132),a
 43.8297648,-79.2315613,2,Seasons Drive (132),a
 43.8297648,-79.2315613,2,Seasons Drive (732),a
@@ -46764,32 +45212,12 @@ lat,lon,sz,names,len_cat
 43.8297718,-79.2367091,2,Hyacinth Crescent (651),a
 43.8297807,-79.2299707,2,Seasons Drive (017),a
 43.8297807,-79.2299707,2,Seasons Drive (729),a
-43.8297845,-79.2803731,2,Steeles Avenue East (205),a
-43.8297845,-79.2803731,2,Steeles Avenue East (205),a
-43.8297845,-79.2803731,2,Steeles Avenue East (341),a
-43.8297845,-79.2803731,2,Steeles Avenue East (341),a
-43.8297845,-79.2803731,2,Strawberry Hills Drive (413),a
-43.8297845,-79.2803731,2,Strawberry Hills Drive (413),a
-43.8297845,-79.2803731,2,Strawberry Hills Drive (567),a
-43.8297845,-79.2803731,2,Strawberry Hills Drive (567),a
 43.8297951,-79.2293102,2,Grapevine Circle (368),a
 43.8297951,-79.2293102,2,Grapevine Circle (906),a
-43.8298085,-79.2802681,2,Steeles Avenue East (207),a
-43.8298085,-79.2802681,2,Steeles Avenue East (207),a
-43.8298085,-79.2802681,2,Steeles Avenue East (343),a
-43.8298085,-79.2802681,2,Steeles Avenue East (343),a
 43.8298127,-79.2264713,2,Canoe Crescent (446),a
 43.8298127,-79.2264713,2,Canoe Crescent (685),a
 43.8298127,-79.2264713,2,Seasons Drive (028),a
 43.8298127,-79.2264713,2,Seasons Drive (740),a
-43.829815,-79.2802398,2,Steeles Avenue East (203),a
-43.829815,-79.2802398,2,Steeles Avenue East (203),a
-43.829815,-79.2802398,2,Steeles Avenue East (209),a
-43.829815,-79.2802398,2,Steeles Avenue East (209),a
-43.829815,-79.2802398,2,Steeles Avenue East (339),a
-43.829815,-79.2802398,2,Steeles Avenue East (339),a
-43.829815,-79.2802398,2,Steeles Avenue East (345),a
-43.829815,-79.2802398,2,Steeles Avenue East (345),a
 43.8298275,-79.2300557,2,Seasons Drive (133),a
 43.8298275,-79.2300557,2,Seasons Drive (733),a
 43.8298288,-79.2375669,2,Hummingbird Drive (292),a
@@ -46873,8 +45301,6 @@ lat,lon,sz,names,len_cat
 43.8301068,-79.2367024,2,Hyacinth Crescent (885),a
 43.8301121,-79.2375591,2,Hummingbird Drive (294),a
 43.8301121,-79.2375591,2,Hummingbird Drive (483),a
-43.8301245,-79.2749928,2,McCowan Road (631),a
-43.8301245,-79.2749928,2,McCowan Road (923),a
 43.8301325,-79.228948,2,Grapevine Circle (364),a
 43.8301325,-79.228948,2,Grapevine Circle (897),a
 43.8301394,-79.2360243,2,Pinoak Street (370),a
@@ -46953,15 +45379,11 @@ lat,lon,sz,names,len_cat
 43.8304595,-79.2343993,2,Oasis Boulevard (879),a
 43.8304642,-79.229072,2,Grapevine Circle (362),a
 43.8304642,-79.229072,2,Grapevine Circle (894),a
-43.8304645,-79.2750322,2,McCowan Road (641),a
-43.8304645,-79.2750322,2,McCowan Road (933),a
 43.8304652,-79.2347913,2,Pinoak Street (374),a
 43.8304652,-79.2347913,2,Pinoak Street (848),a
 43.8304904,-79.2269079,2,Grapevine Circle (203),a
 43.8305042,-79.2774713,2,Steeles Avenue East (006),a
 43.8305042,-79.2774713,2,Steeles Avenue East (642),a
-43.8305098,-79.2750374,2,McCowan Road (642),a
-43.8305098,-79.2750374,2,McCowan Road (934),a
 43.8305121,-79.2300259,2,Grosbeak Crescent (367),a
 43.8305121,-79.2300259,2,Grosbeak Crescent (841),a
 43.8305155,-79.2290621,2,Grapevine Circle (361),a
@@ -46985,12 +45407,6 @@ lat,lon,sz,names,len_cat
 43.830549,-79.2344396,2,Pinoak Street (849),a
 43.8305603,-79.2290273,2,Grapevine Circle (359),a
 43.8305603,-79.2290273,2,Grapevine Circle (890),a
-43.8305615,-79.2750434,2,McCowan Road (004),a
-43.8305615,-79.2750434,2,McCowan Road (009),a
-43.8305615,-79.2750434,2,McCowan Road (009),a
-43.8305615,-79.2750434,2,McCowan Road (098),a
-43.8305615,-79.2750434,2,McCowan Road (110),a
-43.8305615,-79.2750434,2,McCowan Road (645),a
 43.8305702,-79.2300481,2,Grosbeak Crescent (167),a
 43.8305702,-79.2300481,2,Grosbeak Crescent (203),a
 43.8305715,-79.2289685,2,Grapevine Circle (358),a
@@ -47009,14 +45425,10 @@ lat,lon,sz,names,len_cat
 43.8306211,-79.2286536,2,Grapevine Circle (887),a
 43.8306237,-79.2500106,2,Passmore Avenue (271),a
 43.8306237,-79.2500106,2,Passmore Avenue (971),a
-43.830643,-79.2751656,2,McCowan Road (003),a
-43.830643,-79.2751656,2,McCowan Road (097),a
 43.8306454,-79.2504617,2,Passmore Avenue (119),a
 43.8306454,-79.2504617,2,Passmore Avenue (309),a
 43.83065,-79.228565,2,Grapevine Circle (355),a
 43.83065,-79.228565,2,Grapevine Circle (886),a
-43.8306615,-79.2750203,2,McCowan Road (010),a
-43.8306615,-79.2750203,2,McCowan Road (111),a
 43.8306664,-79.2507646,2,Markham Road (223),a
 43.8306664,-79.2507646,2,Markham Road (360),a
 43.8306704,-79.2285184,2,Grapevine Circle (354),a
@@ -47031,36 +45443,24 @@ lat,lon,sz,names,len_cat
 43.8307044,-79.24992,2,Passmore Avenue (987),a
 43.8307107,-79.25059,2,Markham Road (218),a
 43.8307107,-79.25059,2,Markham Road (355),a
-43.8307293,-79.2764978,2,Steeles Avenue East (005),a
-43.8307293,-79.2764978,2,Steeles Avenue East (641),a
 43.8307355,-79.2500323,2,Passmore Avenue (256),a
 43.8307355,-79.2500323,2,Passmore Avenue (950),a
-43.8307606,-79.2761231,2,Steeles Avenue East (146),a
-43.8307606,-79.2761231,2,Steeles Avenue East (898),a
 43.8307739,-79.2359976,2,Dusk Owl Drive (318),a
 43.8307739,-79.2359976,2,Dusk Owl Drive (604),a
 43.8307758,-79.2360923,2,Dusk Owl Drive (319),a
 43.8307758,-79.2360923,2,Dusk Owl Drive (605),a
-43.8307825,-79.2762438,2,Steeles Avenue East (004),a
-43.8307825,-79.2762438,2,Steeles Avenue East (469),a
-43.8307825,-79.2762438,2,Steeles Avenue East (640),a
-43.8307825,-79.2762438,2,Steeles Avenue East (711),a
 43.8307886,-79.2358787,2,Dusk Owl Drive (317),a
 43.8307886,-79.2358787,2,Dusk Owl Drive (603),a
 43.8307903,-79.236197,2,Dusk Owl Drive (320),a
 43.8307903,-79.236197,2,Dusk Owl Drive (606),a
 43.8308246,-79.2357513,2,Dusk Owl Drive (316),a
 43.8308246,-79.2357513,2,Dusk Owl Drive (602),a
-43.8308256,-79.2758703,2,Steeles Avenue East (470),a
-43.8308256,-79.2758703,2,Steeles Avenue East (712),a
 43.8308418,-79.2493189,2,Passmore Avenue (366),a
 43.8308418,-79.2493189,2,Passmore Avenue (420),a
 43.8308418,-79.2493189,2,Passmore Avenue (856),a
 43.8308418,-79.2493189,2,Passmore Avenue (990),a
 43.8308428,-79.2363636,2,Dusk Owl Drive (321),a
 43.8308428,-79.2363636,2,Dusk Owl Drive (607),a
-43.8308765,-79.2752229,2,McCowan Road (095),a
-43.8308765,-79.2752229,2,McCowan Road (962),a
 43.8308909,-79.2453187,2,Tapscott Road (337),a
 43.8308909,-79.2453187,2,Tapscott Road (337),a
 43.8308909,-79.2453187,2,Tapscott Road (341),a
@@ -47075,44 +45475,22 @@ lat,lon,sz,names,len_cat
 43.8309081,-79.2354781,2,Dusk Owl Drive (612),a
 43.8309081,-79.2354781,2,Pitchpine Drive (227),a
 43.8309081,-79.2354781,2,Pitchpine Drive (801),a
-43.8309094,-79.2750788,2,McCowan Road (114),a
-43.8309094,-79.2750788,2,McCowan Road (960),a
 43.830924,-79.2273072,2,Grapevine Circle (346),a
 43.830924,-79.2273072,2,Grapevine Circle (877),a
-43.8309389,-79.2753785,2,Steeles Avenue East (471),a
-43.8309389,-79.2753785,2,Steeles Avenue East (963),a
 43.8309466,-79.2353569,2,Dusk Owl Drive (328),a
 43.8309466,-79.2353569,2,Dusk Owl Drive (614),a
 43.8309504,-79.2488435,2,Passmore Avenue (419),a
 43.8309504,-79.2488435,2,Passmore Avenue (989),a
 43.8309522,-79.2273732,2,Grapevine Circle (347),a
 43.8309522,-79.2273732,2,Grapevine Circle (878),a
-43.8309656,-79.2752445,2,McCowan Road (001),a
-43.8309656,-79.2752445,2,McCowan Road (006),a
-43.8309656,-79.2752445,2,McCowan Road (094),a
-43.8309656,-79.2752445,2,McCowan Road (102),a
-43.8309656,-79.2752445,2,Steeles Avenue East (472),a
-43.8309656,-79.2752445,2,Steeles Avenue East (477),a
-43.8309656,-79.2752445,2,Steeles Avenue East (714),a
-43.8309656,-79.2752445,2,Steeles Avenue East (719),a
 43.8309801,-79.235512,2,Pitchpine Drive (393),a
 43.8309801,-79.235512,2,Pitchpine Drive (867),a
-43.8309965,-79.2751074,2,McCowan Road (007),a
-43.8309965,-79.2751074,2,McCowan Road (012),a
-43.8309965,-79.2751074,2,McCowan Road (104),a
-43.8309965,-79.2751074,2,McCowan Road (116),a
-43.8309965,-79.2751074,2,Steeles Avenue East (473),a
-43.8309965,-79.2751074,2,Steeles Avenue East (478),a
-43.8309965,-79.2751074,2,Steeles Avenue East (715),a
-43.8309965,-79.2751074,2,Steeles Avenue East (720),a
 43.8309991,-79.235521,2,Pitchpine Drive (392),a
 43.8309991,-79.235521,2,Pitchpine Drive (866),a
 43.8310154,-79.2351099,2,Dusk Owl Drive (425),a
 43.8310154,-79.2351099,2,Dusk Owl Drive (899),a
 43.8310187,-79.2368557,2,Dusk Owl Drive (322),a
 43.8310187,-79.2368557,2,Dusk Owl Drive (608),a
-43.8310223,-79.2749914,2,Steeles Avenue East (474),a
-43.8310223,-79.2749914,2,Steeles Avenue East (961),a
 43.8310544,-79.2369581,2,Dusk Owl Drive (323),a
 43.8310544,-79.2369581,2,Dusk Owl Drive (609),a
 43.8310762,-79.237057,2,Dusk Owl Drive (423),a
@@ -47158,8 +45536,6 @@ lat,lon,sz,names,len_cat
 43.8311535,-79.2345572,2,Grosbeak Crescent (156),a
 43.8311535,-79.2345572,2,Grosbeak Crescent (174),a
 43.8311535,-79.2345572,2,Grosbeak Crescent (216),a
-43.8311689,-79.274336,2,Steeles Avenue East (475),a
-43.8311689,-79.274336,2,Steeles Avenue East (717),a
 43.8311805,-79.250903,2,Markham Road (222),a
 43.8311805,-79.250903,2,Markham Road (359),a
 43.8311891,-79.2347144,2,Oasis Boulevard (152),a
@@ -47168,8 +45544,6 @@ lat,lon,sz,names,len_cat
 43.8311991,-79.2477555,2,Passmore Avenue (530),a
 43.8312404,-79.2455135,2,Tapscott Road (339),a
 43.8312404,-79.2455135,2,Tapscott Road (830),a
-43.8312431,-79.2742093,2,Steeles Avenue East (476),a
-43.8312431,-79.2742093,2,Steeles Avenue East (718),a
 43.8313243,-79.2472029,2,Passmore Avenue (742),a
 43.8313243,-79.2472029,2,Passmore Avenue (890),a
 43.8313326,-79.2356751,2,Pitchpine Drive (228),a
@@ -47184,10 +45558,6 @@ lat,lon,sz,names,len_cat
 43.8314169,-79.2359358,2,Pitchpine Drive (805),a
 43.8314264,-79.2360222,2,Pitchpine Drive (232),a
 43.8314264,-79.2360222,2,Pitchpine Drive (806),a
-43.8314601,-79.2732011,2,Steeles Avenue East (633),a
-43.8314601,-79.2732011,2,Steeles Avenue East (944),a
-43.8314801,-79.2732826,2,Steeles Avenue East (632),a
-43.8314801,-79.2732826,2,Steeles Avenue East (943),a
 43.8314801,-79.2456431,2,Tapscott Road (340),a
 43.8314801,-79.2456431,2,Tapscott Road (831),a
 43.8314851,-79.2464931,2,Passmore Avenue (412),a

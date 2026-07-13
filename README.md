@@ -2,11 +2,6 @@
 
 ![image](https://github.com/codereport/city-strides-hacking/assets/36027403/ef99afe0-82e4-49a1-9358-1b741179635b)
 
-### Route Generation
-
-![7xh4u7](https://github.com/codereport/city-strides-hacking/assets/36027403/46bd1cea-e336-41a3-8670-9a8ebe0c9ec7)
-
-
 # How to Use the Python Scripts
 
 1. `git clone https://github.com/codereport/city-strides-hacking.git`
@@ -32,24 +27,26 @@
 ```yaml
 city: bangkok
 map_style: 'open-street-map'
-max_distance: 25.0
-steps: 9
-hot_spots: true
-hot_spot_n: 2
-hot_spot_delta: 0.05
 heat_map_max_length: 1
 heat_map_exclude_csnodes: false
-start_node: 1692740969
 ```
 4. You can now run:
    * `./download_node_csv.py cookie.json` to scrape all the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
 
-# How to use the Rust route generator
+# Private route planner
 
-1. Compile the Rust code: `cargo build`, this creates executable `./city_strides_route_generator`
-2. Download the file `data/bangkok.json` and `data/bangkok_all.json` by querying <https://overpass-api.de> with the queries of [overpass_queries.md](overpass_queries.md) (assuming you set bangkok in `parameters.yaml`)  
-3. Call `././city_strides_route_generator`
+The closed-loop route planner is maintained in the private
+`city-strides-route-planner` submodule. Contributors with access can initialize
+it with:
+
+```bash
+git submodule update --init
+cd city-strides-route-planner
+python3 route_planner.py serve --city scarborough
+```
+
+See the submodule README for setup, data acquisition, CLI usage, and tests.
 
 ### Useful Links
 

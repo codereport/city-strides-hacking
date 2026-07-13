@@ -4,9 +4,6 @@ __pycache__/
 .vscode/
 nodes.csv
 node_plot.html
-city_strides_route_generator
-Cargo.lock
-target/*
 map.png
 imgs/*
 heat_map.html

@@ -200,7 +200,7 @@ def fetch_overpass_data(query):
     return None
 
 
-def save_city_data(city_name, data, original_name=None):
+def save_city_data(city_name, data, original_name=None, query_type="named"):
     """
     Save the fetched data to the data directory.
     Uses original_name for filename if provided, otherwise uses city_name.
@@ -211,7 +211,8 @@ def save_city_data(city_name, data, original_name=None):
     # Use original name for filename if provided, otherwise use city_name
     filename = original_name if original_name else city_name
     filename = filename.lower().replace(" ", "_").replace("-", "_")
-    output_file = data_dir / f"{filename}.json"
+    suffix = "_all" if query_type == "all" else ""
+    output_file = data_dir / f"{filename}{suffix}.json"
 
     try:
         with open(output_file, "w") as f:
@@ -264,9 +265,12 @@ def main():
         filename_base = normalized_user_input
 
     # Check if data already exists (check both possible filenames)
-    data_file = Path(__file__).parent / "data" / f"{filename_base}.json"
+    suffix = "_all" if args.query_type == "all" else ""
+    data_file = Path(__file__).parent / "data" / f"{filename_base}{suffix}.json"
     alt_data_file = (Path(__file__).parent / "data" / f"{search_name}.json"
                      if search_name != filename_base else None)
+    if alt_data_file is not None and args.query_type == "all":
+        alt_data_file = alt_data_file.with_name(f"{search_name}_all.json")
 
     if data_file.exists() and not args.force:
         print(
@@ -360,13 +364,13 @@ def main():
         return False
 
     # Save data using the user's original input as filename
-    if not save_city_data(search_name, data, filename_base):
+    if not save_city_data(search_name, data, filename_base, args.query_type):
         return False
 
     print(f"\n✓ Successfully downloaded data for {args.city_name}")
     if official_city_name:
         print(f"   (Used official name '{search_name}' for search)")
-    print(f"   Saved as: {filename_base}.json")
+    print(f"   Saved as: {filename_base}{suffix}.json")
     print(f"Next steps:")
     print(f"  1. Generate heatmap: python3 create_heat_map.py {filename_base}")
     print(f"  2. Optionally add to download_node_csv.py for future processing")

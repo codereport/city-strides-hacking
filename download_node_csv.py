@@ -115,14 +115,26 @@ def parse_options():
     return parser.parse_args()
 
 
-def parse_nodes(r: str):
-    # A node tuple is:
-    #   [lat, lon, node_id, street_name, street_total_nodes, city_name, street_id, city_id]
-    # The endpoint only returns the *incomplete* (to-do) nodes for the logged-in
-    # user, so `street_total_nodes` lets us later derive how many are done.
+def parse_nodes(r: str, city_id: int | str | None = None):
+    """Parse incomplete CityStrides node tuples.
+
+    Tuple fields are latitude, longitude, node ID, street name, total street
+    nodes, city name, street ID, and city ID. The total lets the planner derive
+    how many nodes were already completed.
+    """
     nodes = []
     for node in literal_eval(r):
         lat, lon, node_id, name, street_total, _city, street_id = node[:7]
+        source_city_id = int(node[7]) if len(node) > 7 else None
+        # The bounding-box endpoint can include overlapping CityStrides cities
+        # (for example Scarborough and All Toronto). Mixing them duplicates the
+        # same physical street under two internal street IDs.
+        if (
+            city_id is not None
+            and source_city_id is not None
+            and source_city_id != int(city_id)
+        ):
+            continue
         nodes.append(
             Node(
                 lat=lat,
@@ -260,15 +272,13 @@ def get_city_from_user():
 
     for i in range(num_rows):
         cells = [
-            cell(i + j * num_rows)
-            for j in range(num_columns)
-            if i + j * num_rows < n
+            cell(i + j * num_rows) for j in range(num_columns) if i + j * num_rows < n
         ]
         print(sep.join(cells).rstrip())
 
     try:
         city = list(City)[int(input("\nChoice: ")) - 1]
-    except:
+    except (ValueError, IndexError):
         print(f"Invalid input: Number must be <= {len(City)}")
         sys.exit()
 
@@ -302,7 +312,7 @@ def download_nodes_of_coordinates(city, coordinates, cache):
     )
 
     try:
-        lat_lons = parse_nodes(response.text)
+        lat_lons = parse_nodes(response.text, city.value)
         if len(lat_lons) == 0:
             cache.add(coordinates)
         elif len(lat_lons) > 1000:

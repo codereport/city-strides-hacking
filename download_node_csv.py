@@ -28,6 +28,10 @@ class Node:
     sz: int = 2
     names: str = ""
     len_cat: str = "a"
+    street: str = ""  # clean street name (no node-id suffix)
+    street_nodes: int = 0  # total nodes in the street (completed + to-do)
+    street_id: int = 0  # CityStrides street id (stable grouping key)
+    node_id: int = 0  # CityStrides node id (unique; used to de-dup)
 
 
 # fmt: off
@@ -112,10 +116,23 @@ def parse_options():
 
 
 def parse_nodes(r: str):
+    # A node tuple is:
+    #   [lat, lon, node_id, street_name, street_total_nodes, city_name, street_id, city_id]
+    # The endpoint only returns the *incomplete* (to-do) nodes for the logged-in
+    # user, so `street_total_nodes` lets us later derive how many are done.
     nodes = []
     for node in literal_eval(r):
+        lat, lon, node_id, name, street_total, _city, street_id = node[:7]
         nodes.append(
-            Node(lat=node[0], lon=node[1], names=f"{node[3]} ({str(node[2])[-3:]})")
+            Node(
+                lat=lat,
+                lon=lon,
+                names=f"{name} ({str(node_id)[-3:]})",
+                street=name,
+                street_nodes=street_total,
+                street_id=street_id,
+                node_id=node_id,
+            )
         )
     return nodes
 

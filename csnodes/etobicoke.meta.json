@@ -1,0 +1,15 @@
+{
+  "city": "etobicoke",
+  "city_id": "38014",
+  "generated_at": "2026-07-14T23:25:09.953856+00:00",
+  "node_count": 16054,
+  "pass_node_counts": [
+    16054
+  ],
+  "passes": 1,
+  "passes_identical": true,
+  "schema_version": 1,
+  "sha256": "240a4fbea068f4f59176210ee251667bf071e9da25a796ccf60f0196d4198ceb",
+  "source_city": "Etobicoke",
+  "street_count": 708
+}

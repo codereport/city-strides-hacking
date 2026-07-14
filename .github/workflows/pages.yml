@@ -1,0 +1,57 @@
+name: Deploy upcoming runs to Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - index.html
+      - upcoming_runs/**
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # This repository contains gigabytes of route-planning data, while the
+      # published site contains only these two paths. A partial, sparse clone
+      # avoids downloading or checking out the data and private submodule.
+      - name: Fetch only the public site
+        env:
+          REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}.git
+          REVISION: ${{ github.sha }}
+        run: |
+          git clone --no-checkout --depth 1 --filter=blob:none "$REPOSITORY_URL" source
+          git -C source sparse-checkout init --no-cone
+          git -C source sparse-checkout set /index.html /upcoming_runs/
+          git -C source checkout --detach "$REVISION"
+
+          mkdir _site
+          cp source/index.html _site/
+          cp -R source/upcoming_runs _site/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

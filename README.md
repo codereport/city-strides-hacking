@@ -57,6 +57,16 @@ Phone-ready route exports from the private planner are written to the public
 `upcoming_runs/` directory and automatically listed by the repository-root
 `index.html` page.
 
+## GitHub Pages
+
+The Pages workflow deploys only `index.html` and `upcoming_runs/`. It uses a
+partial, sparse clone so the runner does not download the repository's large
+route-planning datasets or initialize the private planner submodule.
+
+Set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**
+once. Thereafter, Pages runs only when the public site or its workflow changes;
+data-only commits do not trigger a deployment.
+
 ### Useful Links
 
 * [Details about CS OSM Data](https://community.citystrides.com/t/about-the-node-street-and-city-data/19802)

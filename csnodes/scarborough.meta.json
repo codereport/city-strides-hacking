@@ -1,0 +1,15 @@
+{
+  "city": "scarborough",
+  "city_id": "38007",
+  "generated_at": "2026-07-14T20:16:38.740746+00:00",
+  "node_count": 14110,
+  "pass_node_counts": [
+    14110
+  ],
+  "passes": 1,
+  "passes_identical": true,
+  "schema_version": 1,
+  "sha256": "9845fea9f648834c9ab3cc31d17b319e8d4664da1d5e54bf63da6313e3b29cd6",
+  "source_city": "Scarborough",
+  "street_count": 654
+}

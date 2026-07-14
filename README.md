@@ -48,6 +48,10 @@ python3 route_planner.py serve --city scarborough
 
 See the submodule README for setup, data acquisition, CLI usage, and tests.
 
+Phone-ready route exports from the private planner are written to the public
+`upcoming_runs/` directory and automatically listed by the repository-root
+`index.html` page.
+
 ### Useful Links
 
 * [Details about CS OSM Data](https://community.citystrides.com/t/about-the-node-street-and-city-data/19802)

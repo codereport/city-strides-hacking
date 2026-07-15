@@ -17,7 +17,8 @@
 * Generate the above by doing the following:
    * Go to www.citystrides.com (on Firefox)
    * `Ctrl + Shift + I` to open the Web Developer Tools
-   * Choose a city on CityStrides, and click the 'Show Nodes" button (need to subscride for access to nodes)
+   * Choose a city on CityStrides, and click the "Show Nodes" button (a
+     subscription is required for node access)
    * Copy the `GET` command using the `Copy Value` -> `Copy as Curl` 
    * Paste the curl command to https://curlconverter.com/python/
    * Your `cookies` can be found in the generated command
@@ -25,14 +26,21 @@
 3. Add a `parameters.yaml`. Example below.
 
 ```yaml
-city: bangkok
 map_style: 'open-street-map'
 heat_map_max_length: 1
 heat_map_exclude_csnodes: false
 ```
 4. You can now run:
-   * `./download_node_csv.py cookie.json` to scrape all the nodes to `nodes.csv`
+   * `./download_node_csv.py cookies.json` to scrape all the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
+   * `./create_heat_map.py scarborough` to build
+     `heat_maps/scarborough.html`
+   * Pass several cities, such as `./create_heat_map.py tiny midland`, to create
+     a combined heat map. Use `--output path.html` to choose another destination.
+
+For a city without an OSM dataset, `./get_data_for_new_city.py CITY` downloads
+it. `./add_new_city.py CITY` registers a new CityStrides city and bounding box
+with the node downloader.
 
 # Private route planner
 

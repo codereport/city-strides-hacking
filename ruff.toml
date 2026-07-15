@@ -1,3 +1,4 @@
+[lint]
 select = ["E", "F", "B", "W", "ERA", "RET", "UP", "I", "N", "Q"]
 
 ignore = [

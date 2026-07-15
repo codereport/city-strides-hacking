@@ -3,9 +3,7 @@
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import utils
 
-style = utils.load_parameters()["map_style"]
 cities = pd.read_csv("nodes.csv")
 
 # Calculate center point for better initial view

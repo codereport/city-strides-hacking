@@ -5,10 +5,9 @@ import json
 import re
 import sys
 from pathlib import Path
-from typing import Optional, Tuple, Dict, Any
+from typing import Any, Dict, Optional, Tuple
 
 import requests
-from tqdm import tqdm
 
 # City name aliases mapping - maps common names to their official City Strides names
 # Add aliases manually as needed
@@ -94,26 +93,25 @@ def search_city_on_nominatim(city_name: str) -> Optional[Dict[str, Any]]:
             selected = city_results[0]
             print(f"Found: {selected['display_name']}")
             return selected
-        else:
-            print(f"Found {len(city_results)} potential matches:")
-            for i, result in enumerate(city_results):
-                print(
-                    f"  {i+1}. {result['display_name']} (Type: {result.get('type', 'unknown')})"
-                )
 
-            try:
-                choice = int(
-                    input(f"\nSelect option (1-{len(city_results)}): ")) - 1
-                if 0 <= choice < len(city_results):
-                    selected = city_results[choice]
-                    print(f"Selected: {selected['display_name']}")
-                    return selected
-                else:
-                    print("Invalid selection")
-                    return None
-            except (ValueError, KeyboardInterrupt):
-                print("Invalid input or cancelled")
-                return None
+        print(f"Found {len(city_results)} potential matches:")
+        for i, result in enumerate(city_results):
+            print(
+                f"  {i+1}. {result['display_name']} (Type: {result.get('type', 'unknown')})"
+            )
+
+        try:
+            choice = int(input(f"\nSelect option (1-{len(city_results)}): ")) - 1
+            if 0 <= choice < len(city_results):
+                selected = city_results[choice]
+                print(f"Selected: {selected['display_name']}")
+                return selected
+
+            print("Invalid selection")
+            return None
+        except (ValueError, KeyboardInterrupt):
+            print("Invalid input or cancelled")
+            return None
 
     except requests.RequestException as e:
         print(f"Error searching for city: {e}")
@@ -187,14 +185,12 @@ def search_city_on_citystrides(
             if len(bbox) == 4:
                 print(f"Found bounding box: {bbox}")
                 return city_id, bbox
-            else:
-                print(
-                    "Could not extract complete bounding box from City Strides"
-                )
-                return city_id, None
-        else:
-            print(f"Could not find '{city_name}' on City Strides cities page")
-            return None
+
+            print("Could not extract complete bounding box from City Strides")
+            return city_id, None
+
+        print(f"Could not find '{city_name}' on City Strides cities page")
+        return None
 
     except requests.RequestException as e:
         print(f"Error searching City Strides: {e}")
@@ -244,7 +240,7 @@ def update_download_node_csv(city_name: str,
         return False
 
     # Read the current file
-    with open(download_file, "r") as f:
+    with open(download_file) as f:
         content = f.read()
 
     enum_name = format_city_name_for_enum(city_name)
@@ -369,7 +365,7 @@ def main():
         print("Error: Could not determine city ID and/or bounding box")
         return False
 
-    print(f"\nCity Information:")
+    print("\nCity Information:")
     print(f"  Name: {display_name}")
     if official_city_name:
         print(f"  Official Name: {search_name}")
@@ -388,13 +384,13 @@ def main():
         print(
             f"   (Used official name '{search_name}' for City Strides integration)"
         )
-    print(f"\nNext steps:")
+    print("\nNext steps:")
     file_name = format_city_name_for_file(display_name)
     print(
-        f'  1. Download OpenStreetMap data: python3 download_data_for_new_city.py "{display_name}"'
+        f'  1. Download OpenStreetMap data: python3 get_data_for_new_city.py "{display_name}"'
     )
     print(
-        f"  2. Download City Strides nodes: python3 download_node_csv.py cookies.json"
+        "  2. Download City Strides nodes: python3 download_node_csv.py cookies.json"
     )
     print(
         f"     (Select {format_city_name_for_enum(city_name_for_enum)} from the list)"

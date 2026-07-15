@@ -2,12 +2,11 @@
 
 import argparse
 import json
-import os
-import requests
 import shutil
 import sys
 from pathlib import Path
-from urllib.parse import quote
+
+import requests
 
 # City name aliases mapping - maps common names to their official City Strides names
 # Add aliases manually as needed
@@ -219,7 +218,7 @@ def save_city_data(city_name, data, original_name=None, query_type="named"):
             json.dump(data, f, indent=2)
         print(f"✓ Data saved to {output_file}")
         return True
-    except IOError as e:
+    except OSError as e:
         print(f"Error saving data: {e}")
         return False
 
@@ -280,7 +279,8 @@ def main():
             f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}"
         )
         return True
-    elif alt_data_file and alt_data_file.exists() and not data_file.exists():
+
+    if alt_data_file and alt_data_file.exists() and not data_file.exists():
         # We have data with the official name but not the user's preferred name
         # Copy the official data to the user's preferred filename
         try:
@@ -292,7 +292,7 @@ def main():
                 f"To generate a heatmap, run: python3 create_heat_map.py {filename_base}"
             )
             return True
-        except IOError as e:
+        except OSError as e:
             print(
                 f"Warning: Could not copy {alt_data_file} to {data_file}: {e}")
             print(
@@ -302,8 +302,13 @@ def main():
                 f"To generate a heatmap, run: python3 create_heat_map.py {search_name}"
             )
             return True
-    elif (alt_data_file and alt_data_file.exists() and data_file.exists()
-          and not args.force):
+
+    if (
+        alt_data_file
+        and alt_data_file.exists()
+        and data_file.exists()
+        and not args.force
+    ):
         print(
             f"Data files for both '{filename_base}' and '{search_name}' already exist. Use --force to overwrite."
         )
@@ -371,9 +376,9 @@ def main():
     if official_city_name:
         print(f"   (Used official name '{search_name}' for search)")
     print(f"   Saved as: {filename_base}{suffix}.json")
-    print(f"Next steps:")
+    print("Next steps:")
     print(f"  1. Generate heatmap: python3 create_heat_map.py {filename_base}")
-    print(f"  2. Optionally add to download_node_csv.py for future processing")
+    print("  2. Optionally add to download_node_csv.py for future processing")
 
     return True
 

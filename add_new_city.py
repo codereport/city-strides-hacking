@@ -231,9 +231,13 @@ def update_download_node_csv(city_name: str,
                              bbox: Dict[str, float],
                              force: bool = False):
     """
-    Update download_node_csv.py to add the new city to the enum and grid
+    Update the canonical planner download_node_csv.py city configuration.
     """
-    download_file = Path(__file__).parent / "download_node_csv.py"
+    download_file = (
+        Path(__file__).parent
+        / "city-strides-route-planner"
+        / "download_node_csv.py"
+    )
 
     if not download_file.exists():
         print(f"Error: {download_file} not found")
@@ -247,7 +251,7 @@ def update_download_node_csv(city_name: str,
 
     # Check if the city already exists
     if enum_name in content:
-        print(f"City {enum_name} already exists in download_node_csv.py")
+        print(f"City {enum_name} already exists in the planner node downloader")
         if not force:
             print("Use --force to update the existing entry")
             return True
@@ -258,7 +262,7 @@ def update_download_node_csv(city_name: str,
     enum_match = re.search(enum_pattern, content, re.DOTALL)
 
     if not enum_match:
-        print("Error: Could not find City enum in download_node_csv.py")
+        print("Error: Could not find City enum in the planner node downloader")
         return False
 
     # Add new city entry
@@ -274,7 +278,7 @@ def update_download_node_csv(city_name: str,
 
     if not grid_match:
         print(
-            "Error: Could not find CityGrids dictionary in download_node_csv.py"
+            "Error: Could not find CityGrids dictionary in the planner node downloader"
         )
         return False
 
@@ -292,10 +296,10 @@ def update_download_node_csv(city_name: str,
     try:
         with open(download_file, "w") as f:
             f.write(content)
-        print(f"✓ Added {enum_name} to download_node_csv.py")
+        print(f"✓ Added {enum_name} to the planner node downloader")
         return True
     except Exception as e:
-        print(f"Error writing to download_node_csv.py: {e}")
+        print(f"Error writing to the planner node downloader: {e}")
         return False
 
 

@@ -42,6 +42,11 @@ For a city without an OSM dataset, `./get_data_for_new_city.py CITY` downloads
 it. `./add_new_city.py CITY` registers a new CityStrides city and bounding box
 with the node downloader.
 
+The two repository-root download commands are compatibility launchers. Their
+single canonical implementations live in `city-strides-route-planner/`, so
+fixes and city configuration must be made there rather than copied between the
+parent repository and submodule.
+
 # Private route planner
 
 The closed-loop route planner is maintained in the private

@@ -1,4 +1,3 @@
 [submodule "city-strides-route-planner"]
 	path = city-strides-route-planner
 	url = git@github.com:codereport/city-strides-route-planner.git
-	update = none

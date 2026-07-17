@@ -6,7 +6,10 @@ on:
       - main
     paths:
       - index.html
+      - past_runs.html
+      - run_manager.js
       - upcoming_runs/**
+      - past_runs/**
       - .github/workflows/pages.yml
   workflow_dispatch:
 
@@ -28,8 +31,8 @@ jobs:
     timeout-minutes: 5
     steps:
       # This repository contains gigabytes of route-planning data, while the
-      # published site contains only these two paths. A partial, sparse clone
-      # avoids downloading or checking out the data and private submodule.
+      # published site contains only the run indexes and route-map folders. A
+      # partial, sparse clone avoids checking out the data and private submodule.
       - name: Fetch only the public site
         env:
           REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}.git
@@ -37,12 +40,14 @@ jobs:
         run: |
           git clone --no-checkout --depth 1 --filter=blob:none "$REPOSITORY_URL" source
           git -C source sparse-checkout init --no-cone
-          git -C source sparse-checkout set /index.html /upcoming_runs/
+          git -C source sparse-checkout set /index.html /past_runs.html /run_manager.js /upcoming_runs/ /past_runs/
           git -C source checkout --detach "$REVISION"
 
           mkdir _site
           cp source/index.html _site/
+          cp source/past_runs.html source/run_manager.js _site/
           cp -R source/upcoming_runs _site/
+          cp -R source/past_runs _site/
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

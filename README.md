@@ -68,11 +68,15 @@ See the submodule README for setup, data acquisition, CLI usage, and tests.
 
 Phone-ready route exports from the private planner are written to the public
 `upcoming_runs/` directory and automatically listed by the repository-root
-`index.html` page.
+`index.html` page. When that page is opened locally with a `file://` URL, it
+shows controls for moving a run to the completion-sorted `past_runs.html` page
+or deleting it. Keep the planner server running on its default port while using
+those local controls; the published Pages site remains read-only.
 
 ## GitHub Pages
 
-The Pages workflow deploys only `index.html` and `upcoming_runs/`. It uses a
+The Pages workflow deploys only the run indexes, their small management script,
+and the `upcoming_runs/` and `past_runs/` directories. It uses a
 partial, sparse clone so the runner does not download the repository's large
 route-planning datasets or initialize the private planner submodule.
 

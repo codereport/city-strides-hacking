@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#111411">
-  <title>Upcoming runs</title>
+  <title>Past runs</title>
   <style>
     :root { color-scheme:dark; --ink:#f6f3ea; --muted:#a9ada5; --panel:#181c18; --line:#343a34; --lime:#b8ff55; --purple:#9b6cff; }
     * { box-sizing:border-box; }
@@ -23,22 +23,27 @@
     .empty { grid-column:1/-1; padding:28px; border:1px dashed var(--line); border-radius:15px; color:var(--muted); text-align:center; }
   </style>
 </head>
-<body data-run-page="upcoming">
+<body data-run-page="past">
   <main>
     <header>
       <div class="eyebrow">CityStrides</div>
-      <h1>Upcoming runs</h1>
-      <p>Phone-ready route maps with direction arrows, completion nodes, and live location tracking.</p>
-      <a class="page-link" href="past_runs.html">Past runs →</a>
+      <h1>Past runs</h1>
+      <p>Completed routes, newest completion first.</p>
+      <a class="page-link" href="index.html">← Upcoming runs</a>
     </header>
     <section class="runs">
-<!-- UPCOMING_RUNS_START -->
-<a class="run" href="upcoming_runs/scarborough-manual-manual-15-5km-43-75747-79-23277.html">
+<!-- PAST_RUNS_START -->
+<a class="run" href="past_runs/scarborough-manual-manual-15-5km-43-76763-79-22814.html">
   <strong>Scarborough route</strong>
-  <span>6.6 km</span>
-  <small>scarborough-manual-manual-15-5km-43-75747-79-23277</small>
+  <span>12.1 km</span>
+  <small>Completed Jul 17, 2026 at 11:39 AM<br>scarborough-manual-manual-15-5km-43-76763-79-22814</small>
 </a>
-<!-- UPCOMING_RUNS_END -->
+<a class="run" href="past_runs/etobicoke-manual-manual-20-0km-43-69222-79-55748.html">
+  <strong>Etobicoke route</strong>
+  <span>15.7 km</span>
+  <small>Completed Jul 17, 2026 at 11:39 AM<br>etobicoke-manual-manual-20-0km-43-69222-79-55748</small>
+</a>
+<!-- PAST_RUNS_END -->
     </section>
   </main>
   <script src="run_manager.js"></script>

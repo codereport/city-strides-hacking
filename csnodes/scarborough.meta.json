@@ -1,15 +1,15 @@
 {
   "city": "scarborough",
   "city_id": "38007",
-  "generated_at": "2026-07-18T14:18:35.809169+00:00",
-  "node_count": 13215,
+  "generated_at": "2026-07-19T17:37:02.112827+00:00",
+  "node_count": 12048,
   "pass_node_counts": [
-    13215
+    12048
   ],
   "passes": 1,
   "passes_identical": true,
   "schema_version": 1,
-  "sha256": "a2b731dd7e3bf7583a60766972fde0a695167fb3e1b10c124095e65f3b596947",
+  "sha256": "a4a0726e42799d0d9f07fa5097ef7359227abe73a8486933161c418d2f440092",
   "source_city": "Scarborough",
-  "street_count": 612
+  "street_count": 551
 }

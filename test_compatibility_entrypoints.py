@@ -7,14 +7,13 @@ from unittest import mock
 
 import _planner_entrypoint as entrypoint
 
-
 ROOT = Path(__file__).resolve().parent
 
 
 class CompatibilityEntrypointTest(unittest.TestCase):
     def test_root_scripts_delegate_to_the_canonical_planner_commands(self):
         expectations = {
-            "download_node_csv.py": "--passes",
+            "download_node_csv.py": "--city",
             "get_data_for_new_city.py": "--query-type",
         }
         for script_name, expected_option in expectations.items():
@@ -29,6 +28,8 @@ class CompatibilityEntrypointTest(unittest.TestCase):
                 self.assertEqual(result.returncode, 0, result.stderr)
                 self.assertIn(expected_option, result.stdout)
                 self.assertIn("--data-root", result.stdout)
+                if script_name == "download_node_csv.py":
+                    self.assertNotIn("--passes", result.stdout)
 
     def test_missing_private_submodule_has_an_actionable_error(self):
         with tempfile.TemporaryDirectory() as directory:

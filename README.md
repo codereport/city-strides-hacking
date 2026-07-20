@@ -70,8 +70,8 @@ Phone-ready route exports from the private planner are written to the public
 `upcoming_runs/` directory and automatically listed by the repository-root
 `index.html` page. When that page is opened locally with a `file://` URL, it
 shows controls for moving a run to the completion-sorted `past_runs.html` page
-or deleting it. Keep the planner server running on its default port while using
-those local controls; the published Pages site remains read-only.
+when it is completed. Keep the planner server running on its default port while
+using that local control; the published Pages site remains read-only.
 
 ## GitHub Pages
 

@@ -9,10 +9,9 @@
     .local-manager.error { border-color:#8f433a; background:#351d1a; color:#ffd0ca; }
     .run-card { display:grid; min-width:0; gap:8px; }
     .run-card .run { height:100%; }
-    .run-actions { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+    .run-actions { display:grid; }
     .run-actions button { border:1px solid #4b504a; border-radius:8px; padding:8px 10px; background:#171a18; color:#f6f3ea; font:inherit; font-weight:800; cursor:pointer; }
     .run-actions .complete { border-color:#709d3d; color:#b8ff55; }
-    .run-actions .trash { border-color:#75403b; color:#ffaaa0; }
     .run-actions button:disabled { opacity:.45; cursor:wait; }
   `;
   document.head.append(style);
@@ -32,13 +31,12 @@
     });
   };
 
-  async function updateRun(action, filename) {
-    if (action === "trash" && !confirm(`Delete ${filename}?`)) return;
+  async function completeRun(filename) {
     setBusy(true);
     status.classList.remove("error");
-    status.textContent = action === "complete" ? "Moving run to Past runs…" : "Deleting run…";
+    status.textContent = "Moving run to Past runs…";
     try {
-      const response = await fetch(`${apiRoot}/${action}`, {
+      const response = await fetch(`${apiRoot}/complete`, {
         method: "POST",
         headers: {"Content-Type": "text/plain;charset=UTF-8"},
         body: JSON.stringify({filename}),
@@ -48,8 +46,7 @@
       location.reload();
     } catch (error) {
       status.classList.add("error");
-      const verb = action === "trash" ? "delete" : action;
-      status.textContent = `Could not ${verb} this run: ${error.message}. Start or restart the route planner server on port 8765.`;
+      status.textContent = `Could not complete this run: ${error.message}. Start or restart the route planner server on port 8765.`;
       setBusy(false);
     }
   }
@@ -62,14 +59,12 @@
     card.append(link);
     const actions = document.createElement("div");
     actions.className = "run-actions";
-    for (const [action, label] of [["complete", "Completed"], ["trash", "Delete"]]) {
-      const button = document.createElement("button");
-      button.type = "button";
-      button.className = action;
-      button.textContent = label;
-      button.onclick = () => updateRun(action, filename);
-      actions.append(button);
-    }
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "complete";
+    button.textContent = "Completed";
+    button.onclick = () => completeRun(filename);
+    actions.append(button);
     card.append(actions);
   }
 })();

@@ -1,0 +1,11 @@
+{
+  "city": "all_toronto",
+  "city_id": "131268",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-07-21T16:59:19.971252+00:00",
+  "node_count": 29667,
+  "schema_version": 1,
+  "sha256": "56cda775bcbea2f6516c07f52efae30aa444f238c1665d42a1350c5a3e3789b9",
+  "source_city": "All Toronto",
+  "street_count": 1192
+}

@@ -2,10 +2,10 @@
   "city": "scarborough",
   "city_id": "38007",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-07-24T16:26:22.042297+00:00",
-  "node_count": 9175,
+  "generated_at": "2026-07-25T19:26:19.348486+00:00",
+  "node_count": 7880,
   "schema_version": 1,
-  "sha256": "1aaac57f1207ee4a54f2313b2d6bd75b6d2df9866690f977137fd92fc9bae06c",
+  "sha256": "91268b3f661922d82b3fdb25a543521e38d6f0426e4d63fe21ae5d02a4b9928c",
   "source_city": "Scarborough",
-  "street_count": 379
+  "street_count": 333
 }

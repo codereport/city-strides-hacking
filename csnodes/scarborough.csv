@@ -119,33 +119,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7717221,-79.13926,2,Waterbridge Way (799),a,Waterbridge Way,13,5542543,98442799,Scarborough,38007
 43.7717454,-79.1393533,2,Waterbridge Way (800),a,Waterbridge Way,13,5542543,98442800,Scarborough,38007
 43.7717637,-79.139044,2,Lakeridge Drive (083),a,Lakeridge Drive,17,5543028,99017083,Scarborough,38007
-43.7718236,-79.1435025,2,Holmcrest Trail (952),a,Holmcrest Trail,35,5542819,98846952,Scarborough,38007
-43.7718817,-79.1436865,2,Holmcrest Trail (951),a,Holmcrest Trail,35,5542819,98846951,Scarborough,38007
-43.7721914,-79.1443194,2,Holmcrest Trail (950),a,Holmcrest Trail,35,5542819,98846950,Scarborough,38007
-43.7721955,-79.1445533,2,Holmcrest Trail (949),a,Holmcrest Trail,35,5542819,98846949,Scarborough,38007
-43.7721996,-79.1447918,2,Holmcrest Trail (947),a,Holmcrest Trail,35,5542819,98846947,Scarborough,38007
-43.7721996,-79.1447918,2,Holmcrest Trail (948),a,Holmcrest Trail,35,5542819,98846948,Scarborough,38007
-43.7722326,-79.1449414,2,Holmcrest Trail (946),a,Holmcrest Trail,35,5542819,98846946,Scarborough,38007
 43.7722844,-79.138529,2,Rockport Drive (695),a,Rockport Drive,13,5542955,98972695,Scarborough,38007
 43.7722844,-79.138529,2,Lakeridge Drive (082),a,Lakeridge Drive,17,5543028,99017082,Scarborough,38007
 43.772341,-79.138636,2,Rockport Drive (694),a,Rockport Drive,13,5542955,98972694,Scarborough,38007
 43.772369,-79.1386893,2,Rockport Drive (890),a,Rockport Drive,13,5542955,354913890,Scarborough,38007
-43.7724338,-79.1451139,2,Holmcrest Trail (945),a,Holmcrest Trail,35,5542819,98846945,Scarborough,38007
 43.7725669,-79.14082,2,Waterbridge Way (801),a,Waterbridge Way,13,5542543,98442801,Scarborough,38007
 43.7725669,-79.14082,2,Rockport Drive (684),a,Rockport Drive,13,5542955,98972684,Scarborough,38007
 43.7726081,-79.1408961,2,Waterbridge Way (802),a,Waterbridge Way,13,5542543,98442802,Scarborough,38007
-43.7726355,-79.1454337,2,Holmcrest Trail (944),a,Holmcrest Trail,35,5542819,98846944,Scarborough,38007
 43.7726424,-79.1407447,2,Rockport Drive (685),a,Rockport Drive,13,5542955,98972685,Scarborough,38007
 43.772681,-79.1392843,2,Rockport Drive (693),a,Rockport Drive,13,5542955,98972693,Scarborough,38007
 43.7727184,-79.1410998,2,Waterbridge Way (803),a,Waterbridge Way,13,5542543,98442803,Scarborough,38007
-43.7727966,-79.1509955,2,Holmcrest Trail (930),a,Holmcrest Trail,35,5542819,98846930,Scarborough,38007
 43.7728112,-79.139413,2,Rockport Drive (692),a,Rockport Drive,13,5542955,98972692,Scarborough,38007
-43.7728214,-79.1511586,2,Holmcrest Trail (929),a,Holmcrest Trail,35,5542819,98846929,Scarborough,38007
 43.7728872,-79.1404659,2,Rockport Drive (686),a,Rockport Drive,13,5542955,98972686,Scarborough,38007
 43.7729124,-79.1379293,2,Bridgeport Drive (238),a,Bridgeport Drive,22,5542490,98348238,Scarborough,38007
 43.7729124,-79.1379293,2,Lakeridge Drive (081),a,Lakeridge Drive,17,5543028,99017081,Scarborough,38007
 43.7729413,-79.1394817,2,Rockport Drive (691),a,Rockport Drive,13,5542955,98972691,Scarborough,38007
-43.7729516,-79.1463263,2,Holmcrest Trail (943),a,Holmcrest Trail,35,5542819,98846943,Scarborough,38007
 43.7729582,-79.1403052,2,Rockport Drive (687),a,Rockport Drive,13,5542955,98972687,Scarborough,38007
 43.7729616,-79.1380209,2,Bridgeport Drive (239),a,Bridgeport Drive,22,5542490,98348239,Scarborough,38007
 43.7729742,-79.1380466,2,Bridgeport Drive (552),a,Bridgeport Drive,22,5542490,354913552,Scarborough,38007
@@ -153,93 +141,41 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7730628,-79.1395497,2,Rockport Drive (690),a,Rockport Drive,13,5542955,98972690,Scarborough,38007
 43.7730938,-79.1396785,2,Rockport Drive (688),a,Rockport Drive,13,5542955,98972688,Scarborough,38007
 43.7730938,-79.1395926,2,Rockport Drive (689),a,Rockport Drive,13,5542955,98972689,Scarborough,38007
-43.7731003,-79.146704,2,Holmcrest Trail (942),a,Holmcrest Trail,35,5542819,98846942,Scarborough,38007
 43.7731315,-79.1383667,2,Bridgeport Drive (240),a,Bridgeport Drive,22,5542490,98348240,Scarborough,38007
 43.7732182,-79.1384611,2,Bridgeport Drive (241),a,Bridgeport Drive,22,5542490,98348241,Scarborough,38007
-43.7732663,-79.1502921,2,Holmcrest Trail (931),a,Holmcrest Trail,35,5542819,98846931,Scarborough,38007
-43.7732738,-79.1469185,2,Holmcrest Trail (941),a,Holmcrest Trail,35,5542819,98846941,Scarborough,38007
 43.7732926,-79.1385212,2,Bridgeport Drive (242),a,Bridgeport Drive,22,5542490,98348242,Scarborough,38007
-43.7733296,-79.1501973,2,Paulander Avenue (601),a,Paulander Avenue,10,5542818,98845601,Scarborough,38007
-43.7733296,-79.1501973,2,Holmcrest Trail (932),a,Holmcrest Trail,35,5542819,98846932,Scarborough,38007
 43.7733526,-79.1415802,2,Waterbridge Way (805),a,Waterbridge Way,13,5542543,98442805,Scarborough,38007
-43.7733586,-79.1501105,2,Holmcrest Trail (933),a,Holmcrest Trail,35,5542819,98846933,Scarborough,38007
-43.7734029,-79.1503026,2,Paulander Avenue (600),a,Paulander Avenue,10,5542818,98845600,Scarborough,38007
 43.7734437,-79.1415824,2,Waterbridge Way (806),a,Waterbridge Way,13,5542543,98442806,Scarborough,38007
 43.7734873,-79.1415093,2,Waterbridge Way (807),a,Waterbridge Way,13,5542543,98442807,Scarborough,38007
-43.7735217,-79.1496222,2,Holmcrest Trail (934),a,Holmcrest Trail,35,5542819,98846934,Scarborough,38007
-43.7735341,-79.1472962,2,Holmcrest Trail (940),a,Holmcrest Trail,35,5542819,98846940,Scarborough,38007
 43.7735855,-79.1373213,2,Freeport Drive (140),a,Freeport Drive,9,5542956,98973140,Scarborough,38007
 43.7735855,-79.1373213,2,Lakeridge Drive (080),a,Lakeridge Drive,17,5543028,99017080,Scarborough,38007
 43.7736267,-79.1374102,2,Freeport Drive (141),a,Freeport Drive,9,5542956,98973141,Scarborough,38007
 43.7736352,-79.1372771,2,Lakeridge Drive (079),a,Lakeridge Drive,17,5543028,99017079,Scarborough,38007
 43.7736467,-79.1374534,2,Freeport Drive (892),a,Freeport Drive,9,5542956,354913892,Scarborough,38007
-43.7736866,-79.1476958,2,Holmcrest Trail (939),a,Holmcrest Trail,35,5542819,98846939,Scarborough,38007
-43.7737077,-79.1477511,2,Cherryhill Avenue (565),a,Cherryhill Avenue,13,5542492,98353565,Scarborough,38007
-43.7737077,-79.1477511,2,Holmcrest Trail (937),a,Holmcrest Trail,35,5542819,98846937,Scarborough,38007
-43.7737077,-79.1477511,2,Holmcrest Trail (938),a,Holmcrest Trail,35,5542819,98846938,Scarborough,38007
-43.773715,-79.1478938,2,Holmcrest Trail (936),a,Holmcrest Trail,35,5542819,98846936,Scarborough,38007
-43.77374,-79.1483861,2,Holmcrest Trail (935),a,Holmcrest Trail,35,5542819,98846935,Scarborough,38007
 43.7737594,-79.1376964,2,Freeport Drive (142),a,Freeport Drive,9,5542956,98973142,Scarborough,38007
-43.7737661,-79.1477297,2,Cherryhill Avenue (566),a,Cherryhill Avenue,13,5542492,98353566,Scarborough,38007
 43.7738586,-79.137808,2,Freeport Drive (143),a,Freeport Drive,9,5542956,98973143,Scarborough,38007
-43.7738813,-79.1431937,2,Pepper Tree Drive (918),a,Pepper Tree Drive,19,5542966,98980918,Scarborough,38007
 43.7739701,-79.1378938,2,Freeport Drive (144),a,Freeport Drive,9,5542956,98973144,Scarborough,38007
-43.7740114,-79.1476395,2,Cherryhill Avenue (567),a,Cherryhill Avenue,13,5542492,98353567,Scarborough,38007
 43.7740397,-79.138993,2,Waterbridge Way (056),a,Waterbridge Way,13,5542543,488130056,Scarborough,38007
 43.7740438,-79.138972,2,Waterbridge Way (808),a,Waterbridge Way,13,5542543,98442808,Scarborough,38007
 43.774071,-79.1388572,2,Bridgeport Drive (243),a,Bridgeport Drive,22,5542490,98348243,Scarborough,38007
 43.774071,-79.1388572,2,Waterbridge Way (809),a,Waterbridge Way,13,5542543,98442809,Scarborough,38007
-43.7740859,-79.1611907,2,Lawrence Avenue East (324),a,Lawrence Avenue East,964,5542369,95789324,Scarborough,38007
-43.7741115,-79.1432202,2,Pepper Tree Drive (917),a,Pepper Tree Drive,19,5542966,98980917,Scarborough,38007
-43.7741663,-79.1476739,2,Cherryhill Avenue (568),a,Cherryhill Avenue,13,5542492,98353568,Scarborough,38007
 43.7742187,-79.1418723,2,Long Island Crescent (217),a,Long Island Crescent,16,5542954,98972217,Scarborough,38007
 43.7742221,-79.1418409,2,Long Island Crescent (218),a,Long Island Crescent,16,5542954,98972218,Scarborough,38007
 43.7742221,-79.1418409,2,Long Island Crescent (970),a,Long Island Crescent,16,5542954,611551970,Scarborough,38007
 43.7742309,-79.141761,2,Long Island Crescent (971),a,Long Island Crescent,16,5542954,611551971,Scarborough,38007
 43.7742419,-79.1367511,2,Eastport Drive (585),a,Eastport Drive,9,5542957,98973585,Scarborough,38007
 43.7742419,-79.1367511,2,Lakeridge Drive (078),a,Lakeridge Drive,17,5543028,99017078,Scarborough,38007
-43.7742531,-79.1498969,2,Rodarick Drive (754),a,Rodarick Drive,11,5542820,98847754,Scarborough,38007
-43.7742655,-79.1500256,2,Rodarick Drive (755),a,Rodarick Drive,11,5542820,98847755,Scarborough,38007
 43.7742669,-79.1368153,2,Eastport Drive (968),a,Eastport Drive,9,5542957,611551968,Scarborough,38007
 43.7742745,-79.1419682,2,Long Island Crescent (216),a,Long Island Crescent,16,5542954,98972216,Scarborough,38007
-43.7742779,-79.1535618,2,Holmcrest Trail (928),a,Holmcrest Trail,35,5542819,98846928,Scarborough,38007
-43.7742811,-79.1598492,2,Lawrence Avenue East (321),a,Lawrence Avenue East,964,5542369,95789321,Scarborough,38007
-43.7742811,-79.1598492,2,Lawrence Avenue East (485),a,Lawrence Avenue East,964,5542369,95789485,Scarborough,38007
 43.7742915,-79.1366738,2,Lakeridge Drive (077),a,Lakeridge Drive,17,5543028,99017077,Scarborough,38007
 43.7743003,-79.1368677,2,Eastport Drive (894),a,Eastport Drive,9,5542957,354913894,Scarborough,38007
-43.774315,-79.1501114,2,Rodarick Drive (756),a,Rodarick Drive,11,5542820,98847756,Scarborough,38007
 43.7743606,-79.1369926,2,Eastport Drive (587),a,Eastport Drive,9,5542957,98973587,Scarborough,38007
-43.7743794,-79.1441485,2,Rolling Meadows (221),a,Rolling Meadows,10,5542967,98981221,Scarborough,38007
-43.7743794,-79.1439339,2,Rolling Meadows (222),a,Rolling Meadows,10,5542967,98981222,Scarborough,38007
-43.7743924,-79.1599085,2,Lawrence Avenue East (320),a,Lawrence Avenue East,964,5542369,95789320,Scarborough,38007
-43.7743924,-79.1599085,2,Lawrence Avenue East (323),a,Lawrence Avenue East,964,5542369,95789323,Scarborough,38007
-43.7744018,-79.1478713,2,Cherryhill Avenue (569),a,Cherryhill Avenue,13,5542492,98353569,Scarborough,38007
-43.7744247,-79.1453264,2,Centennial Road (555),a,Centennial Road,41,5542383,96292555,Scarborough,38007
-43.7744247,-79.1453264,2,Rolling Meadows (217),a,Rolling Meadows,10,5542967,98981217,Scarborough,38007
-43.7744255,-79.1433329,2,Pepper Tree Drive (916),a,Pepper Tree Drive,19,5542966,98980916,Scarborough,38007
-43.7744401,-79.1452282,2,Rolling Meadows (218),a,Rolling Meadows,10,5542967,98981218,Scarborough,38007
 43.7744411,-79.1370956,2,Eastport Drive (588),a,Eastport Drive,9,5542957,98973588,Scarborough,38007
-43.7744448,-79.1451981,2,Rolling Meadows (903),a,Rolling Meadows,10,5542967,354913903,Scarborough,38007
-43.7744505,-79.1434931,2,Rolling Meadows (904),a,Rolling Meadows,10,5542967,354913904,Scarborough,38007
-43.7744585,-79.1434436,2,Rolling Meadows (223),a,Rolling Meadows,10,5542967,98981223,Scarborough,38007
-43.7744736,-79.1433502,2,Pepper Tree Drive (915),a,Pepper Tree Drive,19,5542966,98980915,Scarborough,38007
-43.7744736,-79.1433502,2,Rolling Meadows (224),a,Rolling Meadows,10,5542967,98981224,Scarborough,38007
-43.7744762,-79.1487725,2,Rodarick Drive (752),a,Rodarick Drive,11,5542820,98847752,Scarborough,38007
-43.7744824,-79.1446612,2,Rolling Meadows (220),a,Rolling Meadows,10,5542967,98981220,Scarborough,38007
-43.7744886,-79.1537936,2,Holmcrest Trail (927),a,Holmcrest Trail,35,5542819,98846927,Scarborough,38007
-43.7745027,-79.1448295,2,Rolling Meadows (219),a,Rolling Meadows,10,5542967,98981219,Scarborough,38007
 43.774531,-79.13618,2,Lakeridge Drive (162),a,Lakeridge Drive,17,5543028,410333162,Scarborough,38007
-43.7745626,-79.1433866,2,Pepper Tree Drive (914),a,Pepper Tree Drive,19,5542966,98980914,Scarborough,38007
-43.7745629,-79.1486437,2,Rodarick Drive (750),a,Rodarick Drive,11,5542820,98847750,Scarborough,38007
 43.7745762,-79.1361141,2,Lakeridge Drive (076),a,Lakeridge Drive,17,5543028,99017076,Scarborough,38007
 43.7745775,-79.1371814,2,Eastport Drive (589),a,Eastport Drive,9,5542957,98973589,Scarborough,38007
-43.7746311,-79.1481803,2,Cherryhill Avenue (570),a,Cherryhill Avenue,13,5542492,98353570,Scarborough,38007
 43.7746431,-79.1361002,2,Lakeridge Drive (161),a,Lakeridge Drive,17,5543028,410333161,Scarborough,38007
-43.7746729,-79.1521255,2,Paulander Avenue (599),a,Paulander Avenue,10,5542818,98845599,Scarborough,38007
-43.7746965,-79.1485204,2,Rodarick Drive (748),a,Rodarick Drive,11,5542820,98847748,Scarborough,38007
 43.7747308,-79.1361361,2,Lakeridge Drive (967),a,Lakeridge Drive,17,5543028,611551967,Scarborough,38007
-43.7747489,-79.1484721,2,Cherryhill Avenue (571),a,Cherryhill Avenue,13,5542492,98353571,Scarborough,38007
-43.7747489,-79.1484721,2,Rodarick Drive (745),a,Rodarick Drive,11,5542820,98847745,Scarborough,38007
 43.7747616,-79.1393393,2,Long Island Crescent (972),a,Long Island Crescent,16,5542954,611551972,Scarborough,38007
 43.7747756,-79.1392766,2,Long Island Crescent (973),a,Long Island Crescent,16,5542954,611551973,Scarborough,38007
 43.7747818,-79.136157,2,Wharfside Lane (965),a,Wharfside Lane,9,5543024,611551965,Scarborough,38007
@@ -250,174 +186,58 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7748,-79.1360524,2,Wharfside Lane (964),a,Wharfside Lane,9,5543024,611551964,Scarborough,38007
 43.7748192,-79.1421854,2,Long Island Crescent (215),a,Long Island Crescent,16,5542954,98972215,Scarborough,38007
 43.7748421,-79.1358588,2,Wharfside Lane (963),a,Wharfside Lane,9,5543024,611551963,Scarborough,38007
-43.7748536,-79.1523564,2,Paulander Avenue (598),a,Paulander Avenue,10,5542818,98845598,Scarborough,38007
-43.7748728,-79.1540253,2,Holmcrest Trail (926),a,Holmcrest Trail,35,5542819,98846926,Scarborough,38007
 43.7748812,-79.1421596,2,Long Island Crescent (214),a,Long Island Crescent,16,5542954,98972214,Scarborough,38007
 43.7749137,-79.1357448,2,Wharfside Lane (962),a,Wharfside Lane,9,5543024,611551962,Scarborough,38007
 43.7749406,-79.1421006,2,Long Island Crescent (213),a,Long Island Crescent,16,5542954,98972213,Scarborough,38007
 43.7749406,-79.1421006,2,Long Island Crescent (979),a,Long Island Crescent,16,5542954,611551979,Scarborough,38007
 43.7749491,-79.1420921,2,Long Island Crescent (978),a,Long Island Crescent,16,5542954,611551978,Scarborough,38007
-43.7749534,-79.1540167,2,Holmcrest Trail (925),a,Holmcrest Trail,35,5542819,98846925,Scarborough,38007
 43.774981,-79.1357051,2,Wharfside Lane (158),a,Wharfside Lane,9,5543024,410333158,Scarborough,38007
-43.7749906,-79.1539052,2,Holmcrest Trail (924),a,Holmcrest Trail,35,5542819,98846924,Scarborough,38007
-43.7750238,-79.1566489,2,Lawrence Avenue East (322),a,Lawrence Avenue East,964,5542369,95789322,Scarborough,38007
-43.7750238,-79.1566489,2,Lawrence Avenue East (575),a,Lawrence Avenue East,964,5542369,611550575,Scarborough,38007
 43.7750728,-79.1357151,2,Wharfside Lane (580),a,Wharfside Lane,9,5543024,99015580,Scarborough,38007
-43.7750775,-79.1511358,2,Rodarick Drive (757),a,Rodarick Drive,11,5542820,98847757,Scarborough,38007
-43.7750833,-79.1563777,2,Lawrence Avenue East (327),a,Lawrence Avenue East,964,5542369,95789327,Scarborough,38007
-43.7750833,-79.1563777,2,Lawrence Avenue East (576),a,Lawrence Avenue East,964,5542369,611550576,Scarborough,38007
-43.7751135,-79.1456225,2,Centennial Road (554),a,Centennial Road,41,5542383,96292554,Scarborough,38007
-43.775135,-79.1567013,2,Lawrence Avenue East (319),a,Lawrence Avenue East,964,5542369,95789319,Scarborough,38007
-43.775135,-79.1567013,2,Lawrence Avenue East (333),a,Lawrence Avenue East,964,5542369,95789333,Scarborough,38007
-43.7751679,-79.1456459,2,Centennial Road (552),a,Centennial Road,41,5542383,96292552,Scarborough,38007
-43.7751679,-79.1456459,2,Corningham Street (273),a,Corningham Street,7,5542968,98981273,Scarborough,38007
-43.7751831,-79.1512829,2,Rodarick Drive (758),a,Rodarick Drive,11,5542820,98847758,Scarborough,38007
-43.7751896,-79.1455543,2,Corningham Street (275),a,Corningham Street,7,5542968,98981275,Scarborough,38007
-43.7751954,-79.1455298,2,Corningham Street (907),a,Corningham Street,7,5542968,354913907,Scarborough,38007
-43.7752014,-79.1564311,2,Lawrence Avenue East (332),a,Lawrence Avenue East,964,5542369,95789332,Scarborough,38007
-43.7752366,-79.1556852,2,Lawrence Avenue East (328),a,Lawrence Avenue East,964,5542369,95789328,Scarborough,38007
-43.775241,-79.1525191,2,Paulander Avenue (597),a,Paulander Avenue,10,5542818,98845597,Scarborough,38007
-43.7752496,-79.1456806,2,Centennial Road (550),a,Centennial Road,41,5542383,96292550,Scarborough,38007
-43.7752693,-79.1526602,2,Holmcrest Trail (923),a,Holmcrest Trail,35,5542819,98846923,Scarborough,38007
-43.7752942,-79.152549,2,Paulander Avenue (596),a,Paulander Avenue,10,5542818,98845596,Scarborough,38007
-43.7752942,-79.152549,2,Holmcrest Trail (922),a,Holmcrest Trail,35,5542819,98846922,Scarborough,38007
-43.7753031,-79.1556085,2,Lawrence Avenue East (329),a,Lawrence Avenue East,964,5542369,95789329,Scarborough,38007
-43.7753031,-79.1556085,2,Lawrence Avenue East (330),a,Lawrence Avenue East,964,5542369,95789330,Scarborough,38007
-43.7753031,-79.1556085,2,Lawrence Avenue East (578),a,Lawrence Avenue East,964,5542369,611550578,Scarborough,38007
-43.7753131,-79.1524666,2,Holmcrest Trail (921),a,Holmcrest Trail,35,5542819,98846921,Scarborough,38007
-43.7753368,-79.1557513,2,Lawrence Avenue East (331),a,Lawrence Avenue East,964,5542369,95789331,Scarborough,38007
-43.7753812,-79.149808,2,Cherryhill Avenue (572),a,Cherryhill Avenue,13,5542492,98353572,Scarborough,38007
-43.7753981,-79.1525915,2,Paulander Avenue (595),a,Paulander Avenue,10,5542818,98845595,Scarborough,38007
-43.7753995,-79.1446697,2,Corningham Street (277),a,Corningham Street,7,5542968,98981277,Scarborough,38007
-43.7754376,-79.1437448,2,Pepper Tree Drive (913),a,Pepper Tree Drive,19,5542966,98980913,Scarborough,38007
-43.7754494,-79.1498938,2,Cherryhill Avenue (573),a,Cherryhill Avenue,13,5542492,98353573,Scarborough,38007
 43.7754836,-79.1396631,2,Long Island Crescent (977),a,Long Island Crescent,16,5542954,611551977,Scarborough,38007
-43.7754883,-79.1439207,2,Corningham Street (908),a,Corningham Street,7,5542968,354913908,Scarborough,38007
-43.7754931,-79.1438798,2,Corningham Street (278),a,Corningham Street,7,5542968,98981278,Scarborough,38007
-43.7754951,-79.1514339,2,Rodarick Drive (759),a,Rodarick Drive,11,5542820,98847759,Scarborough,38007
 43.7754976,-79.139599,2,Long Island Crescent (976),a,Long Island Crescent,16,5542954,611551976,Scarborough,38007
-43.7755058,-79.1437727,2,Pepper Tree Drive (912),a,Pepper Tree Drive,19,5542966,98980912,Scarborough,38007
-43.7755058,-79.1437727,2,Corningham Street (279),a,Corningham Street,7,5542968,98981279,Scarborough,38007
 43.7755209,-79.1394932,2,Bridgeport Drive (245),a,Bridgeport Drive,22,5542490,98348245,Scarborough,38007
 43.7755209,-79.1394932,2,Long Island Crescent (975),a,Long Island Crescent,16,5542954,611551975,Scarborough,38007
-43.7755439,-79.1514588,2,Holmcrest Trail (920),a,Holmcrest Trail,35,5542819,98846920,Scarborough,38007
-43.7755439,-79.1514588,2,Rodarick Drive (760),a,Rodarick Drive,11,5542820,98847760,Scarborough,38007
-43.7755902,-79.1438077,2,Pepper Tree Drive (911),a,Pepper Tree Drive,19,5542966,98980911,Scarborough,38007
 43.7756598,-79.1424925,2,Portsmouth Drive (172),a,Portsmouth Drive,12,5542491,98350172,Scarborough,38007
 43.7756725,-79.1425553,2,Portsmouth Drive (173),a,Portsmouth Drive,12,5542491,98350173,Scarborough,38007
 43.775753,-79.142581,2,Portsmouth Drive (174),a,Portsmouth Drive,12,5542491,98350174,Scarborough,38007
-43.7757948,-79.1527542,2,Paulander Avenue (100),a,Paulander Avenue,10,5542818,304793100,Scarborough,38007
-43.7758106,-79.1502562,2,Holmcrest Trail (919),a,Holmcrest Trail,35,5542819,98846919,Scarborough,38007
-43.7758238,-79.1527654,2,Paulander Avenue (594),a,Paulander Avenue,10,5542818,98845594,Scarborough,38007
-43.7758407,-79.1501232,2,Cherryhill Avenue (574),a,Cherryhill Avenue,13,5542492,98353574,Scarborough,38007
-43.7758407,-79.1501232,2,Holmcrest Trail (918),a,Holmcrest Trail,35,5542819,98846918,Scarborough,38007
-43.7758428,-79.1532724,2,Lawrence Avenue East (903),a,Lawrence Avenue East,964,5542369,304795903,Scarborough,38007
-43.7758428,-79.1532724,2,Lawrence Avenue East (892),a,Lawrence Avenue East,964,5542369,304797892,Scarborough,38007
-43.7758549,-79.1459378,2,Centennial Road (548),a,Centennial Road,41,5542383,96292548,Scarborough,38007
 43.7758906,-79.1396406,2,Bridgeport Drive (246),a,Bridgeport Drive,22,5542490,98348246,Scarborough,38007
 43.7758906,-79.1396406,2,Bridgend Street (830),a,Bridgend Street,27,5542958,98974830,Scarborough,38007
 43.7759144,-79.1395297,2,Bridgend Street (311),a,Bridgend Street,27,5542958,611540311,Scarborough,38007
 43.7759251,-79.1394816,2,Bridgend Street (175),a,Bridgend Street,27,5542958,356927175,Scarborough,38007
-43.7759317,-79.1459705,2,Centennial Road (545),a,Centennial Road,41,5542383,96292545,Scarborough,38007
-43.7759317,-79.1459705,2,Dunhill Street (418),a,Dunhill Street,6,5542969,98981418,Scarborough,38007
 43.7759423,-79.138738,2,Freeport Drive (173),a,Freeport Drive,9,5542956,356927173,Scarborough,38007
-43.7759513,-79.1528027,2,Lawrence Avenue East (189),a,Lawrence Avenue East,964,5542369,95789189,Scarborough,38007
-43.7759513,-79.1528027,2,Lawrence Avenue East (980),a,Lawrence Avenue East,964,5542369,611551980,Scarborough,38007
-43.7759513,-79.1528027,2,Paulander Avenue (593),a,Paulander Avenue,10,5542818,98845593,Scarborough,38007
-43.7759513,-79.1528027,2,Goldberry Square (025),a,Goldberry Square,26,5542821,98849025,Scarborough,38007
-43.7759526,-79.1458734,2,Dunhill Street (420),a,Dunhill Street,6,5542969,98981420,Scarborough,38007
-43.7759597,-79.1458402,2,Dunhill Street (910),a,Dunhill Street,6,5542969,354913910,Scarborough,38007
 43.775976,-79.1387526,2,Freeport Drive (969),a,Freeport Drive,9,5542956,611551969,Scarborough,38007
-43.7760653,-79.1528196,2,Goldberry Square (027),a,Goldberry Square,26,5542821,98849027,Scarborough,38007
-43.7760675,-79.152301,2,Lawrence Avenue East (880),a,Lawrence Avenue East,964,5542369,304797880,Scarborough,38007
-43.7760675,-79.152301,2,Lawrence Avenue East (925),a,Lawrence Avenue East,964,5542369,304797925,Scarborough,38007
 43.7760743,-79.1387946,2,Freeport Drive (146),a,Freeport Drive,9,5542956,98973146,Scarborough,38007
 43.7760743,-79.1387946,2,Bridgend Street (832),a,Bridgend Street,27,5542958,98974832,Scarborough,38007
-43.7760832,-79.1528272,2,Goldberry Square (109),a,Goldberry Square,26,5542821,304793109,Scarborough,38007
 43.7760917,-79.1387123,2,Bridgend Street (833),a,Bridgend Street,27,5542958,98974833,Scarborough,38007
 43.7761251,-79.1378537,2,Eastport Drive (174),a,Eastport Drive,9,5542957,356927174,Scarborough,38007
 43.7761657,-79.1378713,2,Eastport Drive (590),a,Eastport Drive,9,5542957,98973590,Scarborough,38007
 43.7762166,-79.1400123,2,Portsmouth Drive (162),a,Portsmouth Drive,12,5542491,356927162,Scarborough,38007
 43.7762298,-79.1399497,2,Portsmouth Drive (952),a,Portsmouth Drive,12,5542491,611551952,Scarborough,38007
-43.7762591,-79.1573769,2,Colonel Danforth Trail (378),a,Colonel Danforth Trail,34,5543049,99047378,Scarborough,38007
 43.7762613,-79.1379128,2,Eastport Drive (591),a,Eastport Drive,9,5542957,98973591,Scarborough,38007
 43.7762613,-79.1379128,2,Bridgend Street (834),a,Bridgend Street,27,5542958,98974834,Scarborough,38007
 43.7762703,-79.1397986,2,Bridgeport Drive (247),a,Bridgeport Drive,22,5542490,98348247,Scarborough,38007
 43.7762703,-79.1397986,2,Portsmouth Drive (170),a,Portsmouth Drive,12,5542491,98350170,Scarborough,38007
-43.7762744,-79.1440917,2,Pepper Tree Drive (910),a,Pepper Tree Drive,19,5542966,98980910,Scarborough,38007
 43.7762807,-79.1378093,2,Bridgend Street (835),a,Bridgend Street,27,5542958,98974835,Scarborough,38007
-43.7762858,-79.1541369,2,Goldberry Square (022),a,Goldberry Square,26,5542821,98849022,Scarborough,38007
-43.776295,-79.1442854,2,Dunhill Street (911),a,Dunhill Street,6,5542969,354913911,Scarborough,38007
-43.776312,-79.1442064,2,Dunhill Street (422),a,Dunhill Street,6,5542969,98981422,Scarborough,38007
-43.776323,-79.1542828,2,Goldberry Square (021),a,Goldberry Square,26,5542821,98849021,Scarborough,38007
-43.7763263,-79.1504258,2,Cherryhill Avenue (794),a,Cherryhill Avenue,13,5542492,304792794,Scarborough,38007
-43.7763316,-79.1441154,2,Pepper Tree Drive (909),a,Pepper Tree Drive,19,5542966,98980909,Scarborough,38007
-43.7763316,-79.1441154,2,Dunhill Street (424),a,Dunhill Street,6,5542969,98981424,Scarborough,38007
-43.7763376,-79.1504327,2,Cherryhill Avenue (575),a,Cherryhill Avenue,13,5542492,98353575,Scarborough,38007
-43.7763486,-79.1477722,2,Tredvalley Grove (516),a,Tredvalley Grove,26,5543023,99015516,Scarborough,38007
 43.7763521,-79.1368344,2,Lakeridge Drive (957),a,Lakeridge Drive,17,5543028,611551957,Scarborough,38007
-43.7763541,-79.1478294,2,Tredvalley Grove (515),a,Tredvalley Grove,26,5543023,99015515,Scarborough,38007
-43.7763574,-79.1477158,2,Tredvalley Grove (517),a,Tredvalley Grove,26,5543023,99015517,Scarborough,38007
-43.7763666,-79.151009,2,Lawrence Avenue East (900),a,Lawrence Avenue East,964,5542369,304797900,Scarborough,38007
-43.7763666,-79.151009,2,Lawrence Avenue East (924),a,Lawrence Avenue East,964,5542369,304797924,Scarborough,38007
-43.7763733,-79.1478806,2,Tredvalley Grove (514),a,Tredvalley Grove,26,5543023,99015514,Scarborough,38007
-43.7763788,-79.1543343,2,Goldberry Square (020),a,Goldberry Square,26,5542821,98849020,Scarborough,38007
-43.7763795,-79.1476668,2,Tredvalley Grove (518),a,Tredvalley Grove,26,5543023,99015518,Scarborough,38007
 43.7763828,-79.1368451,2,Lakeridge Drive (956),a,Lakeridge Drive,17,5543028,611551956,Scarborough,38007
-43.7764039,-79.1479197,2,Tredvalley Grove (513),a,Tredvalley Grove,26,5543023,99015513,Scarborough,38007
-43.7764092,-79.1476336,2,Tredvalley Grove (519),a,Tredvalley Grove,26,5543023,99015519,Scarborough,38007
-43.7764119,-79.1441444,2,Pepper Tree Drive (908),a,Pepper Tree Drive,19,5542966,98980908,Scarborough,38007
-43.7764423,-79.1479422,2,Tredvalley Grove (512),a,Tredvalley Grove,26,5543023,99015512,Scarborough,38007
-43.7764449,-79.1476148,2,Tredvalley Grove (520),a,Tredvalley Grove,26,5543023,99015520,Scarborough,38007
 43.776467,-79.136315,2,Wharfside Lane (961),a,Wharfside Lane,9,5543024,611551961,Scarborough,38007
-43.7764754,-79.1529943,2,Goldberry Square (028),a,Goldberry Square,26,5542821,98849028,Scarborough,38007
-43.7764796,-79.150521,2,Lawrence Avenue East (819),a,Lawrence Avenue East,964,5542369,461893819,Scarborough,38007
-43.7764796,-79.150521,2,Lawrence Avenue East (820),a,Lawrence Avenue East,964,5542369,461893820,Scarborough,38007
-43.7764796,-79.150521,2,Cherryhill Avenue (576),a,Cherryhill Avenue,13,5542492,98353576,Scarborough,38007
-43.7764796,-79.150521,2,Bathgate Drive (973),a,Bathgate Drive,37,5542493,98360973,Scarborough,38007
-43.776483,-79.1476123,2,Tredvalley Grove (521),a,Tredvalley Grove,26,5543023,99015521,Scarborough,38007
-43.7764839,-79.1479453,2,Tredvalley Grove (511),a,Tredvalley Grove,26,5543023,99015511,Scarborough,38007
 43.7764938,-79.1368856,2,Bridgend Street (836),a,Bridgend Street,27,5542958,98974836,Scarborough,38007
 43.7764938,-79.1368856,2,Lakeridge Drive (085),a,Lakeridge Drive,17,5543028,99017085,Scarborough,38007
 43.7764938,-79.1368856,2,Vessel Crescent (568),a,Vessel Crescent,22,5543029,99017568,Scarborough,38007
 43.7764962,-79.1363285,2,Wharfside Lane (960),a,Wharfside Lane,9,5543024,611551960,Scarborough,38007
-43.7765085,-79.1531204,2,Goldberry Square (023),a,Goldberry Square,26,5542821,98849023,Scarborough,38007
 43.7765173,-79.1416961,2,Bar Harbour Square (293),a,Bar Harbour Square,14,5543025,99016293,Scarborough,38007
-43.7765198,-79.1476265,2,Tredvalley Grove (522),a,Tredvalley Grove,26,5543023,99015522,Scarborough,38007
-43.7765198,-79.1476265,2,Tredvalley Grove (983),a,Tredvalley Grove,26,5543023,611551983,Scarborough,38007
-43.7765238,-79.1479287,2,Tredvalley Grove (510),a,Tredvalley Grove,26,5543023,99015510,Scarborough,38007
 43.7765297,-79.1417905,2,Bar Harbour Square (294),a,Bar Harbour Square,14,5543025,99016294,Scarborough,38007
-43.7765309,-79.1530179,2,Goldberry Square (024),a,Goldberry Square,26,5542821,98849024,Scarborough,38007
-43.7765309,-79.1530179,2,Goldberry Square (030),a,Goldberry Square,26,5542821,98849030,Scarborough,38007
-43.7765515,-79.152924,2,Goldberry Square (032),a,Goldberry Square,26,5542821,98849032,Scarborough,38007
-43.7765516,-79.1476558,2,Tredvalley Grove (504),a,Tredvalley Grove,26,5543023,99015504,Scarborough,38007
-43.7765573,-79.1478943,2,Tredvalley Grove (502),a,Tredvalley Grove,26,5543023,99015502,Scarborough,38007
-43.7765573,-79.1478943,2,Tredvalley Grove (509),a,Tredvalley Grove,26,5543023,99015509,Scarborough,38007
 43.7765731,-79.141842,2,Bar Harbour Square (295),a,Bar Harbour Square,14,5543025,99016295,Scarborough,38007
-43.7765752,-79.1476973,2,Tredvalley Grove (505),a,Tredvalley Grove,26,5543023,99015505,Scarborough,38007
-43.7765789,-79.1478507,2,Tredvalley Grove (508),a,Tredvalley Grove,26,5543023,99015508,Scarborough,38007
-43.7765834,-79.1505773,2,Bathgate Drive (972),a,Bathgate Drive,37,5542493,98360972,Scarborough,38007
-43.7765883,-79.147747,2,Tredvalley Grove (506),a,Tredvalley Grove,26,5543023,99015506,Scarborough,38007
-43.7765896,-79.1477999,2,Tredvalley Grove (507),a,Tredvalley Grove,26,5543023,99015507,Scarborough,38007
 43.7765906,-79.1369287,2,Vessel Crescent (567),a,Vessel Crescent,22,5543029,99017567,Scarborough,38007
 43.7766008,-79.1363687,2,Bridgend Street (312),a,Bridgend Street,27,5542958,611540312,Scarborough,38007
 43.7766008,-79.1363687,2,Wharfside Lane (959),a,Wharfside Lane,9,5543024,611551959,Scarborough,38007
-43.776603,-79.1499583,2,Lawrence Avenue East (040),a,Lawrence Avenue East,964,5542369,304796040,Scarborough,38007
-43.776603,-79.1499583,2,Lawrence Avenue East (920),a,Lawrence Avenue East,964,5542369,304797920,Scarborough,38007
-43.7766072,-79.1505902,2,Bathgate Drive (056),a,Bathgate Drive,37,5542493,304796056,Scarborough,38007
 43.7766212,-79.136942,2,Vessel Crescent (765),a,Vessel Crescent,22,5543029,356927765,Scarborough,38007
-43.7766291,-79.1479764,2,Tredvalley Grove (501),a,Tredvalley Grove,26,5543023,99015501,Scarborough,38007
 43.7766561,-79.1361102,2,Bridgend Street (313),a,Bridgend Street,27,5542958,611540313,Scarborough,38007
 43.7766561,-79.1361102,2,Vessel Crescent (315),a,Vessel Crescent,22,5543029,611540315,Scarborough,38007
-43.7766761,-79.1462606,2,Centennial Road (542),a,Centennial Road,41,5542383,96292542,Scarborough,38007
-43.7766761,-79.1462606,2,Pepper Tree Drive (901),a,Pepper Tree Drive,19,5542966,98980901,Scarborough,38007
 43.7766854,-79.1359876,2,Bridgend Street (839),a,Bridgend Street,27,5542958,98974839,Scarborough,38007
 43.7766854,-79.1359876,2,Bridgend Street (850),a,Bridgend Street,27,5542958,98974850,Scarborough,38007
 43.7766854,-79.1359876,2,Bridgend Street (851),a,Bridgend Street,27,5542958,98974851,Scarborough,38007
-43.7766924,-79.1461891,2,Pepper Tree Drive (902),a,Pepper Tree Drive,19,5542966,98980902,Scarborough,38007
-43.7767009,-79.1461519,2,Pepper Tree Drive (902),a,Pepper Tree Drive,19,5542966,354913902,Scarborough,38007
 43.776705,-79.1357732,2,Bridgend Street (852),a,Bridgend Street,27,5542958,98974852,Scarborough,38007
-43.7767108,-79.1480295,2,Tredvalley Grove (500),a,Tredvalley Grove,26,5543023,99015500,Scarborough,38007
 43.7767311,-79.1356215,2,Bridgend Street (853),a,Bridgend Street,27,5542958,98974853,Scarborough,38007
 43.7767508,-79.1429993,2,Portsmouth Drive (175),a,Portsmouth Drive,12,5542491,98350175,Scarborough,38007
 43.7767515,-79.1361514,2,Vessel Crescent (316),a,Vessel Crescent,22,5543029,611540316,Scarborough,38007
@@ -425,86 +245,51 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7767548,-79.1407534,2,Bar Harbour Square (949),a,Bar Harbour Square,14,5543025,611551949,Scarborough,38007
 43.7767644,-79.1353211,2,Duthie Street (066),a,Duthie Street,15,5543132,304797066,Scarborough,38007
 43.7767677,-79.1357976,2,Bridgend Street (992),a,Bridgend Street,27,5542958,304796992,Scarborough,38007
-43.7767692,-79.1519311,2,Goldberry Square (034),a,Goldberry Square,26,5542821,98849034,Scarborough,38007
 43.776772,-79.1406729,2,Bar Harbour Square (291),a,Bar Harbour Square,14,5543025,99016291,Scarborough,38007
 43.7767813,-79.1361664,2,Vessel Crescent (317),a,Vessel Crescent,22,5543029,611540317,Scarborough,38007
 43.7767852,-79.1352593,2,Duthie Street (894),a,Duthie Street,15,5543132,555284894,Scarborough,38007
 43.7767988,-79.1352126,2,Duthie Street (194),a,Duthie Street,15,5543132,99189194,Scarborough,38007
 43.7768189,-79.1351144,2,Duthie Street (068),a,Duthie Street,15,5543132,304797068,Scarborough,38007
-43.7768195,-79.14563,2,Pepper Tree Drive (903),a,Pepper Tree Drive,19,5542966,98980903,Scarborough,38007
 43.7768256,-79.1356784,2,Bridgend Street (849),a,Bridgend Street,27,5542958,98974849,Scarborough,38007
 43.7768374,-79.1350419,2,Duthie Street (893),a,Duthie Street,15,5543132,555284893,Scarborough,38007
 43.7768425,-79.1400411,2,Bridgeport Drive (249),a,Bridgeport Drive,22,5542490,98348249,Scarborough,38007
-43.7768482,-79.1488404,2,Lawrence Avenue East (312),a,Lawrence Avenue East,964,5542369,95789312,Scarborough,38007
-43.776857,-79.1518602,2,Goldberry Square (036),a,Goldberry Square,26,5542821,98849036,Scarborough,38007
 43.7768641,-79.1402414,2,Bar Harbour Square (679),a,Bar Harbour Square,14,5543025,482025679,Scarborough,38007
 43.7768667,-79.1402294,2,Bar Harbour Square (290),a,Bar Harbour Square,14,5543025,99016290,Scarborough,38007
 43.7768767,-79.1419622,2,Bar Harbour Square (296),a,Bar Harbour Square,14,5543025,99016296,Scarborough,38007
-43.7768808,-79.1545317,2,Goldberry Square (019),a,Goldberry Square,26,5542821,98849019,Scarborough,38007
-43.7768817,-79.1481002,2,Tredvalley Grove (359),a,Tredvalley Grove,26,5543023,304793359,Scarborough,38007
 43.7768965,-79.1351423,2,Duthie Street (062),a,Duthie Street,15,5543132,304797062,Scarborough,38007
 43.7768972,-79.1352055,2,Duthie Street (191),a,Duthie Street,15,5543132,99189191,Scarborough,38007
 43.7769015,-79.1400664,2,Bridgeport Drive (250),a,Bridgeport Drive,22,5542490,98348250,Scarborough,38007
 43.7769015,-79.1400664,2,Bar Harbour Square (289),a,Bar Harbour Square,14,5543025,99016289,Scarborough,38007
 43.7769084,-79.1352737,2,Duthie Street (892),a,Duthie Street,15,5543132,555284892,Scarborough,38007
-43.7769114,-79.1481128,2,Tredvalley Grove (982),a,Tredvalley Grove,26,5543023,611551982,Scarborough,38007
 43.776916,-79.1356353,2,Port Union Road (736),a,Port Union Road,105,5542371,95851736,Scarborough,38007
-43.776928,-79.1454154,2,Pepper Tree Drive (904),a,Pepper Tree Drive,19,5542966,98980904,Scarborough,38007
 43.7769398,-79.1353766,2,Duthie Street (192),a,Duthie Street,15,5543132,99189192,Scarborough,38007
 43.7769426,-79.1348879,2,Duthie Street (180),a,Duthie Street,15,5543132,99189180,Scarborough,38007
 43.7769426,-79.1348879,2,Duthie Street (190),a,Duthie Street,15,5543132,99189190,Scarborough,38007
 43.7769426,-79.1348879,2,Duthie Street (195),a,Duthie Street,15,5543132,99189195,Scarborough,38007
-43.7769552,-79.1544974,2,Goldberry Square (018),a,Goldberry Square,26,5542821,98849018,Scarborough,38007
 43.7769626,-79.1354455,2,Port Union Road (565),a,Port Union Road,105,5542371,95851565,Scarborough,38007
-43.7769715,-79.1518804,2,Goldberry Square (037),a,Goldberry Square,26,5542821,98849037,Scarborough,38007
-43.7770031,-79.1481514,2,Lawrence Avenue East (311),a,Lawrence Avenue East,964,5542369,95789311,Scarborough,38007
-43.7770031,-79.1481514,2,Tredvalley Grove (498),a,Tredvalley Grove,26,5543023,99015498,Scarborough,38007
 43.7770113,-79.1345806,2,Duthie Street (181),a,Duthie Street,15,5543132,99189181,Scarborough,38007
-43.7770171,-79.1544116,2,Goldberry Square (017),a,Goldberry Square,26,5542821,98849017,Scarborough,38007
 43.7770212,-79.1356086,2,Port Union Road (734),a,Port Union Road,105,5542371,95851734,Scarborough,38007
 43.7770316,-79.1356131,2,Port Union Road (265),a,Port Union Road,105,5542371,304797265,Scarborough,38007
-43.7770357,-79.1443694,2,Pepper Tree Drive (907),a,Pepper Tree Drive,19,5542966,98980907,Scarborough,38007
-43.7770432,-79.1479758,2,Lawrence Avenue East (310),a,Lawrence Avenue East,964,5542369,95789310,Scarborough,38007
 43.7770572,-79.1343782,2,Duthie Street (184),a,Duthie Street,15,5543132,99189184,Scarborough,38007
 43.7770579,-79.1355067,2,Port Union Road (684),a,Port Union Road,105,5542371,304792684,Scarborough,38007
 43.7770672,-79.1355127,2,Port Union Road (567),a,Port Union Road,105,5542371,95851567,Scarborough,38007
 43.7770766,-79.1401412,2,Bridgeport Drive (251),a,Bridgeport Drive,22,5542490,98348251,Scarborough,38007
-43.7770977,-79.1445839,2,Pepper Tree Drive (905),a,Pepper Tree Drive,19,5542966,98980905,Scarborough,38007
-43.7770977,-79.1444552,2,Pepper Tree Drive (906),a,Pepper Tree Drive,19,5542966,98980906,Scarborough,38007
 43.7771415,-79.1339979,2,Duthie Street (186),a,Duthie Street,15,5543132,99189186,Scarborough,38007
-43.77721,-79.1472454,2,Lawrence Avenue East (039),a,Lawrence Avenue East,964,5542369,304796039,Scarborough,38007
-43.77721,-79.1472454,2,Lawrence Avenue East (936),a,Lawrence Avenue East,964,5542369,304797936,Scarborough,38007
 43.7772486,-79.1420652,2,Bar Harbour Square (297),a,Bar Harbour Square,14,5543025,99016297,Scarborough,38007
-43.7772706,-79.1465095,2,Centennial Road (539),a,Centennial Road,41,5542383,96292539,Scarborough,38007
 43.7772713,-79.1409599,2,Bar Harbour Square (300),a,Bar Harbour Square,14,5543025,99016300,Scarborough,38007
 43.7773248,-79.135625,2,Port Union Road (569),a,Port Union Road,105,5542371,95851569,Scarborough,38007
 43.7773248,-79.135625,2,Schooner Lane (281),a,Schooner Lane,12,5542961,98977281,Scarborough,38007
-43.777335,-79.1466935,2,Lawrence Avenue East (950),a,Lawrence Avenue East,964,5542369,611551950,Scarborough,38007
 43.7773382,-79.1402603,2,Bridgeport Drive (252),a,Bridgeport Drive,22,5542490,98348252,Scarborough,38007
 43.7773437,-79.135536,2,Schooner Lane (319),a,Schooner Lane,12,5542961,611540319,Scarborough,38007
-43.7773735,-79.1465402,2,Lawrence Avenue East (821),a,Lawrence Avenue East,964,5542369,461893821,Scarborough,38007
-43.7773735,-79.1465402,2,Lawrence Avenue East (823),a,Lawrence Avenue East,964,5542369,461893823,Scarborough,38007
-43.7773735,-79.1465402,2,Centennial Road (506),a,Centennial Road,41,5542383,96292506,Scarborough,38007
-43.7773735,-79.1465402,2,Centennial Road (536),a,Centennial Road,41,5542383,96292536,Scarborough,38007
-43.777394,-79.1464399,2,Lawrence Avenue East (824),a,Lawrence Avenue East,964,5542369,461893824,Scarborough,38007
 43.7774097,-79.1352245,2,Schooner Lane (282),a,Schooner Lane,12,5542961,98977282,Scarborough,38007
 43.7774097,-79.1352245,2,Schooner Lane (283),a,Schooner Lane,12,5542961,98977283,Scarborough,38007
-43.7774106,-79.1520607,2,Goldberry Square (981),a,Goldberry Square,26,5542821,611551981,Scarborough,38007
 43.7774292,-79.1356663,2,Port Union Road (571),a,Port Union Road,105,5542371,95851571,Scarborough,38007
-43.7774465,-79.1520754,2,Goldberry Square (039),a,Goldberry Square,26,5542821,98849039,Scarborough,38007
-43.7775,-79.1465626,2,Centennial Road (503),a,Centennial Road,41,5542383,96292503,Scarborough,38007
-43.7775129,-79.1521027,2,Goldberry Square (016),a,Goldberry Square,26,5542821,98849016,Scarborough,38007
-43.7775129,-79.1521027,2,Goldberry Square (041),a,Goldberry Square,26,5542821,98849041,Scarborough,38007
 43.777513,-79.135268,2,Schooner Lane (284),a,Schooner Lane,12,5542961,98977284,Scarborough,38007
 43.777534,-79.1352767,2,Schooner Lane (744),a,Schooner Lane,12,5542961,356927744,Scarborough,38007
-43.7775714,-79.1456638,2,Lawrence Avenue East (193),a,Lawrence Avenue East,964,5542369,304795193,Scarborough,38007
-43.7775714,-79.1456638,2,Lawrence Avenue East (939),a,Lawrence Avenue East,964,5542369,304797939,Scarborough,38007
 43.7775734,-79.1432275,2,Portsmouth Drive (176),a,Portsmouth Drive,12,5542491,98350176,Scarborough,38007
 43.7775734,-79.1432275,2,Seabreeze Lane (316),a,Seabreeze Lane,5,5542953,98971316,Scarborough,38007
-43.7775741,-79.1520357,2,Goldberry Square (015),a,Goldberry Square,26,5542821,98849015,Scarborough,38007
 43.7775905,-79.1431489,2,Seabreeze Lane (317),a,Seabreeze Lane,5,5542953,98971317,Scarborough,38007
 43.7776159,-79.1432449,2,Portsmouth Drive (177),a,Portsmouth Drive,12,5542491,98350177,Scarborough,38007
-43.7776583,-79.1510272,2,Bathgate Drive (971),a,Bathgate Drive,37,5542493,98360971,Scarborough,38007
 43.7776762,-79.1345293,2,Colinroy Street (654),a,Colinroy Street,3,5542963,98977654,Scarborough,38007
 43.777733,-79.1345528,2,Colinroy Street (653),a,Colinroy Street,3,5542963,98977653,Scarborough,38007
 43.7777497,-79.1423504,2,Seabreeze Lane (320),a,Seabreeze Lane,5,5542953,98971320,Scarborough,38007
@@ -514,58 +299,35 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7777565,-79.1334617,2,GO Transit Path to Parking Overflow (706),a,GO Transit Path to Parking Overflow,14,23815351,555285706,Scarborough,38007
 43.7777712,-79.133419,2,GO Transit Path to Parking Overflow (714),a,GO Transit Path to Parking Overflow,14,23815351,555285714,Scarborough,38007
 43.7777903,-79.1333635,2,GO Transit Path to Parking Overflow (703),a,GO Transit Path to Parking Overflow,14,23815351,555285703,Scarborough,38007
-43.7778007,-79.1510868,2,Bathgate Drive (970),a,Bathgate Drive,37,5542493,98360970,Scarborough,38007
 43.7778373,-79.1337911,2,Wynnecastle Road (838),a,Wynnecastle Road,3,5544372,100194838,Scarborough,38007
-43.7778532,-79.1517303,2,Goldberry Square (014),a,Goldberry Square,26,5542821,98849014,Scarborough,38007
-43.7778532,-79.1517303,2,Boxhill Drive (065),a,Boxhill Drive,8,5542822,98851065,Scarborough,38007
-43.7778616,-79.1467133,2,Centennial Road (501),a,Centennial Road,41,5542383,96292501,Scarborough,38007
 43.777884,-79.1405045,2,Bridgeport Drive (253),a,Bridgeport Drive,22,5542490,98348253,Scarborough,38007
 43.777884,-79.1405045,2,Bridgeport Drive (256),a,Bridgeport Drive,22,5542490,98348256,Scarborough,38007
-43.7778861,-79.1518309,2,Boxhill Drive (554),a,Boxhill Drive,8,5542822,611551554,Scarborough,38007
 43.7779006,-79.1433606,2,Portsmouth Drive (953),a,Portsmouth Drive,12,5542491,611551953,Scarborough,38007
 43.7779089,-79.133821,2,Wynnecastle Road (839),a,Wynnecastle Road,3,5544372,100194839,Scarborough,38007
-43.7779115,-79.1518798,2,Boxhill Drive (555),a,Boxhill Drive,8,5542822,611551555,Scarborough,38007
-43.7779181,-79.1510961,2,Bathgate Drive (969),a,Bathgate Drive,37,5542493,98360969,Scarborough,38007
 43.7779324,-79.143376,2,Portsmouth Drive (954),a,Portsmouth Drive,12,5542491,611551954,Scarborough,38007
-43.7779427,-79.1478759,2,Tesson Place (775),a,Tesson Place,12,5542952,98970775,Scarborough,38007
 43.7779556,-79.1412692,2,Bar Harbour Square (299),a,Bar Harbour Square,14,5543025,99016299,Scarborough,38007
 43.7779556,-79.1412692,2,Anchor Lane (655),a,Anchor Lane,5,5543026,99016655,Scarborough,38007
-43.7779613,-79.1477815,2,Tesson Place (776),a,Tesson Place,12,5542952,98970776,Scarborough,38007
-43.7779649,-79.1512226,2,Goldberry Square (558),a,Goldberry Square,26,5542821,611551558,Scarborough,38007
-43.7779675,-79.1479446,2,Tesson Place (774),a,Tesson Place,12,5542952,98970774,Scarborough,38007
-43.7779679,-79.1519882,2,Boxhill Drive (070),a,Boxhill Drive,8,5542822,98851070,Scarborough,38007
-43.7779713,-79.1511893,2,Goldberry Square (557),a,Goldberry Square,26,5542821,611551557,Scarborough,38007
-43.7779934,-79.1510748,2,Bathgate Drive (572),a,Bathgate Drive,37,5542493,611551572,Scarborough,38007
-43.7779934,-79.1510748,2,Goldberry Square (556),a,Goldberry Square,26,5542821,611551556,Scarborough,38007
 43.7780041,-79.1411959,2,Anchor Lane (656),a,Anchor Lane,5,5543026,99016656,Scarborough,38007
 43.7780076,-79.1360346,2,Port Union Road (733),a,Port Union Road,105,5542371,95851733,Scarborough,38007
 43.7780076,-79.1360346,2,Shoalhaven Drive (417),a,Shoalhaven Drive,19,5542960,98976417,Scarborough,38007
 43.7780118,-79.1331557,2,GO Transit Path to Parking Overflow (704),a,GO Transit Path to Parking Overflow,14,23815351,555285704,Scarborough,38007
-43.7780161,-79.1479768,2,Tesson Place (773),a,Tesson Place,12,5542952,98970773,Scarborough,38007
 43.7780264,-79.1411621,2,Anchor Lane (657),a,Anchor Lane,5,5543026,99016657,Scarborough,38007
 43.7780359,-79.1359101,2,Port Union Road (574),a,Port Union Road,105,5542371,95851574,Scarborough,38007
 43.7780359,-79.1359101,2,Shoalhaven Drive (416),a,Shoalhaven Drive,19,5542960,98976416,Scarborough,38007
 43.7780434,-79.1331188,2,GO Transit Path to Parking Overflow (709),a,GO Transit Path to Parking Overflow,14,23815351,555285709,Scarborough,38007
 43.7780529,-79.1358367,2,Shoalhaven Drive (415),a,Shoalhaven Drive,19,5542960,98976415,Scarborough,38007
-43.7780542,-79.1520891,2,Boxhill Drive (074),a,Boxhill Drive,8,5542822,98851074,Scarborough,38007
 43.7780568,-79.1358204,2,Shoalhaven Drive (414),a,Shoalhaven Drive,19,5542960,98976414,Scarborough,38007
-43.778061,-79.147974,2,Tesson Place (772),a,Tesson Place,12,5542952,98970772,Scarborough,38007
 43.7780619,-79.1434385,2,Lawrence Avenue East (951),a,Lawrence Avenue East,964,5542369,611551951,Scarborough,38007
 43.7780619,-79.1434385,2,Portsmouth Drive (955),a,Portsmouth Drive,12,5542491,611551955,Scarborough,38007
 43.7780662,-79.1330656,2,GO Transit Path to Parking Overflow (710),a,GO Transit Path to Parking Overflow,14,23815351,555285710,Scarborough,38007
 43.7780673,-79.1354981,2,Schooner Lane (745),a,Schooner Lane,12,5542961,356927745,Scarborough,38007
-43.7780815,-79.1510365,2,Bathgate Drive (571),a,Bathgate Drive,37,5542493,611551571,Scarborough,38007
 43.7781083,-79.1329468,2,GO Transit Path to Parking Overflow (712),a,GO Transit Path to Parking Overflow,14,23815351,555285712,Scarborough,38007
-43.7781168,-79.1479225,2,Tesson Place (771),a,Tesson Place,12,5542952,98970771,Scarborough,38007
 43.7781197,-79.1407712,2,Anchor Lane (948),a,Anchor Lane,5,5543026,611551948,Scarborough,38007
-43.778123,-79.1478195,2,Tesson Place (770),a,Tesson Place,12,5542952,98970770,Scarborough,38007
 43.7781253,-79.1329198,2,GO Transit Path to Parking Overflow (711),a,GO Transit Path to Parking Overflow,14,23815351,555285711,Scarborough,38007
 43.7781274,-79.1355267,2,Shoalhaven Drive (412),a,Shoalhaven Drive,19,5542960,98976412,Scarborough,38007
 43.7781274,-79.1355267,2,Shoalhaven Drive (413),a,Shoalhaven Drive,19,5542960,98976413,Scarborough,38007
 43.7781274,-79.1355267,2,Schooner Lane (285),a,Schooner Lane,12,5542961,98977285,Scarborough,38007
 43.7781274,-79.1355267,2,Schooner Lane (286),a,Schooner Lane,12,5542961,98977286,Scarborough,38007
-43.7781294,-79.1476753,2,Tesson Place (777),a,Tesson Place,12,5542952,98970777,Scarborough,38007
-43.7781294,-79.1476753,2,Tesson Place (985),a,Tesson Place,12,5542952,611551985,Scarborough,38007
 43.7781342,-79.1354939,2,Shoalhaven Drive (320),a,Shoalhaven Drive,19,5542960,611540320,Scarborough,38007
 43.7781423,-79.1328941,2,GO Transit Path to Parking Overflow (705),a,GO Transit Path to Parking Overflow,14,23815351,555285705,Scarborough,38007
 43.7781555,-79.1406206,2,Bridgeport Drive (257),a,Bridgeport Drive,22,5542490,98348257,Scarborough,38007
@@ -574,33 +336,19 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7781796,-79.1429001,2,Lawrence Avenue East (075),a,Lawrence Avenue East,964,5542369,95789075,Scarborough,38007
 43.7781998,-79.1355572,2,Schooner Lane (287),a,Schooner Lane,12,5542961,98977287,Scarborough,38007
 43.7782006,-79.1376294,2,Vessel Crescent (566),a,Vessel Crescent,22,5543029,99017566,Scarborough,38007
-43.7782018,-79.1521495,2,Boxhill Drive (076),a,Boxhill Drive,8,5542822,98851076,Scarborough,38007
 43.7782138,-79.1329334,2,Bridgend Street (847),a,Bridgend Street,27,5542958,98974847,Scarborough,38007
-43.7782256,-79.1493911,2,Feagan Drive (691),a,Feagan Drive,18,5542823,98851691,Scarborough,38007
-43.7782318,-79.1509948,2,Bathgate Drive (570),a,Bathgate Drive,37,5542493,611551570,Scarborough,38007
 43.7782335,-79.1355714,2,Schooner Lane (746),a,Schooner Lane,12,5542961,356927746,Scarborough,38007
-43.7782687,-79.1470775,2,Tesson Place (118),a,Tesson Place,12,5542952,488130118,Scarborough,38007
-43.7782709,-79.15217,2,Boxhill Drive (078),a,Boxhill Drive,8,5542822,98851078,Scarborough,38007
-43.7782768,-79.1470444,2,Tesson Place (984),a,Tesson Place,12,5542952,611551984,Scarborough,38007
-43.7782776,-79.1522844,2,Boxhill Drive (080),a,Boxhill Drive,8,5542822,98851080,Scarborough,38007
-43.778286,-79.1469058,2,Centennial Road (499),a,Centennial Road,41,5542383,96292499,Scarborough,38007
 43.7782876,-79.134782,2,Shoalhaven Drive (409),a,Shoalhaven Drive,19,5542960,98976409,Scarborough,38007
 43.7782876,-79.134782,2,Shoalhaven Drive (410),a,Shoalhaven Drive,19,5542960,98976410,Scarborough,38007
 43.7782876,-79.134782,2,Colinroy Street (652),a,Colinroy Street,3,5542963,98977652,Scarborough,38007
 43.7782979,-79.1347358,2,Shoalhaven Drive (408),a,Shoalhaven Drive,19,5542960,98976408,Scarborough,38007
-43.7783054,-79.1469142,2,Centennial Road (497),a,Centennial Road,41,5542383,96292497,Scarborough,38007
-43.7783054,-79.1469142,2,Tesson Place (767),a,Tesson Place,12,5542952,98970767,Scarborough,38007
 43.7783769,-79.1420062,2,Lawrence Avenue East (192),a,Lawrence Avenue East,964,5542369,304795192,Scarborough,38007
 43.7783769,-79.1420062,2,Lawrence Avenue East (943),a,Lawrence Avenue East,964,5542369,304797943,Scarborough,38007
-43.7783867,-79.1495879,2,Feagan Drive (681),a,Feagan Drive,18,5542823,98851681,Scarborough,38007
-43.7783867,-79.1495879,2,Feagan Drive (690),a,Feagan Drive,18,5542823,98851690,Scarborough,38007
-43.7783929,-79.1496823,2,Feagan Drive (680),a,Feagan Drive,18,5542823,98851680,Scarborough,38007
 43.7784087,-79.13276,2,Bridgend Street (845),a,Bridgend Street,27,5542958,98974845,Scarborough,38007
 43.7784087,-79.13276,2,Bridgend Street (846),a,Bridgend Street,27,5542958,98974846,Scarborough,38007
 43.7784087,-79.13276,2,Shoalhaven Drive (400),a,Shoalhaven Drive,19,5542960,98976400,Scarborough,38007
 43.7784396,-79.1340994,2,Shoalhaven Drive (407),a,Shoalhaven Drive,19,5542960,98976407,Scarborough,38007
 43.7784462,-79.1328394,2,Shoalhaven Drive (401),a,Shoalhaven Drive,19,5542960,98976401,Scarborough,38007
-43.7784472,-79.1495088,2,Feagan Drive (682),a,Feagan Drive,18,5542823,98851682,Scarborough,38007
 43.7784512,-79.1340475,2,Shoalhaven Drive (405),a,Shoalhaven Drive,19,5542960,98976405,Scarborough,38007
 43.7784512,-79.1340475,2,Shoalhaven Drive (406),a,Shoalhaven Drive,19,5542960,98976406,Scarborough,38007
 43.7784512,-79.1340475,2,Wynnecastle Road (840),a,Wynnecastle Road,3,5544372,100194840,Scarborough,38007
@@ -614,7 +362,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7785881,-79.1369268,2,Vessel Crescent (551),a,Vessel Crescent,22,5543029,99017551,Scarborough,38007
 43.7785904,-79.1331117,2,Shoalhaven Drive (402),a,Shoalhaven Drive,19,5542960,98976402,Scarborough,38007
 43.7785966,-79.1334378,2,Shoalhaven Drive (404),a,Shoalhaven Drive,19,5542960,98976404,Scarborough,38007
-43.7785984,-79.1500452,2,Feagan Drive (679),a,Feagan Drive,18,5542823,98851679,Scarborough,38007
 43.7785997,-79.1408032,2,Lawrence Avenue East (930),a,Lawrence Avenue East,964,5542369,611551930,Scarborough,38007
 43.7785997,-79.1408032,2,Lawrence Avenue East (937),a,Lawrence Avenue East,964,5542369,611551937,Scarborough,38007
 43.7785997,-79.1408032,2,Bridgeport Drive (927),a,Bridgeport Drive,22,5542490,611551927,Scarborough,38007
@@ -625,7 +372,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7786673,-79.1409723,2,Lawrence Avenue East (941),a,Lawrence Avenue East,964,5542369,611551941,Scarborough,38007
 43.778671,-79.1378094,2,Vessel Crescent (565),a,Vessel Crescent,22,5543029,99017565,Scarborough,38007
 43.7786851,-79.1404173,2,Lawrence Avenue East (932),a,Lawrence Avenue East,964,5542369,611551932,Scarborough,38007
-43.7786892,-79.1502507,2,Feagan Drive (678),a,Feagan Drive,18,5542823,98851678,Scarborough,38007
 43.7786897,-79.1408469,2,Lawrence Avenue East (940),a,Lawrence Avenue East,964,5542369,611551940,Scarborough,38007
 43.7786897,-79.1408469,2,Lawrence Avenue East (947),a,Lawrence Avenue East,964,5542369,611551947,Scarborough,38007
 43.7786897,-79.1408469,2,Charlottetown Boulevard (926),a,Charlottetown Boulevard,29,5542404,611551926,Scarborough,38007
@@ -642,13 +388,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7787387,-79.1378223,2,Vessel Crescent (561),a,Vessel Crescent,22,5543029,99017561,Scarborough,38007
 43.7787401,-79.1361102,2,Provincetown Road (668),a,Provincetown Road,11,5542959,98975668,Scarborough,38007
 43.7787538,-79.1378167,2,Vessel Crescent (560),a,Vessel Crescent,22,5543029,99017560,Scarborough,38007
-43.7787546,-79.150715,2,Feagan Drive (987),a,Feagan Drive,18,5542823,611551987,Scarborough,38007
-43.7787606,-79.1507574,2,Feagan Drive (677),a,Feagan Drive,18,5542823,98851677,Scarborough,38007
 43.7787663,-79.1378068,2,Vessel Crescent (559),a,Vessel Crescent,22,5543029,99017559,Scarborough,38007
 43.7787694,-79.1404374,2,Lawrence Avenue East (945),a,Lawrence Avenue East,964,5542369,611551945,Scarborough,38007
-43.778771,-79.147098,2,Centennial Road (493),a,Centennial Road,41,5542383,96292493,Scarborough,38007
-43.7787739,-79.1508444,2,Bathgate Drive (569),a,Bathgate Drive,37,5542493,611551569,Scarborough,38007
-43.7787739,-79.1508444,2,Feagan Drive (986),a,Feagan Drive,18,5542823,611551986,Scarborough,38007
 43.7787767,-79.140229,2,Lawrence Avenue East (914),a,Lawrence Avenue East,964,5542369,611551914,Scarborough,38007
 43.7787767,-79.140229,2,Lawrence Avenue East (933),a,Lawrence Avenue East,964,5542369,611551933,Scarborough,38007
 43.7787767,-79.140229,2,Lawrence Avenue East (944),a,Lawrence Avenue East,964,5542369,611551944,Scarborough,38007
@@ -668,11 +409,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7789137,-79.1371297,2,Vessel Crescent (553),a,Vessel Crescent,22,5543029,99017553,Scarborough,38007
 43.7789269,-79.1356993,2,Elsbury Lane (609),a,Elsbury Lane,9,5542962,98977609,Scarborough,38007
 43.7789413,-79.1395036,2,Lawrence Avenue East (913),a,Lawrence Avenue East,964,5542369,611551913,Scarborough,38007
-43.7789579,-79.1508013,2,Bathgate Drive (568),a,Bathgate Drive,37,5542493,611551568,Scarborough,38007
 43.7790051,-79.1322044,2,Bridgend Street (844),a,Bridgend Street,27,5542958,98974844,Scarborough,38007
 43.779047,-79.1409879,2,Charlottetown Boulevard (013),a,Charlottetown Boulevard,29,5542404,97388013,Scarborough,38007
 43.779047,-79.1409879,2,Charlottetown Boulevard (014),a,Charlottetown Boulevard,29,5542404,97388014,Scarborough,38007
-43.7790695,-79.1508345,2,Bathgate Drive (567),a,Bathgate Drive,37,5542493,611551567,Scarborough,38007
 43.7790785,-79.1321364,2,Marine Approach Drive (597),a,Marine Approach Drive,12,5542489,555284597,Scarborough,38007
 43.7790785,-79.1321364,2,Bridgend Street (835),a,Bridgend Street,27,5542958,555284835,Scarborough,38007
 43.7790785,-79.1321364,2,Bridgend Street (837),a,Bridgend Street,27,5542958,555284837,Scarborough,38007
@@ -701,27 +440,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7792995,-79.1319158,2,Bridgend Street (840),a,Bridgend Street,27,5542958,98974840,Scarborough,38007
 43.7793012,-79.1379067,2,Lawrence Avenue East (826),a,Lawrence Avenue East,964,5542369,461893826,Scarborough,38007
 43.7793012,-79.1379067,2,Lawrence Avenue East (827),a,Lawrence Avenue East,964,5542369,461893827,Scarborough,38007
-43.7793053,-79.1493644,2,Feagan Drive (683),a,Feagan Drive,18,5542823,98851683,Scarborough,38007
 43.7793691,-79.1411336,2,Charlottetown Boulevard (920),a,Charlottetown Boulevard,29,5542404,611551920,Scarborough,38007
 43.7793713,-79.137598,2,Lawrence Avenue East (421),a,Lawrence Avenue East,964,5542369,95789421,Scarborough,38007
 43.7793713,-79.137598,2,Lawrence Avenue East (299),a,Lawrence Avenue East,964,5542369,611540299,Scarborough,38007
 43.7793942,-79.1411443,2,Charlottetown Boulevard (410),a,Charlottetown Boulevard,29,5542404,504050410,Scarborough,38007
 43.779418,-79.1411517,2,Charlottetown Boulevard (411),a,Charlottetown Boulevard,29,5542404,504050411,Scarborough,38007
-43.7794191,-79.1509745,2,Bathgate Drive (962),a,Bathgate Drive,37,5542493,98360962,Scarborough,38007
-43.7794191,-79.1509745,2,Feagan Drive (689),a,Feagan Drive,18,5542823,98851689,Scarborough,38007
 43.7794388,-79.1366533,2,Port Union Road (322),a,Port Union Road,105,5542371,611540322,Scarborough,38007
-43.7794414,-79.1508802,2,Feagan Drive (688),a,Feagan Drive,18,5542823,98851688,Scarborough,38007
 43.779449,-79.1411614,2,Charlottetown Boulevard (409),a,Charlottetown Boulevard,29,5542404,504050409,Scarborough,38007
-43.7794507,-79.1508407,2,Feagan Drive (988),a,Feagan Drive,18,5542823,611551988,Scarborough,38007
 43.7794631,-79.1372142,2,Lawrence Avenue East (785),a,Lawrence Avenue East,964,5542369,95788785,Scarborough,38007
 43.7794631,-79.1372142,2,Lawrence Avenue East (420),a,Lawrence Avenue East,964,5542369,95789420,Scarborough,38007
 43.7794662,-79.1365241,2,Port Union Road (294),a,Port Union Road,105,5542371,611540294,Scarborough,38007
-43.7794679,-79.1473916,2,Centennial Road (491),a,Centennial Road,41,5542383,96292491,Scarborough,38007
-43.7794679,-79.1473916,2,Charles Tupper Drive (821),a,Charles Tupper Drive,20,5544361,100190821,Scarborough,38007
-43.779494,-79.1493508,2,Feagan Drive (684),a,Feagan Drive,18,5542823,98851684,Scarborough,38007
-43.7794954,-79.1472747,2,Charles Tupper Drive (922),a,Charles Tupper Drive,20,5544361,611551922,Scarborough,38007
-43.779501,-79.1472488,2,Charles Tupper Drive (882),a,Charles Tupper Drive,20,5544361,354915882,Scarborough,38007
-43.7795129,-79.1529079,2,Wanita Road (814),a,Wanita Road,6,5542824,98851814,Scarborough,38007
 43.7795153,-79.1411757,2,Charlottetown Boulevard (011),a,Charlottetown Boulevard,29,5542404,97388011,Scarborough,38007
 43.7795193,-79.1326943,2,Provincetown Road (025),a,Provincetown Road,11,5542959,407968025,Scarborough,38007
 43.7795271,-79.1326548,2,Provincetown Road (663),a,Provincetown Road,11,5542959,98975663,Scarborough,38007
@@ -732,7 +460,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7795814,-79.136716,2,Lawrence Avenue East (423),a,Lawrence Avenue East,964,5542369,95789423,Scarborough,38007
 43.7795814,-79.136716,2,Port Union Road (716),a,Port Union Road,105,5542371,95851716,Scarborough,38007
 43.7795814,-79.136716,2,Port Union Road (727),a,Port Union Road,105,5542371,95851727,Scarborough,38007
-43.7795907,-79.1494016,2,Feagan Drive (685),a,Feagan Drive,18,5542823,98851685,Scarborough,38007
 43.779612,-79.1365822,2,Lawrence Avenue East (422),a,Lawrence Avenue East,964,5542369,95789422,Scarborough,38007
 43.779612,-79.1365822,2,Lawrence Avenue East (426),a,Lawrence Avenue East,964,5542369,95789426,Scarborough,38007
 43.779612,-79.1365822,2,Port Union Road (703),a,Port Union Road,105,5542371,95851703,Scarborough,38007
@@ -740,30 +467,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7796184,-79.1325651,2,Marine Approach Drive (550),a,Marine Approach Drive,12,5542489,98344550,Scarborough,38007
 43.7796368,-79.1364612,2,Lawrence Avenue East (296),a,Lawrence Avenue East,964,5542369,611540296,Scarborough,38007
 43.7796857,-79.1362496,2,Lawrence Avenue East (295),a,Lawrence Avenue East,964,5542369,611540295,Scarborough,38007
-43.7797008,-79.1497834,2,Feagan Drive (687),a,Feagan Drive,18,5542823,98851687,Scarborough,38007
 43.7797094,-79.1462834,2,Charles Tupper Drive (805),a,Charles Tupper Drive,20,5544361,100190805,Scarborough,38007
 43.7797094,-79.1462834,2,Charles Tupper Drive (823),a,Charles Tupper Drive,20,5544361,100190823,Scarborough,38007
 43.7797094,-79.1462834,2,Langevin Crescent (377),a,Langevin Crescent,40,5544362,100191377,Scarborough,38007
-43.7797101,-79.1495843,2,Feagan Drive (686),a,Feagan Drive,18,5542823,98851686,Scarborough,38007
 43.7797129,-79.1367769,2,Port Union Road (301),a,Port Union Road,105,5542371,611540301,Scarborough,38007
 43.7797422,-79.1360048,2,Lawrence Avenue East (753),a,Lawrence Avenue East,964,5542369,95788753,Scarborough,38007
 43.7797422,-79.1360048,2,Lawrence Avenue East (424),a,Lawrence Avenue East,964,5542369,95789424,Scarborough,38007
 43.7797452,-79.1366328,2,Port Union Road (302),a,Port Union Road,105,5542371,611540302,Scarborough,38007
-43.7797593,-79.1631517,2,Colonel Danforth Trail (375),a,Colonel Danforth Trail,34,5543049,99047375,Scarborough,38007
 43.7797851,-79.1463142,2,Langevin Crescent (921),a,Langevin Crescent,40,5544362,611551921,Scarborough,38007
 43.7798204,-79.1463296,2,Langevin Crescent (877),a,Langevin Crescent,40,5544362,354915877,Scarborough,38007
 43.7798478,-79.1411347,2,Charlottetown Boulevard (010),a,Charlottetown Boulevard,29,5542404,97388010,Scarborough,38007
-43.7798705,-79.1512791,2,Wanita Road (580),a,Wanita Road,6,5542824,611551580,Scarborough,38007
-43.7798771,-79.1633834,2,Colonel Danforth Trail (374),a,Colonel Danforth Trail,34,5543049,99047374,Scarborough,38007
-43.7798898,-79.1511912,2,Bathgate Drive (961),a,Bathgate Drive,37,5542493,98360961,Scarborough,38007
-43.7798898,-79.1511912,2,Wanita Road (813),a,Wanita Road,6,5542824,98851813,Scarborough,38007
 43.7799019,-79.1328756,2,Elsbury Lane (027),a,Elsbury Lane,9,5542962,407968027,Scarborough,38007
 43.7799136,-79.1328217,2,Elsbury Lane (614),a,Elsbury Lane,9,5542962,98977614,Scarborough,38007
 43.7799372,-79.1327127,2,Marine Approach Drive (554),a,Marine Approach Drive,12,5542489,98344554,Scarborough,38007
 43.7799372,-79.1327127,2,Elsbury Lane (615),a,Elsbury Lane,9,5542962,98977615,Scarborough,38007
-43.7799391,-79.1636409,2,Colonel Danforth Trail (373),a,Colonel Danforth Trail,34,5543049,99047373,Scarborough,38007
 43.779962,-79.1368859,2,Port Union Road (710),a,Port Union Road,105,5542371,95851710,Scarborough,38007
-43.7799676,-79.1512174,2,Bathgate Drive (566),a,Bathgate Drive,37,5542493,611551566,Scarborough,38007
 43.7799891,-79.1367303,2,Port Union Road (723),a,Port Union Road,105,5542371,95851723,Scarborough,38007
 43.779998,-79.1348447,2,Lawrence Avenue East (752),a,Lawrence Avenue East,964,5542369,95788752,Scarborough,38007
 43.7800704,-79.1368537,2,Port Union Road (532),a,Port Union Road,105,5542371,95851532,Scarborough,38007
@@ -836,14 +554,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7808623,-79.1412475,2,Charlottetown Boulevard (005),a,Charlottetown Boulevard,29,5542404,97388005,Scarborough,38007
 43.7808719,-79.1308394,2,Lawrence Avenue East (733),a,Lawrence Avenue East,964,5542369,95788733,Scarborough,38007
 43.7808719,-79.1308394,2,Lawrence Avenue East (758),a,Lawrence Avenue East,964,5542369,95788758,Scarborough,38007
-43.7808787,-79.1515747,2,Bathgate Drive (565),a,Bathgate Drive,37,5542493,611551565,Scarborough,38007
 43.7808883,-79.1293634,2,Chesterton Shores (582),a,Chesterton Shores,4,5542542,98441582,Scarborough,38007
 43.7808962,-79.1428541,2,Charles Tupper Drive (817),a,Charles Tupper Drive,20,5544361,100190817,Scarborough,38007
-43.7809425,-79.1516027,2,Bathgate Drive (564),a,Bathgate Drive,37,5542493,611551564,Scarborough,38007
-43.7809425,-79.1516027,2,Clemes Drive (989),a,Clemes Drive,8,5544359,611551989,Scarborough,38007
 43.7809487,-79.1413104,2,Charlottetown Boulevard (004),a,Charlottetown Boulevard,29,5542404,97388004,Scarborough,38007
-43.7809618,-79.1515142,2,Clemes Drive (990),a,Clemes Drive,8,5544359,611551990,Scarborough,38007
-43.7809701,-79.1514773,2,Clemes Drive (991),a,Clemes Drive,8,5544359,611551991,Scarborough,38007
 43.7809878,-79.1468279,2,Langevin Crescent (382),a,Langevin Crescent,40,5544362,100191382,Scarborough,38007
 43.7809982,-79.1334268,2,Brimforest Gate (689),a,Brimforest Gate,16,5544369,100194689,Scarborough,38007
 43.7810173,-79.1302013,2,Lawrence Avenue East (759),a,Lawrence Avenue East,964,5542369,95788759,Scarborough,38007
@@ -894,11 +607,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7813211,-79.1373991,2,Port Union Road (865),a,Port Union Road,105,5542371,461893865,Scarborough,38007
 43.7813255,-79.1296476,2,Lawrence Avenue East (767),a,Lawrence Avenue East,964,5542369,95788767,Scarborough,38007
 43.7813271,-79.1366572,2,Trellanock Avenue (288),a,Trellanock Avenue,12,5544371,611540288,Scarborough,38007
-43.7813336,-79.149837,2,Clemes Drive (030),a,Clemes Drive,8,5544359,100190030,Scarborough,38007
 43.7813364,-79.1335762,2,Brimforest Gate (683),a,Brimforest Gate,16,5544369,100194683,Scarborough,38007
 43.7813364,-79.1335762,2,Brimforest Gate (690),a,Brimforest Gate,16,5544369,100194690,Scarborough,38007
 43.7813364,-79.1335762,2,Moorefield Drive (713),a,Moorefield Drive,4,5544370,100194713,Scarborough,38007
-43.7813504,-79.1497619,2,Clemes Drive (031),a,Clemes Drive,8,5544359,100190031,Scarborough,38007
 43.7813526,-79.1302376,2,Frank Faubert Drive (575),a,Frank Faubert Drive,21,5542488,98342575,Scarborough,38007
 43.7813526,-79.1302376,2,Wuthering Heights Road (644),a,Wuthering Heights Road,4,5542541,98440644,Scarborough,38007
 43.7813531,-79.1376071,2,Clappison Boulevard (735),a,Clappison Boulevard,39,5542403,611551735,Scarborough,38007
@@ -908,7 +619,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7813717,-79.1364359,2,Adenmore Road (292),a,Adenmore Road,18,5544368,611540292,Scarborough,38007
 43.7813765,-79.136512,2,Adenmore Road (291),a,Adenmore Road,18,5544368,611540291,Scarborough,38007
 43.7813814,-79.1363038,2,Adenmore Road (293),a,Adenmore Road,18,5544368,611540293,Scarborough,38007
-43.7813842,-79.1496242,2,Clemes Drive (032),a,Clemes Drive,8,5544359,100190032,Scarborough,38007
 43.7813891,-79.1374282,2,Port Union Road (859),a,Port Union Road,105,5542371,461893859,Scarborough,38007
 43.7813891,-79.1374282,2,Clappison Boulevard (129),a,Clappison Boulevard,39,5542403,97381129,Scarborough,38007
 43.7813891,-79.1374282,2,Adenmore Road (554),a,Adenmore Road,18,5544368,100194554,Scarborough,38007
@@ -938,22 +648,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7815678,-79.1442873,2,Langevin Crescent (406),a,Langevin Crescent,40,5544362,100191406,Scarborough,38007
 43.7816067,-79.1455785,2,Langevin Crescent (394),a,Langevin Crescent,40,5544362,100191394,Scarborough,38007
 43.7816144,-79.1443853,2,Langevin Crescent (405),a,Langevin Crescent,40,5544362,100191405,Scarborough,38007
-43.7816209,-79.1482892,2,Centennial Road (488),a,Centennial Road,41,5542383,96292488,Scarborough,38007
 43.7816374,-79.142707,2,McCulley Street (109),a,McCulley Street,13,5544360,526617109,Scarborough,38007
 43.7816537,-79.142692,2,McCulley Street (917),a,McCulley Street,13,5544360,611551917,Scarborough,38007
-43.7816542,-79.1484318,2,Clemes Drive (033),a,Clemes Drive,8,5544359,100190033,Scarborough,38007
-43.781662,-79.1519064,2,Bathgate Drive (563),a,Bathgate Drive,37,5542493,611551563,Scarborough,38007
-43.781662,-79.1519064,2,Acheson Boulevard (537),a,Acheson Boulevard,72,5544356,611551537,Scarborough,38007
 43.781672,-79.1320017,2,East Avenue (506),a,East Avenue,62,5542400,97348506,Scarborough,38007
 43.7816761,-79.1293234,2,Lawrence Avenue East (769),a,Lawrence Avenue East,964,5542369,95788769,Scarborough,38007
-43.7816807,-79.1483148,2,Centennial Road (485),a,Centennial Road,41,5542383,96292485,Scarborough,38007
-43.7816807,-79.1483148,2,Centennial Road (534),a,Centennial Road,41,5542383,96292534,Scarborough,38007
-43.7816807,-79.1483148,2,Conference Boulevard (507),a,Conference Boulevard,23,5542951,98970507,Scarborough,38007
-43.7816807,-79.1483148,2,Clemes Drive (034),a,Clemes Drive,8,5544359,100190034,Scarborough,38007
 43.7816824,-79.1425581,2,Charlottetown Boulevard (919),a,Charlottetown Boulevard,29,5542404,611551919,Scarborough,38007
-43.7816862,-79.1518023,2,Acheson Boulevard (538),a,Acheson Boulevard,72,5544356,611551538,Scarborough,38007
-43.7816943,-79.1517532,2,Acheson Boulevard (539),a,Acheson Boulevard,72,5544356,611551539,Scarborough,38007
-43.7817064,-79.1482037,2,Conference Boulevard (511),a,Conference Boulevard,23,5542951,98970511,Scarborough,38007
 43.7817123,-79.1454261,2,Langevin Crescent (395),a,Langevin Crescent,40,5544362,100191395,Scarborough,38007
 43.7817167,-79.1426335,2,Charlottetown Boulevard (999),a,Charlottetown Boulevard,29,5542404,97387999,Scarborough,38007
 43.7817167,-79.1426335,2,McCulley Street (265),a,McCulley Street,13,5544360,100190265,Scarborough,38007
@@ -961,16 +660,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7817258,-79.1445931,2,Langevin Crescent (404),a,Langevin Crescent,40,5544362,100191404,Scarborough,38007
 43.7817286,-79.1295815,2,Wuthering Heights Road (645),a,Wuthering Heights Road,4,5542541,98440645,Scarborough,38007
 43.781763,-79.1427285,2,Charlottetown Boulevard (918),a,Charlottetown Boulevard,29,5542404,611551918,Scarborough,38007
-43.7817645,-79.1483546,2,Centennial Road (531),a,Centennial Road,41,5542383,96292531,Scarborough,38007
-43.7817975,-79.1512394,2,Acheson Boulevard (789),a,Acheson Boulevard,72,5544356,311329789,Scarborough,38007
 43.7818099,-79.1453361,2,Langevin Crescent (396),a,Langevin Crescent,40,5544362,100191396,Scarborough,38007
-43.7818235,-79.1511764,2,Acheson Boulevard (790),a,Acheson Boulevard,72,5544356,311329790,Scarborough,38007
 43.7818412,-79.12947,2,Wuthering Heights Road (646),a,Wuthering Heights Road,4,5542541,98440646,Scarborough,38007
 43.7818562,-79.1448625,2,Langevin Crescent (403),a,Langevin Crescent,40,5544362,100191403,Scarborough,38007
-43.7818587,-79.1511257,2,Acheson Boulevard (791),a,Acheson Boulevard,72,5544356,311329791,Scarborough,38007
 43.7818622,-79.1337952,2,Brimforest Gate (743),a,Brimforest Gate,16,5544369,356927743,Scarborough,38007
 43.7818719,-79.1452721,2,Langevin Crescent (397),a,Langevin Crescent,40,5544362,100191397,Scarborough,38007
-43.7819115,-79.1510495,2,Acheson Boulevard (792),a,Acheson Boulevard,72,5544356,311329792,Scarborough,38007
 43.7819124,-79.1449974,2,Langevin Crescent (402),a,Langevin Crescent,40,5544362,100191402,Scarborough,38007
 43.7819207,-79.1304604,2,Frank Faubert Drive (576),a,Frank Faubert Drive,21,5542488,98342576,Scarborough,38007
 43.7819251,-79.1452207,2,Langevin Crescent (398),a,Langevin Crescent,40,5544362,100191398,Scarborough,38007
@@ -983,10 +677,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7819513,-79.1451702,2,Langevin Crescent (399),a,Langevin Crescent,40,5544362,100191399,Scarborough,38007
 43.7819588,-79.145083,2,Langevin Crescent (401),a,Langevin Crescent,40,5544362,100191401,Scarborough,38007
 43.7819597,-79.1451327,2,Langevin Crescent (400),a,Langevin Crescent,40,5544362,100191400,Scarborough,38007
-43.7819739,-79.1510103,2,Acheson Boulevard (793),a,Acheson Boulevard,72,5544356,311329793,Scarborough,38007
 43.781994,-79.1304558,2,Frank Faubert Drive (577),a,Frank Faubert Drive,21,5542488,98342577,Scarborough,38007
 43.7819986,-79.1472375,2,Cockburn Drive (777),a,Cockburn Drive,40,5544364,100192777,Scarborough,38007
-43.7820275,-79.1509837,2,Acheson Boulevard (794),a,Acheson Boulevard,72,5544356,311329794,Scarborough,38007
 43.7820291,-79.133362,2,Adenmore Road (561),a,Adenmore Road,18,5544368,100194561,Scarborough,38007
 43.7820307,-79.1304102,2,Frank Faubert Drive (578),a,Frank Faubert Drive,21,5542488,98342578,Scarborough,38007
 43.7820312,-79.1321592,2,East Avenue (508),a,East Avenue,62,5542400,97348508,Scarborough,38007
@@ -995,56 +687,33 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7820617,-79.1303244,2,Frank Faubert Drive (579),a,Frank Faubert Drive,21,5542488,98342579,Scarborough,38007
 43.7820899,-79.1367611,2,Winter Gardens Trail (132),a,Winter Gardens Trail,21,5542996,98996132,Scarborough,38007
 43.7820907,-79.1366581,2,Winter Gardens Trail (133),a,Winter Gardens Trail,21,5542996,98996133,Scarborough,38007
-43.7820993,-79.1509691,2,Acheson Boulevard (795),a,Acheson Boulevard,72,5544356,311329795,Scarborough,38007
 43.7821398,-79.1368184,2,Winter Gardens Trail (131),a,Winter Gardens Trail,21,5542996,98996131,Scarborough,38007
-43.7821445,-79.1509801,2,Acheson Boulevard (796),a,Acheson Boulevard,72,5544356,311329796,Scarborough,38007
 43.78216,-79.1301267,2,Frank Faubert Drive (580),a,Frank Faubert Drive,21,5542488,98342580,Scarborough,38007
 43.782187,-79.1464141,2,Conference Boulevard (517),a,Conference Boulevard,23,5542951,98970517,Scarborough,38007
 43.782216,-79.1300614,2,Frank Faubert Drive (581),a,Frank Faubert Drive,21,5542488,98342581,Scarborough,38007
 43.7822476,-79.128788,2,Lawrence Avenue East (770),a,Lawrence Avenue East,964,5542369,95788770,Scarborough,38007
 43.7822476,-79.128788,2,Frank Faubert Drive (589),a,Frank Faubert Drive,21,5542488,98342589,Scarborough,38007
-43.7822713,-79.1510259,2,Acheson Boulevard (797),a,Acheson Boulevard,72,5544356,311329797,Scarborough,38007
-43.7822929,-79.1533864,2,Invermarge Drive (958),a,Invermarge Drive,20,5542909,98917958,Scarborough,38007
 43.7822975,-79.1288815,2,Frank Faubert Drive (629),a,Frank Faubert Drive,21,5542488,311326629,Scarborough,38007
 43.7823133,-79.1289104,2,Frank Faubert Drive (588),a,Frank Faubert Drive,21,5542488,98342588,Scarborough,38007
 43.7823506,-79.1322896,2,East Avenue (260),a,East Avenue,62,5542400,611540260,Scarborough,38007
 43.7823506,-79.1322896,2,Maberley Crescent (264),a,Maberley Crescent,26,5542993,611540264,Scarborough,38007
-43.7823619,-79.1554433,2,Bathgate Drive (925),a,Bathgate Drive,37,5542493,98360925,Scarborough,38007
-43.7823619,-79.1554433,2,Ivan Road (492),a,Ivan Road,5,5542908,98917492,Scarborough,38007
 43.782368,-79.1289787,2,Frank Faubert Drive (587),a,Frank Faubert Drive,21,5542488,98342587,Scarborough,38007
 43.782368,-79.1289787,2,Wuthering Heights Road (647),a,Wuthering Heights Road,4,5542541,98440647,Scarborough,38007
 43.7823744,-79.13217,2,Maberley Crescent (265),a,Maberley Crescent,26,5542993,611540265,Scarborough,38007
 43.7823827,-79.132128,2,Maberley Crescent (266),a,Maberley Crescent,26,5542993,611540266,Scarborough,38007
-43.7823983,-79.1510842,2,Acheson Boulevard (798),a,Acheson Boulevard,72,5544356,311329798,Scarborough,38007
-43.7824285,-79.1534136,2,Invermarge Drive (785),a,Invermarge Drive,20,5542909,354913785,Scarborough,38007
 43.7824311,-79.1289992,2,Frank Faubert Drive (770),a,Frank Faubert Drive,21,5542488,526616770,Scarborough,38007
 43.7824338,-79.1460346,2,Conference Boulevard (519),a,Conference Boulevard,23,5542951,98970519,Scarborough,38007
 43.7824694,-79.1667303,2,Lawson Road (005),a,Lawson Road,74,5542597,98632005,Scarborough,38007
-43.7824971,-79.1534274,2,Invermarge Drive (957),a,Invermarge Drive,20,5542909,98917957,Scarborough,38007
-43.7825266,-79.1546137,2,Bathgate Drive (927),a,Bathgate Drive,37,5542493,98360927,Scarborough,38007
-43.7825776,-79.1534224,2,Bathgate Drive (559),a,Bathgate Drive,37,5542493,611551559,Scarborough,38007
-43.7825776,-79.1534224,2,Invermarge Drive (576),a,Invermarge Drive,20,5542909,611551576,Scarborough,38007
-43.7825803,-79.1543434,2,Bathgate Drive (929),a,Bathgate Drive,37,5542493,98360929,Scarborough,38007
-43.7825919,-79.1522921,2,Bathgate Drive (562),a,Bathgate Drive,37,5542493,611551562,Scarborough,38007
-43.7825984,-79.1530248,2,Bathgate Drive (560),a,Bathgate Drive,37,5542493,611551560,Scarborough,38007
 43.7826057,-79.1444575,2,Charlottetown Boulevard (997),a,Charlottetown Boulevard,29,5542404,97387997,Scarborough,38007
-43.7826209,-79.1541387,2,Bathgate Drive (500),a,Bathgate Drive,37,5542493,611551500,Scarborough,38007
 43.7826288,-79.1664813,2,Lawson Road (984),a,Lawson Road,74,5542597,412979984,Scarborough,38007
 43.7826294,-79.1324049,2,East Avenue (262),a,East Avenue,62,5542400,439255262,Scarborough,38007
-43.7826336,-79.1540749,2,Bathgate Drive (501),a,Bathgate Drive,37,5542493,611551501,Scarborough,38007
 43.7826339,-79.1445153,2,Charlottetown Boulevard (996),a,Charlottetown Boulevard,29,5542404,97387996,Scarborough,38007
 43.7826339,-79.1445153,2,Elkwood Drive (885),a,Elkwood Drive,33,5544363,100191885,Scarborough,38007
-43.7826401,-79.154042,2,Bathgate Drive (931),a,Bathgate Drive,37,5542493,98360931,Scarborough,38007
-43.7826401,-79.154042,2,Bathgate Drive (933),a,Bathgate Drive,37,5542493,98360933,Scarborough,38007
-43.7826402,-79.1526981,2,Bathgate Drive (939),a,Bathgate Drive,37,5542493,98360939,Scarborough,38007
 43.7826476,-79.1309069,2,Maberley Crescent (267),a,Maberley Crescent,26,5542993,611540267,Scarborough,38007
-43.7826812,-79.1525569,2,Bathgate Drive (561),a,Bathgate Drive,37,5542493,611551561,Scarborough,38007
 43.7826827,-79.1475212,2,Cockburn Drive (778),a,Cockburn Drive,40,5544364,100192778,Scarborough,38007
 43.7826861,-79.144624,2,Charlottetown Boulevard (995),a,Charlottetown Boulevard,29,5542404,97387995,Scarborough,38007
 43.7826884,-79.1444655,2,Elkwood Drive (886),a,Elkwood Drive,33,5544363,100191886,Scarborough,38007
 43.7826889,-79.1308055,2,Maberley Crescent (268),a,Maberley Crescent,26,5542993,611540268,Scarborough,38007
-43.7827,-79.1524515,2,Bathgate Drive (942),a,Bathgate Drive,37,5542493,98360942,Scarborough,38007
-43.7827,-79.1523657,2,Bathgate Drive (944),a,Bathgate Drive,37,5542493,98360944,Scarborough,38007
 43.7827046,-79.1444507,2,Elkwood Drive (891),a,Elkwood Drive,33,5544363,354915891,Scarborough,38007
 43.7827186,-79.1336994,2,Winter Gardens Trail (134),a,Winter Gardens Trail,21,5542996,98996134,Scarborough,38007
 43.7827465,-79.1475689,2,Cockburn Drive (779),a,Cockburn Drive,40,5544364,100192779,Scarborough,38007
@@ -1123,24 +792,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7832928,-79.1403639,2,Shea Court (684),a,Shea Court,37,5543008,611551684,Scarborough,38007
 43.7833242,-79.140686,2,Shea Court (672),a,Shea Court,37,5543008,611551672,Scarborough,38007
 43.7833316,-79.1403544,2,Shea Court (659),a,Shea Court,37,5543008,611551659,Scarborough,38007
-43.7833393,-79.148995,2,Centennial Road (528),a,Centennial Road,41,5542383,96292528,Scarborough,38007
-43.7833475,-79.1535528,2,Acheson Boulevard (803),a,Acheson Boulevard,72,5544356,100188803,Scarborough,38007
 43.7833482,-79.1406781,2,Shea Court (671),a,Shea Court,37,5543008,611551671,Scarborough,38007
 43.7833506,-79.1313905,2,Wheeling Drive (822),a,Wheeling Drive,17,5542995,98995822,Scarborough,38007
-43.7833522,-79.1538385,2,Acheson Boulevard (805),a,Acheson Boulevard,72,5544356,100188805,Scarborough,38007
-43.7833549,-79.1534532,2,Acheson Boulevard (802),a,Acheson Boulevard,72,5544356,100188802,Scarborough,38007
-43.7833592,-79.153714,2,Acheson Boulevard (804),a,Acheson Boulevard,72,5544356,100188804,Scarborough,38007
 43.7833609,-79.1403467,2,Shea Court (660),a,Shea Court,37,5543008,611551660,Scarborough,38007
 43.7833616,-79.1406736,2,Shea Court (670),a,Shea Court,37,5543008,611551670,Scarborough,38007
-43.7833636,-79.1539873,2,Acheson Boulevard (806),a,Acheson Boulevard,72,5544356,100188806,Scarborough,38007
 43.7833692,-79.1349182,2,Whiterock Drive (352),a,Whiterock Drive,9,5542999,98997352,Scarborough,38007
-43.7833705,-79.1533036,2,Acheson Boulevard (801),a,Acheson Boulevard,72,5544356,100188801,Scarborough,38007
-43.7833748,-79.1541236,2,Acheson Boulevard (807),a,Acheson Boulevard,72,5544356,100188807,Scarborough,38007
 43.7833808,-79.1403441,2,Shea Court (661),a,Shea Court,37,5543008,611551661,Scarborough,38007
-43.783394,-79.1541976,2,Acheson Boulevard (808),a,Acheson Boulevard,72,5544356,100188808,Scarborough,38007
 43.7833944,-79.1406454,2,Shea Court (669),a,Shea Court,37,5543008,611551669,Scarborough,38007
-43.7833945,-79.149014,2,Centennial Road (597),a,Centennial Road,41,5542383,611551597,Scarborough,38007
-43.7833951,-79.1531537,2,Acheson Boulevard (800),a,Acheson Boulevard,72,5544356,100188800,Scarborough,38007
 43.7833971,-79.1327234,2,East Avenue (511),a,East Avenue,62,5542400,97348511,Scarborough,38007
 43.7834187,-79.1403514,2,Shea Court (662),a,Shea Court,37,5543008,611551662,Scarborough,38007
 43.7834187,-79.1403514,2,Shea Court (706),a,Shea Court,37,5543008,611551706,Scarborough,38007
@@ -1149,148 +807,92 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7834264,-79.1405822,2,Shea Court (667),a,Shea Court,37,5543008,611551667,Scarborough,38007
 43.7834275,-79.1404028,2,Shea Court (663),a,Shea Court,37,5543008,611551663,Scarborough,38007
 43.7834303,-79.1404293,2,Shea Court (664),a,Shea Court,37,5543008,611551664,Scarborough,38007
-43.7834318,-79.1495758,2,Cameron Watson Crescent (599),a,Cameron Watson Crescent,15,5544969,611551599,Scarborough,38007
 43.783433,-79.1405547,2,Shea Court (666),a,Shea Court,37,5543008,611551666,Scarborough,38007
 43.7834349,-79.1405014,2,Shea Court (665),a,Shea Court,37,5543008,611551665,Scarborough,38007
-43.7834357,-79.1495376,2,Cameron Watson Crescent (731),a,Cameron Watson Crescent,15,5544969,100450731,Scarborough,38007
-43.7834391,-79.1495,2,Cameron Watson Crescent (730),a,Cameron Watson Crescent,15,5544969,100450730,Scarborough,38007
-43.783442,-79.1496173,2,Cameron Watson Crescent (600),a,Cameron Watson Crescent,15,5544969,611551600,Scarborough,38007
-43.7834468,-79.1490325,2,Centennial Road (522),a,Centennial Road,41,5542383,96292522,Scarborough,38007
-43.7834468,-79.1490325,2,D'Arcy Magee Crescent (933),a,D'Arcy Magee Crescent,32,5544366,100193933,Scarborough,38007
-43.7834494,-79.1542829,2,Acheson Boulevard (809),a,Acheson Boulevard,72,5544356,100188809,Scarborough,38007
 43.783459,-79.1276722,2,Lawrence Avenue East (490),a,Lawrence Avenue East,964,5542369,304793490,Scarborough,38007
 43.783459,-79.1276722,2,Stotts Terrace (039),a,Stotts Terrace,6,5544932,304798039,Scarborough,38007
 43.7834629,-79.1402345,2,Shea Court (705),a,Shea Court,37,5543008,611551705,Scarborough,38007
-43.7834707,-79.1489384,2,D'Arcy Magee Crescent (598),a,D'Arcy Magee Crescent,32,5544366,611551598,Scarborough,38007
-43.7834763,-79.1496536,2,Cameron Watson Crescent (601),a,Cameron Watson Crescent,15,5544969,611551601,Scarborough,38007
-43.7834775,-79.1489182,2,D'Arcy Magee Crescent (935),a,D'Arcy Magee Crescent,32,5544366,100193935,Scarborough,38007
 43.7834896,-79.1401464,2,Shea Court (704),a,Shea Court,37,5543008,611551704,Scarborough,38007
 43.7834897,-79.1312641,2,Wheeling Drive (823),a,Wheeling Drive,17,5542995,98995823,Scarborough,38007
-43.7834914,-79.1492705,2,Cameron Watson Crescent (098),a,Cameron Watson Crescent,15,5544969,354916098,Scarborough,38007
-43.7834954,-79.1543436,2,Acheson Boulevard (810),a,Acheson Boulevard,72,5544356,100188810,Scarborough,38007
-43.7834961,-79.1527156,2,Acheson Boulevard (799),a,Acheson Boulevard,72,5544356,100188799,Scarborough,38007
 43.7835014,-79.1374181,2,Winter Gardens Trail (129),a,Winter Gardens Trail,21,5542996,98996129,Scarborough,38007
 43.7835014,-79.1374181,2,Golders Green Avenue (502),a,Golders Green Avenue,15,5542997,98996502,Scarborough,38007
 43.7835026,-79.1277602,2,Stotts Terrace (280),a,Stotts Terrace,6,5544932,611540280,Scarborough,38007
 43.7835061,-79.1277709,2,Stotts Terrace (038),a,Stotts Terrace,6,5544932,304798038,Scarborough,38007
 43.7835082,-79.1400734,2,Shea Court (703),a,Shea Court,37,5543008,611551703,Scarborough,38007
-43.7835093,-79.1491919,2,Cameron Watson Crescent (729),a,Cameron Watson Crescent,15,5544969,100450729,Scarborough,38007
-43.783513,-79.1515345,2,Acheson Boulevard (799),a,Acheson Boulevard,72,5544356,311329799,Scarborough,38007
 43.7835193,-79.1373334,2,Golders Green Avenue (196),a,Golders Green Avenue,15,5542997,611540196,Scarborough,38007
-43.7835209,-79.1525781,2,Acheson Boulevard (798),a,Acheson Boulevard,72,5544356,100188798,Scarborough,38007
 43.7835239,-79.1400003,2,Shea Court (702),a,Shea Court,37,5543008,611551702,Scarborough,38007
 43.7835275,-79.1372965,2,Golders Green Avenue (934),a,Golders Green Avenue,15,5542997,354913934,Scarborough,38007
 43.7835295,-79.1424162,2,Chapais Crescent (686),a,Chapais Crescent,32,5544365,611551686,Scarborough,38007
-43.7835388,-79.1490713,2,Centennial Road (521),a,Centennial Road,41,5542383,96292521,Scarborough,38007
-43.7835388,-79.1490713,2,Cameron Watson Crescent (728),a,Cameron Watson Crescent,15,5544969,100450728,Scarborough,38007
-43.7835414,-79.1544043,2,Acheson Boulevard (811),a,Acheson Boulevard,72,5544356,100188811,Scarborough,38007
 43.7835489,-79.1312103,2,Oxhorn Road (317),a,Oxhorn Road,10,5542994,98995317,Scarborough,38007
 43.7835489,-79.1312103,2,Wheeling Drive (824),a,Wheeling Drive,17,5542995,98995824,Scarborough,38007
 43.7835511,-79.1398727,2,Shea Court (701),a,Shea Court,37,5543008,611551701,Scarborough,38007
-43.7835553,-79.1524777,2,Acheson Boulevard (797),a,Acheson Boulevard,72,5544356,100188797,Scarborough,38007
 43.7835652,-79.1288791,2,Portwine Drive (282),a,Portwine Drive,17,5544931,611540282,Scarborough,38007
 43.7835673,-79.1397965,2,Shea Court (700),a,Shea Court,37,5543008,611551700,Scarborough,38007
 43.783569,-79.1392842,2,Clappison Boulevard (724),a,Clappison Boulevard,39,5542403,611551724,Scarborough,38007
 43.7835964,-79.1423422,2,Chapais Crescent (687),a,Chapais Crescent,32,5544365,611551687,Scarborough,38007
-43.7835982,-79.1523521,2,Acheson Boulevard (796),a,Acheson Boulevard,72,5544356,100188796,Scarborough,38007
 43.7835993,-79.1313129,2,Oxhorn Road (316),a,Oxhorn Road,10,5542994,98995316,Scarborough,38007
 43.7836025,-79.1392999,2,Clappison Boulevard (723),a,Clappison Boulevard,39,5542403,611551723,Scarborough,38007
-43.7836038,-79.1515814,2,Acheson Boulevard (800),a,Acheson Boulevard,72,5544356,311329800,Scarborough,38007
-43.7836052,-79.1544521,2,Acheson Boulevard (812),a,Acheson Boulevard,72,5544356,100188812,Scarborough,38007
 43.7836201,-79.1313553,2,Oxhorn Road (776),a,Oxhorn Road,10,5542994,362080776,Scarborough,38007
 43.7836222,-79.1311408,2,Wheeling Drive (825),a,Wheeling Drive,17,5542995,98995825,Scarborough,38007
 43.7836283,-79.1393122,2,Clappison Boulevard (722),a,Clappison Boulevard,39,5542403,611551722,Scarborough,38007
-43.7836326,-79.1522516,2,Acheson Boulevard (795),a,Acheson Boulevard,72,5544356,100188795,Scarborough,38007
 43.7836431,-79.1394541,2,Shea Court (982),a,Shea Court,37,5543008,354913982,Scarborough,38007
 43.7836514,-79.13942,2,Shea Court (699),a,Shea Court,37,5543008,611551699,Scarborough,38007
 43.7836582,-79.1422657,2,Chapais Crescent (688),a,Chapais Crescent,32,5544365,611551688,Scarborough,38007
 43.7836656,-79.1480694,2,D'Arcy Magee Crescent (936),a,D'Arcy Magee Crescent,32,5544366,100193936,Scarborough,38007
-43.783668,-79.151654,2,Acheson Boulevard (801),a,Acheson Boulevard,72,5544356,311329801,Scarborough,38007
 43.7836747,-79.1393331,2,Clappison Boulevard (721),a,Clappison Boulevard,39,5542403,611551721,Scarborough,38007
 43.7836747,-79.1393331,2,Shea Court (698),a,Shea Court,37,5543008,611551698,Scarborough,38007
-43.7836852,-79.152163,2,Acheson Boulevard (794),a,Acheson Boulevard,72,5544356,100188794,Scarborough,38007
 43.7836925,-79.1479481,2,Haviland Drive (678),a,Haviland Drive,28,5542964,98978678,Scarborough,38007
 43.7836925,-79.1479481,2,D'Arcy Magee Crescent (937),a,D'Arcy Magee Crescent,32,5544366,100193937,Scarborough,38007
 43.7836925,-79.1479481,2,D'Arcy Magee Crescent (938),a,D'Arcy Magee Crescent,32,5544366,100193938,Scarborough,38007
-43.7837052,-79.1517274,2,Acheson Boulevard (802),a,Acheson Boulevard,72,5544356,311329802,Scarborough,38007
 43.7837108,-79.1478652,2,D'Arcy Magee Crescent (939),a,D'Arcy Magee Crescent,32,5544366,100193939,Scarborough,38007
 43.7837231,-79.1421829,2,Chapais Crescent (689),a,Chapais Crescent,32,5544365,611551689,Scarborough,38007
 43.7837244,-79.1363817,2,Golders Green Avenue (500),a,Golders Green Avenue,15,5542997,98996500,Scarborough,38007
 43.7837244,-79.1363817,2,Grandhall Court (296),a,Grandhall Court,9,5542998,98997296,Scarborough,38007
 43.7837356,-79.1298115,2,Maberley Crescent (270),a,Maberley Crescent,26,5542993,611540270,Scarborough,38007
 43.7837397,-79.1393607,2,Clappison Boulevard (720),a,Clappison Boulevard,39,5542403,611551720,Scarborough,38007
-43.7837468,-79.1520741,2,Acheson Boulevard (793),a,Acheson Boulevard,72,5544356,100188793,Scarborough,38007
 43.7837472,-79.1316137,2,Oxhorn Road (315),a,Oxhorn Road,10,5542994,98995315,Scarborough,38007
 43.7837478,-79.1476871,2,D'Arcy Magee Crescent (940),a,D'Arcy Magee Crescent,32,5544366,100193940,Scarborough,38007
 43.7837491,-79.1393646,2,Clappison Boulevard (719),a,Clappison Boulevard,39,5542403,611551719,Scarborough,38007
-43.7837514,-79.1518005,2,Acheson Boulevard (803),a,Acheson Boulevard,72,5544356,311329803,Scarborough,38007
 43.7837728,-79.1479806,2,Haviland Drive (623),a,Haviland Drive,28,5542964,611551623,Scarborough,38007
 43.7837782,-79.1420989,2,Chapais Crescent (690),a,Chapais Crescent,32,5544365,611551690,Scarborough,38007
-43.783779,-79.1520408,2,Acheson Boulevard (875),a,Acheson Boulevard,72,5544356,354915875,Scarborough,38007
 43.7837822,-79.1475866,2,D'Arcy Magee Crescent (941),a,D'Arcy Magee Crescent,32,5544366,100193941,Scarborough,38007
-43.7837882,-79.1518491,2,Acheson Boulevard (804),a,Acheson Boulevard,72,5544356,311329804,Scarborough,38007
-43.7837954,-79.1520238,2,Acheson Boulevard (792),a,Acheson Boulevard,72,5544356,100188792,Scarborough,38007
 43.7837982,-79.1479909,2,Haviland Drive (896),a,Haviland Drive,28,5542964,354913896,Scarborough,38007
 43.7838027,-79.1364163,2,Grandhall Court (198),a,Grandhall Court,9,5542998,611540198,Scarborough,38007
-43.7838088,-79.15201,2,Acheson Boulevard (791),a,Acheson Boulevard,72,5544356,100188791,Scarborough,38007
 43.7838239,-79.1375448,2,Winter Gardens Trail (929),a,Winter Gardens Trail,21,5542996,354913929,Scarborough,38007
 43.7838296,-79.1364282,2,Grandhall Court (938),a,Grandhall Court,9,5542998,354913938,Scarborough,38007
-43.7838318,-79.1545445,2,Acheson Boulevard (813),a,Acheson Boulevard,72,5544356,100188813,Scarborough,38007
 43.7838322,-79.1420036,2,Chapais Crescent (691),a,Chapais Crescent,32,5544365,611551691,Scarborough,38007
-43.7838344,-79.1519222,2,Acheson Boulevard (790),a,Acheson Boulevard,72,5544356,100188790,Scarborough,38007
-43.7838344,-79.1519222,2,Acheson Boulevard (540),a,Acheson Boulevard,72,5544356,611551540,Scarborough,38007
 43.7838428,-79.1297473,2,Maberley Crescent (271),a,Maberley Crescent,26,5542993,611540271,Scarborough,38007
 43.7838464,-79.1317339,2,Oxhorn Road (314),a,Oxhorn Road,10,5542994,98995314,Scarborough,38007
 43.7838494,-79.1434089,2,Elkwood Drive (858),a,Elkwood Drive,33,5544363,100191858,Scarborough,38007
 43.7838518,-79.1474354,2,D'Arcy Magee Crescent (942),a,D'Arcy Magee Crescent,32,5544366,100193942,Scarborough,38007
 43.7838756,-79.1287968,2,Portwine Drive (283),a,Portwine Drive,17,5544931,611540283,Scarborough,38007
 43.783889,-79.1419038,2,Chapais Crescent (692),a,Chapais Crescent,32,5544365,611551692,Scarborough,38007
-43.7838943,-79.1498326,2,Cameron Watson Crescent (602),a,Cameron Watson Crescent,15,5544969,611551602,Scarborough,38007
 43.7839034,-79.135548,2,Golders Green Avenue (499),a,Golders Green Avenue,15,5542997,98996499,Scarborough,38007
 43.7839134,-79.1286233,2,Stotts Terrace (037),a,Stotts Terrace,6,5544932,304798037,Scarborough,38007
-43.7839229,-79.1498259,2,Cameron Watson Crescent (603),a,Cameron Watson Crescent,15,5544969,611551603,Scarborough,38007
 43.7839316,-79.1286824,2,Stotts Terrace (279),a,Stotts Terrace,6,5544932,611540279,Scarborough,38007
 43.7839344,-79.1354106,2,Golders Green Avenue (498),a,Golders Green Avenue,15,5542997,98996498,Scarborough,38007
 43.7839382,-79.1433316,2,Elkwood Drive (859),a,Elkwood Drive,33,5544363,100191859,Scarborough,38007
-43.7839413,-79.1498078,2,Cameron Watson Crescent (604),a,Cameron Watson Crescent,15,5544969,611551604,Scarborough,38007
 43.7839427,-79.1417602,2,Chapais Crescent (693),a,Chapais Crescent,32,5544365,611551693,Scarborough,38007
 43.7839463,-79.1351809,2,Whiterock Drive (940),a,Whiterock Drive,9,5542999,354913940,Scarborough,38007
 43.7839576,-79.1287669,2,Portwine Drive (571),a,Portwine Drive,17,5544931,100437571,Scarborough,38007
 43.7839576,-79.1287669,2,Stotts Terrace (180),a,Stotts Terrace,6,5544932,311335180,Scarborough,38007
 43.7839577,-79.1473078,2,D'Arcy Magee Crescent (943),a,D'Arcy Magee Crescent,32,5544366,100193943,Scarborough,38007
-43.7839587,-79.149783,2,Cameron Watson Crescent (605),a,Cameron Watson Crescent,15,5544969,611551605,Scarborough,38007
-43.783963,-79.1520798,2,Acheson Boulevard (830),a,Acheson Boulevard,72,5544356,311329830,Scarborough,38007
-43.7839676,-79.1545901,2,Byford Street (289),a,Byford Street,18,5544355,100187289,Scarborough,38007
-43.7839676,-79.1545901,2,Acheson Boulevard (814),a,Acheson Boulevard,72,5544356,100188814,Scarborough,38007
 43.7839755,-79.1272086,2,Lawrence Avenue East (774),a,Lawrence Avenue East,964,5542369,95788774,Scarborough,38007
 43.7839755,-79.1272086,2,Portwine Drive (577),a,Portwine Drive,17,5544931,100437577,Scarborough,38007
 43.7839838,-79.1352065,2,Whiterock Drive (192),a,Whiterock Drive,9,5542999,611540192,Scarborough,38007
 43.7839867,-79.1416085,2,Chapais Crescent (694),a,Chapais Crescent,32,5544365,611551694,Scarborough,38007
-43.7839901,-79.1544966,2,Byford Street (290),a,Byford Street,18,5544355,100187290,Scarborough,38007
-43.7839954,-79.1544743,2,Byford Street (871),a,Byford Street,18,5544355,354915871,Scarborough,38007
 43.7840013,-79.1307811,2,Wheeling Drive (826),a,Wheeling Drive,17,5542995,98995826,Scarborough,38007
 43.7840052,-79.1287496,2,Portwine Drive (284),a,Portwine Drive,17,5544931,611540284,Scarborough,38007
-43.7840097,-79.1544148,2,Byford Street (291),a,Byford Street,18,5544355,100187291,Scarborough,38007
 43.7840144,-79.1272867,2,Portwine Drive (150),a,Portwine Drive,17,5544931,304796150,Scarborough,38007
 43.7840218,-79.1273029,2,Portwine Drive (149),a,Portwine Drive,17,5544931,304796149,Scarborough,38007
 43.7840243,-79.1432512,2,Elkwood Drive (635),a,Elkwood Drive,33,5544363,611551635,Scarborough,38007
 43.7840289,-79.1414439,2,Chapais Crescent (695),a,Chapais Crescent,32,5544365,611551695,Scarborough,38007
-43.7840324,-79.1494494,2,Cameron Watson Crescent (606),a,Cameron Watson Crescent,15,5544969,611551606,Scarborough,38007
 43.7840346,-79.1352211,2,Golders Green Avenue (497),a,Golders Green Avenue,15,5542997,98996497,Scarborough,38007
 43.7840346,-79.1352211,2,Whiterock Drive (354),a,Whiterock Drive,9,5542999,98997354,Scarborough,38007
-43.7840395,-79.1494102,2,Cameron Watson Crescent (607),a,Cameron Watson Crescent,15,5544969,611551607,Scarborough,38007
-43.7840431,-79.1542522,2,Byford Street (292),a,Byford Street,18,5544355,100187292,Scarborough,38007
-43.7840589,-79.154115,2,Byford Street (293),a,Byford Street,18,5544355,100187293,Scarborough,38007
 43.7840625,-79.1412883,2,Chapais Crescent (696),a,Chapais Crescent,32,5544365,611551696,Scarborough,38007
-43.7840648,-79.1493116,2,Centennial Road (596),a,Centennial Road,41,5542383,611551596,Scarborough,38007
-43.7840648,-79.1493116,2,Cameron Watson Crescent (608),a,Cameron Watson Crescent,15,5544969,611551608,Scarborough,38007
-43.7840659,-79.1539905,2,Byford Street (294),a,Byford Street,18,5544355,100187294,Scarborough,38007
-43.7840729,-79.153866,2,Byford Street (295),a,Byford Street,18,5544355,100187295,Scarborough,38007
-43.7840895,-79.1537785,2,Byford Street (296),a,Byford Street,18,5544355,100187296,Scarborough,38007
 43.7841119,-79.143163,2,Elkwood Drive (636),a,Elkwood Drive,33,5544363,611551636,Scarborough,38007
 43.784125,-79.1350536,2,Golders Green Avenue (496),a,Golders Green Avenue,15,5542997,98996496,Scarborough,38007
 43.7841252,-79.130764,2,Wheeling Drive (827),a,Wheeling Drive,17,5542995,98995827,Scarborough,38007
-43.7841391,-79.1535036,2,Byford Street (297),a,Byford Street,18,5544355,100187297,Scarborough,38007
 43.7841622,-79.1348991,2,Golders Green Avenue (495),a,Golders Green Avenue,15,5542997,98996495,Scarborough,38007
 43.7841708,-79.1407765,2,Chapais Crescent (697),a,Chapais Crescent,32,5544365,611551697,Scarborough,38007
 43.7841837,-79.1430893,2,Elkwood Drive (637),a,Elkwood Drive,33,5544363,611551637,Scarborough,38007
@@ -1298,44 +900,33 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7841922,-79.1406767,2,Chapais Crescent (139),a,Chapais Crescent,32,5544365,100193139,Scarborough,38007
 43.7841922,-79.1406767,2,Chapais Crescent (169),a,Chapais Crescent,32,5544365,100193169,Scarborough,38007
 43.7841984,-79.1341815,2,Winter Gardens Trail (930),a,Winter Gardens Trail,21,5542996,354913930,Scarborough,38007
-43.7842067,-79.1532281,2,Byford Street (298),a,Byford Street,18,5544355,100187298,Scarborough,38007
 43.7842156,-79.1405717,2,Chapais Crescent (140),a,Chapais Crescent,32,5544365,100193140,Scarborough,38007
-43.7842312,-79.1530782,2,Byford Street (299),a,Byford Street,18,5544355,100187299,Scarborough,38007
 43.7842366,-79.1341979,2,Winter Gardens Trail (197),a,Winter Gardens Trail,21,5542996,611540197,Scarborough,38007
 43.784254,-79.1429944,2,Elkwood Drive (638),a,Elkwood Drive,33,5544363,611551638,Scarborough,38007
 43.7842593,-79.1470544,2,D'Arcy Magee Crescent (944),a,D'Arcy Magee Crescent,32,5544366,100193944,Scarborough,38007
 43.7842627,-79.1343186,2,Golders Green Avenue (494),a,Golders Green Avenue,15,5542997,98996494,Scarborough,38007
-43.7842654,-79.1529653,2,Byford Street (300),a,Byford Street,18,5544355,100187300,Scarborough,38007
 43.7842667,-79.140706,2,Elkwood Drive (657),a,Elkwood Drive,33,5544363,611551657,Scarborough,38007
 43.7842801,-79.1342182,2,Winter Gardens Trail (139),a,Winter Gardens Trail,21,5542996,98996139,Scarborough,38007
 43.7842801,-79.1342182,2,Golders Green Avenue (493),a,Golders Green Avenue,15,5542997,98996493,Scarborough,38007
 43.7842886,-79.1407142,2,Elkwood Drive (884),a,Elkwood Drive,33,5544363,354915884,Scarborough,38007
 43.7842964,-79.1341153,2,Golders Green Avenue (492),a,Golders Green Avenue,15,5542997,98996492,Scarborough,38007
-43.7842998,-79.1528648,2,Byford Street (301),a,Byford Street,18,5544355,100187301,Scarborough,38007
-43.7843036,-79.1525416,2,Acheson Boulevard (829),a,Acheson Boulevard,72,5544356,311329829,Scarborough,38007
 43.784314,-79.1295908,2,Maberley Crescent (272),a,Maberley Crescent,26,5542993,611540272,Scarborough,38007
 43.7843153,-79.1366427,2,Grandhall Court (298),a,Grandhall Court,9,5542998,98997298,Scarborough,38007
 43.7843156,-79.1286364,2,Portwine Drive (572),a,Portwine Drive,17,5544931,100437572,Scarborough,38007
 43.7843196,-79.1482021,2,Haviland Drive (680),a,Haviland Drive,28,5542964,98978680,Scarborough,38007
 43.7843354,-79.1428734,2,Elkwood Drive (639),a,Elkwood Drive,33,5544363,611551639,Scarborough,38007
 43.7843399,-79.1396075,2,Clappison Boulevard (718),a,Clappison Boulevard,39,5542403,611551718,Scarborough,38007
-43.7843408,-79.1527857,2,Byford Street (872),a,Byford Street,18,5544355,354915872,Scarborough,38007
 43.7843516,-79.1396123,2,Clappison Boulevard (717),a,Clappison Boulevard,39,5542403,611551717,Scarborough,38007
-43.7843522,-79.1527638,2,Byford Street (302),a,Byford Street,18,5544355,100187302,Scarborough,38007
-43.7843622,-79.1527494,2,Byford Street (303),a,Byford Street,18,5544355,100187303,Scarborough,38007
 43.7843773,-79.1366427,2,Grandhall Court (299),a,Grandhall Court,9,5542998,98997299,Scarborough,38007
 43.7843793,-79.1308498,2,Wheeling Drive (828),a,Wheeling Drive,17,5542995,98995828,Scarborough,38007
 43.7843916,-79.1377678,2,Winter Gardens Trail (128),a,Winter Gardens Trail,21,5542996,98996128,Scarborough,38007
 43.7843964,-79.1397643,2,Chapais Crescent (632),a,Chapais Crescent,32,5544365,611551632,Scarborough,38007
 43.7844033,-79.1397316,2,Chapais Crescent (633),a,Chapais Crescent,32,5544365,611551633,Scarborough,38007
-43.7844138,-79.1526749,2,Byford Street (304),a,Byford Street,18,5544355,100187304,Scarborough,38007
-43.7844138,-79.1526749,2,Acheson Boulevard (828),a,Acheson Boulevard,72,5544356,311329828,Scarborough,38007
 43.7844186,-79.1427372,2,Elkwood Drive (640),a,Elkwood Drive,33,5544363,611551640,Scarborough,38007
 43.7844223,-79.1396427,2,Clappison Boulevard (716),a,Clappison Boulevard,39,5542403,611551716,Scarborough,38007
 43.7844223,-79.1396427,2,Chapais Crescent (634),a,Chapais Crescent,32,5544365,611551634,Scarborough,38007
 43.7844288,-79.1295967,2,Maberley Crescent (747),a,Maberley Crescent,26,5542993,98994747,Scarborough,38007
 43.784435,-79.1308498,2,Wheeling Drive (829),a,Wheeling Drive,17,5542995,98995829,Scarborough,38007
-43.7844389,-79.1547868,2,Acheson Boulevard (805),a,Acheson Boulevard,72,5544356,311329805,Scarborough,38007
 43.7844392,-79.136574,2,Grandhall Court (300),a,Grandhall Court,9,5542998,98997300,Scarborough,38007
 43.7844534,-79.1333232,2,Golders Green Avenue (195),a,Golders Green Avenue,15,5542997,611540195,Scarborough,38007
 43.7844547,-79.1482136,2,Haviland Drive (681),a,Haviland Drive,28,5542964,98978681,Scarborough,38007
@@ -1343,39 +934,26 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7844608,-79.1332864,2,Golders Green Avenue (194),a,Golders Green Avenue,15,5542997,611540194,Scarborough,38007
 43.7844801,-79.1331905,2,East Avenue (262),a,East Avenue,62,5542400,611540262,Scarborough,38007
 43.7844801,-79.1331905,2,Golders Green Avenue (193),a,Golders Green Avenue,15,5542997,611540193,Scarborough,38007
-43.7844872,-79.1527596,2,Acheson Boulevard (827),a,Acheson Boulevard,72,5544356,311329827,Scarborough,38007
 43.7844908,-79.1308241,2,Wheeling Drive (830),a,Wheeling Drive,17,5542995,98995830,Scarborough,38007
 43.7844943,-79.1396713,2,Clappison Boulevard (714),a,Clappison Boulevard,39,5542403,611551714,Scarborough,38007
 43.7844982,-79.1425766,2,Elkwood Drive (641),a,Elkwood Drive,33,5544363,611551641,Scarborough,38007
 43.7845156,-79.1307554,2,Wheeling Drive (831),a,Wheeling Drive,17,5542995,98995831,Scarborough,38007
-43.7845205,-79.1548216,2,Acheson Boulevard (806),a,Acheson Boulevard,72,5544356,311329806,Scarborough,38007
 43.7845384,-79.136162,2,Grandhall Court (301),a,Grandhall Court,9,5542998,98997301,Scarborough,38007
 43.7845515,-79.1424632,2,Elkwood Drive (642),a,Elkwood Drive,33,5544363,611551642,Scarborough,38007
-43.7845747,-79.1548324,2,Acheson Boulevard (807),a,Acheson Boulevard,72,5544356,311329807,Scarborough,38007
 43.7845751,-79.1286633,2,Portwine Drive (573),a,Portwine Drive,17,5544931,100437573,Scarborough,38007
 43.7845771,-79.1481497,2,Haviland Drive (682),a,Haviland Drive,28,5542964,98978682,Scarborough,38007
 43.7845906,-79.1284338,2,Portwine Drive (285),a,Portwine Drive,17,5544931,611540285,Scarborough,38007
-43.7845968,-79.1528557,2,Acheson Boulevard (826),a,Acheson Boulevard,72,5544356,311329826,Scarborough,38007
 43.7846088,-79.1423122,2,Elkwood Drive (643),a,Elkwood Drive,33,5544363,611551643,Scarborough,38007
-43.7846105,-79.1548188,2,Acheson Boulevard (808),a,Acheson Boulevard,72,5544356,311329808,Scarborough,38007
 43.7846189,-79.1360762,2,Grandhall Court (302),a,Grandhall Court,9,5542998,98997302,Scarborough,38007
 43.7846212,-79.1440519,2,Conference Boulevard (523),a,Conference Boulevard,23,5542951,98970523,Scarborough,38007
-43.7846227,-79.1563731,2,Ivan Road (490),a,Ivan Road,5,5542908,98917490,Scarborough,38007
-43.7846227,-79.1563731,2,Ivan Road (491),a,Ivan Road,5,5542908,98917491,Scarborough,38007
 43.7846231,-79.1285294,2,Portwine Drive (575),a,Portwine Drive,17,5544931,100437575,Scarborough,38007
 43.7846334,-79.1286078,2,Portwine Drive (574),a,Portwine Drive,17,5544931,100437574,Scarborough,38007
 43.7846429,-79.1265537,2,Lawrence Avenue East (775),a,Lawrence Avenue East,964,5542369,95788775,Scarborough,38007
-43.7846461,-79.1547929,2,Acheson Boulevard (809),a,Acheson Boulevard,72,5544356,311329809,Scarborough,38007
 43.7846617,-79.1421708,2,Elkwood Drive (644),a,Elkwood Drive,33,5544363,611551644,Scarborough,38007
 43.7846643,-79.1320772,2,Oxhorn Road (313),a,Oxhorn Road,10,5542994,98995313,Scarborough,38007
-43.7846725,-79.1547548,2,Acheson Boulevard (810),a,Acheson Boulevard,72,5544356,311329810,Scarborough,38007
-43.7846987,-79.1547043,2,Acheson Boulevard (811),a,Acheson Boulevard,72,5544356,311329811,Scarborough,38007
 43.7847055,-79.1420327,2,Elkwood Drive (645),a,Elkwood Drive,33,5544363,611551645,Scarborough,38007
-43.784706,-79.1529269,2,Acheson Boulevard (825),a,Acheson Boulevard,72,5544356,311329825,Scarborough,38007
 43.7847205,-79.1298824,2,Wheeling Drive (256),a,Wheeling Drive,17,5542995,611540256,Scarborough,38007
-43.7847243,-79.1546165,2,Acheson Boulevard (812),a,Acheson Boulevard,72,5544356,311329812,Scarborough,38007
 43.7847266,-79.1298473,2,Wheeling Drive (257),a,Wheeling Drive,17,5542995,611540257,Scarborough,38007
-43.7847387,-79.1545458,2,Acheson Boulevard (813),a,Acheson Boulevard,72,5544356,311329813,Scarborough,38007
 43.7847434,-79.1418841,2,Elkwood Drive (646),a,Elkwood Drive,33,5544363,611551646,Scarborough,38007
 43.7847455,-79.1297393,2,Maberley Crescent (273),a,Maberley Crescent,26,5542993,611540273,Scarborough,38007
 43.7847455,-79.1297393,2,Wheeling Drive (258),a,Wheeling Drive,17,5542995,611540258,Scarborough,38007
@@ -1383,56 +961,27 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7847594,-79.1409105,2,Elkwood Drive (656),a,Elkwood Drive,33,5544363,611551656,Scarborough,38007
 43.7847708,-79.1417699,2,Elkwood Drive (647),a,Elkwood Drive,33,5544363,611551647,Scarborough,38007
 43.7847758,-79.1321115,2,Oxhorn Road (312),a,Oxhorn Road,10,5542994,98995312,Scarborough,38007
-43.7847792,-79.1529992,2,Acheson Boulevard (824),a,Acheson Boulevard,72,5544356,311329824,Scarborough,38007
-43.784805,-79.15014,2,Cherrydale Court (957),a,Cherrydale Court,37,5544358,100189957,Scarborough,38007
-43.7848062,-79.1502146,2,Cherrydale Court (959),a,Cherrydale Court,37,5544358,100189959,Scarborough,38007
 43.7848083,-79.1409185,2,Elkwood Drive (881),a,Elkwood Drive,33,5544363,100191881,Scarborough,38007
 43.7848097,-79.1264097,2,Lawrence Avenue East (776),a,Lawrence Avenue East,964,5542369,95788776,Scarborough,38007
 43.7848121,-79.1416071,2,Elkwood Drive (648),a,Elkwood Drive,33,5544363,611551648,Scarborough,38007
 43.7848166,-79.1297541,2,Maberley Crescent (274),a,Maberley Crescent,26,5542993,611540274,Scarborough,38007
-43.784818,-79.1500491,2,Cherrydale Court (536),a,Cherrydale Court,37,5544358,611551536,Scarborough,38007
-43.7848256,-79.1503009,2,Cherrydale Court (961),a,Cherrydale Court,37,5544358,100189961,Scarborough,38007
-43.7848328,-79.1540912,2,Acheson Boulevard (814),a,Acheson Boulevard,72,5544356,311329814,Scarborough,38007
 43.7848491,-79.1409302,2,Elkwood Drive (655),a,Elkwood Drive,33,5544363,611551655,Scarborough,38007
-43.7848526,-79.1530839,2,Acheson Boulevard (823),a,Acheson Boulevard,72,5544356,311329823,Scarborough,38007
-43.7848632,-79.1503992,2,Cherrydale Court (963),a,Cherrydale Court,37,5544358,100189963,Scarborough,38007
 43.7848742,-79.1413089,2,Elkwood Drive (649),a,Elkwood Drive,33,5544363,611551649,Scarborough,38007
 43.7848794,-79.1437161,2,Conference Boulevard (525),a,Conference Boulevard,23,5542951,98970525,Scarborough,38007
 43.7848794,-79.1437161,2,Cockburn Drive (813),a,Cockburn Drive,40,5544364,100192813,Scarborough,38007
-43.7848805,-79.149764,2,Cherrydale Court (535),a,Cherrydale Court,37,5544358,611551535,Scarborough,38007
 43.7848866,-79.1409448,2,Elkwood Drive (654),a,Elkwood Drive,33,5544363,611551654,Scarborough,38007
-43.7848898,-79.1531573,2,Acheson Boulevard (822),a,Acheson Boulevard,72,5544356,311329822,Scarborough,38007
-43.7849068,-79.1496469,2,Centennial Road (595),a,Centennial Road,41,5542383,611551595,Scarborough,38007
-43.7849068,-79.1496469,2,Cherrydale Court (534),a,Cherrydale Court,37,5544358,611551534,Scarborough,38007
-43.7849086,-79.1532065,2,Acheson Boulevard (821),a,Acheson Boulevard,72,5544356,311329821,Scarborough,38007
 43.7849089,-79.1411799,2,Elkwood Drive (650),a,Elkwood Drive,33,5544363,611551650,Scarborough,38007
 43.7849137,-79.1409797,2,Elkwood Drive (653),a,Elkwood Drive,33,5544363,611551653,Scarborough,38007
 43.7849152,-79.1297641,2,Maberley Crescent (275),a,Maberley Crescent,26,5542993,611540275,Scarborough,38007
-43.7849168,-79.1537158,2,Acheson Boulevard (815),a,Acheson Boulevard,72,5544356,311329815,Scarborough,38007
-43.7849276,-79.153268,2,Acheson Boulevard (820),a,Acheson Boulevard,72,5544356,311329820,Scarborough,38007
 43.7849309,-79.141097,2,Elkwood Drive (651),a,Elkwood Drive,33,5544363,611551651,Scarborough,38007
 43.7849323,-79.1410285,2,Elkwood Drive (652),a,Elkwood Drive,33,5544363,611551652,Scarborough,38007
-43.7849329,-79.1569407,2,Roydawn Court (263),a,Roydawn Court,18,5542907,98917263,Scarborough,38007
-43.784933,-79.1536034,2,Acheson Boulevard (816),a,Acheson Boulevard,72,5544356,311329816,Scarborough,38007
-43.784938,-79.1533547,2,Acheson Boulevard (819),a,Acheson Boulevard,72,5544356,311329819,Scarborough,38007
-43.7849406,-79.1570073,2,Roydawn Court (262),a,Roydawn Court,18,5542907,98917262,Scarborough,38007
-43.7849443,-79.1568724,2,Roydawn Court (264),a,Roydawn Court,18,5542907,98917264,Scarborough,38007
 43.7849481,-79.1437797,2,Cockburn Drive (812),a,Cockburn Drive,40,5544364,100192812,Scarborough,38007
-43.7849484,-79.1534414,2,Acheson Boulevard (818),a,Acheson Boulevard,72,5544356,311329818,Scarborough,38007
-43.7849496,-79.1535159,2,Acheson Boulevard (817),a,Acheson Boulevard,72,5544356,311329817,Scarborough,38007
 43.7849527,-79.1320948,2,Oxhorn Road (927),a,Oxhorn Road,10,5542994,354913927,Scarborough,38007
 43.784966,-79.1437967,2,Cockburn Drive (110),a,Cockburn Drive,40,5544364,526617110,Scarborough,38007
-43.7849709,-79.1565175,2,Ivan Road (503),a,Ivan Road,5,5542908,611551503,Scarborough,38007
-43.7849746,-79.1570547,2,Roydawn Court (261),a,Roydawn Court,18,5542907,98917261,Scarborough,38007
 43.7849814,-79.1438088,2,Cockburn Drive (811),a,Cockburn Drive,40,5544364,100192811,Scarborough,38007
-43.7849887,-79.1566478,2,Roydawn Court (265),a,Roydawn Court,18,5542907,98917265,Scarborough,38007
 43.7850014,-79.1450386,2,Cockburn Drive (794),a,Cockburn Drive,40,5544364,100192794,Scarborough,38007
 43.7850019,-79.1320915,2,Oxhorn Road (252),a,Oxhorn Road,10,5542994,611540252,Scarborough,38007
-43.7850175,-79.1565354,2,Roydawn Court (505),a,Roydawn Court,18,5542907,611551505,Scarborough,38007
-43.7850175,-79.1565354,2,Ivan Road (502),a,Ivan Road,5,5542908,611551502,Scarborough,38007
 43.785018,-79.143845,2,Cockburn Drive (810),a,Cockburn Drive,40,5544364,100192810,Scarborough,38007
-43.7850388,-79.1570962,2,Roydawn Court (260),a,Roydawn Court,18,5542907,98917260,Scarborough,38007
-43.7850405,-79.1564438,2,Roydawn Court (267),a,Roydawn Court,18,5542907,98917267,Scarborough,38007
 43.7850448,-79.1334205,2,East Avenue (513),a,East Avenue,62,5542400,97348513,Scarborough,38007
 43.7850606,-79.1320865,2,Maberley Crescent (277),a,Maberley Crescent,26,5542993,611540277,Scarborough,38007
 43.7850606,-79.1320865,2,Oxhorn Road (251),a,Oxhorn Road,10,5542994,611540251,Scarborough,38007
@@ -1445,19 +994,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7850876,-79.1296876,2,Maberley Crescent (276),a,Maberley Crescent,26,5542993,611540276,Scarborough,38007
 43.7851186,-79.1439413,2,Cockburn Drive (808),a,Cockburn Drive,40,5544364,100192808,Scarborough,38007
 43.7851253,-79.1449105,2,Cockburn Drive (796),a,Cockburn Drive,40,5544364,100192796,Scarborough,38007
-43.785132,-79.1560945,2,Roydawn Court (268),a,Roydawn Court,18,5542907,98917268,Scarborough,38007
 43.7851358,-79.1432837,2,Conference Boulevard (609),a,Conference Boulevard,23,5542951,611551609,Scarborough,38007
 43.7851358,-79.1334548,2,East Avenue (515),a,East Avenue,62,5542400,97348515,Scarborough,38007
 43.7851358,-79.1334548,2,Maberley Crescent (762),a,Maberley Crescent,26,5542993,98994762,Scarborough,38007
-43.7851534,-79.1510862,2,Cherrydale Court (967),a,Cherrydale Court,37,5544358,100189967,Scarborough,38007
 43.7851644,-79.1439896,2,Cockburn Drive (807),a,Cockburn Drive,40,5544364,100192807,Scarborough,38007
 43.7851662,-79.1296825,2,Maberley Crescent (752),a,Maberley Crescent,26,5542993,98994752,Scarborough,38007
 43.7851676,-79.133335,2,Maberley Crescent (761),a,Maberley Crescent,26,5542993,98994761,Scarborough,38007
 43.7851691,-79.1448345,2,Cockburn Drive (797),a,Cockburn Drive,40,5544364,100192797,Scarborough,38007
-43.7851711,-79.1560073,2,Roydawn Court (269),a,Roydawn Court,18,5542907,98917269,Scarborough,38007
 43.7851738,-79.1332957,2,Maberley Crescent (924),a,Maberley Crescent,26,5542993,354913924,Scarborough,38007
-43.7851814,-79.1511475,2,Cherrydale Court (969),a,Cherrydale Court,37,5544358,100189969,Scarborough,38007
-43.7851913,-79.154628,2,Irvine Road (219),a,Irvine Road,8,5544357,100189219,Scarborough,38007
 43.7851919,-79.1474783,2,Haviland Drive (684),a,Haviland Drive,28,5542964,98978684,Scarborough,38007
 43.7852012,-79.1440382,2,Cockburn Drive (806),a,Cockburn Drive,40,5544364,100192806,Scarborough,38007
 43.785208,-79.1328754,2,Maberley Crescent (759),a,Maberley Crescent,26,5542993,98994759,Scarborough,38007
@@ -1465,59 +1009,42 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.785212,-79.1379051,2,Winter Gardens Trail (127),a,Winter Gardens Trail,21,5542996,98996127,Scarborough,38007
 43.7852129,-79.1447586,2,Cockburn Drive (798),a,Cockburn Drive,40,5544364,100192798,Scarborough,38007
 43.7852213,-79.1329936,2,Maberley Crescent (760),a,Maberley Crescent,26,5542993,98994760,Scarborough,38007
-43.7852285,-79.1559626,2,Roydawn Court (270),a,Roydawn Court,18,5542907,98917270,Scarborough,38007
 43.7852292,-79.1440994,2,Cockburn Drive (805),a,Cockburn Drive,40,5544364,100192805,Scarborough,38007
 43.7852344,-79.1297855,2,Maberley Crescent (753),a,Maberley Crescent,26,5542993,98994753,Scarborough,38007
-43.7852362,-79.1511955,2,Cherrydale Court (971),a,Cherrydale Court,37,5544358,100189971,Scarborough,38007
 43.7852387,-79.1446833,2,Cockburn Drive (799),a,Cockburn Drive,40,5544364,100192799,Scarborough,38007
 43.7852482,-79.144161,2,Cockburn Drive (804),a,Cockburn Drive,40,5544364,100192804,Scarborough,38007
 43.7852676,-79.1442474,2,Cockburn Drive (803),a,Cockburn Drive,40,5544364,100192803,Scarborough,38007
 43.7852733,-79.1445952,2,Cockburn Drive (800),a,Cockburn Drive,40,5544364,100192800,Scarborough,38007
 43.7852876,-79.144371,2,Cockburn Drive (802),a,Cockburn Drive,40,5544364,100192802,Scarborough,38007
 43.7852893,-79.1444704,2,Cockburn Drive (801),a,Cockburn Drive,40,5544364,100192801,Scarborough,38007
-43.7852931,-79.1559537,2,Roydawn Court (271),a,Roydawn Court,18,5542907,98917271,Scarborough,38007
 43.7853044,-79.1429284,2,Conference Boulevard (610),a,Conference Boulevard,23,5542951,611551610,Scarborough,38007
 43.7853044,-79.1429284,2,D'Arcy Magee Crescent (622),a,D'Arcy Magee Crescent,32,5544366,611551622,Scarborough,38007
-43.785309,-79.151243,2,Cherrydale Court (973),a,Cherrydale Court,37,5544358,100189973,Scarborough,38007
 43.7853583,-79.1306438,2,Maberley Crescent (755),a,Maberley Crescent,26,5542993,98994755,Scarborough,38007
 43.785366,-79.1429791,2,D'Arcy Magee Crescent (621),a,D'Arcy Magee Crescent,32,5544366,611551621,Scarborough,38007
 43.7853707,-79.1304121,2,Maberley Crescent (754),a,Maberley Crescent,26,5542993,98994754,Scarborough,38007
 43.7853898,-79.1429965,2,D'Arcy Magee Crescent (620),a,D'Arcy Magee Crescent,32,5544366,611551620,Scarborough,38007
-43.7853906,-79.1512777,2,Cherrydale Court (975),a,Cherrydale Court,37,5544358,100189975,Scarborough,38007
 43.785391,-79.1335712,2,East Avenue (517),a,East Avenue,62,5542400,97348517,Scarborough,38007
-43.7854173,-79.1559888,2,Roydawn Court (272),a,Roydawn Court,18,5542907,98917272,Scarborough,38007
 43.7854456,-79.1425149,2,Conference Boulevard (611),a,Conference Boulevard,23,5542951,611551611,Scarborough,38007
 43.7854541,-79.1391149,2,Port Union Road (870),a,Port Union Road,105,5542371,461893870,Scarborough,38007
-43.7855027,-79.1572736,2,Roydawn Court (259),a,Roydawn Court,18,5542907,98917259,Scarborough,38007
 43.7855039,-79.145904,2,D'Arcy Magee Crescent (945),a,D'Arcy Magee Crescent,32,5544366,100193945,Scarborough,38007
 43.7855098,-79.1430841,2,D'Arcy Magee Crescent (961),a,D'Arcy Magee Crescent,32,5544366,100193961,Scarborough,38007
-43.785519,-79.154766,2,Irvine Road (220),a,Irvine Road,8,5544357,100189220,Scarborough,38007
 43.7855255,-79.1391445,2,Port Union Road (862),a,Port Union Road,105,5542371,461893862,Scarborough,38007
 43.7855255,-79.1391445,2,Winter Gardens Trail (122),a,Winter Gardens Trail,21,5542996,98996122,Scarborough,38007
 43.7855466,-79.1421135,2,Conference Boulevard (535),a,Conference Boulevard,23,5542951,98970535,Scarborough,38007
 43.7855524,-79.1390354,2,Winter Gardens Trail (123),a,Winter Gardens Trail,21,5542996,98996123,Scarborough,38007
 43.7855598,-79.1389986,2,Winter Gardens Trail (121),a,Winter Gardens Trail,21,5542996,488130121,Scarborough,38007
-43.7856034,-79.1587928,2,Clyde Road (692),a,Clyde Road,4,5542906,362080692,Scarborough,38007
 43.7856247,-79.1380596,2,Winter Gardens Trail (126),a,Winter Gardens Trail,21,5542996,98996126,Scarborough,38007
 43.7856282,-79.1431674,2,D'Arcy Magee Crescent (960),a,D'Arcy Magee Crescent,32,5544366,100193960,Scarborough,38007
-43.7856288,-79.1588033,2,Clyde Road (874),a,Clyde Road,4,5542906,98916874,Scarborough,38007
 43.7856299,-79.1457732,2,D'Arcy Magee Crescent (946),a,D'Arcy Magee Crescent,32,5544366,100193946,Scarborough,38007
-43.7856626,-79.1513936,2,Cherrydale Court (977),a,Cherrydale Court,37,5544358,100189977,Scarborough,38007
 43.7856867,-79.1381454,2,Winter Gardens Trail (125),a,Winter Gardens Trail,21,5542996,98996125,Scarborough,38007
 43.7857006,-79.1414095,2,Conference Boulevard (612),a,Conference Boulevard,23,5542951,611551612,Scarborough,38007
 43.785704,-79.1382793,2,Winter Gardens Trail (124),a,Winter Gardens Trail,21,5542996,98996124,Scarborough,38007
 43.7857143,-79.1413497,2,Conference Boulevard (613),a,Conference Boulevard,23,5542951,611551613,Scarborough,38007
-43.7857168,-79.1514044,2,Cherrydale Court (979),a,Cherrydale Court,37,5544358,100189979,Scarborough,38007
-43.7857213,-79.1588373,2,Lawson Road (029),a,Lawson Road,74,5542597,98632029,Scarborough,38007
-43.7857213,-79.1588373,2,Clyde Road (873),a,Clyde Road,4,5542906,98916873,Scarborough,38007
 43.7857225,-79.1413114,2,Conference Boulevard (614),a,Conference Boulevard,23,5542951,611551614,Scarborough,38007
 43.7857225,-79.1413114,2,Wichey Road (758),a,Wichey Road,61,5542965,611551758,Scarborough,38007
-43.7857313,-79.1573149,2,Roydawn Court (258),a,Roydawn Court,18,5542907,98917258,Scarborough,38007
 43.785735,-79.1412503,2,Conference Boulevard (615),a,Conference Boulevard,23,5542951,611551615,Scarborough,38007
 43.7857378,-79.1432635,2,D'Arcy Magee Crescent (959),a,D'Arcy Magee Crescent,32,5544366,100193959,Scarborough,38007
 43.7857428,-79.1412139,2,Conference Boulevard (616),a,Conference Boulevard,23,5542951,611551616,Scarborough,38007
-43.7857638,-79.1548703,2,Irvine Road (221),a,Irvine Road,8,5544357,100189221,Scarborough,38007
-43.785789,-79.1514146,2,Cherrydale Court (980),a,Cherrydale Court,37,5544358,100189980,Scarborough,38007
 43.7857924,-79.1413411,2,Wichey Road (252),a,Wichey Road,61,5542965,98980252,Scarborough,38007
 43.7857934,-79.1455305,2,D'Arcy Magee Crescent (947),a,D'Arcy Magee Crescent,32,5544366,100193947,Scarborough,38007
 43.785816,-79.1413513,2,Wichey Road (884),a,Wichey Road,61,5542965,526616884,Scarborough,38007
@@ -1530,9 +1057,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7858882,-79.1337858,2,East Avenue (518),a,East Avenue,62,5542400,97348518,Scarborough,38007
 43.7858882,-79.1337858,2,East Avenue (531),a,East Avenue,62,5542400,97348531,Scarborough,38007
 43.7859147,-79.1452837,2,D'Arcy Magee Crescent (949),a,D'Arcy Magee Crescent,32,5544366,100193949,Scarborough,38007
-43.7859185,-79.1574018,2,Roydawn Court (695),a,Roydawn Court,18,5542907,362080695,Scarborough,38007
 43.7859205,-79.1403692,2,Conference Boulevard (617),a,Conference Boulevard,23,5542951,611551617,Scarborough,38007
-43.7859399,-79.1574109,2,Roydawn Court (504),a,Roydawn Court,18,5542907,611551504,Scarborough,38007
 43.7859416,-79.1402717,2,Clappison Boulevard (108),a,Clappison Boulevard,39,5542403,97381108,Scarborough,38007
 43.7859416,-79.1402717,2,Conference Boulevard (542),a,Conference Boulevard,23,5542951,98970542,Scarborough,38007
 43.7859517,-79.1436794,2,D'Arcy Magee Crescent (956),a,D'Arcy Magee Crescent,32,5544366,100193956,Scarborough,38007
@@ -1543,68 +1068,36 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7860003,-79.1450077,2,D'Arcy Magee Crescent (950),a,D'Arcy Magee Crescent,32,5544366,100193950,Scarborough,38007
 43.7860095,-79.1439137,2,D'Arcy Magee Crescent (955),a,D'Arcy Magee Crescent,32,5544366,100193955,Scarborough,38007
 43.7860182,-79.1403037,2,Clappison Boulevard (713),a,Clappison Boulevard,39,5542403,611551713,Scarborough,38007
-43.7860187,-79.1574592,2,Lawson Road (030),a,Lawson Road,74,5542597,98632030,Scarborough,38007
-43.7860187,-79.1574592,2,Roydawn Court (256),a,Roydawn Court,18,5542907,98917256,Scarborough,38007
-43.7860274,-79.1550238,2,Irvine Road (222),a,Irvine Road,8,5544357,100189222,Scarborough,38007
 43.7860277,-79.1414354,2,Wichey Road (760),a,Wichey Road,61,5542965,611551760,Scarborough,38007
 43.7860408,-79.1403145,2,Clappison Boulevard (712),a,Clappison Boulevard,39,5542403,611551712,Scarborough,38007
 43.7860489,-79.1441238,2,D'Arcy Magee Crescent (954),a,D'Arcy Magee Crescent,32,5544366,100193954,Scarborough,38007
 43.7860504,-79.14477,2,D'Arcy Magee Crescent (951),a,D'Arcy Magee Crescent,32,5544366,100193951,Scarborough,38007
-43.7860578,-79.1524503,2,Cherrydale Court (001),a,Cherrydale Court,37,5544358,100190001,Scarborough,38007
-43.7860592,-79.1525372,2,Cherrydale Court (002),a,Cherrydale Court,37,5544358,100190002,Scarborough,38007
 43.7860634,-79.1393732,2,Port Union Road (866),a,Port Union Road,105,5542371,461893866,Scarborough,38007
-43.7860648,-79.1523258,2,Cherrydale Court (999),a,Cherrydale Court,37,5544358,100189999,Scarborough,38007
-43.7860658,-79.1523879,2,Cherrydale Court (000),a,Cherrydale Court,37,5544358,100190000,Scarborough,38007
 43.7860704,-79.1443344,2,D'Arcy Magee Crescent (953),a,D'Arcy Magee Crescent,32,5544366,100193953,Scarborough,38007
 43.786074,-79.144558,2,D'Arcy Magee Crescent (952),a,D'Arcy Magee Crescent,32,5544366,100193952,Scarborough,38007
-43.786079,-79.1526485,2,Cherrydale Court (003),a,Cherrydale Court,37,5544358,100190003,Scarborough,38007
-43.7860898,-79.15276,2,Cherrydale Court (004),a,Cherrydale Court,37,5544358,100190004,Scarborough,38007
-43.7860908,-79.1522628,2,Cherrydale Court (998),a,Cherrydale Court,37,5544358,100189998,Scarborough,38007
 43.7860978,-79.1395864,2,Conference Boulevard (618),a,Conference Boulevard,23,5542951,611551618,Scarborough,38007
-43.7861038,-79.1528385,2,Cherrydale Court (005),a,Cherrydale Court,37,5544358,100190005,Scarborough,38007
-43.7861235,-79.1569943,2,Lawson Road (031),a,Lawson Road,74,5542597,98632031,Scarborough,38007
 43.7861366,-79.1394049,2,Port Union Road (708),a,Port Union Road,105,5542371,611551708,Scarborough,38007
 43.7861366,-79.1394049,2,Conference Boulevard (619),a,Conference Boulevard,23,5542951,611551619,Scarborough,38007
 43.7861452,-79.1267299,2,Ridgewood Road (944),a,Ridgewood Road,19,5542980,98986944,Scarborough,38007
-43.7861481,-79.1568915,2,Lawson Road (032),a,Lawson Road,74,5542597,98632032,Scarborough,38007
-43.7861481,-79.1568915,2,Lawson Road (530),a,Lawson Road,74,5542597,611551530,Scarborough,38007
-43.7861481,-79.1568915,2,Satchell Boulevard (305),a,Satchell Boulevard,76,5544378,100197305,Scarborough,38007
-43.7861512,-79.1520994,2,Cherrydale Court (997),a,Cherrydale Court,37,5544358,100189997,Scarborough,38007
 43.7861638,-79.1319828,2,Baronial Court (724),a,Baronial Court,18,5543000,98997724,Scarborough,38007
 43.7861638,-79.1270389,2,Ridgewood Road (943),a,Ridgewood Road,19,5542980,98986943,Scarborough,38007
-43.7861679,-79.1514651,2,Cherrydale Court (982),a,Cherrydale Court,37,5544358,100189982,Scarborough,38007
 43.7861687,-79.1414958,2,Wichey Road (761),a,Wichey Road,61,5542965,611551761,Scarborough,38007
 43.78617,-79.1322317,2,Baronial Court (723),a,Baronial Court,18,5543000,98997723,Scarborough,38007
-43.7861772,-79.1520365,2,Cherrydale Court (996),a,Cherrydale Court,37,5544358,100189996,Scarborough,38007
 43.7861948,-79.1262579,2,Ridgewood Road (945),a,Ridgewood Road,19,5542980,98986945,Scarborough,38007
 43.7861948,-79.1262579,2,Ridgewood Road (946),a,Ridgewood Road,19,5542980,98986946,Scarborough,38007
 43.786201,-79.1383171,2,Parlette Avenue (955),a,Parlette Avenue,5,5543003,98999955,Scarborough,38007
-43.7862032,-79.1519735,2,Cherrydale Court (995),a,Cherrydale Court,37,5544358,100189995,Scarborough,38007
 43.7862197,-79.1394386,2,Port Union Road (867),a,Port Union Road,105,5542371,461893867,Scarborough,38007
 43.786222,-79.1295666,2,Baronial Court (244),a,Baronial Court,18,5543000,611540244,Scarborough,38007
-43.7862331,-79.1569313,2,Satchell Boulevard (306),a,Satchell Boulevard,76,5544378,100197306,Scarborough,38007
 43.7862364,-79.1415255,2,Wichey Road (762),a,Wichey Road,61,5542965,611551762,Scarborough,38007
 43.7862374,-79.1250531,2,Lawrence Avenue East (777),a,Lawrence Avenue East,964,5542369,95788777,Scarborough,38007
-43.7862382,-79.1519103,2,Cherrydale Court (994),a,Cherrydale Court,37,5544358,100189994,Scarborough,38007
-43.7862401,-79.1514753,2,Cherrydale Court (984),a,Cherrydale Court,37,5544358,100189984,Scarborough,38007
 43.7862506,-79.1272535,2,Ridgewood Road (942),a,Ridgewood Road,19,5542980,98986942,Scarborough,38007
-43.7862556,-79.1518725,2,Cherrydale Court (993),a,Cherrydale Court,37,5544358,100189993,Scarborough,38007
 43.786263,-79.1260004,2,Ridgewood Road (947),a,Ridgewood Road,19,5542980,98986947,Scarborough,38007
-43.7862722,-79.1569468,2,Satchell Boulevard (462),a,Satchell Boulevard,76,5544378,362081462,Scarborough,38007
-43.7862724,-79.1517974,2,Cherrydale Court (992),a,Cherrydale Court,37,5544358,100189992,Scarborough,38007
-43.7862726,-79.155153,2,Irvine Road (223),a,Irvine Road,8,5544357,100189223,Scarborough,38007
-43.7862765,-79.151499,2,Cherrydale Court (986),a,Cherrydale Court,37,5544358,100189986,Scarborough,38007
 43.78629,-79.1463983,2,Haviland Drive (686),a,Haviland Drive,28,5542964,98978686,Scarborough,38007
-43.7863039,-79.151523,2,Cherrydale Court (987),a,Cherrydale Court,37,5544358,100189987,Scarborough,38007
 43.7863063,-79.1339469,2,East Avenue (534),a,East Avenue,62,5542400,97348534,Scarborough,38007
-43.7863072,-79.1517218,2,Cherrydale Court (991),a,Cherrydale Court,37,5544358,100189991,Scarborough,38007
 43.7863088,-79.1415573,2,Wichey Road (763),a,Wichey Road,61,5542965,611551763,Scarborough,38007
 43.7863191,-79.1329509,2,Baronial Court (722),a,Baronial Court,18,5543000,98997722,Scarborough,38007
-43.7863225,-79.1515597,2,Cherrydale Court (988),a,Cherrydale Court,37,5544358,100189988,Scarborough,38007
 43.7863302,-79.1463433,2,Haviland Drive (624),a,Haviland Drive,28,5542964,611551624,Scarborough,38007
 43.7863302,-79.1463433,2,Tilley Drive (800),a,Tilley Drive,45,5543176,611551800,Scarborough,38007
-43.7863319,-79.1515843,2,Cherrydale Court (989),a,Cherrydale Court,37,5544358,100189989,Scarborough,38007
-43.7863331,-79.1516588,2,Cherrydale Court (990),a,Cherrydale Court,37,5544358,100189990,Scarborough,38007
 43.7863364,-79.1330343,2,Baronial Court (721),a,Baronial Court,18,5543000,98997721,Scarborough,38007
 43.7863364,-79.1330343,2,Hartsville Avenue (583),a,Hartsville Avenue,18,5543002,98999583,Scarborough,38007
 43.7863565,-79.1331558,2,Baronial Court (720),a,Baronial Court,18,5543000,98997720,Scarborough,38007
@@ -1615,15 +1108,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7863677,-79.1462792,2,Haviland Drive (688),a,Haviland Drive,28,5542964,98978688,Scarborough,38007
 43.7863788,-79.1421836,2,Haviland Drive (628),a,Haviland Drive,28,5542964,611551628,Scarborough,38007
 43.78638,-79.1424898,2,Haviland Drive (626),a,Haviland Drive,28,5542964,611551626,Scarborough,38007
-43.7863802,-79.1558308,2,Lawson Road (531),a,Lawson Road,74,5542597,611551531,Scarborough,38007
-43.7863802,-79.1558308,2,Satchell Boulevard (378),a,Satchell Boulevard,76,5544378,100197378,Scarborough,38007
-43.7863933,-79.1552097,2,Irvine Road (446),a,Irvine Road,8,5544357,362081446,Scarborough,38007
 43.7863955,-79.1464122,2,Tilley Drive (785),a,Tilley Drive,45,5543176,99249785,Scarborough,38007
 43.7863964,-79.1338481,2,Baronial Court (245),a,Baronial Court,18,5543000,611540245,Scarborough,38007
-43.7863972,-79.1502909,2,Centennial Road (514),a,Centennial Road,41,5542383,96292514,Scarborough,38007
 43.7863997,-79.1425842,2,Haviland Drive (625),a,Haviland Drive,28,5542964,611551625,Scarborough,38007
 43.7864057,-79.1338136,2,Baronial Court (246),a,Baronial Court,18,5543000,611540246,Scarborough,38007
-43.7864074,-79.1552164,2,Irvine Road (224),a,Irvine Road,8,5544357,100189224,Scarborough,38007
 43.786408,-79.1330165,2,Hartsville Avenue (250),a,Hartsville Avenue,18,5543002,611540250,Scarborough,38007
 43.7864104,-79.1420314,2,Haviland Drive (698),a,Haviland Drive,28,5542964,98978698,Scarborough,38007
 43.7864148,-79.1257857,2,Ridgewood Road (948),a,Ridgewood Road,19,5542980,98986948,Scarborough,38007
@@ -1634,22 +1122,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7864315,-79.1335304,2,Baronial Court (249),a,Baronial Court,18,5543000,611540249,Scarborough,38007
 43.786437,-79.1335995,2,Baronial Court (248),a,Baronial Court,18,5543000,611540248,Scarborough,38007
 43.7864445,-79.1340065,2,East Avenue (536),a,East Avenue,62,5542400,97348536,Scarborough,38007
-43.786461,-79.155886,2,Satchell Boulevard (377),a,Satchell Boulevard,76,5544378,100197377,Scarborough,38007
 43.7864677,-79.1417727,2,Haviland Drive (629),a,Haviland Drive,28,5542964,611551629,Scarborough,38007
 43.7864694,-79.1427776,2,Haviland Drive (695),a,Haviland Drive,28,5542964,98978695,Scarborough,38007
 43.7864698,-79.1305698,2,Baronial Court (725),a,Baronial Court,18,5543000,98997725,Scarborough,38007
 43.7864736,-79.1298456,2,Baronial Court (243),a,Baronial Court,18,5543000,611540243,Scarborough,38007
 43.7864754,-79.1417382,2,Haviland Drive (630),a,Haviland Drive,28,5542964,611551630,Scarborough,38007
 43.7864903,-79.1257048,2,Ridgewood Road (949),a,Ridgewood Road,19,5542980,98986949,Scarborough,38007
-43.7864918,-79.1559043,2,Satchell Boulevard (376),a,Satchell Boulevard,76,5544378,100197376,Scarborough,38007
 43.7864973,-79.1416398,2,Haviland Drive (631),a,Haviland Drive,28,5542964,611551631,Scarborough,38007
 43.7864973,-79.1416398,2,Wichey Road (766),a,Wichey Road,61,5542965,611551766,Scarborough,38007
 43.7864984,-79.1304378,2,Baronial Court (726),a,Baronial Court,18,5543000,98997726,Scarborough,38007
 43.7864984,-79.1304378,2,Baronial Court (240),a,Baronial Court,18,5543000,611540240,Scarborough,38007
 43.7864984,-79.1304378,2,Broadbridge Drive (233),a,Broadbridge Drive,19,5543001,611540233,Scarborough,38007
-43.7865022,-79.155258,2,Lawson Road (532),a,Lawson Road,74,5542597,611551532,Scarborough,38007
-43.7865022,-79.155258,2,Irvine Road (225),a,Irvine Road,8,5544357,100189225,Scarborough,38007
-43.7865036,-79.155909,2,Satchell Boulevard (463),a,Satchell Boulevard,76,5544378,362081463,Scarborough,38007
 43.7865226,-79.1384383,2,Parlette Avenue (956),a,Parlette Avenue,5,5543003,98999956,Scarborough,38007
 43.7865226,-79.1384383,2,Ravine Park Crescent (274),a,Ravine Park Crescent,24,5543004,99001274,Scarborough,38007
 43.7865252,-79.1465456,2,Tilley Drive (784),a,Tilley Drive,45,5543176,99249784,Scarborough,38007
@@ -1660,19 +1143,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7865737,-79.1329762,2,Hartsville Avenue (581),a,Hartsville Avenue,18,5543002,98999581,Scarborough,38007
 43.7865871,-79.1458417,2,Haviland Drive (689),a,Haviland Drive,28,5542964,98978689,Scarborough,38007
 43.786612,-79.1466057,2,Tilley Drive (669),a,Tilley Drive,45,5543176,354914669,Scarborough,38007
-43.7866368,-79.155962,2,Satchell Boulevard (375),a,Satchell Boulevard,76,5544378,100197375,Scarborough,38007
 43.7866429,-79.1432067,2,Haviland Drive (694),a,Haviland Drive,28,5542964,98978694,Scarborough,38007
-43.7866471,-79.1546057,2,Lawson Road (012),a,Lawson Road,74,5542597,98632012,Scarborough,38007
-43.7866471,-79.1546057,2,Lawson Road (533),a,Lawson Road,74,5542597,611551533,Scarborough,38007
 43.7866852,-79.132959,2,Hartsville Avenue (580),a,Hartsville Avenue,18,5543002,98999580,Scarborough,38007
-43.7866955,-79.1543878,2,Lawson Road (013),a,Lawson Road,74,5542597,98632013,Scarborough,38007
-43.7866955,-79.1543878,2,Lawson Road (014),a,Lawson Road,74,5542597,98632014,Scarborough,38007
 43.7866957,-79.141719,2,Wichey Road (769),a,Wichey Road,61,5542965,611551769,Scarborough,38007
 43.7866987,-79.1466657,2,Tilley Drive (783),a,Tilley Drive,45,5543176,99249783,Scarborough,38007
 43.7867606,-79.1436016,2,Haviland Drive (693),a,Haviland Drive,28,5542964,98978693,Scarborough,38007
 43.7867845,-79.1452482,2,Haviland Drive (690),a,Haviland Drive,28,5542964,98978690,Scarborough,38007
-43.7868,-79.1539176,2,Lawson Road (015),a,Lawson Road,74,5542597,98632015,Scarborough,38007
-43.7868,-79.1539176,2,Cedarview Drive (293),a,Cedarview Drive,8,5544382,100198293,Scarborough,38007
 43.7868005,-79.1417617,2,Wichey Road (770),a,Wichey Road,61,5542965,611551770,Scarborough,38007
 43.7868188,-79.1417747,2,Wichey Road (771),a,Wichey Road,61,5542965,611551771,Scarborough,38007
 43.786835,-79.1467258,2,Tilley Drive (782),a,Tilley Drive,45,5543176,99249782,Scarborough,38007
@@ -1682,85 +1158,50 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7868628,-79.1446637,2,Haviland Drive (691),a,Haviland Drive,28,5542964,98978691,Scarborough,38007
 43.7868694,-79.1418107,2,Wichey Road (773),a,Wichey Road,61,5542965,611551773,Scarborough,38007
 43.7868745,-79.1418143,2,Wichey Road (774),a,Wichey Road,61,5542965,611551774,Scarborough,38007
-43.7868793,-79.1539501,2,Cedarview Drive (294),a,Cedarview Drive,8,5544382,100198294,Scarborough,38007
-43.7868871,-79.150499,2,Centennial Road (512),a,Centennial Road,41,5542383,96292512,Scarborough,38007
 43.7868915,-79.1364142,2,Ravine Park Crescent (275),a,Ravine Park Crescent,24,5543004,99001275,Scarborough,38007
-43.7869044,-79.1539618,2,Cedarview Drive (467),a,Cedarview Drive,8,5544382,362081467,Scarborough,38007
-43.7869076,-79.1582405,2,Satchell Boulevard (318),a,Satchell Boulevard,76,5544378,100197318,Scarborough,38007
-43.7869084,-79.1582902,2,Satchell Boulevard (319),a,Satchell Boulevard,76,5544378,100197319,Scarborough,38007
 43.7869136,-79.1306181,2,Broadbridge Drive (234),a,Broadbridge Drive,19,5543001,611540234,Scarborough,38007
-43.786916,-79.1582029,2,Satchell Boulevard (317),a,Satchell Boulevard,76,5544378,100197317,Scarborough,38007
 43.7869225,-79.1363283,2,Ravine Park Crescent (276),a,Ravine Park Crescent,24,5543004,99001276,Scarborough,38007
-43.786927,-79.1583269,2,Satchell Boulevard (320),a,Satchell Boulevard,76,5544378,100197320,Scarborough,38007
-43.7869313,-79.1532947,2,Lawson Road (016),a,Lawson Road,74,5542597,98632016,Scarborough,38007
-43.786933,-79.1581403,2,Satchell Boulevard (316),a,Satchell Boulevard,76,5544378,100197316,Scarborough,38007
 43.7869352,-79.1418731,2,Wichey Road (775),a,Wichey Road,61,5542965,611551775,Scarborough,38007
 43.7869405,-79.1418782,2,Wichey Road (776),a,Wichey Road,61,5542965,611551776,Scarborough,38007
-43.7869546,-79.1583633,2,Satchell Boulevard (321),a,Satchell Boulevard,76,5544378,100197321,Scarborough,38007
-43.7869588,-79.1580649,2,Satchell Boulevard (315),a,Satchell Boulevard,76,5544378,100197315,Scarborough,38007
 43.7869727,-79.1330734,2,Hartsville Avenue (578),a,Hartsville Avenue,18,5543002,98999578,Scarborough,38007
 43.7869817,-79.1321973,2,Hartsville Avenue (571),a,Hartsville Avenue,18,5543002,98999571,Scarborough,38007
 43.7869817,-79.1320257,2,Hartsville Avenue (570),a,Hartsville Avenue,18,5543002,98999570,Scarborough,38007
-43.7869908,-79.1583746,2,Satchell Boulevard (322),a,Satchell Boulevard,76,5544378,100197322,Scarborough,38007
 43.787007,-79.1419572,2,Wichey Road (777),a,Wichey Road,61,5542965,611551777,Scarborough,38007
 43.7870093,-79.1362683,2,Ravine Park Crescent (277),a,Ravine Park Crescent,24,5543004,99001277,Scarborough,38007
 43.7870119,-79.141965,2,Wichey Road (778),a,Wichey Road,61,5542965,611551778,Scarborough,38007
-43.7870176,-79.1572428,2,Satchell Boulevard (307),a,Satchell Boulevard,76,5544378,100197307,Scarborough,38007
 43.7870251,-79.1322746,2,Hartsville Avenue (572),a,Hartsville Avenue,18,5543002,98999572,Scarborough,38007
-43.7870272,-79.1583984,2,Satchell Boulevard (323),a,Satchell Boulevard,76,5544378,100197323,Scarborough,38007
-43.7870428,-79.1576895,2,Satchell Boulevard (314),a,Satchell Boulevard,76,5544378,100197314,Scarborough,38007
-43.7870594,-79.157602,2,Satchell Boulevard (313),a,Satchell Boulevard,76,5544378,100197313,Scarborough,38007
 43.7870635,-79.1482951,2,McGrath Court (865),a,McGrath Court,4,5543177,99249865,Scarborough,38007
 43.7870645,-79.1420502,2,Wichey Road (779),a,Wichey Road,61,5542965,611551779,Scarborough,38007
 43.7870685,-79.130764,2,Broadbridge Drive (235),a,Broadbridge Drive,19,5543001,611540235,Scarborough,38007
-43.7870722,-79.158397,2,Satchell Boulevard (324),a,Satchell Boulevard,76,5544378,100197324,Scarborough,38007
 43.7870747,-79.1264381,2,Greybeaver Trail (454),a,Greybeaver Trail,25,5542983,98989454,Scarborough,38007
 43.787078,-79.133039,2,Hartsville Avenue (577),a,Hartsville Avenue,18,5543002,98999577,Scarborough,38007
-43.7870814,-79.1572906,2,Satchell Boulevard (308),a,Satchell Boulevard,76,5544378,100197308,Scarborough,38007
-43.7870854,-79.157539,2,Satchell Boulevard (312),a,Satchell Boulevard,76,5544378,100197312,Scarborough,38007
 43.7870934,-79.1480251,2,McGrath Court (171),a,McGrath Court,4,5543177,611540171,Scarborough,38007
 43.7870995,-79.1263094,2,Greybeaver Trail (455),a,Greybeaver Trail,25,5542983,98989455,Scarborough,38007
 43.7871057,-79.1315107,2,Hartsville Avenue (569),a,Hartsville Avenue,18,5543002,98999569,Scarborough,38007
 43.7871082,-79.1421356,2,Wichey Road (780),a,Wichey Road,61,5542965,611551780,Scarborough,38007
-43.7871092,-79.1573394,2,Satchell Boulevard (309),a,Satchell Boulevard,76,5544378,100197309,Scarborough,38007
-43.7871114,-79.1574761,2,Satchell Boulevard (311),a,Satchell Boulevard,76,5544378,100197311,Scarborough,38007
-43.7871192,-79.1574013,2,Satchell Boulevard (310),a,Satchell Boulevard,76,5544378,100197310,Scarborough,38007
 43.7871195,-79.1421577,2,Wichey Road (781),a,Wichey Road,61,5542965,611551781,Scarborough,38007
-43.7871355,-79.1561828,2,Satchell Boulevard (374),a,Satchell Boulevard,76,5544378,100197374,Scarborough,38007
 43.7871367,-79.1265669,2,Greybeaver Trail (453),a,Greybeaver Trail,25,5542983,98989453,Scarborough,38007
-43.7871442,-79.1583948,2,Satchell Boulevard (325),a,Satchell Boulevard,76,5544378,100197325,Scarborough,38007
 43.7871548,-79.1329323,2,Hartsville Avenue (576),a,Hartsville Avenue,18,5543002,98999576,Scarborough,38007
-43.7871562,-79.1523166,2,Lawson Road (017),a,Lawson Road,74,5542597,98632017,Scarborough,38007
-43.7871562,-79.1523166,2,Closson Drive (402),a,Closson Drive,14,5544383,100198402,Scarborough,38007
 43.7871614,-79.1324806,2,Hartsville Avenue (573),a,Hartsville Avenue,18,5543002,98999573,Scarborough,38007
 43.7871702,-79.1422632,2,Wichey Road (782),a,Wichey Road,61,5542965,611551782,Scarborough,38007
-43.7871753,-79.1522067,2,Lawson Road (018),a,Lawson Road,74,5542597,98632018,Scarborough,38007
 43.7871958,-79.1327205,2,Hartsville Avenue (575),a,Hartsville Avenue,18,5543002,98999575,Scarborough,38007
 43.7871983,-79.1325815,2,Hartsville Avenue (574),a,Hartsville Avenue,18,5543002,98999574,Scarborough,38007
 43.7872077,-79.1423489,2,Clappison Boulevard (711),a,Clappison Boulevard,39,5542403,611551711,Scarborough,38007
 43.7872077,-79.1423489,2,Wichey Road (783),a,Wichey Road,61,5542965,611551783,Scarborough,38007
 43.7872104,-79.1353899,2,East Willow Gate (202),a,East Willow Gate,8,24895639,611540202,Scarborough,38007
-43.7872162,-79.1583926,2,Satchell Boulevard (326),a,Satchell Boulevard,76,5544378,100197326,Scarborough,38007
 43.7872172,-79.1355018,2,East Willow Gate (201),a,East Willow Gate,8,24895639,611540201,Scarborough,38007
 43.7872237,-79.1423873,2,Wichey Road (784),a,Wichey Road,61,5542965,611551784,Scarborough,38007
-43.7872242,-79.150634,2,Centennial Road (915),a,Centennial Road,41,5542383,570870915,Scarborough,38007
-43.787227,-79.1523399,2,Closson Drive (404),a,Closson Drive,14,5544383,100198404,Scarborough,38007
 43.7872332,-79.1352064,2,East Willow Gate (203),a,East Willow Gate,8,24895639,611540203,Scarborough,38007
 43.7872469,-79.1424465,2,Wichey Road (785),a,Wichey Road,61,5542965,611551785,Scarborough,38007
-43.7872509,-79.1523501,2,Closson Drive (469),a,Closson Drive,14,5544383,362081469,Scarborough,38007
 43.7872548,-79.1424673,2,Wichey Road (332),a,Wichey Road,61,5542965,570871332,Scarborough,38007
 43.7872602,-79.138746,2,Parlette Avenue (957),a,Parlette Avenue,5,5543003,98999957,Scarborough,38007
 43.787261,-79.146863,2,Tilley Drive (799),a,Tilley Drive,45,5543176,611551799,Scarborough,38007
 43.7872698,-79.1468666,2,Tilley Drive (798),a,Tilley Drive,45,5543176,611551798,Scarborough,38007
 43.7872707,-79.1423006,2,Clappison Boulevard (088),a,Clappison Boulevard,39,5542403,97381088,Scarborough,38007
-43.7872792,-79.1583906,2,Satchell Boulevard (327),a,Satchell Boulevard,76,5544378,100197327,Scarborough,38007
 43.787286,-79.1312435,2,Hartsville Avenue (568),a,Hartsville Avenue,18,5543002,98999568,Scarborough,38007
-43.7873107,-79.1506703,2,Centennial Road (510),a,Centennial Road,41,5542383,96292510,Scarborough,38007
 43.7873163,-79.1267299,2,Greybeaver Trail (452),a,Greybeaver Trail,25,5542983,98989452,Scarborough,38007
 43.787319,-79.1469849,2,McGrath Court (996),a,McGrath Court,4,5543177,526616996,Scarborough,38007
 43.7873202,-79.1426259,2,Wichey Road (333),a,Wichey Road,61,5542965,570871333,Scarborough,38007
-43.7873332,-79.158389,2,Satchell Boulevard (328),a,Satchell Boulevard,76,5544378,100197328,Scarborough,38007
-43.7873349,-79.1562637,2,Satchell Boulevard (373),a,Satchell Boulevard,76,5544378,100197373,Scarborough,38007
 43.78734,-79.1311749,2,Broadbridge Drive (236),a,Broadbridge Drive,19,5543001,611540236,Scarborough,38007
 43.78734,-79.1311749,2,Hartsville Avenue (567),a,Hartsville Avenue,18,5543002,98999567,Scarborough,38007
 43.7873413,-79.1468913,2,Tilley Drive (780),a,Tilley Drive,45,5543176,99249780,Scarborough,38007
@@ -1775,122 +1216,73 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.787374,-79.134409,2,East Avenue (559),a,East Avenue,62,5542400,97348559,Scarborough,38007
 43.787374,-79.134409,2,Mastwood Crescent (493),a,Mastwood Crescent,28,5544850,100390493,Scarborough,38007
 43.787374,-79.134409,2,East Willow Gate (206),a,East Willow Gate,8,24895639,611540206,Scarborough,38007
-43.7873748,-79.1507003,2,Centennial Road (916),a,Centennial Road,41,5542383,570870916,Scarborough,38007
-43.7873893,-79.1562869,2,Satchell Boulevard (372),a,Satchell Boulevard,76,5544378,100197372,Scarborough,38007
-43.7873921,-79.1507083,2,Centennial Road (308),a,Centennial Road,41,5542383,477512308,Scarborough,38007
 43.7873923,-79.1428005,2,Wichey Road (334),a,Wichey Road,61,5542965,570871334,Scarborough,38007
 43.7873966,-79.1381214,2,Koning Court (666),a,Koning Court,17,5543005,99001666,Scarborough,38007
 43.7873966,-79.1378467,2,Koning Court (652),a,Koning Court,17,5543005,99001652,Scarborough,38007
 43.7873966,-79.1378467,2,Koning Court (661),a,Koning Court,17,5543005,99001661,Scarborough,38007
 43.7873966,-79.1378467,2,Koning Court (736),a,Koning Court,17,5543005,611551736,Scarborough,38007
-43.787405,-79.1583743,2,Satchell Boulevard (329),a,Satchell Boulevard,76,5544378,100197329,Scarborough,38007
 43.7874157,-79.1342803,2,Mastwood Crescent (494),a,Mastwood Crescent,28,5544850,100390494,Scarborough,38007
-43.7874161,-79.1511129,2,Lawson Road (222),a,Lawson Road,74,5542597,570871222,Scarborough,38007
 43.7874163,-79.1344258,2,East Avenue (560),a,East Avenue,62,5542400,97348560,Scarborough,38007
 43.7874263,-79.1342477,2,Mastwood Crescent (495),a,Mastwood Crescent,28,5544850,100390495,Scarborough,38007
-43.7874347,-79.1563103,2,Satchell Boulevard (371),a,Satchell Boulevard,76,5544378,100197371,Scarborough,38007
 43.7874454,-79.142927,2,Wichey Road (787),a,Wichey Road,61,5542965,611551787,Scarborough,38007
 43.7874462,-79.1381299,2,Koning Court (665),a,Koning Court,17,5543005,99001665,Scarborough,38007
-43.7874498,-79.1583605,2,Satchell Boulevard (330),a,Satchell Boulevard,76,5544378,100197330,Scarborough,38007
 43.7874558,-79.1379085,2,Koning Court (662),a,Koning Court,17,5543005,99001662,Scarborough,38007
-43.7874575,-79.1509226,2,Lawson Road (223),a,Lawson Road,74,5542597,570871223,Scarborough,38007
 43.7874626,-79.136092,2,Ravine Park Crescent (278),a,Ravine Park Crescent,24,5543004,99001278,Scarborough,38007
-43.7874638,-79.1508939,2,Lawson Road (019),a,Lawson Road,74,5542597,98632019,Scarborough,38007
 43.7874666,-79.1421387,2,Clappison Boulevard (090),a,Clappison Boulevard,39,5542403,97381090,Scarborough,38007
 43.7874711,-79.1372989,2,Koning Court (653),a,Koning Court,17,5543005,99001653,Scarborough,38007
-43.7874766,-79.1583473,2,Satchell Boulevard (331),a,Satchell Boulevard,76,5544378,100197331,Scarborough,38007
 43.7874833,-79.1380784,2,Koning Court (664),a,Koning Court,17,5543005,99001664,Scarborough,38007
-43.7874886,-79.1507636,2,Centennial Road (481),a,Centennial Road,41,5542383,96292481,Scarborough,38007
-43.7874886,-79.1507636,2,Centennial Road (508),a,Centennial Road,41,5542383,96292508,Scarborough,38007
-43.7874886,-79.1507636,2,Lawson Road (020),a,Lawson Road,74,5542597,98632020,Scarborough,38007
 43.7874902,-79.1430174,2,Wichey Road (335),a,Wichey Road,61,5542965,570871335,Scarborough,38007
 43.7874943,-79.1379643,2,Koning Court (663),a,Koning Court,17,5543005,99001663,Scarborough,38007
 43.7874961,-79.1340048,2,Mastwood Crescent (496),a,Mastwood Crescent,28,5544850,100390496,Scarborough,38007
-43.7874983,-79.1563457,2,Satchell Boulevard (370),a,Satchell Boulevard,76,5544378,100197370,Scarborough,38007
 43.787499,-79.1359706,2,East Willow Gate (200),a,East Willow Gate,8,24895639,611540200,Scarborough,38007
 43.7875019,-79.1430388,2,Wichey Road (788),a,Wichey Road,61,5542965,611551788,Scarborough,38007
 43.7875144,-79.1371787,2,Koning Court (654),a,Koning Court,17,5543005,99001654,Scarborough,38007
-43.7875188,-79.1506283,2,Lawson Road (021),a,Lawson Road,74,5542597,98632021,Scarborough,38007
-43.7875261,-79.1505951,2,Lawson Road (224),a,Lawson Road,74,5542597,570871224,Scarborough,38007
-43.7875304,-79.1583332,2,Satchell Boulevard (332),a,Satchell Boulevard,76,5544378,100197332,Scarborough,38007
 43.7875307,-79.1360233,2,Ravine Park Crescent (279),a,Ravine Park Crescent,24,5543004,99001279,Scarborough,38007
 43.7875307,-79.1360233,2,East Willow Gate (199),a,East Willow Gate,8,24895639,611540199,Scarborough,38007
-43.7875529,-79.1563813,2,Satchell Boulevard (369),a,Satchell Boulevard,76,5544378,100197369,Scarborough,38007
 43.7875551,-79.1338473,2,Mastwood Crescent (497),a,Mastwood Crescent,28,5544850,100390497,Scarborough,38007
 43.7875602,-79.1420255,2,Clappison Boulevard (091),a,Clappison Boulevard,39,5542403,97381091,Scarborough,38007
-43.7875645,-79.1508168,2,Centennial Road (478),a,Centennial Road,41,5542383,96292478,Scarborough,38007
-43.787566,-79.1583072,2,Satchell Boulevard (333),a,Satchell Boulevard,76,5544378,100197333,Scarborough,38007
 43.7875683,-79.1431478,2,Wichey Road (336),a,Wichey Road,61,5542965,570871336,Scarborough,38007
-43.7875799,-79.1524779,2,Closson Drive (405),a,Closson Drive,14,5544383,100198405,Scarborough,38007
-43.7875841,-79.1508274,2,Centennial Road (475),a,Centennial Road,41,5542383,96292475,Scarborough,38007
 43.7875952,-79.1256485,2,Greybeaver Trail (456),a,Greybeaver Trail,25,5542983,98989456,Scarborough,38007
 43.7875982,-79.1337213,2,Mastwood Crescent (498),a,Mastwood Crescent,28,5544850,100390498,Scarborough,38007
-43.7875985,-79.1564171,2,Satchell Boulevard (368),a,Satchell Boulevard,76,5544378,100197368,Scarborough,38007
 43.7876074,-79.1370672,2,Koning Court (655),a,Koning Court,17,5543005,99001655,Scarborough,38007
-43.7876108,-79.1582934,2,Satchell Boulevard (334),a,Satchell Boulevard,76,5544378,100197334,Scarborough,38007
 43.7876124,-79.1409731,2,Clappison Boulevard (104),a,Clappison Boulevard,39,5542403,97381104,Scarborough,38007
 43.787618,-79.1432158,2,Wichey Road (337),a,Wichey Road,61,5542965,570871337,Scarborough,38007
-43.7876349,-79.1564409,2,Satchell Boulevard (367),a,Satchell Boulevard,76,5544378,100197367,Scarborough,38007
 43.7876352,-79.1418754,2,Clappison Boulevard (093),a,Clappison Boulevard,39,5542403,97381093,Scarborough,38007
 43.7876391,-79.1335898,2,Mastwood Crescent (499),a,Mastwood Crescent,28,5544850,100390499,Scarborough,38007
-43.7876431,-79.1524884,2,Closson Drive (407),a,Closson Drive,14,5544383,100198407,Scarborough,38007
 43.7876535,-79.1432589,2,Wichey Road (789),a,Wichey Road,61,5542965,611551789,Scarborough,38007
-43.7876554,-79.1582672,2,Satchell Boulevard (335),a,Satchell Boulevard,76,5544378,100197335,Scarborough,38007
-43.7876715,-79.156477,2,Satchell Boulevard (366),a,Satchell Boulevard,76,5544378,100197366,Scarborough,38007
 43.7876743,-79.134539,2,East Avenue (561),a,East Avenue,62,5542400,97348561,Scarborough,38007
 43.7876743,-79.134539,2,East Avenue (207),a,East Avenue,62,5542400,611540207,Scarborough,38007
 43.7876861,-79.1334553,2,Mastwood Crescent (500),a,Mastwood Crescent,28,5544850,100390500,Scarborough,38007
-43.7876931,-79.1498441,2,Lawson Road (022),a,Lawson Road,74,5542597,98632022,Scarborough,38007
 43.7876943,-79.1256227,2,Greybeaver Trail (457),a,Greybeaver Trail,25,5542983,98989457,Scarborough,38007
 43.7876975,-79.1409793,2,Clappison Boulevard (102),a,Clappison Boulevard,39,5542403,97381102,Scarborough,38007
-43.7876991,-79.1565135,2,Satchell Boulevard (365),a,Satchell Boulevard,76,5544378,100197365,Scarborough,38007
-43.7876999,-79.158241,2,Satchell Boulevard (336),a,Satchell Boulevard,76,5544378,100197336,Scarborough,38007
 43.7877061,-79.1433133,2,Wichey Road (790),a,Wichey Road,61,5542965,611551790,Scarborough,38007
-43.7877245,-79.1525108,2,Closson Drive (408),a,Closson Drive,14,5544383,100198408,Scarborough,38007
-43.7877269,-79.1565623,2,Satchell Boulevard (364),a,Satchell Boulevard,76,5544378,100197364,Scarborough,38007
 43.7877335,-79.1274064,2,Greybeaver Trail (451),a,Greybeaver Trail,25,5542983,98989451,Scarborough,38007
 43.7877441,-79.13336,2,Mastwood Crescent (501),a,Mastwood Crescent,28,5544850,100390501,Scarborough,38007
-43.7877445,-79.1582148,2,Satchell Boulevard (337),a,Satchell Boulevard,76,5544378,100197337,Scarborough,38007
 43.7877529,-79.143349,2,Wichey Road (791),a,Wichey Road,61,5542965,611551791,Scarborough,38007
 43.7877686,-79.141011,2,Clappison Boulevard (100),a,Clappison Boulevard,39,5542403,97381100,Scarborough,38007
 43.7877687,-79.1369781,2,Koning Court (656),a,Koning Court,17,5543005,99001656,Scarborough,38007
 43.7877696,-79.1413262,2,Clappison Boulevard (095),a,Clappison Boulevard,39,5542403,97381095,Scarborough,38007
 43.7877806,-79.1333362,2,Mastwood Crescent (502),a,Mastwood Crescent,28,5544850,100390502,Scarborough,38007
 43.7877811,-79.1257,2,Greybeaver Trail (458),a,Greybeaver Trail,25,5542983,98989458,Scarborough,38007
-43.7877891,-79.1581885,2,Satchell Boulevard (338),a,Satchell Boulevard,76,5544378,100197338,Scarborough,38007
-43.7877941,-79.1493809,2,Lawson Road (023),a,Lawson Road,74,5542597,98632023,Scarborough,38007
-43.7877967,-79.152521,2,Closson Drive (409),a,Closson Drive,14,5544383,100198409,Scarborough,38007
 43.7878014,-79.1433819,2,Wichey Road (260),a,Wichey Road,61,5542965,98980260,Scarborough,38007
 43.7878094,-79.1274975,2,Greybeaver Trail (889),a,Greybeaver Trail,25,5542983,311326889,Scarborough,38007
 43.7878095,-79.1410814,2,Clappison Boulevard (098),a,Clappison Boulevard,39,5542403,97381098,Scarborough,38007
 43.7878112,-79.1412125,2,Clappison Boulevard (097),a,Clappison Boulevard,39,5542403,97381097,Scarborough,38007
-43.7878202,-79.1492615,2,Lawson Road (024),a,Lawson Road,74,5542597,98632024,Scarborough,38007
-43.7878202,-79.1492615,2,St. Magnus Drive (007),a,St. Magnus Drive,7,5544367,100194007,Scarborough,38007
 43.7878218,-79.1333491,2,Mastwood Crescent (503),a,Mastwood Crescent,28,5544850,100390503,Scarborough,38007
-43.7878247,-79.1581626,2,Satchell Boulevard (339),a,Satchell Boulevard,76,5544378,100197339,Scarborough,38007
 43.7878392,-79.133408,2,Mastwood Crescent (504),a,Mastwood Crescent,28,5544850,100390504,Scarborough,38007
 43.7878399,-79.1346116,2,East Avenue (208),a,East Avenue,62,5542400,611540208,Scarborough,38007
 43.7878492,-79.1434028,2,Wichey Road (792),a,Wichey Road,61,5542965,611551792,Scarborough,38007
-43.7878511,-79.1581245,2,Satchell Boulevard (340),a,Satchell Boulevard,76,5544378,100197340,Scarborough,38007
-43.7878691,-79.1525436,2,Closson Drive (410),a,Closson Drive,14,5544383,100198410,Scarborough,38007
 43.7878692,-79.1334836,2,Mastwood Crescent (505),a,Mastwood Crescent,28,5544850,100390505,Scarborough,38007
 43.7878699,-79.1356083,2,Ravine Park Crescent (280),a,Ravine Park Crescent,24,5543004,99001280,Scarborough,38007
-43.7878777,-79.1580988,2,Satchell Boulevard (341),a,Satchell Boulevard,76,5544378,100197341,Scarborough,38007
 43.787905,-79.1368408,2,Koning Court (657),a,Koning Court,17,5543005,99001657,Scarborough,38007
-43.7879133,-79.1580729,2,Satchell Boulevard (342),a,Satchell Boulevard,76,5544378,100197342,Scarborough,38007
-43.787915,-79.1493018,2,St. Magnus Drive (614),a,St. Magnus Drive,7,5544367,477512614,Scarborough,38007
 43.7879236,-79.1335527,2,Mastwood Crescent (506),a,Mastwood Crescent,28,5544850,100390506,Scarborough,38007
 43.7879365,-79.1434411,2,Wichey Road (793),a,Wichey Road,61,5542965,611551793,Scarborough,38007
-43.7879388,-79.1493119,2,St. Magnus Drive (452),a,St. Magnus Drive,7,5544367,362081452,Scarborough,38007
-43.7879505,-79.1525659,2,Closson Drive (411),a,Closson Drive,14,5544383,100198411,Scarborough,38007
 43.7879575,-79.1434503,2,Wichey Road (794),a,Wichey Road,61,5542965,611551794,Scarborough,38007
-43.7879663,-79.1580091,2,Satchell Boulevard (343),a,Satchell Boulevard,76,5544378,100197343,Scarborough,38007
 43.7879759,-79.1336105,2,Mastwood Crescent (507),a,Mastwood Crescent,28,5544850,100390507,Scarborough,38007
 43.7879883,-79.1346737,2,East Avenue (209),a,East Avenue,62,5542400,611540209,Scarborough,38007
 43.7879883,-79.1346737,2,Mastwood Crescent (520),a,Mastwood Crescent,28,5544850,100390520,Scarborough,38007
 43.7879899,-79.1276423,2,Greybeaver Trail (888),a,Greybeaver Trail,25,5542983,311326888,Scarborough,38007
 43.7879917,-79.1355276,2,Ravine Park Crescent (281),a,Ravine Park Crescent,24,5543004,99001281,Scarborough,38007
-43.7879925,-79.1579586,2,Satchell Boulevard (344),a,Satchell Boulevard,76,5544378,100197344,Scarborough,38007
 43.7880217,-79.1234385,2,Lawrence Avenue East (778),a,Lawrence Avenue East,964,5542369,95788778,Scarborough,38007
 43.7880229,-79.1401978,2,Port Union Road (709),a,Port Union Road,105,5542371,611551709,Scarborough,38007
 43.7880229,-79.1401978,2,Ravine Park Crescent (741),a,Ravine Park Crescent,24,5543004,611551741,Scarborough,38007
@@ -1899,82 +1291,58 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7880279,-79.133657,2,Mastwood Crescent (508),a,Mastwood Crescent,28,5544850,100390508,Scarborough,38007
 43.788032,-79.1243092,2,Ridgewood Road (950),a,Ridgewood Road,19,5542980,98986950,Scarborough,38007
 43.788032,-79.1243092,2,Bornholm Drive (161),a,Bornholm Drive,18,5542981,98988161,Scarborough,38007
-43.7880369,-79.1579199,2,Satchell Boulevard (345),a,Satchell Boulevard,76,5544378,100197345,Scarborough,38007
 43.7880371,-79.1345316,2,Mastwood Crescent (213),a,Mastwood Crescent,28,5544850,611540213,Scarborough,38007
 43.7880463,-79.127699,2,Greybeaver Trail (450),a,Greybeaver Trail,25,5542983,98989450,Scarborough,38007
 43.7880487,-79.1434858,2,Wichey Road (796),a,Wichey Road,61,5542965,611551796,Scarborough,38007
 43.7880506,-79.1437835,2,Tilley Drive (788),a,Tilley Drive,45,5543176,99249788,Scarborough,38007
 43.7880544,-79.1400433,2,Ravine Park Crescent (740),a,Ravine Park Crescent,24,5543004,611551740,Scarborough,38007
-43.7880631,-79.1578694,2,Satchell Boulevard (346),a,Satchell Boulevard,76,5544378,100197346,Scarborough,38007
 43.7880684,-79.1399815,2,Ravine Park Crescent (739),a,Ravine Park Crescent,24,5543004,611551739,Scarborough,38007
 43.7880715,-79.1344296,2,Mastwood Crescent (517),a,Mastwood Crescent,28,5544850,100390517,Scarborough,38007
 43.7880721,-79.1243832,2,Bornholm Drive (162),a,Bornholm Drive,18,5542981,98988162,Scarborough,38007
-43.7880773,-79.1526118,2,Closson Drive (412),a,Closson Drive,14,5544383,100198412,Scarborough,38007
 43.788086,-79.1436361,2,Tilley Drive (514),a,Tilley Drive,45,5543176,570871514,Scarborough,38007
 43.7880898,-79.124419,2,Bornholm Drive (482),a,Bornholm Drive,18,5542981,395320482,Scarborough,38007
 43.7880903,-79.1337117,2,Mastwood Crescent (509),a,Mastwood Crescent,28,5544850,100390509,Scarborough,38007
 43.7880936,-79.1436044,2,Tilley Drive (789),a,Tilley Drive,45,5543176,99249789,Scarborough,38007
-43.7881073,-79.1578183,2,Satchell Boulevard (347),a,Satchell Boulevard,76,5544378,100197347,Scarborough,38007
 43.7881123,-79.1435103,2,Wichey Road (797),a,Wichey Road,61,5542965,611551797,Scarborough,38007
 43.7881123,-79.1435103,2,Wichey Road (802),a,Wichey Road,61,5542965,611551802,Scarborough,38007
 43.7881123,-79.1435103,2,Tilley Drive (811),a,Tilley Drive,45,5543176,611551811,Scarborough,38007
 43.7881168,-79.1343063,2,Mastwood Crescent (516),a,Mastwood Crescent,28,5544850,100390516,Scarborough,38007
 43.7881276,-79.1434195,2,Tilley Drive (812),a,Tilley Drive,45,5543176,611551812,Scarborough,38007
 43.7881335,-79.1433866,2,Tilley Drive (515),a,Tilley Drive,45,5543176,570871515,Scarborough,38007
-43.7881337,-79.1577802,2,Satchell Boulevard (348),a,Satchell Boulevard,76,5544378,100197348,Scarborough,38007
 43.7881368,-79.1391118,2,Parlette Avenue (885),a,Parlette Avenue,5,5543003,526616885,Scarborough,38007
 43.7881405,-79.1396504,2,Ravine Park Crescent (738),a,Ravine Park Crescent,24,5543004,611551738,Scarborough,38007
 43.7881406,-79.1337724,2,Mastwood Crescent (510),a,Mastwood Crescent,28,5544850,100390510,Scarborough,38007
-43.7881515,-79.157208,2,Satchell Boulevard (363),a,Satchell Boulevard,76,5544378,100197363,Scarborough,38007
 43.7881528,-79.1365833,2,Koning Court (658),a,Koning Court,17,5543005,99001658,Scarborough,38007
 43.7881568,-79.1341589,2,Mastwood Crescent (515),a,Mastwood Crescent,28,5544850,100390515,Scarborough,38007
-43.7881599,-79.1577297,2,Satchell Boulevard (349),a,Satchell Boulevard,76,5544378,100197349,Scarborough,38007
 43.7881705,-79.143122,2,Tilley Drive (813),a,Tilley Drive,45,5543176,611551813,Scarborough,38007
-43.7881793,-79.1572568,2,Satchell Boulevard (362),a,Satchell Boulevard,76,5544378,100197362,Scarborough,38007
 43.7881808,-79.143535,2,Wichey Road (803),a,Wichey Road,61,5542965,611551803,Scarborough,38007
 43.7881826,-79.1338334,2,Mastwood Crescent (511),a,Mastwood Crescent,28,5544850,100390511,Scarborough,38007
-43.7881953,-79.1576913,2,Satchell Boulevard (350),a,Satchell Boulevard,76,5544378,100197350,Scarborough,38007
 43.7881998,-79.1391381,2,Parlette Avenue (958),a,Parlette Avenue,5,5543003,98999958,Scarborough,38007
 43.7881998,-79.1391381,2,Ravine Park Crescent (293),a,Ravine Park Crescent,24,5543004,99001293,Scarborough,38007
 43.7881999,-79.1338895,2,Mastwood Crescent (512),a,Mastwood Crescent,28,5544850,100390512,Scarborough,38007
 43.7882018,-79.1340123,2,Mastwood Crescent (514),a,Mastwood Crescent,28,5544850,100390514,Scarborough,38007
 43.7882038,-79.1435438,2,Wichey Road (339),a,Wichey Road,61,5542965,570871339,Scarborough,38007
-43.7882119,-79.1474854,2,Lawson Road (168),a,Lawson Road,74,5542597,611540168,Scarborough,38007
-43.7882119,-79.1474854,2,Brumwell Street (938),a,Brumwell Street,12,5544374,611539938,Scarborough,38007
 43.788212,-79.142825,2,Tilley Drive (792),a,Tilley Drive,45,5543176,99249792,Scarborough,38007
 43.7882121,-79.1339523,2,Mastwood Crescent (513),a,Mastwood Crescent,28,5544850,100390513,Scarborough,38007
-43.7882161,-79.1573054,2,Satchell Boulevard (361),a,Satchell Boulevard,76,5544378,100197361,Scarborough,38007
 43.788221,-79.1303177,2,Ridgewood Road (941),a,Ridgewood Road,19,5542980,98986941,Scarborough,38007
 43.788228,-79.1427376,2,Tilley Drive (814),a,Tilley Drive,45,5543176,611551814,Scarborough,38007
 43.7882298,-79.1427276,2,Tilley Drive (815),a,Tilley Drive,45,5543176,611551815,Scarborough,38007
 43.7882387,-79.1383051,2,Ravine Park Crescent (292),a,Ravine Park Crescent,24,5543004,99001292,Scarborough,38007
 43.7882387,-79.1383051,2,Pendermere Parkway (127),a,Pendermere Parkway,13,5543007,99002127,Scarborough,38007
 43.7882396,-79.1266012,2,Greybeaver Trail (459),a,Greybeaver Trail,25,5542983,98989459,Scarborough,38007
-43.7882397,-79.1576527,2,Satchell Boulevard (351),a,Satchell Boulevard,76,5544378,100197351,Scarborough,38007
-43.7882437,-79.1573419,2,Satchell Boulevard (360),a,Satchell Boulevard,76,5544378,100197360,Scarborough,38007
 43.7882489,-79.1426447,2,Tilley Drive (816),a,Tilley Drive,45,5543176,611551816,Scarborough,38007
 43.7882516,-79.1379394,2,Ravine Park Crescent (291),a,Ravine Park Crescent,24,5543004,99001291,Scarborough,38007
 43.7882533,-79.1426259,2,Tilley Drive (817),a,Tilley Drive,45,5543176,611551817,Scarborough,38007
-43.7882661,-79.1576146,2,Satchell Boulevard (352),a,Satchell Boulevard,76,5544378,100197352,Scarborough,38007
 43.7882706,-79.1377763,2,Ravine Park Crescent (290),a,Ravine Park Crescent,24,5543004,99001290,Scarborough,38007
-43.7882711,-79.1573659,2,Satchell Boulevard (359),a,Satchell Boulevard,76,5544378,100197359,Scarborough,38007
 43.7882788,-79.1471666,2,Lawson Road (976),a,Lawson Road,74,5542597,506915976,Scarborough,38007
 43.7882788,-79.1471666,2,Lawson Road (978),a,Lawson Road,74,5542597,506915978,Scarborough,38007
 43.7882829,-79.1365404,2,Koning Court (659),a,Koning Court,17,5543005,99001659,Scarborough,38007
-43.7882927,-79.1575889,2,Satchell Boulevard (353),a,Satchell Boulevard,76,5544378,100197353,Scarborough,38007
 43.7882943,-79.1424481,2,Tilley Drive (818),a,Tilley Drive,45,5543176,611551818,Scarborough,38007
-43.7882979,-79.1475247,2,Brumwell Street (939),a,Brumwell Street,12,5544374,611539939,Scarborough,38007
 43.7882984,-79.1424306,2,Tilley Drive (819),a,Tilley Drive,45,5543176,611551819,Scarborough,38007
-43.7882985,-79.1573899,2,Satchell Boulevard (358),a,Satchell Boulevard,76,5544378,100197358,Scarborough,38007
 43.7883077,-79.1266527,2,Greybeaver Trail (460),a,Greybeaver Trail,25,5542983,98989460,Scarborough,38007
-43.7883101,-79.1575511,2,Satchell Boulevard (354),a,Satchell Boulevard,76,5544378,100197354,Scarborough,38007
-43.7883171,-79.1574266,2,Satchell Boulevard (357),a,Satchell Boulevard,76,5544378,100197357,Scarborough,38007
 43.7883193,-79.1231538,2,Lawrence Avenue East (779),a,Lawrence Avenue East,964,5542369,95788779,Scarborough,38007
-43.7883208,-79.1475343,2,Brumwell Street (940),a,Brumwell Street,12,5544374,611539940,Scarborough,38007
 43.7883208,-79.1383132,2,Pendermere Parkway (887),a,Pendermere Parkway,13,5543007,526616887,Scarborough,38007
 43.7883263,-79.1376905,2,Ravine Park Crescent (289),a,Ravine Park Crescent,24,5543004,99001289,Scarborough,38007
-43.7883267,-79.1574636,2,Satchell Boulevard (356),a,Satchell Boulevard,76,5544378,100197356,Scarborough,38007
-43.7883275,-79.1575133,2,Satchell Boulevard (355),a,Satchell Boulevard,76,5544378,100197355,Scarborough,38007
 43.7883375,-79.142261,2,Tilley Drive (820),a,Tilley Drive,45,5543176,611551820,Scarborough,38007
 43.7883636,-79.142148,2,Tilley Drive (821),a,Tilley Drive,45,5543176,611551821,Scarborough,38007
 43.7883775,-79.1231046,2,Lawrence Avenue East (780),a,Lawrence Avenue East,964,5542369,95788780,Scarborough,38007
@@ -2085,7 +1453,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7892363,-79.1427974,2,Lawson Road (751),a,Lawson Road,74,5542597,611551751,Scarborough,38007
 43.7892382,-79.1232311,2,Milldock Drive (818),a,Milldock Drive,24,5543056,99054818,Scarborough,38007
 43.7892403,-79.1279125,2,Bornholm Drive (877),a,Bornholm Drive,18,5542981,311326877,Scarborough,38007
-43.7892609,-79.1515345,2,Centennial Road (945),a,Centennial Road,41,5542383,611539945,Scarborough,38007
 43.7892724,-79.1426332,2,Lawson Road (752),a,Lawson Road,74,5542597,611551752,Scarborough,38007
 43.7892805,-79.138978,2,Pendermere Parkway (131),a,Pendermere Parkway,13,5543007,99002131,Scarborough,38007
 43.7892873,-79.1425653,2,Lawson Road (753),a,Lawson Road,74,5542597,611551753,Scarborough,38007
@@ -2182,11 +1549,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7900116,-79.1392011,2,Pendermere Parkway (135),a,Pendermere Parkway,13,5543007,99002135,Scarborough,38007
 43.790012,-79.1219797,2,Rouge Hills Drive (632),a,Rouge Hills Drive,49,5542370,304792632,Scarborough,38007
 43.7900147,-79.1274534,2,Starspray Boulevard (133),a,Starspray Boulevard,30,5542399,97329133,Scarborough,38007
-43.790016,-79.1470207,2,Linderwood Drive (937),a,Linderwood Drive,13,5544375,611539937,Scarborough,38007
 43.7900302,-79.1244983,2,Milldock Drive (825),a,Milldock Drive,24,5543056,99054825,Scarborough,38007
 43.7900448,-79.1286944,2,Bornholm Drive (879),a,Bornholm Drive,18,5542981,311326879,Scarborough,38007
 43.7900631,-79.1410564,2,Port Union Road (839),a,Port Union Road,105,5542371,611551839,Scarborough,38007
-43.7900654,-79.1552973,2,Cedarview Drive (295),a,Cedarview Drive,8,5544382,100198295,Scarborough,38007
 43.7901098,-79.1377199,2,Tudor Glen Crescent (908),a,Tudor Glen Crescent,14,5542973,611551908,Scarborough,38007
 43.7901139,-79.1275564,2,Starspray Boulevard (134),a,Starspray Boulevard,30,5542399,97329134,Scarborough,38007
 43.7901331,-79.1331539,2,Ridgewood Road (939),a,Ridgewood Road,19,5542980,98986939,Scarborough,38007
@@ -2198,87 +1563,48 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7901788,-79.1394595,2,Pendermere Parkway (737),a,Pendermere Parkway,13,5543007,611551737,Scarborough,38007
 43.7901882,-79.1295476,2,Friendship Avenue (366),a,Friendship Avenue,47,5542412,97437366,Scarborough,38007
 43.7902032,-79.137708,2,Tudor Glen Crescent (907),a,Tudor Glen Crescent,14,5542973,611551907,Scarborough,38007
-43.7902093,-79.1553509,2,Cedarview Drive (296),a,Cedarview Drive,8,5544382,100198296,Scarborough,38007
 43.7902101,-79.1395174,2,Fanfare Avenue (334),a,Fanfare Avenue,31,5542402,97367334,Scarborough,38007
 43.7902101,-79.1395174,2,Pendermere Parkway (137),a,Pendermere Parkway,13,5543007,99002137,Scarborough,38007
 43.7902161,-79.125082,2,Milldock Drive (828),a,Milldock Drive,24,5543056,99054828,Scarborough,38007
 43.7902247,-79.1251398,2,Milldock Drive (830),a,Milldock Drive,24,5543056,99054830,Scarborough,38007
-43.7902257,-79.153515,2,Closson Drive (413),a,Closson Drive,14,5544383,100198413,Scarborough,38007
 43.7902319,-79.1276481,2,Starspray Boulevard (135),a,Starspray Boulevard,30,5542399,97329135,Scarborough,38007
 43.7902391,-79.1289057,2,Friendship Avenue (370),a,Friendship Avenue,47,5542412,97437370,Scarborough,38007
 43.7902461,-79.1288729,2,Friendship Avenue (230),a,Friendship Avenue,47,5542412,611540230,Scarborough,38007
 43.7902471,-79.1430549,2,Kilsyth Drive (673),a,Kilsyth Drive,15,5542971,98981673,Scarborough,38007
 43.7902501,-79.1429101,2,Kilsyth Drive (674),a,Kilsyth Drive,15,5542971,98981674,Scarborough,38007
 43.7902509,-79.1376209,2,Tudor Glen Crescent (906),a,Tudor Glen Crescent,14,5542973,611551906,Scarborough,38007
-43.7902568,-79.1553807,2,Evenwood Avenue (799),a,Evenwood Avenue,16,5544379,100197799,Scarborough,38007
-43.7902568,-79.1553807,2,Cedarview Drive (297),a,Cedarview Drive,8,5544382,100198297,Scarborough,38007
-43.7902568,-79.1553807,2,Cedarview Drive (298),a,Cedarview Drive,8,5544382,100198298,Scarborough,38007
 43.7902637,-79.1287901,2,Friendship Avenue (371),a,Friendship Avenue,47,5542412,97437371,Scarborough,38007
 43.7902637,-79.1287901,2,Bornholm Drive (172),a,Bornholm Drive,18,5542981,98988172,Scarborough,38007
 43.7902711,-79.1425615,2,Kilsyth Drive (675),a,Kilsyth Drive,15,5542971,98981675,Scarborough,38007
-43.7902983,-79.1535501,2,Closson Drive (414),a,Closson Drive,14,5544383,100198414,Scarborough,38007
 43.790309,-79.1431236,2,Kilsyth Drive (672),a,Kilsyth Drive,15,5542971,98981672,Scarborough,38007
-43.7903253,-79.1535492,2,Closson Drive (415),a,Closson Drive,14,5544383,100198415,Scarborough,38007
-43.7903523,-79.1535484,2,Evenwood Avenue (804),a,Evenwood Avenue,16,5544379,100197804,Scarborough,38007
-43.7903523,-79.1535484,2,Evenwood Avenue (810),a,Evenwood Avenue,16,5544379,100197810,Scarborough,38007
-43.7903523,-79.1535484,2,Closson Drive (416),a,Closson Drive,14,5544383,100198416,Scarborough,38007
 43.7903549,-79.1368687,2,Rouge Highlands Drive (884),a,Rouge Highlands Drive,28,5542972,611551884,Scarborough,38007
 43.7903549,-79.1368687,2,Tudor Glen Crescent (905),a,Tudor Glen Crescent,14,5542973,611551905,Scarborough,38007
 43.790358,-79.1421683,2,Kilsyth Drive (758),a,Kilsyth Drive,15,5542971,417293758,Scarborough,38007
 43.7903601,-79.1368429,2,Tudor Glen Crescent (904),a,Tudor Glen Crescent,14,5542973,611551904,Scarborough,38007
 43.7903746,-79.1277166,2,Starspray Boulevard (136),a,Starspray Boulevard,30,5542399,97329136,Scarborough,38007
-43.7903791,-79.1535351,2,Evenwood Avenue (805),a,Evenwood Avenue,16,5544379,100197805,Scarborough,38007
-43.7903848,-79.1554192,2,Cedarview Drive (299),a,Cedarview Drive,8,5544382,100198299,Scarborough,38007
-43.7903949,-79.1483891,2,Brumwell Street (967),a,Brumwell Street,12,5544374,100195967,Scarborough,38007
-43.7903949,-79.1483891,2,Brumwell Street (968),a,Brumwell Street,12,5544374,100195968,Scarborough,38007
-43.7903949,-79.1483891,2,Yulewood Gate (318),a,Yulewood Gate,3,5544377,100196318,Scarborough,38007
-43.7903967,-79.1535097,2,Evenwood Avenue (806),a,Evenwood Avenue,16,5544379,100197806,Scarborough,38007
-43.7903979,-79.1535843,2,Evenwood Avenue (811),a,Evenwood Avenue,16,5544379,100197811,Scarborough,38007
 43.7904034,-79.1419637,2,Kilsyth Drive (759),a,Kilsyth Drive,15,5542971,417293759,Scarborough,38007
-43.7904077,-79.1483316,2,Yulewood Gate (319),a,Yulewood Gate,3,5544377,100196319,Scarborough,38007
-43.7904197,-79.1503526,2,St. Magnus Drive (169),a,St. Magnus Drive,7,5544367,611540169,Scarborough,38007
-43.7904225,-79.1534344,2,Evenwood Avenue (807),a,Evenwood Avenue,16,5544379,100197807,Scarborough,38007
 43.7904233,-79.1416149,2,Kilsyth Drive (677),a,Kilsyth Drive,15,5542971,98981677,Scarborough,38007
 43.7904296,-79.1264136,2,Milldock Drive (832),a,Milldock Drive,24,5543056,99054832,Scarborough,38007
-43.7904347,-79.1536329,2,Evenwood Avenue (812),a,Evenwood Avenue,16,5544379,100197812,Scarborough,38007
 43.7904352,-79.1417885,2,Kilsyth Drive (676),a,Kilsyth Drive,15,5542971,98981676,Scarborough,38007
 43.7904353,-79.1369033,2,Rouge Highlands Drive (883),a,Rouge Highlands Drive,28,5542972,611551883,Scarborough,38007
 43.7904516,-79.1265497,2,Milldock Drive (834),a,Milldock Drive,24,5543056,99054834,Scarborough,38007
-43.7904565,-79.153309,2,Evenwood Avenue (808),a,Evenwood Avenue,16,5544379,100197808,Scarborough,38007
 43.7904744,-79.127902,2,Friendship Avenue (505),a,Friendship Avenue,47,5542412,395320505,Scarborough,38007
-43.7904815,-79.1537433,2,Evenwood Avenue (813),a,Evenwood Avenue,16,5544379,100197813,Scarborough,38007
 43.7904832,-79.1278651,2,Friendship Avenue (372),a,Friendship Avenue,47,5542412,97437372,Scarborough,38007
 43.7904865,-79.1391722,2,Fanfare Avenue (897),a,Fanfare Avenue,31,5542402,611551897,Scarborough,38007
-43.7904979,-79.1503854,2,St. Magnus Drive (008),a,St. Magnus Drive,7,5544367,100194008,Scarborough,38007
 43.7905037,-79.1412346,2,Port Union Road (840),a,Port Union Road,105,5542371,611551840,Scarborough,38007
 43.7905047,-79.1277576,2,Starspray Boulevard (137),a,Starspray Boulevard,30,5542399,97329137,Scarborough,38007
 43.7905047,-79.1277576,2,Friendship Avenue (373),a,Friendship Avenue,47,5542412,97437373,Scarborough,38007
-43.7905098,-79.1537889,2,Evenwood Avenue (803),a,Evenwood Avenue,16,5544379,100197803,Scarborough,38007
-43.7905098,-79.1537889,2,Evenwood Avenue (814),a,Evenwood Avenue,16,5544379,100197814,Scarborough,38007
-43.7905098,-79.1537889,2,Newmains Court (187),a,Newmains Court,3,5544381,100198187,Scarborough,38007
-43.7905413,-79.1538685,2,Evenwood Avenue (802),a,Evenwood Avenue,16,5544379,100197802,Scarborough,38007
 43.7905431,-79.1391017,2,Fanfare Avenue (896),a,Fanfare Avenue,31,5542402,611551896,Scarborough,38007
-43.7905515,-79.1539427,2,Evenwood Avenue (801),a,Evenwood Avenue,16,5544379,100197801,Scarborough,38007
-43.7905529,-79.1540297,2,Evenwood Avenue (800),a,Evenwood Avenue,16,5544379,100197800,Scarborough,38007
 43.7905612,-79.139079,2,Fanfare Avenue (333),a,Fanfare Avenue,31,5542402,97367333,Scarborough,38007
 43.7905612,-79.139079,2,Josaly Drive (408),a,Josaly Drive,14,5542974,98984408,Scarborough,38007
 43.7905616,-79.1266711,2,Milldock Drive (836),a,Milldock Drive,24,5543056,99054836,Scarborough,38007
 43.7905633,-79.1359253,2,Tudor Glen Crescent (903),a,Tudor Glen Crescent,14,5542973,611551903,Scarborough,38007
-43.7905636,-79.1504845,2,St. Magnus Drive (170),a,St. Magnus Drive,7,5544367,611540170,Scarborough,38007
 43.7905688,-79.1358891,2,Tudor Glen Crescent (902),a,Tudor Glen Crescent,14,5542973,611551902,Scarborough,38007
 43.7905975,-79.135763,2,East Avenue (886),a,East Avenue,62,5542400,611551886,Scarborough,38007
 43.7905975,-79.135763,2,Tudor Glen Crescent (901),a,Tudor Glen Crescent,14,5542973,611551901,Scarborough,38007
-43.7905984,-79.150537,2,St. Magnus Drive (009),a,St. Magnus Drive,7,5544367,100194009,Scarborough,38007
 43.7906033,-79.127765,2,Starspray Boulevard (138),a,Starspray Boulevard,30,5542399,97329138,Scarborough,38007
 43.7906239,-79.1391718,2,Josaly Drive (851),a,Josaly Drive,14,5542974,611551851,Scarborough,38007
-43.7906383,-79.1473003,2,Linderwood Drive (065),a,Linderwood Drive,13,5544375,100196065,Scarborough,38007
-43.7906383,-79.1473003,2,Linderwood Drive (074),a,Linderwood Drive,13,5544375,100196074,Scarborough,38007
-43.7906383,-79.1473003,2,Yulewood Gate (320),a,Yulewood Gate,3,5544377,100196320,Scarborough,38007
-43.7906465,-79.1521188,2,Centennial Road (944),a,Centennial Road,41,5542383,611539944,Scarborough,38007
 43.79068,-79.1370049,2,Rouge Highlands Drive (882),a,Rouge Highlands Drive,28,5542972,611551882,Scarborough,38007
-43.7907088,-79.1521476,2,Centennial Road (943),a,Centennial Road,41,5542383,611539943,Scarborough,38007
-43.7907088,-79.1521476,2,Evenwood Avenue (941),a,Evenwood Avenue,16,5544379,611539941,Scarborough,38007
-43.7907167,-79.1473326,2,Linderwood Drive (066),a,Linderwood Drive,13,5544375,100196066,Scarborough,38007
 43.7907271,-79.1233606,2,Rouge Hills Drive (077),a,Rouge Hills Drive,49,5542370,95809077,Scarborough,38007
 43.7907629,-79.1277935,2,Starspray Boulevard (139),a,Starspray Boulevard,30,5542399,97329139,Scarborough,38007
 43.7908051,-79.1370623,2,Rouge Highlands Drive (881),a,Rouge Highlands Drive,28,5542972,611551881,Scarborough,38007
@@ -2294,7 +1620,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7908853,-79.1402139,2,Josaly Drive (414),a,Josaly Drive,14,5542974,98984414,Scarborough,38007
 43.790891,-79.1386107,2,Fanfare Avenue (331),a,Fanfare Avenue,31,5542402,97367331,Scarborough,38007
 43.7908919,-79.1277728,2,Starspray Boulevard (140),a,Starspray Boulevard,30,5542399,97329140,Scarborough,38007
-43.7908947,-79.1539325,2,Newmains Court (188),a,Newmains Court,3,5544381,100198188,Scarborough,38007
 43.7909015,-79.1401259,2,Josaly Drive (854),a,Josaly Drive,14,5542974,611551854,Scarborough,38007
 43.7909162,-79.1396131,2,Josaly Drive (410),a,Josaly Drive,14,5542974,98984410,Scarborough,38007
 43.7909246,-79.1305074,2,Birdsilver Gardens (683),a,Birdsilver Gardens,10,5542986,98990683,Scarborough,38007
@@ -2313,7 +1638,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7911276,-79.1377196,2,Fanfare Avenue (328),a,Fanfare Avenue,31,5542402,97367328,Scarborough,38007
 43.7911392,-79.1289724,2,Bowes Garden Court (823),a,Bowes Garden Court,10,5542984,98989823,Scarborough,38007
 43.7911427,-79.1420951,2,Cameron Glen Boulevard (256),a,Cameron Glen Boulevard,4,5543062,99062256,Scarborough,38007
-43.791147,-79.1539902,2,Newmains Court (189),a,Newmains Court,3,5544381,100198189,Scarborough,38007
 43.7911579,-79.1326351,2,Blueking Crescent (224),a,Blueking Crescent,22,5542982,611540224,Scarborough,38007
 43.7911613,-79.1419301,2,Cameron Glen Boulevard (255),a,Cameron Glen Boulevard,4,5543062,99062255,Scarborough,38007
 43.7911641,-79.1269273,2,Milldock Drive (839),a,Milldock Drive,24,5543056,99054839,Scarborough,38007
@@ -2356,8 +1680,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7915384,-79.1313655,2,Friendship Avenue (358),a,Friendship Avenue,47,5542412,97437358,Scarborough,38007
 43.791542,-79.1382398,2,Rouge Highlands Drive (548),a,Rouge Highlands Drive,28,5542972,98983548,Scarborough,38007
 43.7915561,-79.1435613,2,Kilsyth Drive (666),a,Kilsyth Drive,15,5542971,98981666,Scarborough,38007
-43.7915593,-79.1524854,2,Centennial Road (942),a,Centennial Road,41,5542383,611539942,Scarborough,38007
-43.7915629,-79.1476818,2,Linderwood Drive (067),a,Linderwood Drive,13,5544375,100196067,Scarborough,38007
 43.7915803,-79.1405911,2,Josaly Drive (856),a,Josaly Drive,14,5542974,611551856,Scarborough,38007
 43.7915838,-79.131509,2,Blueking Crescent (227),a,Blueking Crescent,22,5542982,611540227,Scarborough,38007
 43.791604,-79.1314,2,Friendship Avenue (356),a,Friendship Avenue,47,5542412,97437356,Scarborough,38007
@@ -2367,14 +1689,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7916387,-79.1435365,2,Rozell Road (808),a,Rozell Road,6,5544785,100369808,Scarborough,38007
 43.7916472,-79.1407791,2,Josaly Drive (418),a,Josaly Drive,14,5542974,98984418,Scarborough,38007
 43.7916472,-79.1406675,2,Josaly Drive (417),a,Josaly Drive,14,5542974,98984417,Scarborough,38007
-43.791655,-79.1489219,2,Brumwell Street (969),a,Brumwell Street,12,5544374,100195969,Scarborough,38007
 43.7916612,-79.1434297,2,Rozell Road (849),a,Rozell Road,6,5544785,611551849,Scarborough,38007
 43.7916798,-79.1314319,2,Friendship Avenue (355),a,Friendship Avenue,47,5542412,97437355,Scarborough,38007
 43.7916969,-79.1383857,2,Rouge Highlands Drive (547),a,Rouge Highlands Drive,28,5542972,98983547,Scarborough,38007
 43.7917239,-79.143532,2,Andona Crescent (859),a,Andona Crescent,47,5544373,611551859,Scarborough,38007
-43.7917347,-79.1477263,2,Linderwood Drive (068),a,Linderwood Drive,13,5544375,100196068,Scarborough,38007
 43.7917509,-79.1435428,2,Andona Crescent (482),a,Andona Crescent,47,5544373,482550482,Scarborough,38007
-43.7918339,-79.1526055,2,Centennial Road (459),a,Centennial Road,41,5542383,96292459,Scarborough,38007
 43.7918512,-79.1243969,2,Rouge Hills Drive (088),a,Rouge Hills Drive,49,5542370,95809088,Scarborough,38007
 43.7918828,-79.1291332,2,Bowes Garden Court (825),a,Bowes Garden Court,10,5542984,98989825,Scarborough,38007
 43.7918828,-79.1291332,2,Bowes Garden Court (826),a,Bowes Garden Court,10,5542984,98989826,Scarborough,38007
@@ -2395,7 +1714,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7920067,-79.13418,2,Jaybell Grove (823),a,Jaybell Grove,9,5542987,98990823,Scarborough,38007
 43.7920115,-79.1418461,2,Port Union Road (624),a,Port Union Road,105,5542371,95851624,Scarborough,38007
 43.7920115,-79.1418461,2,Rozell Road (811),a,Rozell Road,6,5544785,100369811,Scarborough,38007
-43.7920211,-79.1478476,2,Linderwood Drive (922),a,Linderwood Drive,13,5544375,611539922,Scarborough,38007
 43.7920242,-79.1362451,2,Ridgewood Road (937),a,Ridgewood Road,19,5542980,98986937,Scarborough,38007
 43.7920286,-79.1360707,2,Ridgewood Road (723),a,Ridgewood Road,19,5542980,362080723,Scarborough,38007
 43.7920372,-79.1245217,2,Rouge Hills Drive (090),a,Rouge Hills Drive,49,5542370,95809090,Scarborough,38007
@@ -2408,7 +1726,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7921223,-79.137349,2,Fanfare Avenue (315),a,Fanfare Avenue,31,5542402,97367315,Scarborough,38007
 43.7921223,-79.137349,2,Fanfare Avenue (326),a,Fanfare Avenue,31,5542402,97367326,Scarborough,38007
 43.7921223,-79.137349,2,Decimal Place (597),a,Decimal Place,8,5542979,98985597,Scarborough,38007
-43.7921764,-79.1479283,2,Linderwood Drive (923),a,Linderwood Drive,13,5544375,611539923,Scarborough,38007
 43.7921941,-79.1374458,2,Decimal Place (876),a,Decimal Place,8,5542979,611551876,Scarborough,38007
 43.7922157,-79.1372336,2,Fanfare Avenue (893),a,Fanfare Avenue,31,5542402,611551893,Scarborough,38007
 43.7922388,-79.1246909,2,Rouge Hills Drive (092),a,Rouge Hills Drive,49,5542370,95809092,Scarborough,38007
@@ -2421,19 +1738,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.792353,-79.1437877,2,Andona Crescent (860),a,Andona Crescent,47,5544373,611551860,Scarborough,38007
 43.7923583,-79.1366199,2,Fanfare Avenue (891),a,Fanfare Avenue,31,5542402,611551891,Scarborough,38007
 43.7923662,-79.1365838,2,Fanfare Avenue (890),a,Fanfare Avenue,31,5542402,611551890,Scarborough,38007
-43.7923712,-79.149223,2,Brumwell Street (970),a,Brumwell Street,12,5544374,100195970,Scarborough,38007
-43.7923712,-79.149223,2,Brumwell Street (971),a,Brumwell Street,12,5544374,100195971,Scarborough,38007
-43.7923712,-79.149223,2,Karina Road (175),a,Karina Road,3,5544376,100196175,Scarborough,38007
 43.792381,-79.136502,2,East Avenue (887),a,East Avenue,62,5542400,611551887,Scarborough,38007
 43.792381,-79.136502,2,Fanfare Avenue (889),a,Fanfare Avenue,31,5542402,611551889,Scarborough,38007
 43.7923827,-79.1436464,2,Andona Crescent (483),a,Andona Crescent,47,5544373,482550483,Scarborough,38007
-43.7923864,-79.1491499,2,Karina Road (176),a,Karina Road,3,5544376,100196176,Scarborough,38007
 43.7923934,-79.12656,2,Starspray Boulevard (145),a,Starspray Boulevard,30,5542399,97329145,Scarborough,38007
 43.7924029,-79.1317361,2,Friendship Avenue (354),a,Friendship Avenue,47,5542412,97437354,Scarborough,38007
 43.7924029,-79.1317361,2,Jaybell Grove (815),a,Jaybell Grove,9,5542987,98990815,Scarborough,38007
 43.7924094,-79.1293564,2,Bowes Garden Court (827),a,Bowes Garden Court,10,5542984,98989827,Scarborough,38007
 43.7924249,-79.1248784,2,West Point Avenue (772),a,West Point Avenue,8,5543054,99052772,Scarborough,38007
-43.7924319,-79.1511251,2,Laura Ellis Court (890),a,Laura Ellis Court,6,5544849,100389890,Scarborough,38007
 43.7924743,-79.1250858,2,Rouge Hills Drive (096),a,Rouge Hills Drive,49,5542370,95809096,Scarborough,38007
 43.7924898,-79.1431165,2,Andona Crescent (904),a,Andona Crescent,47,5544373,100195904,Scarborough,38007
 43.7924938,-79.1248822,2,West Point Avenue (773),a,West Point Avenue,8,5543054,99052773,Scarborough,38007
@@ -2444,21 +1756,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7925291,-79.1438657,2,Andona Crescent (052),a,Andona Crescent,47,5544373,506916052,Scarborough,38007
 43.7925355,-79.1409687,2,Calderstone Crescent (111),a,Calderstone Crescent,16,5542976,98985111,Scarborough,38007
 43.7925395,-79.1410293,2,Calderstone Crescent (110),a,Calderstone Crescent,16,5542976,98985110,Scarborough,38007
-43.7925498,-79.1511092,2,Laura Ellis Court (891),a,Laura Ellis Court,6,5544849,100389891,Scarborough,38007
 43.7925602,-79.1438842,2,Andona Crescent (051),a,Andona Crescent,47,5544373,506916051,Scarborough,38007
 43.7925745,-79.1438956,2,Andona Crescent (053),a,Andona Crescent,47,5544373,506916053,Scarborough,38007
 43.7925953,-79.129322,2,Bowes Garden Court (829),a,Bowes Garden Court,10,5542984,98989829,Scarborough,38007
-43.7925986,-79.1481185,2,Linderwood Drive (924),a,Linderwood Drive,13,5544375,611539924,Scarborough,38007
-43.7925986,-79.1481185,2,Linderwood Drive (930),a,Linderwood Drive,13,5544375,611539930,Scarborough,38007
-43.7925986,-79.1481185,2,Karina Road (935),a,Karina Road,3,5544376,611539935,Scarborough,38007
 43.7926077,-79.141098,2,Calderstone Crescent (109),a,Calderstone Crescent,16,5542976,98985109,Scarborough,38007
-43.7926154,-79.1510364,2,Laura Ellis Court (892),a,Laura Ellis Court,6,5544849,100389892,Scarborough,38007
 43.7926478,-79.1426107,2,Andona Crescent (906),a,Andona Crescent,47,5544373,100195906,Scarborough,38007
-43.7926676,-79.1509579,2,Laura Ellis Court (893),a,Laura Ellis Court,6,5544849,100389893,Scarborough,38007
 43.7926715,-79.1425618,2,Andona Crescent (907),a,Andona Crescent,47,5544373,100195907,Scarborough,38007
 43.7926715,-79.1425618,2,Andona Crescent (869),a,Andona Crescent,47,5544373,611551869,Scarborough,38007
-43.7926776,-79.1481434,2,Linderwood Drive (931),a,Linderwood Drive,13,5544375,611539931,Scarborough,38007
-43.7927062,-79.1508614,2,Laura Ellis Court (894),a,Laura Ellis Court,6,5544849,100389894,Scarborough,38007
 43.792713,-79.1352272,2,Jaybell Grove (826),a,Jaybell Grove,9,5542987,98990826,Scarborough,38007
 43.7927249,-79.1421346,2,Port Union Road (626),a,Port Union Road,105,5542371,95851626,Scarborough,38007
 43.7927254,-79.1400509,2,Calderstone Crescent (113),a,Calderstone Crescent,16,5542976,98985113,Scarborough,38007
@@ -2484,15 +1788,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.792998,-79.1289615,2,Bowes Garden Court (831),a,Bowes Garden Court,10,5542984,98989831,Scarborough,38007
 43.792998,-79.1289615,2,Clearlake Avenue (105),a,Clearlake Avenue,8,5542985,98990105,Scarborough,38007
 43.793,-79.1261329,2,Rouge Hills Drive (104),a,Rouge Hills Drive,49,5542370,95809104,Scarborough,38007
-43.7930006,-79.1494968,2,Brumwell Street (932),a,Brumwell Street,12,5544374,611539932,Scarborough,38007
-43.7930006,-79.1494968,2,Laura Ellis Court (936),a,Laura Ellis Court,6,5544849,611539936,Scarborough,38007
 43.79304,-79.141299,2,Calderstone Crescent (108),a,Calderstone Crescent,16,5542976,98985108,Scarborough,38007
 43.7930638,-79.1354949,2,Jaybell Grove (830),a,Jaybell Grove,9,5542987,98990830,Scarborough,38007
 43.7930667,-79.1426155,2,Andona Crescent (937),a,Andona Crescent,47,5544373,100195937,Scarborough,38007
 43.7930704,-79.1414987,2,Dear Gate (865),a,Dear Gate,6,24895645,611551865,Scarborough,38007
 43.7930778,-79.144336,2,Andona Crescent (054),a,Andona Crescent,47,5544373,506916054,Scarborough,38007
 43.7930778,-79.144336,2,Andona Crescent (058),a,Andona Crescent,47,5544373,506916058,Scarborough,38007
-43.7930789,-79.1495327,2,Brumwell Street (933),a,Brumwell Street,12,5544374,611539933,Scarborough,38007
 43.7930797,-79.1414586,2,Dear Gate (864),a,Dear Gate,6,24895645,611551864,Scarborough,38007
 43.7930843,-79.1426265,2,Andona Crescent (938),a,Andona Crescent,47,5544373,100195938,Scarborough,38007
 43.7930981,-79.1341004,2,Flagstone Terrace (135),a,Flagstone Terrace,13,5542988,98991135,Scarborough,38007
@@ -2502,7 +1803,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7931114,-79.1430113,2,Andona Crescent (926),a,Andona Crescent,47,5544373,100195926,Scarborough,38007
 43.7931154,-79.1426597,2,Andona Crescent (939),a,Andona Crescent,47,5544373,100195939,Scarborough,38007
 43.7931161,-79.1431303,2,Andona Crescent (928),a,Andona Crescent,47,5544373,100195928,Scarborough,38007
-43.7931272,-79.1483296,2,Linderwood Drive (063),a,Linderwood Drive,13,5544375,100196063,Scarborough,38007
 43.7931493,-79.142844,2,Andona Crescent (925),a,Andona Crescent,47,5544373,100195925,Scarborough,38007
 43.7931497,-79.1432054,2,Andona Crescent (929),a,Andona Crescent,47,5544373,100195929,Scarborough,38007
 43.7931516,-79.1427723,2,Andona Crescent (188),a,Andona Crescent,47,5544373,611540188,Scarborough,38007
@@ -2519,16 +1819,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7932717,-79.1308623,2,Birdsilver Gardens (687),a,Birdsilver Gardens,10,5542986,98990687,Scarborough,38007
 43.7933306,-79.130887,2,Clearlake Avenue (114),a,Clearlake Avenue,8,5542985,98990114,Scarborough,38007
 43.7933306,-79.130887,2,Birdsilver Gardens (688),a,Birdsilver Gardens,10,5542986,98990688,Scarborough,38007
-43.7933695,-79.1496381,2,Brumwell Street (934),a,Brumwell Street,12,5544374,611539934,Scarborough,38007
 43.7933901,-79.1434169,2,Andona Crescent (931),a,Andona Crescent,47,5544373,100195931,Scarborough,38007
-43.79343,-79.1484909,2,Linderwood Drive (064),a,Linderwood Drive,13,5544375,100196064,Scarborough,38007
 43.7934317,-79.134386,2,Flagstone Terrace (133),a,Flagstone Terrace,13,5542988,98991133,Scarborough,38007
 43.7934604,-79.1391297,2,Rouge Highlands Drive (878),a,Rouge Highlands Drive,28,5542972,611551878,Scarborough,38007
 43.7934604,-79.1391297,2,Decimal Place (871),a,Decimal Place,8,5542979,611551871,Scarborough,38007
 43.7934689,-79.1300344,2,Clearlake Avenue (108),a,Clearlake Avenue,8,5542985,98990108,Scarborough,38007
 43.7934842,-79.1446837,2,Andona Crescent (862),a,Andona Crescent,47,5544373,611551862,Scarborough,38007
 43.7934844,-79.1390107,2,Decimal Place (872),a,Decimal Place,8,5542979,611551872,Scarborough,38007
-43.7935059,-79.1496925,2,Brumwell Street (973),a,Brumwell Street,12,5544374,100195973,Scarborough,38007
 43.7935114,-79.1301466,2,Clearlake Avenue (110),a,Clearlake Avenue,8,5542985,98990110,Scarborough,38007
 43.793514,-79.1302624,2,Clearlake Avenue (112),a,Clearlake Avenue,8,5542985,98990112,Scarborough,38007
 43.7935965,-79.1380754,2,Decimal Place (874),a,Decimal Place,8,5542979,611551874,Scarborough,38007

@@ -39,7 +39,7 @@ def load_settings(path: Path) -> dict:
     defaults = {
         "map_style": "open-street-map",
         "heat_map_max_length": 1.0,
-        "heat_map_exclude_csnodes": False,
+        "heat_map_exclude_csnodes": True,
     }
     if not path.exists():
         print(f"ℹ {path.name} not found; using heat-map defaults")

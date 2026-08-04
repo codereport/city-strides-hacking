@@ -1,0 +1,11 @@
+{
+  "city": "old_toronto",
+  "city_id": "38121",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-08-04T17:11:05.011513+00:00",
+  "node_count": 32,
+  "schema_version": 1,
+  "sha256": "988c4977f0136c0066e9ec9721b14a2967a7aef2e260e91e56693e492c5536f7",
+  "source_city": "Old Toronto",
+  "street_count": 15
+}

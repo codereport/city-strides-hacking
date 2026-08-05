@@ -1,0 +1,11 @@
+{
+  "city": "gananoque",
+  "city_id": "132393",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-08-05T16:45:17.523032+00:00",
+  "node_count": 1027,
+  "schema_version": 1,
+  "sha256": "927129b248198955a36fd6841f15619cab24a957082b8ab8f12979fc7a8ec85b",
+  "source_city": "Gananoque",
+  "street_count": 95
+}

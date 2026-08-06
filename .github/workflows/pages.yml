@@ -28,7 +28,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       # This repository contains gigabytes of route-planning data, while the
       # published site contains only the run indexes and route-map folders. A
@@ -63,7 +63,7 @@ jobs:
         continue-on-error: true
         env:
           API_URL: ${{ github.api_url }}
-          STALE_DEPLOYMENT_ID: 594b9d4383300905fe0f6dec1db8c99a0e5df70b
+          STALE_DEPLOYMENT_ID: 39ee27b7f91f51b12db0946aeb20b0d603fee880
           TOKEN: ${{ github.token }}
         run: |
           curl --fail-with-body --request POST \

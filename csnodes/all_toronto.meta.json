@@ -2,10 +2,10 @@
   "city": "all_toronto",
   "city_id": "131268",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-08-05T15:36:50.859830+00:00",
-  "node_count": 16614,
+  "generated_at": "2026-08-06T17:38:36.002286+00:00",
+  "node_count": 15650,
   "schema_version": 1,
-  "sha256": "5f4c7426dce958f80d5a99163e91cb23cbb502a81ab63eba4300c8bcb849292c",
+  "sha256": "c1f35cdcf9cb2114a5b6b23f1da199c27c1973954c18b1d88fae58ba3ed8a813",
   "source_city": "All Toronto",
-  "street_count": 647
+  "street_count": 611
 }

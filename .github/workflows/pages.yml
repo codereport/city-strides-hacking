@@ -57,21 +57,6 @@ jobs:
         with:
           path: _site
 
-      # A cancelled deployment for this revision remained active in the Pages
-      # backend and blocks all newer revisions. Remove this step after it clears.
-      - name: Cancel stale Pages deployment
-        continue-on-error: true
-        env:
-          API_URL: ${{ github.api_url }}
-          STALE_DEPLOYMENT_ID: 39ee27b7f91f51b12db0946aeb20b0d603fee880
-          TOKEN: ${{ github.token }}
-        run: |
-          curl --fail-with-body --request POST \
-            --header "Authorization: Bearer $TOKEN" \
-            --header "Accept: application/vnd.github+json" \
-            --header "X-GitHub-Api-Version: 2022-11-28" \
-            "$API_URL/repos/$GITHUB_REPOSITORY/pages/deployments/$STALE_DEPLOYMENT_ID/cancel"
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

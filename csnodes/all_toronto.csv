@@ -1340,7 +1340,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6648804,-79.5602619,2,Cotman Crescent (718),a,Cotman Crescent,33,11288232,219514718,Toronto,131268
 43.6648808,-79.5588189,2,Martin Grove Road (001),a,Martin Grove Road,703,11281251,218874001,Toronto,131268
 43.6648808,-79.5588189,2,Martin Grove Road (068),a,Martin Grove Road,703,11281251,218874068,Toronto,131268
-43.6648832,-79.3464157,2,West Avenue (080),a,West Avenue,8,11279985,611429080,Toronto,131268
 43.6648846,-79.5510586,2,Lloyd Manor Road (107),a,Lloyd Manor Road,90,11288262,219515107,Toronto,131268
 43.6648846,-79.5510586,2,Firwood Crescent (224),a,Firwood Crescent,34,11288266,219515224,Toronto,131268
 43.6648846,-79.5510586,2,Firwood Crescent (235),a,Firwood Crescent,34,11288266,219515235,Toronto,131268
@@ -2509,7 +2508,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6711718,-79.5536613,2,Blackdown Crescent (975),a,Blackdown Crescent,18,11288248,219514975,Toronto,131268
 43.6711722,-79.552272,2,Farningham Crescent (891),a,Farningham Crescent,46,11288242,219514891,Toronto,131268
 43.6711756,-79.5539589,2,Blackdown Crescent (978),a,Blackdown Crescent,18,11288248,219514978,Toronto,131268
-43.6711794,-79.2911107,2,Avion Avenue (221),a,Avion Avenue,7,11283352,611439221,Toronto,131268
 43.6711912,-79.5537724,2,Blackdown Crescent (976),a,Blackdown Crescent,18,11288248,219514976,Toronto,131268
 43.6711927,-79.553884,2,Blackdown Crescent (977),a,Blackdown Crescent,18,11288248,219514977,Toronto,131268
 43.6712047,-79.5583989,2,Tromley Drive (006),a,Tromley Drive,37,11288250,219515006,Toronto,131268

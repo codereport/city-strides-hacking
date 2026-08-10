@@ -2,10 +2,10 @@
   "city": "etobicoke",
   "city_id": "38014",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-08-06T17:42:01.475902+00:00",
-  "node_count": 15221,
+  "generated_at": "2026-08-10T20:00:35.084143+00:00",
+  "node_count": 14085,
   "schema_version": 1,
-  "sha256": "664495e6507a69f0e2d70d4099689460bf09a4e454d363c2626ed73a94815bc5",
+  "sha256": "cd0cb77dc833a506e42e7a0892391199bf702388fc6ebfd19aa4365749c01a0c",
   "source_city": "Etobicoke",
-  "street_count": 581
+  "street_count": 516
 }

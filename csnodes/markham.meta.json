@@ -1,0 +1,11 @@
+{
+  "city": "markham",
+  "city_id": "37680",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-08-10T00:30:25.918871+00:00",
+  "node_count": 46817,
+  "schema_version": 1,
+  "sha256": "bc325f66dbc3d273747a124fc898e61ad6329d70fed08b9f8161a1cb15418954",
+  "source_city": "Markham",
+  "street_count": 1915
+}

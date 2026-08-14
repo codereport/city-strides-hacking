@@ -1079,43 +1079,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6741915,-79.5944487,2,Renforth Drive (248),a,Renforth Drive,327,11279308,218763248,Toronto,131268
 43.6741915,-79.5944487,2,Renforth Drive (460),a,Renforth Drive,327,11279308,218763460,Toronto,131268
 43.6742106,-79.5898603,2,Carlingview Drive (404),a,Carlingview Drive,157,11280966,218864404,Toronto,131268
-43.6743559,-79.5650626,2,Eglinton Avenue West (015),a,Eglinton Avenue West,890,11280434,611452015,Toronto,131268
-43.6743559,-79.5650626,2,Willowridge Road (012),a,Willowridge Road,57,11288276,611452012,Toronto,131268
 43.6744256,-79.5945645,2,Renforth Drive (249),a,Renforth Drive,327,11279308,218763249,Toronto,131268
-43.6744366,-79.5641165,2,Eglinton Avenue West (014),a,Eglinton Avenue West,890,11280434,611452014,Toronto,131268
-43.6745161,-79.5625473,2,Eglinton Avenue West (269),a,Eglinton Avenue West,890,11280434,218846269,Toronto,131268
-43.6745505,-79.5630958,2,Eglinton Avenue West (843),a,Eglinton Avenue West,890,11280434,218845843,Toronto,131268
-43.6745505,-79.5630958,2,Eglinton Avenue West (309),a,Eglinton Avenue West,890,11280434,218846309,Toronto,131268
-43.6745505,-79.5630958,2,Martin Grove Road (935),a,Martin Grove Road,703,11281251,218873935,Toronto,131268
-43.6745505,-79.5630958,2,Martin Grove Road (942),a,Martin Grove Road,703,11281251,218873942,Toronto,131268
-43.6745623,-79.5629966,2,Eglinton Avenue West (842),a,Eglinton Avenue West,890,11280434,218845842,Toronto,131268
-43.6746275,-79.5625739,2,Eglinton Avenue West (841),a,Eglinton Avenue West,890,11280434,218845841,Toronto,131268
-43.6746332,-79.5632985,2,Martin Grove Road (950),a,Martin Grove Road,703,11281251,218873950,Toronto,131268
 43.6746429,-79.5946361,2,Renforth Drive (250),a,Renforth Drive,327,11279308,218763250,Toronto,131268
-43.6746535,-79.56314,2,Martin Grove Road (943),a,Martin Grove Road,703,11281251,218873943,Toronto,131268
-43.6746685,-79.5655503,2,Willowridge Road (013),a,Willowridge Road,57,11288276,611452013,Toronto,131268
-43.6746685,-79.5655503,2,Willowridge Road (114),a,Willowridge Road,57,11288276,611452114,Toronto,131268
 43.6746795,-79.5900734,2,Carlingview Drive (403),a,Carlingview Drive,157,11280966,218864403,Toronto,131268
-43.6746841,-79.5618836,2,Eglinton Avenue West (840),a,Eglinton Avenue West,890,11280434,218845840,Toronto,131268
-43.6746841,-79.5618836,2,Eglinton Avenue West (270),a,Eglinton Avenue West,890,11280434,218846270,Toronto,131268
-43.6746841,-79.5618836,2,Eglinton Avenue West (359),a,Eglinton Avenue West,890,11280434,218846359,Toronto,131268
-43.674722,-79.5669231,2,Willowridge Road (119),a,Willowridge Road,57,11288276,611452119,Toronto,131268
-43.6747225,-79.5670096,2,Willowridge Road (120),a,Willowridge Road,57,11288276,611452120,Toronto,131268
-43.6747453,-79.5671162,2,Willowridge Road (121),a,Willowridge Road,57,11288276,611452121,Toronto,131268
-43.6747513,-79.5656618,2,Willowridge Road (115),a,Willowridge Road,57,11288276,611452115,Toronto,131268
-43.6747831,-79.5672,2,Willowridge Road (122),a,Willowridge Road,57,11288276,611452122,Toronto,131268
-43.6747943,-79.5657496,2,Willowridge Road (116),a,Willowridge Road,57,11288276,611452116,Toronto,131268
-43.6748101,-79.5660189,2,Willowridge Road (118),a,Willowridge Road,57,11288276,611452118,Toronto,131268
-43.674811,-79.5611765,2,Eglinton Avenue West (358),a,Eglinton Avenue West,890,11280434,218846358,Toronto,131268
-43.6748147,-79.5658683,2,Willowridge Road (117),a,Willowridge Road,57,11288276,611452117,Toronto,131268
 43.6748321,-79.5946594,2,Renforth Drive (251),a,Renforth Drive,327,11279308,218763251,Toronto,131268
 43.6749183,-79.5946619,2,Renforth Drive (252),a,Renforth Drive,327,11279308,218763252,Toronto,131268
 43.6750124,-79.5946546,2,Renforth Drive (253),a,Renforth Drive,327,11279308,218763253,Toronto,131268
-43.6750481,-79.567548,2,Willowridge Road (342),a,Willowridge Road,57,11288276,219515342,Toronto,131268
 43.6751328,-79.5635045,2,Martin Grove Road (949),a,Martin Grove Road,703,11281251,218873949,Toronto,131268
 43.6751349,-79.594634,2,Renforth Drive (254),a,Renforth Drive,327,11279308,218763254,Toronto,131268
 43.6751701,-79.5633836,2,Martin Grove Road (944),a,Martin Grove Road,703,11281251,218873944,Toronto,131268
-43.6752023,-79.5594595,2,Eglinton Avenue West (357),a,Eglinton Avenue West,890,11280434,218846357,Toronto,131268
 43.6752221,-79.5946086,2,Renforth Drive (255),a,Renforth Drive,327,11279308,218763255,Toronto,131268
 43.6752394,-79.5634797,2,Martin Grove Road (945),a,Martin Grove Road,703,11281251,218873945,Toronto,131268
 43.6752394,-79.5634797,2,Martin Grove Road (948),a,Martin Grove Road,703,11281251,218873948,Toronto,131268
@@ -1123,128 +1095,66 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6753856,-79.5945461,2,Renforth Drive (256),a,Renforth Drive,327,11279308,218763256,Toronto,131268
 43.6754113,-79.5635556,2,Martin Grove Road (304),a,Martin Grove Road,703,11281251,555158304,Toronto,131268
 43.6754113,-79.5635556,2,Martin Grove Road (332),a,Martin Grove Road,703,11281251,555158332,Toronto,131268
-43.6754594,-79.5584243,2,Eglinton Avenue West (973),a,Eglinton Avenue West,890,11280434,218845973,Toronto,131268
-43.6754594,-79.5584243,2,Eglinton Avenue West (356),a,Eglinton Avenue West,890,11280434,218846356,Toronto,131268
-43.6754755,-79.5583609,2,Eglinton Avenue West (972),a,Eglinton Avenue West,890,11280434,218845972,Toronto,131268
 43.6755295,-79.5944682,2,Renforth Drive (257),a,Renforth Drive,327,11279308,218763257,Toronto,131268
 43.6755399,-79.5636085,2,Martin Grove Road (311),a,Martin Grove Road,703,11281251,555158311,Toronto,131268
 43.6755399,-79.5636085,2,Martin Grove Road (331),a,Martin Grove Road,703,11281251,555158331,Toronto,131268
-43.6755796,-79.5579417,2,Eglinton Avenue West (971),a,Eglinton Avenue West,890,11280434,218845971,Toronto,131268
 43.6755908,-79.590491,2,Carlingview Drive (718),a,Carlingview Drive,157,11280966,318950718,Toronto,131268
 43.6757079,-79.5943277,2,Renforth Drive (258),a,Renforth Drive,327,11279308,218763258,Toronto,131268
-43.6757143,-79.5684691,2,Richgrove Drive (297),a,Richgrove Drive,12,11288274,219515297,Toronto,131268
-43.6757143,-79.5684691,2,Willowridge Road (344),a,Willowridge Road,57,11288276,219515344,Toronto,131268
-43.6757143,-79.5684691,2,Willowridge Road (385),a,Willowridge Road,57,11288276,219515385,Toronto,131268
-43.6757523,-79.5726786,2,Earldown Drive (592),a,Earldown Drive,12,11288282,611455592,Toronto,131268
-43.6757548,-79.5684129,2,Richgrove Drive (021),a,Richgrove Drive,12,11288274,611452021,Toronto,131268
-43.6757564,-79.5727579,2,Earldown Drive (593),a,Earldown Drive,12,11288282,611455593,Toronto,131268
-43.6757631,-79.5726046,2,Earldown Drive (591),a,Earldown Drive,12,11288282,611455591,Toronto,131268
 43.6757709,-79.5637161,2,Martin Grove Road (188),a,Martin Grove Road,703,11281251,218874188,Toronto,131268
 43.6757709,-79.5637161,2,Martin Grove Road (016),a,Martin Grove Road,703,11281251,611452016,Toronto,131268
-43.6757805,-79.5728194,2,Earldown Drive (594),a,Earldown Drive,12,11288282,611455594,Toronto,131268
-43.6758159,-79.572876,2,Earldown Drive (595),a,Earldown Drive,12,11288282,611455595,Toronto,131268
 43.6758474,-79.5941924,2,Renforth Drive (259),a,Renforth Drive,327,11279308,218763259,Toronto,131268
-43.675851,-79.5682751,2,Richgrove Drive (022),a,Richgrove Drive,12,11288274,611452022,Toronto,131268
-43.6758761,-79.5729175,2,Earldown Drive (596),a,Earldown Drive,12,11288282,611455596,Toronto,131268
-43.6759054,-79.5681737,2,Richgrove Drive (023),a,Richgrove Drive,12,11288274,611452023,Toronto,131268
 43.67594,-79.5940754,2,Renforth Drive (560),a,Renforth Drive,327,11279308,501831560,Toronto,131268
 43.67594,-79.5940754,2,Renforth Drive (566),a,Renforth Drive,327,11279308,501831566,Toronto,131268
-43.6759466,-79.5680409,2,Richgrove Drive (024),a,Richgrove Drive,12,11288274,611452024,Toronto,131268
-43.675971,-79.5688066,2,Willowridge Road (547),a,Willowridge Road,57,11288276,611455547,Toronto,131268
 43.6760133,-79.5939829,2,Renforth Drive (561),a,Renforth Drive,327,11279308,501831561,Toronto,131268
-43.6760666,-79.5689873,2,Willowridge Road (548),a,Willowridge Road,57,11288276,611455548,Toronto,131268
-43.6760766,-79.5712301,2,Earldown Drive (590),a,Earldown Drive,12,11288282,611455590,Toronto,131268
 43.6760982,-79.5907235,2,Carlingview Drive (717),a,Carlingview Drive,157,11280966,318950717,Toronto,131268
-43.6761074,-79.5691369,2,Willowridge Road (549),a,Willowridge Road,57,11288276,611455549,Toronto,131268
 43.6761142,-79.563876,2,Martin Grove Road (189),a,Martin Grove Road,703,11281251,218874189,Toronto,131268
 43.6761142,-79.563876,2,Martin Grove Road (017),a,Martin Grove Road,703,11281251,611452017,Toronto,131268
 43.67614,-79.5937659,2,Renforth Drive (562),a,Renforth Drive,327,11279308,501831562,Toronto,131268
-43.67614,-79.5693143,2,Willowridge Road (550),a,Willowridge Road,57,11288276,611455550,Toronto,131268
-43.6761612,-79.5708739,2,Earldown Drive (589),a,Earldown Drive,12,11288282,611455589,Toronto,131268
 43.6761832,-79.5553375,2,Eglinton Avenue West (402),a,Eglinton Avenue West,890,11280434,436332402,Toronto,131268
-43.6761905,-79.5698392,2,Willowridge Road (551),a,Willowridge Road,57,11288276,611455551,Toronto,131268
 43.6762013,-79.5907707,2,Carlingview Drive (402),a,Carlingview Drive,157,11280966,218864402,Toronto,131268
 43.6762013,-79.5907707,2,Carlingview Drive (490),a,Carlingview Drive,157,11280966,218864490,Toronto,131268
-43.6762121,-79.57005,2,Willowridge Road (552),a,Willowridge Road,57,11288276,611455552,Toronto,131268
-43.6762396,-79.5701843,2,Willowridge Road (553),a,Willowridge Road,57,11288276,611455553,Toronto,131268
 43.6762474,-79.5935125,2,Renforth Drive (563),a,Renforth Drive,327,11279308,501831563,Toronto,131268
 43.6762718,-79.5934297,2,Renforth Drive (565),a,Renforth Drive,327,11279308,501831565,Toronto,131268
-43.6762952,-79.5703057,2,Willowridge Road (554),a,Willowridge Road,57,11288276,611455554,Toronto,131268
-43.6763113,-79.5704973,2,Earldown Drive (588),a,Earldown Drive,12,11288282,611455588,Toronto,131268
 43.6763159,-79.59328,2,Renforth Drive (564),a,Renforth Drive,327,11279308,501831564,Toronto,131268
 43.6763159,-79.59328,2,Renforth Drive (567),a,Renforth Drive,327,11279308,501831567,Toronto,131268
 43.6763298,-79.5907742,2,Carlingview Drive (491),a,Carlingview Drive,157,11280966,218864491,Toronto,131268
-43.6763349,-79.5664398,2,Richgrove Drive (025),a,Richgrove Drive,12,11288274,611452025,Toronto,131268
-43.6763501,-79.5739252,2,Willowridge Road (570),a,Willowridge Road,57,11288276,611455570,Toronto,131268
-43.6763539,-79.5738294,2,Willowridge Road (569),a,Willowridge Road,57,11288276,611455569,Toronto,131268
 43.6763551,-79.5931441,2,Renforth Drive (450),a,Renforth Drive,327,11279308,218763450,Toronto,131268
 43.6763551,-79.5931441,2,Renforth Drive (501),a,Renforth Drive,327,11279308,611455501,Toronto,131268
 43.6763551,-79.5931441,2,Silver Dart Drive (499),a,Silver Dart Drive,2,11284850,611455499,Toronto,131268
-43.6763657,-79.5704123,2,Willowridge Road (555),a,Willowridge Road,57,11288276,611455555,Toronto,131268
-43.6763657,-79.5704123,2,Willowridge Road (563),a,Willowridge Road,57,11288276,611455563,Toronto,131268
-43.6763657,-79.5704123,2,Earldown Drive (587),a,Earldown Drive,12,11288282,611455587,Toronto,131268
-43.6763788,-79.574012,2,Willowridge Road (571),a,Willowridge Road,57,11288276,611455571,Toronto,131268
 43.6763792,-79.5930225,2,Renforth Drive (451),a,Renforth Drive,327,11279308,218763451,Toronto,131268
 43.6763853,-79.5640022,2,Martin Grove Road (307),a,Martin Grove Road,703,11281251,555158307,Toronto,131268
 43.6763853,-79.5640022,2,Martin Grove Road (329),a,Martin Grove Road,703,11281251,555158329,Toronto,131268
-43.6764163,-79.573151,2,Earldown Drive (597),a,Earldown Drive,12,11288282,611455597,Toronto,131268
-43.6764228,-79.5740553,2,Willowridge Road (572),a,Willowridge Road,57,11288276,611455572,Toronto,131268
-43.6764564,-79.5704866,2,Willowridge Road (564),a,Willowridge Road,57,11288276,611455564,Toronto,131268
 43.6764861,-79.5931539,2,Silver Dart Drive (500),a,Silver Dart Drive,2,11284850,611455500,Toronto,131268
-43.6765063,-79.5731921,2,Willowridge Road (556),a,Willowridge Road,57,11288276,611455556,Toronto,131268
-43.6765063,-79.5731921,2,Willowridge Road (568),a,Willowridge Road,57,11288276,611455568,Toronto,131268
-43.6765063,-79.5731921,2,Earldown Drive (598),a,Earldown Drive,12,11288282,611455598,Toronto,131268
 43.6765223,-79.564066,2,Martin Grove Road (140),a,Martin Grove Road,703,11281251,218874140,Toronto,131268
 43.6765652,-79.5874244,2,Voyager Court South (476),a,Voyager Court South,24,11285050,219403476,Toronto,131268
-43.6765652,-79.5654459,2,Richgrove Drive (026),a,Richgrove Drive,12,11288274,611452026,Toronto,131268
 43.6765737,-79.5874874,2,Voyager Court South (475),a,Voyager Court South,24,11285050,219403475,Toronto,131268
 43.676578,-79.5873611,2,Voyager Court South (477),a,Voyager Court South,24,11285050,219403477,Toronto,131268
 43.676601,-79.5873216,2,Voyager Court South (478),a,Voyager Court South,24,11285050,219403478,Toronto,131268
 43.6766011,-79.5921001,2,Renforth Drive (452),a,Renforth Drive,327,11279308,218763452,Toronto,131268
 43.6766011,-79.5921001,2,Renforth Drive (461),a,Renforth Drive,327,11279308,218763461,Toronto,131268
 43.6766028,-79.5875412,2,Voyager Court South (474),a,Voyager Court South,24,11285050,219403474,Toronto,131268
-43.676628,-79.5726744,2,Willowridge Road (557),a,Willowridge Road,57,11288276,611455557,Toronto,131268
-43.676628,-79.5726744,2,Willowridge Road (558),a,Willowridge Road,57,11288276,611455558,Toronto,131268
-43.676628,-79.5726744,2,Winterset Crescent (577),a,Winterset Crescent,10,11288289,611455577,Toronto,131268
 43.6766373,-79.5872933,2,Voyager Court South (479),a,Voyager Court South,24,11285050,219403479,Toronto,131268
 43.676638,-79.5641199,2,Martin Grove Road (141),a,Martin Grove Road,703,11281251,218874141,Toronto,131268
 43.676643,-79.5875697,2,Voyager Court South (473),a,Voyager Court South,24,11285050,219403473,Toronto,131268
 43.6766886,-79.5872888,2,Voyager Court South (480),a,Voyager Court South,24,11285050,219403480,Toronto,131268
-43.6766916,-79.5641448,2,Martin Grove Road (964),a,Martin Grove Road,703,11281251,408562964,Toronto,131268
 43.6766934,-79.5875705,2,Voyager Court South (472),a,Voyager Court South,24,11285050,219403472,Toronto,131268
-43.6767148,-79.5727124,2,Winterset Crescent (578),a,Winterset Crescent,10,11288289,611455578,Toronto,131268
 43.6767195,-79.5875566,2,Voyager Court South (471),a,Voyager Court South,24,11285050,219403471,Toronto,131268
-43.6767244,-79.5706103,2,Willowridge Road (353),a,Willowridge Road,57,11288276,219515353,Toronto,131268
 43.6767282,-79.5873116,2,Voyager Court South (481),a,Voyager Court South,24,11285050,219403481,Toronto,131268
-43.6767339,-79.5647159,2,Richgrove Drive (018),a,Richgrove Drive,12,11288274,611452018,Toronto,131268
-43.6767339,-79.5647159,2,Richgrove Drive (027),a,Richgrove Drive,12,11288274,611452027,Toronto,131268
 43.6767456,-79.5875285,2,Voyager Court South (470),a,Voyager Court South,24,11285050,219403470,Toronto,131268
 43.6767577,-79.5873542,2,Voyager Court South (482),a,Voyager Court South,24,11285050,219403482,Toronto,131268
-43.6767655,-79.5641793,2,Martin Grove Road (569),a,Martin Grove Road,703,11281251,391666569,Toronto,131268
 43.6767685,-79.5874742,2,Voyager Court South (466),a,Voyager Court South,24,11285050,219403466,Toronto,131268
 43.6767685,-79.5874742,2,Voyager Court South (469),a,Voyager Court South,24,11285050,219403469,Toronto,131268
 43.6767685,-79.5874742,2,Voyager Court South (498),a,Voyager Court South,24,11285050,611455498,Toronto,131268
 43.6767729,-79.5874146,2,Voyager Court South (483),a,Voyager Court South,24,11285050,219403483,Toronto,131268
-43.6767851,-79.5645018,2,Richgrove Drive (019),a,Richgrove Drive,12,11288274,611452019,Toronto,131268
-43.6768125,-79.5643873,2,Richgrove Drive (020),a,Richgrove Drive,12,11288274,611452020,Toronto,131268
-43.676819,-79.5706699,2,Willowridge Road (565),a,Willowridge Road,57,11288276,611455565,Toronto,131268
-43.6768323,-79.5717946,2,Willowridge Road (559),a,Willowridge Road,57,11288276,611455559,Toronto,131268
 43.6768377,-79.5911109,2,Renforth Drive (462),a,Renforth Drive,327,11279308,218763462,Toronto,131268
 43.6768377,-79.5911109,2,International Boulevard (856),a,International Boulevard,40,11281689,218890856,Toronto,131268
-43.6768525,-79.5642198,2,Martin Grove Road (742),a,Martin Grove Road,703,11281251,218873742,Toronto,131268
-43.6768525,-79.5642198,2,Martin Grove Road (142),a,Martin Grove Road,703,11281251,218874142,Toronto,131268
-43.6768525,-79.5642198,2,Richgrove Drive (751),a,Richgrove Drive,12,11288274,461544751,Toronto,131268
 43.6768631,-79.591003,2,Carlingview Drive (483),a,Carlingview Drive,157,11280966,218864483,Toronto,131268
 43.6768631,-79.591003,2,Carlingview Drive (492),a,Carlingview Drive,157,11280966,218864492,Toronto,131268
 43.6768631,-79.591003,2,International Boulevard (857),a,International Boulevard,40,11281689,218890857,Toronto,131268
 43.6768631,-79.591003,2,International Boulevard (871),a,International Boulevard,40,11281689,218890871,Toronto,131268
-43.6768722,-79.5742198,2,Willowridge Road (573),a,Willowridge Road,57,11288276,611455573,Toronto,131268
 43.6768858,-79.5909018,2,International Boulevard (872),a,International Boulevard,40,11281689,218890872,Toronto,131268
 43.6768901,-79.5908834,2,International Boulevard (759),a,International Boulevard,40,11281689,318970759,Toronto,131268
-43.6769086,-79.5707657,2,Willowridge Road (566),a,Willowridge Road,57,11288276,611455566,Toronto,131268
-43.6769142,-79.571569,2,Willowridge Road (560),a,Willowridge Road,57,11288276,611455560,Toronto,131268
 43.6769271,-79.5875428,2,Voyager Court South (711),a,Voyager Court South,24,11285050,501188711,Toronto,131268
-43.6769298,-79.564253,2,Martin Grove Road (650),a,Martin Grove Road,703,11281251,391664650,Toronto,131268
 43.67694,-79.5911534,2,International Boulevard (875),a,International Boulevard,40,11281689,218890875,Toronto,131268
 43.6769608,-79.5910447,2,Carlingview Drive (484),a,Carlingview Drive,157,11280966,218864484,Toronto,131268
 43.6769608,-79.5910447,2,Carlingview Drive (513),a,Carlingview Drive,157,11280966,218864513,Toronto,131268
@@ -1252,20 +1162,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6769608,-79.5910447,2,International Boulevard (874),a,International Boulevard,40,11281689,218890874,Toronto,131268
 43.6769872,-79.590924,2,International Boulevard (861),a,International Boulevard,40,11281689,218890861,Toronto,131268
 43.6770264,-79.5910728,2,Carlingview Drive (263),a,Carlingview Drive,157,11280966,318972263,Toronto,131268
-43.6770378,-79.5671873,2,Redgrave Drive (756),a,Redgrave Drive,52,11288291,219515756,Toronto,131268
-43.6770502,-79.5669985,2,Redgrave Drive (757),a,Redgrave Drive,52,11288291,219515757,Toronto,131268
-43.6770688,-79.567419,2,Redgrave Drive (755),a,Redgrave Drive,52,11288291,219515755,Toronto,131268
-43.6771201,-79.5712303,2,Willowridge Road (561),a,Willowridge Road,57,11288276,611455561,Toronto,131268
 43.6771282,-79.5898589,2,International Boulevard (867),a,International Boulevard,40,11281689,218890867,Toronto,131268
 43.6771282,-79.5898589,2,International Boulevard (873),a,International Boulevard,40,11281689,218890873,Toronto,131268
-43.6771323,-79.5742783,2,Willowridge Road (574),a,Willowridge Road,57,11288276,611455574,Toronto,131268
 43.6771646,-79.5876455,2,Voyager Court South (458),a,Voyager Court South,24,11285050,318917458,Toronto,131268
-43.6771809,-79.5711442,2,Willowridge Road (535),a,Willowridge Road,57,11288276,611455535,Toronto,131268
-43.6771809,-79.5711442,2,Willowridge Road (562),a,Willowridge Road,57,11288276,611455562,Toronto,131268
-43.6771809,-79.5711442,2,Willowridge Road (567),a,Willowridge Road,57,11288276,611455567,Toronto,131268
-43.6772116,-79.5662775,2,Redgrave Drive (758),a,Redgrave Drive,52,11288291,219515758,Toronto,131268
-43.6772202,-79.5643779,2,Martin Grove Road (743),a,Martin Grove Road,703,11281251,218873743,Toronto,131268
-43.6772202,-79.5643779,2,Martin Grove Road (053),a,Martin Grove Road,703,11281251,218874053,Toronto,131268
 43.6772222,-79.5835783,2,Skyway Avenue (784),a,Skyway Avenue,94,11288896,219524784,Toronto,131268
 43.6772253,-79.5834087,2,Skyway Avenue (785),a,Skyway Avenue,94,11288896,219524785,Toronto,131268
 43.6772363,-79.5899012,2,International Boulevard (860),a,International Boulevard,40,11281689,218890860,Toronto,131268
@@ -1273,84 +1172,53 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6772376,-79.583841,2,Skyway Avenue (783),a,Skyway Avenue,94,11288896,219524783,Toronto,131268
 43.6772447,-79.5893569,2,International Boulevard (487),a,International Boulevard,40,11281689,555158487,Toronto,131268
 43.677253,-79.550673,2,Eglinton Avenue West (855),a,Eglinton Avenue West,890,11280434,418041855,Toronto,131268
-43.677255,-79.5677023,2,Redgrave Drive (754),a,Redgrave Drive,52,11288291,219515754,Toronto,131268
 43.6772618,-79.5832275,2,Skyway Avenue (786),a,Skyway Avenue,94,11288896,219524786,Toronto,131268
-43.6772785,-79.5729662,2,Winterset Crescent (579),a,Winterset Crescent,10,11288289,611455579,Toronto,131268
 43.6772787,-79.5840625,2,Skyway Avenue (782),a,Skyway Avenue,94,11288896,219524782,Toronto,131268
 43.6772849,-79.5891837,2,International Boulevard (863),a,International Boulevard,40,11281689,218890863,Toronto,131268
 43.6772849,-79.5891837,2,International Boulevard (868),a,International Boulevard,40,11281689,218890868,Toronto,131268
 43.6772943,-79.5911879,2,Carlingview Drive (128),a,Carlingview Drive,157,11280966,526524128,Toronto,131268
 43.6773132,-79.583029,2,Skyway Avenue (787),a,Skyway Avenue,94,11288896,219524787,Toronto,131268
 43.6773528,-79.5842399,2,Skyway Avenue (781),a,Skyway Avenue,94,11288896,219524781,Toronto,131268
-43.6773611,-79.5743055,2,Willowridge Road (575),a,Willowridge Road,57,11288276,611455575,Toronto,131268
 43.6773622,-79.550964,2,Kipling Avenue (858),a,Kipling Avenue,1113,11280312,418041858,Toronto,131268
 43.6773759,-79.591223,2,Carlingview Drive (493),a,Carlingview Drive,157,11280966,218864493,Toronto,131268
 43.6773759,-79.591223,2,Carlingview Drive (514),a,Carlingview Drive,157,11280966,218864514,Toronto,131268
 43.6773842,-79.5892257,2,International Boulevard (855),a,International Boulevard,40,11281689,218890855,Toronto,131268
 43.6773842,-79.5892257,2,International Boulevard (869),a,International Boulevard,40,11281689,218890869,Toronto,131268
-43.677393,-79.5730654,2,Winterset Crescent (580),a,Winterset Crescent,10,11288289,611455580,Toronto,131268
 43.6774089,-79.5843642,2,Skyway Avenue (063),a,Skyway Avenue,94,11288896,318939063,Toronto,131268
 43.6774199,-79.582628,2,Skyway Avenue (788),a,Skyway Avenue,94,11288896,219524788,Toronto,131268
 43.6774258,-79.5844017,2,Skyway Avenue (780),a,Skyway Avenue,94,11288896,219524780,Toronto,131268
 43.6774285,-79.5877596,2,Voyager Court South (909),a,Voyager Court South,24,11285050,357402909,Toronto,131268
 43.6774833,-79.5844917,2,Skyway Avenue (062),a,Skyway Avenue,94,11288896,318939062,Toronto,131268
 43.6774901,-79.582427,2,Skyway Avenue (789),a,Skyway Avenue,94,11288896,219524789,Toronto,131268
-43.6774952,-79.573167,2,Winterset Crescent (581),a,Winterset Crescent,10,11288289,611455581,Toronto,131268
 43.6774988,-79.5495879,2,Eglinton Avenue West (277),a,Eglinton Avenue West,890,11280434,218846277,Toronto,131268
 43.6774988,-79.5495879,2,Eglinton Avenue West (073),a,Eglinton Avenue West,890,11280434,611452073,Toronto,131268
-43.677501,-79.5680249,2,Birchleaf Crescent (635),a,Birchleaf Crescent,19,11288286,219515635,Toronto,131268
-43.677501,-79.5680249,2,Redgrave Drive (753),a,Redgrave Drive,52,11288291,219515753,Toronto,131268
 43.6775036,-79.5845236,2,Skyway Avenue (779),a,Skyway Avenue,94,11288896,219524779,Toronto,131268
 43.677529,-79.587803,2,Voyager Court South (910),a,Voyager Court South,24,11285050,357402910,Toronto,131268
 43.677539,-79.5880848,2,International Boulevard (572),a,International Boulevard,40,11281689,501188572,Toronto,131268
 43.6775415,-79.5494153,2,Eglinton Avenue West (850),a,Eglinton Avenue West,890,11280434,485215850,Toronto,131268
 43.6775677,-79.5878181,2,Voyager Court South (497),a,Voyager Court South,24,11285050,611455497,Toronto,131268
 43.677583,-79.5821777,2,Skyway Avenue (790),a,Skyway Avenue,94,11288896,219524790,Toronto,131268
-43.6775911,-79.5679225,2,Birchleaf Crescent (636),a,Birchleaf Crescent,19,11288286,219515636,Toronto,131268
 43.6775919,-79.584608,2,Skyway Avenue (778),a,Skyway Avenue,94,11288896,219524778,Toronto,131268
-43.6775927,-79.5647615,2,Redgrave Drive (759),a,Redgrave Drive,52,11288291,219515759,Toronto,131268
 43.6775973,-79.5878325,2,International Boulevard (864),a,International Boulevard,40,11281689,218890864,Toronto,131268
 43.6775973,-79.5878325,2,Voyager Court South (467),a,Voyager Court South,24,11285050,219403467,Toronto,131268
-43.6775987,-79.5647291,2,Redgrave Drive (782),a,Redgrave Drive,52,11288291,611446782,Toronto,131268
-43.6776088,-79.5733356,2,Winterset Crescent (582),a,Winterset Crescent,10,11288289,611455582,Toronto,131268
 43.6776226,-79.5490881,2,Eglinton Avenue West (278),a,Eglinton Avenue West,890,11280434,218846278,Toronto,131268
 43.6776226,-79.5490881,2,Eglinton Avenue West (386),a,Eglinton Avenue West,890,11280434,218846386,Toronto,131268
-43.6776336,-79.5645468,2,Martin Grove Road (049),a,Martin Grove Road,703,11281251,218874049,Toronto,131268
-43.6776336,-79.5645468,2,Martin Grove Road (054),a,Martin Grove Road,703,11281251,218874054,Toronto,131268
-43.6776336,-79.5645468,2,Martin Grove Road (063),a,Martin Grove Road,703,11281251,218874063,Toronto,131268
-43.6776336,-79.5645468,2,Redgrave Drive (760),a,Redgrave Drive,52,11288291,219515760,Toronto,131268
-43.6776442,-79.5678468,2,Birchleaf Crescent (637),a,Birchleaf Crescent,19,11288286,219515637,Toronto,131268
-43.6776883,-79.5677713,2,Birchleaf Crescent (638),a,Birchleaf Crescent,19,11288286,219515638,Toronto,131268
-43.6776891,-79.5735121,2,Winterset Crescent (583),a,Winterset Crescent,10,11288289,611455583,Toronto,131268
-43.6776978,-79.5646646,2,Martin Grove Road (062),a,Martin Grove Road,703,11281251,218874062,Toronto,131268
 43.6777019,-79.5878769,2,International Boulevard (854),a,International Boulevard,40,11281689,218890854,Toronto,131268
 43.6777019,-79.5878769,2,Voyager Court South (468),a,Voyager Court South,24,11285050,219403468,Toronto,131268
 43.6777019,-79.5878769,2,Voyager Court North (533),a,Voyager Court North,5,11285078,219404533,Toronto,131268
 43.6777052,-79.5913643,2,Carlingview Drive (494),a,Carlingview Drive,157,11280966,218864494,Toronto,131268
 43.6777078,-79.5819142,2,Skyway Avenue (791),a,Skyway Avenue,94,11288896,219524791,Toronto,131268
-43.6777082,-79.5682945,2,Redgrave Drive (752),a,Redgrave Drive,52,11288291,219515752,Toronto,131268
 43.6777212,-79.5486304,2,Eglinton Avenue West (385),a,Eglinton Avenue West,890,11280434,218846385,Toronto,131268
 43.6777212,-79.5486304,2,Eglinton Avenue West (040),a,Eglinton Avenue West,890,11280434,611452040,Toronto,131268
-43.6777233,-79.567696,2,Birchleaf Crescent (639),a,Birchleaf Crescent,19,11288286,219515639,Toronto,131268
 43.6777303,-79.5645325,2,Martin Grove Road (050),a,Martin Grove Road,703,11281251,218874050,Toronto,131268
-43.6777478,-79.5737945,2,Winterset Crescent (584),a,Winterset Crescent,10,11288289,611455584,Toronto,131268
-43.6777491,-79.5675961,2,Birchleaf Crescent (640),a,Birchleaf Crescent,19,11288286,219515640,Toronto,131268
-43.6777692,-79.574154,2,Winterset Crescent (585),a,Winterset Crescent,10,11288289,611455585,Toronto,131268
 43.6777707,-79.5879071,2,Voyager Court North (504),a,Voyager Court North,5,11285078,611455504,Toronto,131268
-43.6777737,-79.5742833,2,Willowridge Road (537),a,Willowridge Road,57,11288276,611455537,Toronto,131268
-43.6777737,-79.5742833,2,Willowridge Road (576),a,Willowridge Road,57,11288276,611455576,Toronto,131268
-43.6777737,-79.5742833,2,Winterset Crescent (586),a,Winterset Crescent,10,11288289,611455586,Toronto,131268
 43.6777821,-79.5847028,2,Skyway Avenue (777),a,Skyway Avenue,94,11288896,219524777,Toronto,131268
 43.6777845,-79.5914566,2,Carlingview Drive (485),a,Carlingview Drive,157,11280966,218864485,Toronto,131268
 43.6777845,-79.5914566,2,Carlingview Drive (495),a,Carlingview Drive,157,11280966,218864495,Toronto,131268
-43.6778192,-79.5720074,2,Willowridge Road (536),a,Willowridge Road,57,11288276,611455536,Toronto,131268
-43.6778192,-79.5720074,2,Willowridge Road (546),a,Willowridge Road,57,11288276,611455546,Toronto,131268
-43.6778192,-79.5720074,2,Longbourne Drive (783),a,Longbourne Drive,20,11288277,611446783,Toronto,131268
 43.6778193,-79.5879267,2,Voyager Court North (916),a,Voyager Court North,5,11285078,357402916,Toronto,131268
 43.6778286,-79.5868403,2,International Boulevard (283),a,International Boulevard,40,11281689,357403283,Toronto,131268
 43.6778394,-79.5817179,2,Skyway Avenue (792),a,Skyway Avenue,94,11288896,219524792,Toronto,131268
 43.6778511,-79.5867437,2,International Boulevard (284),a,International Boulevard,40,11281689,357403284,Toronto,131268
-43.6778815,-79.5719194,2,Longbourne Drive (060),a,Longbourne Drive,20,11288277,360963060,Toronto,131268
 43.6779179,-79.5847617,2,Skyway Avenue (776),a,Skyway Avenue,94,11288896,219524776,Toronto,131268
 43.6779179,-79.5847617,2,Skyway Avenue (824),a,Skyway Avenue,94,11288896,219524824,Toronto,131268
 43.6779351,-79.5915258,2,Carlingview Drive (540),a,Carlingview Drive,157,11280966,318969540,Toronto,131268
@@ -1360,1040 +1228,255 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.677974,-79.5867893,2,International Boulevard (564),a,International Boulevard,40,11281689,318900564,Toronto,131268
 43.6779843,-79.5815077,2,Skyway Avenue (793),a,Skyway Avenue,94,11288896,219524793,Toronto,131268
 43.6780285,-79.5865445,2,International Boulevard (853),a,International Boulevard,40,11281689,218890853,Toronto,131268
-43.6780446,-79.5581124,2,Brampton Road (114),a,Brampton Road,34,11280957,218864114,Toronto,131268
-43.6780473,-79.5648248,2,Martin Grove Road (061),a,Martin Grove Road,703,11281251,218874061,Toronto,131268
-43.6780819,-79.5647011,2,Martin Grove Road (051),a,Martin Grove Road,703,11281251,218874051,Toronto,131268
 43.6780932,-79.5857035,2,International Boulevard (458),a,International Boulevard,40,11281689,496700458,Toronto,131268
 43.6780932,-79.5857035,2,International Boulevard (459),a,International Boulevard,40,11281689,496700459,Toronto,131268
-43.6781069,-79.5688003,2,Caverley Drive (545),a,Caverley Drive,21,11288281,219515545,Toronto,131268
-43.6781069,-79.5688003,2,Redgrave Drive (751),a,Redgrave Drive,52,11288291,219515751,Toronto,131268
-43.6781086,-79.5661113,2,Birchleaf Crescent (641),a,Birchleaf Crescent,19,11288286,219515641,Toronto,131268
-43.6781172,-79.5660739,2,Birchleaf Crescent (642),a,Birchleaf Crescent,19,11288286,219515642,Toronto,131268
-43.6781341,-79.5659866,2,Birchleaf Crescent (643),a,Birchleaf Crescent,19,11288286,219515643,Toronto,131268
-43.6781513,-79.5659242,2,Birchleaf Crescent (644),a,Birchleaf Crescent,19,11288286,219515644,Toronto,131268
-43.6781532,-79.5687414,2,Caverley Drive (946),a,Caverley Drive,21,11288281,362793946,Toronto,131268
 43.6781585,-79.5813207,2,Skyway Avenue (794),a,Skyway Avenue,94,11288896,219524794,Toronto,131268
 43.678161,-79.5854118,2,International Boulevard (858),a,International Boulevard,40,11281689,218890858,Toronto,131268
 43.678161,-79.5854118,2,International Boulevard (527),a,International Boulevard,40,11281689,611455527,Toronto,131268
-43.6781687,-79.5658742,2,Birchleaf Crescent (645),a,Birchleaf Crescent,19,11288286,219515645,Toronto,131268
-43.6781928,-79.5581268,2,Brampton Road (113),a,Brampton Road,34,11280957,218864113,Toronto,131268
 43.6781938,-79.5880772,2,Voyager Court North (544),a,Voyager Court North,5,11285078,318917544,Toronto,131268
-43.6781949,-79.5658115,2,Birchleaf Crescent (646),a,Birchleaf Crescent,19,11288286,219515646,Toronto,131268
-43.6781995,-79.5647974,2,Clement Road (648),a,Clement Road,65,11281119,218868648,Toronto,131268
-43.6781995,-79.5647974,2,Martin Grove Road (052),a,Martin Grove Road,703,11281251,218874052,Toronto,131268
-43.6781995,-79.5647974,2,Martin Grove Road (060),a,Martin Grove Road,703,11281251,218874060,Toronto,131268
-43.6781995,-79.5647974,2,Martin Grove Road (028),a,Martin Grove Road,703,11281251,611452028,Toronto,131268
-43.6782038,-79.568677,2,Caverley Drive (546),a,Caverley Drive,21,11288281,219515546,Toronto,131268
-43.6782295,-79.5646623,2,Clement Road (647),a,Clement Road,65,11281119,218868647,Toronto,131268
-43.6782304,-79.5686392,2,Caverley Drive (547),a,Caverley Drive,21,11288281,219515547,Toronto,131268
-43.678237,-79.5646282,2,Clement Road (646),a,Clement Road,65,11281119,218868646,Toronto,131268
 43.6782389,-79.5851116,2,International Boulevard (080),a,International Boulevard,40,11281689,336615080,Toronto,131268
 43.6782431,-79.5856453,2,International Boulevard (852),a,International Boulevard,40,11281689,218890852,Toronto,131268
-43.6782485,-79.565773,2,Birchleaf Crescent (647),a,Birchleaf Crescent,19,11288286,219515647,Toronto,131268
 43.6782503,-79.5850677,2,International Boulevard (106),a,International Boulevard,40,11281689,334299106,Toronto,131268
 43.678283,-79.5854772,2,International Boulevard (851),a,International Boulevard,40,11281689,218890851,Toronto,131268
 43.6782854,-79.5849329,2,International Boulevard (859),a,International Boulevard,40,11281689,218890859,Toronto,131268
 43.6782854,-79.5849329,2,Skyway Avenue (822),a,Skyway Avenue,94,11288896,219524822,Toronto,131268
 43.6782854,-79.5849329,2,Skyway Avenue (823),a,Skyway Avenue,94,11288896,219524823,Toronto,131268
-43.6782861,-79.5644306,2,Clement Road (332),a,Clement Road,65,11281119,432203332,Toronto,131268
-43.6782923,-79.5685509,2,Caverley Drive (548),a,Caverley Drive,21,11288281,219515548,Toronto,131268
 43.678308,-79.5811842,2,Skyway Avenue (795),a,Skyway Avenue,94,11288896,219524795,Toronto,131268
 43.678308,-79.5811842,2,Skyway Avenue (528),a,Skyway Avenue,94,11288896,611455528,Toronto,131268
-43.6783116,-79.5657839,2,Birchleaf Crescent (648),a,Birchleaf Crescent,19,11288286,219515648,Toronto,131268
 43.6783228,-79.5853235,2,International Boulevard (850),a,International Boulevard,40,11281689,218890850,Toronto,131268
-43.6783362,-79.568463,2,Caverley Drive (549),a,Caverley Drive,21,11288281,219515549,Toronto,131268
 43.6783434,-79.5849601,2,Skyway Avenue (185),a,Skyway Avenue,94,11288896,318970185,Toronto,131268
 43.678349,-79.5852076,2,International Boulevard (849),a,International Boulevard,40,11281689,218890849,Toronto,131268
 43.6783705,-79.5851235,2,International Boulevard (848),a,International Boulevard,40,11281689,218890848,Toronto,131268
-43.6783725,-79.564083,2,Clement Road (645),a,Clement Road,65,11281119,218868645,Toronto,131268
-43.6783751,-79.5658196,2,Birchleaf Crescent (649),a,Birchleaf Crescent,19,11288286,219515649,Toronto,131268
-43.6783888,-79.5683501,2,Caverley Drive (550),a,Caverley Drive,21,11288281,219515550,Toronto,131268
 43.6784014,-79.5849873,2,International Boulevard (847),a,International Boulevard,40,11281689,218890847,Toronto,131268
 43.6784014,-79.5849873,2,Skyway Avenue (821),a,Skyway Avenue,94,11288896,219524821,Toronto,131268
 43.6784014,-79.5849873,2,Galaxy Boulevard (842),a,Galaxy Boulevard,54,11288898,219524842,Toronto,131268
-43.6784386,-79.5658553,2,Birchleaf Crescent (650),a,Birchleaf Crescent,19,11288286,219515650,Toronto,131268
-43.6784411,-79.5682124,2,Caverley Drive (551),a,Caverley Drive,21,11288281,219515551,Toronto,131268
-43.6784558,-79.5637288,2,Clement Road (644),a,Clement Road,65,11281119,218868644,Toronto,131268
-43.6784558,-79.5637288,2,Clement Road (674),a,Clement Road,65,11281119,218868674,Toronto,131268
-43.6784847,-79.5680997,2,Caverley Drive (552),a,Caverley Drive,21,11288281,219515552,Toronto,131268
 43.6785076,-79.581027,2,Skyway Avenue (529),a,Skyway Avenue,94,11288896,611455529,Toronto,131268
 43.6785206,-79.5917947,2,Carlingview Drive (129),a,Carlingview Drive,157,11280966,526524129,Toronto,131268
-43.6785279,-79.5679498,2,Caverley Drive (553),a,Caverley Drive,21,11288281,219515553,Toronto,131268
-43.6785281,-79.5649569,2,Martin Grove Road (333),a,Martin Grove Road,703,11281251,555158333,Toronto,131268
-43.6785281,-79.5649569,2,Martin Grove Road (335),a,Martin Grove Road,703,11281251,555158335,Toronto,131268
-43.6785605,-79.5633065,2,Clement Road (675),a,Clement Road,65,11281119,218868675,Toronto,131268
 43.6785759,-79.5918201,2,Carlingview Drive (458),a,Carlingview Drive,157,11280966,218864458,Toronto,131268
 43.6785759,-79.5918201,2,Carlingview Drive (503),a,Carlingview Drive,157,11280966,611455503,Toronto,131268
 43.6786445,-79.5882658,2,Voyager Court North (532),a,Voyager Court North,5,11285078,219404532,Toronto,131268
 43.6786586,-79.5918607,2,Carlingview Drive (505),a,Carlingview Drive,157,11280966,611455505,Toronto,131268
 43.6786895,-79.5809101,2,Skyway Avenue (530),a,Skyway Avenue,94,11288896,611455530,Toronto,131268
-43.6787422,-79.5670887,2,Caverley Drive (554),a,Caverley Drive,21,11288281,219515554,Toronto,131268
-43.6787816,-79.5623929,2,Clement Road (676),a,Clement Road,65,11281119,218868676,Toronto,131268
-43.6787856,-79.5669636,2,Caverley Drive (555),a,Caverley Drive,21,11288281,219515555,Toronto,131268
-43.678828,-79.5742332,2,Willowridge Road (538),a,Willowridge Road,57,11288276,611455538,Toronto,131268
-43.6788289,-79.5668261,2,Caverley Drive (556),a,Caverley Drive,21,11288281,219515556,Toronto,131268
 43.6788505,-79.5808194,2,Skyway Avenue (531),a,Skyway Avenue,94,11288896,611455531,Toronto,131268
-43.6788722,-79.5583963,2,Brampton Road (112),a,Brampton Road,34,11280957,218864112,Toronto,131268
-43.6788905,-79.566713,2,Caverley Drive (557),a,Caverley Drive,21,11288281,219515557,Toronto,131268
-43.6788948,-79.5742102,2,Willowridge Road (539),a,Willowridge Road,57,11288276,611455539,Toronto,131268
 43.6788959,-79.5852101,2,Galaxy Boulevard (843),a,Galaxy Boulevard,54,11288898,219524843,Toronto,131268
-43.6789259,-79.5584176,2,Brampton Road (111),a,Brampton Road,34,11280957,218864111,Toronto,131268
-43.6789259,-79.5584176,2,Brampton Road (118),a,Brampton Road,34,11280957,218864118,Toronto,131268
-43.678942,-79.5741601,2,Willowridge Road (540),a,Willowridge Road,57,11288276,611455540,Toronto,131268
-43.6789507,-79.561715,2,Callowhill Drive (643),a,Callowhill Drive,19,11281118,218868643,Toronto,131268
-43.6789507,-79.561715,2,Clement Road (677),a,Clement Road,65,11281119,218868677,Toronto,131268
-43.6789507,-79.561715,2,Clement Road (142),a,Clement Road,65,11281119,611448142,Toronto,131268
-43.6789773,-79.5740926,2,Willowridge Road (541),a,Willowridge Road,57,11288276,611455541,Toronto,131268
 43.6789796,-79.5920058,2,Carlingview Drive (506),a,Carlingview Drive,157,11280966,611455506,Toronto,131268
-43.6789803,-79.5515179,2,Widdicombe Hill (287),a,Widdicombe Hill,16,11288273,219515287,Toronto,131268
-43.6789944,-79.5735931,2,Willowridge Road (545),a,Willowridge Road,57,11288276,611455545,Toronto,131268
 43.6790225,-79.5852568,2,Galaxy Boulevard (844),a,Galaxy Boulevard,54,11288898,219524844,Toronto,131268
-43.6790274,-79.566139,2,Birchleaf Crescent (651),a,Birchleaf Crescent,19,11288286,219515651,Toronto,131268
-43.6790338,-79.5736783,2,Willowridge Road (544),a,Willowridge Road,57,11288276,611455544,Toronto,131268
-43.6790371,-79.5617573,2,Callowhill Drive (444),a,Callowhill Drive,19,11281118,360961444,Toronto,131268
-43.6790458,-79.57384,2,Willowridge Road (542),a,Willowridge Road,57,11288276,611455542,Toronto,131268
-43.6790482,-79.5737626,2,Willowridge Road (543),a,Willowridge Road,57,11288276,611455543,Toronto,131268
-43.6790491,-79.5701374,2,Redgrave Drive (781),a,Redgrave Drive,52,11288291,611446781,Toronto,131268
-43.6790604,-79.5661636,2,Birchleaf Crescent (952),a,Birchleaf Crescent,19,11288286,362793952,Toronto,131268
-43.6790632,-79.5663949,2,Caverley Drive (558),a,Caverley Drive,21,11288281,219515558,Toronto,131268
 43.6790657,-79.5807523,2,Skyway Avenue (532),a,Skyway Avenue,94,11288896,611455532,Toronto,131268
-43.679067,-79.5702785,2,Longbourne Drive (784),a,Longbourne Drive,20,11288277,611446784,Toronto,131268
-43.679073,-79.5612591,2,Clement Road (025),a,Clement Road,65,11281119,461543025,Toronto,131268
-43.6791092,-79.5702248,2,Longbourne Drive (413),a,Longbourne Drive,20,11288277,219515413,Toronto,131268
-43.6791092,-79.5702248,2,Longbourne Drive (431),a,Longbourne Drive,20,11288277,219515431,Toronto,131268
-43.6791092,-79.5702248,2,Redgrave Drive (749),a,Redgrave Drive,52,11288291,219515749,Toronto,131268
 43.6791186,-79.5853057,2,Galaxy Boulevard (081),a,Galaxy Boulevard,54,11288898,318939081,Toronto,131268
-43.6791441,-79.5652558,2,Martin Grove Road (336),a,Martin Grove Road,703,11281251,555158336,Toronto,131268
-43.6791441,-79.5652558,2,Martin Grove Road (340),a,Martin Grove Road,703,11281251,555158340,Toronto,131268
-43.6791444,-79.5662065,2,Caverley Drive (559),a,Caverley Drive,21,11288281,219515559,Toronto,131268
-43.6791444,-79.5662065,2,Birchleaf Crescent (652),a,Birchleaf Crescent,19,11288286,219515652,Toronto,131268
-43.6791483,-79.5545806,2,Denfield Street (451),a,Denfield Street,10,11281129,218869451,Toronto,131268
-43.6791527,-79.5702778,2,Redgrave Drive (780),a,Redgrave Drive,52,11288291,611446780,Toronto,131268
-43.6791726,-79.5701311,2,Longbourne Drive (777),a,Longbourne Drive,20,11288277,611446777,Toronto,131268
 43.6791856,-79.5853398,2,Galaxy Boulevard (845),a,Galaxy Boulevard,54,11288898,219524845,Toronto,131268
-43.6792045,-79.5585407,2,Brampton Road (117),a,Brampton Road,34,11280957,218864117,Toronto,131268
-43.6792202,-79.5659331,2,Caverley Drive (560),a,Caverley Drive,21,11288281,219515560,Toronto,131268
-43.6792449,-79.5504048,2,Widdicombe Hill (288),a,Widdicombe Hill,16,11288273,219515288,Toronto,131268
-43.6792455,-79.5658251,2,Caverley Drive (947),a,Caverley Drive,21,11288281,362793947,Toronto,131268
-43.6792574,-79.5686892,2,Westwynd Court (621),a,Westwynd Court,20,11288285,219515621,Toronto,131268
-43.6792653,-79.5686022,2,Westwynd Court (622),a,Westwynd Court,20,11288285,219515622,Toronto,131268
 43.6792763,-79.5853873,2,Galaxy Boulevard (846),a,Galaxy Boulevard,54,11288898,219524846,Toronto,131268
-43.6792765,-79.5687756,2,Westwynd Court (620),a,Westwynd Court,20,11288285,219515620,Toronto,131268
 43.6792788,-79.5921427,2,Carlingview Drive (534),a,Carlingview Drive,157,11280966,318969534,Toronto,131268
 43.6792901,-79.5806974,2,Skyway Avenue (533),a,Skyway Avenue,94,11288896,611455533,Toronto,131268
-43.6793015,-79.5546502,2,Denfield Street (450),a,Denfield Street,10,11281129,218869450,Toronto,131268
-43.679311,-79.5655423,2,Caverley Drive (061),a,Caverley Drive,21,11288281,360963061,Toronto,131268
-43.6793214,-79.5655068,2,Caverley Drive (376),a,Caverley Drive,21,11288281,432203376,Toronto,131268
-43.6793405,-79.5500071,2,Widdicombe Hill (952),a,Widdicombe Hill,16,11288273,318933952,Toronto,131268
 43.6793566,-79.5518804,2,Kipling Avenue (549),a,Kipling Avenue,1113,11280312,496699549,Toronto,131268
 43.6793566,-79.5518804,2,Kipling Avenue (691),a,Kipling Avenue,1113,11280312,496699691,Toronto,131268
-43.6793575,-79.5653594,2,Sedgeley Drive (719),a,Sedgeley Drive,13,11281121,218868719,Toronto,131268
-43.6793575,-79.5653594,2,Martin Grove Road (337),a,Martin Grove Road,703,11281251,555158337,Toronto,131268
-43.6793575,-79.5653594,2,Martin Grove Road (339),a,Martin Grove Road,703,11281251,555158339,Toronto,131268
-43.6793575,-79.5653594,2,Caverley Drive (561),a,Caverley Drive,21,11288281,219515561,Toronto,131268
 43.679367,-79.5854472,2,Galaxy Boulevard (847),a,Galaxy Boulevard,54,11288898,219524847,Toronto,131268
-43.6793762,-79.5498588,2,Widdicombe Hill (955),a,Widdicombe Hill,16,11288273,318933955,Toronto,131268
-43.6793958,-79.5651933,2,Sedgeley Drive (998),a,Sedgeley Drive,13,11281121,485215998,Toronto,131268
-43.6794043,-79.5651564,2,Sedgeley Drive (446),a,Sedgeley Drive,13,11281121,360961446,Toronto,131268
-43.6794317,-79.5586336,2,Brampton Road (116),a,Brampton Road,34,11280957,218864116,Toronto,131268
 43.6794422,-79.5806815,2,Skyway Avenue (802),a,Skyway Avenue,94,11288896,219524802,Toronto,131268
 43.6794422,-79.5806815,2,Skyway Avenue (534),a,Skyway Avenue,94,11288896,611455534,Toronto,131268
-43.6794503,-79.5603344,2,Clement Road (026),a,Clement Road,65,11281119,461543026,Toronto,131268
-43.6794693,-79.564891,2,Sedgeley Drive (718),a,Sedgeley Drive,13,11281121,218868718,Toronto,131268
-43.6794783,-79.5494345,2,Widdicombe Hill (289),a,Widdicombe Hill,16,11288273,219515289,Toronto,131268
 43.6794865,-79.5855219,2,Galaxy Boulevard (848),a,Galaxy Boulevard,54,11288898,219524848,Toronto,131268
-43.6795064,-79.5493068,2,Widdicombe Hill (956),a,Widdicombe Hill,16,11288273,318933956,Toronto,131268
 43.6795447,-79.5806778,2,Skyway Avenue (803),a,Skyway Avenue,94,11288896,219524803,Toronto,131268
-43.67955,-79.5599584,2,Clement Road (028),a,Clement Road,65,11281119,461543028,Toronto,131268
-43.67955,-79.5599584,2,Buckley Crescent (034),a,Buckley Crescent,24,11281120,461543034,Toronto,131268
-43.6795716,-79.5644625,2,Sedgeley Drive (717),a,Sedgeley Drive,13,11281121,218868717,Toronto,131268
-43.6795729,-79.5672798,2,Westwynd Court (623),a,Westwynd Court,20,11288285,219515623,Toronto,131268
 43.6795762,-79.585616,2,Galaxy Boulevard (849),a,Galaxy Boulevard,54,11288898,219524849,Toronto,131268
-43.6796025,-79.559744,2,Clement Road (033),a,Clement Road,65,11281119,461543033,Toronto,131268
 43.679605,-79.5806776,2,Skyway Avenue (804),a,Skyway Avenue,94,11288896,219524804,Toronto,131268
-43.679608,-79.5672045,2,Westwynd Court (624),a,Westwynd Court,20,11288285,219515624,Toronto,131268
-43.6796258,-79.5692617,2,Westwynd Court (065),a,Westwynd Court,20,11288285,360963065,Toronto,131268
-43.6796341,-79.5671295,2,Westwynd Court (625),a,Westwynd Court,20,11288285,219515625,Toronto,131268
-43.6796513,-79.5654902,2,Martin Grove Road (305),a,Martin Grove Road,703,11281251,555158305,Toronto,131268
-43.6796513,-79.5654902,2,Martin Grove Road (338),a,Martin Grove Road,703,11281251,555158338,Toronto,131268
-43.6796515,-79.5692917,2,Westwynd Court (778),a,Westwynd Court,20,11288285,611446778,Toronto,131268
-43.6796588,-79.5486131,2,Widdicombe Hill (290),a,Widdicombe Hill,16,11288273,219515290,Toronto,131268
-43.6796696,-79.560005,2,Buckley Crescent (758),a,Buckley Crescent,24,11281120,360964758,Toronto,131268
 43.6796765,-79.5857128,2,Galaxy Boulevard (850),a,Galaxy Boulevard,54,11288898,219524850,Toronto,131268
-43.6796957,-79.548445,2,Widdicombe Hill (291),a,Widdicombe Hill,16,11288273,219515291,Toronto,131268
 43.6796964,-79.5857364,2,Galaxy Boulevard (082),a,Galaxy Boulevard,54,11288898,318939082,Toronto,131268
-43.6797029,-79.5709957,2,Hepworth Drive (522),a,Hepworth Drive,25,11288280,219515522,Toronto,131268
-43.6797029,-79.5709957,2,Redgrave Drive (747),a,Redgrave Drive,52,11288291,219515747,Toronto,131268
-43.6797057,-79.5693528,2,Longbourne Drive (415),a,Longbourne Drive,20,11288277,219515415,Toronto,131268
-43.6797057,-79.5693528,2,Westwynd Court (619),a,Westwynd Court,20,11288285,219515619,Toronto,131268
-43.6797162,-79.5548387,2,Denfield Street (449),a,Denfield Street,10,11281129,218869449,Toronto,131268
-43.6797358,-79.5637745,2,Sedgeley Drive (716),a,Sedgeley Drive,13,11281121,218868716,Toronto,131268
-43.679752,-79.558774,2,Brampton Road (159),a,Brampton Road,34,11280957,611448159,Toronto,131268
 43.6797587,-79.5858102,2,Galaxy Boulevard (851),a,Galaxy Boulevard,54,11288898,219524851,Toronto,131268
-43.6797673,-79.5709,2,Hepworth Drive (945),a,Hepworth Drive,25,11288280,362793945,Toronto,131268
-43.6797716,-79.5548639,2,Denfield Street (926),a,Denfield Street,10,11281129,391663926,Toronto,131268
 43.6797847,-79.5806984,2,Skyway Avenue (805),a,Skyway Avenue,94,11288896,219524805,Toronto,131268
 43.6797847,-79.5806984,2,Skyway Avenue (806),a,Skyway Avenue,94,11288896,219524806,Toronto,131268
 43.6797891,-79.5923769,2,Carlingview Drive (535),a,Carlingview Drive,157,11280966,318969535,Toronto,131268
-43.6798029,-79.5589234,2,Clement Road (143),a,Clement Road,65,11281119,611448143,Toronto,131268
-43.6798099,-79.5482031,2,Widdicombe Hill (222),a,Widdicombe Hill,16,11288273,526525222,Toronto,131268
-43.6798136,-79.5621371,2,Callowhill Drive (642),a,Callowhill Drive,19,11281118,218868642,Toronto,131268
-43.6798136,-79.5621371,2,Buckley Crescent (035),a,Buckley Crescent,24,11281120,461543035,Toronto,131268
-43.6798153,-79.5636076,2,Sedgeley Drive (715),a,Sedgeley Drive,13,11281121,218868715,Toronto,131268
-43.6798292,-79.5588083,2,Brampton Road (148),a,Brampton Road,34,11280957,611448148,Toronto,131268
-43.6798292,-79.5588083,2,Brampton Road (158),a,Brampton Road,34,11280957,611448158,Toronto,131268
-43.6798292,-79.5588083,2,Clement Road (144),a,Clement Road,65,11281119,611448144,Toronto,131268
-43.6798356,-79.5666905,2,Westwynd Court (626),a,Westwynd Court,20,11288285,219515626,Toronto,131268
-43.6798472,-79.558732,2,Clement Road (145),a,Clement Road,65,11281119,611448145,Toronto,131268
-43.6798562,-79.5620165,2,Buckley Crescent (759),a,Buckley Crescent,24,11281120,360964759,Toronto,131268
 43.6798591,-79.5859195,2,Galaxy Boulevard (852),a,Galaxy Boulevard,54,11288898,219524852,Toronto,131268
-43.6798594,-79.557941,2,Clement Road (700),a,Clement Road,65,11281119,218868700,Toronto,131268
-43.6798616,-79.566603,2,Westwynd Court (627),a,Westwynd Court,20,11288285,219515627,Toronto,131268
-43.6798622,-79.5579953,2,Clement Road (936),a,Clement Road,65,11281119,318974936,Toronto,131268
-43.6798623,-79.5586617,2,Clement Road (032),a,Clement Road,65,11281119,461543032,Toronto,131268
-43.6798632,-79.5578389,2,Clement Road (649),a,Clement Road,65,11281119,218868649,Toronto,131268
-43.6798632,-79.5578389,2,Clement Road (687),a,Clement Road,65,11281119,218868687,Toronto,131268
-43.6798632,-79.5578389,2,Clement Road (701),a,Clement Road,65,11281119,218868701,Toronto,131268
-43.6798662,-79.5635273,2,Sedgeley Drive (714),a,Sedgeley Drive,13,11281121,218868714,Toronto,131268
-43.6798662,-79.5635273,2,Midden Crescent (720),a,Midden Crescent,11,11281122,218868720,Toronto,131268
-43.679868,-79.5580617,2,Clement Road (935),a,Clement Road,65,11281119,318974935,Toronto,131268
-43.6798714,-79.5481052,2,Widdicombe Hill (292),a,Widdicombe Hill,16,11288273,219515292,Toronto,131268
-43.6798723,-79.5454027,2,Wincott Drive (301),a,Wincott Drive,89,11280796,218858301,Toronto,131268
-43.6798791,-79.5665654,2,Westwynd Court (628),a,Westwynd Court,20,11288285,219515628,Toronto,131268
-43.6798806,-79.5581474,2,Clement Road (673),a,Clement Road,65,11281119,218868673,Toronto,131268
-43.6798806,-79.5581474,2,Clement Road (699),a,Clement Road,65,11281119,218868699,Toronto,131268
-43.6798806,-79.5581474,2,Clement Road (146),a,Clement Road,65,11281119,611448146,Toronto,131268
-43.6798837,-79.5576448,2,Clement Road (688),a,Clement Road,65,11281119,218868688,Toronto,131268
-43.6798878,-79.558536,2,Clement Road (029),a,Clement Road,65,11281119,461543029,Toronto,131268
-43.6798896,-79.558837,2,Brampton Road (147),a,Brampton Road,34,11280957,611448147,Toronto,131268
 43.6798916,-79.592424,2,Carlingview Drive (536),a,Carlingview Drive,157,11280966,318969536,Toronto,131268
-43.679897,-79.558276,2,Clement Road (031),a,Clement Road,65,11281119,461543031,Toronto,131268
-43.6798995,-79.5584065,2,Clement Road (030),a,Clement Road,65,11281119,461543030,Toronto,131268
-43.6799059,-79.5665523,2,Westwynd Court (629),a,Westwynd Court,20,11288285,219515629,Toronto,131268
 43.67993,-79.5807444,2,Skyway Avenue (807),a,Skyway Avenue,94,11288896,219524807,Toronto,131268
 43.6799325,-79.5860294,2,Galaxy Boulevard (853),a,Galaxy Boulevard,54,11288898,219524853,Toronto,131268
-43.6799328,-79.5665393,2,Westwynd Court (630),a,Westwynd Court,20,11288285,219515630,Toronto,131268
-43.6799345,-79.5633814,2,Sedgeley Drive (713),a,Sedgeley Drive,13,11281121,218868713,Toronto,131268
-43.6799454,-79.563579,2,Midden Crescent (335),a,Midden Crescent,11,11281122,432203335,Toronto,131268
-43.6799485,-79.5633334,2,Sedgeley Drive (712),a,Sedgeley Drive,13,11281121,218868712,Toronto,131268
-43.6799605,-79.5510515,2,Kingsborough Crescent (556),a,Kingsborough Crescent,19,11280820,218858556,Toronto,131268
-43.6799682,-79.5480501,2,Widdicombe Hill (293),a,Widdicombe Hill,16,11288273,219515293,Toronto,131268
-43.6799688,-79.5665384,2,Westwynd Court (631),a,Westwynd Court,20,11288285,219515631,Toronto,131268
-43.6799721,-79.551148,2,Kingsborough Crescent (555),a,Kingsborough Crescent,19,11280820,218858555,Toronto,131268
 43.679997,-79.5861519,2,Galaxy Boulevard (854),a,Galaxy Boulevard,54,11288898,219524854,Toronto,131268
-43.6799985,-79.5689073,2,Longbourne Drive (416),a,Longbourne Drive,20,11288277,219515416,Toronto,131268
-43.680018,-79.5549759,2,Denfield Street (925),a,Denfield Street,10,11281129,391663925,Toronto,131268
-43.6800187,-79.5630926,2,Sedgeley Drive (711),a,Sedgeley Drive,13,11281121,218868711,Toronto,131268
-43.6800272,-79.5578942,2,Clement Road (650),a,Clement Road,65,11281119,218868650,Toronto,131268
-43.6800321,-79.5665617,2,Westwynd Court (632),a,Westwynd Court,20,11288285,219515632,Toronto,131268
-43.6800342,-79.5512553,2,Kingsborough Crescent (554),a,Kingsborough Crescent,19,11280820,218858554,Toronto,131268
-43.6800383,-79.5615412,2,Buckley Crescent (281),a,Buckley Crescent,24,11281120,318977281,Toronto,131268
-43.6800519,-79.5579054,2,Clement Road (651),a,Clement Road,65,11281119,218868651,Toronto,131268
-43.6800527,-79.5580668,2,Clement Road (672),a,Clement Road,65,11281119,218868672,Toronto,131268
-43.6800581,-79.5568617,2,Clement Road (689),a,Clement Road,65,11281119,218868689,Toronto,131268
-43.6800593,-79.5580636,2,Clement Road (671),a,Clement Road,65,11281119,218868671,Toronto,131268
-43.6800603,-79.5579085,2,Clement Road (652),a,Clement Road,65,11281119,218868652,Toronto,131268
-43.6800634,-79.5704938,2,Hepworth Drive (523),a,Hepworth Drive,25,11288280,219515523,Toronto,131268
-43.6800656,-79.5580594,2,Clement Road (670),a,Clement Road,65,11281119,218868670,Toronto,131268
-43.6800682,-79.5579135,2,Clement Road (653),a,Clement Road,65,11281119,218868653,Toronto,131268
 43.6800707,-79.5862867,2,Galaxy Boulevard (855),a,Galaxy Boulevard,54,11288898,219524855,Toronto,131268
-43.6800715,-79.5580543,2,Clement Road (669),a,Clement Road,65,11281119,218868669,Toronto,131268
-43.6800754,-79.5579202,2,Clement Road (654),a,Clement Road,65,11281119,218868654,Toronto,131268
-43.6800769,-79.5580482,2,Clement Road (668),a,Clement Road,65,11281119,218868668,Toronto,131268
-43.6800818,-79.5580413,2,Clement Road (667),a,Clement Road,65,11281119,218868667,Toronto,131268
-43.6800818,-79.5579285,2,Clement Road (655),a,Clement Road,65,11281119,218868655,Toronto,131268
 43.6800855,-79.537784,2,Eglinton Avenue West (342),a,Eglinton Avenue West,890,11280434,218846342,Toronto,131268
 43.6800855,-79.537784,2,Eglinton Avenue West (177),a,Eglinton Avenue West,890,11280434,611448177,Toronto,131268
-43.6800861,-79.5580337,2,Clement Road (666),a,Clement Road,65,11281119,218868666,Toronto,131268
-43.6800864,-79.5665853,2,Westwynd Court (633),a,Westwynd Court,20,11288285,219515633,Toronto,131268
-43.6800871,-79.557938,2,Clement Road (656),a,Clement Road,65,11281119,218868656,Toronto,131268
-43.6800897,-79.5580255,2,Clement Road (665),a,Clement Road,65,11281119,218868665,Toronto,131268
-43.6800906,-79.5613964,2,Buckley Crescent (282),a,Buckley Crescent,24,11281120,318977282,Toronto,131268
-43.6800911,-79.5579487,2,Clement Road (657),a,Clement Road,65,11281119,218868657,Toronto,131268
-43.6800922,-79.5687647,2,Longbourne Drive (417),a,Longbourne Drive,20,11288277,219515417,Toronto,131268
 43.6800926,-79.5807902,2,Skyway Avenue (808),a,Skyway Avenue,94,11288896,219524808,Toronto,131268
-43.6800926,-79.5580167,2,Clement Road (664),a,Clement Road,65,11281119,218868664,Toronto,131268
-43.6800939,-79.5579601,2,Clement Road (658),a,Clement Road,65,11281119,218868658,Toronto,131268
-43.6800948,-79.5580075,2,Clement Road (663),a,Clement Road,65,11281119,218868663,Toronto,131268
-43.6800952,-79.557972,2,Clement Road (659),a,Clement Road,65,11281119,218868659,Toronto,131268
-43.6800963,-79.5579981,2,Clement Road (662),a,Clement Road,65,11281119,218868662,Toronto,131268
-43.6800969,-79.5579885,2,Clement Road (661),a,Clement Road,65,11281119,218868661,Toronto,131268
-43.6800987,-79.5704433,2,Hepworth Drive (524),a,Hepworth Drive,25,11288280,219515524,Toronto,131268
-43.6801219,-79.5566284,2,Clement Road (690),a,Clement Road,65,11281119,218868690,Toronto,131268
-43.6801219,-79.5566284,2,Clementview Court (230),a,Clementview Court,2,11284253,219377230,Toronto,131268
-43.680131,-79.5687057,2,Longbourne Drive (418),a,Longbourne Drive,20,11288277,219515418,Toronto,131268
-43.6801314,-79.5612674,2,Buckley Crescent (036),a,Buckley Crescent,24,11281120,461543036,Toronto,131268
-43.6801506,-79.5502683,2,Kingsborough Crescent (557),a,Kingsborough Crescent,19,11280820,218858557,Toronto,131268
-43.6801518,-79.5703676,2,Hepworth Drive (525),a,Hepworth Drive,25,11288280,219515525,Toronto,131268
-43.6801661,-79.551309,2,Kingsborough Crescent (553),a,Kingsborough Crescent,19,11280820,218858553,Toronto,131268
 43.6801695,-79.5522288,2,Kipling Avenue (550),a,Kipling Avenue,1113,11280312,496699550,Toronto,131268
 43.6801695,-79.5522288,2,Kipling Avenue (692),a,Kipling Avenue,1113,11280312,496699692,Toronto,131268
-43.6801863,-79.5479467,2,Widdicombe Hill (294),a,Widdicombe Hill,16,11288273,219515294,Toronto,131268
-43.6801867,-79.5625168,2,Sedgeley Drive (445),a,Sedgeley Drive,13,11281121,360961445,Toronto,131268
-43.6801903,-79.5455297,2,Wincott Drive (300),a,Wincott Drive,89,11280796,218858300,Toronto,131268
-43.6801928,-79.5686049,2,Longbourne Drive (419),a,Longbourne Drive,20,11288277,219515419,Toronto,131268
-43.6802047,-79.5702795,2,Hepworth Drive (526),a,Hepworth Drive,25,11288280,219515526,Toronto,131268
-43.6802206,-79.5602234,2,Buckley Crescent (708),a,Buckley Crescent,24,11281120,218868708,Toronto,131268
-43.6802206,-79.5602234,2,Buckley Crescent (141),a,Buckley Crescent,24,11281120,611448141,Toronto,131268
-43.6802324,-79.56236,2,Callowhill Drive (641),a,Callowhill Drive,19,11281118,218868641,Toronto,131268
-43.6802324,-79.56236,2,Sedgeley Drive (710),a,Sedgeley Drive,13,11281121,218868710,Toronto,131268
-43.6802488,-79.570204,2,Hepworth Drive (527),a,Hepworth Drive,25,11288280,219515527,Toronto,131268
-43.6802514,-79.550161,2,Kingsborough Crescent (558),a,Kingsborough Crescent,19,11280820,218858558,Toronto,131268
-43.6802618,-79.5455582,2,Wincott Drive (299),a,Wincott Drive,89,11280796,218858299,Toronto,131268
-43.6802682,-79.5602464,2,Buckley Crescent (696),a,Buckley Crescent,24,11281120,318896696,Toronto,131268
 43.6802736,-79.5808603,2,Skyway Avenue (809),a,Skyway Avenue,94,11288896,219524809,Toronto,131268
-43.6802841,-79.5602537,2,Buckley Crescent (707),a,Buckley Crescent,24,11281120,218868707,Toronto,131268
-43.6802893,-79.5684041,2,Longbourne Drive (420),a,Longbourne Drive,20,11288277,219515420,Toronto,131268
-43.6802932,-79.5701533,2,Hepworth Drive (528),a,Hepworth Drive,25,11288280,219515528,Toronto,131268
-43.680299,-79.5602643,2,Buckley Crescent (695),a,Buckley Crescent,24,11281120,318896695,Toronto,131268
-43.6803032,-79.556239,2,Clement Road (691),a,Clement Road,65,11281119,218868691,Toronto,131268
-43.6803077,-79.5605544,2,Buckley Crescent (704),a,Buckley Crescent,24,11281120,218868704,Toronto,131268
-43.6803077,-79.5605544,2,Buckley Crescent (717),a,Buckley Crescent,24,11281120,611446717,Toronto,131268
 43.6803119,-79.5867637,2,Galaxy Boulevard (674),a,Galaxy Boulevard,54,11288898,496702674,Toronto,131268
 43.6803119,-79.5867637,2,Galaxy Boulevard (508),a,Galaxy Boulevard,54,11288898,611455508,Toronto,131268
-43.6803125,-79.5602781,2,Buckley Crescent (694),a,Buckley Crescent,24,11281120,318896694,Toronto,131268
-43.6803213,-79.5513841,2,Kingsborough Crescent (552),a,Kingsborough Crescent,19,11280820,218858552,Toronto,131268
-43.6803242,-79.5602946,2,Buckley Crescent (693),a,Buckley Crescent,24,11281120,318896693,Toronto,131268
-43.6803311,-79.5604764,2,Buckley Crescent (687),a,Buckley Crescent,24,11281120,318896687,Toronto,131268
-43.6803316,-79.5682893,2,Longbourne Drive (421),a,Longbourne Drive,20,11288277,219515421,Toronto,131268
-43.6803339,-79.5603135,2,Buckley Crescent (692),a,Buckley Crescent,24,11281120,318896692,Toronto,131268
-43.6803396,-79.5604473,2,Buckley Crescent (705),a,Buckley Crescent,24,11281120,218868705,Toronto,131268
-43.6803413,-79.5603343,2,Buckley Crescent (691),a,Buckley Crescent,24,11281120,318896691,Toronto,131268
-43.6803452,-79.5604254,2,Buckley Crescent (688),a,Buckley Crescent,24,11281120,318896688,Toronto,131268
-43.6803462,-79.5603565,2,Buckley Crescent (706),a,Buckley Crescent,24,11281120,218868706,Toronto,131268
-43.6803482,-79.5604026,2,Buckley Crescent (689),a,Buckley Crescent,24,11281120,318896689,Toronto,131268
-43.6803485,-79.5603795,2,Buckley Crescent (690),a,Buckley Crescent,24,11281120,318896690,Toronto,131268
-43.6803524,-79.5551279,2,Denfield Street (448),a,Denfield Street,10,11281129,218869448,Toronto,131268
-43.6803562,-79.5701518,2,Hepworth Drive (529),a,Hepworth Drive,25,11288280,219515529,Toronto,131268
-43.680358,-79.5567702,2,Clementview Court (229),a,Clementview Court,2,11284253,219377229,Toronto,131268
-43.6803678,-79.5501985,2,Kingsborough Crescent (559),a,Kingsborough Crescent,19,11280820,218858559,Toronto,131268
-43.6803727,-79.5681776,2,Longbourne Drive (422),a,Longbourne Drive,20,11288277,219515422,Toronto,131268
 43.6803733,-79.586885,2,Galaxy Boulevard (509),a,Galaxy Boulevard,54,11288898,611455509,Toronto,131268
 43.6804077,-79.5523309,2,Kipling Avenue (827),a,Kipling Avenue,1113,11280312,485215827,Toronto,131268
 43.6804077,-79.5523309,2,Kipling Avenue (160),a,Kipling Avenue,1113,11280312,611448160,Toronto,131268
-43.6804088,-79.5479134,2,Widdicombe Hill (295),a,Widdicombe Hill,16,11288273,219515295,Toronto,131268
-43.6804197,-79.5701875,2,Hepworth Drive (530),a,Hepworth Drive,25,11288280,219515530,Toronto,131268
-43.6804319,-79.5679435,2,Longbourne Drive (423),a,Longbourne Drive,20,11288277,219515423,Toronto,131268
-43.680445,-79.5678918,2,Longbourne Drive (424),a,Longbourne Drive,20,11288277,219515424,Toronto,131268
-43.6804558,-79.5559819,2,Clement Road (692),a,Clement Road,65,11281119,218868692,Toronto,131268
 43.6804587,-79.5359939,2,Eglinton Avenue West (598),a,Eglinton Avenue West,890,11280434,418041598,Toronto,131268
-43.6804746,-79.5702607,2,Hepworth Drive (531),a,Hepworth Drive,25,11288280,219515531,Toronto,131268
-43.6804764,-79.5502576,2,Kingsborough Crescent (560),a,Kingsborough Crescent,19,11280820,218858560,Toronto,131268
 43.6804861,-79.5871081,2,Galaxy Boulevard (510),a,Galaxy Boulevard,54,11288898,611455510,Toronto,131268
-43.6805141,-79.5468362,2,Linstead Court (945),a,Linstead Court,3,11284592,219387945,Toronto,131268
-43.6805384,-79.5703212,2,Hepworth Drive (532),a,Hepworth Drive,25,11288280,219515532,Toronto,131268
-43.6805385,-79.5490827,2,Royalwood Court (207),a,Royalwood Court,5,11284249,219377207,Toronto,131268
-43.6805388,-79.5721483,2,Redgrave Drive (746),a,Redgrave Drive,52,11288291,219515746,Toronto,131268
-43.6805529,-79.5658914,2,Martin Grove Road (306),a,Martin Grove Road,703,11281251,555158306,Toronto,131268
-43.6805529,-79.5658914,2,Martin Grove Road (342),a,Martin Grove Road,703,11281251,555158342,Toronto,131268
 43.6805599,-79.5872553,2,Galaxy Boulevard (511),a,Galaxy Boulevard,54,11288898,611455511,Toronto,131268
-43.6806048,-79.5668567,2,Westwynd Court (066),a,Westwynd Court,20,11288285,360963066,Toronto,131268
-43.6806292,-79.5668695,2,Westwynd Court (779),a,Westwynd Court,20,11288285,611446779,Toronto,131268
-43.6806475,-79.5704054,2,Hepworth Drive (533),a,Hepworth Drive,25,11288280,219515533,Toronto,131268
-43.680651,-79.5515289,2,Kingsborough Crescent (551),a,Kingsborough Crescent,19,11280820,218858551,Toronto,131268
-43.6806604,-79.5626475,2,Callowhill Drive (640),a,Callowhill Drive,19,11281118,218868640,Toronto,131268
-43.6806604,-79.5626475,2,Farley Crescent (745),a,Farley Crescent,19,11281123,218868745,Toronto,131268
-43.6806618,-79.5556795,2,Clement Road (693),a,Clement Road,65,11281119,218868693,Toronto,131268
-43.6806665,-79.5491203,2,Royalwood Court (208),a,Royalwood Court,5,11284249,219377208,Toronto,131268
 43.6806705,-79.5874636,2,Galaxy Boulevard (512),a,Galaxy Boulevard,54,11288898,611455512,Toronto,131268
-43.6806756,-79.5668938,2,Longbourne Drive (425),a,Longbourne Drive,20,11288277,219515425,Toronto,131268
-43.6806756,-79.5668938,2,Westwynd Court (634),a,Westwynd Court,20,11288285,219515634,Toronto,131268
-43.6806937,-79.5503541,2,Kingsborough Crescent (561),a,Kingsborough Crescent,19,11280820,218858561,Toronto,131268
-43.6807111,-79.5704536,2,Hepworth Drive (534),a,Hepworth Drive,25,11288280,219515534,Toronto,131268
-43.6807153,-79.5624907,2,Farley Crescent (449),a,Farley Crescent,19,11281123,360961449,Toronto,131268
-43.680725,-79.5552972,2,Denfield Street (338),a,Denfield Street,10,11281129,432203338,Toronto,131268
-43.6807252,-79.5666868,2,Longbourne Drive (426),a,Longbourne Drive,20,11288277,219515426,Toronto,131268
 43.6807319,-79.5875992,2,Galaxy Boulevard (513),a,Galaxy Boulevard,54,11288898,611455513,Toronto,131268
-43.680746,-79.5723065,2,Redgrave Drive (745),a,Redgrave Drive,52,11288291,219515745,Toronto,131268
 43.6807538,-79.5876477,2,Galaxy Boulevard (514),a,Galaxy Boulevard,54,11288898,611455514,Toronto,131268
-43.6807663,-79.564115,2,Midden Crescent (721),a,Midden Crescent,11,11281122,218868721,Toronto,131268
 43.6807703,-79.5524827,2,Kipling Avenue (825),a,Kipling Avenue,1113,11280312,485215825,Toronto,131268
 43.6807703,-79.5524827,2,Kipling Avenue (828),a,Kipling Avenue,1113,11280312,485215828,Toronto,131268
-43.6807815,-79.5553228,2,Clement Road (694),a,Clement Road,65,11281119,218868694,Toronto,131268
-43.6807815,-79.5553228,2,Clement Road (154),a,Clement Road,65,11281119,611448154,Toronto,131268
-43.6807815,-79.5553228,2,Denfield Street (446),a,Denfield Street,10,11281129,218869446,Toronto,131268
 43.6808004,-79.5928411,2,Carlingview Drive (456),a,Carlingview Drive,157,11280966,218864456,Toronto,131268
 43.6808004,-79.5928411,2,Carlingview Drive (459),a,Carlingview Drive,157,11280966,218864459,Toronto,131268
 43.6808004,-79.5928411,2,Meteor Drive (825),a,Meteor Drive,15,11288897,219524825,Toronto,131268
-43.6808019,-79.5705134,2,Hepworth Drive (535),a,Hepworth Drive,25,11288280,219515535,Toronto,131268
-43.6808343,-79.5660166,2,Martin Grove Road (341),a,Martin Grove Road,703,11281251,555158341,Toronto,131268
 43.680835,-79.5926907,2,Meteor Drive (072),a,Meteor Drive,15,11288897,318939072,Toronto,131268
 43.6808388,-79.5926743,2,Meteor Drive (826),a,Meteor Drive,15,11288897,219524826,Toronto,131268
-43.6808427,-79.5661954,2,Longbourne Drive (427),a,Longbourne Drive,20,11288277,219515427,Toronto,131268
 43.6808437,-79.581095,2,Skyway Avenue (810),a,Skyway Avenue,94,11288896,219524810,Toronto,131268
-43.6808624,-79.5457991,2,Wincott Drive (298),a,Wincott Drive,89,11280796,218858298,Toronto,131268
 43.6808771,-79.5925083,2,Meteor Drive (073),a,Meteor Drive,15,11288897,318939073,Toronto,131268
-43.6808811,-79.566038,2,Martin Grove Road (180),a,Martin Grove Road,703,11281251,218874180,Toronto,131268
-43.6808811,-79.566038,2,Martin Grove Road (718),a,Martin Grove Road,703,11281251,611446718,Toronto,131268
-43.6808811,-79.566038,2,Longbourne Drive (428),a,Longbourne Drive,20,11288277,219515428,Toronto,131268
 43.6808828,-79.5878804,2,Galaxy Boulevard (515),a,Galaxy Boulevard,54,11288898,611455515,Toronto,131268
-43.6808885,-79.5619964,2,Farley Crescent (744),a,Farley Crescent,19,11281123,218868744,Toronto,131268
 43.6808893,-79.5924553,2,Meteor Drive (827),a,Meteor Drive,15,11288897,219524827,Toronto,131268
 43.6808893,-79.5924553,2,Meteor Drive (828),a,Meteor Drive,15,11288897,219524828,Toronto,131268
-43.6808926,-79.5705609,2,Hepworth Drive (536),a,Hepworth Drive,25,11288280,219515536,Toronto,131268
-43.6808993,-79.551604,2,Kingsborough Crescent (550),a,Kingsborough Crescent,19,11280820,218858550,Toronto,131268
-43.6808993,-79.5491096,2,Royalwood Court (209),a,Royalwood Court,5,11284249,219377209,Toronto,131268
-43.6809112,-79.5723543,2,Redgrave Drive (744),a,Redgrave Drive,52,11288291,219515744,Toronto,131268
-43.6809344,-79.559283,2,Brampton Road (109),a,Brampton Road,34,11280957,218864109,Toronto,131268
-43.6809344,-79.559283,2,Sunvale Drive (364),a,Sunvale Drive,5,11281128,218869364,Toronto,131268
-43.6809432,-79.5641451,2,Midden Crescent (722),a,Midden Crescent,11,11281122,218868722,Toronto,131268
-43.6809447,-79.5711304,2,Hilliard Place (309),a,Hilliard Place,4,11288275,219515309,Toronto,131268
-43.6809536,-79.5503702,2,Kingsborough Crescent (562),a,Kingsborough Crescent,19,11280820,218858562,Toronto,131268
-43.6809568,-79.5491192,2,Royalwood Court (331),a,Royalwood Court,5,11284249,360962331,Toronto,131268
-43.6809583,-79.547879,2,Widdicombe Hill (058),a,Widdicombe Hill,16,11288273,360963058,Toronto,131268
-43.6809688,-79.5591391,2,Sunvale Drive (337),a,Sunvale Drive,5,11281128,432203337,Toronto,131268
-43.6809729,-79.5660782,2,Martin Grove Road (181),a,Martin Grove Road,703,11281251,218874181,Toronto,131268
 43.6809838,-79.5880393,2,Galaxy Boulevard (516),a,Galaxy Boulevard,54,11288898,611455516,Toronto,131268
 43.6810063,-79.5919477,2,Meteor Drive (538),a,Meteor Drive,15,11288897,318969538,Toronto,131268
-43.6810242,-79.5710044,2,Hilliard Place (310),a,Hilliard Place,4,11288275,219515310,Toronto,131268
 43.681027,-79.5881065,2,Galaxy Boulevard (517),a,Galaxy Boulevard,54,11288898,611455517,Toronto,131268
-43.6810351,-79.5491257,2,Hunting Ridge (540),a,Hunting Ridge,16,11280818,218858540,Toronto,131268
-43.6810351,-79.5491257,2,Royalwood Court (210),a,Royalwood Court,5,11284249,219377210,Toronto,131268
-43.6810376,-79.5468774,2,Linstead Court (402),a,Linstead Court,3,11284592,360962402,Toronto,131268
-43.6810381,-79.5485502,2,Hunting Ridge (541),a,Hunting Ridge,16,11280818,218858541,Toronto,131268
 43.6810403,-79.5525958,2,Kipling Avenue (826),a,Kipling Avenue,1113,11280312,485215826,Toronto,131268
-43.6810584,-79.5493671,2,Hunting Ridge (539),a,Hunting Ridge,16,11280818,218858539,Toronto,131268
 43.6810633,-79.5917005,2,Meteor Drive (327),a,Meteor Drive,15,11288897,513199327,Toronto,131268
-43.6810646,-79.5640921,2,Midden Crescent (723),a,Midden Crescent,11,11281122,218868723,Toronto,131268
-43.6810691,-79.5478721,2,Hunting Ridge (542),a,Hunting Ridge,16,11280818,218858542,Toronto,131268
-43.6810691,-79.5478721,2,Widdicombe Hill (296),a,Widdicombe Hill,16,11288273,219515296,Toronto,131268
-43.6810739,-79.551604,2,Kingsborough Crescent (549),a,Kingsborough Crescent,19,11280820,218858549,Toronto,131268
-43.6810833,-79.5706759,2,Hepworth Drive (537),a,Hepworth Drive,25,11288280,219515537,Toronto,131268
-43.6810866,-79.5495434,2,Hunting Ridge (538),a,Hunting Ridge,16,11280818,218858538,Toronto,131268
-43.6810866,-79.5495434,2,Haverstock Lane (546),a,Haverstock Lane,4,11280819,218858546,Toronto,131268
-43.681089,-79.5707695,2,Hilliard Place (944),a,Hilliard Place,4,11288275,362793944,Toronto,131268
 43.6810939,-79.5882105,2,Galaxy Boulevard (518),a,Galaxy Boulevard,54,11288898,611455518,Toronto,131268
-43.6811023,-79.5468825,2,Hunting Ridge (543),a,Hunting Ridge,16,11280818,218858543,Toronto,131268
-43.6811023,-79.5468825,2,Linstead Court (944),a,Linstead Court,3,11284592,219387944,Toronto,131268
-43.6811103,-79.5706922,2,Hilliard Place (311),a,Hilliard Place,4,11288275,219515311,Toronto,131268
-43.6811103,-79.5706922,2,Hepworth Drive (538),a,Hepworth Drive,25,11288280,219515538,Toronto,131268
-43.6811103,-79.5706922,2,Hepworth Drive (539),a,Hepworth Drive,25,11288280,219515539,Toronto,131268
-43.681128,-79.5609433,2,Farley Crescent (743),a,Farley Crescent,19,11281123,218868743,Toronto,131268
-43.6811285,-79.5723028,2,Redgrave Drive (743),a,Redgrave Drive,52,11288291,219515743,Toronto,131268
-43.6811311,-79.5640389,2,Midden Crescent (724),a,Midden Crescent,11,11281122,218868724,Toronto,131268
-43.6811313,-79.5459898,2,Hunting Ridge (089),a,Hunting Ridge,16,11280818,360961089,Toronto,131268
-43.681132,-79.5459545,2,Hunting Ridge (166),a,Hunting Ridge,16,11280818,611448166,Toronto,131268
-43.6811343,-79.545827,2,Wincott Drive (297),a,Wincott Drive,89,11280796,218858297,Toronto,131268
-43.6811343,-79.545827,2,Hunting Ridge (544),a,Hunting Ridge,16,11280818,218858544,Toronto,131268
-43.6811433,-79.5502993,2,Kingsborough Crescent (093),a,Kingsborough Crescent,19,11280820,360961093,Toronto,131268
 43.6811451,-79.5882883,2,Galaxy Boulevard (519),a,Galaxy Boulevard,54,11288898,611455519,Toronto,131268
-43.6811514,-79.5495259,2,Haverstock Lane (091),a,Haverstock Lane,4,11280819,360961091,Toronto,131268
-43.6811569,-79.5537085,2,Clement Road (995),a,Clement Road,65,11281119,485215995,Toronto,131268
 43.6811582,-79.5883082,2,Galaxy Boulevard (520),a,Galaxy Boulevard,54,11288898,611455520,Toronto,131268
-43.6811615,-79.5607946,2,Farley Crescent (742),a,Farley Crescent,19,11281123,218868742,Toronto,131268
 43.681166,-79.5912548,2,Meteor Drive (326),a,Meteor Drive,15,11288897,513199326,Toronto,131268
-43.6811818,-79.5661634,2,Martin Grove Road (182),a,Martin Grove Road,703,11281251,218874182,Toronto,131268
-43.6811848,-79.5607303,2,Farley Crescent (741),a,Farley Crescent,19,11281123,218868741,Toronto,131268
-43.681194,-79.5639516,2,Midden Crescent (725),a,Midden Crescent,11,11281122,218868725,Toronto,131268
-43.6812076,-79.560705,2,Farley Crescent (740),a,Farley Crescent,19,11281123,218868740,Toronto,131268
-43.6812181,-79.559382,2,Brampton Road (108),a,Brampton Road,34,11280957,218864108,Toronto,131268
 43.6812218,-79.5883563,2,Galaxy Boulevard (521),a,Galaxy Boulevard,54,11288898,611455521,Toronto,131268
-43.6812407,-79.5502629,2,Hunting Ridge (537),a,Hunting Ridge,16,11280818,218858537,Toronto,131268
-43.6812407,-79.5502629,2,Kingsborough Crescent (563),a,Kingsborough Crescent,19,11280820,218858563,Toronto,131268
-43.6812488,-79.56069,2,Farley Crescent (739),a,Farley Crescent,19,11281123,218868739,Toronto,131268
-43.68125,-79.5630955,2,Callowhill Drive (639),a,Callowhill Drive,19,11281118,218868639,Toronto,131268
-43.6812504,-79.5638535,2,Midden Crescent (726),a,Midden Crescent,11,11281122,218868726,Toronto,131268
-43.6812513,-79.5533026,2,Clement Road (997),a,Clement Road,65,11281119,485215997,Toronto,131268
-43.6812717,-79.5515611,2,Kingsborough Crescent (548),a,Kingsborough Crescent,19,11280820,218858548,Toronto,131268
 43.681287,-79.59073,2,Meteor Drive (032),a,Meteor Drive,15,11288897,506896032,Toronto,131268
-43.6812919,-79.5606981,2,Farley Crescent (738),a,Farley Crescent,19,11281123,218868738,Toronto,131268
 43.6813036,-79.5884164,2,Galaxy Boulevard (522),a,Galaxy Boulevard,54,11288898,611455522,Toronto,131268
-43.6813208,-79.5527133,2,Kipling Avenue (824),a,Kipling Avenue,1113,11280312,485215824,Toronto,131268
-43.6813221,-79.57215,2,Clarion Road (432),a,Clarion Road,49,11288278,219515432,Toronto,131268
-43.6813221,-79.57215,2,Redgrave Drive (742),a,Redgrave Drive,52,11288291,219515742,Toronto,131268
-43.6813361,-79.552977,2,Clement Road (996),a,Clement Road,65,11281119,485215996,Toronto,131268
 43.6813762,-79.5884644,2,Galaxy Boulevard (523),a,Galaxy Boulevard,54,11288898,611455523,Toronto,131268
 43.681384,-79.5903092,2,Meteor Drive (031),a,Meteor Drive,15,11288897,506896031,Toronto,131268
-43.6813929,-79.5527469,2,Kipling Avenue (551),a,Kipling Avenue,1113,11280312,496699551,Toronto,131268
-43.6813929,-79.5527469,2,Kipling Avenue (696),a,Kipling Avenue,1113,11280312,496699696,Toronto,131268
-43.6813929,-79.5527469,2,Hunting Ridge (531),a,Hunting Ridge,16,11280818,218858531,Toronto,131268
-43.6813929,-79.5527469,2,Clement Road (994),a,Clement Road,65,11281119,485215994,Toronto,131268
 43.6813941,-79.5902654,2,Meteor Drive (741),a,Meteor Drive,15,11288897,501188741,Toronto,131268
-43.6813974,-79.5722821,2,Clarion Road (433),a,Clarion Road,49,11288278,219515433,Toronto,131268
 43.6814125,-79.5884883,2,Galaxy Boulevard (524),a,Galaxy Boulevard,54,11288898,611455524,Toronto,131268
-43.6814188,-79.5723225,2,Clarion Road (434),a,Clarion Road,49,11288278,219515434,Toronto,131268
-43.6814274,-79.5526069,2,Hunting Ridge (532),a,Hunting Ridge,16,11280818,218858532,Toronto,131268
-43.6814422,-79.5514851,2,Kingsborough Crescent (092),a,Kingsborough Crescent,19,11280820,360961092,Toronto,131268
-43.6814428,-79.5634501,2,Midden Crescent (727),a,Midden Crescent,11,11281122,218868727,Toronto,131268
-43.6814464,-79.5723715,2,Clarion Road (435),a,Clarion Road,49,11288278,219515435,Toronto,131268
-43.6814608,-79.5527785,2,Kipling Avenue (697),a,Kipling Avenue,1113,11280312,496699697,Toronto,131268
-43.681465,-79.5724207,2,Clarion Road (436),a,Clarion Road,49,11288278,219515436,Toronto,131268
-43.6814813,-79.5633226,2,Midden Crescent (447),a,Midden Crescent,11,11281122,360961447,Toronto,131268
-43.6814927,-79.5724697,2,Clarion Road (437),a,Clarion Road,49,11288278,219515437,Toronto,131268
-43.6815007,-79.5662964,2,Martin Grove Road (183),a,Martin Grove Road,703,11281251,218874183,Toronto,131268
 43.6815123,-79.588548,2,Galaxy Boulevard (525),a,Galaxy Boulevard,54,11288898,611455525,Toronto,131268
-43.6815138,-79.5631997,2,Callowhill Drive (638),a,Callowhill Drive,19,11281118,218868638,Toronto,131268
-43.6815138,-79.5631997,2,Midden Crescent (728),a,Midden Crescent,11,11281122,218868728,Toronto,131268
-43.6815138,-79.5631997,2,Farley Crescent (729),a,Farley Crescent,19,11281123,218868729,Toronto,131268
-43.6815203,-79.5725186,2,Clarion Road (438),a,Clarion Road,49,11288278,219515438,Toronto,131268
 43.6815379,-79.5896418,2,Meteor Drive (030),a,Meteor Drive,15,11288897,506896030,Toronto,131268
 43.6815394,-79.5931776,2,Carlingview Drive (528),a,Carlingview Drive,157,11280966,318969528,Toronto,131268
-43.6815433,-79.5514377,2,Hunting Ridge (536),a,Hunting Ridge,16,11280818,218858536,Toronto,131268
-43.6815433,-79.5514377,2,Kingsborough Crescent (547),a,Kingsborough Crescent,19,11280820,218858547,Toronto,131268
-43.6815479,-79.5725676,2,Clarion Road (439),a,Clarion Road,49,11288278,219515439,Toronto,131268
-43.681553,-79.5630294,2,Farley Crescent (448),a,Farley Crescent,19,11281123,360961448,Toronto,131268
 43.681562,-79.5814287,2,Skyway Avenue (242),a,Skyway Avenue,94,11288896,391666242,Toronto,131268
-43.6815669,-79.5515652,2,Hunting Ridge (535),a,Hunting Ridge,16,11280818,218858535,Toronto,131268
-43.6815764,-79.55195,2,Hunting Ridge (533),a,Hunting Ridge,16,11280818,218858533,Toronto,131268
-43.6815788,-79.5517539,2,Hunting Ridge (534),a,Hunting Ridge,16,11280818,218858534,Toronto,131268
-43.6815845,-79.5726164,2,Clarion Road (440),a,Clarion Road,49,11288278,219515440,Toronto,131268
-43.681599,-79.5708915,2,Hepworth Drive (540),a,Hepworth Drive,25,11288280,219515540,Toronto,131268
 43.6816103,-79.59321,2,Carlingview Drive (529),a,Carlingview Drive,157,11280966,318969529,Toronto,131268
-43.6816122,-79.5726653,2,Clarion Road (441),a,Clarion Road,49,11288278,219515441,Toronto,131268
-43.6816398,-79.5727143,2,Clarion Road (442),a,Clarion Road,49,11288278,219515442,Toronto,131268
-43.6816674,-79.5727633,2,Clarion Road (443),a,Clarion Road,49,11288278,219515443,Toronto,131268
-43.6816715,-79.570927,2,Hepworth Drive (541),a,Hepworth Drive,25,11288280,219515541,Toronto,131268
-43.681695,-79.5728123,2,Clarion Road (444),a,Clarion Road,49,11288278,219515444,Toronto,131268
 43.6816954,-79.5889587,2,Meteor Drive (507),a,Meteor Drive,15,11288897,611455507,Toronto,131268
-43.6817136,-79.5728614,2,Clarion Road (445),a,Clarion Road,49,11288278,219515445,Toronto,131268
-43.6817257,-79.5529068,2,Kipling Avenue (698),a,Kipling Avenue,1113,11280312,496699698,Toronto,131268
-43.6817257,-79.5529068,2,Kipling Avenue (700),a,Kipling Avenue,1113,11280312,496699700,Toronto,131268
-43.6817259,-79.5709629,2,Hepworth Drive (542),a,Hepworth Drive,25,11288280,219515542,Toronto,131268
-43.6817503,-79.5729102,2,Clarion Road (446),a,Clarion Road,49,11288278,219515446,Toronto,131268
 43.6817657,-79.5886537,2,Meteor Drive (829),a,Meteor Drive,15,11288897,219524829,Toronto,131268
 43.6817657,-79.5886537,2,Galaxy Boulevard (830),a,Galaxy Boulevard,54,11288898,219524830,Toronto,131268
 43.6817657,-79.5886537,2,Galaxy Boulevard (526),a,Galaxy Boulevard,54,11288898,611455526,Toronto,131268
-43.6817777,-79.5729468,2,Clarion Road (447),a,Clarion Road,49,11288278,219515447,Toronto,131268
-43.6817862,-79.5710196,2,Hepworth Drive (543),a,Hepworth Drive,25,11288280,219515543,Toronto,131268
-43.6818112,-79.5633151,2,Callowhill Drive (637),a,Callowhill Drive,19,11281118,218868637,Toronto,131268
-43.6818144,-79.5729955,2,Clarion Road (448),a,Clarion Road,49,11288278,219515448,Toronto,131268
-43.6818508,-79.5730319,2,Clarion Road (449),a,Clarion Road,49,11288278,219515449,Toronto,131268
-43.6818613,-79.5664468,2,Martin Grove Road (184),a,Martin Grove Road,703,11281251,218874184,Toronto,131268
 43.6818823,-79.5815775,2,Skyway Avenue (243),a,Skyway Avenue,94,11288896,391666243,Toronto,131268
-43.6818873,-79.5730682,2,Clarion Road (450),a,Clarion Road,49,11288278,219515450,Toronto,131268
 43.6818896,-79.5887126,2,Galaxy Boulevard (743),a,Galaxy Boulevard,54,11288898,408562743,Toronto,131268
-43.6819142,-79.5609493,2,Farley Crescent (737),a,Farley Crescent,19,11281123,218868737,Toronto,131268
-43.6819238,-79.5731046,2,Clarion Road (451),a,Clarion Road,49,11288278,219515451,Toronto,131268
-43.681939,-79.5613204,2,Farley Crescent (730),a,Farley Crescent,19,11281123,218868730,Toronto,131268
 43.6819418,-79.5933609,2,Carlingview Drive (447),a,Carlingview Drive,157,11280966,218864447,Toronto,131268
 43.6819418,-79.5933609,2,Carlingview Drive (457),a,Carlingview Drive,157,11280966,218864457,Toronto,131268
-43.6819479,-79.549311,2,Haverstock Lane (090),a,Haverstock Lane,4,11280819,360961090,Toronto,131268
-43.6819549,-79.5609871,2,Farley Crescent (736),a,Farley Crescent,19,11281123,218868736,Toronto,131268
-43.6819599,-79.5713464,2,Hepworth Drive (956),a,Hepworth Drive,25,11288280,362793956,Toronto,131268
-43.6819601,-79.5731285,2,Clarion Road (452),a,Clarion Road,49,11288278,219515452,Toronto,131268
 43.6819649,-79.5887483,2,Galaxy Boulevard (831),a,Galaxy Boulevard,54,11288898,219524831,Toronto,131268
-43.6819762,-79.5612278,2,Farley Crescent (731),a,Farley Crescent,19,11281123,218868731,Toronto,131268
-43.6819872,-79.5610307,2,Farley Crescent (735),a,Farley Crescent,19,11281123,218868735,Toronto,131268
-43.6819911,-79.5489629,2,Pettit Drive (473),a,Pettit Drive,25,11280811,218858473,Toronto,131268
-43.6819918,-79.5611762,2,Farley Crescent (732),a,Farley Crescent,19,11281123,218868732,Toronto,131268
-43.681999,-79.5611317,2,Farley Crescent (733),a,Farley Crescent,19,11281123,218868733,Toronto,131268
-43.6819995,-79.561081,2,Farley Crescent (734),a,Farley Crescent,19,11281123,218868734,Toronto,131268
-43.6820002,-79.5486274,2,Pettit Drive (474),a,Pettit Drive,25,11280811,218858474,Toronto,131268
-43.6820031,-79.5530423,2,Kipling Avenue (699),a,Kipling Avenue,1113,11280312,496699699,Toronto,131268
-43.6820054,-79.5731523,2,Clarion Road (453),a,Clarion Road,49,11288278,219515453,Toronto,131268
-43.6820062,-79.5483327,2,Pettit Drive (475),a,Pettit Drive,25,11280811,218858475,Toronto,131268
-43.6820062,-79.5483327,2,Muirdale Avenue (511),a,Muirdale Avenue,10,11280815,218858511,Toronto,131268
-43.6820151,-79.5714411,2,Hepworth Drive (544),a,Hepworth Drive,25,11288280,219515544,Toronto,131268
-43.6820151,-79.5714411,2,Zealand Road (697),a,Zealand Road,19,11288290,219515697,Toronto,131268
-43.6820151,-79.5714411,2,Redgrave Drive (741),a,Redgrave Drive,52,11288291,219515741,Toronto,131268
-43.6820301,-79.5492888,2,Pettit Drive (472),a,Pettit Drive,25,11280811,218858472,Toronto,131268
-43.6820301,-79.5492888,2,Haverstock Lane (545),a,Haverstock Lane,4,11280819,218858545,Toronto,131268
-43.6820334,-79.5714244,2,Redgrave Drive (740),a,Redgrave Drive,52,11288291,219515740,Toronto,131268
-43.6820419,-79.5731886,2,Clarion Road (454),a,Clarion Road,49,11288278,219515454,Toronto,131268
 43.6820554,-79.5887834,2,Galaxy Boulevard (832),a,Galaxy Boulevard,54,11288898,219524832,Toronto,131268
-43.6820561,-79.5470138,2,Pettit Drive (476),a,Pettit Drive,25,11280811,218858476,Toronto,131268
-43.6820561,-79.5470138,2,Rockcastle Drive (530),a,Rockcastle Drive,12,11280817,218858530,Toronto,131268
-43.6820573,-79.5715139,2,Zealand Road (772),a,Zealand Road,19,11288290,611446772,Toronto,131268
-43.6820687,-79.5495147,2,Pettit Drive (471),a,Pettit Drive,25,11280811,218858471,Toronto,131268
-43.6820782,-79.5732126,2,Clarion Road (455),a,Clarion Road,49,11288278,219515455,Toronto,131268
-43.6820876,-79.5715661,2,Zealand Road (698),a,Zealand Road,19,11288290,219515698,Toronto,131268
-43.6821035,-79.5483403,2,Muirdale Avenue (800),a,Muirdale Avenue,10,11280815,401241800,Toronto,131268
-43.6821044,-79.5530918,2,Kipling Avenue (701),a,Kipling Avenue,1113,11280312,496699701,Toronto,131268
-43.6821044,-79.5530918,2,Kipling Avenue (703),a,Kipling Avenue,1113,11280312,496699703,Toronto,131268
-43.6821235,-79.5732363,2,Clarion Road (456),a,Clarion Road,49,11288278,219515456,Toronto,131268
-43.6821257,-79.5634515,2,Callowhill Drive (636),a,Callowhill Drive,19,11281118,218868636,Toronto,131268
-43.6821272,-79.5597895,2,Brampton Road (107),a,Brampton Road,34,11280957,218864107,Toronto,131268
-43.6821272,-79.5597895,2,Gracey Boulevard (879),a,Gracey Boulevard,14,11281127,218868879,Toronto,131268
-43.6821401,-79.5716851,2,Zealand Road (699),a,Zealand Road,19,11288290,219515699,Toronto,131268
-43.6821571,-79.5470192,2,Rockcastle Drive (088),a,Rockcastle Drive,12,11280817,360961088,Toronto,131268
-43.68216,-79.5732727,2,Clarion Road (457),a,Clarion Road,49,11288278,219515457,Toronto,131268
-43.6822045,-79.5717952,2,Zealand Road (700),a,Zealand Road,19,11288290,219515700,Toronto,131268
-43.6822053,-79.5732964,2,Clarion Road (458),a,Clarion Road,49,11288278,219515458,Toronto,131268
 43.6822094,-79.5888543,2,Galaxy Boulevard (833),a,Galaxy Boulevard,54,11288898,219524833,Toronto,131268
-43.6822347,-79.5501459,2,Pettit Drive (470),a,Pettit Drive,25,11280811,218858470,Toronto,131268
-43.6822416,-79.5733204,2,Clarion Road (459),a,Clarion Road,49,11288278,219515459,Toronto,131268
-43.6822515,-79.5711922,2,Redgrave Drive (739),a,Redgrave Drive,52,11288291,219515739,Toronto,131268
-43.6822871,-79.5733565,2,Clarion Road (460),a,Clarion Road,49,11288278,219515460,Toronto,131268
-43.6822871,-79.5719173,2,Zealand Road (701),a,Zealand Road,19,11288290,219515701,Toronto,131268
-43.682294,-79.5589848,2,Gracey Boulevard (880),a,Gracey Boulevard,14,11281127,218868880,Toronto,131268
-43.6823095,-79.5587058,2,Gracey Boulevard (881),a,Gracey Boulevard,14,11281127,218868881,Toronto,131268
-43.6823095,-79.5587058,2,Kenning Place (228),a,Kenning Place,2,11284252,219377228,Toronto,131268
-43.682318,-79.5635348,2,Callowhill Drive (635),a,Callowhill Drive,19,11281118,218868635,Toronto,131268
-43.682318,-79.5635348,2,Ladbrooke Road (746),a,Ladbrooke Road,8,11281124,218868746,Toronto,131268
-43.6823202,-79.5584497,2,Gracey Boulevard (882),a,Gracey Boulevard,14,11281127,218868882,Toronto,131268
-43.6823234,-79.5733805,2,Clarion Road (461),a,Clarion Road,49,11288278,219515461,Toronto,131268
-43.6823241,-79.5505077,2,Pettit Drive (453),a,Pettit Drive,25,11280811,428570453,Toronto,131268
-43.6823285,-79.5534523,2,Sunvale Drive (847),a,Sunvale Drive,5,11281128,386160847,Toronto,131268
-43.6823359,-79.5710805,2,Redgrave Drive (738),a,Redgrave Drive,52,11288291,219515738,Toronto,131268
-43.6823388,-79.5534082,2,Sunvale Drive (155),a,Sunvale Drive,5,11281128,611448155,Toronto,131268
-43.6823423,-79.5720153,2,Zealand Road (702),a,Zealand Road,19,11288290,219515702,Toronto,131268
 43.6823455,-79.5889379,2,Galaxy Boulevard (834),a,Galaxy Boulevard,54,11288898,219524834,Toronto,131268
-43.6823488,-79.5633907,2,Ladbrooke Road (336),a,Ladbrooke Road,8,11281124,432203336,Toronto,131268
-43.6823679,-79.5483608,2,Muirdale Avenue (510),a,Muirdale Avenue,10,11280815,218858510,Toronto,131268
-43.6823685,-79.5733918,2,Clarion Road (462),a,Clarion Road,49,11288278,219515462,Toronto,131268
-43.6823815,-79.5710121,2,Redgrave Drive (737),a,Redgrave Drive,52,11288291,219515737,Toronto,131268
-43.6823822,-79.5532274,2,Kipling Avenue (702),a,Kipling Avenue,1113,11280312,496699702,Toronto,131268
-43.6823822,-79.5532274,2,Kipling Avenue (704),a,Kipling Avenue,1113,11280312,496699704,Toronto,131268
-43.6823822,-79.5532274,2,Sunvale Drive (369),a,Sunvale Drive,5,11281128,218869369,Toronto,131268
-43.6823881,-79.5666666,2,Martin Grove Road (185),a,Martin Grove Road,703,11281251,218874185,Toronto,131268
 43.682389,-79.5889814,2,Galaxy Boulevard (744),a,Galaxy Boulevard,54,11288898,408562744,Toronto,131268
 43.6823915,-79.5935657,2,Carlingview Drive (521),a,Carlingview Drive,157,11280966,318969521,Toronto,131268
-43.6824139,-79.5734155,2,Clarion Road (463),a,Clarion Road,49,11288278,219515463,Toronto,131268
 43.6824195,-79.5818271,2,Skyway Avenue (811),a,Skyway Avenue,94,11288896,219524811,Toronto,131268
-43.6824203,-79.5709504,2,Redgrave Drive (736),a,Redgrave Drive,52,11288291,219515736,Toronto,131268
-43.6824336,-79.5721124,2,Zealand Road (703),a,Zealand Road,19,11288290,219515703,Toronto,131268
 43.6824548,-79.589047,2,Galaxy Boulevard (835),a,Galaxy Boulevard,54,11288898,219524835,Toronto,131268
-43.682459,-79.5734269,2,Clarion Road (464),a,Clarion Road,49,11288278,219515464,Toronto,131268
-43.6824606,-79.5635997,2,Callowhill Drive (923),a,Callowhill Drive,19,11281118,391663923,Toronto,131268
-43.6824611,-79.5508015,2,Pettit Drive (469),a,Pettit Drive,25,11280811,218858469,Toronto,131268
-43.6824699,-79.5667043,2,Martin Grove Road (186),a,Martin Grove Road,703,11281251,218874186,Toronto,131268
-43.6824746,-79.5708552,2,Redgrave Drive (735),a,Redgrave Drive,52,11288291,219515735,Toronto,131268
-43.6824857,-79.5636111,2,Callowhill Drive (634),a,Callowhill Drive,19,11281118,218868634,Toronto,131268
-43.6825042,-79.5734382,2,Clarion Road (465),a,Clarion Road,49,11288278,219515465,Toronto,131268
-43.6825065,-79.570775,2,Redgrave Drive (734),a,Redgrave Drive,52,11288291,219515734,Toronto,131268
-43.682525,-79.5722219,2,Zealand Road (704),a,Zealand Road,19,11288290,219515704,Toronto,131268
-43.6825278,-79.5470396,2,Rockcastle Drive (529),a,Rockcastle Drive,12,11280817,218858529,Toronto,131268
-43.6825282,-79.5707178,2,Redgrave Drive (733),a,Redgrave Drive,52,11288291,219515733,Toronto,131268
-43.6825345,-79.5587112,2,Kenning Place (227),a,Kenning Place,2,11284252,219377227,Toronto,131268
-43.6825367,-79.5706956,2,Redgrave Drive (732),a,Redgrave Drive,52,11288291,219515732,Toronto,131268
 43.6825436,-79.589123,2,Galaxy Boulevard (836),a,Galaxy Boulevard,54,11288898,219524836,Toronto,131268
-43.6825492,-79.5734371,2,Clarion Road (466),a,Clarion Road,49,11288278,219515466,Toronto,131268
-43.6825627,-79.5706168,2,Redgrave Drive (731),a,Redgrave Drive,52,11288291,219515731,Toronto,131268
 43.6825648,-79.581923,2,Meridian Road (729),a,Meridian Road,26,11288895,219524729,Toronto,131268
 43.6825648,-79.581923,2,Skyway Avenue (762),a,Skyway Avenue,94,11288896,219524762,Toronto,131268
 43.6825648,-79.581923,2,Skyway Avenue (812),a,Skyway Avenue,94,11288896,219524812,Toronto,131268
-43.6825722,-79.5705849,2,Redgrave Drive (677),a,Redgrave Drive,52,11288291,391666677,Toronto,131268
-43.6825743,-79.5667525,2,Martin Grove Road (910),a,Martin Grove Road,703,11281251,218873910,Toronto,131268
-43.6825743,-79.5667525,2,Martin Grove Road (929),a,Martin Grove Road,703,11281251,218873929,Toronto,131268
-43.6825743,-79.5667525,2,Martin Grove Road (187),a,Martin Grove Road,703,11281251,218874187,Toronto,131268
-43.6825745,-79.548438,2,Muirdale Avenue (509),a,Muirdale Avenue,10,11280815,218858509,Toronto,131268
 43.6825749,-79.5936492,2,Carlingview Drive (522),a,Carlingview Drive,157,11280966,318969522,Toronto,131268
-43.6825888,-79.557354,2,Gracey Boulevard (883),a,Gracey Boulevard,14,11281127,218868883,Toronto,131268
-43.6825929,-79.5705159,2,Redgrave Drive (730),a,Redgrave Drive,52,11288291,219515730,Toronto,131268
-43.682594,-79.5734237,2,Clarion Road (467),a,Clarion Road,49,11288278,219515467,Toronto,131268
 43.6826159,-79.5817757,2,Meridian Road (770),a,Meridian Road,26,11288895,611446770,Toronto,131268
 43.682623,-79.5817554,2,Meridian Road (637),a,Meridian Road,26,11288895,391665637,Toronto,131268
 43.6826343,-79.5817228,2,Meridian Road (730),a,Meridian Road,26,11288895,219524730,Toronto,131268
-43.6826346,-79.5723433,2,Zealand Road (705),a,Zealand Road,19,11288290,219515705,Toronto,131268
 43.6826347,-79.5892436,2,Galaxy Boulevard (837),a,Galaxy Boulevard,54,11288898,219524837,Toronto,131268
-43.6826389,-79.5734102,2,Clarion Road (468),a,Clarion Road,49,11288278,219515468,Toronto,131268
-43.6826442,-79.5723574,2,Zealand Road (706),a,Zealand Road,19,11288290,219515706,Toronto,131268
-43.6826516,-79.5668945,2,Martin Grove Road (928),a,Martin Grove Road,703,11281251,218873928,Toronto,131268
-43.6826566,-79.5620191,2,Ladbrooke Road (747),a,Ladbrooke Road,8,11281124,218868747,Toronto,131268
-43.6826566,-79.5620191,2,Carswell Place (750),a,Carswell Place,5,11281125,218868750,Toronto,131268
-43.6826747,-79.573397,2,Clarion Road (469),a,Clarion Road,49,11288278,219515469,Toronto,131268
-43.6826766,-79.5667326,2,Martin Grove Road (911),a,Martin Grove Road,703,11281251,218873911,Toronto,131268
-43.6826858,-79.5511162,2,Pettit Drive (468),a,Pettit Drive,25,11280811,218858468,Toronto,131268
-43.6826868,-79.5518329,2,Parmalea Crescent (519),a,Parmalea Crescent,12,11280816,218858519,Toronto,131268
-43.6826902,-79.5521181,2,Parmalea Crescent (518),a,Parmalea Crescent,12,11280816,218858518,Toronto,131268
-43.6826913,-79.5618774,2,Ladbrooke Road (475),a,Ladbrooke Road,8,11281124,504024475,Toronto,131268
 43.6827001,-79.5247785,2,Eglinton Avenue West (156),a,Eglinton Avenue West,890,11280434,218846156,Toronto,131268
-43.6827029,-79.5523051,2,Parmalea Crescent (517),a,Parmalea Crescent,12,11280816,218858517,Toronto,131268
-43.6827051,-79.5699768,2,Redgrave Drive (729),a,Redgrave Drive,52,11288291,219515729,Toronto,131268
-43.6827171,-79.5724654,2,Zealand Road (707),a,Zealand Road,19,11288290,219515707,Toronto,131268
-43.6827196,-79.5733835,2,Clarion Road (470),a,Clarion Road,49,11288278,219515470,Toronto,131268
-43.6827202,-79.5515972,2,Parmalea Crescent (520),a,Parmalea Crescent,12,11280816,218858520,Toronto,131268
 43.6827323,-79.581311,2,Meridian Road (638),a,Meridian Road,26,11288895,391665638,Toronto,131268
-43.682736,-79.5471717,2,Rockcastle Drive (528),a,Rockcastle Drive,12,11280817,218858528,Toronto,131268
-43.6827506,-79.57251,2,Zealand Road (708),a,Zealand Road,19,11288290,219515708,Toronto,131268
-43.682755,-79.5697636,2,Waterbury Drive (487),a,Waterbury Drive,45,11288279,219515487,Toronto,131268
-43.682755,-79.5697636,2,Redgrave Drive (727),a,Redgrave Drive,52,11288291,219515727,Toronto,131268
-43.682755,-79.5697636,2,Redgrave Drive (728),a,Redgrave Drive,52,11288291,219515728,Toronto,131268
 43.682757,-79.5894686,2,Galaxy Boulevard (718),a,Galaxy Boulevard,54,11288898,490048718,Toronto,131268
 43.6827573,-79.581206,2,Meridian Road (639),a,Meridian Road,26,11288895,391665639,Toronto,131268
-43.682759,-79.5486033,2,Muirdale Avenue (508),a,Muirdale Avenue,10,11280815,218858508,Toronto,131268
 43.6827677,-79.5811622,2,Meridian Road (640),a,Meridian Road,26,11288895,391665640,Toronto,131268
 43.6827688,-79.5821044,2,Skyway Avenue (763),a,Skyway Avenue,94,11288896,219524763,Toronto,131268
 43.6827708,-79.589494,2,Galaxy Boulevard (745),a,Galaxy Boulevard,54,11288898,408562745,Toronto,131268
-43.6827734,-79.569685,2,Redgrave Drive (726),a,Redgrave Drive,52,11288291,219515726,Toronto,131268
-43.6827813,-79.5513752,2,Parmalea Crescent (801),a,Parmalea Crescent,12,11280816,401241801,Toronto,131268
-43.6827823,-79.5637367,2,Callowhill Drive (633),a,Callowhill Drive,19,11281118,218868633,Toronto,131268
-43.6827834,-79.5696397,2,Redgrave Drive (775),a,Redgrave Drive,52,11288291,611446775,Toronto,131268
-43.6827885,-79.5524212,2,Parmalea Crescent (516),a,Parmalea Crescent,12,11280816,218858516,Toronto,131268
-43.6827904,-79.572563,2,Zealand Road (709),a,Zealand Road,19,11288290,219515709,Toronto,131268
 43.6828155,-79.5821468,2,Skyway Avenue (645),a,Skyway Avenue,94,11288896,391665645,Toronto,131268
-43.6828195,-79.5512367,2,Pettit Drive (467),a,Pettit Drive,25,11280811,218858467,Toronto,131268
-43.6828195,-79.5512367,2,Parmalea Crescent (521),a,Parmalea Crescent,12,11280816,218858521,Toronto,131268
-43.6828366,-79.5726611,2,Zealand Road (710),a,Zealand Road,19,11288290,219515710,Toronto,131268
-43.6828522,-79.5698053,2,Waterbury Drive (776),a,Waterbury Drive,45,11288279,611446776,Toronto,131268
-43.6828565,-79.557531,2,Gracey Boulevard (884),a,Gracey Boulevard,14,11281127,218868884,Toronto,131268
 43.6828579,-79.5937781,2,Carlingview Drive (523),a,Carlingview Drive,157,11280966,318969523,Toronto,131268
-43.6828623,-79.5698093,2,Waterbury Drive (949),a,Waterbury Drive,45,11288279,362793949,Toronto,131268
-43.6828669,-79.5562219,2,Haregate Court (221),a,Haregate Court,4,11284251,219377221,Toronto,131268
-43.6828832,-79.5727841,2,Zealand Road (711),a,Zealand Road,19,11288290,219515711,Toronto,131268
-43.6828876,-79.5473077,2,Rockcastle Drive (527),a,Rockcastle Drive,12,11280817,218858527,Toronto,131268
-43.6828888,-79.5692235,2,Redgrave Drive (016),a,Redgrave Drive,52,11288291,318934016,Toronto,131268
 43.682911,-79.589752,2,Galaxy Boulevard (838),a,Galaxy Boulevard,54,11288898,219524838,Toronto,131268
 43.6829253,-79.5805001,2,Meridian Road (731),a,Meridian Road,26,11288895,219524731,Toronto,131268
-43.6829294,-79.5728822,2,Zealand Road (712),a,Zealand Road,19,11288290,219515712,Toronto,131268
 43.6829515,-79.5804375,2,Meridian Road (732),a,Meridian Road,26,11288895,219524732,Toronto,131268
-43.682962,-79.5668586,2,Martin Grove Road (912),a,Martin Grove Road,703,11281251,218873912,Toronto,131268
-43.682962,-79.5668586,2,Martin Grove Road (030),a,Martin Grove Road,703,11281251,218874030,Toronto,131268
 43.6829628,-79.5822986,2,Skyway Avenue (764),a,Skyway Avenue,94,11288896,219524764,Toronto,131268
-43.6829752,-79.5496402,2,Sheffley Crescent (502),a,Sheffley Crescent,15,11280814,218858502,Toronto,131268
 43.6829782,-79.580412,2,Meridian Road (733),a,Meridian Road,26,11288895,219524733,Toronto,131268
-43.6829804,-79.5730817,2,Zealand Road (070),a,Zealand Road,19,11288290,360963070,Toronto,131268
-43.6829884,-79.5513916,2,Pettit Drive (454),a,Pettit Drive,25,11280811,428570454,Toronto,131268
-43.6829988,-79.5493473,2,Sheffley Crescent (503),a,Sheffley Crescent,15,11280814,218858503,Toronto,131268
 43.6830049,-79.5803866,2,Meridian Road (734),a,Meridian Road,26,11288895,219524734,Toronto,131268
-43.6830142,-79.5687173,2,Redgrave Drive (774),a,Redgrave Drive,52,11288291,611446774,Toronto,131268
-43.6830146,-79.5732152,2,Clarion Road (471),a,Clarion Road,49,11288278,219515471,Toronto,131268
-43.6830146,-79.5732152,2,Clarion Road (472),a,Clarion Road,49,11288278,219515472,Toronto,131268
-43.6830146,-79.5732152,2,Zealand Road (713),a,Zealand Road,19,11288290,219515713,Toronto,131268
-43.6830194,-79.5568927,2,Shipley Road (761),a,Shipley Road,11,11281126,218868761,Toronto,131268
-43.6830194,-79.5568927,2,Gracey Boulevard (885),a,Gracey Boulevard,14,11281127,218868885,Toronto,131268
-43.6830211,-79.5668852,2,Martin Grove Road (031),a,Martin Grove Road,703,11281251,218874031,Toronto,131268
-43.6830306,-79.5500608,2,Sheffley Crescent (501),a,Sheffley Crescent,15,11280814,218858501,Toronto,131268
-43.6830349,-79.5562955,2,Haregate Court (492),a,Haregate Court,4,11284251,391664492,Toronto,131268
 43.6830409,-79.5803857,2,Meridian Road (735),a,Meridian Road,26,11288895,219524735,Toronto,131268
-43.6830505,-79.5551278,2,Orland Court (211),a,Orland Court,4,11284250,219377211,Toronto,131268
-43.6830641,-79.5685004,2,Redgrave Drive (015),a,Redgrave Drive,52,11288291,318934015,Toronto,131268
-43.6830644,-79.5491457,2,Sheffley Crescent (797),a,Sheffley Crescent,15,11280814,401241797,Toronto,131268
 43.6830684,-79.5823975,2,Skyway Avenue (344),a,Skyway Avenue,94,11288896,508739344,Toronto,131268
-43.6830699,-79.5563109,2,Haregate Court (152),a,Haregate Court,4,11284251,611448152,Toronto,131268
 43.6830706,-79.5900456,2,Galaxy Boulevard (769),a,Galaxy Boulevard,54,11288898,611446769,Toronto,131268
-43.6830744,-79.556917,2,Shipley Road (150),a,Shipley Road,11,11281126,611448150,Toronto,131268
 43.6830862,-79.5804095,2,Meridian Road (736),a,Meridian Road,26,11288895,219524736,Toronto,131268
-43.6830954,-79.5602305,2,Brampton Road (106),a,Brampton Road,34,11280957,218864106,Toronto,131268
-43.6830954,-79.5602305,2,Ladbrooke Road (748),a,Ladbrooke Road,8,11281124,218868748,Toronto,131268
 43.6830962,-79.5900928,2,Galaxy Boulevard (839),a,Galaxy Boulevard,54,11288898,219524839,Toronto,131268
-43.6830989,-79.5490394,2,Sheffley Crescent (504),a,Sheffley Crescent,15,11280814,218858504,Toronto,131268
-43.6830989,-79.5490394,2,Muirdale Avenue (507),a,Muirdale Avenue,10,11280815,218858507,Toronto,131268
-43.6831021,-79.5569299,2,Shipley Road (924),a,Shipley Road,11,11281126,391663924,Toronto,131268
-43.6831095,-79.5683035,2,Redgrave Drive (773),a,Redgrave Drive,52,11288291,611446773,Toronto,131268
-43.6831126,-79.5638824,2,Callowhill Drive (922),a,Callowhill Drive,19,11281118,391663922,Toronto,131268
-43.6831281,-79.5563401,2,Gracey Boulevard (887),a,Gracey Boulevard,14,11281127,218868887,Toronto,131268
-43.6831281,-79.5563401,2,Haregate Court (222),a,Haregate Court,4,11284251,219377222,Toronto,131268
 43.6831499,-79.5824739,2,Skyway Avenue (765),a,Skyway Avenue,94,11288896,219524765,Toronto,131268
-43.6831668,-79.5502719,2,Sheffley Crescent (500),a,Sheffley Crescent,15,11280814,218858500,Toronto,131268
 43.6831675,-79.5804324,2,Meridian Road (737),a,Meridian Road,26,11288895,219524737,Toronto,131268
-43.6831993,-79.5676243,2,Redgrave Drive (715),a,Redgrave Drive,52,11288291,219515715,Toronto,131268
-43.6832041,-79.5678625,2,Redgrave Drive (014),a,Redgrave Drive,52,11288291,318934014,Toronto,131268
-43.6832274,-79.5671438,2,Martin Grove Road (927),a,Martin Grove Road,703,11281251,218873927,Toronto,131268
-43.6832292,-79.5677479,2,Redgrave Drive (714),a,Redgrave Drive,52,11288291,219515714,Toronto,131268
-43.6832292,-79.5677479,2,Redgrave Drive (721),a,Redgrave Drive,52,11288291,219515721,Toronto,131268
-43.6832292,-79.5677479,2,Redgrave Drive (722),a,Redgrave Drive,52,11288291,219515722,Toronto,131268
 43.6832527,-79.590395,2,Galaxy Boulevard (717),a,Galaxy Boulevard,54,11288898,490048717,Toronto,131268
-43.683259,-79.5536275,2,Kipling Avenue (705),a,Kipling Avenue,1113,11280312,496699705,Toronto,131268
-43.683259,-79.5536275,2,Kipling Avenue (707),a,Kipling Avenue,1113,11280312,496699707,Toronto,131268
-43.6832615,-79.5669933,2,Martin Grove Road (032),a,Martin Grove Road,703,11281251,218874032,Toronto,131268
-43.6832721,-79.567305,2,Redgrave Drive (716),a,Redgrave Drive,52,11288291,219515716,Toronto,131268
 43.683273,-79.5825941,2,Skyway Avenue (345),a,Skyway Avenue,94,11288896,508739345,Toronto,131268
-43.6832822,-79.5676363,2,Redgrave Drive (720),a,Redgrave Drive,52,11288291,219515720,Toronto,131268
-43.6832862,-79.5552172,2,Orland Court (491),a,Orland Court,4,11284250,391664491,Toronto,131268
-43.6832913,-79.547812,2,Rockcastle Drive (526),a,Rockcastle Drive,12,11280817,218858526,Toronto,131268
-43.6832985,-79.5699951,2,Waterbury Drive (488),a,Waterbury Drive,45,11288279,219515488,Toronto,131268
-43.6833017,-79.5671753,2,Martin Grove Road (922),a,Martin Grove Road,703,11281251,218873922,Toronto,131268
-43.6833017,-79.5671753,2,Martin Grove Road (926),a,Martin Grove Road,703,11281251,218873926,Toronto,131268
-43.6833017,-79.5671753,2,Redgrave Drive (717),a,Redgrave Drive,52,11288291,219515717,Toronto,131268
-43.6833017,-79.5671753,2,The Westway (769),a,The Westway,241,11288292,219515769,Toronto,131268
-43.6833118,-79.5552278,2,Orland Court (153),a,Orland Court,4,11284250,611448153,Toronto,131268
-43.6833161,-79.5492626,2,Muirdale Avenue (506),a,Muirdale Avenue,10,11280815,218858506,Toronto,131268
 43.6833268,-79.5905335,2,Galaxy Boulevard (840),a,Galaxy Boulevard,54,11288898,219524840,Toronto,131268
-43.6833335,-79.5639799,2,Callowhill Drive (632),a,Callowhill Drive,19,11281118,218868632,Toronto,131268
-43.6833358,-79.5670256,2,Martin Grove Road (919),a,Martin Grove Road,703,11281251,218873919,Toronto,131268
-43.6833358,-79.5670256,2,Martin Grove Road (033),a,Martin Grove Road,703,11281251,218874033,Toronto,131268
-43.6833358,-79.5670256,2,The Westway (765),a,The Westway,241,11288292,219515765,Toronto,131268
-43.6833358,-79.5670256,2,The Westway (770),a,The Westway,241,11288292,219515770,Toronto,131268
 43.6833442,-79.5206505,2,Eglinton Avenue West (841),a,Eglinton Avenue West,890,11280434,418041841,Toronto,131268
 43.6833442,-79.5206505,2,Eglinton Avenue West (842),a,Eglinton Avenue West,890,11280434,418041842,Toronto,131268
 43.6833444,-79.5826638,2,Skyway Avenue (766),a,Skyway Avenue,94,11288896,219524766,Toronto,131268
-43.6833482,-79.5673378,2,Redgrave Drive (719),a,Redgrave Drive,52,11288291,219515719,Toronto,131268
-43.6833561,-79.5669346,2,The Westway (766),a,The Westway,241,11288292,219515766,Toronto,131268
-43.6833596,-79.5504041,2,Sheffley Crescent (499),a,Sheffley Crescent,15,11280814,218858499,Toronto,131268
 43.6833603,-79.5202953,2,Eglinton Avenue West (924),a,Eglinton Avenue West,890,11280434,561863924,Toronto,131268
-43.6833632,-79.5553366,2,Gracey Boulevard (861),a,Gracey Boulevard,14,11281127,413334861,Toronto,131268
 43.6833699,-79.5907762,2,Galaxy Boulevard (841),a,Galaxy Boulevard,54,11288898,219524841,Toronto,131268
-43.6833759,-79.5672122,2,Martin Grove Road (918),a,Martin Grove Road,703,11281251,218873918,Toronto,131268
-43.6833759,-79.5672122,2,Martin Grove Road (921),a,Martin Grove Road,703,11281251,218873921,Toronto,131268
-43.6833759,-79.5672122,2,Redgrave Drive (718),a,Redgrave Drive,52,11288291,219515718,Toronto,131268
-43.6833759,-79.5672122,2,The Westway (772),a,The Westway,241,11288292,219515772,Toronto,131268
 43.6833759,-79.5199525,2,Eglinton Avenue West (090),a,Eglinton Avenue West,890,11280434,218846090,Toronto,131268
 43.6833759,-79.5199525,2,Eglinton Avenue West (867),a,Eglinton Avenue West,890,11280434,611449867,Toronto,131268
-43.6833763,-79.5552512,2,Gracey Boulevard (889),a,Gracey Boulevard,14,11281127,218868889,Toronto,131268
-43.6833763,-79.5552512,2,Orland Court (212),a,Orland Court,4,11284250,219377212,Toronto,131268
-43.6833891,-79.5714818,2,Van Camp Place (653),a,Van Camp Place,7,11288287,219515653,Toronto,131268
 43.6833955,-79.5194662,2,Eglinton Avenue West (089),a,Eglinton Avenue West,890,11280434,218846089,Toronto,131268
-43.6833996,-79.5548435,2,Gracey Boulevard (891),a,Gracey Boulevard,14,11281127,218868891,Toronto,131268
-43.6834068,-79.5623574,2,Carswell Place (751),a,Carswell Place,5,11281125,218868751,Toronto,131268
-43.6834101,-79.5670625,2,Martin Grove Road (913),a,Martin Grove Road,703,11281251,218873913,Toronto,131268
-43.6834101,-79.5670625,2,Martin Grove Road (920),a,Martin Grove Road,703,11281251,218873920,Toronto,131268
-43.6834101,-79.5670625,2,The Westway (764),a,The Westway,241,11288292,219515764,Toronto,131268
-43.6834101,-79.5670625,2,The Westway (771),a,The Westway,241,11288292,219515771,Toronto,131268
-43.6834161,-79.5700419,2,Waterbury Drive (489),a,Waterbury Drive,45,11288279,219515489,Toronto,131268
 43.683431,-79.5172536,2,Eglinton Avenue West (864),a,Eglinton Avenue West,890,11280434,611449864,Toronto,131268
 43.683432,-79.5827544,2,Skyway Avenue (646),a,Skyway Avenue,94,11288896,391665646,Toronto,131268
-43.6834321,-79.5669782,2,The Westway (763),a,The Westway,241,11288292,219515763,Toronto,131268
-43.6834375,-79.5665145,2,The Westway (767),a,The Westway,241,11288292,219515767,Toronto,131268
-43.6834422,-79.5516288,2,Pettit Drive (466),a,Pettit Drive,25,11280811,218858466,Toronto,131268
-43.6834616,-79.5672502,2,Martin Grove Road (917),a,Martin Grove Road,703,11281251,218873917,Toronto,131268
-43.6834769,-79.5623339,2,Carswell Place (752),a,Carswell Place,5,11281125,218868752,Toronto,131268
-43.6834935,-79.5671018,2,Martin Grove Road (914),a,Martin Grove Road,703,11281251,218873914,Toronto,131268
-43.6835069,-79.5701018,2,Waterbury Drive (490),a,Waterbury Drive,45,11288279,219515490,Toronto,131268
-43.6835082,-79.5664071,2,The Westway (761),a,The Westway,241,11288292,219515761,Toronto,131268
-43.6835082,-79.5664071,2,The Westway (768),a,The Westway,241,11288292,219515768,Toronto,131268
-43.6835082,-79.5664071,2,The Westway (720),a,The Westway,241,11288292,611446720,Toronto,131268
-43.6835252,-79.5622497,2,Carswell Place (753),a,Carswell Place,5,11281125,218868753,Toronto,131268
-43.6835299,-79.5665634,2,The Westway (762),a,The Westway,241,11288292,219515762,Toronto,131268
-43.683536,-79.5701228,2,Waterbury Drive (491),a,Waterbury Drive,45,11288279,219515491,Toronto,131268
-43.6835374,-79.5662892,2,The Westway (769),a,The Westway,241,11288292,461544769,Toronto,131268
 43.6835422,-79.5828683,2,Skyway Avenue (767),a,Skyway Avenue,94,11288896,219524767,Toronto,131268
-43.6835602,-79.5714777,2,Van Camp Place (654),a,Van Camp Place,7,11288287,219515654,Toronto,131268
-43.6835756,-79.5494489,2,Muirdale Avenue (799),a,Muirdale Avenue,10,11280815,401241799,Toronto,131268
-43.6836006,-79.5539801,2,Gracey Boulevard (450),a,Gracey Boulevard,14,11281127,360961450,Toronto,131268
-43.683606,-79.5527777,2,Parmalea Crescent (515),a,Parmalea Crescent,12,11280816,218858515,Toronto,131268
-43.6836068,-79.5539508,2,Gracey Boulevard (151),a,Gracey Boulevard,14,11281127,611448151,Toronto,131268
-43.6836069,-79.5701739,2,Waterbury Drive (492),a,Waterbury Drive,45,11288279,219515492,Toronto,131268
-43.6836136,-79.5659808,2,The Westway (770),a,The Westway,241,11288292,461544770,Toronto,131268
-43.6836255,-79.5517168,2,Pettit Drive (455),a,Pettit Drive,25,11280811,428570455,Toronto,131268
-43.6836391,-79.553801,2,Kipling Avenue (706),a,Kipling Avenue,1113,11280312,496699706,Toronto,131268
-43.6836391,-79.553801,2,Kipling Avenue (708),a,Kipling Avenue,1113,11280312,496699708,Toronto,131268
-43.6836391,-79.553801,2,Gracey Boulevard (893),a,Gracey Boulevard,14,11281127,218868893,Toronto,131268
-43.6836463,-79.5617234,2,Carswell Place (754),a,Carswell Place,5,11281125,218868754,Toronto,131268
 43.6836548,-79.582996,2,Skyway Avenue (768),a,Skyway Avenue,94,11288896,219524768,Toronto,131268
-43.6836676,-79.5714255,2,Van Camp Place (655),a,Van Camp Place,7,11288287,219515655,Toronto,131268
-43.6836843,-79.5527735,2,Parmalea Crescent (514),a,Parmalea Crescent,12,11280816,218858514,Toronto,131268
-43.683696,-79.5641508,2,Callowhill Drive (921),a,Callowhill Drive,19,11281118,391663921,Toronto,131268
-43.6837012,-79.5656265,2,The Westway (767),a,The Westway,241,11288292,461544767,Toronto,131268
-43.683716,-79.5702581,2,Waterbury Drive (493),a,Waterbury Drive,45,11288279,219515493,Toronto,131268
-43.683716,-79.5702581,2,Waterbury Drive (499),a,Waterbury Drive,45,11288279,219515499,Toronto,131268
-43.683716,-79.5702581,2,Dunsany Crescent (576),a,Dunsany Crescent,45,11288284,219515576,Toronto,131268
-43.6837482,-79.5526759,2,Parmalea Crescent (513),a,Parmalea Crescent,12,11280816,218858513,Toronto,131268
 43.6837508,-79.5941847,2,Carlingview Drive (524),a,Carlingview Drive,157,11280966,318969524,Toronto,131268
-43.6837601,-79.5701826,2,Dunsany Crescent (577),a,Dunsany Crescent,45,11288284,219515577,Toronto,131268
-43.6837622,-79.5573259,2,Ladbrooke Road (476),a,Ladbrooke Road,8,11281124,504024476,Toronto,131268
 43.6837687,-79.5673876,2,Martin Grove Road (916),a,Martin Grove Road,703,11281251,218873916,Toronto,131268
 43.6837687,-79.5673876,2,Martin Grove Road (925),a,Martin Grove Road,703,11281251,218873925,Toronto,131268
-43.6837696,-79.557294,2,Ladbrooke Road (721),a,Ladbrooke Road,8,11281124,611446721,Toronto,131268
-43.6837746,-79.5701549,2,Dunsany Crescent (950),a,Dunsany Crescent,45,11288284,362793950,Toronto,131268
-43.6837829,-79.5572359,2,Ladbrooke Road (749),a,Ladbrooke Road,8,11281124,218868749,Toronto,131268
-43.6837829,-79.5572359,2,Shipley Road (760),a,Shipley Road,11,11281126,218868760,Toronto,131268
-43.6837864,-79.5701324,2,Dunsany Crescent (578),a,Dunsany Crescent,45,11288284,219515578,Toronto,131268
-43.6837976,-79.5651807,2,The Westway (768),a,The Westway,241,11288292,461544768,Toronto,131268
 43.6838038,-79.5672453,2,Martin Grove Road (907),a,Martin Grove Road,703,11281251,218873907,Toronto,131268
 43.6838038,-79.5672453,2,Martin Grove Road (915),a,Martin Grove Road,703,11281251,218873915,Toronto,131268
-43.6838128,-79.5700821,2,Dunsany Crescent (579),a,Dunsany Crescent,45,11288284,219515579,Toronto,131268
-43.6838392,-79.5700319,2,Dunsany Crescent (580),a,Dunsany Crescent,45,11288284,219515580,Toronto,131268
-43.6838561,-79.5483871,2,Rockcastle Drive (525),a,Rockcastle Drive,12,11280817,218858525,Toronto,131268
-43.6838656,-79.5699816,2,Dunsany Crescent (581),a,Dunsany Crescent,45,11288284,219515581,Toronto,131268
 43.6838729,-79.5831869,2,Skyway Avenue (769),a,Skyway Avenue,94,11288896,219524769,Toronto,131268
-43.683892,-79.5699314,2,Dunsany Crescent (582),a,Dunsany Crescent,45,11288284,219515582,Toronto,131268
 43.6838952,-79.5539213,2,Kipling Avenue (527),a,Kipling Avenue,1113,11280312,496699527,Toronto,131268
 43.6838952,-79.5539213,2,Kipling Avenue (709),a,Kipling Avenue,1113,11280312,496699709,Toronto,131268
-43.6839079,-79.5519497,2,Parmalea Crescent (459),a,Parmalea Crescent,12,11280816,428570459,Toronto,131268
-43.6839094,-79.5698813,2,Dunsany Crescent (583),a,Dunsany Crescent,45,11288284,219515583,Toronto,131268
-43.6839245,-79.5606005,2,Brampton Road (105),a,Brampton Road,34,11280957,218864105,Toronto,131268
-43.6839245,-79.5606005,2,Shipley Road (755),a,Shipley Road,11,11281126,218868755,Toronto,131268
-43.6839357,-79.5698311,2,Dunsany Crescent (584),a,Dunsany Crescent,45,11288284,219515584,Toronto,131268
-43.6839402,-79.5518028,2,Pettit Drive (465),a,Pettit Drive,25,11280811,218858465,Toronto,131268
-43.6839402,-79.5518028,2,Parmalea Crescent (512),a,Parmalea Crescent,12,11280816,218858512,Toronto,131268
-43.6839403,-79.5484107,2,Rockcastle Drive (524),a,Rockcastle Drive,12,11280817,218858524,Toronto,131268
-43.6839434,-79.5605005,2,Shipley Road (149),a,Shipley Road,11,11281126,611448149,Toronto,131268
-43.6839496,-79.5604688,2,Shipley Road (588),a,Shipley Road,11,11281126,428570588,Toronto,131268
-43.6839536,-79.5712575,2,Van Camp Place (656),a,Van Camp Place,7,11288287,219515656,Toronto,131268
-43.6839621,-79.5697808,2,Dunsany Crescent (585),a,Dunsany Crescent,45,11288284,219515585,Toronto,131268
-43.6839885,-79.5697306,2,Dunsany Crescent (586),a,Dunsany Crescent,45,11288284,219515586,Toronto,131268
-43.6840057,-79.5696681,2,Dunsany Crescent (587),a,Dunsany Crescent,45,11288284,219515587,Toronto,131268
 43.6840096,-79.5674825,2,Martin Grove Road (924),a,Martin Grove Road,703,11281251,218873924,Toronto,131268
-43.6840175,-79.5483614,2,Rockcastle Drive (523),a,Rockcastle Drive,12,11280817,218858523,Toronto,131268
-43.6840248,-79.5711937,2,Van Camp Place (657),a,Van Camp Place,7,11288287,219515657,Toronto,131268
-43.6840321,-79.5696179,2,Dunsany Crescent (588),a,Dunsany Crescent,45,11288284,219515588,Toronto,131268
 43.6840394,-79.5832948,2,Skyway Avenue (647),a,Skyway Avenue,94,11288896,391665647,Toronto,131268
 43.684044,-79.5673576,2,Martin Grove Road (908),a,Martin Grove Road,703,11281251,218873908,Toronto,131268
-43.6840493,-79.5695554,2,Dunsany Crescent (589),a,Dunsany Crescent,45,11288284,219515589,Toronto,131268
 43.684062,-79.5808349,2,Meridian Road (641),a,Meridian Road,26,11288895,391665641,Toronto,131268
-43.6840667,-79.5695054,2,Dunsany Crescent (590),a,Dunsany Crescent,45,11288284,219515590,Toronto,131268
-43.6840811,-79.5507447,2,Sheffley Crescent (498),a,Sheffley Crescent,15,11280814,218858498,Toronto,131268
-43.6840839,-79.5694429,2,Dunsany Crescent (591),a,Dunsany Crescent,45,11288284,219515591,Toronto,131268
 43.6840866,-79.5674307,2,Martin Grove Road (909),a,Martin Grove Road,703,11281251,218873909,Toronto,131268
 43.6840866,-79.5674307,2,Martin Grove Road (923),a,Martin Grove Road,703,11281251,218873923,Toronto,131268
 43.6840866,-79.5674307,2,Martin Grove Road (930),a,Martin Grove Road,703,11281251,218873930,Toronto,131268
-43.6840902,-79.5706587,2,Waterbury Drive (500),a,Waterbury Drive,45,11288279,219515500,Toronto,131268
 43.6840984,-79.5833325,2,Skyway Avenue (770),a,Skyway Avenue,94,11288896,219524770,Toronto,131268
-43.6841013,-79.5693929,2,Dunsany Crescent (592),a,Dunsany Crescent,45,11288284,219515592,Toronto,131268
-43.6841186,-79.5693304,2,Dunsany Crescent (593),a,Dunsany Crescent,45,11288284,219515593,Toronto,131268
-43.6841268,-79.5692682,2,Dunsany Crescent (594),a,Dunsany Crescent,45,11288284,219515594,Toronto,131268
-43.6841317,-79.5507317,2,Sheffley Crescent (497),a,Sheffley Crescent,15,11280814,218858497,Toronto,131268
-43.684144,-79.5692058,2,Dunsany Crescent (595),a,Dunsany Crescent,45,11288284,219515595,Toronto,131268
-43.6841614,-79.5691557,2,Dunsany Crescent (596),a,Dunsany Crescent,45,11288284,219515596,Toronto,131268
 43.6841768,-79.5833868,2,Skyway Avenue (771),a,Skyway Avenue,94,11288896,219524771,Toronto,131268
-43.6841786,-79.5690933,2,Dunsany Crescent (597),a,Dunsany Crescent,45,11288284,219515597,Toronto,131268
-43.6841813,-79.5506543,2,Sheffley Crescent (496),a,Sheffley Crescent,15,11280814,218858496,Toronto,131268
-43.6841868,-79.5690311,2,Dunsany Crescent (598),a,Dunsany Crescent,45,11288284,219515598,Toronto,131268
-43.6842042,-79.568981,2,Dunsany Crescent (599),a,Dunsany Crescent,45,11288284,219515599,Toronto,131268
-43.6842075,-79.551861,2,Pettit Drive (464),a,Pettit Drive,25,11280811,218858464,Toronto,131268
-43.6842214,-79.5689186,2,Dunsany Crescent (600),a,Dunsany Crescent,45,11288284,219515600,Toronto,131268
-43.6842289,-79.5687943,2,Dunsany Crescent (602),a,Dunsany Crescent,45,11288284,219515602,Toronto,131268
-43.6842297,-79.5688563,2,Dunsany Crescent (601),a,Dunsany Crescent,45,11288284,219515601,Toronto,131268
 43.6842342,-79.5944048,2,Carlingview Drive (525),a,Carlingview Drive,157,11280966,318969525,Toronto,131268
-43.6842371,-79.5687321,2,Dunsany Crescent (603),a,Dunsany Crescent,45,11288284,219515603,Toronto,131268
-43.6842446,-79.5709383,2,Van Camp Place (953),a,Van Camp Place,7,11288287,362793953,Toronto,131268
-43.6842449,-79.5592084,2,Shipley Road (756),a,Shipley Road,11,11281126,218868756,Toronto,131268
-43.6842453,-79.5686699,2,Dunsany Crescent (604),a,Dunsany Crescent,45,11288284,219515604,Toronto,131268
 43.6842688,-79.5834501,2,Skyway Avenue (028),a,Skyway Avenue,94,11288896,506896028,Toronto,131268
-43.6842805,-79.5685677,2,Dunsany Crescent (605),a,Dunsany Crescent,45,11288284,219515605,Toronto,131268
-43.6843026,-79.5478531,2,Rockcastle Drive (802),a,Rockcastle Drive,12,11280817,401241802,Toronto,131268
-43.6843112,-79.5478382,2,Rockcastle Drive (163),a,Rockcastle Drive,12,11280817,611448163,Toronto,131268
-43.6843114,-79.5708607,2,Waterbury Drive (480),a,Waterbury Drive,45,11288279,219515480,Toronto,131268
-43.6843114,-79.5708607,2,Waterbury Drive (501),a,Waterbury Drive,45,11288279,219515501,Toronto,131268
-43.6843114,-79.5708607,2,Van Camp Place (658),a,Van Camp Place,7,11288287,219515658,Toronto,131268
-43.6843142,-79.5685241,2,Dunsany Crescent (606),a,Dunsany Crescent,45,11288284,219515606,Toronto,131268
-43.6843376,-79.5498063,2,Muirdale Avenue (798),a,Muirdale Avenue,10,11280815,401241798,Toronto,131268
-43.6843685,-79.5477326,2,Wincott Drive (289),a,Wincott Drive,89,11280796,218858289,Toronto,131268
-43.6843685,-79.5477326,2,Rockcastle Drive (522),a,Rockcastle Drive,12,11280817,218858522,Toronto,131268
-43.6843695,-79.568518,2,Dunsany Crescent (607),a,Dunsany Crescent,45,11288284,219515607,Toronto,131268
-43.6843774,-79.5709121,2,Waterbury Drive (481),a,Waterbury Drive,45,11288279,219515481,Toronto,131268
-43.6844055,-79.5685172,2,Dunsany Crescent (608),a,Dunsany Crescent,45,11288284,219515608,Toronto,131268
-43.6844276,-79.5498485,2,Sheffley Crescent (495),a,Sheffley Crescent,15,11280814,218858495,Toronto,131268
-43.6844276,-79.5498485,2,Muirdale Avenue (505),a,Muirdale Avenue,10,11280815,218858505,Toronto,131268
-43.6844417,-79.5685287,2,Dunsany Crescent (609),a,Dunsany Crescent,45,11288284,219515609,Toronto,131268
-43.6844513,-79.5709698,2,Waterbury Drive (482),a,Waterbury Drive,45,11288279,219515482,Toronto,131268
-43.684457,-79.558215,2,Shipley Road (757),a,Shipley Road,11,11281126,218868757,Toronto,131268
-43.6844963,-79.568577,2,Dunsany Crescent (610),a,Dunsany Crescent,45,11288284,219515610,Toronto,131268
-43.6845064,-79.5576838,2,Shipley Road (758),a,Shipley Road,11,11281126,218868758,Toronto,131268
 43.6845123,-79.5836126,2,Skyway Avenue (772),a,Skyway Avenue,94,11288896,219524772,Toronto,131268
-43.684514,-79.5495029,2,Shadwick Drive (492),a,Shadwick Drive,7,11280813,218858492,Toronto,131268
-43.684514,-79.5495029,2,Sheffley Crescent (494),a,Sheffley Crescent,15,11280814,218858494,Toronto,131268
-43.6845215,-79.5575793,2,Shipley Road (759),a,Shipley Road,11,11281126,218868759,Toronto,131268
-43.6845307,-79.5710252,2,Waterbury Drive (483),a,Waterbury Drive,45,11288279,219515483,Toronto,131268
 43.6846033,-79.5836694,2,Skyway Avenue (774),a,Skyway Avenue,94,11288896,219524774,Toronto,131268
-43.684611,-79.5495473,2,Shadwick Drive (795),a,Shadwick Drive,7,11280813,401241795,Toronto,131268
-43.6846575,-79.5710804,2,Waterbury Drive (484),a,Waterbury Drive,45,11288279,219515484,Toronto,131268
-43.6846575,-79.5710804,2,Waterbury Drive (485),a,Waterbury Drive,45,11288279,219515485,Toronto,131268
-43.6846575,-79.5710804,2,Dunsany Crescent (618),a,Dunsany Crescent,45,11288284,219515618,Toronto,131268
-43.684688,-79.5709434,2,Dunsany Crescent (951),a,Dunsany Crescent,45,11288284,362793951,Toronto,131268
 43.6846994,-79.5946167,2,Carlingview Drive (448),a,Carlingview Drive,157,11280966,218864448,Toronto,131268
-43.6847215,-79.5721822,2,Clarion Road (473),a,Clarion Road,49,11288278,219515473,Toronto,131268
 43.6847567,-79.5837624,2,Skyway Avenue (029),a,Skyway Avenue,94,11288896,506896029,Toronto,131268
-43.684775,-79.5721437,2,Clarion Road (474),a,Clarion Road,49,11288278,219515474,Toronto,131268
-43.6847936,-79.5484513,2,Sheffley Crescent (162),a,Sheffley Crescent,15,11280814,611448162,Toronto,131268
-43.6848003,-79.5484268,2,Sheffley Crescent (161),a,Sheffley Crescent,15,11280814,611448161,Toronto,131268
-43.6848296,-79.5483231,2,Wincott Drive (288),a,Wincott Drive,89,11280796,218858288,Toronto,131268
-43.6848296,-79.5483231,2,Sheffley Crescent (493),a,Sheffley Crescent,15,11280814,218858493,Toronto,131268
 43.6848419,-79.5838179,2,Meridian Road (746),a,Meridian Road,26,11288895,219524746,Toronto,131268
 43.6848419,-79.5838179,2,Skyway Avenue (775),a,Skyway Avenue,94,11288896,219524775,Toronto,131268
 43.6848419,-79.5838179,2,Skyway Avenue (755),a,Skyway Avenue,94,11288896,611446755,Toronto,131268
-43.6848642,-79.5720795,2,Clarion Road (475),a,Clarion Road,49,11288278,219515475,Toronto,131268
 43.6848794,-79.5836659,2,Meridian Road (771),a,Meridian Road,26,11288895,611446771,Toronto,131268
 43.6848841,-79.5836467,2,Meridian Road (745),a,Meridian Road,26,11288895,219524745,Toronto,131268
 43.6848881,-79.5543878,2,Kipling Avenue (953),a,Kipling Avenue,1113,11280312,218839953,Toronto,131268
 43.6848881,-79.5543878,2,Kipling Avenue (958),a,Kipling Avenue,1113,11280312,218839958,Toronto,131268
 43.6848881,-79.5543878,2,Kipling Avenue (965),a,Kipling Avenue,1113,11280312,218839965,Toronto,131268
 43.6849054,-79.5947105,2,Carlingview Drive (449),a,Carlingview Drive,157,11280966,218864449,Toronto,131268
-43.6849079,-79.5484368,2,Wincott Drive (287),a,Wincott Drive,89,11280796,218858287,Toronto,131268
 43.6849353,-79.554463,2,Kipling Avenue (964),a,Kipling Avenue,1113,11280312,218839964,Toronto,131268
-43.6849443,-79.5720032,2,Clarion Road (476),a,Clarion Road,49,11288278,219515476,Toronto,131268
-43.6849643,-79.5484856,2,Wincott Drive (418),a,Wincott Drive,89,11280796,428570418,Toronto,131268
 43.6849801,-79.5543317,2,Kipling Avenue (959),a,Kipling Avenue,1113,11280312,218839959,Toronto,131268
-43.6849881,-79.5719029,2,Clarion Road (477),a,Clarion Road,49,11288278,219515477,Toronto,131268
-43.6849946,-79.5688257,2,Dunsany Crescent (611),a,Dunsany Crescent,45,11288284,219515611,Toronto,131268
-43.6850121,-79.5508911,2,Fulford Place (486),a,Fulford Place,10,11280812,218858486,Toronto,131268
 43.6850204,-79.5947616,2,Carlingview Drive (450),a,Carlingview Drive,157,11280966,218864450,Toronto,131268
-43.6850217,-79.5509626,2,Fulford Place (485),a,Fulford Place,10,11280812,218858485,Toronto,131268
-43.685023,-79.5718152,2,Clarion Road (478),a,Clarion Road,49,11288278,219515478,Toronto,131268
-43.6850489,-79.5485435,2,Wincott Drive (417),a,Wincott Drive,89,11280796,428570417,Toronto,131268
-43.6850578,-79.5688366,2,Dunsany Crescent (612),a,Dunsany Crescent,45,11288284,219515612,Toronto,131268
-43.6850625,-79.5510125,2,Fulford Place (484),a,Fulford Place,10,11280812,218858484,Toronto,131268
-43.6850794,-79.5691845,2,Dunsany Crescent (617),a,Dunsany Crescent,45,11288284,219515617,Toronto,131268
-43.6850815,-79.5714155,2,Clarion Road (067),a,Clarion Road,49,11288278,360963067,Toronto,131268
-43.6850962,-79.569107,2,Dunsany Crescent (616),a,Dunsany Crescent,45,11288284,219515616,Toronto,131268
-43.6850977,-79.5713047,2,Clarion Road (479),a,Clarion Road,49,11288278,219515479,Toronto,131268
-43.6850977,-79.5713047,2,Waterbury Drive (486),a,Waterbury Drive,45,11288279,219515486,Toronto,131268
-43.6850977,-79.5713047,2,Waterbury Drive (494),a,Waterbury Drive,45,11288279,219515494,Toronto,131268
-43.685102,-79.5595588,2,The Westway (803),a,The Westway,241,11288292,219515803,Toronto,131268
-43.6851124,-79.568885,2,Dunsany Crescent (613),a,Dunsany Crescent,45,11288284,219515613,Toronto,131268
-43.6851143,-79.5690338,2,Dunsany Crescent (615),a,Dunsany Crescent,45,11288284,219515615,Toronto,131268
 43.6851207,-79.5840092,2,Skyway Avenue (756),a,Skyway Avenue,94,11288896,611446756,Toronto,131268
-43.6851223,-79.5689592,2,Dunsany Crescent (614),a,Dunsany Crescent,45,11288284,219515614,Toronto,131268
-43.6851311,-79.5485812,2,Wincott Drive (416),a,Wincott Drive,89,11280796,428570416,Toronto,131268
 43.6851323,-79.5813166,2,Meridian Road (738),a,Meridian Road,26,11288895,219524738,Toronto,131268
-43.6851821,-79.559222,2,The Westway (137),a,The Westway,241,11288292,428571137,Toronto,131268
 43.6851854,-79.5948348,2,Carlingview Drive (451),a,Carlingview Drive,157,11280966,218864451,Toronto,131268
 43.685214,-79.5813643,2,Meridian Road (739),a,Meridian Road,26,11288895,219524739,Toronto,131268
-43.6852257,-79.549997,2,Fulford Place (794),a,Fulford Place,10,11280812,401241794,Toronto,131268
 43.6852318,-79.5820371,2,Meridian Road (642),a,Meridian Road,26,11288895,391665642,Toronto,131268
-43.68524,-79.5589525,2,The Westway (411),a,The Westway,241,11288292,391665411,Toronto,131268
 43.6852504,-79.5814006,2,Meridian Road (740),a,Meridian Road,26,11288895,219524740,Toronto,131268
 43.685257,-79.5841052,2,Skyway Avenue (757),a,Skyway Avenue,94,11288896,611446757,Toronto,131268
-43.6852606,-79.5713753,2,Waterbury Drive (495),a,Waterbury Drive,45,11288279,219515495,Toronto,131268
-43.685262,-79.5498452,2,Fulford Place (487),a,Fulford Place,10,11280812,218858487,Toronto,131268
-43.685262,-79.5498452,2,Shadwick Drive (491),a,Shadwick Drive,7,11280813,218858491,Toronto,131268
-43.6852713,-79.5587807,2,The Westway (130),a,The Westway,241,11288292,428571130,Toronto,131268
 43.6852781,-79.5814496,2,Meridian Road (741),a,Meridian Road,26,11288895,219524741,Toronto,131268
-43.6852849,-79.5486519,2,Wincott Drive (286),a,Wincott Drive,89,11280796,218858286,Toronto,131268
 43.6852857,-79.5544704,2,Kipling Avenue (529),a,Kipling Avenue,1113,11280312,496699529,Toronto,131268
 43.6852857,-79.5544704,2,Kipling Avenue (681),a,Kipling Avenue,1113,11280312,496699681,Toronto,131268
-43.6852989,-79.5586161,2,The Westway (131),a,The Westway,241,11288292,428571131,Toronto,131268
 43.6853057,-79.5814986,2,Meridian Road (742),a,Meridian Road,26,11288895,219524742,Toronto,131268
 43.685308,-79.5816846,2,Meridian Road (744),a,Meridian Road,26,11288895,219524744,Toronto,131268
 43.6853244,-79.5815602,2,Meridian Road (743),a,Meridian Road,26,11288895,219524743,Toronto,131268
-43.6853287,-79.5584105,2,The Westway (802),a,The Westway,241,11288292,219515802,Toronto,131268
 43.6853367,-79.594902,2,Carlingview Drive (526),a,Carlingview Drive,157,11280966,318969526,Toronto,131268
-43.6853501,-79.5582001,2,The Westway (132),a,The Westway,241,11288292,428571132,Toronto,131268
-43.6853511,-79.5714104,2,Waterbury Drive (496),a,Waterbury Drive,45,11288279,219515496,Toronto,131268
-43.6853669,-79.5580033,2,The Westway (410),a,The Westway,241,11288292,391665410,Toronto,131268
-43.6853758,-79.5578606,2,The Westway (134),a,The Westway,241,11288292,428571134,Toronto,131268
 43.6853768,-79.5949198,2,Carlingview Drive (452),a,Carlingview Drive,157,11280966,218864452,Toronto,131268
 43.6853768,-79.5949198,2,Carlingview Drive (465),a,Carlingview Drive,157,11280966,218864465,Toronto,131268
-43.6853809,-79.5577251,2,The Westway (133),a,The Westway,241,11288292,428571133,Toronto,131268
-43.685385,-79.55759,2,The Westway (801),a,The Westway,241,11288292,219515801,Toronto,131268
-43.685387,-79.5574211,2,The Westway (800),a,The Westway,241,11288292,219515800,Toronto,131268
 43.6854025,-79.5842259,2,Skyway Avenue (758),a,Skyway Avenue,94,11288896,611446758,Toronto,131268
-43.6854773,-79.5714198,2,Waterbury Drive (497),a,Waterbury Drive,45,11288279,219515497,Toronto,131268
 43.6854939,-79.5843354,2,Skyway Avenue (759),a,Skyway Avenue,94,11288896,611446759,Toronto,131268
 43.6855673,-79.5844453,2,Skyway Avenue (760),a,Skyway Avenue,94,11288896,611446760,Toronto,131268
-43.6855996,-79.5711191,2,Vanderbrent Crescent (661),a,Vanderbrent Crescent,20,11288288,219515661,Toronto,131268
-43.6856053,-79.5708584,2,Vanderbrent Crescent (663),a,Vanderbrent Crescent,20,11288288,219515663,Toronto,131268
-43.6856069,-79.5709825,2,Vanderbrent Crescent (662),a,Vanderbrent Crescent,20,11288288,219515662,Toronto,131268
-43.6856082,-79.571442,2,Waterbury Drive (498),a,Waterbury Drive,45,11288279,219515498,Toronto,131268
-43.6856082,-79.571442,2,Waterbury Drive (502),a,Waterbury Drive,45,11288279,219515502,Toronto,131268
-43.6856082,-79.571442,2,Vanderbrent Crescent (659),a,Vanderbrent Crescent,20,11288288,219515659,Toronto,131268
-43.6856092,-79.5713321,2,Vanderbrent Crescent (954),a,Vanderbrent Crescent,20,11288288,362793954,Toronto,131268
-43.6856101,-79.5712429,2,Vanderbrent Crescent (660),a,Vanderbrent Crescent,20,11288288,219515660,Toronto,131268
-43.6856129,-79.5707466,2,Vanderbrent Crescent (664),a,Vanderbrent Crescent,20,11288288,219515664,Toronto,131268
-43.6856292,-79.5706097,2,Vanderbrent Crescent (665),a,Vanderbrent Crescent,20,11288288,219515665,Toronto,131268
-43.6856458,-79.5704977,2,Vanderbrent Crescent (666),a,Vanderbrent Crescent,20,11288288,219515666,Toronto,131268
-43.6856629,-79.5704228,2,Vanderbrent Crescent (667),a,Vanderbrent Crescent,20,11288288,219515667,Toronto,131268
 43.6856703,-79.5845871,2,Skyway Avenue (643),a,Skyway Avenue,94,11288896,391665643,Toronto,131268
 43.6856703,-79.5845871,2,Skyway Avenue (761),a,Skyway Avenue,94,11288896,611446761,Toronto,131268
 43.6856729,-79.595065,2,Carlingview Drive (466),a,Carlingview Drive,157,11280966,218864466,Toronto,131268
-43.6856846,-79.5714397,2,Waterbury Drive (503),a,Waterbury Drive,45,11288279,219515503,Toronto,131268
-43.6857741,-79.5488625,2,Wincott Drive (413),a,Wincott Drive,89,11280796,428570413,Toronto,131268
 43.6857987,-79.5547024,2,Kipling Avenue (259),a,Kipling Avenue,1113,11280312,428570259,Toronto,131268
-43.6858065,-79.5714249,2,Waterbury Drive (504),a,Waterbury Drive,45,11288279,219515504,Toronto,131268
 43.6858093,-79.5951319,2,Carlingview Drive (467),a,Carlingview Drive,157,11280966,218864467,Toronto,131268
 43.6858199,-79.5547119,2,Kipling Avenue (258),a,Kipling Avenue,1113,11280312,428570258,Toronto,131268
-43.6858853,-79.569487,2,Vanderbrent Crescent (668),a,Vanderbrent Crescent,20,11288288,219515668,Toronto,131268
-43.6858915,-79.5714224,2,Waterbury Drive (505),a,Waterbury Drive,45,11288279,219515505,Toronto,131268
-43.685902,-79.5693873,2,Vanderbrent Crescent (669),a,Vanderbrent Crescent,20,11288288,219515669,Toronto,131268
-43.6859281,-79.5693122,2,Vanderbrent Crescent (670),a,Vanderbrent Crescent,20,11288288,219515670,Toronto,131268
-43.6859636,-79.5692742,2,Vanderbrent Crescent (671),a,Vanderbrent Crescent,20,11288288,219515671,Toronto,131268
-43.6859992,-79.571395,2,Waterbury Drive (506),a,Waterbury Drive,45,11288279,219515506,Toronto,131268
-43.6860013,-79.5513943,2,Fulford Place (483),a,Fulford Place,10,11280812,218858483,Toronto,131268
 43.6860146,-79.5549481,2,Kipling Avenue (528),a,Kipling Avenue,1113,11280312,496699528,Toronto,131268
 43.6860146,-79.5549481,2,Kipling Avenue (684),a,Kipling Avenue,1113,11280312,496699684,Toronto,131268
-43.6860268,-79.5692851,2,Vanderbrent Crescent (672),a,Vanderbrent Crescent,20,11288288,219515672,Toronto,131268
-43.6860784,-79.5489926,2,Wincott Drive (285),a,Wincott Drive,89,11280796,218858285,Toronto,131268
-43.6860813,-79.569321,2,Vanderbrent Crescent (673),a,Vanderbrent Crescent,20,11288288,219515673,Toronto,131268
 43.6861315,-79.5952566,2,Carlingview Drive (468),a,Carlingview Drive,157,11280966,218864468,Toronto,131268
 43.6861336,-79.5785633,2,Kelfield Street (425),a,Kelfield Street,42,11288951,219525425,Toronto,131268
-43.6861449,-79.5693691,2,Vanderbrent Crescent (674),a,Vanderbrent Crescent,20,11288288,219515674,Toronto,131268
 43.6861618,-79.5786619,2,Kelfield Street (424),a,Kelfield Street,42,11288951,219525424,Toronto,131268
 43.686175,-79.5952733,2,Carlingview Drive (453),a,Carlingview Drive,157,11280966,218864453,Toronto,131268
 43.686175,-79.5952733,2,Carlingview Drive (469),a,Carlingview Drive,157,11280966,218864469,Toronto,131268
 43.686175,-79.5952733,2,Carlingview Drive (477),a,Carlingview Drive,157,11280966,218864477,Toronto,131268
-43.6861783,-79.5713163,2,Waterbury Drive (507),a,Waterbury Drive,45,11288279,219515507,Toronto,131268
 43.6861986,-79.5787231,2,Kelfield Street (423),a,Kelfield Street,42,11288951,219525423,Toronto,131268
 43.6862212,-79.5953613,2,Carlingview Drive (476),a,Carlingview Drive,157,11280966,218864476,Toronto,131268
 43.686227,-79.5781144,2,Kelfield Street (426),a,Kelfield Street,42,11288951,219525426,Toronto,131268
 43.6862387,-79.5952453,2,Carlingview Drive (454),a,Carlingview Drive,157,11280966,218864454,Toronto,131268
 43.6862442,-79.5787716,2,Kelfield Street (422),a,Kelfield Street,42,11288951,219525422,Toronto,131268
 43.6862803,-79.5778845,2,Kelfield Street (427),a,Kelfield Street,42,11288951,219525427,Toronto,131268
-43.6862954,-79.5503269,2,Shadwick Drive (490),a,Shadwick Drive,7,11280813,218858490,Toronto,131268
 43.6863078,-79.5788198,2,Kelfield Street (421),a,Kelfield Street,42,11288951,219525421,Toronto,131268
 43.6863278,-79.5550894,2,Kipling Avenue (955),a,Kipling Avenue,1113,11280312,218839955,Toronto,131268
 43.6863451,-79.5549539,2,Kipling Avenue (972),a,Kipling Avenue,1113,11280312,218839972,Toronto,131268
-43.6863552,-79.5516629,2,Fulford Place (482),a,Fulford Place,10,11280812,218858482,Toronto,131268
 43.6863566,-79.578841,2,Kelfield Street (738),a,Kelfield Street,42,11288951,334300738,Toronto,131268
 43.6863758,-79.6005351,2,Dixon Road (260),a,Dixon Road,385,11282402,218919260,Toronto,131268
 43.6863758,-79.6005351,2,Dixon Road (432),a,Dixon Road,385,11282402,218919432,Toronto,131268
@@ -2405,44 +1488,28 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6864005,-79.555035,2,Kipling Avenue (341),a,Kipling Avenue,1113,11280312,611448341,Toronto,131268
 43.6864065,-79.5773409,2,Kelfield Street (428),a,Kelfield Street,42,11288951,219525428,Toronto,131268
 43.6864173,-79.5772966,2,Kelfield Street (005),a,Kelfield Street,42,11288951,418041005,Toronto,131268
-43.6864211,-79.5491419,2,Wincott Drive (414),a,Wincott Drive,89,11280796,428570414,Toronto,131268
 43.6864603,-79.6015064,2,Dixon Road (701),a,Dixon Road,385,11282402,428570701,Toronto,131268
 43.6864746,-79.5994408,2,Dixon Road (429),a,Dixon Road,385,11282402,218919429,Toronto,131268
 43.6864746,-79.5994408,2,Dixon Road (433),a,Dixon Road,385,11282402,218919433,Toronto,131268
 43.6864798,-79.5788846,2,Kelfield Street (419),a,Kelfield Street,42,11288951,219525419,Toronto,131268
-43.6864813,-79.5707407,2,Ingleport Place (298),a,Ingleport Place,9,11284234,219376298,Toronto,131268
 43.6864902,-79.5993121,2,Dixon Road (721),a,Dixon Road,385,11282402,307953721,Toronto,131268
-43.6865014,-79.5706464,2,Ingleport Place (297),a,Ingleport Place,9,11284234,219376297,Toronto,131268
 43.686513,-79.5991237,2,Dixon Road (430),a,Dixon Road,385,11282402,218919430,Toronto,131268
-43.6865357,-79.5491998,2,Wincott Drive (284),a,Wincott Drive,89,11280796,218858284,Toronto,131268
-43.686538,-79.5518015,2,Fulford Place (086),a,Fulford Place,10,11280812,360961086,Toronto,131268
-43.6865527,-79.5705975,2,Ingleport Place (296),a,Ingleport Place,9,11284234,219376296,Toronto,131268
-43.686554,-79.5709762,2,Ingleport Place (505),a,Ingleport Place,9,11284234,362793505,Toronto,131268
 43.6865554,-79.5767319,2,Kelfield Street (429),a,Kelfield Street,42,11288951,219525429,Toronto,131268
-43.6865597,-79.5518185,2,Fulford Place (457),a,Fulford Place,10,11280812,428570457,Toronto,131268
-43.6865815,-79.5710652,2,Ingleport Place (299),a,Ingleport Place,9,11284234,219376299,Toronto,131268
-43.6865815,-79.5710652,2,Waterbury Drive (508),a,Waterbury Drive,45,11288279,219515508,Toronto,131268
 43.6865923,-79.5953717,2,Carlingview Drive (463),a,Carlingview Drive,157,11280966,218864463,Toronto,131268
 43.6865979,-79.5955333,2,Carlingview Drive (475),a,Carlingview Drive,157,11280966,218864475,Toronto,131268
 43.6866026,-79.5989719,2,Dixon Road (255),a,Dixon Road,385,11282402,218919255,Toronto,131268
 43.6866026,-79.5989719,2,Dixon Road (431),a,Dixon Road,385,11282402,218919431,Toronto,131268
 43.6866026,-79.5989719,2,Dixon Road (768),a,Dixon Road,385,11282402,611446768,Toronto,131268
-43.6866057,-79.5705975,2,Ingleport Place (295),a,Ingleport Place,9,11284234,219376295,Toronto,131268
 43.6866063,-79.5765238,2,Kelfield Street (006),a,Kelfield Street,42,11288951,418041006,Toronto,131268
 43.6866178,-79.5858915,2,Skyway Avenue (753),a,Skyway Avenue,94,11288896,219524753,Toronto,131268
 43.6866225,-79.5994931,2,Dixon Road (257),a,Dixon Road,385,11282402,218919257,Toronto,131268
 43.6866225,-79.5994931,2,Dixon Road (353),a,Dixon Road,385,11282402,218919353,Toronto,131268
 43.6866292,-79.5764299,2,Kelfield Street (430),a,Kelfield Street,42,11288951,219525430,Toronto,131268
 43.6866356,-79.5993609,2,Dixon Road (461),a,Dixon Road,385,11282402,307950461,Toronto,131268
-43.6866451,-79.5706552,2,Ingleport Place (294),a,Ingleport Place,9,11284234,219376294,Toronto,131268
-43.6866494,-79.5518884,2,Fulford Place (479),a,Fulford Place,10,11280812,218858479,Toronto,131268
-43.6866494,-79.5518884,2,The Westway (760),a,The Westway,241,11288292,461544760,Toronto,131268
 43.6866573,-79.5859458,2,Skyway Avenue (754),a,Skyway Avenue,94,11288896,219524754,Toronto,131268
 43.6866583,-79.5991323,2,Dixon Road (256),a,Dixon Road,385,11282402,218919256,Toronto,131268
 43.6866681,-79.5962517,2,Dixon Road (348),a,Dixon Road,385,11282402,218919348,Toronto,131268
 43.6866709,-79.5956858,2,Dixon Road (349),a,Dixon Road,385,11282402,218919349,Toronto,131268
-43.6866714,-79.571026,2,Waterbury Drive (509),a,Waterbury Drive,45,11288279,219515509,Toronto,131268
-43.6866714,-79.571026,2,Waterbury Drive (510),a,Waterbury Drive,45,11288279,219515510,Toronto,131268
 43.686672,-79.5952984,2,Dixon Road (451),a,Dixon Road,385,11282402,218919451,Toronto,131268
 43.6866724,-79.57628,2,Kelfield Street (431),a,Kelfield Street,42,11288951,219525431,Toronto,131268
 43.6866741,-79.5955605,2,Carlingview Drive (461),a,Carlingview Drive,157,11280966,218864461,Toronto,131268
@@ -2462,7 +1529,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6867041,-79.5972959,2,Dixon Road (729),a,Dixon Road,385,11282402,318904729,Toronto,131268
 43.6867041,-79.5972959,2,Dixon Road (767),a,Dixon Road,385,11282402,611446767,Toronto,131268
 43.6867064,-79.5971943,2,Dixon Road (245),a,Dixon Road,385,11282402,218919245,Toronto,131268
-43.6867096,-79.5708834,2,Ingleport Place (504),a,Ingleport Place,9,11284234,362793504,Toronto,131268
 43.6867132,-79.5969739,2,Dixon Road (728),a,Dixon Road,385,11282402,318904728,Toronto,131268
 43.6867178,-79.5939272,2,Dixon Road (265),a,Dixon Road,385,11282402,218919265,Toronto,131268
 43.68672,-79.5967508,2,Dixon Road (244),a,Dixon Road,385,11282402,218919244,Toronto,131268
@@ -2471,11 +1537,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6867298,-79.5964398,2,Dixon Road (347),a,Dixon Road,385,11282402,218919347,Toronto,131268
 43.6867298,-79.5964398,2,Dixon Road (449),a,Dixon Road,385,11282402,218919449,Toronto,131268
 43.686734,-79.5761669,2,Kelfield Street (432),a,Kelfield Street,42,11288951,219525432,Toronto,131268
-43.6867357,-79.5709855,2,Ingleport Place (293),a,Ingleport Place,9,11284234,219376293,Toronto,131268
-43.6867357,-79.5709855,2,Waterbury Drive (511),a,Waterbury Drive,45,11288279,219515511,Toronto,131268
 43.6867396,-79.5933356,2,Dixon Road (266),a,Dixon Road,385,11282402,218919266,Toronto,131268
 43.6867396,-79.5860431,2,Skyway Avenue (755),a,Skyway Avenue,94,11288896,219524755,Toronto,131268
-43.686769,-79.5493302,2,Wincott Drive (415),a,Wincott Drive,89,11280796,428570415,Toronto,131268
 43.6867927,-79.5963002,2,Dixon Road (448),a,Dixon Road,385,11282402,218919448,Toronto,131268
 43.6868012,-79.5961379,2,Dixon Road (263),a,Dixon Road,385,11282402,218919263,Toronto,131268
 43.6868012,-79.5961379,2,Dixon Road (447),a,Dixon Road,385,11282402,218919447,Toronto,131268
@@ -2496,7 +1559,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6868389,-79.5924234,2,Dixon Road (267),a,Dixon Road,385,11282402,218919267,Toronto,131268
 43.6868456,-79.5938952,2,Dixon Road (250),a,Dixon Road,385,11282402,218919250,Toronto,131268
 43.6868456,-79.5938952,2,Dixon Road (344),a,Dixon Road,385,11282402,218919344,Toronto,131268
-43.686851,-79.5696749,2,Vanderbrent Crescent (675),a,Vanderbrent Crescent,20,11288288,219515675,Toronto,131268
 43.6868515,-79.5936497,2,Dixon Road (766),a,Dixon Road,385,11282402,611446766,Toronto,131268
 43.6868611,-79.5932471,2,Dixon Road (249),a,Dixon Road,385,11282402,218919249,Toronto,131268
 43.6868784,-79.5956432,2,Carlingview Drive (480),a,Carlingview Drive,157,11280966,218864480,Toronto,131268
@@ -2506,11 +1568,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6869329,-79.5790217,2,Kelfield Street (073),a,Kelfield Street,42,11288951,318940073,Toronto,131268
 43.6869476,-79.5759633,2,Kelfield Street (434),a,Kelfield Street,42,11288951,219525434,Toronto,131268
 43.6869506,-79.5914404,2,Dixon Road (252),a,Dixon Road,385,11282402,218919252,Toronto,131268
-43.6869543,-79.5507506,2,Shadwick Drive (087),a,Shadwick Drive,7,11280813,360961087,Toronto,131268
-43.6869623,-79.5494567,2,Wincott Drive (283),a,Wincott Drive,89,11280796,218858283,Toronto,131268
 43.6869656,-79.5863021,2,Skyway Avenue (055),a,Skyway Avenue,94,11288896,318939055,Toronto,131268
 43.6869658,-79.5956807,2,Carlingview Drive (479),a,Carlingview Drive,157,11280966,218864479,Toronto,131268
-43.6869773,-79.5507654,2,Shadwick Drive (458),a,Shadwick Drive,7,11280813,428570458,Toronto,131268
 43.6870409,-79.5863835,2,Skyway Avenue (757),a,Skyway Avenue,94,11288896,219524757,Toronto,131268
 43.6870442,-79.5910078,2,Dixon Road (206),a,Dixon Road,385,11282402,218919206,Toronto,131268
 43.6870442,-79.5910078,2,Dixon Road (251),a,Dixon Road,385,11282402,218919251,Toronto,131268
@@ -2518,14 +1577,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.687055,-79.5759111,2,Kelfield Street (435),a,Kelfield Street,42,11288951,219525435,Toronto,131268
 43.6870657,-79.5957259,2,Carlingview Drive (478),a,Carlingview Drive,157,11280966,218864478,Toronto,131268
 43.6870657,-79.5957259,2,Carlingview Drive (500),a,Carlingview Drive,157,11280966,218864500,Toronto,131268
-43.6870754,-79.5508288,2,Shadwick Drive (675),a,Shadwick Drive,7,11280813,318895675,Toronto,131268
-43.6870754,-79.5508288,2,The Westway (755),a,The Westway,241,11288292,461544755,Toronto,131268
 43.6871088,-79.590374,2,Dixon Road (207),a,Dixon Road,385,11282402,218919207,Toronto,131268
 43.6871088,-79.590374,2,Dixon Road (413),a,Dixon Road,385,11282402,218919413,Toronto,131268
 43.6871419,-79.5790938,2,Kelfield Street (418),a,Kelfield Street,42,11288951,219525418,Toronto,131268
 43.6871535,-79.5758716,2,Kelfield Street (436),a,Kelfield Street,42,11288951,219525436,Toronto,131268
-43.6872078,-79.5706942,2,Waterbury Drive (512),a,Waterbury Drive,45,11288279,219515512,Toronto,131268
-43.6872117,-79.5504806,2,The Westway (207),a,The Westway,241,11288292,428571207,Toronto,131268
 43.6872138,-79.5865283,2,Skyway Avenue (758),a,Skyway Avenue,94,11288896,219524758,Toronto,131268
 43.6872266,-79.5904063,2,Dixon Road (412),a,Dixon Road,385,11282402,218919412,Toronto,131268
 43.6872266,-79.5904063,2,Dixon Road (415),a,Dixon Road,385,11282402,218919415,Toronto,131268
@@ -2533,22 +1588,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6872271,-79.589817,2,Dixon Road (417),a,Dixon Road,385,11282402,218919417,Toronto,131268
 43.6872702,-79.575844,2,Kelfield Street (437),a,Kelfield Street,42,11288951,219525437,Toronto,131268
 43.6872702,-79.575844,2,Kelfield Street (440),a,Kelfield Street,42,11288951,219525440,Toronto,131268
-43.6872771,-79.550286,2,The Westway (753),a,The Westway,241,11288292,461544753,Toronto,131268
-43.6872771,-79.550286,2,The Westway (754),a,The Westway,241,11288292,461544754,Toronto,131268
-43.687297,-79.5706301,2,Waterbury Drive (513),a,Waterbury Drive,45,11288279,219515513,Toronto,131268
 43.6873009,-79.5758465,2,Kelfield Street (441),a,Kelfield Street,42,11288951,219525441,Toronto,131268
 43.6873418,-79.5898888,2,Dixon Road (403),a,Dixon Road,385,11282402,218919403,Toronto,131268
 43.6873418,-79.5898888,2,Dixon Road (411),a,Dixon Road,385,11282402,218919411,Toronto,131268
-43.6873446,-79.5500732,2,The Westway (206),a,The Westway,241,11288292,428571206,Toronto,131268
 43.687368,-79.5866239,2,Skyway Avenue (759),a,Skyway Avenue,94,11288896,219524759,Toronto,131268
 43.6873839,-79.5866329,2,Skyway Avenue (644),a,Skyway Avenue,94,11288896,391665644,Toronto,131268
-43.6873859,-79.5705411,2,Waterbury Drive (514),a,Waterbury Drive,45,11288279,219515514,Toronto,131268
 43.6873874,-79.5758536,2,Kelfield Street (442),a,Kelfield Street,42,11288951,219525442,Toronto,131268
 43.6874217,-79.5958895,2,Carlingview Drive (499),a,Carlingview Drive,157,11280966,218864499,Toronto,131268
 43.6874315,-79.5866597,2,Skyway Avenue (760),a,Skyway Avenue,94,11288896,219524760,Toronto,131268
-43.6874475,-79.536337,2,Woodpark Road (904),a,Woodpark Road,19,11280717,611446904,Toronto,131268
 43.6874523,-79.5957504,2,Carlingview Drive (472),a,Carlingview Drive,157,11280966,218864472,Toronto,131268
-43.6874567,-79.5704401,2,Waterbury Drive (515),a,Waterbury Drive,45,11288279,219515515,Toronto,131268
 43.6874661,-79.5555167,2,Kipling Avenue (601),a,Kipling Avenue,1113,11280312,496699601,Toronto,131268
 43.6874987,-79.5866812,2,Skyway Avenue (761),a,Skyway Avenue,94,11288896,219524761,Toronto,131268
 43.6874987,-79.5866812,2,Skyway Avenue (813),a,Skyway Avenue,94,11288896,219524813,Toronto,131268
@@ -2557,34 +1605,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6875047,-79.595863,2,Carlingview Drive (498),a,Carlingview Drive,157,11280966,218864498,Toronto,131268
 43.6875047,-79.595863,2,Carlingview Drive (175),a,Carlingview Drive,157,11280966,611453175,Toronto,131268
 43.6875047,-79.5758757,2,Kelfield Street (443),a,Kelfield Street,42,11288951,219525443,Toronto,131268
-43.6875095,-79.5703396,2,Waterbury Drive (516),a,Waterbury Drive,45,11288279,219515516,Toronto,131268
-43.6875137,-79.5699581,2,Vanderbrent Crescent (955),a,Vanderbrent Crescent,20,11288288,362793955,Toronto,131268
 43.6875191,-79.5890418,2,Dixon Road (402),a,Dixon Road,385,11282402,218919402,Toronto,131268
 43.6875338,-79.595877,2,Carlingview Drive (176),a,Carlingview Drive,157,11280966,611453176,Toronto,131268
-43.6875441,-79.5702271,2,Waterbury Drive (517),a,Waterbury Drive,45,11288279,219515517,Toronto,131268
-43.6875558,-79.5359459,2,Woodpark Road (905),a,Woodpark Road,19,11280717,611446905,Toronto,131268
 43.6875772,-79.5882234,2,Dixon Road (387),a,Dixon Road,385,11282402,218919387,Toronto,131268
 43.6875772,-79.5882234,2,Dixon Road (418),a,Dixon Road,385,11282402,218919418,Toronto,131268
-43.6875929,-79.5699827,2,Waterbury Drive (518),a,Waterbury Drive,45,11288279,219515518,Toronto,131268
-43.6875929,-79.5699827,2,Waterbury Drive (519),a,Waterbury Drive,45,11288279,219515519,Toronto,131268
-43.6875929,-79.5699827,2,Abigail Place (572),a,Abigail Place,5,11288283,219515572,Toronto,131268
-43.6875929,-79.5699827,2,Vanderbrent Crescent (676),a,Vanderbrent Crescent,20,11288288,219515676,Toronto,131268
 43.6876112,-79.5880636,2,Dixon Road (758),a,Dixon Road,385,11282402,318958758,Toronto,131268
 43.6876314,-79.5759223,2,Kelfield Street (444),a,Kelfield Street,42,11288951,219525444,Toronto,131268
 43.6876379,-79.5866568,2,Skyway Avenue (814),a,Skyway Avenue,94,11288896,219524814,Toronto,131268
 43.687642,-79.5867524,2,Skyway Avenue (819),a,Skyway Avenue,94,11288896,219524819,Toronto,131268
 43.6876489,-79.5884592,2,Dixon Road (401),a,Dixon Road,385,11282402,218919401,Toronto,131268
 43.6876738,-79.5792626,2,Kelfield Street (417),a,Kelfield Street,42,11288951,219525417,Toronto,131268
-43.6876791,-79.5700278,2,Abigail Place (948),a,Abigail Place,5,11288283,362793948,Toronto,131268
-43.6877359,-79.5693621,2,Waterbury Drive (071),a,Waterbury Drive,45,11288279,360963071,Toronto,131268
 43.68774,-79.5759694,2,Kelfield Street (445),a,Kelfield Street,42,11288951,219525445,Toronto,131268
-43.6877492,-79.5693066,2,Waterbury Drive (743),a,Waterbury Drive,45,11288279,611446743,Toronto,131268
 43.6877732,-79.5959923,2,Carlingview Drive (067),a,Carlingview Drive,157,11280966,561864067,Toronto,131268
 43.6877732,-79.5959923,2,Carlingview Drive (068),a,Carlingview Drive,157,11280966,561864068,Toronto,131268
 43.6877836,-79.586815,2,Skyway Avenue (763),a,Skyway Avenue,94,11288896,611446763,Toronto,131268
-43.6877943,-79.5691547,2,Martin Grove Road (177),a,Martin Grove Road,703,11281251,218874177,Toronto,131268
-43.6877943,-79.5691547,2,Martin Grove Road (742),a,Martin Grove Road,703,11281251,611446742,Toronto,131268
-43.6877943,-79.5691547,2,Waterbury Drive (521),a,Waterbury Drive,45,11288279,219515521,Toronto,131268
 43.6878221,-79.586668,2,Skyway Avenue (762),a,Skyway Avenue,94,11288896,611446762,Toronto,131268
 43.6878395,-79.5760042,2,Kelfield Street (446),a,Kelfield Street,42,11288951,219525446,Toronto,131268
 43.6878434,-79.5869726,2,Dixon Road (764),a,Dixon Road,385,11282402,611446764,Toronto,131268
@@ -2601,8 +1635,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.687995,-79.5868815,2,Dixon Road (399),a,Dixon Road,385,11282402,218919399,Toronto,131268
 43.687995,-79.5868815,2,Attwell Drive (996),a,Attwell Drive,166,11284244,219376996,Toronto,131268
 43.687995,-79.5868815,2,Attwell Drive (017),a,Attwell Drive,166,11284244,219377017,Toronto,131268
-43.6880035,-79.5557574,2,Kipling Avenue (603),a,Kipling Avenue,1113,11280312,496699603,Toronto,131268
-43.6880035,-79.5557574,2,Kipling Avenue (628),a,Kipling Avenue,1113,11280312,496699628,Toronto,131268
 43.6880153,-79.5868059,2,Dixon Road (398),a,Dixon Road,385,11282402,218919398,Toronto,131268
 43.6880153,-79.5868059,2,Dixon Road (454),a,Dixon Road,385,11282402,218919454,Toronto,131268
 43.6880336,-79.5867301,2,Dixon Road (397),a,Dixon Road,385,11282402,218919397,Toronto,131268
@@ -2613,45 +1645,23 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6880387,-79.5760988,2,Kelfield Street (447),a,Kelfield Street,42,11288951,219525447,Toronto,131268
 43.6880387,-79.5760988,2,Stoffel Drive (448),a,Stoffel Drive,8,11288952,219525448,Toronto,131268
 43.6880881,-79.5869152,2,Attwell Drive (751),a,Attwell Drive,166,11284244,611446751,Toronto,131268
-43.6881007,-79.5702045,2,Abigail Place (573),a,Abigail Place,5,11288283,219515573,Toronto,131268
 43.6881206,-79.5867727,2,Attwell Drive (750),a,Attwell Drive,166,11284244,611446750,Toronto,131268
-43.688144,-79.5702094,2,Abigail Place (574),a,Abigail Place,5,11288283,219515574,Toronto,131268
 43.6881645,-79.585524,2,Dixon Road (393),a,Dixon Road,385,11282402,218919393,Toronto,131268
-43.6881671,-79.5693278,2,Martin Grove Road (738),a,Martin Grove Road,703,11281251,611446738,Toronto,131268
-43.6882138,-79.5701522,2,Abigail Place (575),a,Abigail Place,5,11288283,219515575,Toronto,131268
 43.6882403,-79.5962172,2,Carlingview Drive (081),a,Carlingview Drive,157,11280966,318896081,Toronto,131268
-43.6882463,-79.5693707,2,Lavington Drive (459),a,Lavington Drive,27,11280931,218863459,Toronto,131268
-43.6882463,-79.5693707,2,Martin Grove Road (038),a,Martin Grove Road,703,11281251,218874038,Toronto,131268
-43.6882463,-79.5693707,2,Martin Grove Road (179),a,Martin Grove Road,703,11281251,218874179,Toronto,131268
 43.6882588,-79.5751955,2,Stoffel Drive (743),a,Stoffel Drive,8,11288952,501188743,Toronto,131268
-43.6882816,-79.5692066,2,Lavington Drive (737),a,Lavington Drive,27,11280931,611446737,Toronto,131268
-43.6882885,-79.5691723,2,Lavington Drive (041),a,Lavington Drive,27,11280931,410567041,Toronto,131268
-43.6882885,-79.5691723,2,Lavington Drive (607),a,Lavington Drive,27,11280931,410567607,Toronto,131268
 43.6882969,-79.5962444,2,Carlingview Drive (385),a,Carlingview Drive,157,11280966,218864385,Toronto,131268
-43.6883303,-79.5559038,2,Kipling Avenue (604),a,Kipling Avenue,1113,11280312,496699604,Toronto,131268
-43.6883303,-79.5559038,2,Kipling Avenue (627),a,Kipling Avenue,1113,11280312,496699627,Toronto,131268
-43.6883303,-79.5559038,2,Holywell Drive (409),a,Holywell Drive,13,11280805,218858409,Toronto,131268
 43.6883547,-79.5852787,2,Dixon Road (219),a,Dixon Road,385,11282402,218919219,Toronto,131268
 43.6883547,-79.5852787,2,Dixon Road (396),a,Dixon Road,385,11282402,218919396,Toronto,131268
-43.6883683,-79.5557211,2,Holywell Drive (443),a,Holywell Drive,13,11280805,428570443,Toronto,131268
-43.688375,-79.5556892,2,Holywell Drive (805),a,Holywell Drive,13,11280805,386160805,Toronto,131268
 43.6883756,-79.5962788,2,Carlingview Drive (173),a,Carlingview Drive,157,11280966,611453173,Toronto,131268
-43.6883832,-79.569429,2,Martin Grove Road (736),a,Martin Grove Road,703,11281251,611446736,Toronto,131268
 43.688501,-79.5870635,2,Attwell Drive (994),a,Attwell Drive,166,11284244,219376994,Toronto,131268
-43.6885371,-79.5430661,2,The Westway (144),a,The Westway,241,11288292,428571144,Toronto,131268
-43.6885458,-79.543029,2,The Westway (145),a,The Westway,241,11288292,428571145,Toronto,131268
 43.6885612,-79.5763268,2,Kelfield Street (742),a,Kelfield Street,42,11288951,501188742,Toronto,131268
 43.6885699,-79.5728739,2,Stoffel Drive (454),a,Stoffel Drive,8,11288952,219525454,Toronto,131268
 43.6886075,-79.5737643,2,Stoffel Drive (449),a,Stoffel Drive,8,11288952,219525449,Toronto,131268
 43.6886116,-79.573004,2,Stoffel Drive (453),a,Stoffel Drive,8,11288952,219525453,Toronto,131268
 43.6886277,-79.5870226,2,Attwell Drive (999),a,Attwell Drive,166,11284244,219376999,Toronto,131268
-43.6886339,-79.5431026,2,The Westway (202),a,The Westway,241,11288292,428571202,Toronto,131268
 43.688636,-79.5763595,2,Kelfield Street (004),a,Kelfield Street,42,11288951,418041004,Toronto,131268
 43.688642,-79.5736019,2,Stoffel Drive (450),a,Stoffel Drive,8,11288952,219525450,Toronto,131268
-43.6886425,-79.5430651,2,The Westway (203),a,The Westway,241,11288292,428571203,Toronto,131268
 43.6886621,-79.5832815,2,Dixon Road (772),a,Dixon Road,385,11282402,318958772,Toronto,131268
-43.6886638,-79.556054,2,Kipling Avenue (605),a,Kipling Avenue,1113,11280312,496699605,Toronto,131268
-43.6886638,-79.556054,2,Kipling Avenue (607),a,Kipling Avenue,1113,11280312,496699607,Toronto,131268
 43.6886696,-79.5734605,2,Stoffel Drive (451),a,Stoffel Drive,8,11288952,219525451,Toronto,131268
 43.6886779,-79.5733211,2,Stoffel Drive (452),a,Stoffel Drive,8,11288952,219525452,Toronto,131268
 43.6887953,-79.5826812,2,Dixon Road (394),a,Dixon Road,385,11282402,218919394,Toronto,131268
@@ -2665,13 +1675,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6888938,-79.587187,2,Attwell Drive (000),a,Attwell Drive,166,11284244,219377000,Toronto,131268
 43.6888938,-79.587187,2,Attwell Drive (752),a,Attwell Drive,166,11284244,611446752,Toronto,131268
 43.6889669,-79.5872239,2,Attwell Drive (710),a,Attwell Drive,166,11284244,496701710,Toronto,131268
-43.6889803,-79.5414308,2,The Westway (882),a,The Westway,241,11288292,219515882,Toronto,131268
 43.6889904,-79.5824595,2,Dixon Road (218),a,Dixon Road,385,11282402,218919218,Toronto,131268
 43.6889904,-79.5824595,2,Dixon Road (227),a,Dixon Road,385,11282402,218919227,Toronto,131268
 43.6890039,-79.5817938,2,Dixon Road (241),a,Dixon Road,385,11282402,218919241,Toronto,131268
 43.6890039,-79.5817938,2,Dixon Road (753),a,Dixon Road,385,11282402,611446753,Toronto,131268
 43.689016,-79.5872506,2,Attwell Drive (711),a,Attwell Drive,166,11284244,496701711,Toronto,131268
-43.6890317,-79.541283,2,The Westway (173),a,The Westway,241,11288292,428571173,Toronto,131268
 43.689065,-79.5698024,2,Martin Grove Road (036),a,Martin Grove Road,703,11281251,218874036,Toronto,131268
 43.6890722,-79.5872773,2,Attwell Drive (707),a,Attwell Drive,166,11284244,496701707,Toronto,131268
 43.6891055,-79.5814024,2,Dixon Road (235),a,Dixon Road,385,11282402,218919235,Toronto,131268
@@ -2813,7 +1821,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6905935,-79.5773079,2,City View Drive (554),a,City View Drive,143,11288953,219525554,Toronto,131268
 43.690608,-79.5773312,2,City View Drive (555),a,City View Drive,143,11288953,219525555,Toronto,131268
 43.6906109,-79.5777097,2,City View Drive (287),a,City View Drive,143,11288953,428571287,Toronto,131268
-43.6906243,-79.5372113,2,The Westway (380),a,The Westway,241,11288292,391666380,Toronto,131268
 43.6906248,-79.5773737,2,City View Drive (556),a,City View Drive,143,11288953,219525556,Toronto,131268
 43.6906263,-79.5776323,2,City View Drive (558),a,City View Drive,143,11288953,219525558,Toronto,131268
 43.690636,-79.5774277,2,City View Drive (285),a,City View Drive,143,11288953,428571285,Toronto,131268
@@ -2831,7 +1838,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6907055,-79.5569795,2,Kipling Avenue (616),a,Kipling Avenue,1113,11280312,496699616,Toronto,131268
 43.6907158,-79.5995987,2,Fasken Drive (121),a,Fasken Drive,15,11280967,318896121,Toronto,131268
 43.6907251,-79.587254,2,Attwell Drive (718),a,Attwell Drive,166,11284244,496701718,Toronto,131268
-43.6907276,-79.536949,2,The Westway (179),a,The Westway,241,11288292,428571179,Toronto,131268
 43.6907418,-79.5973145,2,Carlingview Drive (386),a,Carlingview Drive,157,11280966,218864386,Toronto,131268
 43.6907418,-79.5973145,2,Constellation Court (310),a,Constellation Court,14,11284235,219376310,Toronto,131268
 43.6907597,-79.5874746,2,Reading Court (097),a,Reading Court,6,11284237,611453097,Toronto,131268
@@ -2959,7 +1965,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6918717,-79.5952025,2,Constellation Court (236),a,Constellation Court,14,11284235,318913236,Toronto,131268
 43.6919051,-79.569,2,Dixon Road (355),a,Dixon Road,385,11282402,218919355,Toronto,131268
 43.6919051,-79.569,2,Dixon Road (444),a,Dixon Road,385,11282402,218919444,Toronto,131268
-43.691931,-79.5517307,2,Wincott Drive (320),a,Wincott Drive,89,11280796,218858320,Toronto,131268
 43.6919475,-79.5696316,2,Dixon Road (419),a,Dixon Road,385,11282402,218919419,Toronto,131268
 43.6919475,-79.5696316,2,Dixon Road (428),a,Dixon Road,385,11282402,611416428,Toronto,131268
 43.6920164,-79.5852802,2,Farnboro Road (164),a,Farnboro Road,11,11284239,410567164,Toronto,131268

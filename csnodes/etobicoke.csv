@@ -1103,691 +1103,105 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6712738,-79.5927117,2,Renforth Drive (104),a,Renforth Drive,326,5411505,560927104,Etobicoke,38014
 43.6712989,-79.5927265,2,Renforth Drive (102),a,Renforth Drive,326,5411505,560927102,Etobicoke,38014
 43.6720668,-79.5931781,2,Renforth Drive (103),a,Renforth Drive,326,5411505,560927103,Etobicoke,38014
-43.6721749,-79.5932369,2,Renforth Drive (502),a,Renforth Drive,326,5411505,91779502,Etobicoke,38014
-43.6721749,-79.5932369,2,Renforth Drive (345),a,Renforth Drive,326,5411505,579925345,Etobicoke,38014
-43.6722691,-79.5932813,2,Renforth Drive (495),a,Renforth Drive,326,5411505,91779495,Etobicoke,38014
-43.6722691,-79.5932813,2,Renforth Drive (503),a,Renforth Drive,326,5411505,91779503,Etobicoke,38014
-43.6723793,-79.5933513,2,Renforth Drive (496),a,Renforth Drive,326,5411505,91779496,Etobicoke,38014
-43.6723816,-79.5926859,2,Convair Drive (043),a,Convair Drive,6,5412316,97708043,Etobicoke,38014
-43.6723969,-79.5926458,2,Convair Drive (284),a,Convair Drive,6,5412316,392358284,Etobicoke,38014
-43.6724878,-79.5924068,2,Convair Drive (042),a,Convair Drive,6,5412316,97708042,Etobicoke,38014
-43.6725696,-79.592279,2,Convair Drive (041),a,Convair Drive,6,5412316,97708041,Etobicoke,38014
-43.6726574,-79.5921894,2,Convair Drive (040),a,Convair Drive,6,5412316,97708040,Etobicoke,38014
 43.6726936,-79.5489086,2,Kipling Avenue (000),a,Kipling Avenue,1089,5411515,497595000,Etobicoke,38014
-43.6727105,-79.5921482,2,Convair Drive (039),a,Convair Drive,6,5412316,97708039,Etobicoke,38014
-43.6727335,-79.5935598,2,Renforth Drive (497),a,Renforth Drive,326,5411505,91779497,Etobicoke,38014
 43.6730239,-79.5490557,2,Kipling Avenue (001),a,Kipling Avenue,1089,5411515,497595001,Etobicoke,38014
 43.6730239,-79.5490557,2,Kipling Avenue (006),a,Kipling Avenue,1089,5411515,497595006,Etobicoke,38014
 43.6732993,-79.5491829,2,Kipling Avenue (004),a,Kipling Avenue,1089,5411515,497595004,Etobicoke,38014
 43.6732993,-79.5491829,2,Kipling Avenue (005),a,Kipling Avenue,1089,5411515,497595005,Etobicoke,38014
-43.6735078,-79.5940324,2,Renforth Drive (498),a,Renforth Drive,326,5411505,91779498,Etobicoke,38014
-43.674064,-79.5897914,2,Carlingview Drive (692),a,Carlingview Drive,154,5411709,93306692,Etobicoke,38014
-43.6741915,-79.5944487,2,Renforth Drive (156),a,Renforth Drive,326,5411505,91779156,Etobicoke,38014
-43.6741915,-79.5944487,2,Renforth Drive (499),a,Renforth Drive,326,5411505,91779499,Etobicoke,38014
-43.6742106,-79.5898603,2,Carlingview Drive (691),a,Carlingview Drive,154,5411709,93306691,Etobicoke,38014
-43.6744256,-79.5945645,2,Renforth Drive (158),a,Renforth Drive,326,5411505,91779158,Etobicoke,38014
-43.6746429,-79.5946361,2,Renforth Drive (159),a,Renforth Drive,326,5411505,91779159,Etobicoke,38014
-43.6746795,-79.5900734,2,Carlingview Drive (690),a,Carlingview Drive,154,5411709,93306690,Etobicoke,38014
-43.6748321,-79.5946594,2,Renforth Drive (160),a,Renforth Drive,326,5411505,91779160,Etobicoke,38014
-43.6749183,-79.5946619,2,Renforth Drive (161),a,Renforth Drive,326,5411505,91779161,Etobicoke,38014
-43.6750124,-79.5946546,2,Renforth Drive (162),a,Renforth Drive,326,5411505,91779162,Etobicoke,38014
 43.6751328,-79.5635045,2,Martin Grove Road (336),a,Martin Grove Road,689,5411724,93488336,Etobicoke,38014
-43.6751349,-79.594634,2,Renforth Drive (163),a,Renforth Drive,326,5411505,91779163,Etobicoke,38014
 43.6751701,-79.5633836,2,Martin Grove Road (326),a,Martin Grove Road,689,5411724,93488326,Etobicoke,38014
-43.6752221,-79.5946086,2,Renforth Drive (164),a,Renforth Drive,326,5411505,91779164,Etobicoke,38014
 43.6752394,-79.5634797,2,Martin Grove Road (328),a,Martin Grove Road,689,5411724,93488328,Etobicoke,38014
 43.6752394,-79.5634797,2,Martin Grove Road (334),a,Martin Grove Road,689,5411724,93488334,Etobicoke,38014
 43.6752394,-79.5634797,2,Martin Grove Road (351),a,Martin Grove Road,689,5411724,93488351,Etobicoke,38014
-43.6753856,-79.5945461,2,Renforth Drive (165),a,Renforth Drive,326,5411505,91779165,Etobicoke,38014
 43.6754113,-79.5635556,2,Martin Grove Road (412),a,Martin Grove Road,689,5411724,560927412,Etobicoke,38014
 43.6754113,-79.5635556,2,Martin Grove Road (439),a,Martin Grove Road,689,5411724,560927439,Etobicoke,38014
-43.6755295,-79.5944682,2,Renforth Drive (167),a,Renforth Drive,326,5411505,91779167,Etobicoke,38014
 43.6755399,-79.5636085,2,Martin Grove Road (418),a,Martin Grove Road,689,5411724,560927418,Etobicoke,38014
 43.6755399,-79.5636085,2,Martin Grove Road (438),a,Martin Grove Road,689,5411724,560927438,Etobicoke,38014
-43.6755908,-79.590491,2,Carlingview Drive (456),a,Carlingview Drive,154,5411709,297386456,Etobicoke,38014
-43.6757079,-79.5943277,2,Renforth Drive (168),a,Renforth Drive,326,5411505,91779168,Etobicoke,38014
 43.6757709,-79.5637161,2,Martin Grove Road (598),a,Martin Grove Road,689,5411724,93488598,Etobicoke,38014
 43.6757709,-79.5637161,2,Martin Grove Road (523),a,Martin Grove Road,689,5411724,579924523,Etobicoke,38014
-43.6758474,-79.5941924,2,Renforth Drive (170),a,Renforth Drive,326,5411505,91779170,Etobicoke,38014
-43.67594,-79.5940754,2,Renforth Drive (183),a,Renforth Drive,326,5411505,501461183,Etobicoke,38014
-43.67594,-79.5940754,2,Renforth Drive (189),a,Renforth Drive,326,5411505,501461189,Etobicoke,38014
-43.6760133,-79.5939829,2,Renforth Drive (184),a,Renforth Drive,326,5411505,501461184,Etobicoke,38014
-43.6760982,-79.5907235,2,Carlingview Drive (455),a,Carlingview Drive,154,5411709,297386455,Etobicoke,38014
 43.6761142,-79.563876,2,Martin Grove Road (599),a,Martin Grove Road,689,5411724,93488599,Etobicoke,38014
 43.6761142,-79.563876,2,Martin Grove Road (537),a,Martin Grove Road,689,5411724,579924537,Etobicoke,38014
-43.67614,-79.5937659,2,Renforth Drive (185),a,Renforth Drive,326,5411505,501461185,Etobicoke,38014
 43.6761832,-79.5553375,2,Eglinton Avenue West (678),a,Eglinton Avenue West,299,5411523,436131678,Etobicoke,38014
-43.6762013,-79.5907707,2,Carlingview Drive (689),a,Carlingview Drive,154,5411709,93306689,Etobicoke,38014
-43.6762013,-79.5907707,2,Carlingview Drive (846),a,Carlingview Drive,154,5411709,93306846,Etobicoke,38014
-43.6762474,-79.5935125,2,Renforth Drive (186),a,Renforth Drive,326,5411505,501461186,Etobicoke,38014
-43.6762718,-79.5934297,2,Renforth Drive (188),a,Renforth Drive,326,5411505,501461188,Etobicoke,38014
-43.6763159,-79.59328,2,Renforth Drive (187),a,Renforth Drive,326,5411505,501461187,Etobicoke,38014
-43.6763159,-79.59328,2,Renforth Drive (190),a,Renforth Drive,326,5411505,501461190,Etobicoke,38014
-43.6763298,-79.5907742,2,Carlingview Drive (848),a,Carlingview Drive,154,5411709,93306848,Etobicoke,38014
-43.6763551,-79.5931441,2,Renforth Drive (489),a,Renforth Drive,326,5411505,91779489,Etobicoke,38014
-43.6763551,-79.5931441,2,Renforth Drive (335),a,Renforth Drive,326,5411505,579925335,Etobicoke,38014
-43.6763551,-79.5931441,2,Silver Dart Drive (723),a,Silver Dart Drive,2,5412315,579925723,Etobicoke,38014
-43.6763792,-79.5930225,2,Renforth Drive (490),a,Renforth Drive,326,5411505,91779490,Etobicoke,38014
 43.6763853,-79.5640022,2,Martin Grove Road (415),a,Martin Grove Road,689,5411724,560927415,Etobicoke,38014
 43.6763853,-79.5640022,2,Martin Grove Road (436),a,Martin Grove Road,689,5411724,560927436,Etobicoke,38014
-43.6764861,-79.5931539,2,Silver Dart Drive (724),a,Silver Dart Drive,2,5412315,579925724,Etobicoke,38014
 43.6765223,-79.564066,2,Martin Grove Road (550),a,Martin Grove Road,689,5411724,93488550,Etobicoke,38014
-43.6765652,-79.5874244,2,Voyager Court South (950),a,Voyager Court South,24,5412365,98079950,Etobicoke,38014
-43.6765737,-79.5874874,2,Voyager Court South (949),a,Voyager Court South,24,5412365,98079949,Etobicoke,38014
-43.676578,-79.5873611,2,Voyager Court South (951),a,Voyager Court South,24,5412365,98079951,Etobicoke,38014
-43.676601,-79.5873216,2,Voyager Court South (952),a,Voyager Court South,24,5412365,98079952,Etobicoke,38014
-43.6766011,-79.5921001,2,Renforth Drive (491),a,Renforth Drive,326,5411505,91779491,Etobicoke,38014
-43.6766011,-79.5921001,2,Renforth Drive (500),a,Renforth Drive,326,5411505,91779500,Etobicoke,38014
-43.6766028,-79.5875412,2,Voyager Court South (948),a,Voyager Court South,24,5412365,98079948,Etobicoke,38014
-43.6766373,-79.5872933,2,Voyager Court South (953),a,Voyager Court South,24,5412365,98079953,Etobicoke,38014
 43.676638,-79.5641199,2,Martin Grove Road (551),a,Martin Grove Road,689,5411724,93488551,Etobicoke,38014
-43.676643,-79.5875697,2,Voyager Court South (947),a,Voyager Court South,24,5412365,98079947,Etobicoke,38014
-43.6766886,-79.5872888,2,Voyager Court South (954),a,Voyager Court South,24,5412365,98079954,Etobicoke,38014
-43.6766934,-79.5875705,2,Voyager Court South (946),a,Voyager Court South,24,5412365,98079946,Etobicoke,38014
-43.6767195,-79.5875566,2,Voyager Court South (945),a,Voyager Court South,24,5412365,98079945,Etobicoke,38014
-43.6767282,-79.5873116,2,Voyager Court South (955),a,Voyager Court South,24,5412365,98079955,Etobicoke,38014
-43.6767456,-79.5875285,2,Voyager Court South (944),a,Voyager Court South,24,5412365,98079944,Etobicoke,38014
-43.6767577,-79.5873542,2,Voyager Court South (956),a,Voyager Court South,24,5412365,98079956,Etobicoke,38014
-43.6767685,-79.5874742,2,Voyager Court South (940),a,Voyager Court South,24,5412365,98079940,Etobicoke,38014
-43.6767685,-79.5874742,2,Voyager Court South (943),a,Voyager Court South,24,5412365,98079943,Etobicoke,38014
-43.6767685,-79.5874742,2,Voyager Court South (297),a,Voyager Court South,24,5412365,579926297,Etobicoke,38014
-43.6767729,-79.5874146,2,Voyager Court South (957),a,Voyager Court South,24,5412365,98079957,Etobicoke,38014
-43.6768377,-79.5911109,2,Renforth Drive (501),a,Renforth Drive,326,5411505,91779501,Etobicoke,38014
-43.6768377,-79.5911109,2,International Boulevard (887),a,International Boulevard,40,5411747,93630887,Etobicoke,38014
-43.6768631,-79.591003,2,Carlingview Drive (833),a,Carlingview Drive,154,5411709,93306833,Etobicoke,38014
-43.6768631,-79.591003,2,Carlingview Drive (849),a,Carlingview Drive,154,5411709,93306849,Etobicoke,38014
-43.6768631,-79.591003,2,International Boulevard (888),a,International Boulevard,40,5411747,93630888,Etobicoke,38014
-43.6768631,-79.591003,2,International Boulevard (902),a,International Boulevard,40,5411747,93630902,Etobicoke,38014
-43.6768858,-79.5909018,2,International Boulevard (903),a,International Boulevard,40,5411747,93630903,Etobicoke,38014
-43.6768901,-79.5908834,2,International Boulevard (852),a,International Boulevard,40,5411747,297386852,Etobicoke,38014
-43.6769271,-79.5875428,2,Voyager Court South (223),a,Voyager Court South,24,5412365,501461223,Etobicoke,38014
-43.67694,-79.5911534,2,International Boulevard (906),a,International Boulevard,40,5411747,93630906,Etobicoke,38014
-43.6769608,-79.5910447,2,Carlingview Drive (835),a,Carlingview Drive,154,5411709,93306835,Etobicoke,38014
-43.6769608,-79.5910447,2,Carlingview Drive (879),a,Carlingview Drive,154,5411709,93306879,Etobicoke,38014
-43.6769608,-79.5910447,2,International Boulevard (893),a,International Boulevard,40,5411747,93630893,Etobicoke,38014
-43.6769608,-79.5910447,2,International Boulevard (905),a,International Boulevard,40,5411747,93630905,Etobicoke,38014
-43.6769872,-79.590924,2,International Boulevard (892),a,International Boulevard,40,5411747,93630892,Etobicoke,38014
-43.6770264,-79.5910728,2,Carlingview Drive (474),a,Carlingview Drive,154,5411709,297386474,Etobicoke,38014
-43.6771282,-79.5898589,2,International Boulevard (898),a,International Boulevard,40,5411747,93630898,Etobicoke,38014
-43.6771282,-79.5898589,2,International Boulevard (904),a,International Boulevard,40,5411747,93630904,Etobicoke,38014
-43.6771646,-79.5876455,2,Voyager Court South (078),a,Voyager Court South,24,5412365,297393078,Etobicoke,38014
-43.6772222,-79.5835783,2,Skyway Avenue (783),a,Skyway Avenue,94,5413256,99009783,Etobicoke,38014
-43.6772253,-79.5834087,2,Skyway Avenue (784),a,Skyway Avenue,94,5413256,99009784,Etobicoke,38014
-43.6772363,-79.5899012,2,International Boulevard (891),a,International Boulevard,40,5411747,93630891,Etobicoke,38014
-43.6772363,-79.5899012,2,International Boulevard (901),a,International Boulevard,40,5411747,93630901,Etobicoke,38014
-43.6772376,-79.583841,2,Skyway Avenue (782),a,Skyway Avenue,94,5413256,99009782,Etobicoke,38014
-43.6772447,-79.5893569,2,International Boulevard (450),a,International Boulevard,40,5411747,560927450,Etobicoke,38014
 43.677253,-79.550673,2,Eglinton Avenue West (533),a,Eglinton Avenue West,299,5411523,415121533,Etobicoke,38014
-43.6772618,-79.5832275,2,Skyway Avenue (785),a,Skyway Avenue,94,5413256,99009785,Etobicoke,38014
-43.6772787,-79.5840625,2,Skyway Avenue (781),a,Skyway Avenue,94,5413256,99009781,Etobicoke,38014
-43.6772849,-79.5891837,2,International Boulevard (894),a,International Boulevard,40,5411747,93630894,Etobicoke,38014
-43.6772849,-79.5891837,2,International Boulevard (899),a,International Boulevard,40,5411747,93630899,Etobicoke,38014
-43.6772943,-79.5911879,2,Carlingview Drive (259),a,Carlingview Drive,154,5411709,530240259,Etobicoke,38014
-43.6773132,-79.583029,2,Skyway Avenue (786),a,Skyway Avenue,94,5413256,99009786,Etobicoke,38014
-43.6773528,-79.5842399,2,Skyway Avenue (780),a,Skyway Avenue,94,5413256,99009780,Etobicoke,38014
 43.6773622,-79.550964,2,Kipling Avenue (536),a,Kipling Avenue,1089,5411515,415121536,Etobicoke,38014
-43.6773759,-79.591223,2,Carlingview Drive (851),a,Carlingview Drive,154,5411709,93306851,Etobicoke,38014
-43.6773759,-79.591223,2,Carlingview Drive (880),a,Carlingview Drive,154,5411709,93306880,Etobicoke,38014
-43.6773842,-79.5892257,2,International Boulevard (886),a,International Boulevard,40,5411747,93630886,Etobicoke,38014
-43.6773842,-79.5892257,2,International Boulevard (900),a,International Boulevard,40,5411747,93630900,Etobicoke,38014
-43.6774089,-79.5843642,2,Skyway Avenue (544),a,Skyway Avenue,94,5413256,297403544,Etobicoke,38014
-43.6774199,-79.582628,2,Skyway Avenue (787),a,Skyway Avenue,94,5413256,99009787,Etobicoke,38014
-43.6774258,-79.5844017,2,Skyway Avenue (779),a,Skyway Avenue,94,5413256,99009779,Etobicoke,38014
-43.6774285,-79.5877596,2,Voyager Court South (889),a,Voyager Court South,24,5412365,357890889,Etobicoke,38014
-43.6774833,-79.5844917,2,Skyway Avenue (543),a,Skyway Avenue,94,5413256,297403543,Etobicoke,38014
-43.6774901,-79.582427,2,Skyway Avenue (788),a,Skyway Avenue,94,5413256,99009788,Etobicoke,38014
 43.6774988,-79.5495879,2,Eglinton Avenue West (134),a,Eglinton Avenue West,299,5411523,92393134,Etobicoke,38014
 43.6774988,-79.5495879,2,Eglinton Avenue West (893),a,Eglinton Avenue West,299,5411523,579922893,Etobicoke,38014
-43.6775036,-79.5845236,2,Skyway Avenue (778),a,Skyway Avenue,94,5413256,99009778,Etobicoke,38014
-43.677529,-79.587803,2,Voyager Court South (890),a,Voyager Court South,24,5412365,357890890,Etobicoke,38014
-43.677539,-79.5880848,2,International Boulevard (192),a,International Boulevard,40,5411747,501461192,Etobicoke,38014
 43.6775415,-79.5494153,2,Eglinton Avenue West (721),a,Eglinton Avenue West,299,5411523,486821721,Etobicoke,38014
-43.6775677,-79.5878181,2,Voyager Court South (296),a,Voyager Court South,24,5412365,579926296,Etobicoke,38014
-43.677583,-79.5821777,2,Skyway Avenue (789),a,Skyway Avenue,94,5413256,99009789,Etobicoke,38014
-43.6775919,-79.584608,2,Skyway Avenue (777),a,Skyway Avenue,94,5413256,99009777,Etobicoke,38014
-43.6775973,-79.5878325,2,International Boulevard (895),a,International Boulevard,40,5411747,93630895,Etobicoke,38014
-43.6775973,-79.5878325,2,Voyager Court South (941),a,Voyager Court South,24,5412365,98079941,Etobicoke,38014
 43.6776226,-79.5490881,2,Eglinton Avenue West (136),a,Eglinton Avenue West,299,5411523,92393136,Etobicoke,38014
 43.6776226,-79.5490881,2,Eglinton Avenue West (313),a,Eglinton Avenue West,299,5411523,92393313,Etobicoke,38014
-43.6777019,-79.5878769,2,International Boulevard (885),a,International Boulevard,40,5411747,93630885,Etobicoke,38014
-43.6777019,-79.5878769,2,Voyager Court South (942),a,Voyager Court South,24,5412365,98079942,Etobicoke,38014
-43.6777019,-79.5878769,2,Voyager Court North (134),a,Voyager Court North,5,5412385,98166134,Etobicoke,38014
-43.6777052,-79.5913643,2,Carlingview Drive (853),a,Carlingview Drive,154,5411709,93306853,Etobicoke,38014
-43.6777078,-79.5819142,2,Skyway Avenue (790),a,Skyway Avenue,94,5413256,99009790,Etobicoke,38014
 43.6777212,-79.5486304,2,Eglinton Avenue West (312),a,Eglinton Avenue West,299,5411523,92393312,Etobicoke,38014
 43.6777212,-79.5486304,2,Eglinton Avenue West (895),a,Eglinton Avenue West,299,5411523,579922895,Etobicoke,38014
 43.6777303,-79.5645325,2,Martin Grove Road (460),a,Martin Grove Road,689,5411724,93488460,Etobicoke,38014
-43.6777707,-79.5879071,2,Voyager Court North (295),a,Voyager Court North,5,5412385,579926295,Etobicoke,38014
-43.6777821,-79.5847028,2,Skyway Avenue (776),a,Skyway Avenue,94,5413256,99009776,Etobicoke,38014
-43.6777845,-79.5914566,2,Carlingview Drive (836),a,Carlingview Drive,154,5411709,93306836,Etobicoke,38014
-43.6777845,-79.5914566,2,Carlingview Drive (855),a,Carlingview Drive,154,5411709,93306855,Etobicoke,38014
-43.6778193,-79.5879267,2,Voyager Court North (898),a,Voyager Court North,5,5412385,357890898,Etobicoke,38014
-43.6778286,-79.5868403,2,International Boulevard (192),a,International Boulevard,40,5411747,357891192,Etobicoke,38014
-43.6778394,-79.5817179,2,Skyway Avenue (791),a,Skyway Avenue,94,5413256,99009791,Etobicoke,38014
-43.6778511,-79.5867437,2,International Boulevard (193),a,International Boulevard,40,5411747,357891193,Etobicoke,38014
-43.6779179,-79.5847617,2,Skyway Avenue (775),a,Skyway Avenue,94,5413256,99009775,Etobicoke,38014
-43.6779179,-79.5847617,2,Skyway Avenue (823),a,Skyway Avenue,94,5413256,99009823,Etobicoke,38014
-43.6779351,-79.5915258,2,Carlingview Drive (470),a,Carlingview Drive,154,5411709,297386470,Etobicoke,38014
-43.6779351,-79.5915258,2,Carlingview Drive (242),a,Carlingview Drive,154,5411709,579922242,Etobicoke,38014
-43.6779406,-79.58636,2,International Boulevard (194),a,International Boulevard,40,5411747,357891194,Etobicoke,38014
-43.6779719,-79.5862258,2,International Boulevard (896),a,International Boulevard,40,5411747,93630896,Etobicoke,38014
-43.677974,-79.5867893,2,International Boulevard (851),a,International Boulevard,40,5411747,297386851,Etobicoke,38014
-43.6779843,-79.5815077,2,Skyway Avenue (792),a,Skyway Avenue,94,5413256,99009792,Etobicoke,38014
-43.6780285,-79.5865445,2,International Boulevard (884),a,International Boulevard,40,5411747,93630884,Etobicoke,38014
-43.6780932,-79.5857035,2,International Boulevard (351),a,International Boulevard,40,5411747,497595351,Etobicoke,38014
-43.6780932,-79.5857035,2,International Boulevard (352),a,International Boulevard,40,5411747,497595352,Etobicoke,38014
-43.6781585,-79.5813207,2,Skyway Avenue (793),a,Skyway Avenue,94,5413256,99009793,Etobicoke,38014
-43.678161,-79.5854118,2,International Boulevard (889),a,International Boulevard,40,5411747,93630889,Etobicoke,38014
-43.678161,-79.5854118,2,International Boulevard (765),a,International Boulevard,40,5411747,579923765,Etobicoke,38014
-43.6781938,-79.5880772,2,Voyager Court North (420),a,Voyager Court North,5,5412385,297393420,Etobicoke,38014
-43.6782389,-79.5851116,2,International Boulevard (291),a,International Boulevard,40,5411747,349303291,Etobicoke,38014
-43.6782431,-79.5856453,2,International Boulevard (883),a,International Boulevard,40,5411747,93630883,Etobicoke,38014
-43.6782503,-79.5850677,2,International Boulevard (237),a,International Boulevard,40,5411747,335002237,Etobicoke,38014
-43.678283,-79.5854772,2,International Boulevard (882),a,International Boulevard,40,5411747,93630882,Etobicoke,38014
-43.6782854,-79.5849329,2,International Boulevard (890),a,International Boulevard,40,5411747,93630890,Etobicoke,38014
-43.6782854,-79.5849329,2,Skyway Avenue (821),a,Skyway Avenue,94,5413256,99009821,Etobicoke,38014
-43.6782854,-79.5849329,2,Skyway Avenue (822),a,Skyway Avenue,94,5413256,99009822,Etobicoke,38014
-43.678308,-79.5811842,2,Skyway Avenue (794),a,Skyway Avenue,94,5413256,99009794,Etobicoke,38014
-43.678308,-79.5811842,2,Skyway Avenue (771),a,Skyway Avenue,94,5413256,579925771,Etobicoke,38014
-43.6783228,-79.5853235,2,International Boulevard (881),a,International Boulevard,40,5411747,93630881,Etobicoke,38014
-43.6783434,-79.5849601,2,Skyway Avenue (545),a,Skyway Avenue,94,5413256,297403545,Etobicoke,38014
-43.678349,-79.5852076,2,International Boulevard (880),a,International Boulevard,40,5411747,93630880,Etobicoke,38014
-43.6783705,-79.5851235,2,International Boulevard (879),a,International Boulevard,40,5411747,93630879,Etobicoke,38014
-43.6784014,-79.5849873,2,International Boulevard (878),a,International Boulevard,40,5411747,93630878,Etobicoke,38014
-43.6784014,-79.5849873,2,Skyway Avenue (820),a,Skyway Avenue,94,5413256,99009820,Etobicoke,38014
-43.6784014,-79.5849873,2,Galaxy Boulevard (818),a,Galaxy Boulevard,53,5413258,99010818,Etobicoke,38014
-43.6785076,-79.581027,2,Skyway Avenue (772),a,Skyway Avenue,94,5413256,579925772,Etobicoke,38014
-43.6785206,-79.5917947,2,Carlingview Drive (260),a,Carlingview Drive,154,5411709,530240260,Etobicoke,38014
-43.6785759,-79.5918201,2,Carlingview Drive (787),a,Carlingview Drive,154,5411709,93306787,Etobicoke,38014
-43.6785759,-79.5918201,2,Carlingview Drive (243),a,Carlingview Drive,154,5411709,579922243,Etobicoke,38014
-43.6786397,-79.5918494,2,Carlingview Drive (465),a,Carlingview Drive,154,5411709,297386465,Etobicoke,38014
-43.6786445,-79.5882658,2,Voyager Court North (128),a,Voyager Court North,5,5412385,98166128,Etobicoke,38014
-43.6786895,-79.5809101,2,Skyway Avenue (773),a,Skyway Avenue,94,5413256,579925773,Etobicoke,38014
-43.6788505,-79.5808194,2,Skyway Avenue (774),a,Skyway Avenue,94,5413256,579925774,Etobicoke,38014
-43.6788959,-79.5852101,2,Galaxy Boulevard (819),a,Galaxy Boulevard,53,5413258,99010819,Etobicoke,38014
-43.6789605,-79.5919966,2,Carlingview Drive (466),a,Carlingview Drive,154,5411709,297386466,Etobicoke,38014
-43.6790225,-79.5852568,2,Galaxy Boulevard (820),a,Galaxy Boulevard,53,5413258,99010820,Etobicoke,38014
-43.6790657,-79.5807523,2,Skyway Avenue (775),a,Skyway Avenue,94,5413256,579925775,Etobicoke,38014
-43.6791186,-79.5853057,2,Galaxy Boulevard (911),a,Galaxy Boulevard,53,5413258,297403911,Etobicoke,38014
-43.6791856,-79.5853398,2,Galaxy Boulevard (821),a,Galaxy Boulevard,53,5413258,99010821,Etobicoke,38014
-43.6792763,-79.5853873,2,Galaxy Boulevard (822),a,Galaxy Boulevard,53,5413258,99010822,Etobicoke,38014
-43.6792788,-79.5921427,2,Carlingview Drive (467),a,Carlingview Drive,154,5411709,297386467,Etobicoke,38014
-43.6792901,-79.5806974,2,Skyway Avenue (776),a,Skyway Avenue,94,5413256,579925776,Etobicoke,38014
 43.6793566,-79.5518804,2,Kipling Avenue (826),a,Kipling Avenue,1089,5411515,497594826,Etobicoke,38014
 43.6793566,-79.5518804,2,Kipling Avenue (968),a,Kipling Avenue,1089,5411515,497594968,Etobicoke,38014
-43.679367,-79.5854472,2,Galaxy Boulevard (823),a,Galaxy Boulevard,53,5413258,99010823,Etobicoke,38014
-43.6794422,-79.5806815,2,Skyway Avenue (801),a,Skyway Avenue,94,5413256,99009801,Etobicoke,38014
-43.6794422,-79.5806815,2,Skyway Avenue (777),a,Skyway Avenue,94,5413256,579925777,Etobicoke,38014
-43.6794865,-79.5855219,2,Galaxy Boulevard (824),a,Galaxy Boulevard,53,5413258,99010824,Etobicoke,38014
-43.6795447,-79.5806778,2,Skyway Avenue (802),a,Skyway Avenue,94,5413256,99009802,Etobicoke,38014
-43.6795762,-79.585616,2,Galaxy Boulevard (825),a,Galaxy Boulevard,53,5413258,99010825,Etobicoke,38014
-43.679605,-79.5806776,2,Skyway Avenue (803),a,Skyway Avenue,94,5413256,99009803,Etobicoke,38014
-43.6796765,-79.5857128,2,Galaxy Boulevard (826),a,Galaxy Boulevard,53,5413258,99010826,Etobicoke,38014
-43.6796964,-79.5857364,2,Galaxy Boulevard (912),a,Galaxy Boulevard,53,5413258,297403912,Etobicoke,38014
-43.6797587,-79.5858102,2,Galaxy Boulevard (827),a,Galaxy Boulevard,53,5413258,99010827,Etobicoke,38014
-43.6797847,-79.5806984,2,Skyway Avenue (804),a,Skyway Avenue,94,5413256,99009804,Etobicoke,38014
-43.6797847,-79.5806984,2,Skyway Avenue (805),a,Skyway Avenue,94,5413256,99009805,Etobicoke,38014
-43.6797891,-79.5923769,2,Carlingview Drive (468),a,Carlingview Drive,154,5411709,297386468,Etobicoke,38014
-43.6798591,-79.5859195,2,Galaxy Boulevard (828),a,Galaxy Boulevard,53,5413258,99010828,Etobicoke,38014
-43.6798916,-79.592424,2,Carlingview Drive (469),a,Carlingview Drive,154,5411709,297386469,Etobicoke,38014
-43.67993,-79.5807444,2,Skyway Avenue (806),a,Skyway Avenue,94,5413256,99009806,Etobicoke,38014
-43.6799325,-79.5860294,2,Galaxy Boulevard (829),a,Galaxy Boulevard,53,5413258,99010829,Etobicoke,38014
-43.679997,-79.5861519,2,Galaxy Boulevard (830),a,Galaxy Boulevard,53,5413258,99010830,Etobicoke,38014
-43.6800707,-79.5862867,2,Galaxy Boulevard (831),a,Galaxy Boulevard,53,5413258,99010831,Etobicoke,38014
 43.6800855,-79.537784,2,Eglinton Avenue West (263),a,Eglinton Avenue West,299,5411523,92393263,Etobicoke,38014
 43.6800855,-79.537784,2,Eglinton Avenue West (888),a,Eglinton Avenue West,299,5411523,579922888,Etobicoke,38014
-43.6800926,-79.5807902,2,Skyway Avenue (807),a,Skyway Avenue,94,5413256,99009807,Etobicoke,38014
 43.6801695,-79.5522288,2,Kipling Avenue (827),a,Kipling Avenue,1089,5411515,497594827,Etobicoke,38014
 43.6801695,-79.5522288,2,Kipling Avenue (969),a,Kipling Avenue,1089,5411515,497594969,Etobicoke,38014
-43.6802736,-79.5808603,2,Skyway Avenue (808),a,Skyway Avenue,94,5413256,99009808,Etobicoke,38014
-43.6803119,-79.5867637,2,Galaxy Boulevard (061),a,Galaxy Boulevard,53,5413258,497596061,Etobicoke,38014
-43.6803119,-79.5867637,2,Galaxy Boulevard (306),a,Galaxy Boulevard,53,5413258,579923306,Etobicoke,38014
-43.6803733,-79.586885,2,Galaxy Boulevard (307),a,Galaxy Boulevard,53,5413258,579923307,Etobicoke,38014
 43.6804077,-79.5523309,2,Kipling Avenue (709),a,Kipling Avenue,1089,5411515,486821709,Etobicoke,38014
 43.6804077,-79.5523309,2,Kipling Avenue (141),a,Kipling Avenue,1089,5411515,579924141,Etobicoke,38014
 43.6804587,-79.5359939,2,Eglinton Avenue West (449),a,Eglinton Avenue West,299,5411523,415121449,Etobicoke,38014
-43.6804861,-79.5871081,2,Galaxy Boulevard (308),a,Galaxy Boulevard,53,5413258,579923308,Etobicoke,38014
-43.6805599,-79.5872553,2,Galaxy Boulevard (309),a,Galaxy Boulevard,53,5413258,579923309,Etobicoke,38014
-43.6806705,-79.5874636,2,Galaxy Boulevard (310),a,Galaxy Boulevard,53,5413258,579923310,Etobicoke,38014
-43.6807319,-79.5875992,2,Galaxy Boulevard (311),a,Galaxy Boulevard,53,5413258,579923311,Etobicoke,38014
-43.6807538,-79.5876477,2,Galaxy Boulevard (312),a,Galaxy Boulevard,53,5413258,579923312,Etobicoke,38014
 43.6807703,-79.5524827,2,Kipling Avenue (707),a,Kipling Avenue,1089,5411515,486821707,Etobicoke,38014
 43.6807703,-79.5524827,2,Kipling Avenue (710),a,Kipling Avenue,1089,5411515,486821710,Etobicoke,38014
-43.6808004,-79.5928411,2,Carlingview Drive (783),a,Carlingview Drive,154,5411709,93306783,Etobicoke,38014
-43.6808004,-79.5928411,2,Carlingview Drive (789),a,Carlingview Drive,154,5411709,93306789,Etobicoke,38014
-43.6808004,-79.5928411,2,Meteor Drive (040),a,Meteor Drive,14,5413257,99010040,Etobicoke,38014
-43.680835,-79.5926907,2,Meteor Drive (567),a,Meteor Drive,14,5413257,297403567,Etobicoke,38014
-43.6808388,-79.5926743,2,Meteor Drive (041),a,Meteor Drive,14,5413257,99010041,Etobicoke,38014
-43.6808437,-79.581095,2,Skyway Avenue (809),a,Skyway Avenue,94,5413256,99009809,Etobicoke,38014
-43.6808771,-79.5925083,2,Meteor Drive (568),a,Meteor Drive,14,5413257,297403568,Etobicoke,38014
-43.6808828,-79.5878804,2,Galaxy Boulevard (313),a,Galaxy Boulevard,53,5413258,579923313,Etobicoke,38014
-43.6808893,-79.5924553,2,Meteor Drive (042),a,Meteor Drive,14,5413257,99010042,Etobicoke,38014
-43.6808893,-79.5924553,2,Meteor Drive (043),a,Meteor Drive,14,5413257,99010043,Etobicoke,38014
-43.6809838,-79.5880393,2,Galaxy Boulevard (314),a,Galaxy Boulevard,53,5413258,579923314,Etobicoke,38014
-43.6810063,-79.5919477,2,Meteor Drive (569),a,Meteor Drive,14,5413257,297403569,Etobicoke,38014
-43.681027,-79.5881065,2,Galaxy Boulevard (315),a,Galaxy Boulevard,53,5413258,579923315,Etobicoke,38014
 43.6810403,-79.5525958,2,Kipling Avenue (708),a,Kipling Avenue,1089,5411515,486821708,Etobicoke,38014
-43.6810633,-79.5917005,2,Meteor Drive (589),a,Meteor Drive,14,5413257,512214589,Etobicoke,38014
-43.6810939,-79.5882105,2,Galaxy Boulevard (316),a,Galaxy Boulevard,53,5413258,579923316,Etobicoke,38014
-43.6811451,-79.5882883,2,Galaxy Boulevard (317),a,Galaxy Boulevard,53,5413258,579923317,Etobicoke,38014
-43.6811582,-79.5883082,2,Galaxy Boulevard (318),a,Galaxy Boulevard,53,5413258,579923318,Etobicoke,38014
-43.681166,-79.5912548,2,Meteor Drive (588),a,Meteor Drive,14,5413257,512214588,Etobicoke,38014
-43.6812218,-79.5883563,2,Galaxy Boulevard (319),a,Galaxy Boulevard,53,5413258,579923319,Etobicoke,38014
-43.681287,-79.59073,2,Meteor Drive (031),a,Meteor Drive,14,5413257,507625031,Etobicoke,38014
-43.6813036,-79.5884164,2,Galaxy Boulevard (320),a,Galaxy Boulevard,53,5413258,579923320,Etobicoke,38014
-43.6813762,-79.5884644,2,Galaxy Boulevard (321),a,Galaxy Boulevard,53,5413258,579923321,Etobicoke,38014
-43.681384,-79.5903092,2,Meteor Drive (030),a,Meteor Drive,14,5413257,507625030,Etobicoke,38014
-43.6813941,-79.5902654,2,Meteor Drive (226),a,Meteor Drive,14,5413257,501461226,Etobicoke,38014
-43.6814125,-79.5884883,2,Galaxy Boulevard (322),a,Galaxy Boulevard,53,5413258,579923322,Etobicoke,38014
-43.6815123,-79.588548,2,Galaxy Boulevard (323),a,Galaxy Boulevard,53,5413258,579923323,Etobicoke,38014
-43.6815379,-79.5896418,2,Meteor Drive (029),a,Meteor Drive,14,5413257,507625029,Etobicoke,38014
-43.6815394,-79.5931776,2,Carlingview Drive (463),a,Carlingview Drive,154,5411709,297386463,Etobicoke,38014
-43.681562,-79.5814287,2,Skyway Avenue (409),a,Skyway Avenue,94,5413256,389742409,Etobicoke,38014
-43.6816103,-79.59321,2,Carlingview Drive (464),a,Carlingview Drive,154,5411709,297386464,Etobicoke,38014
-43.6817657,-79.5886537,2,Meteor Drive (044),a,Meteor Drive,14,5413257,99010044,Etobicoke,38014
-43.6817657,-79.5886537,2,Galaxy Boulevard (806),a,Galaxy Boulevard,53,5413258,99010806,Etobicoke,38014
-43.6817657,-79.5886537,2,Galaxy Boulevard (324),a,Galaxy Boulevard,53,5413258,579923324,Etobicoke,38014
-43.6818823,-79.5815775,2,Skyway Avenue (410),a,Skyway Avenue,94,5413256,389742410,Etobicoke,38014
-43.6818896,-79.5887126,2,Galaxy Boulevard (713),a,Galaxy Boulevard,53,5413258,406781713,Etobicoke,38014
-43.6819418,-79.5933609,2,Carlingview Drive (764),a,Carlingview Drive,154,5411709,93306764,Etobicoke,38014
-43.6819418,-79.5933609,2,Carlingview Drive (785),a,Carlingview Drive,154,5411709,93306785,Etobicoke,38014
-43.6819649,-79.5887483,2,Galaxy Boulevard (807),a,Galaxy Boulevard,53,5413258,99010807,Etobicoke,38014
-43.6820554,-79.5887834,2,Galaxy Boulevard (808),a,Galaxy Boulevard,53,5413258,99010808,Etobicoke,38014
-43.6822094,-79.5888543,2,Galaxy Boulevard (809),a,Galaxy Boulevard,53,5413258,99010809,Etobicoke,38014
-43.6823455,-79.5889379,2,Galaxy Boulevard (810),a,Galaxy Boulevard,53,5413258,99010810,Etobicoke,38014
-43.682389,-79.5889814,2,Galaxy Boulevard (714),a,Galaxy Boulevard,53,5413258,406781714,Etobicoke,38014
-43.6823915,-79.5935657,2,Carlingview Drive (457),a,Carlingview Drive,154,5411709,297386457,Etobicoke,38014
-43.6824195,-79.5818271,2,Skyway Avenue (810),a,Skyway Avenue,94,5413256,99009810,Etobicoke,38014
-43.6824548,-79.589047,2,Galaxy Boulevard (811),a,Galaxy Boulevard,53,5413258,99010811,Etobicoke,38014
-43.6825436,-79.589123,2,Galaxy Boulevard (812),a,Galaxy Boulevard,53,5413258,99010812,Etobicoke,38014
-43.6825648,-79.581923,2,Meridian Road (760),a,Meridian Road,26,5413255,99008760,Etobicoke,38014
-43.6825648,-79.581923,2,Skyway Avenue (761),a,Skyway Avenue,94,5413256,99009761,Etobicoke,38014
-43.6825648,-79.581923,2,Skyway Avenue (811),a,Skyway Avenue,94,5413256,99009811,Etobicoke,38014
-43.6825749,-79.5936492,2,Carlingview Drive (458),a,Carlingview Drive,154,5411709,297386458,Etobicoke,38014
-43.6826159,-79.5817757,2,Meridian Road (585),a,Meridian Road,26,5413255,579924585,Etobicoke,38014
-43.682623,-79.5817554,2,Meridian Road (354),a,Meridian Road,26,5413255,389742354,Etobicoke,38014
-43.6826343,-79.5817228,2,Meridian Road (763),a,Meridian Road,26,5413255,99008763,Etobicoke,38014
-43.6826347,-79.5892436,2,Galaxy Boulevard (813),a,Galaxy Boulevard,53,5413258,99010813,Etobicoke,38014
 43.6827001,-79.5247785,2,Eglinton Avenue West (091),a,Eglinton Avenue West,299,5411523,92393091,Etobicoke,38014
-43.6827323,-79.581311,2,Meridian Road (355),a,Meridian Road,26,5413255,389742355,Etobicoke,38014
-43.682757,-79.5894686,2,Galaxy Boulevard (738),a,Galaxy Boulevard,53,5413258,490816738,Etobicoke,38014
-43.6827573,-79.581206,2,Meridian Road (356),a,Meridian Road,26,5413255,389742356,Etobicoke,38014
-43.6827677,-79.5811622,2,Meridian Road (357),a,Meridian Road,26,5413255,389742357,Etobicoke,38014
-43.6827688,-79.5821044,2,Skyway Avenue (762),a,Skyway Avenue,94,5413256,99009762,Etobicoke,38014
-43.6827708,-79.589494,2,Galaxy Boulevard (715),a,Galaxy Boulevard,53,5413258,406781715,Etobicoke,38014
-43.6828155,-79.5821468,2,Skyway Avenue (363),a,Skyway Avenue,94,5413256,389742363,Etobicoke,38014
-43.6828579,-79.5937781,2,Carlingview Drive (459),a,Carlingview Drive,154,5411709,297386459,Etobicoke,38014
-43.682911,-79.589752,2,Galaxy Boulevard (814),a,Galaxy Boulevard,53,5413258,99010814,Etobicoke,38014
-43.6829253,-79.5805001,2,Meridian Road (765),a,Meridian Road,26,5413255,99008765,Etobicoke,38014
-43.6829515,-79.5804375,2,Meridian Road (768),a,Meridian Road,26,5413255,99008768,Etobicoke,38014
-43.6829628,-79.5822986,2,Skyway Avenue (763),a,Skyway Avenue,94,5413256,99009763,Etobicoke,38014
-43.6829782,-79.580412,2,Meridian Road (769),a,Meridian Road,26,5413255,99008769,Etobicoke,38014
-43.6830049,-79.5803866,2,Meridian Road (772),a,Meridian Road,26,5413255,99008772,Etobicoke,38014
-43.6830409,-79.5803857,2,Meridian Road (774),a,Meridian Road,26,5413255,99008774,Etobicoke,38014
-43.6830684,-79.5823975,2,Skyway Avenue (269),a,Skyway Avenue,94,5413256,509658269,Etobicoke,38014
-43.6830862,-79.5804095,2,Meridian Road (777),a,Meridian Road,26,5413255,99008777,Etobicoke,38014
-43.6830962,-79.5900928,2,Galaxy Boulevard (815),a,Galaxy Boulevard,53,5413258,99010815,Etobicoke,38014
-43.6831499,-79.5824739,2,Skyway Avenue (764),a,Skyway Avenue,94,5413256,99009764,Etobicoke,38014
-43.6831675,-79.5804324,2,Meridian Road (779),a,Meridian Road,26,5413255,99008779,Etobicoke,38014
-43.6832527,-79.590395,2,Galaxy Boulevard (737),a,Galaxy Boulevard,53,5413258,490816737,Etobicoke,38014
-43.683273,-79.5825941,2,Skyway Avenue (270),a,Skyway Avenue,94,5413256,509658270,Etobicoke,38014
-43.6833268,-79.5905335,2,Galaxy Boulevard (816),a,Galaxy Boulevard,53,5413258,99010816,Etobicoke,38014
 43.6833442,-79.5206505,2,Eglinton Avenue West (519),a,Eglinton Avenue West,299,5411523,415121519,Etobicoke,38014
 43.6833442,-79.5206505,2,Eglinton Avenue West (520),a,Eglinton Avenue West,299,5411523,415121520,Etobicoke,38014
-43.6833444,-79.5826638,2,Skyway Avenue (765),a,Skyway Avenue,94,5413256,99009765,Etobicoke,38014
 43.6833603,-79.5202953,2,Eglinton Avenue West (267),a,Eglinton Avenue West,299,5411523,560927267,Etobicoke,38014
-43.6833699,-79.5907762,2,Galaxy Boulevard (817),a,Galaxy Boulevard,53,5413258,99010817,Etobicoke,38014
 43.6833759,-79.5199525,2,Eglinton Avenue West (034),a,Eglinton Avenue West,299,5411523,92393034,Etobicoke,38014
 43.6833759,-79.5199525,2,Eglinton Avenue West (889),a,Eglinton Avenue West,299,5411523,579922889,Etobicoke,38014
 43.6833955,-79.5194662,2,Eglinton Avenue West (033),a,Eglinton Avenue West,299,5411523,92393033,Etobicoke,38014
 43.683431,-79.5172536,2,Eglinton Avenue West (864),a,Eglinton Avenue West,299,5411523,579922864,Etobicoke,38014
-43.683432,-79.5827544,2,Skyway Avenue (364),a,Skyway Avenue,94,5413256,389742364,Etobicoke,38014
-43.6835422,-79.5828683,2,Skyway Avenue (766),a,Skyway Avenue,94,5413256,99009766,Etobicoke,38014
-43.6836548,-79.582996,2,Skyway Avenue (767),a,Skyway Avenue,94,5413256,99009767,Etobicoke,38014
-43.6837508,-79.5941847,2,Carlingview Drive (460),a,Carlingview Drive,154,5411709,297386460,Etobicoke,38014
 43.6837687,-79.5673876,2,Martin Grove Road (283),a,Martin Grove Road,689,5411724,93488283,Etobicoke,38014
 43.6837687,-79.5673876,2,Martin Grove Road (292),a,Martin Grove Road,689,5411724,93488292,Etobicoke,38014
 43.6838038,-79.5672453,2,Martin Grove Road (271),a,Martin Grove Road,689,5411724,93488271,Etobicoke,38014
 43.6838038,-79.5672453,2,Martin Grove Road (282),a,Martin Grove Road,689,5411724,93488282,Etobicoke,38014
-43.6838729,-79.5831869,2,Skyway Avenue (768),a,Skyway Avenue,94,5413256,99009768,Etobicoke,38014
 43.6838952,-79.5539213,2,Kipling Avenue (806),a,Kipling Avenue,1089,5411515,497594806,Etobicoke,38014
 43.6838952,-79.5539213,2,Kipling Avenue (986),a,Kipling Avenue,1089,5411515,497594986,Etobicoke,38014
 43.6840096,-79.5674825,2,Martin Grove Road (291),a,Martin Grove Road,689,5411724,93488291,Etobicoke,38014
-43.6840394,-79.5832948,2,Skyway Avenue (365),a,Skyway Avenue,94,5413256,389742365,Etobicoke,38014
 43.684044,-79.5673576,2,Martin Grove Road (273),a,Martin Grove Road,689,5411724,93488273,Etobicoke,38014
-43.684062,-79.5808349,2,Meridian Road (358),a,Meridian Road,26,5413255,389742358,Etobicoke,38014
 43.6840866,-79.5674307,2,Martin Grove Road (275),a,Martin Grove Road,689,5411724,93488275,Etobicoke,38014
 43.6840866,-79.5674307,2,Martin Grove Road (290),a,Martin Grove Road,689,5411724,93488290,Etobicoke,38014
 43.6840866,-79.5674307,2,Martin Grove Road (297),a,Martin Grove Road,689,5411724,93488297,Etobicoke,38014
-43.6840984,-79.5833325,2,Skyway Avenue (769),a,Skyway Avenue,94,5413256,99009769,Etobicoke,38014
-43.6841768,-79.5833868,2,Skyway Avenue (770),a,Skyway Avenue,94,5413256,99009770,Etobicoke,38014
-43.6842342,-79.5944048,2,Carlingview Drive (461),a,Carlingview Drive,154,5411709,297386461,Etobicoke,38014
-43.6842688,-79.5834501,2,Skyway Avenue (977),a,Skyway Avenue,94,5413256,506059977,Etobicoke,38014
-43.6845123,-79.5836126,2,Skyway Avenue (771),a,Skyway Avenue,94,5413256,99009771,Etobicoke,38014
-43.6846033,-79.5836694,2,Skyway Avenue (773),a,Skyway Avenue,94,5413256,99009773,Etobicoke,38014
-43.6846994,-79.5946167,2,Carlingview Drive (766),a,Carlingview Drive,154,5411709,93306766,Etobicoke,38014
-43.6847567,-79.5837624,2,Skyway Avenue (978),a,Skyway Avenue,94,5413256,506059978,Etobicoke,38014
-43.6848419,-79.5838179,2,Meridian Road (808),a,Meridian Road,26,5413255,99008808,Etobicoke,38014
-43.6848419,-79.5838179,2,Skyway Avenue (774),a,Skyway Avenue,94,5413256,99009774,Etobicoke,38014
-43.6848419,-79.5838179,2,Skyway Avenue (764),a,Skyway Avenue,94,5413256,579925764,Etobicoke,38014
-43.6848794,-79.5836659,2,Meridian Road (586),a,Meridian Road,26,5413255,579924586,Etobicoke,38014
-43.6848841,-79.5836467,2,Meridian Road (806),a,Meridian Road,26,5413255,99008806,Etobicoke,38014
 43.6848881,-79.5543878,2,Kipling Avenue (845),a,Kipling Avenue,1089,5411515,92165845,Etobicoke,38014
 43.6848881,-79.5543878,2,Kipling Avenue (850),a,Kipling Avenue,1089,5411515,92165850,Etobicoke,38014
 43.6848881,-79.5543878,2,Kipling Avenue (857),a,Kipling Avenue,1089,5411515,92165857,Etobicoke,38014
-43.6849054,-79.5947105,2,Carlingview Drive (768),a,Carlingview Drive,154,5411709,93306768,Etobicoke,38014
 43.6849353,-79.554463,2,Kipling Avenue (856),a,Kipling Avenue,1089,5411515,92165856,Etobicoke,38014
 43.6849801,-79.5543317,2,Kipling Avenue (851),a,Kipling Avenue,1089,5411515,92165851,Etobicoke,38014
-43.6850204,-79.5947616,2,Carlingview Drive (770),a,Carlingview Drive,154,5411709,93306770,Etobicoke,38014
-43.6851207,-79.5840092,2,Skyway Avenue (765),a,Skyway Avenue,94,5413256,579925765,Etobicoke,38014
-43.6851323,-79.5813166,2,Meridian Road (782),a,Meridian Road,26,5413255,99008782,Etobicoke,38014
-43.6851854,-79.5948348,2,Carlingview Drive (772),a,Carlingview Drive,154,5411709,93306772,Etobicoke,38014
-43.685214,-79.5813643,2,Meridian Road (786),a,Meridian Road,26,5413255,99008786,Etobicoke,38014
-43.6852318,-79.5820371,2,Meridian Road (359),a,Meridian Road,26,5413255,389742359,Etobicoke,38014
-43.6852504,-79.5814006,2,Meridian Road (793),a,Meridian Road,26,5413255,99008793,Etobicoke,38014
-43.685257,-79.5841052,2,Skyway Avenue (766),a,Skyway Avenue,94,5413256,579925766,Etobicoke,38014
-43.6852781,-79.5814496,2,Meridian Road (796),a,Meridian Road,26,5413255,99008796,Etobicoke,38014
 43.6852857,-79.5544704,2,Kipling Avenue (808),a,Kipling Avenue,1089,5411515,497594808,Etobicoke,38014
 43.6852857,-79.5544704,2,Kipling Avenue (958),a,Kipling Avenue,1089,5411515,497594958,Etobicoke,38014
-43.6853057,-79.5814986,2,Meridian Road (799),a,Meridian Road,26,5413255,99008799,Etobicoke,38014
-43.685308,-79.5816846,2,Meridian Road (804),a,Meridian Road,26,5413255,99008804,Etobicoke,38014
-43.6853244,-79.5815602,2,Meridian Road (802),a,Meridian Road,26,5413255,99008802,Etobicoke,38014
-43.6853367,-79.594902,2,Carlingview Drive (462),a,Carlingview Drive,154,5411709,297386462,Etobicoke,38014
-43.6853768,-79.5949198,2,Carlingview Drive (773),a,Carlingview Drive,154,5411709,93306773,Etobicoke,38014
-43.6853768,-79.5949198,2,Carlingview Drive (799),a,Carlingview Drive,154,5411709,93306799,Etobicoke,38014
-43.6854025,-79.5842259,2,Skyway Avenue (767),a,Skyway Avenue,94,5413256,579925767,Etobicoke,38014
-43.6854939,-79.5843354,2,Skyway Avenue (768),a,Skyway Avenue,94,5413256,579925768,Etobicoke,38014
-43.6855673,-79.5844453,2,Skyway Avenue (769),a,Skyway Avenue,94,5413256,579925769,Etobicoke,38014
-43.6856703,-79.5845871,2,Skyway Avenue (361),a,Skyway Avenue,94,5413256,389742361,Etobicoke,38014
-43.6856703,-79.5845871,2,Skyway Avenue (770),a,Skyway Avenue,94,5413256,579925770,Etobicoke,38014
-43.6856729,-79.595065,2,Carlingview Drive (801),a,Carlingview Drive,154,5411709,93306801,Etobicoke,38014
 43.6857987,-79.5547024,2,Kipling Avenue (236),a,Kipling Avenue,1089,5411515,425039236,Etobicoke,38014
-43.6858093,-79.5951319,2,Carlingview Drive (803),a,Carlingview Drive,154,5411709,93306803,Etobicoke,38014
 43.6858199,-79.5547119,2,Kipling Avenue (235),a,Kipling Avenue,1089,5411515,425039235,Etobicoke,38014
 43.6860146,-79.5549481,2,Kipling Avenue (807),a,Kipling Avenue,1089,5411515,497594807,Etobicoke,38014
 43.6860146,-79.5549481,2,Kipling Avenue (961),a,Kipling Avenue,1089,5411515,497594961,Etobicoke,38014
-43.6861315,-79.5952566,2,Carlingview Drive (805),a,Carlingview Drive,154,5411709,93306805,Etobicoke,38014
-43.6861336,-79.5785633,2,Kelfield Street (639),a,Kelfield Street,42,5413267,99013639,Etobicoke,38014
-43.6861618,-79.5786619,2,Kelfield Street (638),a,Kelfield Street,42,5413267,99013638,Etobicoke,38014
-43.686175,-79.5952733,2,Carlingview Drive (775),a,Carlingview Drive,154,5411709,93306775,Etobicoke,38014
-43.686175,-79.5952733,2,Carlingview Drive (807),a,Carlingview Drive,154,5411709,93306807,Etobicoke,38014
-43.686175,-79.5952733,2,Carlingview Drive (822),a,Carlingview Drive,154,5411709,93306822,Etobicoke,38014
-43.6861986,-79.5787231,2,Kelfield Street (637),a,Kelfield Street,42,5413267,99013637,Etobicoke,38014
-43.6862212,-79.5953613,2,Carlingview Drive (820),a,Carlingview Drive,154,5411709,93306820,Etobicoke,38014
-43.686227,-79.5781144,2,Kelfield Street (640),a,Kelfield Street,42,5413267,99013640,Etobicoke,38014
-43.6862387,-79.5952453,2,Carlingview Drive (777),a,Carlingview Drive,154,5411709,93306777,Etobicoke,38014
-43.6862442,-79.5787716,2,Kelfield Street (636),a,Kelfield Street,42,5413267,99013636,Etobicoke,38014
-43.6862803,-79.5778845,2,Kelfield Street (641),a,Kelfield Street,42,5413267,99013641,Etobicoke,38014
-43.6863078,-79.5788198,2,Kelfield Street (635),a,Kelfield Street,42,5413267,99013635,Etobicoke,38014
 43.6863278,-79.5550894,2,Kipling Avenue (847),a,Kipling Avenue,1089,5411515,92165847,Etobicoke,38014
 43.6863451,-79.5549539,2,Kipling Avenue (864),a,Kipling Avenue,1089,5411515,92165864,Etobicoke,38014
-43.6863566,-79.578841,2,Kelfield Street (729),a,Kelfield Street,42,5413267,335002729,Etobicoke,38014
 43.6863758,-79.6005351,2,Dixon Road (829),a,Dixon Road,377,5411810,94553829,Etobicoke,38014
-43.6863893,-79.5788551,2,Kelfield Street (634),a,Kelfield Street,42,5413267,99013634,Etobicoke,38014
-43.6863921,-79.5952892,2,Carlingview Drive (781),a,Carlingview Drive,154,5411709,93306781,Etobicoke,38014
-43.6863921,-79.5952892,2,Carlingview Drive (794),a,Carlingview Drive,154,5411709,93306794,Etobicoke,38014
 43.6864005,-79.555035,2,Kipling Avenue (846),a,Kipling Avenue,1089,5411515,92165846,Etobicoke,38014
 43.6864005,-79.555035,2,Kipling Avenue (865),a,Kipling Avenue,1089,5411515,92165865,Etobicoke,38014
 43.6864005,-79.555035,2,Kipling Avenue (135),a,Kipling Avenue,1089,5411515,579924135,Etobicoke,38014
-43.6864065,-79.5773409,2,Kelfield Street (642),a,Kelfield Street,42,5413267,99013642,Etobicoke,38014
-43.6864173,-79.5772966,2,Kelfield Street (095),a,Kelfield Street,42,5413267,420188095,Etobicoke,38014
 43.6864603,-79.6015064,2,Dixon Road (557),a,Dixon Road,377,5411810,425039557,Etobicoke,38014
-43.6864746,-79.5994408,2,Dixon Road (826),a,Dixon Road,377,5411810,94553826,Etobicoke,38014
-43.6864746,-79.5994408,2,Dixon Road (830),a,Dixon Road,377,5411810,94553830,Etobicoke,38014
-43.6864798,-79.5788846,2,Kelfield Street (633),a,Kelfield Street,42,5413267,99013633,Etobicoke,38014
-43.6864902,-79.5993121,2,Dixon Road (650),a,Dixon Road,377,5411810,297387650,Etobicoke,38014
-43.686513,-79.5991237,2,Dixon Road (827),a,Dixon Road,377,5411810,94553827,Etobicoke,38014
-43.6865554,-79.5767319,2,Kelfield Street (643),a,Kelfield Street,42,5413267,99013643,Etobicoke,38014
-43.6865923,-79.5953717,2,Carlingview Drive (796),a,Carlingview Drive,154,5411709,93306796,Etobicoke,38014
-43.6865979,-79.5955333,2,Carlingview Drive (818),a,Carlingview Drive,154,5411709,93306818,Etobicoke,38014
-43.6866026,-79.5989719,2,Dixon Road (569),a,Dixon Road,377,5411810,94553569,Etobicoke,38014
-43.6866026,-79.5989719,2,Dixon Road (828),a,Dixon Road,377,5411810,94553828,Etobicoke,38014
-43.6866026,-79.5989719,2,Dixon Road (715),a,Dixon Road,377,5411810,579922715,Etobicoke,38014
-43.6866063,-79.5765238,2,Kelfield Street (096),a,Kelfield Street,42,5413267,420188096,Etobicoke,38014
-43.6866178,-79.5858915,2,Skyway Avenue (752),a,Skyway Avenue,94,5413256,99009752,Etobicoke,38014
-43.6866225,-79.5994931,2,Dixon Road (573),a,Dixon Road,377,5411810,94553573,Etobicoke,38014
-43.6866225,-79.5994931,2,Dixon Road (674),a,Dixon Road,377,5411810,94553674,Etobicoke,38014
-43.6866292,-79.5764299,2,Kelfield Street (644),a,Kelfield Street,42,5413267,99013644,Etobicoke,38014
-43.6866356,-79.5993609,2,Dixon Road (643),a,Dixon Road,377,5411810,297387643,Etobicoke,38014
-43.6866573,-79.5859458,2,Skyway Avenue (753),a,Skyway Avenue,94,5413256,99009753,Etobicoke,38014
-43.6866583,-79.5991323,2,Dixon Road (570),a,Dixon Road,377,5411810,94553570,Etobicoke,38014
-43.6866681,-79.5962517,2,Dixon Road (669),a,Dixon Road,377,5411810,94553669,Etobicoke,38014
-43.6866709,-79.5956858,2,Dixon Road (670),a,Dixon Road,377,5411810,94553670,Etobicoke,38014
-43.686672,-79.5952984,2,Dixon Road (848),a,Dixon Road,377,5411810,94553848,Etobicoke,38014
-43.6866724,-79.57628,2,Kelfield Street (645),a,Kelfield Street,42,5413267,99013645,Etobicoke,38014
-43.6866741,-79.5955605,2,Carlingview Drive (792),a,Carlingview Drive,154,5411709,93306792,Etobicoke,38014
-43.6866741,-79.5955605,2,Carlingview Drive (817),a,Carlingview Drive,154,5411709,93306817,Etobicoke,38014
-43.6866741,-79.5955605,2,Dixon Road (671),a,Dixon Road,377,5411810,94553671,Etobicoke,38014
-43.6866741,-79.5955605,2,Dixon Road (835),a,Dixon Road,377,5411810,94553835,Etobicoke,38014
-43.686675,-79.5954128,2,Carlingview Drive (683),a,Carlingview Drive,154,5411709,93306683,Etobicoke,38014
-43.686675,-79.5954128,2,Carlingview Drive (798),a,Carlingview Drive,154,5411709,93306798,Etobicoke,38014
-43.686675,-79.5954128,2,Dixon Road (836),a,Dixon Road,377,5411810,94553836,Etobicoke,38014
-43.686675,-79.5954128,2,Dixon Road (847),a,Dixon Road,377,5411810,94553847,Etobicoke,38014
-43.6866763,-79.5950036,2,Dixon Road (585),a,Dixon Road,377,5411810,94553585,Etobicoke,38014
-43.6866763,-79.5950036,2,Dixon Road (849),a,Dixon Road,377,5411810,94553849,Etobicoke,38014
-43.6866856,-79.5981285,2,Dixon Road (694),a,Dixon Road,377,5411810,473888694,Etobicoke,38014
-43.6866935,-79.5977733,2,Dixon Road (696),a,Dixon Road,377,5411810,473888696,Etobicoke,38014
-43.6866975,-79.5975932,2,Dixon Road (697),a,Dixon Road,377,5411810,473888697,Etobicoke,38014
-43.6867006,-79.5974538,2,Dixon Road (695),a,Dixon Road,377,5411810,473888695,Etobicoke,38014
-43.6867041,-79.5972959,2,Dixon Road (642),a,Dixon Road,377,5411810,297387642,Etobicoke,38014
-43.6867041,-79.5972959,2,Dixon Road (714),a,Dixon Road,377,5411810,579922714,Etobicoke,38014
-43.6867064,-79.5971943,2,Dixon Road (557),a,Dixon Road,377,5411810,94553557,Etobicoke,38014
-43.6867132,-79.5969739,2,Dixon Road (641),a,Dixon Road,377,5411810,297387641,Etobicoke,38014
-43.6867178,-79.5939272,2,Dixon Road (586),a,Dixon Road,377,5411810,94553586,Etobicoke,38014
-43.68672,-79.5967508,2,Dixon Road (556),a,Dixon Road,377,5411810,94553556,Etobicoke,38014
-43.6867236,-79.5964971,2,Dixon Road (555),a,Dixon Road,377,5411810,94553555,Etobicoke,38014
-43.6867298,-79.5964398,2,Dixon Road (554),a,Dixon Road,377,5411810,94553554,Etobicoke,38014
-43.6867298,-79.5964398,2,Dixon Road (668),a,Dixon Road,377,5411810,94553668,Etobicoke,38014
-43.6867298,-79.5964398,2,Dixon Road (846),a,Dixon Road,377,5411810,94553846,Etobicoke,38014
-43.686734,-79.5761669,2,Kelfield Street (646),a,Kelfield Street,42,5413267,99013646,Etobicoke,38014
-43.6867396,-79.5933356,2,Dixon Road (587),a,Dixon Road,377,5411810,94553587,Etobicoke,38014
-43.6867396,-79.5860431,2,Skyway Avenue (754),a,Skyway Avenue,94,5413256,99009754,Etobicoke,38014
-43.6867927,-79.5963002,2,Dixon Road (845),a,Dixon Road,377,5411810,94553845,Etobicoke,38014
-43.6868012,-79.5961379,2,Dixon Road (584),a,Dixon Road,377,5411810,94553584,Etobicoke,38014
-43.6868012,-79.5961379,2,Dixon Road (844),a,Dixon Road,377,5411810,94553844,Etobicoke,38014
 43.6868019,-79.555214,2,Kipling Avenue (879),a,Kipling Avenue,1089,5411515,497594879,Etobicoke,38014
-43.6868045,-79.5957196,2,Dixon Road (582),a,Dixon Road,377,5411810,94553582,Etobicoke,38014
-43.6868074,-79.5953485,2,Dixon Road (666),a,Dixon Road,377,5411810,94553666,Etobicoke,38014
-43.6868088,-79.5956149,2,Carlingview Drive (790),a,Carlingview Drive,154,5411709,93306790,Etobicoke,38014
-43.6868088,-79.5956149,2,Carlingview Drive (831),a,Carlingview Drive,154,5411709,93306831,Etobicoke,38014
-43.6868088,-79.5956149,2,Dixon Road (580),a,Dixon Road,377,5411810,94553580,Etobicoke,38014
-43.6868088,-79.5956149,2,Dixon Road (843),a,Dixon Road,377,5411810,94553843,Etobicoke,38014
-43.6868093,-79.5954714,2,Carlingview Drive (684),a,Carlingview Drive,154,5411709,93306684,Etobicoke,38014
-43.6868093,-79.5954714,2,Carlingview Drive (808),a,Carlingview Drive,154,5411709,93306808,Etobicoke,38014
-43.6868093,-79.5954714,2,Dixon Road (667),a,Dixon Road,377,5411810,94553667,Etobicoke,38014
-43.6868093,-79.5954714,2,Dixon Road (842),a,Dixon Road,377,5411810,94553842,Etobicoke,38014
-43.6868228,-79.5760655,2,Kelfield Street (647),a,Kelfield Street,42,5413267,99013647,Etobicoke,38014
-43.6868389,-79.5924234,2,Dixon Road (560),a,Dixon Road,377,5411810,94553560,Etobicoke,38014
-43.6868389,-79.5924234,2,Dixon Road (567),a,Dixon Road,377,5411810,94553567,Etobicoke,38014
-43.6868389,-79.5924234,2,Dixon Road (588),a,Dixon Road,377,5411810,94553588,Etobicoke,38014
-43.6868456,-79.5938952,2,Dixon Road (562),a,Dixon Road,377,5411810,94553562,Etobicoke,38014
-43.6868456,-79.5938952,2,Dixon Road (665),a,Dixon Road,377,5411810,94553665,Etobicoke,38014
-43.6868611,-79.5932471,2,Dixon Road (561),a,Dixon Road,377,5411810,94553561,Etobicoke,38014
-43.6868784,-79.5956432,2,Carlingview Drive (826),a,Carlingview Drive,154,5411709,93306826,Etobicoke,38014
-43.6868792,-79.5955051,2,Carlingview Drive (810),a,Carlingview Drive,154,5411709,93306810,Etobicoke,38014
-43.6868805,-79.5919211,2,Dixon Road (566),a,Dixon Road,377,5411810,94553566,Etobicoke,38014
-43.6868949,-79.5862256,2,Skyway Avenue (755),a,Skyway Avenue,94,5413256,99009755,Etobicoke,38014
-43.6869329,-79.5790217,2,Kelfield Street (193),a,Kelfield Street,42,5413267,297404193,Etobicoke,38014
-43.6869476,-79.5759633,2,Kelfield Street (648),a,Kelfield Street,42,5413267,99013648,Etobicoke,38014
-43.6869506,-79.5914404,2,Dixon Road (564),a,Dixon Road,377,5411810,94553564,Etobicoke,38014
-43.6869656,-79.5863021,2,Skyway Avenue (542),a,Skyway Avenue,94,5413256,297403542,Etobicoke,38014
-43.6869658,-79.5956807,2,Carlingview Drive (825),a,Carlingview Drive,154,5411709,93306825,Etobicoke,38014
-43.6870409,-79.5863835,2,Skyway Avenue (756),a,Skyway Avenue,94,5413256,99009756,Etobicoke,38014
-43.6870442,-79.5910078,2,Dixon Road (515),a,Dixon Road,377,5411810,94553515,Etobicoke,38014
-43.6870442,-79.5910078,2,Dixon Road (563),a,Dixon Road,377,5411810,94553563,Etobicoke,38014
-43.6870442,-79.5910078,2,Dixon Road (813),a,Dixon Road,377,5411810,94553813,Etobicoke,38014
-43.687055,-79.5759111,2,Kelfield Street (649),a,Kelfield Street,42,5413267,99013649,Etobicoke,38014
-43.6870657,-79.5957259,2,Carlingview Drive (824),a,Carlingview Drive,154,5411709,93306824,Etobicoke,38014
-43.6870657,-79.5957259,2,Carlingview Drive (864),a,Carlingview Drive,154,5411709,93306864,Etobicoke,38014
-43.6871088,-79.590374,2,Dixon Road (516),a,Dixon Road,377,5411810,94553516,Etobicoke,38014
-43.6871088,-79.590374,2,Dixon Road (810),a,Dixon Road,377,5411810,94553810,Etobicoke,38014
-43.6871419,-79.5790938,2,Kelfield Street (632),a,Kelfield Street,42,5413267,99013632,Etobicoke,38014
-43.6871535,-79.5758716,2,Kelfield Street (650),a,Kelfield Street,42,5413267,99013650,Etobicoke,38014
-43.6872138,-79.5865283,2,Skyway Avenue (757),a,Skyway Avenue,94,5413256,99009757,Etobicoke,38014
-43.6872266,-79.5904063,2,Dixon Road (809),a,Dixon Road,377,5411810,94553809,Etobicoke,38014
-43.6872266,-79.5904063,2,Dixon Road (812),a,Dixon Road,377,5411810,94553812,Etobicoke,38014
-43.6872271,-79.589817,2,Dixon Road (811),a,Dixon Road,377,5411810,94553811,Etobicoke,38014
-43.6872271,-79.589817,2,Dixon Road (814),a,Dixon Road,377,5411810,94553814,Etobicoke,38014
-43.6872702,-79.575844,2,Kelfield Street (651),a,Kelfield Street,42,5413267,99013651,Etobicoke,38014
-43.6872702,-79.575844,2,Kelfield Street (654),a,Kelfield Street,42,5413267,99013654,Etobicoke,38014
-43.6873009,-79.5758465,2,Kelfield Street (655),a,Kelfield Street,42,5413267,99013655,Etobicoke,38014
-43.6873418,-79.5898888,2,Dixon Road (794),a,Dixon Road,377,5411810,94553794,Etobicoke,38014
-43.6873418,-79.5898888,2,Dixon Road (807),a,Dixon Road,377,5411810,94553807,Etobicoke,38014
-43.687368,-79.5866239,2,Skyway Avenue (758),a,Skyway Avenue,94,5413256,99009758,Etobicoke,38014
-43.6873839,-79.5866329,2,Skyway Avenue (362),a,Skyway Avenue,94,5413256,389742362,Etobicoke,38014
-43.6873874,-79.5758536,2,Kelfield Street (656),a,Kelfield Street,42,5413267,99013656,Etobicoke,38014
-43.6874217,-79.5958895,2,Carlingview Drive (862),a,Carlingview Drive,154,5411709,93306862,Etobicoke,38014
-43.6874315,-79.5866597,2,Skyway Avenue (759),a,Skyway Avenue,94,5413256,99009759,Etobicoke,38014
-43.6874523,-79.5957504,2,Carlingview Drive (812),a,Carlingview Drive,154,5411709,93306812,Etobicoke,38014
 43.6874661,-79.5555167,2,Kipling Avenue (878),a,Kipling Avenue,1089,5411515,497594878,Etobicoke,38014
-43.6874987,-79.5866812,2,Skyway Avenue (760),a,Skyway Avenue,94,5413256,99009760,Etobicoke,38014
-43.6874987,-79.5866812,2,Skyway Avenue (812),a,Skyway Avenue,94,5413256,99009812,Etobicoke,38014
-43.6874987,-79.5866812,2,Skyway Avenue (819),a,Skyway Avenue,94,5413256,99009819,Etobicoke,38014
-43.6875047,-79.595863,2,Carlingview Drive (815),a,Carlingview Drive,154,5411709,93306815,Etobicoke,38014
-43.6875047,-79.595863,2,Carlingview Drive (860),a,Carlingview Drive,154,5411709,93306860,Etobicoke,38014
-43.6875047,-79.595863,2,Carlingview Drive (244),a,Carlingview Drive,154,5411709,579922244,Etobicoke,38014
-43.6875047,-79.5758757,2,Kelfield Street (657),a,Kelfield Street,42,5413267,99013657,Etobicoke,38014
-43.6875191,-79.5890418,2,Dixon Road (793),a,Dixon Road,377,5411810,94553793,Etobicoke,38014
-43.6875772,-79.5882234,2,Dixon Road (748),a,Dixon Road,377,5411810,94553748,Etobicoke,38014
-43.6875772,-79.5882234,2,Dixon Road (815),a,Dixon Road,377,5411810,94553815,Etobicoke,38014
-43.6876112,-79.5880636,2,Dixon Road (646),a,Dixon Road,377,5411810,297387646,Etobicoke,38014
-43.6876314,-79.5759223,2,Kelfield Street (658),a,Kelfield Street,42,5413267,99013658,Etobicoke,38014
-43.6876379,-79.5866568,2,Skyway Avenue (813),a,Skyway Avenue,94,5413256,99009813,Etobicoke,38014
-43.687642,-79.5867524,2,Skyway Avenue (818),a,Skyway Avenue,94,5413256,99009818,Etobicoke,38014
-43.6876489,-79.5884592,2,Dixon Road (792),a,Dixon Road,377,5411810,94553792,Etobicoke,38014
-43.6876738,-79.5792626,2,Kelfield Street (631),a,Kelfield Street,42,5413267,99013631,Etobicoke,38014
-43.68774,-79.5759694,2,Kelfield Street (659),a,Kelfield Street,42,5413267,99013659,Etobicoke,38014
-43.6877732,-79.5959923,2,Carlingview Drive (238),a,Carlingview Drive,154,5411709,579922238,Etobicoke,38014
-43.6877732,-79.5959923,2,Carlingview Drive (245),a,Carlingview Drive,154,5411709,579922245,Etobicoke,38014
-43.6877836,-79.586815,2,Skyway Avenue (763),a,Skyway Avenue,94,5413256,579925763,Etobicoke,38014
-43.6878221,-79.586668,2,Skyway Avenue (762),a,Skyway Avenue,94,5413256,579925762,Etobicoke,38014
-43.6878395,-79.5760042,2,Kelfield Street (660),a,Kelfield Street,42,5413267,99013660,Etobicoke,38014
-43.6878434,-79.5869726,2,Dixon Road (709),a,Dixon Road,377,5411810,579922709,Etobicoke,38014
 43.6878495,-79.587538,2,Dixon Road (648),a,Dixon Road,377,5411810,297387648,Etobicoke,38014
-43.6878724,-79.586845,2,Dixon Road (755),a,Dixon Road,377,5411810,94553755,Etobicoke,38014
-43.6878724,-79.586845,2,Attwell Drive (891),a,Attwell Drive,154,5412019,96293891,Etobicoke,38014
-43.6878724,-79.586845,2,Skyway Avenue (816),a,Skyway Avenue,94,5413256,99009816,Etobicoke,38014
-43.6878952,-79.5867623,2,Dixon Road (759),a,Dixon Road,377,5411810,94553759,Etobicoke,38014
-43.6878952,-79.5867623,2,Dixon Road (762),a,Dixon Road,377,5411810,94553762,Etobicoke,38014
-43.6879111,-79.5866947,2,Dixon Road (765),a,Dixon Road,377,5411810,94553765,Etobicoke,38014
-43.6879111,-79.5866947,2,Attwell Drive (892),a,Attwell Drive,154,5412019,96293892,Etobicoke,38014
-43.6879111,-79.5866947,2,Skyway Avenue (815),a,Skyway Avenue,94,5413256,99009815,Etobicoke,38014
 43.6879641,-79.5870125,2,Dixon Road (710),a,Dixon Road,377,5411810,579922710,Etobicoke,38014
-43.687995,-79.5868815,2,Dixon Road (789),a,Dixon Road,377,5411810,94553789,Etobicoke,38014
-43.687995,-79.5868815,2,Attwell Drive (869),a,Attwell Drive,154,5412019,96293869,Etobicoke,38014
-43.687995,-79.5868815,2,Attwell Drive (890),a,Attwell Drive,154,5412019,96293890,Etobicoke,38014
-43.6880153,-79.5868059,2,Dixon Road (787),a,Dixon Road,377,5411810,94553787,Etobicoke,38014
-43.6880153,-79.5868059,2,Dixon Road (851),a,Dixon Road,377,5411810,94553851,Etobicoke,38014
-43.6880336,-79.5867301,2,Dixon Road (785),a,Dixon Road,377,5411810,94553785,Etobicoke,38014
-43.6880336,-79.5867301,2,Dixon Road (850),a,Dixon Road,377,5411810,94553850,Etobicoke,38014
-43.6880336,-79.5867301,2,Attwell Drive (870),a,Attwell Drive,154,5412019,96293870,Etobicoke,38014
-43.6880336,-79.5867301,2,Attwell Drive (893),a,Attwell Drive,154,5412019,96293893,Etobicoke,38014
-43.6880387,-79.5760988,2,Kelfield Street (625),a,Kelfield Street,42,5413267,99013625,Etobicoke,38014
-43.6880387,-79.5760988,2,Kelfield Street (661),a,Kelfield Street,42,5413267,99013661,Etobicoke,38014
-43.6880387,-79.5760988,2,Stoffel Drive (261),a,Stoffel Drive,8,5413268,99014261,Etobicoke,38014
-43.6880881,-79.5869152,2,Attwell Drive (824),a,Attwell Drive,154,5412019,579921824,Etobicoke,38014
-43.6881206,-79.5867727,2,Attwell Drive (825),a,Attwell Drive,154,5412019,579921825,Etobicoke,38014
-43.6881645,-79.585524,2,Dixon Road (768),a,Dixon Road,377,5411810,94553768,Etobicoke,38014
-43.6882403,-79.5962172,2,Carlingview Drive (445),a,Carlingview Drive,154,5411709,297386445,Etobicoke,38014
-43.6882588,-79.5751955,2,Stoffel Drive (306),a,Stoffel Drive,8,5413268,500842306,Etobicoke,38014
-43.6882969,-79.5962444,2,Carlingview Drive (665),a,Carlingview Drive,154,5411709,93306665,Etobicoke,38014
-43.6883547,-79.5852787,2,Dixon Road (528),a,Dixon Road,377,5411810,94553528,Etobicoke,38014
-43.6883547,-79.5852787,2,Dixon Road (782),a,Dixon Road,377,5411810,94553782,Etobicoke,38014
-43.688501,-79.5870635,2,Attwell Drive (867),a,Attwell Drive,154,5412019,96293867,Etobicoke,38014
-43.6885612,-79.5763268,2,Kelfield Street (305),a,Kelfield Street,42,5413267,500842305,Etobicoke,38014
-43.6885699,-79.5728739,2,Stoffel Drive (274),a,Stoffel Drive,8,5413268,99014274,Etobicoke,38014
-43.6886075,-79.5737643,2,Stoffel Drive (264),a,Stoffel Drive,8,5413268,99014264,Etobicoke,38014
-43.6886116,-79.573004,2,Stoffel Drive (272),a,Stoffel Drive,8,5413268,99014272,Etobicoke,38014
-43.6886277,-79.5870226,2,Attwell Drive (872),a,Attwell Drive,154,5412019,96293872,Etobicoke,38014
-43.688636,-79.5763595,2,Kelfield Street (093),a,Kelfield Street,42,5413267,420188093,Etobicoke,38014
-43.688642,-79.5736019,2,Stoffel Drive (266),a,Stoffel Drive,8,5413268,99014266,Etobicoke,38014
-43.6886621,-79.5832815,2,Dixon Road (647),a,Dixon Road,377,5411810,297387647,Etobicoke,38014
-43.6886696,-79.5734605,2,Stoffel Drive (268),a,Stoffel Drive,8,5413268,99014268,Etobicoke,38014
-43.6886779,-79.5733211,2,Stoffel Drive (270),a,Stoffel Drive,8,5413268,99014270,Etobicoke,38014
-43.6887953,-79.5826812,2,Dixon Road (772),a,Dixon Road,377,5411810,94553772,Etobicoke,38014
-43.6888708,-79.5823425,2,Dixon Road (552),a,Dixon Road,377,5411810,94553552,Etobicoke,38014
-43.6888708,-79.5823425,2,Dixon Road (779),a,Dixon Road,377,5411810,94553779,Etobicoke,38014
 43.6888733,-79.5696593,2,Martin Grove Road (032),a,Martin Grove Road,689,5411724,93488032,Etobicoke,38014
 43.6888733,-79.5696593,2,Martin Grove Road (447),a,Martin Grove Road,689,5411724,93488447,Etobicoke,38014
 43.6888733,-79.5696593,2,Martin Grove Road (450),a,Martin Grove Road,689,5411724,93488450,Etobicoke,38014
-43.6888763,-79.5829657,2,Dixon Road (640),a,Dixon Road,377,5411810,297387640,Etobicoke,38014
-43.6888938,-79.587187,2,Attwell Drive (866),a,Attwell Drive,154,5412019,96293866,Etobicoke,38014
-43.6888938,-79.587187,2,Attwell Drive (873),a,Attwell Drive,154,5412019,96293873,Etobicoke,38014
-43.6888938,-79.587187,2,Attwell Drive (826),a,Attwell Drive,154,5412019,579921826,Etobicoke,38014
-43.6889669,-79.5872239,2,Attwell Drive (827),a,Attwell Drive,154,5412019,579921827,Etobicoke,38014
-43.6889904,-79.5824595,2,Dixon Road (527),a,Dixon Road,377,5411810,94553527,Etobicoke,38014
-43.6889904,-79.5824595,2,Dixon Road (536),a,Dixon Road,377,5411810,94553536,Etobicoke,38014
-43.6890039,-79.5817938,2,Dixon Road (546),a,Dixon Road,377,5411810,94553546,Etobicoke,38014
-43.6890039,-79.5817938,2,Dixon Road (553),a,Dixon Road,377,5411810,94553553,Etobicoke,38014
-43.689016,-79.5872506,2,Attwell Drive (828),a,Attwell Drive,154,5412019,579921828,Etobicoke,38014
 43.689065,-79.5698024,2,Martin Grove Road (446),a,Martin Grove Road,689,5411724,93488446,Etobicoke,38014
-43.6890722,-79.5872773,2,Attwell Drive (829),a,Attwell Drive,154,5412019,579921829,Etobicoke,38014
-43.6891055,-79.5814024,2,Dixon Road (547),a,Dixon Road,377,5411810,94553547,Etobicoke,38014
-43.6891417,-79.5818435,2,Dixon Road (535),a,Dixon Road,377,5411810,94553535,Etobicoke,38014
-43.6891417,-79.5818435,2,Dixon Road (673),a,Dixon Road,377,5411810,94553673,Etobicoke,38014
 43.6891494,-79.5562726,2,Kipling Avenue (883),a,Kipling Avenue,1089,5411515,497594883,Etobicoke,38014
-43.6891755,-79.5873067,2,Attwell Drive (830),a,Attwell Drive,154,5412019,579921830,Etobicoke,38014
 43.6891796,-79.5697201,2,Martin Grove Road (034),a,Martin Grove Road,689,5411724,93488034,Etobicoke,38014
-43.6891837,-79.5966325,2,Carlingview Drive (446),a,Carlingview Drive,154,5411709,297386446,Etobicoke,38014
-43.6891993,-79.5816002,2,Dixon Road (543),a,Dixon Road,377,5411810,94553543,Etobicoke,38014
-43.6891993,-79.5816002,2,Dixon Road (672),a,Dixon Road,377,5411810,94553672,Etobicoke,38014
-43.6892388,-79.5966566,2,Carlingview Drive (447),a,Carlingview Drive,154,5411709,297386447,Etobicoke,38014
-43.6892849,-79.5873244,2,Attwell Drive (802),a,Attwell Drive,154,5412019,497595802,Etobicoke,38014
-43.6893994,-79.5873093,2,Attwell Drive (831),a,Attwell Drive,154,5412019,579921831,Etobicoke,38014
-43.6894527,-79.5800126,2,Dixon Road (548),a,Dixon Road,377,5411810,94553548,Etobicoke,38014
-43.6894587,-79.6022503,2,Campus Road (808),a,Campus Road,1,19455701,415120808,Etobicoke,38014
-43.6894587,-79.6022503,2,Fasken Drive (812),a,Fasken Drive,15,19575295,420187812,Etobicoke,38014
-43.6894765,-79.5871022,2,Carlson Court (056),a,Carlson Court,10,5412013,96204056,Etobicoke,38014
-43.689481,-79.5870162,2,Carlson Court (055),a,Carlson Court,10,5412013,96204055,Etobicoke,38014
-43.6894813,-79.5871371,2,Carlson Court (246),a,Carlson Court,10,5412013,579922246,Etobicoke,38014
-43.6895085,-79.5872774,2,Carlson Court (247),a,Carlson Court,10,5412013,579922247,Etobicoke,38014
-43.6895085,-79.5872774,2,Attwell Drive (832),a,Attwell Drive,154,5412019,579921832,Etobicoke,38014
-43.6895085,-79.5872774,2,Attwell Drive (834),a,Attwell Drive,154,5412019,579921834,Etobicoke,38014
 43.6895147,-79.5699996,2,Martin Grove Road (445),a,Martin Grove Road,689,5411724,93488445,Etobicoke,38014
-43.6895229,-79.596781,2,Carlingview Drive (448),a,Carlingview Drive,154,5411709,297386448,Etobicoke,38014
-43.6895518,-79.6019757,2,Fasken Drive (811),a,Fasken Drive,15,19575295,420187811,Etobicoke,38014
-43.6895719,-79.5800264,2,Dixon Road (554),a,Dixon Road,377,5411810,425039554,Etobicoke,38014
-43.6895863,-79.5872541,2,Attwell Drive (819),a,Attwell Drive,154,5412019,497595819,Etobicoke,38014
 43.6895893,-79.5794875,2,Dixon Road (549),a,Dixon Road,377,5411810,94553549,Etobicoke,38014
-43.6896299,-79.586397,2,Carlson Court (083),a,Carlson Court,10,5412013,415121083,Etobicoke,38014
-43.6896467,-79.5968352,2,Carlingview Drive (449),a,Carlingview Drive,154,5411709,297386449,Etobicoke,38014
 43.6896776,-79.579131,2,Dixon Road (550),a,Dixon Road,377,5411810,94553550,Etobicoke,38014
 43.6896875,-79.5565169,2,Kipling Avenue (885),a,Kipling Avenue,1089,5411515,497594885,Etobicoke,38014
 43.6896875,-79.5565169,2,Kipling Avenue (887),a,Kipling Avenue,1089,5411515,497594887,Etobicoke,38014
-43.6896975,-79.5861161,2,Carlson Court (082),a,Carlson Court,10,5412013,415121082,Etobicoke,38014
-43.6897064,-79.5872141,2,Attwell Drive (821),a,Attwell Drive,154,5412019,497595821,Etobicoke,38014
-43.6897581,-79.5858638,2,Carlson Court (063),a,Carlson Court,10,5412013,409023063,Etobicoke,38014
-43.6897822,-79.5871889,2,Attwell Drive (818),a,Attwell Drive,154,5412019,497595818,Etobicoke,38014
-43.6897822,-79.5871889,2,Attwell Drive (822),a,Attwell Drive,154,5412019,497595822,Etobicoke,38014
-43.6897838,-79.5791847,2,Dixon Road (542),a,Dixon Road,377,5411810,94553542,Etobicoke,38014
-43.6897902,-79.6013074,2,Fasken Drive (810),a,Fasken Drive,15,19575295,420187810,Etobicoke,38014
-43.6898159,-79.6012474,2,Fasken Drive (809),a,Fasken Drive,15,19575295,420187809,Etobicoke,38014
-43.6898763,-79.576913,2,Kelfield Street (739),a,Kelfield Street,42,5413267,490816739,Etobicoke,38014
-43.6898952,-79.5852939,2,Carlson Court (062),a,Carlson Court,10,5412013,409023062,Etobicoke,38014
 43.6898962,-79.5781941,2,Dixon Road (551),a,Dixon Road,377,5411810,94553551,Etobicoke,38014
 43.6898962,-79.5781941,2,Dixon Road (837),a,Dixon Road,377,5411810,94553837,Etobicoke,38014
-43.6899265,-79.5786142,2,Dixon Road (539),a,Dixon Road,377,5411810,94553539,Etobicoke,38014
-43.6899351,-79.5851183,2,Carlson Court (081),a,Carlson Court,10,5412013,415121081,Etobicoke,38014
-43.6899656,-79.5871278,2,Attwell Drive (815),a,Attwell Drive,154,5412019,497595815,Etobicoke,38014
-43.6900221,-79.5782389,2,Dixon Road (553),a,Dixon Road,377,5411810,425039553,Etobicoke,38014
-43.6900433,-79.6038406,2,Indian Line (560),a,Indian Line,38,5412350,97898560,Etobicoke,38014
-43.690055,-79.5970139,2,Carlingview Drive (450),a,Carlingview Drive,154,5411709,297386450,Etobicoke,38014
-43.6900756,-79.6007159,2,Fasken Drive (808),a,Fasken Drive,15,19575295,420187808,Etobicoke,38014
-43.6900803,-79.5770041,2,Kelfield Street (974),a,Kelfield Street,42,5413267,425039974,Etobicoke,38014
-43.6900894,-79.5844862,2,Carlson Court (054),a,Carlson Court,10,5412013,96204054,Etobicoke,38014
-43.6901019,-79.5770138,2,Kelfield Street (975),a,Kelfield Street,42,5413267,425039975,Etobicoke,38014
-43.6901212,-79.5772167,2,Dixon Road (579),a,Dixon Road,377,5411810,425039579,Etobicoke,38014
-43.6901288,-79.5771842,2,Dixon Road (580),a,Dixon Road,377,5411810,425039580,Etobicoke,38014
-43.6901404,-79.6006029,2,Fasken Drive (807),a,Fasken Drive,15,19575295,420187807,Etobicoke,38014
-43.6901447,-79.5777485,2,Dixon Road (555),a,Dixon Road,377,5411810,425039555,Etobicoke,38014
-43.6901622,-79.577041,2,Dixon Road (822),a,Dixon Road,377,5411810,94553822,Etobicoke,38014
-43.6901622,-79.577041,2,Dixon Road (839),a,Dixon Road,377,5411810,94553839,Etobicoke,38014
-43.6901622,-79.577041,2,Kelfield Street (628),a,Kelfield Street,42,5413267,99013628,Etobicoke,38014
-43.6901622,-79.577041,2,Kelfield Street (652),a,Kelfield Street,42,5413267,99013652,Etobicoke,38014
-43.6902001,-79.5768789,2,Dixon Road (576),a,Dixon Road,377,5411810,425039576,Etobicoke,38014
-43.6902086,-79.5896757,2,Reading Court (813),a,Reading Court,6,5412012,96192813,Etobicoke,38014
-43.6902096,-79.5768382,2,Dixon Road (575),a,Dixon Road,377,5411810,425039575,Etobicoke,38014
-43.6902241,-79.5871032,2,Attwell Drive (813),a,Attwell Drive,154,5412019,497595813,Etobicoke,38014
 43.6902268,-79.5795664,2,City View Drive (678),a,City View Drive,141,5413269,99016678,Etobicoke,38014
 43.690227,-79.5795304,2,City View Drive (677),a,City View Drive,141,5413269,99016677,Etobicoke,38014
 43.6902277,-79.5796024,2,City View Drive (679),a,City View Drive,141,5413269,99016679,Etobicoke,38014
@@ -1802,71 +1216,31 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6902468,-79.5797801,2,City View Drive (684),a,City View Drive,141,5413269,99016684,Etobicoke,38014
 43.690247,-79.5792999,2,City View Drive (672),a,City View Drive,141,5413269,99016672,Etobicoke,38014
 43.6902537,-79.5798148,2,City View Drive (685),a,City View Drive,141,5413269,99016685,Etobicoke,38014
-43.6902538,-79.5766478,2,Dixon Road (593),a,Dixon Road,377,5411810,490816593,Etobicoke,38014
-43.6902554,-79.5772786,2,Dixon Road (552),a,Dixon Road,377,5411810,425039552,Etobicoke,38014
-43.6902608,-79.5871106,2,Attwell Drive (817),a,Attwell Drive,154,5412019,497595817,Etobicoke,38014
 43.6902614,-79.5798491,2,City View Drive (686),a,City View Drive,141,5413269,99016686,Etobicoke,38014
-43.6902633,-79.5772451,2,Dixon Road (556),a,Dixon Road,377,5411810,425039556,Etobicoke,38014
 43.6902736,-79.5798944,2,City View Drive (687),a,City View Drive,141,5413269,99016687,Etobicoke,38014
 43.6902768,-79.5799057,2,City View Drive (347),a,City View Drive,141,5413269,297404347,Etobicoke,38014
 43.6902799,-79.5799164,2,City View Drive (688),a,City View Drive,141,5413269,99016688,Etobicoke,38014
 43.6902802,-79.5791502,2,City View Drive (671),a,City View Drive,141,5413269,99016671,Etobicoke,38014
 43.6902905,-79.5799493,2,City View Drive (689),a,City View Drive,141,5413269,99016689,Etobicoke,38014
-43.690297,-79.5771018,2,Dixon Road (537),a,Dixon Road,377,5411810,94553537,Etobicoke,38014
-43.690297,-79.5771018,2,Dixon Road (834),a,Dixon Road,377,5411810,94553834,Etobicoke,38014
-43.690297,-79.5771018,2,Kelfield Street (653),a,Kelfield Street,42,5413267,99013653,Etobicoke,38014
-43.690297,-79.5771018,2,City View Drive (797),a,City View Drive,141,5413269,99016797,Etobicoke,38014
 43.6903021,-79.5799815,2,City View Drive (690),a,City View Drive,141,5413269,99016690,Etobicoke,38014
 43.6903145,-79.5800131,2,City View Drive (691),a,City View Drive,141,5413269,99016691,Etobicoke,38014
 43.6903278,-79.580044,2,City View Drive (692),a,City View Drive,141,5413269,99016692,Etobicoke,38014
 43.6903316,-79.5763127,2,Dixon Road (592),a,Dixon Road,377,5411810,490816592,Etobicoke,38014
-43.6903363,-79.5769344,2,Dixon Road (578),a,Dixon Road,377,5411810,425039578,Etobicoke,38014
 43.690342,-79.5800742,2,City View Drive (693),a,City View Drive,141,5413269,99016693,Etobicoke,38014
 43.6903468,-79.5788522,2,City View Drive (670),a,City View Drive,141,5413269,99016670,Etobicoke,38014
 43.6903468,-79.5788522,2,City View Drive (811),a,City View Drive,141,5413269,99016811,Etobicoke,38014
-43.6903471,-79.5768885,2,Dixon Road (577),a,Dixon Road,377,5411810,425039577,Etobicoke,38014
-43.6903545,-79.5762142,2,Dixon Road (957),a,Dixon Road,377,5411810,504637957,Etobicoke,38014
-43.6903593,-79.5761936,2,Dixon Road (824),a,Dixon Road,377,5411810,94553824,Etobicoke,38014
-43.6903605,-79.5871306,2,Attwell Drive (816),a,Attwell Drive,154,5412019,497595816,Etobicoke,38014
 43.6903657,-79.5801237,2,City View Drive (694),a,City View Drive,141,5413269,99016694,Etobicoke,38014
 43.6903807,-79.5787075,2,City View Drive (810),a,City View Drive,141,5413269,99016810,Etobicoke,38014
-43.6903826,-79.5771404,2,City View Drive (980),a,City View Drive,141,5413269,425039980,Etobicoke,38014
-43.6903887,-79.604029,2,Indian Line (872),a,Indian Line,38,5412350,497595872,Etobicoke,38014
-43.6904068,-79.5771513,2,City View Drive (976),a,City View Drive,141,5413269,425039976,Etobicoke,38014
-43.6904253,-79.597176,2,Carlingview Drive (451),a,Carlingview Drive,154,5411709,297386451,Etobicoke,38014
 43.6904364,-79.5784606,2,City View Drive (809),a,City View Drive,141,5413269,99016809,Etobicoke,38014
-43.6904425,-79.577172,2,City View Drive (799),a,City View Drive,141,5413269,99016799,Etobicoke,38014
-43.6904573,-79.6000498,2,Fasken Drive (806),a,Fasken Drive,15,19575295,420187806,Etobicoke,38014
-43.6904826,-79.5771984,2,City View Drive (800),a,City View Drive,141,5413269,99016800,Etobicoke,38014
-43.6904914,-79.5762626,2,Dixon Road (832),a,Dixon Road,377,5411810,94553832,Etobicoke,38014
-43.6904914,-79.5759997,2,Dixon Road (529),a,Dixon Road,377,5411810,94553529,Etobicoke,38014
-43.6904914,-79.5759997,2,Dixon Road (825),a,Dixon Road,377,5411810,94553825,Etobicoke,38014
-43.6904914,-79.5759997,2,Dixon Road (831),a,Dixon Road,377,5411810,94553831,Etobicoke,38014
-43.6905003,-79.5759603,2,Dixon Road (955),a,Dixon Road,377,5411810,504637955,Etobicoke,38014
-43.6905013,-79.5884562,2,Reading Court (603),a,Reading Court,6,5412012,389741603,Etobicoke,38014
-43.6905137,-79.5871613,2,Attwell Drive (810),a,Attwell Drive,154,5412019,497595810,Etobicoke,38014
-43.6905137,-79.5871613,2,Attwell Drive (814),a,Attwell Drive,154,5412019,497595814,Etobicoke,38014
-43.6905147,-79.5772229,2,City View Drive (977),a,City View Drive,141,5413269,425039977,Etobicoke,38014
-43.6905309,-79.5972222,2,Carlingview Drive (452),a,Carlingview Drive,154,5411709,297386452,Etobicoke,38014
 43.6905344,-79.5758088,2,Dixon Road (530),a,Dixon Road,377,5411810,94553530,Etobicoke,38014
 43.6905399,-79.5780194,2,City View Drive (808),a,City View Drive,141,5413269,99016808,Etobicoke,38014
-43.6905433,-79.5772466,2,City View Drive (978),a,City View Drive,141,5413269,425039978,Etobicoke,38014
 43.6905523,-79.5792664,2,Congress Road (702),a,Congress Road,8,5413447,99049702,Etobicoke,38014
 43.6905553,-79.5757273,2,Dixon Road (034),a,Dixon Road,377,5411810,409023034,Etobicoke,38014
-43.6905651,-79.577271,2,City View Drive (979),a,City View Drive,141,5413269,425039979,Etobicoke,38014
-43.6905896,-79.5998189,2,Fasken Drive (805),a,Fasken Drive,15,19575295,420187805,Etobicoke,38014
 43.690591,-79.5777986,2,City View Drive (807),a,City View Drive,141,5413269,99016807,Etobicoke,38014
-43.6905935,-79.5773079,2,City View Drive (801),a,City View Drive,141,5413269,99016801,Etobicoke,38014
-43.6905935,-79.5773079,2,City View Drive (802),a,City View Drive,141,5413269,99016802,Etobicoke,38014
-43.690608,-79.5773312,2,City View Drive (803),a,City View Drive,141,5413269,99016803,Etobicoke,38014
 43.6906109,-79.5777097,2,City View Drive (983),a,City View Drive,141,5413269,425039983,Etobicoke,38014
-43.6906248,-79.5773737,2,City View Drive (804),a,City View Drive,141,5413269,99016804,Etobicoke,38014
 43.6906263,-79.5776323,2,City View Drive (806),a,City View Drive,141,5413269,99016806,Etobicoke,38014
-43.690636,-79.5774277,2,City View Drive (981),a,City View Drive,141,5413269,425039981,Etobicoke,38014
 43.6906371,-79.5775561,2,City View Drive (805),a,City View Drive,141,5413269,99016805,Etobicoke,38014
-43.6906406,-79.5774855,2,City View Drive (982),a,City View Drive,141,5413269,425039982,Etobicoke,38014
 43.6906414,-79.5787545,2,Congress Road (704),a,Congress Road,8,5413447,99049704,Etobicoke,38014
-43.6906419,-79.5878701,2,Reading Court (602),a,Reading Court,6,5412012,389741602,Etobicoke,38014
 43.6906478,-79.5788544,2,Congress Road (703),a,Congress Road,8,5413447,99049703,Etobicoke,38014
 43.6906584,-79.5705149,2,Martin Grove Road (525),a,Martin Grove Road,689,5411724,425039525,Etobicoke,38014
 43.6906588,-79.5752639,2,Dixon Road (531),a,Dixon Road,377,5411810,94553531,Etobicoke,38014
@@ -1875,32 +1249,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6906977,-79.5750888,2,Dixon Road (035),a,Dixon Road,377,5411810,409023035,Etobicoke,38014
 43.6907055,-79.5569795,2,Kipling Avenue (891),a,Kipling Avenue,1089,5411515,497594891,Etobicoke,38014
 43.6907055,-79.5569795,2,Kipling Avenue (893),a,Kipling Avenue,1089,5411515,497594893,Etobicoke,38014
-43.6907158,-79.5995987,2,Fasken Drive (804),a,Fasken Drive,15,19575295,420187804,Etobicoke,38014
-43.6907251,-79.587254,2,Attwell Drive (812),a,Attwell Drive,154,5412019,497595812,Etobicoke,38014
-43.6907418,-79.5973145,2,Carlingview Drive (666),a,Carlingview Drive,154,5411709,93306666,Etobicoke,38014
-43.6907418,-79.5973145,2,Constellation Court (505),a,Constellation Court,14,5412010,96137505,Etobicoke,38014
-43.6907523,-79.5874711,2,Reading Court (601),a,Reading Court,6,5412012,389741601,Etobicoke,38014
-43.6907649,-79.58742,2,Reading Court (912),a,Reading Court,6,5412012,432527912,Etobicoke,38014
-43.690776,-79.5971915,2,Constellation Court (755),a,Constellation Court,14,5412010,297388755,Etobicoke,38014
-43.6907797,-79.5971781,2,Constellation Court (503),a,Constellation Court,14,5412010,96137503,Etobicoke,38014
 43.6907889,-79.5704279,2,Martin Grove Road (036),a,Martin Grove Road,689,5411724,93488036,Etobicoke,38014
 43.6907889,-79.5704279,2,Martin Grove Road (547),a,Martin Grove Road,689,5411724,93488547,Etobicoke,38014
-43.6907979,-79.587286,2,Reading Court (809),a,Reading Court,6,5412012,96192809,Etobicoke,38014
-43.6907979,-79.587286,2,Attwell Drive (808),a,Attwell Drive,154,5412019,497595808,Etobicoke,38014
-43.6907979,-79.587286,2,Attwell Drive (811),a,Attwell Drive,154,5412019,497595811,Etobicoke,38014
 43.6908038,-79.5746268,2,Dixon Road (890),a,Dixon Road,377,5411810,415120890,Etobicoke,38014
-43.6908748,-79.5968358,2,Constellation Court (754),a,Constellation Court,14,5412010,297388754,Etobicoke,38014
 43.6908842,-79.5776275,2,Congress Road (707),a,Congress Road,8,5413447,99049707,Etobicoke,38014
-43.6908873,-79.6043011,2,Indian Line (561),a,Indian Line,38,5412350,97898561,Etobicoke,38014
-43.6909141,-79.5992505,2,Fasken Drive (418),a,Fasken Drive,15,19575295,502156418,Etobicoke,38014
-43.6909231,-79.5974025,2,Carlingview Drive (453),a,Carlingview Drive,154,5411709,297386453,Etobicoke,38014
 43.6909316,-79.5810762,2,City View Drive (175),a,City View Drive,141,5413269,409023175,Etobicoke,38014
-43.6909401,-79.5966006,2,Constellation Court (499),a,Constellation Court,14,5412010,96137499,Etobicoke,38014
-43.6909401,-79.5966006,2,Constellation Court (501),a,Constellation Court,14,5412010,96137501,Etobicoke,38014
-43.6909532,-79.604337,2,Indian Line (562),a,Indian Line,38,5412350,97898562,Etobicoke,38014
 43.6909822,-79.5738415,2,Dixon Road (532),a,Dixon Road,377,5411810,94553532,Etobicoke,38014
 43.6910254,-79.5770218,2,Congress Road (708),a,Congress Road,8,5413447,99049708,Etobicoke,38014
-43.691043,-79.5963766,2,Constellation Court (496),a,Constellation Court,14,5412010,96137496,Etobicoke,38014
 43.6910471,-79.5735487,2,Dixon Road (431),a,Dixon Road,377,5411810,497595431,Etobicoke,38014
 43.6910578,-79.5707062,2,Martin Grove Road (419),a,Martin Grove Road,689,5411724,93488419,Etobicoke,38014
 43.6910578,-79.5707062,2,Martin Grove Road (444),a,Martin Grove Road,689,5411724,93488444,Etobicoke,38014
@@ -1908,8 +1263,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6910946,-79.5769631,2,Congress Road (709),a,Congress Road,8,5413447,99049709,Etobicoke,38014
 43.6910946,-79.5769631,2,Discovery Road (052),a,Discovery Road,8,5413480,99060052,Etobicoke,38014
 43.6911054,-79.573288,2,Dixon Road (954),a,Dixon Road,377,5411810,504637954,Etobicoke,38014
-43.6911189,-79.5962691,2,Constellation Court (753),a,Constellation Court,14,5412010,297388753,Etobicoke,38014
-43.6911194,-79.5988854,2,Fasken Drive (802),a,Fasken Drive,15,19575295,420187802,Etobicoke,38014
 43.6911468,-79.5705869,2,Martin Grove Road (021),a,Martin Grove Road,689,5411724,93488021,Etobicoke,38014
 43.6911468,-79.5705869,2,Martin Grove Road (456),a,Martin Grove Road,689,5411724,93488456,Etobicoke,38014
 43.6911468,-79.5705869,2,Martin Grove Road (548),a,Martin Grove Road,689,5411724,93488548,Etobicoke,38014
@@ -1920,22 +1273,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6911612,-79.5730399,2,Dixon Road (693),a,Dixon Road,377,5411810,94553693,Etobicoke,38014
 43.691169,-79.5814758,2,City View Drive (695),a,City View Drive,141,5413269,99016695,Etobicoke,38014
 43.6911822,-79.5705752,2,Martin Grove Road (518),a,Martin Grove Road,689,5411724,425039518,Etobicoke,38014
-43.6912399,-79.5986712,2,Fasken Drive (801),a,Fasken Drive,15,19575295,420187801,Etobicoke,38014
 43.6912472,-79.5769943,2,Discovery Road (054),a,Discovery Road,8,5413480,99060054,Etobicoke,38014
 43.6912533,-79.5728868,2,Dixon Road (956),a,Dixon Road,377,5411810,504637956,Etobicoke,38014
 43.6912961,-79.5728155,2,Dixon Road (691),a,Dixon Road,377,5411810,94553691,Etobicoke,38014
 43.6913077,-79.5706235,2,Martin Grove Road (519),a,Martin Grove Road,689,5411724,425039519,Etobicoke,38014
-43.6913107,-79.5975906,2,Carlingview Drive (454),a,Carlingview Drive,154,5411709,297386454,Etobicoke,38014
-43.6913112,-79.5985129,2,Fasken Drive (800),a,Fasken Drive,15,19575295,420187800,Etobicoke,38014
 43.6913247,-79.5726807,2,Dixon Road (689),a,Dixon Road,377,5411810,94553689,Etobicoke,38014
-43.6913546,-79.5959351,2,Constellation Court (752),a,Constellation Court,14,5412010,297388752,Etobicoke,38014
 43.6913725,-79.5724693,2,Dixon Road (686),a,Dixon Road,377,5411810,94553686,Etobicoke,38014
 43.6913725,-79.5724693,2,Dixon Road (699),a,Dixon Road,377,5411810,94553699,Etobicoke,38014
 43.6913738,-79.5706057,2,Martin Grove Road (516),a,Martin Grove Road,689,5411724,425039516,Etobicoke,38014
 43.6914079,-79.5705896,2,Martin Grove Road (517),a,Martin Grove Road,689,5411724,425039517,Etobicoke,38014
-43.6914128,-79.5976402,2,Carlingview Drive (668),a,Carlingview Drive,154,5411709,93306668,Etobicoke,38014
 43.6914153,-79.5708761,2,Martin Grove Road (194),a,Martin Grove Road,689,5411724,409023194,Etobicoke,38014
-43.6914193,-79.5958435,2,Constellation Court (751),a,Constellation Court,14,5412010,297388751,Etobicoke,38014
 43.691438,-79.5708862,2,Martin Grove Road (521),a,Martin Grove Road,689,5411724,425039521,Etobicoke,38014
 43.6914409,-79.5705688,2,Martin Grove Road (024),a,Martin Grove Road,689,5411724,93488024,Etobicoke,38014
 43.6914495,-79.570725,2,Martin Grove Road (528),a,Martin Grove Road,689,5411724,425039528,Etobicoke,38014
@@ -1944,33 +1291,22 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6914799,-79.571079,2,Dixon Road (514),a,Dixon Road,377,5411810,94553514,Etobicoke,38014
 43.6914799,-79.571079,2,Dixon Road (711),a,Dixon Road,377,5411810,579922711,Etobicoke,38014
 43.6914801,-79.5705312,2,Martin Grove Road (515),a,Martin Grove Road,689,5411724,425039515,Etobicoke,38014
-43.6914812,-79.5957555,2,Constellation Court (750),a,Constellation Court,14,5412010,297388750,Etobicoke,38014
-43.6914821,-79.5876183,2,Farnboro Road (898),a,Farnboro Road,10,5412014,473888898,Etobicoke,38014
-43.6914821,-79.5876183,2,Attwell Drive (806),a,Attwell Drive,154,5412019,497595806,Etobicoke,38014
-43.6914821,-79.5876183,2,Attwell Drive (809),a,Attwell Drive,154,5412019,497595809,Etobicoke,38014
-43.6914826,-79.5978376,2,Fasken Drive (798),a,Fasken Drive,15,19575295,420187798,Etobicoke,38014
 43.6914863,-79.5710458,2,Dixon Road (574),a,Dixon Road,377,5411810,425039574,Etobicoke,38014
 43.6915095,-79.5704936,2,Martin Grove Road (028),a,Martin Grove Road,689,5411724,93488028,Etobicoke,38014
 43.6915108,-79.5709186,2,Martin Grove Road (416),a,Martin Grove Road,689,5411724,93488416,Etobicoke,38014
 43.6915108,-79.5709186,2,Martin Grove Road (417),a,Martin Grove Road,689,5411724,93488417,Etobicoke,38014
 43.6915108,-79.5709186,2,Dixon Road (701),a,Dixon Road,377,5411810,94553701,Etobicoke,38014
 43.6915108,-79.5709186,2,Dixon Road (821),a,Dixon Road,377,5411810,94553821,Etobicoke,38014
-43.6915149,-79.5976913,2,Carlingview Drive (669),a,Carlingview Drive,154,5411709,93306669,Etobicoke,38014
-43.6915149,-79.5976913,2,Carlingview Drive (866),a,Carlingview Drive,154,5411709,93306866,Etobicoke,38014
-43.6915149,-79.5976913,2,Fasken Drive (797),a,Fasken Drive,15,19575295,420187797,Etobicoke,38014
-43.691521,-79.5874377,2,Farnboro Road (899),a,Farnboro Road,10,5412014,473888899,Etobicoke,38014
 43.6915393,-79.5704454,2,Martin Grove Road (514),a,Martin Grove Road,689,5411724,425039514,Etobicoke,38014
 43.6915401,-79.570767,2,Martin Grove Road (413),a,Martin Grove Road,689,5411724,93488413,Etobicoke,38014
 43.6915401,-79.570767,2,Martin Grove Road (458),a,Martin Grove Road,689,5411724,93488458,Etobicoke,38014
 43.6915401,-79.570767,2,Dixon Road (702),a,Dixon Road,377,5411810,94553702,Etobicoke,38014
 43.6915401,-79.570767,2,Dixon Road (708),a,Dixon Road,377,5411810,94553708,Etobicoke,38014
 43.6915567,-79.5703897,2,Martin Grove Road (513),a,Martin Grove Road,689,5411724,425039513,Etobicoke,38014
-43.6915594,-79.5872702,2,Farnboro Road (602),a,Farnboro Road,10,5412014,389742602,Etobicoke,38014
 43.691563,-79.5706479,2,Dixon Road (571),a,Dixon Road,377,5411810,425039571,Etobicoke,38014
 43.6915698,-79.5706127,2,Dixon Road (570),a,Dixon Road,377,5411810,425039570,Etobicoke,38014
 43.6915727,-79.571536,2,Dixon Road (567),a,Dixon Road,377,5411810,425039567,Etobicoke,38014
 43.6915761,-79.570309,2,Martin Grove Road (512),a,Martin Grove Road,689,5411724,425039512,Etobicoke,38014
-43.6916353,-79.597748,2,Carlingview Drive (868),a,Carlingview Drive,154,5411709,93306868,Etobicoke,38014
 43.6916467,-79.5711541,2,Dixon Road (568),a,Dixon Road,377,5411810,425039568,Etobicoke,38014
 43.691648,-79.5699552,2,Martin Grove Road (511),a,Martin Grove Road,689,5411724,425039511,Etobicoke,38014
 43.6916538,-79.5711174,2,Dixon Road (569),a,Dixon Road,377,5411810,425039569,Etobicoke,38014
@@ -1982,7 +1318,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6917067,-79.5708441,2,Martin Grove Road (420),a,Martin Grove Road,689,5411724,93488420,Etobicoke,38014
 43.6917067,-79.5708441,2,Dixon Road (704),a,Dixon Road,377,5411810,94553704,Etobicoke,38014
 43.6917067,-79.5708441,2,Dixon Road (818),a,Dixon Road,377,5411810,94553818,Etobicoke,38014
-43.691707,-79.5977797,2,Carlingview Drive (473),a,Carlingview Drive,154,5411709,297386473,Etobicoke,38014
 43.6917098,-79.56992,2,Martin Grove Road (030),a,Martin Grove Road,689,5411724,93488030,Etobicoke,38014
 43.6917098,-79.56992,2,Dixon Road (713),a,Dixon Road,377,5411810,94553713,Etobicoke,38014
 43.6917098,-79.56992,2,Dixon Road (840),a,Dixon Road,377,5411810,94553840,Etobicoke,38014
@@ -1990,22 +1325,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6917381,-79.5710199,2,Martin Grove Road (527),a,Martin Grove Road,689,5411724,425039527,Etobicoke,38014
 43.6917404,-79.5706697,2,Dixon Road (572),a,Dixon Road,377,5411810,425039572,Etobicoke,38014
 43.6917675,-79.5708723,2,Martin Grove Road (524),a,Martin Grove Road,689,5411724,425039524,Etobicoke,38014
-43.6917774,-79.586321,2,Farnboro Road (601),a,Farnboro Road,10,5412014,389742601,Etobicoke,38014
 43.6917967,-79.571046,2,Martin Grove Road (526),a,Martin Grove Road,689,5411724,425039526,Etobicoke,38014
-43.6918181,-79.5877779,2,Attwell Drive (807),a,Attwell Drive,154,5412019,497595807,Etobicoke,38014
-43.6918182,-79.5952783,2,Constellation Court (749),a,Constellation Court,14,5412010,297388749,Etobicoke,38014
 43.6918194,-79.5708963,2,Martin Grove Road (522),a,Martin Grove Road,689,5411724,425039522,Etobicoke,38014
-43.6918217,-79.586128,2,Farnboro Road (252),a,Farnboro Road,10,5412014,409023252,Etobicoke,38014
 43.6918498,-79.570125,2,Dixon Road (649),a,Dixon Road,377,5411810,297387649,Etobicoke,38014
-43.6918643,-79.5859426,2,Farnboro Road (605),a,Farnboro Road,10,5412014,389741605,Etobicoke,38014
-43.6918643,-79.5859426,2,Farnboro Road (600),a,Farnboro Road,10,5412014,389742600,Etobicoke,38014
-43.6918717,-79.5952025,2,Constellation Court (748),a,Constellation Court,14,5412010,297388748,Etobicoke,38014
 43.6919051,-79.569,2,Dixon Road (677),a,Dixon Road,377,5411810,94553677,Etobicoke,38014
 43.6919051,-79.569,2,Dixon Road (841),a,Dixon Road,377,5411810,94553841,Etobicoke,38014
 43.6919475,-79.5696316,2,Dixon Road (816),a,Dixon Road,377,5411810,94553816,Etobicoke,38014
 43.6919475,-79.5696316,2,Dixon Road (719),a,Dixon Road,377,5411810,579922719,Etobicoke,38014
-43.6920164,-79.5852802,2,Farnboro Road (067),a,Farnboro Road,10,5412014,409023067,Etobicoke,38014
-43.6920286,-79.5852271,2,Farnboro Road (066),a,Farnboro Road,10,5412014,409023066,Etobicoke,38014
 43.6920636,-79.5829959,2,City View Drive (696),a,City View Drive,141,5413269,99016696,Etobicoke,38014
 43.6920815,-79.5830219,2,City View Drive (697),a,City View Drive,141,5413269,99016697,Etobicoke,38014
 43.6920995,-79.5830475,2,City View Drive (698),a,City View Drive,141,5413269,99016698,Etobicoke,38014
@@ -2013,7 +1339,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6921232,-79.5679154,2,Dixon Road (558),a,Dixon Road,377,5411810,425039558,Etobicoke,38014
 43.692131,-79.5830964,2,City View Drive (700),a,City View Drive,141,5413269,99016700,Etobicoke,38014
 43.6921535,-79.5831204,2,City View Drive (701),a,City View Drive,141,5413269,99016701,Etobicoke,38014
-43.6921539,-79.5948027,2,Constellation Court (492),a,Constellation Court,14,5412010,96137492,Etobicoke,38014
 43.6921661,-79.5685047,2,Dixon Road (603),a,Dixon Road,377,5411810,490816603,Etobicoke,38014
 43.6921715,-79.5831433,2,City View Drive (702),a,City View Drive,141,5413269,99016702,Etobicoke,38014
 43.6921755,-79.5676561,2,Dixon Road (678),a,Dixon Road,377,5411810,94553678,Etobicoke,38014
@@ -2023,10 +1348,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6921959,-79.5675544,2,Dixon Road (595),a,Dixon Road,377,5411810,490816595,Etobicoke,38014
 43.6922074,-79.5831876,2,City View Drive (704),a,City View Drive,141,5413269,99016704,Etobicoke,38014
 43.6922299,-79.5832089,2,City View Drive (705),a,City View Drive,141,5413269,99016705,Etobicoke,38014
-43.6922479,-79.5879822,2,Attwell Drive (424),a,Attwell Drive,154,5412019,389742424,Etobicoke,38014
-43.6922479,-79.5879822,2,Attwell Drive (833),a,Attwell Drive,154,5412019,579921833,Etobicoke,38014
 43.6922479,-79.5832299,2,City View Drive (706),a,City View Drive,141,5413269,99016706,Etobicoke,38014
-43.692255,-79.5842413,2,Farnboro Road (638),a,Farnboro Road,10,5412014,96205638,Etobicoke,38014
 43.6922704,-79.5832497,2,City View Drive (707),a,City View Drive,141,5413269,99016707,Etobicoke,38014
 43.6922748,-79.5679713,2,Dixon Road (604),a,Dixon Road,377,5411810,490816604,Etobicoke,38014
 43.6922842,-79.5712645,2,Martin Grove Road (453),a,Martin Grove Road,689,5411724,93488453,Etobicoke,38014
@@ -2041,100 +1363,54 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6923559,-79.5833227,2,City View Drive (711),a,City View Drive,141,5413269,99016711,Etobicoke,38014
 43.6923773,-79.5711572,2,Martin Grove Road (523),a,Martin Grove Road,689,5411724,425039523,Etobicoke,38014
 43.6923783,-79.583339,2,City View Drive (712),a,City View Drive,141,5413269,99016712,Etobicoke,38014
-43.6923893,-79.5880493,2,Attwell Drive (425),a,Attwell Drive,154,5412019,389742425,Etobicoke,38014
 43.6923981,-79.5665571,2,Dixon Road (596),a,Dixon Road,377,5411810,490816596,Etobicoke,38014
 43.6924008,-79.5833549,2,City View Drive (713),a,City View Drive,141,5413269,99016713,Etobicoke,38014
-43.6924105,-79.584409,2,Brockport Drive (096),a,Brockport Drive,57,5412017,96237096,Etobicoke,38014
 43.6924233,-79.5833697,2,City View Drive (714),a,City View Drive,141,5413269,99016714,Etobicoke,38014
-43.6924353,-79.5843231,2,Brockport Drive (097),a,Brockport Drive,57,5412017,96237097,Etobicoke,38014
-43.6924415,-79.5844948,2,Brockport Drive (095),a,Brockport Drive,57,5412017,96237095,Etobicoke,38014
 43.6924503,-79.5833845,2,City View Drive (715),a,City View Drive,141,5413269,99016715,Etobicoke,38014
-43.6924726,-79.584263,2,Brockport Drive (098),a,Brockport Drive,57,5412017,96237098,Etobicoke,38014
 43.6924728,-79.5833977,2,City View Drive (717),a,City View Drive,141,5413269,99016717,Etobicoke,38014
 43.6924826,-79.5661551,2,Dixon Road (594),a,Dixon Road,377,5411810,490816594,Etobicoke,38014
 43.6924953,-79.5834105,2,City View Drive (718),a,City View Drive,141,5413269,99016718,Etobicoke,38014
 43.6925003,-79.5668086,2,Dixon Road (549),a,Dixon Road,377,5411810,425039549,Etobicoke,38014
 43.6925151,-79.5660146,2,Dixon Road (598),a,Dixon Road,377,5411810,490816598,Etobicoke,38014
 43.6925223,-79.5834226,2,City View Drive (719),a,City View Drive,141,5413269,99016719,Etobicoke,38014
-43.6925284,-79.5845377,2,Brockport Drive (094),a,Brockport Drive,57,5412017,96237094,Etobicoke,38014
 43.6925448,-79.5834335,2,City View Drive (721),a,City View Drive,141,5413269,99016721,Etobicoke,38014
-43.6925594,-79.5842545,2,Brockport Drive (099),a,Brockport Drive,57,5412017,96237099,Etobicoke,38014
 43.6926092,-79.5656459,2,Dixon Road (599),a,Dixon Road,377,5411810,490816599,Etobicoke,38014
 43.6926098,-79.5662677,2,Dixon Road (520),a,Dixon Road,377,5411810,94553520,Etobicoke,38014
-43.6926153,-79.5844948,2,Brockport Drive (093),a,Brockport Drive,57,5412017,96237093,Etobicoke,38014
 43.69265,-79.58349,2,City View Drive (176),a,City View Drive,141,5413269,409023176,Etobicoke,38014
 43.6926815,-79.5653537,2,Dixon Road (601),a,Dixon Road,377,5411810,490816601,Etobicoke,38014
-43.6926898,-79.5844004,2,Brockport Drive (092),a,Brockport Drive,57,5412017,96237092,Etobicoke,38014
 43.6927362,-79.5651106,2,Dixon Road (600),a,Dixon Road,377,5411810,490816600,Etobicoke,38014
 43.6927625,-79.5655699,2,Dixon Road (551),a,Dixon Road,377,5411810,425039551,Etobicoke,38014
-43.6927766,-79.5843403,2,Brockport Drive (089),a,Brockport Drive,57,5412017,96237089,Etobicoke,38014
-43.6927766,-79.5843403,2,Brockport Drive (091),a,Brockport Drive,57,5412017,96237091,Etobicoke,38014
-43.6927766,-79.5843403,2,Brockport Drive (074),a,Brockport Drive,57,5412017,579922074,Etobicoke,38014
-43.6928286,-79.5982764,2,Carlingview Drive (869),a,Carlingview Drive,154,5411709,93306869,Etobicoke,38014
-43.6928432,-79.6017083,2,Worcester Road (708),a,Worcester Road,16,5412020,96298708,Etobicoke,38014
-43.6928432,-79.6015538,2,Worcester Road (712),a,Worcester Road,16,5412020,96298712,Etobicoke,38014
-43.6928617,-79.5882738,2,Attwell Drive (426),a,Attwell Drive,154,5412019,389742426,Etobicoke,38014
-43.692885,-79.6013789,2,Worcester Road (714),a,Worcester Road,16,5412020,96298714,Etobicoke,38014
 43.6928853,-79.5715259,2,Martin Grove Road (430),a,Martin Grove Road,689,5411724,560927430,Etobicoke,38014
 43.6928889,-79.5650548,2,Dixon Road (519),a,Dixon Road,377,5411810,94553519,Etobicoke,38014
 43.6928925,-79.564405,2,Dixon Road (602),a,Dixon Road,377,5411810,490816602,Etobicoke,38014
-43.6928928,-79.6018113,2,Worcester Road (704),a,Worcester Road,16,5412020,96298704,Etobicoke,38014
 43.6929052,-79.5714124,2,Martin Grove Road (422),a,Martin Grove Road,689,5411724,93488422,Etobicoke,38014
 43.6929575,-79.5642525,2,Dixon Road (717),a,Dixon Road,377,5411810,579922717,Etobicoke,38014
 43.6929575,-79.5642525,2,Dixon Road (727),a,Dixon Road,377,5411810,579922727,Etobicoke,38014
 43.6929597,-79.5777179,2,Discovery Road (241),a,Discovery Road,8,5413480,409023241,Etobicoke,38014
-43.6929859,-79.6018971,2,Worcester Road (699),a,Worcester Road,16,5412020,96298699,Etobicoke,38014
 43.6930384,-79.5644581,2,Dixon Road (518),a,Dixon Road,377,5411810,94553518,Etobicoke,38014
 43.6930686,-79.5639922,2,Bridesburg Drive (207),a,Bridesburg Drive,28,5411681,93173207,Etobicoke,38014
 43.6930686,-79.5639922,2,Dixon Road (517),a,Dixon Road,377,5411810,94553517,Etobicoke,38014
 43.6930686,-79.5639922,2,Dixon Road (525),a,Dixon Road,377,5411810,94553525,Etobicoke,38014
 43.6930686,-79.5639922,2,Dixon Road (728),a,Dixon Road,377,5411810,579922728,Etobicoke,38014
-43.6930866,-79.5883807,2,Attwell Drive (427),a,Attwell Drive,154,5412019,389742427,Etobicoke,38014
-43.6930948,-79.6055798,2,Indian Line (563),a,Indian Line,38,5412350,97898563,Etobicoke,38014
-43.6931231,-79.5845104,2,Brockport Drive (068),a,Brockport Drive,57,5412017,409023068,Etobicoke,38014
-43.6931281,-79.6003611,2,Worcester Road (717),a,Worcester Road,16,5412020,96298717,Etobicoke,38014
 43.6931745,-79.5632767,2,Dixon Road (739),a,Dixon Road,377,5411810,94553739,Etobicoke,38014
 43.693194,-79.5640519,2,Bridesburg Drive (403),a,Bridesburg Drive,28,5411681,425039403,Etobicoke,38014
 43.6931946,-79.5634534,2,Dixon Road (526),a,Dixon Road,377,5411810,94553526,Etobicoke,38014
 43.6931946,-79.5634534,2,Dixon Road (733),a,Dixon Road,377,5411810,94553733,Etobicoke,38014
 43.6931946,-79.5634534,2,Dixon Road (736),a,Dixon Road,377,5411810,94553736,Etobicoke,38014
 43.6932185,-79.5640635,2,Bridesburg Drive (203),a,Bridesburg Drive,28,5411681,93173203,Etobicoke,38014
-43.6932434,-79.5998786,2,Worcester Road (720),a,Worcester Road,16,5412020,96298720,Etobicoke,38014
 43.6932918,-79.5633267,2,Dixon Road (730),a,Dixon Road,377,5411810,94553730,Etobicoke,38014
-43.693305,-79.5996208,2,Worcester Road (724),a,Worcester Road,16,5412020,96298724,Etobicoke,38014
-43.6933308,-79.6057136,2,Indian Line (532),a,Indian Line,38,5412350,354100532,Etobicoke,38014
-43.6933583,-79.5885098,2,McLachlan Drive (421),a,McLachlan Drive,13,5412015,96210421,Etobicoke,38014
-43.6933583,-79.5885098,2,Attwell Drive (886),a,Attwell Drive,154,5412019,96293886,Etobicoke,38014
-43.6933676,-79.5883194,2,McLachlan Drive (818),a,McLachlan Drive,13,5412015,297388818,Etobicoke,38014
 43.6934105,-79.5717773,2,Martin Grove Road (431),a,Martin Grove Road,689,5411724,560927431,Etobicoke,38014
-43.6934159,-79.5873358,2,McLachlan Drive (423),a,McLachlan Drive,13,5412015,96210423,Etobicoke,38014
-43.6934193,-79.5991421,2,Worcester Road (728),a,Worcester Road,16,5412020,96298728,Etobicoke,38014
 43.693435,-79.5839113,2,City View Drive (177),a,City View Drive,141,5413269,409023177,Etobicoke,38014
-43.6934395,-79.5985878,2,Carlingview Drive (870),a,Carlingview Drive,154,5411709,93306870,Etobicoke,38014
-43.6934432,-79.5871017,2,McLachlan Drive (424),a,McLachlan Drive,13,5412015,96210424,Etobicoke,38014
 43.6934535,-79.5699212,2,Ronson Drive (505),a,Ronson Drive,48,5412021,579925505,Etobicoke,38014
-43.6934618,-79.5870236,2,McLachlan Drive (606),a,McLachlan Drive,13,5412015,389741606,Etobicoke,38014
-43.6934733,-79.6021828,2,Worcester Road (532),a,Worcester Road,16,5412020,361412532,Etobicoke,38014
 43.6934791,-79.5696267,2,Ronson Drive (506),a,Ronson Drive,48,5412021,579925506,Etobicoke,38014
 43.6934948,-79.5702514,2,Ronson Drive (504),a,Ronson Drive,48,5412021,579925504,Etobicoke,38014
-43.6934966,-79.5885748,2,Attwell Drive (428),a,Attwell Drive,154,5412019,389742428,Etobicoke,38014
-43.6934997,-79.5868644,2,McLachlan Drive (425),a,McLachlan Drive,13,5412015,96210425,Etobicoke,38014
-43.6935034,-79.5988212,2,Worcester Road (730),a,Worcester Road,16,5412020,96298730,Etobicoke,38014
 43.6935427,-79.5693399,2,Ronson Drive (507),a,Ronson Drive,48,5412021,579925507,Etobicoke,38014
-43.6935498,-79.598644,2,Carlingview Drive (871),a,Carlingview Drive,154,5411709,93306871,Etobicoke,38014
-43.6935498,-79.598644,2,Worcester Road (734),a,Worcester Road,16,5412020,96298734,Etobicoke,38014
-43.6935534,-79.5866206,2,McLachlan Drive (914),a,McLachlan Drive,13,5412015,432527914,Etobicoke,38014
 43.6935982,-79.5704993,2,Ronson Drive (503),a,Ronson Drive,48,5412021,579925503,Etobicoke,38014
-43.6936052,-79.5886259,2,Attwell Drive (429),a,Attwell Drive,154,5412019,389742429,Etobicoke,38014
 43.6936201,-79.5691496,2,Ronson Drive (508),a,Ronson Drive,48,5412021,579925508,Etobicoke,38014
 43.6936393,-79.5691023,2,Ronson Drive (509),a,Ronson Drive,48,5412021,579925509,Etobicoke,38014
 43.6936711,-79.5613418,2,Dixon Road (645),a,Dixon Road,377,5411810,297387645,Etobicoke,38014
 43.693692,-79.5689729,2,Ronson Drive (510),a,Ronson Drive,48,5412021,579925510,Etobicoke,38014
-43.6937046,-79.6023184,2,Worcester Road (943),a,Worcester Road,16,5412020,297388943,Etobicoke,38014
-43.6937235,-79.5987186,2,Carlingview Drive (872),a,Carlingview Drive,154,5411709,93306872,Etobicoke,38014
-43.6937306,-79.5858163,2,McLachlan Drive (915),a,McLachlan Drive,13,5412015,432527915,Etobicoke,38014
 43.6937452,-79.5784324,2,Discovery Road (058),a,Discovery Road,8,5413480,99060058,Etobicoke,38014
-43.6937488,-79.5857339,2,McLachlan Drive (973),a,McLachlan Drive,13,5412015,504637973,Etobicoke,38014
 43.6937518,-79.5719391,2,Martin Grove Road (432),a,Martin Grove Road,689,5411724,560927432,Etobicoke,38014
 43.6937632,-79.5780574,2,Discovery Road (055),a,Discovery Road,8,5413480,99060055,Etobicoke,38014
 43.6937845,-79.5719546,2,Martin Grove Road (429),a,Martin Grove Road,689,5411724,560927429,Etobicoke,38014
@@ -2144,54 +1420,38 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6937985,-79.5781752,2,Discovery Road (057),a,Discovery Road,8,5413480,99060057,Etobicoke,38014
 43.6938195,-79.5718213,2,Martin Grove Road (423),a,Martin Grove Road,689,5411724,93488423,Etobicoke,38014
 43.6938195,-79.5718213,2,Ronson Drive (496),a,Ronson Drive,48,5412021,579925496,Etobicoke,38014
-43.6938303,-79.5853641,2,McLachlan Drive (916),a,McLachlan Drive,13,5412015,432527916,Etobicoke,38014
 43.6938412,-79.5717421,2,Ronson Drive (497),a,Ronson Drive,48,5412021,579925497,Etobicoke,38014
 43.6938481,-79.5687478,2,Ronson Drive (511),a,Ronson Drive,48,5412021,579925511,Etobicoke,38014
-43.6938581,-79.5852378,2,McLachlan Drive (974),a,McLachlan Drive,13,5412015,504637974,Etobicoke,38014
 43.6938593,-79.5716759,2,Ronson Drive (498),a,Ronson Drive,48,5412021,579925498,Etobicoke,38014
 43.6938672,-79.571144,2,Ronson Drive (502),a,Ronson Drive,48,5412021,579925502,Etobicoke,38014
 43.693875,-79.5711971,2,Ronson Drive (501),a,Ronson Drive,48,5412021,579925501,Etobicoke,38014
 43.6938905,-79.5713027,2,Ronson Drive (500),a,Ronson Drive,48,5412021,579925500,Etobicoke,38014
 43.6938916,-79.5714554,2,Ronson Drive (499),a,Ronson Drive,48,5412021,579925499,Etobicoke,38014
-43.6938991,-79.5850517,2,McLachlan Drive (426),a,McLachlan Drive,13,5412015,96210426,Etobicoke,38014
-43.693931,-79.5849068,2,McLachlan Drive (427),a,McLachlan Drive,13,5412015,96210427,Etobicoke,38014
-43.693931,-79.5849068,2,Brockport Drive (090),a,Brockport Drive,57,5412017,96237090,Etobicoke,38014
-43.693931,-79.5849068,2,Brockport Drive (101),a,Brockport Drive,57,5412017,96237101,Etobicoke,38014
-43.6939657,-79.6024714,2,Worcester Road (695),a,Worcester Road,16,5412020,96298695,Etobicoke,38014
 43.6939685,-79.568589,2,Ronson Drive (512),a,Ronson Drive,48,5412021,579925512,Etobicoke,38014
-43.6939958,-79.5888095,2,Attwell Drive (430),a,Attwell Drive,154,5412019,389742430,Etobicoke,38014
 43.6940271,-79.5720655,2,Martin Grove Road (434),a,Martin Grove Road,689,5411724,560927434,Etobicoke,38014
 43.694061,-79.5719292,2,Martin Grove Road (898),a,Martin Grove Road,689,5411724,397325898,Etobicoke,38014
 43.6940649,-79.559216,2,Dixon Road (609),a,Dixon Road,377,5411810,94553609,Etobicoke,38014
 43.6941028,-79.559364,2,Dixon Road (605),a,Dixon Road,377,5411810,94553605,Etobicoke,38014
 43.6941028,-79.559364,2,Dixon Road (608),a,Dixon Road,377,5411810,94553608,Etobicoke,38014
 43.6941028,-79.559364,2,Dixon Road (717),a,Dixon Road,377,5411810,94553717,Etobicoke,38014
-43.6941481,-79.606177,2,Indian Line (533),a,Indian Line,38,5412350,354100533,Etobicoke,38014
 43.6941621,-79.5587986,2,Dixon Road (610),a,Dixon Road,377,5411810,94553610,Etobicoke,38014
-43.6941649,-79.588889,2,Attwell Drive (431),a,Attwell Drive,154,5412019,389742431,Etobicoke,38014
 43.694176,-79.5721325,2,Martin Grove Road (406),a,Martin Grove Road,689,5411724,560927406,Etobicoke,38014
 43.694176,-79.5721325,2,Martin Grove Road (435),a,Martin Grove Road,689,5411724,560927435,Etobicoke,38014
 43.6941764,-79.5843092,2,City View Drive (065),a,City View Drive,141,5413269,497596065,Etobicoke,38014
 43.6942007,-79.5592748,2,Dixon Road (604),a,Dixon Road,377,5411810,94553604,Etobicoke,38014
 43.694223,-79.5683378,2,Ronson Drive (513),a,Ronson Drive,48,5412021,579925513,Etobicoke,38014
-43.6942399,-79.5889243,2,Attwell Drive (887),a,Attwell Drive,154,5412019,96293887,Etobicoke,38014
 43.6942976,-79.558842,2,Dixon Road (603),a,Dixon Road,377,5411810,94553603,Etobicoke,38014
 43.694302,-79.5843766,2,City View Drive (371),a,City View Drive,141,5413269,389742371,Etobicoke,38014
-43.6943083,-79.5989698,2,Carlingview Drive (735),a,Carlingview Drive,154,5411709,361412735,Etobicoke,38014
-43.6943285,-79.5851036,2,Brockport Drive (918),a,Brockport Drive,57,5412017,432527918,Etobicoke,38014
 43.6944014,-79.5577782,2,Dixon Road (599),a,Dixon Road,377,5411810,94553599,Etobicoke,38014
 43.6944152,-79.5577186,2,Dixon Road (600),a,Dixon Road,377,5411810,94553600,Etobicoke,38014
 43.6944349,-79.5720963,2,Martin Grove Road (144),a,Martin Grove Road,689,5411724,420188144,Etobicoke,38014
 43.6944651,-79.5759442,2,Dosco Road (594),a,Dosco Road,6,5413254,99008594,Etobicoke,38014
-43.6944833,-79.6027748,2,Worcester Road (691),a,Worcester Road,16,5412020,96298691,Etobicoke,38014
 43.6945096,-79.5757427,2,Dosco Road (351),a,Dosco Road,6,5413254,389742351,Etobicoke,38014
 43.6945532,-79.575545,2,Dosco Road (352),a,Dosco Road,6,5413254,389742352,Etobicoke,38014
 43.6945688,-79.6064156,2,Indian Line (534),a,Indian Line,38,5412350,354100534,Etobicoke,38014
 43.6946077,-79.5752981,2,Dosco Road (353),a,Dosco Road,6,5413254,389742353,Etobicoke,38014
-43.6946191,-79.589113,2,Attwell Drive (432),a,Attwell Drive,154,5412019,389742432,Etobicoke,38014
 43.6946413,-79.5845587,2,City View Drive (723),a,City View Drive,141,5413269,99016723,Etobicoke,38014
 43.6946477,-79.5586977,2,Kipling Avenue (011),a,Kipling Avenue,1089,5411515,420188011,Etobicoke,38014
-43.6947429,-79.5853088,2,Brockport Drive (919),a,Brockport Drive,57,5412017,432527919,Etobicoke,38014
 43.6947433,-79.5588975,2,Kipling Avenue (876),a,Kipling Avenue,1089,5411515,92165876,Etobicoke,38014
 43.6947488,-79.5588979,2,Kipling Avenue (439),a,Kipling Avenue,1089,5411515,401705439,Etobicoke,38014
 43.6947538,-79.5588956,2,Kipling Avenue (438),a,Kipling Avenue,1089,5411515,401705438,Etobicoke,38014
@@ -2201,14 +1461,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6947998,-79.5588286,2,Kipling Avenue (875),a,Kipling Avenue,1089,5411515,92165875,Etobicoke,38014
 43.6947998,-79.5588286,2,Kipling Avenue (884),a,Kipling Avenue,1089,5411515,92165884,Etobicoke,38014
 43.6947998,-79.5588286,2,Kipling Avenue (896),a,Kipling Avenue,1089,5411515,92165896,Etobicoke,38014
-43.6948126,-79.5991865,2,Carlingview Drive (873),a,Carlingview Drive,154,5411709,93306873,Etobicoke,38014
 43.6948478,-79.5677213,2,Ronson Drive (514),a,Ronson Drive,48,5412021,579925514,Etobicoke,38014
 43.6948615,-79.5724437,2,Martin Grove Road (473),a,Martin Grove Road,689,5411724,579924473,Etobicoke,38014
 43.6948644,-79.5722882,2,Martin Grove Road (424),a,Martin Grove Road,689,5411724,93488424,Etobicoke,38014
 43.6949696,-79.5676011,2,Ronson Drive (515),a,Ronson Drive,48,5412021,579925515,Etobicoke,38014
-43.6950583,-79.5854626,2,Brockport Drive (173),a,Brockport Drive,57,5412017,409023173,Etobicoke,38014
-43.6950604,-79.6031094,2,Worcester Road (686),a,Worcester Road,16,5412020,96298686,Etobicoke,38014
-43.6950815,-79.5893431,2,Attwell Drive (433),a,Attwell Drive,154,5412019,389742433,Etobicoke,38014
 43.695114,-79.5725615,2,Martin Grove Road (472),a,Martin Grove Road,689,5411724,579924472,Etobicoke,38014
 43.6952135,-79.5727092,2,Dosco Road (077),a,Dosco Road,6,5413254,486822077,Etobicoke,38014
 43.6952349,-79.5726179,2,Martin Grove Road (043),a,Martin Grove Road,689,5411724,93488043,Etobicoke,38014
@@ -2218,181 +1474,94 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6953312,-79.5849139,2,City View Drive (348),a,City View Drive,141,5413269,297404348,Etobicoke,38014
 43.6953312,-79.5849139,2,City View Drive (394),a,City View Drive,141,5413269,579922394,Etobicoke,38014
 43.695372,-79.5591031,2,Kipling Avenue (897),a,Kipling Avenue,1089,5411515,92165897,Etobicoke,38014
-43.6954014,-79.5994577,2,Carlingview Drive (736),a,Carlingview Drive,154,5411709,361412736,Etobicoke,38014
-43.6954875,-79.5895452,2,Attwell Drive (434),a,Attwell Drive,154,5412019,389742434,Etobicoke,38014
 43.6955413,-79.5727561,2,Martin Grove Road (553),a,Martin Grove Road,689,5411724,500090553,Etobicoke,38014
-43.695636,-79.5857473,2,Brockport Drive (174),a,Brockport Drive,57,5412017,409023174,Etobicoke,38014
-43.6956556,-79.5896288,2,Attwell Drive (940),a,Attwell Drive,154,5412019,297388940,Etobicoke,38014
-43.6956704,-79.5896362,2,Attwell Drive (888),a,Attwell Drive,154,5412019,96293888,Etobicoke,38014
 43.6958409,-79.5518053,2,Dixon Road (858),a,Dixon Road,377,5411810,94553858,Etobicoke,38014
-43.6958517,-79.5897543,2,Attwell Drive (889),a,Attwell Drive,154,5412019,96293889,Etobicoke,38014
-43.6958517,-79.5897543,2,Attwell Drive (931),a,Attwell Drive,154,5412019,96293931,Etobicoke,38014
 43.6958555,-79.5667268,2,Ronson Drive (516),a,Ronson Drive,48,5412021,579925516,Etobicoke,38014
 43.6958872,-79.551613,2,Dixon Road (859),a,Dixon Road,377,5411810,94553859,Etobicoke,38014
-43.695903,-79.5898001,2,Attwell Drive (932),a,Attwell Drive,154,5412019,96293932,Etobicoke,38014
-43.69594,-79.5997058,2,Carlingview Drive (737),a,Carlingview Drive,154,5411709,361412737,Etobicoke,38014
 43.6959518,-79.5666318,2,Ronson Drive (171),a,Ronson Drive,48,5412021,96311171,Etobicoke,38014
 43.6959518,-79.5666318,2,Ronson Drive (517),a,Ronson Drive,48,5412021,579925517,Etobicoke,38014
-43.6959586,-79.5859064,2,Brockport Drive (858),a,Brockport Drive,57,5412017,297388858,Etobicoke,38014
-43.6959716,-79.5997204,2,Carlingview Drive (874),a,Carlingview Drive,154,5411709,93306874,Etobicoke,38014
 43.6959754,-79.5514575,2,Dixon Road (860),a,Dixon Road,377,5411810,94553860,Etobicoke,38014
 43.6959754,-79.5514575,2,Dixon Road (861),a,Dixon Road,377,5411810,94553861,Etobicoke,38014
 43.6959754,-79.5514575,2,Dixon Road (867),a,Dixon Road,377,5411810,94553867,Etobicoke,38014
 43.6960081,-79.5665824,2,Ronson Drive (970),a,Ronson Drive,48,5412021,297388970,Etobicoke,38014
-43.6960149,-79.5899565,2,Attwell Drive (933),a,Attwell Drive,154,5412019,96293933,Etobicoke,38014
 43.6960934,-79.5730052,2,Martin Grove Road (552),a,Martin Grove Road,689,5411724,500090552,Etobicoke,38014
-43.6960947,-79.5900931,2,Marmac Drive (065),a,Marmac Drive,15,5412016,96216065,Etobicoke,38014
-43.6960947,-79.5900931,2,Attwell Drive (906),a,Attwell Drive,154,5412019,96293906,Etobicoke,38014
-43.6960947,-79.5900931,2,Attwell Drive (934),a,Attwell Drive,154,5412019,96293934,Etobicoke,38014
-43.6961707,-79.5903342,2,Attwell Drive (907),a,Attwell Drive,154,5412019,96293907,Etobicoke,38014
 43.6961721,-79.5853469,2,City View Drive (395),a,City View Drive,141,5413269,579922395,Etobicoke,38014
 43.6961747,-79.5505914,2,Dixon Road (868),a,Dixon Road,377,5411810,94553868,Etobicoke,38014
-43.6961777,-79.5899943,2,Marmac Drive (066),a,Marmac Drive,15,5412016,96216066,Etobicoke,38014
-43.6961932,-79.5904785,2,Attwell Drive (941),a,Attwell Drive,154,5412019,297388941,Etobicoke,38014
-43.6962268,-79.590694,2,Attwell Drive (894),a,Attwell Drive,154,5412019,96293894,Etobicoke,38014
-43.6962268,-79.590694,2,Attwell Drive (908),a,Attwell Drive,154,5412019,96293908,Etobicoke,38014
-43.6962355,-79.590752,2,Attwell Drive (494),a,Attwell Drive,154,5412019,389742494,Etobicoke,38014
 43.696237,-79.5503269,2,Dixon Road (869),a,Dixon Road,377,5411810,94553869,Etobicoke,38014
-43.6962452,-79.5908164,2,Attwell Drive (895),a,Attwell Drive,154,5412019,96293895,Etobicoke,38014
-43.6962464,-79.5898463,2,Marmac Drive (067),a,Marmac Drive,15,5412016,96216067,Etobicoke,38014
-43.6962824,-79.5910634,2,Attwell Drive (896),a,Attwell Drive,154,5412019,96293896,Etobicoke,38014
 43.6963204,-79.5731077,2,Martin Grove Road (554),a,Martin Grove Road,689,5411724,500090554,Etobicoke,38014
-43.6963297,-79.5896528,2,Marmac Drive (068),a,Marmac Drive,15,5412016,96216068,Etobicoke,38014
-43.6963297,-79.5896528,2,Marmac Drive (072),a,Marmac Drive,15,5412016,96216072,Etobicoke,38014
 43.6963751,-79.5497889,2,Dixon Road (549),a,Dixon Road,377,5411810,389742549,Etobicoke,38014
-43.6963777,-79.5916319,2,Attwell Drive (897),a,Attwell Drive,154,5412019,96293897,Etobicoke,38014
-43.6964267,-79.5892634,2,Marmac Drive (493),a,Marmac Drive,15,5412016,389742493,Etobicoke,38014
-43.6964287,-79.591838,2,Attwell Drive (898),a,Attwell Drive,154,5412019,96293898,Etobicoke,38014
 43.6964982,-79.5731879,2,Martin Grove Road (042),a,Martin Grove Road,689,5411724,93488042,Etobicoke,38014
 43.6964982,-79.5731879,2,Enterprise Road (818),a,Enterprise Road,27,5413264,99011818,Etobicoke,38014
-43.696499,-79.5889732,2,Marmac Drive (070),a,Marmac Drive,15,5412016,96216070,Etobicoke,38014
-43.696499,-79.5889732,2,Marmac Drive (071),a,Marmac Drive,15,5412016,96216071,Etobicoke,38014
 43.6964995,-79.5661513,2,Ronson Drive (971),a,Ronson Drive,48,5412021,297388971,Etobicoke,38014
-43.6965148,-79.5920604,2,Attwell Drive (899),a,Attwell Drive,154,5412019,96293899,Etobicoke,38014
 43.6965391,-79.5730364,2,Martin Grove Road (425),a,Martin Grove Road,689,5411724,93488425,Etobicoke,38014
 43.6965391,-79.5730364,2,Enterprise Road (817),a,Enterprise Road,27,5413264,99011817,Etobicoke,38014
 43.6965442,-79.5855234,2,City View Drive (396),a,City View Drive,141,5413269,579922396,Etobicoke,38014
 43.6965557,-79.5729718,2,Enterprise Road (078),a,Enterprise Road,27,5413264,486822078,Etobicoke,38014
 43.6965628,-79.5490576,2,Dixon Road (870),a,Dixon Road,377,5411810,94553870,Etobicoke,38014
 43.6965662,-79.5729308,2,Enterprise Road (816),a,Enterprise Road,27,5413264,99011816,Etobicoke,38014
-43.6965756,-79.5921675,2,Attwell Drive (900),a,Attwell Drive,154,5412019,96293900,Etobicoke,38014
-43.6965816,-79.5886223,2,Marmac Drive (917),a,Marmac Drive,15,5412016,432527917,Etobicoke,38014
-43.6965936,-79.5885712,2,Marmac Drive (064),a,Marmac Drive,15,5412016,96216064,Etobicoke,38014
-43.6965936,-79.5885712,2,Marmac Drive (069),a,Marmac Drive,15,5412016,96216069,Etobicoke,38014
-43.6966299,-79.5922632,2,Attwell Drive (901),a,Attwell Drive,154,5412019,96293901,Etobicoke,38014
 43.6966984,-79.5724148,2,Enterprise Road (145),a,Enterprise Road,27,5413264,297404145,Etobicoke,38014
 43.6967088,-79.5484189,2,Dixon Road (871),a,Dixon Road,377,5411810,94553871,Etobicoke,38014
 43.6967342,-79.5856123,2,City View Drive (397),a,City View Drive,141,5413269,579922397,Etobicoke,38014
-43.6967605,-79.5924471,2,Attwell Drive (902),a,Attwell Drive,154,5412019,96293902,Etobicoke,38014
-43.6967982,-79.5877674,2,Marmac Drive (820),a,Marmac Drive,15,5412016,297388820,Etobicoke,38014
-43.6968362,-79.5876181,2,Marmac Drive (975),a,Marmac Drive,15,5412016,504637975,Etobicoke,38014
 43.6968409,-79.5718584,2,Enterprise Road (064),a,Enterprise Road,27,5413264,497596064,Etobicoke,38014
 43.6968997,-79.6077616,2,Highway 409 (539),a,Highway 409,2,24343828,579923539,Etobicoke,38014
-43.6969051,-79.5926097,2,Attwell Drive (903),a,Attwell Drive,154,5412019,96293903,Etobicoke,38014
 43.6969133,-79.547605,2,Dixon Road (626),a,Dixon Road,377,5411810,94553626,Etobicoke,38014
 43.6969133,-79.547605,2,Dixon Road (872),a,Dixon Road,377,5411810,94553872,Etobicoke,38014
 43.6969462,-79.5714473,2,Enterprise Road (144),a,Enterprise Road,27,5413264,297404144,Etobicoke,38014
-43.6969679,-79.5871006,2,Marmac Drive (819),a,Marmac Drive,15,5412016,297388819,Etobicoke,38014
 43.6969768,-79.5713277,2,Enterprise Road (143),a,Enterprise Road,27,5413264,297404143,Etobicoke,38014
 43.6970312,-79.6071417,2,Highway 409 (540),a,Highway 409,2,24343828,579923540,Etobicoke,38014
 43.6970348,-79.5734259,2,Martin Grove Road (582),a,Martin Grove Road,689,5411724,490816582,Etobicoke,38014
 43.697061,-79.5469407,2,Dixon Road (625),a,Dixon Road,377,5411810,94553625,Etobicoke,38014
-43.697062,-79.592749,2,Attwell Drive (904),a,Attwell Drive,154,5412019,96293904,Etobicoke,38014
 43.6970674,-79.5468991,2,Dixon Road (170),a,Dixon Road,377,5411810,389742170,Etobicoke,38014
 43.6970896,-79.5708877,2,Enterprise Road (142),a,Enterprise Road,27,5413264,297404142,Etobicoke,38014
-43.6971178,-79.5864622,2,Marmac Drive (063),a,Marmac Drive,15,5412016,96216063,Etobicoke,38014
-43.6971178,-79.5864622,2,Brockport Drive (102),a,Brockport Drive,57,5412017,96237102,Etobicoke,38014
 43.6971802,-79.5705339,2,McCulloch Avenue (649),a,McCulloch Avenue,16,5413263,99011649,Etobicoke,38014
 43.6971802,-79.5705339,2,Enterprise Road (815),a,Enterprise Road,27,5413264,99011815,Etobicoke,38014
 43.6971802,-79.5705339,2,Enterprise Road (824),a,Enterprise Road,27,5413264,99011824,Etobicoke,38014
 43.697212,-79.5703907,2,Enterprise Road (146),a,Enterprise Road,27,5413264,297404146,Etobicoke,38014
-43.697229,-79.5928633,2,Attwell Drive (905),a,Attwell Drive,154,5412019,96293905,Etobicoke,38014
-43.697229,-79.5928633,2,Attwell Drive (946),a,Attwell Drive,154,5412019,96293946,Etobicoke,38014
 43.6973085,-79.585886,2,City View Drive (398),a,City View Drive,141,5413269,579922398,Etobicoke,38014
-43.6973136,-79.5929102,2,Attwell Drive (552),a,Attwell Drive,154,5412019,389742552,Etobicoke,38014
-43.6973152,-79.6003395,2,Carlingview Drive (698),a,Carlingview Drive,154,5411709,93306698,Etobicoke,38014
-43.6973152,-79.6003395,2,Carlingview Drive (875),a,Carlingview Drive,154,5411709,93306875,Etobicoke,38014
 43.6974104,-79.5694984,2,Enterprise Road (825),a,Enterprise Road,27,5413264,99011825,Etobicoke,38014
 43.6974448,-79.5693735,2,Enterprise Road (826),a,Enterprise Road,27,5413264,99011826,Etobicoke,38014
 43.6974597,-79.5736109,2,Martin Grove Road (041),a,Martin Grove Road,689,5411724,93488041,Etobicoke,38014
-43.6974648,-79.5929941,2,Attwell Drive (921),a,Attwell Drive,154,5412019,96293921,Etobicoke,38014
-43.6974648,-79.5929941,2,Attwell Drive (937),a,Attwell Drive,154,5412019,96293937,Etobicoke,38014
-43.6974648,-79.5929941,2,Attwell Drive (947),a,Attwell Drive,154,5412019,96293947,Etobicoke,38014
 43.6974864,-79.5734758,2,Martin Grove Road (426),a,Martin Grove Road,689,5411724,93488426,Etobicoke,38014
 43.6975099,-79.5706824,2,McCulloch Avenue (019),a,McCulloch Avenue,16,5413263,297404019,Etobicoke,38014
-43.6975598,-79.5930867,2,Attwell Drive (920),a,Attwell Drive,154,5412019,96293920,Etobicoke,38014
-43.697585,-79.5929874,2,Attwell Drive (938),a,Attwell Drive,154,5412019,96293938,Etobicoke,38014
 43.6976324,-79.5860255,2,City View Drive (399),a,City View Drive,141,5413269,579922399,Etobicoke,38014
 43.6976359,-79.5686237,2,Enterprise Road (147),a,Enterprise Road,27,5413264,297404147,Etobicoke,38014
-43.6976753,-79.6005034,2,Carlingview Drive (693),a,Carlingview Drive,154,5411709,93306693,Etobicoke,38014
-43.6976753,-79.6005034,2,Carlingview Drive (701),a,Carlingview Drive,154,5411709,93306701,Etobicoke,38014
-43.6977073,-79.5931515,2,Attwell Drive (919),a,Attwell Drive,154,5412019,96293919,Etobicoke,38014
 43.6977141,-79.5683171,2,Enterprise Road (148),a,Enterprise Road,27,5413264,297404148,Etobicoke,38014
 43.6977223,-79.5737324,2,Martin Grove Road (804),a,Martin Grove Road,689,5411724,486821804,Etobicoke,38014
-43.697736,-79.5930441,2,Attwell Drive (939),a,Attwell Drive,154,5412019,96293939,Etobicoke,38014
 43.6977491,-79.5735976,2,Martin Grove Road (806),a,Martin Grove Road,689,5411724,486821806,Etobicoke,38014
 43.6977534,-79.5650513,2,Ronson Drive (175),a,Ronson Drive,48,5412021,96311175,Etobicoke,38014
 43.6977534,-79.5650513,2,Enterprise Road (819),a,Enterprise Road,27,5413264,99011819,Etobicoke,38014
-43.6978226,-79.5931964,2,Belfield Road (788),a,Belfield Road,137,5411987,473888788,Etobicoke,38014
-43.6978226,-79.5931964,2,Attwell Drive (917),a,Attwell Drive,154,5412019,96293917,Etobicoke,38014
-43.6978226,-79.5931964,2,Attwell Drive (918),a,Attwell Drive,154,5412019,96293918,Etobicoke,38014
-43.6978476,-79.593086,2,Belfield Road (545),a,Belfield Road,137,5411987,95951545,Etobicoke,38014
-43.6978476,-79.593086,2,Belfield Road (870),a,Belfield Road,137,5411987,579921870,Etobicoke,38014
-43.6978476,-79.593086,2,Attwell Drive (940),a,Attwell Drive,154,5412019,96293940,Etobicoke,38014
-43.6978476,-79.593086,2,Attwell Drive (941),a,Attwell Drive,154,5412019,96293941,Etobicoke,38014
 43.6978534,-79.5677706,2,Enterprise Road (149),a,Enterprise Road,27,5413264,297404149,Etobicoke,38014
 43.6978651,-79.5861167,2,City View Drive (400),a,City View Drive,141,5413269,579922400,Etobicoke,38014
-43.6978708,-79.5929834,2,Belfield Road (544),a,Belfield Road,137,5411987,95951544,Etobicoke,38014
 43.6978914,-79.5738135,2,Martin Grove Road (040),a,Martin Grove Road,689,5411724,93488040,Etobicoke,38014
 43.6979199,-79.5736768,2,Martin Grove Road (427),a,Martin Grove Road,689,5411724,93488427,Etobicoke,38014
 43.6979254,-79.5674881,2,Enterprise Road (827),a,Enterprise Road,27,5413264,99011827,Etobicoke,38014
-43.6979266,-79.5927566,2,Belfield Road (972),a,Belfield Road,137,5411987,504637972,Etobicoke,38014
-43.6979628,-79.5932637,2,Attwell Drive (916),a,Attwell Drive,154,5412019,96293916,Etobicoke,38014
 43.6979684,-79.5673258,2,Enterprise Road (823),a,Enterprise Road,27,5413264,99011823,Etobicoke,38014
 43.6979684,-79.5673258,2,Enterprise Road (828),a,Enterprise Road,27,5413264,99011828,Etobicoke,38014
 43.6979684,-79.5673258,2,Canso Road (842),a,Canso Road,4,5413265,99011842,Etobicoke,38014
-43.6979809,-79.5931447,2,Attwell Drive (942),a,Attwell Drive,154,5412019,96293942,Etobicoke,38014
 43.6979856,-79.5799141,2,Iron Street (521),a,Iron Street,20,5411988,95961521,Etobicoke,38014
 43.6979862,-79.5656285,2,Enterprise Road (428),a,Enterprise Road,27,5413264,530240428,Etobicoke,38014
 43.6980241,-79.5861623,2,City View Drive (794),a,City View Drive,141,5413269,99016794,Etobicoke,38014
 43.6980241,-79.5861623,2,City View Drive (401),a,City View Drive,141,5413269,579922401,Etobicoke,38014
 43.6980841,-79.5668378,2,Enterprise Road (594),a,Enterprise Road,27,5413264,500090594,Etobicoke,38014
-43.6980854,-79.5921166,2,Belfield Road (311),a,Belfield Road,137,5411987,530240311,Etobicoke,38014
 43.6981086,-79.5659319,2,Enterprise Road (369),a,Enterprise Road,27,5413264,389742369,Etobicoke,38014
 43.6981223,-79.5666768,2,Enterprise Road (822),a,Enterprise Road,27,5413264,99011822,Etobicoke,38014
 43.6981232,-79.5709588,2,McCulloch Avenue (020),a,McCulloch Avenue,16,5413263,297404020,Etobicoke,38014
-43.6981292,-79.5919332,2,Belfield Road (543),a,Belfield Road,137,5411987,95951543,Etobicoke,38014
 43.69813,-79.5659848,2,Enterprise Road (820),a,Enterprise Road,27,5413264,99011820,Etobicoke,38014
-43.698159,-79.5933348,2,Attwell Drive (915),a,Attwell Drive,154,5412019,96293915,Etobicoke,38014
 43.6981632,-79.566348,2,Enterprise Road (821),a,Enterprise Road,27,5413264,99011821,Etobicoke,38014
-43.6981842,-79.5932342,2,Attwell Drive (943),a,Attwell Drive,154,5412019,96293943,Etobicoke,38014
 43.6981933,-79.5800218,2,Iron Street (525),a,Iron Street,20,5411988,95961525,Etobicoke,38014
 43.6981933,-79.5800218,2,Iron Street (527),a,Iron Street,20,5411988,95961527,Etobicoke,38014
 43.6981996,-79.5861945,2,City View Drive (795),a,City View Drive,141,5413269,99016795,Etobicoke,38014
-43.6982255,-79.6007486,2,Carlingview Drive (694),a,Carlingview Drive,154,5411709,93306694,Etobicoke,38014
 43.6982621,-79.5710214,2,McCulloch Avenue (021),a,McCulloch Avenue,16,5413263,297404021,Etobicoke,38014
 43.6982921,-79.5672453,2,Canso Road (595),a,Canso Road,4,5413265,500090595,Etobicoke,38014
-43.6983478,-79.5910493,2,Belfield Road (187),a,Belfield Road,137,5411987,409023187,Etobicoke,38014
-43.6983578,-79.5933777,2,Attwell Drive (914),a,Attwell Drive,154,5412019,96293914,Etobicoke,38014
-43.6983578,-79.5933777,2,Attwell Drive (935),a,Attwell Drive,154,5412019,96293935,Etobicoke,38014
-43.6983578,-79.5933777,2,Attwell Drive (944),a,Attwell Drive,154,5412019,96293944,Etobicoke,38014
 43.6983925,-79.5862035,2,City View Drive (754),a,City View Drive,141,5413269,99016754,Etobicoke,38014
 43.6983925,-79.5862035,2,City View Drive (796),a,City View Drive,141,5413269,99016796,Etobicoke,38014
 43.6984379,-79.5739168,2,Martin Grove Road (428),a,Martin Grove Road,689,5411724,93488428,Etobicoke,38014
-43.6984795,-79.5904439,2,Belfield Road (542),a,Belfield Road,137,5411987,95951542,Etobicoke,38014
-43.6984795,-79.5904439,2,Belfield Road (628),a,Belfield Road,137,5411987,95951628,Etobicoke,38014
 43.6984825,-79.5643887,2,Ronson Drive (614),a,Ronson Drive,48,5412021,389741614,Etobicoke,38014
 43.698485,-79.5861876,2,City View Drive (756),a,City View Drive,141,5413269,99016756,Etobicoke,38014
-43.6985482,-79.5901537,2,Belfield Road (509),a,Belfield Road,137,5411987,389742509,Etobicoke,38014
 43.6985762,-79.5861717,2,City View Drive (349),a,City View Drive,141,5413269,297404349,Etobicoke,38014
 43.6986129,-79.5861653,2,City View Drive (761),a,City View Drive,141,5413269,99016761,Etobicoke,38014
 43.6986262,-79.564258,2,Ronson Drive (533),a,Ronson Drive,48,5412021,361412533,Etobicoke,38014
-43.698673,-79.5896266,2,Belfield Road (624),a,Belfield Road,137,5411987,95951624,Etobicoke,38014
-43.698673,-79.5896266,2,Belfield Road (626),a,Belfield Road,137,5411987,95951626,Etobicoke,38014
 43.6987037,-79.586124,2,City View Drive (764),a,City View Drive,141,5413269,99016764,Etobicoke,38014
-43.6987173,-79.5935249,2,Attwell Drive (922),a,Attwell Drive,154,5412019,96293922,Etobicoke,38014
-43.6987173,-79.5935249,2,Attwell Drive (936),a,Attwell Drive,154,5412019,96293936,Etobicoke,38014
-43.6987415,-79.6009786,2,Carlingview Drive (695),a,Carlingview Drive,154,5411709,93306695,Etobicoke,38014
 43.6987504,-79.574233,2,Martin Grove Road (038),a,Martin Grove Road,689,5411724,93488038,Etobicoke,38014
 43.6987504,-79.574233,2,Martin Grove Road (039),a,Martin Grove Road,689,5411724,93488039,Etobicoke,38014
 43.6987847,-79.5740764,2,Martin Grove Road (049),a,Martin Grove Road,689,5411724,93488049,Etobicoke,38014
@@ -2400,44 +1569,18 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6987885,-79.5802924,2,Iron Street (529),a,Iron Street,20,5411988,95961529,Etobicoke,38014
 43.6987885,-79.5802924,2,Iron Street (532),a,Iron Street,20,5411988,95961532,Etobicoke,38014
 43.6987939,-79.5860886,2,City View Drive (350),a,City View Drive,141,5413269,297404350,Etobicoke,38014
-43.6988184,-79.5890285,2,Belfield Road (620),a,Belfield Road,137,5411987,95951620,Etobicoke,38014
-43.6988184,-79.5890285,2,Belfield Road (622),a,Belfield Road,137,5411987,95951622,Etobicoke,38014
 43.6988521,-79.5860657,2,City View Drive (767),a,City View Drive,141,5413269,99016767,Etobicoke,38014
-43.6989289,-79.5885336,2,Belfield Road (508),a,Belfield Road,137,5411987,389742508,Etobicoke,38014
 43.6989306,-79.5803573,2,Iron Street (534),a,Iron Street,20,5411988,95961534,Etobicoke,38014
 43.698933,-79.5713299,2,McCulloch Avenue (022),a,McCulloch Avenue,16,5413263,297404022,Etobicoke,38014
-43.6989523,-79.5884289,2,Belfield Road (619),a,Belfield Road,137,5411987,95951619,Etobicoke,38014
-43.6989904,-79.5882629,2,Belfield Road (617),a,Belfield Road,137,5411987,95951617,Etobicoke,38014
-43.6989946,-79.593643,2,Attwell Drive (923),a,Attwell Drive,154,5412019,96293923,Etobicoke,38014
-43.6990222,-79.5881244,2,Belfield Road (548),a,Belfield Road,137,5411987,95951548,Etobicoke,38014
-43.6990222,-79.5881244,2,Belfield Road (615),a,Belfield Road,137,5411987,95951615,Etobicoke,38014
-43.6990222,-79.5881244,2,Brockport Drive (105),a,Brockport Drive,57,5412017,96237105,Etobicoke,38014
 43.6990267,-79.5859414,2,City View Drive (351),a,City View Drive,141,5413269,297404351,Etobicoke,38014
-43.6990368,-79.6011102,2,Carlingview Drive (697),a,Carlingview Drive,154,5411709,93306697,Etobicoke,38014
-43.6990368,-79.6011102,2,Carlingview Drive (712),a,Carlingview Drive,154,5411709,93306712,Etobicoke,38014
-43.6990368,-79.6011102,2,Carlingview Drive (714),a,Carlingview Drive,154,5411709,93306714,Etobicoke,38014
-43.6990453,-79.5880138,2,Belfield Road (539),a,Belfield Road,137,5411987,95951539,Etobicoke,38014
-43.6990453,-79.5880138,2,Belfield Road (547),a,Belfield Road,137,5411987,95951547,Etobicoke,38014
-43.6990453,-79.5880138,2,Belfield Road (605),a,Belfield Road,137,5411987,95951605,Etobicoke,38014
-43.6990663,-79.5877784,2,Belfield Road (540),a,Belfield Road,137,5411987,95951540,Etobicoke,38014
 43.6990783,-79.5713892,2,McCulloch Avenue (023),a,McCulloch Avenue,16,5413263,297404023,Etobicoke,38014
-43.6990829,-79.587666,2,Belfield Road (541),a,Belfield Road,137,5411987,95951541,Etobicoke,38014
-43.6990829,-79.587666,2,Belfield Road (611),a,Belfield Road,137,5411987,95951611,Etobicoke,38014
-43.6991118,-79.601208,2,Carlingview Drive (710),a,Carlingview Drive,154,5411709,93306710,Etobicoke,38014
 43.6991158,-79.585878,2,City View Drive (768),a,City View Drive,141,5413269,99016768,Etobicoke,38014
-43.6991365,-79.601097,2,Carlingview Drive (715),a,Carlingview Drive,154,5411709,93306715,Etobicoke,38014
-43.6991418,-79.5877896,2,Belfield Road (604),a,Belfield Road,137,5411987,95951604,Etobicoke,38014
-43.699144,-79.5937422,2,Attwell Drive (924),a,Attwell Drive,154,5412019,96293924,Etobicoke,38014
-43.6991522,-79.5881805,2,Brockport Drive (075),a,Brockport Drive,57,5412017,579922075,Etobicoke,38014
-43.6991885,-79.5876447,2,Belfield Road (557),a,Belfield Road,137,5411987,95951557,Etobicoke,38014
-43.6991885,-79.5876447,2,Belfield Road (603),a,Belfield Road,137,5411987,95951603,Etobicoke,38014
 43.6991886,-79.5872252,2,Belfield Road (612),a,Belfield Road,137,5411987,95951612,Etobicoke,38014
 43.6991947,-79.5637458,2,Ronson Drive (534),a,Ronson Drive,48,5412021,361412534,Etobicoke,38014
 43.6992092,-79.5871401,2,Highway 27 (901),a,Highway 27,185,5411524,92429901,Etobicoke,38014
 43.6992092,-79.5871401,2,Belfield Road (601),a,Belfield Road,137,5411987,95951601,Etobicoke,38014
 43.6992092,-79.5871401,2,Belfield Road (614),a,Belfield Road,137,5411987,95951614,Etobicoke,38014
 43.6992128,-79.5858136,2,City View Drive (770),a,City View Drive,141,5413269,99016770,Etobicoke,38014
-43.6992294,-79.5882067,2,Brockport Drive (107),a,Brockport Drive,57,5412017,96237107,Etobicoke,38014
 43.6992555,-79.5869432,2,Highway 27 (845),a,Highway 27,185,5411524,92429845,Etobicoke,38014
 43.6992555,-79.5869432,2,Belfield Road (552),a,Belfield Road,137,5411987,95951552,Etobicoke,38014
 43.6992555,-79.5869432,2,Belfield Road (602),a,Belfield Road,137,5411987,95951602,Etobicoke,38014
@@ -2446,9 +1589,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6992768,-79.5744863,2,Martin Grove Road (037),a,Martin Grove Road,689,5411724,93488037,Etobicoke,38014
 43.6992768,-79.5744863,2,Martin Grove Road (396),a,Martin Grove Road,689,5411724,93488396,Etobicoke,38014
 43.6992811,-79.5872687,2,Belfield Road (556),a,Belfield Road,137,5411987,95951556,Etobicoke,38014
-43.6992901,-79.593862,2,Attwell Drive (976),a,Attwell Drive,154,5412019,504637976,Etobicoke,38014
 43.6992991,-79.5714887,2,McCulloch Avenue (651),a,McCulloch Avenue,16,5413263,99011651,Etobicoke,38014
-43.699301,-79.593871,2,Attwell Drive (925),a,Attwell Drive,154,5412019,96293925,Etobicoke,38014
 43.6993022,-79.5871851,2,Highway 27 (899),a,Highway 27,185,5411524,92429899,Etobicoke,38014
 43.6993022,-79.5871851,2,Highway 27 (924),a,Highway 27,185,5411524,92429924,Etobicoke,38014
 43.6993022,-79.5871851,2,Belfield Road (555),a,Belfield Road,137,5411987,95951555,Etobicoke,38014
@@ -2456,13 +1597,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6993059,-79.5858002,2,City View Drive (772),a,City View Drive,141,5413269,99016772,Etobicoke,38014
 43.6993124,-79.5743241,2,Martin Grove Road (050),a,Martin Grove Road,689,5411724,93488050,Etobicoke,38014
 43.6993124,-79.5743241,2,Martin Grove Road (051),a,Martin Grove Road,689,5411724,93488051,Etobicoke,38014
-43.6993135,-79.6036592,2,Disco Road (090),a,Disco Road,77,5412018,96261090,Etobicoke,38014
 43.6993142,-79.5669913,2,Canso Road (973),a,Canso Road,4,5413265,425039973,Etobicoke,38014
-43.6993174,-79.6040556,2,Disco Road (088),a,Disco Road,77,5412018,96261088,Etobicoke,38014
-43.699336,-79.5882292,2,Brockport Drive (108),a,Brockport Drive,57,5412017,96237108,Etobicoke,38014
 43.6993476,-79.5865553,2,Belfield Road (554),a,Belfield Road,137,5411987,95951554,Etobicoke,38014
 43.6993476,-79.5865553,2,Belfield Road (606),a,Belfield Road,137,5411987,95951606,Etobicoke,38014
-43.6993507,-79.6032301,2,Disco Road (092),a,Disco Road,77,5412018,96261092,Etobicoke,38014
 43.6993507,-79.5869858,2,Highway 27 (848),a,Highway 27,185,5411524,92429848,Etobicoke,38014
 43.6993507,-79.5869858,2,Highway 27 (903),a,Highway 27,185,5411524,92429903,Etobicoke,38014
 43.6993507,-79.5869858,2,Belfield Road (583),a,Belfield Road,137,5411987,95951583,Etobicoke,38014
@@ -2471,96 +1608,47 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6993773,-79.5872203,2,Highway 27 (923),a,Highway 27,185,5411524,92429923,Etobicoke,38014
 43.6993857,-79.5858084,2,City View Drive (392),a,City View Drive,141,5413269,415121392,Etobicoke,38014
 43.6994045,-79.5669689,2,Canso Road (843),a,Canso Road,4,5413265,99011843,Etobicoke,38014
-43.6994105,-79.6045448,2,Disco Road (086),a,Disco Road,77,5412018,96261086,Etobicoke,38014
 43.6994215,-79.5858135,2,City View Drive (393),a,City View Drive,141,5413269,415121393,Etobicoke,38014
 43.6994253,-79.587025,2,Highway 27 (904),a,Highway 27,185,5411524,92429904,Etobicoke,38014
 43.6994322,-79.5861971,2,Belfield Road (607),a,Belfield Road,137,5411987,95951607,Etobicoke,38014
 43.6994362,-79.5610054,2,Kipling Avenue (537),a,Kipling Avenue,1089,5411515,92165537,Etobicoke,38014
 43.6994362,-79.5610054,2,Kipling Avenue (075),a,Kipling Avenue,1089,5411515,92166075,Etobicoke,38014
-43.6994415,-79.6046248,2,Disco Road (880),a,Disco Road,77,5412018,297388880,Etobicoke,38014
-43.6994439,-79.5882142,2,Brockport Drive (109),a,Brockport Drive,57,5412017,96237109,Etobicoke,38014
 43.6994779,-79.586444,2,Belfield Road (551),a,Belfield Road,137,5411987,95951551,Etobicoke,38014
 43.6994779,-79.586444,2,Belfield Road (581),a,Belfield Road,137,5411987,95951581,Etobicoke,38014
-43.699478,-79.6026441,2,Disco Road (693),a,Disco Road,77,5412018,579922693,Etobicoke,38014
-43.699478,-79.6026441,2,Disco Road (703),a,Disco Road,77,5412018,579922703,Etobicoke,38014
 43.6995163,-79.5862419,2,Belfield Road (550),a,Belfield Road,137,5411987,95951550,Etobicoke,38014
-43.6995198,-79.6022959,2,Disco Road (119),a,Disco Road,77,5412018,96261119,Etobicoke,38014
-43.6995258,-79.602442,2,Disco Road (698),a,Disco Road,77,5412018,579922698,Etobicoke,38014
-43.6995258,-79.602442,2,Disco Road (702),a,Disco Road,77,5412018,579922702,Etobicoke,38014
-43.6995258,-79.602442,2,Disco Road (704),a,Disco Road,77,5412018,579922704,Etobicoke,38014
-43.6995427,-79.5881995,2,Brockport Drive (110),a,Brockport Drive,57,5412017,96237110,Etobicoke,38014
 43.6995636,-79.5858268,2,Belfield Road (549),a,Belfield Road,137,5411987,95951549,Etobicoke,38014
 43.6995636,-79.5858268,2,Belfield Road (610),a,Belfield Road,137,5411987,95951610,Etobicoke,38014
 43.6995636,-79.5858268,2,Belfield Road (876),a,Belfield Road,137,5411987,579921876,Etobicoke,38014
 43.6995636,-79.5858268,2,City View Drive (774),a,City View Drive,141,5413269,99016774,Etobicoke,38014
 43.6995636,-79.5858268,2,City View Drive (782),a,City View Drive,141,5413269,99016782,Etobicoke,38014
-43.6996192,-79.6023548,2,Disco Road (701),a,Disco Road,77,5412018,579922701,Etobicoke,38014
-43.6996533,-79.6014448,2,Carlingview Drive (708),a,Carlingview Drive,154,5411709,93306708,Etobicoke,38014
-43.6996675,-79.5942786,2,Attwell Drive (926),a,Attwell Drive,154,5412019,96293926,Etobicoke,38014
-43.699675,-79.6013251,2,Carlingview Drive (717),a,Carlingview Drive,154,5411709,93306717,Etobicoke,38014
-43.6996758,-79.6015939,2,Disco Road (121),a,Disco Road,77,5412018,96261121,Etobicoke,38014
 43.69968,-79.5853338,2,Belfield Road (635),a,Belfield Road,137,5411987,560927635,Etobicoke,38014
-43.699704,-79.601467,2,Carlingview Drive (705),a,Carlingview Drive,154,5411709,93306705,Etobicoke,38014
-43.699704,-79.601467,2,Carlingview Drive (706),a,Carlingview Drive,154,5411709,93306706,Etobicoke,38014
-43.699704,-79.601467,2,Disco Road (123),a,Disco Road,77,5412018,96261123,Etobicoke,38014
-43.699704,-79.601467,2,Disco Road (142),a,Disco Road,77,5412018,96261142,Etobicoke,38014
 43.6997087,-79.5871697,2,Highway 27 (859),a,Highway 27,185,5411524,92429859,Etobicoke,38014
 43.6997087,-79.5871697,2,Highway 27 (905),a,Highway 27,185,5411524,92429905,Etobicoke,38014
 43.699713,-79.5859003,2,City View Drive (394),a,City View Drive,141,5413269,415121394,Etobicoke,38014
 43.6997163,-79.5632687,2,Ronson Drive (564),a,Ronson Drive,48,5412021,500090564,Etobicoke,38014
 43.6997165,-79.5807162,2,Iron Street (632),a,Iron Street,20,5411988,490816632,Etobicoke,38014
 43.6997298,-79.5851227,2,Belfield Road (636),a,Belfield Road,137,5411987,560927636,Etobicoke,38014
-43.6997299,-79.6013483,2,Carlingview Drive (671),a,Carlingview Drive,154,5411709,93306671,Etobicoke,38014
-43.6997299,-79.6013483,2,Carlingview Drive (719),a,Carlingview Drive,154,5411709,93306719,Etobicoke,38014
-43.6997299,-79.6013483,2,Disco Road (106),a,Disco Road,77,5412018,96261106,Etobicoke,38014
-43.6997299,-79.6013483,2,Disco Road (143),a,Disco Road,77,5412018,96261143,Etobicoke,38014
 43.6997471,-79.5859138,2,City View Drive (783),a,City View Drive,141,5413269,99016783,Etobicoke,38014
-43.6997484,-79.6012701,2,Disco Road (108),a,Disco Road,77,5412018,96261108,Etobicoke,38014
 43.6997608,-79.5849914,2,Belfield Road (632),a,Belfield Road,137,5411987,560927632,Etobicoke,38014
 43.6997608,-79.5849914,2,Belfield Road (637),a,Belfield Road,137,5411987,560927637,Etobicoke,38014
-43.6997778,-79.6016342,2,Disco Road (700),a,Disco Road,77,5412018,579922700,Etobicoke,38014
 43.6997797,-79.5874083,2,Highway 27 (668),a,Highway 27,185,5411524,92429668,Etobicoke,38014
 43.6997797,-79.5874083,2,Highway 27 (922),a,Highway 27,185,5411524,92429922,Etobicoke,38014
-43.6997916,-79.5944074,2,Attwell Drive (927),a,Attwell Drive,154,5412019,96293927,Etobicoke,38014
-43.6998046,-79.6015233,2,Carlingview Drive (240),a,Carlingview Drive,154,5411709,579922240,Etobicoke,38014
-43.6998046,-79.6015233,2,Disco Road (697),a,Disco Road,77,5412018,579922697,Etobicoke,38014
-43.6998046,-79.6015233,2,Disco Road (699),a,Disco Road,77,5412018,579922699,Etobicoke,38014
-43.6998313,-79.601393,2,Carlingview Drive (239),a,Carlingview Drive,154,5411709,579922239,Etobicoke,38014
-43.6998313,-79.601393,2,Carlingview Drive (241),a,Carlingview Drive,154,5411709,579922241,Etobicoke,38014
-43.6998313,-79.601393,2,Disco Road (695),a,Disco Road,77,5412018,579922695,Etobicoke,38014
-43.6998313,-79.601393,2,Disco Road (696),a,Disco Road,77,5412018,579922696,Etobicoke,38014
 43.6998376,-79.5807715,2,Iron Street (633),a,Iron Street,20,5411988,490816633,Etobicoke,38014
 43.6998429,-79.5860104,2,City View Drive (784),a,City View Drive,141,5413269,99016784,Etobicoke,38014
-43.69985,-79.6012886,2,Disco Road (694),a,Disco Road,77,5412018,579922694,Etobicoke,38014
 43.6998537,-79.5807789,2,Iron Street (793),a,Iron Street,20,5411988,452055793,Etobicoke,38014
 43.6998575,-79.5845817,2,Belfield Road (560),a,Belfield Road,137,5411987,500090560,Etobicoke,38014
-43.6998726,-79.6057359,2,Disco Road (165),a,Disco Road,77,5412018,392358165,Etobicoke,38014
 43.6998736,-79.5747587,2,Martin Grove Road (395),a,Martin Grove Road,689,5411724,93488395,Etobicoke,38014
 43.6998842,-79.5860812,2,City View Drive (785),a,City View Drive,141,5413269,99016785,Etobicoke,38014
-43.6998875,-79.5880895,2,Brockport Drive (111),a,Brockport Drive,57,5412017,96237111,Etobicoke,38014
-43.6999039,-79.6014311,2,Carlingview Drive (736),a,Carlingview Drive,154,5411709,93306736,Etobicoke,38014
-43.6999332,-79.59452,2,Attwell Drive (928),a,Attwell Drive,154,5412019,96293928,Etobicoke,38014
 43.699935,-79.5842536,2,Belfield Road (561),a,Belfield Road,137,5411987,500090561,Etobicoke,38014
 43.6999414,-79.5862193,2,City View Drive (786),a,City View Drive,141,5413269,99016786,Etobicoke,38014
 43.6999558,-79.5841656,2,Belfield Road (560),a,Belfield Road,137,5411987,95951560,Etobicoke,38014
-43.6999734,-79.6003188,2,Disco Road (110),a,Disco Road,77,5412018,96261110,Etobicoke,38014
-43.6999945,-79.6014733,2,Carlingview Drive (738),a,Carlingview Drive,154,5411709,93306738,Etobicoke,38014
 43.6999964,-79.5630126,2,Ronson Drive (177),a,Ronson Drive,48,5412021,96311177,Etobicoke,38014
 43.6999964,-79.5630126,2,Shaft Road (462),a,Shaft Road,24,5413262,99011462,Etobicoke,38014
 43.7000287,-79.5748338,2,Martin Grove Road (394),a,Martin Grove Road,689,5411724,93488394,Etobicoke,38014
 43.7000387,-79.5631047,2,Shaft Road (427),a,Shaft Road,24,5413262,530240427,Etobicoke,38014
 43.7000449,-79.5866199,2,City View Drive (787),a,City View Drive,141,5413269,99016787,Etobicoke,38014
-43.7000454,-79.6003869,2,Disco Road (100),a,Disco Road,77,5412018,96261100,Etobicoke,38014
-43.7000543,-79.6002354,2,Disco Road (075),a,Disco Road,77,5412018,96261075,Etobicoke,38014
-43.7000543,-79.6002354,2,Disco Road (098),a,Disco Road,77,5412018,96261098,Etobicoke,38014
-43.7000543,-79.6002354,2,Disco Road (112),a,Disco Road,77,5412018,96261112,Etobicoke,38014
 43.7000723,-79.5746768,2,Martin Grove Road (052),a,Martin Grove Road,689,5411724,93488052,Etobicoke,38014
-43.700074,-79.6062548,2,Disco Road (164),a,Disco Road,77,5412018,392358164,Etobicoke,38014
-43.7000847,-79.588067,2,Brockport Drive (112),a,Brockport Drive,57,5412017,96237112,Etobicoke,38014
-43.7000915,-79.6014934,2,Carlingview Drive (740),a,Carlingview Drive,154,5411709,93306740,Etobicoke,38014
 43.7000959,-79.5632293,2,Shaft Road (463),a,Shaft Road,24,5413262,99011463,Etobicoke,38014
-43.7001077,-79.5946193,2,Attwell Drive (929),a,Attwell Drive,154,5412019,96293929,Etobicoke,38014
-43.7001092,-79.5880655,2,Brockport Drive (372),a,Brockport Drive,57,5412017,389742372,Etobicoke,38014
 43.7001258,-79.5868394,2,City View Drive (788),a,City View Drive,141,5413269,99016788,Etobicoke,38014
 43.7001272,-79.5834199,2,Belfield Road (604),a,Belfield Road,137,5411987,425039604,Etobicoke,38014
 43.7001291,-79.5612567,2,Kipling Avenue (535),a,Kipling Avenue,1089,5411515,92165535,Etobicoke,38014
@@ -2569,47 +1657,34 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7001417,-79.5748842,2,Martin Grove Road (393),a,Martin Grove Road,689,5411724,93488393,Etobicoke,38014
 43.7001863,-79.5747294,2,Martin Grove Road (474),a,Martin Grove Road,689,5411724,579924474,Etobicoke,38014
 43.7001942,-79.5876131,2,Highway 27 (667),a,Highway 27,185,5411524,92429667,Etobicoke,38014
-43.7001962,-79.6014988,2,Carlingview Drive (741),a,Carlingview Drive,154,5411709,93306741,Etobicoke,38014
 43.7001976,-79.580936,2,Iron Street (634),a,Iron Street,20,5411988,490816634,Etobicoke,38014
-43.7002465,-79.5880571,2,Brockport Drive (113),a,Brockport Drive,57,5412017,96237113,Etobicoke,38014
 43.7002503,-79.5874321,2,Highway 27 (862),a,Highway 27,185,5411524,92429862,Etobicoke,38014
 43.7002566,-79.5870776,2,City View Drive (789),a,City View Drive,141,5413269,99016789,Etobicoke,38014
-43.7002612,-79.5993682,2,Disco Road (073),a,Disco Road,77,5412018,96261073,Etobicoke,38014
 43.7002634,-79.5611712,2,Kipling Avenue (538),a,Kipling Avenue,1089,5411515,92165538,Etobicoke,38014
 43.7002634,-79.5611712,2,Kipling Avenue (583),a,Kipling Avenue,1089,5411515,92165583,Etobicoke,38014
 43.7002987,-79.5636654,2,Shaft Road (217),a,Shaft Road,24,5413262,513623217,Etobicoke,38014
 43.7003138,-79.5871477,2,City View Drive (790),a,City View Drive,141,5413269,99016790,Etobicoke,38014
 43.7003362,-79.5825111,2,Belfield Road (603),a,Belfield Road,137,5411987,425039603,Etobicoke,38014
-43.7003605,-79.5880686,2,Brockport Drive (114),a,Brockport Drive,57,5412017,96237114,Etobicoke,38014
 43.7003637,-79.562676,2,Ronson Drive (565),a,Ronson Drive,48,5412021,500090565,Etobicoke,38014
 43.7003659,-79.574897,2,Martin Grove Road (054),a,Martin Grove Road,689,5411724,93488054,Etobicoke,38014
 43.7003659,-79.574897,2,Martin Grove Road (392),a,Martin Grove Road,689,5411724,93488392,Etobicoke,38014
 43.7003659,-79.574897,2,Martin Grove Road (531),a,Martin Grove Road,689,5411724,579924531,Etobicoke,38014
-43.7003806,-79.5988634,2,Disco Road (086),a,Disco Road,77,5412018,359577086,Etobicoke,38014
 43.7003971,-79.5872426,2,City View Drive (791),a,City View Drive,141,5413269,99016791,Etobicoke,38014
 43.7003971,-79.5872426,2,City View Drive (392),a,City View Drive,141,5413269,579922392,Etobicoke,38014
-43.7004096,-79.6071198,2,Disco Road (084),a,Disco Road,77,5412018,96261084,Etobicoke,38014
-43.7004257,-79.6071507,2,Disco Road (163),a,Disco Road,77,5412018,392358163,Etobicoke,38014
 43.7004266,-79.5821177,2,Belfield Road (631),a,Belfield Road,137,5411987,490816631,Etobicoke,38014
 43.7004329,-79.5639447,2,Shaft Road (218),a,Shaft Road,24,5413262,513623218,Etobicoke,38014
 43.7004376,-79.5872837,2,City View Drive (352),a,City View Drive,141,5413269,297404352,Etobicoke,38014
-43.7004439,-79.6014867,2,Carlingview Drive (743),a,Carlingview Drive,154,5411709,93306743,Etobicoke,38014
-43.7004598,-79.5880911,2,Brockport Drive (115),a,Brockport Drive,57,5412017,96237115,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (666),a,Highway 27,185,5411524,92429666,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (733),a,Highway 27,185,5411524,92429733,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (865),a,Highway 27,185,5411524,92429865,Etobicoke,38014
-43.7004852,-79.6015524,2,Carlingview Drive (744),a,Carlingview Drive,154,5411709,93306744,Etobicoke,38014
-43.7004852,-79.6015524,2,Carlingview Drive (746),a,Carlingview Drive,154,5411709,93306746,Etobicoke,38014
 43.7005048,-79.5749604,2,Martin Grove Road (398),a,Martin Grove Road,689,5411724,93488398,Etobicoke,38014
 43.7005048,-79.5749604,2,Martin Grove Road (530),a,Martin Grove Road,689,5411724,579924530,Etobicoke,38014
 43.7005122,-79.564113,2,Shaft Road (464),a,Shaft Road,24,5413262,99011464,Etobicoke,38014
-43.7005283,-79.5982394,2,Disco Road (903),a,Disco Road,77,5412018,420187903,Etobicoke,38014
 43.7005368,-79.5873458,2,City View Drive (337),a,City View Drive,141,5413269,473889337,Etobicoke,38014
 43.700537,-79.5732837,2,Daybar Avenue (864),a,Daybar Avenue,3,5413266,99011864,Etobicoke,38014
 43.7005372,-79.5810911,2,Iron Street (536),a,Iron Street,20,5411988,95961536,Etobicoke,38014
 43.7005583,-79.5641987,2,Shaft Road (465),a,Shaft Road,24,5413262,99011465,Etobicoke,38014
 43.7005804,-79.572054,2,McCulloch Avenue (015),a,McCulloch Avenue,16,5413263,297404015,Etobicoke,38014
-43.7005864,-79.5881378,2,Brockport Drive (116),a,Brockport Drive,57,5412017,96237116,Etobicoke,38014
 43.7006133,-79.5813058,2,Belfield Road (561),a,Belfield Road,137,5411987,95951561,Etobicoke,38014
 43.7006222,-79.5642717,2,Shaft Road (466),a,Shaft Road,24,5413262,99011466,Etobicoke,38014
 43.7006513,-79.5811432,2,Belfield Road (562),a,Belfield Road,137,5411987,95951562,Etobicoke,38014
@@ -2619,102 +1694,50 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7006822,-79.5623842,2,Ronson Drive (615),a,Ronson Drive,48,5412021,389741615,Etobicoke,38014
 43.7006849,-79.5810007,2,Belfield Road (563),a,Belfield Road,137,5411987,95951563,Etobicoke,38014
 43.7006859,-79.5643198,2,Shaft Road (467),a,Shaft Road,24,5413262,99011467,Etobicoke,38014
-43.700686,-79.5881851,2,Brockport Drive (117),a,Brockport Drive,57,5412017,96237117,Etobicoke,38014
-43.7006984,-79.5975204,2,Disco Road (071),a,Disco Road,77,5412018,96261071,Etobicoke,38014
 43.7007236,-79.5643446,2,Shaft Road (955),a,Shaft Road,24,5413262,297403955,Etobicoke,38014
-43.7007606,-79.58822,2,Brockport Drive (373),a,Brockport Drive,57,5412017,389742373,Etobicoke,38014
 43.7007689,-79.5723333,2,Daybar Avenue (865),a,Daybar Avenue,3,5413266,99011865,Etobicoke,38014
-43.7007757,-79.6078236,2,Disco Road (082),a,Disco Road,77,5412018,96261082,Etobicoke,38014
-43.7007818,-79.5971816,2,Disco Road (069),a,Disco Road,77,5412018,96261069,Etobicoke,38014
 43.7007877,-79.5812023,2,Iron Street (542),a,Iron Street,20,5411988,95961542,Etobicoke,38014
 43.7007938,-79.562282,2,Ronson Drive (179),a,Ronson Drive,48,5412021,96311179,Etobicoke,38014
 43.7007948,-79.5643916,2,Shaft Road (468),a,Shaft Road,24,5413262,99011468,Etobicoke,38014
 43.7008111,-79.5721602,2,McCulloch Avenue (644),a,McCulloch Avenue,16,5413263,99011644,Etobicoke,38014
 43.7008111,-79.5721602,2,Daybar Avenue (867),a,Daybar Avenue,3,5413266,99011867,Etobicoke,38014
-43.700833,-79.6079261,2,Disco Road (162),a,Disco Road,77,5412018,392358162,Etobicoke,38014
 43.700855,-79.580271,2,Belfield Road (633),a,Belfield Road,137,5411987,560927633,Etobicoke,38014
 43.700855,-79.580271,2,Belfield Road (878),a,Belfield Road,137,5411987,579921878,Etobicoke,38014
 43.7008646,-79.5622175,2,Ronson Drive (180),a,Ronson Drive,48,5412021,96311180,Etobicoke,38014
-43.7009112,-79.5949535,2,Attwell Drive (909),a,Attwell Drive,154,5412019,96293909,Etobicoke,38014
-43.7009112,-79.5949535,2,Attwell Drive (930),a,Attwell Drive,154,5412019,96293930,Etobicoke,38014
-43.7009203,-79.5966607,2,Disco Road (902),a,Disco Road,77,5412018,420187902,Etobicoke,38014
 43.7009568,-79.5621562,2,Ronson Drive (181),a,Ronson Drive,48,5412021,96311181,Etobicoke,38014
-43.7009655,-79.5949851,2,Attwell Drive (910),a,Attwell Drive,154,5412019,96293910,Etobicoke,38014
 43.7009679,-79.5875619,2,City View Drive (353),a,City View Drive,141,5413269,297404353,Etobicoke,38014
-43.7009901,-79.596416,2,Disco Road (798),a,Disco Road,77,5412018,497595798,Etobicoke,38014
-43.7010138,-79.5950317,2,Attwell Drive (911),a,Attwell Drive,154,5412019,96293911,Etobicoke,38014
 43.7010296,-79.5722611,2,McCulloch Avenue (016),a,McCulloch Avenue,16,5413263,297404016,Etobicoke,38014
 43.7010312,-79.5621383,2,Ronson Drive (182),a,Ronson Drive,48,5412021,96311182,Etobicoke,38014
-43.7010416,-79.5962357,2,Disco Road (067),a,Disco Road,77,5412018,96261067,Etobicoke,38014
-43.701054,-79.5950912,2,Attwell Drive (912),a,Attwell Drive,154,5412019,96293912,Etobicoke,38014
-43.7010608,-79.5961701,2,Disco Road (797),a,Disco Road,77,5412018,497595797,Etobicoke,38014
 43.7010615,-79.5793854,2,Belfield Road (879),a,Belfield Road,137,5411987,579921879,Etobicoke,38014
 43.70108,-79.5752275,2,Martin Grove Road (931),a,Martin Grove Road,689,5411724,488889931,Etobicoke,38014
-43.7010843,-79.5951611,2,Disco Road (065),a,Disco Road,77,5412018,96261065,Etobicoke,38014
-43.7010843,-79.5951611,2,Disco Road (125),a,Disco Road,77,5412018,96261125,Etobicoke,38014
-43.7010843,-79.5951611,2,Attwell Drive (913),a,Attwell Drive,154,5412019,96293913,Etobicoke,38014
-43.7010983,-79.6015059,2,Carlingview Drive (354),a,Carlingview Drive,154,5411709,359577354,Etobicoke,38014
 43.701117,-79.5621506,2,Ronson Drive (183),a,Ronson Drive,48,5412021,96311183,Etobicoke,38014
-43.7011289,-79.5959379,2,Disco Road (066),a,Disco Road,77,5412018,96261066,Etobicoke,38014
-43.7011289,-79.5959379,2,Disco Road (140),a,Disco Road,77,5412018,96261140,Etobicoke,38014
-43.7011328,-79.5952486,2,Disco Road (127),a,Disco Road,77,5412018,96261127,Etobicoke,38014
-43.7011619,-79.5958119,2,Disco Road (138),a,Disco Road,77,5412018,96261138,Etobicoke,38014
-43.7011677,-79.5953479,2,Disco Road (129),a,Disco Road,77,5412018,96261129,Etobicoke,38014
-43.7011813,-79.5954471,2,Disco Road (131),a,Disco Road,77,5412018,96261131,Etobicoke,38014
-43.7011832,-79.5956992,2,Disco Road (136),a,Disco Road,77,5412018,96261136,Etobicoke,38014
-43.7011838,-79.5950757,2,Disco Road (064),a,Disco Road,77,5412018,96261064,Etobicoke,38014
 43.7011893,-79.5813764,2,Iron Street (544),a,Iron Street,20,5411988,95961544,Etobicoke,38014
-43.701191,-79.5955571,2,Disco Road (133),a,Disco Road,77,5412018,96261133,Etobicoke,38014
 43.7012398,-79.5617808,2,Kipling Avenue (534),a,Kipling Avenue,1089,5411515,92165534,Etobicoke,38014
 43.7012398,-79.5617808,2,Kipling Avenue (014),a,Kipling Avenue,1089,5411515,92166014,Etobicoke,38014
-43.7012411,-79.6086561,2,Disco Road (080),a,Disco Road,77,5412018,96261080,Etobicoke,38014
-43.7012442,-79.5949876,2,Disco Road (062),a,Disco Road,77,5412018,96261062,Etobicoke,38014
 43.7012571,-79.562209,2,Ronson Drive (187),a,Ronson Drive,48,5412021,411734187,Etobicoke,38014
-43.7012632,-79.6014934,2,Carlingview Drive (747),a,Carlingview Drive,154,5411709,93306747,Etobicoke,38014
-43.7012835,-79.5949303,2,Disco Road (060),a,Disco Road,77,5412018,96261060,Etobicoke,38014
-43.7012973,-79.6087986,2,Disco Road (161),a,Disco Road,77,5412018,392358161,Etobicoke,38014
 43.7013017,-79.5783556,2,Belfield Road (880),a,Belfield Road,137,5411987,579921880,Etobicoke,38014
 43.70132,-79.5782773,2,Belfield Road (881),a,Belfield Road,137,5411987,579921881,Etobicoke,38014
-43.7013517,-79.5947157,2,Disco Road (058),a,Disco Road,77,5412018,96261058,Etobicoke,38014
-43.7013528,-79.6089394,2,Disco Road (078),a,Disco Road,77,5412018,96261078,Etobicoke,38014
-43.7013528,-79.6089394,2,Attwell Drive (865),a,Attwell Drive,154,5412019,96293865,Etobicoke,38014
-43.7013528,-79.6089394,2,Goreway Drive (134),a,Goreway Drive,2,5413252,99008134,Etobicoke,38014
 43.7013634,-79.5780908,2,Belfield Road (882),a,Belfield Road,137,5411987,579921882,Etobicoke,38014
 43.701387,-79.5616518,2,Kipling Avenue (540),a,Kipling Avenue,1089,5411515,92165540,Etobicoke,38014
 43.701387,-79.5616518,2,Kipling Avenue (541),a,Kipling Avenue,1089,5411515,92165541,Etobicoke,38014
 43.7014011,-79.5877791,2,City View Drive (354),a,City View Drive,141,5413269,297404354,Etobicoke,38014
-43.7014181,-79.594401,2,Disco Road (056),a,Disco Road,77,5412018,96261056,Etobicoke,38014
 43.7014292,-79.5753897,2,Martin Grove Road (388),a,Martin Grove Road,689,5411724,93488388,Etobicoke,38014
 43.7014292,-79.5753897,2,Martin Grove Road (397),a,Martin Grove Road,689,5411724,93488397,Etobicoke,38014
 43.7014292,-79.5753897,2,Martin Grove Road (434),a,Martin Grove Road,689,5411724,93488434,Etobicoke,38014
 43.7014334,-79.6093428,2,Goreway Drive (135),a,Goreway Drive,2,5413252,99008135,Etobicoke,38014
 43.7014618,-79.5724607,2,McCulloch Avenue (017),a,McCulloch Avenue,16,5413263,297404017,Etobicoke,38014
-43.701476,-79.6015022,2,Carlingview Drive (749),a,Carlingview Drive,154,5411709,93306749,Etobicoke,38014
-43.7014769,-79.5941226,2,Disco Road (796),a,Disco Road,77,5412018,497595796,Etobicoke,38014
 43.701487,-79.5647238,2,Shaft Road (956),a,Shaft Road,24,5413262,297403956,Etobicoke,38014
-43.701496,-79.6089043,2,Attwell Drive (864),a,Attwell Drive,154,5412019,96293864,Etobicoke,38014
 43.7015248,-79.5755104,2,Martin Grove Road (433),a,Martin Grove Road,689,5411724,93488433,Etobicoke,38014
 43.7015328,-79.5773644,2,Belfield Road (883),a,Belfield Road,137,5411987,579921883,Etobicoke,38014
-43.7015372,-79.6088942,2,Attwell Drive (863),a,Attwell Drive,154,5412019,96293863,Etobicoke,38014
 43.7015542,-79.5753645,2,Martin Grove Road (389),a,Martin Grove Road,689,5411724,93488389,Etobicoke,38014
-43.7015558,-79.5885917,2,Brockport Drive (374),a,Brockport Drive,57,5412017,389742374,Etobicoke,38014
-43.7016042,-79.5935193,2,Disco Road (879),a,Disco Road,77,5412018,297388879,Etobicoke,38014
-43.7016137,-79.6015531,2,Carlingview Drive (751),a,Carlingview Drive,154,5411709,93306751,Etobicoke,38014
 43.7016523,-79.5768519,2,Belfield Road (884),a,Belfield Road,137,5411987,579921884,Etobicoke,38014
 43.7016643,-79.5815823,2,Iron Street (547),a,Iron Street,20,5411988,95961547,Etobicoke,38014
 43.7016843,-79.5767145,2,Belfield Road (885),a,Belfield Road,137,5411987,579921885,Etobicoke,38014
 43.7017013,-79.5763959,2,Belfield Road (532),a,Belfield Road,137,5411987,95951532,Etobicoke,38014
-43.7017068,-79.5930331,2,Disco Road (795),a,Disco Road,77,5412018,497595795,Etobicoke,38014
-43.7017157,-79.6089228,2,Attwell Drive (862),a,Attwell Drive,154,5412019,96293862,Etobicoke,38014
 43.7017298,-79.5765194,2,Belfield Road (531),a,Belfield Road,137,5411987,95951531,Etobicoke,38014
 43.7017298,-79.5765194,2,Belfield Road (593),a,Belfield Road,137,5411987,95951593,Etobicoke,38014
 43.7017298,-79.5765194,2,Belfield Road (886),a,Belfield Road,137,5411987,579921886,Etobicoke,38014
-43.7017385,-79.5928829,2,Disco Road (054),a,Disco Road,77,5412018,96261054,Etobicoke,38014
 43.7017459,-79.5754411,2,Martin Grove Road (261),a,Martin Grove Road,689,5411724,530240261,Etobicoke,38014
-43.7017514,-79.5928273,2,Disco Road (878),a,Disco Road,77,5412018,297388878,Etobicoke,38014
-43.7017669,-79.6016336,2,Carlingview Drive (752),a,Carlingview Drive,154,5411709,93306752,Etobicoke,38014
-43.7017685,-79.5927541,2,Disco Road (877),a,Disco Road,77,5412018,297388877,Etobicoke,38014
-43.7017803,-79.6089603,2,Attwell Drive (295),a,Attwell Drive,154,5412019,359577295,Etobicoke,38014
 43.7018098,-79.5764306,2,Belfield Road (592),a,Belfield Road,137,5411987,95951592,Etobicoke,38014
 43.7018135,-79.5756352,2,Martin Grove Road (495),a,Martin Grove Road,689,5411724,579924495,Etobicoke,38014
 43.7018472,-79.5757794,2,Belfield Road (867),a,Belfield Road,137,5411987,579921867,Etobicoke,38014
@@ -2728,8 +1751,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7019163,-79.5755114,2,Belfield Road (872),a,Belfield Road,137,5411987,579921872,Etobicoke,38014
 43.7019163,-79.5755114,2,Belfield Road (887),a,Belfield Road,137,5411987,579921887,Etobicoke,38014
 43.7019431,-79.5754072,2,Belfield Road (888),a,Belfield Road,137,5411987,579921888,Etobicoke,38014
-43.7019492,-79.6017811,2,Carlingview Drive (754),a,Carlingview Drive,154,5411709,93306754,Etobicoke,38014
-43.7019565,-79.6090627,2,Attwell Drive (861),a,Attwell Drive,154,5412019,96293861,Etobicoke,38014
 43.7019567,-79.5758238,2,Belfield Road (869),a,Belfield Road,137,5411987,579921869,Etobicoke,38014
 43.7019842,-79.5752547,2,Belfield Road (313),a,Belfield Road,137,5411987,530240313,Etobicoke,38014
 43.7019842,-79.5752547,2,Belfield Road (889),a,Belfield Road,137,5411987,579921889,Etobicoke,38014
@@ -2747,22 +1768,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7020358,-79.5750601,2,Belfield Road (597),a,Belfield Road,137,5411987,95951597,Etobicoke,38014
 43.7020501,-79.5754495,2,Belfield Road (868),a,Belfield Road,137,5411987,579921868,Etobicoke,38014
 43.7020606,-79.5750406,2,Belfield Road (312),a,Belfield Road,137,5411987,530240312,Etobicoke,38014
-43.7020636,-79.591486,2,Disco Road (876),a,Disco Road,77,5412018,297388876,Etobicoke,38014
 43.702082,-79.5757452,2,Martin Grove Road (471),a,Martin Grove Road,689,5411724,579924471,Etobicoke,38014
-43.7020879,-79.6018952,2,Carlingview Drive (355),a,Carlingview Drive,154,5411709,359577355,Etobicoke,38014
 43.7021146,-79.5756005,2,Martin Grove Road (496),a,Martin Grove Road,689,5411724,579924496,Etobicoke,38014
 43.7021327,-79.5749841,2,Belfield Road (535),a,Belfield Road,137,5411987,95951535,Etobicoke,38014
 43.7021327,-79.5749841,2,Belfield Road (588),a,Belfield Road,137,5411987,95951588,Etobicoke,38014
 43.7021327,-79.5749841,2,Belfield Road (598),a,Belfield Road,137,5411987,95951598,Etobicoke,38014
 43.7021354,-79.5751074,2,Belfield Road (536),a,Belfield Road,137,5411987,95951536,Etobicoke,38014
-43.7021493,-79.5911174,2,Disco Road (875),a,Disco Road,77,5412018,297388875,Etobicoke,38014
-43.7021644,-79.6019582,2,Carlingview Drive (755),a,Carlingview Drive,154,5411709,93306755,Etobicoke,38014
-43.7021644,-79.6019582,2,Carlingview Drive (857),a,Carlingview Drive,154,5411709,93306857,Etobicoke,38014
 43.7021713,-79.5748136,2,Belfield Road (587),a,Belfield Road,137,5411987,95951587,Etobicoke,38014
-43.7021978,-79.5909089,2,Disco Road (608),a,Disco Road,77,5412018,389741608,Etobicoke,38014
-43.7022003,-79.6019879,2,Carlingview Drive (472),a,Carlingview Drive,154,5411709,297386472,Etobicoke,38014
 43.7022117,-79.574635,2,Belfield Road (586),a,Belfield Road,137,5411987,95951586,Etobicoke,38014
-43.702242,-79.6092858,2,Attwell Drive (860),a,Attwell Drive,154,5412019,96293860,Etobicoke,38014
 43.7022538,-79.5818379,2,Iron Street (549),a,Iron Street,20,5411988,95961549,Etobicoke,38014
 43.7022763,-79.5623195,2,Kipling Avenue (617),a,Kipling Avenue,1089,5411515,297384617,Etobicoke,38014
 43.7022995,-79.5728476,2,McCulloch Avenue (018),a,McCulloch Avenue,16,5413263,297404018,Etobicoke,38014
@@ -2774,7 +1787,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7023566,-79.5739948,2,Belfield Road (894),a,Belfield Road,137,5411987,579921894,Etobicoke,38014
 43.7023822,-79.5738869,2,Belfield Road (893),a,Belfield Road,137,5411987,579921893,Etobicoke,38014
 43.7023827,-79.5626725,2,Ronson Drive (185),a,Ronson Drive,48,5412021,96311185,Etobicoke,38014
-43.7024011,-79.5900352,2,Disco Road (607),a,Disco Road,77,5412018,389741607,Etobicoke,38014
 43.7024316,-79.5626709,2,Ronson Drive (186),a,Ronson Drive,48,5412021,96311186,Etobicoke,38014
 43.7024532,-79.5624051,2,Kipling Avenue (012),a,Kipling Avenue,1089,5411515,92166012,Etobicoke,38014
 43.7024636,-79.5626521,2,Ronson Drive (188),a,Ronson Drive,48,5412021,411734188,Etobicoke,38014
@@ -2783,8 +1795,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7024923,-79.5652067,2,Shaft Road (228),a,Shaft Road,24,5413262,501461228,Etobicoke,38014
 43.7024947,-79.5626338,2,Ronson Drive (187),a,Ronson Drive,48,5412021,96311187,Etobicoke,38014
 43.7025007,-79.5622412,2,Kipling Avenue (073),a,Kipling Avenue,1089,5411515,92166073,Etobicoke,38014
-43.7025032,-79.5895966,2,Disco Road (874),a,Disco Road,77,5412018,297388874,Etobicoke,38014
-43.7025145,-79.5895481,2,Disco Road (873),a,Disco Road,77,5412018,297388873,Etobicoke,38014
 43.7025172,-79.5759374,2,Martin Grove Road (002),a,Martin Grove Road,689,5411724,93488002,Etobicoke,38014
 43.702536,-79.5625503,2,Ronson Drive (188),a,Ronson Drive,48,5412021,96311188,Etobicoke,38014
 43.7025599,-79.5731391,2,Belfield Road (892),a,Belfield Road,137,5411987,579921892,Etobicoke,38014
@@ -2792,21 +1802,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7025606,-79.5624532,2,Ronson Drive (189),a,Ronson Drive,48,5412021,96311189,Etobicoke,38014
 43.7025606,-79.5624532,2,Greensboro Drive (065),a,Greensboro Drive,22,5413358,99038065,Etobicoke,38014
 43.7025629,-79.5758084,2,Martin Grove Road (438),a,Martin Grove Road,689,5411724,93488438,Etobicoke,38014
-43.7025647,-79.6094846,2,Attwell Drive (160),a,Attwell Drive,154,5412019,392358160,Etobicoke,38014
-43.7025902,-79.5892226,2,Disco Road (052),a,Disco Road,77,5412018,96261052,Etobicoke,38014
 43.7025966,-79.5729848,2,Belfield Road (891),a,Belfield Road,137,5411987,579921891,Etobicoke,38014
 43.7025966,-79.5729848,2,McCulloch Avenue (647),a,McCulloch Avenue,16,5413263,99011647,Etobicoke,38014
 43.7026017,-79.5622914,2,Kipling Avenue (067),a,Kipling Avenue,1089,5411515,92166067,Etobicoke,38014
 43.7026017,-79.5622914,2,Kipling Avenue (074),a,Kipling Avenue,1089,5411515,92166074,Etobicoke,38014
 43.7026017,-79.5622914,2,Greensboro Drive (058),a,Greensboro Drive,22,5413358,99038058,Etobicoke,38014
 43.7026017,-79.5622914,2,Greensboro Drive (066),a,Greensboro Drive,22,5413358,99038066,Etobicoke,38014
-43.7026065,-79.5891625,2,Disco Road (051),a,Disco Road,77,5412018,96261051,Etobicoke,38014
 43.7026154,-79.588388,2,City View Drive (776),a,City View Drive,141,5413269,99016776,Etobicoke,38014
 43.7026154,-79.588388,2,City View Drive (393),a,City View Drive,141,5413269,579922393,Etobicoke,38014
 43.7026154,-79.588388,2,Vulcan Street (906),a,Vulcan Street,22,5413422,99045906,Etobicoke,38014
-43.7026257,-79.5890919,2,Brockport Drive (118),a,Brockport Drive,57,5412017,96237118,Etobicoke,38014
-43.7026257,-79.5890919,2,Brockport Drive (134),a,Brockport Drive,57,5412017,96237134,Etobicoke,38014
-43.7026257,-79.5890919,2,Disco Road (049),a,Disco Road,77,5412018,96261049,Etobicoke,38014
 43.7026287,-79.5759394,2,Martin Grove Road (997),a,Martin Grove Road,689,5411724,93487997,Etobicoke,38014
 43.7026287,-79.5759394,2,Martin Grove Road (439),a,Martin Grove Road,689,5411724,93488439,Etobicoke,38014
 43.7026287,-79.5759394,2,Martin Grove Road (538),a,Martin Grove Road,689,5411724,579924538,Etobicoke,38014
@@ -2823,11 +1827,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7027714,-79.5623762,2,Kipling Avenue (069),a,Kipling Avenue,1089,5411515,92166069,Etobicoke,38014
 43.7027904,-79.5876373,2,Vulcan Street (128),a,Vulcan Street,22,5413422,420188128,Etobicoke,38014
 43.7028097,-79.561461,2,Greensboro Drive (598),a,Greensboro Drive,22,5413358,500090598,Etobicoke,38014
-43.7028154,-79.6096391,2,Attwell Drive (859),a,Attwell Drive,154,5412019,96293859,Etobicoke,38014
 43.7028222,-79.5720055,2,Belfield Road (576),a,Belfield Road,137,5411987,95951576,Etobicoke,38014
 43.7028222,-79.5720055,2,Belfield Road (890),a,Belfield Road,137,5411987,579921890,Etobicoke,38014
 43.7028443,-79.5874061,2,Vulcan Street (129),a,Vulcan Street,22,5413422,420188129,Etobicoke,38014
-43.702854,-79.6025291,2,Carlingview Drive (590),a,Carlingview Drive,154,5411709,503157590,Etobicoke,38014
 43.7028733,-79.5717762,2,Belfield Road (575),a,Belfield Road,137,5411987,95951575,Etobicoke,38014
 43.7028927,-79.5611297,2,Greensboro Drive (753),a,Greensboro Drive,22,5413358,490816753,Etobicoke,38014
 43.7029091,-79.5610642,2,Greensboro Drive (981),a,Greensboro Drive,22,5413358,506059981,Etobicoke,38014
@@ -2835,136 +1837,80 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7029249,-79.5760788,2,Martin Grove Road (437),a,Martin Grove Road,689,5411724,560927437,Etobicoke,38014
 43.7029505,-79.5654364,2,Shaft Road (470),a,Shaft Road,24,5413262,99011470,Etobicoke,38014
 43.7029505,-79.5654364,2,Shaft Road (471),a,Shaft Road,24,5413262,99011471,Etobicoke,38014
-43.7029651,-79.6097404,2,Attwell Drive (159),a,Attwell Drive,154,5412019,392358159,Etobicoke,38014
 43.7029695,-79.5608229,2,Greensboro Drive (754),a,Greensboro Drive,22,5413358,490816754,Etobicoke,38014
-43.7029892,-79.6052274,2,Attwell Drive (843),a,Attwell Drive,154,5412019,96293843,Etobicoke,38014
-43.703014,-79.6054725,2,Attwell Drive (668),a,Attwell Drive,154,5412019,490816668,Etobicoke,38014
-43.7030188,-79.6050034,2,Attwell Drive (669),a,Attwell Drive,154,5412019,490816669,Etobicoke,38014
-43.7030265,-79.6049453,2,Attwell Drive (605),a,Attwell Drive,154,5412019,503157605,Etobicoke,38014
-43.7030326,-79.6056565,2,Attwell Drive (845),a,Attwell Drive,154,5412019,96293845,Etobicoke,38014
 43.7030418,-79.586559,2,Vulcan Street (760),a,Vulcan Street,22,5413422,490816760,Etobicoke,38014
 43.7030454,-79.5654779,2,Shaft Road (063),a,Shaft Road,24,5413262,497596063,Etobicoke,38014
 43.7030637,-79.5604469,2,Greensboro Drive (060),a,Greensboro Drive,22,5413358,99038060,Etobicoke,38014
 43.7030761,-79.5709033,2,Belfield Road (574),a,Belfield Road,137,5411987,95951574,Etobicoke,38014
 43.7030855,-79.5863714,2,Vulcan Street (130),a,Vulcan Street,22,5413422,420188130,Etobicoke,38014
 43.703086,-79.5603773,2,Greensboro Drive (599),a,Greensboro Drive,22,5413358,500090599,Etobicoke,38014
-43.7030983,-79.6057914,2,Attwell Drive (670),a,Attwell Drive,154,5412019,490816670,Etobicoke,38014
 43.7031092,-79.5603047,2,Greensboro Drive (061),a,Greensboro Drive,22,5413358,99038061,Etobicoke,38014
 43.7031228,-79.576172,2,Martin Grove Road (069),a,Martin Grove Road,689,5411724,93488069,Etobicoke,38014
-43.7031318,-79.6041468,2,Attwell Drive (672),a,Attwell Drive,154,5412019,490816672,Etobicoke,38014
 43.7031373,-79.570638,2,Belfield Road (573),a,Belfield Road,137,5411987,95951573,Etobicoke,38014
 43.7031689,-79.5602005,2,Greensboro Drive (062),a,Greensboro Drive,22,5413358,99038062,Etobicoke,38014
-43.7031964,-79.5893614,2,Brockport Drive (859),a,Brockport Drive,57,5412017,297388859,Etobicoke,38014
-43.7032374,-79.6060427,2,Attwell Drive (846),a,Attwell Drive,154,5412019,96293846,Etobicoke,38014
 43.703246,-79.5601165,2,Greensboro Drive (063),a,Greensboro Drive,22,5413358,99038063,Etobicoke,38014
 43.7032514,-79.5856585,2,Vulcan Street (131),a,Vulcan Street,22,5413422,420188131,Etobicoke,38014
 43.7032833,-79.5855231,2,Vulcan Street (132),a,Vulcan Street,22,5413422,420188132,Etobicoke,38014
-43.7032968,-79.6028958,2,Carlingview Drive (685),a,Carlingview Drive,154,5411709,93306685,Etobicoke,38014
-43.7032968,-79.6028958,2,Carlingview Drive (858),a,Carlingview Drive,154,5411709,93306858,Etobicoke,38014
-43.7032968,-79.6028958,2,Attwell Drive (838),a,Attwell Drive,154,5412019,96293838,Etobicoke,38014
-43.7032968,-79.6028958,2,Attwell Drive (841),a,Attwell Drive,154,5412019,96293841,Etobicoke,38014
 43.7033065,-79.5655921,2,Shaft Road (062),a,Shaft Road,24,5413262,497596062,Etobicoke,38014
 43.7033127,-79.5698764,2,Belfield Road (563),a,Belfield Road,137,5411987,297388563,Etobicoke,38014
 43.7033612,-79.5696661,2,Belfield Road (572),a,Belfield Road,137,5411987,95951572,Etobicoke,38014
 43.7033678,-79.5851603,2,Vulcan Street (133),a,Vulcan Street,22,5413422,420188133,Etobicoke,38014
-43.7033863,-79.6100253,2,Attwell Drive (858),a,Attwell Drive,154,5412019,96293858,Etobicoke,38014
 43.7034245,-79.5693913,2,Belfield Road (571),a,Belfield Road,137,5411987,95951571,Etobicoke,38014
 43.7034325,-79.5848831,2,Vulcan Street (134),a,Vulcan Street,22,5413422,420188134,Etobicoke,38014
 43.7034583,-79.5888168,2,City View Drive (099),a,City View Drive,141,5413269,420188099,Etobicoke,38014
 43.7035184,-79.5656848,2,Shaft Road (952),a,Shaft Road,24,5413262,432527952,Etobicoke,38014
 43.7035437,-79.5688741,2,Belfield Road (562),a,Belfield Road,137,5411987,297388562,Etobicoke,38014
 43.7035481,-79.5656978,2,Shaft Road (957),a,Shaft Road,24,5413262,297403957,Etobicoke,38014
-43.7035538,-79.6101111,2,Attwell Drive (857),a,Attwell Drive,154,5412019,96293857,Etobicoke,38014
 43.7035863,-79.5686891,2,Belfield Road (561),a,Belfield Road,137,5411987,297388561,Etobicoke,38014
 43.7035961,-79.5888869,2,City View Drive (100),a,City View Drive,141,5413269,420188100,Etobicoke,38014
 43.703597,-79.5763953,2,Martin Grove Road (285),a,Martin Grove Road,689,5411724,497595285,Etobicoke,38014
 43.7035998,-79.562967,2,Kipling Avenue (009),a,Kipling Avenue,1089,5411515,92166009,Etobicoke,38014
-43.7036135,-79.6101312,2,Attwell Drive (350),a,Attwell Drive,154,5412019,389742350,Etobicoke,38014
-43.7036399,-79.6064799,2,Attwell Drive (157),a,Attwell Drive,154,5412019,392358157,Etobicoke,38014
 43.7036567,-79.5627449,2,Kipling Avenue (070),a,Kipling Avenue,1089,5411515,92166070,Etobicoke,38014
 43.7036825,-79.5838105,2,Vulcan Street (186),a,Vulcan Street,22,5413422,409023186,Etobicoke,38014
 43.7037176,-79.5764521,2,Martin Grove Road (070),a,Martin Grove Road,689,5411724,93488070,Etobicoke,38014
 43.7037233,-79.5596847,2,Greensboro Drive (421),a,Greensboro Drive,22,5413358,579923421,Etobicoke,38014
 43.703774,-79.5628019,2,Kipling Avenue (071),a,Kipling Avenue,1089,5411515,92166071,Etobicoke,38014
 43.703774,-79.5628019,2,Kipling Avenue (097),a,Kipling Avenue,1089,5411515,92166097,Etobicoke,38014
-43.7037834,-79.6101884,2,Attwell Drive (855),a,Attwell Drive,154,5412019,96293855,Etobicoke,38014
 43.7038065,-79.5677332,2,Belfield Road (530),a,Belfield Road,137,5411987,95951530,Etobicoke,38014
 43.7038065,-79.5677332,2,Belfield Road (570),a,Belfield Road,137,5411987,95951570,Etobicoke,38014
 43.7038679,-79.5675008,2,Belfield Road (559),a,Belfield Road,137,5411987,297388559,Etobicoke,38014
-43.7038699,-79.6101925,2,Attwell Drive (349),a,Attwell Drive,154,5412019,389742349,Etobicoke,38014
 43.7038748,-79.5890287,2,City View Drive (778),a,City View Drive,141,5413269,99016778,Etobicoke,38014
-43.703894,-79.5896908,2,Brockport Drive (135),a,Brockport Drive,57,5412017,96237135,Etobicoke,38014
 43.7038952,-79.5673975,2,Belfield Road (529),a,Belfield Road,137,5411987,95951529,Etobicoke,38014
 43.7039083,-79.5828421,2,Vulcan Street (759),a,Vulcan Street,22,5413422,490816759,Etobicoke,38014
 43.7039203,-79.5671965,2,Belfield Road (528),a,Belfield Road,137,5411987,95951528,Etobicoke,38014
 43.7039529,-79.5826506,2,Iron Street (550),a,Iron Street,20,5411988,95961550,Etobicoke,38014
 43.7039529,-79.5826506,2,Vulcan Street (908),a,Vulcan Street,22,5413422,99045908,Etobicoke,38014
 43.70396,-79.5890559,2,City View Drive (101),a,City View Drive,141,5413269,420188101,Etobicoke,38014
-43.7039633,-79.610197,2,Attwell Drive (853),a,Attwell Drive,154,5412019,96293853,Etobicoke,38014
 43.7039694,-79.5668037,2,Belfield Road (527),a,Belfield Road,137,5411987,95951527,Etobicoke,38014
 43.7039694,-79.5668037,2,Etobicoke North Go Station (662),a,Etobicoke North Go Station,14,5413305,99026662,Etobicoke,38014
 43.7039743,-79.5765729,2,Martin Grove Road (286),a,Martin Grove Road,689,5411724,497595286,Etobicoke,38014
 43.7039805,-79.565887,2,Shaft Road (472),a,Shaft Road,24,5413262,99011472,Etobicoke,38014
-43.7039825,-79.5897418,2,Brockport Drive (860),a,Brockport Drive,57,5412017,297388860,Etobicoke,38014
-43.7039928,-79.599863,2,Attwell Drive (799),a,Attwell Drive,154,5412019,497595799,Etobicoke,38014
 43.7040033,-79.5659009,2,Shaft Road (679),a,Shaft Road,24,5413262,579925679,Etobicoke,38014
 43.7040049,-79.5664837,2,Belfield Road (526),a,Belfield Road,137,5411987,95951526,Etobicoke,38014
 43.7040194,-79.5890749,2,City View Drive (779),a,City View Drive,141,5413269,99016779,Etobicoke,38014
-43.704075,-79.6101626,2,Attwell Drive (852),a,Attwell Drive,154,5412019,96293852,Etobicoke,38014
-43.704075,-79.6069526,2,Attwell Drive (847),a,Attwell Drive,154,5412019,96293847,Etobicoke,38014
 43.704085,-79.5668225,2,Etobicoke North Go Station (935),a,Etobicoke North Go Station,14,5413305,579922935,Etobicoke,38014
-43.704092,-79.5898049,2,Brockport Drive (119),a,Brockport Drive,57,5412017,96237119,Etobicoke,38014
-43.704092,-79.5898049,2,Brockport Drive (136),a,Brockport Drive,57,5412017,96237136,Etobicoke,38014
-43.704092,-79.5898049,2,Brockport Drive (076),a,Brockport Drive,57,5412017,579922076,Etobicoke,38014
-43.7041055,-79.6101275,2,Attwell Drive (348),a,Attwell Drive,154,5412019,389742348,Etobicoke,38014
 43.7041058,-79.5659637,2,Belfield Road (525),a,Belfield Road,137,5411987,95951525,Etobicoke,38014
 43.7041058,-79.5659637,2,Belfield Road (877),a,Belfield Road,137,5411987,579921877,Etobicoke,38014
 43.7041058,-79.5659637,2,Shaft Road (473),a,Shaft Road,24,5413262,99011473,Etobicoke,38014
-43.7041101,-79.6070369,2,Attwell Drive (396),a,Attwell Drive,154,5412019,349303396,Etobicoke,38014
 43.7041118,-79.5668269,2,Etobicoke North Go Station (663),a,Etobicoke North Go Station,14,5413305,99026663,Etobicoke,38014
 43.7041462,-79.589134,2,City View Drive (780),a,City View Drive,141,5413269,99016780,Etobicoke,38014
-43.7041495,-79.6100768,2,Attwell Drive (851),a,Attwell Drive,154,5412019,96293851,Etobicoke,38014
-43.7041781,-79.6072003,2,Attwell Drive (848),a,Attwell Drive,154,5412019,96293848,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (708),a,Highway 27,185,5411524,92429708,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (715),a,Highway 27,185,5411524,92429715,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (734),a,Highway 27,185,5411524,92429734,Etobicoke,38014
-43.7041903,-79.603325,2,Carlingview Drive (686),a,Carlingview Drive,154,5411709,93306686,Etobicoke,38014
-43.7041931,-79.5898996,2,Brockport Drive (132),a,Brockport Drive,57,5412017,96237132,Etobicoke,38014
-43.7042115,-79.6099051,2,Attwell Drive (850),a,Attwell Drive,154,5412019,96293850,Etobicoke,38014
-43.7042288,-79.6073511,2,Attwell Drive (671),a,Attwell Drive,154,5412019,490816671,Etobicoke,38014
-43.7042296,-79.598831,2,Attwell Drive (800),a,Attwell Drive,154,5412019,497595800,Etobicoke,38014
 43.7042321,-79.589136,2,City View Drive (752),a,City View Drive,141,5413269,99016752,Etobicoke,38014
 43.7042321,-79.589136,2,City View Drive (781),a,City View Drive,141,5413269,99016781,Etobicoke,38014
 43.7042321,-79.589136,2,City View Drive (391),a,City View Drive,141,5413269,579922391,Etobicoke,38014
-43.7042372,-79.5898345,2,Brockport Drive (120),a,Brockport Drive,57,5412017,96237120,Etobicoke,38014
 43.7042379,-79.5814065,2,Vulcan Street (757),a,Vulcan Street,22,5413422,490816757,Etobicoke,38014
-43.7042479,-79.6076777,2,Attwell Drive (588),a,Attwell Drive,154,5412019,520398588,Etobicoke,38014
-43.7042488,-79.607622,2,Attwell Drive (849),a,Attwell Drive,154,5412019,96293849,Etobicoke,38014
-43.7042517,-79.5899901,2,Brockport Drive (131),a,Brockport Drive,57,5412017,96237131,Etobicoke,38014
 43.704262,-79.5767084,2,Martin Grove Road (807),a,Martin Grove Road,689,5411724,297386807,Etobicoke,38014
-43.7042813,-79.5986057,2,Attwell Drive (611),a,Attwell Drive,154,5412019,389741611,Etobicoke,38014
 43.7042987,-79.5653559,2,Belfield Road (638),a,Belfield Road,137,5411987,560927638,Etobicoke,38014
 43.7042987,-79.5653559,2,Belfield Road (643),a,Belfield Road,137,5411987,560927643,Etobicoke,38014
 43.7043109,-79.5895532,2,Highway 27 (705),a,Highway 27,185,5411524,92429705,Etobicoke,38014
-43.7043254,-79.5901202,2,Brockport Drive (130),a,Brockport Drive,57,5412017,96237130,Etobicoke,38014
 43.7043351,-79.5894325,2,Highway 27 (718),a,Highway 27,185,5411524,92429718,Etobicoke,38014
 43.7043396,-79.5591218,2,Greensboro Drive (431),a,Greensboro Drive,22,5413358,530240431,Etobicoke,38014
 43.7043445,-79.56521,2,Belfield Road (641),a,Belfield Road,137,5411987,560927641,Etobicoke,38014
-43.7043463,-79.6034035,2,Carlingview Drive (581),a,Carlingview Drive,154,5411709,490816581,Etobicoke,38014
-43.7043506,-79.5898982,2,Brockport Drive (121),a,Brockport Drive,57,5412017,96237121,Etobicoke,38014
-43.7043651,-79.5901765,2,Brockport Drive (129),a,Brockport Drive,57,5412017,96237129,Etobicoke,38014
-43.704401,-79.59021,2,Brockport Drive (128),a,Brockport Drive,57,5412017,96237128,Etobicoke,38014
-43.7044255,-79.5979775,2,Attwell Drive (610),a,Attwell Drive,154,5412019,389741610,Etobicoke,38014
 43.7044282,-79.5649434,2,Belfield Road (639),a,Belfield Road,137,5411987,560927639,Etobicoke,38014
-43.7044442,-79.5902228,2,Brockport Drive (127),a,Brockport Drive,57,5412017,96237127,Etobicoke,38014
-43.7044466,-79.5899794,2,Brockport Drive (122),a,Brockport Drive,57,5412017,96237122,Etobicoke,38014
 43.7044741,-79.5889987,2,City View Drive (738),a,City View Drive,141,5413269,99016738,Etobicoke,38014
-43.7044834,-79.5901993,2,Brockport Drive (126),a,Brockport Drive,57,5412017,96237126,Etobicoke,38014
-43.7044854,-79.5900303,2,Brockport Drive (123),a,Brockport Drive,57,5412017,96237123,Etobicoke,38014
-43.7044911,-79.6034764,2,Carlingview Drive (397),a,Carlingview Drive,154,5411709,349303397,Etobicoke,38014
 43.7044989,-79.5892218,2,City View Drive (750),a,City View Drive,141,5413269,99016750,Etobicoke,38014
-43.7045038,-79.590092,2,Brockport Drive (124),a,Brockport Drive,57,5412017,96237124,Etobicoke,38014
-43.7045048,-79.5901497,2,Brockport Drive (125),a,Brockport Drive,57,5412017,96237125,Etobicoke,38014
 43.7045386,-79.5645916,2,Belfield Road (640),a,Belfield Road,137,5411987,560927640,Etobicoke,38014
 43.7045439,-79.580071,2,Vulcan Street (758),a,Vulcan Street,22,5413422,490816758,Etobicoke,38014
 43.7045513,-79.5589293,2,Greensboro Drive (430),a,Greensboro Drive,22,5413358,530240430,Etobicoke,38014
@@ -2977,11 +1923,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7046255,-79.564315,2,Belfield Road (642),a,Belfield Road,137,5411987,560927642,Etobicoke,38014
 43.7046478,-79.5890072,2,City View Drive (742),a,City View Drive,141,5413269,99016742,Etobicoke,38014
 43.7046531,-79.5890243,2,City View Drive (953),a,City View Drive,141,5413269,432527953,Etobicoke,38014
-43.7046576,-79.5969663,2,Attwell Drive (609),a,Attwell Drive,154,5412019,389741609,Etobicoke,38014
 43.7046602,-79.5891875,2,City View Drive (746),a,City View Drive,141,5413269,99016746,Etobicoke,38014
 43.7046603,-79.5635061,2,Kipling Avenue (007),a,Kipling Avenue,1089,5411515,92166007,Etobicoke,38014
 43.7046603,-79.5635061,2,Kipling Avenue (008),a,Kipling Avenue,1089,5411515,92166008,Etobicoke,38014
-43.7046645,-79.5969361,2,Attwell Drive (834),a,Attwell Drive,154,5412019,96293834,Etobicoke,38014
 43.7046664,-79.5890673,2,City View Drive (744),a,City View Drive,141,5413269,99016744,Etobicoke,38014
 43.7046692,-79.5641758,2,Belfield Road (635),a,Belfield Road,137,5411987,95951635,Etobicoke,38014
 43.7046692,-79.5641758,2,Belfield Road (875),a,Belfield Road,137,5411987,579921875,Etobicoke,38014
@@ -3006,7 +1950,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7050744,-79.5779863,2,Vulcan Street (391),a,Vulcan Street,22,5413422,297406391,Etobicoke,38014
 43.7051673,-79.5771319,2,Martin Grove Road (979),a,Martin Grove Road,689,5411724,440584979,Etobicoke,38014
 43.7052426,-79.5773289,2,Vulcan Street (910),a,Vulcan Street,22,5413422,99045910,Etobicoke,38014
-43.7052498,-79.6038584,2,Carlingview Drive (687),a,Carlingview Drive,154,5411709,93306687,Etobicoke,38014
 43.7052833,-79.5771847,2,Martin Grove Road (557),a,Martin Grove Road,689,5411724,93488557,Etobicoke,38014
 43.7052833,-79.5771847,2,Martin Grove Road (572),a,Martin Grove Road,689,5411724,93488572,Etobicoke,38014
 43.7052833,-79.5771847,2,Martin Grove Road (475),a,Martin Grove Road,689,5411724,579924475,Etobicoke,38014
@@ -3014,21 +1957,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7052891,-79.5898761,2,Highway 27 (720),a,Highway 27,185,5411524,92429720,Etobicoke,38014
 43.7052891,-79.5898761,2,Highway 27 (807),a,Highway 27,185,5411524,92429807,Etobicoke,38014
 43.7054877,-79.5773625,2,Martin Grove Road (571),a,Martin Grove Road,689,5411724,93488571,Etobicoke,38014
-43.7054878,-79.6039173,2,Carlingview Drive (688),a,Carlingview Drive,154,5411709,93306688,Etobicoke,38014
-43.7054878,-79.6039173,2,Carlingview Drive (760),a,Carlingview Drive,154,5411709,93306760,Etobicoke,38014
 43.7055194,-79.5772047,2,Martin Grove Road (558),a,Martin Grove Road,689,5411724,93488558,Etobicoke,38014
 43.7055852,-79.5639466,2,Kipling Avenue (289),a,Kipling Avenue,1089,5411515,92166289,Etobicoke,38014
 43.7055852,-79.5639466,2,Kipling Avenue (104),a,Kipling Avenue,1089,5411515,579924104,Etobicoke,38014
-43.7056791,-79.603953,2,Carlingview Drive (757),a,Carlingview Drive,154,5411709,93306757,Etobicoke,38014
-43.7056791,-79.603953,2,Carlingview Drive (762),a,Carlingview Drive,154,5411709,93306762,Etobicoke,38014
-43.7059074,-79.6091174,2,Entrance Road (564),a,Entrance Road,27,5413253,99008564,Etobicoke,38014
 43.7059107,-79.5903198,2,Highway 27 (703),a,Highway 27,185,5411524,92429703,Etobicoke,38014
 43.705913,-79.5664243,2,Etobicoke North Go Station (749),a,Etobicoke North Go Station,14,5413305,490816749,Etobicoke,38014
-43.7059446,-79.609804,2,Entrance Road (563),a,Entrance Road,27,5413253,99008563,Etobicoke,38014
 43.7059804,-79.5663943,2,Etobicoke North Go Station (665),a,Etobicoke North Go Station,14,5413305,99026665,Etobicoke,38014
-43.706031,-79.6040096,2,Carlingview Drive (759),a,Carlingview Drive,154,5411709,93306759,Etobicoke,38014
-43.706031,-79.6040096,2,Entrance Road (565),a,Entrance Road,27,5413253,99008565,Etobicoke,38014
-43.7060749,-79.6104048,2,Entrance Road (562),a,Entrance Road,27,5413253,99008562,Etobicoke,38014
 43.7060773,-79.5662763,2,Etobicoke North Go Station (666),a,Etobicoke North Go Station,14,5413305,99026666,Etobicoke,38014
 43.7061161,-79.5661744,2,Etobicoke North Go Station (667),a,Etobicoke North Go Station,14,5413305,99026667,Etobicoke,38014
 43.7061316,-79.5660086,2,Etobicoke North Go Station (668),a,Etobicoke North Go Station,14,5413305,99026668,Etobicoke,38014
@@ -3037,7 +1971,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.706147,-79.56434,2,Etobicoke North Go Station (660),a,Etobicoke North Go Station,14,5413305,99026660,Etobicoke,38014
 43.706147,-79.56434,2,Etobicoke North Go Station (669),a,Etobicoke North Go Station,14,5413305,99026669,Etobicoke,38014
 43.7061516,-79.5637083,2,Etobicoke North Go Station (661),a,Etobicoke North Go Station,14,5413305,99026661,Etobicoke,38014
-43.7061804,-79.6106881,2,Entrance Road (561),a,Entrance Road,27,5413253,99008561,Etobicoke,38014
 43.7062429,-79.5907098,2,Grandstand Entrance Road (616),a,Grandstand Entrance Road,133,5411989,95982616,Etobicoke,38014
 43.7062429,-79.5907098,2,Grandstand Entrance Road (618),a,Grandstand Entrance Road,133,5411989,95982618,Etobicoke,38014
 43.7062497,-79.5900646,2,Grandstand Entrance Road (614),a,Grandstand Entrance Road,133,5411989,95982614,Etobicoke,38014
@@ -3054,7 +1987,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7064124,-79.5895028,2,Grandstand Entrance Road (688),a,Grandstand Entrance Road,133,5411989,95982688,Etobicoke,38014
 43.7064225,-79.5904227,2,Highway 27 (810),a,Highway 27,185,5411524,92429810,Etobicoke,38014
 43.7064225,-79.5904227,2,Highway 27 (812),a,Highway 27,185,5411524,92429812,Etobicoke,38014
-43.7064348,-79.6111601,2,Entrance Road (560),a,Entrance Road,27,5413253,99008560,Etobicoke,38014
 43.7064625,-79.5643528,2,Kipling Avenue (632),a,Kipling Avenue,1089,5411515,297384632,Etobicoke,38014
 43.7064625,-79.5643528,2,Kipling Avenue (641),a,Kipling Avenue,1089,5411515,297384641,Etobicoke,38014
 43.7064675,-79.5641223,2,Kipling Avenue (619),a,Kipling Avenue,1089,5411515,297384619,Etobicoke,38014
@@ -3066,15 +1998,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7066444,-79.5635423,2,Bethridge Road (334),a,Bethridge Road,101,5411951,95777334,Etobicoke,38014
 43.7066557,-79.5893403,2,Grandstand Entrance Road (686),a,Grandstand Entrance Road,133,5411989,95982686,Etobicoke,38014
 43.7066578,-79.5918964,2,Grandstand Entrance Road (626),a,Grandstand Entrance Road,133,5411989,95982626,Etobicoke,38014
-43.7066768,-79.6114691,2,Entrance Road (559),a,Entrance Road,27,5413253,99008559,Etobicoke,38014
 43.7067981,-79.5635496,2,Bethridge Road (340),a,Bethridge Road,101,5411951,95777340,Etobicoke,38014
 43.7068807,-79.5893826,2,Grandstand Entrance Road (685),a,Grandstand Entrance Road,133,5411989,95982685,Etobicoke,38014
 43.7069285,-79.5659953,2,Namco Road (120),a,Namco Road,20,5413360,99038120,Etobicoke,38014
-43.7069502,-79.6117361,2,Entrance Road (558),a,Entrance Road,27,5413253,99008558,Etobicoke,38014
 43.7069634,-79.563558,2,Bethridge Road (343),a,Bethridge Road,101,5411951,95777343,Etobicoke,38014
 43.7070196,-79.5659563,2,Namco Road (121),a,Namco Road,20,5413360,99038121,Etobicoke,38014
 43.7071284,-79.5635661,2,Bethridge Road (346),a,Bethridge Road,101,5411951,95777346,Etobicoke,38014
-43.7071475,-79.611854,2,Entrance Road (557),a,Entrance Road,27,5413253,99008557,Etobicoke,38014
 43.7071607,-79.5894536,2,Grandstand Entrance Road (612),a,Grandstand Entrance Road,133,5411989,95982612,Etobicoke,38014
 43.7071607,-79.5894536,2,Grandstand Entrance Road (684),a,Grandstand Entrance Road,133,5411989,95982684,Etobicoke,38014
 43.7072135,-79.5658734,2,Namco Road (122),a,Namco Road,20,5413360,99038122,Etobicoke,38014
@@ -3094,7 +2023,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7074104,-79.5787357,2,Bethridge Road (407),a,Bethridge Road,101,5411951,95777407,Etobicoke,38014
 43.7074275,-79.5898226,2,Grandstand Entrance Road (607),a,Grandstand Entrance Road,133,5411989,95982607,Etobicoke,38014
 43.7074454,-79.5910955,2,Highway 27 (692),a,Highway 27,185,5411524,92429692,Etobicoke,38014
-43.7074468,-79.6119431,2,Entrance Road (391),a,Entrance Road,27,5413253,415121391,Etobicoke,38014
 43.7074476,-79.5826839,2,Bethridge Road (412),a,Bethridge Road,101,5411951,95777412,Etobicoke,38014
 43.7074523,-79.5899857,2,Grandstand Entrance Road (604),a,Grandstand Entrance Road,133,5411989,95982604,Etobicoke,38014
 43.7074595,-79.5782377,2,Martin Grove Road (570),a,Martin Grove Road,689,5411724,93488570,Etobicoke,38014
@@ -3115,39 +2043,23 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7075781,-79.564868,2,Kipling Avenue (332),a,Kipling Avenue,1089,5411515,92166332,Etobicoke,38014
 43.7075781,-79.564868,2,Kipling Avenue (339),a,Kipling Avenue,1089,5411515,92166339,Etobicoke,38014
 43.7075896,-79.5780236,2,Bethridge Road (746),a,Bethridge Road,101,5411951,497595746,Etobicoke,38014
-43.7076148,-79.6132041,2,Club House Road (410),a,Club House Road,14,5413410,415121410,Etobicoke,38014
 43.7076232,-79.5657232,2,Namco Road (727),a,Namco Road,20,5413360,503157727,Etobicoke,38014
 43.7076266,-79.5635906,2,Bethridge Road (355),a,Bethridge Road,101,5411951,95777355,Etobicoke,38014
 43.707646,-79.5783268,2,Martin Grove Road (563),a,Martin Grove Road,689,5411724,93488563,Etobicoke,38014
 43.7076524,-79.5838341,2,Bethridge Road (416),a,Bethridge Road,101,5411951,95777416,Etobicoke,38014
 43.7076524,-79.5829758,2,Bethridge Road (413),a,Bethridge Road,101,5411951,95777413,Etobicoke,38014
 43.707671,-79.5841431,2,Bethridge Road (417),a,Bethridge Road,101,5411951,95777417,Etobicoke,38014
-43.7076776,-79.6119681,2,Entrance Road (390),a,Entrance Road,27,5413253,415121390,Etobicoke,38014
 43.7076807,-79.5781784,2,Martin Grove Road (566),a,Martin Grove Road,689,5411724,93488566,Etobicoke,38014
 43.7076967,-79.577587,2,Bethridge Road (733),a,Bethridge Road,101,5411951,497595733,Etobicoke,38014
 43.7076967,-79.577587,2,Bethridge Road (747),a,Bethridge Road,101,5411951,497595747,Etobicoke,38014
 43.7077144,-79.5834307,2,Bethridge Road (415),a,Bethridge Road,101,5411951,95777415,Etobicoke,38014
 43.7077234,-79.5656851,2,Namco Road (756),a,Namco Road,20,5413360,490816756,Etobicoke,38014
 43.7077268,-79.5831989,2,Bethridge Road (414),a,Bethridge Road,101,5411951,95777414,Etobicoke,38014
-43.7077287,-79.6128321,2,Club House Road (411),a,Club House Road,14,5413410,415121411,Etobicoke,38014
-43.7077287,-79.6128321,2,Club House Road (488),a,Club House Road,14,5413410,415121488,Etobicoke,38014
-43.7077287,-79.6128321,2,Club House Road (497),a,Club House Road,14,5413410,415121497,Etobicoke,38014
-43.7077315,-79.6126359,2,Club House Road (489),a,Club House Road,14,5413410,415121489,Etobicoke,38014
 43.707737,-79.5656799,2,Namco Road (125),a,Namco Road,20,5413360,99038125,Etobicoke,38014
-43.7077599,-79.6124847,2,Club House Road (490),a,Club House Road,14,5413410,415121490,Etobicoke,38014
 43.707764,-79.5844435,2,Bethridge Road (418),a,Bethridge Road,101,5411951,95777418,Etobicoke,38014
-43.7077722,-79.6119696,2,Entrance Road (556),a,Entrance Road,27,5413253,99008556,Etobicoke,38014
-43.7077722,-79.6119696,2,Club House Road (492),a,Club House Road,14,5413410,415121492,Etobicoke,38014
-43.7077784,-79.6123218,2,Club House Road (491),a,Club House Road,14,5413410,415121491,Etobicoke,38014
-43.7077798,-79.612092,2,Club House Road (353),a,Club House Road,14,5413410,473889353,Etobicoke,38014
 43.7077849,-79.5635983,2,Bethridge Road (358),a,Bethridge Road,101,5411951,95777358,Etobicoke,38014
 43.7077983,-79.5647754,2,Kipling Avenue (819),a,Kipling Avenue,1089,5411515,497594819,Etobicoke,38014
 43.7077983,-79.5647754,2,Kipling Avenue (832),a,Kipling Avenue,1089,5411515,497594832,Etobicoke,38014
-43.7078114,-79.6126448,2,Club House Road (354),a,Club House Road,14,5413410,473889354,Etobicoke,38014
-43.7078384,-79.612507,2,Club House Road (496),a,Club House Road,14,5413410,415121496,Etobicoke,38014
-43.7078487,-79.6119645,2,Club House Road (493),a,Club House Road,14,5413410,415121493,Etobicoke,38014
-43.7078515,-79.6120985,2,Club House Road (494),a,Club House Road,14,5413410,415121494,Etobicoke,38014
-43.7078522,-79.6123322,2,Club House Road (495),a,Club House Road,14,5413410,415121495,Etobicoke,38014
 43.707911,-79.5656214,2,Namco Road (755),a,Namco Road,20,5413360,490816755,Etobicoke,38014
 43.7079412,-79.5656112,2,Namco Road (126),a,Namco Road,20,5413360,99038126,Etobicoke,38014
 43.7079502,-79.5846752,2,Bethridge Road (419),a,Bethridge Road,101,5411951,95777419,Etobicoke,38014

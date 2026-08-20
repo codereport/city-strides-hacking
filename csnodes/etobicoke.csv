@@ -1,4 +1,17 @@
 lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,source_city_id
+43.5892526,-79.5431893,2,James Street (953),a,James Street,19,5411825,579923953,Etobicoke,38014
+43.5892616,-79.5430694,2,Forty First Street (290),a,Forty First Street,18,5411821,579923290,Etobicoke,38014
+43.5892998,-79.5431292,2,Forty First Street (289),a,Forty First Street,18,5411821,579923289,Etobicoke,38014
+43.5893372,-79.5431868,2,Forty First Street (288),a,Forty First Street,18,5411821,579923288,Etobicoke,38014
+43.5893408,-79.5430792,2,James Street (952),a,James Street,19,5411825,579923952,Etobicoke,38014
+43.5901293,-79.5407113,2,James Street (951),a,James Street,19,5411825,579923951,Etobicoke,38014
+43.590284,-79.5406894,2,Fortieth Street (287),a,Fortieth Street,17,5411755,579923287,Etobicoke,38014
+43.5903654,-79.5406482,2,James Street (955),a,James Street,19,5411825,579923955,Etobicoke,38014
+43.5903837,-79.5407324,2,Fortieth Street (286),a,Fortieth Street,17,5411755,579923286,Etobicoke,38014
+43.5927163,-79.5447214,2,Foch Avenue (281),a,Foch Avenue,23,5412150,579923281,Etobicoke,38014
+43.5927802,-79.5447575,2,Foch Avenue (280),a,Foch Avenue,23,5412150,579923280,Etobicoke,38014
+43.5930567,-79.5448965,2,Foch Avenue (278),a,Foch Avenue,23,5412150,579923278,Etobicoke,38014
+43.5930567,-79.5448965,2,Foch Avenue (279),a,Foch Avenue,23,5412150,579923279,Etobicoke,38014
 43.6431766,-79.5858848,2,Laver Road (302),a,Laver Road,8,5412402,98229302,Etobicoke,38014
 43.6433098,-79.5856175,2,Laver Road (303),a,Laver Road,8,5412402,98229303,Etobicoke,38014
 43.6433385,-79.5868385,2,Mill Road (624),a,Mill Road,117,5412247,579924624,Etobicoke,38014
@@ -1253,263 +1266,35 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7052891,-79.5898761,2,Highway 27 (720),a,Highway 27,185,5411524,92429720,Etobicoke,38014
 43.7052891,-79.5898761,2,Highway 27 (807),a,Highway 27,185,5411524,92429807,Etobicoke,38014
 43.7059107,-79.5903198,2,Highway 27 (703),a,Highway 27,185,5411524,92429703,Etobicoke,38014
-43.7062429,-79.5907098,2,Grandstand Entrance Road (616),a,Grandstand Entrance Road,133,5411989,95982616,Etobicoke,38014
-43.7062429,-79.5907098,2,Grandstand Entrance Road (618),a,Grandstand Entrance Road,133,5411989,95982618,Etobicoke,38014
-43.7062497,-79.5900646,2,Grandstand Entrance Road (614),a,Grandstand Entrance Road,133,5411989,95982614,Etobicoke,38014
-43.7062497,-79.5900646,2,Grandstand Entrance Road (691),a,Grandstand Entrance Road,133,5411989,95982691,Etobicoke,38014
-43.706254,-79.5911496,2,Grandstand Entrance Road (620),a,Grandstand Entrance Road,133,5411989,95982620,Etobicoke,38014
-43.7062735,-79.5913762,2,Grandstand Entrance Road (622),a,Grandstand Entrance Road,133,5411989,95982622,Etobicoke,38014
-43.7062767,-79.5898558,2,Grandstand Entrance Road (690),a,Grandstand Entrance Road,133,5411989,95982690,Etobicoke,38014
-43.706331,-79.5896344,2,Grandstand Entrance Road (689),a,Grandstand Entrance Road,133,5411989,95982689,Etobicoke,38014
-43.7063603,-79.5915736,2,Grandstand Entrance Road (624),a,Grandstand Entrance Road,133,5411989,95982624,Etobicoke,38014
-43.7064124,-79.5895028,2,Grandstand Entrance Road (688),a,Grandstand Entrance Road,133,5411989,95982688,Etobicoke,38014
 43.7064225,-79.5904227,2,Highway 27 (810),a,Highway 27,185,5411524,92429810,Etobicoke,38014
 43.7064225,-79.5904227,2,Highway 27 (812),a,Highway 27,185,5411524,92429812,Etobicoke,38014
 43.7064625,-79.5643528,2,Kipling Avenue (632),a,Kipling Avenue,1089,5411515,297384632,Etobicoke,38014
 43.7064625,-79.5643528,2,Kipling Avenue (641),a,Kipling Avenue,1089,5411515,297384641,Etobicoke,38014
 43.7064675,-79.5641223,2,Kipling Avenue (619),a,Kipling Avenue,1089,5411515,297384619,Etobicoke,38014
 43.7064675,-79.5641223,2,Kipling Avenue (639),a,Kipling Avenue,1089,5411515,297384639,Etobicoke,38014
-43.7065117,-79.5893958,2,Grandstand Entrance Road (687),a,Grandstand Entrance Road,133,5411989,95982687,Etobicoke,38014
-43.7065382,-79.5918059,2,Grandstand Entrance Road (625),a,Grandstand Entrance Road,133,5411989,95982625,Etobicoke,38014
-43.7066557,-79.5893403,2,Grandstand Entrance Road (686),a,Grandstand Entrance Road,133,5411989,95982686,Etobicoke,38014
-43.7066578,-79.5918964,2,Grandstand Entrance Road (626),a,Grandstand Entrance Road,133,5411989,95982626,Etobicoke,38014
-43.7068807,-79.5893826,2,Grandstand Entrance Road (685),a,Grandstand Entrance Road,133,5411989,95982685,Etobicoke,38014
-43.7071607,-79.5894536,2,Grandstand Entrance Road (612),a,Grandstand Entrance Road,133,5411989,95982612,Etobicoke,38014
-43.7071607,-79.5894536,2,Grandstand Entrance Road (684),a,Grandstand Entrance Road,133,5411989,95982684,Etobicoke,38014
-43.7072682,-79.5921872,2,Grandstand Entrance Road (390),a,Grandstand Entrance Road,133,5411989,579923390,Etobicoke,38014
-43.7072682,-79.5921872,2,Grandstand Entrance Road (391),a,Grandstand Entrance Road,133,5411989,579923391,Etobicoke,38014
-43.7072724,-79.5895308,2,Grandstand Entrance Road (610),a,Grandstand Entrance Road,133,5411989,95982610,Etobicoke,38014
-43.7073173,-79.5820831,2,Bethridge Road (410),a,Bethridge Road,101,5411951,95777410,Etobicoke,38014
-43.707324,-79.5816972,2,Bethridge Road (409),a,Bethridge Road,101,5411951,95777409,Etobicoke,38014
-43.7073424,-79.5806613,2,Bethridge Road (014),a,Bethridge Road,101,5411951,507625014,Etobicoke,38014
-43.7073531,-79.589651,2,Grandstand Entrance Road (609),a,Grandstand Entrance Road,133,5411989,95982609,Etobicoke,38014
-43.7073538,-79.5799872,2,Bethridge Road (015),a,Bethridge Road,101,5411951,507625015,Etobicoke,38014
-43.7073545,-79.5824007,2,Bethridge Road (411),a,Bethridge Road,101,5411951,95777411,Etobicoke,38014
-43.7074275,-79.5898226,2,Grandstand Entrance Road (607),a,Grandstand Entrance Road,133,5411989,95982607,Etobicoke,38014
 43.7074454,-79.5910955,2,Highway 27 (692),a,Highway 27,185,5411524,92429692,Etobicoke,38014
-43.7074476,-79.5826839,2,Bethridge Road (412),a,Bethridge Road,101,5411951,95777412,Etobicoke,38014
-43.7074523,-79.5899857,2,Grandstand Entrance Road (604),a,Grandstand Entrance Road,133,5411989,95982604,Etobicoke,38014
-43.7074855,-79.5827379,2,Bethridge Road (192),a,Bethridge Road,101,5411951,409023192,Etobicoke,38014
-43.7075113,-79.5922975,2,Grandstand Entrance Road (392),a,Grandstand Entrance Road,133,5411989,579923392,Etobicoke,38014
 43.7075781,-79.564868,2,Kipling Avenue (332),a,Kipling Avenue,1089,5411515,92166332,Etobicoke,38014
 43.7075781,-79.564868,2,Kipling Avenue (339),a,Kipling Avenue,1089,5411515,92166339,Etobicoke,38014
-43.7076524,-79.5838341,2,Bethridge Road (416),a,Bethridge Road,101,5411951,95777416,Etobicoke,38014
-43.7076524,-79.5829758,2,Bethridge Road (413),a,Bethridge Road,101,5411951,95777413,Etobicoke,38014
-43.707671,-79.5841431,2,Bethridge Road (417),a,Bethridge Road,101,5411951,95777417,Etobicoke,38014
-43.7077144,-79.5834307,2,Bethridge Road (415),a,Bethridge Road,101,5411951,95777415,Etobicoke,38014
-43.7077268,-79.5831989,2,Bethridge Road (414),a,Bethridge Road,101,5411951,95777414,Etobicoke,38014
-43.707764,-79.5844435,2,Bethridge Road (418),a,Bethridge Road,101,5411951,95777418,Etobicoke,38014
 43.7077983,-79.5647754,2,Kipling Avenue (819),a,Kipling Avenue,1089,5411515,497594819,Etobicoke,38014
 43.7077983,-79.5647754,2,Kipling Avenue (832),a,Kipling Avenue,1089,5411515,497594832,Etobicoke,38014
-43.7079502,-79.5846752,2,Bethridge Road (419),a,Bethridge Road,101,5411951,95777419,Etobicoke,38014
-43.7079602,-79.591144,2,Highway 27 (815),a,Highway 27,185,5411524,92429815,Etobicoke,38014
-43.7080469,-79.5925408,2,Grandstand Entrance Road (393),a,Grandstand Entrance Road,133,5411989,579923393,Etobicoke,38014
-43.7080469,-79.5925408,2,Grandstand Entrance Road (394),a,Grandstand Entrance Road,133,5411989,579923394,Etobicoke,38014
-43.7080991,-79.5847696,2,Bethridge Road (420),a,Bethridge Road,101,5411951,95777420,Etobicoke,38014
-43.7081147,-79.5912188,2,Highway 27 (818),a,Highway 27,185,5411524,92429818,Etobicoke,38014
-43.7081147,-79.5912188,2,Highway 27 (906),a,Highway 27,185,5411524,92429906,Etobicoke,38014
-43.7081147,-79.5912188,2,Bethridge Road (432),a,Bethridge Road,101,5411951,95777432,Etobicoke,38014
-43.7081378,-79.5911222,2,Bethridge Road (431),a,Bethridge Road,101,5411951,95777431,Etobicoke,38014
-43.7081531,-79.5910579,2,Bethridge Road (878),a,Bethridge Road,101,5411951,486821878,Etobicoke,38014
-43.7082271,-79.5926228,2,Grandstand Entrance Road (395),a,Grandstand Entrance Road,133,5411989,579923395,Etobicoke,38014
-43.7082271,-79.5926228,2,Grandstand Entrance Road (396),a,Grandstand Entrance Road,133,5411989,579923396,Etobicoke,38014
-43.7083003,-79.5904417,2,Bethridge Road (601),a,Bethridge Road,101,5411951,425039601,Etobicoke,38014
-43.7083004,-79.5848691,2,Bethridge Road (713),a,Bethridge Road,101,5411951,497595713,Etobicoke,38014
-43.7083439,-79.590259,2,Bethridge Road (599),a,Bethridge Road,101,5411951,425039599,Etobicoke,38014
-43.7084362,-79.5898726,2,Bethridge Road (600),a,Bethridge Road,101,5411951,425039600,Etobicoke,38014
-43.7084696,-79.5915262,2,Highway 27 (691),a,Highway 27,185,5411524,92429691,Etobicoke,38014
-43.7084824,-79.589679,2,Bethridge Road (712),a,Bethridge Road,101,5411951,497595712,Etobicoke,38014
-43.7084941,-79.5896299,2,Bethridge Road (430),a,Bethridge Road,101,5411951,95777430,Etobicoke,38014
-43.7084941,-79.5896299,2,Queen's Plate Drive (138),a,Queen's Plate Drive,188,5411993,96040138,Etobicoke,38014
-43.7085192,-79.5914146,2,Highway 27 (907),a,Highway 27,185,5411524,92429907,Etobicoke,38014
-43.7085482,-79.5927859,2,Grandstand Entrance Road (397),a,Grandstand Entrance Road,133,5411989,579923397,Etobicoke,38014
-43.7085482,-79.5927859,2,Grandstand Entrance Road (398),a,Grandstand Entrance Road,133,5411989,579923398,Etobicoke,38014
-43.7086065,-79.5896764,2,Queen's Plate Drive (134),a,Queen's Plate Drive,188,5411993,96040134,Etobicoke,38014
-43.7086072,-79.5891278,2,Bethridge Road (429),a,Bethridge Road,101,5411951,95777429,Etobicoke,38014
-43.7086682,-79.591552,2,Highway 27 (685),a,Highway 27,185,5411524,92429685,Etobicoke,38014
-43.7086682,-79.591552,2,Highway 27 (690),a,Highway 27,185,5411524,92429690,Etobicoke,38014
-43.7086682,-79.591552,2,Highway 27 (908),a,Highway 27,185,5411524,92429908,Etobicoke,38014
-43.7087238,-79.5886101,2,Bethridge Road (428),a,Bethridge Road,101,5411951,95777428,Etobicoke,38014
-43.708786,-79.5929088,2,Grandstand Entrance Road (399),a,Grandstand Entrance Road,133,5411989,579923399,Etobicoke,38014
-43.7087876,-79.5897513,2,Queen's Plate Drive (130),a,Queen's Plate Drive,188,5411993,96040130,Etobicoke,38014
-43.7088596,-79.5851454,2,Bethridge Road (714),a,Bethridge Road,101,5411951,497595714,Etobicoke,38014
-43.7089677,-79.5851988,2,Bethridge Road (421),a,Bethridge Road,101,5411951,95777421,Etobicoke,38014
-43.7090359,-79.5872244,2,Bethridge Road (427),a,Bethridge Road,101,5411951,95777427,Etobicoke,38014
-43.7090359,-79.5872244,2,Precision Road (663),a,Precision Road,18,5411952,95780663,Etobicoke,38014
-43.7090951,-79.5898784,2,Queen's Plate Drive (127),a,Queen's Plate Drive,188,5411993,96040127,Etobicoke,38014
-43.7091414,-79.5854219,2,Bethridge Road (422),a,Bethridge Road,101,5411951,95777422,Etobicoke,38014
-43.7091768,-79.5872846,2,Precision Road (664),a,Precision Road,18,5411952,95780664,Etobicoke,38014
-43.7092025,-79.5855911,2,Bethridge Road (423),a,Bethridge Road,101,5411951,95777423,Etobicoke,38014
-43.7092407,-79.5863232,2,Bethridge Road (426),a,Bethridge Road,101,5411951,95777426,Etobicoke,38014
-43.7092516,-79.5862513,2,Bethridge Road (622),a,Bethridge Road,101,5411951,560927622,Etobicoke,38014
-43.7092655,-79.5857653,2,Bethridge Road (424),a,Bethridge Road,101,5411951,95777424,Etobicoke,38014
-43.7092779,-79.5861172,2,Bethridge Road (425),a,Bethridge Road,101,5411951,95777425,Etobicoke,38014
-43.7095664,-79.5900733,2,Queen's Plate Drive (636),a,Queen's Plate Drive,188,5411993,490816636,Etobicoke,38014
 43.7098833,-79.5921362,2,Highway 27 (687),a,Highway 27,185,5411524,92429687,Etobicoke,38014
 43.7098833,-79.5921362,2,Highway 27 (827),a,Highway 27,185,5411524,92429827,Etobicoke,38014
-43.7102566,-79.5903587,2,Queen's Plate Drive (635),a,Queen's Plate Drive,188,5411993,490816635,Etobicoke,38014
-43.7111355,-79.5907222,2,Queen's Plate Drive (634),a,Queen's Plate Drive,188,5411993,297388634,Etobicoke,38014
-43.7112342,-79.5940854,2,Grandstand Entrance Road (400),a,Grandstand Entrance Road,133,5411989,579923400,Etobicoke,38014
-43.7113808,-79.5928653,2,Highway 27 (830),a,Highway 27,185,5411524,92429830,Etobicoke,38014
-43.7113808,-79.5928653,2,Vice Regent Boulevard (307),a,Vice Regent Boulevard,18,5411992,96017307,Etobicoke,38014
-43.7113808,-79.5928653,2,Vice Regent Boulevard (258),a,Vice Regent Boulevard,18,5411992,579926258,Etobicoke,38014
-43.711382,-79.5926924,2,Vice Regent Boulevard (593),a,Vice Regent Boulevard,18,5411992,297388593,Etobicoke,38014
-43.7114077,-79.5925777,2,Vice Regent Boulevard (259),a,Vice Regent Boulevard,18,5411992,579926259,Etobicoke,38014
-43.7114557,-79.5923638,2,Vice Regent Boulevard (594),a,Vice Regent Boulevard,18,5411992,297388594,Etobicoke,38014
-43.7114593,-79.5927289,2,Vice Regent Boulevard (308),a,Vice Regent Boulevard,18,5411992,96017308,Etobicoke,38014
-43.711481,-79.5926183,2,Vice Regent Boulevard (885),a,Vice Regent Boulevard,18,5411992,486821885,Etobicoke,38014
-43.7115216,-79.5922512,2,Vice Regent Boulevard (591),a,Vice Regent Boulevard,18,5411992,297388591,Etobicoke,38014
-43.7115216,-79.5922512,2,Vice Regent Boulevard (595),a,Vice Regent Boulevard,18,5411992,297388595,Etobicoke,38014
-43.7115216,-79.5922512,2,Vice Regent Boulevard (596),a,Vice Regent Boulevard,18,5411992,297388596,Etobicoke,38014
-43.7115245,-79.5923974,2,Vice Regent Boulevard (592),a,Vice Regent Boulevard,18,5411992,297388592,Etobicoke,38014
-43.7115916,-79.5919227,2,Vice Regent Boulevard (751),a,Vice Regent Boulevard,18,5411992,406781751,Etobicoke,38014
-43.7116038,-79.5918655,2,Vice Regent Boulevard (597),a,Vice Regent Boulevard,18,5411992,297388597,Etobicoke,38014
 43.711614,-79.566861,2,Rexdale Boulevard (559),a,Rexdale Boulevard,330,5411761,94145559,Etobicoke,38014
-43.71173,-79.5943244,2,Grandstand Entrance Road (401),a,Grandstand Entrance Road,133,5411989,579923401,Etobicoke,38014
-43.7117829,-79.5909899,2,Vice Regent Boulevard (310),a,Vice Regent Boulevard,18,5411992,96017310,Etobicoke,38014
-43.7117829,-79.5909899,2,Vice Regent Boulevard (260),a,Vice Regent Boulevard,18,5411992,579926260,Etobicoke,38014
-43.7117829,-79.5909899,2,Queen's Plate Drive (121),a,Queen's Plate Drive,188,5411993,96040121,Etobicoke,38014
-43.7117829,-79.5909899,2,Queen's Plate Drive (125),a,Queen's Plate Drive,188,5411993,96040125,Etobicoke,38014
-43.7119498,-79.5902348,2,Vice Regent Boulevard (232),a,Vice Regent Boulevard,18,5411992,509658232,Etobicoke,38014
-43.7119806,-79.5945129,2,Grandstand Entrance Road (402),a,Grandstand Entrance Road,133,5411989,579923402,Etobicoke,38014
-43.7121505,-79.5946786,2,Grandstand Entrance Road (403),a,Grandstand Entrance Road,133,5411989,579923403,Etobicoke,38014
-43.7122671,-79.5887997,2,Vice Regent Boulevard (728),a,Vice Regent Boulevard,18,5411992,335002728,Etobicoke,38014
-43.7122919,-79.5948432,2,Grandstand Entrance Road (404),a,Grandstand Entrance Road,133,5411989,579923404,Etobicoke,38014
-43.7123117,-79.5886234,2,Precision Road (665),a,Precision Road,18,5411952,95780665,Etobicoke,38014
-43.7123117,-79.5886234,2,Precision Road (666),a,Precision Road,18,5411952,95780666,Etobicoke,38014
-43.7123117,-79.5886234,2,Vice Regent Boulevard (311),a,Vice Regent Boulevard,18,5411992,96017311,Etobicoke,38014
 43.7124184,-79.5912664,2,Queen's Plate Drive (233),a,Queen's Plate Drive,188,5411993,509658233,Etobicoke,38014
-43.7124191,-79.5950309,2,Grandstand Entrance Road (405),a,Grandstand Entrance Road,133,5411989,579923405,Etobicoke,38014
-43.7124405,-79.5845011,2,Tidemore Avenue (686),a,Tidemore Avenue,12,5411995,96041686,Etobicoke,38014
-43.7124578,-79.5886849,2,Precision Road (567),a,Precision Road,18,5411952,512214567,Etobicoke,38014
-43.7124899,-79.5845216,2,Tidemore Avenue (649),a,Tidemore Avenue,12,5411995,490816649,Etobicoke,38014
-43.7125283,-79.5845376,2,Tidemore Avenue (648),a,Tidemore Avenue,12,5411995,490816648,Etobicoke,38014
-43.7126851,-79.5954296,2,Grandstand Entrance Road (406),a,Grandstand Entrance Road,133,5411989,579923406,Etobicoke,38014
-43.7127183,-79.5887945,2,Precision Road (568),a,Precision Road,18,5411952,512214568,Etobicoke,38014
-43.7128074,-79.5955882,2,Grandstand Entrance Road (407),a,Grandstand Entrance Road,133,5411989,579923407,Etobicoke,38014
-43.7129315,-79.5957157,2,Grandstand Entrance Road (408),a,Grandstand Entrance Road,133,5411989,579923408,Etobicoke,38014
-43.7131209,-79.588964,2,Precision Road (566),a,Precision Road,18,5411952,512214566,Etobicoke,38014
-43.7131831,-79.5959147,2,Grandstand Entrance Road (409),a,Grandstand Entrance Road,133,5411989,579923409,Etobicoke,38014
-43.7131831,-79.5959147,2,Grandstand Entrance Road (410),a,Grandstand Entrance Road,133,5411989,579923410,Etobicoke,38014
 43.7132142,-79.5916126,2,Queen's Plate Drive (911),a,Queen's Plate Drive,188,5411993,432527911,Etobicoke,38014
-43.713264,-79.5848429,2,Tidemore Avenue (859),a,Tidemore Avenue,12,5411995,420187859,Etobicoke,38014
 43.7132749,-79.591639,2,Queen's Plate Drive (712),a,Queen's Plate Drive,188,5411993,406781712,Etobicoke,38014
-43.7132985,-79.5959045,2,Grandstand Entrance Road (411),a,Grandstand Entrance Road,133,5411989,579923411,Etobicoke,38014
-43.7133541,-79.5938863,2,Highway 27 (561),a,Highway 27,185,5411524,490816561,Etobicoke,38014
-43.7133541,-79.5938863,2,Highway 27 (565),a,Highway 27,185,5411524,490816565,Etobicoke,38014
-43.7133541,-79.5938863,2,Highway 27 (570),a,Highway 27,185,5411524,490816570,Etobicoke,38014
 43.713548,-79.5584458,2,Rexdale Boulevard (451),a,Rexdale Boulevard,330,5411761,94145451,Etobicoke,38014
 43.713548,-79.5584458,2,Rexdale Boulevard (453),a,Rexdale Boulevard,330,5411761,94145453,Etobicoke,38014
-43.7136003,-79.5960446,2,Grandstand Entrance Road (412),a,Grandstand Entrance Road,133,5411989,579923412,Etobicoke,38014
-43.7136095,-79.5941069,2,Highway 27 (564),a,Highway 27,185,5411524,490816564,Etobicoke,38014
-43.7136438,-79.5960648,2,Grandstand Entrance Road (413),a,Grandstand Entrance Road,133,5411989,579923413,Etobicoke,38014
-43.7136442,-79.5939351,2,Highway 27 (930),a,Highway 27,185,5411524,92429930,Etobicoke,38014
-43.7136442,-79.5939351,2,Highway 27 (530),a,Highway 27,185,5411524,579923530,Etobicoke,38014
-43.7136771,-79.5961991,2,New Providence Trail (712),a,New Providence Trail,9,22077925,579924712,Etobicoke,38014
-43.7136771,-79.5961991,2,Dance Smartly Boulevard (630),a,Dance Smartly Boulevard,138,23996413,579922630,Etobicoke,38014
 43.7136834,-79.5585506,2,Rexdale Boulevard (410),a,Rexdale Boulevard,330,5411761,94145410,Etobicoke,38014
 43.7136834,-79.5585506,2,Rexdale Boulevard (390),a,Rexdale Boulevard,330,5411761,579925390,Etobicoke,38014
-43.7136843,-79.596219,2,Nearctic Drive (637),a,Nearctic Drive,12,5411994,490816637,Etobicoke,38014
-43.713704,-79.5960927,2,Grandstand Entrance Road (414),a,Grandstand Entrance Road,133,5411989,579923414,Etobicoke,38014
-43.713704,-79.5960927,2,New Providence Trail (711),a,New Providence Trail,9,22077925,579924711,Etobicoke,38014
-43.713704,-79.5960927,2,Dance Smartly Boulevard (625),a,Dance Smartly Boulevard,138,23996413,579922625,Etobicoke,38014
-43.7137146,-79.5960945,2,Nearctic Drive (638),a,Nearctic Drive,12,5411994,490816638,Etobicoke,38014
-43.7137473,-79.595922,2,New Providence Trail (710),a,New Providence Trail,9,22077925,579924710,Etobicoke,38014
-43.7137562,-79.5850472,2,Tidemore Avenue (860),a,Tidemore Avenue,12,5411995,420187860,Etobicoke,38014
 43.7138131,-79.5579836,2,Rexdale Boulevard (595),a,Rexdale Boulevard,330,5411761,425039595,Etobicoke,38014
-43.713815,-79.5962572,2,Dance Smartly Boulevard (629),a,Dance Smartly Boulevard,138,23996413,579922629,Etobicoke,38014
-43.713839,-79.5961553,2,Dance Smartly Boulevard (626),a,Dance Smartly Boulevard,138,23996413,579922626,Etobicoke,38014
-43.7138508,-79.5955145,2,New Providence Trail (708),a,New Providence Trail,9,22077925,579924708,Etobicoke,38014
-43.7138508,-79.5955145,2,New Providence Trail (709),a,New Providence Trail,9,22077925,579924709,Etobicoke,38014
-43.7138967,-79.5814575,2,Rexdale Boulevard (538),a,Rexdale Boulevard,330,5411761,560927538,Etobicoke,38014
-43.7138967,-79.5814575,2,Rexdale Boulevard (540),a,Rexdale Boulevard,330,5411761,560927540,Etobicoke,38014
-43.7139522,-79.5812175,2,Martin Grove Road (538),a,Martin Grove Road,689,5411724,93488538,Etobicoke,38014
-43.7139522,-79.5812175,2,Martin Grove Road (510),a,Martin Grove Road,689,5411724,579924510,Etobicoke,38014
-43.7139522,-79.5812175,2,Rexdale Boulevard (571),a,Rexdale Boulevard,330,5411761,94145571,Etobicoke,38014
-43.7139522,-79.5812175,2,Rexdale Boulevard (589),a,Rexdale Boulevard,330,5411761,94145589,Etobicoke,38014
-43.7139626,-79.5810565,2,Martin Grove Road (530),a,Martin Grove Road,689,5411724,93488530,Etobicoke,38014
-43.7139626,-79.5810565,2,Martin Grove Road (531),a,Martin Grove Road,689,5411724,93488531,Etobicoke,38014
-43.7139704,-79.5813015,2,Rexdale Boulevard (572),a,Rexdale Boulevard,330,5411761,94145572,Etobicoke,38014
-43.7139802,-79.5818292,2,Rexdale Boulevard (568),a,Rexdale Boulevard,330,5411761,94145568,Etobicoke,38014
-43.7139834,-79.5810666,2,Martin Grove Road (532),a,Martin Grove Road,689,5411724,93488532,Etobicoke,38014
-43.7139915,-79.5851449,2,Tidemore Avenue (687),a,Tidemore Avenue,12,5411995,96041687,Etobicoke,38014
-43.7140047,-79.5819355,2,Rexdale Boulevard (182),a,Rexdale Boulevard,330,5411761,420188182,Etobicoke,38014
-43.7140112,-79.5819637,2,Rexdale Boulevard (567),a,Rexdale Boulevard,330,5411761,94145567,Etobicoke,38014
-43.714018,-79.5812468,2,Martin Grove Road (537),a,Martin Grove Road,689,5411724,93488537,Etobicoke,38014
-43.7140232,-79.5942885,2,Highway 27 (526),a,Highway 27,185,5411524,579923526,Etobicoke,38014
-43.7140525,-79.5817014,2,Rexdale Boulevard (573),a,Rexdale Boulevard,330,5411761,94145573,Etobicoke,38014
-43.7140531,-79.594719,2,New Providence Trail (707),a,New Providence Trail,9,22077925,579924707,Etobicoke,38014
-43.7140531,-79.594719,2,New Providence Trail (715),a,New Providence Trail,9,22077925,579924715,Etobicoke,38014
-43.7140633,-79.5941201,2,Highway 27 (523),a,Highway 27,185,5411524,579923523,Etobicoke,38014
 43.7140645,-79.5919826,2,Queen's Plate Drive (091),a,Queen's Plate Drive,188,5411993,420188091,Etobicoke,38014
-43.7140808,-79.5818404,2,Rexdale Boulevard (623),a,Rexdale Boulevard,330,5411761,497595623,Etobicoke,38014
-43.7140842,-79.5893695,2,Precision Road (927),a,Precision Road,18,5411952,328756927,Etobicoke,38014
-43.7140842,-79.5893695,2,Precision Road (181),a,Precision Road,18,5411952,328757181,Etobicoke,38014
 43.7140924,-79.5963855,2,Dance Smartly Boulevard (628),a,Dance Smartly Boulevard,138,23996413,579922628,Etobicoke,38014
-43.7140926,-79.5818985,2,Rexdale Boulevard (574),a,Rexdale Boulevard,330,5411761,94145574,Etobicoke,38014
-43.7140997,-79.5821139,2,Rexdale Boulevard (566),a,Rexdale Boulevard,330,5411761,94145566,Etobicoke,38014
-43.7140997,-79.5821139,2,Rexdale Boulevard (575),a,Rexdale Boulevard,330,5411761,94145575,Etobicoke,38014
-43.7140997,-79.5821139,2,Rexdale Boulevard (413),a,Rexdale Boulevard,330,5411761,579925413,Etobicoke,38014
 43.7141169,-79.5962843,2,Dance Smartly Boulevard (627),a,Dance Smartly Boulevard,138,23996413,579922627,Etobicoke,38014
-43.714118,-79.5944638,2,New Providence Trail (714),a,New Providence Trail,9,22077925,579924714,Etobicoke,38014
-43.7141401,-79.5811355,2,Martin Grove Road (300),a,Martin Grove Road,689,5411724,497595300,Etobicoke,38014
-43.7141471,-79.5943443,2,Nearctic Drive (639),a,Nearctic Drive,12,5411994,490816639,Etobicoke,38014
-43.7141486,-79.5943435,2,Highway 27 (525),a,Highway 27,185,5411524,579923525,Etobicoke,38014
-43.7141486,-79.5943435,2,Highway 27 (532),a,Highway 27,185,5411524,579923532,Etobicoke,38014
-43.7141486,-79.5943435,2,Nearctic Drive (697),a,Nearctic Drive,12,5411994,579924697,Etobicoke,38014
-43.7141486,-79.5943435,2,New Providence Trail (713),a,New Providence Trail,9,22077925,579924713,Etobicoke,38014
-43.7141525,-79.5823536,2,Rexdale Boulevard (548),a,Rexdale Boulevard,330,5411761,560927548,Etobicoke,38014
-43.7141817,-79.5824859,2,Rexdale Boulevard (547),a,Rexdale Boulevard,330,5411761,560927547,Etobicoke,38014
 43.7141838,-79.5963684,2,Grandstand Entrance Road (831),a,Grandstand Entrance Road,133,5411989,473888831,Etobicoke,38014
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (151),a,Dance Smartly Boulevard,138,23996413,560928151,Etobicoke,38014
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (194),a,Dance Smartly Boulevard,138,23996413,560928194,Etobicoke,38014
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (196),a,Dance Smartly Boulevard,138,23996413,560928196,Etobicoke,38014
-43.7141933,-79.5941775,2,Highway 27 (524),a,Highway 27,185,5411524,579923524,Etobicoke,38014
-43.7141933,-79.5941775,2,Highway 27 (527),a,Highway 27,185,5411524,579923527,Etobicoke,38014
-43.7141933,-79.5941775,2,Nearctic Drive (696),a,Nearctic Drive,12,5411994,579924696,Etobicoke,38014
-43.7141933,-79.5941775,2,Nearctic Drive (700),a,Nearctic Drive,12,5411994,579924700,Etobicoke,38014
-43.7142212,-79.5826651,2,Rexdale Boulevard (546),a,Rexdale Boulevard,330,5411761,560927546,Etobicoke,38014
-43.7142279,-79.5813256,2,Martin Grove Road (536),a,Martin Grove Road,689,5411724,93488536,Etobicoke,38014
-43.7142311,-79.5940381,2,Nearctic Drive (699),a,Nearctic Drive,12,5411994,579924699,Etobicoke,38014
-43.7142413,-79.585211,2,Tidemore Avenue (861),a,Tidemore Avenue,12,5411995,420187861,Etobicoke,38014
-43.7142651,-79.5811923,2,Martin Grove Road (533),a,Martin Grove Road,689,5411724,93488533,Etobicoke,38014
-43.7142831,-79.5852221,2,Tidemore Avenue (688),a,Tidemore Avenue,12,5411995,96041688,Etobicoke,38014
-43.7143024,-79.5812935,2,Martin Grove Road (515),a,Martin Grove Road,689,5411724,93488515,Etobicoke,38014
-43.7143024,-79.5812935,2,Martin Grove Road (534),a,Martin Grove Road,689,5411724,93488534,Etobicoke,38014
-43.7143024,-79.5812935,2,Martin Grove Road (535),a,Martin Grove Road,689,5411724,93488535,Etobicoke,38014
-43.7143041,-79.5830411,2,Rexdale Boulevard (543),a,Rexdale Boulevard,330,5411761,560927543,Etobicoke,38014
-43.7143059,-79.5944185,2,Highway 27 (531),a,Highway 27,185,5411524,579923531,Etobicoke,38014
-43.7143216,-79.5852203,2,Tidemore Avenue (862),a,Tidemore Avenue,12,5411995,420187862,Etobicoke,38014
-43.7143328,-79.5936289,2,Nearctic Drive (695),a,Nearctic Drive,12,5411994,579924695,Etobicoke,38014
-43.7143328,-79.5936289,2,Nearctic Drive (698),a,Nearctic Drive,12,5411994,579924698,Etobicoke,38014
-43.7143388,-79.5944342,2,Highway 27 (571),a,Highway 27,185,5411524,490816571,Etobicoke,38014
-43.7143487,-79.5942468,2,Highway 27 (528),a,Highway 27,185,5411524,579923528,Etobicoke,38014
-43.7143556,-79.5813227,2,Martin Grove Road (516),a,Martin Grove Road,689,5411724,93488516,Etobicoke,38014
-43.7143556,-79.5813227,2,Martin Grove Road (520),a,Martin Grove Road,689,5411724,93488520,Etobicoke,38014
-43.7144022,-79.5813457,2,Martin Grove Road (298),a,Martin Grove Road,689,5411724,497595298,Etobicoke,38014
-43.714438,-79.5836334,2,Rexdale Boulevard (541),a,Rexdale Boulevard,330,5411761,560927541,Etobicoke,38014
-43.714463,-79.5852135,2,Tidemore Avenue (689),a,Tidemore Avenue,12,5411995,96041689,Etobicoke,38014
-43.7144705,-79.583776,2,Rexdale Boulevard (544),a,Rexdale Boulevard,330,5411761,560927544,Etobicoke,38014
-43.7145117,-79.5928104,2,Nearctic Drive (642),a,Nearctic Drive,12,5411994,490816642,Etobicoke,38014
-43.7145131,-79.5928043,2,Nearctic Drive (643),a,Nearctic Drive,12,5411994,490816643,Etobicoke,38014
-43.7145431,-79.5840937,2,Rexdale Boulevard (545),a,Rexdale Boulevard,330,5411761,560927545,Etobicoke,38014
-43.7145598,-79.592198,2,Queen's Plate Drive (157),a,Queen's Plate Drive,188,5411993,579925157,Etobicoke,38014
-43.7145822,-79.5945423,2,Highway 27 (573),a,Highway 27,185,5411524,490816573,Etobicoke,38014
-43.7146232,-79.594369,2,Highway 27 (567),a,Highway 27,185,5411524,490816567,Etobicoke,38014
-43.7146445,-79.5922349,2,Queen's Plate Drive (118),a,Queen's Plate Drive,188,5411993,96040118,Etobicoke,38014
-43.7146445,-79.5922349,2,Queen's Plate Drive (148),a,Queen's Plate Drive,188,5411993,96040148,Etobicoke,38014
-43.7146445,-79.5922349,2,Nearctic Drive (641),a,Nearctic Drive,12,5411994,490816641,Etobicoke,38014
-43.7146521,-79.5851625,2,Tidemore Avenue (690),a,Tidemore Avenue,12,5411995,96041690,Etobicoke,38014
-43.7146564,-79.5845898,2,Rexdale Boulevard (542),a,Rexdale Boulevard,330,5411761,560927542,Etobicoke,38014
-43.7146887,-79.5814692,2,Martin Grove Road (299),a,Martin Grove Road,689,5411724,497595299,Etobicoke,38014
-43.7147027,-79.5848099,2,Rexdale Boulevard (549),a,Rexdale Boulevard,330,5411761,560927549,Etobicoke,38014
-43.7147027,-79.5848099,2,Rexdale Boulevard (551),a,Rexdale Boulevard,330,5411761,560927551,Etobicoke,38014
-43.7147325,-79.5922712,2,Queen's Plate Drive (158),a,Queen's Plate Drive,188,5411993,579925158,Etobicoke,38014
-43.7147489,-79.58503,2,Rexdale Boulevard (550),a,Rexdale Boulevard,330,5411761,560927550,Etobicoke,38014
-43.7147783,-79.5851539,2,Rexdale Boulevard (578),a,Rexdale Boulevard,330,5411761,94145578,Etobicoke,38014
-43.7147783,-79.5851539,2,Rexdale Boulevard (414),a,Rexdale Boulevard,330,5411761,579925414,Etobicoke,38014
-43.7147783,-79.5851539,2,Tidemore Avenue (691),a,Tidemore Avenue,12,5411995,96041691,Etobicoke,38014
-43.7148247,-79.5853512,2,Rexdale Boulevard (579),a,Rexdale Boulevard,330,5411761,94145579,Etobicoke,38014
 43.7148601,-79.5967205,2,Grandstand Entrance Road (817),a,Grandstand Entrance Road,133,5411989,473888817,Etobicoke,38014
 43.7148601,-79.5967205,2,Grandstand Entrance Road (832),a,Grandstand Entrance Road,133,5411989,473888832,Etobicoke,38014
 43.7148601,-79.5967205,2,Grandstand Entrance Road (833),a,Grandstand Entrance Road,133,5411989,473888833,Etobicoke,38014
@@ -1519,69 +1304,39 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7148664,-79.5945859,2,Highway 27 (568),a,Highway 27,185,5411524,490816568,Etobicoke,38014
 43.7148664,-79.5945859,2,Highway 27 (569),a,Highway 27,185,5411524,490816569,Etobicoke,38014
 43.7148664,-79.5945859,2,Highway 27 (572),a,Highway 27,185,5411524,490816572,Etobicoke,38014
-43.7148721,-79.5815723,2,Martin Grove Road (810),a,Martin Grove Road,689,5411724,486821810,Etobicoke,38014
-43.7148826,-79.5897056,2,Precision Road (182),a,Precision Road,18,5411952,328757182,Etobicoke,38014
-43.7148826,-79.5897056,2,Precision Road (184),a,Precision Road,18,5411952,328757184,Etobicoke,38014
 43.714894,-79.5968004,2,Dance Smartly Boulevard (597),a,Dance Smartly Boulevard,138,23996413,579922597,Etobicoke,38014
 43.7148955,-79.5968225,2,Grandstand Entrance Road (820),a,Grandstand Entrance Road,133,5411989,473888820,Etobicoke,38014
-43.7149111,-79.5857187,2,Rexdale Boulevard (487),a,Rexdale Boulevard,330,5411761,506059487,Etobicoke,38014
 43.7149392,-79.5966981,2,Grandstand Entrance Road (834),a,Grandstand Entrance Road,133,5411989,473888834,Etobicoke,38014
 43.7149392,-79.5966981,2,Dance Smartly Boulevard (154),a,Dance Smartly Boulevard,138,23996413,560928154,Etobicoke,38014
-43.7149659,-79.5859516,2,Rexdale Boulevard (486),a,Rexdale Boulevard,330,5411761,506059486,Etobicoke,38014
-43.715001,-79.5923821,2,Queen's Plate Drive (105),a,Queen's Plate Drive,188,5411993,420188105,Etobicoke,38014
-43.7150688,-79.5863894,2,Rexdale Boulevard (513),a,Rexdale Boulevard,330,5411761,389742513,Etobicoke,38014
-43.7150853,-79.5864594,2,Rexdale Boulevard (854),a,Rexdale Boulevard,330,5411761,486821854,Etobicoke,38014
 43.7151004,-79.5969015,2,Dance Smartly Boulevard (596),a,Dance Smartly Boulevard,138,23996413,579922596,Etobicoke,38014
 43.7151241,-79.5967855,2,Dance Smartly Boulevard (598),a,Dance Smartly Boulevard,138,23996413,579922598,Etobicoke,38014
-43.7151536,-79.5817023,2,Martin Grove Road (904),a,Martin Grove Road,689,5411724,504637904,Etobicoke,38014
 43.7151671,-79.5969563,2,Grandstand Entrance Road (819),a,Grandstand Entrance Road,133,5411989,473888819,Etobicoke,38014
-43.7151698,-79.5898265,2,Precision Road (250),a,Precision Road,18,5411952,420188250,Etobicoke,38014
 43.715174,-79.5969352,2,Dance Smartly Boulevard (595),a,Dance Smartly Boulevard,138,23996413,579922595,Etobicoke,38014
 43.7151962,-79.5968159,2,Grandstand Entrance Road (835),a,Grandstand Entrance Road,133,5411989,473888835,Etobicoke,38014
 43.7152032,-79.5968202,2,Dance Smartly Boulevard (599),a,Dance Smartly Boulevard,138,23996413,579922599,Etobicoke,38014
-43.7152275,-79.5898508,2,Precision Road (768),a,Precision Road,18,5411952,473888768,Etobicoke,38014
-43.715239,-79.5817351,2,Martin Grove Road (809),a,Martin Grove Road,689,5411724,486821809,Etobicoke,38014
 43.7152404,-79.5969078,2,Grandstand Entrance Road (818),a,Grandstand Entrance Road,133,5411989,473888818,Etobicoke,38014
 43.7152404,-79.5969078,2,Grandstand Entrance Road (836),a,Grandstand Entrance Road,133,5411989,473888836,Etobicoke,38014
-43.7152439,-79.5871346,2,Rexdale Boulevard (191),a,Rexdale Boulevard,330,5411761,420188191,Etobicoke,38014
-43.7152691,-79.5872416,2,Rexdale Boulevard (514),a,Rexdale Boulevard,330,5411761,389742514,Etobicoke,38014
-43.7152881,-79.5925006,2,Queen's Plate Drive (144),a,Queen's Plate Drive,188,5411993,96040144,Etobicoke,38014
 43.715303,-79.5969944,2,Dance Smartly Boulevard (593),a,Dance Smartly Boulevard,138,23996413,579922593,Etobicoke,38014
 43.715303,-79.5969944,2,Dance Smartly Boulevard (594),a,Dance Smartly Boulevard,138,23996413,579922594,Etobicoke,38014
 43.7153328,-79.5968769,2,Dance Smartly Boulevard (600),a,Dance Smartly Boulevard,138,23996413,579922600,Etobicoke,38014
 43.7153328,-79.5968769,2,Dance Smartly Boulevard (601),a,Dance Smartly Boulevard,138,23996413,579922601,Etobicoke,38014
-43.7153764,-79.5898594,2,Precision Road (769),a,Precision Road,18,5411952,473888769,Etobicoke,38014
-43.7153859,-79.5817918,2,Martin Grove Road (905),a,Martin Grove Road,689,5411724,504637905,Etobicoke,38014
 43.7154582,-79.5970655,2,Dance Smartly Boulevard (592),a,Dance Smartly Boulevard,138,23996413,579922592,Etobicoke,38014
 43.7154652,-79.5969946,2,Grandstand Entrance Road (813),a,Grandstand Entrance Road,133,5411989,473888813,Etobicoke,38014
 43.7154652,-79.5969946,2,Grandstand Entrance Road (840),a,Grandstand Entrance Road,133,5411989,473888840,Etobicoke,38014
-43.7154755,-79.5881197,2,Rexdale Boulevard (192),a,Rexdale Boulevard,330,5411761,420188192,Etobicoke,38014
 43.7154885,-79.5969451,2,Dance Smartly Boulevard (602),a,Dance Smartly Boulevard,138,23996413,579922602,Etobicoke,38014
-43.7155078,-79.5882572,2,Rexdale Boulevard (747),a,Rexdale Boulevard,330,5411761,438950747,Etobicoke,38014
 43.7155116,-79.59709,2,Dance Smartly Boulevard (591),a,Dance Smartly Boulevard,138,23996413,579922591,Etobicoke,38014
 43.7155117,-79.5970861,2,Grandstand Entrance Road (816),a,Grandstand Entrance Road,133,5411989,473888816,Etobicoke,38014
-43.7155148,-79.5818575,2,Martin Grove Road (903),a,Martin Grove Road,689,5411724,504637903,Etobicoke,38014
 43.7155312,-79.5948935,2,Highway 27 (744),a,Highway 27,185,5411524,92429744,Etobicoke,38014
 43.7155312,-79.5948935,2,Highway 27 (804),a,Highway 27,185,5411524,92429804,Etobicoke,38014
 43.7155312,-79.5948935,2,Highway 27 (529),a,Highway 27,185,5411524,579923529,Etobicoke,38014
-43.7155315,-79.5898079,2,Precision Road (770),a,Precision Road,18,5411952,473888770,Etobicoke,38014
 43.7155334,-79.5969648,2,Dance Smartly Boulevard (603),a,Dance Smartly Boulevard,138,23996413,579922603,Etobicoke,38014
 43.7155373,-79.5969738,2,Grandstand Entrance Road (841),a,Grandstand Entrance Road,133,5411989,473888841,Etobicoke,38014
-43.7155761,-79.5885478,2,Rexdale Boulevard (023),a,Rexdale Boulevard,330,5411761,328757023,Etobicoke,38014
 43.7155776,-79.6033069,2,Queen's Plate Drive (164),a,Queen's Plate Drive,188,5411993,579925164,Etobicoke,38014
 43.7155788,-79.603183,2,Queen's Plate Drive (165),a,Queen's Plate Drive,188,5411993,579925165,Etobicoke,38014
-43.7155858,-79.5926353,2,Queen's Plate Drive (635),a,Queen's Plate Drive,188,5411993,297388635,Etobicoke,38014
-43.7155858,-79.581889,2,Martin Grove Road (521),a,Martin Grove Road,689,5411724,93488521,Etobicoke,38014
-43.7155928,-79.5886188,2,Rexdale Boulevard (746),a,Rexdale Boulevard,330,5411761,438950746,Etobicoke,38014
 43.7155997,-79.603087,2,Queen's Plate Drive (166),a,Queen's Plate Drive,188,5411993,579925166,Etobicoke,38014
 43.7156138,-79.6034355,2,Queen's Plate Drive (163),a,Queen's Plate Drive,188,5411993,579925163,Etobicoke,38014
-43.7156497,-79.5897474,2,Precision Road (854),a,Precision Road,18,5411952,335002854,Etobicoke,38014
 43.7156563,-79.6030282,2,Queen's Plate Drive (167),a,Queen's Plate Drive,188,5411993,579925167,Etobicoke,38014
 43.7156707,-79.6035008,2,Queen's Plate Drive (162),a,Queen's Plate Drive,188,5411993,579925162,Etobicoke,38014
-43.7156896,-79.581935,2,Martin Grove Road (522),a,Martin Grove Road,689,5411724,93488522,Etobicoke,38014
-43.7157201,-79.589712,2,Precision Road (772),a,Precision Road,18,5411952,473888772,Etobicoke,38014
-43.7157246,-79.5891794,2,Rexdale Boulevard (193),a,Rexdale Boulevard,330,5411761,420188193,Etobicoke,38014
-43.7157246,-79.5891794,2,Rexdale Boulevard (411),a,Rexdale Boulevard,330,5411761,579925411,Etobicoke,38014
 43.7157554,-79.5949566,2,Highway 27 (745),a,Highway 27,185,5411524,92429745,Etobicoke,38014
 43.7157656,-79.5972035,2,Dance Smartly Boulevard (590),a,Dance Smartly Boulevard,138,23996413,579922590,Etobicoke,38014
 43.7157666,-79.5971981,2,Grandstand Entrance Road (815),a,Grandstand Entrance Road,133,5411989,473888815,Etobicoke,38014
@@ -1590,31 +1345,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7158287,-79.5971529,2,Grandstand Entrance Road (814),a,Grandstand Entrance Road,133,5411989,473888814,Etobicoke,38014
 43.7158287,-79.5971529,2,Grandstand Entrance Road (843),a,Grandstand Entrance Road,133,5411989,473888843,Etobicoke,38014
 43.7158287,-79.5971529,2,Grandstand Entrance Road (844),a,Grandstand Entrance Road,133,5411989,473888844,Etobicoke,38014
-43.7158326,-79.5927011,2,Queen's Plate Drive (142),a,Queen's Plate Drive,188,5411993,96040142,Etobicoke,38014
-43.7158326,-79.5927011,2,Queen's Plate Drive (158),a,Queen's Plate Drive,188,5411993,96040158,Etobicoke,38014
-43.7158326,-79.5927011,2,Queen's Plate Drive (160),a,Queen's Plate Drive,188,5411993,96040160,Etobicoke,38014
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (589),a,Dance Smartly Boulevard,138,23996413,579922589,Etobicoke,38014
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (605),a,Dance Smartly Boulevard,138,23996413,579922605,Etobicoke,38014
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (606),a,Dance Smartly Boulevard,138,23996413,579922606,Etobicoke,38014
-43.7158412,-79.5896754,2,Rexdale Boulevard (339),a,Rexdale Boulevard,330,5411761,94145339,Etobicoke,38014
-43.7158412,-79.5896754,2,Rexdale Boulevard (476),a,Rexdale Boulevard,330,5411761,94145476,Etobicoke,38014
-43.7158412,-79.5896754,2,Rexdale Boulevard (412),a,Rexdale Boulevard,330,5411761,579925412,Etobicoke,38014
-43.7158412,-79.5896754,2,Precision Road (771),a,Precision Road,18,5411952,473888771,Etobicoke,38014
-43.7158906,-79.5927715,2,Queen's Plate Drive (156),a,Queen's Plate Drive,188,5411993,96040156,Etobicoke,38014
-43.7158936,-79.5926137,2,Queen's Plate Drive (161),a,Queen's Plate Drive,188,5411993,96040161,Etobicoke,38014
 43.715918,-79.5951702,2,Highway 27 (802),a,Highway 27,185,5411524,92429802,Etobicoke,38014
-43.7159552,-79.5903723,2,Rexdale Boulevard (475),a,Rexdale Boulevard,330,5411761,94145475,Etobicoke,38014
 43.7159884,-79.597232,2,Dance Smartly Boulevard (607),a,Dance Smartly Boulevard,138,23996413,579922607,Etobicoke,38014
-43.7160369,-79.5902863,2,Rexdale Boulevard (745),a,Rexdale Boulevard,330,5411761,438950745,Etobicoke,38014
-43.7160453,-79.5927667,2,Queen's Plate Drive (155),a,Queen's Plate Drive,188,5411993,96040155,Etobicoke,38014
-43.7160519,-79.5903331,2,Rexdale Boulevard (340),a,Rexdale Boulevard,330,5411761,94145340,Etobicoke,38014
 43.7161054,-79.5973191,2,Grandstand Entrance Road (845),a,Grandstand Entrance Road,133,5411989,473888845,Etobicoke,38014
 43.7161054,-79.5973191,2,Dance Smartly Boulevard (165),a,Dance Smartly Boulevard,138,23996413,560928165,Etobicoke,38014
-43.7161471,-79.582138,2,Martin Grove Road (181),a,Martin Grove Road,689,5411724,420188181,Etobicoke,38014
 43.7161733,-79.6030473,2,Queen's Plate Drive (168),a,Queen's Plate Drive,188,5411993,579925168,Etobicoke,38014
-43.7161742,-79.5913476,2,Rexdale Boulevard (148),a,Rexdale Boulevard,330,5411761,420188148,Etobicoke,38014
 43.7161972,-79.5953333,2,Highway 27 (799),a,Highway 27,185,5411524,92429799,Etobicoke,38014
-43.7162128,-79.5821671,2,Martin Grove Road (819),a,Martin Grove Road,689,5411724,297386819,Etobicoke,38014
 43.7162234,-79.6030914,2,Queen's Plate Drive (169),a,Queen's Plate Drive,188,5411993,579925169,Etobicoke,38014
 43.7162297,-79.5974466,2,Dance Smartly Boulevard (608),a,Dance Smartly Boulevard,138,23996413,579922608,Etobicoke,38014
 43.71626,-79.6031627,2,Queen's Plate Drive (170),a,Queen's Plate Drive,188,5411993,579925170,Etobicoke,38014
@@ -1624,20 +1363,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7162843,-79.6033478,2,Queen's Plate Drive (160),a,Queen's Plate Drive,188,5411993,579925160,Etobicoke,38014
 43.7162843,-79.6033478,2,Queen's Plate Drive (171),a,Queen's Plate Drive,188,5411993,579925171,Etobicoke,38014
 43.7162843,-79.6033478,2,Queen's Plate Drive (197),a,Queen's Plate Drive,188,5411993,579925197,Etobicoke,38014
-43.7163125,-79.5913938,2,Rexdale Boulevard (297),a,Rexdale Boulevard,330,5411761,297387297,Etobicoke,38014
-43.7163197,-79.5925958,2,Queen's Plate Drive (162),a,Queen's Plate Drive,188,5411993,96040162,Etobicoke,38014
-43.7163389,-79.5927419,2,Queen's Plate Drive (153),a,Queen's Plate Drive,188,5411993,96040153,Etobicoke,38014
 43.7163468,-79.5975989,2,Grandstand Entrance Road (846),a,Grandstand Entrance Road,133,5411989,473888846,Etobicoke,38014
 43.7163468,-79.5975989,2,Dance Smartly Boulevard (166),a,Dance Smartly Boulevard,138,23996413,560928166,Etobicoke,38014
 43.7163776,-79.6035154,2,Queen's Plate Drive (186),a,Queen's Plate Drive,188,5411993,579925186,Etobicoke,38014
 43.7163827,-79.6033515,2,Queen's Plate Drive (198),a,Queen's Plate Drive,188,5411993,579925198,Etobicoke,38014
-43.7164147,-79.5924207,2,Rexdale Boulevard (618),a,Rexdale Boulevard,330,5411761,490816618,Etobicoke,38014
 43.7164284,-79.5977591,2,Dance Smartly Boulevard (609),a,Dance Smartly Boulevard,138,23996413,579922609,Etobicoke,38014
-43.7164647,-79.5926437,2,Rexdale Boulevard (474),a,Rexdale Boulevard,330,5411761,94145474,Etobicoke,38014
-43.7164647,-79.5926437,2,Rexdale Boulevard (507),a,Rexdale Boulevard,330,5411761,94145507,Etobicoke,38014
-43.7164647,-79.5926437,2,Queen's Plate Drive (150),a,Queen's Plate Drive,188,5411993,96040150,Etobicoke,38014
-43.7164647,-79.5926437,2,Queen's Plate Drive (164),a,Queen's Plate Drive,188,5411993,96040164,Etobicoke,38014
-43.7164647,-79.5926437,2,Queen's Plate Drive (187),a,Queen's Plate Drive,188,5411993,96040187,Etobicoke,38014
 43.7164668,-79.6109198,2,Woodbine Track Access (237),a,Woodbine Track Access,29,5411991,96016237,Etobicoke,38014
 43.7164678,-79.6108624,2,Woodbine Track Access (231),a,Woodbine Track Access,29,5411991,96016231,Etobicoke,38014
 43.7164941,-79.5979259,2,Dance Smartly Boulevard (610),a,Dance Smartly Boulevard,138,23996413,579922610,Etobicoke,38014
@@ -1645,26 +1375,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.716495,-79.5952646,2,Highway 27 (746),a,Highway 27,185,5411524,92429746,Etobicoke,38014
 43.7165074,-79.6095668,2,Woodbine Track Access (077),a,Woodbine Track Access,29,5411991,415121077,Etobicoke,38014
 43.7165106,-79.597946,2,Grandstand Entrance Road (847),a,Grandstand Entrance Road,133,5411989,473888847,Etobicoke,38014
-43.7165266,-79.5928951,2,Rexdale Boulevard (506),a,Rexdale Boulevard,330,5411761,94145506,Etobicoke,38014
 43.7165291,-79.6088427,2,Woodbine Track Access (229),a,Woodbine Track Access,29,5411991,96016229,Etobicoke,38014
 43.7165291,-79.6088427,2,Woodbine Track Access (248),a,Woodbine Track Access,29,5411991,96016248,Etobicoke,38014
 43.7165291,-79.6088427,2,Northernette Heights (645),a,Northernette Heights,22,23996410,560927645,Etobicoke,38014
 43.7165391,-79.6086413,2,Woodbine Track Access (076),a,Woodbine Track Access,29,5411991,415121076,Etobicoke,38014
 43.7165648,-79.6076527,2,Woodbine Track Access (075),a,Woodbine Track Access,29,5411991,415121075,Etobicoke,38014
-43.7165688,-79.592437,2,Rexdale Boulevard (615),a,Rexdale Boulevard,330,5411761,490816615,Etobicoke,38014
 43.7165847,-79.6069888,2,Woodbine Track Access (227),a,Woodbine Track Access,29,5411991,96016227,Etobicoke,38014
-43.7166071,-79.5925928,2,Rexdale Boulevard (341),a,Rexdale Boulevard,330,5411761,94145341,Etobicoke,38014
-43.7166071,-79.5925928,2,Rexdale Boulevard (471),a,Rexdale Boulevard,330,5411761,94145471,Etobicoke,38014
-43.7166071,-79.5925928,2,Queen's Plate Drive (115),a,Queen's Plate Drive,188,5411993,96040115,Etobicoke,38014
-43.7166071,-79.5925928,2,Queen's Plate Drive (186),a,Queen's Plate Drive,188,5411993,96040186,Etobicoke,38014
-43.7166133,-79.5823447,2,Martin Grove Road (523),a,Martin Grove Road,689,5411724,93488523,Etobicoke,38014
 43.7166379,-79.6088439,2,Woodbine Track Access (080),a,Woodbine Track Access,29,5411991,415121080,Etobicoke,38014
 43.7166379,-79.6088439,2,Northernette Heights (650),a,Northernette Heights,22,23996410,560927650,Etobicoke,38014
 43.7166405,-79.6066626,2,Woodbine Track Access (225),a,Woodbine Track Access,29,5411991,96016225,Etobicoke,38014
 43.7166589,-79.5953199,2,Highway 27 (748),a,Highway 27,185,5411524,92429748,Etobicoke,38014
 43.7166671,-79.5928494,2,Rexdale Boulevard (472),a,Rexdale Boulevard,330,5411761,94145472,Etobicoke,38014
-43.7166756,-79.5823728,2,Martin Grove Road (524),a,Martin Grove Road,689,5411724,93488524,Etobicoke,38014
-43.7166756,-79.5823728,2,Martin Grove Road (520),a,Martin Grove Road,689,5411724,579924520,Etobicoke,38014
 43.7166894,-79.5925882,2,Queen's Plate Drive (112),a,Queen's Plate Drive,188,5411993,96040112,Etobicoke,38014
 43.7167128,-79.5955431,2,Highway 27 (797),a,Highway 27,185,5411524,92429797,Etobicoke,38014
 43.7167369,-79.6062223,2,Woodbine Track Access (074),a,Woodbine Track Access,29,5411991,415121074,Etobicoke,38014
@@ -1677,7 +1398,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.716784,-79.5990643,2,Dance Smartly Boulevard (137),a,Dance Smartly Boulevard,138,23996413,560928137,Etobicoke,38014
 43.716784,-79.5990643,2,Dance Smartly Boulevard (169),a,Dance Smartly Boulevard,138,23996413,560928169,Etobicoke,38014
 43.716784,-79.5990643,2,Dance Smartly Boulevard (640),a,Dance Smartly Boulevard,138,23996413,579922640,Etobicoke,38014
-43.7167947,-79.5824285,2,Martin Grove Road (320),a,Martin Grove Road,689,5411724,497595320,Etobicoke,38014
 43.7168392,-79.5941932,2,Rexdale Boulevard (393),a,Rexdale Boulevard,330,5411761,94145393,Etobicoke,38014
 43.7168392,-79.5941932,2,Rexdale Boulevard (505),a,Rexdale Boulevard,330,5411761,94145505,Etobicoke,38014
 43.7168394,-79.5991325,2,Grandstand Entrance Road (850),a,Grandstand Entrance Road,133,5411989,473888850,Etobicoke,38014
@@ -1753,15 +1473,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.717215,-79.6006182,2,Dance Smartly Boulevard (631),a,Dance Smartly Boulevard,138,23996413,579922631,Etobicoke,38014
 43.7172324,-79.6010316,2,Grandstand Entrance Road (806),a,Grandstand Entrance Road,133,5411989,473888806,Etobicoke,38014
 43.7172372,-79.6010293,2,Dance Smartly Boulevard (663),a,Dance Smartly Boulevard,138,23996413,579922663,Etobicoke,38014
-43.7172441,-79.5826383,2,Martin Grove Road (295),a,Martin Grove Road,689,5411724,497595295,Etobicoke,38014
-43.7172441,-79.5826383,2,Martin Grove Road (321),a,Martin Grove Road,689,5411724,497595321,Etobicoke,38014
 43.7172529,-79.6009296,2,Grandstand Entrance Road (803),a,Grandstand Entrance Road,133,5411989,473888803,Etobicoke,38014
 43.7172529,-79.6009296,2,Grandstand Entrance Road (855),a,Grandstand Entrance Road,133,5411989,473888855,Etobicoke,38014
 43.7172529,-79.6009296,2,Grandstand Entrance Road (856),a,Grandstand Entrance Road,133,5411989,473888856,Etobicoke,38014
 43.7172537,-79.5959037,2,Rexdale Boulevard (382),a,Rexdale Boulevard,330,5411761,94145382,Etobicoke,38014
-43.7172548,-79.5900651,2,Jeffcoat Drive (312),a,Jeffcoat Drive,91,5411921,95635312,Etobicoke,38014
-43.7172734,-79.590151,2,Jeffcoat Drive (313),a,Jeffcoat Drive,91,5411921,95635313,Etobicoke,38014
-43.7172734,-79.5899621,2,Jeffcoat Drive (311),a,Jeffcoat Drive,91,5411921,95635311,Etobicoke,38014
 43.7172794,-79.5954757,2,Rexdale Boulevard (586),a,Rexdale Boulevard,330,5411761,94145586,Etobicoke,38014
 43.717306,-79.6009917,2,Grandstand Entrance Road (857),a,Grandstand Entrance Road,133,5411989,473888857,Etobicoke,38014
 43.717306,-79.6009917,2,Dance Smartly Boulevard (178),a,Dance Smartly Boulevard,138,23996413,560928178,Etobicoke,38014
@@ -1771,19 +1486,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7173121,-79.5956068,2,Rexdale Boulevard (498),a,Rexdale Boulevard,330,5411761,94145498,Etobicoke,38014
 43.7173121,-79.5956068,2,Rexdale Boulevard (587),a,Rexdale Boulevard,330,5411761,94145587,Etobicoke,38014
 43.7173316,-79.6013944,2,Dance Smartly Boulevard (662),a,Dance Smartly Boulevard,138,23996413,579922662,Etobicoke,38014
-43.71734,-79.5871645,2,Rosefair Crescent (258),a,Rosefair Crescent,13,5412307,97644258,Etobicoke,38014
-43.7173416,-79.5897218,2,Jeffcoat Drive (310),a,Jeffcoat Drive,91,5411921,95635310,Etobicoke,38014
-43.7173462,-79.5870444,2,Rosefair Crescent (255),a,Rosefair Crescent,13,5412307,97644255,Etobicoke,38014
 43.7173639,-79.5958029,2,Highway 27 (917),a,Highway 27,185,5411524,92429917,Etobicoke,38014
 43.7173639,-79.5958029,2,Highway 27 (921),a,Highway 27,185,5411524,92429921,Etobicoke,38014
 43.7173639,-79.5958029,2,Rexdale Boulevard (499),a,Rexdale Boulevard,330,5411761,94145499,Etobicoke,38014
 43.7173639,-79.5958029,2,Rexdale Boulevard (502),a,Rexdale Boulevard,330,5411761,94145502,Etobicoke,38014
-43.7173664,-79.5901939,2,Jeffcoat Drive (314),a,Jeffcoat Drive,91,5411921,95635314,Etobicoke,38014
 43.7173681,-79.6015466,2,Grandstand Entrance Road (807),a,Grandstand Entrance Road,133,5411989,473888807,Etobicoke,38014
 43.7173706,-79.6015454,2,Dance Smartly Boulevard (586),a,Dance Smartly Boulevard,138,23996413,579922586,Etobicoke,38014
 43.7173706,-79.6015454,2,Dance Smartly Boulevard (661),a,Dance Smartly Boulevard,138,23996413,579922661,Etobicoke,38014
 43.7173706,-79.6015454,2,Glorious Song Way (363),a,Glorious Song Way,9,23996416,579923363,Etobicoke,38014
-43.7173959,-79.5872332,2,Rosefair Crescent (260),a,Rosefair Crescent,13,5412307,97644260,Etobicoke,38014
 43.7174004,-79.6013628,2,Dance Smartly Boulevard (615),a,Dance Smartly Boulevard,138,23996413,579922615,Etobicoke,38014
 43.717402,-79.5959616,2,Rexdale Boulevard (503),a,Rexdale Boulevard,330,5411761,94145503,Etobicoke,38014
 43.7174033,-79.6016808,2,Dance Smartly Boulevard (585),a,Dance Smartly Boulevard,138,23996413,579922585,Etobicoke,38014
@@ -1798,7 +1508,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7174795,-79.5958512,2,Highway 27 (920),a,Highway 27,185,5411524,92429920,Etobicoke,38014
 43.7174805,-79.6014938,2,Glorious Song Way (364),a,Glorious Song Way,9,23996416,579923364,Etobicoke,38014
 43.7174842,-79.5926636,2,Queen's Plate Drive (105),a,Queen's Plate Drive,188,5411993,96040105,Etobicoke,38014
-43.7175013,-79.5872675,2,Rosefair Crescent (263),a,Rosefair Crescent,13,5412307,97644263,Etobicoke,38014
 43.7175096,-79.602122,2,Dance Smartly Boulevard (584),a,Dance Smartly Boulevard,138,23996413,579922584,Etobicoke,38014
 43.7175096,-79.602122,2,Dance Smartly Boulevard (669),a,Dance Smartly Boulevard,138,23996413,579922669,Etobicoke,38014
 43.7175165,-79.6021098,2,Grandstand Entrance Road (805),a,Grandstand Entrance Road,133,5411989,473888805,Etobicoke,38014
@@ -1819,7 +1528,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7176751,-79.6024661,2,Dance Smartly Boulevard (641),a,Dance Smartly Boulevard,138,23996413,579922641,Etobicoke,38014
 43.7176751,-79.6024661,2,Dance Smartly Boulevard (660),a,Dance Smartly Boulevard,138,23996413,579922660,Etobicoke,38014
 43.7176797,-79.6028891,2,Grandstand Entrance Road (802),a,Grandstand Entrance Road,133,5411989,473888802,Etobicoke,38014
-43.7176812,-79.5850102,2,Rosefair Crescent (252),a,Rosefair Crescent,13,5412307,97644252,Etobicoke,38014
 43.7176892,-79.6035692,2,Queen's Plate Drive (184),a,Queen's Plate Drive,188,5411993,579925184,Etobicoke,38014
 43.7176893,-79.6034012,2,Queen's Plate Drive (200),a,Queen's Plate Drive,188,5411993,579925200,Etobicoke,38014
 43.717695,-79.6030208,2,Dance Smartly Boulevard (654),a,Dance Smartly Boulevard,138,23996413,579922654,Etobicoke,38014
@@ -1828,7 +1536,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7177043,-79.6027862,2,Grandstand Entrance Road (863),a,Grandstand Entrance Road,133,5411989,473888863,Etobicoke,38014
 43.7177103,-79.603402,2,Queen's Plate Drive (201),a,Queen's Plate Drive,188,5411993,579925201,Etobicoke,38014
 43.7177185,-79.603236,2,Dance Smartly Boulevard (653),a,Dance Smartly Boulevard,138,23996413,579922653,Etobicoke,38014
-43.7177185,-79.5848042,2,Rosefair Crescent (249),a,Rosefair Crescent,13,5412307,97644249,Etobicoke,38014
 43.7177186,-79.6032548,2,Dance Smartly Boulevard (652),a,Dance Smartly Boulevard,138,23996413,579922652,Etobicoke,38014
 43.717719,-79.60334,2,Dance Smartly Boulevard (651),a,Dance Smartly Boulevard,138,23996413,579922651,Etobicoke,38014
 43.7177193,-79.6034023,2,Queen's Plate Drive (202),a,Queen's Plate Drive,188,5411993,579925202,Etobicoke,38014
@@ -1844,7 +1551,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7177228,-79.6041427,2,Dance Smartly Boulevard (577),a,Dance Smartly Boulevard,138,23996413,579922577,Etobicoke,38014
 43.7177242,-79.6048952,2,Dance Smartly Boulevard (571),a,Dance Smartly Boulevard,138,23996413,579922571,Etobicoke,38014
 43.7177247,-79.6046976,2,Dance Smartly Boulevard (570),a,Dance Smartly Boulevard,138,23996413,579922570,Etobicoke,38014
-43.7177262,-79.5903312,2,Jeffcoat Drive (315),a,Jeffcoat Drive,91,5411921,95635315,Etobicoke,38014
 43.7177273,-79.5972543,2,Rexdale Boulevard (504),a,Rexdale Boulevard,330,5411761,94145504,Etobicoke,38014
 43.7177273,-79.5972543,2,Rexdale Boulevard (595),a,Rexdale Boulevard,330,5411761,94145595,Etobicoke,38014
 43.7177295,-79.6033017,2,Grandstand Entrance Road (315),a,Grandstand Entrance Road,133,5411989,530240315,Etobicoke,38014
@@ -1857,7 +1563,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7177433,-79.6037494,2,Grandstand Entrance Road (799),a,Grandstand Entrance Road,133,5411989,473888799,Etobicoke,38014
 43.717744,-79.603651,2,Grandstand Entrance Road (316),a,Grandstand Entrance Road,133,5411989,530240316,Etobicoke,38014
 43.7177445,-79.6035715,2,Grandstand Entrance Road (800),a,Grandstand Entrance Road,133,5411989,473888800,Etobicoke,38014
-43.7177449,-79.5880309,2,Jeffcoat Drive (309),a,Jeffcoat Drive,91,5411921,95635309,Etobicoke,38014
 43.7177512,-79.6051397,2,Dance Smartly Boulevard (572),a,Dance Smartly Boulevard,138,23996413,579922572,Etobicoke,38014
 43.7177518,-79.609179,2,Woodbine Track Access (528),a,Woodbine Track Access,29,5411991,361412528,Etobicoke,38014
 43.7177518,-79.609179,2,Northernette Heights (648),a,Northernette Heights,22,23996410,560927648,Etobicoke,38014
@@ -1902,7 +1607,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178396,-79.6087254,2,Dance Smartly Boulevard (100),a,Dance Smartly Boulevard,138,23996413,560928100,Etobicoke,38014
 43.7178415,-79.6086185,2,Dance Smartly Boulevard (103),a,Dance Smartly Boulevard,138,23996413,560928103,Etobicoke,38014
 43.7178454,-79.6084034,2,Dance Smartly Boulevard (104),a,Dance Smartly Boulevard,138,23996413,560928104,Etobicoke,38014
-43.7178476,-79.5874201,2,Rosefair Crescent (266),a,Rosefair Crescent,13,5412307,97644266,Etobicoke,38014
 43.7178493,-79.6081916,2,Dance Smartly Boulevard (105),a,Dance Smartly Boulevard,138,23996413,560928105,Etobicoke,38014
 43.7178496,-79.6035734,2,Queen's Plate Drive (195),a,Queen's Plate Drive,188,5411993,579925195,Etobicoke,38014
 43.7178497,-79.6034051,2,Queen's Plate Drive (153),a,Queen's Plate Drive,188,5411993,579925153,Etobicoke,38014
@@ -1912,7 +1616,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178616,-79.5982894,2,Rexdale Boulevard (380),a,Rexdale Boulevard,330,5411761,94145380,Etobicoke,38014
 43.7178616,-79.5982894,2,Rexdale Boulevard (497),a,Rexdale Boulevard,330,5411761,94145497,Etobicoke,38014
 43.7178618,-79.607501,2,Dance Smartly Boulevard (108),a,Dance Smartly Boulevard,138,23996413,560928108,Etobicoke,38014
-43.7178627,-79.5876018,2,Jeffcoat Drive (308),a,Jeffcoat Drive,91,5411921,95635308,Etobicoke,38014
 43.717863,-79.6054624,2,Dance Smartly Boulevard (574),a,Dance Smartly Boulevard,138,23996413,579922574,Etobicoke,38014
 43.7178657,-79.6072876,2,Dance Smartly Boulevard (109),a,Dance Smartly Boulevard,138,23996413,560928109,Etobicoke,38014
 43.7178661,-79.6071527,2,Dance Smartly Boulevard (111),a,Dance Smartly Boulevard,138,23996413,560928111,Etobicoke,38014
@@ -1933,51 +1636,31 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178969,-79.605652,2,Grandstand Entrance Road (794),a,Grandstand Entrance Road,133,5411989,473888794,Etobicoke,38014
 43.7178976,-79.6035743,2,Woodbine Track Access (323),a,Woodbine Track Access,29,5411991,530240323,Etobicoke,38014
 43.7179198,-79.6034063,2,Queen's Plate Drive (154),a,Queen's Plate Drive,188,5411993,579925154,Etobicoke,38014
-43.7179213,-79.5874526,2,Jeffcoat Drive (307),a,Jeffcoat Drive,91,5411921,95635307,Etobicoke,38014
-43.7179213,-79.5874526,2,Kearney Drive (594),a,Kearney Drive,15,5412306,97639594,Etobicoke,38014
-43.7179213,-79.5874526,2,Rosefair Crescent (269),a,Rosefair Crescent,13,5412307,97644269,Etobicoke,38014
 43.7179225,-79.6035747,2,Queen's Plate Drive (194),a,Queen's Plate Drive,188,5411993,579925194,Etobicoke,38014
 43.7179522,-79.6034068,2,Woodbine Track Access (280),a,Woodbine Track Access,29,5411991,500842280,Etobicoke,38014
 43.7179522,-79.6034068,2,Queen's Plate Drive (666),a,Queen's Plate Drive,188,5411993,560927666,Etobicoke,38014
 43.7179544,-79.6035753,2,Woodbine Track Access (287),a,Woodbine Track Access,29,5411991,500842287,Etobicoke,38014
 43.7179544,-79.6035753,2,Queen's Plate Drive (672),a,Queen's Plate Drive,188,5411993,560927672,Etobicoke,38014
-43.7179604,-79.5840575,2,Rosefair Crescent (247),a,Rosefair Crescent,13,5412307,97644247,Etobicoke,38014
-43.717962,-79.5873529,2,Jeffcoat Drive (306),a,Jeffcoat Drive,91,5411921,95635306,Etobicoke,38014
 43.7179637,-79.5992066,2,Sunny's Halo Trail (881),a,Sunny's Halo Trail,7,23996415,579925881,Etobicoke,38014
 43.7179743,-79.5930842,2,Queen's Plate Drive (103),a,Queen's Plate Drive,188,5411993,96040103,Etobicoke,38014
 43.7179753,-79.5992013,2,Sunny's Halo Trail (882),a,Sunny's Halo Trail,7,23996415,579925882,Etobicoke,38014
-43.7180038,-79.5839888,2,Rosefair Crescent (244),a,Rosefair Crescent,13,5412307,97644244,Etobicoke,38014
 43.7180258,-79.5989335,2,Rexdale Boulevard (496),a,Rexdale Boulevard,330,5411761,94145496,Etobicoke,38014
 43.7180258,-79.5989335,2,Rexdale Boulevard (408),a,Rexdale Boulevard,330,5411761,579925408,Etobicoke,38014
-43.7180302,-79.5905973,2,Mancroft Crescent (652),a,Mancroft Crescent,14,5411920,95607652,Etobicoke,38014
-43.7180302,-79.5905973,2,Jeffcoat Drive (316),a,Jeffcoat Drive,91,5411921,95635316,Etobicoke,38014
-43.7180402,-79.587505,2,Kearney Drive (595),a,Kearney Drive,15,5412306,97639595,Etobicoke,38014
 43.7180558,-79.5697008,2,Kipling Avenue (937),a,Kipling Avenue,1089,5411515,497594937,Etobicoke,38014
 43.7180816,-79.5991526,2,Rexdale Boulevard (407),a,Rexdale Boulevard,330,5411761,579925407,Etobicoke,38014
 43.7180816,-79.5991526,2,Sunny's Halo Trail (883),a,Sunny's Halo Trail,7,23996415,579925883,Etobicoke,38014
 43.7180859,-79.5991696,2,Rexdale Boulevard (960),a,Rexdale Boulevard,330,5411761,504637960,Etobicoke,38014
 43.7180967,-79.5931982,2,Queen's Plate Drive (600),a,Queen's Plate Drive,188,5411993,503157600,Etobicoke,38014
-43.7180969,-79.5839888,2,Rosefair Crescent (241),a,Rosefair Crescent,13,5412307,97644241,Etobicoke,38014
-43.7181853,-79.5906831,2,Jeffcoat Drive (318),a,Jeffcoat Drive,91,5411921,95635318,Etobicoke,38014
 43.7181918,-79.5991092,2,Rexdale Boulevard (735),a,Rexdale Boulevard,330,5411761,437164735,Etobicoke,38014
 43.7182519,-79.5959886,2,Highway 27 (783),a,Highway 27,185,5411524,92429783,Etobicoke,38014
 43.7182519,-79.5959886,2,Highway 27 (936),a,Highway 27,185,5411524,92429936,Etobicoke,38014
-43.7182795,-79.5831219,2,Martin Grove Road (294),a,Martin Grove Road,689,5411724,497595294,Etobicoke,38014
-43.7182795,-79.5831219,2,Martin Grove Road (318),a,Martin Grove Road,689,5411724,497595318,Etobicoke,38014
 43.7182802,-79.6011152,2,Glorious Song Way (222),a,Glorious Song Way,9,23996416,560928222,Etobicoke,38014
 43.7183154,-79.5934018,2,Queen's Plate Drive (102),a,Queen's Plate Drive,188,5411993,96040102,Etobicoke,38014
-43.7183388,-79.5876366,2,Kearney Drive (596),a,Kearney Drive,15,5412306,97639596,Etobicoke,38014
 43.718391,-79.6010613,2,Glorious Song Way (367),a,Glorious Song Way,9,23996416,579923367,Etobicoke,38014
-43.7184148,-79.5854388,2,Jeffcoat Drive (305),a,Jeffcoat Drive,91,5411921,95635305,Etobicoke,38014
 43.7184376,-79.6010387,2,Glorious Song Way (368),a,Glorious Song Way,9,23996416,579923368,Etobicoke,38014
 43.7184551,-79.5963319,2,Highway 27 (681),a,Highway 27,185,5411524,92429681,Etobicoke,38014
 43.7184551,-79.5963319,2,Highway 27 (919),a,Highway 27,185,5411524,92429919,Etobicoke,38014
-43.7184769,-79.5847007,2,Jeffcoat Drive (304),a,Jeffcoat Drive,91,5411921,95635304,Etobicoke,38014
-43.7184939,-79.5877825,2,Kearney Drive (597),a,Kearney Drive,15,5412306,97639597,Etobicoke,38014
 43.7184964,-79.6197468,2,Rexdale Boulevard (342),a,Rexdale Boulevard,330,5411761,94145342,Etobicoke,38014
-43.718506,-79.5841781,2,Rosefair Crescent (238),a,Rosefair Crescent,13,5412307,97644238,Etobicoke,38014
-43.7185229,-79.5832356,2,Martin Grove Road (317),a,Martin Grove Road,689,5411724,497595317,Etobicoke,38014
-43.7185229,-79.5832356,2,Martin Grove Road (319),a,Martin Grove Road,689,5411724,497595319,Etobicoke,38014
 43.7185259,-79.6009957,2,Rexdale Boulevard (776),a,Rexdale Boulevard,330,5411761,435396776,Etobicoke,38014
 43.7185259,-79.6009957,2,Rexdale Boulevard (406),a,Rexdale Boulevard,330,5411761,579925406,Etobicoke,38014
 43.7185259,-79.6009957,2,Glorious Song Way (221),a,Glorious Song Way,9,23996416,560928221,Etobicoke,38014
@@ -1988,25 +1671,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7185654,-79.6006012,2,Rexdale Boulevard (593),a,Rexdale Boulevard,330,5411761,94145593,Etobicoke,38014
 43.7185654,-79.6006012,2,Rexdale Boulevard (596),a,Rexdale Boulevard,330,5411761,94145596,Etobicoke,38014
 43.7185698,-79.5699515,2,Kipling Avenue (936),a,Kipling Avenue,1089,5411515,497594936,Etobicoke,38014
-43.7185782,-79.5842115,2,Jeffcoat Drive (302),a,Jeffcoat Drive,91,5411921,95635302,Etobicoke,38014
-43.7185782,-79.5842115,2,Jeffcoat Drive (303),a,Jeffcoat Drive,91,5411921,95635303,Etobicoke,38014
-43.7185782,-79.5842115,2,Braddock Road (087),a,Braddock Road,6,5412305,97635087,Etobicoke,38014
-43.7185782,-79.5842115,2,Rosefair Crescent (233),a,Rosefair Crescent,13,5412307,97644233,Etobicoke,38014
 43.7186163,-79.6096406,2,Northernette Heights (656),a,Northernette Heights,22,23996410,560927656,Etobicoke,38014
 43.7186311,-79.6197235,2,Rexdale Boulevard (375),a,Rexdale Boulevard,330,5411761,94145375,Etobicoke,38014
 43.7186353,-79.600889,2,Rexdale Boulevard (959),a,Rexdale Boulevard,330,5411761,504637959,Etobicoke,38014
 43.7186353,-79.600889,2,Rexdale Boulevard (962),a,Rexdale Boulevard,330,5411761,504637962,Etobicoke,38014
-43.7186403,-79.588097,2,Mancroft Crescent (754),a,Mancroft Crescent,14,5411920,438950754,Etobicoke,38014
 43.7186521,-79.6095263,2,Northernette Heights (662),a,Northernette Heights,22,23996410,560927662,Etobicoke,38014
 43.7186524,-79.593644,2,Queen's Plate Drive (100),a,Queen's Plate Drive,188,5411993,96040100,Etobicoke,38014
-43.7186697,-79.5879765,2,Mancroft Crescent (650),a,Mancroft Crescent,14,5411920,95607650,Etobicoke,38014
-43.7186697,-79.5879765,2,Kearney Drive (598),a,Kearney Drive,15,5412306,97639598,Etobicoke,38014
-43.7186862,-79.5842615,2,Braddock Road (085),a,Braddock Road,6,5412305,97635085,Etobicoke,38014
-43.7187009,-79.5878322,2,Mancroft Crescent (755),a,Mancroft Crescent,14,5411920,438950755,Etobicoke,38014
-43.7187333,-79.583537,2,Jeffcoat Drive (301),a,Jeffcoat Drive,91,5411921,95635301,Etobicoke,38014
 43.7187359,-79.6044926,2,Grandstand Entrance Road (491),a,Grandstand Entrance Road,133,5411989,506059491,Etobicoke,38014
 43.7187359,-79.6044926,2,Entrance Road (042),a,Entrance Road,27,5413253,560928042,Etobicoke,38014
-43.718741,-79.5833379,2,Martin Grove Road (315),a,Martin Grove Road,689,5411724,497595315,Etobicoke,38014
 43.7187438,-79.6013135,2,Rexdale Boulevard (376),a,Rexdale Boulevard,330,5411761,94145376,Etobicoke,38014
 43.7187438,-79.6013135,2,Rexdale Boulevard (409),a,Rexdale Boulevard,330,5411761,579925409,Etobicoke,38014
 43.7187596,-79.604299,2,Grandstand Entrance Road (314),a,Grandstand Entrance Road,133,5411989,530240314,Etobicoke,38014
@@ -2015,50 +1687,35 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.718765,-79.6042553,2,Entrance Road (043),a,Entrance Road,27,5413253,560928043,Etobicoke,38014
 43.718776,-79.6041669,2,Grandstand Entrance Road (493),a,Grandstand Entrance Road,133,5411989,506059493,Etobicoke,38014
 43.718776,-79.6041669,2,Entrance Road (044),a,Entrance Road,27,5413253,560928044,Etobicoke,38014
-43.7187801,-79.5833553,2,Martin Grove Road (314),a,Martin Grove Road,689,5411724,497595314,Etobicoke,38014
-43.7187801,-79.5833553,2,Martin Grove Road (329),a,Martin Grove Road,689,5411724,497595329,Etobicoke,38014
-43.7187801,-79.5833553,2,Jeffcoat Drive (299),a,Jeffcoat Drive,91,5411921,95635299,Etobicoke,38014
-43.7187801,-79.5833553,2,Jeffcoat Drive (300),a,Jeffcoat Drive,91,5411921,95635300,Etobicoke,38014
 43.7187825,-79.6045632,2,Grandstand Entrance Road (489),a,Grandstand Entrance Road,133,5411989,506059489,Etobicoke,38014
 43.7187825,-79.6045632,2,Grandstand Entrance Road (499),a,Grandstand Entrance Road,133,5411989,506059499,Etobicoke,38014
 43.7187825,-79.6045632,2,Entrance Road (040),a,Entrance Road,27,5413253,560928040,Etobicoke,38014
 43.7187825,-79.6045632,2,Entrance Road (051),a,Entrance Road,27,5413253,560928051,Etobicoke,38014
 43.7187907,-79.6041232,2,Grandstand Entrance Road (494),a,Grandstand Entrance Road,133,5411989,506059494,Etobicoke,38014
 43.7187907,-79.6041232,2,Entrance Road (045),a,Entrance Road,27,5413253,560928045,Etobicoke,38014
-43.7187932,-79.590932,2,Jeffcoat Drive (319),a,Jeffcoat Drive,91,5411921,95635319,Etobicoke,38014
 43.7187997,-79.5937034,2,Queen's Plate Drive (601),a,Queen's Plate Drive,188,5411993,503157601,Etobicoke,38014
 43.7188015,-79.6041072,2,Grandstand Entrance Road (498),a,Grandstand Entrance Road,133,5411989,506059498,Etobicoke,38014
 43.7188015,-79.6041072,2,Entrance Road (049),a,Entrance Road,27,5413253,560928049,Etobicoke,38014
-43.7188161,-79.5832153,2,Jeffcoat Drive (298),a,Jeffcoat Drive,91,5411921,95635298,Etobicoke,38014
 43.7188206,-79.604098,2,Grandstand Entrance Road (497),a,Grandstand Entrance Road,133,5411989,506059497,Etobicoke,38014
 43.7188206,-79.604098,2,Entrance Road (048),a,Entrance Road,27,5413253,560928048,Etobicoke,38014
-43.7188304,-79.5909234,2,Jeffcoat Drive (321),a,Jeffcoat Drive,91,5411921,95635321,Etobicoke,38014
-43.7188304,-79.5872327,2,Mancroft Crescent (649),a,Mancroft Crescent,14,5411920,95607649,Etobicoke,38014
 43.7188316,-79.6044995,2,Grandstand Entrance Road (501),a,Grandstand Entrance Road,133,5411989,506059501,Etobicoke,38014
 43.7188316,-79.6044995,2,Entrance Road (053),a,Entrance Road,27,5413253,560928053,Etobicoke,38014
 43.7188426,-79.6041013,2,Grandstand Entrance Road (496),a,Grandstand Entrance Road,133,5411989,506059496,Etobicoke,38014
 43.7188426,-79.6041013,2,Entrance Road (047),a,Entrance Road,27,5413253,560928047,Etobicoke,38014
 43.7188609,-79.6042543,2,Grandstand Entrance Road (321),a,Grandstand Entrance Road,133,5411989,530240321,Etobicoke,38014
 43.7188609,-79.6042543,2,Entrance Road (054),a,Entrance Road,27,5413253,560928054,Etobicoke,38014
-43.7188615,-79.5870782,2,Mancroft Crescent (647),a,Mancroft Crescent,14,5411920,95607647,Etobicoke,38014
 43.7188629,-79.6041242,2,Grandstand Entrance Road (495),a,Grandstand Entrance Road,133,5411989,506059495,Etobicoke,38014
 43.7188629,-79.6041242,2,Entrance Road (046),a,Entrance Road,27,5413253,560928046,Etobicoke,38014
 43.718872,-79.6041614,2,Grandstand Entrance Road (490),a,Grandstand Entrance Road,133,5411989,506059490,Etobicoke,38014
 43.718872,-79.6041614,2,Grandstand Entrance Road (500),a,Grandstand Entrance Road,133,5411989,506059500,Etobicoke,38014
 43.718872,-79.6041614,2,Entrance Road (041),a,Entrance Road,27,5413253,560928041,Etobicoke,38014
 43.718872,-79.6041614,2,Entrance Road (052),a,Entrance Road,27,5413253,560928052,Etobicoke,38014
-43.7188739,-79.5869237,2,Mancroft Crescent (645),a,Mancroft Crescent,14,5411920,95607645,Etobicoke,38014
 43.7188854,-79.6185258,2,Rexdale Boulevard (343),a,Rexdale Boulevard,330,5411761,94145343,Etobicoke,38014
 43.7188854,-79.6185258,2,Rexdale Boulevard (489),a,Rexdale Boulevard,330,5411761,94145489,Etobicoke,38014
-43.7188863,-79.5908548,2,Jeffcoat Drive (323),a,Jeffcoat Drive,91,5411921,95635323,Etobicoke,38014
-43.7188939,-79.5834059,2,Martin Grove Road (330),a,Martin Grove Road,689,5411724,497595330,Etobicoke,38014
-43.7188987,-79.5829412,2,Jeffcoat Drive (297),a,Jeffcoat Drive,91,5411921,95635297,Etobicoke,38014
 43.7189114,-79.6184461,2,Rexdale Boulevard (004),a,Rexdale Boulevard,330,5411761,328757004,Etobicoke,38014
 43.7189205,-79.6097915,2,Northernette Heights (655),a,Northernette Heights,22,23996410,560927655,Etobicoke,38014
-43.7189359,-79.5868465,2,Mancroft Crescent (643),a,Mancroft Crescent,14,5411920,95607643,Etobicoke,38014
 43.7189683,-79.6187107,2,Rexdale Boulevard (374),a,Rexdale Boulevard,330,5411761,94145374,Etobicoke,38014
 43.7189683,-79.6187107,2,Rexdale Boulevard (538),a,Rexdale Boulevard,330,5411761,94145538,Etobicoke,38014
-43.7189793,-79.5827094,2,Jeffcoat Drive (296),a,Jeffcoat Drive,91,5411921,95635296,Etobicoke,38014
 43.7189917,-79.6034601,2,Woodbine Track Access (281),a,Woodbine Track Access,29,5411991,500842281,Etobicoke,38014
 43.7189917,-79.6034601,2,Woodbine Track Access (285),a,Woodbine Track Access,29,5411991,500842285,Etobicoke,38014
 43.7189935,-79.6034696,2,Queen's Plate Drive (155),a,Queen's Plate Drive,188,5411993,579925155,Etobicoke,38014
@@ -2068,14 +1725,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7190165,-79.6036021,2,Queen's Plate Drive (670),a,Queen's Plate Drive,188,5411993,560927670,Etobicoke,38014
 43.7190165,-79.6036021,2,Queen's Plate Drive (673),a,Queen's Plate Drive,188,5411993,560927673,Etobicoke,38014
 43.7190179,-79.6034636,2,Queen's Plate Drive (189),a,Queen's Plate Drive,188,5411993,579925189,Etobicoke,38014
-43.7190227,-79.5868465,2,Mancroft Crescent (642),a,Mancroft Crescent,14,5411920,95607642,Etobicoke,38014
 43.719025,-79.6185197,2,Rexdale Boulevard (022),a,Rexdale Boulevard,330,5411761,328757022,Etobicoke,38014
 43.7190431,-79.6036056,2,Queen's Plate Drive (182),a,Queen's Plate Drive,188,5411993,579925182,Etobicoke,38014
 43.7190715,-79.603446,2,Queen's Plate Drive (190),a,Queen's Plate Drive,188,5411993,579925190,Etobicoke,38014
 43.7190744,-79.6032759,2,Rexdale Boulevard (386),a,Rexdale Boulevard,330,5411761,579925386,Etobicoke,38014
 43.7190897,-79.6027501,2,Rexdale Boulevard (377),a,Rexdale Boulevard,330,5411761,94145377,Etobicoke,38014
-43.7191034,-79.5824863,2,Jeffcoat Drive (295),a,Jeffcoat Drive,91,5411921,95635295,Etobicoke,38014
-43.7191034,-79.5824863,2,Bairstow Crescent (950),a,Bairstow Crescent,9,5411923,95651950,Etobicoke,38014
 43.719113,-79.6034306,2,Rexdale Boulevard (382),a,Rexdale Boulevard,330,5411761,579925382,Etobicoke,38014
 43.719113,-79.6034306,2,Rexdale Boulevard (385),a,Rexdale Boulevard,330,5411761,579925385,Etobicoke,38014
 43.719113,-79.6034306,2,Queen's Plate Drive (173),a,Queen's Plate Drive,188,5411993,579925173,Etobicoke,38014
@@ -2090,23 +1744,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7191702,-79.6036598,2,Rexdale Boulevard (372),a,Rexdale Boulevard,330,5411761,579925372,Etobicoke,38014
 43.7191747,-79.603085,2,Rexdale Boulevard (961),a,Rexdale Boulevard,330,5411761,328756961,Etobicoke,38014
 43.7191867,-79.6176003,2,Rexdale Boulevard (490),a,Rexdale Boulevard,330,5411761,94145490,Etobicoke,38014
-43.7191964,-79.5856963,2,Aquila Court (958),a,Aquila Court,13,5411922,95643958,Etobicoke,38014
-43.7192088,-79.5855762,2,Aquila Court (960),a,Aquila Court,13,5411922,95643960,Etobicoke,38014
 43.7192106,-79.6032329,2,Rexdale Boulevard (374),a,Rexdale Boulevard,330,5411761,579925374,Etobicoke,38014
-43.7192416,-79.5826311,2,Bairstow Crescent (595),a,Bairstow Crescent,9,5411923,438500595,Etobicoke,38014
 43.7192453,-79.603367,2,Rexdale Boulevard (375),a,Rexdale Boulevard,330,5411761,579925375,Etobicoke,38014
 43.7192453,-79.603367,2,Rexdale Boulevard (383),a,Rexdale Boulevard,330,5411761,579925383,Etobicoke,38014
 43.7192453,-79.603367,2,Queen's Plate Drive (174),a,Queen's Plate Drive,188,5411993,579925174,Etobicoke,38014
 43.7192453,-79.603367,2,Queen's Plate Drive (175),a,Queen's Plate Drive,188,5411993,579925175,Etobicoke,38014
-43.7192647,-79.5857736,2,Aquila Court (955),a,Aquila Court,13,5411922,95643955,Etobicoke,38014
-43.7192698,-79.5835916,2,Martin Grove Road (297),a,Martin Grove Road,689,5411724,497595297,Etobicoke,38014
-43.7192698,-79.5835916,2,Martin Grove Road (331),a,Martin Grove Road,689,5411724,497595331,Etobicoke,38014
 43.7192743,-79.6034791,2,Rexdale Boulevard (379),a,Rexdale Boulevard,330,5411761,579925379,Etobicoke,38014
 43.7192743,-79.6034791,2,Rexdale Boulevard (384),a,Rexdale Boulevard,330,5411761,579925384,Etobicoke,38014
 43.7192743,-79.6034791,2,Queen's Plate Drive (150),a,Queen's Plate Drive,188,5411993,579925150,Etobicoke,38014
 43.7192743,-79.6034791,2,Queen's Plate Drive (180),a,Queen's Plate Drive,188,5411993,579925180,Etobicoke,38014
 43.7193041,-79.603594,2,Rexdale Boulevard (380),a,Rexdale Boulevard,330,5411761,579925380,Etobicoke,38014
-43.7193081,-79.5827008,2,Bairstow Crescent (952),a,Bairstow Crescent,9,5411923,95651952,Etobicoke,38014
 43.7193115,-79.6175537,2,Rexdale Boulevard (479),a,Rexdale Boulevard,330,5411761,94145479,Etobicoke,38014
 43.7193115,-79.6175537,2,Rexdale Boulevard (537),a,Rexdale Boulevard,330,5411761,94145537,Etobicoke,38014
 43.719319,-79.6033315,2,Queen's Plate Drive (176),a,Queen's Plate Drive,188,5411993,579925176,Etobicoke,38014
@@ -2114,17 +1761,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.719344,-79.6034409,2,Queen's Plate Drive (179),a,Queen's Plate Drive,188,5411993,579925179,Etobicoke,38014
 43.719391,-79.6046061,2,Rexdale Boulevard (361),a,Rexdale Boulevard,330,5411761,94145361,Etobicoke,38014
 43.719391,-79.6046061,2,Rexdale Boulevard (515),a,Rexdale Boulevard,330,5411761,94145515,Etobicoke,38014
-43.7194027,-79.5847264,2,Aquila Court (576),a,Aquila Court,13,5411922,389741576,Etobicoke,38014
-43.7194106,-79.5846919,2,Aquila Court (757),a,Aquila Court,13,5411922,438950757,Etobicoke,38014
-43.7194303,-79.5846057,2,Aquila Court (963),a,Aquila Court,13,5411922,95643963,Etobicoke,38014
-43.7194303,-79.5846057,2,Braddock Road (082),a,Braddock Road,6,5412305,97635082,Etobicoke,38014
-43.7194376,-79.5884611,2,Jeffcoat Drive (756),a,Jeffcoat Drive,91,5411921,438950756,Etobicoke,38014
-43.7194446,-79.5827867,2,Bairstow Crescent (953),a,Bairstow Crescent,9,5411923,95651953,Etobicoke,38014
 43.7194556,-79.6048989,2,Rexdale Boulevard (514),a,Rexdale Boulevard,330,5411761,94145514,Etobicoke,38014
 43.7194556,-79.6048989,2,Rexdale Boulevard (517),a,Rexdale Boulevard,330,5411761,94145517,Etobicoke,38014
 43.719463,-79.6098738,2,Northernette Heights (663),a,Northernette Heights,22,23996410,560927663,Etobicoke,38014
-43.7194694,-79.5883228,2,Jeffcoat Drive (325),a,Jeffcoat Drive,91,5411921,95635325,Etobicoke,38014
-43.7194694,-79.5883228,2,Kearney Drive (599),a,Kearney Drive,15,5412306,97639599,Etobicoke,38014
 43.7194702,-79.5939738,2,Queen's Plate Drive (099),a,Queen's Plate Drive,188,5411993,96040099,Etobicoke,38014
 43.7195111,-79.6162914,2,Rexdale Boulevard (492),a,Rexdale Boulevard,330,5411761,94145492,Etobicoke,38014
 43.7195111,-79.6162914,2,Rexdale Boulevard (539),a,Rexdale Boulevard,330,5411761,94145539,Etobicoke,38014
@@ -2138,28 +1777,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7196741,-79.6031945,2,Queen's Plate Drive (201),a,Queen's Plate Drive,188,5411993,96040201,Etobicoke,38014
 43.7196741,-79.6031945,2,Queen's Plate Drive (217),a,Queen's Plate Drive,188,5411993,96040217,Etobicoke,38014
 43.7196791,-79.6193268,2,Cinrickbar Drive (772),a,Cinrickbar Drive,52,5412658,98657772,Etobicoke,38014
-43.7196849,-79.5912672,2,Mercury Road (999),a,Mercury Road,29,5412299,97608999,Etobicoke,38014
-43.7196973,-79.5911728,2,Mercury Road (001),a,Mercury Road,29,5412299,97609001,Etobicoke,38014
 43.7196976,-79.5966314,2,Highway 27 (960),a,Highway 27,185,5411524,328756960,Etobicoke,38014
 43.7196976,-79.5966314,2,Harness Road (160),a,Harness Road,16,5412267,328757160,Etobicoke,38014
 43.7196988,-79.6154173,2,Rexdale Boulevard (540),a,Rexdale Boulevard,330,5411761,94145540,Etobicoke,38014
 43.7197033,-79.6187367,2,Cinrickbar Drive (770),a,Cinrickbar Drive,52,5412658,98657770,Etobicoke,38014
-43.7197051,-79.5816795,2,Jeffcoat Drive (294),a,Jeffcoat Drive,91,5411921,95635294,Etobicoke,38014
-43.7197051,-79.5816795,2,Heatherglen Road (621),a,Heatherglen Road,5,5411924,95655621,Etobicoke,38014
 43.7197198,-79.6194381,2,Cinrickbar Drive (773),a,Cinrickbar Drive,52,5412658,98657773,Etobicoke,38014
 43.7197285,-79.6184833,2,Cinrickbar Drive (739),a,Cinrickbar Drive,52,5412658,98657739,Etobicoke,38014
 43.7197285,-79.6184833,2,Cinrickbar Drive (769),a,Cinrickbar Drive,52,5412658,98657769,Etobicoke,38014
 43.7197285,-79.6184833,2,Arborwood Drive (018),a,Arborwood Drive,17,5412660,98659018,Etobicoke,38014
-43.7197469,-79.5913445,2,Mercury Road (996),a,Mercury Road,29,5412299,97608996,Etobicoke,38014
 43.719748,-79.6062489,2,Rexdale Boulevard (511),a,Rexdale Boulevard,330,5411761,94145511,Etobicoke,38014
 43.719748,-79.6062489,2,Rexdale Boulevard (516),a,Rexdale Boulevard,330,5411761,94145516,Etobicoke,38014
 43.7197642,-79.6098901,2,Northernette Heights (664),a,Northernette Heights,22,23996410,560927664,Etobicoke,38014
 43.7197683,-79.6195213,2,Cinrickbar Drive (774),a,Cinrickbar Drive,52,5412658,98657774,Etobicoke,38014
-43.7197795,-79.5814563,2,Jeffcoat Drive (293),a,Jeffcoat Drive,91,5411921,95635293,Etobicoke,38014
 43.7198169,-79.6031398,2,Queen's Plate Drive (220),a,Queen's Plate Drive,188,5411993,96040220,Etobicoke,38014
 43.7198169,-79.6031398,2,Queen's Plate Drive (192),a,Queen's Plate Drive,188,5411993,579925192,Etobicoke,38014
 43.7198254,-79.6185476,2,Arborwood Drive (019),a,Arborwood Drive,17,5412660,98659019,Etobicoke,38014
-43.7198371,-79.5817439,2,Heatherglen Road (596),a,Heatherglen Road,5,5411924,438500596,Etobicoke,38014
 43.7198525,-79.5966464,2,Harness Road (161),a,Harness Road,16,5412267,328757161,Etobicoke,38014
 43.7198608,-79.6067695,2,Rexdale Boulevard (359),a,Rexdale Boulevard,330,5411761,94145359,Etobicoke,38014
 43.7198608,-79.6067695,2,Rexdale Boulevard (510),a,Rexdale Boulevard,330,5411761,94145510,Etobicoke,38014
@@ -2177,15 +1809,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.720012,-79.5965377,2,Harness Road (571),a,Harness Road,16,5412267,328756571,Etobicoke,38014
 43.720012,-79.5965377,2,Harness Road (151),a,Harness Road,16,5412267,328757151,Etobicoke,38014
 43.720012,-79.5965377,2,Harness Road (164),a,Harness Road,16,5412267,328757164,Etobicoke,38014
-43.7200153,-79.5873185,2,Mancroft Crescent (640),a,Mancroft Crescent,14,5411920,95607640,Etobicoke,38014
 43.7200235,-79.5966275,2,Harness Road (152),a,Harness Road,16,5412267,328757152,Etobicoke,38014
 43.7200287,-79.5964827,2,Harness Road (949),a,Harness Road,16,5412267,97480949,Etobicoke,38014
 43.7200381,-79.5967235,2,Harness Road (153),a,Harness Road,16,5412267,328757153,Etobicoke,38014
-43.7200447,-79.5885464,2,Kearney Drive (600),a,Kearney Drive,15,5412306,97639600,Etobicoke,38014
 43.7200477,-79.6030405,2,Queen's Plate Drive (871),a,Queen's Plate Drive,188,5411993,473888871,Etobicoke,38014
 43.720054,-79.6071992,2,Rexdale Boulevard (366),a,Rexdale Boulevard,330,5411761,94145366,Etobicoke,38014
 43.720054,-79.6071992,2,Rexdale Boulevard (396),a,Rexdale Boulevard,330,5411761,579925396,Etobicoke,38014
-43.7200835,-79.5861598,2,Aquila Court (952),a,Aquila Court,13,5411922,95643952,Etobicoke,38014
 43.7200923,-79.6098047,2,Northernette Heights (665),a,Northernette Heights,22,23996410,560927665,Etobicoke,38014
 43.720102,-79.6030234,2,Queen's Plate Drive (870),a,Queen's Plate Drive,188,5411993,473888870,Etobicoke,38014
 43.7201308,-79.6186536,2,Arborwood Drive (020),a,Arborwood Drive,17,5412660,98659020,Etobicoke,38014
@@ -2197,19 +1826,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7201536,-79.6140377,2,Rexdale Boulevard (477),a,Rexdale Boulevard,330,5411761,94145477,Etobicoke,38014
 43.7201536,-79.6140377,2,Rexdale Boulevard (528),a,Rexdale Boulevard,330,5411761,94145528,Etobicoke,38014
 43.7201582,-79.5958784,2,Harness Road (950),a,Harness Road,16,5412267,97480950,Etobicoke,38014
-43.7201586,-79.5892189,2,Mercury Road (243),a,Mercury Road,29,5412299,297392243,Etobicoke,38014
 43.7201701,-79.5942764,2,Queen's Plate Drive (096),a,Queen's Plate Drive,188,5411993,96040096,Etobicoke,38014
 43.7201796,-79.5957898,2,Harness Road (951),a,Harness Road,16,5412267,97480951,Etobicoke,38014
-43.7201952,-79.5873786,2,Mancroft Crescent (638),a,Mancroft Crescent,14,5411920,95607638,Etobicoke,38014
-43.7202448,-79.5862027,2,Aquila Court (949),a,Aquila Court,13,5411922,95643949,Etobicoke,38014
-43.7202629,-79.5887772,2,Mercury Road (758),a,Mercury Road,29,5412299,438950758,Etobicoke,38014
 43.720282,-79.6186817,2,Arborwood Drive (021),a,Arborwood Drive,17,5412660,98659021,Etobicoke,38014
 43.7202865,-79.6127774,2,Rexdale Boulevard (534),a,Rexdale Boulevard,330,5411761,94145534,Etobicoke,38014
 43.7202883,-79.6083191,2,Rexdale Boulevard (368),a,Rexdale Boulevard,330,5411761,94145368,Etobicoke,38014
 43.7202883,-79.6083191,2,Rexdale Boulevard (397),a,Rexdale Boulevard,330,5411761,579925397,Etobicoke,38014
 43.7202962,-79.6127268,2,Rexdale Boulevard (535),a,Rexdale Boulevard,330,5411761,94145535,Etobicoke,38014
-43.7203052,-79.5885979,2,Mercury Road (003),a,Mercury Road,29,5412299,97609003,Etobicoke,38014
-43.7203052,-79.5885979,2,Kearney Drive (601),a,Kearney Drive,15,5412306,97639601,Etobicoke,38014
 43.7203054,-79.612672,2,Rexdale Boulevard (525),a,Rexdale Boulevard,330,5411761,94145525,Etobicoke,38014
 43.7203054,-79.612672,2,Rexdale Boulevard (536),a,Rexdale Boulevard,330,5411761,94145536,Etobicoke,38014
 43.7203054,-79.612672,2,Humberwood Boulevard (092),a,Humberwood Boulevard,131,5411996,96061092,Etobicoke,38014
@@ -2223,7 +1846,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7203635,-79.6131047,2,Rexdale Boulevard (527),a,Rexdale Boulevard,330,5411761,94145527,Etobicoke,38014
 43.7203635,-79.6131047,2,Rexdale Boulevard (405),a,Rexdale Boulevard,330,5411761,579925405,Etobicoke,38014
 43.7203804,-79.6156558,2,Cinrickbar Drive (743),a,Cinrickbar Drive,52,5412658,98657743,Etobicoke,38014
-43.7203875,-79.5874044,2,Mancroft Crescent (636),a,Mancroft Crescent,14,5411920,95607636,Etobicoke,38014
 43.7203923,-79.5971355,2,Highway 27 (680),a,Highway 27,185,5411524,92429680,Etobicoke,38014
 43.7203976,-79.6155933,2,Cinrickbar Drive (744),a,Cinrickbar Drive,52,5412658,98657744,Etobicoke,38014
 43.7203997,-79.6029976,2,Queen's Plate Drive (171),a,Queen's Plate Drive,188,5411993,96040171,Etobicoke,38014
@@ -2311,22 +1933,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7209507,-79.6128144,2,Humberwood Boulevard (097),a,Humberwood Boulevard,131,5411996,96061097,Etobicoke,38014
 43.7209507,-79.6128144,2,Humberwood Boulevard (103),a,Humberwood Boulevard,131,5411996,96061103,Etobicoke,38014
 43.720958,-79.6031092,2,Queen's Plate Drive (174),a,Queen's Plate Drive,188,5411993,96040174,Etobicoke,38014
-43.7209826,-79.5918808,2,Mercury Road (994),a,Mercury Road,29,5412299,97608994,Etobicoke,38014
 43.7209847,-79.6190546,2,Hullrick Drive (490),a,Hullrick Drive,41,5412656,98655490,Etobicoke,38014
 43.7209847,-79.6190546,2,Hullrick Drive (557),a,Hullrick Drive,41,5412656,98655557,Etobicoke,38014
 43.7209847,-79.6190546,2,Westlawn Place (544),a,Westlawn Place,6,5412663,98660544,Etobicoke,38014
 43.7209997,-79.616837,2,Secretariat Drive (161),a,Secretariat Drive,19,5412662,359577161,Etobicoke,38014
-43.7210016,-79.5863229,2,Aquila Court (946),a,Aquila Court,13,5411922,95643946,Etobicoke,38014
-43.7210377,-79.5919052,2,Mercury Road (418),a,Mercury Road,29,5412299,389742418,Etobicoke,38014
 43.7210396,-79.61224,2,Filly Heights (107),a,Filly Heights,8,21694450,497596107,Etobicoke,38014
 43.7210515,-79.619123,2,Hullrick Drive (558),a,Hullrick Drive,41,5412656,98655558,Etobicoke,38014
 43.7210587,-79.6123045,2,Filly Heights (113),a,Filly Heights,8,21694450,497596113,Etobicoke,38014
 43.7210634,-79.6162328,2,Hullrick Drive (546),a,Hullrick Drive,41,5412656,98655546,Etobicoke,38014
-43.7210636,-79.5862886,2,Aquila Court (944),a,Aquila Court,13,5411922,95643944,Etobicoke,38014
 43.7210918,-79.5972743,2,Highway 27 (786),a,Highway 27,185,5411524,92429786,Etobicoke,38014
 43.721096,-79.5946971,2,Queen's Plate Drive (088),a,Queen's Plate Drive,188,5411993,96040088,Etobicoke,38014
 43.7211003,-79.6128553,2,Humberwood Boulevard (098),a,Humberwood Boulevard,131,5411996,96061098,Etobicoke,38014
-43.7211008,-79.586177,2,Aquila Court (942),a,Aquila Court,13,5411922,95643942,Etobicoke,38014
 43.7211015,-79.6123465,2,Filly Heights (108),a,Filly Heights,8,21694450,497596108,Etobicoke,38014
 43.7211099,-79.5974514,2,Highway 27 (679),a,Highway 27,185,5411524,92429679,Etobicoke,38014
 43.7211213,-79.6182486,2,Arborwood Drive (026),a,Arborwood Drive,17,5412660,98659026,Etobicoke,38014
@@ -2337,16 +1954,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7211697,-79.6128675,2,Humberwood Boulevard (099),a,Humberwood Boulevard,131,5411996,96061099,Etobicoke,38014
 43.7211724,-79.6156947,2,Cinrickbar Drive (160),a,Cinrickbar Drive,52,5412658,359577160,Etobicoke,38014
 43.7211919,-79.5947398,2,Queen's Plate Drive (086),a,Queen's Plate Drive,188,5411993,96040086,Etobicoke,38014
-43.7211965,-79.5919757,2,Mercury Road (991),a,Mercury Road,29,5412299,97608991,Etobicoke,38014
-43.7212355,-79.5855974,2,Aquila Court (575),a,Aquila Court,13,5411922,389741575,Etobicoke,38014
 43.7212369,-79.6113479,2,Woodstream Drive (104),a,Woodstream Drive,9,21694449,497596104,Etobicoke,38014
 43.7212513,-79.6169393,2,Secretariat Drive (293),a,Secretariat Drive,19,5412662,98660293,Etobicoke,38014
 43.721253,-79.6157371,2,Hullrick Drive (556),a,Hullrick Drive,41,5412656,98655556,Etobicoke,38014
 43.721253,-79.6157371,2,Cinrickbar Drive (726),a,Cinrickbar Drive,52,5412658,98657726,Etobicoke,38014
 43.721253,-79.6157371,2,Cinrickbar Drive (759),a,Cinrickbar Drive,52,5412658,98657759,Etobicoke,38014
 43.7212541,-79.6181989,2,Arborwood Drive (027),a,Arborwood Drive,17,5412660,98659027,Etobicoke,38014
-43.7212683,-79.5854561,2,Aquila Court (938),a,Aquila Court,13,5411922,95643938,Etobicoke,38014
-43.7212683,-79.5854561,2,Braddock Road (080),a,Braddock Road,6,5412305,97635080,Etobicoke,38014
 43.7213071,-79.6155557,2,Hullrick Drive (699),a,Hullrick Drive,41,5412656,335002699,Etobicoke,38014
 43.7213324,-79.6128807,2,Humberwood Boulevard (069),a,Humberwood Boulevard,131,5411996,96061069,Etobicoke,38014
 43.7213442,-79.6182124,2,Arborwood Drive (028),a,Arborwood Drive,17,5412660,98659028,Etobicoke,38014
@@ -2356,27 +1969,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7214053,-79.6193939,2,Hullrick Drive (559),a,Hullrick Drive,41,5412656,98655559,Etobicoke,38014
 43.721415,-79.6182593,2,Arborwood Drive (029),a,Arborwood Drive,17,5412660,98659029,Etobicoke,38014
 43.7214232,-79.6170098,2,Secretariat Drive (294),a,Secretariat Drive,19,5412662,98660294,Etobicoke,38014
-43.7214544,-79.5837566,2,Bairstow Crescent (954),a,Bairstow Crescent,9,5411923,95651954,Etobicoke,38014
 43.7214831,-79.6150941,2,Hullrick Drive (701),a,Hullrick Drive,41,5412656,335002701,Etobicoke,38014
-43.7215024,-79.5886494,2,Porterfield Road (566),a,Porterfield Road,23,5411915,95579566,Etobicoke,38014
-43.7215024,-79.5886494,2,Kearney Drive (602),a,Kearney Drive,15,5412306,97639602,Etobicoke,38014
-43.7215064,-79.5885845,2,Porterfield Road (596),a,Porterfield Road,23,5411915,425039596,Etobicoke,38014
-43.7215164,-79.5837566,2,Bairstow Crescent (956),a,Bairstow Crescent,9,5411923,95651956,Etobicoke,38014
 43.7215246,-79.6128937,2,Humberwood Boulevard (071),a,Humberwood Boulevard,131,5411996,96061071,Etobicoke,38014
 43.7215373,-79.614908,2,Hullrick Drive (702),a,Hullrick Drive,41,5412656,335002702,Etobicoke,38014
-43.7215397,-79.58804,2,Porterfield Road (564),a,Porterfield Road,23,5411915,95579564,Etobicoke,38014
-43.7215723,-79.5837222,2,Bairstow Crescent (957),a,Bairstow Crescent,9,5411923,95651957,Etobicoke,38014
-43.7215808,-79.584707,2,Martin Grove Road (296),a,Martin Grove Road,689,5411724,497595296,Etobicoke,38014
-43.7215808,-79.584707,2,Martin Grove Road (328),a,Martin Grove Road,689,5411724,497595328,Etobicoke,38014
 43.7215825,-79.6147157,2,Hullrick Drive (703),a,Hullrick Drive,41,5412656,335002703,Etobicoke,38014
-43.7215932,-79.5875331,2,Mancroft Crescent (597),a,Mancroft Crescent,14,5411920,425039597,Etobicoke,38014
 43.7216047,-79.6171298,2,Secretariat Drive (295),a,Secretariat Drive,19,5412662,98660295,Etobicoke,38014
-43.7216048,-79.5886559,2,Kearney Drive (666),a,Kearney Drive,15,5412306,425039666,Etobicoke,38014
 43.7216323,-79.6144106,2,Hullrick Drive (704),a,Hullrick Drive,41,5412656,335002704,Etobicoke,38014
-43.7216377,-79.588658,2,Kearney Drive (603),a,Kearney Drive,15,5412306,97639603,Etobicoke,38014
 43.7216572,-79.5949283,2,Queen's Plate Drive (084),a,Queen's Plate Drive,188,5411993,96040084,Etobicoke,38014
-43.7216591,-79.5875401,2,Porterfield Road (561),a,Porterfield Road,23,5411915,95579561,Etobicoke,38014
-43.7216591,-79.5875401,2,Mancroft Crescent (634),a,Mancroft Crescent,14,5411920,95607634,Etobicoke,38014
 43.7216597,-79.6141004,2,Hullrick Drive (705),a,Hullrick Drive,41,5412656,335002705,Etobicoke,38014
 43.7216736,-79.6136477,2,Hullrick Drive (484),a,Hullrick Drive,41,5412656,98655484,Etobicoke,38014
 43.7216736,-79.6136477,2,Hullrick Drive (646),a,Hullrick Drive,41,5412656,579923646,Etobicoke,38014
@@ -2387,75 +1986,41 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7217046,-79.5975305,2,Highway 27 (549),a,Highway 27,185,5411524,512214549,Etobicoke,38014
 43.7217133,-79.6129157,2,Humberwood Boulevard (072),a,Humberwood Boulevard,131,5411996,96061072,Etobicoke,38014
 43.7217133,-79.6129157,2,Hullrick Drive (485),a,Hullrick Drive,41,5412656,98655485,Etobicoke,38014
-43.7217185,-79.5847737,2,Martin Grove Road (326),a,Martin Grove Road,689,5411724,497595326,Etobicoke,38014
 43.7217726,-79.6161203,2,Cinrickbar Drive (728),a,Cinrickbar Drive,52,5412658,98657728,Etobicoke,38014
 43.7217768,-79.6033217,2,Queen's Plate Drive (176),a,Queen's Plate Drive,188,5411993,96040176,Etobicoke,38014
-43.7217979,-79.5828525,2,Bairstow Crescent (594),a,Bairstow Crescent,9,5411923,438500594,Etobicoke,38014
 43.7218062,-79.6136533,2,Thoroughbred Crescent (094),a,Thoroughbred Crescent,20,5412657,389742094,Etobicoke,38014
 43.7218224,-79.6172614,2,Secretariat Drive (296),a,Secretariat Drive,19,5412662,98660296,Etobicoke,38014
-43.7218323,-79.5922497,2,Mercury Road (988),a,Mercury Road,29,5412299,97608988,Etobicoke,38014
-43.7218328,-79.582718,2,Bairstow Crescent (959),a,Bairstow Crescent,9,5411923,95651959,Etobicoke,38014
-43.7218328,-79.582718,2,Heatherglen Road (622),a,Heatherglen Road,5,5411924,95655622,Etobicoke,38014
-43.721909,-79.5857525,2,Braddock Road (759),a,Braddock Road,6,5412305,438950759,Etobicoke,38014
-43.7219128,-79.584857,2,Martin Grove Road (325),a,Martin Grove Road,689,5411724,497595325,Etobicoke,38014
-43.7219128,-79.584857,2,Martin Grove Road (327),a,Martin Grove Road,689,5411724,497595327,Etobicoke,38014
 43.7219283,-79.6124447,2,Filly Heights (109),a,Filly Heights,8,21694450,497596109,Etobicoke,38014
 43.7219284,-79.5950864,2,Queen's Plate Drive (080),a,Queen's Plate Drive,188,5411993,96040080,Etobicoke,38014
 43.721961,-79.6033287,2,Queen's Plate Drive (178),a,Queen's Plate Drive,188,5411993,96040178,Etobicoke,38014
 43.7219781,-79.6124286,2,Filly Heights (112),a,Filly Heights,8,21694450,497596112,Etobicoke,38014
-43.7219987,-79.5860573,2,Porterfield Road (560),a,Porterfield Road,23,5411915,95579560,Etobicoke,38014
 43.7220205,-79.612384,2,Filly Heights (110),a,Filly Heights,8,21694450,497596110,Etobicoke,38014
-43.7220483,-79.585817,2,Porterfield Road (558),a,Porterfield Road,23,5411915,95579558,Etobicoke,38014
-43.7220483,-79.585817,2,Braddock Road (078),a,Braddock Road,6,5412305,97635078,Etobicoke,38014
 43.7220643,-79.6122968,2,Woodstream Drive (102),a,Woodstream Drive,9,21694449,497596102,Etobicoke,38014
 43.7220643,-79.6122968,2,Filly Heights (111),a,Filly Heights,8,21694450,497596111,Etobicoke,38014
 43.7220895,-79.5952062,2,Queen's Plate Drive (251),a,Queen's Plate Drive,188,5411993,359577251,Etobicoke,38014
-43.7221041,-79.5853192,2,Porterfield Road (555),a,Porterfield Road,23,5411915,95579555,Etobicoke,38014
 43.722121,-79.6136666,2,Thoroughbred Crescent (614),a,Thoroughbred Crescent,20,5412657,98656614,Etobicoke,38014
 43.7221358,-79.6032846,2,Queen's Plate Drive (179),a,Queen's Plate Drive,188,5411993,96040179,Etobicoke,38014
-43.7221412,-79.5849552,2,Martin Grove Road (323),a,Martin Grove Road,689,5411724,497595323,Etobicoke,38014
 43.7221642,-79.6123966,2,Woodstream Drive (099),a,Woodstream Drive,9,21694449,497596099,Etobicoke,38014
 43.7221661,-79.6198552,2,Hullrick Drive (560),a,Hullrick Drive,41,5412656,98655560,Etobicoke,38014
-43.7221662,-79.5851376,2,Porterfield Road (554),a,Porterfield Road,23,5411915,95579554,Etobicoke,38014
-43.7221724,-79.5911385,2,Millview Crescent (037),a,Millview Crescent,17,5411916,95593037,Etobicoke,38014
-43.7221724,-79.5910698,2,Millview Crescent (035),a,Millview Crescent,17,5411916,95593035,Etobicoke,38014
 43.722193,-79.6136649,2,Thoroughbred Crescent (615),a,Thoroughbred Crescent,20,5412657,98656615,Etobicoke,38014
-43.7221991,-79.584982,2,Martin Grove Road (322),a,Martin Grove Road,689,5411724,497595322,Etobicoke,38014
-43.7221991,-79.584982,2,Martin Grove Road (348),a,Martin Grove Road,689,5411724,497595348,Etobicoke,38014
-43.7221991,-79.584982,2,Porterfield Road (550),a,Porterfield Road,23,5411915,95579550,Etobicoke,38014
-43.7221991,-79.584982,2,Porterfield Road (552),a,Porterfield Road,23,5411915,95579552,Etobicoke,38014
-43.7222096,-79.5899283,2,Millview Crescent (033),a,Millview Crescent,17,5411916,95593033,Etobicoke,38014
-43.7222096,-79.5898424,2,Millview Crescent (031),a,Millview Crescent,17,5411916,95593031,Etobicoke,38014
-43.7222158,-79.5912587,2,Millview Crescent (039),a,Millview Crescent,17,5411916,95593039,Etobicoke,38014
-43.7222388,-79.5848166,2,Porterfield Road (548),a,Porterfield Road,23,5411915,95579548,Etobicoke,38014
 43.7222467,-79.5953702,2,Queen's Plate Drive (078),a,Queen's Plate Drive,188,5411993,96040078,Etobicoke,38014
 43.7222472,-79.6136761,2,Thoroughbred Crescent (616),a,Thoroughbred Crescent,20,5412657,98656616,Etobicoke,38014
 43.7222604,-79.6125345,2,Woodstream Drive (105),a,Woodstream Drive,9,21694449,497596105,Etobicoke,38014
-43.7222716,-79.5897652,2,Millview Crescent (029),a,Millview Crescent,17,5411916,95593029,Etobicoke,38014
 43.7222729,-79.6129599,2,Humberwood Boulevard (114),a,Humberwood Boulevard,131,5411996,429969114,Etobicoke,38014
 43.7222729,-79.6129599,2,Woodstream Drive (097),a,Woodstream Drive,9,21694449,497596097,Etobicoke,38014
 43.7222736,-79.612831,2,Woodstream Drive (103),a,Woodstream Drive,9,21694449,497596103,Etobicoke,38014
 43.7222777,-79.6126026,2,Woodstream Drive (098),a,Woodstream Drive,9,21694449,497596098,Etobicoke,38014
-43.7222822,-79.5850215,2,Martin Grove Road (349),a,Martin Grove Road,689,5411724,497595349,Etobicoke,38014
 43.7223013,-79.6136873,2,Thoroughbred Crescent (617),a,Thoroughbred Crescent,20,5412657,98656617,Etobicoke,38014
 43.7223022,-79.6031892,2,Queen's Plate Drive (180),a,Queen's Plate Drive,188,5411993,96040180,Etobicoke,38014
-43.7223086,-79.5887006,2,Pergola Road (302),a,Pergola Road,13,5411918,95599302,Etobicoke,38014
-43.7223086,-79.5887006,2,Kearney Drive (604),a,Kearney Drive,15,5412306,97639604,Etobicoke,38014
 43.722317,-79.6164678,2,Cinrickbar Drive (729),a,Cinrickbar Drive,52,5412658,98657729,Etobicoke,38014
-43.7223207,-79.5885348,2,Pergola Road (751),a,Pergola Road,13,5411918,438950751,Etobicoke,38014
 43.7223278,-79.6151268,2,Kingsplate Crescent (847),a,Kingsplate Crescent,28,5412661,98659847,Etobicoke,38014
-43.7223336,-79.5883576,2,Pergola Road (303),a,Pergola Road,13,5411918,95599303,Etobicoke,38014
 43.7223359,-79.6150521,2,Kingsplate Crescent (846),a,Kingsplate Crescent,28,5412661,98659846,Etobicoke,38014
 43.7223375,-79.6151886,2,Kingsplate Crescent (848),a,Kingsplate Crescent,28,5412661,98659848,Etobicoke,38014
 43.7223438,-79.614965,2,Kingsplate Crescent (845),a,Kingsplate Crescent,28,5412661,98659845,Etobicoke,38014
 43.7223473,-79.6152505,2,Kingsplate Crescent (849),a,Kingsplate Crescent,28,5412661,98659849,Etobicoke,38014
 43.7223752,-79.6153243,2,Kingsplate Crescent (850),a,Kingsplate Crescent,28,5412661,98659850,Etobicoke,38014
-43.7223771,-79.5913359,2,Millview Crescent (041),a,Millview Crescent,17,5411916,95593041,Etobicoke,38014
 43.7223826,-79.6137102,2,Thoroughbred Crescent (618),a,Thoroughbred Crescent,20,5412657,98656618,Etobicoke,38014
-43.7223924,-79.5842456,2,Porterfield Road (547),a,Porterfield Road,23,5411915,95579547,Etobicoke,38014
-43.7223924,-79.5842456,2,Guiness Avenue (200),a,Guiness Avenue,13,5411925,95662200,Etobicoke,38014
 43.7223938,-79.6176083,2,Secretariat Drive (297),a,Secretariat Drive,19,5412662,98660297,Etobicoke,38014
-43.72241,-79.5879188,2,Pergola Road (304),a,Pergola Road,13,5411918,95599304,Etobicoke,38014
 43.7224117,-79.6153607,2,Kingsplate Crescent (851),a,Kingsplate Crescent,28,5412661,98659851,Etobicoke,38014
 43.7224157,-79.5956162,2,Queen's Plate Drive (076),a,Queen's Plate Drive,188,5411993,96040076,Etobicoke,38014
 43.7224199,-79.6145536,2,Kingsplate Crescent (844),a,Kingsplate Crescent,28,5412661,98659844,Etobicoke,38014
@@ -2466,21 +2031,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7224753,-79.6200148,2,Hullrick Drive (561),a,Hullrick Drive,41,5412656,98655561,Etobicoke,38014
 43.7224844,-79.6154211,2,Kingsplate Crescent (852),a,Kingsplate Crescent,28,5412661,98659852,Etobicoke,38014
 43.7224892,-79.6143285,2,Kingsplate Crescent (843),a,Kingsplate Crescent,28,5412661,98659843,Etobicoke,38014
-43.7224904,-79.5842888,2,Guiness Avenue (598),a,Guiness Avenue,13,5411925,438500598,Etobicoke,38014
 43.7225074,-79.6165752,2,Cinrickbar Drive (731),a,Cinrickbar Drive,52,5412658,98657731,Etobicoke,38014
 43.7225102,-79.6189164,2,Arborwood Drive (030),a,Arborwood Drive,17,5412660,98659030,Etobicoke,38014
 43.7225151,-79.614241,2,Kingsplate Crescent (842),a,Kingsplate Crescent,28,5412661,98659842,Etobicoke,38014
 43.7225295,-79.5958502,2,Queen's Plate Drive (250),a,Queen's Plate Drive,188,5411993,359577250,Etobicoke,38014
 43.7225456,-79.613781,2,Thoroughbred Crescent (620),a,Thoroughbred Crescent,20,5412657,98656620,Etobicoke,38014
 43.7225709,-79.616611,2,Cinrickbar Drive (732),a,Cinrickbar Drive,52,5412658,98657732,Etobicoke,38014
-43.7225765,-79.5830845,2,Heatherglen Road (597),a,Heatherglen Road,5,5411924,438500597,Etobicoke,38014
 43.7225769,-79.6141403,2,Kingsplate Crescent (841),a,Kingsplate Crescent,28,5412661,98659841,Etobicoke,38014
 43.7225842,-79.6154809,2,Kingsplate Crescent (853),a,Kingsplate Crescent,28,5412661,98659853,Etobicoke,38014
 43.722591,-79.6138171,2,Thoroughbred Crescent (621),a,Thoroughbred Crescent,20,5412657,98656621,Etobicoke,38014
-43.7225929,-79.5872227,2,Pergola Road (305),a,Pergola Road,13,5411918,95599305,Etobicoke,38014
-43.7225929,-79.5872227,2,Humheller Road (894),a,Humheller Road,5,5411919,95604894,Etobicoke,38014
-43.7225951,-79.5851599,2,Martin Grove Road (287),a,Martin Grove Road,689,5411724,497595287,Etobicoke,38014
-43.7225951,-79.5851599,2,Martin Grove Road (350),a,Martin Grove Road,689,5411724,497595350,Etobicoke,38014
 43.7225974,-79.6212687,2,Cinrickbar Drive (762),a,Cinrickbar Drive,52,5412658,98657762,Etobicoke,38014
 43.722612,-79.614065,2,Kingsplate Crescent (840),a,Kingsplate Crescent,28,5412661,98659840,Etobicoke,38014
 43.7226154,-79.5979112,2,Highway 27 (548),a,Highway 27,185,5411524,512214548,Etobicoke,38014
@@ -2490,13 +2049,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7226282,-79.6130329,2,Humberwood Boulevard (074),a,Humberwood Boulevard,131,5411996,96061074,Etobicoke,38014
 43.7226328,-79.5960625,2,Queen's Plate Drive (074),a,Queen's Plate Drive,188,5411993,96040074,Etobicoke,38014
 43.7226384,-79.6140147,2,Kingsplate Crescent (839),a,Kingsplate Crescent,28,5412661,98659839,Etobicoke,38014
-43.7226499,-79.5831207,2,Porterfield Road (546),a,Porterfield Road,23,5411915,95579546,Etobicoke,38014
-43.7226499,-79.5831207,2,Heatherglen Road (623),a,Heatherglen Road,5,5411924,95655623,Etobicoke,38014
 43.7226517,-79.6212674,2,Cinrickbar Drive (763),a,Cinrickbar Drive,52,5412658,98657763,Etobicoke,38014
 43.722655,-79.6025346,2,Queen's Plate Drive (172),a,Queen's Plate Drive,188,5411993,579925172,Etobicoke,38014
 43.722655,-79.6025346,2,Queen's Plate Drive (209),a,Queen's Plate Drive,188,5411993,579925209,Etobicoke,38014
 43.7226612,-79.6166337,2,Cinrickbar Drive (733),a,Cinrickbar Drive,52,5412658,98657733,Etobicoke,38014
-43.7226687,-79.5872557,2,Humheller Road (301),a,Humheller Road,5,5411919,431997301,Etobicoke,38014
 43.7226839,-79.6155407,2,Kingsplate Crescent (854),a,Kingsplate Crescent,28,5412661,98659854,Etobicoke,38014
 43.7226915,-79.613939,2,Thoroughbred Crescent (623),a,Thoroughbred Crescent,20,5412657,98656623,Etobicoke,38014
 43.7226915,-79.613939,2,Kingsplate Crescent (838),a,Kingsplate Crescent,28,5412661,98659838,Etobicoke,38014
@@ -2548,7 +2104,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7228029,-79.5979951,2,Highway 27 (951),a,Highway 27,185,5411524,92429951,Etobicoke,38014
 43.7228029,-79.5979951,2,Queen's Plate Drive (001),a,Queen's Plate Drive,188,5411993,96040001,Etobicoke,38014
 43.7228029,-79.5979951,2,Queen's Plate Drive (019),a,Queen's Plate Drive,188,5411993,96040019,Etobicoke,38014
-43.7228051,-79.5862461,2,Pergola Road (306),a,Pergola Road,13,5411918,95599306,Etobicoke,38014
 43.7228062,-79.5989762,2,Queen's Plate Drive (996),a,Queen's Plate Drive,188,5411993,96039996,Etobicoke,38014
 43.7228194,-79.6023288,2,Triple Crown Avenue (873),a,Triple Crown Avenue,32,5413003,425039873,Etobicoke,38014
 43.7228201,-79.6178592,2,Secretariat Drive (298),a,Secretariat Drive,19,5412662,98660298,Etobicoke,38014
@@ -2557,14 +2112,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7228372,-79.603718,2,Mare Crescent (578),a,Mare Crescent,18,5413004,98891578,Etobicoke,38014
 43.7228384,-79.6141715,2,Thoroughbred Crescent (684),a,Thoroughbred Crescent,20,5412657,335002684,Etobicoke,38014
 43.7228467,-79.615599,2,Kingsplate Crescent (856),a,Kingsplate Crescent,28,5412661,98659856,Etobicoke,38014
-43.7228471,-79.5810482,2,Porterfield Road (626),a,Porterfield Road,23,5411915,490816626,Etobicoke,38014
-43.7228471,-79.5810482,2,Delsing Drive (546),a,Delsing Drive,20,5411926,95667546,Etobicoke,38014
 43.7228479,-79.6038544,2,Mare Crescent (580),a,Mare Crescent,18,5413004,98891580,Etobicoke,38014
 43.722849,-79.6023423,2,Triple Crown Avenue (242),a,Triple Crown Avenue,32,5413003,389742242,Etobicoke,38014
-43.7228609,-79.5862118,2,Pergola Road (307),a,Pergola Road,13,5411918,95599307,Etobicoke,38014
 43.7228665,-79.6039036,2,Mare Crescent (581),a,Mare Crescent,18,5413004,98891581,Etobicoke,38014
 43.7228744,-79.6178827,2,Secretariat Drive (299),a,Secretariat Drive,19,5412662,98660299,Etobicoke,38014
-43.7228758,-79.5822148,2,Porterfield Road (544),a,Porterfield Road,23,5411915,95579544,Etobicoke,38014
 43.7228763,-79.5996609,2,Queen's Plate Drive (052),a,Queen's Plate Drive,188,5411993,96040052,Etobicoke,38014
 43.7228763,-79.5996609,2,Queen's Plate Drive (204),a,Queen's Plate Drive,188,5411993,579925204,Etobicoke,38014
 43.7228854,-79.6017678,2,Queen's Plate Drive (049),a,Queen's Plate Drive,188,5411993,96040049,Etobicoke,38014
@@ -2573,19 +2124,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.722889,-79.5982597,2,Highway 27 (907),a,Highway 27,185,5411524,432527907,Etobicoke,38014
 43.722892,-79.5980388,2,Highway 27 (908),a,Highway 27,185,5411524,432527908,Etobicoke,38014
 43.7229004,-79.6011584,2,Queen's Plate Drive (812),a,Queen's Plate Drive,188,5411993,328756812,Etobicoke,38014
-43.7229105,-79.5927178,2,Mercury Road (985),a,Mercury Road,29,5412299,97608985,Etobicoke,38014
-43.7229114,-79.5820288,2,Porterfield Road (274),a,Porterfield Road,23,5411915,434127274,Etobicoke,38014
 43.7229189,-79.6010544,2,Queen's Plate Drive (806),a,Queen's Plate Drive,188,5411993,328756806,Etobicoke,38014
 43.7229189,-79.6010544,2,Queen's Plate Drive (813),a,Queen's Plate Drive,188,5411993,328756813,Etobicoke,38014
 43.7229195,-79.6178941,2,Secretariat Drive (300),a,Secretariat Drive,19,5412662,98660300,Etobicoke,38014
 43.7229246,-79.5998765,2,Queen's Plate Drive (156),a,Queen's Plate Drive,188,5411993,579925156,Etobicoke,38014
 43.7229246,-79.5998765,2,Queen's Plate Drive (203),a,Queen's Plate Drive,188,5411993,579925203,Etobicoke,38014
-43.7229247,-79.5916038,2,Millview Crescent (043),a,Millview Crescent,17,5411916,95593043,Etobicoke,38014
-43.7229254,-79.5814781,2,Porterfield Road (540),a,Porterfield Road,23,5411915,95579540,Etobicoke,38014
-43.7229291,-79.5862118,2,Pergola Road (308),a,Pergola Road,13,5411918,95599308,Etobicoke,38014
 43.7229318,-79.6204359,2,Cinrickbar Drive (767),a,Cinrickbar Drive,52,5412658,98657767,Etobicoke,38014
-43.7229331,-79.5818472,2,Porterfield Road (542),a,Porterfield Road,23,5411915,95579542,Etobicoke,38014
-43.7229353,-79.581641,2,Porterfield Road (273),a,Porterfield Road,23,5411915,434127273,Etobicoke,38014
 43.7229395,-79.6009568,2,Queen's Plate Drive (807),a,Queen's Plate Drive,188,5411993,328756807,Etobicoke,38014
 43.7229395,-79.6009568,2,Janda Court (801),a,Janda Court,28,5413006,328756801,Etobicoke,38014
 43.7229462,-79.615634,2,Kingsplate Crescent (857),a,Kingsplate Crescent,28,5412661,98659857,Etobicoke,38014
@@ -2597,7 +2141,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7229647,-79.6179055,2,Secretariat Drive (301),a,Secretariat Drive,19,5412662,98660301,Etobicoke,38014
 43.7229659,-79.5996216,2,Queen's Plate Drive (998),a,Queen's Plate Drive,188,5411993,96039998,Etobicoke,38014
 43.7229659,-79.5996216,2,Queen's Plate Drive (031),a,Queen's Plate Drive,188,5411993,96040031,Etobicoke,38014
-43.7229911,-79.592692,2,Mercury Road (980),a,Mercury Road,29,5412299,97608980,Etobicoke,38014
 43.7229956,-79.6167378,2,Cinrickbar Drive (737),a,Cinrickbar Drive,52,5412658,98657737,Etobicoke,38014
 43.7230043,-79.6012007,2,Queen's Plate Drive (817),a,Queen's Plate Drive,188,5411993,328756817,Etobicoke,38014
 43.7230098,-79.6179169,2,Secretariat Drive (302),a,Secretariat Drive,19,5412662,98660302,Etobicoke,38014
@@ -2605,7 +2148,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7230217,-79.6011107,2,Queen's Plate Drive (816),a,Queen's Plate Drive,188,5411993,328756816,Etobicoke,38014
 43.7230217,-79.6011107,2,Janda Court (805),a,Janda Court,28,5413006,328756805,Etobicoke,38014
 43.7230231,-79.6005106,2,Queen's Plate Drive (026),a,Queen's Plate Drive,188,5411993,96040026,Etobicoke,38014
-43.7230284,-79.5926491,2,Mercury Road (978),a,Mercury Road,29,5412299,97608978,Etobicoke,38014
 43.7230298,-79.613366,2,Humberwood Boulevard (076),a,Humberwood Boulevard,131,5411996,96061076,Etobicoke,38014
 43.7230421,-79.6010046,2,Queen's Plate Drive (811),a,Queen's Plate Drive,188,5411993,328756811,Etobicoke,38014
 43.7230421,-79.6010046,2,Queen's Plate Drive (815),a,Queen's Plate Drive,188,5411993,328756815,Etobicoke,38014
@@ -2613,42 +2155,29 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7230457,-79.6179036,2,Secretariat Drive (303),a,Secretariat Drive,19,5412662,98660303,Etobicoke,38014
 43.7230547,-79.6156687,2,Kingsplate Crescent (858),a,Kingsplate Crescent,28,5412661,98659858,Etobicoke,38014
 43.7230573,-79.6009258,2,Queen's Plate Drive (810),a,Queen's Plate Drive,188,5411993,328756810,Etobicoke,38014
-43.7230592,-79.5809735,2,Delsing Drive (547),a,Delsing Drive,20,5411926,95667547,Etobicoke,38014
 43.7230722,-79.6178658,2,Secretariat Drive (304),a,Secretariat Drive,19,5412662,98660304,Etobicoke,38014
 43.7230799,-79.6011412,2,Janda Court (804),a,Janda Court,28,5413006,328756804,Etobicoke,38014
-43.7230842,-79.5905205,2,Millview Court (708),a,Millview Court,3,5411917,95595708,Etobicoke,38014
 43.7230899,-79.600087,2,Queen's Plate Drive (033),a,Queen's Plate Drive,188,5411993,96040033,Etobicoke,38014
 43.7230988,-79.6178279,2,Secretariat Drive (305),a,Secretariat Drive,19,5412662,98660305,Etobicoke,38014
 43.7230998,-79.6010315,2,Janda Court (803),a,Janda Court,28,5413006,328756803,Etobicoke,38014
 43.7231055,-79.6025668,2,Mare Crescent (375),a,Mare Crescent,18,5413004,415121375,Etobicoke,38014
 43.7231072,-79.6177781,2,Secretariat Drive (306),a,Secretariat Drive,19,5412662,98660306,Etobicoke,38014
-43.7231104,-79.5899561,2,Millview Court (750),a,Millview Court,3,5411917,438950750,Etobicoke,38014
 43.723115,-79.6176786,2,Secretariat Drive (308),a,Secretariat Drive,19,5412662,98660308,Etobicoke,38014
 43.7231156,-79.6177282,2,Secretariat Drive (307),a,Secretariat Drive,19,5412662,98660307,Etobicoke,38014
-43.7231158,-79.5898386,2,Millview Crescent (027),a,Millview Crescent,17,5411916,95593027,Etobicoke,38014
-43.7231158,-79.5898386,2,Millview Court (709),a,Millview Court,3,5411917,95595709,Etobicoke,38014
-43.7231196,-79.5809693,2,Delsing Drive (548),a,Delsing Drive,20,5411926,95667548,Etobicoke,38014
 43.7231232,-79.6005952,2,Queen's Plate Drive (037),a,Queen's Plate Drive,188,5411993,96040037,Etobicoke,38014
 43.723124,-79.6003501,2,Queen's Plate Drive (035),a,Queen's Plate Drive,188,5411993,96040035,Etobicoke,38014
 43.7231281,-79.6024698,2,Triple Crown Avenue (103),a,Triple Crown Avenue,32,5413003,98891103,Etobicoke,38014
 43.7231281,-79.6024698,2,Mare Crescent (577),a,Mare Crescent,18,5413004,98891577,Etobicoke,38014
 43.723154,-79.6156913,2,Kingsplate Crescent (859),a,Kingsplate Crescent,28,5412661,98659859,Etobicoke,38014
-43.7231807,-79.5809804,2,Delsing Drive (577),a,Delsing Drive,20,5411926,389741577,Etobicoke,38014
 43.7231832,-79.6020215,2,Frost King Lane (723),a,Frost King Lane,8,5413290,99020723,Etobicoke,38014
 43.7231837,-79.5983704,2,Highway 27 (943),a,Highway 27,185,5411524,92429943,Etobicoke,38014
 43.7231837,-79.5983704,2,Highway 27 (944),a,Highway 27,185,5411524,92429944,Etobicoke,38014
-43.7231854,-79.5845956,2,Guiness Avenue (201),a,Guiness Avenue,13,5411925,95662201,Etobicoke,38014
-43.7231854,-79.5845956,2,Holbeach Road (415),a,Holbeach Road,7,5411927,95670415,Etobicoke,38014
 43.7231856,-79.6200784,2,Hullrick Drive (492),a,Hullrick Drive,41,5412656,98655492,Etobicoke,38014
-43.7232186,-79.5844573,2,Holbeach Road (599),a,Holbeach Road,7,5411927,438500599,Etobicoke,38014
-43.7232376,-79.5748207,2,Jeffcoat Drive (270),a,Jeffcoat Drive,91,5411921,95635270,Etobicoke,38014
 43.7232394,-79.6167942,2,Cinrickbar Drive (738),a,Cinrickbar Drive,52,5412658,98657738,Etobicoke,38014
 43.7232394,-79.6167942,2,Secretariat Drive (309),a,Secretariat Drive,19,5412662,98660309,Etobicoke,38014
 43.7232444,-79.6149815,2,Thoroughbred Crescent (685),a,Thoroughbred Crescent,20,5412657,335002685,Etobicoke,38014
 43.7232626,-79.601681,2,Frost King Lane (724),a,Frost King Lane,8,5413290,99020724,Etobicoke,38014
 43.7232626,-79.601681,2,Frost King Lane (729),a,Frost King Lane,8,5413290,99020729,Etobicoke,38014
-43.7232715,-79.5917979,2,Millview Crescent (749),a,Millview Crescent,17,5411916,438950749,Etobicoke,38014
-43.7232718,-79.5810098,2,Delsing Drive (549),a,Delsing Drive,20,5411926,95667549,Etobicoke,38014
 43.7232739,-79.5984153,2,Highway 27 (938),a,Highway 27,185,5411524,92429938,Etobicoke,38014
 43.7232804,-79.6157256,2,Kingsplate Crescent (860),a,Kingsplate Crescent,28,5412661,98659860,Etobicoke,38014
 43.7232847,-79.5982477,2,Highway 27 (955),a,Highway 27,185,5411524,92429955,Etobicoke,38014
@@ -2663,11 +2192,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7233484,-79.6200543,2,Hullrick Drive (493),a,Hullrick Drive,41,5412656,98655493,Etobicoke,38014
 43.7233488,-79.6012337,2,Janda Court (164),a,Janda Court,28,5413006,98892164,Etobicoke,38014
 43.7233488,-79.6012337,2,Frost King Lane (725),a,Frost King Lane,8,5413290,99020725,Etobicoke,38014
-43.7233509,-79.5918423,2,Millview Crescent (045),a,Millview Crescent,17,5411916,95593045,Etobicoke,38014
-43.7233509,-79.5918423,2,Mercury Road (975),a,Mercury Road,29,5412299,97608975,Etobicoke,38014
 43.7233621,-79.6190578,2,Arborwood Drive (162),a,Arborwood Drive,17,5412660,359577162,Etobicoke,38014
 43.723365,-79.6152767,2,Thoroughbred Crescent (687),a,Thoroughbred Crescent,20,5412657,335002687,Etobicoke,38014
-43.7233718,-79.5810614,2,Delsing Drive (550),a,Delsing Drive,20,5411926,95667550,Etobicoke,38014
 43.7233728,-79.6218814,2,View Green Crescent (699),a,View Green Crescent,26,5412659,98658699,Etobicoke,38014
 43.7233828,-79.6011387,2,Janda Court (228),a,Janda Court,28,5413006,389742228,Etobicoke,38014
 43.723384,-79.6042194,2,Mare Crescent (583),a,Mare Crescent,18,5413004,98891583,Etobicoke,38014
@@ -2675,7 +2201,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7233888,-79.6157479,2,Thoroughbred Crescent (690),a,Thoroughbred Crescent,20,5412657,335002690,Etobicoke,38014
 43.7233888,-79.6157479,2,Kingsplate Crescent (861),a,Kingsplate Crescent,28,5412661,98659861,Etobicoke,38014
 43.7233888,-79.6157479,2,Kingsplate Crescent (862),a,Kingsplate Crescent,28,5412661,98659862,Etobicoke,38014
-43.7233899,-79.5748238,2,Jeffcoat Drive (269),a,Jeffcoat Drive,91,5411921,95635269,Etobicoke,38014
 43.7233937,-79.6154126,2,Thoroughbred Crescent (688),a,Thoroughbred Crescent,20,5412657,335002688,Etobicoke,38014
 43.7233961,-79.6156112,2,Thoroughbred Crescent (689),a,Thoroughbred Crescent,20,5412657,335002689,Etobicoke,38014
 43.7234249,-79.604228,2,Mare Crescent (903),a,Mare Crescent,18,5413004,425039903,Etobicoke,38014
@@ -2685,20 +2210,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7234385,-79.5984056,2,Highway 27 (957),a,Highway 27,185,5411524,92429957,Etobicoke,38014
 43.7234439,-79.6012272,2,Janda Court (232),a,Janda Court,28,5413006,389742232,Etobicoke,38014
 43.7234468,-79.6011327,2,Janda Court (158),a,Janda Court,28,5413006,98892158,Etobicoke,38014
-43.7234564,-79.5898682,2,Millview Crescent (024),a,Millview Crescent,17,5411916,95593024,Etobicoke,38014
 43.7234688,-79.619068,2,Humberwood Boulevard (761),a,Humberwood Boulevard,131,5411996,497595761,Etobicoke,38014
 43.7234688,-79.619068,2,Arborwood Drive (032),a,Arborwood Drive,17,5412660,98659032,Etobicoke,38014
 43.7234794,-79.6042302,2,Mare Crescent (902),a,Mare Crescent,18,5413004,425039902,Etobicoke,38014
 43.7234925,-79.6195435,2,Humberwood Boulevard (762),a,Humberwood Boulevard,131,5411996,497595762,Etobicoke,38014
 43.7234931,-79.6200028,2,Hullrick Drive (158),a,Hullrick Drive,41,5412656,359577158,Etobicoke,38014
 43.723528,-79.6018079,2,Frost King Lane (728),a,Frost King Lane,8,5413290,99020728,Etobicoke,38014
-43.7235308,-79.5887781,2,Kearney Drive (605),a,Kearney Drive,15,5412306,97639605,Etobicoke,38014
 43.7235321,-79.6011119,2,Janda Court (229),a,Janda Court,28,5413006,389742229,Etobicoke,38014
 43.7235374,-79.6012086,2,Janda Court (163),a,Janda Court,28,5413006,98892163,Etobicoke,38014
 43.7235965,-79.6158052,2,Kingsplate Crescent (863),a,Kingsplate Crescent,28,5412661,98659863,Etobicoke,38014
 43.7235973,-79.6199657,2,Humberwood Boulevard (763),a,Humberwood Boulevard,131,5411996,497595763,Etobicoke,38014
 43.7235973,-79.6199657,2,Hullrick Drive (494),a,Hullrick Drive,41,5412656,98655494,Etobicoke,38014
-43.7236052,-79.5914217,2,Mercury Road (972),a,Mercury Road,29,5412299,97608972,Etobicoke,38014
 43.7236181,-79.6207093,2,View Green Crescent (275),a,View Green Crescent,26,5412659,579926275,Etobicoke,38014
 43.7236254,-79.6010667,2,Janda Court (159),a,Janda Court,28,5413006,98892159,Etobicoke,38014
 43.723628,-79.6011549,2,Janda Court (162),a,Janda Court,28,5413006,98892162,Etobicoke,38014
@@ -2711,8 +2233,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7236927,-79.6010771,2,Janda Court (160),a,Janda Court,28,5413006,98892160,Etobicoke,38014
 43.7236927,-79.6010771,2,Janda Court (161),a,Janda Court,28,5413006,98892161,Etobicoke,38014
 43.7236927,-79.6010771,2,Janda Court (169),a,Janda Court,28,5413006,98892169,Etobicoke,38014
-43.7237011,-79.5812098,2,Delsing Drive (307),a,Delsing Drive,20,5411926,434127307,Etobicoke,38014
-43.7237081,-79.5824219,2,Holbeach Road (413),a,Holbeach Road,7,5411927,95670413,Etobicoke,38014
 43.7237084,-79.6220847,2,View Green Crescent (700),a,View Green Crescent,26,5412659,98658700,Etobicoke,38014
 43.723728,-79.6027275,2,Triple Crown Avenue (104),a,Triple Crown Avenue,32,5413003,98891104,Etobicoke,38014
 43.723728,-79.6027275,2,Stallion Place (680),a,Stallion Place,3,5413005,98891680,Etobicoke,38014
@@ -2724,31 +2244,24 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7237403,-79.6169221,2,Cinrickbar Drive (691),a,Cinrickbar Drive,52,5412658,335002691,Etobicoke,38014
 43.7237403,-79.6169221,2,Westowanis Drive (166),a,Westowanis Drive,26,5413456,99052166,Etobicoke,38014
 43.7237569,-79.6204517,2,View Green Crescent (278),a,View Green Crescent,26,5412659,579926278,Etobicoke,38014
-43.7237588,-79.5822558,2,Holbeach Road (309),a,Holbeach Road,7,5411927,434127309,Etobicoke,38014
 43.7237643,-79.6204116,2,View Green Crescent (279),a,View Green Crescent,26,5412659,579926279,Etobicoke,38014
 43.7237656,-79.6202865,2,Humberwood Boulevard (748),a,Humberwood Boulevard,131,5411996,579923748,Etobicoke,38014
 43.7237656,-79.6202865,2,Humberwood Boulevard (756),a,Humberwood Boulevard,131,5411996,579923756,Etobicoke,38014
 43.7237656,-79.6202865,2,View Green Crescent (280),a,View Green Crescent,26,5412659,579926280,Etobicoke,38014
-43.7237665,-79.5899626,2,Millview Crescent (022),a,Millview Crescent,17,5411916,95593022,Etobicoke,38014
 43.7237742,-79.6147221,2,Humberwood Boulevard (077),a,Humberwood Boulevard,131,5411996,96061077,Etobicoke,38014
 43.7237805,-79.6220831,2,View Green Crescent (701),a,View Green Crescent,26,5412659,98658701,Etobicoke,38014
 43.7238005,-79.6205055,2,View Green Crescent (283),a,View Green Crescent,26,5412659,579926283,Etobicoke,38014
-43.7238106,-79.5821274,2,Holbeach Road (411),a,Holbeach Road,7,5411927,95670411,Etobicoke,38014
 43.7238152,-79.6205017,2,View Green Crescent (282),a,View Green Crescent,26,5412659,579926282,Etobicoke,38014
 43.7238162,-79.6220574,2,View Green Crescent (703),a,View Green Crescent,26,5412659,98658703,Etobicoke,38014
 43.7238185,-79.6158533,2,Kingsplate Crescent (095),a,Kingsplate Crescent,28,5412661,389742095,Etobicoke,38014
 43.7238215,-79.620364,2,Humberwood Boulevard (749),a,Humberwood Boulevard,131,5411996,579923749,Etobicoke,38014
-43.7238227,-79.5812807,2,Delsing Drive (551),a,Delsing Drive,20,5411926,95667551,Etobicoke,38014
 43.7238245,-79.6163774,2,Humberwood Boulevard (769),a,Humberwood Boulevard,131,5411996,497595769,Etobicoke,38014
 43.7238245,-79.6163774,2,Humberwood Boulevard (771),a,Humberwood Boulevard,131,5411996,497595771,Etobicoke,38014
-43.7238359,-79.5848992,2,Guiness Avenue (203),a,Guiness Avenue,13,5411925,95662203,Etobicoke,38014
 43.72384,-79.6169492,2,Westowanis Drive (994),a,Westowanis Drive,26,5413456,328756994,Etobicoke,38014
 43.7238429,-79.622032,2,View Green Crescent (705),a,View Green Crescent,26,5412659,98658705,Etobicoke,38014
 43.7238606,-79.6220068,2,View Green Crescent (706),a,View Green Crescent,26,5412659,98658706,Etobicoke,38014
-43.7238657,-79.5888811,2,Kearney Drive (606),a,Kearney Drive,15,5412306,97639606,Etobicoke,38014
 43.7238756,-79.6169589,2,Westowanis Drive (377),a,Westowanis Drive,26,5413456,359577377,Etobicoke,38014
 43.7238781,-79.6219691,2,View Green Crescent (707),a,View Green Crescent,26,5412659,98658707,Etobicoke,38014
-43.7238808,-79.5849192,2,Guiness Avenue (303),a,Guiness Avenue,13,5411925,434127303,Etobicoke,38014
 43.723892,-79.6151341,2,Humberwood Boulevard (078),a,Humberwood Boulevard,131,5411996,96061078,Etobicoke,38014
 43.7239026,-79.6158715,2,Humberwood Boulevard (766),a,Humberwood Boulevard,131,5411996,497595766,Etobicoke,38014
 43.7239026,-79.6158715,2,Humberwood Boulevard (768),a,Humberwood Boulevard,131,5411996,497595768,Etobicoke,38014
@@ -2761,26 +2274,18 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7239186,-79.6192986,2,Westowanis Drive (176),a,Westowanis Drive,26,5413456,99052176,Etobicoke,38014
 43.7239209,-79.61923,2,Westowanis Drive (175),a,Westowanis Drive,26,5413456,99052175,Etobicoke,38014
 43.723923,-79.615563,2,Humberwood Boulevard (765),a,Humberwood Boulevard,131,5411996,497595765,Etobicoke,38014
-43.7239269,-79.584907,2,Guiness Avenue (204),a,Guiness Avenue,13,5411925,95662204,Etobicoke,38014
 43.7239306,-79.6193927,2,Westowanis Drive (178),a,Westowanis Drive,26,5413456,99052178,Etobicoke,38014
 43.7239433,-79.6190195,2,Westowanis Drive (173),a,Westowanis Drive,26,5413456,99052173,Etobicoke,38014
-43.7239591,-79.5848554,2,Guiness Avenue (304),a,Guiness Avenue,13,5411925,434127304,Etobicoke,38014
 43.723966,-79.6195368,2,Westowanis Drive (180),a,Westowanis Drive,26,5413456,99052180,Etobicoke,38014
-43.7239727,-79.5847819,2,Guiness Avenue (205),a,Guiness Avenue,13,5411925,95662205,Etobicoke,38014
-43.7239747,-79.5814083,2,Delsing Drive (308),a,Delsing Drive,20,5411926,434127308,Etobicoke,38014
 43.7239911,-79.6041202,2,Mare Crescent (894),a,Mare Crescent,18,5413004,425039894,Etobicoke,38014
 43.7240068,-79.6196639,2,Westowanis Drive (181),a,Westowanis Drive,26,5413456,99052181,Etobicoke,38014
 43.7240378,-79.602022,2,Frost King Lane (727),a,Frost King Lane,8,5413290,99020727,Etobicoke,38014
 43.7240378,-79.602022,2,Pedigree Mews (926),a,Pedigree Mews,7,5413291,99020926,Etobicoke,38014
 43.7240409,-79.6205844,2,Humberwood Boulevard (124),a,Humberwood Boulevard,131,5411996,96061124,Etobicoke,38014
 43.724046,-79.6040868,2,Mare Crescent (896),a,Mare Crescent,18,5413004,425039896,Etobicoke,38014
-43.7240512,-79.5816439,2,Holbeach Road (234),a,Holbeach Road,7,5411927,335002234,Etobicoke,38014
-43.7240518,-79.5901257,2,Millview Crescent (019),a,Millview Crescent,17,5411916,95593019,Etobicoke,38014
 43.7240889,-79.6040401,2,Mare Crescent (901),a,Mare Crescent,18,5413004,425039901,Etobicoke,38014
 43.7240955,-79.6198397,2,Westowanis Drive (182),a,Westowanis Drive,26,5413456,99052182,Etobicoke,38014
 43.724103,-79.601768,2,Pedigree Mews (925),a,Pedigree Mews,7,5413291,99020925,Etobicoke,38014
-43.7241046,-79.5815438,2,Delsing Drive (552),a,Delsing Drive,20,5411926,95667552,Etobicoke,38014
-43.7241046,-79.5815438,2,Holbeach Road (410),a,Holbeach Road,7,5411927,95670410,Etobicoke,38014
 43.7241123,-79.6039949,2,Mare Crescent (895),a,Mare Crescent,18,5413004,425039895,Etobicoke,38014
 43.7241213,-79.6170256,2,Westowanis Drive (167),a,Westowanis Drive,26,5413456,99052167,Etobicoke,38014
 43.7241309,-79.6008077,2,Janda Court (175),a,Janda Court,28,5413006,98892175,Etobicoke,38014
@@ -2796,7 +2301,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7242299,-79.6016617,2,Pedigree Mews (924),a,Pedigree Mews,7,5413291,99020924,Etobicoke,38014
 43.7242383,-79.6209097,2,View Green Crescent (276),a,View Green Crescent,26,5412659,579926276,Etobicoke,38014
 43.7242572,-79.6007592,2,Janda Court (179),a,Janda Court,28,5413006,98892179,Etobicoke,38014
-43.7242813,-79.5903145,2,Millview Crescent (016),a,Millview Crescent,17,5411916,95593016,Etobicoke,38014
 43.724282,-79.6207973,2,Humberwood Boulevard (125),a,Humberwood Boulevard,131,5411996,96061125,Etobicoke,38014
 43.724282,-79.6207973,2,Humberwood Boulevard (754),a,Humberwood Boulevard,131,5411996,579923754,Etobicoke,38014
 43.724282,-79.6207973,2,View Green Crescent (711),a,View Green Crescent,26,5412659,98658711,Etobicoke,38014
@@ -2810,10 +2314,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7243336,-79.6014234,2,Pedigree Mews (923),a,Pedigree Mews,7,5413291,99020923,Etobicoke,38014
 43.724336,-79.6033575,2,Mare Crescent (898),a,Mare Crescent,18,5413004,425039898,Etobicoke,38014
 43.7243419,-79.6013393,2,Pedigree Mews (922),a,Pedigree Mews,7,5413291,99020922,Etobicoke,38014
-43.7243622,-79.5773961,2,Amoro Drive (043),a,Amoro Drive,24,5411933,409023043,Etobicoke,38014
 43.7243895,-79.6202267,2,Westowanis Drive (183),a,Westowanis Drive,26,5413456,99052183,Etobicoke,38014
 43.7243909,-79.6007622,2,Janda Court (181),a,Janda Court,28,5413006,98892181,Etobicoke,38014
-43.7243935,-79.5904698,2,Millview Crescent (748),a,Millview Crescent,17,5411916,438950748,Etobicoke,38014
 43.7244064,-79.6204613,2,Westowanis Drive (190),a,Westowanis Drive,26,5413456,99052190,Etobicoke,38014
 43.7244113,-79.6202715,2,Westowanis Drive (184),a,Westowanis Drive,26,5413456,99052184,Etobicoke,38014
 43.7244141,-79.6030247,2,Triple Crown Avenue (882),a,Triple Crown Avenue,32,5413003,425039882,Etobicoke,38014
@@ -2823,37 +2325,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7244212,-79.6203985,2,Westowanis Drive (188),a,Westowanis Drive,26,5413456,99052188,Etobicoke,38014
 43.7244233,-79.6203291,2,Westowanis Drive (186),a,Westowanis Drive,26,5413456,99052186,Etobicoke,38014
 43.7244247,-79.6203629,2,Westowanis Drive (187),a,Westowanis Drive,26,5413456,99052187,Etobicoke,38014
-43.7244798,-79.5905892,2,Millview Crescent (014),a,Millview Crescent,17,5411916,95593014,Etobicoke,38014
-43.7244798,-79.5905892,2,Mercury Road (969),a,Mercury Road,29,5412299,97608969,Etobicoke,38014
-43.7244975,-79.5825811,2,Guiness Avenue (206),a,Guiness Avenue,13,5411925,95662206,Etobicoke,38014
 43.7245033,-79.600799,2,Janda Court (182),a,Janda Court,28,5413006,98892182,Etobicoke,38014
-43.7245262,-79.5824862,2,Guiness Avenue (302),a,Guiness Avenue,13,5411925,434127302,Etobicoke,38014
 43.7245331,-79.6024992,2,Quinella Drive (297),a,Quinella Drive,16,5413007,98892297,Etobicoke,38014
-43.7245564,-79.5824046,2,Guiness Avenue (208),a,Guiness Avenue,13,5411925,95662208,Etobicoke,38014
 43.7245592,-79.6024241,2,Quinella Drive (298),a,Quinella Drive,16,5413007,98892298,Etobicoke,38014
-43.7245853,-79.5904604,2,Mercury Road (966),a,Mercury Road,29,5412299,97608966,Etobicoke,38014
 43.724594,-79.602324,2,Quinella Drive (299),a,Quinella Drive,16,5413007,98892299,Etobicoke,38014
 43.7246117,-79.6211055,2,Humberwood Boulevard (065),a,Humberwood Boulevard,131,5411996,96061065,Etobicoke,38014
 43.7246117,-79.6211055,2,Humberwood Boulevard (755),a,Humberwood Boulevard,131,5411996,579923755,Etobicoke,38014
 43.7246272,-79.6022799,2,Quinella Drive (300),a,Quinella Drive,16,5413007,98892300,Etobicoke,38014
 43.7246272,-79.6022799,2,Frost King Lane (726),a,Frost King Lane,8,5413290,99020726,Etobicoke,38014
-43.7246457,-79.5822369,2,Guiness Avenue (232),a,Guiness Avenue,13,5411925,335002232,Etobicoke,38014
-43.7246923,-79.585147,2,Hawkedon Crescent (055),a,Hawkedon Crescent,11,5411928,95672055,Etobicoke,38014
-43.7246927,-79.5821347,2,Guiness Avenue (210),a,Guiness Avenue,13,5411925,95662210,Etobicoke,38014
-43.7246927,-79.5821347,2,Delsing Drive (553),a,Delsing Drive,20,5411926,95667553,Etobicoke,38014
-43.7247047,-79.5852414,2,Hawkedon Crescent (054),a,Hawkedon Crescent,11,5411928,95672054,Etobicoke,38014
 43.724727,-79.6031616,2,Triple Crown Avenue (893),a,Triple Crown Avenue,32,5413003,425039893,Etobicoke,38014
 43.7247475,-79.6008926,2,Janda Court (183),a,Janda Court,28,5413006,98892183,Etobicoke,38014
-43.7247605,-79.5852929,2,Hawkedon Crescent (053),a,Hawkedon Crescent,11,5411928,95672053,Etobicoke,38014
-43.7247754,-79.580654,2,Detling Court (878),a,Detling Court,2,5411935,95707878,Etobicoke,38014
-43.7248208,-79.5776181,2,Amoro Drive (463),a,Amoro Drive,24,5411933,95699463,Etobicoke,38014
-43.7248208,-79.5776181,2,Gunton Drive (880),a,Gunton Drive,12,5411936,95712880,Etobicoke,38014
 43.7248257,-79.6008998,2,Janda Court (184),a,Janda Court,28,5413006,98892184,Etobicoke,38014
 43.724829,-79.6017773,2,Quinella Drive (301),a,Quinella Drive,16,5413007,98892301,Etobicoke,38014
-43.7248522,-79.5774862,2,Gunton Drive (045),a,Gunton Drive,12,5411936,409023045,Etobicoke,38014
 43.7248557,-79.6009025,2,Janda Court (185),a,Janda Court,28,5413006,98892185,Etobicoke,38014
 43.724875,-79.6032264,2,Triple Crown Avenue (884),a,Triple Crown Avenue,32,5413003,425039884,Etobicoke,38014
-43.7248856,-79.5823174,2,Delsing Drive (306),a,Delsing Drive,20,5411926,434127306,Etobicoke,38014
 43.7249008,-79.6032245,2,Triple Crown Avenue (879),a,Triple Crown Avenue,32,5413003,425039879,Etobicoke,38014
 43.724936,-79.6015038,2,Quinella Drive (302),a,Quinella Drive,16,5413007,98892302,Etobicoke,38014
 43.7249511,-79.6032019,2,Triple Crown Avenue (881),a,Triple Crown Avenue,32,5413003,425039881,Etobicoke,38014
@@ -2869,147 +2354,62 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7249861,-79.6010587,2,Quinella Drive (307),a,Quinella Drive,16,5413007,98892307,Etobicoke,38014
 43.7249907,-79.6012406,2,Quinella Drive (230),a,Quinella Drive,16,5413007,389742230,Etobicoke,38014
 43.7249907,-79.6011139,2,Quinella Drive (231),a,Quinella Drive,16,5413007,389742231,Etobicoke,38014
-43.724991,-79.5777077,2,Amoro Drive (465),a,Amoro Drive,24,5411933,95699465,Etobicoke,38014
 43.7249922,-79.6011735,2,Quinella Drive (306),a,Quinella Drive,16,5413007,98892306,Etobicoke,38014
 43.7250021,-79.6031336,2,Triple Crown Avenue (890),a,Triple Crown Avenue,32,5413003,425039890,Etobicoke,38014
 43.7250117,-79.6008739,2,Triple Crown Avenue (874),a,Triple Crown Avenue,32,5413003,425039874,Etobicoke,38014
-43.7250395,-79.5824344,2,Delsing Drive (554),a,Delsing Drive,20,5411926,95667554,Etobicoke,38014
-43.7250395,-79.5824344,2,Delsing Drive (691),a,Delsing Drive,20,5411926,579922691,Etobicoke,38014
-43.7250395,-79.5824344,2,Waxham Road (832),a,Waxham Road,12,5411929,95678832,Etobicoke,38014
-43.7250422,-79.5895511,2,Mercury Road (963),a,Mercury Road,29,5412299,97608963,Etobicoke,38014
-43.7250422,-79.5895511,2,Kearney Drive (607),a,Kearney Drive,15,5412306,97639607,Etobicoke,38014
-43.7250447,-79.588327,2,Humheller Road (574),a,Humheller Road,5,5411919,389741574,Etobicoke,38014
 43.7250569,-79.6008686,2,Triple Crown Avenue (887),a,Triple Crown Avenue,32,5413003,425039887,Etobicoke,38014
-43.7250576,-79.5854342,2,Hawkedon Crescent (052),a,Hawkedon Crescent,11,5411928,95672052,Etobicoke,38014
-43.7250771,-79.5823355,2,Waxham Road (236),a,Waxham Road,12,5411929,335002236,Etobicoke,38014
-43.7251319,-79.5824947,2,Delsing Drive (762),a,Delsing Drive,20,5411926,473888762,Etobicoke,38014
 43.7251627,-79.6008591,2,Triple Crown Avenue (249),a,Triple Crown Avenue,32,5413003,389742249,Etobicoke,38014
-43.7251644,-79.5891137,2,Mercury Road (961),a,Mercury Road,29,5412299,97608961,Etobicoke,38014
-43.7252563,-79.5884511,2,Humheller Road (753),a,Humheller Road,5,5411919,438950753,Etobicoke,38014
-43.7252608,-79.5790558,2,Waxham Road (840),a,Waxham Road,12,5411929,95678840,Etobicoke,38014
-43.7252674,-79.5817589,2,Waxham Road (833),a,Waxham Road,12,5411929,95678833,Etobicoke,38014
 43.7252713,-79.6008758,2,Triple Crown Avenue (891),a,Triple Crown Avenue,32,5413003,425039891,Etobicoke,38014
-43.7252741,-79.5794416,2,Waxham Road (838),a,Waxham Road,12,5411929,95678838,Etobicoke,38014
-43.7252741,-79.5794416,2,Waterbeach Crescent (357),a,Waterbeach Crescent,15,5411934,95703357,Etobicoke,38014
-43.7252755,-79.578884,2,Waxham Road (311),a,Waxham Road,12,5411929,434127311,Etobicoke,38014
-43.7252932,-79.5827128,2,Hawkedon Crescent (235),a,Hawkedon Crescent,11,5411928,335002235,Etobicoke,38014
-43.7252956,-79.5806317,2,Waxham Road (835),a,Waxham Road,12,5411929,95678835,Etobicoke,38014
-43.7252956,-79.5806317,2,Detling Court (873),a,Detling Court,2,5411935,95707873,Etobicoke,38014
-43.7253011,-79.5816068,2,Waxham Road (312),a,Waxham Road,12,5411929,434127312,Etobicoke,38014
-43.7253088,-79.5787204,2,Waxham Road (842),a,Waxham Road,12,5411929,95678842,Etobicoke,38014
-43.7253167,-79.5814429,2,Waxham Road (834),a,Waxham Road,12,5411929,95678834,Etobicoke,38014
-43.7253188,-79.5825982,2,Delsing Drive (763),a,Delsing Drive,20,5411926,473888763,Etobicoke,38014
-43.7253188,-79.5825982,2,Hawkedon Crescent (056),a,Hawkedon Crescent,11,5411928,95672056,Etobicoke,38014
-43.7253403,-79.5885004,2,Humheller Road (895),a,Humheller Road,5,5411919,95604895,Etobicoke,38014
-43.7253403,-79.5885004,2,Mercury Road (958),a,Mercury Road,29,5412299,97608958,Etobicoke,38014
 43.7253415,-79.6217213,2,Humberwood Boulevard (087),a,Humberwood Boulevard,131,5411996,96061087,Etobicoke,38014
-43.7253498,-79.5855676,2,Hawkedon Crescent (051),a,Hawkedon Crescent,11,5411928,95672051,Etobicoke,38014
 43.7253616,-79.6008973,2,Triple Crown Avenue (889),a,Triple Crown Avenue,32,5413003,425039889,Etobicoke,38014
-43.7253662,-79.5794413,2,Waterbeach Crescent (044),a,Waterbeach Crescent,15,5411934,409023044,Etobicoke,38014
-43.7253672,-79.5863865,2,Martin Grove Road (083),a,Martin Grove Road,689,5411724,93488083,Etobicoke,38014
-43.7253672,-79.5863865,2,Martin Grove Road (534),a,Martin Grove Road,689,5411724,579924534,Etobicoke,38014
-43.7253792,-79.587319,2,Pergola Road (309),a,Pergola Road,13,5411918,95599309,Etobicoke,38014
 43.7253873,-79.6020989,2,Triple Crown Avenue (877),a,Triple Crown Avenue,32,5413003,425039877,Etobicoke,38014
-43.7254056,-79.5855676,2,Hawkedon Crescent (050),a,Hawkedon Crescent,11,5411928,95672050,Etobicoke,38014
 43.7254243,-79.6019454,2,Triple Crown Avenue (878),a,Triple Crown Avenue,32,5413003,425039878,Etobicoke,38014
 43.7254417,-79.6018105,2,Triple Crown Avenue (886),a,Triple Crown Avenue,32,5413003,425039886,Etobicoke,38014
-43.7254428,-79.5855075,2,Hawkedon Crescent (049),a,Hawkedon Crescent,11,5411928,95672049,Etobicoke,38014
-43.7254536,-79.5880572,2,Mercury Road (956),a,Mercury Road,29,5412299,97608956,Etobicoke,38014
 43.7254538,-79.6017056,2,Triple Crown Avenue (875),a,Triple Crown Avenue,32,5413003,425039875,Etobicoke,38014
-43.7254599,-79.5873908,2,Pergola Road (310),a,Pergola Road,13,5411918,95599310,Etobicoke,38014
 43.7254697,-79.6016346,2,Triple Crown Avenue (876),a,Triple Crown Avenue,32,5413003,425039876,Etobicoke,38014
-43.7254734,-79.5780841,2,Waxham Road (041),a,Waxham Road,12,5411929,409023041,Etobicoke,38014
 43.7254886,-79.6009417,2,Triple Crown Avenue (885),a,Triple Crown Avenue,32,5413003,425039885,Etobicoke,38014
-43.725499,-79.57796,2,Waxham Road (844),a,Waxham Road,12,5411929,95678844,Etobicoke,38014
-43.725499,-79.57796,2,Amoro Drive (466),a,Amoro Drive,24,5411933,95699466,Etobicoke,38014
 43.7255174,-79.6009617,2,Triple Crown Avenue (248),a,Triple Crown Avenue,32,5413003,389742248,Etobicoke,38014
 43.7255437,-79.6218812,2,Humberwood Boulevard (088),a,Humberwood Boulevard,131,5411996,96061088,Etobicoke,38014
 43.7255475,-79.6009937,2,Triple Crown Avenue (892),a,Triple Crown Avenue,32,5413003,425039892,Etobicoke,38014
-43.7255529,-79.5877997,2,Mercury Road (953),a,Mercury Road,29,5412299,97608953,Etobicoke,38014
-43.7255529,-79.5874735,2,Pergola Road (311),a,Pergola Road,13,5411918,95599311,Etobicoke,38014
 43.7255727,-79.6010361,2,Triple Crown Avenue (247),a,Triple Crown Avenue,32,5413003,389742247,Etobicoke,38014
-43.7255826,-79.5875171,2,Pergola Road (752),a,Pergola Road,13,5411918,438950752,Etobicoke,38014
 43.7255888,-79.601327,2,Triple Crown Avenue (883),a,Triple Crown Avenue,32,5413003,425039883,Etobicoke,38014
 43.7255964,-79.6010904,2,Triple Crown Avenue (246),a,Triple Crown Avenue,32,5413003,389742246,Etobicoke,38014
 43.7256047,-79.6012688,2,Triple Crown Avenue (243),a,Triple Crown Avenue,32,5413003,389742243,Etobicoke,38014
 43.7256085,-79.6011481,2,Triple Crown Avenue (245),a,Triple Crown Avenue,32,5413003,389742245,Etobicoke,38014
 43.72561,-79.6012292,2,Triple Crown Avenue (244),a,Triple Crown Avenue,32,5413003,389742244,Etobicoke,38014
 43.7256111,-79.6012002,2,Triple Crown Avenue (880),a,Triple Crown Avenue,32,5413003,425039880,Etobicoke,38014
-43.7256583,-79.587628,2,Pergola Road (312),a,Pergola Road,13,5411918,95599312,Etobicoke,38014
-43.7256583,-79.587628,2,Mercury Road (950),a,Mercury Road,29,5412299,97608950,Etobicoke,38014
 43.7256728,-79.6219824,2,Humberwood Boulevard (089),a,Humberwood Boulevard,131,5411996,96061089,Etobicoke,38014
-43.7256861,-79.5865281,2,Martin Grove Road (425),a,Martin Grove Road,689,5411724,560927425,Etobicoke,38014
-43.7256861,-79.5865281,2,Martin Grove Road (426),a,Martin Grove Road,689,5411724,560927426,Etobicoke,38014
-43.7256934,-79.5827531,2,Delsing Drive (767),a,Delsing Drive,20,5411926,473888767,Etobicoke,38014
 43.7257381,-79.6220216,2,Humberwood Boulevard (031),a,Humberwood Boulevard,131,5411996,96061031,Etobicoke,38014
 43.7257381,-79.6220216,2,Humberwood Boulevard (044),a,Humberwood Boulevard,131,5411996,96061044,Etobicoke,38014
 43.7257381,-79.6220216,2,Humberwood Boulevard (090),a,Humberwood Boulevard,131,5411996,96061090,Etobicoke,38014
 43.7257467,-79.6236648,2,Morning Star Drive (060),a,Morning Star Drive,7,5412308,97646060,Etobicoke,38014
-43.7257514,-79.5865572,2,Martin Grove Road (416),a,Martin Grove Road,689,5411724,560927416,Etobicoke,38014
-43.7257514,-79.5865572,2,Martin Grove Road (427),a,Martin Grove Road,689,5411724,560927427,Etobicoke,38014
 43.7257774,-79.6220892,2,Humberwood Boulevard (043),a,Humberwood Boulevard,131,5411996,96061043,Etobicoke,38014
-43.7257948,-79.5874735,2,Mercury Road (948),a,Mercury Road,29,5412299,97608948,Etobicoke,38014
 43.7258032,-79.6220077,2,Humberwood Boulevard (032),a,Humberwood Boulevard,131,5411996,96061032,Etobicoke,38014
-43.7258734,-79.5872994,2,Mercury Road (945),a,Mercury Road,29,5412299,97608945,Etobicoke,38014
 43.7258776,-79.6232257,2,Morning Star Drive (065),a,Morning Star Drive,7,5412308,97646065,Etobicoke,38014
-43.7258878,-79.5872675,2,Mercury Road (941),a,Mercury Road,29,5412299,97608941,Etobicoke,38014
-43.7258878,-79.5872675,2,Mercury Road (944),a,Mercury Road,29,5412299,97608944,Etobicoke,38014
 43.7259407,-79.6221758,2,Humberwood Boulevard (042),a,Humberwood Boulevard,131,5411996,96061042,Etobicoke,38014
-43.7259574,-79.5794019,2,Waterbeach Crescent (358),a,Waterbeach Crescent,15,5411934,95703358,Etobicoke,38014
 43.7259644,-79.6221109,2,Humberwood Boulevard (739),a,Humberwood Boulevard,131,5411996,579923739,Etobicoke,38014
-43.7259655,-79.5866526,2,Martin Grove Road (574),a,Martin Grove Road,689,5411724,93488574,Etobicoke,38014
-43.7260058,-79.5868662,2,Mercury Road (937),a,Mercury Road,29,5412299,97608937,Etobicoke,38014
-43.7260364,-79.5830547,2,Hawkedon Crescent (310),a,Hawkedon Crescent,11,5411928,434127310,Etobicoke,38014
-43.7260371,-79.5866895,2,Martin Grove Road (060),a,Martin Grove Road,689,5411724,93488060,Etobicoke,38014
-43.7260371,-79.5866895,2,Martin Grove Road (575),a,Martin Grove Road,689,5411724,93488575,Etobicoke,38014
-43.7260371,-79.5866895,2,Westhumber Boulevard (137),a,Westhumber Boulevard,34,5412298,97598137,Etobicoke,38014
-43.7260371,-79.5866895,2,Mercury Road (933),a,Mercury Road,29,5412299,97608933,Etobicoke,38014
-43.7260541,-79.5865333,2,Westhumber Boulevard (135),a,Westhumber Boulevard,34,5412298,97598135,Etobicoke,38014
-43.7260561,-79.5793905,2,Waterbeach Crescent (327),a,Waterbeach Crescent,15,5411934,434127327,Etobicoke,38014
-43.7260631,-79.5781947,2,Amoro Drive (468),a,Amoro Drive,24,5411933,95699468,Etobicoke,38014
 43.7260633,-79.6222407,2,Humberwood Boulevard (743),a,Humberwood Boulevard,131,5411996,579923743,Etobicoke,38014
-43.7260689,-79.5829205,2,Delsing Drive (765),a,Delsing Drive,20,5411926,473888765,Etobicoke,38014
-43.7260689,-79.5829205,2,Hawkedon Crescent (048),a,Hawkedon Crescent,11,5411928,95672048,Etobicoke,38014
-43.7260689,-79.5829205,2,Waterbeach Crescent (363),a,Waterbeach Crescent,15,5411934,95703363,Etobicoke,38014
 43.7260806,-79.6221521,2,Humberwood Boulevard (740),a,Humberwood Boulevard,131,5411996,579923740,Etobicoke,38014
 43.7260858,-79.6225276,2,Morning Star Drive (070),a,Morning Star Drive,7,5412308,97646070,Etobicoke,38014
-43.7260932,-79.5793905,2,Waterbeach Crescent (326),a,Waterbeach Crescent,15,5411934,434127326,Etobicoke,38014
-43.7260987,-79.5827963,2,Waterbeach Crescent (332),a,Waterbeach Crescent,15,5411934,434127332,Etobicoke,38014
-43.726118,-79.5793964,2,Waterbeach Crescent (359),a,Waterbeach Crescent,15,5411934,95703359,Etobicoke,38014
-43.7261194,-79.5867282,2,Martin Grove Road (061),a,Martin Grove Road,689,5411724,93488061,Etobicoke,38014
 43.726137,-79.6223565,2,Morning Star Drive (663),a,Morning Star Drive,7,5412308,579924663,Etobicoke,38014
-43.7261427,-79.5794361,2,Waterbeach Crescent (329),a,Waterbeach Crescent,15,5411934,434127329,Etobicoke,38014
-43.7261441,-79.5795958,2,Waterbeach Crescent (360),a,Waterbeach Crescent,15,5411934,95703360,Etobicoke,38014
-43.726146,-79.5795502,2,Waterbeach Crescent (328),a,Waterbeach Crescent,15,5411934,434127328,Etobicoke,38014
 43.7261556,-79.6222733,2,Humberwood Boulevard (039),a,Humberwood Boulevard,131,5411996,96061039,Etobicoke,38014
 43.7261556,-79.6222733,2,Humberwood Boulevard (040),a,Humberwood Boulevard,131,5411996,96061040,Etobicoke,38014
 43.7261556,-79.6222733,2,Morning Star Drive (100),a,Morning Star Drive,7,5412308,97646100,Etobicoke,38014
 43.7261556,-79.6222733,2,Morning Star Drive (664),a,Morning Star Drive,7,5412308,579924664,Etobicoke,38014
-43.7261575,-79.5794886,2,Waterbeach Crescent (330),a,Waterbeach Crescent,15,5411934,434127330,Etobicoke,38014
-43.7261581,-79.582549,2,Waterbeach Crescent (362),a,Waterbeach Crescent,15,5411934,95703362,Etobicoke,38014
 43.7261806,-79.622177,2,Humberwood Boulevard (741),a,Humberwood Boulevard,131,5411996,579923741,Etobicoke,38014
 43.7261806,-79.622177,2,Humberwood Boulevard (744),a,Humberwood Boulevard,131,5411996,579923744,Etobicoke,38014
 43.7261806,-79.622177,2,Morning Star Drive (665),a,Morning Star Drive,7,5412308,579924665,Etobicoke,38014
-43.7261828,-79.5859775,2,Westhumber Boulevard (133),a,Westhumber Boulevard,34,5412298,97598133,Etobicoke,38014
-43.7261828,-79.5859775,2,Westhumber Boulevard (153),a,Westhumber Boulevard,34,5412298,97598153,Etobicoke,38014
-43.7261905,-79.5823596,2,Waterbeach Crescent (331),a,Waterbeach Crescent,15,5411934,434127331,Etobicoke,38014
-43.7261999,-79.5822117,2,Waterbeach Crescent (361),a,Waterbeach Crescent,15,5411934,95703361,Etobicoke,38014
 43.7262684,-79.6222927,2,Humberwood Boulevard (742),a,Humberwood Boulevard,131,5411996,579923742,Etobicoke,38014
 43.7262749,-79.6221942,2,Humberwood Boulevard (745),a,Humberwood Boulevard,131,5411996,579923745,Etobicoke,38014
-43.7262903,-79.5855309,2,Moon Valley Drive (286),a,Moon Valley Drive,25,5411944,95741286,Etobicoke,38014
-43.7262903,-79.5855309,2,Westhumber Boulevard (150),a,Westhumber Boulevard,34,5412298,97598150,Etobicoke,38014
 43.7263274,-79.6221918,2,Humberwood Boulevard (746),a,Humberwood Boulevard,131,5411996,579923746,Etobicoke,38014
 43.7263466,-79.6233773,2,Harpreet Circle (161),a,Harpreet Circle,27,5413466,420188161,Etobicoke,38014
 43.7263498,-79.623311,2,Harpreet Circle (554),a,Harpreet Circle,27,5413466,99056554,Etobicoke,38014
 43.7263574,-79.6234306,2,Harpreet Circle (160),a,Harpreet Circle,27,5413466,420188160,Etobicoke,38014
 43.726388,-79.6234769,2,Harpreet Circle (547),a,Harpreet Circle,27,5413466,99056547,Etobicoke,38014
-43.7263884,-79.5855783,2,Moon Valley Drive (290),a,Moon Valley Drive,25,5411944,95741290,Etobicoke,38014
 43.726406,-79.6231204,2,Harpreet Circle (162),a,Harpreet Circle,27,5413466,420188162,Etobicoke,38014
 43.7264698,-79.5937631,2,Alicewood Court (730),a,Alicewood Court,73,5412478,98458730,Etobicoke,38014
 43.7264703,-79.6229265,2,Harpreet Circle (555),a,Harpreet Circle,27,5413466,99056555,Etobicoke,38014
-43.726476,-79.586868,2,Martin Grove Road (062),a,Martin Grove Road,689,5411724,93488062,Etobicoke,38014
 43.726478,-79.5937008,2,Alicewood Court (729),a,Alicewood Court,73,5412478,98458729,Etobicoke,38014
-43.7264787,-79.5782977,2,Amoro Drive (470),a,Amoro Drive,24,5411933,95699470,Etobicoke,38014
 43.7264795,-79.5938249,2,Alicewood Court (731),a,Alicewood Court,73,5412478,98458731,Etobicoke,38014
 43.7264804,-79.6223121,2,Humberwood Boulevard (037),a,Humberwood Boulevard,131,5411996,96061037,Etobicoke,38014
 43.7264821,-79.6221907,2,Humberwood Boulevard (047),a,Humberwood Boulevard,131,5411996,96061047,Etobicoke,38014
@@ -3020,29 +2420,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7265275,-79.6222502,2,Humberwood Boulevard (048),a,Humberwood Boulevard,131,5411996,96061048,Etobicoke,38014
 43.7265275,-79.6222502,2,Humberwood Boulevard (113),a,Humberwood Boulevard,131,5411996,96061113,Etobicoke,38014
 43.7265481,-79.6228837,2,Harpreet Circle (557),a,Harpreet Circle,27,5413466,99056557,Etobicoke,38014
-43.7265485,-79.5844136,2,Joshua Avenue (608),a,Joshua Avenue,10,5411945,95745608,Etobicoke,38014
-43.7265485,-79.5844136,2,Westhumber Boulevard (147),a,Westhumber Boulevard,34,5412298,97598147,Etobicoke,38014
 43.7265525,-79.5938977,2,Alicewood Court (733),a,Alicewood Court,73,5412478,98458733,Etobicoke,38014
-43.7265788,-79.5869242,2,Martin Grove Road (407),a,Martin Grove Road,689,5411724,560927407,Etobicoke,38014
-43.7265788,-79.5869242,2,Martin Grove Road (428),a,Martin Grove Road,689,5411724,560927428,Etobicoke,38014
 43.7266069,-79.5939337,2,Alicewood Court (734),a,Alicewood Court,73,5412478,98458734,Etobicoke,38014
 43.7266246,-79.6236243,2,Harpreet Circle (546),a,Harpreet Circle,27,5413466,99056546,Etobicoke,38014
 43.7266266,-79.5933368,2,Alicewood Court (727),a,Alicewood Court,73,5412478,98458727,Etobicoke,38014
-43.7266338,-79.5844551,2,Joshua Avenue (612),a,Joshua Avenue,10,5411945,95745612,Etobicoke,38014
 43.7266461,-79.6236306,2,Harpreet Circle (545),a,Harpreet Circle,27,5413466,99056545,Etobicoke,38014
 43.7266681,-79.6236327,2,Harpreet Circle (544),a,Harpreet Circle,27,5413466,99056544,Etobicoke,38014
 43.7266789,-79.6222346,2,Humberwood Boulevard (114),a,Humberwood Boulevard,131,5411996,96061114,Etobicoke,38014
 43.7266876,-79.6236282,2,Harpreet Circle (543),a,Harpreet Circle,27,5413466,99056543,Etobicoke,38014
 43.7267072,-79.6236216,2,Harpreet Circle (542),a,Harpreet Circle,27,5413466,99056542,Etobicoke,38014
 43.7267256,-79.623605,2,Harpreet Circle (541),a,Harpreet Circle,27,5413466,99056541,Etobicoke,38014
-43.7267271,-79.5832075,2,Delsing Drive (766),a,Delsing Drive,20,5411926,473888766,Etobicoke,38014
 43.7267494,-79.6235775,2,Harpreet Circle (540),a,Harpreet Circle,27,5413466,99056540,Etobicoke,38014
 43.7267712,-79.6235275,2,Harpreet Circle (539),a,Harpreet Circle,27,5413466,99056539,Etobicoke,38014
 43.7267793,-79.5940414,2,Alicewood Court (735),a,Alicewood Court,73,5412478,98458735,Etobicoke,38014
-43.7267949,-79.5870422,2,Martin Grove Road (513),a,Martin Grove Road,689,5411724,93488513,Etobicoke,38014
-43.7267949,-79.5870422,2,Martin Grove Road (535),a,Martin Grove Road,689,5411724,579924535,Etobicoke,38014
 43.7268029,-79.6228667,2,Harpreet Circle (562),a,Harpreet Circle,27,5413466,99056562,Etobicoke,38014
-43.7268033,-79.5833625,2,Westhumber Boulevard (144),a,Westhumber Boulevard,34,5412298,97598144,Etobicoke,38014
 43.7268079,-79.6221977,2,Humberwood Boulevard (115),a,Humberwood Boulevard,131,5411996,96061115,Etobicoke,38014
 43.7268079,-79.6221977,2,Harpreet Circle (565),a,Harpreet Circle,27,5413466,99056565,Etobicoke,38014
 43.7268104,-79.5929103,2,Alicewood Court (726),a,Alicewood Court,73,5412478,98458726,Etobicoke,38014
@@ -3051,8 +2442,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7268168,-79.6228671,2,Harpreet Circle (163),a,Harpreet Circle,27,5413466,420188163,Etobicoke,38014
 43.7268272,-79.6223502,2,Harpreet Circle (165),a,Harpreet Circle,27,5413466,420188165,Etobicoke,38014
 43.7268307,-79.6223779,2,Harpreet Circle (564),a,Harpreet Circle,27,5413466,99056564,Etobicoke,38014
-43.726832,-79.5832563,2,Delsing Drive (764),a,Delsing Drive,20,5411926,473888764,Etobicoke,38014
-43.726832,-79.5832563,2,Westhumber Boulevard (141),a,Westhumber Boulevard,34,5412298,97598141,Etobicoke,38014
 43.7268554,-79.6225426,2,Harpreet Circle (164),a,Harpreet Circle,27,5413466,420188164,Etobicoke,38014
 43.7268637,-79.6221777,2,Humberwood Boulevard (116),a,Humberwood Boulevard,131,5411996,96061116,Etobicoke,38014
 43.7268791,-79.5941011,2,Alicewood Court (736),a,Alicewood Court,73,5412478,98458736,Etobicoke,38014
@@ -3063,99 +2452,50 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7269008,-79.6229667,2,Harpreet Circle (536),a,Harpreet Circle,27,5413466,99056536,Etobicoke,38014
 43.7269239,-79.5926221,2,Alicewood Court (743),a,Alicewood Court,73,5412478,98458743,Etobicoke,38014
 43.7269374,-79.5929674,2,Tammy Lane (003),a,Tammy Lane,5,5412485,389742003,Etobicoke,38014
-43.7270051,-79.582505,2,Moon Valley Drive (316),a,Moon Valley Drive,25,5411944,95741316,Etobicoke,38014
-43.7270051,-79.582505,2,Westhumber Boulevard (139),a,Westhumber Boulevard,34,5412298,97598139,Etobicoke,38014
-43.7270051,-79.582505,2,Westhumber Boulevard (170),a,Westhumber Boulevard,34,5412298,97598170,Etobicoke,38014
 43.7270123,-79.5924835,2,Alicewood Court (744),a,Alicewood Court,73,5412478,98458744,Etobicoke,38014
-43.7270218,-79.5796403,2,Westhumber Boulevard (359),a,Westhumber Boulevard,34,5412298,434127359,Etobicoke,38014
-43.7270238,-79.579847,2,Westhumber Boulevard (165),a,Westhumber Boulevard,34,5412298,97598165,Etobicoke,38014
 43.7270321,-79.5945086,2,Alicewood Court (784),a,Alicewood Court,73,5412478,98458784,Etobicoke,38014
-43.7270325,-79.5794204,2,Westhumber Boulevard (163),a,Westhumber Boulevard,34,5412298,97598163,Etobicoke,38014
-43.7270345,-79.5784327,2,Amoro Drive (472),a,Amoro Drive,24,5411933,95699472,Etobicoke,38014
 43.7270348,-79.6221107,2,Humberwood Boulevard (117),a,Humberwood Boulevard,131,5411996,96061117,Etobicoke,38014
-43.7270414,-79.5823438,2,Westhumber Boulevard (167),a,Westhumber Boulevard,34,5412298,97598167,Etobicoke,38014
-43.7270556,-79.5846506,2,Joshua Avenue (347),a,Joshua Avenue,10,5411945,434127347,Etobicoke,38014
 43.7270577,-79.5945578,2,Alicewood Court (783),a,Alicewood Court,73,5412478,98458783,Etobicoke,38014
-43.7270612,-79.5822431,2,Westhumber Boulevard (166),a,Westhumber Boulevard,34,5412298,97598166,Etobicoke,38014
-43.7270629,-79.5791158,2,Westhumber Boulevard (162),a,Westhumber Boulevard,34,5412298,97598162,Etobicoke,38014
-43.7270704,-79.5821281,2,Westhumber Boulevard (360),a,Westhumber Boulevard,34,5412298,434127360,Etobicoke,38014
-43.7270735,-79.5819472,2,Westhumber Boulevard (236),a,Westhumber Boulevard,34,5412298,297392236,Etobicoke,38014
-43.7270836,-79.5789066,2,Westhumber Boulevard (160),a,Westhumber Boulevard,34,5412298,97598160,Etobicoke,38014
 43.7270914,-79.5942019,2,Alicewood Court (737),a,Alicewood Court,73,5412478,98458737,Etobicoke,38014
 43.7270914,-79.5942019,2,Alicewood Court (785),a,Alicewood Court,73,5412478,98458785,Etobicoke,38014
-43.7270946,-79.5825466,2,Moon Valley Drive (314),a,Moon Valley Drive,25,5411944,95741314,Etobicoke,38014
 43.7271189,-79.5923692,2,Alicewood Court (745),a,Alicewood Court,73,5412478,98458745,Etobicoke,38014
-43.7271369,-79.5784683,2,Amoro Drive (474),a,Amoro Drive,24,5411933,95699474,Etobicoke,38014
-43.7271369,-79.5784683,2,Westhumber Boulevard (156),a,Westhumber Boulevard,34,5412298,97598156,Etobicoke,38014
-43.7271369,-79.5784683,2,Westhumber Boulevard (193),a,Westhumber Boulevard,34,5412298,97598193,Etobicoke,38014
-43.7271532,-79.5783312,2,Westhumber Boulevard (192),a,Westhumber Boulevard,34,5412298,97598192,Etobicoke,38014
 43.7271665,-79.594607,2,Alicewood Court (782),a,Alicewood Court,73,5412478,98458782,Etobicoke,38014
 43.727178,-79.5942431,2,Alicewood Court (738),a,Alicewood Court,73,5412478,98458738,Etobicoke,38014
 43.727178,-79.5942431,2,Alicewood Court (739),a,Alicewood Court,73,5412478,98458739,Etobicoke,38014
 43.7271919,-79.6220305,2,Humberwood Boulevard (118),a,Humberwood Boulevard,131,5411996,96061118,Etobicoke,38014
 43.7272119,-79.5946098,2,Alicewood Court (781),a,Alicewood Court,73,5412478,98458781,Etobicoke,38014
-43.7272491,-79.5826239,2,Moon Valley Drive (312),a,Moon Valley Drive,25,5411944,95741312,Etobicoke,38014
-43.727267,-79.5847407,2,Joshua Avenue (346),a,Joshua Avenue,10,5411945,434127346,Etobicoke,38014
 43.727286,-79.5942912,2,Alicewood Court (740),a,Alicewood Court,73,5412478,98458740,Etobicoke,38014
 43.727286,-79.5942912,2,Alicewood Court (780),a,Alicewood Court,73,5412478,98458780,Etobicoke,38014
 43.727317,-79.6001428,2,Highway 27 (684),a,Highway 27,185,5411524,92429684,Etobicoke,38014
 43.727317,-79.6001428,2,Highway 27 (759),a,Highway 27,185,5411524,92429759,Etobicoke,38014
-43.7273235,-79.5827268,2,Moon Valley Drive (310),a,Moon Valley Drive,25,5411944,95741310,Etobicoke,38014
 43.7273297,-79.6219382,2,Humberwood Boulevard (207),a,Humberwood Boulevard,131,5411996,420188207,Etobicoke,38014
-43.7273589,-79.5847801,2,Joshua Avenue (345),a,Joshua Avenue,10,5411945,434127345,Etobicoke,38014
 43.727397,-79.6240736,2,Upper Humber Drive (671),a,Upper Humber Drive,21,5412649,335002671,Etobicoke,38014
 43.727431,-79.592126,2,Alicewood Court (746),a,Alicewood Court,73,5412478,98458746,Etobicoke,38014
 43.7274452,-79.621843,2,Humberwood Boulevard (109),a,Humberwood Boulevard,131,5411996,96061109,Etobicoke,38014
 43.7274452,-79.621843,2,Humberwood Boulevard (119),a,Humberwood Boulevard,131,5411996,96061119,Etobicoke,38014
 43.7274452,-79.621843,2,Upper Humber Drive (664),a,Upper Humber Drive,21,5412649,335002664,Etobicoke,38014
-43.727453,-79.5848022,2,Joshua Avenue (613),a,Joshua Avenue,10,5411945,95745613,Etobicoke,38014
 43.7274947,-79.621965,2,Upper Humber Drive (230),a,Upper Humber Drive,21,5412649,579926230,Etobicoke,38014
 43.7275109,-79.622005,2,Upper Humber Drive (665),a,Upper Humber Drive,21,5412649,335002665,Etobicoke,38014
-43.7275163,-79.586097,2,Moon Valley Drive (292),a,Moon Valley Drive,25,5411944,95741292,Etobicoke,38014
-43.7275205,-79.5847983,2,Joshua Avenue (348),a,Joshua Avenue,10,5411945,434127348,Etobicoke,38014
 43.7275631,-79.6235636,2,Upper Humber Drive (670),a,Upper Humber Drive,21,5412649,335002670,Etobicoke,38014
-43.727565,-79.5861112,2,Moon Valley Drive (341),a,Moon Valley Drive,25,5411944,434127341,Etobicoke,38014
 43.7275758,-79.6217107,2,Humberwood Boulevard (110),a,Humberwood Boulevard,131,5411996,96061110,Etobicoke,38014
-43.7275902,-79.5847782,2,Joshua Avenue (616),a,Joshua Avenue,10,5411945,95745616,Etobicoke,38014
-43.7275995,-79.5873787,2,Martin Grove Road (055),a,Martin Grove Road,689,5411724,93488055,Etobicoke,38014
-43.7275995,-79.5873787,2,Martin Grove Road (514),a,Martin Grove Road,689,5411724,93488514,Etobicoke,38014
 43.7276101,-79.5920473,2,Alicewood Court (747),a,Alicewood Court,73,5412478,98458747,Etobicoke,38014
-43.727613,-79.5861119,2,Moon Valley Drive (294),a,Moon Valley Drive,25,5411944,95741294,Etobicoke,38014
 43.7276289,-79.6232996,2,Upper Humber Drive (669),a,Upper Humber Drive,21,5412649,335002669,Etobicoke,38014
 43.7276532,-79.6224601,2,Upper Humber Drive (666),a,Upper Humber Drive,21,5412649,335002666,Etobicoke,38014
-43.7276552,-79.5861032,2,Moon Valley Drive (344),a,Moon Valley Drive,25,5411944,434127344,Etobicoke,38014
 43.727662,-79.6230654,2,Upper Humber Drive (668),a,Upper Humber Drive,21,5412649,335002668,Etobicoke,38014
 43.727689,-79.6227448,2,Upper Humber Drive (667),a,Upper Humber Drive,21,5412649,335002667,Etobicoke,38014
-43.7276969,-79.5860828,2,Moon Valley Drive (297),a,Moon Valley Drive,25,5411944,95741297,Etobicoke,38014
 43.7277232,-79.621521,2,Humberwood Boulevard (111),a,Humberwood Boulevard,131,5411996,96061111,Etobicoke,38014
-43.7277451,-79.5860479,2,Moon Valley Drive (343),a,Moon Valley Drive,25,5411944,434127343,Etobicoke,38014
-43.7277756,-79.5860137,2,Moon Valley Drive (342),a,Moon Valley Drive,25,5411944,434127342,Etobicoke,38014
-43.7277978,-79.5859712,2,Moon Valley Drive (298),a,Moon Valley Drive,25,5411944,95741298,Etobicoke,38014
-43.7278213,-79.5859162,2,Moon Valley Drive (338),a,Moon Valley Drive,25,5411944,434127338,Etobicoke,38014
-43.7278222,-79.5846573,2,Joshua Avenue (605),a,Joshua Avenue,10,5411945,438500605,Etobicoke,38014
 43.727866,-79.5945499,2,Turnvale Road (794),a,Turnvale Road,17,5412475,98447794,Etobicoke,38014
 43.727866,-79.5945499,2,Alicewood Court (741),a,Alicewood Court,73,5412478,98458741,Etobicoke,38014
 43.727866,-79.5945499,2,Alicewood Court (751),a,Alicewood Court,73,5412478,98458751,Etobicoke,38014
 43.7278678,-79.6003738,2,Highway 27 (761),a,Highway 27,185,5411524,92429761,Etobicoke,38014
 43.7278678,-79.6003738,2,Highway 27 (762),a,Highway 27,185,5411524,92429762,Etobicoke,38014
-43.727886,-79.5856538,2,Moon Valley Drive (340),a,Moon Valley Drive,25,5411944,434127340,Etobicoke,38014
-43.7278946,-79.5846196,2,Moon Valley Drive (305),a,Moon Valley Drive,25,5411944,95741305,Etobicoke,38014
-43.7278946,-79.5846196,2,Moon Valley Drive (308),a,Moon Valley Drive,25,5411944,95741308,Etobicoke,38014
-43.7278946,-79.5846196,2,Joshua Avenue (617),a,Joshua Avenue,10,5411945,95745617,Etobicoke,38014
 43.7279006,-79.5943901,2,Turnvale Road (014),a,Turnvale Road,17,5412475,389742014,Etobicoke,38014
 43.7279186,-79.5948772,2,Alicewood Court (790),a,Alicewood Court,73,5412478,98458790,Etobicoke,38014
-43.7279219,-79.584724,2,Moon Valley Drive (303),a,Moon Valley Drive,25,5411944,95741303,Etobicoke,38014
 43.7279284,-79.5949346,2,Alicewood Court (789),a,Alicewood Court,73,5412478,98458789,Etobicoke,38014
 43.7279396,-79.6067394,2,Great Hawk Road (461),a,Great Hawk Road,30,5412319,97734461,Etobicoke,38014
-43.72794,-79.585416,2,Moon Valley Drive (339),a,Moon Valley Drive,25,5411944,434127339,Etobicoke,38014
-43.7279441,-79.5848194,2,Moon Valley Drive (335),a,Moon Valley Drive,25,5411944,434127335,Etobicoke,38014
-43.7279606,-79.5849301,2,Moon Valley Drive (336),a,Moon Valley Drive,25,5411944,434127336,Etobicoke,38014
-43.7279608,-79.5852961,2,Moon Valley Drive (299),a,Moon Valley Drive,25,5411944,95741299,Etobicoke,38014
 43.7279672,-79.6065858,2,Great Hawk Road (462),a,Great Hawk Road,30,5412319,97734462,Etobicoke,38014
 43.7279678,-79.5945919,2,Alicewood Court (752),a,Alicewood Court,73,5412478,98458752,Etobicoke,38014
 43.7279678,-79.5945919,2,Alicewood Court (791),a,Alicewood Court,73,5412478,98458791,Etobicoke,38014
-43.7279701,-79.5851679,2,Moon Valley Drive (337),a,Moon Valley Drive,25,5411944,434127337,Etobicoke,38014
-43.7279702,-79.5850409,2,Moon Valley Drive (301),a,Moon Valley Drive,25,5411944,95741301,Etobicoke,38014
 43.7279916,-79.6071141,2,Great Hawk Road (460),a,Great Hawk Road,30,5412319,97734460,Etobicoke,38014
 43.7280273,-79.6211115,2,Humberwood Boulevard (107),a,Humberwood Boulevard,131,5411996,96061107,Etobicoke,38014
 43.7280273,-79.6211115,2,Humberwood Boulevard (112),a,Humberwood Boulevard,131,5411996,96061112,Etobicoke,38014
@@ -3193,8 +2533,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.728439,-79.59209,2,Lynmont Road (072),a,Lynmont Road,48,5412498,98484072,Etobicoke,38014
 43.7284527,-79.6006922,2,Highway 27 (877),a,Highway 27,185,5411524,92429877,Etobicoke,38014
 43.7284583,-79.6090727,2,Service Berry Ct (097),a,Service Berry Ct,9,23996412,560928097,Etobicoke,38014
-43.7284601,-79.587745,2,Martin Grove Road (056),a,Martin Grove Road,689,5411724,93488056,Etobicoke,38014
-43.7284601,-79.587745,2,Martin Grove Road (057),a,Martin Grove Road,689,5411724,93488057,Etobicoke,38014
 43.7284638,-79.6221992,2,Arborview Crescent (803),a,Arborview Crescent,11,5412654,98649803,Etobicoke,38014
 43.7284695,-79.5919381,2,Turnvale Road (784),a,Turnvale Road,17,5412475,98447784,Etobicoke,38014
 43.7284695,-79.5919381,2,Turnvale Road (797),a,Turnvale Road,17,5412475,98447797,Etobicoke,38014
@@ -6168,6 +5506,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7498221,-79.6106371,2,Highway 27 (884),a,Highway 27,185,5411524,92429884,Etobicoke,38014
 43.7498269,-79.6100586,2,Royalcrest Road (951),a,Royalcrest Road,32,5412447,98395951,Etobicoke,38014
 43.7498277,-79.63812,2,Codlin Crescent (378),a,Codlin Crescent,43,5413301,99026378,Etobicoke,38014
+43.7498404,-79.6391603,2,Albion Road (170),a,Albion Road,533,5411854,95055170,Etobicoke,38014
+43.7498404,-79.6391603,2,Steeles Avenue West (152),a,Steeles Avenue West,144,5412610,98623152,Etobicoke,38014
 43.7498607,-79.6104986,2,Highway 27 (280),a,Highway 27,185,5411524,560927280,Etobicoke,38014
 43.7498642,-79.6381895,2,Codlin Crescent (379),a,Codlin Crescent,43,5413301,99026379,Etobicoke,38014
 43.7498683,-79.6105035,2,Highway 27 (976),a,Highway 27,185,5411524,92429976,Etobicoke,38014
@@ -6555,3 +5895,255 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7560596,-79.6006349,2,Minglehaze Drive (761),a,Minglehaze Drive,25,5412597,98606761,Etobicoke,38014
 43.7561398,-79.6109991,2,Steeles Avenue West (388),a,Steeles Avenue West,144,5412610,297383388,Etobicoke,38014
 43.7562602,-79.6104967,2,Steeles Avenue West (389),a,Steeles Avenue West,144,5412610,297383389,Etobicoke,38014
+43.7563503,-79.5882753,2,Kipling Avenue (080),a,Kipling Avenue,1089,5411515,92166080,Etobicoke,38014
+43.7564451,-79.6097255,2,Steeles Avenue West (390),a,Steeles Avenue West,144,5412610,297383390,Etobicoke,38014
+43.7565088,-79.6010079,2,Minglehaze Drive (762),a,Minglehaze Drive,25,5412597,98606762,Etobicoke,38014
+43.7565462,-79.5885211,2,Kipling Avenue (701),a,Kipling Avenue,1089,5411515,92165701,Etobicoke,38014
+43.7565719,-79.5883807,2,Kipling Avenue (081),a,Kipling Avenue,1089,5411515,92166081,Etobicoke,38014
+43.7566227,-79.5884589,2,Kipling Avenue (699),a,Kipling Avenue,1089,5411515,92165699,Etobicoke,38014
+43.7566227,-79.5884589,2,Kipling Avenue (082),a,Kipling Avenue,1089,5411515,92166082,Etobicoke,38014
+43.7566227,-79.5884589,2,Kipling Avenue (174),a,Kipling Avenue,1089,5411515,579924174,Etobicoke,38014
+43.7566428,-79.6022274,2,Martin Grove Road (237),a,Martin Grove Road,689,5411724,93488237,Etobicoke,38014
+43.7566428,-79.6022274,2,Martin Grove Road (451),a,Martin Grove Road,689,5411724,93488451,Etobicoke,38014
+43.756657,-79.6087203,2,Steeles Avenue West (391),a,Steeles Avenue West,144,5412610,297383391,Etobicoke,38014
+43.7567145,-79.6011786,2,Minglehaze Drive (749),a,Minglehaze Drive,25,5412597,98606749,Etobicoke,38014
+43.7567145,-79.6011786,2,Minglehaze Drive (763),a,Minglehaze Drive,25,5412597,98606763,Etobicoke,38014
+43.7567145,-79.6011786,2,Shockley Drive (961),a,Shockley Drive,27,5412603,98612961,Etobicoke,38014
+43.7567673,-79.6010553,2,Shockley Drive (571),a,Shockley Drive,27,5412603,335002571,Etobicoke,38014
+43.7567932,-79.6009905,2,Shockley Drive (962),a,Shockley Drive,27,5412603,98612962,Etobicoke,38014
+43.7568449,-79.6008029,2,Shockley Drive (963),a,Shockley Drive,27,5412603,98612963,Etobicoke,38014
+43.7569142,-79.6005777,2,Shockley Drive (964),a,Shockley Drive,27,5412603,98612964,Etobicoke,38014
+43.7569239,-79.5886081,2,Kipling Avenue (226),a,Kipling Avenue,1089,5411515,560927226,Etobicoke,38014
+43.7569239,-79.5886081,2,Kipling Avenue (227),a,Kipling Avenue,1089,5411515,560927227,Etobicoke,38014
+43.7571618,-79.5887259,2,Kipling Avenue (746),a,Kipling Avenue,1089,5411515,92165746,Etobicoke,38014
+43.7571618,-79.5887259,2,Kipling Avenue (175),a,Kipling Avenue,1089,5411515,579924175,Etobicoke,38014
+43.7572841,-79.6028423,2,Martin Grove Road (209),a,Martin Grove Road,689,5411724,93488209,Etobicoke,38014
+43.7572841,-79.6028423,2,Martin Grove Road (228),a,Martin Grove Road,689,5411724,93488228,Etobicoke,38014
+43.7572841,-79.6028423,2,Martin Grove Road (452),a,Martin Grove Road,689,5411724,93488452,Etobicoke,38014
+43.7572975,-79.5973266,2,Shockley Drive (955),a,Shockley Drive,27,5412603,98612955,Etobicoke,38014
+43.7572991,-79.5974508,2,Shockley Drive (956),a,Shockley Drive,27,5412603,98612956,Etobicoke,38014
+43.7573049,-79.5971898,2,Shockley Drive (954),a,Shockley Drive,27,5412603,98612954,Etobicoke,38014
+43.7573187,-79.597587,2,Shockley Drive (957),a,Shockley Drive,27,5412603,98612957,Etobicoke,38014
+43.7573404,-79.6030274,2,Martin Grove Road (227),a,Martin Grove Road,689,5411724,93488227,Etobicoke,38014
+43.7573473,-79.5977105,2,Minglehaze Drive (743),a,Minglehaze Drive,25,5412597,98606743,Etobicoke,38014
+43.7573473,-79.5977105,2,Shockley Drive (958),a,Shockley Drive,27,5412603,98612958,Etobicoke,38014
+43.7573473,-79.5977105,2,Shockley Drive (978),a,Shockley Drive,27,5412603,98612978,Etobicoke,38014
+43.7573874,-79.6017219,2,Minglehaze Drive (750),a,Minglehaze Drive,25,5412597,98606750,Etobicoke,38014
+43.7573946,-79.5978957,2,Shockley Drive (976),a,Shockley Drive,27,5412603,98612976,Etobicoke,38014
+43.7574043,-79.5986905,2,Shockley Drive (969),a,Shockley Drive,27,5412603,98612969,Etobicoke,38014
+43.7574141,-79.5980195,2,Shockley Drive (975),a,Shockley Drive,27,5412603,98612975,Etobicoke,38014
+43.7574282,-79.6028514,2,Martin Grove Road (210),a,Martin Grove Road,689,5411724,93488210,Etobicoke,38014
+43.7574298,-79.5985657,2,Shockley Drive (970),a,Shockley Drive,27,5412603,98612970,Etobicoke,38014
+43.7574312,-79.6016215,2,Minglehaze Drive (751),a,Minglehaze Drive,25,5412597,98606751,Etobicoke,38014
+43.7574425,-79.5981306,2,Shockley Drive (974),a,Shockley Drive,27,5412603,98612974,Etobicoke,38014
+43.7574524,-79.5982049,2,Shockley Drive (973),a,Shockley Drive,27,5412603,98612973,Etobicoke,38014
+43.7574539,-79.5983291,2,Shockley Drive (972),a,Shockley Drive,27,5412603,98612972,Etobicoke,38014
+43.7574556,-79.5984657,2,Shockley Drive (971),a,Shockley Drive,27,5412603,98612971,Etobicoke,38014
+43.7575185,-79.6013959,2,Minglehaze Drive (752),a,Minglehaze Drive,25,5412597,98606752,Etobicoke,38014
+43.7575873,-79.6011334,2,Minglehaze Drive (753),a,Minglehaze Drive,25,5412597,98606753,Etobicoke,38014
+43.7576198,-79.6042545,2,Steeles Avenue West (009),a,Steeles Avenue West,144,5412610,98623009,Etobicoke,38014
+43.7576696,-79.5975663,2,Minglehaze Drive (744),a,Minglehaze Drive,25,5412597,98606744,Etobicoke,38014
+43.7576899,-79.60333,2,Martin Grove Road (226),a,Martin Grove Road,689,5411724,93488226,Etobicoke,38014
+43.7577173,-79.6007205,2,Minglehaze Drive (754),a,Minglehaze Drive,25,5412597,98606754,Etobicoke,38014
+43.757726,-79.6006954,2,Minglehaze Drive (755),a,Minglehaze Drive,25,5412597,98606755,Etobicoke,38014
+43.7577382,-79.5890083,2,Kipling Avenue (753),a,Kipling Avenue,1089,5411515,92165753,Etobicoke,38014
+43.75774,-79.6031439,2,Martin Grove Road (211),a,Martin Grove Road,689,5411724,93488211,Etobicoke,38014
+43.7577415,-79.5975522,2,Minglehaze Drive (745),a,Minglehaze Drive,25,5412597,98606745,Etobicoke,38014
+43.7577649,-79.6035345,2,Steeles Avenue West (010),a,Steeles Avenue West,144,5412610,98623010,Etobicoke,38014
+43.7577866,-79.6034393,2,Martin Grove Road (225),a,Martin Grove Road,689,5411724,93488225,Etobicoke,38014
+43.7577866,-79.6034393,2,Steeles Avenue West (011),a,Steeles Avenue West,144,5412610,98623011,Etobicoke,38014
+43.7577866,-79.6034393,2,Steeles Avenue West (029),a,Steeles Avenue West,144,5412610,98623029,Etobicoke,38014
+43.7578138,-79.5975754,2,Minglehaze Drive (746),a,Minglehaze Drive,25,5412597,98606746,Etobicoke,38014
+43.757829,-79.6032272,2,Martin Grove Road (212),a,Martin Grove Road,689,5411724,93488212,Etobicoke,38014
+43.757829,-79.6032272,2,Steeles Avenue West (025),a,Steeles Avenue West,144,5412610,98623025,Etobicoke,38014
+43.757829,-79.6032272,2,Steeles Avenue West (030),a,Steeles Avenue West,144,5412610,98623030,Etobicoke,38014
+43.7578541,-79.6031181,2,Steeles Avenue West (026),a,Steeles Avenue West,144,5412610,98623026,Etobicoke,38014
+43.7578543,-79.6001459,2,Minglehaze Drive (756),a,Minglehaze Drive,25,5412597,98606756,Etobicoke,38014
+43.7579908,-79.6024656,2,Steeles Avenue West (027),a,Steeles Avenue West,144,5412610,98623027,Etobicoke,38014
+43.7579947,-79.5976457,2,Minglehaze Drive (747),a,Minglehaze Drive,25,5412597,98606747,Etobicoke,38014
+43.7582875,-79.5965581,2,Gihon Spring Drive (481),a,Gihon Spring Drive,56,5412594,98603481,Etobicoke,38014
+43.7583435,-79.5981841,2,Minglehaze Drive (757),a,Minglehaze Drive,25,5412597,98606757,Etobicoke,38014
+43.7584201,-79.5978221,2,Minglehaze Drive (748),a,Minglehaze Drive,25,5412597,98606748,Etobicoke,38014
+43.7584201,-79.5978221,2,Minglehaze Drive (758),a,Minglehaze Drive,25,5412597,98606758,Etobicoke,38014
+43.7584201,-79.5978221,2,Minglehaze Drive (764),a,Minglehaze Drive,25,5412597,98606764,Etobicoke,38014
+43.7584325,-79.5966293,2,Gihon Spring Drive (482),a,Gihon Spring Drive,56,5412594,98603482,Etobicoke,38014
+43.758463,-79.5893425,2,Kipling Avenue (086),a,Kipling Avenue,1089,5411515,579924086,Etobicoke,38014
+43.758463,-79.5893425,2,Kipling Avenue (087),a,Kipling Avenue,1089,5411515,579924087,Etobicoke,38014
+43.758463,-79.5893425,2,Markbrook Lane (407),a,Markbrook Lane,52,5412620,579924407,Etobicoke,38014
+43.7584881,-79.5974975,2,Minglehaze Drive (765),a,Minglehaze Drive,25,5412597,98606765,Etobicoke,38014
+43.7585034,-79.5891801,2,Markbrook Lane (408),a,Markbrook Lane,52,5412620,579924408,Etobicoke,38014
+43.7585134,-79.5891338,2,Markbrook Lane (409),a,Markbrook Lane,52,5412620,579924409,Etobicoke,38014
+43.7585213,-79.5891008,2,Markbrook Lane (410),a,Markbrook Lane,52,5412620,579924410,Etobicoke,38014
+43.7586355,-79.5886545,2,Markbrook Lane (524),a,Markbrook Lane,52,5412620,98631524,Etobicoke,38014
+43.7587126,-79.5883268,2,Markbrook Lane (525),a,Markbrook Lane,52,5412620,98631525,Etobicoke,38014
+43.7587326,-79.5894799,2,Kipling Avenue (198),a,Kipling Avenue,1089,5411515,560927198,Etobicoke,38014
+43.7587326,-79.5894799,2,Kipling Avenue (212),a,Kipling Avenue,1089,5411515,560927212,Etobicoke,38014
+43.7587403,-79.5967711,2,Gihon Spring Drive (483),a,Gihon Spring Drive,56,5412594,98603483,Etobicoke,38014
+43.7587403,-79.5967711,2,Gihon Spring Drive (492),a,Gihon Spring Drive,56,5412594,98603492,Etobicoke,38014
+43.7587403,-79.5967711,2,Gihon Spring Drive (496),a,Gihon Spring Drive,56,5412594,98603496,Etobicoke,38014
+43.7587618,-79.5881318,2,Markbrook Lane (526),a,Markbrook Lane,52,5412620,98631526,Etobicoke,38014
+43.7587864,-79.596857,2,Gihon Spring Drive (497),a,Gihon Spring Drive,56,5412594,98603497,Etobicoke,38014
+43.758807,-79.5880102,2,Markbrook Lane (527),a,Markbrook Lane,52,5412620,98631527,Etobicoke,38014
+43.7588119,-79.5967322,2,Gihon Spring Drive (493),a,Gihon Spring Drive,56,5412594,98603493,Etobicoke,38014
+43.7588259,-79.5879598,2,Markbrook Lane (528),a,Markbrook Lane,52,5412620,98631528,Etobicoke,38014
+43.7588553,-79.587894,2,Markbrook Lane (529),a,Markbrook Lane,52,5412620,98631529,Etobicoke,38014
+43.7588591,-79.5968894,2,Gihon Spring Drive (498),a,Gihon Spring Drive,56,5412594,98603498,Etobicoke,38014
+43.7588616,-79.5895398,2,Kipling Avenue (725),a,Kipling Avenue,1089,5411515,92165725,Etobicoke,38014
+43.7588616,-79.5895398,2,Kipling Avenue (793),a,Kipling Avenue,1089,5411515,92165793,Etobicoke,38014
+43.7588616,-79.5895398,2,Kipling Avenue (167),a,Kipling Avenue,1089,5411515,579924167,Etobicoke,38014
+43.7588856,-79.5878419,2,Markbrook Lane (411),a,Markbrook Lane,52,5412620,579924411,Etobicoke,38014
+43.7589234,-79.5877899,2,Markbrook Lane (412),a,Markbrook Lane,52,5412620,579924412,Etobicoke,38014
+43.758924,-79.5896317,2,Kipling Avenue (724),a,Kipling Avenue,1089,5411515,92165724,Etobicoke,38014
+43.7589513,-79.5877518,2,Markbrook Lane (413),a,Markbrook Lane,52,5412620,579924413,Etobicoke,38014
+43.7589569,-79.589492,2,Kipling Avenue (795),a,Kipling Avenue,1089,5411515,92165795,Etobicoke,38014
+43.7589821,-79.5877096,2,Markbrook Lane (414),a,Markbrook Lane,52,5412620,579924414,Etobicoke,38014
+43.7590257,-79.5876665,2,Markbrook Lane (415),a,Markbrook Lane,52,5412620,579924415,Etobicoke,38014
+43.7590553,-79.5876374,2,Markbrook Lane (416),a,Markbrook Lane,52,5412620,579924416,Etobicoke,38014
+43.7590818,-79.5876153,2,Markbrook Lane (417),a,Markbrook Lane,52,5412620,579924417,Etobicoke,38014
+43.7591138,-79.5875955,2,Markbrook Lane (418),a,Markbrook Lane,52,5412620,579924418,Etobicoke,38014
+43.7591236,-79.5970034,2,Gihon Spring Drive (499),a,Gihon Spring Drive,56,5412594,98603499,Etobicoke,38014
+43.7591257,-79.5974397,2,Steeles Avenue West (129),a,Steeles Avenue West,144,5412610,98623129,Etobicoke,38014
+43.7591318,-79.5875846,2,Markbrook Lane (538),a,Markbrook Lane,52,5412620,98631538,Etobicoke,38014
+43.7591507,-79.5968779,2,Gihon Spring Drive (494),a,Gihon Spring Drive,56,5412594,98603494,Etobicoke,38014
+43.7591558,-79.5875689,2,Markbrook Lane (419),a,Markbrook Lane,52,5412620,579924419,Etobicoke,38014
+43.7591901,-79.5875454,2,Markbrook Lane (420),a,Markbrook Lane,52,5412620,579924420,Etobicoke,38014
+43.7592065,-79.5971115,2,Steeles Avenue West (130),a,Steeles Avenue West,144,5412610,98623130,Etobicoke,38014
+43.7592214,-79.587523,2,Markbrook Lane (421),a,Markbrook Lane,52,5412620,579924421,Etobicoke,38014
+43.7592381,-79.5969831,2,Gihon Spring Drive (495),a,Gihon Spring Drive,56,5412594,98603495,Etobicoke,38014
+43.7592381,-79.5969831,2,Gihon Spring Drive (500),a,Gihon Spring Drive,56,5412594,98603500,Etobicoke,38014
+43.7592381,-79.5969831,2,Steeles Avenue West (119),a,Steeles Avenue West,144,5412610,98623119,Etobicoke,38014
+43.7592381,-79.5969831,2,Steeles Avenue West (131),a,Steeles Avenue West,144,5412610,98623131,Etobicoke,38014
+43.7592528,-79.5875042,2,Markbrook Lane (422),a,Markbrook Lane,52,5412620,579924422,Etobicoke,38014
+43.7592697,-79.5968363,2,Steeles Avenue West (120),a,Steeles Avenue West,144,5412610,98623120,Etobicoke,38014
+43.7592764,-79.5918451,2,Steeles Avenue West (094),a,Steeles Avenue West,144,5412610,98623094,Etobicoke,38014
+43.759282,-79.5914835,2,Steeles Avenue West (093),a,Steeles Avenue West,144,5412610,98623093,Etobicoke,38014
+43.7592995,-79.5921804,2,Steeles Avenue West (095),a,Steeles Avenue West,144,5412610,98623095,Etobicoke,38014
+43.7593044,-79.5874646,2,Markbrook Lane (423),a,Markbrook Lane,52,5412620,579924423,Etobicoke,38014
+43.7593254,-79.591163,2,Steeles Avenue West (091),a,Steeles Avenue West,144,5412610,98623091,Etobicoke,38014
+43.7593361,-79.5874324,2,Markbrook Lane (424),a,Markbrook Lane,52,5412620,579924424,Etobicoke,38014
+43.7593413,-79.5910607,2,Steeles Avenue West (088),a,Steeles Avenue West,144,5412610,98623088,Etobicoke,38014
+43.7593458,-79.5925581,2,Steeles Avenue West (096),a,Steeles Avenue West,144,5412610,98623096,Etobicoke,38014
+43.7593634,-79.5874009,2,Markbrook Lane (425),a,Markbrook Lane,52,5412620,579924425,Etobicoke,38014
+43.7593664,-79.5927279,2,Steeles Avenue West (097),a,Steeles Avenue West,144,5412610,98623097,Etobicoke,38014
+43.7593828,-79.5907333,2,Steeles Avenue West (823),a,Steeles Avenue West,144,5412610,579925823,Etobicoke,38014
+43.7593864,-79.5929299,2,Steeles Avenue West (098),a,Steeles Avenue West,144,5412610,98623098,Etobicoke,38014
+43.7593954,-79.5873557,2,Markbrook Lane (426),a,Markbrook Lane,52,5412620,579924426,Etobicoke,38014
+43.7594038,-79.59083,2,Steeles Avenue West (821),a,Steeles Avenue West,144,5412610,579925821,Etobicoke,38014
+43.7594038,-79.59083,2,Steeles Avenue West (822),a,Steeles Avenue West,144,5412610,579925822,Etobicoke,38014
+43.7594038,-79.59083,2,Steeles Avenue West (827),a,Steeles Avenue West,144,5412610,579925827,Etobicoke,38014
+43.7594261,-79.5873092,2,Markbrook Lane (427),a,Markbrook Lane,52,5412620,579924427,Etobicoke,38014
+43.7594355,-79.5932641,2,Steeles Avenue West (099),a,Steeles Avenue West,144,5412610,98623099,Etobicoke,38014
+43.7594426,-79.5960342,2,Steeles Avenue West (121),a,Steeles Avenue West,144,5412610,98623121,Etobicoke,38014
+43.7594471,-79.5898835,2,Kipling Avenue (720),a,Kipling Avenue,1089,5411515,92165720,Etobicoke,38014
+43.7594546,-79.5872598,2,Markbrook Lane (428),a,Markbrook Lane,52,5412620,579924428,Etobicoke,38014
+43.7594702,-79.5907764,2,Steeles Avenue West (826),a,Steeles Avenue West,144,5412610,579925826,Etobicoke,38014
+43.7594753,-79.5935738,2,Steeles Avenue West (100),a,Steeles Avenue West,144,5412610,98623100,Etobicoke,38014
+43.7594802,-79.5902753,2,Steeles Avenue West (824),a,Steeles Avenue West,144,5412610,579925824,Etobicoke,38014
+43.7594802,-79.5902753,2,Steeles Avenue West (832),a,Steeles Avenue West,144,5412610,579925832,Etobicoke,38014
+43.7594848,-79.5897342,2,Kipling Avenue (796),a,Kipling Avenue,1089,5411515,92165796,Etobicoke,38014
+43.7594938,-79.587186,2,Markbrook Lane (429),a,Markbrook Lane,52,5412620,579924429,Etobicoke,38014
+43.759496,-79.5959833,2,Steeles Avenue West (111),a,Steeles Avenue West,144,5412610,98623111,Etobicoke,38014
+43.759496,-79.5959833,2,Steeles Avenue West (122),a,Steeles Avenue West,144,5412610,98623122,Etobicoke,38014
+43.7595054,-79.5938215,2,Steeles Avenue West (101),a,Steeles Avenue West,144,5412610,98623101,Etobicoke,38014
+43.7595167,-79.5940076,2,Steeles Avenue West (102),a,Steeles Avenue West,144,5412610,98623102,Etobicoke,38014
+43.7595173,-79.5871319,2,Markbrook Lane (430),a,Markbrook Lane,52,5412620,579924430,Etobicoke,38014
+43.7595287,-79.5900345,2,Steeles Avenue West (833),a,Steeles Avenue West,144,5412610,579925833,Etobicoke,38014
+43.7595376,-79.595709,2,Steeles Avenue West (110),a,Steeles Avenue West,144,5412610,98623110,Etobicoke,38014
+43.7595389,-79.5870763,2,Markbrook Lane (431),a,Markbrook Lane,52,5412620,579924431,Etobicoke,38014
+43.759547,-79.5899259,2,Kipling Avenue (085),a,Kipling Avenue,1089,5411515,579924085,Etobicoke,38014
+43.759547,-79.5899259,2,Kipling Avenue (119),a,Kipling Avenue,1089,5411515,579924119,Etobicoke,38014
+43.759547,-79.5899259,2,Steeles Avenue West (828),a,Steeles Avenue West,144,5412610,579925828,Etobicoke,38014
+43.759547,-79.5899259,2,Steeles Avenue West (834),a,Steeles Avenue West,144,5412610,579925834,Etobicoke,38014
+43.7595516,-79.5942574,2,Steeles Avenue West (103),a,Steeles Avenue West,144,5412610,98623103,Etobicoke,38014
+43.7595582,-79.5870151,2,Markbrook Lane (432),a,Markbrook Lane,52,5412620,579924432,Etobicoke,38014
+43.75957,-79.5954101,2,Steeles Avenue West (108),a,Steeles Avenue West,144,5412610,98623108,Etobicoke,38014
+43.7595741,-79.5903125,2,Steeles Avenue West (393),a,Steeles Avenue West,144,5412610,297383393,Etobicoke,38014
+43.7595753,-79.5869566,2,Markbrook Lane (433),a,Markbrook Lane,52,5412620,579924433,Etobicoke,38014
+43.7595765,-79.5945309,2,Steeles Avenue West (104),a,Steeles Avenue West,144,5412610,98623104,Etobicoke,38014
+43.7595815,-79.5897794,2,Kipling Avenue (088),a,Kipling Avenue,1089,5411515,579924088,Etobicoke,38014
+43.7595815,-79.5897794,2,Kipling Avenue (120),a,Kipling Avenue,1089,5411515,579924120,Etobicoke,38014
+43.7595815,-79.5897794,2,Steeles Avenue West (829),a,Steeles Avenue West,144,5412610,579925829,Etobicoke,38014
+43.7595867,-79.5869159,2,Markbrook Lane (434),a,Markbrook Lane,52,5412620,579924434,Etobicoke,38014
+43.7595941,-79.5951735,2,Steeles Avenue West (107),a,Steeles Avenue West,144,5412610,98623107,Etobicoke,38014
+43.7595944,-79.5951149,2,Steeles Avenue West (350),a,Steeles Avenue West,144,5412610,349303350,Etobicoke,38014
+43.7595959,-79.5948536,2,Steeles Avenue West (106),a,Steeles Avenue West,144,5412610,98623106,Etobicoke,38014
+43.7596016,-79.5868371,2,Markbrook Lane (435),a,Markbrook Lane,52,5412620,579924435,Etobicoke,38014
+43.7596041,-79.5896674,2,Steeles Avenue West (830),a,Steeles Avenue West,144,5412610,579925830,Etobicoke,38014
+43.7596134,-79.5867475,2,Markbrook Lane (436),a,Markbrook Lane,52,5412620,579924436,Etobicoke,38014
+43.7596155,-79.5864956,2,Markbrook Lane (439),a,Markbrook Lane,52,5412620,579924439,Etobicoke,38014
+43.7596156,-79.5866769,2,Markbrook Lane (437),a,Markbrook Lane,52,5412620,579924437,Etobicoke,38014
+43.7596165,-79.5865887,2,Markbrook Lane (438),a,Markbrook Lane,52,5412620,579924438,Etobicoke,38014
+43.7596188,-79.5863971,2,Markbrook Lane (440),a,Markbrook Lane,52,5412620,579924440,Etobicoke,38014
+43.7596225,-79.5863492,2,Markbrook Lane (441),a,Markbrook Lane,52,5412620,579924441,Etobicoke,38014
+43.7596254,-79.590065,2,Steeles Avenue West (140),a,Steeles Avenue West,144,5412610,98623140,Etobicoke,38014
+43.7596295,-79.5862893,2,Markbrook Lane (442),a,Markbrook Lane,52,5412620,579924442,Etobicoke,38014
+43.7596492,-79.5862323,2,Markbrook Lane (443),a,Markbrook Lane,52,5412620,579924443,Etobicoke,38014
+43.7596614,-79.5898889,2,Kipling Avenue (572),a,Kipling Avenue,1089,5411515,92165572,Etobicoke,38014
+43.7596614,-79.5898889,2,Kipling Avenue (118),a,Kipling Avenue,1089,5411515,579924118,Etobicoke,38014
+43.7596614,-79.5898889,2,Kipling Avenue (121),a,Kipling Avenue,1089,5411515,579924121,Etobicoke,38014
+43.7596614,-79.5898889,2,Steeles Avenue West (139),a,Steeles Avenue West,144,5412610,98623139,Etobicoke,38014
+43.7596614,-79.5898889,2,Steeles Avenue West (831),a,Steeles Avenue West,144,5412610,579925831,Etobicoke,38014
+43.7596841,-79.5861728,2,Markbrook Lane (444),a,Markbrook Lane,52,5412620,579924444,Etobicoke,38014
+43.759697,-79.5897146,2,Steeles Avenue West (056),a,Steeles Avenue West,144,5412610,560927056,Etobicoke,38014
+43.7597026,-79.5892221,2,Steeles Avenue West (146),a,Steeles Avenue West,144,5412610,98623146,Etobicoke,38014
+43.7597078,-79.5861418,2,Markbrook Lane (445),a,Markbrook Lane,52,5412620,579924445,Etobicoke,38014
+43.7597511,-79.589926,2,Kipling Avenue (573),a,Kipling Avenue,1089,5411515,92165573,Etobicoke,38014
+43.7597617,-79.5861061,2,Markbrook Lane (446),a,Markbrook Lane,52,5412620,579924446,Etobicoke,38014
+43.7597902,-79.5888048,2,Steeles Avenue West (147),a,Steeles Avenue West,144,5412610,98623147,Etobicoke,38014
+43.759797,-79.5860951,2,Markbrook Lane (447),a,Markbrook Lane,52,5412620,579924447,Etobicoke,38014
+43.7598068,-79.5892591,2,Steeles Avenue West (055),a,Steeles Avenue West,144,5412610,560927055,Etobicoke,38014
+43.7598343,-79.5860924,2,Markbrook Lane (448),a,Markbrook Lane,52,5412620,579924448,Etobicoke,38014
+43.759861,-79.5883955,2,Steeles Avenue West (549),a,Steeles Avenue West,144,5412610,500090549,Etobicoke,38014
+43.7598798,-79.5889127,2,Steeles Avenue West (054),a,Steeles Avenue West,144,5412610,560927054,Etobicoke,38014
+43.7598798,-79.5889127,2,Steeles Avenue West (057),a,Steeles Avenue West,144,5412610,560927057,Etobicoke,38014
+43.7598961,-79.5860869,2,Markbrook Lane (449),a,Markbrook Lane,52,5412620,579924449,Etobicoke,38014
+43.7599182,-79.586089,2,Markbrook Lane (572),a,Markbrook Lane,52,5412620,98631572,Etobicoke,38014
+43.7599197,-79.5887368,2,Steeles Avenue West (004),a,Steeles Avenue West,144,5412610,98623004,Etobicoke,38014
+43.7599234,-79.5900134,2,Kipling Avenue (609),a,Kipling Avenue,1089,5411515,297384609,Etobicoke,38014
+43.7599259,-79.5879637,2,Steeles Avenue West (548),a,Steeles Avenue West,144,5412610,500090548,Etobicoke,38014
+43.7599728,-79.5875299,2,Steeles Avenue West (148),a,Steeles Avenue West,144,5412610,98623148,Etobicoke,38014
+43.759983,-79.5883808,2,Steeles Avenue West (543),a,Steeles Avenue West,144,5412610,500090543,Etobicoke,38014
+43.7600111,-79.5870987,2,Steeles Avenue West (547),a,Steeles Avenue West,144,5412610,500090547,Etobicoke,38014
+43.7600369,-79.5866997,2,Steeles Avenue West (394),a,Steeles Avenue West,144,5412610,297383394,Etobicoke,38014
+43.7600459,-79.5860973,2,Steeles Avenue West (012),a,Steeles Avenue West,144,5412610,98623012,Etobicoke,38014
+43.7600459,-79.5860973,2,Steeles Avenue West (149),a,Steeles Avenue West,144,5412610,98623149,Etobicoke,38014
+43.7600459,-79.5860973,2,Markbrook Lane (574),a,Markbrook Lane,52,5412620,98631574,Etobicoke,38014
+43.760047,-79.5879261,2,Steeles Avenue West (544),a,Steeles Avenue West,144,5412610,500090544,Etobicoke,38014
+43.7600528,-79.5856436,2,Steeles Avenue West (546),a,Steeles Avenue West,144,5412610,500090546,Etobicoke,38014
+43.7600767,-79.5852251,2,Steeles Avenue West (013),a,Steeles Avenue West,144,5412610,98623013,Etobicoke,38014
+43.7600966,-79.5874657,2,Steeles Avenue West (003),a,Steeles Avenue West,144,5412610,98623003,Etobicoke,38014
+43.7601414,-79.586915,2,Steeles Avenue West (002),a,Steeles Avenue West,144,5412610,98623002,Etobicoke,38014
+43.7601453,-79.5849031,2,Steeles Avenue West (998),a,Steeles Avenue West,144,5412610,98622998,Etobicoke,38014
+43.7601453,-79.5849031,2,Steeles Avenue West (014),a,Steeles Avenue West,144,5412610,98623014,Etobicoke,38014
+43.7601453,-79.5849031,2,Steeles Avenue West (031),a,Steeles Avenue West,144,5412610,98623031,Etobicoke,38014
+43.7601545,-79.586578,2,Steeles Avenue West (001),a,Steeles Avenue West,144,5412610,98623001,Etobicoke,38014
+43.7601608,-79.5856638,2,Steeles Avenue West (000),a,Steeles Avenue West,144,5412610,98623000,Etobicoke,38014
+43.7601615,-79.5847741,2,Steeles Avenue West (032),a,Steeles Avenue West,144,5412610,98623032,Etobicoke,38014
+43.7601622,-79.5861559,2,Steeles Avenue West (545),a,Steeles Avenue West,144,5412610,500090545,Etobicoke,38014
+43.7601704,-79.5852361,2,Steeles Avenue West (999),a,Steeles Avenue West,144,5412610,98622999,Etobicoke,38014
+43.7601768,-79.5846476,2,Steeles Avenue West (033),a,Steeles Avenue West,144,5412610,98623033,Etobicoke,38014
+43.7602012,-79.5844837,2,Steeles Avenue West (036),a,Steeles Avenue West,144,5412610,98623036,Etobicoke,38014
+43.7602347,-79.5842755,2,Steeles Avenue West (037),a,Steeles Avenue West,144,5412610,98623037,Etobicoke,38014
+43.7602646,-79.5841123,2,Steeles Avenue West (039),a,Steeles Avenue West,144,5412610,98623039,Etobicoke,38014
+43.7602876,-79.5901987,2,Kipling Avenue (610),a,Kipling Avenue,1089,5411515,297384610,Etobicoke,38014
+43.7602929,-79.5839749,2,Steeles Avenue West (040),a,Steeles Avenue West,144,5412610,98623040,Etobicoke,38014
+43.7603274,-79.5838046,2,Steeles Avenue West (041),a,Steeles Avenue West,144,5412610,98623041,Etobicoke,38014
+43.7603592,-79.5836677,2,Steeles Avenue West (042),a,Steeles Avenue West,144,5412610,98623042,Etobicoke,38014
+43.7603894,-79.5835451,2,Steeles Avenue West (820),a,Steeles Avenue West,144,5412610,579925820,Etobicoke,38014
+43.760402,-79.5902569,2,Kipling Avenue (574),a,Kipling Avenue,1089,5411515,92165574,Etobicoke,38014
+43.760402,-79.5902569,2,Kipling Avenue (584),a,Kipling Avenue,1089,5411515,92165584,Etobicoke,38014
+43.7604076,-79.583471,2,Steeles Avenue West (043),a,Steeles Avenue West,144,5412610,98623043,Etobicoke,38014
+43.7604769,-79.5832196,2,Steeles Avenue West (045),a,Steeles Avenue West,144,5412610,98623045,Etobicoke,38014
+43.7605673,-79.58293,2,Steeles Avenue West (046),a,Steeles Avenue West,144,5412610,98623046,Etobicoke,38014
+43.7606183,-79.582777,2,Steeles Avenue West (047),a,Steeles Avenue West,144,5412610,98623047,Etobicoke,38014
+43.760687,-79.5825807,2,Steeles Avenue West (048),a,Steeles Avenue West,144,5412610,98623048,Etobicoke,38014
+43.7607443,-79.5904136,2,Kipling Avenue (585),a,Kipling Avenue,1089,5411515,92165585,Etobicoke,38014
+43.7607687,-79.5823779,2,Steeles Avenue West (049),a,Steeles Avenue West,144,5412610,98623049,Etobicoke,38014
+43.7608379,-79.5822025,2,Steeles Avenue West (050),a,Steeles Avenue West,144,5412610,98623050,Etobicoke,38014
+43.7609342,-79.5819892,2,Steeles Avenue West (051),a,Steeles Avenue West,144,5412610,98623051,Etobicoke,38014
+43.7611488,-79.5815693,2,Steeles Avenue West (060),a,Steeles Avenue West,144,5412610,98623060,Etobicoke,38014
+43.7613552,-79.5812154,2,Steeles Avenue West (063),a,Steeles Avenue West,144,5412610,98623063,Etobicoke,38014
+43.7615204,-79.5809543,2,Steeles Avenue West (076),a,Steeles Avenue West,144,5412610,98623076,Etobicoke,38014
+43.7617365,-79.5806585,2,Steeles Avenue West (082),a,Steeles Avenue West,144,5412610,98623082,Etobicoke,38014
+43.7617365,-79.5806585,2,Steeles Avenue West (825),a,Steeles Avenue West,144,5412610,579925825,Etobicoke,38014
+43.7620489,-79.5802422,2,Steeles Avenue West (680),a,Steeles Avenue West,144,5412610,328756680,Etobicoke,38014

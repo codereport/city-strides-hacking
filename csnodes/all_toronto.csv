@@ -1196,314 +1196,65 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.704906,-79.5633444,2,Kipling Avenue (186),a,Kipling Avenue,1113,11280312,218840186,Toronto,131268
 43.704906,-79.5633444,2,Kipling Avenue (370),a,Kipling Avenue,1113,11280312,611416370,Toronto,131268
 43.7050698,-79.5634247,2,Kipling Avenue (371),a,Kipling Avenue,1113,11280312,611416371,Toronto,131268
-43.7062429,-79.5907098,2,Grandstand Entrance Road (914),a,Grandstand Entrance Road,46,11284213,219374914,Toronto,131268
-43.7062429,-79.5907098,2,Grandstand Entrance Road (915),a,Grandstand Entrance Road,46,11284213,219374915,Toronto,131268
-43.7062497,-79.5900646,2,Grandstand Entrance Road (913),a,Grandstand Entrance Road,46,11284213,219374913,Toronto,131268
-43.7062497,-79.5900646,2,Grandstand Entrance Road (982),a,Grandstand Entrance Road,46,11284213,219374982,Toronto,131268
-43.706254,-79.5911496,2,Grandstand Entrance Road (916),a,Grandstand Entrance Road,46,11284213,219374916,Toronto,131268
-43.7062735,-79.5913762,2,Grandstand Entrance Road (917),a,Grandstand Entrance Road,46,11284213,219374917,Toronto,131268
-43.7062767,-79.5898558,2,Grandstand Entrance Road (981),a,Grandstand Entrance Road,46,11284213,219374981,Toronto,131268
-43.706331,-79.5896344,2,Grandstand Entrance Road (980),a,Grandstand Entrance Road,46,11284213,219374980,Toronto,131268
-43.7063603,-79.5915736,2,Grandstand Entrance Road (918),a,Grandstand Entrance Road,46,11284213,219374918,Toronto,131268
-43.7064124,-79.5895028,2,Grandstand Entrance Road (979),a,Grandstand Entrance Road,46,11284213,219374979,Toronto,131268
 43.7064625,-79.5643528,2,Kipling Avenue (832),a,Kipling Avenue,1113,11280312,318978832,Toronto,131268
 43.7064625,-79.5643528,2,Kipling Avenue (364),a,Kipling Avenue,1113,11280312,611416364,Toronto,131268
 43.7064675,-79.5641223,2,Kipling Avenue (505),a,Kipling Avenue,1113,11280312,318967505,Toronto,131268
 43.7064675,-79.5641223,2,Kipling Avenue (804),a,Kipling Avenue,1113,11280312,318978804,Toronto,131268
-43.7065117,-79.5893958,2,Grandstand Entrance Road (978),a,Grandstand Entrance Road,46,11284213,219374978,Toronto,131268
-43.7065382,-79.5918059,2,Grandstand Entrance Road (919),a,Grandstand Entrance Road,46,11284213,219374919,Toronto,131268
 43.7066286,-79.5644309,2,Kipling Avenue (357),a,Kipling Avenue,1113,11280312,611416357,Toronto,131268
 43.7066286,-79.5644309,2,Kipling Avenue (363),a,Kipling Avenue,1113,11280312,611416363,Toronto,131268
-43.7066557,-79.5893403,2,Grandstand Entrance Road (977),a,Grandstand Entrance Road,46,11284213,219374977,Toronto,131268
-43.7066578,-79.5918964,2,Grandstand Entrance Road (920),a,Grandstand Entrance Road,46,11284213,219374920,Toronto,131268
-43.7068807,-79.5893826,2,Grandstand Entrance Road (976),a,Grandstand Entrance Road,46,11284213,219374976,Toronto,131268
 43.7069779,-79.5778609,2,Martin Grove Road (843),a,Martin Grove Road,703,11281251,611452843,Toronto,131268
-43.7071607,-79.5894536,2,Grandstand Entrance Road (912),a,Grandstand Entrance Road,46,11284213,219374912,Toronto,131268
-43.7071607,-79.5894536,2,Grandstand Entrance Road (975),a,Grandstand Entrance Road,46,11284213,219374975,Toronto,131268
-43.7072682,-79.5921872,2,Grandstand Entrance Road (505),a,Grandstand Entrance Road,46,11284213,611453505,Toronto,131268
-43.7072682,-79.5921872,2,Grandstand Entrance Road (510),a,Grandstand Entrance Road,46,11284213,611453510,Toronto,131268
-43.7072724,-79.5895308,2,Grandstand Entrance Road (911),a,Grandstand Entrance Road,46,11284213,219374911,Toronto,131268
-43.7073173,-79.5820831,2,Bethridge Road (712),a,Bethridge Road,104,11284175,219373712,Toronto,131268
-43.707324,-79.5816972,2,Bethridge Road (711),a,Bethridge Road,104,11284175,219373711,Toronto,131268
-43.7073424,-79.5806613,2,Bethridge Road (909),a,Bethridge Road,104,11284175,506895909,Toronto,131268
-43.7073531,-79.589651,2,Grandstand Entrance Road (910),a,Grandstand Entrance Road,46,11284213,219374910,Toronto,131268
-43.7073538,-79.5799872,2,Bethridge Road (910),a,Bethridge Road,104,11284175,506895910,Toronto,131268
-43.7073545,-79.5824007,2,Bethridge Road (713),a,Bethridge Road,104,11284175,219373713,Toronto,131268
-43.7074275,-79.5898226,2,Grandstand Entrance Road (909),a,Grandstand Entrance Road,46,11284213,219374909,Toronto,131268
-43.7074476,-79.5826839,2,Bethridge Road (714),a,Bethridge Road,104,11284175,219373714,Toronto,131268
-43.7074523,-79.5899857,2,Grandstand Entrance Road (908),a,Grandstand Entrance Road,46,11284213,219374908,Toronto,131268
-43.7074855,-79.5827379,2,Bethridge Road (498),a,Bethridge Road,104,11284175,410567498,Toronto,131268
-43.7075113,-79.5922975,2,Grandstand Entrance Road (511),a,Grandstand Entrance Road,46,11284213,611453511,Toronto,131268
 43.7075781,-79.564868,2,Kipling Avenue (359),a,Kipling Avenue,1113,11280312,218840359,Toronto,131268
 43.7075781,-79.564868,2,Kipling Avenue (366),a,Kipling Avenue,1113,11280312,218840366,Toronto,131268
 43.7076222,-79.5646775,2,Kipling Avenue (355),a,Kipling Avenue,1113,11280312,611416355,Toronto,131268
 43.7076222,-79.5646775,2,Kipling Avenue (362),a,Kipling Avenue,1113,11280312,611416362,Toronto,131268
-43.7076524,-79.5838341,2,Bethridge Road (718),a,Bethridge Road,104,11284175,219373718,Toronto,131268
-43.7076524,-79.5829758,2,Bethridge Road (715),a,Bethridge Road,104,11284175,219373715,Toronto,131268
-43.707671,-79.5841431,2,Bethridge Road (719),a,Bethridge Road,104,11284175,219373719,Toronto,131268
-43.7077144,-79.5834307,2,Bethridge Road (717),a,Bethridge Road,104,11284175,219373717,Toronto,131268
-43.7077268,-79.5831989,2,Bethridge Road (716),a,Bethridge Road,104,11284175,219373716,Toronto,131268
-43.707764,-79.5844435,2,Bethridge Road (720),a,Bethridge Road,104,11284175,219373720,Toronto,131268
 43.7078041,-79.5647647,2,Kipling Avenue (356),a,Kipling Avenue,1113,11280312,611416356,Toronto,131268
 43.7078041,-79.5647647,2,Kipling Avenue (359),a,Kipling Avenue,1113,11280312,611416359,Toronto,131268
-43.7079502,-79.5846752,2,Bethridge Road (721),a,Bethridge Road,104,11284175,219373721,Toronto,131268
-43.7080469,-79.5925408,2,Grandstand Entrance Road (508),a,Grandstand Entrance Road,46,11284213,611453508,Toronto,131268
-43.7080469,-79.5925408,2,Grandstand Entrance Road (512),a,Grandstand Entrance Road,46,11284213,611453512,Toronto,131268
-43.7080991,-79.5847696,2,Bethridge Road (722),a,Bethridge Road,104,11284175,219373722,Toronto,131268
-43.7081147,-79.5912188,2,Bethridge Road (734),a,Bethridge Road,104,11284175,219373734,Toronto,131268
-43.7081378,-79.5911222,2,Bethridge Road (733),a,Bethridge Road,104,11284175,219373733,Toronto,131268
-43.7081531,-79.5910579,2,Bethridge Road (310),a,Bethridge Road,104,11284175,488076310,Toronto,131268
-43.7082271,-79.5926228,2,Grandstand Entrance Road (506),a,Grandstand Entrance Road,46,11284213,611453506,Toronto,131268
-43.7082271,-79.5926228,2,Grandstand Entrance Road (509),a,Grandstand Entrance Road,46,11284213,611453509,Toronto,131268
-43.7083003,-79.5904417,2,Bethridge Road (635),a,Bethridge Road,104,11284175,422889635,Toronto,131268
-43.7083004,-79.5848691,2,Bethridge Road (725),a,Bethridge Road,104,11284175,498624725,Toronto,131268
-43.7083439,-79.590259,2,Bethridge Road (634),a,Bethridge Road,104,11284175,422889634,Toronto,131268
-43.7084362,-79.5898726,2,Bethridge Road (633),a,Bethridge Road,104,11284175,422889633,Toronto,131268
-43.7084824,-79.589679,2,Bethridge Road (629),a,Bethridge Road,104,11284175,496701629,Toronto,131268
-43.7084941,-79.5896299,2,Bethridge Road (732),a,Bethridge Road,104,11284175,219373732,Toronto,131268
-43.7084941,-79.5896299,2,Queen's Plate Drive (418),a,Queen's Plate Drive,190,11284217,219375418,Toronto,131268
-43.7085482,-79.5927859,2,Grandstand Entrance Road (507),a,Grandstand Entrance Road,46,11284213,611453507,Toronto,131268
-43.7085482,-79.5927859,2,Grandstand Entrance Road (513),a,Grandstand Entrance Road,46,11284213,611453513,Toronto,131268
-43.7086065,-79.5896764,2,Queen's Plate Drive (417),a,Queen's Plate Drive,190,11284217,219375417,Toronto,131268
-43.7086072,-79.5891278,2,Bethridge Road (731),a,Bethridge Road,104,11284175,219373731,Toronto,131268
-43.7087238,-79.5886101,2,Bethridge Road (730),a,Bethridge Road,104,11284175,219373730,Toronto,131268
-43.708786,-79.5929088,2,Grandstand Entrance Road (514),a,Grandstand Entrance Road,46,11284213,611453514,Toronto,131268
-43.7087876,-79.5897513,2,Queen's Plate Drive (416),a,Queen's Plate Drive,190,11284217,219375416,Toronto,131268
-43.7088596,-79.5851454,2,Bethridge Road (726),a,Bethridge Road,104,11284175,498624726,Toronto,131268
-43.7089677,-79.5851988,2,Bethridge Road (723),a,Bethridge Road,104,11284175,219373723,Toronto,131268
-43.7090359,-79.5872244,2,Bethridge Road (729),a,Bethridge Road,104,11284175,219373729,Toronto,131268
-43.7090359,-79.5872244,2,Precision Road (740),a,Precision Road,18,11284176,219373740,Toronto,131268
-43.7090951,-79.5898784,2,Queen's Plate Drive (415),a,Queen's Plate Drive,190,11284217,219375415,Toronto,131268
-43.7091414,-79.5854219,2,Bethridge Road (724),a,Bethridge Road,104,11284175,219373724,Toronto,131268
-43.7091768,-79.5872846,2,Precision Road (741),a,Precision Road,18,11284176,219373741,Toronto,131268
-43.7092025,-79.5855911,2,Bethridge Road (725),a,Bethridge Road,104,11284175,219373725,Toronto,131268
-43.7092407,-79.5863232,2,Bethridge Road (728),a,Bethridge Road,104,11284175,219373728,Toronto,131268
-43.7092516,-79.5862513,2,Bethridge Road (317),a,Bethridge Road,104,11284175,555159317,Toronto,131268
-43.7092655,-79.5857653,2,Bethridge Road (726),a,Bethridge Road,104,11284175,219373726,Toronto,131268
-43.7092779,-79.5861172,2,Bethridge Road (727),a,Bethridge Road,104,11284175,219373727,Toronto,131268
-43.7095664,-79.5900733,2,Queen's Plate Drive (640),a,Queen's Plate Drive,190,11284217,496701640,Toronto,131268
-43.7102566,-79.5903587,2,Queen's Plate Drive (639),a,Queen's Plate Drive,190,11284217,496701639,Toronto,131268
-43.7105994,-79.5904975,2,Queen's Plate Drive (516),a,Queen's Plate Drive,190,11284217,611453516,Toronto,131268
-43.7111355,-79.5907222,2,Queen's Plate Drive (999),a,Queen's Plate Drive,190,11284217,318938999,Toronto,131268
-43.7112342,-79.5940854,2,Grandstand Entrance Road (515),a,Grandstand Entrance Road,46,11284213,611453515,Toronto,131268
-43.7113808,-79.5928653,2,Vice Regent Boulevard (217),a,Vice Regent Boulevard,19,11284216,219375217,Toronto,131268
-43.7113808,-79.5928653,2,Vice Regent Boulevard (519),a,Vice Regent Boulevard,19,11284216,611453519,Toronto,131268
-43.711382,-79.5926924,2,Vice Regent Boulevard (529),a,Vice Regent Boulevard,19,11284216,318979529,Toronto,131268
-43.7114077,-79.5925777,2,Vice Regent Boulevard (520),a,Vice Regent Boulevard,19,11284216,611453520,Toronto,131268
-43.7114557,-79.5923638,2,Vice Regent Boulevard (531),a,Vice Regent Boulevard,19,11284216,318979531,Toronto,131268
-43.7114593,-79.5927289,2,Vice Regent Boulevard (218),a,Vice Regent Boulevard,19,11284216,219375218,Toronto,131268
-43.711481,-79.5926183,2,Vice Regent Boulevard (313),a,Vice Regent Boulevard,19,11284216,488076313,Toronto,131268
-43.7115216,-79.5922512,2,Vice Regent Boulevard (139),a,Vice Regent Boulevard,19,11284216,318913139,Toronto,131268
-43.7115216,-79.5922512,2,Vice Regent Boulevard (532),a,Vice Regent Boulevard,19,11284216,318979532,Toronto,131268
-43.7115216,-79.5922512,2,Vice Regent Boulevard (541),a,Vice Regent Boulevard,19,11284216,318979541,Toronto,131268
-43.7115245,-79.5923974,2,Vice Regent Boulevard (140),a,Vice Regent Boulevard,19,11284216,318913140,Toronto,131268
-43.7115916,-79.5919227,2,Vice Regent Boulevard (568),a,Vice Regent Boulevard,19,11284216,406363568,Toronto,131268
-43.7116038,-79.5918655,2,Vice Regent Boulevard (542),a,Vice Regent Boulevard,19,11284216,318979542,Toronto,131268
 43.711614,-79.566861,2,Rexdale Boulevard (079),a,Rexdale Boulevard,337,11282096,218907079,Toronto,131268
-43.71173,-79.5943244,2,Grandstand Entrance Road (558),a,Grandstand Entrance Road,46,11284213,611453558,Toronto,131268
-43.7117829,-79.5909899,2,Vice Regent Boulevard (220),a,Vice Regent Boulevard,19,11284216,219375220,Toronto,131268
-43.7117829,-79.5909899,2,Vice Regent Boulevard (518),a,Vice Regent Boulevard,19,11284216,611453518,Toronto,131268
-43.7117829,-79.5909899,2,Queen's Plate Drive (413),a,Queen's Plate Drive,190,11284217,219375413,Toronto,131268
-43.7117829,-79.5909899,2,Queen's Plate Drive (414),a,Queen's Plate Drive,190,11284217,219375414,Toronto,131268
-43.7119498,-79.5902348,2,Vice Regent Boulevard (469),a,Vice Regent Boulevard,19,11284216,511319469,Toronto,131268
-43.7119806,-79.5945129,2,Grandstand Entrance Road (559),a,Grandstand Entrance Road,46,11284213,611453559,Toronto,131268
-43.7121167,-79.5894801,2,Vice Regent Boulevard (517),a,Vice Regent Boulevard,19,11284216,611453517,Toronto,131268
-43.7121505,-79.5946786,2,Grandstand Entrance Road (560),a,Grandstand Entrance Road,46,11284213,611453560,Toronto,131268
-43.7122671,-79.5887997,2,Vice Regent Boulevard (736),a,Vice Regent Boulevard,19,11284216,334300736,Toronto,131268
-43.7122919,-79.5948432,2,Grandstand Entrance Road (561),a,Grandstand Entrance Road,46,11284213,611453561,Toronto,131268
-43.7123117,-79.5886234,2,Precision Road (742),a,Precision Road,18,11284176,219373742,Toronto,131268
-43.7123117,-79.5886234,2,Precision Road (743),a,Precision Road,18,11284176,219373743,Toronto,131268
-43.7123117,-79.5886234,2,Vice Regent Boulevard (221),a,Vice Regent Boulevard,19,11284216,219375221,Toronto,131268
 43.7124184,-79.5912664,2,Queen's Plate Drive (470),a,Queen's Plate Drive,190,11284217,511319470,Toronto,131268
-43.7124191,-79.5950309,2,Grandstand Entrance Road (562),a,Grandstand Entrance Road,46,11284213,611453562,Toronto,131268
-43.7124405,-79.5845011,2,Tidemore Avenue (462),a,Tidemore Avenue,13,11284219,219375462,Toronto,131268
-43.7124578,-79.5886849,2,Precision Road (467),a,Precision Road,18,11284176,511319467,Toronto,131268
-43.7124899,-79.5845216,2,Tidemore Avenue (446),a,Tidemore Avenue,13,11284219,490048446,Toronto,131268
-43.7125283,-79.5845376,2,Tidemore Avenue (445),a,Tidemore Avenue,13,11284219,490048445,Toronto,131268
-43.7126851,-79.5954296,2,Grandstand Entrance Road (563),a,Grandstand Entrance Road,46,11284213,611453563,Toronto,131268
-43.7127183,-79.5887945,2,Precision Road (468),a,Precision Road,18,11284176,511319468,Toronto,131268
-43.7128074,-79.5955882,2,Grandstand Entrance Road (564),a,Grandstand Entrance Road,46,11284213,611453564,Toronto,131268
-43.7129315,-79.5957157,2,Grandstand Entrance Road (565),a,Grandstand Entrance Road,46,11284213,611453565,Toronto,131268
-43.7131209,-79.588964,2,Precision Road (466),a,Precision Road,18,11284176,511319466,Toronto,131268
-43.7131358,-79.5847897,2,Tidemore Avenue (544),a,Tidemore Avenue,13,11284219,611453544,Toronto,131268
-43.7131831,-79.5959147,2,Grandstand Entrance Road (566),a,Grandstand Entrance Road,46,11284213,611453566,Toronto,131268
-43.7131831,-79.5959147,2,Grandstand Entrance Road (634),a,Grandstand Entrance Road,46,11284213,611453634,Toronto,131268
 43.7132142,-79.5916126,2,Queen's Plate Drive (234),a,Queen's Plate Drive,190,11284217,432432234,Toronto,131268
-43.713264,-79.5848429,2,Tidemore Avenue (261),a,Tidemore Avenue,13,11284219,418040261,Toronto,131268
 43.7132749,-79.591639,2,Queen's Plate Drive (660),a,Queen's Plate Drive,190,11284217,406362660,Toronto,131268
-43.7132985,-79.5959045,2,Grandstand Entrance Road (635),a,Grandstand Entrance Road,46,11284213,611453635,Toronto,131268
 43.713548,-79.5584458,2,Rexdale Boulevard (966),a,Rexdale Boulevard,337,11282096,218906966,Toronto,131268
 43.713548,-79.5584458,2,Rexdale Boulevard (967),a,Rexdale Boulevard,337,11282096,218906967,Toronto,131268
-43.7136003,-79.5960446,2,Grandstand Entrance Road (636),a,Grandstand Entrance Road,46,11284213,611453636,Toronto,131268
-43.7136438,-79.5960648,2,Grandstand Entrance Road (637),a,Grandstand Entrance Road,46,11284213,611453637,Toronto,131268
-43.7136771,-79.5961991,2,New Providence Trail (633),a,New Providence Trail,9,22068729,611453633,Toronto,131268
-43.7136771,-79.5961991,2,Dance Smartly Boulevard (626),a,Dance Smartly Boulevard,138,24019320,611453626,Toronto,131268
 43.7136834,-79.5585506,2,Rexdale Boulevard (952),a,Rexdale Boulevard,337,11282096,218906952,Toronto,131268
 43.7136834,-79.5585506,2,Rexdale Boulevard (611),a,Rexdale Boulevard,337,11282096,611416611,Toronto,131268
-43.713704,-79.5960927,2,Grandstand Entrance Road (638),a,Grandstand Entrance Road,46,11284213,611453638,Toronto,131268
-43.713704,-79.5960927,2,New Providence Trail (632),a,New Providence Trail,9,22068729,611453632,Toronto,131268
-43.713704,-79.5960927,2,Dance Smartly Boulevard (627),a,Dance Smartly Boulevard,138,24019320,611453627,Toronto,131268
-43.7137473,-79.595922,2,New Providence Trail (631),a,New Providence Trail,9,22068729,611453631,Toronto,131268
-43.7137562,-79.5850472,2,Tidemore Avenue (262),a,Tidemore Avenue,13,11284219,418040262,Toronto,131268
 43.7138131,-79.5579836,2,Rexdale Boulevard (540),a,Rexdale Boulevard,337,11282096,431643540,Toronto,131268
-43.713815,-79.5962572,2,Dance Smartly Boulevard (625),a,Dance Smartly Boulevard,138,24019320,611453625,Toronto,131268
-43.713839,-79.5961553,2,Dance Smartly Boulevard (628),a,Dance Smartly Boulevard,138,24019320,611453628,Toronto,131268
-43.7138508,-79.5955145,2,New Providence Trail (623),a,New Providence Trail,9,22068729,611453623,Toronto,131268
-43.7138508,-79.5955145,2,New Providence Trail (630),a,New Providence Trail,9,22068729,611453630,Toronto,131268
-43.7138967,-79.5814575,2,Rexdale Boulevard (223),a,Rexdale Boulevard,337,11282096,555159223,Toronto,131268
-43.7138967,-79.5814575,2,Rexdale Boulevard (225),a,Rexdale Boulevard,337,11282096,555159225,Toronto,131268
-43.7139522,-79.5812175,2,Martin Grove Road (128),a,Martin Grove Road,703,11281251,218874128,Toronto,131268
-43.7139522,-79.5812175,2,Martin Grove Road (904),a,Martin Grove Road,703,11281251,611452904,Toronto,131268
-43.7139522,-79.5812175,2,Rexdale Boulevard (090),a,Rexdale Boulevard,337,11282096,218907090,Toronto,131268
-43.7139522,-79.5812175,2,Rexdale Boulevard (107),a,Rexdale Boulevard,337,11282096,218907107,Toronto,131268
-43.7139626,-79.5810565,2,Martin Grove Road (120),a,Martin Grove Road,703,11281251,218874120,Toronto,131268
-43.7139626,-79.5810565,2,Martin Grove Road (121),a,Martin Grove Road,703,11281251,218874121,Toronto,131268
-43.7139704,-79.5813015,2,Rexdale Boulevard (091),a,Rexdale Boulevard,337,11282096,218907091,Toronto,131268
-43.7139802,-79.5818292,2,Rexdale Boulevard (087),a,Rexdale Boulevard,337,11282096,218907087,Toronto,131268
-43.7139834,-79.5810666,2,Martin Grove Road (122),a,Martin Grove Road,703,11281251,218874122,Toronto,131268
-43.7139915,-79.5851449,2,Tidemore Avenue (463),a,Tidemore Avenue,13,11284219,219375463,Toronto,131268
-43.7140047,-79.5819355,2,Rexdale Boulevard (603),a,Rexdale Boulevard,337,11282096,418041603,Toronto,131268
-43.7140112,-79.5819637,2,Rexdale Boulevard (086),a,Rexdale Boulevard,337,11282096,218907086,Toronto,131268
-43.714018,-79.5812468,2,Martin Grove Road (127),a,Martin Grove Road,703,11281251,218874127,Toronto,131268
-43.7140525,-79.5817014,2,Rexdale Boulevard (092),a,Rexdale Boulevard,337,11282096,218907092,Toronto,131268
-43.7140531,-79.594719,2,New Providence Trail (571),a,New Providence Trail,9,22068729,611453571,Toronto,131268
-43.7140531,-79.594719,2,New Providence Trail (622),a,New Providence Trail,9,22068729,611453622,Toronto,131268
 43.7140645,-79.5919826,2,Queen's Plate Drive (973),a,Queen's Plate Drive,190,11284217,418040973,Toronto,131268
-43.7140808,-79.5818404,2,Rexdale Boulevard (466),a,Rexdale Boulevard,337,11282096,496701466,Toronto,131268
-43.7140842,-79.5893695,2,Precision Road (009),a,Precision Road,18,11284176,318939009,Toronto,131268
-43.7140842,-79.5893695,2,Precision Road (760),a,Precision Road,18,11284176,318984760,Toronto,131268
 43.7140924,-79.5963855,2,Dance Smartly Boulevard (624),a,Dance Smartly Boulevard,138,24019320,611453624,Toronto,131268
-43.7140926,-79.5818985,2,Rexdale Boulevard (093),a,Rexdale Boulevard,337,11282096,218907093,Toronto,131268
-43.7140997,-79.5821139,2,Rexdale Boulevard (085),a,Rexdale Boulevard,337,11282096,218907085,Toronto,131268
-43.7140997,-79.5821139,2,Rexdale Boulevard (094),a,Rexdale Boulevard,337,11282096,218907094,Toronto,131268
-43.7140997,-79.5821139,2,Rexdale Boulevard (540),a,Rexdale Boulevard,337,11282096,611453540,Toronto,131268
 43.7141169,-79.5962843,2,Dance Smartly Boulevard (629),a,Dance Smartly Boulevard,138,24019320,611453629,Toronto,131268
-43.714118,-79.5944638,2,New Providence Trail (570),a,New Providence Trail,9,22068729,611453570,Toronto,131268
-43.7141401,-79.5811355,2,Martin Grove Road (267),a,Martin Grove Road,703,11281251,496700267,Toronto,131268
-43.7141486,-79.5943435,2,Nearctic Drive (568),a,Nearctic Drive,10,11284218,611453568,Toronto,131268
-43.7141486,-79.5943435,2,New Providence Trail (569),a,New Providence Trail,9,22068729,611453569,Toronto,131268
-43.7141525,-79.5823536,2,Rexdale Boulevard (233),a,Rexdale Boulevard,337,11282096,555159233,Toronto,131268
-43.7141817,-79.5824859,2,Rexdale Boulevard (232),a,Rexdale Boulevard,337,11282096,555159232,Toronto,131268
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (743),a,Dance Smartly Boulevard,138,24019320,561865743,Toronto,131268
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (786),a,Dance Smartly Boulevard,138,24019320,561865786,Toronto,131268
 43.7141838,-79.5963684,2,Dance Smartly Boulevard (788),a,Dance Smartly Boulevard,138,24019320,561865788,Toronto,131268
-43.7141933,-79.5941775,2,Nearctic Drive (528),a,Nearctic Drive,10,11284218,611453528,Toronto,131268
-43.7141933,-79.5941775,2,Nearctic Drive (567),a,Nearctic Drive,10,11284218,611453567,Toronto,131268
-43.7142212,-79.5826651,2,Rexdale Boulevard (231),a,Rexdale Boulevard,337,11282096,555159231,Toronto,131268
-43.7142279,-79.5813256,2,Martin Grove Road (126),a,Martin Grove Road,703,11281251,218874126,Toronto,131268
-43.7142311,-79.5940381,2,Nearctic Drive (527),a,Nearctic Drive,10,11284218,611453527,Toronto,131268
-43.7142413,-79.585211,2,Tidemore Avenue (263),a,Tidemore Avenue,13,11284219,418040263,Toronto,131268
-43.7142651,-79.5811923,2,Martin Grove Road (123),a,Martin Grove Road,703,11281251,218874123,Toronto,131268
-43.7142831,-79.5852221,2,Tidemore Avenue (464),a,Tidemore Avenue,13,11284219,219375464,Toronto,131268
-43.7143024,-79.5812935,2,Martin Grove Road (105),a,Martin Grove Road,703,11281251,218874105,Toronto,131268
-43.7143024,-79.5812935,2,Martin Grove Road (124),a,Martin Grove Road,703,11281251,218874124,Toronto,131268
-43.7143024,-79.5812935,2,Martin Grove Road (125),a,Martin Grove Road,703,11281251,218874125,Toronto,131268
-43.7143029,-79.5937491,2,Nearctic Drive (526),a,Nearctic Drive,10,11284218,611453526,Toronto,131268
-43.7143041,-79.5830411,2,Rexdale Boulevard (228),a,Rexdale Boulevard,337,11282096,555159228,Toronto,131268
-43.7143216,-79.5852203,2,Tidemore Avenue (264),a,Tidemore Avenue,13,11284219,418040264,Toronto,131268
-43.7143328,-79.5936289,2,Nearctic Drive (524),a,Nearctic Drive,10,11284218,611453524,Toronto,131268
-43.7143328,-79.5936289,2,Nearctic Drive (525),a,Nearctic Drive,10,11284218,611453525,Toronto,131268
-43.7143556,-79.5813227,2,Martin Grove Road (106),a,Martin Grove Road,703,11281251,218874106,Toronto,131268
-43.7143556,-79.5813227,2,Martin Grove Road (110),a,Martin Grove Road,703,11281251,218874110,Toronto,131268
-43.7144022,-79.5813457,2,Martin Grove Road (265),a,Martin Grove Road,703,11281251,496700265,Toronto,131268
-43.714438,-79.5836334,2,Rexdale Boulevard (226),a,Rexdale Boulevard,337,11282096,555159226,Toronto,131268
-43.714463,-79.5852135,2,Tidemore Avenue (465),a,Tidemore Avenue,13,11284219,219375465,Toronto,131268
-43.7144705,-79.583776,2,Rexdale Boulevard (229),a,Rexdale Boulevard,337,11282096,555159229,Toronto,131268
-43.7145117,-79.5928104,2,Nearctic Drive (646),a,Nearctic Drive,10,11284218,496701646,Toronto,131268
-43.7145131,-79.5928043,2,Nearctic Drive (647),a,Nearctic Drive,10,11284218,496701647,Toronto,131268
-43.7145431,-79.5840937,2,Rexdale Boulevard (230),a,Rexdale Boulevard,337,11282096,555159230,Toronto,131268
-43.7145598,-79.592198,2,Queen's Plate Drive (521),a,Queen's Plate Drive,190,11284217,611453521,Toronto,131268
-43.7146445,-79.5922349,2,Queen's Plate Drive (412),a,Queen's Plate Drive,190,11284217,219375412,Toronto,131268
-43.7146445,-79.5922349,2,Queen's Plate Drive (421),a,Queen's Plate Drive,190,11284217,219375421,Toronto,131268
-43.7146445,-79.5922349,2,Nearctic Drive (645),a,Nearctic Drive,10,11284218,496701645,Toronto,131268
-43.7146521,-79.5851625,2,Tidemore Avenue (466),a,Tidemore Avenue,13,11284219,219375466,Toronto,131268
-43.7146564,-79.5845898,2,Rexdale Boulevard (227),a,Rexdale Boulevard,337,11282096,555159227,Toronto,131268
-43.7146887,-79.5814692,2,Martin Grove Road (266),a,Martin Grove Road,703,11281251,496700266,Toronto,131268
-43.7147027,-79.5848099,2,Rexdale Boulevard (234),a,Rexdale Boulevard,337,11282096,555159234,Toronto,131268
-43.7147027,-79.5848099,2,Rexdale Boulevard (236),a,Rexdale Boulevard,337,11282096,555159236,Toronto,131268
-43.7147325,-79.5922712,2,Queen's Plate Drive (529),a,Queen's Plate Drive,190,11284217,611453529,Toronto,131268
-43.7147539,-79.5850516,2,Rexdale Boulevard (541),a,Rexdale Boulevard,337,11282096,611453541,Toronto,131268
-43.7147783,-79.5851539,2,Rexdale Boulevard (097),a,Rexdale Boulevard,337,11282096,218907097,Toronto,131268
-43.7147783,-79.5851539,2,Rexdale Boulevard (542),a,Rexdale Boulevard,337,11282096,611453542,Toronto,131268
-43.7147783,-79.5851539,2,Tidemore Avenue (467),a,Tidemore Avenue,13,11284219,219375467,Toronto,131268
-43.7148136,-79.5853086,2,Rexdale Boulevard (543),a,Rexdale Boulevard,337,11282096,611453543,Toronto,131268
 43.7148601,-79.5967205,2,Dance Smartly Boulevard (739),a,Dance Smartly Boulevard,138,24019320,561865739,Toronto,131268
 43.7148601,-79.5967205,2,Dance Smartly Boulevard (744),a,Dance Smartly Boulevard,138,24019320,561865744,Toronto,131268
 43.7148601,-79.5967205,2,Dance Smartly Boulevard (745),a,Dance Smartly Boulevard,138,24019320,561865745,Toronto,131268
-43.7148721,-79.5815723,2,Martin Grove Road (017),a,Martin Grove Road,703,11281251,485216017,Toronto,131268
-43.7148826,-79.5897056,2,Precision Road (761),a,Precision Road,18,11284176,318984761,Toronto,131268
-43.7148826,-79.5897056,2,Precision Road (782),a,Precision Road,18,11284176,318984782,Toronto,131268
 43.714894,-79.5968004,2,Dance Smartly Boulevard (613),a,Dance Smartly Boulevard,138,24019320,611453613,Toronto,131268
-43.7149111,-79.5857187,2,Rexdale Boulevard (976),a,Rexdale Boulevard,337,11282096,505454976,Toronto,131268
 43.7149392,-79.5966981,2,Dance Smartly Boulevard (746),a,Dance Smartly Boulevard,138,24019320,561865746,Toronto,131268
-43.7149659,-79.5859516,2,Rexdale Boulevard (975),a,Rexdale Boulevard,337,11282096,505454975,Toronto,131268
-43.715001,-79.5923821,2,Queen's Plate Drive (182),a,Queen's Plate Drive,190,11284217,418041182,Toronto,131268
-43.7150688,-79.5863894,2,Rexdale Boulevard (596),a,Rexdale Boulevard,337,11282096,386162596,Toronto,131268
-43.7150853,-79.5864594,2,Rexdale Boulevard (306),a,Rexdale Boulevard,337,11282096,485216306,Toronto,131268
 43.7151004,-79.5969015,2,Dance Smartly Boulevard (612),a,Dance Smartly Boulevard,138,24019320,611453612,Toronto,131268
 43.7151241,-79.5967855,2,Dance Smartly Boulevard (619),a,Dance Smartly Boulevard,138,24019320,611453619,Toronto,131268
-43.7151536,-79.5817023,2,Martin Grove Road (536),a,Martin Grove Road,703,11281251,504024536,Toronto,131268
-43.7151698,-79.5898265,2,Precision Road (783),a,Precision Road,18,11284176,418041783,Toronto,131268
 43.715174,-79.5969352,2,Dance Smartly Boulevard (611),a,Dance Smartly Boulevard,138,24019320,611453611,Toronto,131268
 43.7152032,-79.5968202,2,Dance Smartly Boulevard (620),a,Dance Smartly Boulevard,138,24019320,611453620,Toronto,131268
-43.7152275,-79.5898508,2,Precision Road (081),a,Precision Road,18,11284176,461544081,Toronto,131268
-43.715239,-79.5817351,2,Martin Grove Road (016),a,Martin Grove Road,703,11281251,485216016,Toronto,131268
-43.7152439,-79.5871346,2,Rexdale Boulevard (612),a,Rexdale Boulevard,337,11282096,418041612,Toronto,131268
-43.7152691,-79.5872416,2,Rexdale Boulevard (597),a,Rexdale Boulevard,337,11282096,386162597,Toronto,131268
-43.7152881,-79.5925006,2,Queen's Plate Drive (420),a,Queen's Plate Drive,190,11284217,219375420,Toronto,131268
 43.715303,-79.5969944,2,Dance Smartly Boulevard (610),a,Dance Smartly Boulevard,138,24019320,611453610,Toronto,131268
 43.715303,-79.5969944,2,Dance Smartly Boulevard (618),a,Dance Smartly Boulevard,138,24019320,611453618,Toronto,131268
 43.7153328,-79.5968769,2,Dance Smartly Boulevard (605),a,Dance Smartly Boulevard,138,24019320,611453605,Toronto,131268
 43.7153328,-79.5968769,2,Dance Smartly Boulevard (621),a,Dance Smartly Boulevard,138,24019320,611453621,Toronto,131268
-43.7153764,-79.5898594,2,Precision Road (082),a,Precision Road,18,11284176,461544082,Toronto,131268
-43.7153859,-79.5817918,2,Martin Grove Road (537),a,Martin Grove Road,703,11281251,504024537,Toronto,131268
 43.7154582,-79.5970655,2,Dance Smartly Boulevard (617),a,Dance Smartly Boulevard,138,24019320,611453617,Toronto,131268
-43.7154755,-79.5881197,2,Rexdale Boulevard (613),a,Rexdale Boulevard,337,11282096,418041613,Toronto,131268
 43.7154885,-79.5969451,2,Dance Smartly Boulevard (606),a,Dance Smartly Boulevard,138,24019320,611453606,Toronto,131268
-43.7155078,-79.5882572,2,Rexdale Boulevard (554),a,Rexdale Boulevard,337,11282096,438784554,Toronto,131268
 43.7155116,-79.59709,2,Dance Smartly Boulevard (616),a,Dance Smartly Boulevard,138,24019320,611453616,Toronto,131268
-43.7155148,-79.5818575,2,Martin Grove Road (535),a,Martin Grove Road,703,11281251,504024535,Toronto,131268
-43.7155315,-79.5898079,2,Precision Road (083),a,Precision Road,18,11284176,461544083,Toronto,131268
 43.7155334,-79.5969648,2,Dance Smartly Boulevard (607),a,Dance Smartly Boulevard,138,24019320,611453607,Toronto,131268
-43.7155761,-79.5885478,2,Rexdale Boulevard (784),a,Rexdale Boulevard,337,11282096,318969784,Toronto,131268
 43.7155776,-79.6033069,2,Queen's Plate Drive (440),a,Queen's Plate Drive,190,11284217,611454440,Toronto,131268
 43.7155788,-79.603183,2,Queen's Plate Drive (441),a,Queen's Plate Drive,190,11284217,611454441,Toronto,131268
-43.7155858,-79.5926353,2,Queen's Plate Drive (938),a,Queen's Plate Drive,190,11284217,318944938,Toronto,131268
-43.7155858,-79.581889,2,Martin Grove Road (111),a,Martin Grove Road,703,11281251,218874111,Toronto,131268
-43.7155928,-79.5886188,2,Rexdale Boulevard (553),a,Rexdale Boulevard,337,11282096,438784553,Toronto,131268
 43.7155997,-79.603087,2,Queen's Plate Drive (442),a,Queen's Plate Drive,190,11284217,611454442,Toronto,131268
 43.7156138,-79.6034355,2,Queen's Plate Drive (439),a,Queen's Plate Drive,190,11284217,611454439,Toronto,131268
-43.7156497,-79.5897474,2,Precision Road (112),a,Precision Road,18,11284176,334301112,Toronto,131268
 43.7156563,-79.6030282,2,Queen's Plate Drive (443),a,Queen's Plate Drive,190,11284217,611454443,Toronto,131268
 43.7156707,-79.6035008,2,Queen's Plate Drive (438),a,Queen's Plate Drive,190,11284217,611454438,Toronto,131268
-43.7156896,-79.581935,2,Martin Grove Road (112),a,Martin Grove Road,703,11281251,218874112,Toronto,131268
-43.7157201,-79.589712,2,Precision Road (085),a,Precision Road,18,11284176,461544085,Toronto,131268
-43.7157246,-79.5891794,2,Rexdale Boulevard (614),a,Rexdale Boulevard,337,11282096,418041614,Toronto,131268
-43.7157246,-79.5891794,2,Rexdale Boulevard (522),a,Rexdale Boulevard,337,11282096,611453522,Toronto,131268
 43.7157656,-79.5972035,2,Dance Smartly Boulevard (615),a,Dance Smartly Boulevard,138,24019320,611453615,Toronto,131268
 43.7157895,-79.5970822,2,Dance Smartly Boulevard (608),a,Dance Smartly Boulevard,138,24019320,611453608,Toronto,131268
-43.7158326,-79.5927011,2,Queen's Plate Drive (419),a,Queen's Plate Drive,190,11284217,219375419,Toronto,131268
-43.7158326,-79.5927011,2,Queen's Plate Drive (426),a,Queen's Plate Drive,190,11284217,219375426,Toronto,131268
-43.7158326,-79.5927011,2,Queen's Plate Drive (427),a,Queen's Plate Drive,190,11284217,219375427,Toronto,131268
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (600),a,Dance Smartly Boulevard,138,24019320,611453600,Toronto,131268
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (609),a,Dance Smartly Boulevard,138,24019320,611453609,Toronto,131268
 43.7158365,-79.5971596,2,Dance Smartly Boulevard (614),a,Dance Smartly Boulevard,138,24019320,611453614,Toronto,131268
-43.7158412,-79.5896754,2,Rexdale Boulevard (905),a,Rexdale Boulevard,337,11282096,218906905,Toronto,131268
-43.7158412,-79.5896754,2,Rexdale Boulevard (983),a,Rexdale Boulevard,337,11282096,218906983,Toronto,131268
-43.7158412,-79.5896754,2,Rexdale Boulevard (523),a,Rexdale Boulevard,337,11282096,611453523,Toronto,131268
-43.7158412,-79.5896754,2,Precision Road (084),a,Precision Road,18,11284176,461544084,Toronto,131268
-43.7158906,-79.5927715,2,Queen's Plate Drive (425),a,Queen's Plate Drive,190,11284217,219375425,Toronto,131268
-43.7158936,-79.5926137,2,Queen's Plate Drive (428),a,Queen's Plate Drive,190,11284217,219375428,Toronto,131268
-43.7159552,-79.5903723,2,Rexdale Boulevard (982),a,Rexdale Boulevard,337,11282096,218906982,Toronto,131268
 43.7159884,-79.597232,2,Dance Smartly Boulevard (601),a,Dance Smartly Boulevard,138,24019320,611453601,Toronto,131268
-43.7160369,-79.5902863,2,Rexdale Boulevard (552),a,Rexdale Boulevard,337,11282096,438784552,Toronto,131268
-43.7160453,-79.5927667,2,Queen's Plate Drive (424),a,Queen's Plate Drive,190,11284217,219375424,Toronto,131268
-43.7160519,-79.5903331,2,Rexdale Boulevard (906),a,Rexdale Boulevard,337,11282096,218906906,Toronto,131268
 43.7161054,-79.5973191,2,Dance Smartly Boulevard (757),a,Dance Smartly Boulevard,138,24019320,561865757,Toronto,131268
-43.7161471,-79.582138,2,Martin Grove Road (602),a,Martin Grove Road,703,11281251,418041602,Toronto,131268
 43.7161733,-79.6030473,2,Queen's Plate Drive (444),a,Queen's Plate Drive,190,11284217,611454444,Toronto,131268
-43.7161742,-79.5913476,2,Rexdale Boulevard (443),a,Rexdale Boulevard,337,11282096,418041443,Toronto,131268
-43.7162128,-79.5821671,2,Martin Grove Road (778),a,Martin Grove Road,703,11281251,318969778,Toronto,131268
 43.7162234,-79.6030914,2,Queen's Plate Drive (445),a,Queen's Plate Drive,190,11284217,611454445,Toronto,131268
 43.7162297,-79.5974466,2,Dance Smartly Boulevard (602),a,Dance Smartly Boulevard,138,24019320,611453602,Toronto,131268
 43.71626,-79.6031627,2,Queen's Plate Drive (446),a,Queen's Plate Drive,190,11284217,611454446,Toronto,131268
@@ -1513,41 +1264,23 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7162843,-79.6033478,2,Queen's Plate Drive (418),a,Queen's Plate Drive,190,11284217,611454418,Toronto,131268
 43.7162843,-79.6033478,2,Queen's Plate Drive (431),a,Queen's Plate Drive,190,11284217,611454431,Toronto,131268
 43.7162843,-79.6033478,2,Queen's Plate Drive (447),a,Queen's Plate Drive,190,11284217,611454447,Toronto,131268
-43.7163125,-79.5913938,2,Rexdale Boulevard (374),a,Rexdale Boulevard,337,11282096,318913374,Toronto,131268
 43.7163468,-79.5975989,2,Dance Smartly Boulevard (758),a,Dance Smartly Boulevard,138,24019320,561865758,Toronto,131268
-43.7163721,-79.5925871,2,Queen's Plate Drive (532),a,Queen's Plate Drive,190,11284217,611453532,Toronto,131268
 43.7163776,-79.6035154,2,Queen's Plate Drive (429),a,Queen's Plate Drive,190,11284217,611454429,Toronto,131268
 43.7163827,-79.6033515,2,Queen's Plate Drive (432),a,Queen's Plate Drive,190,11284217,611454432,Toronto,131268
-43.7163994,-79.592713,2,Queen's Plate Drive (533),a,Queen's Plate Drive,190,11284217,611453533,Toronto,131268
-43.7164143,-79.5924327,2,Rexdale Boulevard (534),a,Rexdale Boulevard,337,11282096,611453534,Toronto,131268
 43.7164284,-79.5977591,2,Dance Smartly Boulevard (603),a,Dance Smartly Boulevard,138,24019320,611453603,Toronto,131268
-43.7164647,-79.5926437,2,Rexdale Boulevard (981),a,Rexdale Boulevard,337,11282096,218906981,Toronto,131268
-43.7164647,-79.5926437,2,Rexdale Boulevard (014),a,Rexdale Boulevard,337,11282096,218907014,Toronto,131268
-43.7164647,-79.5926437,2,Queen's Plate Drive (422),a,Queen's Plate Drive,190,11284217,219375422,Toronto,131268
-43.7164647,-79.5926437,2,Queen's Plate Drive (430),a,Queen's Plate Drive,190,11284217,219375430,Toronto,131268
-43.7164647,-79.5926437,2,Queen's Plate Drive (446),a,Queen's Plate Drive,190,11284217,219375446,Toronto,131268
 43.7164668,-79.6109198,2,Woodbine Track Access (142),a,Woodbine Track Access,27,11284215,219375142,Toronto,131268
 43.7164678,-79.6108624,2,Woodbine Track Access (141),a,Woodbine Track Access,27,11284215,219375141,Toronto,131268
 43.7164941,-79.5979259,2,Dance Smartly Boulevard (583),a,Dance Smartly Boulevard,138,24019320,611453583,Toronto,131268
 43.7164941,-79.5979259,2,Dance Smartly Boulevard (604),a,Dance Smartly Boulevard,138,24019320,611453604,Toronto,131268
 43.7165074,-79.6095668,2,Woodbine Track Access (259),a,Woodbine Track Access,27,11284215,418040259,Toronto,131268
-43.7165226,-79.5928701,2,Rexdale Boulevard (531),a,Rexdale Boulevard,337,11282096,611453531,Toronto,131268
 43.7165291,-79.6088427,2,Woodbine Track Access (140),a,Woodbine Track Access,27,11284215,219375140,Toronto,131268
 43.7165291,-79.6088427,2,Northernette Heights (834),a,Northernette Heights,22,24019315,561864834,Toronto,131268
 43.7165391,-79.6086413,2,Woodbine Track Access (258),a,Woodbine Track Access,27,11284215,418040258,Toronto,131268
 43.7165648,-79.6076527,2,Woodbine Track Access (554),a,Woodbine Track Access,27,11284215,413335554,Toronto,131268
-43.7165686,-79.5924421,2,Rexdale Boulevard (535),a,Rexdale Boulevard,337,11282096,611453535,Toronto,131268
 43.7165847,-79.6069888,2,Woodbine Track Access (139),a,Woodbine Track Access,27,11284215,219375139,Toronto,131268
-43.7166071,-79.5925928,2,Rexdale Boulevard (907),a,Rexdale Boulevard,337,11282096,218906907,Toronto,131268
-43.7166071,-79.5925928,2,Rexdale Boulevard (978),a,Rexdale Boulevard,337,11282096,218906978,Toronto,131268
-43.7166071,-79.5925928,2,Queen's Plate Drive (411),a,Queen's Plate Drive,190,11284217,219375411,Toronto,131268
-43.7166071,-79.5925928,2,Queen's Plate Drive (445),a,Queen's Plate Drive,190,11284217,219375445,Toronto,131268
-43.7166133,-79.5823447,2,Martin Grove Road (113),a,Martin Grove Road,703,11281251,218874113,Toronto,131268
 43.7166379,-79.6088439,2,Northernette Heights (839),a,Northernette Heights,22,24019315,561864839,Toronto,131268
 43.7166405,-79.6066626,2,Woodbine Track Access (138),a,Woodbine Track Access,27,11284215,219375138,Toronto,131268
 43.7166666,-79.5928441,2,Rexdale Boulevard (530),a,Rexdale Boulevard,337,11282096,611453530,Toronto,131268
-43.7166756,-79.5823728,2,Martin Grove Road (114),a,Martin Grove Road,703,11281251,218874114,Toronto,131268
-43.7166756,-79.5823728,2,Martin Grove Road (539),a,Martin Grove Road,703,11281251,611453539,Toronto,131268
 43.7167041,-79.5925874,2,Queen's Plate Drive (582),a,Queen's Plate Drive,190,11284217,611453582,Toronto,131268
 43.7167369,-79.6062223,2,Woodbine Track Access (257),a,Woodbine Track Access,27,11284215,418040257,Toronto,131268
 43.7167643,-79.6060972,2,Woodbine Track Access (137),a,Woodbine Track Access,27,11284215,219375137,Toronto,131268
@@ -1555,7 +1288,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.716784,-79.5990643,2,Dance Smartly Boulevard (729),a,Dance Smartly Boulevard,138,24019320,561865729,Toronto,131268
 43.716784,-79.5990643,2,Dance Smartly Boulevard (761),a,Dance Smartly Boulevard,138,24019320,561865761,Toronto,131268
 43.716784,-79.5990643,2,Dance Smartly Boulevard (584),a,Dance Smartly Boulevard,138,24019320,611453584,Toronto,131268
-43.7167947,-79.5824285,2,Martin Grove Road (287),a,Martin Grove Road,703,11281251,496700287,Toronto,131268
 43.7168392,-79.5941932,2,Rexdale Boulevard (948),a,Rexdale Boulevard,337,11282096,218906948,Toronto,131268
 43.7168392,-79.5941932,2,Rexdale Boulevard (012),a,Rexdale Boulevard,337,11282096,218907012,Toronto,131268
 43.7168394,-79.5991325,2,Dance Smartly Boulevard (762),a,Dance Smartly Boulevard,138,24019320,561865762,Toronto,131268
@@ -1614,12 +1346,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.717215,-79.6006182,2,Dance Smartly Boulevard (411),a,Dance Smartly Boulevard,138,24019320,611454411,Toronto,131268
 43.717215,-79.6006182,2,Dance Smartly Boulevard (412),a,Dance Smartly Boulevard,138,24019320,611454412,Toronto,131268
 43.7172372,-79.6010293,2,Dance Smartly Boulevard (375),a,Dance Smartly Boulevard,138,24019320,611454375,Toronto,131268
-43.7172441,-79.5826383,2,Martin Grove Road (262),a,Martin Grove Road,703,11281251,496700262,Toronto,131268
-43.7172441,-79.5826383,2,Martin Grove Road (288),a,Martin Grove Road,703,11281251,496700288,Toronto,131268
 43.7172537,-79.5959037,2,Rexdale Boulevard (942),a,Rexdale Boulevard,337,11282096,218906942,Toronto,131268
-43.7172548,-79.5900651,2,Jeffcoat Drive (107),a,Jeffcoat Drive,93,11284145,219373107,Toronto,131268
-43.7172734,-79.590151,2,Jeffcoat Drive (108),a,Jeffcoat Drive,93,11284145,219373108,Toronto,131268
-43.7172734,-79.5899621,2,Jeffcoat Drive (106),a,Jeffcoat Drive,93,11284145,219373106,Toronto,131268
 43.7172794,-79.5954757,2,Rexdale Boulevard (104),a,Rexdale Boulevard,337,11282096,218907104,Toronto,131268
 43.717306,-79.6009917,2,Dance Smartly Boulevard (770),a,Dance Smartly Boulevard,138,24019320,561865770,Toronto,131268
 43.717306,-79.6009917,2,Dance Smartly Boulevard (413),a,Dance Smartly Boulevard,138,24019320,611454413,Toronto,131268
@@ -1628,18 +1355,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7173121,-79.5956068,2,Rexdale Boulevard (005),a,Rexdale Boulevard,337,11282096,218907005,Toronto,131268
 43.7173121,-79.5956068,2,Rexdale Boulevard (105),a,Rexdale Boulevard,337,11282096,218907105,Toronto,131268
 43.7173316,-79.6013944,2,Dance Smartly Boulevard (374),a,Dance Smartly Boulevard,138,24019320,611454374,Toronto,131268
-43.71734,-79.5871645,2,Rosefair Crescent (678),a,Rosefair Crescent,13,11284815,219395678,Toronto,131268
-43.7173416,-79.5897218,2,Jeffcoat Drive (105),a,Jeffcoat Drive,93,11284145,219373105,Toronto,131268
-43.7173462,-79.5870444,2,Rosefair Crescent (677),a,Rosefair Crescent,13,11284815,219395677,Toronto,131268
 43.7173639,-79.5958029,2,Highway 27 (706),a,Highway 27,112,11280435,218846706,Toronto,131268
 43.7173639,-79.5958029,2,Highway 27 (710),a,Highway 27,112,11280435,218846710,Toronto,131268
 43.7173639,-79.5958029,2,Rexdale Boulevard (006),a,Rexdale Boulevard,337,11282096,218907006,Toronto,131268
 43.7173639,-79.5958029,2,Rexdale Boulevard (009),a,Rexdale Boulevard,337,11282096,218907009,Toronto,131268
-43.7173664,-79.5901939,2,Jeffcoat Drive (109),a,Jeffcoat Drive,93,11284145,219373109,Toronto,131268
 43.7173706,-79.6015454,2,Dance Smartly Boulevard (373),a,Dance Smartly Boulevard,138,24019320,611454373,Toronto,131268
 43.7173706,-79.6015454,2,Dance Smartly Boulevard (421),a,Dance Smartly Boulevard,138,24019320,611454421,Toronto,131268
 43.7173706,-79.6015454,2,Glorious Song Way (402),a,Glorious Song Way,9,24019323,611454402,Toronto,131268
-43.7173959,-79.5872332,2,Rosefair Crescent (679),a,Rosefair Crescent,13,11284815,219395679,Toronto,131268
 43.7174004,-79.6013628,2,Dance Smartly Boulevard (414),a,Dance Smartly Boulevard,138,24019320,611454414,Toronto,131268
 43.717402,-79.5959616,2,Rexdale Boulevard (010),a,Rexdale Boulevard,337,11282096,218907010,Toronto,131268
 43.7174033,-79.6016808,2,Dance Smartly Boulevard (420),a,Dance Smartly Boulevard,138,24019320,611454420,Toronto,131268
@@ -1652,7 +1374,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7174795,-79.5958512,2,Highway 27 (709),a,Highway 27,112,11280435,218846709,Toronto,131268
 43.7174805,-79.6014938,2,Glorious Song Way (403),a,Glorious Song Way,9,24019323,611454403,Toronto,131268
 43.7174842,-79.5926636,2,Queen's Plate Drive (407),a,Queen's Plate Drive,190,11284217,219375407,Toronto,131268
-43.7175013,-79.5872675,2,Rosefair Crescent (680),a,Rosefair Crescent,13,11284815,219395680,Toronto,131268
 43.7175096,-79.602122,2,Dance Smartly Boulevard (416),a,Dance Smartly Boulevard,138,24019320,611454416,Toronto,131268
 43.7175096,-79.602122,2,Dance Smartly Boulevard (419),a,Dance Smartly Boulevard,138,24019320,611454419,Toronto,131268
 43.7175398,-79.6014657,2,Glorious Song Way (404),a,Glorious Song Way,9,24019323,611454404,Toronto,131268
@@ -1660,7 +1381,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7175662,-79.6023506,2,Dance Smartly Boulevard (490),a,Dance Smartly Boulevard,138,24019320,611454490,Toronto,131268
 43.7175779,-79.602061,2,Dance Smartly Boulevard (424),a,Dance Smartly Boulevard,138,24019320,611454424,Toronto,131268
 43.7175811,-79.6014462,2,Glorious Song Way (405),a,Glorious Song Way,9,24019323,611454405,Toronto,131268
-43.7175899,-79.5827998,2,Martin Grove Road (537),a,Martin Grove Road,703,11281251,611453537,Toronto,131268
 43.7176137,-79.5694851,2,Kipling Avenue (661),a,Kipling Avenue,1113,11280312,496699661,Toronto,131268
 43.7176179,-79.6033985,2,Queen's Plate Drive (433),a,Queen's Plate Drive,190,11284217,611454433,Toronto,131268
 43.7176196,-79.6035663,2,Queen's Plate Drive (428),a,Queen's Plate Drive,190,11284217,611454428,Toronto,131268
@@ -1669,14 +1389,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7176673,-79.5975251,2,Rexdale Boulevard (941),a,Rexdale Boulevard,337,11282096,218906941,Toronto,131268
 43.7176751,-79.6024661,2,Dance Smartly Boulevard (425),a,Dance Smartly Boulevard,138,24019320,611454425,Toronto,131268
 43.7176751,-79.6024661,2,Dance Smartly Boulevard (491),a,Dance Smartly Boulevard,138,24019320,611454491,Toronto,131268
-43.7176812,-79.5850102,2,Rosefair Crescent (676),a,Rosefair Crescent,13,11284815,219395676,Toronto,131268
 43.7176892,-79.6035692,2,Queen's Plate Drive (427),a,Queen's Plate Drive,190,11284217,611454427,Toronto,131268
 43.7176893,-79.6034012,2,Queen's Plate Drive (434),a,Queen's Plate Drive,190,11284217,611454434,Toronto,131268
 43.717695,-79.6030208,2,Dance Smartly Boulevard (488),a,Dance Smartly Boulevard,138,24019320,611454488,Toronto,131268
 43.7177031,-79.5695287,2,Kipling Avenue (665),a,Kipling Avenue,1113,11280312,496699665,Toronto,131268
 43.7177103,-79.603402,2,Queen's Plate Drive (435),a,Queen's Plate Drive,190,11284217,611454435,Toronto,131268
 43.7177185,-79.603236,2,Dance Smartly Boulevard (487),a,Dance Smartly Boulevard,138,24019320,611454487,Toronto,131268
-43.7177185,-79.5848042,2,Rosefair Crescent (675),a,Rosefair Crescent,13,11284815,219395675,Toronto,131268
 43.7177186,-79.6032548,2,Dance Smartly Boulevard (486),a,Dance Smartly Boulevard,138,24019320,611454486,Toronto,131268
 43.717719,-79.60334,2,Dance Smartly Boulevard (485),a,Dance Smartly Boulevard,138,24019320,611454485,Toronto,131268
 43.7177193,-79.6034023,2,Queen's Plate Drive (436),a,Queen's Plate Drive,190,11284217,611454436,Toronto,131268
@@ -1692,12 +1410,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7177228,-79.6041427,2,Dance Smartly Boulevard (476),a,Dance Smartly Boulevard,138,24019320,611454476,Toronto,131268
 43.7177242,-79.6048952,2,Dance Smartly Boulevard (511),a,Dance Smartly Boulevard,138,24019320,611454511,Toronto,131268
 43.7177247,-79.6046976,2,Dance Smartly Boulevard (510),a,Dance Smartly Boulevard,138,24019320,611454510,Toronto,131268
-43.7177262,-79.5903312,2,Jeffcoat Drive (110),a,Jeffcoat Drive,93,11284145,219373110,Toronto,131268
 43.7177273,-79.5972543,2,Rexdale Boulevard (011),a,Rexdale Boulevard,337,11282096,218907011,Toronto,131268
 43.7177273,-79.5972543,2,Rexdale Boulevard (113),a,Rexdale Boulevard,337,11282096,218907113,Toronto,131268
 43.7177325,-79.6050321,2,Dance Smartly Boulevard (711),a,Dance Smartly Boulevard,138,24019320,561865711,Toronto,131268
 43.7177344,-79.6043545,2,Dance Smartly Boulevard (509),a,Dance Smartly Boulevard,138,24019320,611454509,Toronto,131268
-43.7177449,-79.5880309,2,Jeffcoat Drive (104),a,Jeffcoat Drive,93,11284145,219373104,Toronto,131268
 43.7177512,-79.6051397,2,Dance Smartly Boulevard (512),a,Dance Smartly Boulevard,138,24019320,611454512,Toronto,131268
 43.7177518,-79.609179,2,Northernette Heights (837),a,Northernette Heights,22,24019315,561864837,Toronto,131268
 43.7177518,-79.609179,2,Dance Smartly Boulevard (706),a,Dance Smartly Boulevard,138,24019320,561865706,Toronto,131268
@@ -1708,7 +1424,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7177841,-79.6052463,2,Dance Smartly Boulevard (513),a,Dance Smartly Boulevard,138,24019320,611454513,Toronto,131268
 43.7177846,-79.6030854,2,Dance Smartly Boulevard (493),a,Dance Smartly Boulevard,138,24019320,611454493,Toronto,131268
 43.7177924,-79.6041407,2,Dance Smartly Boulevard (506),a,Dance Smartly Boulevard,138,24019320,611454506,Toronto,131268
-43.7177961,-79.5828961,2,Martin Grove Road (538),a,Martin Grove Road,703,11281251,611453538,Toronto,131268
 43.7177992,-79.5929194,2,Queen's Plate Drive (538),a,Queen's Plate Drive,190,11284217,386161538,Toronto,131268
 43.7178014,-79.6032543,2,Dance Smartly Boulevard (494),a,Dance Smartly Boulevard,138,24019320,611454494,Toronto,131268
 43.7178022,-79.6040349,2,Dance Smartly Boulevard (505),a,Dance Smartly Boulevard,138,24019320,611454505,Toronto,131268
@@ -1730,7 +1445,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178396,-79.6087254,2,Dance Smartly Boulevard (692),a,Dance Smartly Boulevard,138,24019320,561865692,Toronto,131268
 43.7178415,-79.6086185,2,Dance Smartly Boulevard (695),a,Dance Smartly Boulevard,138,24019320,561865695,Toronto,131268
 43.7178454,-79.6084034,2,Dance Smartly Boulevard (696),a,Dance Smartly Boulevard,138,24019320,561865696,Toronto,131268
-43.7178476,-79.5874201,2,Rosefair Crescent (681),a,Rosefair Crescent,13,11284815,219395681,Toronto,131268
 43.7178493,-79.6081916,2,Dance Smartly Boulevard (697),a,Dance Smartly Boulevard,138,24019320,561865697,Toronto,131268
 43.7178496,-79.6035734,2,Queen's Plate Drive (467),a,Queen's Plate Drive,190,11284217,611454467,Toronto,131268
 43.7178497,-79.6034051,2,Queen's Plate Drive (470),a,Queen's Plate Drive,190,11284217,611454470,Toronto,131268
@@ -1740,7 +1454,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178616,-79.5982894,2,Rexdale Boulevard (940),a,Rexdale Boulevard,337,11282096,218906940,Toronto,131268
 43.7178616,-79.5982894,2,Rexdale Boulevard (004),a,Rexdale Boulevard,337,11282096,218907004,Toronto,131268
 43.7178618,-79.607501,2,Dance Smartly Boulevard (700),a,Dance Smartly Boulevard,138,24019320,561865700,Toronto,131268
-43.7178627,-79.5876018,2,Jeffcoat Drive (103),a,Jeffcoat Drive,93,11284145,219373103,Toronto,131268
 43.717863,-79.6054624,2,Dance Smartly Boulevard (514),a,Dance Smartly Boulevard,138,24019320,611454514,Toronto,131268
 43.7178657,-79.6072876,2,Dance Smartly Boulevard (701),a,Dance Smartly Boulevard,138,24019320,561865701,Toronto,131268
 43.7178661,-79.6071527,2,Dance Smartly Boulevard (703),a,Dance Smartly Boulevard,138,24019320,561865703,Toronto,131268
@@ -1755,51 +1468,30 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7178959,-79.6056384,2,Dance Smartly Boulevard (515),a,Dance Smartly Boulevard,138,24019320,611454515,Toronto,131268
 43.7178959,-79.6056384,2,Dance Smartly Boulevard (516),a,Dance Smartly Boulevard,138,24019320,611454516,Toronto,131268
 43.7179198,-79.6034063,2,Queen's Plate Drive (471),a,Queen's Plate Drive,190,11284217,611454471,Toronto,131268
-43.7179213,-79.5874526,2,Jeffcoat Drive (102),a,Jeffcoat Drive,93,11284145,219373102,Toronto,131268
-43.7179213,-79.5874526,2,Kearney Drive (637),a,Kearney Drive,18,11284814,219395637,Toronto,131268
-43.7179213,-79.5874526,2,Rosefair Crescent (682),a,Rosefair Crescent,13,11284815,219395682,Toronto,131268
 43.7179225,-79.6035747,2,Queen's Plate Drive (466),a,Queen's Plate Drive,190,11284217,611454466,Toronto,131268
 43.7179522,-79.6034068,2,Queen's Plate Drive (855),a,Queen's Plate Drive,190,11284217,561864855,Toronto,131268
 43.7179544,-79.6035753,2,Queen's Plate Drive (861),a,Queen's Plate Drive,190,11284217,561864861,Toronto,131268
-43.7179604,-79.5840575,2,Rosefair Crescent (674),a,Rosefair Crescent,13,11284815,219395674,Toronto,131268
-43.717962,-79.5873529,2,Jeffcoat Drive (101),a,Jeffcoat Drive,93,11284145,219373101,Toronto,131268
 43.7179637,-79.5992066,2,Sunny's Halo Trail (597),a,Sunny's Halo Trail,7,24019322,611453597,Toronto,131268
 43.7179743,-79.5930842,2,Queen's Plate Drive (405),a,Queen's Plate Drive,190,11284217,219375405,Toronto,131268
 43.7179753,-79.5992013,2,Sunny's Halo Trail (598),a,Sunny's Halo Trail,7,24019322,611453598,Toronto,131268
-43.7180038,-79.5839888,2,Rosefair Crescent (673),a,Rosefair Crescent,13,11284815,219395673,Toronto,131268
-43.7180107,-79.587492,2,Kearney Drive (546),a,Kearney Drive,18,11284814,611453546,Toronto,131268
 43.7180258,-79.5989335,2,Rexdale Boulevard (003),a,Rexdale Boulevard,337,11282096,218907003,Toronto,131268
 43.7180258,-79.5989335,2,Rexdale Boulevard (401),a,Rexdale Boulevard,337,11282096,611454401,Toronto,131268
-43.7180302,-79.5905973,2,Mancroft Crescent (970),a,Mancroft Crescent,16,11284144,219372970,Toronto,131268
-43.7180302,-79.5905973,2,Jeffcoat Drive (111),a,Jeffcoat Drive,93,11284145,219373111,Toronto,131268
-43.7180402,-79.587505,2,Kearney Drive (638),a,Kearney Drive,18,11284814,219395638,Toronto,131268
 43.7180558,-79.5697008,2,Kipling Avenue (660),a,Kipling Avenue,1113,11280312,496699660,Toronto,131268
 43.7180816,-79.5991526,2,Rexdale Boulevard (400),a,Rexdale Boulevard,337,11282096,611454400,Toronto,131268
 43.7180816,-79.5991526,2,Sunny's Halo Trail (599),a,Sunny's Halo Trail,7,24019322,611453599,Toronto,131268
 43.7180859,-79.5991696,2,Rexdale Boulevard (978),a,Rexdale Boulevard,337,11282096,505454978,Toronto,131268
 43.7180967,-79.5931982,2,Queen's Plate Drive (607),a,Queen's Plate Drive,190,11284217,502699607,Toronto,131268
-43.7180969,-79.5839888,2,Rosefair Crescent (672),a,Rosefair Crescent,13,11284815,219395672,Toronto,131268
-43.7181853,-79.5906831,2,Jeffcoat Drive (112),a,Jeffcoat Drive,93,11284145,219373112,Toronto,131268
 43.7181918,-79.5991092,2,Rexdale Boulevard (939),a,Rexdale Boulevard,337,11282096,437386939,Toronto,131268
 43.7182519,-79.5959886,2,Highway 27 (647),a,Highway 27,112,11280435,218846647,Toronto,131268
 43.7182519,-79.5959886,2,Highway 27 (725),a,Highway 27,112,11280435,218846725,Toronto,131268
-43.7182795,-79.5831219,2,Martin Grove Road (261),a,Martin Grove Road,703,11281251,496700261,Toronto,131268
-43.7182795,-79.5831219,2,Martin Grove Road (285),a,Martin Grove Road,703,11281251,496700285,Toronto,131268
 43.7182802,-79.6011152,2,Glorious Song Way (814),a,Glorious Song Way,9,24019323,561865814,Toronto,131268
 43.7183154,-79.5934018,2,Queen's Plate Drive (404),a,Queen's Plate Drive,190,11284217,219375404,Toronto,131268
-43.7183388,-79.5876366,2,Kearney Drive (639),a,Kearney Drive,18,11284814,219395639,Toronto,131268
 43.718391,-79.6010613,2,Glorious Song Way (406),a,Glorious Song Way,9,24019323,611454406,Toronto,131268
-43.7184148,-79.5854388,2,Jeffcoat Drive (100),a,Jeffcoat Drive,93,11284145,219373100,Toronto,131268
 43.7184376,-79.6010387,2,Glorious Song Way (407),a,Glorious Song Way,9,24019323,611454407,Toronto,131268
 43.7184551,-79.5963319,2,Highway 27 (583),a,Highway 27,112,11280435,218846583,Toronto,131268
 43.7184551,-79.5963319,2,Highway 27 (708),a,Highway 27,112,11280435,218846708,Toronto,131268
-43.7184769,-79.5847007,2,Jeffcoat Drive (099),a,Jeffcoat Drive,93,11284145,219373099,Toronto,131268
-43.7184939,-79.5877825,2,Kearney Drive (640),a,Kearney Drive,18,11284814,219395640,Toronto,131268
 43.7184964,-79.6197468,2,Rexdale Boulevard (908),a,Rexdale Boulevard,337,11282096,218906908,Toronto,131268
 43.7184964,-79.6197468,2,Derry Road East (112),a,Derry Road East,1,11289956,219535112,Toronto,131268
-43.718506,-79.5841781,2,Rosefair Crescent (671),a,Rosefair Crescent,13,11284815,219395671,Toronto,131268
-43.7185229,-79.5832356,2,Martin Grove Road (284),a,Martin Grove Road,703,11281251,496700284,Toronto,131268
-43.7185229,-79.5832356,2,Martin Grove Road (286),a,Martin Grove Road,703,11281251,496700286,Toronto,131268
 43.7185259,-79.6009957,2,Rexdale Boulevard (715),a,Rexdale Boulevard,337,11282096,435215715,Toronto,131268
 43.7185259,-79.6009957,2,Rexdale Boulevard (399),a,Rexdale Boulevard,337,11282096,611454399,Toronto,131268
 43.7185259,-79.6009957,2,Glorious Song Way (813),a,Glorious Song Way,9,24019323,561865813,Toronto,131268
@@ -1809,78 +1501,47 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7185654,-79.6006012,2,Rexdale Boulevard (111),a,Rexdale Boulevard,337,11282096,218907111,Toronto,131268
 43.7185654,-79.6006012,2,Rexdale Boulevard (114),a,Rexdale Boulevard,337,11282096,218907114,Toronto,131268
 43.7185698,-79.5699515,2,Kipling Avenue (659),a,Kipling Avenue,1113,11280312,496699659,Toronto,131268
-43.7185782,-79.5842115,2,Jeffcoat Drive (097),a,Jeffcoat Drive,93,11284145,219373097,Toronto,131268
-43.7185782,-79.5842115,2,Jeffcoat Drive (098),a,Jeffcoat Drive,93,11284145,219373098,Toronto,131268
-43.7185782,-79.5842115,2,Braddock Road (624),a,Braddock Road,6,11284813,219395624,Toronto,131268
-43.7185782,-79.5842115,2,Rosefair Crescent (670),a,Rosefair Crescent,13,11284815,219395670,Toronto,131268
 43.7186163,-79.6096406,2,Northernette Heights (845),a,Northernette Heights,22,24019315,561864845,Toronto,131268
 43.7186217,-79.6007549,2,Rexdale Boulevard (396),a,Rexdale Boulevard,337,11282096,611454396,Toronto,131268
 43.7186217,-79.6007549,2,Rexdale Boulevard (397),a,Rexdale Boulevard,337,11282096,611454397,Toronto,131268
 43.7186311,-79.6197235,2,Rexdale Boulevard (935),a,Rexdale Boulevard,337,11282096,218906935,Toronto,131268
 43.7186311,-79.6197235,2,Rexdale Boulevard (944),a,Rexdale Boulevard,337,11282096,218906944,Toronto,131268
-43.7186403,-79.588097,2,Mancroft Crescent (562),a,Mancroft Crescent,16,11284144,438784562,Toronto,131268
-43.7186432,-79.5880858,2,Mancroft Crescent (557),a,Mancroft Crescent,16,11284144,611453557,Toronto,131268
 43.7186521,-79.6095263,2,Northernette Heights (851),a,Northernette Heights,22,24019315,561864851,Toronto,131268
 43.7186524,-79.593644,2,Queen's Plate Drive (403),a,Queen's Plate Drive,190,11284217,219375403,Toronto,131268
-43.7186697,-79.5879765,2,Mancroft Crescent (969),a,Mancroft Crescent,16,11284144,219372969,Toronto,131268
-43.7186697,-79.5879765,2,Kearney Drive (641),a,Kearney Drive,18,11284814,219395641,Toronto,131268
-43.7186862,-79.5842615,2,Braddock Road (623),a,Braddock Road,6,11284813,219395623,Toronto,131268
-43.7186916,-79.5878749,2,Mancroft Crescent (556),a,Mancroft Crescent,16,11284144,611453556,Toronto,131268
-43.7187009,-79.5878322,2,Mancroft Crescent (563),a,Mancroft Crescent,16,11284144,438784563,Toronto,131268
-43.7187333,-79.583537,2,Jeffcoat Drive (096),a,Jeffcoat Drive,93,11284145,219373096,Toronto,131268
 43.7187359,-79.6044926,2,Entrance Road (569),a,Entrance Road,27,11288893,561865569,Toronto,131268
-43.718741,-79.5833379,2,Martin Grove Road (282),a,Martin Grove Road,703,11281251,496700282,Toronto,131268
 43.7187438,-79.6013135,2,Rexdale Boulevard (936),a,Rexdale Boulevard,337,11282096,218906936,Toronto,131268
 43.7187438,-79.6013135,2,Rexdale Boulevard (398),a,Rexdale Boulevard,337,11282096,611454398,Toronto,131268
 43.7187596,-79.604299,2,Entrance Road (577),a,Entrance Road,27,11288893,561865577,Toronto,131268
 43.718765,-79.6042553,2,Entrance Road (570),a,Entrance Road,27,11288893,561865570,Toronto,131268
 43.718776,-79.6041669,2,Entrance Road (571),a,Entrance Road,27,11288893,561865571,Toronto,131268
-43.7187801,-79.5833553,2,Martin Grove Road (281),a,Martin Grove Road,703,11281251,496700281,Toronto,131268
-43.7187801,-79.5833553,2,Martin Grove Road (296),a,Martin Grove Road,703,11281251,496700296,Toronto,131268
-43.7187801,-79.5833553,2,Jeffcoat Drive (094),a,Jeffcoat Drive,93,11284145,219373094,Toronto,131268
-43.7187801,-79.5833553,2,Jeffcoat Drive (095),a,Jeffcoat Drive,93,11284145,219373095,Toronto,131268
 43.7187825,-79.6045632,2,Entrance Road (567),a,Entrance Road,27,11288893,561865567,Toronto,131268
 43.7187825,-79.6045632,2,Entrance Road (578),a,Entrance Road,27,11288893,561865578,Toronto,131268
 43.7187907,-79.6041232,2,Entrance Road (572),a,Entrance Road,27,11288893,561865572,Toronto,131268
-43.7187932,-79.590932,2,Jeffcoat Drive (113),a,Jeffcoat Drive,93,11284145,219373113,Toronto,131268
 43.7187997,-79.5937034,2,Queen's Plate Drive (126),a,Queen's Plate Drive,190,11284217,504025126,Toronto,131268
 43.7188015,-79.6041072,2,Entrance Road (576),a,Entrance Road,27,11288893,561865576,Toronto,131268
-43.7188161,-79.5832153,2,Jeffcoat Drive (093),a,Jeffcoat Drive,93,11284145,219373093,Toronto,131268
 43.7188206,-79.604098,2,Entrance Road (575),a,Entrance Road,27,11288893,561865575,Toronto,131268
-43.7188304,-79.5909234,2,Jeffcoat Drive (114),a,Jeffcoat Drive,93,11284145,219373114,Toronto,131268
-43.7188304,-79.5872327,2,Mancroft Crescent (968),a,Mancroft Crescent,16,11284144,219372968,Toronto,131268
 43.7188316,-79.6044995,2,Entrance Road (580),a,Entrance Road,27,11288893,561865580,Toronto,131268
 43.7188426,-79.6041013,2,Entrance Road (574),a,Entrance Road,27,11288893,561865574,Toronto,131268
 43.7188609,-79.6042543,2,Entrance Road (581),a,Entrance Road,27,11288893,561865581,Toronto,131268
-43.7188615,-79.5870782,2,Mancroft Crescent (967),a,Mancroft Crescent,16,11284144,219372967,Toronto,131268
 43.7188629,-79.6041242,2,Entrance Road (573),a,Entrance Road,27,11288893,561865573,Toronto,131268
 43.718872,-79.6041614,2,Entrance Road (568),a,Entrance Road,27,11288893,561865568,Toronto,131268
 43.718872,-79.6041614,2,Entrance Road (579),a,Entrance Road,27,11288893,561865579,Toronto,131268
-43.7188739,-79.5869237,2,Mancroft Crescent (966),a,Mancroft Crescent,16,11284144,219372966,Toronto,131268
 43.7188854,-79.6185258,2,Rexdale Boulevard (909),a,Rexdale Boulevard,337,11282096,218906909,Toronto,131268
 43.7188854,-79.6185258,2,Rexdale Boulevard (996),a,Rexdale Boulevard,337,11282096,218906996,Toronto,131268
-43.7188863,-79.5908548,2,Jeffcoat Drive (115),a,Jeffcoat Drive,93,11284145,219373115,Toronto,131268
-43.7188939,-79.5834059,2,Martin Grove Road (297),a,Martin Grove Road,703,11281251,496700297,Toronto,131268
-43.7188987,-79.5829412,2,Jeffcoat Drive (092),a,Jeffcoat Drive,93,11284145,219373092,Toronto,131268
 43.7189114,-79.6184461,2,Rexdale Boulevard (080),a,Rexdale Boulevard,337,11282096,318964080,Toronto,131268
 43.7189205,-79.6097915,2,Northernette Heights (844),a,Northernette Heights,22,24019315,561864844,Toronto,131268
-43.7189359,-79.5868465,2,Mancroft Crescent (965),a,Mancroft Crescent,16,11284144,219372965,Toronto,131268
 43.7189683,-79.6187107,2,Rexdale Boulevard (934),a,Rexdale Boulevard,337,11282096,218906934,Toronto,131268
 43.7189683,-79.6187107,2,Rexdale Boulevard (058),a,Rexdale Boulevard,337,11282096,218907058,Toronto,131268
-43.7189793,-79.5827094,2,Jeffcoat Drive (091),a,Jeffcoat Drive,93,11284145,219373091,Toronto,131268
 43.7189935,-79.6034696,2,Queen's Plate Drive (462),a,Queen's Plate Drive,190,11284217,611454462,Toronto,131268
 43.7189935,-79.6034696,2,Queen's Plate Drive (472),a,Queen's Plate Drive,190,11284217,611454472,Toronto,131268
 43.7190165,-79.6036021,2,Queen's Plate Drive (859),a,Queen's Plate Drive,190,11284217,561864859,Toronto,131268
 43.7190165,-79.6036021,2,Queen's Plate Drive (862),a,Queen's Plate Drive,190,11284217,561864862,Toronto,131268
 43.7190179,-79.6034636,2,Queen's Plate Drive (463),a,Queen's Plate Drive,190,11284217,611454463,Toronto,131268
-43.7190227,-79.5868465,2,Mancroft Crescent (964),a,Mancroft Crescent,16,11284144,219372964,Toronto,131268
 43.719025,-79.6185197,2,Rexdale Boulevard (682),a,Rexdale Boulevard,337,11282096,318969682,Toronto,131268
 43.7190431,-79.6036056,2,Queen's Plate Drive (459),a,Queen's Plate Drive,190,11284217,611454459,Toronto,131268
 43.7190715,-79.603446,2,Queen's Plate Drive (464),a,Queen's Plate Drive,190,11284217,611454464,Toronto,131268
 43.7190744,-79.6032759,2,Rexdale Boulevard (461),a,Rexdale Boulevard,337,11282096,611454461,Toronto,131268
 43.7190897,-79.6027501,2,Rexdale Boulevard (937),a,Rexdale Boulevard,337,11282096,218906937,Toronto,131268
-43.7191034,-79.5824863,2,Jeffcoat Drive (090),a,Jeffcoat Drive,93,11284145,219373090,Toronto,131268
-43.7191034,-79.5824863,2,Bairstow Crescent (150),a,Bairstow Crescent,9,11284147,219373150,Toronto,131268
 43.719113,-79.6034306,2,Rexdale Boulevard (453),a,Rexdale Boulevard,337,11282096,611454453,Toronto,131268
 43.719113,-79.6034306,2,Rexdale Boulevard (460),a,Rexdale Boulevard,337,11282096,611454460,Toronto,131268
 43.719113,-79.6034306,2,Queen's Plate Drive (454),a,Queen's Plate Drive,190,11284217,611454454,Toronto,131268
@@ -1893,23 +1554,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7191702,-79.6036598,2,Rexdale Boulevard (456),a,Rexdale Boulevard,337,11282096,611454456,Toronto,131268
 43.7191747,-79.603085,2,Rexdale Boulevard (902),a,Rexdale Boulevard,337,11282096,318950902,Toronto,131268
 43.7191867,-79.6176003,2,Rexdale Boulevard (997),a,Rexdale Boulevard,337,11282096,218906997,Toronto,131268
-43.7191964,-79.5856963,2,Aquila Court (147),a,Aquila Court,13,11284146,219373147,Toronto,131268
-43.7192088,-79.5855762,2,Aquila Court (148),a,Aquila Court,13,11284146,219373148,Toronto,131268
 43.7192106,-79.6032329,2,Rexdale Boulevard (473),a,Rexdale Boulevard,337,11282096,611454473,Toronto,131268
-43.7192416,-79.5826311,2,Bairstow Crescent (568),a,Bairstow Crescent,9,11284147,438784568,Toronto,131268
 43.7192453,-79.603367,2,Rexdale Boulevard (448),a,Rexdale Boulevard,337,11282096,611454448,Toronto,131268
 43.7192453,-79.603367,2,Rexdale Boulevard (474),a,Rexdale Boulevard,337,11282096,611454474,Toronto,131268
 43.7192453,-79.603367,2,Queen's Plate Drive (387),a,Queen's Plate Drive,190,11284217,611454387,Toronto,131268
 43.7192453,-79.603367,2,Queen's Plate Drive (455),a,Queen's Plate Drive,190,11284217,611454455,Toronto,131268
-43.7192647,-79.5857736,2,Aquila Court (146),a,Aquila Court,13,11284146,219373146,Toronto,131268
-43.7192698,-79.5835916,2,Martin Grove Road (264),a,Martin Grove Road,703,11281251,496700264,Toronto,131268
-43.7192698,-79.5835916,2,Martin Grove Road (298),a,Martin Grove Road,703,11281251,496700298,Toronto,131268
 43.7192743,-79.6034791,2,Rexdale Boulevard (385),a,Rexdale Boulevard,337,11282096,611454385,Toronto,131268
 43.7192743,-79.6034791,2,Rexdale Boulevard (449),a,Rexdale Boulevard,337,11282096,611454449,Toronto,131268
 43.7192743,-79.6034791,2,Queen's Plate Drive (392),a,Queen's Plate Drive,190,11284217,611454392,Toronto,131268
 43.7192743,-79.6034791,2,Queen's Plate Drive (450),a,Queen's Plate Drive,190,11284217,611454450,Toronto,131268
 43.7193041,-79.603594,2,Rexdale Boulevard (386),a,Rexdale Boulevard,337,11282096,611454386,Toronto,131268
-43.7193081,-79.5827008,2,Bairstow Crescent (151),a,Bairstow Crescent,9,11284147,219373151,Toronto,131268
 43.7193115,-79.6175537,2,Rexdale Boulevard (986),a,Rexdale Boulevard,337,11282096,218906986,Toronto,131268
 43.7193115,-79.6175537,2,Rexdale Boulevard (057),a,Rexdale Boulevard,337,11282096,218907057,Toronto,131268
 43.719319,-79.6033315,2,Queen's Plate Drive (388),a,Queen's Plate Drive,190,11284217,611454388,Toronto,131268
@@ -1917,18 +1571,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.719344,-79.6034409,2,Queen's Plate Drive (391),a,Queen's Plate Drive,190,11284217,611454391,Toronto,131268
 43.719391,-79.6046061,2,Rexdale Boulevard (922),a,Rexdale Boulevard,337,11282096,218906922,Toronto,131268
 43.719391,-79.6046061,2,Rexdale Boulevard (022),a,Rexdale Boulevard,337,11282096,218907022,Toronto,131268
-43.7194027,-79.5847264,2,Aquila Court (470),a,Aquila Court,13,11284146,391664470,Toronto,131268
-43.7194085,-79.5846998,2,Aquila Court (545),a,Aquila Court,13,11284146,611453545,Toronto,131268
-43.7194303,-79.5846057,2,Aquila Court (149),a,Aquila Court,13,11284146,219373149,Toronto,131268
-43.7194303,-79.5846057,2,Braddock Road (622),a,Braddock Road,6,11284813,219395622,Toronto,131268
-43.7194376,-79.5884611,2,Jeffcoat Drive (565),a,Jeffcoat Drive,93,11284145,438784565,Toronto,131268
-43.7194401,-79.5884501,2,Jeffcoat Drive (536),a,Jeffcoat Drive,93,11284145,611453536,Toronto,131268
-43.7194446,-79.5827867,2,Bairstow Crescent (152),a,Bairstow Crescent,9,11284147,219373152,Toronto,131268
 43.7194556,-79.6048989,2,Rexdale Boulevard (021),a,Rexdale Boulevard,337,11282096,218907021,Toronto,131268
 43.7194556,-79.6048989,2,Rexdale Boulevard (024),a,Rexdale Boulevard,337,11282096,218907024,Toronto,131268
 43.719463,-79.6098738,2,Northernette Heights (852),a,Northernette Heights,22,24019315,561864852,Toronto,131268
-43.7194694,-79.5883228,2,Jeffcoat Drive (116),a,Jeffcoat Drive,93,11284145,219373116,Toronto,131268
-43.7194694,-79.5883228,2,Kearney Drive (642),a,Kearney Drive,18,11284814,219395642,Toronto,131268
 43.7194702,-79.5939738,2,Queen's Plate Drive (402),a,Queen's Plate Drive,190,11284217,219375402,Toronto,131268
 43.7195111,-79.6162914,2,Rexdale Boulevard (999),a,Rexdale Boulevard,337,11282096,218906999,Toronto,131268
 43.7195111,-79.6162914,2,Rexdale Boulevard (059),a,Rexdale Boulevard,337,11282096,218907059,Toronto,131268
@@ -1942,28 +1587,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7196741,-79.6031945,2,Queen's Plate Drive (453),a,Queen's Plate Drive,190,11284217,219375453,Toronto,131268
 43.7196741,-79.6031945,2,Queen's Plate Drive (458),a,Queen's Plate Drive,190,11284217,219375458,Toronto,131268
 43.7196791,-79.6193268,2,Cinrickbar Drive (359),a,Cinrickbar Drive,53,11287742,219503359,Toronto,131268
-43.7196849,-79.5912672,2,Mercury Road (498),a,Mercury Road,37,11284785,219394498,Toronto,131268
-43.7196973,-79.5911728,2,Mercury Road (499),a,Mercury Road,37,11284785,219394499,Toronto,131268
 43.7196976,-79.5966314,2,Highway 27 (893),a,Highway 27,112,11280435,318950893,Toronto,131268
 43.7196976,-79.5966314,2,Harness Road (048),a,Harness Road,16,11284707,318983048,Toronto,131268
 43.7197033,-79.6187367,2,Cinrickbar Drive (357),a,Cinrickbar Drive,53,11287742,219503357,Toronto,131268
-43.7197051,-79.5816795,2,Jeffcoat Drive (089),a,Jeffcoat Drive,93,11284145,219373089,Toronto,131268
-43.7197051,-79.5816795,2,Heatherglen Road (157),a,Heatherglen Road,5,11284148,219373157,Toronto,131268
 43.7197198,-79.6194381,2,Cinrickbar Drive (360),a,Cinrickbar Drive,53,11287742,219503360,Toronto,131268
 43.7197264,-79.615429,2,Rexdale Boulevard (975),a,Rexdale Boulevard,337,11282096,611452975,Toronto,131268
 43.7197285,-79.6184833,2,Cinrickbar Drive (330),a,Cinrickbar Drive,53,11287742,219503330,Toronto,131268
 43.7197285,-79.6184833,2,Cinrickbar Drive (356),a,Cinrickbar Drive,53,11287742,219503356,Toronto,131268
 43.7197285,-79.6184833,2,Arborwood Drive (390),a,Arborwood Drive,18,11287744,219503390,Toronto,131268
-43.7197469,-79.5913445,2,Mercury Road (497),a,Mercury Road,37,11284785,219394497,Toronto,131268
 43.719748,-79.6062489,2,Rexdale Boulevard (018),a,Rexdale Boulevard,337,11282096,218907018,Toronto,131268
 43.719748,-79.6062489,2,Rexdale Boulevard (023),a,Rexdale Boulevard,337,11282096,218907023,Toronto,131268
 43.7197642,-79.6098901,2,Northernette Heights (853),a,Northernette Heights,22,24019315,561864853,Toronto,131268
 43.7197683,-79.6195213,2,Cinrickbar Drive (361),a,Cinrickbar Drive,53,11287742,219503361,Toronto,131268
-43.7197795,-79.5814563,2,Jeffcoat Drive (088),a,Jeffcoat Drive,93,11284145,219373088,Toronto,131268
 43.7198169,-79.6031398,2,Queen's Plate Drive (459),a,Queen's Plate Drive,190,11284217,219375459,Toronto,131268
 43.7198169,-79.6031398,2,Queen's Plate Drive (393),a,Queen's Plate Drive,190,11284217,611454393,Toronto,131268
 43.7198254,-79.6185476,2,Arborwood Drive (391),a,Arborwood Drive,18,11287744,219503391,Toronto,131268
-43.7198371,-79.5817439,2,Heatherglen Road (569),a,Heatherglen Road,5,11284148,438784569,Toronto,131268
 43.7198525,-79.5966464,2,Harness Road (049),a,Harness Road,16,11284707,318983049,Toronto,131268
 43.7198608,-79.6067695,2,Rexdale Boulevard (921),a,Rexdale Boulevard,337,11282096,218906921,Toronto,131268
 43.7198608,-79.6067695,2,Rexdale Boulevard (017),a,Rexdale Boulevard,337,11282096,218907017,Toronto,131268
@@ -1982,15 +1620,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.720012,-79.5965377,2,Harness Road (358),a,Harness Road,16,11284707,318915358,Toronto,131268
 43.720012,-79.5965377,2,Harness Road (037),a,Harness Road,16,11284707,318983037,Toronto,131268
 43.720012,-79.5965377,2,Harness Road (052),a,Harness Road,16,11284707,318983052,Toronto,131268
-43.7200153,-79.5873185,2,Mancroft Crescent (963),a,Mancroft Crescent,16,11284144,219372963,Toronto,131268
 43.7200235,-79.5966275,2,Harness Road (038),a,Harness Road,16,11284707,318983038,Toronto,131268
 43.7200287,-79.5964827,2,Harness Road (132),a,Harness Road,16,11284707,219392132,Toronto,131268
 43.7200381,-79.5967235,2,Harness Road (039),a,Harness Road,16,11284707,318983039,Toronto,131268
-43.7200447,-79.5885464,2,Kearney Drive (643),a,Kearney Drive,18,11284814,219395643,Toronto,131268
 43.7200477,-79.6030405,2,Queen's Plate Drive (102),a,Queen's Plate Drive,190,11284217,461544102,Toronto,131268
 43.720054,-79.6071992,2,Rexdale Boulevard (926),a,Rexdale Boulevard,337,11282096,218906926,Toronto,131268
 43.720054,-79.6071992,2,Rexdale Boulevard (766),a,Rexdale Boulevard,337,11282096,611452766,Toronto,131268
-43.7200835,-79.5861598,2,Aquila Court (145),a,Aquila Court,13,11284146,219373145,Toronto,131268
 43.7200923,-79.6098047,2,Northernette Heights (854),a,Northernette Heights,22,24019315,561864854,Toronto,131268
 43.720102,-79.6030234,2,Queen's Plate Drive (101),a,Queen's Plate Drive,190,11284217,461544101,Toronto,131268
 43.7201308,-79.6186536,2,Arborwood Drive (392),a,Arborwood Drive,18,11287744,219503392,Toronto,131268
@@ -2000,21 +1635,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7201455,-79.613548,2,Rexdale Boulevard (977),a,Rexdale Boulevard,337,11282096,611452977,Toronto,131268
 43.7201474,-79.6103573,2,Northernette Heights (841),a,Northernette Heights,22,24019315,561864841,Toronto,131268
 43.7201582,-79.5958784,2,Harness Road (133),a,Harness Road,16,11284707,219392133,Toronto,131268
-43.7201586,-79.5892189,2,Mercury Road (017),a,Mercury Road,37,11284785,318958017,Toronto,131268
 43.7201701,-79.5942764,2,Queen's Plate Drive (400),a,Queen's Plate Drive,190,11284217,219375400,Toronto,131268
 43.7201796,-79.5957898,2,Harness Road (134),a,Harness Road,16,11284707,219392134,Toronto,131268
 43.7201942,-79.6140549,2,Rexdale Boulevard (953),a,Rexdale Boulevard,337,11282096,611452953,Toronto,131268
 43.7201942,-79.6140549,2,Rexdale Boulevard (956),a,Rexdale Boulevard,337,11282096,611452956,Toronto,131268
-43.7201952,-79.5873786,2,Mancroft Crescent (962),a,Mancroft Crescent,16,11284144,219372962,Toronto,131268
-43.7202448,-79.5862027,2,Aquila Court (144),a,Aquila Court,13,11284146,219373144,Toronto,131268
 43.7202503,-79.6030105,2,Queen's Plate Drive (394),a,Queen's Plate Drive,190,11284217,611454394,Toronto,131268
-43.7202629,-79.5887772,2,Mercury Road (581),a,Mercury Road,37,11284785,438784581,Toronto,131268
-43.7202723,-79.5887376,2,Mercury Road (103),a,Mercury Road,37,11284785,611446103,Toronto,131268
 43.720282,-79.6186817,2,Arborwood Drive (393),a,Arborwood Drive,18,11287744,219503393,Toronto,131268
 43.7202883,-79.6083191,2,Rexdale Boulevard (928),a,Rexdale Boulevard,337,11282096,218906928,Toronto,131268
 43.7202883,-79.6083191,2,Rexdale Boulevard (767),a,Rexdale Boulevard,337,11282096,611452767,Toronto,131268
-43.7203052,-79.5885979,2,Mercury Road (500),a,Mercury Road,37,11284785,219394500,Toronto,131268
-43.7203052,-79.5885979,2,Kearney Drive (644),a,Kearney Drive,18,11284814,219395644,Toronto,131268
 43.720309,-79.6127413,2,Rexdale Boulevard (969),a,Rexdale Boulevard,337,11282096,611452969,Toronto,131268
 43.720327,-79.6126512,2,Rexdale Boulevard (963),a,Rexdale Boulevard,337,11282096,611452963,Toronto,131268
 43.720327,-79.6126512,2,Rexdale Boulevard (970),a,Rexdale Boulevard,337,11282096,611452970,Toronto,131268
@@ -2027,7 +1655,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7203504,-79.6125349,2,Humberwood Boulevard (957),a,Humberwood Boulevard,132,11284220,611452957,Toronto,131268
 43.7203708,-79.6124335,2,Rexdale Boulevard (946),a,Rexdale Boulevard,337,11282096,611452946,Toronto,131268
 43.7203804,-79.6156558,2,Cinrickbar Drive (333),a,Cinrickbar Drive,53,11287742,219503333,Toronto,131268
-43.7203875,-79.5874044,2,Mancroft Crescent (961),a,Mancroft Crescent,16,11284144,219372961,Toronto,131268
 43.7203921,-79.6131135,2,Rexdale Boulevard (955),a,Rexdale Boulevard,337,11282096,611452955,Toronto,131268
 43.7203921,-79.6131135,2,Rexdale Boulevard (967),a,Rexdale Boulevard,337,11282096,611452967,Toronto,131268
 43.7203923,-79.5971355,2,Highway 27 (582),a,Highway 27,112,11280435,218846582,Toronto,131268
@@ -2117,7 +1744,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7209335,-79.594633,2,Queen's Plate Drive (396),a,Queen's Plate Drive,190,11284217,219375396,Toronto,131268
 43.7209505,-79.6165998,2,Hullrick Drive (272),a,Hullrick Drive,43,11287740,219503272,Toronto,131268
 43.720958,-79.6031092,2,Queen's Plate Drive (436),a,Queen's Plate Drive,190,11284217,219375436,Toronto,131268
-43.7209778,-79.5918976,2,Mercury Road (102),a,Mercury Road,37,11284785,611446102,Toronto,131268
 43.7209847,-79.6190546,2,Hullrick Drive (223),a,Hullrick Drive,43,11287740,219503223,Toronto,131268
 43.7209847,-79.6190546,2,Hullrick Drive (290),a,Hullrick Drive,43,11287740,219503290,Toronto,131268
 43.7209847,-79.6190546,2,Westlawn Place (454),a,Westlawn Place,6,11287747,219503454,Toronto,131268
@@ -2125,17 +1751,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7209891,-79.6128317,2,Humberwood Boulevard (978),a,Humberwood Boulevard,132,11284220,611452978,Toronto,131268
 43.7209891,-79.6128317,2,Humberwood Boulevard (990),a,Humberwood Boulevard,132,11284220,611452990,Toronto,131268
 43.7209997,-79.616837,2,Secretariat Drive (390),a,Secretariat Drive,19,11287746,359114390,Toronto,131268
-43.7210016,-79.5863229,2,Aquila Court (143),a,Aquila Court,13,11284146,219373143,Toronto,131268
-43.7210312,-79.5919227,2,Mercury Road (101),a,Mercury Road,37,11284785,611446101,Toronto,131268
 43.7210396,-79.61224,2,Filly Heights (981),a,Filly Heights,8,21669228,496702981,Toronto,131268
 43.7210515,-79.619123,2,Hullrick Drive (291),a,Hullrick Drive,43,11287740,219503291,Toronto,131268
 43.7210587,-79.6123045,2,Filly Heights (987),a,Filly Heights,8,21669228,496702987,Toronto,131268
 43.7210634,-79.6162328,2,Hullrick Drive (279),a,Hullrick Drive,43,11287740,219503279,Toronto,131268
-43.7210636,-79.5862886,2,Aquila Court (142),a,Aquila Court,13,11284146,219373142,Toronto,131268
 43.7210918,-79.5972743,2,Highway 27 (650),a,Highway 27,112,11280435,218846650,Toronto,131268
 43.721096,-79.5946971,2,Queen's Plate Drive (395),a,Queen's Plate Drive,190,11284217,219375395,Toronto,131268
 43.7211003,-79.6128553,2,Humberwood Boulevard (685),a,Humberwood Boulevard,132,11284220,219375685,Toronto,131268
-43.7211008,-79.586177,2,Aquila Court (141),a,Aquila Court,13,11284146,219373141,Toronto,131268
 43.7211015,-79.6123465,2,Filly Heights (982),a,Filly Heights,8,21669228,496702982,Toronto,131268
 43.7211099,-79.5974514,2,Highway 27 (581),a,Highway 27,112,11280435,218846581,Toronto,131268
 43.7211213,-79.6182486,2,Arborwood Drive (398),a,Arborwood Drive,18,11287744,219503398,Toronto,131268
@@ -2145,18 +1767,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7211697,-79.6128675,2,Humberwood Boulevard (656),a,Humberwood Boulevard,132,11284220,219375656,Toronto,131268
 43.7211697,-79.6128675,2,Humberwood Boulevard (686),a,Humberwood Boulevard,132,11284220,219375686,Toronto,131268
 43.7211724,-79.6156947,2,Cinrickbar Drive (389),a,Cinrickbar Drive,53,11287742,359114389,Toronto,131268
-43.7211915,-79.591998,2,Mercury Road (100),a,Mercury Road,37,11284785,611446100,Toronto,131268
 43.7211919,-79.5947398,2,Queen's Plate Drive (394),a,Queen's Plate Drive,190,11284217,219375394,Toronto,131268
-43.7212355,-79.5855974,2,Aquila Court (469),a,Aquila Court,13,11284146,391664469,Toronto,131268
 43.7212369,-79.6113479,2,Woodstream Drive (978),a,Woodstream Drive,9,21669227,496702978,Toronto,131268
-43.7212383,-79.5920199,2,Mercury Road (099),a,Mercury Road,37,11284785,611446099,Toronto,131268
 43.7212513,-79.6169393,2,Secretariat Drive (433),a,Secretariat Drive,19,11287746,219503433,Toronto,131268
 43.721253,-79.6157371,2,Hullrick Drive (289),a,Hullrick Drive,43,11287740,219503289,Toronto,131268
 43.721253,-79.6157371,2,Cinrickbar Drive (317),a,Cinrickbar Drive,53,11287742,219503317,Toronto,131268
 43.721253,-79.6157371,2,Cinrickbar Drive (346),a,Cinrickbar Drive,53,11287742,219503346,Toronto,131268
 43.7212541,-79.6181989,2,Arborwood Drive (399),a,Arborwood Drive,18,11287744,219503399,Toronto,131268
-43.7212683,-79.5854561,2,Aquila Court (140),a,Aquila Court,13,11284146,219373140,Toronto,131268
-43.7212683,-79.5854561,2,Braddock Road (621),a,Braddock Road,6,11284813,219395621,Toronto,131268
 43.7213071,-79.6155557,2,Hullrick Drive (562),a,Hullrick Drive,43,11287740,334300562,Toronto,131268
 43.7213324,-79.6128807,2,Humberwood Boulevard (657),a,Humberwood Boulevard,132,11284220,219375657,Toronto,131268
 43.7213442,-79.6182124,2,Arborwood Drive (400),a,Arborwood Drive,18,11287744,219503400,Toronto,131268
@@ -2166,27 +1783,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7214053,-79.6193939,2,Hullrick Drive (292),a,Hullrick Drive,43,11287740,219503292,Toronto,131268
 43.721415,-79.6182593,2,Arborwood Drive (401),a,Arborwood Drive,18,11287744,219503401,Toronto,131268
 43.7214232,-79.6170098,2,Secretariat Drive (434),a,Secretariat Drive,19,11287746,219503434,Toronto,131268
-43.7214544,-79.5837566,2,Bairstow Crescent (153),a,Bairstow Crescent,9,11284147,219373153,Toronto,131268
 43.7214831,-79.6150941,2,Hullrick Drive (564),a,Hullrick Drive,43,11287740,334300564,Toronto,131268
-43.7215019,-79.5886782,2,Porterfield Road (077),a,Porterfield Road,24,11284139,611446077,Toronto,131268
-43.7215019,-79.5886782,2,Kearney Drive (547),a,Kearney Drive,18,11284814,611453547,Toronto,131268
-43.7215065,-79.5885796,2,Porterfield Road (076),a,Porterfield Road,24,11284139,611446076,Toronto,131268
-43.7215164,-79.5837566,2,Bairstow Crescent (154),a,Bairstow Crescent,9,11284147,219373154,Toronto,131268
 43.7215246,-79.6128937,2,Humberwood Boulevard (658),a,Humberwood Boulevard,132,11284220,219375658,Toronto,131268
 43.7215373,-79.614908,2,Hullrick Drive (565),a,Hullrick Drive,43,11287740,334300565,Toronto,131268
-43.7215397,-79.58804,2,Porterfield Road (881),a,Porterfield Road,24,11284139,219372881,Toronto,131268
-43.7215723,-79.5837222,2,Bairstow Crescent (155),a,Bairstow Crescent,9,11284147,219373155,Toronto,131268
-43.7215808,-79.584707,2,Martin Grove Road (263),a,Martin Grove Road,703,11281251,496700263,Toronto,131268
-43.7215808,-79.584707,2,Martin Grove Road (295),a,Martin Grove Road,703,11281251,496700295,Toronto,131268
 43.7215825,-79.6147157,2,Hullrick Drive (566),a,Hullrick Drive,43,11287740,334300566,Toronto,131268
-43.7215932,-79.5875331,2,Mancroft Crescent (864),a,Mancroft Crescent,16,11284144,428570864,Toronto,131268
-43.7215988,-79.5886832,2,Kearney Drive (548),a,Kearney Drive,18,11284814,611453548,Toronto,131268
 43.7216047,-79.6171298,2,Secretariat Drive (435),a,Secretariat Drive,19,11287746,219503435,Toronto,131268
 43.7216323,-79.6144106,2,Hullrick Drive (567),a,Hullrick Drive,43,11287740,334300567,Toronto,131268
-43.7216343,-79.5886838,2,Kearney Drive (549),a,Kearney Drive,18,11284814,611453549,Toronto,131268
 43.7216572,-79.5949283,2,Queen's Plate Drive (393),a,Queen's Plate Drive,190,11284217,219375393,Toronto,131268
-43.7216591,-79.5875401,2,Porterfield Road (880),a,Porterfield Road,24,11284139,219372880,Toronto,131268
-43.7216591,-79.5875401,2,Mancroft Crescent (960),a,Mancroft Crescent,16,11284144,219372960,Toronto,131268
 43.7216597,-79.6141004,2,Hullrick Drive (568),a,Hullrick Drive,43,11287740,334300568,Toronto,131268
 43.7216736,-79.6136477,2,Hullrick Drive (217),a,Hullrick Drive,43,11287740,219503217,Toronto,131268
 43.7216736,-79.6136477,2,Hullrick Drive (952),a,Hullrick Drive,43,11287740,611452952,Toronto,131268
@@ -2198,76 +1801,41 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7217056,-79.6130574,2,Hullrick Drive (991),a,Hullrick Drive,43,11287740,611452991,Toronto,131268
 43.7217133,-79.6129157,2,Humberwood Boulevard (659),a,Humberwood Boulevard,132,11284220,219375659,Toronto,131268
 43.7217133,-79.6129157,2,Hullrick Drive (218),a,Hullrick Drive,43,11287740,219503218,Toronto,131268
-43.7217185,-79.5847737,2,Martin Grove Road (293),a,Martin Grove Road,703,11281251,496700293,Toronto,131268
 43.7217726,-79.6161203,2,Cinrickbar Drive (319),a,Cinrickbar Drive,53,11287742,219503319,Toronto,131268
 43.7217768,-79.6033217,2,Queen's Plate Drive (437),a,Queen's Plate Drive,190,11284217,219375437,Toronto,131268
-43.7217979,-79.5828525,2,Bairstow Crescent (567),a,Bairstow Crescent,9,11284147,438784567,Toronto,131268
 43.7218062,-79.6136533,2,Thoroughbred Crescent (426),a,Thoroughbred Crescent,20,11287741,386161426,Toronto,131268
 43.7218224,-79.6172614,2,Secretariat Drive (436),a,Secretariat Drive,19,11287746,219503436,Toronto,131268
-43.7218323,-79.5922497,2,Mercury Road (494),a,Mercury Road,37,11284785,219394494,Toronto,131268
-43.7218328,-79.582718,2,Bairstow Crescent (156),a,Bairstow Crescent,9,11284147,219373156,Toronto,131268
-43.7218328,-79.582718,2,Heatherglen Road (158),a,Heatherglen Road,5,11284148,219373158,Toronto,131268
-43.721909,-79.5857525,2,Braddock Road (582),a,Braddock Road,6,11284813,438784582,Toronto,131268
-43.7219128,-79.584857,2,Martin Grove Road (292),a,Martin Grove Road,703,11281251,496700292,Toronto,131268
-43.7219128,-79.584857,2,Martin Grove Road (294),a,Martin Grove Road,703,11281251,496700294,Toronto,131268
 43.7219283,-79.6124447,2,Filly Heights (983),a,Filly Heights,8,21669228,496702983,Toronto,131268
 43.7219284,-79.5950864,2,Queen's Plate Drive (391),a,Queen's Plate Drive,190,11284217,219375391,Toronto,131268
 43.721961,-79.6033287,2,Queen's Plate Drive (438),a,Queen's Plate Drive,190,11284217,219375438,Toronto,131268
 43.7219781,-79.6124286,2,Filly Heights (986),a,Filly Heights,8,21669228,496702986,Toronto,131268
-43.7219987,-79.5860573,2,Porterfield Road (879),a,Porterfield Road,24,11284139,219372879,Toronto,131268
 43.7220205,-79.612384,2,Filly Heights (984),a,Filly Heights,8,21669228,496702984,Toronto,131268
-43.7220483,-79.585817,2,Porterfield Road (878),a,Porterfield Road,24,11284139,219372878,Toronto,131268
-43.7220483,-79.585817,2,Braddock Road (620),a,Braddock Road,6,11284813,219395620,Toronto,131268
 43.7220643,-79.6122968,2,Woodstream Drive (976),a,Woodstream Drive,9,21669227,496702976,Toronto,131268
 43.7220643,-79.6122968,2,Filly Heights (985),a,Filly Heights,8,21669228,496702985,Toronto,131268
 43.7220895,-79.5952062,2,Queen's Plate Drive (122),a,Queen's Plate Drive,190,11284217,360963122,Toronto,131268
-43.7221041,-79.5853192,2,Porterfield Road (877),a,Porterfield Road,24,11284139,219372877,Toronto,131268
 43.722121,-79.6136666,2,Thoroughbred Crescent (298),a,Thoroughbred Crescent,20,11287741,219503298,Toronto,131268
 43.7221358,-79.6032846,2,Queen's Plate Drive (439),a,Queen's Plate Drive,190,11284217,219375439,Toronto,131268
-43.7221412,-79.5849552,2,Martin Grove Road (290),a,Martin Grove Road,703,11281251,496700290,Toronto,131268
 43.7221642,-79.6123966,2,Woodstream Drive (973),a,Woodstream Drive,9,21669227,496702973,Toronto,131268
 43.7221661,-79.6198552,2,Hullrick Drive (293),a,Hullrick Drive,43,11287740,219503293,Toronto,131268
-43.7221662,-79.5851376,2,Porterfield Road (876),a,Porterfield Road,24,11284139,219372876,Toronto,131268
-43.7221724,-79.5911385,2,Millview Crescent (921),a,Millview Crescent,19,11284140,219372921,Toronto,131268
-43.7221724,-79.5910698,2,Millview Crescent (920),a,Millview Crescent,19,11284140,219372920,Toronto,131268
 43.722193,-79.6136649,2,Thoroughbred Crescent (299),a,Thoroughbred Crescent,20,11287741,219503299,Toronto,131268
-43.7221991,-79.584982,2,Martin Grove Road (289),a,Martin Grove Road,703,11281251,496700289,Toronto,131268
-43.7221991,-79.584982,2,Martin Grove Road (315),a,Martin Grove Road,703,11281251,496700315,Toronto,131268
-43.7221991,-79.584982,2,Porterfield Road (874),a,Porterfield Road,24,11284139,219372874,Toronto,131268
-43.7221991,-79.584982,2,Porterfield Road (875),a,Porterfield Road,24,11284139,219372875,Toronto,131268
-43.7222096,-79.5899283,2,Millview Crescent (919),a,Millview Crescent,19,11284140,219372919,Toronto,131268
-43.7222096,-79.5898424,2,Millview Crescent (918),a,Millview Crescent,19,11284140,219372918,Toronto,131268
-43.7222158,-79.5912587,2,Millview Crescent (922),a,Millview Crescent,19,11284140,219372922,Toronto,131268
-43.7222388,-79.5848166,2,Porterfield Road (873),a,Porterfield Road,24,11284139,219372873,Toronto,131268
 43.7222467,-79.5953702,2,Queen's Plate Drive (390),a,Queen's Plate Drive,190,11284217,219375390,Toronto,131268
 43.7222472,-79.6136761,2,Thoroughbred Crescent (300),a,Thoroughbred Crescent,20,11287741,219503300,Toronto,131268
 43.7222604,-79.6125345,2,Woodstream Drive (979),a,Woodstream Drive,9,21669227,496702979,Toronto,131268
-43.7222716,-79.5897652,2,Millview Crescent (917),a,Millview Crescent,19,11284140,219372917,Toronto,131268
 43.7222729,-79.6129599,2,Humberwood Boulevard (866),a,Humberwood Boulevard,132,11284220,428570866,Toronto,131268
 43.7222729,-79.6129599,2,Woodstream Drive (971),a,Woodstream Drive,9,21669227,496702971,Toronto,131268
 43.7222736,-79.612831,2,Woodstream Drive (977),a,Woodstream Drive,9,21669227,496702977,Toronto,131268
 43.7222777,-79.6126026,2,Woodstream Drive (972),a,Woodstream Drive,9,21669227,496702972,Toronto,131268
-43.7222822,-79.5850215,2,Martin Grove Road (316),a,Martin Grove Road,703,11281251,496700316,Toronto,131268
 43.7223013,-79.6136873,2,Thoroughbred Crescent (301),a,Thoroughbred Crescent,20,11287741,219503301,Toronto,131268
 43.7223022,-79.6031892,2,Queen's Plate Drive (440),a,Queen's Plate Drive,190,11284217,219375440,Toronto,131268
 43.722317,-79.6164678,2,Cinrickbar Drive (320),a,Cinrickbar Drive,53,11287742,219503320,Toronto,131268
 43.7223278,-79.6151268,2,Kingsplate Crescent (414),a,Kingsplate Crescent,29,11287745,219503414,Toronto,131268
-43.72233,-79.5886193,2,Pergola Road (068),a,Pergola Road,15,11284142,611446068,Toronto,131268
-43.7223309,-79.5887073,2,Pergola Road (067),a,Pergola Road,15,11284142,611446067,Toronto,131268
-43.7223309,-79.5887073,2,Kearney Drive (550),a,Kearney Drive,18,11284814,611453550,Toronto,131268
-43.7223323,-79.5885268,2,Pergola Road (069),a,Pergola Road,15,11284142,611446069,Toronto,131268
 43.7223359,-79.6150521,2,Kingsplate Crescent (413),a,Kingsplate Crescent,29,11287745,219503413,Toronto,131268
 43.7223375,-79.6151886,2,Kingsplate Crescent (415),a,Kingsplate Crescent,29,11287745,219503415,Toronto,131268
-43.7223423,-79.5883522,2,Pergola Road (070),a,Pergola Road,15,11284142,611446070,Toronto,131268
 43.7223438,-79.614965,2,Kingsplate Crescent (412),a,Kingsplate Crescent,29,11287745,219503412,Toronto,131268
 43.7223473,-79.6152505,2,Kingsplate Crescent (416),a,Kingsplate Crescent,29,11287745,219503416,Toronto,131268
 43.7223752,-79.6153243,2,Kingsplate Crescent (417),a,Kingsplate Crescent,29,11287745,219503417,Toronto,131268
-43.7223771,-79.5913359,2,Millview Crescent (923),a,Millview Crescent,19,11284140,219372923,Toronto,131268
 43.7223826,-79.6137102,2,Thoroughbred Crescent (302),a,Thoroughbred Crescent,20,11287741,219503302,Toronto,131268
-43.7223924,-79.5842456,2,Porterfield Road (872),a,Porterfield Road,24,11284139,219372872,Toronto,131268
-43.7223924,-79.5842456,2,Guiness Avenue (181),a,Guiness Avenue,13,11284149,219373181,Toronto,131268
 43.7223938,-79.6176083,2,Secretariat Drive (437),a,Secretariat Drive,19,11287746,219503437,Toronto,131268
-43.72241,-79.5879188,2,Pergola Road (949),a,Pergola Road,15,11284142,219372949,Toronto,131268
 43.7224117,-79.6153607,2,Kingsplate Crescent (418),a,Kingsplate Crescent,29,11287745,219503418,Toronto,131268
 43.7224157,-79.5956162,2,Queen's Plate Drive (389),a,Queen's Plate Drive,190,11284217,219375389,Toronto,131268
 43.7224199,-79.6145536,2,Kingsplate Crescent (411),a,Kingsplate Crescent,29,11287745,219503411,Toronto,131268
@@ -2278,21 +1846,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7224753,-79.6200148,2,Hullrick Drive (294),a,Hullrick Drive,43,11287740,219503294,Toronto,131268
 43.7224844,-79.6154211,2,Kingsplate Crescent (419),a,Kingsplate Crescent,29,11287745,219503419,Toronto,131268
 43.7224892,-79.6143285,2,Kingsplate Crescent (410),a,Kingsplate Crescent,29,11287745,219503410,Toronto,131268
-43.7224904,-79.5842888,2,Guiness Avenue (571),a,Guiness Avenue,13,11284149,438784571,Toronto,131268
 43.7225074,-79.6165752,2,Cinrickbar Drive (322),a,Cinrickbar Drive,53,11287742,219503322,Toronto,131268
 43.7225102,-79.6189164,2,Arborwood Drive (402),a,Arborwood Drive,18,11287744,219503402,Toronto,131268
 43.7225151,-79.614241,2,Kingsplate Crescent (409),a,Kingsplate Crescent,29,11287745,219503409,Toronto,131268
 43.7225295,-79.5958502,2,Queen's Plate Drive (121),a,Queen's Plate Drive,190,11284217,360963121,Toronto,131268
 43.7225456,-79.613781,2,Thoroughbred Crescent (304),a,Thoroughbred Crescent,20,11287741,219503304,Toronto,131268
 43.7225709,-79.616611,2,Cinrickbar Drive (323),a,Cinrickbar Drive,53,11287742,219503323,Toronto,131268
-43.7225765,-79.5830845,2,Heatherglen Road (570),a,Heatherglen Road,5,11284148,438784570,Toronto,131268
 43.7225769,-79.6141403,2,Kingsplate Crescent (408),a,Kingsplate Crescent,29,11287745,219503408,Toronto,131268
 43.7225842,-79.6154809,2,Kingsplate Crescent (420),a,Kingsplate Crescent,29,11287745,219503420,Toronto,131268
 43.722591,-79.6138171,2,Thoroughbred Crescent (305),a,Thoroughbred Crescent,20,11287741,219503305,Toronto,131268
-43.7225929,-79.5872227,2,Pergola Road (950),a,Pergola Road,15,11284142,219372950,Toronto,131268
-43.7225929,-79.5872227,2,Humheller Road (958),a,Humheller Road,6,11284143,219372958,Toronto,131268
-43.7225951,-79.5851599,2,Martin Grove Road (254),a,Martin Grove Road,703,11281251,496700254,Toronto,131268
-43.7225951,-79.5851599,2,Martin Grove Road (317),a,Martin Grove Road,703,11281251,496700317,Toronto,131268
 43.7225974,-79.6212687,2,Cinrickbar Drive (349),a,Cinrickbar Drive,53,11287742,219503349,Toronto,131268
 43.722612,-79.614065,2,Kingsplate Crescent (407),a,Kingsplate Crescent,29,11287745,219503407,Toronto,131268
 43.7226154,-79.5979112,2,Highway 27 (251),a,Highway 27,112,11280435,511319251,Toronto,131268
@@ -2301,15 +1863,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7226276,-79.613866,2,Thoroughbred Crescent (306),a,Thoroughbred Crescent,20,11287741,219503306,Toronto,131268
 43.7226282,-79.6130329,2,Humberwood Boulevard (661),a,Humberwood Boulevard,132,11284220,219375661,Toronto,131268
 43.7226328,-79.5960625,2,Queen's Plate Drive (388),a,Queen's Plate Drive,190,11284217,219375388,Toronto,131268
-43.7226373,-79.5801857,2,Porterfield Road (075),a,Porterfield Road,24,11284139,611446075,Toronto,131268
 43.7226384,-79.6140147,2,Kingsplate Crescent (406),a,Kingsplate Crescent,29,11287745,219503406,Toronto,131268
-43.7226499,-79.5831207,2,Porterfield Road (871),a,Porterfield Road,24,11284139,219372871,Toronto,131268
-43.7226499,-79.5831207,2,Heatherglen Road (159),a,Heatherglen Road,5,11284148,219373159,Toronto,131268
 43.7226517,-79.6212674,2,Cinrickbar Drive (350),a,Cinrickbar Drive,53,11287742,219503350,Toronto,131268
 43.722655,-79.6025346,2,Queen's Plate Drive (378),a,Queen's Plate Drive,190,11284217,611454378,Toronto,131268
 43.722655,-79.6025346,2,Queen's Plate Drive (384),a,Queen's Plate Drive,190,11284217,611454384,Toronto,131268
 43.7226612,-79.6166337,2,Cinrickbar Drive (324),a,Cinrickbar Drive,53,11287742,219503324,Toronto,131268
-43.7226687,-79.5872557,2,Humheller Road (360),a,Humheller Road,6,11284143,432203360,Toronto,131268
 43.7226839,-79.6155407,2,Kingsplate Crescent (421),a,Kingsplate Crescent,29,11287745,219503421,Toronto,131268
 43.7226915,-79.613939,2,Thoroughbred Crescent (307),a,Thoroughbred Crescent,20,11287741,219503307,Toronto,131268
 43.7226915,-79.613939,2,Kingsplate Crescent (405),a,Kingsplate Crescent,29,11287745,219503405,Toronto,131268
@@ -2361,7 +1919,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7228029,-79.5979951,2,Highway 27 (733),a,Highway 27,112,11280435,218846733,Toronto,131268
 43.7228029,-79.5979951,2,Queen's Plate Drive (347),a,Queen's Plate Drive,190,11284217,219375347,Toronto,131268
 43.7228029,-79.5979951,2,Queen's Plate Drive (356),a,Queen's Plate Drive,190,11284217,219375356,Toronto,131268
-43.7228051,-79.5862461,2,Pergola Road (951),a,Pergola Road,15,11284142,219372951,Toronto,131268
 43.7228062,-79.5989762,2,Queen's Plate Drive (345),a,Queen's Plate Drive,190,11284217,219375345,Toronto,131268
 43.7228161,-79.6023276,2,Triple Crown Avenue (377),a,Triple Crown Avenue,32,11288591,611454377,Toronto,131268
 43.7228201,-79.6178592,2,Secretariat Drive (438),a,Secretariat Drive,19,11287746,219503438,Toronto,131268
@@ -2370,14 +1927,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7228372,-79.603718,2,Mare Crescent (256),a,Mare Crescent,18,11288592,219520256,Toronto,131268
 43.7228384,-79.6141715,2,Thoroughbred Crescent (543),a,Thoroughbred Crescent,20,11287741,334300543,Toronto,131268
 43.7228467,-79.615599,2,Kingsplate Crescent (423),a,Kingsplate Crescent,29,11287745,219503423,Toronto,131268
-43.7228471,-79.5810482,2,Porterfield Road (439),a,Porterfield Road,24,11284139,490048439,Toronto,131268
-43.7228471,-79.5810482,2,Delsing Drive (190),a,Delsing Drive,23,11284150,219373190,Toronto,131268
 43.7228479,-79.6038544,2,Mare Crescent (258),a,Mare Crescent,18,11288592,219520258,Toronto,131268
 43.722849,-79.6023423,2,Triple Crown Avenue (112),a,Triple Crown Avenue,32,11288591,431644112,Toronto,131268
-43.7228609,-79.5862118,2,Pergola Road (952),a,Pergola Road,15,11284142,219372952,Toronto,131268
 43.7228665,-79.6039036,2,Mare Crescent (259),a,Mare Crescent,18,11288592,219520259,Toronto,131268
 43.7228744,-79.6178827,2,Secretariat Drive (439),a,Secretariat Drive,19,11287746,219503439,Toronto,131268
-43.7228758,-79.5822148,2,Porterfield Road (870),a,Porterfield Road,24,11284139,219372870,Toronto,131268
 43.7228763,-79.5996609,2,Queen's Plate Drive (375),a,Queen's Plate Drive,190,11284217,219375375,Toronto,131268
 43.7228763,-79.5996609,2,Queen's Plate Drive (371),a,Queen's Plate Drive,190,11284217,611454371,Toronto,131268
 43.7228802,-79.598258,2,Highway 27 (574),a,Highway 27,112,11280435,611453574,Toronto,131268
@@ -2386,19 +1939,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7228871,-79.616703,2,Cinrickbar Drive (327),a,Cinrickbar Drive,53,11287742,219503327,Toronto,131268
 43.7228882,-79.6206679,2,Cinrickbar Drive (353),a,Cinrickbar Drive,53,11287742,219503353,Toronto,131268
 43.7229004,-79.6011584,2,Queen's Plate Drive (481),a,Queen's Plate Drive,190,11284217,318936481,Toronto,131268
-43.7229105,-79.5927178,2,Mercury Road (493),a,Mercury Road,37,11284785,219394493,Toronto,131268
-43.7229114,-79.5820288,2,Porterfield Road (002),a,Porterfield Road,24,11284139,433904002,Toronto,131268
 43.7229189,-79.6010544,2,Queen's Plate Drive (456),a,Queen's Plate Drive,190,11284217,318936456,Toronto,131268
 43.7229189,-79.6010544,2,Queen's Plate Drive (482),a,Queen's Plate Drive,190,11284217,318936482,Toronto,131268
 43.7229195,-79.6178941,2,Secretariat Drive (440),a,Secretariat Drive,19,11287746,219503440,Toronto,131268
 43.7229246,-79.5998765,2,Queen's Plate Drive (370),a,Queen's Plate Drive,190,11284217,611454370,Toronto,131268
 43.7229246,-79.5998765,2,Queen's Plate Drive (372),a,Queen's Plate Drive,190,11284217,611454372,Toronto,131268
-43.7229247,-79.5916038,2,Millview Crescent (924),a,Millview Crescent,19,11284140,219372924,Toronto,131268
-43.7229254,-79.5814781,2,Porterfield Road (868),a,Porterfield Road,24,11284139,219372868,Toronto,131268
-43.7229291,-79.5862118,2,Pergola Road (953),a,Pergola Road,15,11284142,219372953,Toronto,131268
 43.7229318,-79.6204359,2,Cinrickbar Drive (354),a,Cinrickbar Drive,53,11287742,219503354,Toronto,131268
-43.7229331,-79.5818472,2,Porterfield Road (869),a,Porterfield Road,24,11284139,219372869,Toronto,131268
-43.7229353,-79.581641,2,Porterfield Road (001),a,Porterfield Road,24,11284139,433904001,Toronto,131268
 43.7229395,-79.6009568,2,Queen's Plate Drive (457),a,Queen's Plate Drive,190,11284217,318936457,Toronto,131268
 43.7229395,-79.6009568,2,Janda Court (369),a,Janda Court,28,11288594,318936369,Toronto,131268
 43.7229462,-79.615634,2,Kingsplate Crescent (424),a,Kingsplate Crescent,29,11287745,219503424,Toronto,131268
@@ -2410,7 +1956,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7229647,-79.6179055,2,Secretariat Drive (441),a,Secretariat Drive,19,11287746,219503441,Toronto,131268
 43.7229659,-79.5996216,2,Queen's Plate Drive (346),a,Queen's Plate Drive,190,11284217,219375346,Toronto,131268
 43.7229659,-79.5996216,2,Queen's Plate Drive (363),a,Queen's Plate Drive,190,11284217,219375363,Toronto,131268
-43.7229911,-79.592692,2,Mercury Road (492),a,Mercury Road,37,11284785,219394492,Toronto,131268
 43.7229956,-79.6167378,2,Cinrickbar Drive (328),a,Cinrickbar Drive,53,11287742,219503328,Toronto,131268
 43.7230043,-79.6012007,2,Queen's Plate Drive (496),a,Queen's Plate Drive,190,11284217,318936496,Toronto,131268
 43.7230098,-79.6179169,2,Secretariat Drive (442),a,Secretariat Drive,19,11287746,219503442,Toronto,131268
@@ -2418,7 +1963,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7230217,-79.6011107,2,Queen's Plate Drive (495),a,Queen's Plate Drive,190,11284217,318936495,Toronto,131268
 43.7230217,-79.6011107,2,Janda Court (402),a,Janda Court,28,11288594,318936402,Toronto,131268
 43.7230231,-79.6005106,2,Queen's Plate Drive (360),a,Queen's Plate Drive,190,11284217,219375360,Toronto,131268
-43.7230284,-79.5926491,2,Mercury Road (491),a,Mercury Road,37,11284785,219394491,Toronto,131268
 43.7230298,-79.613366,2,Humberwood Boulevard (663),a,Humberwood Boulevard,132,11284220,219375663,Toronto,131268
 43.7230421,-79.6010046,2,Queen's Plate Drive (463),a,Queen's Plate Drive,190,11284217,318936463,Toronto,131268
 43.7230421,-79.6010046,2,Queen's Plate Drive (494),a,Queen's Plate Drive,190,11284217,318936494,Toronto,131268
@@ -2426,46 +1970,32 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7230457,-79.6179036,2,Secretariat Drive (443),a,Secretariat Drive,19,11287746,219503443,Toronto,131268
 43.7230547,-79.6156687,2,Kingsplate Crescent (425),a,Kingsplate Crescent,29,11287745,219503425,Toronto,131268
 43.7230573,-79.6009258,2,Queen's Plate Drive (462),a,Queen's Plate Drive,190,11284217,318936462,Toronto,131268
-43.7230592,-79.5809735,2,Delsing Drive (191),a,Delsing Drive,23,11284150,219373191,Toronto,131268
 43.7230722,-79.6178658,2,Secretariat Drive (444),a,Secretariat Drive,19,11287746,219503444,Toronto,131268
 43.7230799,-79.6011412,2,Janda Court (401),a,Janda Court,28,11288594,318936401,Toronto,131268
-43.7230842,-79.5905205,2,Millview Court (926),a,Millview Court,3,11284141,219372926,Toronto,131268
 43.7230899,-79.600087,2,Queen's Plate Drive (364),a,Queen's Plate Drive,190,11284217,219375364,Toronto,131268
 43.7230988,-79.6178279,2,Secretariat Drive (445),a,Secretariat Drive,19,11287746,219503445,Toronto,131268
 43.7230998,-79.6010315,2,Janda Court (371),a,Janda Court,28,11288594,318936371,Toronto,131268
 43.7231055,-79.6025668,2,Mare Crescent (960),a,Mare Crescent,18,11288592,418040960,Toronto,131268
 43.7231072,-79.6177781,2,Secretariat Drive (446),a,Secretariat Drive,19,11287746,219503446,Toronto,131268
-43.7231104,-79.5899561,2,Millview Court (558),a,Millview Court,3,11284141,438784558,Toronto,131268
 43.723115,-79.6176786,2,Secretariat Drive (448),a,Secretariat Drive,19,11287746,219503448,Toronto,131268
 43.7231156,-79.6177282,2,Secretariat Drive (447),a,Secretariat Drive,19,11287746,219503447,Toronto,131268
-43.7231158,-79.5898386,2,Millview Crescent (916),a,Millview Crescent,19,11284140,219372916,Toronto,131268
-43.7231158,-79.5898386,2,Millview Court (927),a,Millview Court,3,11284141,219372927,Toronto,131268
-43.7231196,-79.5809693,2,Delsing Drive (192),a,Delsing Drive,23,11284150,219373192,Toronto,131268
 43.7231232,-79.6005952,2,Queen's Plate Drive (366),a,Queen's Plate Drive,190,11284217,219375366,Toronto,131268
 43.723124,-79.6003501,2,Queen's Plate Drive (365),a,Queen's Plate Drive,190,11284217,219375365,Toronto,131268
 43.7231281,-79.6024698,2,Triple Crown Avenue (241),a,Triple Crown Avenue,32,11288591,219520241,Toronto,131268
 43.7231281,-79.6024698,2,Mare Crescent (255),a,Mare Crescent,18,11288592,219520255,Toronto,131268
 43.723154,-79.6156913,2,Kingsplate Crescent (426),a,Kingsplate Crescent,29,11287745,219503426,Toronto,131268
-43.7231807,-79.5809804,2,Delsing Drive (471),a,Delsing Drive,23,11284150,391664471,Toronto,131268
 43.7231832,-79.6020215,2,Frost King Lane (900),a,Frost King Lane,8,11289172,219527900,Toronto,131268
 43.7231837,-79.5983704,2,Highway 27 (728),a,Highway 27,112,11280435,218846728,Toronto,131268
 43.7231837,-79.5983704,2,Highway 27 (729),a,Highway 27,112,11280435,218846729,Toronto,131268
-43.7231854,-79.5845956,2,Guiness Avenue (182),a,Guiness Avenue,13,11284149,219373182,Toronto,131268
-43.7231854,-79.5845956,2,Holbeach Road (206),a,Holbeach Road,7,11284151,219373206,Toronto,131268
 43.7231856,-79.6200784,2,Hullrick Drive (225),a,Hullrick Drive,43,11287740,219503225,Toronto,131268
-43.7232186,-79.5844573,2,Holbeach Road (572),a,Holbeach Road,7,11284151,438784572,Toronto,131268
-43.7232376,-79.5748207,2,Jeffcoat Drive (065),a,Jeffcoat Drive,93,11284145,219373065,Toronto,131268
 43.7232394,-79.6167942,2,Cinrickbar Drive (329),a,Cinrickbar Drive,53,11287742,219503329,Toronto,131268
 43.7232394,-79.6167942,2,Secretariat Drive (449),a,Secretariat Drive,19,11287746,219503449,Toronto,131268
 43.7232444,-79.6149815,2,Thoroughbred Crescent (544),a,Thoroughbred Crescent,20,11287741,334300544,Toronto,131268
 43.7232626,-79.601681,2,Frost King Lane (901),a,Frost King Lane,8,11289172,219527901,Toronto,131268
 43.7232626,-79.601681,2,Frost King Lane (906),a,Frost King Lane,8,11289172,219527906,Toronto,131268
-43.7232715,-79.5917979,2,Millview Crescent (557),a,Millview Crescent,19,11284140,438784557,Toronto,131268
-43.7232718,-79.5810098,2,Delsing Drive (193),a,Delsing Drive,23,11284150,219373193,Toronto,131268
 43.7232739,-79.5984153,2,Highway 27 (727),a,Highway 27,112,11280435,218846727,Toronto,131268
 43.7232804,-79.6157256,2,Kingsplate Crescent (427),a,Kingsplate Crescent,29,11287745,219503427,Toronto,131268
 43.7232847,-79.5982477,2,Highway 27 (735),a,Highway 27,112,11280435,218846735,Toronto,131268
-43.7232942,-79.5918158,2,Millview Crescent (081),a,Millview Crescent,19,11284140,611446081,Toronto,131268
 43.7232989,-79.6217217,2,View Green Crescent (371),a,View Green Crescent,26,11287743,219503371,Toronto,131268
 43.7233068,-79.601131,2,Janda Court (267),a,Janda Court,28,11288594,219520267,Toronto,131268
 43.7233088,-79.6217959,2,View Green Crescent (372),a,View Green Crescent,26,11287743,219503372,Toronto,131268
@@ -2477,11 +2007,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7233484,-79.6200543,2,Hullrick Drive (226),a,Hullrick Drive,43,11287740,219503226,Toronto,131268
 43.7233488,-79.6012337,2,Janda Court (274),a,Janda Court,28,11288594,219520274,Toronto,131268
 43.7233488,-79.6012337,2,Frost King Lane (902),a,Frost King Lane,8,11289172,219527902,Toronto,131268
-43.7233519,-79.5918611,2,Millview Crescent (082),a,Millview Crescent,19,11284140,611446082,Toronto,131268
-43.7233519,-79.5918611,2,Mercury Road (098),a,Mercury Road,37,11284785,611446098,Toronto,131268
 43.7233621,-79.6190578,2,Arborwood Drive (391),a,Arborwood Drive,18,11287744,359114391,Toronto,131268
 43.723365,-79.6152767,2,Thoroughbred Crescent (546),a,Thoroughbred Crescent,20,11287741,334300546,Toronto,131268
-43.7233718,-79.5810614,2,Delsing Drive (194),a,Delsing Drive,23,11284150,219373194,Toronto,131268
 43.7233728,-79.6218814,2,View Green Crescent (374),a,View Green Crescent,26,11287743,219503374,Toronto,131268
 43.7233828,-79.6011387,2,Janda Court (502),a,Janda Court,28,11288594,391665502,Toronto,131268
 43.723384,-79.6042194,2,Mare Crescent (261),a,Mare Crescent,18,11288592,219520261,Toronto,131268
@@ -2490,7 +2017,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7233888,-79.6157479,2,Thoroughbred Crescent (549),a,Thoroughbred Crescent,20,11287741,334300549,Toronto,131268
 43.7233888,-79.6157479,2,Kingsplate Crescent (428),a,Kingsplate Crescent,29,11287745,219503428,Toronto,131268
 43.7233888,-79.6157479,2,Kingsplate Crescent (429),a,Kingsplate Crescent,29,11287745,219503429,Toronto,131268
-43.7233899,-79.5748238,2,Jeffcoat Drive (064),a,Jeffcoat Drive,93,11284145,219373064,Toronto,131268
 43.7233937,-79.6154126,2,Thoroughbred Crescent (547),a,Thoroughbred Crescent,20,11287741,334300547,Toronto,131268
 43.7233961,-79.6156112,2,Thoroughbred Crescent (548),a,Thoroughbred Crescent,20,11287741,334300548,Toronto,131268
 43.7234249,-79.604228,2,Mare Crescent (122),a,Mare Crescent,18,11288592,431644122,Toronto,131268
@@ -2500,10 +2026,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7234385,-79.5984056,2,Highway 27 (736),a,Highway 27,112,11280435,218846736,Toronto,131268
 43.7234439,-79.6012272,2,Janda Court (506),a,Janda Court,28,11288594,391665506,Toronto,131268
 43.7234468,-79.6011327,2,Janda Court (268),a,Janda Court,28,11288594,219520268,Toronto,131268
-43.7234564,-79.5898682,2,Millview Crescent (915),a,Millview Crescent,19,11284140,219372915,Toronto,131268
 43.7234688,-79.619068,2,Humberwood Boulevard (654),a,Humberwood Boulevard,132,11284220,496701654,Toronto,131268
 43.7234688,-79.619068,2,Arborwood Drive (404),a,Arborwood Drive,18,11287744,219503404,Toronto,131268
-43.7234739,-79.5916142,2,Mercury Road (097),a,Mercury Road,37,11284785,611446097,Toronto,131268
 43.7234794,-79.6042302,2,Mare Crescent (121),a,Mare Crescent,18,11288592,431644121,Toronto,131268
 43.7234925,-79.6195435,2,Humberwood Boulevard (655),a,Humberwood Boulevard,132,11284220,496701655,Toronto,131268
 43.7234931,-79.6200028,2,Hullrick Drive (387),a,Hullrick Drive,43,11287740,359114387,Toronto,131268
@@ -2511,11 +2035,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.723528,-79.6018079,2,Frost King Lane (905),a,Frost King Lane,8,11289172,219527905,Toronto,131268
 43.7235321,-79.6011119,2,Janda Court (503),a,Janda Court,28,11288594,391665503,Toronto,131268
 43.7235374,-79.6012086,2,Janda Court (273),a,Janda Court,28,11288594,219520273,Toronto,131268
-43.7235772,-79.5888227,2,Kearney Drive (551),a,Kearney Drive,18,11284814,611453551,Toronto,131268
 43.7235965,-79.6158052,2,Kingsplate Crescent (430),a,Kingsplate Crescent,29,11287745,219503430,Toronto,131268
 43.7235973,-79.6199657,2,Humberwood Boulevard (656),a,Humberwood Boulevard,132,11284220,496701656,Toronto,131268
 43.7235973,-79.6199657,2,Hullrick Drive (227),a,Hullrick Drive,43,11287740,219503227,Toronto,131268
-43.7236052,-79.5914217,2,Mercury Road (489),a,Mercury Road,37,11284785,219394489,Toronto,131268
 43.7236181,-79.6207093,2,View Green Crescent (369),a,View Green Crescent,26,11287743,219503369,Toronto,131268
 43.7236254,-79.6010667,2,Janda Court (269),a,Janda Court,28,11288594,219520269,Toronto,131268
 43.723628,-79.6011549,2,Janda Court (272),a,Janda Court,28,11288594,219520272,Toronto,131268
@@ -2529,8 +2051,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7236927,-79.6010771,2,Janda Court (270),a,Janda Court,28,11288594,219520270,Toronto,131268
 43.7236927,-79.6010771,2,Janda Court (271),a,Janda Court,28,11288594,219520271,Toronto,131268
 43.7236927,-79.6010771,2,Janda Court (279),a,Janda Court,28,11288594,219520279,Toronto,131268
-43.7237011,-79.5812098,2,Delsing Drive (035),a,Delsing Drive,23,11284150,433904035,Toronto,131268
-43.7237081,-79.5824219,2,Holbeach Road (205),a,Holbeach Road,7,11284151,219373205,Toronto,131268
 43.7237084,-79.6220847,2,View Green Crescent (375),a,View Green Crescent,26,11287743,219503375,Toronto,131268
 43.723728,-79.6027275,2,Triple Crown Avenue (242),a,Triple Crown Avenue,32,11288591,219520242,Toronto,131268
 43.723728,-79.6027275,2,Stallion Place (264),a,Stallion Place,3,11288593,219520264,Toronto,131268
@@ -2542,32 +2062,25 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7237403,-79.6169221,2,Cinrickbar Drive (551),a,Cinrickbar Drive,53,11287742,334300551,Toronto,131268
 43.7237403,-79.6169221,2,Westowanis Drive (517),a,Westowanis Drive,26,11290110,219536517,Toronto,131268
 43.7237569,-79.6204517,2,View Green Crescent (433),a,View Green Crescent,26,11287743,561865433,Toronto,131268
-43.7237588,-79.5822558,2,Holbeach Road (037),a,Holbeach Road,7,11284151,433904037,Toronto,131268
 43.7237643,-79.6204116,2,View Green Crescent (384),a,View Green Crescent,26,11287743,219503384,Toronto,131268
 43.7237656,-79.6202865,2,Humberwood Boulevard (866),a,Humberwood Boulevard,132,11284220,561864866,Toronto,131268
 43.7237656,-79.6202865,2,Humberwood Boulevard (867),a,Humberwood Boulevard,132,11284220,561864867,Toronto,131268
 43.7237656,-79.6202865,2,View Green Crescent (385),a,View Green Crescent,26,11287743,219503385,Toronto,131268
-43.7237665,-79.5899626,2,Millview Crescent (914),a,Millview Crescent,19,11284140,219372914,Toronto,131268
 43.7237742,-79.6147221,2,Humberwood Boulevard (664),a,Humberwood Boulevard,132,11284220,219375664,Toronto,131268
 43.7237805,-79.6220831,2,View Green Crescent (376),a,View Green Crescent,26,11287743,219503376,Toronto,131268
 43.7238005,-79.6205055,2,View Green Crescent (434),a,View Green Crescent,26,11287743,561865434,Toronto,131268
-43.7238106,-79.5821274,2,Holbeach Road (204),a,Holbeach Road,7,11284151,219373204,Toronto,131268
 43.7238152,-79.6205017,2,View Green Crescent (388),a,View Green Crescent,26,11287743,219503388,Toronto,131268
 43.7238162,-79.6220574,2,View Green Crescent (377),a,View Green Crescent,26,11287743,219503377,Toronto,131268
 43.7238185,-79.6158533,2,Kingsplate Crescent (427),a,Kingsplate Crescent,29,11287745,386161427,Toronto,131268
 43.7238215,-79.620364,2,Humberwood Boulevard (708),a,Humberwood Boulevard,132,11284220,219375708,Toronto,131268
-43.7238227,-79.5812807,2,Delsing Drive (195),a,Delsing Drive,23,11284150,219373195,Toronto,131268
 43.7238245,-79.6163774,2,Humberwood Boulevard (662),a,Humberwood Boulevard,132,11284220,496701662,Toronto,131268
 43.7238245,-79.6163774,2,Humberwood Boulevard (664),a,Humberwood Boulevard,132,11284220,496701664,Toronto,131268
-43.7238329,-79.5812893,2,Delsing Drive (073),a,Delsing Drive,23,11284150,611446073,Toronto,131268
-43.7238359,-79.5848992,2,Guiness Avenue (183),a,Guiness Avenue,13,11284149,219373183,Toronto,131268
 43.72384,-79.6169492,2,Westowanis Drive (434),a,Westowanis Drive,26,11290110,318958434,Toronto,131268
 43.7238402,-79.615858,2,Kingsplate Crescent (992),a,Kingsplate Crescent,29,11287745,611452992,Toronto,131268
 43.7238429,-79.622032,2,View Green Crescent (378),a,View Green Crescent,26,11287743,219503378,Toronto,131268
 43.7238606,-79.6220068,2,View Green Crescent (379),a,View Green Crescent,26,11287743,219503379,Toronto,131268
 43.7238756,-79.6169589,2,Westowanis Drive (774),a,Westowanis Drive,26,11290110,359114774,Toronto,131268
 43.7238781,-79.6219691,2,View Green Crescent (380),a,View Green Crescent,26,11287743,219503380,Toronto,131268
-43.7238808,-79.5849192,2,Guiness Avenue (031),a,Guiness Avenue,13,11284149,433904031,Toronto,131268
 43.723892,-79.6151341,2,Humberwood Boulevard (665),a,Humberwood Boulevard,132,11284220,219375665,Toronto,131268
 43.7239026,-79.6158715,2,Humberwood Boulevard (659),a,Humberwood Boulevard,132,11284220,496701659,Toronto,131268
 43.7239026,-79.6158715,2,Humberwood Boulevard (661),a,Humberwood Boulevard,132,11284220,496701661,Toronto,131268
@@ -2580,29 +2093,18 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7239186,-79.6192986,2,Westowanis Drive (526),a,Westowanis Drive,26,11290110,219536526,Toronto,131268
 43.7239209,-79.61923,2,Westowanis Drive (525),a,Westowanis Drive,26,11290110,219536525,Toronto,131268
 43.723923,-79.615563,2,Humberwood Boulevard (658),a,Humberwood Boulevard,132,11284220,496701658,Toronto,131268
-43.7239269,-79.584907,2,Guiness Avenue (184),a,Guiness Avenue,13,11284149,219373184,Toronto,131268
-43.7239276,-79.5813688,2,Delsing Drive (074),a,Delsing Drive,23,11284150,611446074,Toronto,131268
 43.7239306,-79.6193927,2,Westowanis Drive (527),a,Westowanis Drive,26,11290110,219536527,Toronto,131268
 43.7239433,-79.6190195,2,Westowanis Drive (524),a,Westowanis Drive,26,11290110,219536524,Toronto,131268
-43.7239591,-79.5848554,2,Guiness Avenue (032),a,Guiness Avenue,13,11284149,433904032,Toronto,131268
 43.723966,-79.6195368,2,Westowanis Drive (528),a,Westowanis Drive,26,11290110,219536528,Toronto,131268
-43.7239727,-79.5847819,2,Guiness Avenue (185),a,Guiness Avenue,13,11284149,219373185,Toronto,131268
-43.7239747,-79.5814083,2,Delsing Drive (036),a,Delsing Drive,23,11284150,433904036,Toronto,131268
-43.7239839,-79.5889784,2,Kearney Drive (552),a,Kearney Drive,18,11284814,611453552,Toronto,131268
 43.7239911,-79.6041202,2,Mare Crescent (113),a,Mare Crescent,18,11288592,431644113,Toronto,131268
 43.7240068,-79.6196639,2,Westowanis Drive (529),a,Westowanis Drive,26,11290110,219536529,Toronto,131268
 43.7240378,-79.602022,2,Frost King Lane (904),a,Frost King Lane,8,11289172,219527904,Toronto,131268
 43.7240378,-79.602022,2,Pedigree Mews (913),a,Pedigree Mews,7,11289173,219527913,Toronto,131268
 43.7240409,-79.6205844,2,Humberwood Boulevard (711),a,Humberwood Boulevard,132,11284220,219375711,Toronto,131268
 43.724046,-79.6040868,2,Mare Crescent (115),a,Mare Crescent,18,11288592,431644115,Toronto,131268
-43.7240512,-79.5816439,2,Holbeach Road (042),a,Holbeach Road,7,11284151,336615042,Toronto,131268
-43.7240518,-79.5901257,2,Millview Crescent (913),a,Millview Crescent,19,11284140,219372913,Toronto,131268
-43.7240768,-79.5910288,2,Mercury Road (096),a,Mercury Road,37,11284785,611446096,Toronto,131268
 43.7240889,-79.6040401,2,Mare Crescent (120),a,Mare Crescent,18,11288592,431644120,Toronto,131268
 43.7240955,-79.6198397,2,Westowanis Drive (530),a,Westowanis Drive,26,11290110,219536530,Toronto,131268
 43.724103,-79.601768,2,Pedigree Mews (912),a,Pedigree Mews,7,11289173,219527912,Toronto,131268
-43.7241046,-79.5815438,2,Delsing Drive (196),a,Delsing Drive,23,11284150,219373196,Toronto,131268
-43.7241046,-79.5815438,2,Holbeach Road (203),a,Holbeach Road,7,11284151,219373203,Toronto,131268
 43.7241123,-79.6039949,2,Mare Crescent (114),a,Mare Crescent,18,11288592,431644114,Toronto,131268
 43.7241213,-79.6170256,2,Westowanis Drive (518),a,Westowanis Drive,26,11290110,219536518,Toronto,131268
 43.7241309,-79.6008077,2,Janda Court (285),a,Janda Court,28,11288594,219520285,Toronto,131268
@@ -2618,7 +2120,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7242299,-79.6016617,2,Pedigree Mews (911),a,Pedigree Mews,7,11289173,219527911,Toronto,131268
 43.7242383,-79.6209097,2,View Green Crescent (432),a,View Green Crescent,26,11287743,561865432,Toronto,131268
 43.7242572,-79.6007592,2,Janda Court (289),a,Janda Court,28,11288594,219520289,Toronto,131268
-43.7242813,-79.5903145,2,Millview Crescent (912),a,Millview Crescent,19,11284140,219372912,Toronto,131268
 43.724282,-79.6207973,2,Humberwood Boulevard (712),a,Humberwood Boulevard,132,11284220,219375712,Toronto,131268
 43.724282,-79.6207973,2,Humberwood Boulevard (895),a,Humberwood Boulevard,132,11284220,611455895,Toronto,131268
 43.724282,-79.6207973,2,View Green Crescent (382),a,View Green Crescent,26,11287743,219503382,Toronto,131268
@@ -2628,15 +2129,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.724316,-79.6012517,2,Pedigree Mews (908),a,Pedigree Mews,7,11289173,219527908,Toronto,131268
 43.7243171,-79.6207025,2,Westowanis Drive (435),a,Westowanis Drive,26,11290110,318958435,Toronto,131268
 43.7243186,-79.6034205,2,Mare Crescent (118),a,Mare Crescent,18,11288592,431644118,Toronto,131268
-43.7243229,-79.5908276,2,Mercury Road (095),a,Mercury Road,37,11284785,611446095,Toronto,131268
 43.724332,-79.6206622,2,Westowanis Drive (538),a,Westowanis Drive,26,11290110,219536538,Toronto,131268
 43.7243336,-79.6014234,2,Pedigree Mews (910),a,Pedigree Mews,7,11289173,219527910,Toronto,131268
 43.724336,-79.6033575,2,Mare Crescent (117),a,Mare Crescent,18,11288592,431644117,Toronto,131268
 43.7243419,-79.6013393,2,Pedigree Mews (909),a,Pedigree Mews,7,11289173,219527909,Toronto,131268
-43.7243622,-79.5773961,2,Amoro Drive (126),a,Amoro Drive,25,11284157,410567126,Toronto,131268
 43.7243895,-79.6202267,2,Westowanis Drive (531),a,Westowanis Drive,26,11290110,219536531,Toronto,131268
 43.7243909,-79.6007622,2,Janda Court (291),a,Janda Court,28,11288594,219520291,Toronto,131268
-43.7243935,-79.5904698,2,Millview Crescent (556),a,Millview Crescent,19,11284140,438784556,Toronto,131268
 43.7244064,-79.6204613,2,Westowanis Drive (537),a,Westowanis Drive,26,11290110,219536537,Toronto,131268
 43.7244113,-79.6202715,2,Westowanis Drive (532),a,Westowanis Drive,26,11290110,219536532,Toronto,131268
 43.7244141,-79.6030247,2,Triple Crown Avenue (100),a,Triple Crown Avenue,32,11288591,431644100,Toronto,131268
@@ -2646,48 +2144,26 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7244212,-79.6203985,2,Westowanis Drive (536),a,Westowanis Drive,26,11290110,219536536,Toronto,131268
 43.7244233,-79.6203291,2,Westowanis Drive (534),a,Westowanis Drive,26,11290110,219536534,Toronto,131268
 43.7244247,-79.6203629,2,Westowanis Drive (535),a,Westowanis Drive,26,11290110,219536535,Toronto,131268
-43.7244498,-79.5905476,2,Millview Crescent (080),a,Millview Crescent,19,11284140,611446080,Toronto,131268
-43.7244975,-79.5825811,2,Guiness Avenue (186),a,Guiness Avenue,13,11284149,219373186,Toronto,131268
-43.7244997,-79.5906113,2,Millview Crescent (079),a,Millview Crescent,19,11284140,611446079,Toronto,131268
-43.7244997,-79.5906113,2,Mercury Road (094),a,Mercury Road,37,11284785,611446094,Toronto,131268
 43.7245033,-79.600799,2,Janda Court (292),a,Janda Court,28,11288594,219520292,Toronto,131268
-43.7245262,-79.5824862,2,Guiness Avenue (030),a,Guiness Avenue,13,11284149,433904030,Toronto,131268
 43.7245331,-79.6024992,2,Quinella Drive (298),a,Quinella Drive,16,11288595,219520298,Toronto,131268
-43.7245564,-79.5824046,2,Guiness Avenue (187),a,Guiness Avenue,13,11284149,219373187,Toronto,131268
 43.7245592,-79.6024241,2,Quinella Drive (299),a,Quinella Drive,16,11288595,219520299,Toronto,131268
 43.724594,-79.602324,2,Quinella Drive (300),a,Quinella Drive,16,11288595,219520300,Toronto,131268
-43.7245964,-79.5904798,2,Mercury Road (093),a,Mercury Road,37,11284785,611446093,Toronto,131268
 43.7246117,-79.6211055,2,Humberwood Boulevard (654),a,Humberwood Boulevard,132,11284220,219375654,Toronto,131268
 43.7246117,-79.6211055,2,Humberwood Boulevard (896),a,Humberwood Boulevard,132,11284220,611455896,Toronto,131268
 43.7246272,-79.6022799,2,Quinella Drive (301),a,Quinella Drive,16,11288595,219520301,Toronto,131268
 43.7246272,-79.6022799,2,Frost King Lane (903),a,Frost King Lane,8,11289172,219527903,Toronto,131268
-43.7246457,-79.5822369,2,Guiness Avenue (040),a,Guiness Avenue,13,11284149,336615040,Toronto,131268
-43.7246699,-79.589297,2,Kearney Drive (553),a,Kearney Drive,18,11284814,611453553,Toronto,131268
-43.7246923,-79.585147,2,Hawkedon Crescent (246),a,Hawkedon Crescent,11,11284152,219373246,Toronto,131268
-43.7246927,-79.5821347,2,Guiness Avenue (188),a,Guiness Avenue,13,11284149,219373188,Toronto,131268
-43.7246927,-79.5821347,2,Delsing Drive (197),a,Delsing Drive,23,11284150,219373197,Toronto,131268
-43.7247047,-79.5852414,2,Hawkedon Crescent (245),a,Hawkedon Crescent,11,11284152,219373245,Toronto,131268
 43.724727,-79.6031616,2,Triple Crown Avenue (111),a,Triple Crown Avenue,32,11288591,431644111,Toronto,131268
 43.7247475,-79.6008926,2,Janda Court (293),a,Janda Court,28,11288594,219520293,Toronto,131268
-43.7247605,-79.5852929,2,Hawkedon Crescent (244),a,Hawkedon Crescent,11,11284152,219373244,Toronto,131268
-43.7247754,-79.580654,2,Detling Court (346),a,Detling Court,2,11284159,219373346,Toronto,131268
-43.7248208,-79.5776181,2,Amoro Drive (331),a,Amoro Drive,25,11284157,219373331,Toronto,131268
-43.7248208,-79.5776181,2,Gunton Drive (368),a,Gunton Drive,13,11284160,219373368,Toronto,131268
-43.724823,-79.5900424,2,Mercury Road (092),a,Mercury Road,37,11284785,611446092,Toronto,131268
 43.7248257,-79.6008998,2,Janda Court (294),a,Janda Court,28,11288594,219520294,Toronto,131268
 43.724829,-79.6017773,2,Quinella Drive (302),a,Quinella Drive,16,11288595,219520302,Toronto,131268
-43.7248522,-79.5774862,2,Gunton Drive (128),a,Gunton Drive,13,11284160,410567128,Toronto,131268
 43.7248557,-79.6009025,2,Janda Court (295),a,Janda Court,28,11288594,219520295,Toronto,131268
 43.724875,-79.6032264,2,Triple Crown Avenue (102),a,Triple Crown Avenue,32,11288591,431644102,Toronto,131268
-43.7248856,-79.5823174,2,Delsing Drive (034),a,Delsing Drive,23,11284150,433904034,Toronto,131268
 43.7249008,-79.6032245,2,Triple Crown Avenue (097),a,Triple Crown Avenue,32,11288591,431644097,Toronto,131268
-43.7249359,-79.5898137,2,Mercury Road (091),a,Mercury Road,37,11284785,611446091,Toronto,131268
 43.724936,-79.6015038,2,Quinella Drive (303),a,Quinella Drive,16,11288595,219520303,Toronto,131268
 43.7249511,-79.6032019,2,Triple Crown Avenue (099),a,Triple Crown Avenue,32,11288591,431644099,Toronto,131268
 43.7249517,-79.6213872,2,Humberwood Boulevard (655),a,Humberwood Boulevard,132,11284220,219375655,Toronto,131268
 43.7249517,-79.6213872,2,Humberwood Boulevard (673),a,Humberwood Boulevard,132,11284220,219375673,Toronto,131268
 43.7249572,-79.601442,2,Quinella Drive (304),a,Quinella Drive,16,11288595,219520304,Toronto,131268
-43.7249578,-79.5895244,2,Kearney Drive (554),a,Kearney Drive,18,11284814,611453554,Toronto,131268
 43.7249653,-79.6008884,2,Triple Crown Avenue (106),a,Triple Crown Avenue,32,11288591,431644106,Toronto,131268
 43.7249653,-79.6008884,2,Janda Court (296),a,Janda Court,28,11288594,219520296,Toronto,131268
 43.7249653,-79.6008884,2,Quinella Drive (310),a,Quinella Drive,16,11288595,219520310,Toronto,131268
@@ -2697,152 +2173,63 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7249861,-79.6010587,2,Quinella Drive (308),a,Quinella Drive,16,11288595,219520308,Toronto,131268
 43.7249907,-79.6012406,2,Quinella Drive (504),a,Quinella Drive,16,11288595,391665504,Toronto,131268
 43.7249907,-79.6011139,2,Quinella Drive (505),a,Quinella Drive,16,11288595,391665505,Toronto,131268
-43.724991,-79.5777077,2,Amoro Drive (332),a,Amoro Drive,25,11284157,219373332,Toronto,131268
 43.7249922,-79.6011735,2,Quinella Drive (307),a,Quinella Drive,16,11288595,219520307,Toronto,131268
 43.7250021,-79.6031336,2,Triple Crown Avenue (108),a,Triple Crown Avenue,32,11288591,431644108,Toronto,131268
 43.7250117,-79.6008739,2,Triple Crown Avenue (092),a,Triple Crown Avenue,32,11288591,431644092,Toronto,131268
-43.7250247,-79.5895776,2,Mercury Road (090),a,Mercury Road,37,11284785,611446090,Toronto,131268
-43.7250247,-79.5895776,2,Kearney Drive (555),a,Kearney Drive,18,11284814,611453555,Toronto,131268
-43.7250395,-79.5824344,2,Delsing Drive (198),a,Delsing Drive,23,11284150,219373198,Toronto,131268
-43.7250395,-79.5824344,2,Delsing Drive (063),a,Delsing Drive,23,11284150,611446063,Toronto,131268
-43.7250395,-79.5824344,2,Waxham Road (248),a,Waxham Road,12,11284153,219373248,Toronto,131268
-43.7250447,-79.588327,2,Humheller Road (468),a,Humheller Road,6,11284143,391664468,Toronto,131268
 43.7250569,-79.6008686,2,Triple Crown Avenue (105),a,Triple Crown Avenue,32,11288591,431644105,Toronto,131268
-43.7250576,-79.5854342,2,Hawkedon Crescent (243),a,Hawkedon Crescent,11,11284152,219373243,Toronto,131268
-43.7250771,-79.5823355,2,Waxham Road (044),a,Waxham Road,12,11284153,336615044,Toronto,131268
-43.7251319,-79.5824947,2,Delsing Drive (075),a,Delsing Drive,23,11284150,461544075,Toronto,131268
 43.7251627,-79.6008591,2,Triple Crown Avenue (513),a,Triple Crown Avenue,32,11288591,391665513,Toronto,131268
-43.7251644,-79.5891137,2,Mercury Road (485),a,Mercury Road,37,11284785,219394485,Toronto,131268
-43.7252563,-79.5884511,2,Humheller Road (561),a,Humheller Road,6,11284143,438784561,Toronto,131268
-43.7252608,-79.5790558,2,Waxham Road (253),a,Waxham Road,12,11284153,219373253,Toronto,131268
-43.7252611,-79.588454,2,Humheller Road (078),a,Humheller Road,6,11284143,611446078,Toronto,131268
-43.7252674,-79.5817589,2,Waxham Road (249),a,Waxham Road,12,11284153,219373249,Toronto,131268
 43.7252713,-79.6008758,2,Triple Crown Avenue (109),a,Triple Crown Avenue,32,11288591,431644109,Toronto,131268
-43.7252741,-79.5794416,2,Waxham Road (252),a,Waxham Road,12,11284153,219373252,Toronto,131268
-43.7252741,-79.5794416,2,Waterbeach Crescent (338),a,Waterbeach Crescent,15,11284158,219373338,Toronto,131268
-43.7252755,-79.578884,2,Waxham Road (039),a,Waxham Road,12,11284153,433904039,Toronto,131268
-43.7252932,-79.5827128,2,Hawkedon Crescent (043),a,Hawkedon Crescent,11,11284152,336615043,Toronto,131268
-43.7252956,-79.5806317,2,Waxham Road (251),a,Waxham Road,12,11284153,219373251,Toronto,131268
-43.7252956,-79.5806317,2,Detling Court (345),a,Detling Court,2,11284159,219373345,Toronto,131268
-43.7253011,-79.5816068,2,Waxham Road (040),a,Waxham Road,12,11284153,433904040,Toronto,131268
-43.7253088,-79.5787204,2,Waxham Road (254),a,Waxham Road,12,11284153,219373254,Toronto,131268
-43.7253167,-79.5814429,2,Waxham Road (250),a,Waxham Road,12,11284153,219373250,Toronto,131268
-43.7253188,-79.5825982,2,Delsing Drive (076),a,Delsing Drive,23,11284150,461544076,Toronto,131268
-43.7253188,-79.5825982,2,Hawkedon Crescent (247),a,Hawkedon Crescent,11,11284152,219373247,Toronto,131268
-43.7253403,-79.5885004,2,Humheller Road (959),a,Humheller Road,6,11284143,219372959,Toronto,131268
-43.7253403,-79.5885004,2,Mercury Road (484),a,Mercury Road,37,11284785,219394484,Toronto,131268
 43.7253415,-79.6217213,2,Humberwood Boulevard (674),a,Humberwood Boulevard,132,11284220,219375674,Toronto,131268
-43.7253498,-79.5855676,2,Hawkedon Crescent (242),a,Hawkedon Crescent,11,11284152,219373242,Toronto,131268
 43.7253616,-79.6008973,2,Triple Crown Avenue (107),a,Triple Crown Avenue,32,11288591,431644107,Toronto,131268
-43.7253662,-79.5794413,2,Waterbeach Crescent (127),a,Waterbeach Crescent,15,11284158,410567127,Toronto,131268
-43.7253672,-79.5863865,2,Martin Grove Road (741),a,Martin Grove Road,703,11281251,218873741,Toronto,131268
-43.7253672,-79.5863865,2,Martin Grove Road (065),a,Martin Grove Road,703,11281251,611446065,Toronto,131268
-43.7253792,-79.587319,2,Pergola Road (954),a,Pergola Road,15,11284142,219372954,Toronto,131268
 43.7253873,-79.6020989,2,Triple Crown Avenue (095),a,Triple Crown Avenue,32,11288591,431644095,Toronto,131268
-43.7254056,-79.5855676,2,Hawkedon Crescent (241),a,Hawkedon Crescent,11,11284152,219373241,Toronto,131268
 43.7254243,-79.6019454,2,Triple Crown Avenue (096),a,Triple Crown Avenue,32,11288591,431644096,Toronto,131268
 43.7254417,-79.6018105,2,Triple Crown Avenue (104),a,Triple Crown Avenue,32,11288591,431644104,Toronto,131268
-43.7254428,-79.5855075,2,Hawkedon Crescent (240),a,Hawkedon Crescent,11,11284152,219373240,Toronto,131268
 43.7254538,-79.6017056,2,Triple Crown Avenue (093),a,Triple Crown Avenue,32,11288591,431644093,Toronto,131268
-43.7254599,-79.5873908,2,Pergola Road (955),a,Pergola Road,15,11284142,219372955,Toronto,131268
-43.7254628,-79.5880599,2,Mercury Road (089),a,Mercury Road,37,11284785,611446089,Toronto,131268
 43.7254697,-79.6016346,2,Triple Crown Avenue (094),a,Triple Crown Avenue,32,11288591,431644094,Toronto,131268
-43.7254734,-79.5780841,2,Waxham Road (124),a,Waxham Road,12,11284153,410567124,Toronto,131268
 43.7254886,-79.6009417,2,Triple Crown Avenue (103),a,Triple Crown Avenue,32,11288591,431644103,Toronto,131268
-43.725499,-79.57796,2,Waxham Road (255),a,Waxham Road,12,11284153,219373255,Toronto,131268
-43.725499,-79.57796,2,Amoro Drive (333),a,Amoro Drive,25,11284157,219373333,Toronto,131268
 43.7255174,-79.6009617,2,Triple Crown Avenue (512),a,Triple Crown Avenue,32,11288591,391665512,Toronto,131268
 43.7255437,-79.6218812,2,Humberwood Boulevard (675),a,Humberwood Boulevard,132,11284220,219375675,Toronto,131268
 43.7255475,-79.6009937,2,Triple Crown Avenue (110),a,Triple Crown Avenue,32,11288591,431644110,Toronto,131268
-43.7255529,-79.5874735,2,Pergola Road (956),a,Pergola Road,15,11284142,219372956,Toronto,131268
-43.7255626,-79.5878057,2,Mercury Road (088),a,Mercury Road,37,11284785,611446088,Toronto,131268
 43.7255727,-79.6010361,2,Triple Crown Avenue (511),a,Triple Crown Avenue,32,11288591,391665511,Toronto,131268
-43.7255826,-79.5875171,2,Pergola Road (560),a,Pergola Road,15,11284142,438784560,Toronto,131268
 43.7255888,-79.601327,2,Triple Crown Avenue (101),a,Triple Crown Avenue,32,11288591,431644101,Toronto,131268
 43.7255964,-79.6010904,2,Triple Crown Avenue (510),a,Triple Crown Avenue,32,11288591,391665510,Toronto,131268
 43.7256047,-79.6012688,2,Triple Crown Avenue (507),a,Triple Crown Avenue,32,11288591,391665507,Toronto,131268
 43.7256085,-79.6011481,2,Triple Crown Avenue (509),a,Triple Crown Avenue,32,11288591,391665509,Toronto,131268
 43.72561,-79.6012292,2,Triple Crown Avenue (508),a,Triple Crown Avenue,32,11288591,391665508,Toronto,131268
 43.7256111,-79.6012002,2,Triple Crown Avenue (098),a,Triple Crown Avenue,32,11288591,431644098,Toronto,131268
-43.7256175,-79.587567,2,Pergola Road (071),a,Pergola Road,15,11284142,611446071,Toronto,131268
-43.7256656,-79.5876387,2,Pergola Road (072),a,Pergola Road,15,11284142,611446072,Toronto,131268
-43.7256656,-79.5876387,2,Mercury Road (087),a,Mercury Road,37,11284785,611446087,Toronto,131268
 43.7256728,-79.6219824,2,Humberwood Boulevard (676),a,Humberwood Boulevard,132,11284220,219375676,Toronto,131268
-43.7256861,-79.5865281,2,Martin Grove Road (318),a,Martin Grove Road,703,11281251,555158318,Toronto,131268
-43.7256861,-79.5865281,2,Martin Grove Road (319),a,Martin Grove Road,703,11281251,555158319,Toronto,131268
-43.7256934,-79.5827531,2,Delsing Drive (080),a,Delsing Drive,23,11284150,461544080,Toronto,131268
 43.7257381,-79.6220216,2,Humberwood Boulevard (624),a,Humberwood Boulevard,132,11284220,219375624,Toronto,131268
 43.7257381,-79.6220216,2,Humberwood Boulevard (637),a,Humberwood Boulevard,132,11284220,219375637,Toronto,131268
 43.7257381,-79.6220216,2,Humberwood Boulevard (677),a,Humberwood Boulevard,132,11284220,219375677,Toronto,131268
 43.7257467,-79.6236648,2,Morning Star Drive (684),a,Morning Star Drive,8,11284816,219395684,Toronto,131268
 43.7257467,-79.6236648,2,Morning Star Drive (685),a,Morning Star Drive,8,11284816,219395685,Toronto,131268
-43.7257514,-79.5865572,2,Martin Grove Road (309),a,Martin Grove Road,703,11281251,555158309,Toronto,131268
-43.7257514,-79.5865572,2,Martin Grove Road (320),a,Martin Grove Road,703,11281251,555158320,Toronto,131268
 43.7257774,-79.6220892,2,Humberwood Boulevard (636),a,Humberwood Boulevard,132,11284220,219375636,Toronto,131268
 43.7258032,-79.6220077,2,Humberwood Boulevard (625),a,Humberwood Boulevard,132,11284220,219375625,Toronto,131268
-43.7258045,-79.5874983,2,Mercury Road (086),a,Mercury Road,37,11284785,611446086,Toronto,131268
-43.7258634,-79.5873977,2,Mercury Road (085),a,Mercury Road,37,11284785,611446085,Toronto,131268
 43.7258776,-79.6232257,2,Morning Star Drive (686),a,Morning Star Drive,8,11284816,219395686,Toronto,131268
-43.7258967,-79.5872846,2,Mercury Road (084),a,Mercury Road,37,11284785,611446084,Toronto,131268
-43.7259057,-79.5872534,2,Mercury Road (066),a,Mercury Road,37,11284785,611446066,Toronto,131268
-43.7259057,-79.5872534,2,Mercury Road (083),a,Mercury Road,37,11284785,611446083,Toronto,131268
 43.7259407,-79.6221758,2,Humberwood Boulevard (635),a,Humberwood Boulevard,132,11284220,219375635,Toronto,131268
-43.7259574,-79.5794019,2,Waterbeach Crescent (339),a,Waterbeach Crescent,15,11284158,219373339,Toronto,131268
 43.7259644,-79.6221109,2,Humberwood Boulevard (626),a,Humberwood Boulevard,132,11284220,219375626,Toronto,131268
-43.7259655,-79.5866526,2,Martin Grove Road (164),a,Martin Grove Road,703,11281251,218874164,Toronto,131268
-43.7260058,-79.5868662,2,Mercury Road (476),a,Mercury Road,37,11284785,219394476,Toronto,131268
-43.7260364,-79.5830547,2,Hawkedon Crescent (038),a,Hawkedon Crescent,11,11284152,433904038,Toronto,131268
-43.7260371,-79.5866895,2,Martin Grove Road (718),a,Martin Grove Road,703,11281251,218873718,Toronto,131268
-43.7260371,-79.5866895,2,Martin Grove Road (165),a,Martin Grove Road,703,11281251,218874165,Toronto,131268
-43.7260371,-79.5866895,2,Westhumber Boulevard (434),a,Westhumber Boulevard,36,11284784,219394434,Toronto,131268
-43.7260371,-79.5866895,2,Mercury Road (475),a,Mercury Road,37,11284785,219394475,Toronto,131268
-43.7260541,-79.5865333,2,Westhumber Boulevard (433),a,Westhumber Boulevard,36,11284784,219394433,Toronto,131268
-43.7260561,-79.5793905,2,Waterbeach Crescent (055),a,Waterbeach Crescent,15,11284158,433904055,Toronto,131268
-43.7260631,-79.5781947,2,Amoro Drive (334),a,Amoro Drive,25,11284157,219373334,Toronto,131268
 43.7260633,-79.6222407,2,Humberwood Boulevard (634),a,Humberwood Boulevard,132,11284220,219375634,Toronto,131268
-43.7260689,-79.5829205,2,Delsing Drive (078),a,Delsing Drive,23,11284150,461544078,Toronto,131268
-43.7260689,-79.5829205,2,Hawkedon Crescent (239),a,Hawkedon Crescent,11,11284152,219373239,Toronto,131268
-43.7260689,-79.5829205,2,Waterbeach Crescent (344),a,Waterbeach Crescent,15,11284158,219373344,Toronto,131268
 43.7260806,-79.6221521,2,Humberwood Boulevard (627),a,Humberwood Boulevard,132,11284220,219375627,Toronto,131268
 43.7260858,-79.6225276,2,Morning Star Drive (687),a,Morning Star Drive,8,11284816,219395687,Toronto,131268
-43.7260932,-79.5793905,2,Waterbeach Crescent (054),a,Waterbeach Crescent,15,11284158,433904054,Toronto,131268
-43.7260987,-79.5827963,2,Waterbeach Crescent (060),a,Waterbeach Crescent,15,11284158,433904060,Toronto,131268
-43.726118,-79.5793964,2,Waterbeach Crescent (340),a,Waterbeach Crescent,15,11284158,219373340,Toronto,131268
-43.7261194,-79.5867282,2,Martin Grove Road (719),a,Martin Grove Road,703,11281251,218873719,Toronto,131268
 43.726137,-79.6223565,2,Morning Star Drive (688),a,Morning Star Drive,8,11284816,219395688,Toronto,131268
-43.7261427,-79.5794361,2,Waterbeach Crescent (057),a,Waterbeach Crescent,15,11284158,433904057,Toronto,131268
-43.7261441,-79.5795958,2,Waterbeach Crescent (341),a,Waterbeach Crescent,15,11284158,219373341,Toronto,131268
-43.726146,-79.5795502,2,Waterbeach Crescent (056),a,Waterbeach Crescent,15,11284158,433904056,Toronto,131268
 43.7261556,-79.6222733,2,Humberwood Boulevard (632),a,Humberwood Boulevard,132,11284220,219375632,Toronto,131268
 43.7261556,-79.6222733,2,Humberwood Boulevard (633),a,Humberwood Boulevard,132,11284220,219375633,Toronto,131268
 43.7261556,-79.6222733,2,Morning Star Drive (689),a,Morning Star Drive,8,11284816,219395689,Toronto,131268
 43.7261556,-79.6222733,2,Morning Star Drive (897),a,Morning Star Drive,8,11284816,611455897,Toronto,131268
-43.7261575,-79.5794886,2,Waterbeach Crescent (058),a,Waterbeach Crescent,15,11284158,433904058,Toronto,131268
-43.7261581,-79.582549,2,Waterbeach Crescent (343),a,Waterbeach Crescent,15,11284158,219373343,Toronto,131268
 43.7261806,-79.622177,2,Humberwood Boulevard (628),a,Humberwood Boulevard,132,11284220,219375628,Toronto,131268
 43.7261806,-79.622177,2,Humberwood Boulevard (638),a,Humberwood Boulevard,132,11284220,219375638,Toronto,131268
 43.7261806,-79.622177,2,Morning Star Drive (066),a,Morning Star Drive,8,11284816,516069066,Toronto,131268
-43.7261828,-79.5859775,2,Westhumber Boulevard (432),a,Westhumber Boulevard,36,11284784,219394432,Toronto,131268
-43.7261828,-79.5859775,2,Westhumber Boulevard (440),a,Westhumber Boulevard,36,11284784,219394440,Toronto,131268
-43.7261905,-79.5823596,2,Waterbeach Crescent (059),a,Waterbeach Crescent,15,11284158,433904059,Toronto,131268
-43.7261999,-79.5822117,2,Waterbeach Crescent (342),a,Waterbeach Crescent,15,11284158,219373342,Toronto,131268
 43.7262684,-79.6222927,2,Humberwood Boulevard (631),a,Humberwood Boulevard,132,11284220,219375631,Toronto,131268
 43.7262749,-79.6221942,2,Humberwood Boulevard (639),a,Humberwood Boulevard,132,11284220,219375639,Toronto,131268
-43.7262903,-79.5855309,2,Moon Valley Drive (492),a,Moon Valley Drive,27,11284168,219373492,Toronto,131268
-43.7262903,-79.5855309,2,Westhumber Boulevard (439),a,Westhumber Boulevard,36,11284784,219394439,Toronto,131268
 43.7263274,-79.6221918,2,Humberwood Boulevard (873),a,Humberwood Boulevard,132,11284220,418040873,Toronto,131268
 43.7263466,-79.6233773,2,Harpreet Circle (529),a,Harpreet Circle,27,11290179,418041529,Toronto,131268
 43.7263498,-79.623311,2,Harpreet Circle (120),a,Harpreet Circle,27,11290179,219537120,Toronto,131268
 43.7263574,-79.6234306,2,Harpreet Circle (528),a,Harpreet Circle,27,11290179,418041528,Toronto,131268
-43.7263595,-79.5855643,2,Moon Valley Drive (117),a,Moon Valley Drive,27,11284168,611446117,Toronto,131268
 43.726388,-79.6234769,2,Harpreet Circle (113),a,Harpreet Circle,27,11290179,219537113,Toronto,131268
-43.7263884,-79.5855783,2,Moon Valley Drive (493),a,Moon Valley Drive,27,11284168,219373493,Toronto,131268
 43.726406,-79.6231204,2,Harpreet Circle (530),a,Harpreet Circle,27,11290179,418041530,Toronto,131268
 43.7264698,-79.5937631,2,Alicewood Court (810),a,Alicewood Court,72,11287453,219497810,Toronto,131268
 43.7264703,-79.6229265,2,Harpreet Circle (121),a,Harpreet Circle,27,11290179,219537121,Toronto,131268
-43.726476,-79.586868,2,Martin Grove Road (720),a,Martin Grove Road,703,11281251,218873720,Toronto,131268
 43.726478,-79.5937008,2,Alicewood Court (809),a,Alicewood Court,72,11287453,219497809,Toronto,131268
-43.7264787,-79.5782977,2,Amoro Drive (335),a,Amoro Drive,25,11284157,219373335,Toronto,131268
 43.7264795,-79.5938249,2,Alicewood Court (811),a,Alicewood Court,72,11287453,219497811,Toronto,131268
 43.7264804,-79.6223121,2,Humberwood Boulevard (630),a,Humberwood Boulevard,132,11284220,219375630,Toronto,131268
 43.7264821,-79.6221907,2,Humberwood Boulevard (640),a,Humberwood Boulevard,132,11284220,219375640,Toronto,131268
@@ -2853,31 +2240,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7265275,-79.6222502,2,Humberwood Boulevard (641),a,Humberwood Boulevard,132,11284220,219375641,Toronto,131268
 43.7265275,-79.6222502,2,Humberwood Boulevard (700),a,Humberwood Boulevard,132,11284220,219375700,Toronto,131268
 43.7265481,-79.6228837,2,Harpreet Circle (123),a,Harpreet Circle,27,11290179,219537123,Toronto,131268
-43.7265485,-79.5844136,2,Joshua Avenue (507),a,Joshua Avenue,11,11284169,219373507,Toronto,131268
-43.7265485,-79.5844136,2,Westhumber Boulevard (438),a,Westhumber Boulevard,36,11284784,219394438,Toronto,131268
 43.7265525,-79.5938977,2,Alicewood Court (813),a,Alicewood Court,72,11287453,219497813,Toronto,131268
-43.7265788,-79.5869242,2,Martin Grove Road (299),a,Martin Grove Road,703,11281251,555158299,Toronto,131268
-43.7265788,-79.5869242,2,Martin Grove Road (321),a,Martin Grove Road,703,11281251,555158321,Toronto,131268
 43.7266069,-79.5939337,2,Alicewood Court (814),a,Alicewood Court,72,11287453,219497814,Toronto,131268
 43.7266246,-79.6236243,2,Harpreet Circle (112),a,Harpreet Circle,27,11290179,219537112,Toronto,131268
-43.7266265,-79.5844515,2,Joshua Avenue (116),a,Joshua Avenue,11,11284169,611446116,Toronto,131268
 43.7266266,-79.5933368,2,Alicewood Court (807),a,Alicewood Court,72,11287453,219497807,Toronto,131268
-43.7266338,-79.5844551,2,Joshua Avenue (508),a,Joshua Avenue,11,11284169,219373508,Toronto,131268
 43.7266461,-79.6236306,2,Harpreet Circle (111),a,Harpreet Circle,27,11290179,219537111,Toronto,131268
 43.7266681,-79.6236327,2,Harpreet Circle (110),a,Harpreet Circle,27,11290179,219537110,Toronto,131268
 43.7266789,-79.6222346,2,Humberwood Boulevard (701),a,Humberwood Boulevard,132,11284220,219375701,Toronto,131268
 43.7266876,-79.6236282,2,Harpreet Circle (109),a,Harpreet Circle,27,11290179,219537109,Toronto,131268
 43.7267072,-79.6236216,2,Harpreet Circle (108),a,Harpreet Circle,27,11290179,219537108,Toronto,131268
 43.7267256,-79.623605,2,Harpreet Circle (107),a,Harpreet Circle,27,11290179,219537107,Toronto,131268
-43.7267271,-79.5832075,2,Delsing Drive (079),a,Delsing Drive,23,11284150,461544079,Toronto,131268
-43.7267455,-79.5832161,2,Delsing Drive (064),a,Delsing Drive,23,11284150,611446064,Toronto,131268
 43.7267494,-79.6235775,2,Harpreet Circle (106),a,Harpreet Circle,27,11290179,219537106,Toronto,131268
 43.7267712,-79.6235275,2,Harpreet Circle (105),a,Harpreet Circle,27,11290179,219537105,Toronto,131268
 43.7267793,-79.5940414,2,Alicewood Court (815),a,Alicewood Court,72,11287453,219497815,Toronto,131268
-43.7267949,-79.5870422,2,Martin Grove Road (103),a,Martin Grove Road,703,11281251,218874103,Toronto,131268
-43.7267949,-79.5870422,2,Martin Grove Road (115),a,Martin Grove Road,703,11281251,611446115,Toronto,131268
 43.7268029,-79.6228667,2,Harpreet Circle (128),a,Harpreet Circle,27,11290179,219537128,Toronto,131268
-43.7268047,-79.5833616,2,Westhumber Boulevard (118),a,Westhumber Boulevard,36,11284784,611446118,Toronto,131268
 43.7268079,-79.6221977,2,Humberwood Boulevard (702),a,Humberwood Boulevard,132,11284220,219375702,Toronto,131268
 43.7268079,-79.6221977,2,Harpreet Circle (131),a,Harpreet Circle,27,11290179,219537131,Toronto,131268
 43.7268104,-79.5929103,2,Alicewood Court (806),a,Alicewood Court,72,11287453,219497806,Toronto,131268
@@ -2886,8 +2262,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7268168,-79.6228671,2,Harpreet Circle (531),a,Harpreet Circle,27,11290179,418041531,Toronto,131268
 43.7268272,-79.6223502,2,Harpreet Circle (533),a,Harpreet Circle,27,11290179,418041533,Toronto,131268
 43.7268307,-79.6223779,2,Harpreet Circle (130),a,Harpreet Circle,27,11290179,219537130,Toronto,131268
-43.726832,-79.5832563,2,Delsing Drive (077),a,Delsing Drive,23,11284150,461544077,Toronto,131268
-43.726832,-79.5832563,2,Westhumber Boulevard (436),a,Westhumber Boulevard,36,11284784,219394436,Toronto,131268
 43.7268554,-79.6225426,2,Harpreet Circle (532),a,Harpreet Circle,27,11290179,418041532,Toronto,131268
 43.7268637,-79.6221777,2,Humberwood Boulevard (703),a,Humberwood Boulevard,132,11284220,219375703,Toronto,131268
 43.7268791,-79.5941011,2,Alicewood Court (816),a,Alicewood Court,72,11287453,219497816,Toronto,131268
@@ -2898,101 +2272,50 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7269008,-79.6229667,2,Harpreet Circle (102),a,Harpreet Circle,27,11290179,219537102,Toronto,131268
 43.7269239,-79.5926221,2,Alicewood Court (823),a,Alicewood Court,72,11287453,219497823,Toronto,131268
 43.7269374,-79.5929674,2,Tammy Lane (242),a,Tammy Lane,5,11287460,391665242,Toronto,131268
-43.7270051,-79.582505,2,Moon Valley Drive (506),a,Moon Valley Drive,27,11284168,219373506,Toronto,131268
-43.7270051,-79.582505,2,Westhumber Boulevard (435),a,Westhumber Boulevard,36,11284784,219394435,Toronto,131268
-43.7270051,-79.582505,2,Westhumber Boulevard (448),a,Westhumber Boulevard,36,11284784,219394448,Toronto,131268
 43.7270123,-79.5924835,2,Alicewood Court (824),a,Alicewood Court,72,11287453,219497824,Toronto,131268
-43.7270218,-79.5796403,2,Westhumber Boulevard (086),a,Westhumber Boulevard,36,11284784,433904086,Toronto,131268
-43.7270238,-79.579847,2,Westhumber Boulevard (445),a,Westhumber Boulevard,36,11284784,219394445,Toronto,131268
 43.7270321,-79.5945086,2,Alicewood Court (864),a,Alicewood Court,72,11287453,219497864,Toronto,131268
-43.7270325,-79.5794204,2,Westhumber Boulevard (444),a,Westhumber Boulevard,36,11284784,219394444,Toronto,131268
-43.7270335,-79.5784354,2,Amoro Drive (936),a,Amoro Drive,25,11284157,611452936,Toronto,131268
 43.7270348,-79.6221107,2,Humberwood Boulevard (704),a,Humberwood Boulevard,132,11284220,219375704,Toronto,131268
-43.7270414,-79.5823438,2,Westhumber Boulevard (447),a,Westhumber Boulevard,36,11284784,219394447,Toronto,131268
-43.7270556,-79.5846506,2,Joshua Avenue (075),a,Joshua Avenue,11,11284169,433904075,Toronto,131268
 43.7270577,-79.5945578,2,Alicewood Court (863),a,Alicewood Court,72,11287453,219497863,Toronto,131268
-43.7270588,-79.5784411,2,Amoro Drive (937),a,Amoro Drive,25,11284157,611452937,Toronto,131268
-43.7270612,-79.5822431,2,Westhumber Boulevard (446),a,Westhumber Boulevard,36,11284784,219394446,Toronto,131268
-43.7270629,-79.5791158,2,Westhumber Boulevard (443),a,Westhumber Boulevard,36,11284784,219394443,Toronto,131268
-43.7270704,-79.5821281,2,Westhumber Boulevard (087),a,Westhumber Boulevard,36,11284784,433904087,Toronto,131268
-43.7270735,-79.5819472,2,Westhumber Boulevard (881),a,Westhumber Boulevard,36,11284784,318968881,Toronto,131268
-43.7270801,-79.5825398,2,Moon Valley Drive (119),a,Moon Valley Drive,27,11284168,611446119,Toronto,131268
-43.7270836,-79.5789066,2,Westhumber Boulevard (442),a,Westhumber Boulevard,36,11284784,219394442,Toronto,131268
 43.7270914,-79.5942019,2,Alicewood Court (817),a,Alicewood Court,72,11287453,219497817,Toronto,131268
 43.7270914,-79.5942019,2,Alicewood Court (865),a,Alicewood Court,72,11287453,219497865,Toronto,131268
-43.7270946,-79.5825466,2,Moon Valley Drive (505),a,Moon Valley Drive,27,11284168,219373505,Toronto,131268
 43.7271189,-79.5923692,2,Alicewood Court (825),a,Alicewood Court,72,11287453,219497825,Toronto,131268
-43.7271379,-79.5784582,2,Amoro Drive (938),a,Amoro Drive,25,11284157,611452938,Toronto,131268
-43.7271379,-79.5784582,2,Westhumber Boulevard (120),a,Westhumber Boulevard,36,11284784,611446120,Toronto,131268
-43.7271379,-79.5784582,2,Westhumber Boulevard (129),a,Westhumber Boulevard,36,11284784,611446129,Toronto,131268
-43.7271535,-79.5783292,2,Westhumber Boulevard (128),a,Westhumber Boulevard,36,11284784,611446128,Toronto,131268
 43.7271665,-79.594607,2,Alicewood Court (862),a,Alicewood Court,72,11287453,219497862,Toronto,131268
 43.727178,-79.5942431,2,Alicewood Court (818),a,Alicewood Court,72,11287453,219497818,Toronto,131268
 43.727178,-79.5942431,2,Alicewood Court (819),a,Alicewood Court,72,11287453,219497819,Toronto,131268
 43.7271919,-79.6220305,2,Humberwood Boulevard (705),a,Humberwood Boulevard,132,11284220,219375705,Toronto,131268
 43.7272119,-79.5946098,2,Alicewood Court (861),a,Alicewood Court,72,11287453,219497861,Toronto,131268
-43.7272491,-79.5826239,2,Moon Valley Drive (504),a,Moon Valley Drive,27,11284168,219373504,Toronto,131268
-43.727267,-79.5847407,2,Joshua Avenue (074),a,Joshua Avenue,11,11284169,433904074,Toronto,131268
 43.727286,-79.5942912,2,Alicewood Court (820),a,Alicewood Court,72,11287453,219497820,Toronto,131268
 43.727286,-79.5942912,2,Alicewood Court (860),a,Alicewood Court,72,11287453,219497860,Toronto,131268
 43.727317,-79.6001428,2,Highway 27 (585),a,Highway 27,112,11280435,218846585,Toronto,131268
 43.727317,-79.6001428,2,Highway 27 (624),a,Highway 27,112,11280435,218846624,Toronto,131268
-43.7273235,-79.5827268,2,Moon Valley Drive (503),a,Moon Valley Drive,27,11284168,219373503,Toronto,131268
 43.7273297,-79.6219382,2,Humberwood Boulevard (633),a,Humberwood Boulevard,132,11284220,418041633,Toronto,131268
-43.7273589,-79.5847801,2,Joshua Avenue (073),a,Joshua Avenue,11,11284169,433904073,Toronto,131268
 43.727397,-79.6240736,2,Upper Humber Drive (529),a,Upper Humber Drive,21,11287733,334300529,Toronto,131268
 43.727431,-79.592126,2,Alicewood Court (826),a,Alicewood Court,72,11287453,219497826,Toronto,131268
 43.7274452,-79.621843,2,Humberwood Boulevard (696),a,Humberwood Boulevard,132,11284220,219375696,Toronto,131268
 43.7274452,-79.621843,2,Humberwood Boulevard (706),a,Humberwood Boulevard,132,11284220,219375706,Toronto,131268
 43.7274452,-79.621843,2,Upper Humber Drive (522),a,Upper Humber Drive,21,11287733,334300522,Toronto,131268
-43.727453,-79.5848022,2,Joshua Avenue (509),a,Joshua Avenue,11,11284169,219373509,Toronto,131268
 43.7274947,-79.621965,2,Upper Humber Drive (106),a,Upper Humber Drive,21,11287733,428571106,Toronto,131268
 43.7275109,-79.622005,2,Upper Humber Drive (523),a,Upper Humber Drive,21,11287733,334300523,Toronto,131268
-43.7275163,-79.586097,2,Moon Valley Drive (494),a,Moon Valley Drive,27,11284168,219373494,Toronto,131268
-43.7275205,-79.5847983,2,Joshua Avenue (076),a,Joshua Avenue,11,11284169,433904076,Toronto,131268
 43.7275631,-79.6235636,2,Upper Humber Drive (528),a,Upper Humber Drive,21,11287733,334300528,Toronto,131268
-43.727565,-79.5861112,2,Moon Valley Drive (069),a,Moon Valley Drive,27,11284168,433904069,Toronto,131268
 43.7275758,-79.6217107,2,Humberwood Boulevard (697),a,Humberwood Boulevard,132,11284220,219375697,Toronto,131268
-43.7275902,-79.5847782,2,Joshua Avenue (510),a,Joshua Avenue,11,11284169,219373510,Toronto,131268
-43.7275995,-79.5873787,2,Martin Grove Road (713),a,Martin Grove Road,703,11281251,218873713,Toronto,131268
-43.7275995,-79.5873787,2,Martin Grove Road (104),a,Martin Grove Road,703,11281251,218874104,Toronto,131268
 43.7276101,-79.5920473,2,Alicewood Court (827),a,Alicewood Court,72,11287453,219497827,Toronto,131268
-43.727613,-79.5861119,2,Moon Valley Drive (495),a,Moon Valley Drive,27,11284168,219373495,Toronto,131268
 43.7276289,-79.6232996,2,Upper Humber Drive (527),a,Upper Humber Drive,21,11287733,334300527,Toronto,131268
 43.7276532,-79.6224601,2,Upper Humber Drive (524),a,Upper Humber Drive,21,11287733,334300524,Toronto,131268
-43.7276552,-79.5861032,2,Moon Valley Drive (072),a,Moon Valley Drive,27,11284168,433904072,Toronto,131268
 43.727662,-79.6230654,2,Upper Humber Drive (526),a,Upper Humber Drive,21,11287733,334300526,Toronto,131268
 43.727689,-79.6227448,2,Upper Humber Drive (525),a,Upper Humber Drive,21,11287733,334300525,Toronto,131268
-43.7276969,-79.5860828,2,Moon Valley Drive (496),a,Moon Valley Drive,27,11284168,219373496,Toronto,131268
 43.7277232,-79.621521,2,Humberwood Boulevard (698),a,Humberwood Boulevard,132,11284220,219375698,Toronto,131268
-43.7277451,-79.5860479,2,Moon Valley Drive (071),a,Moon Valley Drive,27,11284168,433904071,Toronto,131268
-43.7277756,-79.5860137,2,Moon Valley Drive (070),a,Moon Valley Drive,27,11284168,433904070,Toronto,131268
-43.7277978,-79.5859712,2,Moon Valley Drive (497),a,Moon Valley Drive,27,11284168,219373497,Toronto,131268
-43.7278213,-79.5859162,2,Moon Valley Drive (066),a,Moon Valley Drive,27,11284168,433904066,Toronto,131268
-43.7278222,-79.5846573,2,Joshua Avenue (578),a,Joshua Avenue,11,11284169,438784578,Toronto,131268
 43.727866,-79.5945499,2,Turnvale Road (785),a,Turnvale Road,17,11287450,219497785,Toronto,131268
 43.727866,-79.5945499,2,Alicewood Court (821),a,Alicewood Court,72,11287453,219497821,Toronto,131268
 43.727866,-79.5945499,2,Alicewood Court (831),a,Alicewood Court,72,11287453,219497831,Toronto,131268
 43.7278678,-79.6003738,2,Highway 27 (625),a,Highway 27,112,11280435,218846625,Toronto,131268
 43.7278678,-79.6003738,2,Highway 27 (626),a,Highway 27,112,11280435,218846626,Toronto,131268
-43.727886,-79.5856538,2,Moon Valley Drive (068),a,Moon Valley Drive,27,11284168,433904068,Toronto,131268
-43.7278946,-79.5846196,2,Moon Valley Drive (501),a,Moon Valley Drive,27,11284168,219373501,Toronto,131268
-43.7278946,-79.5846196,2,Moon Valley Drive (502),a,Moon Valley Drive,27,11284168,219373502,Toronto,131268
-43.7278946,-79.5846196,2,Joshua Avenue (511),a,Joshua Avenue,11,11284169,219373511,Toronto,131268
 43.7279006,-79.5943901,2,Turnvale Road (250),a,Turnvale Road,17,11287450,391665250,Toronto,131268
 43.7279186,-79.5948772,2,Alicewood Court (870),a,Alicewood Court,72,11287453,219497870,Toronto,131268
-43.7279219,-79.584724,2,Moon Valley Drive (500),a,Moon Valley Drive,27,11284168,219373500,Toronto,131268
 43.7279284,-79.5949346,2,Alicewood Court (869),a,Alicewood Court,72,11287453,219497869,Toronto,131268
 43.7279396,-79.6067394,2,Great Hawk Road (705),a,Great Hawk Road,30,11284864,219397705,Toronto,131268
-43.72794,-79.585416,2,Moon Valley Drive (067),a,Moon Valley Drive,27,11284168,433904067,Toronto,131268
-43.7279441,-79.5848194,2,Moon Valley Drive (063),a,Moon Valley Drive,27,11284168,433904063,Toronto,131268
-43.7279606,-79.5849301,2,Moon Valley Drive (064),a,Moon Valley Drive,27,11284168,433904064,Toronto,131268
-43.7279608,-79.5852961,2,Moon Valley Drive (498),a,Moon Valley Drive,27,11284168,219373498,Toronto,131268
 43.7279672,-79.6065858,2,Great Hawk Road (706),a,Great Hawk Road,30,11284864,219397706,Toronto,131268
 43.7279678,-79.5945919,2,Alicewood Court (832),a,Alicewood Court,72,11287453,219497832,Toronto,131268
 43.7279678,-79.5945919,2,Alicewood Court (871),a,Alicewood Court,72,11287453,219497871,Toronto,131268
-43.7279701,-79.5851679,2,Moon Valley Drive (065),a,Moon Valley Drive,27,11284168,433904065,Toronto,131268
-43.7279702,-79.5850409,2,Moon Valley Drive (499),a,Moon Valley Drive,27,11284168,219373499,Toronto,131268
 43.7279916,-79.6071141,2,Great Hawk Road (704),a,Great Hawk Road,30,11284864,219397704,Toronto,131268
 43.7280273,-79.6211115,2,Humberwood Boulevard (694),a,Humberwood Boulevard,132,11284220,219375694,Toronto,131268
 43.7280273,-79.6211115,2,Humberwood Boulevard (699),a,Humberwood Boulevard,132,11284220,219375699,Toronto,131268
@@ -3030,8 +2353,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.728439,-79.59209,2,Lynmont Road (098),a,Lynmont Road,41,11287473,219498098,Toronto,131268
 43.7284527,-79.6006922,2,Highway 27 (681),a,Highway 27,112,11280435,218846681,Toronto,131268
 43.7284583,-79.6090727,2,Service Berry Ct (898),a,Service Berry Ct,9,23812487,555160898,Toronto,131268
-43.7284601,-79.587745,2,Martin Grove Road (714),a,Martin Grove Road,703,11281251,218873714,Toronto,131268
-43.7284601,-79.587745,2,Martin Grove Road (715),a,Martin Grove Road,703,11281251,218873715,Toronto,131268
 43.7284638,-79.6221992,2,Arborview Crescent (163),a,Arborview Crescent,11,11287738,219503163,Toronto,131268
 43.7284695,-79.5919381,2,Turnvale Road (775),a,Turnvale Road,17,11287450,219497775,Toronto,131268
 43.7284695,-79.5919381,2,Turnvale Road (788),a,Turnvale Road,17,11287450,219497788,Toronto,131268

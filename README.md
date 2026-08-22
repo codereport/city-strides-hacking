@@ -15,13 +15,18 @@
 }
 ```
 * Generate the above by doing the following:
-   * Go to www.citystrides.com (on Firefox)
-   * `Ctrl + Shift + I` to open the Web Developer Tools
-   * Choose a city on CityStrides, and click the "Show Nodes" button (a
-     subscription is required for node access)
-   * Copy the `GET` command using the `Copy Value` -> `Copy as Curl` 
-   * Paste the curl command to https://curlconverter.com/python/
-   * Your `cookies` can be found in the generated command
+   * Sign in at www.citystrides.com (on Firefox)
+   * `Ctrl + Shift + I` to open the Web Developer Tools and select **Network**
+   * Choose a city on CityStrides, click the **Node Hunter** magnifying glass
+     (a subscription is required), and select its `nodes.json` request
+   * Use **Copy Value** → **Copy as cURL**, then paste the command into
+     https://curlconverter.com/python/
+   * Copy the generated `cookies` dictionary into `cookies.json`
+
+CityStrides can expire or rotate browser sessions. If the downloader reports
+HTTP 401, repeat the steps above and replace `cookies.json`; authentication
+errors now stop immediately instead of retrying the same rejected request five
+times. The downloader keeps subsequent cookie updates for the entire refresh.
 
 3. Add a `parameters.yaml`. Example below.
 

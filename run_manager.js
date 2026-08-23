@@ -9,9 +9,11 @@
     .local-manager.error { border-color:#8f433a; background:#351d1a; color:#ffd0ca; }
     .run-card { display:grid; min-width:0; gap:8px; }
     .run-card .run { height:100%; }
-    .run-actions { display:grid; }
+    .run-actions { display:grid; grid-template-columns:minmax(0,3fr) minmax(0,1fr); gap:7px; }
     .run-actions button { border:1px solid #4b504a; border-radius:8px; padding:8px 10px; background:#171a18; color:#f6f3ea; font:inherit; font-weight:800; cursor:pointer; }
     .run-actions .complete { border-color:#709d3d; color:#b8ff55; }
+    .run-actions .trash { border-color:#606560; background:#303430; color:#d3d7d3; font-size:18px; line-height:1; }
+    .run-actions .trash:hover { border-color:#858b85; background:#3b403b; color:#fff; }
     .run-actions button:disabled { opacity:.45; cursor:wait; }
   `;
   document.head.append(style);
@@ -51,6 +53,27 @@
     }
   }
 
+  async function trashRun(filename) {
+    if (!confirm("Delete this upcoming run?")) return;
+    setBusy(true);
+    status.classList.remove("error");
+    status.textContent = "Deleting run…";
+    try {
+      const response = await fetch(`${apiRoot}/trash`, {
+        method: "POST",
+        headers: {"Content-Type": "text/plain;charset=UTF-8"},
+        body: JSON.stringify({filename}),
+      });
+      const body = await response.json();
+      if (!response.ok) throw new Error(body.error || response.statusText);
+      location.reload();
+    } catch (error) {
+      status.classList.add("error");
+      status.textContent = `Could not delete this run: ${error.message}. Start or restart the route planner server on port 8765.`;
+      setBusy(false);
+    }
+  }
+
   for (const link of [...document.querySelectorAll(".runs > .run")]) {
     const filename = decodeURIComponent(new URL(link.href).pathname.split("/").pop());
     const card = document.createElement("article");
@@ -59,12 +82,20 @@
     card.append(link);
     const actions = document.createElement("div");
     actions.className = "run-actions";
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "complete";
-    button.textContent = "Completed";
-    button.onclick = () => completeRun(filename);
-    actions.append(button);
+    const completeButton = document.createElement("button");
+    completeButton.type = "button";
+    completeButton.className = "complete";
+    completeButton.textContent = "Completed";
+    completeButton.onclick = () => completeRun(filename);
+    actions.append(completeButton);
+    const trashButton = document.createElement("button");
+    trashButton.type = "button";
+    trashButton.className = "trash";
+    trashButton.textContent = "×";
+    trashButton.title = "Delete run";
+    trashButton.setAttribute("aria-label", "Delete run");
+    trashButton.onclick = () => trashRun(filename);
+    actions.append(trashButton);
     card.append(actions);
   }
 })();

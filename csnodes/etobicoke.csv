@@ -223,12 +223,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6482081,-79.5966174,2,Centennial Park Boulevard (011),a,Centennial Park Boulevard,153,5412253,97413011,Etobicoke,38014
 43.6482086,-79.6056328,2,Rakely Court (297),a,Rakely Court,15,5413326,99031297,Etobicoke,38014
 43.6482472,-79.5967824,2,Centennial Park Boulevard (295),a,Centennial Park Boulevard,153,5412253,579922295,Etobicoke,38014
-43.6483084,-79.5487958,2,Martin Grove Road (817),a,Martin Grove Road,689,5411724,297386817,Etobicoke,38014
-43.6483084,-79.5487958,2,Martin Grove Road (823),a,Martin Grove Road,689,5411724,297386823,Etobicoke,38014
 43.6483211,-79.603048,2,Lone Oak Court (554),a,Lone Oak Court,10,5413328,99031554,Etobicoke,38014
 43.6483543,-79.6058306,2,Rakely Court (296),a,Rakely Court,15,5413326,99031296,Etobicoke,38014
 43.6483732,-79.583075,2,Warlingham Court (625),a,Warlingham Court,18,5413240,99001625,Etobicoke,38014
-43.6483819,-79.5488275,2,Martin Grove Road (288),a,Martin Grove Road,689,5411724,359577288,Etobicoke,38014
 43.6483937,-79.6029575,2,Lone Oak Court (555),a,Lone Oak Court,10,5413328,99031555,Etobicoke,38014
 43.648397,-79.5850419,2,Ivybridge Drive (949),a,Ivybridge Drive,10,5413237,99000949,Etobicoke,38014
 43.6484199,-79.5880476,2,Elmcrest Road (079),a,Elmcrest Road,21,5412254,97417079,Etobicoke,38014
@@ -454,8 +451,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6575833,-79.586883,2,Centennial Park Road (539),a,Centennial Park Road,27,5412249,97367539,Etobicoke,38014
 43.6576456,-79.5829977,2,Lafferty Street (878),a,Lafferty Street,11,5413413,99043878,Etobicoke,38014
 43.6576456,-79.5822837,2,Renforth Drive (348),a,Renforth Drive,326,5411505,579925348,Etobicoke,38014
-43.6577102,-79.5555256,2,Martin Grove Road (076),a,Martin Grove Road,689,5411724,93488076,Etobicoke,38014
-43.6577102,-79.5555256,2,Martin Grove Road (479),a,Martin Grove Road,689,5411724,93488479,Etobicoke,38014
 43.6577545,-79.5825357,2,Lafferty Street (225),a,Lafferty Street,11,5413413,579924225,Etobicoke,38014
 43.6577614,-79.5825027,2,Lafferty Street (226),a,Lafferty Street,11,5413413,579924226,Etobicoke,38014
 43.657778,-79.5859475,2,Lafferty Street (871),a,Lafferty Street,11,5413413,99043871,Etobicoke,38014
@@ -463,8 +458,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6577942,-79.5823511,2,Lafferty Street (227),a,Lafferty Street,11,5413413,579924227,Etobicoke,38014
 43.6579018,-79.5860512,2,Lafferty Street (868),a,Lafferty Street,11,5413413,99043868,Etobicoke,38014
 43.6579018,-79.5860512,2,Persimmon Court (581),a,Persimmon Court,2,5413415,99044581,Etobicoke,38014
-43.6579141,-79.5556272,2,Martin Grove Road (400),a,Martin Grove Road,689,5411724,93488400,Etobicoke,38014
-43.6579141,-79.5556272,2,Martin Grove Road (480),a,Martin Grove Road,689,5411724,93488480,Etobicoke,38014
 43.6579224,-79.5779386,2,Wellesworth Drive (725),a,Wellesworth Drive,80,5412252,97384725,Etobicoke,38014
 43.6579809,-79.5861119,2,Lafferty Street (866),a,Lafferty Street,11,5413413,99043866,Etobicoke,38014
 43.6580258,-79.5959782,2,Eglinton Avenue West (744),a,Eglinton Avenue West,299,5411523,406781744,Etobicoke,38014
@@ -480,8 +473,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6581839,-79.5783358,2,Wellesworth Drive (726),a,Wellesworth Drive,80,5412252,97384726,Etobicoke,38014
 43.6581931,-79.5842578,2,Newington Crescent (355),a,Newington Crescent,26,5413195,98980355,Etobicoke,38014
 43.6582293,-79.5842694,2,Newington Crescent (354),a,Newington Crescent,26,5413195,98980354,Etobicoke,38014
-43.6582516,-79.5557868,2,Martin Grove Road (401),a,Martin Grove Road,689,5411724,93488401,Etobicoke,38014
-43.6582516,-79.5557868,2,Martin Grove Road (402),a,Martin Grove Road,689,5411724,93488402,Etobicoke,38014
 43.6582732,-79.5834498,2,Newington Crescent (365),a,Newington Crescent,26,5413195,98980365,Etobicoke,38014
 43.6582741,-79.5835242,2,Newington Crescent (364),a,Newington Crescent,26,5413195,98980364,Etobicoke,38014
 43.6582817,-79.5834124,2,Newington Crescent (366),a,Newington Crescent,26,5413195,98980366,Etobicoke,38014
@@ -492,7 +483,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6584091,-79.5826309,2,Renforth Drive (346),a,Renforth Drive,326,5411505,579925346,Etobicoke,38014
 43.6584175,-79.5834712,2,Newington Crescent (370),a,Newington Crescent,26,5413195,98980370,Etobicoke,38014
 43.6584718,-79.5834948,2,Newington Crescent (371),a,Newington Crescent,26,5413195,98980371,Etobicoke,38014
-43.6585326,-79.5559064,2,Martin Grove Road (403),a,Martin Grove Road,689,5411724,93488403,Etobicoke,38014
 43.6585807,-79.5864686,2,Elmbrook Crescent (933),a,Elmbrook Crescent,51,5413194,98978933,Etobicoke,38014
 43.6585823,-79.586605,2,Elmbrook Crescent (932),a,Elmbrook Crescent,51,5413194,98978932,Etobicoke,38014
 43.6585884,-79.5863692,2,Elmbrook Crescent (934),a,Elmbrook Crescent,51,5413194,98978934,Etobicoke,38014
@@ -809,8 +799,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6647469,-79.5805441,2,Danish Crescent (970),a,Danish Crescent,32,5413176,98965970,Etobicoke,38014
 43.6648267,-79.580443,2,Danish Crescent (971),a,Danish Crescent,32,5413176,98965971,Etobicoke,38014
 43.6648757,-79.5818605,2,Wellesworth Drive (754),a,Wellesworth Drive,80,5412252,97384754,Etobicoke,38014
-43.6648808,-79.5588189,2,Martin Grove Road (411),a,Martin Grove Road,689,5411724,93488411,Etobicoke,38014
-43.6648808,-79.5588189,2,Martin Grove Road (478),a,Martin Grove Road,689,5411724,93488478,Etobicoke,38014
 43.6649104,-79.5856117,2,Renforth Drive (270),a,Renforth Drive,326,5411505,91779270,Etobicoke,38014
 43.6649104,-79.5856117,2,Renforth Drive (508),a,Renforth Drive,326,5411505,91779508,Etobicoke,38014
 43.6649104,-79.5856117,2,Gentian Drive (326),a,Gentian Drive,21,5413198,98981326,Etobicoke,38014
@@ -1068,24 +1056,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6712738,-79.5927117,2,Renforth Drive (104),a,Renforth Drive,326,5411505,560927104,Etobicoke,38014
 43.6712989,-79.5927265,2,Renforth Drive (102),a,Renforth Drive,326,5411505,560927102,Etobicoke,38014
 43.6720668,-79.5931781,2,Renforth Drive (103),a,Renforth Drive,326,5411505,560927103,Etobicoke,38014
-43.6751328,-79.5635045,2,Martin Grove Road (336),a,Martin Grove Road,689,5411724,93488336,Etobicoke,38014
-43.6751701,-79.5633836,2,Martin Grove Road (326),a,Martin Grove Road,689,5411724,93488326,Etobicoke,38014
-43.6752394,-79.5634797,2,Martin Grove Road (328),a,Martin Grove Road,689,5411724,93488328,Etobicoke,38014
-43.6752394,-79.5634797,2,Martin Grove Road (334),a,Martin Grove Road,689,5411724,93488334,Etobicoke,38014
-43.6752394,-79.5634797,2,Martin Grove Road (351),a,Martin Grove Road,689,5411724,93488351,Etobicoke,38014
-43.6754113,-79.5635556,2,Martin Grove Road (412),a,Martin Grove Road,689,5411724,560927412,Etobicoke,38014
-43.6754113,-79.5635556,2,Martin Grove Road (439),a,Martin Grove Road,689,5411724,560927439,Etobicoke,38014
-43.6755399,-79.5636085,2,Martin Grove Road (418),a,Martin Grove Road,689,5411724,560927418,Etobicoke,38014
-43.6755399,-79.5636085,2,Martin Grove Road (438),a,Martin Grove Road,689,5411724,560927438,Etobicoke,38014
-43.6757709,-79.5637161,2,Martin Grove Road (598),a,Martin Grove Road,689,5411724,93488598,Etobicoke,38014
-43.6757709,-79.5637161,2,Martin Grove Road (523),a,Martin Grove Road,689,5411724,579924523,Etobicoke,38014
-43.6761142,-79.563876,2,Martin Grove Road (599),a,Martin Grove Road,689,5411724,93488599,Etobicoke,38014
-43.6761142,-79.563876,2,Martin Grove Road (537),a,Martin Grove Road,689,5411724,579924537,Etobicoke,38014
 43.6761832,-79.5553375,2,Eglinton Avenue West (678),a,Eglinton Avenue West,299,5411523,436131678,Etobicoke,38014
-43.6763853,-79.5640022,2,Martin Grove Road (415),a,Martin Grove Road,689,5411724,560927415,Etobicoke,38014
-43.6763853,-79.5640022,2,Martin Grove Road (436),a,Martin Grove Road,689,5411724,560927436,Etobicoke,38014
-43.6765223,-79.564066,2,Martin Grove Road (550),a,Martin Grove Road,689,5411724,93488550,Etobicoke,38014
-43.676638,-79.5641199,2,Martin Grove Road (551),a,Martin Grove Road,689,5411724,93488551,Etobicoke,38014
 43.677253,-79.550673,2,Eglinton Avenue West (533),a,Eglinton Avenue West,299,5411523,415121533,Etobicoke,38014
 43.6774988,-79.5495879,2,Eglinton Avenue West (134),a,Eglinton Avenue West,299,5411523,92393134,Etobicoke,38014
 43.6774988,-79.5495879,2,Eglinton Avenue West (893),a,Eglinton Avenue West,299,5411523,579922893,Etobicoke,38014
@@ -1094,7 +1065,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6776226,-79.5490881,2,Eglinton Avenue West (313),a,Eglinton Avenue West,299,5411523,92393313,Etobicoke,38014
 43.6777212,-79.5486304,2,Eglinton Avenue West (312),a,Eglinton Avenue West,299,5411523,92393312,Etobicoke,38014
 43.6777212,-79.5486304,2,Eglinton Avenue West (895),a,Eglinton Avenue West,299,5411523,579922895,Etobicoke,38014
-43.6777303,-79.5645325,2,Martin Grove Road (460),a,Martin Grove Road,689,5411724,93488460,Etobicoke,38014
 43.6800855,-79.537784,2,Eglinton Avenue West (263),a,Eglinton Avenue West,299,5411523,92393263,Etobicoke,38014
 43.6800855,-79.537784,2,Eglinton Avenue West (888),a,Eglinton Avenue West,299,5411523,579922888,Etobicoke,38014
 43.6804587,-79.5359939,2,Eglinton Avenue West (449),a,Eglinton Avenue West,299,5411523,415121449,Etobicoke,38014
@@ -1106,45 +1076,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.6833759,-79.5199525,2,Eglinton Avenue West (889),a,Eglinton Avenue West,299,5411523,579922889,Etobicoke,38014
 43.6833955,-79.5194662,2,Eglinton Avenue West (033),a,Eglinton Avenue West,299,5411523,92393033,Etobicoke,38014
 43.683431,-79.5172536,2,Eglinton Avenue West (864),a,Eglinton Avenue West,299,5411523,579922864,Etobicoke,38014
-43.6837687,-79.5673876,2,Martin Grove Road (283),a,Martin Grove Road,689,5411724,93488283,Etobicoke,38014
-43.6837687,-79.5673876,2,Martin Grove Road (292),a,Martin Grove Road,689,5411724,93488292,Etobicoke,38014
-43.6838038,-79.5672453,2,Martin Grove Road (271),a,Martin Grove Road,689,5411724,93488271,Etobicoke,38014
-43.6838038,-79.5672453,2,Martin Grove Road (282),a,Martin Grove Road,689,5411724,93488282,Etobicoke,38014
-43.6840096,-79.5674825,2,Martin Grove Road (291),a,Martin Grove Road,689,5411724,93488291,Etobicoke,38014
-43.684044,-79.5673576,2,Martin Grove Road (273),a,Martin Grove Road,689,5411724,93488273,Etobicoke,38014
-43.6840866,-79.5674307,2,Martin Grove Road (275),a,Martin Grove Road,689,5411724,93488275,Etobicoke,38014
-43.6840866,-79.5674307,2,Martin Grove Road (290),a,Martin Grove Road,689,5411724,93488290,Etobicoke,38014
-43.6840866,-79.5674307,2,Martin Grove Road (297),a,Martin Grove Road,689,5411724,93488297,Etobicoke,38014
-43.6888733,-79.5696593,2,Martin Grove Road (032),a,Martin Grove Road,689,5411724,93488032,Etobicoke,38014
-43.6888733,-79.5696593,2,Martin Grove Road (447),a,Martin Grove Road,689,5411724,93488447,Etobicoke,38014
-43.6888733,-79.5696593,2,Martin Grove Road (450),a,Martin Grove Road,689,5411724,93488450,Etobicoke,38014
-43.689065,-79.5698024,2,Martin Grove Road (446),a,Martin Grove Road,689,5411724,93488446,Etobicoke,38014
-43.6891796,-79.5697201,2,Martin Grove Road (034),a,Martin Grove Road,689,5411724,93488034,Etobicoke,38014
-43.6895147,-79.5699996,2,Martin Grove Road (445),a,Martin Grove Road,689,5411724,93488445,Etobicoke,38014
-43.6906584,-79.5705149,2,Martin Grove Road (525),a,Martin Grove Road,689,5411724,425039525,Etobicoke,38014
-43.6907889,-79.5704279,2,Martin Grove Road (036),a,Martin Grove Road,689,5411724,93488036,Etobicoke,38014
-43.6907889,-79.5704279,2,Martin Grove Road (547),a,Martin Grove Road,689,5411724,93488547,Etobicoke,38014
-43.6910578,-79.5707062,2,Martin Grove Road (419),a,Martin Grove Road,689,5411724,93488419,Etobicoke,38014
-43.6910578,-79.5707062,2,Martin Grove Road (444),a,Martin Grove Road,689,5411724,93488444,Etobicoke,38014
-43.6911468,-79.5705869,2,Martin Grove Road (021),a,Martin Grove Road,689,5411724,93488021,Etobicoke,38014
-43.6911468,-79.5705869,2,Martin Grove Road (456),a,Martin Grove Road,689,5411724,93488456,Etobicoke,38014
-43.6911468,-79.5705869,2,Martin Grove Road (548),a,Martin Grove Road,689,5411724,93488548,Etobicoke,38014
-43.6911822,-79.5705752,2,Martin Grove Road (518),a,Martin Grove Road,689,5411724,425039518,Etobicoke,38014
-43.6913077,-79.5706235,2,Martin Grove Road (519),a,Martin Grove Road,689,5411724,425039519,Etobicoke,38014
-43.6914153,-79.5708761,2,Martin Grove Road (194),a,Martin Grove Road,689,5411724,409023194,Etobicoke,38014
-43.691438,-79.5708862,2,Martin Grove Road (521),a,Martin Grove Road,689,5411724,425039521,Etobicoke,38014
 43.6945688,-79.6064156,2,Indian Line (534),a,Indian Line,38,5412350,354100534,Etobicoke,38014
 43.6947665,-79.6065277,2,Indian Line (564),a,Indian Line,38,5412350,97898564,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (666),a,Highway 27,185,5411524,92429666,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (733),a,Highway 27,185,5411524,92429733,Etobicoke,38014
 43.7004671,-79.587642,2,Highway 27 (865),a,Highway 27,185,5411524,92429865,Etobicoke,38014
-43.70108,-79.5752275,2,Martin Grove Road (931),a,Martin Grove Road,689,5411724,488889931,Etobicoke,38014
-43.7014292,-79.5753897,2,Martin Grove Road (388),a,Martin Grove Road,689,5411724,93488388,Etobicoke,38014
-43.7014292,-79.5753897,2,Martin Grove Road (397),a,Martin Grove Road,689,5411724,93488397,Etobicoke,38014
-43.7014292,-79.5753897,2,Martin Grove Road (434),a,Martin Grove Road,689,5411724,93488434,Etobicoke,38014
-43.7015248,-79.5755104,2,Martin Grove Road (433),a,Martin Grove Road,689,5411724,93488433,Etobicoke,38014
-43.7015542,-79.5753645,2,Martin Grove Road (389),a,Martin Grove Road,689,5411724,93488389,Etobicoke,38014
-43.7017459,-79.5754411,2,Martin Grove Road (261),a,Martin Grove Road,689,5411724,530240261,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (708),a,Highway 27,185,5411524,92429708,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (715),a,Highway 27,185,5411524,92429715,Etobicoke,38014
 43.7041834,-79.5894225,2,Highway 27 (734),a,Highway 27,185,5411524,92429734,Etobicoke,38014
@@ -1164,12 +1100,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7184551,-79.5963319,2,Highway 27 (919),a,Highway 27,185,5411524,92429919,Etobicoke,38014
 43.719134,-79.5963842,2,Highway 27 (784),a,Highway 27,185,5411524,92429784,Etobicoke,38014
 43.7226191,-79.5981506,2,Highway 27 (678),a,Highway 27,185,5411524,92429678,Etobicoke,38014
-43.7302976,-79.6055945,2,Humber College Boulevard (640),a,Humber College Boulevard,163,5412011,96191640,Etobicoke,38014
-43.7302976,-79.6055945,2,Humber College Boulevard (688),a,Humber College Boulevard,163,5412011,96191688,Etobicoke,38014
-43.7307124,-79.6067255,2,Humber College Boulevard (686),a,Humber College Boulevard,163,5412011,96191686,Etobicoke,38014
-43.7308114,-79.6066568,2,Humber College Boulevard (656),a,Humber College Boulevard,163,5412011,96191656,Etobicoke,38014
-43.7308943,-79.6068807,2,Humber College Boulevard (658),a,Humber College Boulevard,163,5412011,96191658,Etobicoke,38014
-43.7308943,-79.6068807,2,Humber College Boulevard (681),a,Humber College Boulevard,163,5412011,96191681,Etobicoke,38014
 43.7319981,-79.6181076,2,Viewcrest Circle (896),a,Viewcrest Circle,21,5412029,96342896,Etobicoke,38014
 43.7322426,-79.6184273,2,Viewcrest Circle (897),a,Viewcrest Circle,21,5412029,96342897,Etobicoke,38014
 43.7322426,-79.6184273,2,Viewcrest Circle (907),a,Viewcrest Circle,21,5412029,96342907,Etobicoke,38014
@@ -1208,13 +1138,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7340972,-79.6278745,2,Finch Avenue West (217),a,Finch Avenue West,425,5411507,91853217,Etobicoke,38014
 43.7340972,-79.6278745,2,Finch Avenue West (218),a,Finch Avenue West,425,5411507,91853218,Etobicoke,38014
 43.7341049,-79.6273659,2,Finch Avenue West (541),a,Finch Avenue West,425,5411507,328756541,Etobicoke,38014
-43.7341272,-79.6066057,2,Woodbine Downs Boulevard (949),a,Woodbine Downs Boulevard,33,5412519,98512949,Etobicoke,38014
 43.7342143,-79.6267977,2,Finch Avenue West (231),a,Finch Avenue West,425,5411507,91853231,Etobicoke,38014
 43.7342143,-79.6267977,2,Finch Avenue West (587),a,Finch Avenue West,425,5411507,91853587,Etobicoke,38014
 43.7342258,-79.6272167,2,Finch Avenue West (488),a,Finch Avenue West,425,5411507,328756488,Etobicoke,38014
-43.7342603,-79.609954,2,Humber College Boulevard (627),a,Humber College Boulevard,163,5412011,425039627,Etobicoke,38014
-43.7342674,-79.6098006,2,Humber College Boulevard (628),a,Humber College Boulevard,163,5412011,425039628,Etobicoke,38014
-43.734283,-79.6099486,2,Humber College Boulevard (626),a,Humber College Boulevard,163,5412011,425039626,Etobicoke,38014
 43.7343016,-79.6268148,2,Finch Avenue West (216),a,Finch Avenue West,425,5411507,91853216,Etobicoke,38014
 43.7343016,-79.6268148,2,Finch Avenue West (543),a,Finch Avenue West,425,5411507,91853543,Etobicoke,38014
 43.7343524,-79.617926,2,Humberline Drive (618),a,Humberline Drive,135,5411997,425039618,Etobicoke,38014
@@ -1233,13 +1159,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7345659,-79.6254407,2,Finch Avenue West (194),a,Finch Avenue West,425,5411507,425039194,Etobicoke,38014
 43.7345735,-79.6254015,2,Finch Avenue West (193),a,Finch Avenue West,425,5411507,425039193,Etobicoke,38014
 43.7346429,-79.6245783,2,Finch Avenue West (121),a,Finch Avenue West,425,5411507,425039121,Etobicoke,38014
-43.7346623,-79.6097181,2,Humber College Boulevard (567),a,Humber College Boulevard,163,5412011,96191567,Etobicoke,38014
-43.7346786,-79.6098641,2,Humber College Boulevard (562),a,Humber College Boulevard,163,5412011,96191562,Etobicoke,38014
-43.7346837,-79.6064831,2,Woodbine Downs Boulevard (950),a,Woodbine Downs Boulevard,33,5412519,98512950,Etobicoke,38014
 43.7347336,-79.6241131,2,Finch Avenue West (228),a,Finch Avenue West,425,5411507,91853228,Etobicoke,38014
-43.7347884,-79.6097569,2,Humber College Boulevard (570),a,Humber College Boulevard,163,5412011,96191570,Etobicoke,38014
-43.7347884,-79.6097569,2,Humber College Boulevard (657),a,Humber College Boulevard,163,5412011,579923657,Etobicoke,38014
-43.7347884,-79.6097569,2,Humber College Boulevard (658),a,Humber College Boulevard,163,5412011,579923658,Etobicoke,38014
 43.7348141,-79.6241595,2,Finch Avenue West (246),a,Finch Avenue West,425,5411507,91853246,Etobicoke,38014
 43.7348141,-79.6241595,2,Finch Avenue West (585),a,Finch Avenue West,425,5411507,91853585,Etobicoke,38014
 43.7348219,-79.6236676,2,Finch Avenue West (229),a,Finch Avenue West,425,5411507,91853229,Etobicoke,38014
@@ -1248,17 +1168,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.734896,-79.623714,2,Finch Avenue West (244),a,Finch Avenue West,425,5411507,91853244,Etobicoke,38014
 43.7349577,-79.6229646,2,Finch Avenue West (233),a,Finch Avenue West,425,5411507,91853233,Etobicoke,38014
 43.7349577,-79.6229646,2,Finch Avenue West (014),a,Finch Avenue West,425,5411507,579923014,Etobicoke,38014
-43.7349646,-79.6097365,2,Humber College Boulevard (571),a,Humber College Boulevard,163,5412011,96191571,Etobicoke,38014
 43.7349675,-79.6036011,2,Highway 27 (518),a,Highway 27,185,5411524,579923518,Etobicoke,38014
-43.7349704,-79.6064249,2,Woodbine Downs Boulevard (951),a,Woodbine Downs Boulevard,33,5412519,98512951,Etobicoke,38014
 43.7350309,-79.6230121,2,Finch Avenue West (242),a,Finch Avenue West,425,5411507,91853242,Etobicoke,38014
 43.7350309,-79.6230121,2,Finch Avenue West (255),a,Finch Avenue West,425,5411507,91853255,Etobicoke,38014
 43.7350823,-79.622301,2,Finch Avenue West (132),a,Finch Avenue West,425,5411507,425039132,Etobicoke,38014
 43.7351086,-79.6221616,2,Finch Avenue West (236),a,Finch Avenue West,425,5411507,91853236,Etobicoke,38014
-43.7351335,-79.6012066,2,Westmore Drive (400),a,Westmore Drive,76,5412426,579926400,Etobicoke,38014
 43.7351374,-79.6219816,2,Finch Avenue West (131),a,Finch Avenue West,425,5411507,425039131,Etobicoke,38014
 43.7351498,-79.621907,2,Finch Avenue West (130),a,Finch Avenue West,425,5411507,425039130,Etobicoke,38014
-43.7351521,-79.6011373,2,Westmore Drive (403),a,Westmore Drive,76,5412426,579926403,Etobicoke,38014
 43.7351647,-79.6177556,2,Humberline Drive (617),a,Humberline Drive,135,5411997,425039617,Etobicoke,38014
 43.7351762,-79.6195447,2,Finch Avenue West (239),a,Finch Avenue West,425,5411507,91853239,Etobicoke,38014
 43.7351762,-79.6195447,2,Finch Avenue West (147),a,Finch Avenue West,425,5411507,579923147,Etobicoke,38014
@@ -1266,15 +1182,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7351787,-79.6217122,2,Finch Avenue West (129),a,Finch Avenue West,425,5411507,425039129,Etobicoke,38014
 43.7351828,-79.6179069,2,Humberline Drive (610),a,Humberline Drive,135,5411997,425039610,Etobicoke,38014
 43.7351865,-79.6177503,2,Humberline Drive (615),a,Humberline Drive,135,5411997,425039615,Etobicoke,38014
-43.7351876,-79.6097266,2,Humber College Boulevard (572),a,Humber College Boulevard,163,5412011,96191572,Etobicoke,38014
-43.7351917,-79.6011964,2,Westmore Drive (381),a,Westmore Drive,76,5412426,579926381,Etobicoke,38014
-43.7351917,-79.6011964,2,Westmore Drive (399),a,Westmore Drive,76,5412426,579926399,Etobicoke,38014
-43.7351917,-79.6011964,2,Westmore Drive (404),a,Westmore Drive,76,5412426,579926404,Etobicoke,38014
 43.7351989,-79.6215447,2,Finch Avenue West (128),a,Finch Avenue West,425,5411507,425039128,Etobicoke,38014
 43.7352065,-79.6221929,2,Finch Avenue West (254),a,Finch Avenue West,425,5411507,91853254,Etobicoke,38014
 43.7352072,-79.6179005,2,Humberline Drive (608),a,Humberline Drive,135,5411997,425039608,Etobicoke,38014
 43.7352119,-79.6198674,2,Finch Avenue West (124),a,Finch Avenue West,425,5411507,425039124,Etobicoke,38014
-43.7352239,-79.609725,2,Humber College Boulevard (573),a,Humber College Boulevard,163,5412011,96191573,Etobicoke,38014
 43.7352241,-79.6213026,2,Finch Avenue West (237),a,Finch Avenue West,425,5411507,91853237,Etobicoke,38014
 43.7352325,-79.6201412,2,Finch Avenue West (123),a,Finch Avenue West,425,5411507,425039123,Etobicoke,38014
 43.7352331,-79.6191001,2,Finch Avenue West (104),a,Finch Avenue West,425,5411507,415121104,Etobicoke,38014
@@ -1283,12 +1194,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7352444,-79.6203672,2,Finch Avenue West (496),a,Finch Avenue West,425,5411507,490816496,Etobicoke,38014
 43.735245,-79.6203796,2,Finch Avenue West (238),a,Finch Avenue West,425,5411507,91853238,Etobicoke,38014
 43.7352476,-79.620821,2,Finch Avenue West (125),a,Finch Avenue West,425,5411507,425039125,Etobicoke,38014
-43.7352491,-79.6012237,2,Westmore Drive (382),a,Westmore Drive,76,5412426,579926382,Etobicoke,38014
 43.7352496,-79.6205946,2,Finch Avenue West (126),a,Finch Avenue West,425,5411507,425039126,Etobicoke,38014
 43.7352671,-79.6193957,2,Finch Avenue West (145),a,Finch Avenue West,425,5411507,425039145,Etobicoke,38014
 43.7352764,-79.6217836,2,Finch Avenue West (253),a,Finch Avenue West,425,5411507,91853253,Etobicoke,38014
 43.7352903,-79.6196094,2,Finch Avenue West (144),a,Finch Avenue West,425,5411507,425039144,Etobicoke,38014
-43.7352914,-79.6063467,2,Woodbine Downs Boulevard (952),a,Woodbine Downs Boulevard,33,5412519,98512952,Etobicoke,38014
 43.7353028,-79.621569,2,Finch Avenue West (136),a,Finch Avenue West,425,5411507,425039136,Etobicoke,38014
 43.7353125,-79.6198259,2,Finch Avenue West (143),a,Finch Avenue West,425,5411507,425039143,Etobicoke,38014
 43.7353244,-79.6213518,2,Finch Avenue West (137),a,Finch Avenue West,425,5411507,425039137,Etobicoke,38014
@@ -1299,83 +1208,33 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7353494,-79.6209179,2,Finch Avenue West (139),a,Finch Avenue West,425,5411507,425039139,Etobicoke,38014
 43.7353531,-79.62048,2,Finch Avenue West (252),a,Finch Avenue West,425,5411507,91853252,Etobicoke,38014
 43.735354,-79.6206971,2,Finch Avenue West (140),a,Finch Avenue West,425,5411507,425039140,Etobicoke,38014
-43.735359,-79.6097326,2,Humber College Boulevard (574),a,Humber College Boulevard,163,5412011,96191574,Etobicoke,38014
 43.7354159,-79.6178483,2,Humberline Drive (609),a,Humberline Drive,135,5411997,425039609,Etobicoke,38014
 43.7354232,-79.6176923,2,Humberline Drive (616),a,Humberline Drive,135,5411997,425039616,Etobicoke,38014
 43.7354393,-79.6302442,2,Indian Line (045),a,Indian Line,38,5412350,473889045,Etobicoke,38014
-43.7354662,-79.6063228,2,Woodbine Downs Boulevard (953),a,Woodbine Downs Boulevard,33,5412519,98512953,Etobicoke,38014
-43.7354727,-79.6013269,2,Westmore Drive (383),a,Westmore Drive,76,5412426,579926383,Etobicoke,38014
-43.7355158,-79.6097572,2,Humber College Boulevard (575),a,Humber College Boulevard,163,5412011,96191575,Etobicoke,38014
-43.7355405,-79.5973333,2,Finch Avenue West (153),a,Finch Avenue West,425,5411507,579923153,Etobicoke,38014
 43.7355535,-79.6038653,2,Highway 27 (511),a,Highway 27,185,5411524,579923511,Etobicoke,38014
 43.7355535,-79.6038653,2,Highway 27 (517),a,Highway 27,185,5411524,579923517,Etobicoke,38014
-43.7355794,-79.6097674,2,Humber College Boulevard (576),a,Humber College Boulevard,163,5412011,96191576,Etobicoke,38014
-43.7356414,-79.6014012,2,Westmore Drive (384),a,Westmore Drive,76,5412426,579926384,Etobicoke,38014
 43.7356485,-79.617646,2,Humberline Drive (935),a,Humberline Drive,135,5411997,96072935,Etobicoke,38014
-43.7356489,-79.596287,2,Finch Avenue West (120),a,Finch Avenue West,425,5411507,579923120,Etobicoke,38014
-43.7356489,-79.596287,2,Finch Avenue West (236),a,Finch Avenue West,425,5411507,579923236,Etobicoke,38014
-43.7356784,-79.606329,2,Woodbine Downs Boulevard (954),a,Woodbine Downs Boulevard,33,5412519,98512954,Etobicoke,38014
-43.735715,-79.6098139,2,Humber College Boulevard (577),a,Humber College Boulevard,163,5412011,96191577,Etobicoke,38014
 43.7357151,-79.6303722,2,Indian Line (599),a,Indian Line,38,5412350,97898599,Etobicoke,38014
 43.7357151,-79.6303722,2,Indian Line (764),a,Indian Line,38,5412350,579923764,Etobicoke,38014
 43.7357296,-79.6177321,2,Humberline Drive (774),a,Humberline Drive,135,5411997,96072774,Etobicoke,38014
-43.735751,-79.5964259,2,Finch Avenue West (152),a,Finch Avenue West,425,5411507,579923152,Etobicoke,38014
-43.7357598,-79.6098334,2,Humber College Boulevard (119),a,Humber College Boulevard,163,5412011,429969119,Etobicoke,38014
-43.73579,-79.6063601,2,Woodbine Downs Boulevard (957),a,Woodbine Downs Boulevard,33,5412519,98512957,Etobicoke,38014
 43.7358623,-79.6176425,2,Humberline Drive (771),a,Humberline Drive,135,5411997,96072771,Etobicoke,38014
 43.7358623,-79.6176425,2,Humberline Drive (786),a,Humberline Drive,135,5411997,96072786,Etobicoke,38014
 43.7358623,-79.6176425,2,Humberline Drive (938),a,Humberline Drive,135,5411997,96072938,Etobicoke,38014
-43.7358779,-79.6098847,2,Humber College Boulevard (578),a,Humber College Boulevard,163,5412011,96191578,Etobicoke,38014
-43.7358803,-79.6063828,2,Woodbine Downs Boulevard (958),a,Woodbine Downs Boulevard,33,5412519,98512958,Etobicoke,38014
 43.7359044,-79.6304637,2,Indian Line (601),a,Indian Line,38,5412350,97898601,Etobicoke,38014
-43.7359356,-79.5956757,2,Finch Avenue West (151),a,Finch Avenue West,425,5411507,579923151,Etobicoke,38014
-43.7359932,-79.6015487,2,Westmore Drive (385),a,Westmore Drive,76,5412426,579926385,Etobicoke,38014
-43.7360068,-79.6064171,2,Woodbine Downs Boulevard (959),a,Woodbine Downs Boulevard,33,5412519,98512959,Etobicoke,38014
 43.7360633,-79.6305106,2,Indian Line (602),a,Indian Line,38,5412350,97898602,Etobicoke,38014
-43.73611,-79.6015995,2,Westmore Drive (386),a,Westmore Drive,76,5412426,579926386,Etobicoke,38014
-43.7361111,-79.6099867,2,Humber College Boulevard (579),a,Humber College Boulevard,163,5412011,96191579,Etobicoke,38014
-43.7362159,-79.6016456,2,Westmore Drive (387),a,Westmore Drive,76,5412426,579926387,Etobicoke,38014
-43.736247,-79.6016591,2,Westmore Drive (388),a,Westmore Drive,76,5412426,579926388,Etobicoke,38014
 43.7362591,-79.6175803,2,Humberline Drive (789),a,Humberline Drive,135,5411997,96072789,Etobicoke,38014
-43.7362667,-79.6100548,2,Humber College Boulevard (121),a,Humber College Boulevard,163,5412011,429969121,Etobicoke,38014
 43.7363055,-79.6304945,2,Indian Line (604),a,Indian Line,38,5412350,97898604,Etobicoke,38014
-43.7363503,-79.6100914,2,Humber College Boulevard (120),a,Humber College Boulevard,163,5412011,429969120,Etobicoke,38014
-43.7363572,-79.6065725,2,Woodbine Downs Boulevard (960),a,Woodbine Downs Boulevard,33,5412519,98512960,Etobicoke,38014
 43.7363889,-79.6176,2,Humberline Drive (110),a,Humberline Drive,135,5411997,415121110,Etobicoke,38014
-43.7363935,-79.6065886,2,Woodbine Downs Boulevard (961),a,Woodbine Downs Boulevard,33,5412519,98512961,Etobicoke,38014
-43.7364224,-79.6017354,2,Westmore Drive (389),a,Westmore Drive,76,5412426,579926389,Etobicoke,38014
-43.7364653,-79.6066204,2,Woodbine Downs Boulevard (163),a,Woodbine Downs Boulevard,33,5412519,429969163,Etobicoke,38014
-43.7364676,-79.5950797,2,Silverstone Drive (740),a,Silverstone Drive,212,5412425,579925740,Etobicoke,38014
-43.7364676,-79.5950797,2,Silverstone Drive (751),a,Silverstone Drive,212,5412425,579925751,Etobicoke,38014
 43.7364819,-79.6304637,2,Indian Line (606),a,Indian Line,38,5412350,97898606,Etobicoke,38014
 43.7366088,-79.6304181,2,Indian Line (608),a,Indian Line,38,5412350,97898608,Etobicoke,38014
 43.7366809,-79.6176422,2,Humberline Drive (307),a,Humberline Drive,135,5411997,411734307,Etobicoke,38014
 43.7367118,-79.6176489,2,Humberline Drive (792),a,Humberline Drive,135,5411997,96072792,Etobicoke,38014
-43.7367575,-79.5986013,2,Avening Drive (326),a,Avening Drive,32,5412441,335002326,Etobicoke,38014
-43.7367581,-79.5986509,2,Avening Drive (325),a,Avening Drive,32,5412441,335002325,Etobicoke,38014
-43.7367677,-79.5987004,2,Avening Drive (324),a,Avening Drive,32,5412441,335002324,Etobicoke,38014
-43.7367751,-79.5985636,2,Avening Drive (327),a,Avening Drive,32,5412441,335002327,Etobicoke,38014
-43.736792,-79.5984763,2,Avening Drive (328),a,Avening Drive,32,5412441,335002328,Etobicoke,38014
-43.7368042,-79.5987368,2,Avening Drive (323),a,Avening Drive,32,5412441,335002323,Etobicoke,38014
-43.7368271,-79.5984009,2,Avening Drive (329),a,Avening Drive,32,5412441,335002329,Etobicoke,38014
-43.7368365,-79.6103041,2,Humber College Boulevard (580),a,Humber College Boulevard,163,5412011,96191580,Etobicoke,38014
-43.7368365,-79.6103041,2,Humber College Boulevard (659),a,Humber College Boulevard,163,5412011,96191659,Etobicoke,38014
-43.7368675,-79.5987601,2,Avening Drive (322),a,Avening Drive,32,5412441,335002322,Etobicoke,38014
 43.7369134,-79.6302733,2,Indian Line (557),a,Indian Line,38,5412350,97898557,Etobicoke,38014
 43.7369134,-79.6302733,2,Indian Line (610),a,Indian Line,38,5412350,97898610,Etobicoke,38014
 43.7369224,-79.604454,2,Highway 27 (510),a,Highway 27,185,5411524,579923510,Etobicoke,38014
-43.736939,-79.6019568,2,Westmore Drive (390),a,Westmore Drive,76,5412426,579926390,Etobicoke,38014
-43.7369398,-79.5987833,2,Avening Drive (321),a,Avening Drive,32,5412441,335002321,Etobicoke,38014
-43.7370045,-79.6068553,2,Woodbine Downs Boulevard (574),a,Woodbine Downs Boulevard,33,5412519,500090574,Etobicoke,38014
-43.737012,-79.598794,2,Avening Drive (320),a,Avening Drive,32,5412441,335002320,Etobicoke,38014
-43.7370709,-79.6068842,2,Woodbine Downs Boulevard (576),a,Woodbine Downs Boulevard,33,5412519,500090576,Etobicoke,38014
-43.7371023,-79.5988167,2,Avening Drive (319),a,Avening Drive,32,5412441,335002319,Etobicoke,38014
 43.7371684,-79.6178426,2,Humberline Drive (795),a,Humberline Drive,135,5411997,96072795,Etobicoke,38014
-43.7371909,-79.5953748,2,Silverstone Drive (464),a,Silverstone Drive,212,5412425,98300464,Etobicoke,38014
 43.73727,-79.6220263,2,Claireville Drive (218),a,Claireville Drive,56,5411998,96083218,Etobicoke,38014
-43.737286,-79.6021065,2,Westmore Drive (391),a,Westmore Drive,76,5412426,579926391,Etobicoke,38014
 43.7372948,-79.6223954,2,Claireville Drive (214),a,Claireville Drive,56,5411998,96083214,Etobicoke,38014
-43.7372962,-79.6069846,2,Woodbine Downs Boulevard (563),a,Woodbine Downs Boulevard,33,5412519,579926563,Etobicoke,38014
 43.7373218,-79.6225098,2,Claireville Drive (663),a,Claireville Drive,56,5411998,490816663,Etobicoke,38014
 43.7373382,-79.6215457,2,Claireville Drive (222),a,Claireville Drive,56,5411998,96083222,Etobicoke,38014
 43.7373385,-79.6225806,2,Claireville Drive (211),a,Claireville Drive,56,5411998,96083211,Etobicoke,38014
@@ -1386,672 +1245,118 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7374199,-79.6211983,2,Claireville Drive (594),a,Claireville Drive,56,5411998,389741594,Etobicoke,38014
 43.7374669,-79.6209987,2,Claireville Drive (562),a,Claireville Drive,56,5411998,500090562,Etobicoke,38014
 43.7374779,-79.6229533,2,Claireville Drive (203),a,Claireville Drive,56,5411998,96083203,Etobicoke,38014
-43.7374816,-79.5956149,2,Avening Drive (330),a,Avening Drive,32,5412441,335002330,Etobicoke,38014
-43.7374864,-79.5955951,2,Avening Drive (840),a,Avening Drive,32,5412441,579921840,Etobicoke,38014
-43.7375117,-79.5954915,2,Silverstone Drive (466),a,Silverstone Drive,212,5412425,98300466,Etobicoke,38014
-43.7375117,-79.5954915,2,Silverstone Drive (472),a,Silverstone Drive,212,5412425,98300472,Etobicoke,38014
-43.7375117,-79.5954915,2,Avening Drive (538),a,Avening Drive,32,5412441,98370538,Etobicoke,38014
-43.7375391,-79.6022081,2,Westmore Drive (392),a,Westmore Drive,76,5412426,579926392,Etobicoke,38014
 43.7375437,-79.6230572,2,Claireville Drive (201),a,Claireville Drive,56,5411998,96083201,Etobicoke,38014
-43.7375838,-79.607113,2,Woodbine Downs Boulevard (575),a,Woodbine Downs Boulevard,33,5412519,500090575,Etobicoke,38014
-43.7375875,-79.595517,2,Silverstone Drive (741),a,Silverstone Drive,212,5412425,579925741,Etobicoke,38014
 43.7376037,-79.6204173,2,Claireville Drive (597),a,Claireville Drive,56,5411998,389741597,Etobicoke,38014
 43.7376184,-79.6231448,2,Claireville Drive (197),a,Claireville Drive,56,5411998,96083197,Etobicoke,38014
 43.7376919,-79.6200424,2,Claireville Drive (662),a,Claireville Drive,56,5411998,490816662,Etobicoke,38014
 43.73772,-79.6180926,2,Humberline Drive (779),a,Humberline Drive,135,5411997,497595779,Etobicoke,38014
 43.7377234,-79.6199086,2,Claireville Drive (309),a,Claireville Drive,56,5411998,431997309,Etobicoke,38014
 43.7377278,-79.6048168,2,Highway 27 (509),a,Highway 27,185,5411524,579923509,Etobicoke,38014
-43.737741,-79.6113069,2,Carrier Drive (821),a,Carrier Drive,141,5412431,98326821,Etobicoke,38014
-43.7377426,-79.6114434,2,Carrier Drive (822),a,Carrier Drive,141,5412431,98326822,Etobicoke,38014
-43.7377469,-79.5955854,2,Silverstone Drive (476),a,Silverstone Drive,212,5412425,98300476,Etobicoke,38014
-43.7377535,-79.611535,2,Carrier Drive (265),a,Carrier Drive,141,5412431,579922265,Etobicoke,38014
-43.737757,-79.6111451,2,Carrier Drive (820),a,Carrier Drive,141,5412431,98326820,Etobicoke,38014
-43.7377651,-79.6110704,2,Carrier Drive (819),a,Carrier Drive,141,5412431,98326819,Etobicoke,38014
-43.7377661,-79.5978823,2,Banda Square (507),a,Banda Square,19,5412491,98475507,Etobicoke,38014
-43.7377776,-79.6116561,2,Carrier Drive (266),a,Carrier Drive,141,5412431,579922266,Etobicoke,38014
-43.7377919,-79.5977824,2,Banda Square (508),a,Banda Square,19,5412491,98475508,Etobicoke,38014
-43.7377944,-79.597981,2,Banda Square (506),a,Banda Square,19,5412491,98475506,Etobicoke,38014
-43.7378049,-79.6117682,2,Carrier Drive (267),a,Carrier Drive,141,5412431,579922267,Etobicoke,38014
 43.7378123,-79.6181342,2,Humberline Drive (650),a,Humberline Drive,135,5411997,490816650,Etobicoke,38014
-43.737827,-79.597707,2,Banda Square (509),a,Banda Square,19,5412491,98475509,Etobicoke,38014
 43.7378296,-79.6233479,2,Claireville Drive (194),a,Claireville Drive,56,5411998,96083194,Etobicoke,38014
-43.7378334,-79.6107583,2,Humber College Boulevard (661),a,Humber College Boulevard,163,5412011,96191661,Etobicoke,38014
-43.7378334,-79.6107583,2,Carrier Drive (815),a,Carrier Drive,141,5412431,98326815,Etobicoke,38014
-43.7378334,-79.6107583,2,Carrier Drive (818),a,Carrier Drive,141,5412431,98326818,Etobicoke,38014
-43.7378472,-79.6119005,2,Carrier Drive (826),a,Carrier Drive,141,5412431,98326826,Etobicoke,38014
-43.7378761,-79.5980412,2,Banda Square (505),a,Banda Square,19,5412491,98475505,Etobicoke,38014
-43.7378787,-79.5956442,2,Silverstone Drive (478),a,Silverstone Drive,212,5412425,98300478,Etobicoke,38014
-43.7379001,-79.610486,2,Carrier Drive (018),a,Carrier Drive,141,5412431,389742018,Etobicoke,38014
-43.7379037,-79.6072571,2,Woodbine Downs Boulevard (564),a,Woodbine Downs Boulevard,33,5412519,579926564,Etobicoke,38014
-43.7379209,-79.6120354,2,Carrier Drive (827),a,Carrier Drive,141,5412431,98326827,Etobicoke,38014
-43.7379575,-79.5980641,2,Banda Square (504),a,Banda Square,19,5412491,98475504,Etobicoke,38014
-43.7379637,-79.5971077,2,Banda Square (511),a,Banda Square,19,5412491,98475511,Etobicoke,38014
-43.7379648,-79.5971946,2,Banda Square (510),a,Banda Square,19,5412491,98475510,Etobicoke,38014
-43.7379807,-79.5970204,2,Banda Square (512),a,Banda Square,19,5412491,98475512,Etobicoke,38014
-43.737985,-79.6121208,2,Carrier Drive (828),a,Carrier Drive,141,5412431,98326828,Etobicoke,38014
-43.7380157,-79.5969451,2,Banda Square (513),a,Banda Square,19,5412491,98475513,Etobicoke,38014
-43.7380263,-79.609971,2,Carrier Drive (019),a,Carrier Drive,141,5412431,389742019,Etobicoke,38014
-43.7380386,-79.5980746,2,Banda Square (503),a,Banda Square,19,5412491,98475503,Etobicoke,38014
-43.7380582,-79.6122185,2,Carrier Drive (829),a,Carrier Drive,141,5412431,98326829,Etobicoke,38014
 43.7380595,-79.6184801,2,Claireville Drive (225),a,Claireville Drive,56,5411998,96083225,Etobicoke,38014
-43.7380605,-79.6024414,2,Westmore Drive (393),a,Westmore Drive,76,5412426,579926393,Etobicoke,38014
-43.7380606,-79.5969316,2,Banda Square (514),a,Banda Square,19,5412491,98475514,Etobicoke,38014
 43.7380834,-79.6183785,2,Claireville Drive (229),a,Claireville Drive,56,5411998,96083229,Etobicoke,38014
-43.738091,-79.5957388,2,Silverstone Drive (480),a,Silverstone Drive,212,5412425,98300480,Etobicoke,38014
-43.7381063,-79.6073483,2,Woodbine Downs Boulevard (565),a,Woodbine Downs Boulevard,33,5412519,579926565,Etobicoke,38014
 43.7381165,-79.6182709,2,Humberline Drive (798),a,Humberline Drive,135,5411997,96072798,Etobicoke,38014
 43.7381165,-79.6182709,2,Humberline Drive (963),a,Humberline Drive,135,5411997,96072963,Etobicoke,38014
 43.7381165,-79.6182709,2,Claireville Drive (231),a,Claireville Drive,56,5411998,96083231,Etobicoke,38014
-43.7381239,-79.596955,2,Banda Square (515),a,Banda Square,19,5412491,98475515,Etobicoke,38014
-43.738149,-79.6122785,2,Carrier Drive (830),a,Carrier Drive,141,5412431,98326830,Etobicoke,38014
-43.7381725,-79.6024884,2,Westmore Drive (394),a,Westmore Drive,76,5412426,579926394,Etobicoke,38014
-43.7381823,-79.6093345,2,Carrier Drive (572),a,Carrier Drive,141,5412431,500090572,Etobicoke,38014
-43.7381965,-79.597003,2,Banda Square (516),a,Banda Square,19,5412491,98475516,Etobicoke,38014
-43.7382033,-79.6123021,2,Carrier Drive (831),a,Carrier Drive,141,5412431,98326831,Etobicoke,38014
-43.7382158,-79.6091978,2,Carrier Drive (816),a,Carrier Drive,141,5412431,98326816,Etobicoke,38014
-43.7382411,-79.6090944,2,Carrier Drive (020),a,Carrier Drive,141,5412431,389742020,Etobicoke,38014
-43.7382508,-79.5970265,2,Banda Square (517),a,Banda Square,19,5412491,98475517,Etobicoke,38014
 43.7382666,-79.6183407,2,Humberline Drive (306),a,Humberline Drive,135,5411997,431997306,Etobicoke,38014
 43.7382928,-79.6237724,2,Claireville Drive (664),a,Claireville Drive,56,5411998,490816664,Etobicoke,38014
-43.7382973,-79.5993477,2,Avening Drive (318),a,Avening Drive,32,5412441,335002318,Etobicoke,38014
-43.7382973,-79.5993477,2,Midhurst Drive (208),a,Midhurst Drive,7,5412448,98397208,Etobicoke,38014
-43.7383247,-79.5992263,2,Midhurst Drive (698),a,Midhurst Drive,7,5412448,425039698,Etobicoke,38014
-43.7384018,-79.6123919,2,Carrier Drive (032),a,Carrier Drive,141,5412431,389742032,Etobicoke,38014
-43.7384516,-79.6082358,2,Carrier Drive (021),a,Carrier Drive,141,5412431,389742021,Etobicoke,38014
-43.7384736,-79.5982599,2,Banda Square (399),a,Banda Square,19,5412491,530240399,Etobicoke,38014
-43.7385101,-79.6075275,2,Woodbine Downs Boulevard (577),a,Woodbine Downs Boulevard,33,5412519,500090577,Etobicoke,38014
-43.7385364,-79.5982866,2,Midhurst Drive (209),a,Midhurst Drive,7,5412448,98397209,Etobicoke,38014
-43.7385364,-79.5982866,2,Banda Square (502),a,Banda Square,19,5412491,98475502,Etobicoke,38014
-43.7385862,-79.6076867,2,Carrier Drive (264),a,Carrier Drive,141,5412431,579922264,Etobicoke,38014
-43.7386139,-79.6075736,2,Carrier Drive (812),a,Carrier Drive,141,5412431,98326812,Etobicoke,38014
-43.7386139,-79.6075736,2,Carrier Drive (817),a,Carrier Drive,141,5412431,98326817,Etobicoke,38014
-43.7386139,-79.6075736,2,Woodbine Downs Boulevard (942),a,Woodbine Downs Boulevard,33,5412519,98512942,Etobicoke,38014
-43.7386139,-79.6075736,2,Woodbine Downs Boulevard (965),a,Woodbine Downs Boulevard,33,5412519,98512965,Etobicoke,38014
 43.7386459,-79.6240959,2,Claireville Drive (191),a,Claireville Drive,56,5411998,96083191,Etobicoke,38014
-43.7386507,-79.6074172,2,Carrier Drive (263),a,Carrier Drive,141,5412431,579922263,Etobicoke,38014
-43.7387065,-79.6076148,2,Woodbine Downs Boulevard (562),a,Woodbine Downs Boulevard,33,5412519,579926562,Etobicoke,38014
-43.7387066,-79.5972043,2,Banda Square (398),a,Banda Square,19,5412491,530240398,Etobicoke,38014
-43.7387714,-79.6027563,2,Westmore Drive (395),a,Westmore Drive,76,5412426,579926395,Etobicoke,38014
-43.7387844,-79.5972347,2,Midhurst Drive (300),a,Midhurst Drive,7,5412448,335002300,Etobicoke,38014
-43.7387844,-79.5972347,2,Banda Square (518),a,Banda Square,19,5412491,98475518,Etobicoke,38014
-43.7388295,-79.6066565,2,Carrier Drive (813),a,Carrier Drive,141,5412431,98326813,Etobicoke,38014
-43.7388724,-79.6028019,2,Westmore Drive (396),a,Westmore Drive,76,5412426,579926396,Etobicoke,38014
-43.738894,-79.6063821,2,Carrier Drive (017),a,Carrier Drive,141,5412431,389742017,Etobicoke,38014
-43.7389155,-79.6061227,2,Carrier Drive (248),a,Carrier Drive,141,5412431,579922248,Etobicoke,38014
-43.738919,-79.6126258,2,Carrier Drive (700),a,Carrier Drive,141,5412431,490816700,Etobicoke,38014
-43.7389221,-79.6062626,2,Carrier Drive (789),a,Carrier Drive,141,5412431,98326789,Etobicoke,38014
-43.7389221,-79.6062626,2,Carrier Drive (803),a,Carrier Drive,141,5412431,98326803,Etobicoke,38014
-43.7389221,-79.6062626,2,Carrier Drive (814),a,Carrier Drive,141,5412431,98326814,Etobicoke,38014
-43.7389828,-79.6053822,2,Highway 27 (508),a,Highway 27,185,5411524,579923508,Etobicoke,38014
-43.7389996,-79.6061443,2,Carrier Drive (256),a,Carrier Drive,141,5412431,579922256,Etobicoke,38014
-43.7390002,-79.5963023,2,Midhurst Drive (947),a,Midhurst Drive,7,5412448,432527947,Etobicoke,38014
-43.739007,-79.5962733,2,Midhurst Drive (948),a,Midhurst Drive,7,5412448,432527948,Etobicoke,38014
 43.7390266,-79.629298,2,Indian Line (593),a,Indian Line,38,5412350,97898593,Etobicoke,38014
-43.7390326,-79.5961638,2,Silverstone Drive (340),a,Silverstone Drive,212,5412425,98300340,Etobicoke,38014
-43.7390326,-79.5961638,2,Silverstone Drive (481),a,Silverstone Drive,212,5412425,98300481,Etobicoke,38014
-43.7390326,-79.5961638,2,Midhurst Drive (301),a,Midhurst Drive,7,5412448,335002301,Etobicoke,38014
-43.7390525,-79.6055484,2,Carrier Drive (249),a,Carrier Drive,141,5412431,579922249,Etobicoke,38014
-43.7390758,-79.5996897,2,Duntroon Crescent (288),a,Duntroon Crescent,17,5412435,98340288,Etobicoke,38014
-43.7390758,-79.5996897,2,Avening Drive (317),a,Avening Drive,32,5412441,335002317,Etobicoke,38014
-43.7390835,-79.6054275,2,Highway 27 (507),a,Highway 27,185,5411524,579923507,Etobicoke,38014
-43.7390835,-79.6054275,2,Carrier Drive (250),a,Carrier Drive,141,5412431,579922250,Etobicoke,38014
-43.7390835,-79.6054275,2,Carrier Drive (261),a,Carrier Drive,141,5412431,579922261,Etobicoke,38014
 43.7390952,-79.6245076,2,Claireville Drive (188),a,Claireville Drive,56,5411998,96083188,Etobicoke,38014
-43.7391163,-79.6052699,2,Carrier Drive (258),a,Carrier Drive,141,5412431,579922258,Etobicoke,38014
-43.7391163,-79.6052699,2,Carrier Drive (262),a,Carrier Drive,141,5412431,579922262,Etobicoke,38014
-43.7391184,-79.5995062,2,Duntroon Crescent (687),a,Duntroon Crescent,17,5412435,425039687,Etobicoke,38014
 43.7391236,-79.6187388,2,Humberline Drive (305),a,Humberline Drive,135,5411997,431997305,Etobicoke,38014
-43.7391331,-79.6055827,2,Carrier Drive (255),a,Carrier Drive,141,5412431,579922255,Etobicoke,38014
-43.7391409,-79.6051475,2,Carrier Drive (259),a,Carrier Drive,141,5412431,579922259,Etobicoke,38014
-43.7391628,-79.6054576,2,Highway 27 (506),a,Highway 27,185,5411524,579923506,Etobicoke,38014
-43.7391628,-79.6054576,2,Carrier Drive (254),a,Carrier Drive,141,5412431,579922254,Etobicoke,38014
-43.7391628,-79.6054576,2,Carrier Drive (257),a,Carrier Drive,141,5412431,579922257,Etobicoke,38014
-43.7391895,-79.6053001,2,Carrier Drive (799),a,Carrier Drive,141,5412431,98326799,Etobicoke,38014
-43.7391895,-79.6053001,2,Carrier Drive (804),a,Carrier Drive,141,5412431,98326804,Etobicoke,38014
-43.7392159,-79.605178,2,Carrier Drive (253),a,Carrier Drive,141,5412431,579922253,Etobicoke,38014
 43.739221,-79.6187841,2,Humberline Drive (304),a,Humberline Drive,135,5411997,431997304,Etobicoke,38014
 43.7392299,-79.6292136,2,Indian Line (592),a,Indian Line,38,5412350,97898592,Etobicoke,38014
-43.739261,-79.6046566,2,Carrier Drive (260),a,Carrier Drive,141,5412431,579922260,Etobicoke,38014
-43.7392715,-79.6078667,2,Woodbine Downs Boulevard (943),a,Woodbine Downs Boulevard,33,5412519,98512943,Etobicoke,38014
-43.739278,-79.6049106,2,Carrier Drive (252),a,Carrier Drive,141,5412431,579922252,Etobicoke,38014
-43.739278,-79.6049106,2,Carrier Drive (272),a,Carrier Drive,141,5412431,579922272,Etobicoke,38014
 43.7393091,-79.629183,2,Indian Line (590),a,Indian Line,38,5412350,97898590,Etobicoke,38014
-43.7393244,-79.6045519,2,Carrier Drive (794),a,Carrier Drive,141,5412431,98326794,Etobicoke,38014
-43.7393244,-79.6045519,2,Carrier Drive (809),a,Carrier Drive,141,5412431,98326809,Etobicoke,38014
-43.7393244,-79.6045519,2,Carrier Drive (270),a,Carrier Drive,141,5412431,579922270,Etobicoke,38014
-43.7393359,-79.6046613,2,Carrier Drive (271),a,Carrier Drive,141,5412431,579922271,Etobicoke,38014
 43.7393783,-79.6188571,2,Humberline Drive (302),a,Humberline Drive,135,5411997,431997302,Etobicoke,38014
 43.7394045,-79.6291659,2,Indian Line (587),a,Indian Line,38,5412350,97898587,Etobicoke,38014
-43.7394094,-79.5982538,2,Duntroon Crescent (289),a,Duntroon Crescent,17,5412435,98340289,Etobicoke,38014
 43.7394125,-79.6247599,2,Claireville Drive (185),a,Claireville Drive,56,5411998,96083185,Etobicoke,38014
-43.739421,-79.6030402,2,Westmore Drive (938),a,Westmore Drive,76,5412426,432527938,Etobicoke,38014
-43.7394282,-79.6079365,2,Woodbine Downs Boulevard (034),a,Woodbine Downs Boulevard,33,5412519,389742034,Etobicoke,38014
-43.7394315,-79.6040694,2,Carrier Drive (682),a,Carrier Drive,141,5412431,425039682,Etobicoke,38014
-43.7394678,-79.6128765,2,Carrier Drive (898),a,Carrier Drive,141,5412431,497595898,Etobicoke,38014
-43.739469,-79.5979792,2,Duntroon Crescent (290),a,Duntroon Crescent,17,5412435,98340290,Etobicoke,38014
-43.7394733,-79.6079566,2,Woodbine Downs Boulevard (944),a,Woodbine Downs Boulevard,33,5412519,98512944,Etobicoke,38014
-43.739477,-79.5978921,2,Duntroon Crescent (291),a,Duntroon Crescent,17,5412435,98340291,Etobicoke,38014
-43.7394921,-79.6037966,2,Carrier Drive (049),a,Carrier Drive,141,5412431,297394049,Etobicoke,38014
-43.7395026,-79.5977797,2,Duntroon Crescent (292),a,Duntroon Crescent,17,5412435,98340292,Etobicoke,38014
 43.7395252,-79.6248375,2,Claireville Drive (182),a,Claireville Drive,56,5411998,96083182,Etobicoke,38014
 43.7395254,-79.6292774,2,Indian Line (586),a,Indian Line,38,5412350,97898586,Etobicoke,38014
-43.7395379,-79.5977168,2,Duntroon Crescent (293),a,Duntroon Crescent,17,5412435,98340293,Etobicoke,38014
-43.7395635,-79.6129173,2,Carrier Drive (033),a,Carrier Drive,141,5412431,389742033,Etobicoke,38014
-43.7395675,-79.5963844,2,Silverstone Drive (122),a,Silverstone Drive,212,5412425,415121122,Etobicoke,38014
-43.7396027,-79.5963989,2,Silverstone Drive (341),a,Silverstone Drive,212,5412425,98300341,Etobicoke,38014
-43.7396097,-79.5977027,2,Duntroon Crescent (294),a,Duntroon Crescent,17,5412435,98340294,Etobicoke,38014
-43.7396126,-79.6032541,2,Carrier Drive (251),a,Carrier Drive,141,5412431,579922251,Etobicoke,38014
-43.7396397,-79.6031321,2,Westmore Drive (397),a,Westmore Drive,76,5412426,98302397,Etobicoke,38014
-43.7396397,-79.6031321,2,Westmore Drive (432),a,Westmore Drive,76,5412426,98302432,Etobicoke,38014
-43.7396397,-79.6031321,2,Carrier Drive (795),a,Carrier Drive,141,5412431,98326795,Etobicoke,38014
-43.7396622,-79.5930675,2,Martin Grove Road (113),a,Martin Grove Road,689,5411724,93488113,Etobicoke,38014
 43.7396697,-79.6293401,2,Indian Line (584),a,Indian Line,38,5412350,97898584,Etobicoke,38014
-43.7396912,-79.597738,2,Duntroon Crescent (295),a,Duntroon Crescent,17,5412435,98340295,Etobicoke,38014
-43.7397096,-79.5999729,2,Avening Drive (316),a,Avening Drive,32,5412441,335002316,Etobicoke,38014
-43.7397425,-79.6129983,2,Carrier Drive (051),a,Carrier Drive,141,5412431,297394051,Etobicoke,38014
-43.7397425,-79.6129983,2,Carrier Drive (052),a,Carrier Drive,141,5412431,297394052,Etobicoke,38014
-43.7397635,-79.5977612,2,Duntroon Crescent (296),a,Duntroon Crescent,17,5412435,98340296,Etobicoke,38014
-43.7397822,-79.6000209,2,Avening Drive (315),a,Avening Drive,32,5412441,335002315,Etobicoke,38014
-43.7397967,-79.6130228,2,Carrier Drive (120),a,Carrier Drive,141,5412431,473889120,Etobicoke,38014
-43.7398291,-79.5965053,2,Silverstone Drive (342),a,Silverstone Drive,212,5412425,98300342,Etobicoke,38014
-43.7398452,-79.6000194,2,Avening Drive (314),a,Avening Drive,32,5412441,335002314,Etobicoke,38014
-43.7398543,-79.5978212,2,Duntroon Crescent (297),a,Duntroon Crescent,17,5412435,98340297,Etobicoke,38014
-43.7398983,-79.5999437,2,Avening Drive (313),a,Avening Drive,32,5412441,335002313,Etobicoke,38014
-43.7399149,-79.5998315,2,Avening Drive (312),a,Avening Drive,32,5412441,335002312,Etobicoke,38014
-43.7399226,-79.5997196,2,Avening Drive (311),a,Avening Drive,32,5412441,335002311,Etobicoke,38014
-43.7399235,-79.5965475,2,Silverstone Drive (123),a,Silverstone Drive,212,5412425,415121123,Etobicoke,38014
-43.739954,-79.5978809,2,Duntroon Crescent (298),a,Duntroon Crescent,17,5412435,98340298,Etobicoke,38014
 43.7399635,-79.619129,2,Humberline Drive (307),a,Humberline Drive,135,5411997,431997307,Etobicoke,38014
-43.7399944,-79.6032996,2,Westmore Drive (935),a,Westmore Drive,76,5412426,432527935,Etobicoke,38014
 43.7400211,-79.6250774,2,Claireville Drive (179),a,Claireville Drive,56,5411998,96083179,Etobicoke,38014
-43.7400268,-79.5979413,2,Duntroon Crescent (299),a,Duntroon Crescent,17,5412435,98340299,Etobicoke,38014
-43.7400909,-79.5980267,2,Duntroon Crescent (300),a,Duntroon Crescent,17,5412435,98340300,Etobicoke,38014
-43.7401027,-79.6033507,2,Westmore Drive (914),a,Westmore Drive,76,5412426,420187914,Etobicoke,38014
 43.7401129,-79.6294114,2,Indian Line (581),a,Indian Line,38,5412350,97898581,Etobicoke,38014
 43.740124,-79.6251259,2,Claireville Drive (176),a,Claireville Drive,56,5411998,96083176,Etobicoke,38014
-43.7401368,-79.5981002,2,Duntroon Crescent (301),a,Duntroon Crescent,17,5412435,98340301,Etobicoke,38014
-43.740146,-79.596647,2,Silverstone Drive (343),a,Silverstone Drive,212,5412425,98300343,Etobicoke,38014
-43.7401511,-79.6131812,2,Carrier Drive (053),a,Carrier Drive,141,5412431,297394053,Etobicoke,38014
-43.7401542,-79.5987828,2,Avening Drive (310),a,Avening Drive,32,5412441,335002310,Etobicoke,38014
 43.7401825,-79.6251476,2,Claireville Drive (174),a,Claireville Drive,56,5411998,96083174,Etobicoke,38014
-43.7402059,-79.5985953,2,Avening Drive (309),a,Avening Drive,32,5412441,335002309,Etobicoke,38014
-43.7402107,-79.6034017,2,Westmore Drive (968),a,Westmore Drive,76,5412426,297393968,Etobicoke,38014
-43.7402386,-79.5982435,2,Duntroon Crescent (686),a,Duntroon Crescent,17,5412435,425039686,Etobicoke,38014
-43.7402404,-79.5984703,2,Avening Drive (308),a,Avening Drive,32,5412441,335002308,Etobicoke,38014
 43.7402597,-79.5839458,2,Albion Road (577),a,Albion Road,533,5411854,497595577,Etobicoke,38014
 43.7402597,-79.5839458,2,Albion Road (582),a,Albion Road,533,5411854,497595582,Etobicoke,38014
 43.7402639,-79.6192686,2,Humberline Drive (308),a,Humberline Drive,135,5411997,431997308,Etobicoke,38014
 43.7402676,-79.5840038,2,Albion Road (581),a,Albion Road,533,5411854,497595581,Etobicoke,38014
 43.7403012,-79.6252016,2,Claireville Drive (171),a,Claireville Drive,56,5411998,96083171,Etobicoke,38014
-43.7403017,-79.5983323,2,Duntroon Crescent (302),a,Duntroon Crescent,17,5412435,98340302,Etobicoke,38014
-43.7403017,-79.5983323,2,Avening Drive (307),a,Avening Drive,32,5412441,335002307,Etobicoke,38014
-43.7403184,-79.5967547,2,Silverstone Drive (344),a,Silverstone Drive,212,5412425,98300344,Etobicoke,38014
-43.7403184,-79.5967547,2,Silverstone Drive (443),a,Silverstone Drive,212,5412425,98300443,Etobicoke,38014
-43.7403184,-79.5967547,2,Charnleigh Court (718),a,Charnleigh Court,4,5412466,98432718,Etobicoke,38014
 43.7403296,-79.6192991,2,Humberline Drive (303),a,Humberline Drive,135,5411997,431997303,Etobicoke,38014
-43.7403458,-79.5982568,2,Avening Drive (306),a,Avening Drive,32,5412441,335002306,Etobicoke,38014
-43.7403496,-79.5934382,2,Martin Grove Road (114),a,Martin Grove Road,689,5411724,93488114,Etobicoke,38014
-43.7403531,-79.6132715,2,Carrier Drive (054),a,Carrier Drive,141,5412431,297394054,Etobicoke,38014
-43.7403883,-79.5965792,2,Charnleigh Court (721),a,Charnleigh Court,4,5412466,98432721,Etobicoke,38014
-43.7403991,-79.5981934,2,Avening Drive (305),a,Avening Drive,32,5412441,335002305,Etobicoke,38014
-43.7404002,-79.5968149,2,Silverstone Drive (444),a,Silverstone Drive,212,5412425,98300444,Etobicoke,38014
-43.7404239,-79.6083803,2,Woodbine Downs Boulevard (035),a,Woodbine Downs Boulevard,33,5412519,389742035,Etobicoke,38014
 43.7404432,-79.6252626,2,Claireville Drive (682),a,Claireville Drive,56,5411998,297388682,Etobicoke,38014
 43.7404645,-79.6193612,2,Humberline Drive (654),a,Humberline Drive,135,5411997,490816654,Etobicoke,38014
-43.7404653,-79.6083988,2,Woodbine Downs Boulevard (945),a,Woodbine Downs Boulevard,33,5412519,98512945,Etobicoke,38014
-43.7404729,-79.5968753,2,Silverstone Drive (445),a,Silverstone Drive,212,5412425,98300445,Etobicoke,38014
-43.740564,-79.5969601,2,Silverstone Drive (446),a,Silverstone Drive,212,5412425,98300446,Etobicoke,38014
-43.7405925,-79.603582,2,Westmore Drive (969),a,Westmore Drive,76,5412426,297393969,Etobicoke,38014
-43.740612,-79.5935438,2,Martin Grove Road (115),a,Martin Grove Road,689,5411724,93488115,Etobicoke,38014
-43.740612,-79.5935438,2,Martin Grove Road (116),a,Martin Grove Road,689,5411724,93488116,Etobicoke,38014
-43.7406181,-79.6084669,2,Woodbine Downs Boulevard (036),a,Woodbine Downs Boulevard,33,5412519,389742036,Etobicoke,38014
-43.7406318,-79.6002867,2,Elmvale Crescent (873),a,Elmvale Crescent,31,5412446,98393873,Etobicoke,38014
-43.7406401,-79.5958282,2,Charnleigh Court (724),a,Charnleigh Court,4,5412466,98432724,Etobicoke,38014
-43.7406488,-79.6001994,2,Elmvale Crescent (872),a,Elmvale Crescent,31,5412446,98393872,Etobicoke,38014
-43.7406506,-79.6003484,2,Elmvale Crescent (874),a,Elmvale Crescent,31,5412446,98393874,Etobicoke,38014
-43.7406554,-79.5970697,2,Silverstone Drive (447),a,Silverstone Drive,212,5412425,98300447,Etobicoke,38014
-43.7406835,-79.6000993,2,Elmvale Crescent (871),a,Elmvale Crescent,31,5412446,98393871,Etobicoke,38014
-43.7407052,-79.6003968,2,Elmvale Crescent (875),a,Elmvale Crescent,31,5412446,98393875,Etobicoke,38014
-43.7407093,-79.5999993,2,Elmvale Crescent (870),a,Elmvale Crescent,31,5412446,98393870,Etobicoke,38014
-43.7407276,-79.595615,2,Charnleigh Court (725),a,Charnleigh Court,4,5412466,98432725,Etobicoke,38014
-43.7407293,-79.6036466,2,Westmore Drive (915),a,Westmore Drive,76,5412426,420187915,Etobicoke,38014
-43.7407446,-79.5977383,2,Avening Drive (304),a,Avening Drive,32,5412441,335002304,Etobicoke,38014
-43.7407468,-79.5971794,2,Silverstone Drive (448),a,Silverstone Drive,212,5412425,98300448,Etobicoke,38014
-43.7407775,-79.60042,2,Elmvale Crescent (876),a,Elmvale Crescent,31,5412446,98393876,Etobicoke,38014
 43.7407921,-79.6195122,2,Humberline Drive (651),a,Humberline Drive,135,5411997,490816651,Etobicoke,38014
-43.7408156,-79.6134783,2,Carrier Drive (055),a,Carrier Drive,141,5412431,297394055,Etobicoke,38014
-43.7408475,-79.5973136,2,Silverstone Drive (449),a,Silverstone Drive,212,5412425,98300449,Etobicoke,38014
-43.7408566,-79.5936623,2,Martin Grove Road (117),a,Martin Grove Road,689,5411724,93488117,Etobicoke,38014
-43.7408566,-79.5936623,2,Martin Grove Road (133),a,Martin Grove Road,689,5411724,93488133,Etobicoke,38014
-43.7408813,-79.5975838,2,Avening Drive (704),a,Avening Drive,32,5412441,425039704,Etobicoke,38014
-43.7408892,-79.59925,2,Elmvale Crescent (869),a,Elmvale Crescent,31,5412446,98393869,Etobicoke,38014
-43.7409231,-79.5990753,2,Elmvale Crescent (868),a,Elmvale Crescent,31,5412446,98393868,Etobicoke,38014
-43.7409358,-79.6086085,2,Woodbine Downs Boulevard (037),a,Woodbine Downs Boulevard,33,5412519,389742037,Etobicoke,38014
-43.7409578,-79.5974973,2,Silverstone Drive (376),a,Silverstone Drive,212,5412425,98300376,Etobicoke,38014
-43.7409578,-79.5974973,2,Silverstone Drive (450),a,Silverstone Drive,212,5412425,98300450,Etobicoke,38014
-43.7409578,-79.5974973,2,Avening Drive (303),a,Avening Drive,32,5412441,335002303,Etobicoke,38014
-43.7409844,-79.5989373,2,Elmvale Crescent (867),a,Elmvale Crescent,31,5412446,98393867,Etobicoke,38014
-43.741062,-79.6038037,2,Westmore Drive (398),a,Westmore Drive,76,5412426,98302398,Etobicoke,38014
-43.7410674,-79.5937702,2,Martin Grove Road (936),a,Martin Grove Road,689,5411724,420187936,Etobicoke,38014
-43.7410729,-79.598811,2,Elmvale Crescent (866),a,Elmvale Crescent,31,5412446,98393866,Etobicoke,38014
-43.7411301,-79.6038259,2,Westmore Drive (916),a,Westmore Drive,76,5412426,420187916,Etobicoke,38014
-43.7411518,-79.5898547,2,Albion Road (946),a,Albion Road,533,5411854,95054946,Etobicoke,38014
-43.7411526,-79.6136289,2,Carrier Drive (056),a,Carrier Drive,141,5412431,297394056,Etobicoke,38014
-43.7411768,-79.5938262,2,Martin Grove Road (409),a,Martin Grove Road,689,5411724,560927409,Etobicoke,38014
-43.7411768,-79.5938262,2,Martin Grove Road (420),a,Martin Grove Road,689,5411724,560927420,Etobicoke,38014
-43.741185,-79.6006092,2,Elmvale Crescent (877),a,Elmvale Crescent,31,5412446,98393877,Etobicoke,38014
-43.7411868,-79.5978149,2,Silverstone Drive (378),a,Silverstone Drive,212,5412425,98300378,Etobicoke,38014
-43.7411868,-79.5978149,2,Silverstone Drive (380),a,Silverstone Drive,212,5412425,98300380,Etobicoke,38014
-43.7411868,-79.5978149,2,Litchfield Court (254),a,Litchfield Court,11,5412467,98434254,Etobicoke,38014
 43.7411896,-79.6196987,2,Humberline Drive (652),a,Humberline Drive,135,5411997,490816652,Etobicoke,38014
 43.7411975,-79.6255862,2,Claireville Drive (681),a,Claireville Drive,56,5411998,297388681,Etobicoke,38014
-43.7412066,-79.5986962,2,Elmvale Crescent (865),a,Elmvale Crescent,31,5412446,98393865,Etobicoke,38014
-43.7412161,-79.5894399,2,Albion Road (662),a,Albion Road,533,5411854,579921662,Etobicoke,38014
-43.7412353,-79.5938562,2,Martin Grove Road (419),a,Martin Grove Road,689,5411724,560927419,Etobicoke,38014
-43.7412575,-79.6006447,2,Elmvale Crescent (878),a,Elmvale Crescent,31,5412446,98393878,Etobicoke,38014
-43.7412647,-79.589015,2,Finch Avenue West (035),a,Finch Avenue West,425,5411507,579923035,Etobicoke,38014
-43.7412749,-79.5898179,2,Albion Road (663),a,Albion Road,533,5411854,579921663,Etobicoke,38014
-43.7412789,-79.5979866,2,Silverstone Drive (381),a,Silverstone Drive,212,5412425,98300381,Etobicoke,38014
-43.7412841,-79.5899662,2,Albion Road (664),a,Albion Road,533,5411854,579921664,Etobicoke,38014
-43.7412852,-79.5977052,2,Litchfield Court (689),a,Litchfield Court,11,5412467,425039689,Etobicoke,38014
-43.7412936,-79.6039042,2,Westmore Drive (399),a,Westmore Drive,76,5412426,98302399,Etobicoke,38014
-43.7413012,-79.5903073,2,Albion Road (644),a,Albion Road,533,5411854,579921644,Etobicoke,38014
-43.7413012,-79.5903073,2,Albion Road (665),a,Albion Road,533,5411854,579921665,Etobicoke,38014
-43.7413012,-79.5903073,2,Albion Road (720),a,Albion Road,533,5411854,579921720,Etobicoke,38014
-43.7413055,-79.5892567,2,Finch Avenue West (082),a,Finch Avenue West,425,5411507,579923082,Etobicoke,38014
-43.7413118,-79.6006683,2,Elmvale Crescent (879),a,Elmvale Crescent,31,5412446,98393879,Etobicoke,38014
-43.7413231,-79.5986562,2,Elmvale Crescent (864),a,Elmvale Crescent,31,5412446,98393864,Etobicoke,38014
-43.7413299,-79.5976554,2,Litchfield Court (255),a,Litchfield Court,11,5412467,98434255,Etobicoke,38014
-43.7413302,-79.6007051,2,Elmvale Crescent (880),a,Elmvale Crescent,31,5412446,98393880,Etobicoke,38014
-43.7413338,-79.5980598,2,Silverstone Drive (382),a,Silverstone Drive,212,5412425,98300382,Etobicoke,38014
-43.741334,-79.5905071,2,Albion Road (641),a,Albion Road,533,5411854,579921641,Etobicoke,38014
-43.741334,-79.5905071,2,Albion Road (721),a,Albion Road,533,5411854,579921721,Etobicoke,38014
-43.7413359,-79.5939077,2,Martin Grove Road (421),a,Martin Grove Road,689,5411724,560927421,Etobicoke,38014
-43.7413359,-79.5939077,2,Martin Grove Road (422),a,Martin Grove Road,689,5411724,560927422,Etobicoke,38014
-43.7413419,-79.6137147,2,Carrier Drive (759),a,Carrier Drive,141,5412431,361412759,Etobicoke,38014
-43.7413574,-79.6007169,2,Elmvale Crescent (881),a,Elmvale Crescent,31,5412446,98393881,Etobicoke,38014
-43.7413691,-79.5907213,2,Albion Road (926),a,Albion Road,533,5411854,95054926,Etobicoke,38014
-43.7413691,-79.5907213,2,Albion Road (701),a,Albion Road,533,5411854,579921701,Etobicoke,38014
-43.7413854,-79.5908192,2,Albion Road (973),a,Albion Road,533,5411854,95054973,Etobicoke,38014
-43.7413854,-79.5908192,2,Albion Road (702),a,Albion Road,533,5411854,579921702,Etobicoke,38014
-43.7413932,-79.6007037,2,Elmvale Crescent (882),a,Elmvale Crescent,31,5412446,98393882,Etobicoke,38014
-43.7413982,-79.5981701,2,Silverstone Drive (384),a,Silverstone Drive,212,5412425,98300384,Etobicoke,38014
-43.7414108,-79.600666,2,Elmvale Crescent (883),a,Elmvale Crescent,31,5412446,98393883,Etobicoke,38014
-43.7414128,-79.5986293,2,Elmvale Crescent (863),a,Elmvale Crescent,31,5412446,98393863,Etobicoke,38014
-43.7414283,-79.5962196,2,Litchfield Court (262),a,Litchfield Court,11,5412467,98434262,Etobicoke,38014
-43.7414354,-79.5982686,2,Silverstone Drive (385),a,Silverstone Drive,212,5412425,98300385,Etobicoke,38014
-43.7414357,-79.5889409,2,Finch Avenue West (036),a,Finch Avenue West,425,5411507,579923036,Etobicoke,38014
-43.7414365,-79.5939592,2,Martin Grove Road (101),a,Martin Grove Road,689,5411724,93488101,Etobicoke,38014
-43.7414365,-79.5939592,2,Martin Grove Road (527),a,Martin Grove Road,689,5411724,579924527,Etobicoke,38014
-43.7414365,-79.5939592,2,Martin Grove Road (528),a,Martin Grove Road,689,5411724,579924528,Etobicoke,38014
-43.7414369,-79.6005909,2,Elmvale Crescent (884),a,Elmvale Crescent,31,5412446,98393884,Etobicoke,38014
-43.7414537,-79.6004911,2,Elmvale Crescent (885),a,Elmvale Crescent,31,5412446,98393885,Etobicoke,38014
-43.7414546,-79.5983675,2,Silverstone Drive (386),a,Silverstone Drive,212,5412425,98300386,Etobicoke,38014
-43.7414633,-79.5912864,2,Albion Road (651),a,Albion Road,533,5411854,579921651,Etobicoke,38014
-43.7414633,-79.5912864,2,Albion Road (699),a,Albion Road,533,5411854,579921699,Etobicoke,38014
-43.7414739,-79.5984664,2,Silverstone Drive (387),a,Silverstone Drive,212,5412425,98300387,Etobicoke,38014
-43.7414743,-79.5985036,2,Silverstone Drive (388),a,Silverstone Drive,212,5412425,98300388,Etobicoke,38014
-43.7414747,-79.6088486,2,Woodbine Downs Boulevard (946),a,Woodbine Downs Boulevard,33,5412519,98512946,Etobicoke,38014
-43.7414794,-79.6003912,2,Elmvale Crescent (886),a,Elmvale Crescent,31,5412446,98393886,Etobicoke,38014
-43.741501,-79.5940819,2,Martin Grove Road (100),a,Martin Grove Road,689,5411724,93488100,Etobicoke,38014
-43.7415051,-79.6002788,2,Elmvale Crescent (887),a,Elmvale Crescent,31,5412446,98393887,Etobicoke,38014
 43.7415073,-79.6257192,2,Claireville Drive (864),a,Claireville Drive,56,5411998,420187864,Etobicoke,38014
 43.7415143,-79.6297539,2,Indian Line (580),a,Indian Line,38,5412350,97898580,Etobicoke,38014
-43.7415159,-79.5985839,2,Silverstone Drive (326),a,Silverstone Drive,212,5412425,98300326,Etobicoke,38014
-43.7415159,-79.5985839,2,Silverstone Drive (389),a,Silverstone Drive,212,5412425,98300389,Etobicoke,38014
-43.7415159,-79.5985839,2,Elmvale Crescent (862),a,Elmvale Crescent,31,5412446,98393862,Etobicoke,38014
-43.7415252,-79.5916591,2,Albion Road (615),a,Albion Road,533,5411854,497595615,Etobicoke,38014
-43.7415311,-79.5987258,2,Silverstone Drive (327),a,Silverstone Drive,212,5412425,98300327,Etobicoke,38014
-43.7415351,-79.5939196,2,Martin Grove Road (119),a,Martin Grove Road,689,5411724,93488119,Etobicoke,38014
-43.7415351,-79.5939196,2,Martin Grove Road (529),a,Martin Grove Road,689,5411724,579924529,Etobicoke,38014
-43.7415425,-79.5917997,2,Albion Road (049),a,Albion Road,533,5411854,95055049,Etobicoke,38014
-43.7415425,-79.5917997,2,Albion Road (700),a,Albion Road,533,5411854,579921700,Etobicoke,38014
-43.7415487,-79.600166,2,Elmvale Crescent (888),a,Elmvale Crescent,31,5412446,98393888,Etobicoke,38014
-43.7415515,-79.5989241,2,Silverstone Drive (328),a,Silverstone Drive,212,5412425,98300328,Etobicoke,38014
-43.7415614,-79.5973722,2,Litchfield Court (256),a,Litchfield Court,11,5412467,98434256,Etobicoke,38014
-43.7415797,-79.6040284,2,Westmore Drive (917),a,Westmore Drive,76,5412426,420187917,Etobicoke,38014
-43.7415834,-79.6000535,2,Elmvale Crescent (889),a,Elmvale Crescent,31,5412446,98393889,Etobicoke,38014
-43.7415947,-79.5972982,2,Litchfield Court (257),a,Litchfield Court,11,5412467,98434257,Etobicoke,38014
-43.741603,-79.5972621,2,Litchfield Court (367),a,Litchfield Court,11,5412467,297394367,Etobicoke,38014
-43.7416074,-79.5972427,2,Litchfield Court (258),a,Litchfield Court,11,5412467,98434258,Etobicoke,38014
-43.7416081,-79.5991339,2,Silverstone Drive (329),a,Silverstone Drive,212,5412425,98300329,Etobicoke,38014
 43.7416104,-79.6198942,2,Humberline Drive (965),a,Humberline Drive,135,5411997,96072965,Etobicoke,38014
-43.7416127,-79.5971957,2,Litchfield Court (259),a,Litchfield Court,11,5412467,98434259,Etobicoke,38014
-43.7416155,-79.5970656,2,Litchfield Court (261),a,Litchfield Court,11,5412467,98434261,Etobicoke,38014
-43.7416171,-79.5971336,2,Litchfield Court (260),a,Litchfield Court,11,5412467,98434260,Etobicoke,38014
-43.7416183,-79.5999657,2,Elmvale Crescent (890),a,Elmvale Crescent,31,5412446,98393890,Etobicoke,38014
-43.7416207,-79.5922773,2,Albion Road (682),a,Albion Road,533,5411854,579921682,Etobicoke,38014
-43.7416207,-79.5922773,2,Albion Road (713),a,Albion Road,533,5411854,579921713,Etobicoke,38014
-43.7416557,-79.5993439,2,Silverstone Drive (330),a,Silverstone Drive,212,5412425,98300330,Etobicoke,38014
-43.7416817,-79.5926839,2,Albion Road (711),a,Albion Road,533,5411854,579921711,Etobicoke,38014
-43.7416817,-79.5926839,2,Albion Road (714),a,Albion Road,533,5411854,579921714,Etobicoke,38014
-43.741698,-79.6138761,2,Carrier Drive (760),a,Carrier Drive,141,5412431,361412760,Etobicoke,38014
 43.7417095,-79.6199358,2,Humberline Drive (653),a,Humberline Drive,135,5411997,490816653,Etobicoke,38014
-43.7417123,-79.5928783,2,Albion Road (709),a,Albion Road,533,5411854,579921709,Etobicoke,38014
-43.7417123,-79.5928783,2,Albion Road (712),a,Albion Road,533,5411854,579921712,Etobicoke,38014
-43.7417207,-79.5995038,2,Silverstone Drive (331),a,Silverstone Drive,212,5412425,98300331,Etobicoke,38014
-43.7417259,-79.599789,2,Elmvale Crescent (688),a,Elmvale Crescent,31,5412446,425039688,Etobicoke,38014
-43.7417277,-79.6040926,2,Westmore Drive (918),a,Westmore Drive,76,5412426,420187918,Etobicoke,38014
-43.7417289,-79.5890572,2,Finch Avenue West (081),a,Finch Avenue West,425,5411507,579923081,Etobicoke,38014
 43.7417494,-79.6199525,2,Humberline Drive (662),a,Humberline Drive,135,5411997,297388662,Etobicoke,38014
-43.7417543,-79.5934426,2,Albion Road (024),a,Albion Road,533,5411854,95055024,Etobicoke,38014
-43.7417662,-79.5940353,2,Martin Grove Road (120),a,Martin Grove Road,689,5411724,93488120,Etobicoke,38014
-43.7417741,-79.5935911,2,Albion Road (938),a,Albion Road,533,5411854,95054938,Etobicoke,38014
-43.7417741,-79.5935911,2,Albion Road (023),a,Albion Road,533,5411854,95055023,Etobicoke,38014
-43.7417796,-79.5933054,2,Albion Road (929),a,Albion Road,533,5411854,95054929,Etobicoke,38014
-43.7417796,-79.5933054,2,Albion Road (025),a,Albion Road,533,5411854,95055025,Etobicoke,38014
-43.7417796,-79.5933054,2,Albion Road (710),a,Albion Road,533,5411854,579921710,Etobicoke,38014
-43.7417941,-79.5942015,2,Martin Grove Road (099),a,Martin Grove Road,689,5411724,93488099,Etobicoke,38014
-43.7417948,-79.599676,2,Silverstone Drive (332),a,Silverstone Drive,212,5412425,98300332,Etobicoke,38014
-43.7417948,-79.599676,2,Silverstone Drive (407),a,Silverstone Drive,212,5412425,98300407,Etobicoke,38014
-43.7417948,-79.599676,2,Elmvale Crescent (891),a,Elmvale Crescent,31,5412446,98393891,Etobicoke,38014
 43.7418032,-79.629839,2,Indian Line (578),a,Indian Line,38,5412350,97898578,Etobicoke,38014
-43.7418118,-79.6139276,2,Carrier Drive (761),a,Carrier Drive,141,5412431,361412761,Etobicoke,38014
-43.7418248,-79.5939662,2,Albion Road (937),a,Albion Road,533,5411854,95054937,Etobicoke,38014
-43.7418431,-79.5940739,2,Martin Grove Road (121),a,Martin Grove Road,689,5411724,93488121,Etobicoke,38014
-43.7418431,-79.5940739,2,Martin Grove Road (136),a,Martin Grove Road,689,5411724,93488136,Etobicoke,38014
-43.7418431,-79.5940739,2,Albion Road (936),a,Albion Road,533,5411854,95054936,Etobicoke,38014
-43.7418431,-79.5940739,2,Albion Road (001),a,Albion Road,533,5411854,95055001,Etobicoke,38014
-43.741853,-79.5934154,2,Albion Road (930),a,Albion Road,533,5411854,95054930,Etobicoke,38014
-43.7418685,-79.5998108,2,Silverstone Drive (408),a,Silverstone Drive,212,5412425,98300408,Etobicoke,38014
-43.7418687,-79.5942392,2,Martin Grove Road (097),a,Martin Grove Road,689,5411724,93488097,Etobicoke,38014
-43.7418687,-79.5942392,2,Martin Grove Road (098),a,Martin Grove Road,689,5411724,93488098,Etobicoke,38014
-43.7418687,-79.5942392,2,Albion Road (971),a,Albion Road,533,5411854,95054971,Etobicoke,38014
-43.7418687,-79.5942392,2,Albion Road (000),a,Albion Road,533,5411854,95055000,Etobicoke,38014
-43.7418831,-79.5943305,2,Albion Road (970),a,Albion Road,533,5411854,95054970,Etobicoke,38014
-43.7418892,-79.5943666,2,Albion Road (586),a,Albion Road,533,5411854,425039586,Etobicoke,38014
-43.7419196,-79.5945473,2,Albion Road (136),a,Albion Road,533,5411854,415121136,Etobicoke,38014
-43.7419292,-79.588966,2,Finch Avenue West (056),a,Finch Avenue West,425,5411507,579923056,Etobicoke,38014
-43.7419292,-79.588966,2,Finch Avenue West (080),a,Finch Avenue West,425,5411507,579923080,Etobicoke,38014
-43.741931,-79.6041809,2,Westmore Drive (400),a,Westmore Drive,76,5412426,98302400,Etobicoke,38014
-43.7419414,-79.5998837,2,Silverstone Drive (409),a,Silverstone Drive,212,5412425,98300409,Etobicoke,38014
-43.7419422,-79.6139875,2,Carrier Drive (121),a,Carrier Drive,141,5412431,473889121,Etobicoke,38014
-43.7419567,-79.5940271,2,Albion Road (931),a,Albion Road,533,5411854,95054931,Etobicoke,38014
-43.7419677,-79.5887201,2,Finch Avenue West (037),a,Finch Avenue West,425,5411507,579923037,Etobicoke,38014
-43.741979,-79.5941452,2,Martin Grove Road (104),a,Martin Grove Road,689,5411724,93488104,Etobicoke,38014
-43.741979,-79.5941452,2,Martin Grove Road (137),a,Martin Grove Road,689,5411724,93488137,Etobicoke,38014
-43.741979,-79.5941452,2,Albion Road (910),a,Albion Road,533,5411854,95054910,Etobicoke,38014
-43.741979,-79.5941452,2,Albion Road (932),a,Albion Road,533,5411854,95054932,Etobicoke,38014
-43.7419793,-79.5949027,2,Albion Road (969),a,Albion Road,533,5411854,95054969,Etobicoke,38014
 43.7419987,-79.6298966,2,Indian Line (576),a,Indian Line,38,5412350,97898576,Etobicoke,38014
-43.7420017,-79.5943044,2,Martin Grove Road (095),a,Martin Grove Road,689,5411724,93488095,Etobicoke,38014
-43.7420017,-79.5943044,2,Martin Grove Road (096),a,Martin Grove Road,689,5411724,93488096,Etobicoke,38014
-43.7420017,-79.5943044,2,Albion Road (911),a,Albion Road,533,5411854,95054911,Etobicoke,38014
-43.7420017,-79.5943044,2,Albion Road (026),a,Albion Road,533,5411854,95055026,Etobicoke,38014
-43.7420181,-79.5943986,2,Albion Road (028),a,Albion Road,533,5411854,95055028,Etobicoke,38014
-43.7420328,-79.5999933,2,Silverstone Drive (410),a,Silverstone Drive,212,5412425,98300410,Etobicoke,38014
-43.7420617,-79.5950126,2,Albion Road (933),a,Albion Road,533,5411854,95054933,Etobicoke,38014
-43.7420617,-79.5950126,2,Albion Road (968),a,Albion Road,533,5411854,95054968,Etobicoke,38014
-43.7420617,-79.5950126,2,Albion Road (030),a,Albion Road,533,5411854,95055030,Etobicoke,38014
-43.7420703,-79.5941927,2,Martin Grove Road (105),a,Martin Grove Road,689,5411724,93488105,Etobicoke,38014
-43.7420724,-79.5950665,2,Albion Road (934),a,Albion Road,533,5411854,95054934,Etobicoke,38014
-43.7420757,-79.6042396,2,Westmore Drive (401),a,Westmore Drive,76,5412426,98302401,Etobicoke,38014
-43.7420765,-79.5888915,2,Finch Avenue West (055),a,Finch Avenue West,425,5411507,579923055,Etobicoke,38014
-43.7420818,-79.5943376,2,Martin Grove Road (094),a,Martin Grove Road,689,5411724,93488094,Etobicoke,38014
 43.7420821,-79.6259659,2,Claireville Drive (168),a,Claireville Drive,56,5411998,96083168,Etobicoke,38014
 43.7420821,-79.6259659,2,Huddersfield Road (001),a,Huddersfield Road,10,5411999,96090001,Etobicoke,38014
-43.7420866,-79.5948381,2,Albion Road (029),a,Albion Road,533,5411854,95055029,Etobicoke,38014
-43.7420892,-79.5951509,2,Albion Road (935),a,Albion Road,533,5411854,95054935,Etobicoke,38014
-43.7420892,-79.5951509,2,Albion Road (987),a,Albion Road,533,5411854,95054987,Etobicoke,38014
-43.7420967,-79.6000663,2,Silverstone Drive (411),a,Silverstone Drive,212,5412425,98300411,Etobicoke,38014
-43.7421096,-79.5952474,2,Albion Road (990),a,Albion Road,533,5411854,95054990,Etobicoke,38014
 43.7421305,-79.6299274,2,Indian Line (575),a,Indian Line,38,5412350,97898575,Etobicoke,38014
-43.7421414,-79.5886357,2,Finch Avenue West (038),a,Finch Avenue West,425,5411507,579923038,Etobicoke,38014
-43.742145,-79.5954537,2,Albion Road (595),a,Albion Road,533,5411854,328756595,Etobicoke,38014
 43.7421608,-79.6260039,2,Claireville Drive (680),a,Claireville Drive,56,5411998,297388680,Etobicoke,38014
-43.7421659,-79.6042499,2,Westmore Drive (402),a,Westmore Drive,76,5412426,98302402,Etobicoke,38014
-43.7421659,-79.6042499,2,Westmore Drive (408),a,Westmore Drive,76,5412426,579926408,Etobicoke,38014
-43.7421671,-79.5888476,2,Finch Avenue West (319),a,Finch Avenue West,425,5411507,91853319,Etobicoke,38014
-43.7422107,-79.5958374,2,Albion Road (991),a,Albion Road,533,5411854,95054991,Etobicoke,38014
-43.7422107,-79.5958374,2,Albion Road (698),a,Albion Road,533,5411854,579921698,Etobicoke,38014
 43.7422487,-79.6252725,2,Huddersfield Road (692),a,Huddersfield Road,10,5411999,297388692,Etobicoke,38014
 43.7422596,-79.6299926,2,Indian Line (573),a,Indian Line,38,5412350,97898573,Etobicoke,38014
-43.7422693,-79.6001865,2,Silverstone Drive (412),a,Silverstone Drive,212,5412425,98300412,Etobicoke,38014
-43.7422832,-79.604272,2,Westmore Drive (893),a,Westmore Drive,76,5412426,497595893,Etobicoke,38014
-43.7422894,-79.5962922,2,Albion Road (610),a,Albion Road,533,5411854,497595610,Etobicoke,38014
-43.7422894,-79.5962922,2,Albion Road (612),a,Albion Road,533,5411854,497595612,Etobicoke,38014
 43.7423464,-79.6260934,2,Claireville Drive (679),a,Claireville Drive,56,5411998,297388679,Etobicoke,38014
 43.7423505,-79.6300811,2,Indian Line (571),a,Indian Line,38,5412350,97898571,Etobicoke,38014
-43.7423507,-79.6002219,2,Silverstone Drive (413),a,Silverstone Drive,212,5412425,98300413,Etobicoke,38014
-43.7423732,-79.6042699,2,Westmore Drive (891),a,Westmore Drive,76,5412426,497595891,Etobicoke,38014
-43.7423766,-79.5968085,2,Albion Road (611),a,Albion Road,533,5411854,497595611,Etobicoke,38014
-43.7423766,-79.5968085,2,Albion Road (614),a,Albion Road,533,5411854,497595614,Etobicoke,38014
-43.7424032,-79.5969662,2,Albion Road (608),a,Albion Road,533,5411854,497595608,Etobicoke,38014
-43.7424032,-79.5969662,2,Albion Road (613),a,Albion Road,533,5411854,497595613,Etobicoke,38014
-43.7424049,-79.600233,2,Silverstone Drive (414),a,Silverstone Drive,212,5412425,98300414,Etobicoke,38014
 43.7424126,-79.6245904,2,Huddersfield Road (865),a,Huddersfield Road,10,5411999,420187865,Etobicoke,38014
-43.7424245,-79.594516,2,Martin Grove Road (093),a,Martin Grove Road,689,5411724,93488093,Etobicoke,38014
-43.7424245,-79.594516,2,Martin Grove Road (103),a,Martin Grove Road,689,5411724,93488103,Etobicoke,38014
-43.7424254,-79.5887075,2,Finch Avenue West (522),a,Finch Avenue West,425,5411507,490816522,Etobicoke,38014
-43.7424274,-79.6042645,2,Westmore Drive (896),a,Westmore Drive,76,5412426,497595896,Etobicoke,38014
-43.7424276,-79.588449,2,Finch Avenue West (308),a,Finch Avenue West,425,5411507,91853308,Etobicoke,38014
 43.7424625,-79.6243826,2,Huddersfield Road (693),a,Huddersfield Road,10,5411999,297388693,Etobicoke,38014
-43.7424728,-79.5973527,2,Albion Road (605),a,Albion Road,533,5411854,497595605,Etobicoke,38014
-43.7424728,-79.5973527,2,Albion Road (609),a,Albion Road,533,5411854,497595609,Etobicoke,38014
-43.7424948,-79.6002185,2,Silverstone Drive (415),a,Silverstone Drive,212,5412425,98300415,Etobicoke,38014
-43.7425068,-79.5944199,2,Martin Grove Road (106),a,Martin Grove Road,689,5411724,93488106,Etobicoke,38014
 43.7425242,-79.6202772,2,Humberline Drive (663),a,Humberline Drive,135,5411997,297388663,Etobicoke,38014
-43.7425351,-79.6042538,2,Westmore Drive (894),a,Westmore Drive,76,5412426,497595894,Etobicoke,38014
 43.7425359,-79.6303203,2,Indian Line (570),a,Indian Line,38,5412350,97898570,Etobicoke,38014
-43.7425385,-79.5977533,2,Albion Road (604),a,Albion Road,533,5411854,497595604,Etobicoke,38014
-43.7425385,-79.5977533,2,Albion Road (606),a,Albion Road,533,5411854,497595606,Etobicoke,38014
 43.7425494,-79.6303434,2,Indian Line (569),a,Indian Line,38,5412350,97898569,Etobicoke,38014
-43.7425499,-79.5944423,2,Martin Grove Road (107),a,Martin Grove Road,689,5411724,93488107,Etobicoke,38014
-43.7425815,-79.5882731,2,Finch Avenue West (506),a,Finch Avenue West,425,5411507,490816506,Etobicoke,38014
 43.7425858,-79.6238693,2,Huddersfield Road (665),a,Huddersfield Road,10,5411999,490816665,Etobicoke,38014
-43.7425946,-79.5980752,2,Albion Road (603),a,Albion Road,533,5411854,497595603,Etobicoke,38014
-43.7425946,-79.5980752,2,Albion Road (607),a,Albion Road,533,5411854,497595607,Etobicoke,38014
-43.7426002,-79.5885669,2,Finch Avenue West (054),a,Finch Avenue West,425,5411507,579923054,Etobicoke,38014
-43.7426026,-79.6002036,2,Silverstone Drive (416),a,Silverstone Drive,212,5412425,98300416,Etobicoke,38014
-43.7426693,-79.5884861,2,Finch Avenue West (053),a,Finch Avenue West,425,5411507,579923053,Etobicoke,38014
-43.7426793,-79.5985628,2,Albion Road (600),a,Albion Road,533,5411854,497595600,Etobicoke,38014
-43.7426793,-79.5985628,2,Albion Road (602),a,Albion Road,533,5411854,497595602,Etobicoke,38014
-43.7426904,-79.6041935,2,Westmore Drive (895),a,Westmore Drive,76,5412426,497595895,Etobicoke,38014
-43.7427002,-79.5945725,2,Martin Grove Road (102),a,Martin Grove Road,689,5411724,93488102,Etobicoke,38014
-43.7427002,-79.5945725,2,Martin Grove Road (108),a,Martin Grove Road,689,5411724,93488108,Etobicoke,38014
-43.7427002,-79.5945725,2,Martin Grove Road (122),a,Martin Grove Road,689,5411724,93488122,Etobicoke,38014
 43.7427021,-79.6233852,2,Huddersfield Road (694),a,Huddersfield Road,10,5411999,297388694,Etobicoke,38014
-43.7427054,-79.6041877,2,Westmore Drive (892),a,Westmore Drive,76,5412426,497595892,Etobicoke,38014
-43.742719,-79.6001512,2,Silverstone Drive (417),a,Silverstone Drive,212,5412425,98300417,Etobicoke,38014
 43.7427496,-79.6306846,2,Indian Line (567),a,Indian Line,38,5412350,97898567,Etobicoke,38014
 43.7427628,-79.6231324,2,Huddersfield Road (695),a,Huddersfield Road,10,5411999,297388695,Etobicoke,38014
-43.7427663,-79.599051,2,Albion Road (599),a,Albion Road,533,5411854,497595599,Etobicoke,38014
-43.7427663,-79.599051,2,Albion Road (601),a,Albion Road,533,5411854,497595601,Etobicoke,38014
-43.7427822,-79.5883506,2,Finch Avenue West (052),a,Finch Avenue West,425,5411507,579923052,Etobicoke,38014
 43.7428069,-79.6203957,2,Humberline Drive (664),a,Humberline Drive,135,5411997,297388664,Etobicoke,38014
 43.7428069,-79.6203957,2,Humberline Drive (666),a,Humberline Drive,135,5411997,297388666,Etobicoke,38014
-43.7428087,-79.6001242,2,Silverstone Drive (418),a,Silverstone Drive,212,5412425,98300418,Etobicoke,38014
-43.7428304,-79.600118,2,Silverstone Drive (419),a,Silverstone Drive,212,5412425,98300419,Etobicoke,38014
-43.7428315,-79.5946377,2,Martin Grove Road (123),a,Martin Grove Road,689,5411724,93488123,Etobicoke,38014
 43.7428464,-79.6263346,2,Claireville Drive (678),a,Claireville Drive,56,5411998,297388678,Etobicoke,38014
-43.7428536,-79.5995582,2,Albion Road (597),a,Albion Road,533,5411854,497595597,Etobicoke,38014
-43.7428536,-79.5995582,2,Albion Road (598),a,Albion Road,533,5411854,497595598,Etobicoke,38014
-43.7429193,-79.5999475,2,Albion Road (596),a,Albion Road,533,5411854,497595596,Etobicoke,38014
-43.7429218,-79.6144202,2,Carrier Drive (762),a,Carrier Drive,141,5412431,361412762,Etobicoke,38014
-43.7429307,-79.604118,2,Westmore Drive (890),a,Westmore Drive,76,5412426,497595890,Etobicoke,38014
-43.7429307,-79.604118,2,Westmore Drive (897),a,Westmore Drive,76,5412426,497595897,Etobicoke,38014
-43.7429433,-79.6000839,2,Albion Road (015),a,Albion Road,533,5411854,95055015,Etobicoke,38014
-43.7429433,-79.6000839,2,Albion Road (697),a,Albion Road,533,5411854,579921697,Etobicoke,38014
-43.7429433,-79.6000839,2,Silverstone Drive (420),a,Silverstone Drive,212,5412425,98300420,Etobicoke,38014
-43.7429433,-79.6000839,2,Silverstone Drive (424),a,Silverstone Drive,212,5412425,98300424,Etobicoke,38014
-43.7429615,-79.6001964,2,Albion Road (016),a,Albion Road,533,5411854,95055016,Etobicoke,38014
 43.743004,-79.6221286,2,Huddersfield Road (696),a,Huddersfield Road,10,5411999,297388696,Etobicoke,38014
-43.7430195,-79.6144635,2,Carrier Drive (118),a,Carrier Drive,141,5412431,473889118,Etobicoke,38014
 43.7430344,-79.620491,2,Humberline Drive (655),a,Humberline Drive,135,5411997,490816655,Etobicoke,38014
-43.7430407,-79.6006579,2,Albion Road (560),a,Albion Road,533,5411854,497595560,Etobicoke,38014
-43.7430407,-79.6006579,2,Albion Road (672),a,Albion Road,533,5411854,579921672,Etobicoke,38014
-43.7430668,-79.6144819,2,Carrier Drive (961),a,Carrier Drive,141,5412431,486821961,Etobicoke,38014
-43.7430907,-79.6040686,2,Westmore Drive (888),a,Westmore Drive,76,5412426,497595888,Etobicoke,38014
-43.7431109,-79.6000237,2,Silverstone Drive (425),a,Silverstone Drive,212,5412425,98300425,Etobicoke,38014
-43.7432104,-79.6040317,2,Westmore Drive (889),a,Westmore Drive,76,5412426,497595889,Etobicoke,38014
 43.7432411,-79.626525,2,Claireville Drive (677),a,Claireville Drive,56,5411998,297388677,Etobicoke,38014
-43.7432454,-79.6145513,2,Carrier Drive (312),a,Carrier Drive,141,5412431,489497312,Etobicoke,38014
-43.743257,-79.6018958,2,Albion Road (558),a,Albion Road,533,5411854,497595558,Etobicoke,38014
-43.743257,-79.6018958,2,Albion Road (559),a,Albion Road,533,5411854,497595559,Etobicoke,38014
 43.7432581,-79.5843676,2,Finch Avenue West (207),a,Finch Avenue West,425,5411507,579923207,Etobicoke,38014
-43.7432705,-79.6040131,2,Westmore Drive (885),a,Westmore Drive,76,5412426,497595885,Etobicoke,38014
-43.7432909,-79.614569,2,Carrier Drive (119),a,Carrier Drive,141,5412431,473889119,Etobicoke,38014
 43.7433016,-79.5845928,2,Finch Avenue West (206),a,Finch Avenue West,425,5411507,579923206,Etobicoke,38014
 43.7433363,-79.6207453,2,Huddersfield Road (005),a,Huddersfield Road,10,5411999,96090005,Etobicoke,38014
-43.7433502,-79.602434,2,Albion Road (555),a,Albion Road,533,5411854,497595555,Etobicoke,38014
 43.7433595,-79.6206273,2,Humberline Drive (874),a,Humberline Drive,135,5411997,473888874,Etobicoke,38014
 43.7433595,-79.6206273,2,Huddersfield Road (007),a,Huddersfield Road,10,5411999,96090007,Etobicoke,38014
-43.7433885,-79.6026194,2,Albion Road (556),a,Albion Road,533,5411854,497595556,Etobicoke,38014
-43.7433915,-79.5999244,2,Silverstone Drive (426),a,Silverstone Drive,212,5412425,98300426,Etobicoke,38014
-43.7434369,-79.5949387,2,Martin Grove Road (943),a,Martin Grove Road,689,5411724,389741943,Etobicoke,38014
-43.7434446,-79.602902,2,Albion Road (551),a,Albion Road,533,5411854,497595551,Etobicoke,38014
-43.7434446,-79.602902,2,Albion Road (557),a,Albion Road,533,5411854,497595557,Etobicoke,38014
-43.7434447,-79.6146276,2,Carrier Drive (115),a,Carrier Drive,141,5412431,473889115,Etobicoke,38014
-43.7434598,-79.6029918,2,Albion Road (554),a,Albion Road,533,5411854,497595554,Etobicoke,38014
-43.7434763,-79.6030886,2,Albion Road (552),a,Albion Road,533,5411854,497595552,Etobicoke,38014
-43.7434782,-79.5949592,2,Martin Grove Road (124),a,Martin Grove Road,689,5411724,93488124,Etobicoke,38014
-43.7435074,-79.6032545,2,Albion Road (550),a,Albion Road,533,5411854,497595550,Etobicoke,38014
-43.7435193,-79.603942,2,Westmore Drive (407),a,Westmore Drive,76,5412426,579926407,Etobicoke,38014
-43.7435246,-79.6033465,2,Albion Road (549),a,Albion Road,533,5411854,497595549,Etobicoke,38014
-43.7435261,-79.599884,2,Silverstone Drive (427),a,Silverstone Drive,212,5412425,98300427,Etobicoke,38014
 43.7435602,-79.6320957,2,Indian Line (566),a,Indian Line,38,5412350,97898566,Etobicoke,38014
-43.7435713,-79.6146743,2,Carrier Drive (117),a,Carrier Drive,141,5412431,473889117,Etobicoke,38014
-43.743602,-79.6037597,2,Albion Road (553),a,Albion Road,533,5411854,497595553,Etobicoke,38014
-43.7436293,-79.6039054,2,Albion Road (997),a,Albion Road,533,5411854,95054997,Etobicoke,38014
-43.7436293,-79.6039054,2,Albion Road (694),a,Albion Road,533,5411854,579921694,Etobicoke,38014
-43.7436293,-79.6039054,2,Westmore Drive (886),a,Westmore Drive,76,5412426,497595886,Etobicoke,38014
-43.7436303,-79.595031,2,Martin Grove Road (288),a,Martin Grove Road,689,5411724,497595288,Etobicoke,38014
-43.7436303,-79.595031,2,Martin Grove Road (347),a,Martin Grove Road,689,5411724,497595347,Etobicoke,38014
-43.743688,-79.5998678,2,Silverstone Drive (428),a,Silverstone Drive,212,5412425,98300428,Etobicoke,38014
 43.7436954,-79.6207736,2,Humberline Drive (657),a,Humberline Drive,135,5411997,490816657,Etobicoke,38014
-43.7437158,-79.6147083,2,Carrier Drive (116),a,Carrier Drive,141,5412431,473889116,Etobicoke,38014
 43.7437222,-79.5789105,2,Finch Avenue West (536),a,Finch Avenue West,425,5411507,490816536,Etobicoke,38014
-43.7437378,-79.6044926,2,Albion Road (932),a,Albion Road,533,5411854,420187932,Etobicoke,38014
-43.7437799,-79.6047206,2,Albion Road (105),a,Albion Road,533,5411854,297388105,Etobicoke,38014
 43.7437816,-79.6267858,2,Claireville Drive (676),a,Claireville Drive,56,5411998,297388676,Etobicoke,38014
-43.7438233,-79.5998895,2,Silverstone Drive (429),a,Silverstone Drive,212,5412425,98300429,Etobicoke,38014
-43.7438442,-79.6050687,2,Albion Road (998),a,Albion Road,533,5411854,95054998,Etobicoke,38014
-43.7438562,-79.6170597,2,Dansk Court (674),a,Dansk Court,9,5412520,579922674,Etobicoke,38014
-43.7438632,-79.6166714,2,Dansk Court (401),a,Dansk Court,9,5412520,530240401,Etobicoke,38014
-43.7438649,-79.6165743,2,Dansk Court (675),a,Dansk Court,9,5412520,579922675,Etobicoke,38014
-43.7438649,-79.6164172,2,Dansk Court (676),a,Dansk Court,9,5412520,579922676,Etobicoke,38014
-43.7438656,-79.616319,2,Dansk Court (965),a,Dansk Court,9,5412520,486821965,Etobicoke,38014
-43.7438673,-79.6160709,2,Dansk Court (108),a,Dansk Court,9,5412520,98513108,Etobicoke,38014
-43.7438812,-79.6155681,2,Dansk Court (964),a,Dansk Court,9,5412520,486821964,Etobicoke,38014
 43.7438945,-79.6208602,2,Humberline Drive (658),a,Humberline Drive,135,5411997,490816658,Etobicoke,38014
-43.7439014,-79.6148411,2,Dansk Court (109),a,Dansk Court,9,5412520,98513109,Etobicoke,38014
-43.7439048,-79.6147178,2,Carrier Drive (850),a,Carrier Drive,141,5412431,98326850,Etobicoke,38014
-43.7439048,-79.6147178,2,Carrier Drive (269),a,Carrier Drive,141,5412431,579922269,Etobicoke,38014
-43.7439048,-79.6147178,2,Dansk Court (110),a,Dansk Court,9,5412520,98513110,Etobicoke,38014
-43.7439065,-79.5951615,2,Martin Grove Road (345),a,Martin Grove Road,689,5411724,497595345,Etobicoke,38014
-43.7439065,-79.5951615,2,Martin Grove Road (346),a,Martin Grove Road,689,5411724,497595346,Etobicoke,38014
-43.7439141,-79.6054468,2,Albion Road (933),a,Albion Road,533,5411854,420187933,Etobicoke,38014
-43.7439455,-79.6003089,2,Lexington Avenue (586),a,Lexington Avenue,72,5412437,98360586,Etobicoke,38014
-43.7439558,-79.6004204,2,Lexington Avenue (587),a,Lexington Avenue,72,5412437,98360587,Etobicoke,38014
 43.7439614,-79.5784855,2,Finch Avenue West (499),a,Finch Avenue West,425,5411507,490816499,Etobicoke,38014
-43.7439664,-79.6005444,2,Lexington Avenue (588),a,Lexington Avenue,72,5412437,98360588,Etobicoke,38014
-43.7439702,-79.600122,2,Lexington Avenue (585),a,Lexington Avenue,72,5412437,98360585,Etobicoke,38014
-43.7439703,-79.6057707,2,Albion Road (646),a,Albion Road,533,5411854,579921646,Etobicoke,38014
-43.7439703,-79.6057707,2,Albion Road (666),a,Albion Road,533,5411854,579921666,Etobicoke,38014
-43.7439757,-79.6061665,2,Albion Road (659),a,Albion Road,533,5411854,579921659,Etobicoke,38014
-43.7440041,-79.6059685,2,Albion Road (637),a,Albion Road,533,5411854,579921637,Etobicoke,38014
-43.7440041,-79.6059685,2,Albion Road (647),a,Albion Road,533,5411854,579921647,Etobicoke,38014
-43.7440041,-79.6059685,2,Albion Road (660),a,Albion Road,533,5411854,579921660,Etobicoke,38014
 43.7440139,-79.62689,2,Claireville Drive (165),a,Claireville Drive,56,5411998,96083165,Etobicoke,38014
-43.7440388,-79.6009171,2,Lexington Avenue (701),a,Lexington Avenue,72,5412437,490816701,Etobicoke,38014
-43.7440416,-79.606538,2,Albion Road (658),a,Albion Road,533,5411854,579921658,Etobicoke,38014
-43.7440475,-79.6065756,2,Albion Road (657),a,Albion Road,533,5411854,579921657,Etobicoke,38014
-43.7440488,-79.6147006,2,Carrier Drive (851),a,Carrier Drive,141,5412431,98326851,Etobicoke,38014
 43.744061,-79.6209327,2,Humberline Drive (667),a,Humberline Drive,135,5411997,297388667,Etobicoke,38014
 43.7440624,-79.6269139,2,Claireville Drive (781),a,Claireville Drive,56,5411998,497595781,Etobicoke,38014
-43.7440832,-79.6061423,2,Albion Road (638),a,Albion Road,533,5411854,579921638,Etobicoke,38014
-43.7440862,-79.6068222,2,Albion Road (656),a,Albion Road,533,5411854,579921656,Etobicoke,38014
-43.7441027,-79.6146869,2,Carrier Drive (852),a,Carrier Drive,141,5412431,98326852,Etobicoke,38014
-43.7441037,-79.6069245,2,Albion Road (655),a,Albion Road,533,5411854,579921655,Etobicoke,38014
-43.7441368,-79.6071135,2,Albion Road (654),a,Albion Road,533,5411854,579921654,Etobicoke,38014
-43.7441488,-79.6146752,2,Carrier Drive (311),a,Carrier Drive,141,5412431,489497311,Etobicoke,38014
-43.7441497,-79.6015461,2,Lexington Avenue (589),a,Lexington Avenue,72,5412437,98360589,Etobicoke,38014
-43.7441672,-79.6146705,2,Carrier Drive (268),a,Carrier Drive,141,5412431,579922268,Etobicoke,38014
-43.7441946,-79.6074277,2,Albion Road (653),a,Albion Road,533,5411854,579921653,Etobicoke,38014
-43.7441965,-79.601694,2,Lexington Avenue (590),a,Lexington Avenue,72,5412437,98360590,Etobicoke,38014
-43.74421,-79.6075131,2,Albion Road (652),a,Albion Road,533,5411854,579921652,Etobicoke,38014
-43.74421,-79.6075131,2,Albion Road (671),a,Albion Road,533,5411854,579921671,Etobicoke,38014
-43.7442104,-79.6146596,2,Carrier Drive (853),a,Carrier Drive,141,5412431,98326853,Etobicoke,38014
-43.7442388,-79.6076724,2,Albion Road (650),a,Albion Road,533,5411854,579921650,Etobicoke,38014
-43.7442388,-79.6076724,2,Albion Road (670),a,Albion Road,533,5411854,579921670,Etobicoke,38014
-43.7442423,-79.601755,2,Lexington Avenue (591),a,Lexington Avenue,72,5412437,98360591,Etobicoke,38014
-43.7442536,-79.6071076,2,Albion Road (922),a,Albion Road,533,5411854,95054922,Etobicoke,38014
-43.7442684,-79.6078373,2,Albion Road (649),a,Albion Road,533,5411854,579921649,Etobicoke,38014
 43.7442742,-79.6210255,2,Humberline Drive (656),a,Humberline Drive,135,5411997,490816656,Etobicoke,38014
-43.7442882,-79.6018285,2,Lexington Avenue (592),a,Lexington Avenue,72,5412437,98360592,Etobicoke,38014
-43.7443067,-79.6018653,2,Lexington Avenue (593),a,Lexington Avenue,72,5412437,98360593,Etobicoke,38014
-43.7443219,-79.6074812,2,Albion Road (639),a,Albion Road,533,5411854,579921639,Etobicoke,38014
-43.7443316,-79.6081858,2,Albion Road (648),a,Albion Road,533,5411854,579921648,Etobicoke,38014
-43.7443316,-79.6081858,2,Albion Road (717),a,Albion Road,533,5411854,579921717,Etobicoke,38014
-43.7443372,-79.607569,2,Albion Road (640),a,Albion Road,533,5411854,579921640,Etobicoke,38014
-43.7443372,-79.607569,2,Albion Road (642),a,Albion Road,533,5411854,579921642,Etobicoke,38014
-43.7443431,-79.6019017,2,Lexington Avenue (594),a,Lexington Avenue,72,5412437,98360594,Etobicoke,38014
 43.7443448,-79.5762825,2,Finch Avenue West (067),a,Finch Avenue West,425,5411507,579923067,Etobicoke,38014
-43.7443649,-79.6077261,2,Albion Road (643),a,Albion Road,533,5411854,579921643,Etobicoke,38014
-43.7443649,-79.6077261,2,Albion Road (679),a,Albion Road,533,5411854,579921679,Etobicoke,38014
-43.7443651,-79.6083711,2,Albion Road (716),a,Albion Road,533,5411854,579921716,Etobicoke,38014
-43.7443704,-79.6019259,2,Lexington Avenue (595),a,Lexington Avenue,72,5412437,98360595,Etobicoke,38014
-43.744372,-79.6146186,2,Carrier Drive (854),a,Carrier Drive,141,5412431,98326854,Etobicoke,38014
-43.7443925,-79.6078773,2,Albion Road (680),a,Albion Road,533,5411854,579921680,Etobicoke,38014
-43.7444068,-79.6086033,2,Albion Road (715),a,Albion Road,533,5411854,579921715,Etobicoke,38014
-43.7444068,-79.6086033,2,Albion Road (719),a,Albion Road,533,5411854,579921719,Etobicoke,38014
-43.7444068,-79.6019499,2,Lexington Avenue (596),a,Lexington Avenue,72,5412437,98360596,Etobicoke,38014
-43.7444344,-79.601999,2,Lexington Avenue (597),a,Lexington Avenue,72,5412437,98360597,Etobicoke,38014
-43.7444558,-79.6082388,2,Albion Road (630),a,Albion Road,533,5411854,579921630,Etobicoke,38014
-43.7444558,-79.6082388,2,Albion Road (681),a,Albion Road,533,5411854,579921681,Etobicoke,38014
-43.7444704,-79.6019981,2,Lexington Avenue (598),a,Lexington Avenue,72,5412437,98360598,Etobicoke,38014
-43.7444838,-79.6087464,2,Albion Road (632),a,Albion Road,533,5411854,579921632,Etobicoke,38014
-43.7444838,-79.6087464,2,Albion Road (693),a,Albion Road,533,5411854,579921693,Etobicoke,38014
-43.7444838,-79.6087464,2,Albion Road (718),a,Albion Road,533,5411854,579921718,Etobicoke,38014
-43.7445111,-79.608556,2,Albion Road (631),a,Albion Road,533,5411854,579921631,Etobicoke,38014
 43.7445331,-79.576082,2,Finch Avenue West (022),a,Finch Avenue West,425,5411507,579923022,Etobicoke,38014
-43.7445719,-79.6091962,2,Albion Road (539),a,Albion Road,533,5411854,497595539,Etobicoke,38014
-43.7445872,-79.6145516,2,Carrier Drive (855),a,Carrier Drive,141,5412431,98326855,Etobicoke,38014
-43.7446235,-79.6145402,2,Carrier Drive (685),a,Carrier Drive,141,5412431,425039685,Etobicoke,38014
 43.7446302,-79.6211805,2,Humberline Drive (668),a,Humberline Drive,135,5411997,297388668,Etobicoke,38014
-43.7447734,-79.614493,2,Carrier Drive (683),a,Carrier Drive,141,5412431,425039683,Etobicoke,38014
 43.7447798,-79.6212425,2,Humberline Drive (659),a,Humberline Drive,135,5411997,490816659,Etobicoke,38014
 43.7448684,-79.6212792,2,Humberline Drive (623),a,Humberline Drive,135,5411997,425039623,Etobicoke,38014
 43.7448972,-79.6212968,2,Humberline Drive (875),a,Humberline Drive,135,5411997,473888875,Etobicoke,38014
-43.7449207,-79.6144504,2,Carrier Drive (684),a,Carrier Drive,141,5412431,425039684,Etobicoke,38014
-43.7449363,-79.6144455,2,Carrier Drive (840),a,Carrier Drive,141,5412431,98326840,Etobicoke,38014
-43.7449363,-79.6144455,2,Carrier Drive (847),a,Carrier Drive,141,5412431,98326847,Etobicoke,38014
-43.7449363,-79.6144455,2,Carrier Drive (856),a,Carrier Drive,141,5412431,98326856,Etobicoke,38014
-43.7449574,-79.6112542,2,Albion Road (541),a,Albion Road,533,5411854,497595541,Etobicoke,38014
 43.7449654,-79.627262,2,Claireville Drive (163),a,Claireville Drive,56,5411998,96083163,Etobicoke,38014
 43.7449661,-79.5736731,2,Finch Avenue West (068),a,Finch Avenue West,425,5411507,579923068,Etobicoke,38014
-43.7450349,-79.6143425,2,Carrier Drive (841),a,Carrier Drive,141,5412431,98326841,Etobicoke,38014
 43.7450581,-79.6213962,2,Humberline Drive (669),a,Humberline Drive,135,5411997,297388669,Etobicoke,38014
-43.7450724,-79.6144658,2,Carrier Drive (846),a,Carrier Drive,141,5412431,98326846,Etobicoke,38014
 43.7450729,-79.5738073,2,Finch Avenue West (021),a,Finch Avenue West,425,5411507,579923021,Etobicoke,38014
-43.7451062,-79.6053987,2,Baywood Road (885),a,Baywood Road,20,5412459,98419885,Etobicoke,38014
 43.7451136,-79.5730238,2,Finch Avenue West (069),a,Finch Avenue West,425,5411507,579923069,Etobicoke,38014
-43.745131,-79.6121813,2,Albion Road (540),a,Albion Road,533,5411854,497595540,Etobicoke,38014
 43.7451453,-79.6272877,2,Claireville Drive (160),a,Claireville Drive,56,5411998,96083160,Etobicoke,38014
 43.7451978,-79.6214825,2,Humberline Drive (624),a,Humberline Drive,135,5411997,425039624,Etobicoke,38014
-43.7452,-79.6125497,2,Albion Road (538),a,Albion Road,533,5411854,497595538,Etobicoke,38014
 43.7452231,-79.6214981,2,Humberline Drive (670),a,Humberline Drive,135,5411997,297388670,Etobicoke,38014
 43.7452755,-79.6272362,2,Claireville Drive (157),a,Claireville Drive,56,5411998,96083157,Etobicoke,38014
 43.745282,-79.5722205,2,Finch Avenue West (070),a,Finch Avenue West,425,5411507,579923070,Etobicoke,38014
 43.7452867,-79.5728434,2,Finch Avenue West (020),a,Finch Avenue West,425,5411507,579923020,Etobicoke,38014
 43.7452966,-79.6272237,2,Claireville Drive (660),a,Claireville Drive,56,5411998,490816660,Etobicoke,38014
-43.7453277,-79.6142254,2,Carrier Drive (842),a,Carrier Drive,141,5412431,98326842,Etobicoke,38014
-43.7453566,-79.6143769,2,Carrier Drive (845),a,Carrier Drive,141,5412431,98326845,Etobicoke,38014
 43.7453672,-79.6215872,2,Humberline Drive (622),a,Humberline Drive,135,5411997,425039622,Etobicoke,38014
-43.7453958,-79.6135958,2,Albion Road (542),a,Albion Road,533,5411854,497595542,Etobicoke,38014
-43.7453958,-79.6135958,2,Albion Road (545),a,Albion Road,533,5411854,497595545,Etobicoke,38014
 43.7454057,-79.627159,2,Claireville Drive (154),a,Claireville Drive,56,5411998,96083154,Etobicoke,38014
-43.7454482,-79.6142709,2,Carrier Drive (843),a,Carrier Drive,141,5412431,98326843,Etobicoke,38014
-43.7454482,-79.6142709,2,Carrier Drive (844),a,Carrier Drive,141,5412431,98326844,Etobicoke,38014
-43.7454482,-79.6142709,2,Carrier Drive (848),a,Carrier Drive,141,5412431,98326848,Etobicoke,38014
 43.74547,-79.5712979,2,Finch Avenue West (071),a,Finch Avenue West,425,5411507,579923071,Etobicoke,38014
-43.7454879,-79.6140875,2,Albion Road (544),a,Albion Road,533,5411854,497595544,Etobicoke,38014
 43.7455173,-79.6269873,2,Claireville Drive (152),a,Claireville Drive,56,5411998,96083152,Etobicoke,38014
-43.745522,-79.614261,2,Albion Road (543),a,Albion Road,533,5411854,497595543,Etobicoke,38014
-43.745522,-79.614261,2,Albion Road (546),a,Albion Road,533,5411854,497595546,Etobicoke,38014
-43.745522,-79.614261,2,Carrier Drive (849),a,Carrier Drive,141,5412431,98326849,Etobicoke,38014
-43.745522,-79.614261,2,Carrier Drive (857),a,Carrier Drive,141,5412431,98326857,Etobicoke,38014
-43.7455549,-79.6055907,2,Baywood Road (309),a,Baywood Road,20,5412459,297394309,Etobicoke,38014
 43.7455574,-79.5715405,2,Finch Avenue West (019),a,Finch Avenue West,425,5411507,579923019,Etobicoke,38014
 43.7455793,-79.6268071,2,Claireville Drive (148),a,Claireville Drive,56,5411998,96083148,Etobicoke,38014
 43.7455917,-79.6217259,2,Humberline Drive (876),a,Humberline Drive,135,5411997,473888876,Etobicoke,38014
@@ -2061,13 +1366,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7456579,-79.6263654,2,Claireville Drive (780),a,Claireville Drive,56,5411998,497595780,Etobicoke,38014
 43.7456715,-79.6151118,2,Albion Road (507),a,Albion Road,533,5411854,497595507,Etobicoke,38014
 43.7456715,-79.6151118,2,Albion Road (548),a,Albion Road,533,5411854,497595548,Etobicoke,38014
-43.7456739,-79.6142485,2,Carrier Drive (858),a,Carrier Drive,141,5412431,98326858,Etobicoke,38014
-43.7456895,-79.6056483,2,Baywood Road (934),a,Baywood Road,20,5412459,420187934,Etobicoke,38014
 43.7457006,-79.6330882,2,Claireport Crescent (840),a,Claireport Crescent,46,5413300,99024840,Etobicoke,38014
 43.7457025,-79.6329755,2,Claireport Crescent (841),a,Claireport Crescent,46,5413300,99024841,Etobicoke,38014
 43.7457064,-79.6331767,2,Claireport Crescent (839),a,Claireport Crescent,46,5413300,99024839,Etobicoke,38014
 43.7457122,-79.6328441,2,Claireport Crescent (842),a,Claireport Crescent,46,5413300,99024842,Etobicoke,38014
-43.7457123,-79.6142567,2,Carrier Drive (859),a,Carrier Drive,141,5412431,98326859,Etobicoke,38014
 43.7457154,-79.5702202,2,Finch Avenue West (072),a,Finch Avenue West,425,5411507,579923072,Etobicoke,38014
 43.7457193,-79.6332414,2,Claireport Crescent (346),a,Claireport Crescent,46,5413300,359577346,Etobicoke,38014
 43.7457256,-79.633273,2,Claireport Crescent (838),a,Claireport Crescent,46,5413300,99024838,Etobicoke,38014
@@ -2084,7 +1386,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7458127,-79.6159153,2,Albion Road (397),a,Albion Road,533,5411854,389742397,Etobicoke,38014
 43.7458149,-79.6253136,2,Claireville Drive (142),a,Claireville Drive,56,5411998,96083142,Etobicoke,38014
 43.7458543,-79.6161519,2,Albion Road (396),a,Albion Road,533,5411854,389742396,Etobicoke,38014
-43.7458544,-79.6142796,2,Carrier Drive (860),a,Carrier Drive,141,5412431,98326860,Etobicoke,38014
 43.7458585,-79.6337151,2,Claireport Crescent (344),a,Claireport Crescent,46,5413300,359577344,Etobicoke,38014
 43.7458637,-79.6322095,2,Claireport Crescent (843),a,Claireport Crescent,46,5413300,99024843,Etobicoke,38014
 43.7458747,-79.616268,2,Albion Road (110),a,Albion Road,533,5411854,297388110,Etobicoke,38014
@@ -2100,7 +1401,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7459367,-79.6320713,2,Claireport Crescent (845),a,Claireport Crescent,46,5413300,99024845,Etobicoke,38014
 43.7459429,-79.616656,2,Albion Road (394),a,Albion Road,533,5411854,389742394,Etobicoke,38014
 43.7459871,-79.6320204,2,Claireport Crescent (846),a,Claireport Crescent,46,5413300,99024846,Etobicoke,38014
-43.7459955,-79.614345,2,Carrier Drive (861),a,Carrier Drive,141,5412431,98326861,Etobicoke,38014
 43.7460223,-79.6342603,2,Claireport Crescent (837),a,Claireport Crescent,46,5413300,99024837,Etobicoke,38014
 43.7460287,-79.5689875,2,Finch Avenue West (073),a,Finch Avenue West,425,5411507,579923073,Etobicoke,38014
 43.7460287,-79.5689875,2,Finch Avenue West (090),a,Finch Avenue West,425,5411507,579923090,Etobicoke,38014
@@ -2112,8 +1412,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7460978,-79.6344185,2,Claireport Crescent (835),a,Claireport Crescent,46,5413300,99024835,Etobicoke,38014
 43.7460993,-79.5686835,2,Finch Avenue West (086),a,Finch Avenue West,425,5411507,579923086,Etobicoke,38014
 43.7460993,-79.5686835,2,Finch Avenue West (092),a,Finch Avenue West,425,5411507,579923092,Etobicoke,38014
-43.7461284,-79.6058361,2,Baywood Road (935),a,Baywood Road,20,5412459,420187935,Etobicoke,38014
-43.7461313,-79.6144132,2,Carrier Drive (862),a,Carrier Drive,141,5412431,98326862,Etobicoke,38014
 43.7461432,-79.6219856,2,Humberline Drive (982),a,Humberline Drive,135,5411997,96072982,Etobicoke,38014
 43.7461434,-79.5692601,2,Finch Avenue West (015),a,Finch Avenue West,425,5411507,579923015,Etobicoke,38014
 43.7461434,-79.5692601,2,Finch Avenue West (089),a,Finch Avenue West,425,5411507,579923089,Etobicoke,38014
@@ -2125,35 +1423,24 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7462158,-79.6345417,2,Claireport Crescent (833),a,Claireport Crescent,46,5413300,99024833,Etobicoke,38014
 43.7462158,-79.6345417,2,Claireport Crescent (402),a,Claireport Crescent,46,5413300,579922402,Etobicoke,38014
 43.746225,-79.6182608,2,Albion Road (393),a,Albion Road,533,5411854,389742393,Etobicoke,38014
-43.7462399,-79.6145128,2,Carrier Drive (863),a,Carrier Drive,141,5412431,98326863,Etobicoke,38014
 43.7462525,-79.6319158,2,Claireport Crescent (851),a,Claireport Crescent,46,5413300,99024851,Etobicoke,38014
 43.7462552,-79.5688288,2,Finch Avenue West (088),a,Finch Avenue West,425,5411507,579923088,Etobicoke,38014
 43.7462858,-79.6345768,2,Claireport Crescent (341),a,Claireport Crescent,46,5413300,473889341,Etobicoke,38014
 43.7463139,-79.6220164,2,Humberline Drive (984),a,Humberline Drive,135,5411997,96072984,Etobicoke,38014
 43.7463168,-79.6319268,2,Claireport Crescent (852),a,Claireport Crescent,46,5413300,99024852,Etobicoke,38014
-43.7463356,-79.6145974,2,Carrier Drive (864),a,Carrier Drive,141,5412431,98326864,Etobicoke,38014
 43.7463497,-79.6189706,2,Albion Road (107),a,Albion Road,533,5411854,297388107,Etobicoke,38014
-43.7463598,-79.6146206,2,Carrier Drive (865),a,Carrier Drive,141,5412431,98326865,Etobicoke,38014
 43.7463678,-79.6220157,2,Humberline Drive (665),a,Humberline Drive,135,5411997,297388665,Etobicoke,38014
 43.7463848,-79.6191706,2,Albion Road (392),a,Albion Road,533,5411854,389742392,Etobicoke,38014
 43.7464339,-79.6194497,2,Albion Road (159),a,Albion Road,533,5411854,95055159,Etobicoke,38014
 43.7464339,-79.6194497,2,Wimpark Drive (015),a,Wimpark Drive,3,5412521,425040015,Etobicoke,38014
 43.7464581,-79.6195839,2,Albion Road (391),a,Albion Road,533,5411854,389742391,Etobicoke,38014
-43.7464667,-79.6086171,2,Highway 27 (222),a,Highway 27,185,5411524,497595222,Etobicoke,38014
-43.7464667,-79.6086171,2,Mars Road (562),a,Mars Road,9,5412439,98363562,Etobicoke,38014
 43.7464786,-79.6220142,2,Humberline Drive (987),a,Humberline Drive,135,5411997,96072987,Etobicoke,38014
-43.7464856,-79.6147126,2,Carrier Drive (866),a,Carrier Drive,141,5412431,98326866,Etobicoke,38014
 43.7465204,-79.6199293,2,Albion Road (390),a,Albion Road,533,5411854,389742390,Etobicoke,38014
-43.7465207,-79.6084008,2,Mars Road (563),a,Mars Road,9,5412439,98363563,Etobicoke,38014
-43.7465256,-79.6083811,2,Mars Road (898),a,Mars Road,9,5412439,560927898,Etobicoke,38014
 43.7465853,-79.6193952,2,Wimpark Drive (378),a,Wimpark Drive,3,5412521,473889378,Etobicoke,38014
 43.7465959,-79.6193914,2,Wimpark Drive (666),a,Wimpark Drive,3,5412521,411734666,Etobicoke,38014
-43.7466029,-79.6080715,2,Mars Road (926),a,Mars Road,9,5412439,420187926,Etobicoke,38014
-43.7466146,-79.6080247,2,Mars Road (703),a,Mars Road,9,5412439,490816703,Etobicoke,38014
 43.7466372,-79.6320013,2,Claireport Crescent (726),a,Claireport Crescent,46,5413300,503157726,Etobicoke,38014
 43.7466562,-79.6219913,2,Humberline Drive (989),a,Humberline Drive,135,5411997,96072989,Etobicoke,38014
 43.7466994,-79.620922,2,Albion Road (589),a,Albion Road,533,5411854,425039589,Etobicoke,38014
-43.7467112,-79.6076376,2,Mars Road (704),a,Mars Road,9,5412439,490816704,Etobicoke,38014
 43.7467172,-79.6210205,2,Albion Road (211),a,Albion Road,533,5411854,513623211,Etobicoke,38014
 43.7467388,-79.6219729,2,Humberline Drive (873),a,Humberline Drive,135,5411997,473888873,Etobicoke,38014
 43.7467454,-79.6214707,2,Albion Road (344),a,Albion Road,533,5411854,95055344,Etobicoke,38014
@@ -2162,7 +1449,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.746764,-79.6212805,2,Albion Road (345),a,Albion Road,533,5411854,95055345,Etobicoke,38014
 43.7468005,-79.6347349,2,Claireport Crescent (343),a,Claireport Crescent,46,5413300,473889343,Etobicoke,38014
 43.7468062,-79.6217862,2,Albion Road (744),a,Albion Road,533,5411854,473888744,Etobicoke,38014
-43.7468132,-79.6072288,2,Mars Road (702),a,Mars Road,9,5412439,490816702,Etobicoke,38014
 43.7468371,-79.6219512,2,Albion Road (342),a,Albion Road,533,5411854,95055342,Etobicoke,38014
 43.7468371,-79.6219512,2,Albion Road (353),a,Albion Road,533,5411854,95055353,Etobicoke,38014
 43.7468371,-79.6219512,2,Humberline Drive (992),a,Humberline Drive,135,5411997,96072992,Etobicoke,38014
@@ -2175,35 +1461,23 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7469305,-79.6219226,2,Albion Road (339),a,Albion Road,533,5411854,95055339,Etobicoke,38014
 43.7469305,-79.6219226,2,Albion Road (347),a,Albion Road,533,5411854,95055347,Etobicoke,38014
 43.7469305,-79.6219226,2,Humberline Drive (877),a,Humberline Drive,135,5411997,473888877,Etobicoke,38014
-43.7469613,-79.6061924,2,Baywood Road (973),a,Baywood Road,20,5412459,506059973,Etobicoke,38014
-43.7469724,-79.6149333,2,Carrier Drive (087),a,Carrier Drive,141,5412431,389742087,Etobicoke,38014
 43.746974,-79.6347816,2,Claireport Crescent (342),a,Claireport Crescent,46,5413300,473889342,Etobicoke,38014
 43.7469772,-79.6227498,2,Albion Road (324),a,Albion Road,533,5411854,95055324,Etobicoke,38014
 43.7469772,-79.6227498,2,Albion Road (355),a,Albion Road,533,5411854,95055355,Etobicoke,38014
 43.746982,-79.6222553,2,Albion Road (349),a,Albion Road,533,5411854,95055349,Etobicoke,38014
 43.746982,-79.6222553,2,Albion Road (358),a,Albion Road,533,5411854,95055358,Etobicoke,38014
 43.7470144,-79.6321101,2,Claireport Crescent (854),a,Claireport Crescent,46,5413300,99024854,Etobicoke,38014
-43.7470255,-79.6063781,2,Mars Road (940),a,Mars Road,9,5412439,432527940,Etobicoke,38014
 43.7470267,-79.6225153,2,Albion Road (902),a,Albion Road,533,5411854,95054902,Etobicoke,38014
 43.7470267,-79.6225153,2,Albion Road (359),a,Albion Road,533,5411854,95055359,Etobicoke,38014
-43.7470323,-79.608875,2,Highway 27 (221),a,Highway 27,185,5411524,497595221,Etobicoke,38014
-43.7470323,-79.608875,2,Highway 27 (223),a,Highway 27,185,5411524,497595223,Etobicoke,38014
-43.7470612,-79.6062351,2,Mars Road (564),a,Mars Road,9,5412439,98363564,Etobicoke,38014
-43.7470612,-79.6062351,2,Baywood Road (886),a,Baywood Road,20,5412459,98419886,Etobicoke,38014
-43.7470612,-79.6062351,2,Baywood Road (887),a,Baywood Road,20,5412459,98419887,Etobicoke,38014
 43.7470657,-79.6227226,2,Albion Road (903),a,Albion Road,533,5411854,95054903,Etobicoke,38014
-43.7471646,-79.6150205,2,Carrier Drive (899),a,Carrier Drive,141,5412431,497595899,Etobicoke,38014
 43.7471669,-79.6321756,2,Claireport Crescent (069),a,Claireport Crescent,46,5413300,497596069,Etobicoke,38014
 43.7471784,-79.6233739,2,Albion Road (904),a,Albion Road,533,5411854,95054904,Etobicoke,38014
 43.7472534,-79.6322143,2,Claireport Crescent (855),a,Claireport Crescent,46,5413300,99024855,Etobicoke,38014
 43.7472534,-79.6322143,2,Claireport Crescent (856),a,Claireport Crescent,46,5413300,99024856,Etobicoke,38014
 43.7472534,-79.6322143,2,Claireport Crescent (865),a,Claireport Crescent,46,5413300,99024865,Etobicoke,38014
 43.7472545,-79.6348446,2,Claireport Crescent (340),a,Claireport Crescent,46,5413300,473889340,Etobicoke,38014
-43.7472612,-79.6063198,2,Baywood Road (974),a,Baywood Road,20,5412459,506059974,Etobicoke,38014
-43.7472718,-79.6089842,2,Highway 27 (754),a,Highway 27,185,5411524,92429754,Etobicoke,38014
 43.7472788,-79.6348515,2,Claireport Crescent (339),a,Claireport Crescent,46,5413300,473889339,Etobicoke,38014
 43.7472886,-79.6323042,2,Claireport Crescent (864),a,Claireport Crescent,46,5413300,99024864,Etobicoke,38014
-43.7472927,-79.6150786,2,Carrier Drive (867),a,Carrier Drive,141,5412431,98326867,Etobicoke,38014
 43.7473183,-79.6321894,2,Claireport Crescent (857),a,Claireport Crescent,46,5413300,99024857,Etobicoke,38014
 43.7473958,-79.6345712,2,Albion Road (275),a,Albion Road,533,5411854,95055275,Etobicoke,38014
 43.7473964,-79.6245717,2,Albion Road (905),a,Albion Road,533,5411854,95054905,Etobicoke,38014
@@ -2217,7 +1491,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7474599,-79.6253907,2,Albion Road (319),a,Albion Road,533,5411854,95055319,Etobicoke,38014
 43.7474599,-79.6253907,2,Albion Road (321),a,Albion Road,533,5411854,95055321,Etobicoke,38014
 43.7474616,-79.6353544,2,Albion Road (155),a,Albion Road,533,5411854,95055155,Etobicoke,38014
-43.7474962,-79.6151695,2,Carrier Drive (392),a,Carrier Drive,141,5412431,530240392,Etobicoke,38014
 43.7475044,-79.6335243,2,Albion Road (285),a,Albion Road,533,5411854,95055285,Etobicoke,38014
 43.7475065,-79.6356229,2,Albion Road (154),a,Albion Road,533,5411854,95055154,Etobicoke,38014
 43.7475229,-79.6252622,2,Albion Road (900),a,Albion Road,533,5411854,95054900,Etobicoke,38014
@@ -2234,7 +1507,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7476072,-79.6360466,2,Albion Road (152),a,Albion Road,533,5411854,95055152,Etobicoke,38014
 43.7476191,-79.6330862,2,Albion Road (592),a,Albion Road,533,5411854,425039592,Etobicoke,38014
 43.7476395,-79.6330599,2,Albion Road (266),a,Albion Road,533,5411854,95055266,Etobicoke,38014
-43.7476508,-79.6064847,2,Baywood Road (706),a,Baywood Road,20,5412459,490816706,Etobicoke,38014
 43.7476632,-79.6324981,2,Albion Road (230),a,Albion Road,533,5411854,95055230,Etobicoke,38014
 43.7476632,-79.6324981,2,Albion Road (239),a,Albion Road,533,5411854,95055239,Etobicoke,38014
 43.7476632,-79.6324981,2,Claireport Crescent (862),a,Claireport Crescent,46,5413300,99024862,Etobicoke,38014
@@ -2250,7 +1522,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7477614,-79.6325338,2,Albion Road (263),a,Albion Road,533,5411854,95055263,Etobicoke,38014
 43.7477614,-79.6325338,2,Claireport Crescent (861),a,Claireport Crescent,46,5413300,99024861,Etobicoke,38014
 43.7477614,-79.6325338,2,Codlin Crescent (393),a,Codlin Crescent,43,5413301,99026393,Etobicoke,38014
-43.7477657,-79.6065334,2,Baywood Road (705),a,Baywood Road,20,5412459,490816705,Etobicoke,38014
 43.7477871,-79.6365801,2,Albion Road (148),a,Albion Road,533,5411854,95055148,Etobicoke,38014
 43.7477893,-79.6324155,2,Albion Road (231),a,Albion Road,533,5411854,95055231,Etobicoke,38014
 43.7477893,-79.6324155,2,Albion Road (238),a,Albion Road,533,5411854,95055238,Etobicoke,38014
@@ -2261,7 +1532,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7478958,-79.631492,2,Albion Road (243),a,Albion Road,533,5411854,95055243,Etobicoke,38014
 43.7479306,-79.6317843,2,Albion Road (236),a,Albion Road,533,5411854,95055236,Etobicoke,38014
 43.7479618,-79.6369666,2,Albion Road (146),a,Albion Road,533,5411854,95055146,Etobicoke,38014
-43.7479786,-79.609379,2,Highway 27 (756),a,Highway 27,185,5411524,92429756,Etobicoke,38014
 43.7479902,-79.6277981,2,Albion Road (250),a,Albion Road,533,5411854,95055250,Etobicoke,38014
 43.7479902,-79.6277981,2,Albion Road (290),a,Albion Road,533,5411854,95055290,Etobicoke,38014
 43.7480122,-79.6310014,2,Albion Road (245),a,Albion Road,533,5411854,95055245,Etobicoke,38014
@@ -2279,7 +1549,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7481041,-79.6291701,2,Albion Road (255),a,Albion Road,533,5411854,95055255,Etobicoke,38014
 43.7481119,-79.6307392,2,Albion Road (221),a,Albion Road,533,5411854,95055221,Etobicoke,38014
 43.7481129,-79.6284975,2,Albion Road (292),a,Albion Road,533,5411854,95055292,Etobicoke,38014
-43.7481193,-79.6154477,2,Carrier Drive (393),a,Carrier Drive,141,5412431,530240393,Etobicoke,38014
 43.7481243,-79.6372748,2,Albion Road (144),a,Albion Road,533,5411854,95055144,Etobicoke,38014
 43.7481297,-79.6285925,2,Albion Road (295),a,Albion Road,533,5411854,95055295,Etobicoke,38014
 43.7481297,-79.6285925,2,Albion Road (298),a,Albion Road,533,5411854,95055298,Etobicoke,38014
@@ -2301,17 +1570,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7482643,-79.6326843,2,Codlin Crescent (359),a,Codlin Crescent,43,5413301,99026359,Etobicoke,38014
 43.7482643,-79.6326843,2,Codlin Crescent (360),a,Codlin Crescent,43,5413301,99026360,Etobicoke,38014
 43.7482643,-79.6326843,2,Codlin Crescent (391),a,Codlin Crescent,43,5413301,99026391,Etobicoke,38014
-43.7483253,-79.6155397,2,Carrier Drive (215),a,Carrier Drive,141,5412431,513623215,Etobicoke,38014
-43.7483832,-79.6067948,2,Baywood Road (843),a,Baywood Road,20,5412459,397325843,Etobicoke,38014
 43.7484635,-79.6327661,2,Codlin Crescent (361),a,Codlin Crescent,43,5413301,99026361,Etobicoke,38014
-43.7485036,-79.6156202,2,Carrier Drive (214),a,Carrier Drive,141,5412431,513623214,Etobicoke,38014
 43.7485642,-79.6328224,2,Codlin Crescent (362),a,Codlin Crescent,43,5413301,99026362,Etobicoke,38014
 43.7486398,-79.6328784,2,Codlin Crescent (363),a,Codlin Crescent,43,5413301,99026363,Etobicoke,38014
 43.7486555,-79.63289,2,Codlin Crescent (364),a,Codlin Crescent,43,5413301,99026364,Etobicoke,38014
 43.7486703,-79.6329048,2,Codlin Crescent (987),a,Codlin Crescent,43,5413301,425039987,Etobicoke,38014
-43.7487154,-79.6069354,2,Baywood Road (844),a,Baywood Road,20,5412459,397325844,Etobicoke,38014
 43.7487192,-79.6329538,2,Codlin Crescent (365),a,Codlin Crescent,43,5413301,99026365,Etobicoke,38014
-43.7487741,-79.6157412,2,Carrier Drive (900),a,Carrier Drive,141,5412431,497595900,Etobicoke,38014
 43.7487812,-79.6330289,2,Codlin Crescent (366),a,Codlin Crescent,43,5413301,99026366,Etobicoke,38014
 43.7488318,-79.6331123,2,Codlin Crescent (367),a,Codlin Crescent,43,5413301,99026367,Etobicoke,38014
 43.7488607,-79.6331657,2,Codlin Crescent (368),a,Codlin Crescent,43,5413301,99026368,Etobicoke,38014
@@ -2321,150 +1585,76 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7489711,-79.6335144,2,Codlin Crescent (371),a,Codlin Crescent,43,5413301,99026371,Etobicoke,38014
 43.7489978,-79.6336635,2,Codlin Crescent (372),a,Codlin Crescent,43,5413301,99026372,Etobicoke,38014
 43.749117,-79.6281257,2,Steinway Boulevard (678),a,Steinway Boulevard,58,5412392,425039678,Etobicoke,38014
-43.7491234,-79.6071041,2,Baywood Road (845),a,Baywood Road,20,5412459,397325845,Etobicoke,38014
 43.7491493,-79.634509,2,Codlin Crescent (386),a,Codlin Crescent,43,5413301,389742386,Etobicoke,38014
 43.7491805,-79.6280957,2,Steinway Boulevard (389),a,Steinway Boulevard,58,5412392,98210389,Etobicoke,38014
-43.7491932,-79.6071317,2,Baywood Road (846),a,Baywood Road,20,5412459,397325846,Etobicoke,38014
-43.7492001,-79.6101343,2,Highway 27 (669),a,Highway 27,185,5411524,92429669,Etobicoke,38014
-43.7492001,-79.6101343,2,Highway 27 (758),a,Highway 27,185,5411524,92429758,Etobicoke,38014
-43.7492001,-79.6101343,2,Highway 27 (897),a,Highway 27,185,5411524,92429897,Etobicoke,38014
 43.749221,-79.6385009,2,Albion Road (168),a,Albion Road,533,5411854,95055168,Etobicoke,38014
 43.749274,-79.6352046,2,Alcide Street (641),a,Alcide Street,16,5412391,98200641,Etobicoke,38014
 43.749274,-79.6352046,2,Codlin Crescent (373),a,Codlin Crescent,43,5413301,99026373,Etobicoke,38014
-43.7493113,-79.6159941,2,Carrier Drive (868),a,Carrier Drive,141,5412431,98326868,Etobicoke,38014
 43.7493235,-79.6280055,2,Steinway Boulevard (391),a,Steinway Boulevard,58,5412392,98210391,Etobicoke,38014
 43.7493382,-79.6355517,2,Codlin Crescent (748),a,Codlin Crescent,43,5413301,490816748,Etobicoke,38014
 43.7493661,-79.6351725,2,Alcide Street (642),a,Alcide Street,16,5412391,98200642,Etobicoke,38014
-43.7493799,-79.6103489,2,Highway 27 (892),a,Highway 27,185,5411524,92429892,Etobicoke,38014
 43.7493935,-79.6351629,2,Alcide Street (643),a,Alcide Street,16,5412391,98200643,Etobicoke,38014
-43.749397,-79.6160283,2,Carrier Drive (869),a,Carrier Drive,141,5412431,98326869,Etobicoke,38014
-43.7494605,-79.6102287,2,Highway 27 (670),a,Highway 27,185,5411524,92429670,Etobicoke,38014
 43.7494663,-79.6279029,2,Steinway Boulevard (394),a,Steinway Boulevard,58,5412392,98210394,Etobicoke,38014
 43.7494933,-79.6363904,2,Codlin Crescent (070),a,Codlin Crescent,43,5413301,497596070,Etobicoke,38014
 43.749537,-79.6366268,2,Codlin Crescent (374),a,Codlin Crescent,43,5413301,99026374,Etobicoke,38014
-43.7495559,-79.6104756,2,Highway 27 (890),a,Highway 27,185,5411524,92429890,Etobicoke,38014
-43.749562,-79.6104792,2,Highway 27 (279),a,Highway 27,185,5411524,560927279,Etobicoke,38014
 43.7495817,-79.6277636,2,Steinway Boulevard (397),a,Steinway Boulevard,58,5412392,98210397,Etobicoke,38014
-43.7496042,-79.6103346,2,Highway 27 (671),a,Highway 27,185,5411524,92429671,Etobicoke,38014
-43.7496053,-79.5890352,2,Silverstone Drive (454),a,Silverstone Drive,212,5412425,98300454,Etobicoke,38014
-43.7496178,-79.6103432,2,Highway 27 (277),a,Highway 27,185,5411524,560927277,Etobicoke,38014
-43.7496251,-79.6073129,2,Baywood Road (888),a,Baywood Road,20,5412459,98419888,Etobicoke,38014
 43.7496435,-79.6276628,2,Steinway Boulevard (400),a,Steinway Boulevard,58,5412392,98210400,Etobicoke,38014
-43.7496676,-79.6073298,2,Baywood Road (889),a,Baywood Road,20,5412459,98419889,Etobicoke,38014
 43.7496685,-79.6372909,2,Codlin Crescent (375),a,Codlin Crescent,43,5413301,99026375,Etobicoke,38014
-43.7496898,-79.6105546,2,Highway 27 (886),a,Highway 27,185,5411524,92429886,Etobicoke,38014
-43.7496898,-79.6105546,2,Highway 27 (888),a,Highway 27,185,5411524,92429888,Etobicoke,38014
-43.7496898,-79.6105546,2,Royalcrest Road (931),a,Royalcrest Road,32,5412447,98395931,Etobicoke,38014
 43.7496956,-79.6275002,2,Steinway Boulevard (403),a,Steinway Boulevard,58,5412392,98210403,Etobicoke,38014
-43.7497195,-79.6104075,2,Highway 27 (672),a,Highway 27,185,5411524,92429672,Etobicoke,38014
-43.7497195,-79.6104075,2,Highway 27 (975),a,Highway 27,185,5411524,92429975,Etobicoke,38014
-43.7497195,-79.6104075,2,Royalcrest Road (932),a,Royalcrest Road,32,5412447,98395932,Etobicoke,38014
-43.7497195,-79.6104075,2,Royalcrest Road (947),a,Royalcrest Road,32,5412447,98395947,Etobicoke,38014
 43.7497208,-79.6376047,2,Codlin Crescent (376),a,Codlin Crescent,43,5413301,99026376,Etobicoke,38014
 43.7497391,-79.627375,2,Steinway Boulevard (404),a,Steinway Boulevard,58,5412392,98210404,Etobicoke,38014
-43.7497459,-79.6103073,2,Royalcrest Road (899),a,Royalcrest Road,32,5412447,560927899,Etobicoke,38014
-43.7497488,-79.6102964,2,Royalcrest Road (948),a,Royalcrest Road,32,5412447,98395948,Etobicoke,38014
 43.7497558,-79.6390686,2,Albion Road (590),a,Albion Road,533,5411854,425039590,Etobicoke,38014
 43.7497748,-79.6390891,2,Albion Road (591),a,Albion Road,533,5411854,425039591,Etobicoke,38014
-43.7497783,-79.6073824,2,Baywood Road (890),a,Baywood Road,20,5412459,98419890,Etobicoke,38014
 43.7497825,-79.6272373,2,Steinway Boulevard (407),a,Steinway Boulevard,58,5412392,98210407,Etobicoke,38014
-43.7497836,-79.6101962,2,Royalcrest Road (949),a,Royalcrest Road,32,5412447,98395949,Etobicoke,38014
-43.7497856,-79.5890558,2,Silverstone Drive (455),a,Silverstone Drive,212,5412425,98300455,Etobicoke,38014
 43.7497945,-79.6380071,2,Codlin Crescent (377),a,Codlin Crescent,43,5413301,99026377,Etobicoke,38014
-43.7498139,-79.610632,2,Highway 27 (278),a,Highway 27,185,5411524,560927278,Etobicoke,38014
-43.7498182,-79.6100837,2,Royalcrest Road (950),a,Royalcrest Road,32,5412447,98395950,Etobicoke,38014
-43.7498221,-79.6106371,2,Highway 27 (884),a,Highway 27,185,5411524,92429884,Etobicoke,38014
-43.7498269,-79.6100586,2,Royalcrest Road (951),a,Royalcrest Road,32,5412447,98395951,Etobicoke,38014
 43.7498277,-79.63812,2,Codlin Crescent (378),a,Codlin Crescent,43,5413301,99026378,Etobicoke,38014
 43.7498404,-79.6391603,2,Albion Road (170),a,Albion Road,533,5411854,95055170,Etobicoke,38014
 43.7498404,-79.6391603,2,Steeles Avenue West (152),a,Steeles Avenue West,144,5412610,98623152,Etobicoke,38014
-43.7498607,-79.6104986,2,Highway 27 (280),a,Highway 27,185,5411524,560927280,Etobicoke,38014
 43.7498642,-79.6381895,2,Codlin Crescent (379),a,Codlin Crescent,43,5413301,99026379,Etobicoke,38014
-43.7498683,-79.6105035,2,Highway 27 (976),a,Highway 27,185,5411524,92429976,Etobicoke,38014
 43.7498894,-79.6382136,2,Codlin Crescent (380),a,Codlin Crescent,43,5413301,99026380,Etobicoke,38014
 43.7498949,-79.6390595,2,Steeles Avenue West (076),a,Steeles Avenue West,144,5412610,425039076,Etobicoke,38014
-43.7499024,-79.6162489,2,Carrier Drive (870),a,Carrier Drive,141,5412431,98326870,Etobicoke,38014
 43.7499093,-79.6390328,2,Steeles Avenue West (075),a,Steeles Avenue West,144,5412610,425039075,Etobicoke,38014
 43.7499149,-79.6382246,2,Codlin Crescent (381),a,Codlin Crescent,43,5413301,99026381,Etobicoke,38014
-43.7499196,-79.6096574,2,Royalcrest Road (952),a,Royalcrest Road,32,5412447,98395952,Etobicoke,38014
 43.7499271,-79.6265165,2,Steinway Boulevard (567),a,Steinway Boulevard,58,5412392,361412567,Etobicoke,38014
 43.7499456,-79.6382243,2,Codlin Crescent (382),a,Codlin Crescent,43,5413301,99026382,Etobicoke,38014
 43.749965,-79.6382163,2,Codlin Crescent (383),a,Codlin Crescent,43,5413301,99026383,Etobicoke,38014
 43.7499921,-79.6381975,2,Codlin Crescent (384),a,Codlin Crescent,43,5413301,99026384,Etobicoke,38014
-43.7499932,-79.5891006,2,Silverstone Drive (456),a,Silverstone Drive,212,5412425,98300456,Etobicoke,38014
-43.7500066,-79.616277,2,Carrier Drive (871),a,Carrier Drive,141,5412431,98326871,Etobicoke,38014
 43.7500173,-79.63816,2,Codlin Crescent (385),a,Codlin Crescent,43,5413301,99026385,Etobicoke,38014
 43.750029,-79.6260269,2,Steinway Boulevard (408),a,Steinway Boulevard,58,5412392,98210408,Etobicoke,38014
 43.7500309,-79.6381251,2,Codlin Crescent (386),a,Codlin Crescent,43,5413301,99026386,Etobicoke,38014
 43.7500408,-79.6380717,2,Codlin Crescent (387),a,Codlin Crescent,43,5413301,99026387,Etobicoke,38014
 43.7500525,-79.6379966,2,Codlin Crescent (388),a,Codlin Crescent,43,5413301,99026388,Etobicoke,38014
-43.7500661,-79.607519,2,Baywood Road (891),a,Baywood Road,20,5412459,98419891,Etobicoke,38014
-43.7500664,-79.6090222,2,Royalcrest Road (953),a,Royalcrest Road,32,5412447,98395953,Etobicoke,38014
 43.7500696,-79.637881,2,Codlin Crescent (389),a,Codlin Crescent,43,5413301,99026389,Etobicoke,38014
 43.7500713,-79.6258021,2,Steinway Boulevard (411),a,Steinway Boulevard,58,5412392,98210411,Etobicoke,38014
-43.7500809,-79.6162958,2,Carrier Drive (872),a,Carrier Drive,141,5412431,98326872,Etobicoke,38014
 43.7501106,-79.6376857,2,Codlin Crescent (355),a,Codlin Crescent,43,5413301,99026355,Etobicoke,38014
 43.7501106,-79.6376857,2,Codlin Crescent (390),a,Codlin Crescent,43,5413301,99026390,Etobicoke,38014
-43.7501247,-79.6162933,2,Carrier Drive (873),a,Carrier Drive,141,5412431,98326873,Etobicoke,38014
-43.7501384,-79.6087156,2,Royalcrest Road (213),a,Royalcrest Road,32,5412447,420188213,Etobicoke,38014
-43.7501674,-79.6162862,2,Carrier Drive (874),a,Carrier Drive,141,5412431,98326874,Etobicoke,38014
-43.7501686,-79.6075688,2,Baywood Road (892),a,Baywood Road,20,5412459,98419892,Etobicoke,38014
 43.7501746,-79.6253196,2,Steinway Boulevard (568),a,Steinway Boulevard,58,5412392,361412568,Etobicoke,38014
-43.7501788,-79.6085435,2,Royalcrest Road (954),a,Royalcrest Road,32,5412447,98395954,Etobicoke,38014
 43.7502055,-79.6251924,2,Steinway Boulevard (387),a,Steinway Boulevard,58,5412392,530240387,Etobicoke,38014
-43.7502209,-79.6162583,2,Carrier Drive (875),a,Carrier Drive,141,5412431,98326875,Etobicoke,38014
 43.7502602,-79.638361,2,Steeles Avenue West (154),a,Steeles Avenue West,144,5412610,98623154,Etobicoke,38014
-43.7502965,-79.6161982,2,Carrier Drive (876),a,Carrier Drive,141,5412431,98326876,Etobicoke,38014
-43.7503251,-79.6161668,2,Carrier Drive (050),a,Carrier Drive,141,5412431,504638050,Etobicoke,38014
-43.7503353,-79.6161556,2,Carrier Drive (877),a,Carrier Drive,141,5412431,98326877,Etobicoke,38014
-43.7503831,-79.6076731,2,Royalcrest Road (933),a,Royalcrest Road,32,5412447,98395933,Etobicoke,38014
-43.7503831,-79.6076731,2,Royalcrest Road (955),a,Royalcrest Road,32,5412447,98395955,Etobicoke,38014
-43.7503831,-79.6076731,2,Baywood Road (893),a,Baywood Road,20,5412459,98419893,Etobicoke,38014
-43.7503977,-79.6160544,2,Carrier Drive (878),a,Carrier Drive,141,5412431,98326878,Etobicoke,38014
 43.7503989,-79.6364102,2,Codlin Crescent (356),a,Codlin Crescent,43,5413301,99026356,Etobicoke,38014
 43.7504198,-79.6243089,2,Steinway Boulevard (414),a,Steinway Boulevard,58,5412392,98210414,Etobicoke,38014
 43.7504204,-79.6348242,2,Alcide Street (493),a,Alcide Street,16,5412391,297393493,Etobicoke,38014
-43.7504486,-79.6073865,2,Royalcrest Road (934),a,Royalcrest Road,32,5412447,98395934,Etobicoke,38014
-43.7504486,-79.6073865,2,Royalcrest Road (941),a,Royalcrest Road,32,5412447,98395941,Etobicoke,38014
-43.7504486,-79.6073865,2,Leading Road (739),a,Leading Road,16,5412647,98645739,Etobicoke,38014
-43.7504557,-79.6159165,2,Carrier Drive (879),a,Carrier Drive,141,5412431,98326879,Etobicoke,38014
-43.7504847,-79.61579,2,Carrier Drive (051),a,Carrier Drive,141,5412431,504638051,Etobicoke,38014
 43.75051,-79.6238996,2,Steinway Boulevard (351),a,Steinway Boulevard,58,5412392,98210351,Etobicoke,38014
 43.75051,-79.6238996,2,Steinway Boulevard (415),a,Steinway Boulevard,58,5412392,98210415,Etobicoke,38014
 43.75051,-79.6238996,2,Signal Hill Avenue (752),a,Signal Hill Avenue,10,5412394,98218752,Etobicoke,38014
-43.7505499,-79.6074339,2,Leading Road (905),a,Leading Road,16,5412647,560927905,Etobicoke,38014
 43.7505501,-79.611091,2,Highway 27 (775),a,Highway 27,185,5411524,92429775,Etobicoke,38014
 43.7505501,-79.611091,2,Highway 27 (882),a,Highway 27,185,5411524,92429882,Etobicoke,38014
-43.7505632,-79.615448,2,Carrier Drive (880),a,Carrier Drive,141,5412431,98326880,Etobicoke,38014
 43.7505959,-79.6347663,2,Alcide Street (635),a,Alcide Street,16,5412391,98200635,Etobicoke,38014
 43.7505959,-79.6347663,2,Alcide Street (644),a,Alcide Street,16,5412391,98200644,Etobicoke,38014
 43.7505959,-79.6347663,2,Alcide Street (648),a,Alcide Street,16,5412391,98200648,Etobicoke,38014
-43.7506035,-79.6152725,2,Carrier Drive (055),a,Carrier Drive,141,5412431,504638055,Etobicoke,38014
-43.7506226,-79.6065839,2,Royalcrest Road (942),a,Royalcrest Road,32,5412447,98395942,Etobicoke,38014
-43.7506372,-79.6151254,2,Carrier Drive (052),a,Carrier Drive,141,5412431,504638052,Etobicoke,38014
 43.7506766,-79.6232045,2,Steinway Boulevard (354),a,Steinway Boulevard,58,5412392,98210354,Etobicoke,38014
 43.7506963,-79.6346843,2,Alcide Street (491),a,Alcide Street,16,5412391,297393491,Etobicoke,38014
 43.7507138,-79.6347694,2,Alcide Street (494),a,Alcide Street,16,5412391,297393494,Etobicoke,38014
 43.7507254,-79.6230587,2,Steinway Boulevard (660),a,Steinway Boulevard,58,5412392,363962660,Etobicoke,38014
-43.7507431,-79.6146638,2,Carrier Drive (053),a,Carrier Drive,141,5412431,504638053,Etobicoke,38014
-43.7507925,-79.6058005,2,Royalcrest Road (943),a,Royalcrest Road,32,5412447,98395943,Etobicoke,38014
 43.7507977,-79.6228506,2,Steinway Boulevard (355),a,Steinway Boulevard,58,5412392,98210355,Etobicoke,38014
-43.7507992,-79.6144195,2,Carrier Drive (054),a,Carrier Drive,141,5412431,504638054,Etobicoke,38014
 43.750819,-79.6346516,2,Alcide Street (492),a,Alcide Street,16,5412391,297393492,Etobicoke,38014
-43.7508352,-79.6056132,2,Royalcrest Road (944),a,Royalcrest Road,32,5412447,98395944,Etobicoke,38014
 43.7508583,-79.6226904,2,Steinway Boulevard (357),a,Steinway Boulevard,58,5412392,98210357,Etobicoke,38014
 43.7508613,-79.6346403,2,Alcide Street (636),a,Alcide Street,16,5412391,98200636,Etobicoke,38014
 43.7508643,-79.6347334,2,Alcide Street (647),a,Alcide Street,16,5412391,98200647,Etobicoke,38014
-43.750891,-79.6140194,2,Carrier Drive (881),a,Carrier Drive,141,5412431,98326881,Etobicoke,38014
-43.7508979,-79.6139274,2,Carrier Drive (882),a,Carrier Drive,141,5412431,98326882,Etobicoke,38014
-43.7509326,-79.60517,2,Royalcrest Road (683),a,Royalcrest Road,32,5412447,520398683,Etobicoke,38014
 43.7509544,-79.6346373,2,Alcide Street (637),a,Alcide Street,16,5412391,98200637,Etobicoke,38014
 43.7509548,-79.6224834,2,Steinway Boulevard (661),a,Steinway Boulevard,58,5412392,363962661,Etobicoke,38014
 43.7509879,-79.6364922,2,Steeles Avenue West (750),a,Steeles Avenue West,144,5412610,335002750,Etobicoke,38014
 43.751041,-79.622311,2,Steinway Boulevard (358),a,Steinway Boulevard,58,5412392,98210358,Etobicoke,38014
-43.7510489,-79.6046414,2,Royalcrest Road (682),a,Royalcrest Road,32,5412447,520398682,Etobicoke,38014
-43.7510659,-79.613679,2,Carrier Drive (883),a,Carrier Drive,141,5412431,98326883,Etobicoke,38014
-43.7510717,-79.607678,2,Leading Road (740),a,Leading Road,16,5412647,98645740,Etobicoke,38014
 43.7510765,-79.6346444,2,Alcide Street (638),a,Alcide Street,16,5412391,98200638,Etobicoke,38014
 43.7510906,-79.6360286,2,Steeles Avenue West (751),a,Steeles Avenue West,144,5412610,335002751,Etobicoke,38014
 43.7510966,-79.6347539,2,Alcide Street (646),a,Alcide Street,16,5412391,98200646,Etobicoke,38014
@@ -2474,7 +1664,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7511648,-79.622042,2,Steinway Boulevard (360),a,Steinway Boulevard,58,5412392,98210360,Etobicoke,38014
 43.7511717,-79.6114819,2,Highway 27 (774),a,Highway 27,185,5411524,92429774,Etobicoke,38014
 43.7511787,-79.6242046,2,Signal Hill Avenue (014),a,Signal Hill Avenue,10,5412394,504638014,Etobicoke,38014
-43.7511876,-79.6077322,2,Leading Road (741),a,Leading Road,16,5412647,98645741,Etobicoke,38014
 43.7511896,-79.6219897,2,Steinway Boulevard (662),a,Steinway Boulevard,58,5412392,363962662,Etobicoke,38014
 43.7511951,-79.635178,2,Steeles Avenue West (755),a,Steeles Avenue West,144,5412610,335002755,Etobicoke,38014
 43.7512029,-79.6339918,2,Steeles Avenue West (157),a,Steeles Avenue West,144,5412610,98623157,Etobicoke,38014
@@ -2493,29 +1682,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.75137,-79.6320974,2,Steeles Avenue West (166),a,Steeles Avenue West,144,5412610,98623166,Etobicoke,38014
 43.751452,-79.6214523,2,Steinway Boulevard (363),a,Steinway Boulevard,58,5412392,98210363,Etobicoke,38014
 43.7515313,-79.6115763,2,Highway 27 (977),a,Highway 27,185,5411524,92429977,Etobicoke,38014
-43.75156,-79.60791,2,Leading Road (742),a,Leading Road,16,5412647,98645742,Etobicoke,38014
 43.7516094,-79.6210868,2,Steinway Boulevard (508),a,Steinway Boulevard,58,5412392,297393508,Etobicoke,38014
 43.7516435,-79.6244146,2,Signal Hill Avenue (015),a,Signal Hill Avenue,10,5412394,504638015,Etobicoke,38014
 43.7516811,-79.6209207,2,Steinway Boulevard (954),a,Steinway Boulevard,58,5412392,486821954,Etobicoke,38014
-43.7516897,-79.6018546,2,Royalcrest Road (936),a,Royalcrest Road,32,5412447,98395936,Etobicoke,38014
-43.7516952,-79.6079696,2,Leading Road (743),a,Leading Road,16,5412647,98645743,Etobicoke,38014
 43.7517828,-79.6244775,2,Signal Hill Avenue (533),a,Signal Hill Avenue,10,5412394,297393533,Etobicoke,38014
 43.7518072,-79.6206239,2,Steinway Boulevard (252),a,Steinway Boulevard,58,5412392,481637252,Etobicoke,38014
 43.7519294,-79.620375,2,Steinway Boulevard (251),a,Steinway Boulevard,58,5412392,481637251,Etobicoke,38014
 43.7519942,-79.6202431,2,Steinway Boulevard (365),a,Steinway Boulevard,58,5412392,98210365,Etobicoke,38014
-43.7520722,-79.608146,2,Leading Road (744),a,Leading Road,16,5412647,98645744,Etobicoke,38014
 43.752109,-79.6200542,2,Steinway Boulevard (367),a,Steinway Boulevard,58,5412392,98210367,Etobicoke,38014
-43.7522036,-79.6082075,2,Leading Road (745),a,Leading Road,16,5412647,98645745,Etobicoke,38014
-43.7522231,-79.5910358,2,Silverstone Drive (488),a,Silverstone Drive,212,5412425,98300488,Etobicoke,38014
 43.7522328,-79.6199232,2,Steinway Boulevard (368),a,Steinway Boulevard,58,5412392,98210368,Etobicoke,38014
 43.7522834,-79.6247036,2,Signal Hill Avenue (566),a,Signal Hill Avenue,10,5412394,361412566,Etobicoke,38014
 43.7523401,-79.6198129,2,Steinway Boulevard (370),a,Steinway Boulevard,58,5412392,98210370,Etobicoke,38014
 43.752381,-79.6197813,2,Steinway Boulevard (953),a,Steinway Boulevard,58,5412392,486821953,Etobicoke,38014
 43.7524561,-79.6197233,2,Steinway Boulevard (371),a,Steinway Boulevard,58,5412392,98210371,Etobicoke,38014
 43.7524677,-79.6247868,2,Signal Hill Avenue (534),a,Signal Hill Avenue,10,5412394,297393534,Etobicoke,38014
-43.7525978,-79.6083919,2,Leading Road (746),a,Leading Road,16,5412647,98645746,Etobicoke,38014
 43.7525991,-79.619633,2,Steinway Boulevard (373),a,Steinway Boulevard,58,5412392,98210373,Etobicoke,38014
-43.7526765,-79.6084254,2,Leading Road (747),a,Leading Road,16,5412647,98645747,Etobicoke,38014
 43.7527156,-79.6195931,2,Steinway Boulevard (375),a,Steinway Boulevard,58,5412392,98210375,Etobicoke,38014
 43.7527194,-79.6249005,2,Signal Hill Avenue (535),a,Signal Hill Avenue,10,5412394,297393535,Etobicoke,38014
 43.7527194,-79.6249005,2,Signal Hill Avenue (536),a,Signal Hill Avenue,10,5412394,297393536,Etobicoke,38014
@@ -2537,56 +1718,39 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.7530299,-79.6195237,2,Steinway Boulevard (418),a,Steinway Boulevard,58,5412392,98210418,Etobicoke,38014
 43.7530299,-79.6195237,2,Goodmark Place (282),a,Goodmark Place,19,5412393,98216282,Etobicoke,38014
 43.7530364,-79.6178031,2,Goodmark Place (292),a,Goodmark Place,19,5412393,98216292,Etobicoke,38014
-43.7530411,-79.6085805,2,Leading Road (748),a,Leading Road,16,5412647,98645748,Etobicoke,38014
-43.7530684,-79.6085921,2,Leading Road (749),a,Leading Road,16,5412647,98645749,Etobicoke,38014
 43.7530731,-79.6177113,2,Goodmark Place (294),a,Goodmark Place,19,5412393,98216294,Etobicoke,38014
 43.7530828,-79.6245455,2,Steeles Avenue West (402),a,Steeles Avenue West,144,5412610,297383402,Etobicoke,38014
 43.7531301,-79.6175623,2,Goodmark Place (296),a,Goodmark Place,19,5412393,98216296,Etobicoke,38014
 43.7531615,-79.624187,2,Steeles Avenue West (403),a,Steeles Avenue West,144,5412610,297383403,Etobicoke,38014
 43.7531691,-79.6174466,2,Goodmark Place (114),a,Goodmark Place,19,5412393,415121114,Etobicoke,38014
 43.753201,-79.6195198,2,Steinway Boulevard (419),a,Steinway Boulevard,58,5412392,98210419,Etobicoke,38014
-43.7532045,-79.6086759,2,Leading Road (750),a,Leading Road,16,5412647,98645750,Etobicoke,38014
 43.7532197,-79.6127633,2,Highway 27 (769),a,Highway 27,185,5411524,92429769,Etobicoke,38014
 43.7532197,-79.6127633,2,Highway 27 (773),a,Highway 27,185,5411524,92429773,Etobicoke,38014
 43.7532667,-79.6126552,2,Highway 27 (776),a,Highway 27,185,5411524,92429776,Etobicoke,38014
 43.7532667,-79.6126552,2,Highway 27 (978),a,Highway 27,185,5411524,92429978,Etobicoke,38014
 43.7533273,-79.6195417,2,Steinway Boulevard (422),a,Steinway Boulevard,58,5412392,98210422,Etobicoke,38014
 43.7533974,-79.6195594,2,Steinway Boulevard (116),a,Steinway Boulevard,58,5412392,415121116,Etobicoke,38014
-43.7534132,-79.6088077,2,Leading Road (751),a,Leading Road,16,5412647,98645751,Etobicoke,38014
 43.7534602,-79.6166189,2,Goodmark Place (115),a,Goodmark Place,19,5412393,415121115,Etobicoke,38014
 43.7534627,-79.6195759,2,Steinway Boulevard (425),a,Steinway Boulevard,58,5412392,98210425,Etobicoke,38014
 43.7535275,-79.6164284,2,Goodmark Place (933),a,Goodmark Place,19,5412393,432527933,Etobicoke,38014
 43.7535375,-79.6227279,2,Steeles Avenue West (406),a,Steeles Avenue West,144,5412610,297383406,Etobicoke,38014
 43.7535405,-79.6195979,2,Steinway Boulevard (509),a,Steinway Boulevard,58,5412392,297393509,Etobicoke,38014
-43.753559,-79.6089534,2,Leading Road (752),a,Leading Road,16,5412647,98645752,Etobicoke,38014
 43.7535904,-79.6196119,2,Steinway Boulevard (510),a,Steinway Boulevard,58,5412392,297393510,Etobicoke,38014
 43.7535996,-79.6224428,2,Steeles Avenue West (407),a,Steeles Avenue West,144,5412610,297383407,Etobicoke,38014
-43.7536026,-79.6095735,2,Guided Court (541),a,Guided Court,11,5412628,98637541,Etobicoke,38014
-43.7536141,-79.6094947,2,Guided Court (545),a,Guided Court,11,5412628,98637545,Etobicoke,38014
 43.7536254,-79.6196218,2,Steinway Boulevard (426),a,Steinway Boulevard,58,5412392,98210426,Etobicoke,38014
-43.7536605,-79.609178,2,Guided Court (547),a,Guided Court,11,5412628,98637547,Etobicoke,38014
-43.7536774,-79.6090624,2,Guided Court (550),a,Guided Court,11,5412628,98637550,Etobicoke,38014
-43.7536774,-79.6090624,2,Guided Court (551),a,Guided Court,11,5412628,98637551,Etobicoke,38014
-43.7536774,-79.6090624,2,Leading Road (753),a,Leading Road,16,5412647,98645753,Etobicoke,38014
 43.7536921,-79.615949,2,Goodmark Place (932),a,Goodmark Place,19,5412393,432527932,Etobicoke,38014
 43.7537244,-79.6158602,2,Goodmark Place (525),a,Goodmark Place,19,5412393,297393525,Etobicoke,38014
 43.7537357,-79.6218178,2,Steeles Avenue West (408),a,Steeles Avenue West,144,5412610,297383408,Etobicoke,38014
 43.7537531,-79.613097,2,Highway 27 (768),a,Highway 27,185,5411524,92429768,Etobicoke,38014
 43.7537531,-79.613097,2,Highway 27 (962),a,Highway 27,185,5411524,92429962,Etobicoke,38014
 43.7537762,-79.615718,2,Goodmark Place (298),a,Goodmark Place,19,5412393,98216298,Etobicoke,38014
-43.7538006,-79.6088236,2,Guided Court (553),a,Guided Court,11,5412628,98637553,Etobicoke,38014
 43.7538032,-79.6129888,2,Highway 27 (770),a,Highway 27,185,5411524,92429770,Etobicoke,38014
 43.7538032,-79.6129888,2,Highway 27 (777),a,Highway 27,185,5411524,92429777,Etobicoke,38014
 43.7538063,-79.6196922,2,Steinway Boulevard (428),a,Steinway Boulevard,58,5412392,98210428,Etobicoke,38014
-43.7538684,-79.6086824,2,Guided Court (555),a,Guided Court,11,5412628,98637555,Etobicoke,38014
 43.7538791,-79.6152933,2,Goodmark Place (300),a,Goodmark Place,19,5412393,98216300,Etobicoke,38014
 43.753911,-79.6210133,2,Steeles Avenue West (409),a,Steeles Avenue West,144,5412610,297383409,Etobicoke,38014
 43.7539617,-79.6197404,2,Steinway Boulevard (429),a,Steinway Boulevard,58,5412392,98210429,Etobicoke,38014
 43.7540002,-79.6197576,2,Steinway Boulevard (431),a,Steinway Boulevard,58,5412392,98210431,Etobicoke,38014
-43.7540684,-79.6082634,2,Guided Court (898),a,Guided Court,11,5412628,297395898,Etobicoke,38014
-43.7541079,-79.608183,2,Guided Court (556),a,Guided Court,11,5412628,98637556,Etobicoke,38014
-43.7541457,-79.6079588,2,Guided Court (557),a,Guided Court,11,5412628,98637557,Etobicoke,38014
-43.7541835,-79.607734,2,Guided Court (558),a,Guided Court,11,5412628,98637558,Etobicoke,38014
 43.7552413,-79.6147651,2,Steeles Avenue West (995),a,Steeles Avenue West,144,5412610,98622995,Etobicoke,38014
 43.7553001,-79.6141097,2,Highway 27 (960),a,Highway 27,185,5411524,92429960,Etobicoke,38014
 43.7553296,-79.6139451,2,Highway 27 (771),a,Highway 27,185,5411524,92429771,Etobicoke,38014

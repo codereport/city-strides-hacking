@@ -1,0 +1,11 @@
+{
+  "city": "richmond_hill",
+  "city_id": "37878",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-08-27T19:04:37.187347+00:00",
+  "node_count": 30226,
+  "schema_version": 1,
+  "sha256": "60f91915bd4f2156fa819ff8aafd3ae7fb49c5d06a9a2fd563361ffec842534b",
+  "source_city": "Richmond Hill",
+  "street_count": 1341
+}

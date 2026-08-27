@@ -1,15 +1,10 @@
 lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,source_city_id
 43.8086361,-79.3987321,2,Bayview Avenue (623),a,Bayview Avenue,257,5369013,560026623,Markham,37680
 43.8096174,-79.3989968,2,Bayview Avenue (482),a,Bayview Avenue,257,5369013,328294482,Markham,37680
-43.8169764,-79.3363158,2,Steeles Avenue East (900),a,Steeles Avenue East,292,5369724,99256900,Markham,37680
 43.8171856,-79.3365226,2,Esna Park Drive (781),a,Esna Park Drive,161,5368988,91819781,Markham,37680
-43.8172457,-79.335153,2,Steeles Avenue East (820),a,Steeles Avenue East,292,5369724,99256820,Markham,37680
-43.8172457,-79.335153,2,Steeles Avenue East (898),a,Steeles Avenue East,292,5369724,99256898,Markham,37680
 43.8172515,-79.3366074,2,Esna Park Drive (772),a,Esna Park Drive,161,5368988,91819772,Markham,37680
 43.8172515,-79.3366074,2,Esna Park Drive (774),a,Esna Park Drive,161,5368988,91819774,Markham,37680
 43.8172515,-79.3366074,2,Esna Park Drive (783),a,Esna Park Drive,161,5368988,91819783,Markham,37680
-43.8174025,-79.3344723,2,Steeles Avenue East (819),a,Steeles Avenue East,292,5369724,99256819,Markham,37680
-43.8174025,-79.3344723,2,Steeles Avenue East (896),a,Steeles Avenue East,292,5369724,99256896,Markham,37680
 43.8174712,-79.4008314,2,Bayview Avenue (659),a,Bayview Avenue,257,5369013,361370659,Markham,37680
 43.8176162,-79.3367319,2,Esna Park Drive (765),a,Esna Park Drive,161,5368988,91819765,Markham,37680
 43.8176162,-79.3367319,2,Esna Park Drive (773),a,Esna Park Drive,161,5368988,91819773,Markham,37680
@@ -27,20 +22,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8185539,-79.3365186,2,Esna Park Drive (806),a,Esna Park Drive,161,5368988,91819806,Markham,37680
 43.8185622,-79.3298268,2,Ferrier Street (111),a,Ferrier Street,47,5369355,98382111,Markham,37680
 43.8186845,-79.3363979,2,Esna Park Drive (692),a,Esna Park Drive,161,5368988,328297692,Markham,37680
-43.8190459,-79.3270714,2,Steeles Avenue East (034),a,Steeles Avenue East,292,5369724,579303034,Markham,37680
 43.8191541,-79.3301003,2,Ferrier Street (112),a,Ferrier Street,47,5369355,98382112,Markham,37680
-43.8191757,-79.3265422,2,Steeles Avenue East (308),a,Steeles Avenue East,292,5369724,328291308,Markham,37680
-43.8191757,-79.3265422,2,Steeles Avenue East (035),a,Steeles Avenue East,292,5369724,579303035,Markham,37680
 43.8191757,-79.3265422,2,Acadia Avenue (346),a,Acadia Avenue,16,5369780,328291346,Markham,37680
 43.8192979,-79.3265901,2,Acadia Avenue (955),a,Acadia Avenue,16,5369780,99423955,Markham,37680
-43.8193051,-79.3259701,2,Steeles Avenue East (801),a,Steeles Avenue East,292,5369724,560026801,Markham,37680
-43.8193051,-79.3259701,2,Steeles Avenue East (806),a,Steeles Avenue East,292,5369724,560026806,Markham,37680
 43.8193434,-79.326601,2,Acadia Avenue (956),a,Acadia Avenue,16,5369780,99423956,Markham,37680
-43.8193519,-79.3257629,2,Steeles Avenue East (660),a,Steeles Avenue East,292,5369724,415047660,Markham,37680
-43.8193519,-79.3257629,2,Steeles Avenue East (033),a,Steeles Avenue East,292,5369724,579303033,Markham,37680
 43.819357,-79.3357046,2,Esna Park Drive (693),a,Esna Park Drive,161,5368988,328297693,Markham,37680
-43.8194252,-79.3256777,2,Steeles Avenue East (659),a,Steeles Avenue East,292,5369724,415047659,Markham,37680
-43.8194955,-79.3254613,2,Steeles Avenue East (746),a,Steeles Avenue East,292,5369724,99256746,Markham,37680
 43.8195167,-79.3355852,2,Esna Park Drive (807),a,Esna Park Drive,161,5368988,91819807,Markham,37680
 43.8196446,-79.3266842,2,Acadia Avenue (957),a,Acadia Avenue,16,5369780,99423957,Markham,37680
 43.8196599,-79.3354914,2,Esna Park Drive (694),a,Esna Park Drive,161,5368988,328297694,Markham,37680
@@ -264,14 +250,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8235584,-79.3272232,2,Hood Road (361),a,Hood Road,49,5368995,92180361,Markham,37680
 43.8235584,-79.3272232,2,Gibson Drive (647),a,Gibson Drive,26,5369779,99422647,Markham,37680
 43.8235584,-79.3272232,2,Gibson Drive (655),a,Gibson Drive,26,5369779,99422655,Markham,37680
-43.8236205,-79.3077339,2,Steeles Avenue East (919),a,Steeles Avenue East,292,5369724,328290919,Markham,37680
 43.8236345,-79.3430754,2,Denison Street (949),a,Denison Street,602,5368990,92064949,Markham,37680
 43.8236569,-79.3429747,2,Denison Street (946),a,Denison Street,602,5368990,92064946,Markham,37680
 43.8237083,-79.3272629,2,Hood Road (362),a,Hood Road,49,5368995,92180362,Markham,37680
-43.8237138,-79.3073082,2,Steeles Avenue East (694),a,Steeles Avenue East,292,5369724,99256694,Markham,37680
 43.8237394,-79.3071918,2,Kennedy Road (925),a,Kennedy Road,785,5369185,96048925,Markham,37680
-43.8237394,-79.3071918,2,Steeles Avenue East (693),a,Steeles Avenue East,292,5369724,99256693,Markham,37680
-43.8237394,-79.3071918,2,Steeles Avenue East (698),a,Steeles Avenue East,292,5369724,99256698,Markham,37680
 43.8237544,-79.3366834,2,Esna Park Drive (521),a,Esna Park Drive,161,5368988,328294521,Markham,37680
 43.8237639,-79.3263081,2,Gibson Drive (648),a,Gibson Drive,26,5369779,99422648,Markham,37680
 43.8237639,-79.3263081,2,Gibson Drive (656),a,Gibson Drive,26,5369779,99422656,Markham,37680
@@ -444,21 +426,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8269663,-79.3263968,2,Warden Avenue (678),a,Warden Avenue,476,5369187,96210678,Markham,37680
 43.8269663,-79.3263968,2,Warden Avenue (689),a,Warden Avenue,476,5369187,96210689,Markham,37680
 43.8269663,-79.3263968,2,Warden Avenue (698),a,Warden Avenue,476,5369187,96210698,Markham,37680
-43.8269667,-79.295875,2,Duxford Crescent (431),a,Duxford Crescent,18,5369447,98716431,Markham,37680
-43.826983,-79.2958035,2,Duxford Crescent (432),a,Duxford Crescent,18,5369447,98716432,Markham,37680
 43.8269849,-79.3281096,2,Hood Road (372),a,Hood Road,49,5368995,92180372,Markham,37680
-43.8269862,-79.2959739,2,Duxford Crescent (430),a,Duxford Crescent,18,5369447,98716430,Markham,37680
 43.826996,-79.3458373,2,Esna Park Drive (735),a,Esna Park Drive,161,5368988,91819735,Markham,37680
 43.8270096,-79.3392397,2,Esna Park Drive (802),a,Esna Park Drive,161,5368988,91819802,Markham,37680
-43.8270225,-79.2959977,2,Duxford Crescent (429),a,Duxford Crescent,18,5369447,98716429,Markham,37680
-43.8270348,-79.2956119,2,Duxford Crescent (433),a,Duxford Crescent,18,5369447,98716433,Markham,37680
 43.8270387,-79.345644,2,Esna Park Drive (734),a,Esna Park Drive,161,5368988,91819734,Markham,37680
 43.8270491,-79.3265188,2,Warden Avenue (677),a,Warden Avenue,476,5369187,96210677,Markham,37680
 43.8270564,-79.317548,2,Birchmount Road (659),a,Birchmount Road,191,5369776,99419659,Markham,37680
 43.8270564,-79.317548,2,Birchmount Road (385),a,Birchmount Road,191,5369776,579300385,Markham,37680
 43.8270653,-79.3282628,2,Denison Street (612),a,Denison Street,602,5368990,92065612,Markham,37680
 43.8270736,-79.326344,2,Warden Avenue (690),a,Warden Avenue,476,5369187,96210690,Markham,37680
-43.8270769,-79.2960211,2,Duxford Crescent (428),a,Duxford Crescent,18,5369447,98716428,Markham,37680
 43.8270935,-79.3281375,2,Denison Street (613),a,Denison Street,602,5368990,92065613,Markham,37680
 43.8270935,-79.3281375,2,Denison Street (651),a,Denison Street,602,5368990,92065651,Markham,37680
 43.8270935,-79.3281375,2,Hood Road (373),a,Hood Road,49,5368995,92180373,Markham,37680
@@ -466,21 +442,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8271021,-79.339333,2,Esna Park Drive (109),a,Esna Park Drive,161,5368988,579301109,Markham,37680
 43.82712,-79.3280094,2,Denison Street (650),a,Denison Street,602,5368990,92065650,Markham,37680
 43.8271427,-79.3451734,2,Esna Park Drive (733),a,Esna Park Drive,161,5368988,91819733,Markham,37680
-43.8271489,-79.296019,2,Duxford Crescent (427),a,Duxford Crescent,18,5369447,98716427,Markham,37680
 43.8271632,-79.3393946,2,Esna Park Drive (803),a,Esna Park Drive,161,5368988,91819803,Markham,37680
-43.82717,-79.2922444,2,Steeles Avenue East (705),a,Steeles Avenue East,292,5369724,99256705,Markham,37680
 43.827188,-79.3281639,2,Hood Road (375),a,Hood Road,49,5368995,92180375,Markham,37680
 43.8272291,-79.3394795,2,Esna Park Drive (693),a,Esna Park Drive,161,5368988,91819693,Markham,37680
 43.8272291,-79.3394795,2,Esna Park Drive (804),a,Esna Park Drive,161,5368988,91819804,Markham,37680
-43.8272462,-79.294698,2,Duxford Crescent (434),a,Duxford Crescent,18,5369447,98716434,Markham,37680
-43.8272515,-79.2918847,2,Steeles Avenue East (704),a,Steeles Avenue East,292,5369724,99256704,Markham,37680
 43.8272538,-79.3275158,2,Denison Street (380),a,Denison Street,602,5368990,486764380,Markham,37680
 43.8272951,-79.3271162,2,Denison Street (534),a,Denison Street,602,5368990,92065534,Markham,37680
 43.8273009,-79.3396005,2,Esna Park Drive (698),a,Esna Park Drive,161,5368988,91819698,Markham,37680
 43.8273014,-79.3351293,2,Amber Street (626),a,Amber Street,33,5368997,530131626,Markham,37680
 43.8273209,-79.3265855,2,Warden Avenue (676),a,Warden Avenue,476,5369187,96210676,Markham,37680
 43.8273212,-79.3443923,2,Esna Park Drive (732),a,Esna Park Drive,161,5368988,91819732,Markham,37680
-43.8273227,-79.2917991,2,Fenton Road (327),a,Fenton Road,5,5369723,99233327,Markham,37680
 43.8273313,-79.3352425,2,Amber Street (351),a,Amber Street,33,5368997,92193351,Markham,37680
 43.8273338,-79.3272208,2,Denison Street (533),a,Denison Street,602,5368990,92065533,Markham,37680
 43.8273338,-79.3272208,2,Denison Street (540),a,Denison Street,602,5368990,92065540,Markham,37680
@@ -500,51 +471,33 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8274371,-79.3264276,2,Denison Street (554),a,Denison Street,602,5368990,92065554,Markham,37680
 43.8274371,-79.3264276,2,Warden Avenue (692),a,Warden Avenue,476,5369187,96210692,Markham,37680
 43.8274371,-79.3264276,2,Warden Avenue (703),a,Warden Avenue,476,5369187,96210703,Markham,37680
-43.8274489,-79.2937968,2,Duxford Crescent (436),a,Duxford Crescent,18,5369447,98716436,Markham,37680
 43.8274508,-79.3438867,2,Esna Park Drive (728),a,Esna Park Drive,161,5368988,91819728,Markham,37680
 43.8274573,-79.3263255,2,Denison Street (547),a,Denison Street,602,5368990,92065547,Markham,37680
-43.8274656,-79.2937092,2,Duxford Crescent (437),a,Duxford Crescent,18,5369447,98716437,Markham,37680
 43.8274803,-79.3403146,2,Esna Park Drive (423),a,Esna Park Drive,161,5368988,328297423,Markham,37680
 43.827482,-79.340118,2,Esna Park Drive (700),a,Esna Park Drive,161,5368988,91819700,Markham,37680
 43.827482,-79.340118,2,Esna Park Drive (703),a,Esna Park Drive,161,5368988,91819703,Markham,37680
 43.827482,-79.340118,2,Esna Park Drive (107),a,Esna Park Drive,161,5368988,579301107,Markham,37680
 43.8274876,-79.3267241,2,Denison Street (538),a,Denison Street,602,5368990,92065538,Markham,37680
 43.8274879,-79.334355,2,Amber Street (962),a,Amber Street,33,5368997,494375962,Markham,37680
-43.8274984,-79.2971159,2,Manston Crescent (060),a,Manston Crescent,21,5369431,98671060,Markham,37680
-43.8275006,-79.293646,2,Duxford Crescent (438),a,Duxford Crescent,18,5369447,98716438,Markham,37680
-43.8275016,-79.2961209,2,Duxford Crescent (426),a,Duxford Crescent,18,5369447,98716426,Markham,37680
 43.8275069,-79.326632,2,Denison Street (537),a,Denison Street,602,5368990,92065537,Markham,37680
 43.8275069,-79.326632,2,Denison Street (552),a,Denison Street,602,5368990,92065552,Markham,37680
 43.8275069,-79.326632,2,Warden Avenue (666),a,Warden Avenue,476,5369187,96210666,Markham,37680
 43.8275069,-79.326632,2,Warden Avenue (683),a,Warden Avenue,476,5369187,96210683,Markham,37680
-43.8275085,-79.2971903,2,Manston Crescent (061),a,Manston Crescent,21,5369431,98671061,Markham,37680
-43.8275143,-79.2969787,2,Manston Crescent (059),a,Manston Crescent,21,5369431,98671059,Markham,37680
 43.8275425,-79.3264595,2,Denison Street (551),a,Denison Street,602,5368990,92065551,Markham,37680
 43.8275425,-79.3264595,2,Denison Street (915),a,Denison Street,602,5368990,579300915,Markham,37680
 43.8275425,-79.3264595,2,Warden Avenue (679),a,Warden Avenue,476,5369187,96210679,Markham,37680
 43.8275425,-79.3264595,2,Warden Avenue (705),a,Warden Avenue,476,5369187,96210705,Markham,37680
-43.8275453,-79.2936199,2,Duxford Crescent (440),a,Duxford Crescent,18,5369447,98716440,Markham,37680
-43.8275544,-79.2972511,2,Manston Crescent (062),a,Manston Crescent,21,5369431,98671062,Markham,37680
 43.8275614,-79.3263577,2,Denison Street (147),a,Denison Street,602,5368990,473331147,Markham,37680
 43.8275636,-79.3266398,2,Warden Avenue (665),a,Warden Avenue,476,5369187,96210665,Markham,37680
 43.8275726,-79.3402379,2,Esna Park Drive (705),a,Esna Park Drive,161,5368988,91819705,Markham,37680
-43.8275832,-79.2967653,2,Manston Crescent (058),a,Manston Crescent,21,5369431,98671058,Markham,37680
 43.8275923,-79.3339084,2,Amber Street (961),a,Amber Street,33,5368997,494375961,Markham,37680
 43.8276039,-79.3264746,2,Warden Avenue (680),a,Warden Avenue,476,5369187,96210680,Markham,37680
-43.8276084,-79.2936305,2,Duxford Crescent (442),a,Duxford Crescent,18,5369447,98716442,Markham,37680
-43.827609,-79.2972869,2,Manston Crescent (063),a,Manston Crescent,21,5369431,98671063,Markham,37680
 43.8276195,-79.3337919,2,Amber Street (960),a,Amber Street,33,5368997,494375960,Markham,37680
 43.8276327,-79.3407431,2,Esna Park Drive (422),a,Esna Park Drive,161,5368988,328297422,Markham,37680
-43.8276371,-79.2961544,2,Duxford Crescent (425),a,Duxford Crescent,18,5369447,98716425,Markham,37680
 43.8276586,-79.3430137,2,Esna Park Drive (727),a,Esna Park Drive,161,5368988,91819727,Markham,37680
 43.8276608,-79.3282975,2,Hood Road (501),a,Hood Road,49,5368995,420098501,Markham,37680
-43.8276898,-79.2936531,2,Duxford Crescent (444),a,Duxford Crescent,18,5369447,98716444,Markham,37680
 43.8276966,-79.3428628,2,Esna Park Drive (726),a,Esna Park Drive,161,5368988,91819726,Markham,37680
-43.8277005,-79.2961774,2,Manston Crescent (052),a,Manston Crescent,21,5369431,98671052,Markham,37680
-43.8277005,-79.2961774,2,Manston Crescent (057),a,Manston Crescent,21,5369431,98671057,Markham,37680
-43.8277005,-79.2961774,2,Duxford Crescent (424),a,Duxford Crescent,18,5369447,98716424,Markham,37680
 43.8277014,-79.340896,2,Esna Park Drive (421),a,Esna Park Drive,161,5368988,328297421,Markham,37680
-43.8277085,-79.2973214,2,Manston Crescent (064),a,Manston Crescent,21,5369431,98671064,Markham,37680
 43.8277213,-79.335413,2,Amber Street (625),a,Amber Street,33,5368997,530131625,Markham,37680
 43.827729,-79.3333238,2,Amber Street (347),a,Amber Street,33,5368997,420090347,Markham,37680
 43.8277356,-79.3407024,2,Esna Park Drive (718),a,Esna Park Drive,161,5368988,91819718,Markham,37680
@@ -560,7 +513,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8277965,-79.3354459,2,Amber Street (172),a,Amber Street,33,5368997,384317172,Markham,37680
 43.8278024,-79.3354485,2,Amber Street (191),a,Amber Street,33,5368997,473331191,Markham,37680
 43.8278046,-79.3248778,2,Denison Street (548),a,Denison Street,602,5368990,92065548,Markham,37680
-43.8278084,-79.2973807,2,Manston Crescent (065),a,Manston Crescent,21,5369431,98671065,Markham,37680
 43.8278127,-79.3420587,2,Esna Park Drive (354),a,Esna Park Drive,161,5368988,328296354,Markham,37680
 43.8278236,-79.3251322,2,Denison Street (543),a,Denison Street,602,5368990,92065543,Markham,37680
 43.8278359,-79.3419608,2,Esna Park Drive (355),a,Esna Park Drive,161,5368988,328296355,Markham,37680
@@ -573,13 +525,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8278751,-79.3412114,2,Esna Park Drive (419),a,Esna Park Drive,161,5368988,328297419,Markham,37680
 43.8278773,-79.3326895,2,Amber Street (348),a,Amber Street,33,5368997,420090348,Markham,37680
 43.8278775,-79.3248965,2,Denison Street (542),a,Denison Street,602,5368990,92065542,Markham,37680
-43.8278782,-79.2954137,2,Manston Crescent (053),a,Manston Crescent,21,5369431,98671053,Markham,37680
 43.8278812,-79.3247457,2,Denison Street (486),a,Denison Street,602,5368990,92065486,Markham,37680
 43.8278812,-79.3247457,2,Denison Street (541),a,Denison Street,602,5368990,92065541,Markham,37680
 43.8278812,-79.3247457,2,Denison Street (550),a,Denison Street,602,5368990,92065550,Markham,37680
 43.8279251,-79.3410715,2,Esna Park Drive (721),a,Esna Park Drive,161,5368988,91819721,Markham,37680
 43.827926,-79.3283724,2,Hood Road (179),a,Hood Road,49,5368995,473331179,Markham,37680
-43.827926,-79.2974147,2,Manston Crescent (066),a,Manston Crescent,21,5369431,98671066,Markham,37680
 43.8279283,-79.326644,2,Warden Avenue (663),a,Warden Avenue,476,5369187,96210663,Markham,37680
 43.8279283,-79.326644,2,Warden Avenue (682),a,Warden Avenue,476,5369187,96210682,Markham,37680
 43.8279283,-79.326644,2,Warden Avenue (685),a,Warden Avenue,476,5369187,96210685,Markham,37680
@@ -594,7 +544,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8279752,-79.3413386,2,Alden Road (161),a,Alden Road,77,5368994,92160161,Markham,37680
 43.8279752,-79.3245144,2,Denison Street (487),a,Denison Street,602,5368990,92065487,Markham,37680
 43.8279786,-79.3322559,2,Amber Street (349),a,Amber Street,33,5368997,420090349,Markham,37680
-43.8279819,-79.2951247,2,Manston Crescent (054),a,Manston Crescent,21,5369431,98671054,Markham,37680
 43.8279843,-79.3283889,2,Hood Road (178),a,Hood Road,49,5368995,473331178,Markham,37680
 43.8279852,-79.3417785,2,Esna Park Drive (680),a,Esna Park Drive,161,5368988,91819680,Markham,37680
 43.8279909,-79.3322033,2,Amber Street (959),a,Amber Street,33,5368997,494375959,Markham,37680
@@ -606,109 +555,58 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8280073,-79.3321332,2,Amber Street (351),a,Amber Street,33,5368997,420090351,Markham,37680
 43.8280192,-79.3283987,2,Hood Road (385),a,Hood Road,49,5368995,420098385,Markham,37680
 43.8280207,-79.3416122,2,Esna Park Drive (679),a,Esna Park Drive,161,5368988,91819679,Markham,37680
-43.8280216,-79.2936989,2,Duxford Crescent (446),a,Duxford Crescent,18,5369447,98716446,Markham,37680
-43.8280216,-79.2936989,2,Aldergrove Drive (161),a,Aldergrove Drive,80,5369726,334946161,Markham,37680
-43.828026,-79.2938549,2,Aldergrove Drive (162),a,Aldergrove Drive,80,5369726,334946162,Markham,37680
 43.8280344,-79.3355499,2,Amber Street (192),a,Amber Street,33,5368997,473331192,Markham,37680
-43.8280402,-79.2936058,2,Aldergrove Drive (160),a,Aldergrove Drive,80,5369726,334946160,Markham,37680
-43.828043,-79.2949986,2,Manston Crescent (055),a,Manston Crescent,21,5369431,98671055,Markham,37680
-43.8280482,-79.2941403,2,Aldergrove Drive (163),a,Aldergrove Drive,80,5369726,334946163,Markham,37680
 43.8280533,-79.3410335,2,Alden Road (115),a,Alden Road,77,5368994,92160115,Markham,37680
-43.8280589,-79.2912423,2,Hornchurch Crescent (681),a,Hornchurch Crescent,18,5369338,98296681,Markham,37680
 43.8280612,-79.341439,2,Esna Park Drive (677),a,Esna Park Drive,161,5368988,91819677,Markham,37680
 43.8280612,-79.341439,2,Esna Park Drive (794),a,Esna Park Drive,161,5368988,91819794,Markham,37680
 43.8280612,-79.341439,2,Esna Park Drive (103),a,Esna Park Drive,161,5368988,579301103,Markham,37680
 43.8280612,-79.341439,2,Rodick Road (915),a,Rodick Road,345,5369001,92573915,Markham,37680
 43.8280612,-79.341439,2,Rodick Road (917),a,Rodick Road,345,5369001,92573917,Markham,37680
-43.8280654,-79.2934807,2,Aldergrove Drive (159),a,Aldergrove Drive,80,5369726,334946159,Markham,37680
-43.8280661,-79.2911177,2,Hornchurch Crescent (682),a,Hornchurch Crescent,18,5369338,98296682,Markham,37680
-43.8280769,-79.2942515,2,Aldergrove Drive (164),a,Aldergrove Drive,80,5369726,334946164,Markham,37680
 43.8280865,-79.3243092,2,Denison Street (488),a,Denison Street,602,5368990,92065488,Markham,37680
-43.8280867,-79.2912912,2,Hornchurch Crescent (680),a,Hornchurch Crescent,18,5369338,98296680,Markham,37680
 43.8280907,-79.3413153,2,Esna Park Drive (724),a,Esna Park Drive,161,5368988,91819724,Markham,37680
 43.8280907,-79.3413153,2,Esna Park Drive (792),a,Esna Park Drive,161,5368988,91819792,Markham,37680
 43.8280907,-79.3413153,2,Alden Road (096),a,Alden Road,77,5368994,92160096,Markham,37680
 43.8280907,-79.3413153,2,Rodick Road (893),a,Rodick Road,345,5369001,92573893,Markham,37680
-43.828091,-79.2909802,2,Hornchurch Crescent (683),a,Hornchurch Crescent,18,5369338,98296683,Markham,37680
-43.8281083,-79.2933427,2,Aldergrove Drive (158),a,Aldergrove Drive,80,5369726,334946158,Markham,37680
-43.8281086,-79.2921619,2,Fenton Road (652),a,Fenton Road,5,5369723,328290652,Markham,37680
 43.8281174,-79.3316598,2,Amber Street (352),a,Amber Street,33,5368997,420090352,Markham,37680
-43.8281234,-79.2913399,2,Hornchurch Crescent (679),a,Hornchurch Crescent,18,5369338,98296679,Markham,37680
-43.8281238,-79.2943745,2,Aldergrove Drive (165),a,Aldergrove Drive,80,5369726,334946165,Markham,37680
 43.8281325,-79.3315949,2,Amber Street (353),a,Amber Street,33,5368997,420090353,Markham,37680
 43.8281348,-79.3411339,2,Alden Road (094),a,Alden Road,77,5368994,92160094,Markham,37680
 43.8281369,-79.3415366,2,Rodick Road (913),a,Rodick Road,345,5369001,92573913,Markham,37680
-43.828145,-79.2976075,2,Manston Crescent (067),a,Manston Crescent,21,5369431,98671067,Markham,37680
 43.8281577,-79.3314869,2,Amber Street (354),a,Amber Street,33,5368997,420090354,Markham,37680
 43.828158,-79.335604,2,Amber Street (171),a,Amber Street,33,5368997,384317171,Markham,37680
 43.8281697,-79.3407887,2,Alden Road (116),a,Alden Road,77,5368994,92160116,Markham,37680
 43.8281697,-79.3407887,2,Alden Road (164),a,Alden Road,77,5368994,92160164,Markham,37680
-43.8281702,-79.2944727,2,Aldergrove Drive (166),a,Aldergrove Drive,80,5369726,334946166,Markham,37680
 43.8281851,-79.3414059,2,Rodick Road (894),a,Rodick Road,345,5369001,92573894,Markham,37680
 43.8281883,-79.3267141,2,Warden Avenue (318),a,Warden Avenue,476,5369187,328291318,Markham,37680
 43.8281883,-79.3267141,2,Warden Avenue (014),a,Warden Avenue,476,5369187,328298014,Markham,37680
 43.828215,-79.3312452,2,Amber Street (355),a,Amber Street,33,5368997,420090355,Markham,37680
-43.8282175,-79.287687,2,Steeles Avenue East (667),a,Steeles Avenue East,292,5369724,99256667,Markham,37680
 43.8282229,-79.3240973,2,Denison Street (490),a,Denison Street,602,5368990,92065490,Markham,37680
-43.828232,-79.2913741,2,Hornchurch Crescent (678),a,Hornchurch Crescent,18,5369338,98296678,Markham,37680
-43.8282524,-79.2903289,2,Hornchurch Crescent (684),a,Hornchurch Crescent,18,5369338,98296684,Markham,37680
 43.8282703,-79.3408737,2,Alden Road (092),a,Alden Road,77,5368994,92160092,Markham,37680
 43.8282743,-79.3172788,2,Birchmount Road (451),a,Birchmount Road,191,5369776,334946451,Markham,37680
 43.8282818,-79.3416886,2,Rodick Road (336),a,Rodick Road,345,5369001,328296336,Markham,37680
-43.8282879,-79.2873775,2,Steeles Avenue East (666),a,Steeles Avenue East,292,5369724,99256666,Markham,37680
-43.8283183,-79.2946517,2,Manston Crescent (056),a,Manston Crescent,21,5369431,98671056,Markham,37680
-43.8283183,-79.2946517,2,Kirton Court (485),a,Kirton Court,5,5369642,99126485,Markham,37680
-43.8283183,-79.2946517,2,Aldergrove Drive (686),a,Aldergrove Drive,80,5369726,99265686,Markham,37680
-43.8283277,-79.2872028,2,Steeles Avenue East (664),a,Steeles Avenue East,292,5369724,99256664,Markham,37680
-43.8283277,-79.2872028,2,Steeles Avenue East (665),a,Steeles Avenue East,292,5369724,99256665,Markham,37680
-43.8283277,-79.2872028,2,Brimley Road (859),a,Brimley Road,101,5369745,99322859,Markham,37680
 43.8283448,-79.3239538,2,Denison Street (491),a,Denison Street,602,5368990,92065491,Markham,37680
 43.8283473,-79.3415762,2,Rodick Road (896),a,Rodick Road,345,5369001,92573896,Markham,37680
 43.8283479,-79.3306766,2,Amber Street (356),a,Amber Street,33,5368997,420090356,Markham,37680
 43.8283634,-79.3306102,2,Amber Street (357),a,Amber Street,33,5368997,420090357,Markham,37680
-43.8283657,-79.2870465,2,Steeles Avenue East (663),a,Steeles Avenue East,292,5369724,99256663,Markham,37680
 43.828367,-79.3405429,2,Alden Road (165),a,Alden Road,77,5368994,92160165,Markham,37680
 43.8283864,-79.3407216,2,Alden Road (078),a,Alden Road,77,5368994,328289078,Markham,37680
-43.8283978,-79.2922954,2,Fenton Road (328),a,Fenton Road,5,5369723,99233328,Markham,37680
 43.8283983,-79.330461,2,Amber Street (853),a,Amber Street,33,5368997,401671853,Markham,37680
 43.8284008,-79.3285064,2,Hood Road (177),a,Hood Road,49,5368995,473331177,Markham,37680
-43.8284049,-79.2872068,2,Brimley Road (860),a,Brimley Road,101,5369745,99322860,Markham,37680
 43.8284269,-79.3406686,2,Alden Road (090),a,Alden Road,77,5368994,92160090,Markham,37680
 43.8284425,-79.3238559,2,Denison Street (492),a,Denison Street,602,5368990,92065492,Markham,37680
 43.8284628,-79.3418308,2,Rodick Road (335),a,Rodick Road,345,5369001,328296335,Markham,37680
-43.8284741,-79.2923334,2,Fenton Road (329),a,Fenton Road,5,5369723,99233329,Markham,37680
-43.8284741,-79.2923334,2,Aldergrove Drive (157),a,Aldergrove Drive,80,5369726,334946157,Markham,37680
-43.8284749,-79.2865559,2,Steeles Avenue East (662),a,Steeles Avenue East,292,5369724,99256662,Markham,37680
-43.8284872,-79.2964038,2,Hendon Road (872),a,Hendon Road,21,5369501,98841872,Markham,37680
-43.8284883,-79.2964784,2,Hendon Road (873),a,Hendon Road,21,5369501,98841873,Markham,37680
 43.8284907,-79.3172976,2,Birchmount Road (452),a,Birchmount Road,191,5369776,334946452,Markham,37680
-43.8284908,-79.2922875,2,Aldergrove Drive (852),a,Aldergrove Drive,80,5369726,384324852,Markham,37680
-43.8284952,-79.2963414,2,Hendon Road (871),a,Hendon Road,21,5369501,98841871,Markham,37680
-43.828497,-79.2892274,2,Hornchurch Crescent (685),a,Hornchurch Crescent,18,5369338,98296685,Markham,37680
 43.8285038,-79.3300098,2,Amber Street (854),a,Amber Street,33,5368997,401671854,Markham,37680
-43.828507,-79.2965276,2,Hendon Road (874),a,Hendon Road,21,5369501,98841874,Markham,37680
-43.8285125,-79.2962911,2,Hendon Road (870),a,Hendon Road,21,5369501,98841870,Markham,37680
 43.8285131,-79.3416993,2,Rodick Road (308),a,Rodick Road,345,5369001,328296308,Markham,37680
-43.828514,-79.2891648,2,Hornchurch Crescent (686),a,Hornchurch Crescent,18,5369338,98296686,Markham,37680
 43.828523,-79.3299277,2,Amber Street (358),a,Amber Street,33,5368997,420090358,Markham,37680
 43.828531,-79.3298936,2,Amber Street (359),a,Amber Street,33,5368997,420090359,Markham,37680
 43.8285315,-79.3404374,2,Alden Road (087),a,Alden Road,77,5368994,92160087,Markham,37680
 43.8285315,-79.3404374,2,Alden Road (117),a,Alden Road,77,5368994,92160117,Markham,37680
 43.8285315,-79.3404374,2,Alden Road (166),a,Alden Road,77,5368994,92160166,Markham,37680
-43.8285347,-79.2981405,2,Manston Crescent (068),a,Manston Crescent,21,5369431,98671068,Markham,37680
 43.8285404,-79.3417142,2,Rodick Road (309),a,Rodick Road,345,5369001,328296309,Markham,37680
-43.8285455,-79.2960912,2,Hendon Road (869),a,Hendon Road,21,5369501,98841869,Markham,37680
-43.8285497,-79.2891389,2,Hornchurch Crescent (687),a,Hornchurch Crescent,18,5369338,98296687,Markham,37680
-43.8285553,-79.2859388,2,Steeles Avenue East (013),a,Steeles Avenue East,292,5369724,579303013,Markham,37680
 43.8285582,-79.3297772,2,Amber Street (360),a,Amber Street,33,5368997,420090360,Markham,37680
 43.828576,-79.3237486,2,Denison Street (493),a,Denison Street,602,5368990,92065493,Markham,37680
-43.8285874,-79.2958786,2,Hendon Road (868),a,Hendon Road,21,5369501,98841868,Markham,37680
-43.8285891,-79.2965999,2,Hendon Road (875),a,Hendon Road,21,5369501,98841875,Markham,37680
-43.8286038,-79.2915501,2,Hornchurch Crescent (677),a,Hornchurch Crescent,18,5369338,98296677,Markham,37680
 43.8286265,-79.3419227,2,Rodick Road (334),a,Rodick Road,345,5369001,328296334,Markham,37680
 43.8286265,-79.3419227,2,Rodick Road (079),a,Rodick Road,345,5369001,328298079,Markham,37680
-43.82863,-79.2957157,2,Hendon Road (867),a,Hendon Road,21,5369501,98841867,Markham,37680
-43.8286672,-79.2891728,2,Hornchurch Crescent (688),a,Hornchurch Crescent,18,5369338,98296688,Markham,37680
 43.8286684,-79.3417841,2,Rodick Road (898),a,Rodick Road,345,5369001,92573898,Markham,37680
 43.8286785,-79.3358308,2,Amber Street (170),a,Amber Street,33,5368997,384317170,Markham,37680
 43.8287013,-79.326842,2,Warden Avenue (464),a,Warden Avenue,476,5369187,473331464,Markham,37680
@@ -718,268 +616,92 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8287203,-79.3418831,2,Rodick Road (907),a,Rodick Road,345,5369001,92573907,Markham,37680
 43.8287203,-79.3418831,2,Rodick Road (769),a,Rodick Road,345,5369001,579302769,Markham,37680
 43.8287305,-79.3358544,2,Amber Street (350),a,Amber Street,33,5368997,92193350,Markham,37680
-43.828735,-79.2955137,2,Hendon Road (866),a,Hendon Road,21,5369501,98841866,Markham,37680
-43.8287442,-79.2915885,2,Hornchurch Crescent (676),a,Hornchurch Crescent,18,5369338,98296676,Markham,37680
-43.8287442,-79.2915885,2,Wickham Court (033),a,Wickham Court,15,5369572,98992033,Markham,37680
-43.8287442,-79.2915885,2,Aldergrove Drive (825),a,Aldergrove Drive,80,5369726,560026825,Markham,37680
-43.8288053,-79.2953998,2,Hendon Road (865),a,Hendon Road,21,5369501,98841865,Markham,37680
 43.8288272,-79.3286267,2,Hood Road (369),a,Hood Road,49,5368995,92180369,Markham,37680
 43.8288272,-79.3286267,2,Amber Street (352),a,Amber Street,33,5368997,92193352,Markham,37680
 43.8288681,-79.3400562,2,Alden Road (363),a,Alden Road,77,5368994,328296363,Markham,37680
-43.8288695,-79.2953184,2,Hendon Road (864),a,Hendon Road,21,5369501,98841864,Markham,37680
-43.8288695,-79.2953184,2,Aldergrove Drive (687),a,Aldergrove Drive,80,5369726,99265687,Markham,37680
 43.8288727,-79.3358905,2,Amber Street (349),a,Amber Street,33,5368997,92193349,Markham,37680
 43.8288731,-79.3235904,2,Denison Street (495),a,Denison Street,602,5368990,92065495,Markham,37680
 43.8288963,-79.3400243,2,Alden Road (118),a,Alden Road,77,5368994,92160118,Markham,37680
 43.8289065,-79.3174103,2,Birchmount Road (453),a,Birchmount Road,191,5369776,334946453,Markham,37680
-43.8289112,-79.289228,2,Hornchurch Crescent (689),a,Hornchurch Crescent,18,5369338,98296689,Markham,37680
 43.8289194,-79.3268964,2,Warden Avenue (062),a,Warden Avenue,476,5369187,415050062,Markham,37680
-43.8289206,-79.2916654,2,Wickham Court (034),a,Wickham Court,15,5369572,98992034,Markham,37680
-43.8289266,-79.2987046,2,Manston Crescent (069),a,Manston Crescent,21,5369431,98671069,Markham,37680
-43.8289348,-79.2938166,2,Kirton Court (486),a,Kirton Court,5,5369642,99126486,Markham,37680
-43.8289781,-79.2937034,2,Kirton Court (487),a,Kirton Court,5,5369642,99126487,Markham,37680
-43.8290036,-79.2936032,2,Kirton Court (488),a,Kirton Court,5,5369642,99126488,Markham,37680
-43.829011,-79.2871788,2,Brimley Road (861),a,Brimley Road,101,5369745,99322861,Markham,37680
-43.829011,-79.2871788,2,Brimley Road (899),a,Brimley Road,101,5369745,99322899,Markham,37680
 43.8290161,-79.3269205,2,Warden Avenue (017),a,Warden Avenue,476,5369187,328298017,Markham,37680
 43.8290161,-79.3269205,2,Warden Avenue (019),a,Warden Avenue,476,5369187,328298019,Markham,37680
 43.8290182,-79.32353,2,Denison Street (496),a,Denison Street,602,5368990,92065496,Markham,37680
-43.8290199,-79.2934908,2,Kirton Court (489),a,Kirton Court,5,5369642,99126489,Markham,37680
-43.8290241,-79.2908163,2,Aldergrove Drive (841),a,Aldergrove Drive,80,5369726,560026841,Markham,37680
-43.8290269,-79.2987888,2,Manston Crescent (070),a,Manston Crescent,21,5369431,98671070,Markham,37680
-43.8290377,-79.2892617,2,Hornchurch Crescent (690),a,Hornchurch Crescent,18,5369338,98296690,Markham,37680
-43.829071,-79.2907069,2,Aldergrove Drive (843),a,Aldergrove Drive,80,5369726,560026843,Markham,37680
-43.8290903,-79.2988118,2,Manston Crescent (071),a,Manston Crescent,21,5369431,98671071,Markham,37680
 43.8291245,-79.3358075,2,Bentley Street (171),a,Bentley Street,32,5368996,92188171,Markham,37680
 43.8291245,-79.3358075,2,Amber Street (348),a,Amber Street,33,5368997,92193348,Markham,37680
-43.8291263,-79.2956288,2,Aldergrove Drive (865),a,Aldergrove Drive,80,5369726,560026865,Markham,37680
 43.8291305,-79.3352732,2,Bentley Street (170),a,Bentley Street,32,5368996,92188170,Markham,37680
-43.829136,-79.2905804,2,Aldergrove Drive (852),a,Aldergrove Drive,80,5369726,560026852,Markham,37680
-43.8291398,-79.2871745,2,Brimley Road (900),a,Brimley Road,101,5369745,99322900,Markham,37680
-43.8291412,-79.298818,2,Manston Crescent (072),a,Manston Crescent,21,5369431,98671072,Markham,37680
-43.8291412,-79.298818,2,Hendon Road (882),a,Hendon Road,21,5369501,98841882,Markham,37680
-43.8291412,-79.298818,2,Hendon Road (883),a,Hendon Road,21,5369501,98841883,Markham,37680
-43.8291505,-79.2865721,2,Chase Court (395),a,Chase Court,10,5369620,99079395,Markham,37680
-43.8291554,-79.2989846,2,Hendon Road (884),a,Hendon Road,21,5369501,98841884,Markham,37680
-43.8291563,-79.2917706,2,Wickham Court (035),a,Wickham Court,15,5369572,98992035,Markham,37680
-43.8291664,-79.2864349,2,Chase Court (396),a,Chase Court,10,5369620,99079396,Markham,37680
-43.8291736,-79.2863103,2,Chase Court (397),a,Chase Court,10,5369620,99079397,Markham,37680
-43.8291799,-79.2987844,2,Hendon Road (881),a,Hendon Road,21,5369501,98841881,Markham,37680
-43.8291826,-79.2893198,2,Hornchurch Crescent (691),a,Hornchurch Crescent,18,5369338,98296691,Markham,37680
 43.829212,-79.336041,2,Bentley Street (172),a,Bentley Street,32,5368996,92188172,Markham,37680
-43.829215,-79.2987212,2,Hendon Road (880),a,Hendon Road,21,5369501,98841880,Markham,37680
-43.8292205,-79.2957694,2,Aldergrove Drive (875),a,Aldergrove Drive,80,5369726,560026875,Markham,37680
 43.8292219,-79.3348889,2,Bentley Street (190),a,Bentley Street,32,5368996,473331190,Markham,37680
-43.8292244,-79.2860974,2,Chase Court (398),a,Chase Court,10,5369620,99079398,Markham,37680
-43.8292284,-79.2893682,2,Hornchurch Crescent (692),a,Hornchurch Crescent,18,5369338,98296692,Markham,37680
-43.8292298,-79.2904458,2,Aldergrove Drive (832),a,Aldergrove Drive,80,5369726,560026832,Markham,37680
 43.8292368,-79.3348263,2,Bentley Street (850),a,Bentley Street,32,5368996,401671850,Markham,37680
 43.8292489,-79.3421203,2,Rodick Road (892),a,Rodick Road,345,5369001,92573892,Markham,37680
 43.8292489,-79.3421203,2,Rodick Road (909),a,Rodick Road,345,5369001,92573909,Markham,37680
-43.8292587,-79.2859845,2,Chase Court (399),a,Chase Court,10,5369620,99079399,Markham,37680
-43.8292645,-79.29178,2,Wickham Court (036),a,Wickham Court,15,5369572,98992036,Markham,37680
-43.8292851,-79.2859464,2,Chase Court (400),a,Chase Court,10,5369620,99079400,Markham,37680
-43.8292879,-79.297575,2,Hendon Road (876),a,Hendon Road,21,5369501,98841876,Markham,37680
-43.8293167,-79.2982955,2,Hendon Road (879),a,Hendon Road,21,5369501,98841879,Markham,37680
-43.8293195,-79.2903429,2,Aldergrove Drive (842),a,Aldergrove Drive,80,5369726,560026842,Markham,37680
-43.8293298,-79.2859203,2,Chase Court (401),a,Chase Court,10,5369620,99079401,Markham,37680
-43.8293432,-79.2976604,2,Hendon Road (877),a,Hendon Road,21,5369501,98841877,Markham,37680
-43.8293475,-79.2871766,2,Brimley Road (901),a,Brimley Road,101,5369745,99322901,Markham,37680
 43.82935,-79.3270037,2,Warden Avenue (465),a,Warden Avenue,476,5369187,473331465,Markham,37680
 43.82935,-79.3270037,2,Warden Avenue (467),a,Warden Avenue,476,5369187,473331467,Markham,37680
-43.8293539,-79.2977721,2,Hendon Road (878),a,Hendon Road,21,5369501,98841878,Markham,37680
-43.8293723,-79.2917645,2,Wickham Court (037),a,Wickham Court,15,5369572,98992037,Markham,37680
 43.8293763,-79.3394767,2,Alden Road (364),a,Alden Road,77,5368994,328296364,Markham,37680
 43.8293808,-79.3342214,2,Bentley Street (189),a,Bentley Street,32,5368996,473331189,Markham,37680
 43.8293895,-79.3341848,2,Bentley Street (849),a,Bentley Street,32,5368996,401671849,Markham,37680
-43.8293926,-79.285906,2,Chase Court (402),a,Chase Court,10,5369620,99079402,Markham,37680
-43.8294083,-79.2960818,2,Aldergrove Drive (867),a,Aldergrove Drive,80,5369726,560026867,Markham,37680
 43.8294134,-79.334068,2,Bentley Street (188),a,Bentley Street,32,5368996,473331188,Markham,37680
 43.8294163,-79.3340539,2,Bentley Street (848),a,Bentley Street,32,5368996,401671848,Markham,37680
 43.8294347,-79.3422193,2,Rodick Road (891),a,Rodick Road,345,5369001,92573891,Markham,37680
-43.8294408,-79.2902211,2,Hornchurch Crescent (693),a,Hornchurch Crescent,18,5369338,98296693,Markham,37680
-43.8294408,-79.2902211,2,Aldergrove Drive (826),a,Aldergrove Drive,80,5369726,560026826,Markham,37680
-43.8294563,-79.285954,2,Chase Court (403),a,Chase Court,10,5369620,99079403,Markham,37680
-43.8294623,-79.2917619,2,Wickham Court (038),a,Wickham Court,15,5369572,98992038,Markham,37680
-43.829507,-79.2871979,2,Brimley Road (902),a,Brimley Road,101,5369745,99322902,Markham,37680
-43.829507,-79.2871979,2,Brimley Road (903),a,Brimley Road,101,5369745,99322903,Markham,37680
 43.8295186,-79.3288145,2,Hood Road (384),a,Hood Road,49,5368995,420098384,Markham,37680
-43.829528,-79.2847331,2,Dairis Crescent (967),a,Dairis Crescent,33,5369354,98376967,Markham,37680
-43.8295363,-79.2846831,2,Dairis Crescent (969),a,Dairis Crescent,33,5369354,98376969,Markham,37680
-43.8295479,-79.2848569,2,Dairis Crescent (964),a,Dairis Crescent,33,5369354,98376964,Markham,37680
 43.8295528,-79.3334365,2,Bentley Street (083),a,Bentley Street,32,5368996,328289083,Markham,37680
-43.8295699,-79.291734,2,Wickham Court (039),a,Wickham Court,15,5369572,98992039,Markham,37680
-43.8295704,-79.2845577,2,Dairis Crescent (971),a,Dairis Crescent,33,5369354,98376971,Markham,37680
 43.8295764,-79.3423297,2,Rodick Road (954),a,Rodick Road,345,5369001,328295954,Markham,37680
-43.8295821,-79.2901417,2,Aldergrove Drive (862),a,Aldergrove Drive,80,5369726,560026862,Markham,37680
-43.8295833,-79.2872189,2,Brimley Road (904),a,Brimley Road,101,5369745,99322904,Markham,37680
-43.8295843,-79.2848807,2,Dairis Crescent (962),a,Dairis Crescent,33,5369354,98376962,Markham,37680
 43.829598,-79.3365806,2,Bentley Street (153),a,Bentley Street,32,5368996,384317153,Markham,37680
-43.829605,-79.2916708,2,Wickham Court (040),a,Wickham Court,15,5369572,98992040,Markham,37680
 43.8296069,-79.3392136,2,Alden Road (119),a,Alden Road,77,5368994,92160119,Markham,37680
-43.8296383,-79.2848792,2,Dairis Crescent (960),a,Dairis Crescent,33,5369354,98376960,Markham,37680
-43.8296461,-79.3008198,2,Aldergrove Drive (838),a,Aldergrove Drive,80,5369726,560026838,Markham,37680
 43.829656,-79.3288518,2,Hood Road (180),a,Hood Road,49,5368995,473331180,Markham,37680
-43.8296652,-79.2914825,2,Wickham Court (041),a,Wickham Court,15,5369572,98992041,Markham,37680
-43.8296798,-79.2840447,2,Dairis Crescent (973),a,Dairis Crescent,33,5369354,98376973,Markham,37680
-43.8296838,-79.3006012,2,Aldergrove Drive (858),a,Aldergrove Drive,80,5369726,560026858,Markham,37680
-43.8296999,-79.2913944,2,Wickham Court (042),a,Wickham Court,15,5369572,98992042,Markham,37680
-43.8297055,-79.2839569,2,Dairis Crescent (975),a,Dairis Crescent,33,5369354,98376975,Markham,37680
-43.8297073,-79.2900883,2,Aldergrove Drive (831),a,Aldergrove Drive,80,5369726,560026831,Markham,37680
 43.8297186,-79.3232323,2,Denison Street (497),a,Denison Street,602,5368990,92065497,Markham,37680
-43.8297223,-79.2838818,2,Dairis Crescent (977),a,Dairis Crescent,33,5369354,98376977,Markham,37680
-43.829726,-79.2966099,2,Tangmere Crescent (384),a,Tangmere Crescent,19,5369621,99081384,Markham,37680
-43.829726,-79.2966099,2,Aldergrove Drive (863),a,Aldergrove Drive,80,5369726,560026863,Markham,37680
 43.8297276,-79.3424876,2,Rodick Road (890),a,Rodick Road,345,5369001,92573890,Markham,37680
-43.8297348,-79.2913188,2,Wickham Court (043),a,Wickham Court,15,5369572,98992043,Markham,37680
-43.8297398,-79.283844,2,Dairis Crescent (978),a,Dairis Crescent,33,5369354,98376978,Markham,37680
 43.8297482,-79.3367904,2,Bentley Street (851),a,Bentley Street,32,5368996,401671851,Markham,37680
 43.8297532,-79.3325652,2,Bentley Street (082),a,Bentley Street,32,5368996,328289082,Markham,37680
 43.8297776,-79.3324592,2,Bentley Street (102),a,Bentley Street,32,5368996,490765102,Markham,37680
-43.8297786,-79.2912429,2,Wickham Court (044),a,Wickham Court,15,5369572,98992044,Markham,37680
-43.8297846,-79.2838303,2,Dairis Crescent (980),a,Dairis Crescent,33,5369354,98376980,Markham,37680
 43.8297967,-79.3389747,2,Alden Road (228),a,Alden Road,77,5368994,384333228,Markham,37680
-43.8298003,-79.2872749,2,Brimley Road (905),a,Brimley Road,101,5369745,99322905,Markham,37680
 43.8298077,-79.3323282,2,Bentley Street (717),a,Bentley Street,32,5368996,435752717,Markham,37680
-43.8298104,-79.2849489,2,Dairis Crescent (959),a,Dairis Crescent,33,5369354,98376959,Markham,37680
-43.8298386,-79.2838287,2,Dairis Crescent (982),a,Dairis Crescent,33,5369354,98376982,Markham,37680
 43.8298448,-79.3271276,2,Warden Avenue (958),a,Warden Avenue,476,5369187,96210958,Markham,37680
 43.8298448,-79.3271276,2,Warden Avenue (306),a,Warden Avenue,476,5369187,579303306,Markham,37680
-43.829852,-79.2999234,2,Aldergrove Drive (860),a,Aldergrove Drive,80,5369726,560026860,Markham,37680
 43.8298541,-79.3426891,2,Rodick Road (953),a,Rodick Road,345,5369001,328295953,Markham,37680
-43.8298765,-79.2998148,2,Aldergrove Drive (840),a,Aldergrove Drive,80,5369726,560026840,Markham,37680
 43.8298783,-79.3320211,2,Bentley Street (101),a,Bentley Street,32,5368996,490765101,Markham,37680
-43.829884,-79.2838523,2,Dairis Crescent (983),a,Dairis Crescent,33,5369354,98376983,Markham,37680
-43.8298881,-79.2883295,2,Winston Road (131),a,Winston Road,9,5369593,334946131,Markham,37680
-43.8298909,-79.288516,2,Winston Road (130),a,Winston Road,9,5369593,334946130,Markham,37680
-43.8298921,-79.296426,2,Tangmere Crescent (385),a,Tangmere Crescent,19,5369621,99081385,Markham,37680
 43.8298941,-79.3388521,2,Alden Road (120),a,Alden Road,77,5368994,92160120,Markham,37680
-43.8298965,-79.2881671,2,Winston Road (173),a,Winston Road,9,5369593,99035173,Markham,37680
-43.8298965,-79.2881671,2,Chichester Road (220),a,Chichester Road,18,5369630,99102220,Markham,37680
-43.8298975,-79.2996999,2,Aldergrove Drive (873),a,Aldergrove Drive,80,5369726,560026873,Markham,37680
-43.8299111,-79.2886647,2,Winston Road (129),a,Winston Road,9,5369593,334946129,Markham,37680
-43.8299125,-79.2911645,2,Wickham Court (045),a,Wickham Court,15,5369572,98992045,Markham,37680
 43.8299128,-79.3318711,2,Bentley Street (187),a,Bentley Street,32,5368996,473331187,Markham,37680
-43.8299138,-79.2900451,2,Aldergrove Drive (855),a,Aldergrove Drive,80,5369726,560026855,Markham,37680
-43.8299187,-79.287968,2,Winston Road (174),a,Winston Road,9,5369593,99035174,Markham,37680
 43.8299228,-79.3428352,2,Rodick Road (952),a,Rodick Road,345,5369001,328295952,Markham,37680
-43.8299472,-79.2873316,2,Brimley Road (906),a,Brimley Road,101,5369745,99322906,Markham,37680
-43.8299496,-79.2900317,2,Aldergrove Drive (844),a,Aldergrove Drive,80,5369726,560026844,Markham,37680
-43.8299579,-79.2881783,2,Chichester Road (221),a,Chichester Road,18,5369630,99102221,Markham,37680
 43.8299663,-79.3429519,2,Rodick Road (889),a,Rodick Road,345,5369001,92573889,Markham,37680
 43.8299672,-79.3370965,2,Bentley Street (154),a,Bentley Street,32,5368996,384317154,Markham,37680
-43.829973,-79.2970207,2,Aldergrove Drive (849),a,Aldergrove Drive,80,5369726,560026849,Markham,37680
-43.8299808,-79.2963364,2,Tangmere Crescent (386),a,Tangmere Crescent,19,5369621,99081386,Markham,37680
-43.8299932,-79.2874587,2,Winston Road (175),a,Winston Road,9,5369593,99035175,Markham,37680
-43.8299977,-79.2989961,2,Aldergrove Drive (853),a,Aldergrove Drive,80,5369726,560026853,Markham,37680
 43.8300011,-79.3314872,2,Bentley Street (718),a,Bentley Street,32,5368996,435752718,Markham,37680
-43.8300017,-79.2838987,2,Dairis Crescent (985),a,Dairis Crescent,33,5369354,98376985,Markham,37680
-43.8300023,-79.2911495,2,Wickham Court (046),a,Wickham Court,15,5369572,98992046,Markham,37680
 43.830008,-79.331457,2,Bentley Street (186),a,Bentley Street,32,5368996,473331186,Markham,37680
-43.830009,-79.2873555,2,Wilclay Avenue (786),a,Wilclay Avenue,35,5369337,560026786,Markham,37680
-43.830009,-79.2873555,2,Winston Road (176),a,Winston Road,9,5369593,99035176,Markham,37680
-43.830009,-79.2873555,2,Brimley Road (877),a,Brimley Road,101,5369745,99322877,Markham,37680
-43.830009,-79.2873555,2,Brimley Road (907),a,Brimley Road,101,5369745,99322907,Markham,37680
-43.8300098,-79.2826423,2,Beckwith Crescent (733),a,Beckwith Crescent,33,5369603,99045733,Markham,37680
-43.8300115,-79.2798563,2,Steeles Avenue East (712),a,Steeles Avenue East,292,5369724,99256712,Markham,37680
-43.8300196,-79.2971313,2,Aldergrove Drive (835),a,Aldergrove Drive,80,5369726,560026835,Markham,37680
-43.8300291,-79.2827288,2,Beckwith Crescent (732),a,Beckwith Crescent,33,5369603,99045732,Markham,37680
 43.8300347,-79.331341,2,Bentley Street (719),a,Bentley Street,32,5368996,435752719,Markham,37680
-43.830035,-79.2825172,2,Beckwith Crescent (734),a,Beckwith Crescent,33,5369603,99045734,Markham,37680
-43.8300385,-79.2872092,2,Wilclay Avenue (788),a,Wilclay Avenue,35,5369337,560026788,Markham,37680
 43.830066,-79.3432993,2,Rodick Road (887),a,Rodick Road,345,5369001,92573887,Markham,37680
 43.830066,-79.3432993,2,Rodick Road (888),a,Rodick Road,345,5369001,92573888,Markham,37680
-43.8300749,-79.2827772,2,Beckwith Crescent (731),a,Beckwith Crescent,33,5369603,99045731,Markham,37680
-43.8300934,-79.2882117,2,Chichester Road (222),a,Chichester Road,18,5369630,99102222,Markham,37680
-43.8300963,-79.2873778,2,Brimley Road (878),a,Brimley Road,101,5369745,99322878,Markham,37680
-43.8300995,-79.2973748,2,Aldergrove Drive (856),a,Aldergrove Drive,80,5369726,560026856,Markham,37680
-43.8300995,-79.2973748,2,Teddington Avenue (907),a,Teddington Avenue,17,5369730,560026907,Markham,37680
-43.830128,-79.2851139,2,Dairis Crescent (958),a,Dairis Crescent,33,5369354,98376958,Markham,37680
 43.8301309,-79.3309228,2,Bentley Street (714),a,Bentley Street,32,5368996,435752714,Markham,37680
-43.8301317,-79.2975613,2,Aldergrove Drive (876),a,Aldergrove Drive,80,5369726,560026876,Markham,37680
-43.8301348,-79.2980338,2,Aldergrove Drive (861),a,Aldergrove Drive,80,5369726,560026861,Markham,37680
 43.830144,-79.3373437,2,Bentley Street (852),a,Bentley Street,32,5368996,401671852,Markham,37680
-43.8301459,-79.2977496,2,Aldergrove Drive (866),a,Aldergrove Drive,80,5369726,560026866,Markham,37680
-43.8301468,-79.2898017,2,Winston Road (543),a,Winston Road,9,5369593,384324543,Markham,37680
-43.8301479,-79.2978863,2,Aldergrove Drive (839),a,Aldergrove Drive,80,5369726,560026839,Markham,37680
 43.8301578,-79.3308056,2,Bentley Street (750),a,Bentley Street,32,5368996,397271750,Markham,37680
-43.830165,-79.283981,2,Dairis Crescent (987),a,Dairis Crescent,33,5369354,98376987,Markham,37680
 43.8301653,-79.330773,2,Bentley Street (715),a,Bentley Street,32,5368996,435752715,Markham,37680
-43.8301659,-79.2819599,2,Beckwith Crescent (735),a,Beckwith Crescent,33,5369603,99045735,Markham,37680
-43.8301692,-79.2962937,2,Tangmere Crescent (387),a,Tangmere Crescent,19,5369621,99081387,Markham,37680
-43.8301828,-79.2899753,2,Winston Road (126),a,Winston Road,9,5369593,334946126,Markham,37680
-43.8301828,-79.2899753,2,Aldergrove Drive (847),a,Aldergrove Drive,80,5369726,560026847,Markham,37680
-43.8302045,-79.2818158,2,Beckwith Crescent (736),a,Beckwith Crescent,33,5369603,99045736,Markham,37680
-43.8302108,-79.2882332,2,Chichester Road (223),a,Chichester Road,18,5369630,99102223,Markham,37680
-43.8302309,-79.2817778,2,Beckwith Crescent (737),a,Beckwith Crescent,33,5369603,99045737,Markham,37680
-43.8302435,-79.2863031,2,Wilclay Avenue (781),a,Wilclay Avenue,35,5369337,560026781,Markham,37680
-43.8302435,-79.2863031,2,Chase Court (404),a,Chase Court,10,5369620,99079404,Markham,37680
-43.8302453,-79.2911426,2,Wickham Court (047),a,Wickham Court,15,5369572,98992047,Markham,37680
 43.8302488,-79.3439564,2,Rodick Road (885),a,Rodick Road,345,5369001,92573885,Markham,37680
 43.8302488,-79.3439564,2,Rodick Road (886),a,Rodick Road,345,5369001,92573886,Markham,37680
 43.8302608,-79.3303575,2,Bentley Street (716),a,Bentley Street,32,5368996,435752716,Markham,37680
-43.8302849,-79.2817762,2,Beckwith Crescent (738),a,Beckwith Crescent,33,5369603,99045738,Markham,37680
-43.8302869,-79.2861303,2,Wilclay Avenue (782),a,Wilclay Avenue,35,5369337,560026782,Markham,37680
 43.8302883,-79.3302381,2,Bentley Street (080),a,Bentley Street,32,5368996,328289080,Markham,37680
-43.8303003,-79.285196,2,Dairis Crescent (957),a,Dairis Crescent,33,5369354,98376957,Markham,37680
-43.8303013,-79.288268,2,Chichester Road (224),a,Chichester Road,18,5369630,99102224,Markham,37680
 43.8303156,-79.3272444,2,Warden Avenue (959),a,Warden Avenue,476,5369187,96210959,Markham,37680
 43.8303156,-79.3272444,2,Warden Avenue (960),a,Warden Avenue,476,5369187,96210960,Markham,37680
 43.8303246,-79.3375961,2,Bentley Street (084),a,Bentley Street,32,5368996,328289084,Markham,37680
-43.8303304,-79.2860036,2,Wilclay Avenue (783),a,Wilclay Avenue,35,5369337,560026783,Markham,37680
 43.8303426,-79.3442541,2,Rodick Road (884),a,Rodick Road,345,5369001,92573884,Markham,37680
 43.830361,-79.2874454,2,Brimley Road (879),a,Brimley Road,101,5369745,99322879,Markham,37680
 43.8303639,-79.322952,2,Denison Street (498),a,Denison Street,602,5368990,92065498,Markham,37680
 43.83039,-79.3297959,2,Bentley Street (749),a,Bentley Street,32,5368996,397271749,Markham,37680
-43.8303919,-79.2829049,2,Beckwith Crescent (730),a,Beckwith Crescent,33,5369603,99045730,Markham,37680
-43.8303921,-79.2883151,2,Chichester Road (225),a,Chichester Road,18,5369630,99102225,Markham,37680
-43.8304025,-79.2818102,2,Beckwith Crescent (739),a,Beckwith Crescent,33,5369603,99045739,Markham,37680
 43.8304042,-79.2806424,2,Hillcroft Drive (386),a,Hillcroft Drive,74,5369742,99310386,Markham,37680
-43.8304092,-79.2852551,2,Dairis Crescent (956),a,Dairis Crescent,33,5369354,98376956,Markham,37680
-43.8304113,-79.2962247,2,Tangmere Crescent (388),a,Tangmere Crescent,19,5369621,99081388,Markham,37680
-43.8304182,-79.2858518,2,Wilclay Avenue (784),a,Wilclay Avenue,35,5369337,560026784,Markham,37680
 43.830436,-79.3229205,2,Denison Street (499),a,Denison Street,602,5368990,92065499,Markham,37680
 43.8304394,-79.344454,2,Rodick Road (879),a,Rodick Road,345,5369001,328295879,Markham,37680
-43.8304726,-79.2852781,2,Dairis Crescent (955),a,Dairis Crescent,33,5369354,98376955,Markham,37680
-43.8304793,-79.2899295,2,Aldergrove Drive (850),a,Aldergrove Drive,80,5369726,560026850,Markham,37680
 43.8304796,-79.3378089,2,Bentley Street (173),a,Bentley Street,32,5368996,92188173,Markham,37680
-43.8304829,-79.2961978,2,Tangmere Crescent (389),a,Tangmere Crescent,19,5369621,99081389,Markham,37680
 43.8304874,-79.3228967,2,Denison Street (275),a,Denison Street,602,5368990,328291275,Markham,37680
-43.830493,-79.2818449,2,Beckwith Crescent (740),a,Beckwith Crescent,33,5369603,99045740,Markham,37680
-43.8305016,-79.2884115,2,Chichester Road (226),a,Chichester Road,18,5369630,99102226,Markham,37680
-43.8305179,-79.2973184,2,Teddington Avenue (914),a,Teddington Avenue,17,5369730,560026914,Markham,37680
 43.8305238,-79.2874905,2,Brimley Road (880),a,Brimley Road,101,5369745,99322880,Markham,37680
-43.830536,-79.2961341,2,Tangmere Crescent (390),a,Tangmere Crescent,19,5369621,99081390,Markham,37680
-43.830548,-79.2856898,2,Wilclay Avenue (785),a,Wilclay Avenue,35,5369337,560026785,Markham,37680
 43.8305512,-79.3290949,2,Hood Road (368),a,Hood Road,49,5368995,92180368,Markham,37680
 43.8305512,-79.3290949,2,Bentley Street (169),a,Bentley Street,32,5368996,92188169,Markham,37680
 43.8305515,-79.3379132,2,Alden Road (121),a,Alden Road,77,5368994,92160121,Markham,37680
 43.8305515,-79.3379132,2,Bentley Street (174),a,Bentley Street,32,5368996,92188174,Markham,37680
 43.8305537,-79.2807073,2,Hillcroft Drive (163),a,Hillcroft Drive,74,5369742,513603163,Markham,37680
-43.8305635,-79.2853377,2,Dairis Crescent (953),a,Dairis Crescent,33,5369354,98376953,Markham,37680
-43.8305741,-79.3005109,2,Kenley Crescent (506),a,Kenley Crescent,25,5369201,96466506,Markham,37680
-43.8305818,-79.3004236,2,Kenley Crescent (507),a,Kenley Crescent,25,5369201,96466507,Markham,37680
 43.830582,-79.3228529,2,Denison Street (276),a,Denison Street,602,5368990,328291276,Markham,37680
-43.8306019,-79.3005599,2,Kenley Crescent (505),a,Kenley Crescent,25,5369201,96466505,Markham,37680
-43.8306092,-79.2841797,2,Dairis Crescent (988),a,Dairis Crescent,33,5369354,98376988,Markham,37680
-43.8306196,-79.2818785,2,Beckwith Crescent (741),a,Beckwith Crescent,33,5369603,99045741,Markham,37680
-43.8306232,-79.2854655,2,Dairis Crescent (952),a,Dairis Crescent,33,5369354,98376952,Markham,37680
 43.8306299,-79.3378041,2,Alden Road (122),a,Alden Road,77,5368994,92160122,Markham,37680
 43.8306327,-79.2875496,2,Brimley Road (881),a,Brimley Road,101,5369745,99322881,Markham,37680
 43.8306348,-79.344741,2,Rodick Road (883),a,Rodick Road,345,5369001,92573883,Markham,37680
-43.8306485,-79.300061,2,Kenley Crescent (508),a,Kenley Crescent,25,5369201,96466508,Markham,37680
-43.830664,-79.2830339,2,Beckwith Crescent (729),a,Beckwith Crescent,33,5369603,99045729,Markham,37680
-43.8306656,-79.3006078,2,Kenley Crescent (504),a,Kenley Crescent,25,5369201,96466504,Markham,37680
-43.8306669,-79.2886306,2,Chichester Road (227),a,Chichester Road,18,5369630,99102227,Markham,37680
-43.8306738,-79.2999484,2,Kenley Crescent (509),a,Kenley Crescent,25,5369201,96466509,Markham,37680
-43.8306757,-79.2855935,2,Wilclay Avenue (771),a,Wilclay Avenue,35,5369337,560026771,Markham,37680
-43.8306757,-79.2855935,2,Dairis Crescent (951),a,Dairis Crescent,33,5369354,98376951,Markham,37680
 43.8306823,-79.2807513,2,Hillcroft Drive (387),a,Hillcroft Drive,74,5369742,99310387,Markham,37680
 43.8306824,-79.3291265,2,Hood Road (181),a,Hood Road,49,5368995,473331181,Markham,37680
-43.8306848,-79.2973154,2,Teddington Avenue (908),a,Teddington Avenue,17,5369730,560026908,Markham,37680
-43.8307193,-79.2819254,2,Beckwith Crescent (742),a,Beckwith Crescent,33,5369603,99045742,Markham,37680
-43.8307226,-79.2899474,2,Aldergrove Drive (834),a,Aldergrove Drive,80,5369726,560026834,Markham,37680
-43.8307267,-79.2842137,2,Dairis Crescent (990),a,Dairis Crescent,33,5369354,98376990,Markham,37680
 43.83073,-79.2794806,2,Woodhall Road (837),a,Woodhall Road,49,5369452,98728837,Markham,37680
 43.8307343,-79.27942,2,Woodhall Road (838),a,Woodhall Road,49,5369452,98728838,Markham,37680
 43.8307424,-79.2795293,2,Woodhall Road (836),a,Woodhall Road,49,5369452,98728836,Markham,37680
@@ -987,321 +709,151 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.83076,-79.287633,2,Brimley Road (882),a,Brimley Road,101,5369745,99322882,Markham,37680
 43.8307658,-79.2807717,2,Hillcroft Drive (164),a,Hillcroft Drive,74,5369742,513603164,Markham,37680
 43.8307669,-79.2795696,2,Woodhall Road (835),a,Woodhall Road,49,5369452,98728835,Markham,37680
-43.8307725,-79.2830681,2,Beckwith Crescent (728),a,Beckwith Crescent,33,5369603,99045728,Markham,37680
-43.8307953,-79.2887887,2,Chichester Road (228),a,Chichester Road,18,5369630,99102228,Markham,37680
 43.8308038,-79.2795989,2,Woodhall Road (833),a,Woodhall Road,49,5369452,98728833,Markham,37680
-43.8308099,-79.2819601,2,Beckwith Crescent (743),a,Beckwith Crescent,33,5369603,99045743,Markham,37680
-43.8308167,-79.2842111,2,Dairis Crescent (992),a,Dairis Crescent,33,5369354,98376992,Markham,37680
 43.8308273,-79.3449502,2,Rodick Road (878),a,Rodick Road,345,5369001,328295878,Markham,37680
-43.8308369,-79.297354,2,Teddington Avenue (910),a,Teddington Avenue,17,5369730,560026910,Markham,37680
-43.8308447,-79.2830785,2,Beckwith Crescent (727),a,Beckwith Crescent,33,5369603,99045727,Markham,37680
-43.8308464,-79.3006524,2,Kenley Crescent (503),a,Kenley Crescent,25,5369201,96466503,Markham,37680
 43.8308515,-79.3227428,2,Denison Street (277),a,Denison Street,602,5368990,328291277,Markham,37680
-43.8308601,-79.2985501,2,Kenley Crescent (488),a,Kenley Crescent,25,5369201,96466488,Markham,37680
-43.8308601,-79.2985501,2,Kenley Crescent (511),a,Kenley Crescent,25,5369201,96466511,Markham,37680
-43.8308601,-79.2985501,2,Kenley Crescent (726),a,Kenley Crescent,25,5369201,579301726,Markham,37680
 43.8308607,-79.2877421,2,Brimley Road (883),a,Brimley Road,101,5369745,99322883,Markham,37680
-43.8308641,-79.281971,2,Beckwith Crescent (744),a,Beckwith Crescent,33,5369603,99045744,Markham,37680
-43.8308795,-79.2841969,2,Dairis Crescent (993),a,Dairis Crescent,33,5369354,98376993,Markham,37680
 43.8308968,-79.2807896,2,Hillcroft Drive (388),a,Hillcroft Drive,74,5369742,99310388,Markham,37680
-43.8308985,-79.2830645,2,Beckwith Crescent (726),a,Beckwith Crescent,33,5369603,99045726,Markham,37680
-43.8309243,-79.288984,2,Chichester Road (229),a,Chichester Road,18,5369630,99102229,Markham,37680
-43.8309327,-79.2900049,2,Chichester Road (237),a,Chichester Road,18,5369630,99102237,Markham,37680
-43.8309327,-79.2900049,2,Aldergrove Drive (822),a,Aldergrove Drive,80,5369726,560026822,Markham,37680
-43.8309557,-79.2899122,2,Chichester Road (236),a,Chichester Road,18,5369630,99102236,Markham,37680
-43.830963,-79.2867566,2,Hainsworth Court (609),a,Hainsworth Court,13,5369491,98813609,Markham,37680
-43.8309727,-79.286806,2,Hainsworth Court (610),a,Hainsworth Court,13,5369491,98813610,Markham,37680
 43.8309763,-79.3373227,2,Alden Road (123),a,Alden Road,77,5368994,92160123,Markham,37680
-43.83098,-79.2866939,2,Hainsworth Court (608),a,Hainsworth Court,13,5369491,98813608,Markham,37680
-43.8309913,-79.2868428,2,Hainsworth Court (611),a,Hainsworth Court,13,5369491,98813611,Markham,37680
-43.8310061,-79.286631,2,Hainsworth Court (607),a,Hainsworth Court,13,5369491,98813607,Markham,37680
 43.8310083,-79.3451111,2,Rodick Road (882),a,Rodick Road,345,5369001,92573882,Markham,37680
-43.8310096,-79.2900494,2,Aldergrove Drive (868),a,Aldergrove Drive,80,5369726,560026868,Markham,37680
-43.8310158,-79.2890809,2,Chichester Road (230),a,Chichester Road,18,5369630,99102230,Markham,37680
-43.8310179,-79.3006849,2,Kenley Crescent (502),a,Kenley Crescent,25,5369201,96466502,Markham,37680
-43.8310234,-79.2974261,2,Kenley Crescent (512),a,Kenley Crescent,25,5369201,96466512,Markham,37680
-43.8310234,-79.2974261,2,Tangmere Crescent (402),a,Tangmere Crescent,19,5369621,99081402,Markham,37680
-43.8310234,-79.2974261,2,Teddington Avenue (912),a,Teddington Avenue,17,5369730,560026912,Markham,37680
 43.8310295,-79.3226624,2,Denison Street (500),a,Denison Street,602,5368990,92065500,Markham,37680
-43.8310326,-79.2896027,2,Chichester Road (235),a,Chichester Road,18,5369630,99102235,Markham,37680
-43.8310412,-79.2865678,2,Hainsworth Court (606),a,Hainsworth Court,13,5369491,98813606,Markham,37680
-43.8310418,-79.2830107,2,Beckwith Crescent (725),a,Beckwith Crescent,33,5369603,99045725,Markham,37680
-43.8310441,-79.2819659,2,Beckwith Crescent (745),a,Beckwith Crescent,33,5369603,99045745,Markham,37680
 43.8310445,-79.2807967,2,Hillcroft Drive (389),a,Hillcroft Drive,74,5369742,99310389,Markham,37680
-43.8310458,-79.2868786,2,Hainsworth Court (612),a,Hainsworth Court,13,5369491,98813612,Markham,37680
 43.8310504,-79.3372197,2,Alden Road (124),a,Alden Road,77,5368994,92160124,Markham,37680
-43.8310523,-79.290074,2,Aldergrove Drive (828),a,Aldergrove Drive,80,5369726,560026828,Markham,37680
-43.8310559,-79.2971889,2,Tangmere Crescent (401),a,Tangmere Crescent,19,5369621,99081401,Markham,37680
-43.8310705,-79.289129,2,Chichester Road (231),a,Chichester Road,18,5369630,99102231,Markham,37680
 43.8310836,-79.2807949,2,Hillcroft Drive (166),a,Hillcroft Drive,74,5369742,513603166,Markham,37680
-43.8310893,-79.2891782,2,Chichester Road (232),a,Chichester Road,18,5369630,99102232,Markham,37680
-43.8310915,-79.2893274,2,Chichester Road (234),a,Chichester Road,18,5369630,99102234,Markham,37680
 43.8310954,-79.3274502,2,Warden Avenue (475),a,Warden Avenue,476,5369187,328296475,Markham,37680
 43.8310954,-79.3274502,2,Warden Avenue (022),a,Warden Avenue,476,5369187,328298022,Markham,37680
-43.8310992,-79.2892402,2,Chichester Road (233),a,Chichester Road,18,5369630,99102233,Markham,37680
-43.831103,-79.2864914,2,Hainsworth Court (605),a,Hainsworth Court,13,5369491,98813605,Markham,37680
-43.8311032,-79.2841034,2,Dairis Crescent (994),a,Dairis Crescent,33,5369354,98376994,Markham,37680
-43.8311071,-79.2970009,2,Tangmere Crescent (400),a,Tangmere Crescent,19,5369621,99081400,Markham,37680
-43.8311138,-79.2830086,2,Beckwith Crescent (724),a,Beckwith Crescent,33,5369603,99045724,Markham,37680
 43.8311186,-79.2797374,2,Woodhall Road (832),a,Woodhall Road,49,5369452,98728832,Markham,37680
 43.8311195,-79.277737,2,Woodhall Road (840),a,Woodhall Road,49,5369452,98728840,Markham,37680
 43.8311311,-79.322606,2,Denison Street (278),a,Denison Street,602,5368990,328291278,Markham,37680
-43.8311373,-79.2869755,2,Hainsworth Court (613),a,Hainsworth Court,13,5369491,98813613,Markham,37680
-43.8311434,-79.2901361,2,Aldergrove Drive (869),a,Aldergrove Drive,80,5369726,560026869,Markham,37680
-43.8311481,-79.2852369,2,Cartmel Drive (911),a,Cartmel Drive,53,5369295,334945911,Markham,37680
-43.8311481,-79.2852369,2,Wilclay Avenue (775),a,Wilclay Avenue,35,5369337,560026775,Markham,37680
 43.8311632,-79.2807914,2,Hillcroft Drive (165),a,Hillcroft Drive,74,5369742,513603165,Markham,37680
 43.8311638,-79.2881438,2,Brimley Road (884),a,Brimley Road,101,5369745,99322884,Markham,37680
-43.8311673,-79.2968126,2,Tangmere Crescent (399),a,Tangmere Crescent,19,5369621,99081399,Markham,37680
-43.8311674,-79.2986284,2,Kenley Crescent (489),a,Kenley Crescent,25,5369201,96466489,Markham,37680
-43.8311756,-79.2841262,2,Dairis Crescent (996),a,Dairis Crescent,33,5369354,98376996,Markham,37680
-43.831177,-79.2830192,2,Beckwith Crescent (723),a,Beckwith Crescent,33,5369603,99045723,Markham,37680
-43.8311846,-79.285331,2,Cartmel Drive (913),a,Cartmel Drive,53,5369295,513602913,Markham,37680
-43.831192,-79.2853499,2,Cartmel Drive (315),a,Cartmel Drive,53,5369295,384321315,Markham,37680
-43.8311986,-79.3007295,2,Kenley Crescent (501),a,Kenley Crescent,25,5369201,96466501,Markham,37680
 43.8312004,-79.2773968,2,Woodhall Road (841),a,Woodhall Road,49,5369452,98728841,Markham,37680
 43.8312105,-79.3452613,2,Rodick Road (877),a,Rodick Road,345,5369001,328295877,Markham,37680
-43.8312109,-79.294299,2,Tangmere Crescent (391),a,Tangmere Crescent,19,5369621,99081391,Markham,37680
 43.8312191,-79.2773379,2,Woodhall Road (971),a,Woodhall Road,49,5369452,513602971,Markham,37680
-43.8312403,-79.2830423,2,Beckwith Crescent (722),a,Beckwith Crescent,33,5369603,99045722,Markham,37680
-43.8312433,-79.3007033,2,Kenley Crescent (500),a,Kenley Crescent,25,5369201,96466500,Markham,37680
 43.8312437,-79.2772837,2,Woodhall Road (842),a,Woodhall Road,49,5369452,98728842,Markham,37680
-43.8312574,-79.2841674,2,Dairis Crescent (998),a,Dairis Crescent,33,5369354,98376998,Markham,37680
-43.8312645,-79.2942726,2,Tangmere Crescent (392),a,Tangmere Crescent,19,5369621,99081392,Markham,37680
 43.8312697,-79.2807786,2,Hillcroft Drive (390),a,Hillcroft Drive,74,5369742,99310390,Markham,37680
 43.8312746,-79.2772392,2,Woodhall Road (972),a,Woodhall Road,49,5369452,513602972,Markham,37680
 43.8312754,-79.3369403,2,Alden Road (365),a,Alden Road,77,5368994,328296365,Markham,37680
-43.8312787,-79.300665,2,Kenley Crescent (499),a,Kenley Crescent,25,5369201,96466499,Markham,37680
-43.8312869,-79.2819465,2,Beckwith Crescent (746),a,Beckwith Crescent,33,5369603,99045746,Markham,37680
-43.831293,-79.2851276,2,Wilclay Avenue (776),a,Wilclay Avenue,35,5369337,560026776,Markham,37680
 43.8312964,-79.3292741,2,Hood Road (184),a,Hood Road,49,5368995,473331184,Markham,37680
-43.8313023,-79.2856342,2,Cartmel Drive (913),a,Cartmel Drive,53,5369295,334945913,Markham,37680
-43.831305,-79.3006145,2,Kenley Crescent (498),a,Kenley Crescent,25,5369201,96466498,Markham,37680
 43.831306,-79.2771973,2,Woodhall Road (973),a,Woodhall Road,49,5369452,513602973,Markham,37680
-43.8313215,-79.3005146,2,Kenley Crescent (497),a,Kenley Crescent,25,5369201,96466497,Markham,37680
-43.8313361,-79.2850908,2,Wilclay Avenue (795),a,Wilclay Avenue,35,5369337,560026795,Markham,37680
-43.8313365,-79.2942705,2,Tangmere Crescent (393),a,Tangmere Crescent,19,5369621,99081393,Markham,37680
 43.8313412,-79.2771588,2,Woodhall Road (843),a,Woodhall Road,49,5369452,98728843,Markham,37680
 43.831342,-79.3224612,2,Denison Street (501),a,Denison Street,602,5368990,92065501,Markham,37680
 43.8313483,-79.3292866,2,Hood Road (183),a,Hood Road,49,5368995,473331183,Markham,37680
 43.8313516,-79.2798343,2,Woodhall Road (970),a,Woodhall Road,49,5369452,513602970,Markham,37680
-43.8313622,-79.2857626,2,Cartmel Drive (914),a,Cartmel Drive,53,5369295,334945914,Markham,37680
-43.8313813,-79.2850435,2,Wilclay Avenue (772),a,Wilclay Avenue,35,5369337,560026772,Markham,37680
 43.8313974,-79.3292984,2,Hood Road (305),a,Hood Road,49,5368995,328296305,Markham,37680
 43.8314191,-79.2799124,2,Bradley Road (912),a,Bradley Road,22,5369393,513602912,Markham,37680
 43.8314197,-79.2799607,2,Bradley Road (910),a,Bradley Road,22,5369393,513602910,Markham,37680
-43.8314201,-79.2849971,2,Wilclay Avenue (794),a,Wilclay Avenue,35,5369337,560026794,Markham,37680
 43.8314261,-79.2798653,2,Bradley Road (625),a,Bradley Road,22,5369393,98549625,Markham,37680
 43.8314261,-79.2798653,2,Bradley Road (639),a,Bradley Road,22,5369393,98549639,Markham,37680
 43.8314261,-79.2798653,2,Woodhall Road (831),a,Woodhall Road,49,5369452,98728831,Markham,37680
 43.8314298,-79.288472,2,Brimley Road (885),a,Brimley Road,101,5369745,99322885,Markham,37680
 43.8314558,-79.2797362,2,Bradley Road (907),a,Bradley Road,22,5369393,513602907,Markham,37680
-43.8314608,-79.2849417,2,Wilclay Avenue (780),a,Wilclay Avenue,35,5369337,560026780,Markham,37680
-43.8314728,-79.2859335,2,Cartmel Drive (915),a,Cartmel Drive,53,5369295,334945915,Markham,37680
-43.8314728,-79.2859335,2,Hainsworth Court (604),a,Hainsworth Court,13,5369491,98813604,Markham,37680
-43.8314816,-79.2997762,2,Kenley Crescent (496),a,Kenley Crescent,25,5369201,96466496,Markham,37680
 43.8314836,-79.2805923,2,Bradley Road (909),a,Bradley Road,22,5369393,513602909,Markham,37680
 43.8314863,-79.2806273,2,Bradley Road (911),a,Bradley Road,22,5369393,513602911,Markham,37680
-43.8314892,-79.2849002,2,Wilclay Avenue (793),a,Wilclay Avenue,35,5369337,560026793,Markham,37680
-43.8314956,-79.2874503,2,Hainsworth Court (614),a,Hainsworth Court,13,5369491,98813614,Markham,37680
 43.8314985,-79.2807341,2,Bradley Road (640),a,Bradley Road,22,5369393,98549640,Markham,37680
 43.8314985,-79.2807341,2,Hillcroft Drive (391),a,Hillcroft Drive,74,5369742,99310391,Markham,37680
-43.831506,-79.2996014,2,Kenley Crescent (495),a,Kenley Crescent,25,5369201,96466495,Markham,37680
-43.8315144,-79.2848562,2,Wilclay Avenue (777),a,Wilclay Avenue,35,5369337,560026777,Markham,37680
-43.831521,-79.2987925,2,Kenley Crescent (490),a,Kenley Crescent,25,5369201,96466490,Markham,37680
 43.8315302,-79.3454273,2,Rodick Road (881),a,Rodick Road,345,5369001,92573881,Markham,37680
 43.8315365,-79.3366161,2,Alden Road (125),a,Alden Road,77,5368994,92160125,Markham,37680
-43.8315427,-79.2847999,2,Wilclay Avenue (792),a,Wilclay Avenue,35,5369337,560026792,Markham,37680
 43.8315511,-79.336599,2,Alden Road (366),a,Alden Road,77,5368994,328296366,Markham,37680
-43.8315573,-79.2988164,2,Kenley Crescent (491),a,Kenley Crescent,25,5369201,96466491,Markham,37680
 43.8315575,-79.2885803,2,Brimley Road (886),a,Brimley Road,101,5369745,99322886,Markham,37680
 43.8315665,-79.3222547,2,Denison Street (502),a,Denison Street,602,5368990,92065502,Markham,37680
-43.831567,-79.2847436,2,Wilclay Avenue (779),a,Wilclay Avenue,35,5369337,560026779,Markham,37680
 43.8315781,-79.2792053,2,Bradley Road (626),a,Bradley Road,22,5369393,98549626,Markham,37680
 43.8315781,-79.2792053,2,Bradley Road (627),a,Bradley Road,22,5369393,98549627,Markham,37680
 43.8315781,-79.2792053,2,Windhill Road (603),a,Windhill Road,21,5369514,98871603,Markham,37680
-43.8315806,-79.2843191,2,Dairis Crescent (885),a,Dairis Crescent,33,5369354,513602885,Markham,37680
-43.8315854,-79.2988902,2,Kenley Crescent (492),a,Kenley Crescent,25,5369201,96466492,Markham,37680
-43.8315888,-79.299114,2,Kenley Crescent (494),a,Kenley Crescent,25,5369201,96466494,Markham,37680
-43.831591,-79.2846798,2,Wilclay Avenue (790),a,Wilclay Avenue,35,5369337,560026790,Markham,37680
-43.8316012,-79.2843288,2,Dairis Crescent (886),a,Dairis Crescent,33,5369354,513602886,Markham,37680
-43.8316045,-79.2989643,2,Kenley Crescent (493),a,Kenley Crescent,25,5369201,96466493,Markham,37680
-43.8316091,-79.2846256,2,Wilclay Avenue (778),a,Wilclay Avenue,35,5369337,560026778,Markham,37680
-43.8316166,-79.2931307,2,Digby Crescent (153),a,Digby Crescent,25,5369309,98019153,Markham,37680
 43.8316186,-79.3365196,2,Alden Road (126),a,Alden Road,77,5368994,92160126,Markham,37680
-43.8316196,-79.2932144,2,Digby Crescent (155),a,Digby Crescent,25,5369309,98019155,Markham,37680
-43.83163,-79.2845488,2,Wilclay Avenue (791),a,Wilclay Avenue,35,5369337,560026791,Markham,37680
-43.8316379,-79.2819364,2,Beckwith Crescent (747),a,Beckwith Crescent,33,5369603,99045747,Markham,37680
-43.8316454,-79.2932543,2,Digby Crescent (157),a,Digby Crescent,25,5369309,98019157,Markham,37680
 43.8316488,-79.2886648,2,Brimley Road (887),a,Brimley Road,101,5369745,99322887,Markham,37680
-43.831649,-79.2904806,2,Halder Crescent (400),a,Halder Crescent,13,5369701,99205400,Markham,37680
-43.831649,-79.2904806,2,Aldergrove Drive (836),a,Aldergrove Drive,80,5369726,560026836,Markham,37680
 43.8316533,-79.3364787,2,Alden Road (387),a,Alden Road,77,5368994,486764387,Markham,37680
-43.8316623,-79.2727438,2,Steeles Avenue East (941),a,Steeles Avenue East,292,5369724,99256941,Markham,37680
-43.8316637,-79.2904907,2,Aldergrove Drive (874),a,Aldergrove Drive,80,5369726,560026874,Markham,37680
-43.831674,-79.2843629,2,Wilclay Avenue (773),a,Wilclay Avenue,35,5369337,560026773,Markham,37680
-43.831674,-79.2843629,2,Dairis Crescent (000),a,Dairis Crescent,33,5369354,98377000,Markham,37680
 43.8316747,-79.2754181,2,McCowan Road (245),a,McCowan Road,589,5369163,95572245,Markham,37680
-43.831675,-79.2903569,2,Halder Crescent (401),a,Halder Crescent,13,5369701,99205401,Markham,37680
 43.831677,-79.279249,2,Windhill Road (054),a,Windhill Road,21,5369514,513603054,Markham,37680
-43.8316791,-79.2876813,2,Hainsworth Court (615),a,Hainsworth Court,13,5369491,98813615,Markham,37680
 43.8316947,-79.2752778,2,McCowan Road (330),a,McCowan Road,589,5369163,95572330,Markham,37680
-43.8317011,-79.281947,2,Beckwith Crescent (748),a,Beckwith Crescent,33,5369603,99045748,Markham,37680
-43.8317094,-79.2933147,2,Digby Crescent (159),a,Digby Crescent,25,5369309,98019159,Markham,37680
 43.831714,-79.3364074,2,Alden Road (128),a,Alden Road,77,5368994,92160128,Markham,37680
 43.8317245,-79.2806886,2,Hillcroft Drive (933),a,Hillcroft Drive,74,5369742,560026933,Markham,37680
-43.831733,-79.2900802,2,Halder Crescent (402),a,Halder Crescent,13,5369701,99205402,Markham,37680
 43.8317426,-79.3220589,2,Denison Street (503),a,Denison Street,602,5368990,92065503,Markham,37680
-43.8317563,-79.2928407,2,Digby Crescent (151),a,Digby Crescent,25,5369309,98019151,Markham,37680
 43.8317849,-79.2887355,2,Brimley Road (888),a,Brimley Road,101,5369745,99322888,Markham,37680
 43.8317879,-79.2753728,2,McCowan Road (204),a,McCowan Road,589,5369163,95572204,Markham,37680
 43.8317879,-79.2753728,2,McCowan Road (244),a,McCowan Road,589,5369163,95572244,Markham,37680
 43.8317879,-79.2753728,2,McCowan Road (332),a,McCowan Road,589,5369163,95572332,Markham,37680
-43.8317934,-79.29774,2,Dunbar Crescent (504),a,Dunbar Crescent,26,5369612,99061504,Markham,37680
-43.8317934,-79.29774,2,Teddington Avenue (906),a,Teddington Avenue,17,5369730,560026906,Markham,37680
 43.831805,-79.3455387,2,Rodick Road (880),a,Rodick Road,345,5369001,92573880,Markham,37680
-43.8318089,-79.2945556,2,Tangmere Crescent (394),a,Tangmere Crescent,19,5369621,99081394,Markham,37680
 43.8318107,-79.2782016,2,Bradley Road (628),a,Bradley Road,22,5369393,98549628,Markham,37680
 43.8318139,-79.28067,2,Hillcroft Drive (939),a,Hillcroft Drive,74,5369742,560026939,Markham,37680
-43.8318172,-79.2975279,2,Dunbar Crescent (505),a,Dunbar Crescent,26,5369612,99061505,Markham,37680
-43.8318175,-79.2897047,2,Halder Crescent (403),a,Halder Crescent,13,5369701,99205403,Markham,37680
-43.8318283,-79.2833151,2,Beckwith Crescent (943),a,Beckwith Crescent,33,5369603,384323943,Markham,37680
-43.8318349,-79.2896669,2,Halder Crescent (404),a,Halder Crescent,13,5369701,99205404,Markham,37680
-43.8318368,-79.2863499,2,Cartmel Drive (916),a,Cartmel Drive,53,5369295,334945916,Markham,37680
-43.8318368,-79.2863499,2,Ingram Road (205),a,Ingram Road,25,5369495,98819205,Markham,37680
 43.8318488,-79.333768,2,McPherson Street (854),a,McPherson Street,25,5368998,92205854,Markham,37680
-43.8318497,-79.2833252,2,Beckwith Crescent (066),a,Beckwith Crescent,33,5369603,513603066,Markham,37680
 43.83185,-79.2780871,2,Bradley Road (629),a,Bradley Road,22,5369393,98549629,Markham,37680
-43.8318505,-79.2973404,2,Dunbar Crescent (506),a,Dunbar Crescent,26,5369612,99061506,Markham,37680
-43.8318533,-79.2878878,2,Hainsworth Court (616),a,Hainsworth Court,13,5369491,98813616,Markham,37680
-43.8318582,-79.2906239,2,Aldergrove Drive (830),a,Aldergrove Drive,80,5369726,560026830,Markham,37680
-43.8318782,-79.2948336,2,Tangmere Crescent (398),a,Tangmere Crescent,19,5369621,99081398,Markham,37680
-43.8318819,-79.2946157,2,Tangmere Crescent (395),a,Tangmere Crescent,19,5369621,99081395,Markham,37680
 43.8318824,-79.3340328,2,McPherson Street (726),a,McPherson Street,25,5368998,435752726,Markham,37680
-43.8318881,-79.2896156,2,Halder Crescent (405),a,Halder Crescent,13,5369701,99205405,Markham,37680
 43.8318935,-79.3218631,2,Denison Street (504),a,Denison Street,602,5368990,92065504,Markham,37680
-43.8318935,-79.2947895,2,Tangmere Crescent (397),a,Tangmere Crescent,19,5369621,99081397,Markham,37680
 43.831895,-79.2780085,2,Bradley Road (630),a,Bradley Road,22,5369393,98549630,Markham,37680
-43.8319012,-79.2947022,2,Tangmere Crescent (396),a,Tangmere Crescent,19,5369621,99081396,Markham,37680
-43.8319021,-79.2971773,2,Dunbar Crescent (507),a,Dunbar Crescent,26,5369612,99061507,Markham,37680
 43.8319081,-79.3294212,2,Hood Road (182),a,Hood Road,49,5368995,473331182,Markham,37680
 43.8319085,-79.3342392,2,McPherson Street (391),a,McPherson Street,25,5368998,486764391,Markham,37680
 43.8319189,-79.2754177,2,McCowan Road (205),a,McCowan Road,589,5369163,95572205,Markham,37680
-43.8319204,-79.2833586,2,Wilclay Avenue (774),a,Wilclay Avenue,35,5369337,560026774,Markham,37680
-43.8319204,-79.2833586,2,Beckwith Crescent (721),a,Beckwith Crescent,33,5369603,99045721,Markham,37680
 43.8319241,-79.2806532,2,Hillcroft Drive (940),a,Hillcroft Drive,74,5369742,560026940,Markham,37680
 43.8319293,-79.3344031,2,McPherson Street (853),a,McPherson Street,25,5368998,92205853,Markham,37680
-43.8319389,-79.2978354,2,Teddington Avenue (909),a,Teddington Avenue,17,5369730,560026909,Markham,37680
 43.8319413,-79.2793655,2,Windhill Road (604),a,Windhill Road,21,5369514,98871604,Markham,37680
-43.8319429,-79.2832679,2,Wilclay Avenue (789),a,Wilclay Avenue,35,5369337,560026789,Markham,37680
 43.8319596,-79.2779436,2,Bradley Road (631),a,Bradley Road,22,5369393,98549631,Markham,37680
-43.8319665,-79.2924491,2,Digby Crescent (149),a,Digby Crescent,25,5369309,98019149,Markham,37680
-43.8319705,-79.2896179,2,Halder Crescent (406),a,Halder Crescent,13,5369701,99205406,Markham,37680
 43.8319739,-79.3361018,2,Alden Road (130),a,Alden Road,77,5368994,92160130,Markham,37680
 43.8320012,-79.3331421,2,McPherson Street (727),a,McPherson Street,25,5368998,435752727,Markham,37680
-43.8320127,-79.290719,2,Aldergrove Drive (837),a,Aldergrove Drive,80,5369726,560026837,Markham,37680
 43.8320209,-79.3216386,2,Denison Street (505),a,Denison Street,602,5368990,92065505,Markham,37680
-43.8320323,-79.2896239,2,Halder Crescent (407),a,Halder Crescent,13,5369701,99205407,Markham,37680
 43.832035,-79.33603,2,Alden Road (131),a,Alden Road,77,5368994,92160131,Markham,37680
 43.8320365,-79.3345723,2,McPherson Street (855),a,McPherson Street,25,5368998,401671855,Markham,37680
 43.8320403,-79.3329812,2,McPherson Street (720),a,McPherson Street,25,5368998,435752720,Markham,37680
-43.8320453,-79.2907307,2,Aldergrove Drive (870),a,Aldergrove Drive,80,5369726,560026870,Markham,37680
 43.8320461,-79.3215871,2,Denison Street (279),a,Denison Street,602,5368990,328291279,Markham,37680
 43.8320604,-79.2754543,2,McCowan Road (206),a,McCowan Road,589,5369163,95572206,Markham,37680
 43.8320604,-79.2754543,2,McCowan Road (383),a,McCowan Road,589,5369163,95572383,Markham,37680
 43.8320623,-79.2765659,2,Woodhall Road (845),a,Woodhall Road,49,5369452,98728845,Markham,37680
-43.8320648,-79.3008541,2,Ashmore Crescent (037),a,Ashmore Crescent,29,5369195,96364037,Markham,37680
-43.8320689,-79.2827612,2,Wilclay Avenue (787),a,Wilclay Avenue,35,5369337,560026787,Markham,37680
-43.8320722,-79.300742,2,Ashmore Crescent (038),a,Ashmore Crescent,29,5369195,96364038,Markham,37680
-43.8320754,-79.297931,2,Teddington Avenue (913),a,Teddington Avenue,17,5369730,560026913,Markham,37680
 43.8320762,-79.3448565,2,Riviera Drive (359),a,Riviera Drive,68,5369000,92448359,Markham,37680
-43.8320774,-79.2866252,2,Cartmel Drive (918),a,Cartmel Drive,53,5369295,334945918,Markham,37680
 43.8320795,-79.3294635,2,Hood Road (100),a,Hood Road,49,5368995,490765100,Markham,37680
-43.8320838,-79.3009158,2,Ashmore Crescent (036),a,Ashmore Crescent,29,5369195,96364036,Markham,37680
 43.8320974,-79.2765422,2,Woodhall Road (975),a,Woodhall Road,49,5369452,513602975,Markham,37680
 43.8321047,-79.3447126,2,Riviera Drive (360),a,Riviera Drive,68,5369000,92448360,Markham,37680
-43.8321153,-79.2921588,2,Digby Crescent (148),a,Digby Crescent,25,5369309,98019148,Markham,37680
-43.8321159,-79.2821484,2,Beckwith Crescent (064),a,Beckwith Crescent,33,5369603,513603064,Markham,37680
 43.8321163,-79.3434238,2,Riviera Drive (368),a,Riviera Drive,68,5369000,92448368,Markham,37680
 43.8321163,-79.343248,2,Riviera Drive (369),a,Riviera Drive,68,5369000,92448369,Markham,37680
 43.8321163,-79.3431234,2,Riviera Drive (370),a,Riviera Drive,68,5369000,92448370,Markham,37680
-43.8321207,-79.3009769,2,Ashmore Crescent (035),a,Ashmore Crescent,29,5369195,96364035,Markham,37680
 43.8321221,-79.2778242,2,Bradley Road (632),a,Bradley Road,22,5369393,98549632,Markham,37680
 43.8321222,-79.3326449,2,McPherson Street (856),a,McPherson Street,25,5368998,401671856,Markham,37680
 43.8321258,-79.3214242,2,Denison Street (506),a,Denison Street,602,5368990,92065506,Markham,37680
-43.8321305,-79.285855,2,Ingram Road (209),a,Ingram Road,25,5369495,98819209,Markham,37680
 43.8321326,-79.2765243,2,Woodhall Road (846),a,Woodhall Road,49,5369452,98728846,Markham,37680
-43.8321356,-79.282158,2,Beckwith Crescent (065),a,Beckwith Crescent,33,5369603,513603065,Markham,37680
 43.8321472,-79.3437725,2,Riviera Drive (367),a,Riviera Drive,68,5369000,92448367,Markham,37680
 43.8321635,-79.3439555,2,Riviera Drive (366),a,Riviera Drive,68,5369000,92448366,Markham,37680
 43.8321658,-79.3439817,2,Riviera Drive (365),a,Riviera Drive,68,5369000,92448365,Markham,37680
-43.8321697,-79.285773,2,Ingram Road (210),a,Ingram Road,25,5369495,98819210,Markham,37680
 43.8321736,-79.3428688,2,Riviera Drive (371),a,Riviera Drive,68,5369000,92448371,Markham,37680
 43.8321802,-79.2765086,2,Woodhall Road (974),a,Woodhall Road,49,5369452,513602974,Markham,37680
 43.8321811,-79.3442769,2,Riviera Drive (364),a,Riviera Drive,68,5369000,92448364,Markham,37680
 43.8321832,-79.3443165,2,Riviera Drive (362),a,Riviera Drive,68,5369000,92448362,Markham,37680
-43.832185,-79.2980398,2,Teddington Avenue (911),a,Teddington Avenue,17,5369730,560026911,Markham,37680
-43.8321986,-79.2867441,2,Cartmel Drive (760),a,Cartmel Drive,53,5369295,560026760,Markham,37680
-43.8322006,-79.2936489,2,Digby Crescent (160),a,Digby Crescent,25,5369309,98019160,Markham,37680
-43.8322041,-79.2856713,2,Ingram Road (211),a,Ingram Road,25,5369495,98819211,Markham,37680
-43.832209,-79.2821936,2,Wilclay Avenue (821),a,Wilclay Avenue,35,5369337,98293821,Markham,37680
-43.832209,-79.2821936,2,Beckwith Crescent (749),a,Beckwith Crescent,33,5369603,99045749,Markham,37680
-43.8322112,-79.3010117,2,Ashmore Crescent (034),a,Ashmore Crescent,29,5369195,96364034,Markham,37680
 43.8322219,-79.3212225,2,Denison Street (507),a,Denison Street,602,5368990,92065507,Markham,37680
 43.832222,-79.2764999,2,Woodhall Road (847),a,Woodhall Road,49,5369452,98728847,Markham,37680
 43.8322271,-79.3055221,2,Kennedy Road (429),a,Kennedy Road,785,5369185,473331429,Markham,37680
 43.8322282,-79.2888721,2,Brimley Road (890),a,Brimley Road,101,5369745,99322890,Markham,37680
 43.8322406,-79.2795035,2,Windhill Road (605),a,Windhill Road,21,5369514,98871605,Markham,37680
-43.8322464,-79.2918939,2,Digby Crescent (146),a,Digby Crescent,25,5369309,98019146,Markham,37680
 43.832248,-79.3321282,2,McPherson Street (721),a,McPherson Street,25,5368998,435752721,Markham,37680
 43.8322621,-79.3349284,2,McPherson Street (392),a,McPherson Street,25,5368998,486764392,Markham,37680
 43.8322627,-79.2764999,2,Woodhall Road (976),a,Woodhall Road,49,5369452,513602976,Markham,37680
-43.8322636,-79.2936471,2,Digby Crescent (161),a,Digby Crescent,25,5369309,98019161,Markham,37680
 43.8322659,-79.2777171,2,Bradley Road (633),a,Bradley Road,22,5369393,98549633,Markham,37680
 43.8322777,-79.32951,2,Hood Road (304),a,Hood Road,49,5368995,328296304,Markham,37680
-43.8322829,-79.2997783,2,Ashmore Crescent (012),a,Ashmore Crescent,29,5369195,96364012,Markham,37680
-43.8322829,-79.2997783,2,Ashmore Crescent (293),a,Ashmore Crescent,29,5369195,579300293,Markham,37680
 43.8322861,-79.2795422,2,Windhill Road (606),a,Windhill Road,21,5369514,98871606,Markham,37680
 43.8322911,-79.321034,2,Denison Street (508),a,Denison Street,602,5368990,92065508,Markham,37680
 43.8322918,-79.3319485,2,McPherson Street (725),a,McPherson Street,25,5368998,435752725,Markham,37680
 43.832296,-79.3054849,2,Kennedy Road (381),a,Kennedy Road,785,5369185,473331381,Markham,37680
 43.832296,-79.3054849,2,Kennedy Road (428),a,Kennedy Road,785,5369185,473331428,Markham,37680
 43.8323034,-79.2765069,2,Woodhall Road (848),a,Woodhall Road,49,5369452,98728848,Markham,37680
-43.832317,-79.2936083,2,Digby Crescent (162),a,Digby Crescent,25,5369309,98019162,Markham,37680
 43.8323279,-79.2817176,2,Wilclay Avenue (822),a,Wilclay Avenue,35,5369337,98293822,Markham,37680
-43.8323289,-79.2868479,2,Cartmel Drive (919),a,Cartmel Drive,53,5369295,334945919,Markham,37680
 43.8323311,-79.2795409,2,Windhill Road (607),a,Windhill Road,21,5369514,98871607,Markham,37680
-43.8323329,-79.2935865,2,Digby Crescent (163),a,Digby Crescent,25,5369309,98019163,Markham,37680
-43.8323336,-79.2917048,2,Digby Crescent (145),a,Digby Crescent,25,5369309,98019145,Markham,37680
 43.8323363,-79.3209091,2,Denison Street (510),a,Denison Street,602,5368990,92065510,Markham,37680
-43.8323378,-79.3010454,2,Ashmore Crescent (033),a,Ashmore Crescent,29,5369195,96364033,Markham,37680
 43.8323378,-79.2806253,2,Hillcroft Drive (938),a,Hillcroft Drive,74,5369742,560026938,Markham,37680
 43.8323448,-79.3421075,2,Riviera Drive (372),a,Riviera Drive,68,5369000,92448372,Markham,37680
-43.8323523,-79.2935575,2,Digby Crescent (164),a,Digby Crescent,25,5369309,98019164,Markham,37680
 43.8323546,-79.3054533,2,Kennedy Road (383),a,Kennedy Road,785,5369185,473331383,Markham,37680
 43.8323576,-79.2795028,2,Windhill Road (608),a,Windhill Road,21,5369514,98871608,Markham,37680
-43.8323657,-79.2908457,2,Aldergrove Drive (859),a,Aldergrove Drive,80,5369726,560026859,Markham,37680
 43.8323663,-79.342012,2,Riviera Drive (373),a,Riviera Drive,68,5369000,92448373,Markham,37680
 43.832368,-79.2724379,2,Norn Crescent (375),a,Norn Crescent,21,5369695,99200375,Markham,37680
 43.8323745,-79.2776189,2,Bradley Road (634),a,Bradley Road,22,5369393,98549634,Markham,37680
-43.8323765,-79.2915668,2,Digby Crescent (144),a,Digby Crescent,25,5369309,98019144,Markham,37680
 43.8323787,-79.2725496,2,Norn Crescent (374),a,Norn Crescent,21,5369695,99200374,Markham,37680
 43.8323843,-79.2723255,2,Norn Crescent (376),a,Norn Crescent,21,5369695,99200376,Markham,37680
 43.8323854,-79.3207134,2,Denison Street (280),a,Denison Street,602,5368990,328291280,Markham,37680
 43.8323875,-79.281492,2,Wilclay Avenue (823),a,Wilclay Avenue,35,5369337,98293823,Markham,37680
 43.8323891,-79.3054346,2,Kennedy Road (380),a,Kennedy Road,785,5369185,473331380,Markham,37680
-43.8323912,-79.2884674,2,Cashmere Crescent (387),a,Cashmere Crescent,14,5369725,99259387,Markham,37680
 43.8323926,-79.2794396,2,Windhill Road (609),a,Windhill Road,21,5369514,98871609,Markham,37680
 43.8323955,-79.3315224,2,McPherson Street (723),a,McPherson Street,25,5368998,435752723,Markham,37680
-43.8323958,-79.2934568,2,Digby Crescent (165),a,Digby Crescent,25,5369309,98019165,Markham,37680
-43.832402,-79.2885466,2,Cashmere Crescent (390),a,Cashmere Crescent,14,5369725,99259390,Markham,37680
 43.8324075,-79.3314731,2,McPherson Street (288),a,McPherson Street,25,5368998,520288288,Markham,37680
 43.8324091,-79.2793397,2,Windhill Road (610),a,Windhill Road,21,5369514,98871610,Markham,37680
 43.8324126,-79.2813669,2,Wilclay Avenue (824),a,Wilclay Avenue,35,5369337,98293824,Markham,37680
-43.8324191,-79.2914039,2,Digby Crescent (143),a,Digby Crescent,25,5369309,98019143,Markham,37680
 43.832421,-79.2806197,2,Wilclay Avenue (827),a,Wilclay Avenue,35,5369337,98293827,Markham,37680
 43.832421,-79.2806197,2,Hillcroft Drive (931),a,Hillcroft Drive,74,5369742,560026931,Markham,37680
-43.832423,-79.2882473,2,Cashmere Crescent (819),a,Cashmere Crescent,14,5369725,560026819,Markham,37680
 43.8324242,-79.2807189,2,Wilclay Avenue (042),a,Wilclay Avenue,35,5369337,513603042,Markham,37680
 43.8324254,-79.2807542,2,Wilclay Avenue (041),a,Wilclay Avenue,35,5369337,513603041,Markham,37680
 43.8324264,-79.281269,2,Wilclay Avenue (040),a,Wilclay Avenue,35,5369337,513603040,Markham,37680
@@ -1309,12 +861,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8324338,-79.2811862,2,Wilclay Avenue (039),a,Wilclay Avenue,35,5369337,513603039,Markham,37680
 43.8324355,-79.2721375,2,Norn Crescent (377),a,Norn Crescent,21,5369695,99200377,Markham,37680
 43.8324371,-79.281113,2,Wilclay Avenue (825),a,Wilclay Avenue,35,5369337,98293825,Markham,37680
-43.8324411,-79.28863,2,Cashmere Crescent (392),a,Cashmere Crescent,14,5369725,99259392,Markham,37680
 43.8324424,-79.2775061,2,Bradley Road (635),a,Bradley Road,22,5369393,98549635,Markham,37680
 43.8324443,-79.3054048,2,Kennedy Road (382),a,Kennedy Road,785,5369185,473331382,Markham,37680
 43.8324456,-79.3416597,2,Riviera Drive (375),a,Riviera Drive,68,5369000,92448375,Markham,37680
-43.8324644,-79.2998727,2,Ashmore Crescent (013),a,Ashmore Crescent,29,5369195,96364013,Markham,37680
-43.8324653,-79.2869476,2,Cartmel Drive (761),a,Cartmel Drive,53,5369295,560026761,Markham,37680
 43.8324698,-79.2726216,2,Norn Crescent (373),a,Norn Crescent,21,5369695,99200373,Markham,37680
 43.8324704,-79.3352571,2,McPherson Street (103),a,McPherson Street,25,5368998,490765103,Markham,37680
 43.8324723,-79.3055545,2,Kennedy Road (386),a,Kennedy Road,785,5369185,473331386,Markham,37680
@@ -1325,9 +874,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8324899,-79.2755624,2,McCowan Road (386),a,McCowan Road,589,5369163,95572386,Markham,37680
 43.832493,-79.2806148,2,Hillcroft Drive (937),a,Hillcroft Drive,74,5369742,560026937,Markham,37680
 43.8324948,-79.3414408,2,Riviera Drive (378),a,Riviera Drive,68,5369000,92448378,Markham,37680
-43.8325005,-79.2886748,2,Cashmere Crescent (393),a,Cashmere Crescent,14,5369725,99259393,Markham,37680
 43.8325095,-79.3201781,2,Denison Street (281),a,Denison Street,602,5368990,328291281,Markham,37680
-43.8325097,-79.3011027,2,Ashmore Crescent (032),a,Ashmore Crescent,29,5369195,96364032,Markham,37680
 43.8325109,-79.2789263,2,Windhill Road (612),a,Windhill Road,21,5369514,98871612,Markham,37680
 43.8325112,-79.3053687,2,Kennedy Road (378),a,Kennedy Road,785,5369185,473331378,Markham,37680
 43.8325213,-79.341323,2,Riviera Drive (380),a,Riviera Drive,68,5369000,92448380,Markham,37680
@@ -1336,58 +883,30 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8325241,-79.2771945,2,Bradley Road (637),a,Bradley Road,22,5369393,98549637,Markham,37680
 43.832526,-79.3413024,2,Riviera Drive (383),a,Riviera Drive,68,5369000,92448383,Markham,37680
 43.8325261,-79.330986,2,McPherson Street (724),a,McPherson Street,25,5368998,435752724,Markham,37680
-43.8325283,-79.2908784,2,Digby Crescent (142),a,Digby Crescent,25,5369309,98019142,Markham,37680
-43.8325283,-79.2908784,2,Aldergrove Drive (823),a,Aldergrove Drive,80,5369726,560026823,Markham,37680
 43.8325344,-79.3055243,2,Kennedy Road (384),a,Kennedy Road,785,5369185,473331384,Markham,37680
-43.8325446,-79.2889625,2,Brimley Road (891),a,Brimley Road,101,5369745,99322891,Markham,37680
 43.8325475,-79.3412065,2,Riviera Drive (386),a,Riviera Drive,68,5369000,92448386,Markham,37680
 43.8325546,-79.278838,2,Windhill Road (613),a,Windhill Road,21,5369514,98871613,Markham,37680
 43.8325605,-79.3308448,2,McPherson Street (093),a,McPherson Street,25,5368998,328289093,Markham,37680
 43.8325651,-79.3354066,2,Alden Road (132),a,Alden Road,77,5368994,92160132,Markham,37680
 43.8325651,-79.3354066,2,McPherson Street (852),a,McPherson Street,25,5368998,92205852,Markham,37680
-43.8325764,-79.2841123,2,Ingram Road (220),a,Ingram Road,25,5369495,98819220,Markham,37680
 43.8325795,-79.2715363,2,Norn Crescent (378),a,Norn Crescent,21,5369695,99200378,Markham,37680
-43.8325837,-79.2984545,2,Ashmore Crescent (849),a,Ashmore Crescent,29,5369195,334945849,Markham,37680
-43.8325837,-79.2984545,2,Debden Road (209),a,Debden Road,6,5369353,98370209,Markham,37680
-43.8325837,-79.2984545,2,Teddington Avenue (497),a,Teddington Avenue,17,5369730,99273497,Markham,37680
-43.8325849,-79.2952673,2,Dunbar Crescent (508),a,Dunbar Crescent,26,5369612,99061508,Markham,37680
-43.8325903,-79.2840744,2,Ingram Road (221),a,Ingram Road,25,5369495,98819221,Markham,37680
-43.8325997,-79.2686909,2,Steeles Avenue East (955),a,Steeles Avenue East,292,5369724,99256955,Markham,37680
-43.8326081,-79.2870339,2,Cartmel Drive (759),a,Cartmel Drive,53,5369295,560026759,Markham,37680
 43.8326081,-79.2787991,2,Windhill Road (614),a,Windhill Road,21,5369514,98871614,Markham,37680
-43.8326093,-79.2840389,2,Ingram Road (222),a,Ingram Road,25,5369495,98819222,Markham,37680
 43.8326107,-79.3353544,2,Alden Road (133),a,Alden Road,77,5368994,92160133,Markham,37680
 43.8326122,-79.3197072,2,Denison Street (993),a,Denison Street,602,5368990,328296993,Markham,37680
-43.8326209,-79.3011289,2,Ashmore Crescent (031),a,Ashmore Crescent,29,5369195,96364031,Markham,37680
 43.8326276,-79.2767208,2,Bradley Road (908),a,Bradley Road,22,5369393,513602908,Markham,37680
-43.8326286,-79.295179,2,Dunbar Crescent (509),a,Dunbar Crescent,26,5369612,99061509,Markham,37680
-43.8326329,-79.2840062,2,Ingram Road (223),a,Ingram Road,25,5369495,98819223,Markham,37680
 43.8326474,-79.3195439,2,Denison Street (656),a,Denison Street,602,5368990,92065656,Markham,37680
 43.8326511,-79.2727034,2,Norn Crescent (372),a,Norn Crescent,21,5369695,99200372,Markham,37680
 43.8326557,-79.2765947,2,Bradley Road (638),a,Bradley Road,22,5369393,98549638,Markham,37680
 43.8326557,-79.2765947,2,Woodhall Road (850),a,Woodhall Road,49,5369452,98728850,Markham,37680
 43.8326557,-79.2765947,2,Woodhall Road (851),a,Woodhall Road,49,5369452,98728851,Markham,37680
-43.832664,-79.2951407,2,Dunbar Crescent (510),a,Dunbar Crescent,26,5369612,99061510,Markham,37680
-43.832665,-79.2839858,2,Ingram Road (224),a,Ingram Road,25,5369495,98819224,Markham,37680
 43.8326907,-79.3405703,2,Riviera Drive (389),a,Riviera Drive,68,5369000,92448389,Markham,37680
-43.8326969,-79.287078,2,Cartmel Drive (920),a,Cartmel Drive,53,5369295,334945920,Markham,37680
-43.8326969,-79.287078,2,Dynasty Drive (203),a,Dynasty Drive,2,5369576,98997203,Markham,37680
-43.8326969,-79.287078,2,Cashmere Crescent (384),a,Cashmere Crescent,14,5369725,99259384,Markham,37680
 43.8326972,-79.2709857,2,Norn Crescent (379),a,Norn Crescent,21,5369695,99200379,Markham,37680
-43.8326998,-79.2951272,2,Dunbar Crescent (511),a,Dunbar Crescent,26,5369612,99061511,Markham,37680
-43.8327052,-79.2839826,2,Ingram Road (225),a,Ingram Road,25,5369495,98819225,Markham,37680
 43.8327066,-79.3278756,2,Warden Avenue (671),a,Warden Avenue,476,5369187,96210671,Markham,37680
 43.8327066,-79.3278756,2,Warden Avenue (702),a,Warden Avenue,476,5369187,96210702,Markham,37680
 43.8327066,-79.3278756,2,Warden Avenue (307),a,Warden Avenue,476,5369187,579303307,Markham,37680
 43.8327144,-79.3052668,2,Kennedy Road (379),a,Kennedy Road,785,5369185,473331379,Markham,37680
-43.8327164,-79.268142,2,Steeles Avenue East (024),a,Steeles Avenue East,292,5369724,579303024,Markham,37680
 43.8327415,-79.2727257,2,Norn Crescent (371),a,Norn Crescent,21,5369695,99200371,Markham,37680
-43.8327418,-79.2839904,2,Ingram Road (226),a,Ingram Road,25,5369495,98819226,Markham,37680
-43.8327527,-79.2679821,2,Steeles Avenue East (953),a,Steeles Avenue East,292,5369724,99256953,Markham,37680
-43.8327527,-79.2679821,2,Steeles Avenue East (031),a,Steeles Avenue East,292,5369724,579303031,Markham,37680
 43.8327527,-79.2679821,2,Middlefield Road (477),a,Middlefield Road,110,5369751,99343477,Markham,37680
-43.8327542,-79.2951505,2,Dunbar Crescent (512),a,Dunbar Crescent,26,5369612,99061512,Markham,37680
-43.8327632,-79.2927374,2,Digby Crescent (166),a,Digby Crescent,25,5369309,98019166,Markham,37680
 43.8327676,-79.2786328,2,Windhill Road (615),a,Windhill Road,21,5369514,98871615,Markham,37680
 43.8327712,-79.3279857,2,Warden Avenue (701),a,Warden Avenue,476,5369187,96210701,Markham,37680
 43.8327715,-79.3189489,2,Denison Street (657),a,Denison Street,602,5368990,92065657,Markham,37680
@@ -1396,17 +915,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8328069,-79.3052159,2,Kennedy Road (172),a,Kennedy Road,785,5369185,328298172,Markham,37680
 43.8328069,-79.3052159,2,Kennedy Road (179),a,Kennedy Road,785,5369185,328298179,Markham,37680
 43.8328095,-79.340042,2,Riviera Drive (395),a,Riviera Drive,68,5369000,92448395,Markham,37680
-43.8328105,-79.2871179,2,Cartmel Drive (762),a,Cartmel Drive,53,5369295,560026762,Markham,37680
-43.8328151,-79.2974249,2,Debden Road (210),a,Debden Road,6,5369353,98370210,Markham,37680
-43.8328151,-79.2974249,2,Debden Road (211),a,Debden Road,6,5369353,98370211,Markham,37680
-43.8328151,-79.2974249,2,Dunbar Crescent (068),a,Dunbar Crescent,26,5369612,334946068,Markham,37680
 43.8328244,-79.270472,2,Norn Crescent (380),a,Norn Crescent,21,5369695,99200380,Markham,37680
-43.8328252,-79.2987057,2,Teddington Avenue (499),a,Teddington Avenue,17,5369730,99273499,Markham,37680
 43.8328452,-79.2680067,2,Middlefield Road (446),a,Middlefield Road,110,5369751,579302446,Markham,37680
 43.8328519,-79.3296481,2,Hood Road (367),a,Hood Road,49,5368995,92180367,Markham,37680
 43.8328519,-79.3296481,2,McPherson Street (856),a,McPherson Street,25,5368998,92205856,Markham,37680
 43.8328589,-79.2727472,2,Norn Crescent (370),a,Norn Crescent,21,5369695,99200370,Markham,37680
-43.832872,-79.3000352,2,Ashmore Crescent (014),a,Ashmore Crescent,29,5369195,96364014,Markham,37680
 43.8328743,-79.270197,2,Norn Crescent (381),a,Norn Crescent,21,5369695,99200381,Markham,37680
 43.8328743,-79.270197,2,Norn Crescent (575),a,Norn Crescent,21,5369695,579302575,Markham,37680
 43.8328789,-79.2678724,2,Middlefield Road (450),a,Middlefield Road,110,5369751,579302450,Markham,37680
@@ -1415,7 +928,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8329236,-79.2746483,2,Charles Alfred Crescent (160),a,Charles Alfred Crescent,20,5369479,98786160,Markham,37680
 43.8329251,-79.2747477,2,Charles Alfred Crescent (161),a,Charles Alfred Crescent,20,5369479,98786161,Markham,37680
 43.8329286,-79.3188326,2,Birchmount Road (644),a,Birchmount Road,191,5369776,99419644,Markham,37680
-43.8329344,-79.3012026,2,Ashmore Crescent (030),a,Ashmore Crescent,29,5369195,96364030,Markham,37680
 43.8329416,-79.2747859,2,Charles Alfred Crescent (162),a,Charles Alfred Crescent,20,5369479,98786162,Markham,37680
 43.8329622,-79.2748213,2,Charles Alfred Crescent (163),a,Charles Alfred Crescent,20,5369479,98786163,Markham,37680
 43.8329622,-79.2700576,2,Norn Crescent (656),a,Norn Crescent,21,5369695,473331656,Markham,37680
@@ -1424,13 +936,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8329738,-79.334939,2,Alden Road (134),a,Alden Road,77,5368994,92160134,Markham,37680
 43.8329767,-79.3290531,2,McPherson Street (869),a,McPherson Street,25,5368998,489488869,Markham,37680
 43.8329802,-79.3393387,2,Riviera Drive (398),a,Riviera Drive,68,5369000,92448398,Markham,37680
-43.8329908,-79.292308,2,Digby Crescent (167),a,Digby Crescent,25,5369309,98019167,Markham,37680
 43.8329982,-79.2700566,2,Norn Crescent (657),a,Norn Crescent,21,5369695,473331657,Markham,37680
-43.8329984,-79.29885,2,Teddington Avenue (500),a,Teddington Avenue,17,5369730,99273500,Markham,37680
 43.8329985,-79.3392629,2,Riviera Drive (401),a,Riviera Drive,68,5369000,92448401,Markham,37680
-43.8329985,-79.3000689,2,Ashmore Crescent (015),a,Ashmore Crescent,29,5369195,96364015,Markham,37680
 43.8330029,-79.272743,2,Norn Crescent (369),a,Norn Crescent,21,5369695,99200369,Markham,37680
-43.8330091,-79.2965487,2,Debden Road (212),a,Debden Road,6,5369353,98370212,Markham,37680
 43.8330109,-79.3348965,2,Alden Road (135),a,Alden Road,77,5368994,92160135,Markham,37680
 43.8330164,-79.2784142,2,Windhill Road (616),a,Windhill Road,21,5369514,98871616,Markham,37680
 43.8330168,-79.274857,2,Charles Alfred Crescent (164),a,Charles Alfred Crescent,20,5369479,98786164,Markham,37680
@@ -1439,23 +947,13 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8330361,-79.3280475,2,Warden Avenue (700),a,Warden Avenue,476,5369187,96210700,Markham,37680
 43.8330496,-79.2740476,2,Charles Alfred Crescent (158),a,Charles Alfred Crescent,20,5369479,98786158,Markham,37680
 43.833051,-79.3390467,2,Riviera Drive (404),a,Riviera Drive,68,5369000,92448404,Markham,37680
-43.833053,-79.2940599,2,Stirling Crescent (907),a,Stirling Crescent,29,5369367,98437907,Markham,37680
 43.8330568,-79.2680573,2,Middlefield Road (475),a,Middlefield Road,110,5369751,99343475,Markham,37680
-43.8330631,-79.2941343,2,Stirling Crescent (905),a,Stirling Crescent,29,5369367,98437905,Markham,37680
 43.833065,-79.3348347,2,Alden Road (136),a,Alden Road,77,5368994,92160136,Markham,37680
 43.8330686,-79.2782884,2,Windhill Road (617),a,Windhill Road,21,5369514,98871617,Markham,37680
 43.833072,-79.3278836,2,Warden Avenue (673),a,Warden Avenue,476,5369187,96210673,Markham,37680
-43.8330787,-79.2939721,2,Stirling Crescent (909),a,Stirling Crescent,29,5369367,98437909,Markham,37680
 43.83308,-79.2679394,2,Middlefield Road (524),a,Middlefield Road,110,5369751,99343524,Markham,37680
-43.8330867,-79.2920938,2,Digby Crescent (168),a,Digby Crescent,25,5369309,98019168,Markham,37680
-43.8330915,-79.2841603,2,Ingram Road (228),a,Ingram Road,25,5369495,98819228,Markham,37680
-43.8330939,-79.2961981,2,Debden Road (213),a,Debden Road,6,5369353,98370213,Markham,37680
 43.8330944,-79.278213,2,Windhill Road (618),a,Windhill Road,21,5369514,98871618,Markham,37680
-43.8331061,-79.3012475,2,Ashmore Crescent (029),a,Ashmore Crescent,29,5369195,96364029,Markham,37680
 43.833107,-79.2748669,2,Charles Alfred Crescent (165),a,Charles Alfred Crescent,20,5369479,98786165,Markham,37680
-43.8331087,-79.2941703,2,Stirling Crescent (903),a,Stirling Crescent,29,5369367,98437903,Markham,37680
-43.8331255,-79.2989211,2,Teddington Avenue (501),a,Teddington Avenue,17,5369730,99273501,Markham,37680
-43.8331263,-79.2899285,2,Halder Crescent (408),a,Halder Crescent,13,5369701,99205408,Markham,37680
 43.8331278,-79.2780379,2,Windhill Road (619),a,Windhill Road,21,5369514,98871619,Markham,37680
 43.8331283,-79.3052017,2,Kennedy Road (179),a,Kennedy Road,785,5369185,96048179,Markham,37680
 43.8331283,-79.3052017,2,Kennedy Road (771),a,Kennedy Road,785,5369185,579301771,Markham,37680
@@ -1463,10 +961,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8331465,-79.272714,2,Miles Farm Road (546),a,Miles Farm Road,40,5369424,98650546,Markham,37680
 43.8331465,-79.272714,2,Miles Farm Road (456),a,Miles Farm Road,40,5369424,579302456,Markham,37680
 43.8331465,-79.272714,2,Norn Crescent (368),a,Norn Crescent,21,5369695,99200368,Markham,37680
-43.8331544,-79.2942187,2,Stirling Crescent (901),a,Stirling Crescent,29,5369367,98437901,Markham,37680
 43.833155,-79.3282032,2,McPherson Street (194),a,McPherson Street,25,5368998,473331194,Markham,37680
 43.8331634,-79.2798031,2,Woodhall Road (855),a,Woodhall Road,49,5369452,98728855,Markham,37680
-43.8331645,-79.2918801,2,Digby Crescent (169),a,Digby Crescent,25,5369309,98019169,Markham,37680
 43.8331667,-79.2796681,2,Woodhall Road (856),a,Woodhall Road,49,5369452,98728856,Markham,37680
 43.8331669,-79.2728751,2,Miles Farm Road (132),a,Miles Farm Road,40,5369424,334946132,Markham,37680
 43.8331696,-79.3387027,2,Riviera Drive (407),a,Riviera Drive,68,5369000,92448407,Markham,37680
@@ -1488,14 +984,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8331952,-79.2723643,2,Miles Farm Road (548),a,Miles Farm Road,40,5369424,98650548,Markham,37680
 43.833196,-79.2795782,2,Woodhall Road (857),a,Woodhall Road,49,5369452,98728857,Markham,37680
 43.8331968,-79.2671155,2,Joycedale Street (263),a,Joycedale Street,30,5369496,98822263,Markham,37680
-43.8331998,-79.2942423,2,Stirling Crescent (899),a,Stirling Crescent,29,5369367,98437899,Markham,37680
 43.8332,-79.3386145,2,Riviera Drive (409),a,Riviera Drive,68,5369000,92448409,Markham,37680
 43.8332044,-79.2670282,2,Joycedale Street (262),a,Joycedale Street,30,5369496,98822262,Markham,37680
 43.8332115,-79.3279237,2,Warden Avenue (674),a,Warden Avenue,476,5369187,96210674,Markham,37680
 43.8332115,-79.3279237,2,Warden Avenue (693),a,Warden Avenue,476,5369187,96210693,Markham,37680
 43.8332115,-79.3279237,2,McNabb Street (639),a,McNabb Street,28,5370531,100283639,Markham,37680
-43.8332147,-79.3012817,2,Ashmore Crescent (028),a,Ashmore Crescent,29,5369195,96364028,Markham,37680
-43.8332155,-79.2916797,2,Digby Crescent (170),a,Digby Crescent,25,5369309,98019170,Markham,37680
 43.8332157,-79.2671772,2,Joycedale Street (264),a,Joycedale Street,30,5369496,98822264,Markham,37680
 43.8332165,-79.3385664,2,Riviera Drive (412),a,Riviera Drive,68,5369000,92448412,Markham,37680
 43.833217,-79.2732095,2,Miles Farm Road (134),a,Miles Farm Road,40,5369424,334946134,Markham,37680
@@ -1510,87 +1003,48 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8332493,-79.3384714,2,Riviera Drive (416),a,Riviera Drive,68,5369000,92448416,Markham,37680
 43.8332526,-79.2737806,2,Charles Alfred Crescent (156),a,Charles Alfred Crescent,20,5369479,98786156,Markham,37680
 43.8332547,-79.2733203,2,Miles Farm Road (135),a,Miles Farm Road,40,5369424,334946135,Markham,37680
-43.8332566,-79.2914173,2,Digby Crescent (171),a,Digby Crescent,25,5369309,98019171,Markham,37680
-43.833269,-79.2976732,2,Dunbar Crescent (067),a,Dunbar Crescent,26,5369612,334946067,Markham,37680
-43.8332693,-79.300111,2,Ashmore Crescent (016),a,Ashmore Crescent,29,5369195,96364016,Markham,37680
 43.8332798,-79.2672499,2,Joycedale Street (266),a,Joycedale Street,30,5369496,98822266,Markham,37680
 43.8332801,-79.2720261,2,Miles Farm Road (550),a,Miles Farm Road,40,5369424,98650550,Markham,37680
 43.8332851,-79.2794625,2,Woodhall Road (859),a,Woodhall Road,49,5369452,98728859,Markham,37680
-43.8332865,-79.2888746,2,Cashmere Crescent (395),a,Cashmere Crescent,14,5369725,99259395,Markham,37680
-43.8332958,-79.3012919,2,Ashmore Crescent (027),a,Ashmore Crescent,29,5369195,96364027,Markham,37680
-43.8332978,-79.2990032,2,Teddington Avenue (502),a,Teddington Avenue,17,5369730,99273502,Markham,37680
 43.8333056,-79.3345594,2,Alden Road (137),a,Alden Road,77,5368994,92160137,Markham,37680
 43.8333113,-79.3281254,2,Warden Avenue (669),a,Warden Avenue,476,5369187,96210669,Markham,37680
-43.8333148,-79.2910923,2,Digby Crescent (172),a,Digby Crescent,25,5369309,98019172,Markham,37680
-43.8333148,-79.2910923,2,Aldergrove Drive (864),a,Aldergrove Drive,80,5369726,560026864,Markham,37680
 43.8333182,-79.3383382,2,Riviera Drive (419),a,Riviera Drive,68,5369000,92448419,Markham,37680
 43.8333231,-79.271888,2,Miles Farm Road (551),a,Miles Farm Road,40,5369424,98650551,Markham,37680
-43.8333239,-79.293505,2,Stirling Crescent (911),a,Stirling Crescent,29,5369367,98437911,Markham,37680
-43.8333267,-79.295509,2,Debden Road (214),a,Debden Road,6,5369353,98370214,Markham,37680
-43.8333267,-79.295509,2,Dunbar Crescent (513),a,Dunbar Crescent,26,5369612,99061513,Markham,37680
-43.8333313,-79.3012535,2,Ashmore Crescent (026),a,Ashmore Crescent,29,5369195,96364026,Markham,37680
 43.8333321,-79.2736788,2,Charles Alfred Crescent (155),a,Charles Alfred Crescent,20,5369479,98786155,Markham,37680
-43.8333323,-79.3001092,2,Ashmore Crescent (017),a,Ashmore Crescent,29,5369195,96364017,Markham,37680
-43.8333362,-79.2888699,2,Cashmere Crescent (397),a,Cashmere Crescent,14,5369725,99259397,Markham,37680
 43.8333385,-79.2735045,2,Miles Farm Road (136),a,Miles Farm Road,40,5369424,334946136,Markham,37680
 43.8333478,-79.327955,2,Warden Avenue (694),a,Warden Avenue,476,5369187,96210694,Markham,37680
-43.8333485,-79.3012033,2,Ashmore Crescent (025),a,Ashmore Crescent,29,5369195,96364025,Markham,37680
 43.8333574,-79.2805564,2,Hillcroft Drive (936),a,Hillcroft Drive,74,5369742,560026936,Markham,37680
 43.8333614,-79.2794388,2,Woodhall Road (983),a,Woodhall Road,49,5369452,513602983,Markham,37680
 43.8333635,-79.2769211,2,Windhill Road (053),a,Windhill Road,21,5369514,513603053,Markham,37680
-43.8333643,-79.2842261,2,Ingram Road (229),a,Ingram Road,25,5369495,98819229,Markham,37680
-43.8333643,-79.2842261,2,Ingram Road (230),a,Ingram Road,25,5369495,98819230,Markham,37680
-43.8333643,-79.2842261,2,Dynasty Drive (205),a,Dynasty Drive,2,5369576,98997205,Markham,37680
 43.8333645,-79.2663022,2,Joycedale Street (260),a,Joycedale Street,30,5369496,98822260,Markham,37680
-43.8333654,-79.3011282,2,Ashmore Crescent (024),a,Ashmore Crescent,29,5369195,96364024,Markham,37680
 43.8333742,-79.3460512,2,14th Avenue (173),a,14th Avenue,613,5368999,92408173,Markham,37680
 43.8333754,-79.2717745,2,Miles Farm Road (552),a,Miles Farm Road,40,5369424,98650552,Markham,37680
-43.8333776,-79.3001328,2,Ashmore Crescent (018),a,Ashmore Crescent,29,5369195,96364018,Markham,37680
-43.8333796,-79.2888341,2,Cashmere Crescent (398),a,Cashmere Crescent,14,5369725,99259398,Markham,37680
 43.8333848,-79.3271839,2,McNabb Street (756),a,McNabb Street,28,5370531,328293756,Markham,37680
 43.8333848,-79.3271839,2,McNabb Street (024),a,McNabb Street,28,5370531,328298024,Markham,37680
 43.833393,-79.2767785,2,Woodhall Road (852),a,Woodhall Road,49,5369452,98728852,Markham,37680
 43.833393,-79.2767785,2,Woodhall Road (873),a,Woodhall Road,49,5369452,98728873,Markham,37680
 43.833393,-79.2767785,2,Windhill Road (621),a,Windhill Road,21,5369514,98871621,Markham,37680
-43.833394,-79.3006299,2,Ashmore Crescent (023),a,Ashmore Crescent,29,5369195,96364023,Markham,37680
 43.8334028,-79.2735897,2,Miles Farm Road (137),a,Miles Farm Road,40,5369424,334946137,Markham,37680
 43.8334028,-79.2735897,2,Charles Alfred Crescent (154),a,Charles Alfred Crescent,20,5369479,98786154,Markham,37680
-43.8334054,-79.3001818,2,Ashmore Crescent (019),a,Ashmore Crescent,29,5369195,96364019,Markham,37680
-43.8334106,-79.3005299,2,Ashmore Crescent (022),a,Ashmore Crescent,29,5369195,96364022,Markham,37680
-43.8334137,-79.2887774,2,Cashmere Crescent (400),a,Cashmere Crescent,14,5369725,99259400,Markham,37680
 43.83342,-79.334468,2,Alden Road (138),a,Alden Road,77,5368994,92160138,Markham,37680
 43.8334279,-79.2716735,2,Miles Farm Road (553),a,Miles Farm Road,40,5369424,98650553,Markham,37680
 43.8334288,-79.3190257,2,Birchmount Road (643),a,Birchmount Road,191,5369776,99419643,Markham,37680
 43.8334288,-79.3190257,2,Birchmount Road (766),a,Birchmount Road,191,5369776,99419766,Markham,37680
-43.8334333,-79.3002432,2,Ashmore Crescent (020),a,Ashmore Crescent,29,5369195,96364020,Markham,37680
-43.8334346,-79.3003302,2,Ashmore Crescent (021),a,Ashmore Crescent,29,5369195,96364021,Markham,37680
 43.8334495,-79.2794286,2,Woodhall Road (984),a,Woodhall Road,49,5369452,513602984,Markham,37680
 43.8334536,-79.3380765,2,Riviera Drive (422),a,Riviera Drive,68,5369000,92448422,Markham,37680
-43.8334579,-79.2884569,2,Cashmere Crescent (402),a,Cashmere Crescent,14,5369725,99259402,Markham,37680
 43.833467,-79.3344305,2,Alden Road (192),a,Alden Road,77,5368994,401672192,Markham,37680
 43.8334698,-79.3268161,2,McNabb Street (066),a,McNabb Street,28,5370531,415050066,Markham,37680
 43.8334762,-79.3380444,2,Riviera Drive (423),a,Riviera Drive,68,5369000,92448423,Markham,37680
-43.8334872,-79.2978162,2,Dunbar Crescent (066),a,Dunbar Crescent,26,5369612,334946066,Markham,37680
-43.8334875,-79.2877493,2,Cashmere Crescent (821),a,Cashmere Crescent,14,5369725,560026821,Markham,37680
-43.8334884,-79.290055,2,Halder Crescent (409),a,Halder Crescent,13,5369701,99205409,Markham,37680
 43.8334894,-79.2715722,2,Miles Farm Road (554),a,Miles Farm Road,40,5369424,98650554,Markham,37680
-43.8334967,-79.2990598,2,Teddington Avenue (503),a,Teddington Avenue,17,5369730,99273503,Markham,37680
-43.8334968,-79.2876099,2,Cashmere Crescent (820),a,Cashmere Crescent,14,5369725,560026820,Markham,37680
 43.8334985,-79.338018,2,Riviera Drive (424),a,Riviera Drive,68,5369000,92448424,Markham,37680
 43.8335035,-79.2736987,2,Miles Farm Road (138),a,Miles Farm Road,40,5369424,334946138,Markham,37680
-43.8335049,-79.2911615,2,Aldergrove Drive (851),a,Aldergrove Drive,80,5369726,560026851,Markham,37680
 43.8335133,-79.3454366,2,14th Avenue (172),a,14th Avenue,613,5368999,92408172,Markham,37680
 43.8335242,-79.3379845,2,Riviera Drive (425),a,Riviera Drive,68,5369000,92448425,Markham,37680
 43.8335242,-79.2794277,2,Woodhall Road (860),a,Woodhall Road,49,5369452,98728860,Markham,37680
-43.8335323,-79.2872831,2,Cartmel Drive (338),a,Cartmel Drive,53,5369295,97794338,Markham,37680
-43.8335323,-79.2872831,2,Cashmere Crescent (404),a,Cashmere Crescent,14,5369725,99259404,Markham,37680
-43.8335323,-79.2872831,2,Thornton Street (358),a,Thornton Street,7,18346927,384322358,Markham,37680
 43.8335402,-79.3453197,2,14th Avenue (171),a,14th Avenue,613,5368999,92408171,Markham,37680
 43.8335408,-79.270215,2,Norn Crescent (658),a,Norn Crescent,21,5369695,473331658,Markham,37680
-43.8335594,-79.2978266,2,Dunbar Crescent (065),a,Dunbar Crescent,26,5369612,334946065,Markham,37680
 43.8335612,-79.3280115,2,Warden Avenue (673),a,Warden Avenue,476,5369187,415047673,Markham,37680
 43.8335678,-79.2737839,2,Miles Farm Road (139),a,Miles Farm Road,40,5369424,334946139,Markham,37680
-43.8335688,-79.2930253,2,Stirling Crescent (913),a,Stirling Crescent,29,5369367,98437913,Markham,37680
 43.8335773,-79.2714329,2,Miles Farm Road (555),a,Miles Farm Road,40,5369424,98650555,Markham,37680
 43.8335842,-79.3263212,2,McNabb Street (641),a,McNabb Street,28,5370531,100283641,Markham,37680
 43.8335842,-79.3263212,2,McNabb Street (428),a,McNabb Street,28,5370531,579302428,Markham,37680
@@ -1598,39 +1052,26 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8335873,-79.3281997,2,Warden Avenue (668),a,Warden Avenue,476,5369187,96210668,Markham,37680
 43.8335905,-79.2794332,2,Woodhall Road (861),a,Woodhall Road,49,5369452,98728861,Markham,37680
 43.833593,-79.2653296,2,Joycedale Street (259),a,Joycedale Street,30,5369496,98822259,Markham,37680
-43.8335948,-79.2977883,2,Dunbar Crescent (064),a,Dunbar Crescent,26,5369612,334946064,Markham,37680
-43.833595,-79.2867052,2,Thornton Street (764),a,Thornton Street,7,18346927,560026764,Markham,37680
 43.8335961,-79.2673278,2,Joycedale Street (267),a,Joycedale Street,30,5369496,98822267,Markham,37680
 43.8336116,-79.334315,2,Alden Road (595),a,Alden Road,77,5368994,560026595,Markham,37680
 43.8336118,-79.3280249,2,Warden Avenue (695),a,Warden Avenue,476,5369187,96210695,Markham,37680
-43.8336147,-79.2866044,2,Thornton Street (359),a,Thornton Street,7,18346927,384322359,Markham,37680
 43.8336185,-79.2794284,2,Woodhall Road (982),a,Woodhall Road,49,5369452,513602982,Markham,37680
-43.8336301,-79.2977376,2,Dunbar Crescent (063),a,Dunbar Crescent,26,5369612,334946063,Markham,37680
 43.8336406,-79.2738316,2,Miles Farm Road (140),a,Miles Farm Road,40,5369424,334946140,Markham,37680
 43.8336436,-79.2794037,2,Woodhall Road (862),a,Woodhall Road,49,5369452,98728862,Markham,37680
-43.8336455,-79.297563,2,Dunbar Crescent (061),a,Dunbar Crescent,26,5369612,334946061,Markham,37680
 43.8336462,-79.3448583,2,14th Avenue (169),a,14th Avenue,613,5368999,92408169,Markham,37680
 43.8336465,-79.3281605,2,Warden Avenue (669),a,Warden Avenue,476,5369187,415047669,Markham,37680
-43.8336472,-79.2976749,2,Dunbar Crescent (062),a,Dunbar Crescent,26,5369612,334946062,Markham,37680
 43.8336566,-79.2713187,2,Miles Farm Road (556),a,Miles Farm Road,40,5369424,98650556,Markham,37680
-43.8336656,-79.2928733,2,Stirling Crescent (915),a,Stirling Crescent,29,5369367,98437915,Markham,37680
 43.8336698,-79.2793532,2,Woodhall Road (863),a,Woodhall Road,49,5369452,98728863,Markham,37680
-43.8336775,-79.294526,2,Stirling Crescent (897),a,Stirling Crescent,29,5369367,98437897,Markham,37680
 43.8336854,-79.3281348,2,Warden Avenue (667),a,Warden Avenue,476,5369187,96210667,Markham,37680
 43.8336854,-79.3281348,2,Warden Avenue (696),a,Warden Avenue,476,5369187,96210696,Markham,37680
 43.8336854,-79.3281348,2,Warden Avenue (773),a,Warden Avenue,476,5369187,96210773,Markham,37680
 43.8336876,-79.3047411,2,Kennedy Road (375),a,Kennedy Road,785,5369185,473331375,Markham,37680
-43.8336914,-79.292798,2,Stirling Crescent (917),a,Stirling Crescent,29,5369367,98437917,Markham,37680
 43.8336942,-79.2648872,2,Joycedale Street (258),a,Joycedale Street,30,5369496,98822258,Markham,37680
 43.8336973,-79.304902,2,Kennedy Road (176),a,Kennedy Road,785,5369185,96048176,Markham,37680
 43.8336987,-79.3263513,2,Gough Road (728),a,Gough Road,44,5370703,415048728,Markham,37680
-43.8337002,-79.2970017,2,Dunbar Crescent (060),a,Dunbar Crescent,26,5369612,334946060,Markham,37680
 43.8337024,-79.3446141,2,14th Avenue (167),a,14th Avenue,613,5368999,92408167,Markham,37680
-43.8337165,-79.2968893,2,Dunbar Crescent (059),a,Dunbar Crescent,26,5369612,334946059,Markham,37680
-43.8337181,-79.2927723,2,Stirling Crescent (919),a,Stirling Crescent,29,5369367,98437919,Markham,37680
 43.8337294,-79.2648364,2,Joycedale Street (257),a,Joycedale Street,30,5369496,98822257,Markham,37680
 43.8337313,-79.2738787,2,Miles Farm Road (141),a,Miles Farm Road,40,5369424,334946141,Markham,37680
-43.8337418,-79.2967767,2,Dunbar Crescent (058),a,Dunbar Crescent,26,5369612,334946058,Markham,37680
 43.8337531,-79.2711542,2,Miles Farm Road (557),a,Miles Farm Road,40,5369424,98650557,Markham,37680
 43.8337532,-79.3443929,2,14th Avenue (165),a,14th Avenue,613,5368999,92408165,Markham,37680
 43.8337602,-79.3463993,2,Rodick Road (874),a,Rodick Road,345,5369001,92573874,Markham,37680
@@ -1638,74 +1079,48 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8337767,-79.2673599,2,Joycedale Street (268),a,Joycedale Street,30,5369496,98822268,Markham,37680
 43.8337922,-79.2648221,2,Joycedale Street (256),a,Joycedale Street,30,5369496,98822256,Markham,37680
 43.8337988,-79.2787202,2,Woodhall Road (866),a,Woodhall Road,49,5369452,98728866,Markham,37680
-43.8337991,-79.29277,2,Stirling Crescent (920),a,Stirling Crescent,29,5369367,98437920,Markham,37680
-43.8337994,-79.2945984,2,Stirling Crescent (893),a,Stirling Crescent,29,5369367,98437893,Markham,37680
-43.8337994,-79.2945984,2,Stirling Crescent (928),a,Stirling Crescent,29,5369367,98437928,Markham,37680
-43.8337994,-79.2945984,2,Martlesham Road (713),a,Martlesham Road,7,5369485,98797713,Markham,37680
-43.8338047,-79.2913395,2,Aldergrove Drive (857),a,Aldergrove Drive,80,5369726,560026857,Markham,37680
 43.8338129,-79.2739137,2,Miles Farm Road (142),a,Miles Farm Road,40,5369424,334946142,Markham,37680
 43.8338152,-79.2710902,2,Miles Farm Road (558),a,Miles Farm Road,40,5369424,98650558,Markham,37680
 43.833828,-79.2892866,2,Brimley Road (892),a,Brimley Road,101,5369745,99322892,Markham,37680
 43.8338301,-79.2690997,2,James Edward Drive (892),a,James Edward Drive,19,5369322,98163892,Markham,37680
 43.8338335,-79.3046605,2,Kennedy Road (151),a,Kennedy Road,785,5369185,96048151,Markham,37680
 43.8338335,-79.3046605,2,Kennedy Road (770),a,Kennedy Road,785,5369185,579301770,Markham,37680
-43.8338356,-79.2928063,2,Stirling Crescent (924),a,Stirling Crescent,29,5369367,98437924,Markham,37680
 43.8338501,-79.3019852,2,Denison Street (025),a,Denison Street,602,5368990,92065025,Markham,37680
 43.8338665,-79.3438997,2,14th Avenue (163),a,14th Avenue,613,5368999,92408163,Markham,37680
-43.8338678,-79.2901436,2,Halder Crescent (410),a,Halder Crescent,13,5369701,99205410,Markham,37680
-43.833868,-79.2943725,2,Martlesham Road (714),a,Martlesham Road,7,5369485,98797714,Markham,37680
 43.8338809,-79.3438372,2,14th Avenue (161),a,14th Avenue,613,5368999,92408161,Markham,37680
 43.8338968,-79.334087,2,Alden Road (139),a,Alden Road,77,5368994,92160139,Markham,37680
 43.8338993,-79.3019091,2,Denison Street (989),a,Denison Street,602,5368990,92064989,Markham,37680
 43.8338993,-79.3019091,2,Denison Street (028),a,Denison Street,602,5368990,92065028,Markham,37680
 43.8338993,-79.3019091,2,Denison Street (928),a,Denison Street,602,5368990,579300928,Markham,37680
 43.8339006,-79.2648439,2,Joycedale Street (255),a,Joycedale Street,30,5369496,98822255,Markham,37680
-43.8339234,-79.291448,2,Aldergrove Drive (848),a,Aldergrove Drive,80,5369726,560026848,Markham,37680
-43.8339234,-79.291448,2,Cardiff Road (901),a,Cardiff Road,9,5369728,560026901,Markham,37680
-43.8339284,-79.2941967,2,Martlesham Road (715),a,Martlesham Road,7,5369485,98797715,Markham,37680
-43.8339355,-79.2958756,2,Dunbar Crescent (053),a,Dunbar Crescent,26,5369612,334946053,Markham,37680
 43.8339382,-79.2708876,2,Miles Farm Road (559),a,Miles Farm Road,40,5369424,98650559,Markham,37680
 43.8339449,-79.3022753,2,Denison Street (702),a,Denison Street,602,5368990,328290702,Markham,37680
 43.8339449,-79.3021991,2,Denison Street (701),a,Denison Street,602,5368990,328290701,Markham,37680
 43.833948,-79.2727282,2,Douglas Haig Drive (194),a,Douglas Haig Drive,28,5369333,98250194,Markham,37680
-43.8339484,-79.2961364,2,Dunbar Crescent (057),a,Dunbar Crescent,26,5369612,334946057,Markham,37680
 43.8339497,-79.302348,2,Denison Street (703),a,Denison Street,602,5368990,328290703,Markham,37680
 43.8339521,-79.3020221,2,Denison Street (993),a,Denison Street,602,5368990,92064993,Markham,37680
 43.8339553,-79.272616,2,Douglas Haig Drive (192),a,Douglas Haig Drive,28,5369333,98250192,Markham,37680
 43.8339585,-79.3247433,2,McNabb Street (642),a,McNabb Street,28,5370531,100283642,Markham,37680
 43.8339605,-79.2759368,2,McCowan Road (260),a,McCowan Road,589,5369163,95572260,Markham,37680
-43.8339632,-79.2959246,2,Dunbar Crescent (054),a,Dunbar Crescent,26,5369612,334946054,Markham,37680
 43.8339668,-79.2727774,2,Douglas Haig Drive (195),a,Douglas Haig Drive,28,5369333,98250195,Markham,37680
 43.8339771,-79.3045815,2,Kennedy Road (335),a,Kennedy Road,785,5369185,473331335,Markham,37680
 43.8339804,-79.2724909,2,Douglas Haig Drive (190),a,Douglas Haig Drive,28,5369333,98250190,Markham,37680
 43.8339813,-79.3246529,2,McNabb Street (158),a,McNabb Street,28,5370531,328296158,Markham,37680
-43.833982,-79.2959738,2,Dunbar Crescent (055),a,Dunbar Crescent,26,5369612,334946055,Markham,37680
-43.8339833,-79.2960608,2,Dunbar Crescent (056),a,Dunbar Crescent,26,5369612,334946056,Markham,37680
 43.8339844,-79.2674037,2,Joycedale Street (269),a,Joycedale Street,30,5369496,98822269,Markham,37680
 43.8339937,-79.3340096,2,Alden Road (140),a,Alden Road,77,5368994,92160140,Markham,37680
 43.834003,-79.2739828,2,Miles Farm Road (143),a,Miles Farm Road,40,5369424,334946143,Markham,37680
 43.8340037,-79.2728385,2,Douglas Haig Drive (197),a,Douglas Haig Drive,28,5369333,98250197,Markham,37680
-43.8340066,-79.2940079,2,Martlesham Road (716),a,Martlesham Road,7,5369485,98797716,Markham,37680
 43.8340067,-79.3047275,2,Kennedy Road (175),a,Kennedy Road,785,5369185,96048175,Markham,37680
 43.834009,-79.263684,2,Olivewood Drive (702),a,Olivewood Drive,26,5369753,473331702,Markham,37680
-43.8340208,-79.2901393,2,Halder Crescent (411),a,Halder Crescent,13,5369701,99205411,Markham,37680
 43.8340243,-79.3244825,2,McNabb Street (159),a,McNabb Street,28,5370531,328296159,Markham,37680
-43.8340245,-79.2848425,2,Thornton Street (360),a,Thornton Street,7,18346927,384322360,Markham,37680
 43.8340261,-79.3024776,2,Fresno Court (705),a,Fresno Court,9,5369215,328290705,Markham,37680
-43.8340284,-79.2991458,2,Teddington Avenue (504),a,Teddington Avenue,17,5369730,99273504,Markham,37680
 43.8340285,-79.2637829,2,Olivewood Drive (700),a,Olivewood Drive,26,5369753,473331700,Markham,37680
 43.8340285,-79.2637829,2,Olivewood Drive (706),a,Olivewood Drive,26,5369753,473331706,Markham,37680
 43.8340329,-79.2705988,2,Miles Farm Road (560),a,Miles Farm Road,40,5369424,98650560,Markham,37680
 43.8340339,-79.2635465,2,Olivewood Drive (701),a,Olivewood Drive,26,5369753,473331701,Markham,37680
-43.8340355,-79.2847725,2,Thornton Street (763),a,Thornton Street,7,18346927,560026763,Markham,37680
 43.8340373,-79.3431567,2,14th Avenue (159),a,14th Avenue,613,5368999,92408159,Markham,37680
-43.8340405,-79.2847025,2,Thornton Street (361),a,Thornton Street,7,18346927,384322361,Markham,37680
 43.8340447,-79.3299834,2,Hood Road (303),a,Hood Road,49,5368995,328296303,Markham,37680
-43.8340447,-79.2843044,2,Ingram Road (233),a,Ingram Road,25,5369495,98819233,Markham,37680
-43.8340447,-79.2843044,2,Ingram Road (234),a,Ingram Road,25,5369495,98819234,Markham,37680
-43.8340447,-79.2843044,2,Thornton Street (362),a,Thornton Street,7,18346927,384322362,Markham,37680
 43.8340457,-79.3431204,2,14th Avenue (157),a,14th Avenue,613,5368999,92408157,Markham,37680
-43.8340525,-79.2911328,2,Cardiff Road (905),a,Cardiff Road,9,5369728,560026905,Markham,37680
 43.8340561,-79.2638195,2,Olivewood Drive (709),a,Olivewood Drive,26,5369753,473331709,Markham,37680
 43.8340581,-79.2728618,2,Douglas Haig Drive (199),a,Douglas Haig Drive,28,5369333,98250199,Markham,37680
 43.834059,-79.272327,2,Douglas Haig Drive (188),a,Douglas Haig Drive,28,5369333,98250188,Markham,37680
@@ -1713,7 +1128,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8340651,-79.2703491,2,Miles Farm Road (563),a,Miles Farm Road,40,5369424,98650563,Markham,37680
 43.8340651,-79.2703491,2,Norn Crescent (659),a,Norn Crescent,21,5369695,473331659,Markham,37680
 43.83407,-79.2682967,2,Middlefield Road (693),a,Middlefield Road,110,5369751,473331693,Markham,37680
-43.8340717,-79.2893293,2,Brimley Road (893),a,Brimley Road,101,5369745,99322893,Markham,37680
 43.8340732,-79.3045286,2,Kennedy Road (153),a,Kennedy Road,785,5369185,96048153,Markham,37680
 43.8340845,-79.2999588,2,Denison Street (769),a,Denison Street,602,5368990,328290769,Markham,37680
 43.8340845,-79.2999588,2,Denison Street (152),a,Denison Street,602,5368990,328298152,Markham,37680
@@ -1724,74 +1138,45 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8341114,-79.3046767,2,Kennedy Road (173),a,Kennedy Road,785,5369185,96048173,Markham,37680
 43.8341161,-79.3373556,2,Riviera Drive (427),a,Riviera Drive,68,5369000,92448427,Markham,37680
 43.8341172,-79.2996143,2,Denison Street (038),a,Denison Street,602,5368990,92065038,Markham,37680
-43.8341177,-79.2909389,2,Cardiff Road (904),a,Cardiff Road,9,5369728,560026904,Markham,37680
 43.8341202,-79.2769706,2,Woodhall Road (980),a,Woodhall Road,49,5369452,513602980,Markham,37680
-43.8341365,-79.2992538,2,Denison Street (042),a,Denison Street,602,5368990,92065042,Markham,37680
 43.8341428,-79.3338905,2,Alden Road (367),a,Alden Road,77,5368994,328296367,Markham,37680
-43.8341467,-79.2991649,2,Denison Street (047),a,Denison Street,602,5368990,92065047,Markham,37680
-43.8341467,-79.2991649,2,Denison Street (925),a,Denison Street,602,5368990,579300925,Markham,37680
-43.8341467,-79.2991649,2,Teddington Avenue (505),a,Teddington Avenue,17,5369730,99273505,Markham,37680
-43.8341467,-79.2991649,2,Mallory Avenue (721),a,Mallory Avenue,33,5369732,99277721,Markham,37680
 43.8341476,-79.2770011,2,Woodhall Road (870),a,Woodhall Road,49,5369452,98728870,Markham,37680
-43.8341566,-79.2990463,2,Denison Street (163),a,Denison Street,602,5368990,473331163,Markham,37680
 43.8341683,-79.2771064,2,Woodhall Road (979),a,Woodhall Road,49,5369452,513602979,Markham,37680
 43.8341685,-79.2770469,2,Woodhall Road (869),a,Woodhall Road,49,5369452,98728869,Markham,37680
-43.8341689,-79.2907094,2,Cardiff Road (902),a,Cardiff Road,9,5369728,560026902,Markham,37680
 43.8341708,-79.3192868,2,Birchmount Road (275),a,Birchmount Road,191,5369776,328296275,Markham,37680
 43.834171,-79.342575,2,14th Avenue (155),a,14th Avenue,613,5368999,92408155,Markham,37680
 43.8341737,-79.3240021,2,McNabb Street (643),a,McNabb Street,28,5370531,100283643,Markham,37680
 43.8341865,-79.2629201,2,Olivewood Drive (703),a,Olivewood Drive,26,5369753,473331703,Markham,37680
-43.8341986,-79.2904497,2,Cardiff Road (903),a,Cardiff Road,9,5369728,560026903,Markham,37680
-43.8342008,-79.2985278,2,Denison Street (162),a,Denison Street,602,5368990,473331162,Markham,37680
 43.8342009,-79.2662407,2,Dorothy Britton Drive (396),a,Dorothy Britton Drive,13,5369631,99104396,Markham,37680
 43.834201,-79.3464827,2,Rodick Road (873),a,Rodick Road,345,5369001,92573873,Markham,37680
-43.8342012,-79.290159,2,Halder Crescent (412),a,Halder Crescent,13,5369701,99205412,Markham,37680
-43.8342012,-79.290159,2,Cardiff Road (736),a,Cardiff Road,9,5369728,99268736,Markham,37680
 43.834202,-79.2663153,2,Dorothy Britton Drive (397),a,Dorothy Britton Drive,13,5369631,99104397,Markham,37680
 43.8342026,-79.3373262,2,Riviera Drive (428),a,Riviera Drive,68,5369000,92448428,Markham,37680
-43.8342027,-79.2894825,2,Cardiff Road (735),a,Cardiff Road,9,5369728,99268735,Markham,37680
-43.8342034,-79.289457,2,Cardiff Road (478),a,Cardiff Road,9,5369728,514848478,Markham,37680
 43.8342037,-79.2628699,2,Olivewood Drive (704),a,Olivewood Drive,26,5369753,473331704,Markham,37680
 43.8342059,-79.3025471,2,Fresno Court (500),a,Fresno Court,9,5369215,96670500,Markham,37680
 43.8342059,-79.3025471,2,Fresno Court (520),a,Fresno Court,9,5369215,96670520,Markham,37680
-43.834207,-79.289327,2,Worthing Avenue (881),a,Worthing Avenue,27,5369727,560026881,Markham,37680
-43.834207,-79.289327,2,Cardiff Road (734),a,Cardiff Road,9,5369728,99268734,Markham,37680
-43.834207,-79.289327,2,Brimley Road (851),a,Brimley Road,101,5369745,99322851,Markham,37680
-43.834207,-79.289327,2,Brimley Road (894),a,Brimley Road,101,5369745,99322894,Markham,37680
 43.8342084,-79.2661409,2,Dorothy Britton Drive (395),a,Dorothy Britton Drive,13,5369631,99104395,Markham,37680
-43.8342104,-79.289206,2,Worthing Avenue (894),a,Worthing Avenue,27,5369727,560026894,Markham,37680
-43.8342112,-79.2891774,2,Worthing Avenue (889),a,Worthing Avenue,27,5369727,560026889,Markham,37680
 43.8342194,-79.2740015,2,Miles Farm Road (144),a,Miles Farm Road,40,5369424,334946144,Markham,37680
 43.8342215,-79.342355,2,14th Avenue (154),a,14th Avenue,613,5368999,92408154,Markham,37680
 43.8342318,-79.2885136,2,Medley Crescent (854),a,Medley Crescent,8,5369536,98916854,Markham,37680
 43.8342318,-79.2885136,2,Worthing Avenue (877),a,Worthing Avenue,27,5369727,560026877,Markham,37680
 43.8342378,-79.2674834,2,Joycedale Street (270),a,Joycedale Street,30,5369496,98822270,Markham,37680
-43.8342406,-79.2991801,2,Mallory Avenue (723),a,Mallory Avenue,33,5369732,99277723,Markham,37680
 43.8342456,-79.2881886,2,Worthing Avenue (900),a,Worthing Avenue,27,5369727,560026900,Markham,37680
 43.8342474,-79.2728812,2,Douglas Haig Drive (201),a,Douglas Haig Drive,28,5369333,98250201,Markham,37680
 43.8342483,-79.2628437,2,Olivewood Drive (450),a,Olivewood Drive,26,5369753,99349450,Markham,37680
 43.8342483,-79.2628437,2,Olivewood Drive (627),a,Olivewood Drive,26,5369753,579302627,Markham,37680
 43.834252,-79.3238305,2,McNabb Street (161),a,McNabb Street,28,5370531,328296161,Markham,37680
-43.834253,-79.2978854,2,Denison Street (102),a,Denison Street,602,5368990,92065102,Markham,37680
-43.834253,-79.2978854,2,Denison Street (926),a,Denison Street,602,5368990,579300926,Markham,37680
 43.834257,-79.2663759,2,Dorothy Britton Drive (398),a,Dorothy Britton Drive,13,5369631,99104398,Markham,37680
-43.8342685,-79.2977272,2,Denison Street (106),a,Denison Street,602,5368990,92065106,Markham,37680
 43.8342716,-79.2649699,2,Joycedale Street (254),a,Joycedale Street,30,5369496,98822254,Markham,37680
 43.8342751,-79.2628305,2,Olivewood Drive (449),a,Olivewood Drive,26,5369753,99349449,Markham,37680
 43.834288,-79.313603,2,Denison Street (672),a,Denison Street,602,5368990,92065672,Markham,37680
 43.8342884,-79.337297,2,Riviera Drive (429),a,Riviera Drive,68,5369000,92448429,Markham,37680
 43.8342988,-79.3237571,2,McNabb Street (162),a,McNabb Street,28,5370531,328296162,Markham,37680
 43.8343034,-79.2885242,2,Medley Crescent (855),a,Medley Crescent,8,5369536,98916855,Markham,37680
-43.8343037,-79.2934024,2,Stirling Crescent (926),a,Stirling Crescent,29,5369367,98437926,Markham,37680
-43.8343037,-79.2934024,2,Martlesham Road (717),a,Martlesham Road,7,5369485,98797717,Markham,37680
-43.8343037,-79.2934024,2,Martlesham Road (718),a,Martlesham Road,7,5369485,98797718,Markham,37680
-43.8343043,-79.2973959,2,Denison Street (109),a,Denison Street,602,5368990,92065109,Markham,37680
 43.8343053,-79.2719467,2,Douglas Haig Drive (186),a,Douglas Haig Drive,28,5369333,98250186,Markham,37680
 43.8343055,-79.3419899,2,14th Avenue (152),a,14th Avenue,613,5368999,92408152,Markham,37680
 43.834306,-79.2874428,2,Cartmel Drive (341),a,Cartmel Drive,53,5369295,97794341,Markham,37680
 43.834306,-79.2874428,2,Worthing Avenue (878),a,Worthing Avenue,27,5369727,560026878,Markham,37680
 43.834317,-79.3419395,2,14th Avenue (151),a,14th Avenue,613,5368999,92408151,Markham,37680
-43.8343176,-79.2949319,2,Stirling Crescent (929),a,Stirling Crescent,29,5369367,98437929,Markham,37680
 43.8343191,-79.2740483,2,Miles Farm Road (145),a,Miles Farm Road,40,5369424,334946145,Markham,37680
 43.8343293,-79.2628414,2,Olivewood Drive (448),a,Olivewood Drive,26,5369753,99349448,Markham,37680
 43.8343356,-79.2691846,2,James Edward Drive (894),a,James Edward Drive,19,5369322,98163894,Markham,37680
@@ -1799,7 +1184,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8343356,-79.2691846,2,Miles Farm Road (564),a,Miles Farm Road,40,5369424,98650564,Markham,37680
 43.8343441,-79.3265207,2,Gough Road (476),a,Gough Road,44,5370703,328294476,Markham,37680
 43.8343468,-79.2869394,2,Worthing Avenue (887),a,Worthing Avenue,27,5369727,560026887,Markham,37680
-43.8343546,-79.2970835,2,Denison Street (111),a,Denison Street,602,5368990,92065111,Markham,37680
 43.8343558,-79.2801987,2,Gillingham Avenue (243),a,Gillingham Avenue,19,5369746,334946243,Markham,37680
 43.8343588,-79.2800239,2,Gillingham Avenue (247),a,Gillingham Avenue,19,5369746,513603247,Markham,37680
 43.8343615,-79.2803809,2,Gillingham Avenue (248),a,Gillingham Avenue,19,5369746,513603248,Markham,37680
@@ -1818,25 +1202,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8343941,-79.2653271,2,Dorothy Britton Drive (394),a,Dorothy Britton Drive,13,5369631,99104394,Markham,37680
 43.8343977,-79.3265348,2,Gough Road (938),a,Gough Road,44,5370703,100479938,Markham,37680
 43.8343991,-79.3336857,2,Alden Road (141),a,Alden Road,77,5368994,92160141,Markham,37680
-43.8344003,-79.2920315,2,Trafford Crescent (893),a,Trafford Crescent,20,5369216,96681893,Markham,37680
-43.8344003,-79.2920315,2,Aldergrove Drive (824),a,Aldergrove Drive,80,5369726,560026824,Markham,37680
 43.8344033,-79.2797058,2,Gillingham Avenue (245),a,Gillingham Avenue,19,5369746,334946245,Markham,37680
 43.8344063,-79.3127857,2,Denison Street (673),a,Denison Street,602,5368990,92065673,Markham,37680
 43.8344063,-79.3127857,2,Denison Street (934),a,Denison Street,602,5368990,579300934,Markham,37680
-43.8344083,-79.2949791,2,Stirling Crescent (931),a,Stirling Crescent,29,5369367,98437931,Markham,37680
 43.8344187,-79.2740828,2,Miles Farm Road (146),a,Miles Farm Road,40,5369424,334946146,Markham,37680
 43.8344206,-79.3414888,2,14th Avenue (149),a,14th Avenue,613,5368999,92408149,Markham,37680
 43.8344274,-79.2612722,2,Shadlock Street (482),a,Shadlock Street,16,5369646,99131482,Markham,37680
 43.8344288,-79.2683878,2,Middlefield Road (494),a,Middlefield Road,110,5369751,99343494,Markham,37680
 43.8344288,-79.2683878,2,Middlefield Road (454),a,Middlefield Road,110,5369751,579302454,Markham,37680
-43.8344293,-79.2967356,2,Denison Street (114),a,Denison Street,602,5368990,92065114,Markham,37680
 43.8344442,-79.337244,2,Riviera Drive (430),a,Riviera Drive,68,5369000,92448430,Markham,37680
 43.8344501,-79.3026273,2,Fresno Court (504),a,Fresno Court,9,5369215,96670504,Markham,37680
 43.834451,-79.3336441,2,Alden Road (142),a,Alden Road,77,5368994,92160142,Markham,37680
 43.8344528,-79.2650393,2,Joycedale Street (251),a,Joycedale Street,30,5369496,98822251,Markham,37680
 43.8344528,-79.2650393,2,Joycedale Street (253),a,Joycedale Street,30,5369496,98822253,Markham,37680
 43.8344528,-79.2650393,2,Dorothy Britton Drive (393),a,Dorothy Britton Drive,13,5369631,99104393,Markham,37680
-43.8344535,-79.2949902,2,Stirling Crescent (933),a,Stirling Crescent,29,5369367,98437933,Markham,37680
 43.8344543,-79.2675145,2,Joycedale Street (272),a,Joycedale Street,30,5369496,98822272,Markham,37680
 43.8344554,-79.2611376,2,Shadlock Street (499),a,Shadlock Street,16,5369646,328300499,Markham,37680
 43.8344629,-79.2752258,2,Charles Alfred Crescent (166),a,Charles Alfred Crescent,20,5369479,98786166,Markham,37680
@@ -1846,7 +1225,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8344901,-79.267501,2,Joycedale Street (273),a,Joycedale Street,30,5369496,98822273,Markham,37680
 43.8344919,-79.3372407,2,Riviera Drive (431),a,Riviera Drive,68,5369000,92448431,Markham,37680
 43.8344942,-79.3411686,2,14th Avenue (148),a,14th Avenue,613,5368999,92408148,Markham,37680
-43.8344979,-79.2949516,2,Stirling Crescent (934),a,Stirling Crescent,29,5369367,98437934,Markham,37680
 43.8345002,-79.2741177,2,Miles Farm Road (147),a,Miles Farm Road,40,5369424,334946147,Markham,37680
 43.8345083,-79.2752494,2,Charles Alfred Crescent (167),a,Charles Alfred Crescent,20,5369479,98786167,Markham,37680
 43.8345099,-79.2729732,2,Douglas Haig Drive (203),a,Douglas Haig Drive,28,5369333,98250203,Markham,37680
@@ -1854,7 +1232,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8345256,-79.2674626,2,Joycedale Street (274),a,Joycedale Street,30,5369496,98822274,Markham,37680
 43.8345287,-79.3119993,2,Denison Street (165),a,Denison Street,602,5368990,473331165,Markham,37680
 43.8345287,-79.3119993,2,Denison Street (166),a,Denison Street,602,5368990,473331166,Markham,37680
-43.834533,-79.2948884,2,Stirling Crescent (935),a,Stirling Crescent,29,5369367,98437935,Markham,37680
 43.834539,-79.3372374,2,Riviera Drive (433),a,Riviera Drive,68,5369000,92448433,Markham,37680
 43.8345441,-79.2752359,2,Charles Alfred Crescent (168),a,Charles Alfred Crescent,20,5369479,98786168,Markham,37680
 43.8345497,-79.3015397,2,Northolt Crescent (024),a,Northolt Crescent,40,5369649,99139024,Markham,37680
@@ -1882,21 +1259,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8346368,-79.2664892,2,Dorothy Britton Drive (391),a,Dorothy Britton Drive,13,5369631,99104391,Markham,37680
 43.8346368,-79.2664892,2,Dorothy Britton Drive (400),a,Dorothy Britton Drive,13,5369631,99104400,Markham,37680
 43.8346379,-79.3464393,2,Rodick Road (872),a,Rodick Road,345,5369001,92573872,Markham,37680
-43.8346417,-79.2961416,2,Denison Street (116),a,Denison Street,602,5368990,92065116,Markham,37680
 43.8346429,-79.3004352,2,Northolt Crescent (018),a,Northolt Crescent,40,5369649,99139018,Markham,37680
 43.8346438,-79.3111783,2,Denison Street (515),a,Denison Street,602,5368990,92065515,Markham,37680
 43.8346447,-79.2613612,2,Shadlock Street (972),a,Shadlock Street,16,5369646,328290972,Markham,37680
 43.8346458,-79.3016622,2,Northolt Crescent (027),a,Northolt Crescent,40,5369649,99139027,Markham,37680
 43.8346506,-79.3265899,2,Gough Road (939),a,Gough Road,44,5370703,100479939,Markham,37680
 43.8346513,-79.3111217,2,Denison Street (516),a,Denison Street,602,5368990,92065516,Markham,37680
-43.8346571,-79.2893375,2,Brimley Road (852),a,Brimley Road,101,5369745,99322852,Markham,37680
 43.83466,-79.2612386,2,Shadlock Street (500),a,Shadlock Street,16,5369646,328300500,Markham,37680
 43.8346609,-79.3003846,2,Northolt Crescent (017),a,Northolt Crescent,40,5369649,99139017,Markham,37680
 43.8346639,-79.3110167,2,Denison Street (290),a,Denison Street,602,5368990,328291290,Markham,37680
 43.8346727,-79.2742123,2,Miles Farm Road (149),a,Miles Farm Road,40,5369424,334946149,Markham,37680
 43.8346739,-79.2713142,2,Douglas Haig Drive (182),a,Douglas Haig Drive,28,5369333,98250182,Markham,37680
-43.8346741,-79.2916754,2,Trafford Crescent (895),a,Trafford Crescent,20,5369216,96681895,Markham,37680
-43.8346812,-79.2945608,2,Stirling Crescent (936),a,Stirling Crescent,29,5369367,98437936,Markham,37680
 43.8346824,-79.3301627,2,Hood Road (957),a,Hood Road,49,5368995,397271957,Markham,37680
 43.8346925,-79.2761426,2,McCowan Road (200),a,McCowan Road,589,5369163,95572200,Markham,37680
 43.8346925,-79.2761426,2,McCowan Road (261),a,McCowan Road,589,5369163,95572261,Markham,37680
@@ -1905,8 +1278,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8347043,-79.3003439,2,Northolt Crescent (016),a,Northolt Crescent,40,5369649,99139016,Markham,37680
 43.834708,-79.2711888,2,Douglas Haig Drive (181),a,Douglas Haig Drive,28,5369333,98250181,Markham,37680
 43.8347119,-79.3372254,2,Riviera Drive (436),a,Riviera Drive,68,5369000,92448436,Markham,37680
-43.8347131,-79.2924827,2,Martlesham Road (719),a,Martlesham Road,7,5369485,98797719,Markham,37680
-43.8347131,-79.2924827,2,Aldergrove Drive (829),a,Aldergrove Drive,80,5369726,560026829,Markham,37680
 43.8347135,-79.3402144,2,14th Avenue (147),a,14th Avenue,613,5368999,92408147,Markham,37680
 43.834724,-79.3105165,2,Denison Street (291),a,Denison Street,602,5368990,328291291,Markham,37680
 43.8347266,-79.3016765,2,Northolt Crescent (028),a,Northolt Crescent,40,5369649,99139028,Markham,37680
@@ -1925,10 +1296,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.834768,-79.3372215,2,Riviera Drive (439),a,Riviera Drive,68,5369000,92448439,Markham,37680
 43.8347727,-79.2760906,2,McCowan Road (201),a,McCowan Road,589,5369163,95572201,Markham,37680
 43.8347756,-79.2850933,2,Worthing Avenue (138),a,Worthing Avenue,27,5369727,99268138,Markham,37680
-43.8347791,-79.2914734,2,Trafford Crescent (896),a,Trafford Crescent,20,5369216,96681896,Markham,37680
 43.8347996,-79.2730768,2,Douglas Haig Drive (206),a,Douglas Haig Drive,28,5369333,98250206,Markham,37680
 43.8348088,-79.2849042,2,Worthing Avenue (898),a,Worthing Avenue,27,5369727,560026898,Markham,37680
-43.8348121,-79.2942835,2,Stirling Crescent (938),a,Stirling Crescent,29,5369367,98437938,Markham,37680
 43.8348157,-79.3372182,2,Riviera Drive (446),a,Riviera Drive,68,5369000,92448446,Markham,37680
 43.8348168,-79.309744,2,Denison Street (517),a,Denison Street,602,5368990,92065517,Markham,37680
 43.8348168,-79.2641083,2,Olivewood Drive (707),a,Olivewood Drive,26,5369753,473331707,Markham,37680
@@ -1944,14 +1313,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8348456,-79.2743317,2,Charles Alfred Crescent (173),a,Charles Alfred Crescent,20,5369479,98786173,Markham,37680
 43.8348457,-79.26009,2,Irenemount Crescent (273),a,Irenemount Crescent,29,5369463,98756273,Markham,37680
 43.8348459,-79.2853209,2,Mayflower Drive (017),a,Mayflower Drive,6,5369654,99144017,Markham,37680
-43.8348474,-79.2912227,2,Trafford Crescent (898),a,Trafford Crescent,20,5369216,96681898,Markham,37680
 43.8348487,-79.3265968,2,Gough Road (940),a,Gough Road,44,5370703,100479940,Markham,37680
 43.8348515,-79.2782057,2,Hertford Crescent (649),a,Hertford Crescent,19,5369267,530131649,Markham,37680
 43.8348542,-79.2837376,2,Worthing Avenue (879),a,Worthing Avenue,27,5369727,560026879,Markham,37680
 43.8348554,-79.2602706,2,Irenemount Crescent (451),a,Irenemount Crescent,29,5369463,361370451,Markham,37680
 43.8348554,-79.2602706,2,Irenemount Crescent (793),a,Irenemount Crescent,29,5369463,361370793,Markham,37680
-43.8348561,-79.29422,2,Stirling Crescent (939),a,Stirling Crescent,29,5369367,98437939,Markham,37680
-43.8348597,-79.2926527,2,Aldergrove Drive (845),a,Aldergrove Drive,80,5369726,560026845,Markham,37680
 43.8348652,-79.30876,2,Denison Street (324),a,Denison Street,602,5368990,92065324,Markham,37680
 43.8348655,-79.2864472,2,Belford Crescent (594),a,Belford Crescent,21,5369218,96700594,Markham,37680
 43.8348669,-79.2603008,2,Irenemount Crescent (623),a,Irenemount Crescent,29,5369463,473331623,Markham,37680
@@ -1959,11 +1325,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8348684,-79.3372375,2,Riviera Drive (449),a,Riviera Drive,68,5369000,92448449,Markham,37680
 43.8348733,-79.304255,2,Kennedy Road (077),a,Kennedy Road,785,5369185,96048077,Markham,37680
 43.8348762,-79.3395065,2,14th Avenue (963),a,14th Avenue,613,5368999,494375963,Markham,37680
-43.8348811,-79.2910724,2,Trafford Crescent (900),a,Trafford Crescent,20,5369216,96681900,Markham,37680
 43.8348811,-79.2804536,2,Hillcroft Drive (172),a,Hillcroft Drive,74,5369742,513603172,Markham,37680
 43.8348843,-79.3265906,2,Gough Road (729),a,Gough Road,44,5370703,415048729,Markham,37680
 43.834885,-79.28861,2,Medley Crescent (856),a,Medley Crescent,8,5369536,98916856,Markham,37680
-43.8348912,-79.2941568,2,Stirling Crescent (940),a,Stirling Crescent,29,5369367,98437940,Markham,37680
 43.8348943,-79.308925,2,Denison Street (323),a,Denison Street,602,5368990,92065323,Markham,37680
 43.8348943,-79.308925,2,Denison Street (330),a,Denison Street,602,5368990,92065330,Markham,37680
 43.8348943,-79.308925,2,Denison Street (518),a,Denison Street,602,5368990,92065518,Markham,37680
@@ -1981,13 +1345,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8349314,-79.3392663,2,14th Avenue (143),a,14th Avenue,613,5368999,92408143,Markham,37680
 43.8349399,-79.2875107,2,Cartmel Drive (739),a,Cartmel Drive,53,5369295,560026739,Markham,37680
 43.834942,-79.3229005,2,McNabb Street (163),a,McNabb Street,28,5370531,328296163,Markham,37680
-43.8349437,-79.2940558,2,Stirling Crescent (941),a,Stirling Crescent,29,5369367,98437941,Markham,37680
 43.8349464,-79.283345,2,Worthing Avenue (882),a,Worthing Avenue,27,5369727,560026882,Markham,37680
 43.8349522,-79.3062113,2,Amarillo Avenue (264),a,Amarillo Avenue,7,5369532,98908264,Markham,37680
 43.8349528,-79.2804547,2,Hillcroft Drive (171),a,Hillcroft Drive,74,5369742,513603171,Markham,37680
 43.8349531,-79.3087737,2,Denison Street (329),a,Denison Street,602,5368990,92065329,Markham,37680
 43.8349545,-79.3003992,2,Northolt Crescent (014),a,Northolt Crescent,40,5369649,99139014,Markham,37680
-43.8349562,-79.2906723,2,Trafford Crescent (901),a,Trafford Crescent,20,5369216,96681901,Markham,37680
 43.8349622,-79.2701366,2,Douglas Haig Drive (169),a,Douglas Haig Drive,28,5369333,98250169,Markham,37680
 43.8349629,-79.2731591,2,Douglas Haig Drive (163),a,Douglas Haig Drive,28,5369333,98250163,Markham,37680
 43.8349629,-79.2731591,2,Douglas Haig Drive (207),a,Douglas Haig Drive,28,5369333,98250207,Markham,37680
@@ -1995,14 +1357,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8349658,-79.3372732,2,Riviera Drive (451),a,Riviera Drive,68,5369000,92448451,Markham,37680
 43.8349662,-79.2693222,2,James Edward Drive (897),a,James Edward Drive,19,5369322,98163897,Markham,37680
 43.8349667,-79.2603477,2,Irenemount Crescent (624),a,Irenemount Crescent,29,5369463,473331624,Markham,37680
-43.8349692,-79.2927491,2,Aldergrove Drive (854),a,Aldergrove Drive,80,5369726,560026854,Markham,37680
 43.8349737,-79.3228595,2,McNabb Street (164),a,McNabb Street,28,5370531,328296164,Markham,37680
-43.8349784,-79.2939678,2,Stirling Crescent (942),a,Stirling Crescent,29,5369367,98437942,Markham,37680
 43.8349787,-79.2771886,2,Hertford Crescent (702),a,Hertford Crescent,19,5369267,97258702,Markham,37680
 43.8349787,-79.2771886,2,Gillingham Avenue (282),a,Gillingham Avenue,19,5369746,99325282,Markham,37680
-43.8349802,-79.2904726,2,Trafford Crescent (903),a,Trafford Crescent,20,5369216,96681903,Markham,37680
-43.834986,-79.290261,2,Trafford Crescent (906),a,Trafford Crescent,20,5369216,96681906,Markham,37680
-43.8349872,-79.2903356,2,Trafford Crescent (904),a,Trafford Crescent,20,5369216,96681904,Markham,37680
 43.8349872,-79.2699991,2,Douglas Haig Drive (171),a,Douglas Haig Drive,28,5369333,98250171,Markham,37680
 43.8349969,-79.2614759,2,Shadlock Street (472),a,Shadlock Street,16,5369646,363925472,Markham,37680
 43.8350061,-79.2593888,2,Irenemount Crescent (274),a,Irenemount Crescent,29,5369463,98756274,Markham,37680
@@ -2011,7 +1368,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8350104,-79.2804579,2,Hillcroft Drive (170),a,Hillcroft Drive,74,5369742,513603170,Markham,37680
 43.8350177,-79.3004241,2,Northolt Crescent (013),a,Northolt Crescent,40,5369649,99139013,Markham,37680
 43.8350194,-79.3265671,2,Gough Road (941),a,Gough Road,44,5370703,100479941,Markham,37680
-43.8350213,-79.2902102,2,Trafford Crescent (910),a,Trafford Crescent,20,5369216,96681910,Markham,37680
 43.8350237,-79.2763122,2,McCowan Road (375),a,McCowan Road,589,5369163,95572375,Markham,37680
 43.8350317,-79.299308,2,Mallory Avenue (108),a,Mallory Avenue,33,5369732,513603108,Markham,37680
 43.8350323,-79.272983,2,Karen Miles Crescent (804),a,Karen Miles Crescent,21,5369436,98683804,Markham,37680
@@ -2031,9 +1387,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8350696,-79.27678,2,Gillingham Avenue (276),a,Gillingham Avenue,19,5369746,99325276,Markham,37680
 43.8350696,-79.27678,2,Gillingham Avenue (283),a,Gillingham Avenue,19,5369746,99325283,Markham,37680
 43.8350702,-79.3004571,2,Northolt Crescent (012),a,Northolt Crescent,40,5369649,99139012,Markham,37680
-43.8350749,-79.2901838,2,Trafford Crescent (911),a,Trafford Crescent,20,5369216,96681911,Markham,37680
 43.8350751,-79.2685198,2,Middlefield Road (496),a,Middlefield Road,110,5369751,99343496,Markham,37680
-43.8350789,-79.2928579,2,Aldergrove Drive (846),a,Aldergrove Drive,80,5369726,560026846,Markham,37680
 43.8350856,-79.3017675,2,Northolt Crescent (029),a,Northolt Crescent,40,5369649,99139029,Markham,37680
 43.8350918,-79.2703692,2,Karen Miles Crescent (774),a,Karen Miles Crescent,21,5369436,98683774,Markham,37680
 43.835092,-79.2967507,2,Jimston Drive (338),a,Jimston Drive,42,5369465,98761338,Markham,37680
@@ -2053,7 +1407,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8351223,-79.2763379,2,McCowan Road (325),a,McCowan Road,589,5369163,95572325,Markham,37680
 43.8351223,-79.2763379,2,McCowan Road (374),a,McCowan Road,589,5369163,95572374,Markham,37680
 43.8351223,-79.2763379,2,Gillingham Avenue (279),a,Gillingham Avenue,19,5369746,99325279,Markham,37680
-43.8351287,-79.2901698,2,Trafford Crescent (913),a,Trafford Crescent,20,5369216,96681913,Markham,37680
 43.8351388,-79.2968737,2,Jimston Drive (340),a,Jimston Drive,42,5369465,98761340,Markham,37680
 43.8351475,-79.2800197,2,Cairncross Crescent (985),a,Cairncross Crescent,24,5369710,99216985,Markham,37680
 43.8351508,-79.2766876,2,Gillingham Avenue (274),a,Gillingham Avenue,19,5369746,99325274,Markham,37680
@@ -2073,9 +1426,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8351823,-79.2760777,2,Elson Street (481),a,Elson Street,137,5369747,99336481,Markham,37680
 43.8351842,-79.2968973,2,Jimston Drive (341),a,Jimston Drive,42,5369465,98761341,Markham,37680
 43.8351967,-79.2764786,2,Gillingham Avenue (273),a,Gillingham Avenue,19,5369746,99325273,Markham,37680
-43.8351976,-79.2893594,2,Brimley Road (853),a,Brimley Road,101,5369745,99322853,Markham,37680
 43.8351986,-79.2631644,2,Olivewood Drive (444),a,Olivewood Drive,26,5369753,99349444,Markham,37680
-43.8352007,-79.2901678,2,Trafford Crescent (915),a,Trafford Crescent,20,5369216,96681915,Markham,37680
 43.8352029,-79.3380848,2,14th Avenue (136),a,14th Avenue,613,5368999,92408136,Markham,37680
 43.8352057,-79.2993524,2,Mallory Avenue (107),a,Mallory Avenue,33,5369732,513603107,Markham,37680
 43.8352137,-79.330312,2,Hood Road (366),a,Hood Road,49,5368995,92180366,Markham,37680
@@ -2088,9 +1439,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8352258,-79.2631761,2,Olivewood Drive (443),a,Olivewood Drive,26,5369753,99349443,Markham,37680
 43.835227,-79.2804959,2,Hillcroft Drive (943),a,Hillcroft Drive,74,5369742,560026943,Markham,37680
 43.8352278,-79.2886447,2,Medley Crescent (857),a,Medley Crescent,8,5369536,98916857,Markham,37680
-43.8352339,-79.2929903,2,Trafford Crescent (927),a,Trafford Crescent,20,5369216,96681927,Markham,37680
-43.8352339,-79.2929903,2,Stirling Crescent (943),a,Stirling Crescent,29,5369367,98437943,Markham,37680
-43.8352339,-79.2929903,2,Aldergrove Drive (827),a,Aldergrove Drive,80,5369726,560026827,Markham,37680
 43.8352345,-79.2584244,2,Irenemount Crescent (275),a,Irenemount Crescent,29,5369463,98756275,Markham,37680
 43.8352461,-79.2704518,2,Karen Miles Crescent (776),a,Karen Miles Crescent,21,5369436,98683776,Markham,37680
 43.8352471,-79.2723051,2,Karen Miles Crescent (802),a,Karen Miles Crescent,21,5369436,98683802,Markham,37680
@@ -2111,11 +1459,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8352922,-79.275886,2,Elson Street (483),a,Elson Street,137,5369747,99336483,Markham,37680
 43.8352922,-79.275886,2,Elson Street (484),a,Elson Street,137,5369747,99336484,Markham,37680
 43.8352924,-79.2763821,2,McCowan Road (264),a,McCowan Road,589,5369163,95572264,Markham,37680
-43.8352966,-79.2893565,2,Brimley Road (854),a,Brimley Road,101,5369745,99322854,Markham,37680
 43.835305,-79.3061689,2,Amarillo Avenue (019),a,Amarillo Avenue,7,5369532,494376019,Markham,37680
 43.835306,-79.263124,2,Olivewood Drive (440),a,Olivewood Drive,26,5369753,99349440,Markham,37680
 43.8353075,-79.2721292,2,Karen Miles Crescent (801),a,Karen Miles Crescent,21,5369436,98683801,Markham,37680
-43.8353089,-79.2901771,2,Trafford Crescent (916),a,Trafford Crescent,20,5369216,96681916,Markham,37680
 43.8353096,-79.3264707,2,Gough Road (730),a,Gough Road,44,5370703,415048730,Markham,37680
 43.8353098,-79.2580491,2,Irenemount Crescent (276),a,Irenemount Crescent,29,5369463,98756276,Markham,37680
 43.8353099,-79.2704998,2,Karen Miles Crescent (778),a,Karen Miles Crescent,21,5369436,98683778,Markham,37680
@@ -2196,7 +1542,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8355146,-79.2994982,2,Mallory Avenue (105),a,Mallory Avenue,33,5369732,513603105,Markham,37680
 43.8355201,-79.3263293,2,Gough Road (945),a,Gough Road,44,5370703,100479945,Markham,37680
 43.835521,-79.3007685,2,Northolt Crescent (006),a,Northolt Crescent,40,5369649,99139006,Markham,37680
-43.8355224,-79.2893998,2,Brimley Road (855),a,Brimley Road,101,5369745,99322855,Markham,37680
 43.8355263,-79.2807002,2,Worthing Avenue (890),a,Worthing Avenue,27,5369727,560026890,Markham,37680
 43.8355272,-79.3096866,2,Milliken Meadows Drive (112),a,Milliken Meadows Drive,53,5369373,98465112,Markham,37680
 43.835528,-79.2712273,2,Karen Miles Crescent (795),a,Karen Miles Crescent,21,5369436,98683795,Markham,37680
@@ -2262,7 +1607,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8356786,-79.2938234,2,Denison Street (160),a,Denison Street,602,5368990,473331160,Markham,37680
 43.8356825,-79.2683496,2,Middlefield Road (534),a,Middlefield Road,110,5369751,99343534,Markham,37680
 43.8356848,-79.3196241,2,McNabb Street (650),a,McNabb Street,28,5370531,100283650,Markham,37680
-43.8356922,-79.2931918,2,Aldergrove Drive (872),a,Aldergrove Drive,80,5369726,560026872,Markham,37680
 43.8356946,-79.3194583,2,Micro Court (924),a,Micro Court,15,5369159,95240924,Markham,37680
 43.8356946,-79.3194583,2,Birchmount Road (745),a,Birchmount Road,191,5369776,99419745,Markham,37680
 43.8356946,-79.3194583,2,Birchmount Road (773),a,Birchmount Road,191,5369776,99419773,Markham,37680
@@ -2291,7 +1635,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8357486,-79.2764416,2,McCowan Road (318),a,McCowan Road,589,5369163,95572318,Markham,37680
 43.8357486,-79.2764416,2,McCowan Road (379),a,McCowan Road,589,5369163,579302379,Markham,37680
 43.8357496,-79.2817438,2,Belford Crescent (078),a,Belford Crescent,21,5369218,334946078,Markham,37680
-43.8357504,-79.2907989,2,Trafford Crescent (925),a,Trafford Crescent,20,5369216,96681925,Markham,37680
 43.8357524,-79.3179872,2,Micro Court (915),a,Micro Court,15,5369159,95240915,Markham,37680
 43.8357524,-79.3179872,2,Micro Court (926),a,Micro Court,15,5369159,95240926,Markham,37680
 43.8357566,-79.326094,2,Gough Road (732),a,Gough Road,44,5370703,415048732,Markham,37680
@@ -2301,7 +1644,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8357766,-79.2567792,2,Laird Drive (029),a,Laird Drive,27,5369637,334946029,Markham,37680
 43.8357769,-79.2933268,2,Denison Street (161),a,Denison Street,602,5368990,473331161,Markham,37680
 43.8357788,-79.2998406,2,Northolt Crescent (077),a,Northolt Crescent,40,5369649,513603077,Markham,37680
-43.8357793,-79.2903254,2,Trafford Crescent (919),a,Trafford Crescent,20,5369216,96681919,Markham,37680
 43.8357797,-79.2795537,2,Cairncross Crescent (991),a,Cairncross Crescent,24,5369710,99216991,Markham,37680
 43.8357898,-79.2998122,2,Northolt Crescent (078),a,Northolt Crescent,40,5369649,513603078,Markham,37680
 43.8357899,-79.2736828,2,Douglas Haig Drive (165),a,Douglas Haig Drive,28,5369333,98250165,Markham,37680
@@ -2313,10 +1655,8 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8357949,-79.2932297,2,Denison Street (194),a,Denison Street,602,5368990,92065194,Markham,37680
 43.8357949,-79.2932297,2,Denison Street (923),a,Denison Street,602,5368990,579300923,Markham,37680
 43.8357949,-79.2932297,2,Eden Avenue (767),a,Eden Avenue,19,5369408,560026767,Markham,37680
-43.8357949,-79.2932297,2,Aldergrove Drive (833),a,Aldergrove Drive,80,5369726,560026833,Markham,37680
 43.835797,-79.3171786,2,Micro Court (917),a,Micro Court,15,5369159,95240917,Markham,37680
 43.8357993,-79.2695279,2,James Edward Drive (882),a,James Edward Drive,19,5369322,98163882,Markham,37680
-43.8358018,-79.2906233,2,Trafford Crescent (924),a,Trafford Crescent,20,5369216,96681924,Markham,37680
 43.8358044,-79.3194598,2,Birchmount Road (746),a,Birchmount Road,191,5369776,99419746,Markham,37680
 43.8358057,-79.3169948,2,Micro Court (655),a,Micro Court,15,5369159,328289655,Markham,37680
 43.8358075,-79.2682838,2,Middlefield Road (535),a,Middlefield Road,110,5369751,99343535,Markham,37680
@@ -2328,9 +1668,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8358229,-79.2806566,2,Hillcroft Drive (950),a,Hillcroft Drive,74,5369742,560026950,Markham,37680
 43.835825,-79.2997209,2,Northolt Crescent (000),a,Northolt Crescent,40,5369649,99139000,Markham,37680
 43.835825,-79.2997209,2,Mallory Avenue (736),a,Mallory Avenue,33,5369732,99277736,Markham,37680
-43.8358254,-79.2903987,2,Trafford Crescent (920),a,Trafford Crescent,20,5369216,96681920,Markham,37680
 43.8358298,-79.2864356,2,Belford Crescent (596),a,Belford Crescent,21,5369218,96700596,Markham,37680
-43.8358354,-79.2904606,2,Trafford Crescent (922),a,Trafford Crescent,20,5369216,96681922,Markham,37680
 43.835839,-79.284334,2,Ingram Road (202),a,Ingram Road,25,5369495,98819202,Markham,37680
 43.8358468,-79.309379,2,Milliken Meadows Drive (116),a,Milliken Meadows Drive,53,5369373,98465116,Markham,37680
 43.8358511,-79.2951752,2,Jimston Drive (988),a,Jimston Drive,42,5369465,513602988,Markham,37680
@@ -2338,8 +1676,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8358612,-79.3311552,2,Hood Road (358),a,Hood Road,49,5368995,92180358,Markham,37680
 43.8358612,-79.3311552,2,Hood Road (364),a,Hood Road,49,5368995,92180364,Markham,37680
 43.835864,-79.2696379,2,James Edward Drive (883),a,James Edward Drive,19,5369322,98163883,Markham,37680
-43.8358671,-79.2895015,2,Brimley Road (761),a,Brimley Road,101,5369745,328290761,Markham,37680
-43.8358671,-79.2895015,2,Brimley Road (115),a,Brimley Road,101,5369745,328298115,Markham,37680
 43.8358672,-79.2568139,2,Laird Drive (031),a,Laird Drive,27,5369637,334946031,Markham,37680
 43.83587,-79.2558187,2,Laird Drive (023),a,Laird Drive,27,5369637,334946023,Markham,37680
 43.8358766,-79.2875733,2,Cartmel Drive (730),a,Cartmel Drive,53,5369295,560026730,Markham,37680
@@ -2474,7 +1810,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8362895,-79.2775365,2,Hertford Crescent (701),a,Hertford Crescent,19,5369267,97258701,Markham,37680
 43.836294,-79.345372,2,Rodick Road (865),a,Rodick Road,345,5369001,92573865,Markham,37680
 43.8362993,-79.3071025,2,Macon Place (731),a,Macon Place,11,5369345,98327731,Markham,37680
-43.8363106,-79.2896323,2,Brimley Road (679),a,Brimley Road,101,5369745,473331679,Markham,37680
 43.8363146,-79.2657794,2,Joycedale Street (279),a,Joycedale Street,30,5369496,98822279,Markham,37680
 43.8363146,-79.2657794,2,Elson Street (691),a,Elson Street,137,5369747,473331691,Markham,37680
 43.8363162,-79.2676613,2,Middlefield Road (468),a,Middlefield Road,110,5369751,99343468,Markham,37680
@@ -2499,8 +1834,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8363763,-79.2749344,2,Rowe Court (366),a,Rowe Court,5,5369262,97221366,Markham,37680
 43.8363807,-79.2677752,2,Middlefield Road (410),a,Middlefield Road,110,5369751,99343410,Markham,37680
 43.836384,-79.2748471,2,Rowe Court (367),a,Rowe Court,5,5369262,97221367,Markham,37680
-43.8363881,-79.2908465,2,Denison Street (130),a,Denison Street,602,5368990,328298130,Markham,37680
-43.8363881,-79.2908465,2,Denison Street (150),a,Denison Street,602,5368990,328298150,Markham,37680
 43.8363913,-79.2747349,2,Rowe Court (368),a,Rowe Court,5,5369262,97221368,Markham,37680
 43.8363926,-79.267587,2,Elson Street (493),a,Elson Street,137,5369747,99336493,Markham,37680
 43.8363926,-79.267587,2,Elson Street (516),a,Elson Street,137,5369747,99336516,Markham,37680
@@ -2541,8 +1874,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8364812,-79.2810662,2,Cairncross Crescent (006),a,Cairncross Crescent,24,5369710,99217006,Markham,37680
 43.8364812,-79.2810662,2,Hillcroft Drive (954),a,Hillcroft Drive,74,5369742,560026954,Markham,37680
 43.8364817,-79.2546068,2,Marydale Avenue (195),a,Marydale Avenue,40,5369241,96974195,Markham,37680
-43.8364843,-79.2896947,2,Brimley Road (227),a,Brimley Road,101,5369745,513603227,Markham,37680
-43.8364843,-79.2896947,2,Brimley Road (237),a,Brimley Road,101,5369745,513603237,Markham,37680
 43.8364903,-79.2707369,2,Elson Street (254),a,Elson Street,137,5369747,334946254,Markham,37680
 43.8364906,-79.3326227,2,14th Avenue (199),a,14th Avenue,613,5368999,473331199,Markham,37680
 43.8364923,-79.3079801,2,Greensboro Drive (086),a,Greensboro Drive,13,5369224,96772086,Markham,37680
@@ -2560,7 +1891,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8365094,-79.2702495,2,James Edward Drive (889),a,James Edward Drive,19,5369322,98163889,Markham,37680
 43.8365107,-79.3092235,2,Greensboro Drive (080),a,Greensboro Drive,13,5369224,96772080,Markham,37680
 43.8365121,-79.3034257,2,Kennedy Road (859),a,Kennedy Road,785,5369185,328290859,Markham,37680
-43.8365198,-79.2897004,2,Brimley Road (238),a,Brimley Road,101,5369745,513603238,Markham,37680
 43.836522,-79.2676138,2,Elson Street (528),a,Elson Street,137,5369747,99336528,Markham,37680
 43.836522,-79.2676138,2,Elson Street (560),a,Elson Street,137,5369747,99336560,Markham,37680
 43.836522,-79.2676138,2,Middlefield Road (390),a,Middlefield Road,110,5369751,99343390,Markham,37680
@@ -2586,8 +1916,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8365893,-79.2960374,2,Brackin Road (000),a,Brackin Road,17,5369349,513603000,Markham,37680
 43.8365898,-79.2675308,2,Middlefield Road (405),a,Middlefield Road,110,5369751,99343405,Markham,37680
 43.8365912,-79.2766447,2,McCowan Road (299),a,McCowan Road,589,5369163,95572299,Markham,37680
-43.8365916,-79.2899889,2,Denison Street (408),a,Denison Street,602,5368990,513602408,Markham,37680
-43.8365916,-79.2899889,2,Denison Street (410),a,Denison Street,602,5368990,513602410,Markham,37680
 43.836594,-79.2702761,2,James Edward Drive (891),a,James Edward Drive,19,5369322,98163891,Markham,37680
 43.836594,-79.2702761,2,Elson Street (494),a,Elson Street,137,5369747,99336494,Markham,37680
 43.836595,-79.3088355,2,Greensboro Drive (082),a,Greensboro Drive,13,5369224,96772082,Markham,37680
@@ -2598,16 +1926,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8366085,-79.2546529,2,Marydale Avenue (196),a,Marydale Avenue,40,5369241,96974196,Markham,37680
 43.8366087,-79.2958993,2,Brackin Road (937),a,Brackin Road,17,5369349,334945937,Markham,37680
 43.8366103,-79.3086485,2,Greensboro Drive (083),a,Greensboro Drive,13,5369224,96772083,Markham,37680
-43.8366137,-79.289888,2,Denison Street (411),a,Denison Street,602,5368990,513602411,Markham,37680
 43.8366411,-79.2679445,2,Elson Street (499),a,Elson Street,137,5369747,99336499,Markham,37680
 43.8366411,-79.2679445,2,Elson Street (563),a,Elson Street,137,5369747,99336563,Markham,37680
 43.8366411,-79.2679445,2,Elson Street (631),a,Elson Street,137,5369747,99336631,Markham,37680
 43.8366421,-79.2824147,2,Belford Crescent (075),a,Belford Crescent,21,5369218,334946075,Markham,37680
 43.8366475,-79.2678614,2,Elson Street (562),a,Elson Street,137,5369747,99336562,Markham,37680
-43.8366501,-79.2897215,2,Denison Street (409),a,Denison Street,602,5368990,513602409,Markham,37680
-43.8366501,-79.2897215,2,Denison Street (412),a,Denison Street,602,5368990,513602412,Markham,37680
-43.8366501,-79.2897215,2,Brimley Road (233),a,Brimley Road,101,5369745,513603233,Markham,37680
-43.8366501,-79.2897215,2,Brimley Road (236),a,Brimley Road,101,5369745,513603236,Markham,37680
 43.8366524,-79.4055526,2,Bayview Avenue (400),a,Bayview Avenue,257,5369013,424836400,Markham,37680
 43.8366586,-79.3119185,2,Milliken Meadows Drive (127),a,Milliken Meadows Drive,53,5369373,98465127,Markham,37680
 43.8366673,-79.3033854,2,Kennedy Road (068),a,Kennedy Road,785,5369185,96048068,Markham,37680

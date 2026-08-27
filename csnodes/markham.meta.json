@@ -2,10 +2,10 @@
   "city": "markham",
   "city_id": "37680",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-08-10T00:30:25.918871+00:00",
-  "node_count": 46817,
+  "generated_at": "2026-08-27T18:53:01.354641+00:00",
+  "node_count": 46140,
   "schema_version": 1,
-  "sha256": "bc325f66dbc3d273747a124fc898e61ad6329d70fed08b9f8161a1cb15418954",
+  "sha256": "5afd232ef858c0d2f9696fa574172b4050b81b7831b51bcf80d07b7ee1364218",
   "source_city": "Markham",
-  "street_count": 1915
+  "street_count": 1885
 }

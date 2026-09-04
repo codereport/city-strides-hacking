@@ -2,10 +2,10 @@
   "city": "whitchurch_stouffville",
   "city_id": "37999",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-09-03T04:27:05.454535+00:00",
-  "node_count": 13265,
+  "generated_at": "2026-09-04T17:35:15.046789+00:00",
+  "node_count": 12432,
   "schema_version": 1,
-  "sha256": "66f152c7394daff58bbfd022f1e96fa4e0b9a57b69d08a67f62b93696a0ccc50",
+  "sha256": "57f05ced9e2a9442296ad64c529087bf563516d171814e7217281e44b633a3c5",
   "source_city": "Whitchurch Stouffville",
-  "street_count": 512
+  "street_count": 464
 }

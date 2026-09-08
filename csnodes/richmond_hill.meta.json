@@ -2,10 +2,10 @@
   "city": "richmond_hill",
   "city_id": "37878",
   "download_strategy": "adaptive_quadtree",
-  "generated_at": "2026-09-07T14:36:26.886477+00:00",
-  "node_count": 25598,
+  "generated_at": "2026-09-08T14:06:52.668686+00:00",
+  "node_count": 24935,
   "schema_version": 1,
-  "sha256": "c21b2fdc22ea066d7561b8d634fee5288bb0ce9c5d4d0cda631dbd23677da8e2",
+  "sha256": "bc1cc4c9094fa05c8b47ab708ead0a649957cfff55942a293b46df670a2834cf",
   "source_city": "Richmond Hill",
-  "street_count": 1111
+  "street_count": 1075
 }

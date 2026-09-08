@@ -1,7 +1,11 @@
 (() => {
-  if (location.protocol !== "file:") return;
+  const isFilePage = location.protocol === "file:";
+  const isPlannerPage = location.pathname === "/upcoming";
+  if (!isFilePage && !isPlannerPage) return;
 
-  const apiRoot = "http://127.0.0.1:8765/api/runs";
+  const apiRoot = isFilePage
+    ? "http://127.0.0.1:8765/api/runs"
+    : "/api/runs";
   const page = document.body.dataset.runPage;
   const style = document.createElement("style");
   style.textContent = `

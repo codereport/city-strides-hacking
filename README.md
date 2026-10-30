@@ -6,27 +6,23 @@
 
 1. `git clone https://github.com/codereport/city-strides-hacking.git`
 
-2. Add a file named `cookies.json` with the following contents:
+2. Install the dependencies:
 
-```json
-{
-    "_citystrides_session": "...",
-    "remember_user_token": "..."
-}
+```bash
+python3 -m pip install -r requirements.txt
 ```
-* Generate the above by doing the following:
-   * Sign in at www.citystrides.com (on Firefox)
-   * `Ctrl + Shift + I` to open the Web Developer Tools and select **Network**
-   * Choose a city on CityStrides, click the **Node Hunter** magnifying glass
-     (a subscription is required), and select its `nodes.json` request
-   * Use **Copy Value** → **Copy as cURL**, then paste the command into
-     https://curlconverter.com/python/
-   * Copy the generated `cookies` dictionary into `cookies.json`
 
-CityStrides can expire or rotate browser sessions. If the downloader reports
-HTTP 401, repeat the steps above and replace `cookies.json`; authentication
-errors now stop immediately instead of retrying the same rejected request five
-times. The downloader keeps subsequent cookie updates for the entire refresh.
+If `cookies.json` is missing or expired, the downloader checks your local
+Chrome, Chromium, Firefox, Brave, and Edge profiles for a CityStrides session.
+If needed, it opens CityStrides in your usual browser. Sign in there normally;
+the downloader verifies Node Hunter access, saves the cookies locally with
+owner-only permissions, and continues automatically. Browser cookie writes
+can take a short time to appear. Later downloads reuse the saved session and
+retain cookie updates. CityStrides may occasionally require a new login.
+
+Only CityStrides cookies are imported; Garmin and other provider credentials
+stay in your browser. Node Hunter requires a CityStrides subscription. Cookies
+are ignored by Git. Stop the command to cancel a pending login.
 
 3. Add a `parameters.yaml`. Example below.
 
@@ -36,7 +32,7 @@ heat_map_max_length: 1
 heat_map_exclude_csnodes: false
 ```
 4. You can now run:
-   * `./download_node_csv.py cookies.json` to scrape all the nodes to `nodes.csv`
+   * `./download_node_csv.py --city scarborough` to scrape the nodes to `nodes.csv`
    * `./plot_nodes.py` to view all of the nodes without a 1000 node limit
    * `./create_heat_map.py scarborough` to build
      `heat_maps/scarborough.html`
@@ -68,6 +64,12 @@ be run directly from this directory. Public GitHub Pages builds use a sparse
 checkout that excludes the private submodule.
 
 See the submodule README for setup, data acquisition, CLI usage, and tests.
+
+In the planner, **E** toggles satellite imagery and **H** toggles street-length
+heatmap colours using `create_heat_map.py`'s blue/purple palette. Nodes on streets
+over 500 m stay blue.
+During a manual route, **Ctrl + click** adds a straight crossing to the exact
+clicked point, including areas without an OSM path. **Undo last** removes it.
 
 Phone-ready route exports from the private planner are written to the public
 `upcoming_runs/` directory and automatically listed by the repository-root

@@ -15,6 +15,7 @@ class CompatibilityEntrypointTest(unittest.TestCase):
         expectations = {
             "download_node_csv.py": "--city",
             "get_data_for_new_city.py": "--query-type",
+            "route_planner.py": "{generate,serve,fetch-all}",
         }
         for script_name, expected_option in expectations.items():
             with self.subTest(script=script_name):

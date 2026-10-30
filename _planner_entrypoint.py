@@ -1,4 +1,4 @@
-"""Run canonical data scripts from the private route-planner submodule."""
+"""Run canonical scripts from the private route-planner submodule."""
 
 from __future__ import annotations
 

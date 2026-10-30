@@ -59,15 +59,13 @@ The closed-loop route planner is maintained in the private
 it with:
 
 ```bash
-git -c submodule.city-strides-route-planner.update=checkout \
-  submodule update --init city-strides-route-planner
-cd city-strides-route-planner
-python3 route_planner.py serve --city scarborough
+git submodule update --init --recursive
+python3 route_planner.py serve --city richmond_hill
 ```
 
-The committed submodule update policy is `none` so public GitHub Pages builds
-skip the private repository. The command above explicitly opts authorized local
-development checkouts back into cloning it.
+The repository-root `route_planner.py` launches the private planner, so it can
+be run directly from this directory. Public GitHub Pages builds use a sparse
+checkout that excludes the private submodule.
 
 See the submodule README for setup, data acquisition, CLI usage, and tests.
 

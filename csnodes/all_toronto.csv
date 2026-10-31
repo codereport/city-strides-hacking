@@ -1,1016 +1,187 @@
 lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,source_city_id
-43.6431766,-79.5858848,2,Laver Road (839),a,Laver Road,9,11285141,219406839,Toronto,131268
-43.6433098,-79.5856175,2,Laver Road (840),a,Laver Road,9,11285141,219406840,Toronto,131268
-43.6433385,-79.5868385,2,Mill Road (336),a,Mill Road,112,11284640,611462336,Toronto,131268
-43.6433992,-79.5868857,2,Mill Road (337),a,Mill Road,112,11284640,611462337,Toronto,131268
-43.6434809,-79.5854297,2,Laver Road (841),a,Laver Road,9,11285141,219406841,Toronto,131268
-43.6434998,-79.5869672,2,Mill Road (714),a,Mill Road,112,11284640,307953714,Toronto,131268
-43.6436351,-79.5870855,2,Mill Road (757),a,Mill Road,112,11284640,219389757,Toronto,131268
-43.6436468,-79.5870972,2,Mill Road (439),a,Mill Road,112,11284640,391666439,Toronto,131268
-43.6438017,-79.5872533,2,Mill Road (338),a,Mill Road,112,11284640,611462338,Toronto,131268
-43.6439039,-79.5873664,2,Mill Road (339),a,Mill Road,112,11284640,611462339,Toronto,131268
-43.6440317,-79.587505,2,Mill Road (716),a,Mill Road,112,11284640,307953716,Toronto,131268
-43.6441559,-79.5876583,2,Mill Road (759),a,Mill Road,112,11284640,219389759,Toronto,131268
-43.6443245,-79.5878923,2,Mill Road (340),a,Mill Road,112,11284640,611462340,Toronto,131268
-43.6444989,-79.5881499,2,Mill Road (341),a,Mill Road,112,11284640,611462341,Toronto,131268
-43.6446986,-79.5884992,2,Mill Road (342),a,Mill Road,112,11284640,611462342,Toronto,131268
-43.6446986,-79.5884992,2,Pebble Valley Lane (646),a,Pebble Valley Lane,8,11288837,611444646,Toronto,131268
-43.6447348,-79.5884563,2,Pebble Valley Lane (647),a,Pebble Valley Lane,8,11288837,611444647,Toronto,131268
-43.6447396,-79.5885775,2,Mill Road (343),a,Mill Road,112,11284640,611462343,Toronto,131268
-43.644752,-79.5841353,2,Laver Road (321),a,Laver Road,9,11285141,611462321,Toronto,131268
-43.6447739,-79.5884098,2,Pebble Valley Lane (648),a,Pebble Valley Lane,8,11288837,611444648,Toronto,131268
-43.6447786,-79.5840367,2,Elmcrest Road (639),a,Elmcrest Road,21,11284658,611444639,Toronto,131268
-43.644793,-79.5883872,2,Pebble Valley Lane (649),a,Pebble Valley Lane,8,11288837,611444649,Toronto,131268
-43.6448065,-79.5840794,2,Elmcrest Road (509),a,Elmcrest Road,21,11284658,219390509,Toronto,131268
-43.6448065,-79.5840794,2,Laver Road (842),a,Laver Road,9,11285141,219406842,Toronto,131268
-43.6449586,-79.5889953,2,Mill Road (344),a,Mill Road,112,11284640,611462344,Toronto,131268
-43.6451369,-79.5893355,2,Mill Road (345),a,Mill Road,112,11284640,611462345,Toronto,131268
-43.6452255,-79.5904296,2,Rathburn Road (088),a,Rathburn Road,209,11281807,218895088,Toronto,131268
-43.6453295,-79.5897075,2,Mill Road (346),a,Mill Road,112,11284640,611462346,Toronto,131268
-43.645422,-79.587608,2,Pebble Valley Lane (957),a,Pebble Valley Lane,8,11288837,219523957,Toronto,131268
-43.6454535,-79.5899394,2,Mill Road (347),a,Mill Road,112,11284640,611462347,Toronto,131268
-43.6454657,-79.5899623,2,Mill Road (030),a,Mill Road,112,11284640,505455030,Toronto,131268
-43.6454842,-79.5875446,2,Pebble Valley Lane (958),a,Pebble Valley Lane,8,11288837,219523958,Toronto,131268
-43.6455364,-79.5900827,2,Rathburn Road (087),a,Rathburn Road,209,11281807,218895087,Toronto,131268
-43.6455364,-79.5900827,2,Rathburn Road (089),a,Rathburn Road,209,11281807,218895089,Toronto,131268
-43.6455364,-79.5900827,2,Mill Road (766),a,Mill Road,112,11284640,219389766,Toronto,131268
-43.6455364,-79.5900827,2,Centennial Park Boulevard (433),a,Centennial Park Boulevard,79,11284657,219390433,Toronto,131268
-43.6455466,-79.5874935,2,Pebble Valley Lane (959),a,Pebble Valley Lane,8,11288837,219523959,Toronto,131268
-43.6455894,-79.5899965,2,Rathburn Road (636),a,Rathburn Road,209,11281807,611444636,Toronto,131268
-43.6455936,-79.5901437,2,Centennial Park Boulevard (493),a,Centennial Park Boulevard,79,11284657,555159493,Toronto,131268
-43.645603,-79.5899734,2,Rathburn Road (635),a,Rathburn Road,209,11281807,611444635,Toronto,131268
-43.6456547,-79.5902091,2,Centennial Park Boulevard (434),a,Centennial Park Boulevard,79,11284657,219390434,Toronto,131268
-43.6456986,-79.5874032,2,Pebble Valley Lane (960),a,Pebble Valley Lane,8,11288837,219523960,Toronto,131268
-43.645719,-79.5937081,2,Centennial Park Boulevard (445),a,Centennial Park Boulevard,79,11284657,219390445,Toronto,131268
-43.6457208,-79.5903451,2,Centennial Park Boulevard (494),a,Centennial Park Boulevard,79,11284657,555159494,Toronto,131268
-43.6457265,-79.5853756,2,Elmcrest Road (510),a,Elmcrest Road,21,11284658,219390510,Toronto,131268
-43.6457265,-79.5853756,2,Esposito Court (927),a,Esposito Court,18,11288834,219523927,Toronto,131268
-43.6457306,-79.5940969,2,Centennial Park Boulevard (446),a,Centennial Park Boulevard,79,11284657,219390446,Toronto,131268
-43.6457339,-79.5934382,2,Centennial Park Boulevard (444),a,Centennial Park Boulevard,79,11284657,219390444,Toronto,131268
-43.6457636,-79.5943626,2,Centennial Park Boulevard (495),a,Centennial Park Boulevard,79,11284657,555159495,Toronto,131268
-43.6457652,-79.5930384,2,Centennial Park Boulevard (443),a,Centennial Park Boulevard,79,11284657,219390443,Toronto,131268
-43.6457807,-79.5852866,2,Esposito Court (928),a,Esposito Court,18,11288834,219523928,Toronto,131268
-43.6457849,-79.5904991,2,Centennial Park Boulevard (435),a,Centennial Park Boulevard,79,11284657,219390435,Toronto,131268
-43.6457984,-79.5945773,2,Centennial Park Boulevard (447),a,Centennial Park Boulevard,79,11284657,219390447,Toronto,131268
-43.645801,-79.5852641,2,Esposito Court (518),a,Esposito Court,18,11288834,359114518,Toronto,131268
-43.6458337,-79.5922156,2,Centennial Park Boulevard (442),a,Centennial Park Boulevard,79,11284657,219390442,Toronto,131268
-43.6458345,-79.583851,2,Esposito Court (943),a,Esposito Court,18,11288834,219523943,Toronto,131268
-43.6458427,-79.5906913,2,Centennial Park Boulevard (436),a,Centennial Park Boulevard,79,11284657,219390436,Toronto,131268
-43.645848,-79.5947821,2,Centennial Park Boulevard (448),a,Centennial Park Boulevard,79,11284657,219390448,Toronto,131268
-43.6458631,-79.5917675,2,Centennial Park Boulevard (441),a,Centennial Park Boulevard,79,11284657,219390441,Toronto,131268
-43.6458769,-79.5851797,2,Esposito Court (929),a,Esposito Court,18,11288834,219523929,Toronto,131268
-43.6458826,-79.5909203,2,Centennial Park Boulevard (437),a,Centennial Park Boulevard,79,11284657,219390437,Toronto,131268
-43.6458874,-79.5895011,2,Rathburn Road (086),a,Rathburn Road,209,11281807,218895086,Toronto,131268
-43.6458875,-79.5914153,2,Centennial Park Boulevard (440),a,Centennial Park Boulevard,79,11284657,219390440,Toronto,131268
-43.6458973,-79.5910787,2,Centennial Park Boulevard (438),a,Centennial Park Boulevard,79,11284657,219390438,Toronto,131268
-43.6458984,-79.5912227,2,Centennial Park Boulevard (439),a,Centennial Park Boulevard,79,11284657,219390439,Toronto,131268
-43.6459108,-79.5949891,2,Centennial Park Boulevard (449),a,Centennial Park Boulevard,79,11284657,219390449,Toronto,131268
-43.6459225,-79.5839854,2,Esposito Court (942),a,Esposito Court,18,11288834,219523942,Toronto,131268
-43.6459483,-79.5840485,2,Esposito Court (941),a,Esposito Court,18,11288834,219523941,Toronto,131268
-43.6459706,-79.5841167,2,Esposito Court (940),a,Esposito Court,18,11288834,219523940,Toronto,131268
-43.6459755,-79.5841548,2,Esposito Court (939),a,Esposito Court,18,11288834,219523939,Toronto,131268
-43.6459765,-79.5850711,2,Esposito Court (930),a,Esposito Court,18,11288834,219523930,Toronto,131268
-43.6460183,-79.5850488,2,Esposito Court (931),a,Esposito Court,18,11288834,219523931,Toronto,131268
-43.6460227,-79.5850471,2,Esposito Court (932),a,Esposito Court,18,11288834,219523932,Toronto,131268
-43.6460315,-79.595302,2,Centennial Park Boulevard (450),a,Centennial Park Boulevard,79,11284657,219390450,Toronto,131268
-43.6460502,-79.5847729,2,Esposito Court (938),a,Esposito Court,18,11288834,219523938,Toronto,131268
-43.6460579,-79.5858142,2,Elmcrest Road (511),a,Elmcrest Road,21,11284658,219390511,Toronto,131268
-43.6460621,-79.5848451,2,Esposito Court (937),a,Esposito Court,18,11288834,219523937,Toronto,131268
-43.6460781,-79.5850256,2,Esposito Court (933),a,Esposito Court,18,11288834,219523933,Toronto,131268
-43.6460846,-79.5849068,2,Esposito Court (936),a,Esposito Court,18,11288834,219523936,Toronto,131268
-43.6460918,-79.5849842,2,Esposito Court (934),a,Esposito Court,18,11288834,219523934,Toronto,131268
-43.6460953,-79.5849735,2,Esposito Court (935),a,Esposito Court,18,11288834,219523935,Toronto,131268
-43.6461264,-79.5954962,2,Centennial Park Boulevard (451),a,Centennial Park Boulevard,79,11284657,219390451,Toronto,131268
-43.6461859,-79.5890062,2,Rathburn Road (085),a,Rathburn Road,209,11281807,218895085,Toronto,131268
-43.6462414,-79.5859274,2,Elmcrest Road (512),a,Elmcrest Road,21,11284658,219390512,Toronto,131268
-43.6462582,-79.5957136,2,Centennial Park Boulevard (452),a,Centennial Park Boulevard,79,11284657,219390452,Toronto,131268
-43.6463278,-79.5859691,2,Elmcrest Road (625),a,Elmcrest Road,21,11284658,502699625,Toronto,131268
-43.6463844,-79.5958862,2,Centennial Park Boulevard (496),a,Centennial Park Boulevard,79,11284657,555159496,Toronto,131268
-43.6465055,-79.5884765,2,Rathburn Road (084),a,Rathburn Road,209,11281807,218895084,Toronto,131268
-43.6465326,-79.5960616,2,Centennial Park Boulevard (453),a,Centennial Park Boulevard,79,11284657,219390453,Toronto,131268
-43.6465397,-79.5833413,2,Canerouth Drive (908),a,Canerouth Drive,20,11288833,219523908,Toronto,131268
-43.6466084,-79.6034949,2,Rakely Court (628),a,Rakely Court,15,11289647,219531628,Toronto,131268
-43.6466119,-79.583352,2,Canerouth Drive (909),a,Canerouth Drive,20,11288833,219523909,Toronto,131268
-43.6466451,-79.6037193,2,Rakely Court (627),a,Rakely Court,15,11289647,219531627,Toronto,131268
-43.6466558,-79.6084344,2,Eglinton Avenue West (864),a,Eglinton Avenue West,890,11280434,318950864,Toronto,131268
-43.6466662,-79.5833755,2,Canerouth Drive (910),a,Canerouth Drive,20,11288833,219523910,Toronto,131268
-43.6466759,-79.5962023,2,Centennial Park Boulevard (497),a,Centennial Park Boulevard,79,11284657,555159497,Toronto,131268
-43.6467062,-79.6038978,2,Rakely Court (626),a,Rakely Court,15,11289647,219531626,Toronto,131268
-43.6467298,-79.5834236,2,Canerouth Drive (911),a,Canerouth Drive,20,11288833,219523911,Toronto,131268
-43.6467754,-79.5834721,2,Canerouth Drive (912),a,Canerouth Drive,20,11288833,219523912,Toronto,131268
-43.6468144,-79.6041053,2,Rakely Court (625),a,Rakely Court,15,11289647,219531625,Toronto,131268
-43.6468215,-79.5835578,2,Canerouth Drive (913),a,Canerouth Drive,20,11288833,219523913,Toronto,131268
-43.6468441,-79.596343,2,Centennial Park Boulevard (454),a,Centennial Park Boulevard,79,11284657,219390454,Toronto,131268
-43.6468494,-79.5836316,2,Canerouth Drive (914),a,Canerouth Drive,20,11288833,219523914,Toronto,131268
-43.6468743,-79.5837126,2,Canerouth Drive (915),a,Canerouth Drive,20,11288833,219523915,Toronto,131268
-43.6469014,-79.5838245,2,Canerouth Drive (916),a,Canerouth Drive,20,11288833,219523916,Toronto,131268
-43.6469435,-79.5840109,2,Canerouth Drive (917),a,Canerouth Drive,20,11288833,219523917,Toronto,131268
-43.6469435,-79.5840109,2,Canerouth Drive (918),a,Canerouth Drive,20,11288833,219523918,Toronto,131268
-43.6469435,-79.5840109,2,Ivybridge Drive (946),a,Ivybridge Drive,10,11288836,219523946,Toronto,131268
-43.6469436,-79.5862665,2,Elmcrest Road (513),a,Elmcrest Road,21,11284658,219390513,Toronto,131268
-43.6469482,-79.5877427,2,Rathburn Road (083),a,Rathburn Road,209,11281807,218895083,Toronto,131268
-43.646968,-79.6043176,2,Rakely Court (624),a,Rakely Court,15,11289647,219531624,Toronto,131268
-43.646974,-79.5964253,2,Centennial Park Boulevard (498),a,Centennial Park Boulevard,79,11284657,555159498,Toronto,131268
-43.6470645,-79.6079998,2,Eglinton Avenue West (863),a,Eglinton Avenue West,890,11280434,318950863,Toronto,131268
-43.6470645,-79.6079998,2,Eglinton Avenue West (764),a,Eglinton Avenue West,890,11280434,318970764,Toronto,131268
-43.6471222,-79.5965045,2,Centennial Park Boulevard (455),a,Centennial Park Boulevard,79,11284657,219390455,Toronto,131268
-43.6471237,-79.6045341,2,Rakely Court (623),a,Rakely Court,15,11289647,219531623,Toronto,131268
-43.6471237,-79.6045341,2,Lone Oak Court (629),a,Lone Oak Court,10,11289648,219531629,Toronto,131268
-43.6471319,-79.5839348,2,Ivybridge Drive (947),a,Ivybridge Drive,10,11288836,219523947,Toronto,131268
-43.647135,-79.5849611,2,Canerouth Drive (919),a,Canerouth Drive,20,11288833,219523919,Toronto,131268
-43.6471578,-79.5850532,2,Canerouth Drive (920),a,Canerouth Drive,20,11288833,219523920,Toronto,131268
-43.647166,-79.6044687,2,Lone Oak Court (630),a,Lone Oak Court,10,11289648,219531630,Toronto,131268
-43.6471747,-79.5850926,2,Canerouth Drive (921),a,Canerouth Drive,20,11288833,219523921,Toronto,131268
-43.6471972,-79.5851225,2,Canerouth Drive (922),a,Canerouth Drive,20,11288833,219523922,Toronto,131268
-43.6471997,-79.5839194,2,Ivybridge Drive (948),a,Ivybridge Drive,10,11288836,219523948,Toronto,131268
-43.6472252,-79.5965513,2,Centennial Park Boulevard (499),a,Centennial Park Boulevard,79,11284657,555159499,Toronto,131268
-43.6472412,-79.5839238,2,Ivybridge Drive (949),a,Ivybridge Drive,10,11288836,219523949,Toronto,131268
-43.6472441,-79.6043478,2,Lone Oak Court (631),a,Lone Oak Court,10,11289648,219531631,Toronto,131268
-43.6472788,-79.5839454,2,Ivybridge Drive (950),a,Ivybridge Drive,10,11288836,219523950,Toronto,131268
-43.6473261,-79.5839886,2,Ivybridge Drive (951),a,Ivybridge Drive,10,11288836,219523951,Toronto,131268
-43.6473408,-79.5965946,2,Centennial Park Boulevard (456),a,Centennial Park Boulevard,79,11284657,219390456,Toronto,131268
-43.6474179,-79.5840728,2,Ivybridge Drive (952),a,Ivybridge Drive,10,11288836,219523952,Toronto,131268
-43.6474497,-79.5867605,2,Elmcrest Road (031),a,Elmcrest Road,21,11284658,505455031,Toronto,131268
-43.6474705,-79.5869275,2,Rathburn Road (517),a,Rathburn Road,209,11281807,555158517,Toronto,131268
-43.64748,-79.5966309,2,Centennial Park Boulevard (500),a,Centennial Park Boulevard,79,11284657,555159500,Toronto,131268
-43.6475281,-79.5868374,2,Rathburn Road (082),a,Rathburn Road,209,11281807,218895082,Toronto,131268
-43.6475281,-79.5868374,2,Elmcrest Road (514),a,Elmcrest Road,21,11284658,219390514,Toronto,131268
-43.6475281,-79.5868374,2,Elmcrest Road (515),a,Elmcrest Road,21,11284658,219390515,Toronto,131268
-43.6475737,-79.5854997,2,Canerouth Drive (923),a,Canerouth Drive,20,11288833,219523923,Toronto,131268
-43.6475757,-79.5867591,2,Rathburn Road (518),a,Rathburn Road,209,11281807,555158518,Toronto,131268
-43.647587,-79.586906,2,Elmcrest Road (650),a,Elmcrest Road,21,11284658,611444650,Toronto,131268
-43.6476388,-79.5966566,2,Centennial Park Boulevard (457),a,Centennial Park Boulevard,79,11284657,219390457,Toronto,131268
-43.6477899,-79.5825059,2,Warlingham Court (984),a,Warlingham Court,18,11288839,219523984,Toronto,131268
-43.6477912,-79.6051789,2,Rakely Court (622),a,Rakely Court,15,11289647,219531622,Toronto,131268
-43.6477949,-79.596669,2,Centennial Park Boulevard (501),a,Centennial Park Boulevard,79,11284657,555159501,Toronto,131268
-43.6477981,-79.5824437,2,Warlingham Court (983),a,Warlingham Court,18,11288839,219523983,Toronto,131268
-43.6478178,-79.5825796,2,Warlingham Court (985),a,Warlingham Court,18,11288839,219523985,Toronto,131268
-43.6478245,-79.5823935,2,Warlingham Court (982),a,Warlingham Court,18,11288839,219523982,Toronto,131268
-43.647826,-79.5857923,2,Canerouth Drive (924),a,Canerouth Drive,20,11288833,219523924,Toronto,131268
-43.6478374,-79.603629,2,Lone Oak Court (751),a,Lone Oak Court,10,11289648,496702751,Toronto,131268
-43.6478455,-79.6036191,2,Lone Oak Court (632),a,Lone Oak Court,10,11289648,219531632,Toronto,131268
-43.6478631,-79.5826034,2,Warlingham Court (986),a,Warlingham Court,18,11288839,219523986,Toronto,131268
-43.6478689,-79.5823429,2,Warlingham Court (981),a,Warlingham Court,18,11288839,219523981,Toronto,131268
-43.6478995,-79.5826273,2,Warlingham Court (987),a,Warlingham Court,18,11288839,219523987,Toronto,131268
-43.6479136,-79.5858934,2,Canerouth Drive (925),a,Canerouth Drive,20,11288833,219523925,Toronto,131268
-43.647922,-79.5822672,2,Warlingham Court (980),a,Warlingham Court,18,11288839,219523980,Toronto,131268
-43.6479238,-79.5859051,2,Canerouth Drive (724),a,Canerouth Drive,20,11288833,505455724,Toronto,131268
-43.6479448,-79.6053321,2,Rakely Court (621),a,Rakely Court,15,11289647,219531621,Toronto,131268
-43.6479655,-79.5821422,2,Warlingham Court (979),a,Warlingham Court,18,11288839,219523979,Toronto,131268
-43.6479737,-79.5966603,2,Centennial Park Boulevard (458),a,Centennial Park Boulevard,79,11284657,219390458,Toronto,131268
-43.6480136,-79.5820381,2,Warlingham Court (978),a,Warlingham Court,18,11288839,219523978,Toronto,131268
-43.6480213,-79.6054153,2,Rakely Court (620),a,Rakely Court,15,11289647,219531620,Toronto,131268
-43.6480233,-79.5860197,2,Rathburn Road (081),a,Rathburn Road,209,11281807,218895081,Toronto,131268
-43.6480233,-79.5860197,2,Canerouth Drive (926),a,Canerouth Drive,20,11288833,219523926,Toronto,131268
-43.6480527,-79.5819169,2,Warlingham Court (977),a,Warlingham Court,18,11288839,219523977,Toronto,131268
-43.6480963,-79.5818043,2,Warlingham Court (976),a,Warlingham Court,18,11288839,219523976,Toronto,131268
-43.6481151,-79.5966391,2,Centennial Park Boulevard (502),a,Centennial Park Boulevard,79,11284657,555159502,Toronto,131268
-43.6481334,-79.5816792,2,Warlingham Court (614),a,Warlingham Court,18,11288839,391665614,Toronto,131268
-43.6481391,-79.5816601,2,Warlingham Court (726),a,Warlingham Court,18,11288839,505455726,Toronto,131268
-43.6481574,-79.6055633,2,Rakely Court (619),a,Rakely Court,15,11289647,219531619,Toronto,131268
-43.6481679,-79.5815631,2,Melbert Road (551),a,Melbert Road,15,11285053,219403551,Toronto,131268
-43.6481679,-79.5815631,2,Warlingham Court (974),a,Warlingham Court,18,11288839,219523974,Toronto,131268
-43.6482081,-79.5966174,2,Centennial Park Boulevard (459),a,Centennial Park Boulevard,79,11284657,219390459,Toronto,131268
-43.6482086,-79.6056328,2,Rakely Court (618),a,Rakely Court,15,11289647,219531618,Toronto,131268
-43.6483211,-79.603048,2,Lone Oak Court (633),a,Lone Oak Court,10,11289648,219531633,Toronto,131268
-43.6483543,-79.6058306,2,Rakely Court (617),a,Rakely Court,15,11289647,219531617,Toronto,131268
-43.6483732,-79.583075,2,Warlingham Court (988),a,Warlingham Court,18,11288839,219523988,Toronto,131268
-43.6483937,-79.6029575,2,Lone Oak Court (634),a,Lone Oak Court,10,11289648,219531634,Toronto,131268
-43.648397,-79.5850419,2,Ivybridge Drive (953),a,Ivybridge Drive,10,11288836,219523953,Toronto,131268
-43.6484199,-79.5880476,2,Elmcrest Road (516),a,Elmcrest Road,21,11284658,219390516,Toronto,131268
-43.648428,-79.5831357,2,Warlingham Court (989),a,Warlingham Court,18,11288839,219523989,Toronto,131268
-43.6484342,-79.5850764,2,Ivybridge Drive (725),a,Ivybridge Drive,10,11288836,505455725,Toronto,131268
-43.6484614,-79.5782555,2,Renforth Drive (351),a,Renforth Drive,327,11279308,218763351,Toronto,131268
-43.648468,-79.5965287,2,Centennial Park Boulevard (460),a,Centennial Park Boulevard,79,11284657,219390460,Toronto,131268
-43.6484742,-79.602884,2,Lone Oak Court (635),a,Lone Oak Court,10,11289648,219531635,Toronto,131268
-43.6484768,-79.6060231,2,Rakely Court (616),a,Rakely Court,15,11289647,219531616,Toronto,131268
-43.648539,-79.5851781,2,Rathburn Road (080),a,Rathburn Road,209,11281807,218895080,Toronto,131268
-43.648539,-79.5851781,2,Ivybridge Drive (954),a,Ivybridge Drive,10,11288836,219523954,Toronto,131268
-43.6485427,-79.6028478,2,Lone Oak Court (636),a,Lone Oak Court,10,11289648,219531636,Toronto,131268
-43.6485482,-79.6061503,2,Rakely Court (629),a,Rakely Court,15,11289647,561865629,Toronto,131268
-43.6485633,-79.5831573,2,Warlingham Court (990),a,Warlingham Court,18,11288839,219523990,Toronto,131268
-43.648564,-79.6061782,2,Rakely Court (615),a,Rakely Court,15,11289647,219531615,Toronto,131268
-43.6486325,-79.6028318,2,Lone Oak Court (637),a,Lone Oak Court,10,11289648,219531637,Toronto,131268
-43.6486461,-79.5783344,2,Renforth Drive (350),a,Renforth Drive,327,11279308,218763350,Toronto,131268
-43.6486807,-79.5849271,2,Rathburn Road (079),a,Rathburn Road,209,11281807,218895079,Toronto,131268
-43.6487271,-79.5963812,2,Centennial Park Boulevard (461),a,Centennial Park Boulevard,79,11284657,219390461,Toronto,131268
-43.6487394,-79.5884815,2,Elmcrest Road (517),a,Elmcrest Road,21,11284658,219390517,Toronto,131268
-43.6487818,-79.581939,2,Melbert Road (552),a,Melbert Road,15,11285053,219403552,Toronto,131268
-43.6488217,-79.5846913,2,Rathburn Road (078),a,Rathburn Road,209,11281807,218895078,Toronto,131268
-43.6490168,-79.5784979,2,Renforth Drive (349),a,Renforth Drive,327,11279308,218763349,Toronto,131268
-43.6490748,-79.5821184,2,Melbert Road (553),a,Melbert Road,15,11285053,219403553,Toronto,131268
-43.6491853,-79.5821861,2,Melbert Road (254),a,Melbert Road,15,11285053,432432254,Toronto,131268
-43.6493439,-79.5893025,2,Elmcrest Road (518),a,Elmcrest Road,21,11284658,219390518,Toronto,131268
-43.6494808,-79.5836364,2,Rathburn Road (077),a,Rathburn Road,209,11281807,218895077,Toronto,131268
-43.6494808,-79.5836364,2,Rathburn Road (125),a,Rathburn Road,209,11281807,218895125,Toronto,131268
-43.6495031,-79.5895188,2,Elmcrest Road (519),a,Elmcrest Road,21,11284658,219390519,Toronto,131268
-43.649752,-79.5831864,2,Rathburn Road (651),a,Rathburn Road,209,11281807,611444651,Toronto,131268
-43.649752,-79.5831864,2,Rathburn Road (652),a,Rathburn Road,209,11281807,611444652,Toronto,131268
-43.6497924,-79.5899572,2,Elmcrest Road (520),a,Elmcrest Road,21,11284658,219390520,Toronto,131268
-43.6498086,-79.5830892,2,Rathburn Road (187),a,Rathburn Road,209,11281807,218895187,Toronto,131268
-43.6498402,-79.5830365,2,Rathburn Road (186),a,Rathburn Road,209,11281807,218895186,Toronto,131268
-43.6498402,-79.5830365,2,Rathburn Road (190),a,Rathburn Road,209,11281807,218895190,Toronto,131268
-43.6498777,-79.5900748,2,Elmcrest Road (521),a,Elmcrest Road,21,11284658,219390521,Toronto,131268
-43.6498996,-79.5826235,2,Melbert Road (461),a,Melbert Road,15,11285053,318917461,Toronto,131268
-43.6499241,-79.5826437,2,Melbert Road (251),a,Melbert Road,15,11285053,432432251,Toronto,131268
-43.6499498,-79.5828554,2,Rathburn Road (098),a,Rathburn Road,209,11281807,218895098,Toronto,131268
-43.6499498,-79.5828554,2,Rathburn Road (189),a,Rathburn Road,209,11281807,218895189,Toronto,131268
-43.6499536,-79.5955969,2,Centennial Park Boulevard (503),a,Centennial Park Boulevard,79,11284657,555159503,Toronto,131268
-43.6500036,-79.5902483,2,Elmcrest Road (522),a,Elmcrest Road,21,11284658,219390522,Toronto,131268
-43.6500252,-79.5827291,2,Rathburn Road (097),a,Rathburn Road,209,11281807,218895097,Toronto,131268
-43.6500252,-79.5827291,2,Melbert Road (554),a,Melbert Road,15,11285053,219403554,Toronto,131268
-43.6501767,-79.5954508,2,Centennial Park Boulevard (462),a,Centennial Park Boulevard,79,11284657,219390462,Toronto,131268
-43.6502966,-79.595364,2,Centennial Park Boulevard (504),a,Centennial Park Boulevard,79,11284657,555159504,Toronto,131268
-43.6504163,-79.5952663,2,Centennial Park Boulevard (463),a,Centennial Park Boulevard,79,11284657,219390463,Toronto,131268
-43.6504645,-79.5820296,2,Rathburn Road (096),a,Rathburn Road,209,11281807,218895096,Toronto,131268
-43.6504944,-79.58198,2,Rathburn Road (095),a,Rathburn Road,209,11281807,218895095,Toronto,131268
-43.6506146,-79.5950875,2,Centennial Park Boulevard (464),a,Centennial Park Boulevard,79,11284657,219390464,Toronto,131268
-43.6506881,-79.6040395,2,Eglinton Avenue West (343),a,Eglinton Avenue West,890,11280434,611459343,Toronto,131268
-43.6507913,-79.5814873,2,Rathburn Road (094),a,Rathburn Road,209,11281807,218895094,Toronto,131268
-43.6508244,-79.5948615,2,Centennial Park Boulevard (505),a,Centennial Park Boulevard,79,11284657,555159505,Toronto,131268
-43.6508265,-79.5814289,2,Rathburn Road (093),a,Rathburn Road,209,11281807,218895093,Toronto,131268
-43.650905,-79.6038018,2,Eglinton Avenue West (016),a,Eglinton Avenue West,890,11280434,318968016,Toronto,131268
-43.650905,-79.6038018,2,Eglinton Avenue West (342),a,Eglinton Avenue West,890,11280434,611459342,Toronto,131268
-43.6509462,-79.5812061,2,Rathburn Road (092),a,Rathburn Road,209,11281807,218895092,Toronto,131268
-43.6509462,-79.5812061,2,Rathburn Road (133),a,Rathburn Road,209,11281807,218895133,Toronto,131268
-43.6509462,-79.5812061,2,Centennial Park Road (874),a,Centennial Park Road,29,11284642,219389874,Toronto,131268
-43.6509772,-79.5946853,2,Centennial Park Boulevard (465),a,Centennial Park Boulevard,79,11284657,219390465,Toronto,131268
-43.6510872,-79.5808722,2,Rathburn Road (132),a,Rathburn Road,209,11281807,218895132,Toronto,131268
-43.651092,-79.5812933,2,Centennial Park Road (875),a,Centennial Park Road,29,11284642,219389875,Toronto,131268
-43.651108,-79.5813022,2,Centennial Park Road (059),a,Centennial Park Road,29,11284642,336615059,Toronto,131268
-43.6511787,-79.6035018,2,Eglinton Avenue West (292),a,Eglinton Avenue West,890,11280434,218846292,Toronto,131268
-43.6511787,-79.6035018,2,Eglinton Avenue West (341),a,Eglinton Avenue West,890,11280434,611459341,Toronto,131268
-43.6511787,-79.6035018,2,Eglinton Avenue West (344),a,Eglinton Avenue West,890,11280434,611459344,Toronto,131268
-43.651207,-79.580465,2,Rathburn Road (131),a,Rathburn Road,209,11281807,218895131,Toronto,131268
-43.651207,-79.580465,2,Rathburn Road (148),a,Rathburn Road,209,11281807,218895148,Toronto,131268
-43.6512135,-79.5802278,2,Rathburn Road (059),a,Rathburn Road,209,11281807,218895059,Toronto,131268
-43.6512157,-79.6034079,2,Eglinton Avenue West (293),a,Eglinton Avenue West,890,11280434,218846293,Toronto,131268
-43.6512383,-79.580336,2,Rathburn Road (058),a,Rathburn Road,209,11281807,218895058,Toronto,131268
-43.6512383,-79.580336,2,Rathburn Road (147),a,Rathburn Road,209,11281807,218895147,Toronto,131268
-43.6512383,-79.580336,2,Rathburn Road (154),a,Rathburn Road,209,11281807,218895154,Toronto,131268
-43.651242,-79.5943809,2,Centennial Park Boulevard (466),a,Centennial Park Boulevard,79,11284657,219390466,Toronto,131268
-43.6513086,-79.5802652,2,Rathburn Road (153),a,Rathburn Road,209,11281807,218895153,Toronto,131268
-43.6513787,-79.5942401,2,Centennial Park Boulevard (506),a,Centennial Park Boulevard,79,11284657,555159506,Toronto,131268
-43.6514366,-79.603166,2,Eglinton Avenue West (542),a,Eglinton Avenue West,890,11280434,406363542,Toronto,131268
-43.6514568,-79.5796653,2,Rathburn Road (152),a,Rathburn Road,209,11281807,218895152,Toronto,131268
-43.6514939,-79.5941533,2,Centennial Park Boulevard (507),a,Centennial Park Boulevard,79,11284657,555159507,Toronto,131268
-43.651545,-79.6030472,2,Eglinton Avenue West (287),a,Eglinton Avenue West,890,11280434,218846287,Toronto,131268
-43.651545,-79.6030472,2,Eglinton Avenue West (294),a,Eglinton Avenue West,890,11280434,218846294,Toronto,131268
-43.651545,-79.6030472,2,Satellite Drive (217),a,Satellite Drive,2,11290191,219537217,Toronto,131268
-43.6515511,-79.5795852,2,Renforth Drive (430),a,Renforth Drive,327,11279308,218763430,Toronto,131268
-43.6515646,-79.6030787,2,Satellite Drive (218),a,Satellite Drive,2,11290191,219537218,Toronto,131268
-43.651573,-79.5794752,2,Renforth Drive (434),a,Renforth Drive,327,11279308,218763434,Toronto,131268
-43.651607,-79.5940813,2,Centennial Park Boulevard (467),a,Centennial Park Boulevard,79,11284657,219390467,Toronto,131268
-43.6516659,-79.6029179,2,Eglinton Avenue West (541),a,Eglinton Avenue West,890,11280434,406363541,Toronto,131268
-43.6516784,-79.5816267,2,Centennial Park Road (876),a,Centennial Park Road,29,11284642,219389876,Toronto,131268
-43.6517544,-79.5940105,2,Centennial Park Boulevard (508),a,Centennial Park Boulevard,79,11284657,555159508,Toronto,131268
-43.651762,-79.5796528,2,Renforth Drive (429),a,Renforth Drive,327,11279308,218763429,Toronto,131268
-43.6517683,-79.5795372,2,Renforth Drive (435),a,Renforth Drive,327,11279308,218763435,Toronto,131268
-43.6518334,-79.5796135,2,Renforth Drive (419),a,Renforth Drive,327,11279308,218763419,Toronto,131268
-43.6518334,-79.5796135,2,Renforth Drive (428),a,Renforth Drive,327,11279308,218763428,Toronto,131268
-43.6518334,-79.5796135,2,Renforth Drive (436),a,Renforth Drive,327,11279308,218763436,Toronto,131268
-43.6519158,-79.5939607,2,Centennial Park Boulevard (468),a,Centennial Park Boulevard,79,11284657,219390468,Toronto,131268
-43.6519791,-79.5939471,2,Centennial Park Boulevard (105),a,Centennial Park Boulevard,79,11284657,508739105,Toronto,131268
-43.6519923,-79.5939451,2,Centennial Park Boulevard (469),a,Centennial Park Boulevard,79,11284657,219390469,Toronto,131268
-43.6520805,-79.5939336,2,Centennial Park Boulevard (510),a,Centennial Park Boulevard,79,11284657,555159510,Toronto,131268
-43.6521265,-79.5818809,2,Centennial Park Road (877),a,Centennial Park Road,29,11284642,219389877,Toronto,131268
-43.6521675,-79.5939303,2,Centennial Park Boulevard (509),a,Centennial Park Boulevard,79,11284657,555159509,Toronto,131268
-43.6521837,-79.60234,2,Eglinton Avenue West (288),a,Eglinton Avenue West,890,11280434,218846288,Toronto,131268
-43.6522426,-79.5939328,2,Centennial Park Boulevard (470),a,Centennial Park Boulevard,79,11284657,219390470,Toronto,131268
-43.6523539,-79.5798543,2,Renforth Drive (418),a,Renforth Drive,327,11279308,218763418,Toronto,131268
-43.6523539,-79.5798543,2,Renforth Drive (441),a,Renforth Drive,327,11279308,218763441,Toronto,131268
-43.6523753,-79.6021269,2,Eglinton Avenue West (289),a,Eglinton Avenue West,890,11280434,218846289,Toronto,131268
-43.6524026,-79.5939652,2,Centennial Park Boulevard (511),a,Centennial Park Boulevard,79,11284657,555159511,Toronto,131268
-43.6525293,-79.5940102,2,Centennial Park Boulevard (471),a,Centennial Park Boulevard,79,11284657,219390471,Toronto,131268
-43.6525655,-79.5821338,2,Centennial Park Road (878),a,Centennial Park Road,29,11284642,219389878,Toronto,131268
-43.6526284,-79.5940521,2,Centennial Park Boulevard (512),a,Centennial Park Boulevard,79,11284657,555159512,Toronto,131268
-43.6526533,-79.5940662,2,Centennial Park Boulevard (567),a,Centennial Park Boulevard,79,11284657,611458567,Toronto,131268
-43.6526666,-79.5821901,2,Centennial Park Road (879),a,Centennial Park Road,29,11284642,219389879,Toronto,131268
-43.6527252,-79.5941068,2,Centennial Park Boulevard (472),a,Centennial Park Boulevard,79,11284657,219390472,Toronto,131268
-43.6528293,-79.5941797,2,Centennial Park Boulevard (513),a,Centennial Park Boulevard,79,11284657,555159513,Toronto,131268
-43.6528719,-79.5801013,2,Renforth Drive (440),a,Renforth Drive,327,11279308,218763440,Toronto,131268
-43.6529068,-79.5823299,2,Centennial Park Road (781),a,Centennial Park Road,29,11284642,496701781,Toronto,131268
-43.6529334,-79.5942661,2,Centennial Park Boulevard (473),a,Centennial Park Boulevard,79,11284657,219390473,Toronto,131268
-43.6530425,-79.594378,2,Centennial Park Boulevard (474),a,Centennial Park Boulevard,79,11284657,219390474,Toronto,131268
-43.6530857,-79.5801929,2,Renforth Drive (439),a,Renforth Drive,327,11279308,218763439,Toronto,131268
-43.6530857,-79.5801929,2,Torrington Drive (172),a,Torrington Drive,18,11289961,219535172,Toronto,131268
-43.6531194,-79.5800386,2,Torrington Drive (441),a,Torrington Drive,18,11289961,611453441,Toronto,131268
-43.6531305,-79.5799872,2,Torrington Drive (173),a,Torrington Drive,18,11289961,219535173,Toronto,131268
-43.6531472,-79.5824662,2,Centennial Park Road (880),a,Centennial Park Road,29,11284642,219389880,Toronto,131268
-43.6531988,-79.5945856,2,Centennial Park Boulevard (514),a,Centennial Park Boulevard,79,11284657,555159514,Toronto,131268
-43.6532733,-79.5825378,2,Centennial Park Road (782),a,Centennial Park Road,29,11284642,496701782,Toronto,131268
-43.6533717,-79.5803266,2,Renforth Drive (438),a,Renforth Drive,327,11279308,218763438,Toronto,131268
-43.6534684,-79.5949634,2,Centennial Park Boulevard (475),a,Centennial Park Boulevard,79,11284657,219390475,Toronto,131268
-43.6537056,-79.5804827,2,Renforth Drive (423),a,Renforth Drive,327,11279308,218763423,Toronto,131268
-43.6537056,-79.5804827,2,Renforth Drive (437),a,Renforth Drive,327,11279308,218763437,Toronto,131268
-43.6537338,-79.5804974,2,Renforth Drive (422),a,Renforth Drive,327,11279308,218763422,Toronto,131268
-43.6537445,-79.5828046,2,Centennial Park Road (881),a,Centennial Park Road,29,11284642,219389881,Toronto,131268
-43.6538287,-79.5954706,2,Centennial Park Boulevard (476),a,Centennial Park Boulevard,79,11284657,219390476,Toronto,131268
-43.6538616,-79.5805589,2,Renforth Drive (421),a,Renforth Drive,327,11279308,218763421,Toronto,131268
-43.6538635,-79.5828699,2,Centennial Park Road (482),a,Centennial Park Road,29,11284642,611453482,Toronto,131268
-43.6538635,-79.5828699,2,Centennial Park Gate (477),a,Centennial Park Gate,7,11284643,611453477,Toronto,131268
-43.653884,-79.582781,2,Centennial Park Gate (478),a,Centennial Park Gate,7,11284643,611453478,Toronto,131268
-43.6538899,-79.5827556,2,Centennial Park Gate (479),a,Centennial Park Gate,7,11284643,611453479,Toronto,131268
-43.6540491,-79.5957821,2,Centennial Park Boulevard (477),a,Centennial Park Boulevard,79,11284657,219390477,Toronto,131268
-43.6540817,-79.5819149,2,Centennial Park Gate (480),a,Centennial Park Gate,7,11284643,611453480,Toronto,131268
-43.6542987,-79.5809593,2,Centennial Park Gate (939),a,Centennial Park Gate,7,11284643,219389939,Toronto,131268
-43.6543048,-79.5809313,2,Centennial Park Gate (481),a,Centennial Park Gate,7,11284643,611453481,Toronto,131268
-43.6543378,-79.5807825,2,Renforth Drive (420),a,Renforth Drive,327,11279308,218763420,Toronto,131268
-43.6543378,-79.5807825,2,Renforth Drive (498),a,Renforth Drive,327,11279308,611453498,Toronto,131268
-43.6543378,-79.5807825,2,Centennial Park Gate (940),a,Centennial Park Gate,7,11284643,219389940,Toronto,131268
-43.6544221,-79.5808187,2,Renforth Drive (497),a,Renforth Drive,327,11279308,611453497,Toronto,131268
-43.6546237,-79.5833085,2,Centennial Park Road (883),a,Centennial Park Road,29,11284642,219389883,Toronto,131268
-43.6549585,-79.5970608,2,Centennial Park Boulevard (478),a,Centennial Park Boulevard,79,11284657,219390478,Toronto,131268
-43.6549731,-79.5835187,2,Centennial Park Road (884),a,Centennial Park Road,29,11284642,219389884,Toronto,131268
-43.6550241,-79.5754411,2,Wellesworth Drive (212),a,Wellesworth Drive,80,11284656,219390212,Toronto,131268
-43.6550374,-79.5760346,2,Wellesworth Drive (213),a,Wellesworth Drive,80,11284656,219390213,Toronto,131268
-43.6550641,-79.5749626,2,Wellesworth Drive (211),a,Wellesworth Drive,80,11284656,219390211,Toronto,131268
-43.6550934,-79.583605,2,Centennial Park Road (885),a,Centennial Park Road,29,11284642,219389885,Toronto,131268
-43.6551397,-79.5973293,2,Centennial Park Boulevard (399),a,Centennial Park Boulevard,79,11284657,219390399,Toronto,131268
-43.6551397,-79.5973293,2,Centennial Park Boulevard (479),a,Centennial Park Boulevard,79,11284657,219390479,Toronto,131268
-43.6551867,-79.5837019,2,Centennial Park Road (886),a,Centennial Park Road,29,11284642,219389886,Toronto,131268
-43.6553416,-79.5988907,2,Eglinton Avenue West (428),a,Eglinton Avenue West,890,11280434,218846428,Toronto,131268
-43.6553478,-79.5838977,2,Centennial Park Road (888),a,Centennial Park Road,29,11284642,219389888,Toronto,131268
-43.6556261,-79.5985208,2,Eglinton Avenue West (429),a,Eglinton Avenue West,890,11280434,218846429,Toronto,131268
-43.6557081,-79.5981261,2,Centennial Park Boulevard (400),a,Centennial Park Boulevard,79,11284657,219390400,Toronto,131268
-43.6557287,-79.5983938,2,Eglinton Avenue West (425),a,Eglinton Avenue West,890,11280434,218846425,Toronto,131268
-43.6557287,-79.5983938,2,Eglinton Avenue West (430),a,Eglinton Avenue West,890,11280434,218846430,Toronto,131268
-43.6557287,-79.5983938,2,Centennial Park Boulevard (486),a,Centennial Park Boulevard,79,11284657,219390486,Toronto,131268
-43.6557639,-79.5843123,2,Centennial Park Road (890),a,Centennial Park Road,29,11284642,219389890,Toronto,131268
-43.6557685,-79.5984663,2,Centennial Park Boulevard (485),a,Centennial Park Boulevard,79,11284657,219390485,Toronto,131268
-43.6557685,-79.5984663,2,Orbitor Drive (880),a,Orbitor Drive,2,15615120,318969880,Toronto,131268
-43.6557697,-79.5982178,2,Centennial Park Boulevard (401),a,Centennial Park Boulevard,79,11284657,219390401,Toronto,131268
-43.6558151,-79.584383,2,Centennial Park Road (483),a,Centennial Park Road,29,11284642,611453483,Toronto,131268
-43.655817,-79.5982901,2,Eglinton Avenue West (426),a,Eglinton Avenue West,890,11280434,218846426,Toronto,131268
-43.655817,-79.5982901,2,Eglinton Avenue West (431),a,Eglinton Avenue West,890,11280434,218846431,Toronto,131268
-43.655817,-79.5982901,2,Centennial Park Boulevard (402),a,Centennial Park Boulevard,79,11284657,219390402,Toronto,131268
-43.655817,-79.5982901,2,Centennial Park Boulevard (487),a,Centennial Park Boulevard,79,11284657,219390487,Toronto,131268
-43.6558636,-79.598369,2,Centennial Park Boulevard (488),a,Centennial Park Boulevard,79,11284657,219390488,Toronto,131268
-43.6558636,-79.598369,2,Orbitor Drive (883),a,Orbitor Drive,2,15615120,318969883,Toronto,131268
-43.655897,-79.5602168,2,Rathburn Road (220),a,Rathburn Road,209,11281807,611453220,Toronto,131268
-43.655897,-79.5602168,2,Rathburn Road (226),a,Rathburn Road,209,11281807,611453226,Toronto,131268
-43.6559022,-79.5982053,2,Eglinton Avenue West (568),a,Eglinton Avenue West,890,11280434,611458568,Toronto,131268
-43.6559212,-79.5981864,2,Eglinton Avenue West (569),a,Eglinton Avenue West,890,11280434,611458569,Toronto,131268
-43.6560537,-79.5815557,2,Renforth Drive (496),a,Renforth Drive,327,11279308,611453496,Toronto,131268
-43.6561232,-79.584808,2,Centennial Park Road (891),a,Centennial Park Road,29,11284642,219389891,Toronto,131268
-43.6561532,-79.5848471,2,Centennial Park Road (892),a,Centennial Park Road,29,11284642,219389892,Toronto,131268
-43.6561729,-79.584874,2,Centennial Park Road (484),a,Centennial Park Road,29,11284642,611453484,Toronto,131268
-43.6561864,-79.5590393,2,Rathburn Road (072),a,Rathburn Road,209,11281807,218895072,Toronto,131268
-43.6562188,-79.5978595,2,Eglinton Avenue West (433),a,Eglinton Avenue West,890,11280434,218846433,Toronto,131268
-43.6563392,-79.5978174,2,Eglinton Avenue West (434),a,Eglinton Avenue West,890,11280434,218846434,Toronto,131268
-43.6563392,-79.5978174,2,Eglinton Avenue West (570),a,Eglinton Avenue West,890,11280434,611458570,Toronto,131268
-43.6563392,-79.5978174,2,Eglinton Avenue West (571),a,Eglinton Avenue West,890,11280434,611458571,Toronto,131268
-43.6566354,-79.5974725,2,Eglinton Avenue West (931),a,Eglinton Avenue West,890,11280434,496699931,Toronto,131268
-43.6566354,-79.5974725,2,Eglinton Avenue West (974),a,Eglinton Avenue West,890,11280434,496699974,Toronto,131268
-43.6568372,-79.585792,2,Centennial Park Road (485),a,Centennial Park Road,29,11284642,611453485,Toronto,131268
-43.6569854,-79.597065,2,Eglinton Avenue West (658),a,Eglinton Avenue West,890,11280434,318969658,Toronto,131268
-43.6571728,-79.5850289,2,Lafferty Street (126),a,Lafferty Street,11,11289958,219535126,Toronto,131268
-43.6571839,-79.5848875,2,Lafferty Street (127),a,Lafferty Street,11,11289958,219535127,Toronto,131268
-43.6572061,-79.585151,2,Lafferty Street (125),a,Lafferty Street,11,11289958,219535125,Toronto,131268
-43.65747,-79.5822026,2,Renforth Drive (493),a,Renforth Drive,327,11279308,611453493,Toronto,131268
-43.6574871,-79.5870872,2,Centennial Park Road (489),a,Centennial Park Road,29,11284642,611453489,Toronto,131268
-43.6575417,-79.5870144,2,Centennial Park Road (488),a,Centennial Park Road,29,11284642,611453488,Toronto,131268
-43.6575583,-79.5869844,2,Centennial Park Road (487),a,Centennial Park Road,29,11284642,611453487,Toronto,131268
-43.6575698,-79.5868093,2,Centennial Park Road (896),a,Centennial Park Road,29,11284642,219389896,Toronto,131268
-43.6575724,-79.5869467,2,Centennial Park Road (486),a,Centennial Park Road,29,11284642,611453486,Toronto,131268
-43.6575833,-79.586883,2,Centennial Park Road (897),a,Centennial Park Road,29,11284642,219389897,Toronto,131268
-43.6576456,-79.5829977,2,Lafferty Street (128),a,Lafferty Street,11,11289958,219535128,Toronto,131268
-43.6576456,-79.5822837,2,Renforth Drive (492),a,Renforth Drive,327,11279308,611453492,Toronto,131268
-43.6577545,-79.5825357,2,Lafferty Street (886),a,Lafferty Street,11,11289958,611455886,Toronto,131268
-43.657762,-79.5824998,2,Lafferty Street (887),a,Lafferty Street,11,11289958,611455887,Toronto,131268
-43.657778,-79.5859475,2,Lafferty Street (124),a,Lafferty Street,11,11289958,219535124,Toronto,131268
-43.6577942,-79.5823511,2,Renforth Drive (491),a,Renforth Drive,327,11279308,611453491,Toronto,131268
-43.6577942,-79.5823511,2,Lafferty Street (888),a,Lafferty Street,11,11289958,611455888,Toronto,131268
-43.6579018,-79.5860512,2,Lafferty Street (123),a,Lafferty Street,11,11289958,219535123,Toronto,131268
-43.6579018,-79.5860512,2,Persimmon Court (130),a,Persimmon Court,2,11289959,219535130,Toronto,131268
-43.6579224,-79.5779386,2,Wellesworth Drive (225),a,Wellesworth Drive,80,11284656,219390225,Toronto,131268
-43.6579809,-79.5861119,2,Lafferty Street (122),a,Lafferty Street,11,11289958,219535122,Toronto,131268
-43.6580258,-79.5959782,2,Eglinton Avenue West (551),a,Eglinton Avenue West,890,11280434,406363551,Toronto,131268
-43.6580918,-79.5852643,2,Persimmon Court (131),a,Persimmon Court,2,11289959,219535131,Toronto,131268
-43.6581115,-79.5842101,2,Newington Crescent (226),a,Newington Crescent,26,11288794,219523226,Toronto,131268
-43.6581199,-79.5841603,2,Newington Crescent (227),a,Newington Crescent,26,11288794,219523227,Toronto,131268
-43.658121,-79.5842471,2,Newington Crescent (225),a,Newington Crescent,26,11288794,219523225,Toronto,131268
-43.6581374,-79.5841227,2,Newington Crescent (228),a,Newington Crescent,26,11288794,219523228,Toronto,131268
-43.6581481,-79.5842589,2,Newington Crescent (224),a,Newington Crescent,26,11288794,219523224,Toronto,131268
-43.6581547,-79.5840603,2,Newington Crescent (229),a,Newington Crescent,26,11288794,219523229,Toronto,131268
-43.6581714,-79.5839607,2,Newington Crescent (231),a,Newington Crescent,26,11288794,219523231,Toronto,131268
-43.6581719,-79.5839979,2,Newington Crescent (230),a,Newington Crescent,26,11288794,219523230,Toronto,131268
-43.6581839,-79.5783358,2,Wellesworth Drive (226),a,Wellesworth Drive,80,11284656,219390226,Toronto,131268
-43.6581931,-79.5842578,2,Newington Crescent (223),a,Newington Crescent,26,11288794,219523223,Toronto,131268
-43.6582293,-79.5842694,2,Newington Crescent (222),a,Newington Crescent,26,11288794,219523222,Toronto,131268
-43.6582732,-79.5834498,2,Newington Crescent (233),a,Newington Crescent,26,11288794,219523233,Toronto,131268
-43.6582741,-79.5835242,2,Newington Crescent (232),a,Newington Crescent,26,11288794,219523232,Toronto,131268
-43.6582817,-79.5834124,2,Newington Crescent (234),a,Newington Crescent,26,11288794,219523234,Toronto,131268
-43.6582994,-79.5833872,2,Newington Crescent (235),a,Newington Crescent,26,11288794,219523235,Toronto,131268
-43.6583446,-79.5833985,2,Newington Crescent (236),a,Newington Crescent,26,11288794,219523236,Toronto,131268
-43.6583812,-79.5834473,2,Newington Crescent (237),a,Newington Crescent,26,11288794,219523237,Toronto,131268
-43.6584091,-79.5826309,2,Renforth Drive (225),a,Renforth Drive,327,11279308,218763225,Toronto,131268
-43.6584091,-79.5826309,2,Renforth Drive (490),a,Renforth Drive,327,11279308,611453490,Toronto,131268
-43.6584175,-79.5834712,2,Newington Crescent (238),a,Newington Crescent,26,11288794,219523238,Toronto,131268
-43.6584718,-79.5834948,2,Newington Crescent (239),a,Newington Crescent,26,11288794,219523239,Toronto,131268
-43.6585807,-79.5864686,2,Elmbrook Crescent (199),a,Elmbrook Crescent,51,11288793,219523199,Toronto,131268
-43.6585823,-79.586605,2,Elmbrook Crescent (198),a,Elmbrook Crescent,51,11288793,219523198,Toronto,131268
-43.6585884,-79.5863692,2,Elmbrook Crescent (200),a,Elmbrook Crescent,51,11288793,219523200,Toronto,131268
-43.6585884,-79.5863692,2,Lafferty Street (121),a,Lafferty Street,11,11289958,219535121,Toronto,131268
-43.6585926,-79.586704,2,Elmbrook Crescent (197),a,Elmbrook Crescent,51,11288793,219523197,Toronto,131268
-43.658612,-79.5868152,2,Elmbrook Crescent (196),a,Elmbrook Crescent,51,11288793,219523196,Toronto,131268
-43.6586133,-79.5827243,2,Renforth Drive (224),a,Renforth Drive,327,11279308,218763224,Toronto,131268
-43.6586403,-79.5869261,2,Elmbrook Crescent (195),a,Elmbrook Crescent,51,11288793,219523195,Toronto,131268
-43.6586774,-79.587012,2,Elmbrook Crescent (194),a,Elmbrook Crescent,51,11288793,219523194,Toronto,131268
-43.65871,-79.595182,2,Eglinton Avenue West (657),a,Eglinton Avenue West,890,11280434,318969657,Toronto,131268
-43.65871,-79.595182,2,Eglinton Avenue West (894),a,Eglinton Avenue West,890,11280434,611455894,Toronto,131268
-43.6587768,-79.5855835,2,Elmbrook Crescent (201),a,Elmbrook Crescent,51,11288793,219523201,Toronto,131268
-43.6588381,-79.5854456,2,Elmbrook Crescent (202),a,Elmbrook Crescent,51,11288793,219523202,Toronto,131268
-43.6588911,-79.5853576,2,Elmbrook Crescent (203),a,Elmbrook Crescent,51,11288793,219523203,Toronto,131268
-43.6588994,-79.5845761,2,Newington Crescent (221),a,Newington Crescent,26,11288794,219523221,Toronto,131268
-43.658907,-79.5873787,2,Millsborough Crescent (123),a,Millsborough Crescent,27,11288791,219523123,Toronto,131268
-43.658907,-79.5873787,2,Elmbrook Crescent (193),a,Elmbrook Crescent,51,11288793,219523193,Toronto,131268
-43.6589528,-79.5852569,2,Elmbrook Crescent (204),a,Elmbrook Crescent,51,11288793,219523204,Toronto,131268
-43.6589539,-79.584612,2,Newington Crescent (220),a,Newington Crescent,26,11288794,219523220,Toronto,131268
-43.6589986,-79.5875006,2,Elmbrook Crescent (192),a,Elmbrook Crescent,51,11288793,219523192,Toronto,131268
-43.6589993,-79.5846481,2,Newington Crescent (219),a,Newington Crescent,26,11288794,219523219,Toronto,131268
-43.6590326,-79.5851558,2,Elmbrook Crescent (205),a,Elmbrook Crescent,51,11288793,219523205,Toronto,131268
-43.6590724,-79.5847332,2,Newington Crescent (218),a,Newington Crescent,26,11288794,219523218,Toronto,131268
-43.6590872,-79.5948058,2,Eglinton Avenue West (314),a,Eglinton Avenue West,890,11280434,218846314,Toronto,131268
-43.6590872,-79.5948058,2,Eglinton Avenue West (883),a,Eglinton Avenue West,890,11280434,611455883,Toronto,131268
-43.6590872,-79.5948058,2,Eglinton Avenue West (893),a,Eglinton Avenue West,890,11280434,611455893,Toronto,131268
-43.6591036,-79.5850674,2,Elmbrook Crescent (206),a,Elmbrook Crescent,51,11288793,219523206,Toronto,131268
-43.6591063,-79.5876277,2,Elmbrook Crescent (191),a,Elmbrook Crescent,51,11288793,219523191,Toronto,131268
-43.6591287,-79.5829622,2,Renforth Drive (223),a,Renforth Drive,327,11279308,218763223,Toronto,131268
-43.6591369,-79.5870385,2,Millsborough Crescent (124),a,Millsborough Crescent,27,11288791,219523124,Toronto,131268
-43.6591714,-79.5848636,2,Newington Crescent (579),a,Newington Crescent,26,11288794,391665579,Toronto,131268
-43.6591795,-79.5869678,2,Millsborough Crescent (125),a,Millsborough Crescent,27,11288791,219523125,Toronto,131268
-43.6591904,-79.5877193,2,Elmbrook Crescent (190),a,Elmbrook Crescent,51,11288793,219523190,Toronto,131268
-43.659207,-79.5868756,2,Millsborough Crescent (126),a,Millsborough Crescent,27,11288791,219523126,Toronto,131268
-43.6592269,-79.5849368,2,Elmbrook Crescent (207),a,Elmbrook Crescent,51,11288793,219523207,Toronto,131268
-43.6592269,-79.5849368,2,Newington Crescent (217),a,Newington Crescent,26,11288794,219523217,Toronto,131268
-43.6592345,-79.5945769,2,Eglinton Avenue West (315),a,Eglinton Avenue West,890,11280434,218846315,Toronto,131268
-43.6592906,-79.5878162,2,Elmbrook Crescent (189),a,Elmbrook Crescent,51,11288793,219523189,Toronto,131268
-43.6593116,-79.5830512,2,Renforth Drive (222),a,Renforth Drive,327,11279308,218763222,Toronto,131268
-43.6593116,-79.5830512,2,Renforth Drive (401),a,Renforth Drive,327,11279308,218763401,Toronto,131268
-43.6593814,-79.5878761,2,Elmbrook Crescent (188),a,Elmbrook Crescent,51,11288793,219523188,Toronto,131268
-43.6594124,-79.5860151,2,Millsborough Crescent (127),a,Millsborough Crescent,27,11288791,219523127,Toronto,131268
-43.6594226,-79.583106,2,Renforth Drive (508),a,Renforth Drive,327,11279308,391666508,Toronto,131268
-43.6594472,-79.585915,2,Millsborough Crescent (128),a,Millsborough Crescent,27,11288791,219523128,Toronto,131268
-43.6594719,-79.5879112,2,Elmbrook Crescent (187),a,Elmbrook Crescent,51,11288793,219523187,Toronto,131268
-43.6594769,-79.5846741,2,Millsborough Crescent (149),a,Millsborough Crescent,27,11288791,219523149,Toronto,131268
-43.6594769,-79.5846741,2,Elmbrook Crescent (208),a,Elmbrook Crescent,51,11288793,219523208,Toronto,131268
-43.6594829,-79.5858894,2,Millsborough Crescent (129),a,Millsborough Crescent,27,11288791,219523129,Toronto,131268
-43.6595189,-79.5858885,2,Millsborough Crescent (130),a,Millsborough Crescent,27,11288791,219523130,Toronto,131268
-43.6595461,-79.5859003,2,Millsborough Crescent (131),a,Millsborough Crescent,27,11288791,219523131,Toronto,131268
-43.6595476,-79.5845732,2,Elmbrook Crescent (209),a,Elmbrook Crescent,51,11288793,219523209,Toronto,131268
-43.6595712,-79.5879336,2,Elmbrook Crescent (186),a,Elmbrook Crescent,51,11288793,219523186,Toronto,131268
-43.6595788,-79.5849074,2,Millsborough Crescent (148),a,Millsborough Crescent,27,11288791,219523148,Toronto,131268
-43.6595916,-79.5844854,2,Elmbrook Crescent (210),a,Elmbrook Crescent,51,11288793,219523210,Toronto,131268
-43.659604,-79.5941901,2,Eglinton Avenue West (881),a,Eglinton Avenue West,890,11280434,611455881,Toronto,131268
-43.6596156,-79.5849685,2,Millsborough Crescent (147),a,Millsborough Crescent,27,11288791,219523147,Toronto,131268
-43.6596178,-79.5844228,2,Elmbrook Crescent (211),a,Elmbrook Crescent,51,11288793,219523211,Toronto,131268
-43.6596371,-79.5840185,2,Newington Crescent (580),a,Newington Crescent,26,11288794,391665580,Toronto,131268
-43.659652,-79.5850049,2,Millsborough Crescent (146),a,Millsborough Crescent,27,11288791,219523146,Toronto,131268
-43.6596689,-79.5941219,2,Eglinton Avenue West (882),a,Eglinton Avenue West,890,11280434,611455882,Toronto,131268
-43.6596689,-79.5941219,2,Eglinton Avenue West (884),a,Eglinton Avenue West,890,11280434,611455884,Toronto,131268
-43.6596689,-79.5941219,2,Explorer Drive (880),a,Explorer Drive,2,11290212,611455880,Toronto,131268
-43.6596703,-79.5842975,2,Elmbrook Crescent (212),a,Elmbrook Crescent,51,11288793,219523212,Toronto,131268
-43.6596704,-79.5879437,2,Elmbrook Crescent (185),a,Elmbrook Crescent,51,11288793,219523185,Toronto,131268
-43.6597304,-79.5840605,2,Elmbrook Crescent (213),a,Elmbrook Crescent,51,11288793,219523213,Toronto,131268
-43.6597304,-79.5840605,2,Newington Crescent (240),a,Newington Crescent,26,11288794,219523240,Toronto,131268
-43.6597428,-79.5850647,2,Millsborough Crescent (145),a,Millsborough Crescent,27,11288791,219523145,Toronto,131268
-43.6597457,-79.5940382,2,Eglinton Avenue West (496),a,Eglinton Avenue West,890,11280434,218846496,Toronto,131268
-43.6597457,-79.5940382,2,Explorer Drive (412),a,Explorer Drive,2,11290212,219537412,Toronto,131268
-43.6597564,-79.5888003,2,Garbutt Crescent (119),a,Garbutt Crescent,9,11289957,219535119,Toronto,131268
-43.6597908,-79.5888891,2,Garbutt Crescent (118),a,Garbutt Crescent,9,11289957,219535118,Toronto,131268
-43.6598006,-79.5879682,2,Elmbrook Crescent (184),a,Elmbrook Crescent,51,11288793,219523184,Toronto,131268
-43.6598006,-79.5879682,2,Garbutt Crescent (120),a,Garbutt Crescent,9,11289957,219535120,Toronto,131268
-43.6598244,-79.5832771,2,Renforth Drive (889),a,Renforth Drive,327,11279308,611455889,Toronto,131268
-43.6598485,-79.5889616,2,Garbutt Crescent (117),a,Garbutt Crescent,9,11289957,219535117,Toronto,131268
-43.6598495,-79.5939181,2,Eglinton Avenue West (885),a,Eglinton Avenue West,890,11280434,611455885,Toronto,131268
-43.659882,-79.583479,2,Elmbrook Crescent (872),a,Elmbrook Crescent,51,11288793,611455872,Toronto,131268
-43.6598877,-79.5879515,2,Elmbrook Crescent (183),a,Elmbrook Crescent,51,11288793,219523183,Toronto,131268
-43.6599168,-79.5833186,2,Renforth Drive (404),a,Renforth Drive,327,11279308,218763404,Toronto,131268
-43.6599168,-79.5833186,2,Renforth Drive (405),a,Renforth Drive,327,11279308,218763405,Toronto,131268
-43.6599168,-79.5833186,2,Eringate Drive (813),a,Eringate Drive,42,11284641,219389813,Toronto,131268
-43.6599168,-79.5833186,2,Elmbrook Crescent (216),a,Elmbrook Crescent,51,11288793,219523216,Toronto,131268
-43.6599337,-79.5889844,2,Garbutt Crescent (116),a,Garbutt Crescent,9,11289957,219535116,Toronto,131268
-43.6599525,-79.5831658,2,Eringate Drive (869),a,Eringate Drive,42,11284641,611455869,Toronto,131268
-43.6599722,-79.5937728,2,Eglinton Avenue West (497),a,Eglinton Avenue West,890,11280434,218846497,Toronto,131268
-43.6599732,-79.5879289,2,Elmbrook Crescent (182),a,Elmbrook Crescent,51,11288793,219523182,Toronto,131268
-43.6599749,-79.5871606,2,Ackrow Court (095),a,Ackrow Court,3,11289953,219535095,Toronto,131268
-43.6600245,-79.5833669,2,Renforth Drive (868),a,Renforth Drive,327,11279308,611455868,Toronto,131268
-43.6600471,-79.5878993,2,Elmbrook Crescent (181),a,Elmbrook Crescent,51,11288793,219523181,Toronto,131268
-43.6600518,-79.5872725,2,Ackrow Court (094),a,Ackrow Court,3,11289953,219535094,Toronto,131268
-43.660071,-79.5937435,2,Eglinton Avenue West (498),a,Eglinton Avenue West,890,11280434,218846498,Toronto,131268
-43.660071,-79.5937435,2,Eglinton Avenue West (876),a,Eglinton Avenue West,890,11280434,611455876,Toronto,131268
-43.660071,-79.5937435,2,Eglinton Avenue West (877),a,Eglinton Avenue West,890,11280434,611455877,Toronto,131268
-43.6600967,-79.582575,2,Eringate Drive (815),a,Eringate Drive,42,11284641,219389815,Toronto,131268
-43.6601332,-79.5824337,2,Eringate Drive (816),a,Eringate Drive,42,11284641,219389816,Toronto,131268
-43.6601818,-79.5822449,2,Eringate Drive (817),a,Eringate Drive,42,11284641,219389817,Toronto,131268
-43.6601818,-79.5822449,2,Eringate Drive (827),a,Eringate Drive,42,11284641,219389827,Toronto,131268
-43.6602252,-79.5820852,2,Eringate Drive (941),a,Eringate Drive,42,11284641,428570941,Toronto,131268
-43.6602368,-79.5935458,2,Eglinton Avenue West (459),a,Eglinton Avenue West,890,11280434,318969459,Toronto,131268
-43.6602405,-79.5877731,2,Elmbrook Crescent (180),a,Elmbrook Crescent,51,11288793,219523180,Toronto,131268
-43.6602405,-79.5877731,2,Ackrow Court (093),a,Ackrow Court,3,11289953,219535093,Toronto,131268
-43.6602734,-79.5819241,2,Eringate Drive (828),a,Eringate Drive,42,11284641,219389828,Toronto,131268
-43.6602828,-79.5834803,2,Renforth Drive (407),a,Renforth Drive,327,11279308,218763407,Toronto,131268
-43.6602924,-79.5818669,2,Eringate Drive (940),a,Eringate Drive,42,11284641,428570940,Toronto,131268
-43.6603134,-79.5818097,2,Eringate Drive (939),a,Eringate Drive,42,11284641,428570939,Toronto,131268
-43.6603428,-79.5862537,2,Millsborough Crescent (132),a,Millsborough Crescent,27,11288791,219523132,Toronto,131268
-43.6603699,-79.5862654,2,Millsborough Crescent (133),a,Millsborough Crescent,27,11288791,219523133,Toronto,131268
-43.660395,-79.5816028,2,Eringate Drive (829),a,Eringate Drive,42,11284641,219389829,Toronto,131268
-43.6604062,-79.5862894,2,Millsborough Crescent (134),a,Millsborough Crescent,27,11288791,219523134,Toronto,131268
-43.6604334,-79.5863011,2,Millsborough Crescent (135),a,Millsborough Crescent,27,11288791,219523135,Toronto,131268
-43.6604334,-79.5835443,2,Renforth Drive (408),a,Renforth Drive,327,11279308,218763408,Toronto,131268
-43.6604334,-79.5835443,2,Renforth Drive (867),a,Renforth Drive,327,11279308,611455867,Toronto,131268
-43.660469,-79.581441,2,Eringate Drive (937),a,Eringate Drive,42,11284641,428570937,Toronto,131268
-43.6604692,-79.5862879,2,Millsborough Crescent (136),a,Millsborough Crescent,27,11288791,219523136,Toronto,131268
-43.6604778,-79.5862505,2,Millsborough Crescent (137),a,Millsborough Crescent,27,11288791,219523137,Toronto,131268
-43.660486,-79.5861883,2,Millsborough Crescent (138),a,Millsborough Crescent,27,11288791,219523138,Toronto,131268
-43.6604944,-79.5861385,2,Millsborough Crescent (139),a,Millsborough Crescent,27,11288791,219523139,Toronto,131268
-43.6605115,-79.5835796,2,Renforth Drive (661),a,Renforth Drive,327,11279308,461541661,Toronto,131268
-43.6605115,-79.5835796,2,Renforth Drive (866),a,Renforth Drive,327,11279308,611455866,Toronto,131268
-43.6605415,-79.5812934,2,Eringate Drive (936),a,Eringate Drive,42,11284641,428570936,Toronto,131268
-43.660559,-79.5931866,2,Eglinton Avenue West (458),a,Eglinton Avenue West,890,11280434,318969458,Toronto,131268
-43.6605848,-79.5854418,2,Millsborough Crescent (144),a,Millsborough Crescent,27,11288791,219523144,Toronto,131268
-43.660612,-79.5854536,2,Millsborough Crescent (143),a,Millsborough Crescent,27,11288791,219523143,Toronto,131268
-43.6606303,-79.585478,2,Millsborough Crescent (142),a,Millsborough Crescent,27,11288791,219523142,Toronto,131268
-43.6606315,-79.5855772,2,Millsborough Crescent (140),a,Millsborough Crescent,27,11288791,219523140,Toronto,131268
-43.660635,-79.5811179,2,Eringate Drive (938),a,Eringate Drive,42,11284641,428570938,Toronto,131268
-43.6606399,-79.5855274,2,Millsborough Crescent (141),a,Millsborough Crescent,27,11288791,219523141,Toronto,131268
-43.660704,-79.5874884,2,Elmbrook Crescent (179),a,Elmbrook Crescent,51,11288793,219523179,Toronto,131268
-43.660704,-79.5874884,2,Garbutt Crescent (113),a,Garbutt Crescent,9,11289957,219535113,Toronto,131268
-43.6608107,-79.5837266,2,Renforth Drive (547),a,Renforth Drive,327,11279308,410567547,Toronto,131268
-43.6608107,-79.5837266,2,Renforth Drive (606),a,Renforth Drive,327,11279308,410567606,Toronto,131268
-43.6608756,-79.588354,2,Garbutt Crescent (115),a,Garbutt Crescent,9,11289957,219535115,Toronto,131268
-43.6609136,-79.5882972,2,Garbutt Crescent (879),a,Garbutt Crescent,9,11289957,611455879,Toronto,131268
-43.6609279,-79.5881846,2,Garbutt Crescent (878),a,Garbutt Crescent,9,11289957,611455878,Toronto,131268
-43.6610917,-79.5812188,2,Wellesworth Drive (943),a,Wellesworth Drive,80,11284656,428570943,Toronto,131268
-43.6611263,-79.5838795,2,Renforth Drive (445),a,Renforth Drive,327,11279308,218763445,Toronto,131268
-43.66114,-79.5812743,2,Wellesworth Drive (240),a,Wellesworth Drive,80,11284656,219390240,Toronto,131268
-43.661166,-79.5865692,2,Hellensfield Crescent (246),a,Hellensfield Crescent,16,11288795,219523246,Toronto,131268
-43.6611733,-79.5864326,2,Hellensfield Crescent (247),a,Hellensfield Crescent,16,11288795,219523247,Toronto,131268
-43.6611851,-79.5866556,2,Hellensfield Crescent (245),a,Hellensfield Crescent,16,11288795,219523245,Toronto,131268
-43.66119,-79.5863206,2,Hellensfield Crescent (248),a,Hellensfield Crescent,16,11288795,219523248,Toronto,131268
-43.6612043,-79.5867543,2,Hellensfield Crescent (244),a,Hellensfield Crescent,16,11288795,219523244,Toronto,131268
-43.6612416,-79.5868527,2,Hellensfield Crescent (243),a,Hellensfield Crescent,16,11288795,219523243,Toronto,131268
-43.661251,-79.5868897,2,Hellensfield Crescent (242),a,Hellensfield Crescent,16,11288795,219523242,Toronto,131268
-43.6612976,-79.5923876,2,Eglinton Avenue West (457),a,Eglinton Avenue West,890,11280434,318969457,Toronto,131268
-43.6612986,-79.5814025,2,Wellesworth Drive (944),a,Wellesworth Drive,80,11284656,428570944,Toronto,131268
-43.6613073,-79.5870744,2,Bigham Crescent (150),a,Bigham Crescent,17,11288792,219523150,Toronto,131268
-43.6613073,-79.5870744,2,Elmbrook Crescent (178),a,Elmbrook Crescent,51,11288793,219523178,Toronto,131268
-43.6613073,-79.5870744,2,Hellensfield Crescent (241),a,Hellensfield Crescent,16,11288795,219523241,Toronto,131268
-43.6613434,-79.5814387,2,Wellesworth Drive (241),a,Wellesworth Drive,80,11284656,219390241,Toronto,131268
-43.6614082,-79.5840028,2,Renforth Drive (444),a,Renforth Drive,327,11279308,218763444,Toronto,131268
-43.6614723,-79.5851233,2,Hellensfield Crescent (249),a,Hellensfield Crescent,16,11288795,219523249,Toronto,131268
-43.6614808,-79.5850859,2,Hellensfield Crescent (250),a,Hellensfield Crescent,16,11288795,219523250,Toronto,131268
-43.6614861,-79.586971,2,Elmbrook Crescent (177),a,Elmbrook Crescent,51,11288793,219523177,Toronto,131268
-43.6614981,-79.5850235,2,Hellensfield Crescent (251),a,Hellensfield Crescent,16,11288795,219523251,Toronto,131268
-43.6615032,-79.5815453,2,Wellesworth Drive (242),a,Wellesworth Drive,80,11284656,219390242,Toronto,131268
-43.6615064,-79.5849737,2,Hellensfield Crescent (252),a,Hellensfield Crescent,16,11288795,219523252,Toronto,131268
-43.6615068,-79.5921528,2,Eglinton Avenue West (202),a,Eglinton Avenue West,890,11280434,318960202,Toronto,131268
-43.6615068,-79.5921528,2,Eglinton Avenue West (456),a,Eglinton Avenue West,890,11280434,318969456,Toronto,131268
-43.6615148,-79.5849239,2,Hellensfield Crescent (253),a,Hellensfield Crescent,16,11288795,219523253,Toronto,131268
-43.6615222,-79.5877019,2,Bigham Crescent (151),a,Bigham Crescent,17,11288792,219523151,Toronto,131268
-43.6615228,-79.5840567,2,Renforth Drive (443),a,Renforth Drive,327,11279308,218763443,Toronto,131268
-43.6615228,-79.5840567,2,Erinview Terrace (189),a,Erinview Terrace,5,11290184,219537189,Toronto,131268
-43.6615499,-79.5877632,2,Bigham Crescent (152),a,Bigham Crescent,17,11288792,219523152,Toronto,131268
-43.6615598,-79.5849228,2,Hellensfield Crescent (254),a,Hellensfield Crescent,16,11288795,219523254,Toronto,131268
-43.6615601,-79.5838984,2,Erinview Terrace (865),a,Erinview Terrace,5,11290184,611455865,Toronto,131268
-43.6615678,-79.5869218,2,Elmbrook Crescent (176),a,Elmbrook Crescent,51,11288793,219523176,Toronto,131268
-43.6615686,-79.5838626,2,Erinview Terrace (188),a,Erinview Terrace,5,11290184,219537188,Toronto,131268
-43.6615777,-79.5878246,2,Bigham Crescent (153),a,Bigham Crescent,17,11288792,219523153,Toronto,131268
-43.6616141,-79.5849464,2,Hellensfield Crescent (255),a,Hellensfield Crescent,16,11288795,219523255,Toronto,131268
-43.661641,-79.5878479,2,Bigham Crescent (154),a,Bigham Crescent,17,11288792,219523154,Toronto,131268
-43.6616523,-79.5868594,2,Elmbrook Crescent (175),a,Elmbrook Crescent,51,11288793,219523175,Toronto,131268
-43.661659,-79.5919821,2,Eglinton Avenue West (201),a,Eglinton Avenue West,890,11280434,318960201,Toronto,131268
-43.661659,-79.5919821,2,Eglinton Avenue West (889),a,Eglinton Avenue West,890,11280434,318969889,Toronto,131268
-43.6616697,-79.5816518,2,Wellesworth Drive (243),a,Wellesworth Drive,80,11284656,219390243,Toronto,131268
-43.6617167,-79.5867934,2,Elmbrook Crescent (174),a,Elmbrook Crescent,51,11288793,219523174,Toronto,131268
-43.6617217,-79.5878212,2,Bigham Crescent (155),a,Bigham Crescent,17,11288792,219523155,Toronto,131268
-43.6617654,-79.5867336,2,Elmbrook Crescent (173),a,Elmbrook Crescent,51,11288793,219523173,Toronto,131268
-43.6618152,-79.5918196,2,Eglinton Avenue West (888),a,Eglinton Avenue West,890,11280434,318969888,Toronto,131268
-43.6618152,-79.5918196,2,Eglinton Avenue West (875),a,Eglinton Avenue West,890,11280434,611455875,Toronto,131268
-43.6618196,-79.5866353,2,Elmbrook Crescent (172),a,Elmbrook Crescent,51,11288793,219523172,Toronto,131268
-43.6618836,-79.5864996,2,Elmbrook Crescent (171),a,Elmbrook Crescent,51,11288793,219523171,Toronto,131268
-43.6619144,-79.5864008,2,Elmbrook Crescent (170),a,Elmbrook Crescent,51,11288793,219523170,Toronto,131268
-43.6619523,-79.5842511,2,Renforth Drive (413),a,Renforth Drive,327,11279308,218763413,Toronto,131268
-43.6619523,-79.5842511,2,Renforth Drive (442),a,Renforth Drive,327,11279308,218763442,Toronto,131268
-43.6620178,-79.5819546,2,Erinview Terrace (187),a,Erinview Terrace,5,11290184,219537187,Toronto,131268
-43.6620405,-79.5818582,2,Wellesworth Drive (244),a,Wellesworth Drive,80,11284656,219390244,Toronto,131268
-43.6620405,-79.5818582,2,Erinview Terrace (186),a,Erinview Terrace,5,11290184,219537186,Toronto,131268
-43.6620617,-79.5915669,2,Eglinton Avenue West (444),a,Eglinton Avenue West,890,11280434,318952444,Toronto,131268
-43.6620617,-79.5915669,2,Eglinton Avenue West (665),a,Eglinton Avenue West,890,11280434,318981665,Toronto,131268
-43.6620617,-79.5915669,2,Eglinton Avenue West (874),a,Eglinton Avenue West,890,11280434,611455874,Toronto,131268
-43.662094,-79.5914463,2,Eglinton Avenue West (666),a,Eglinton Avenue West,890,11280434,318981666,Toronto,131268
-43.6621536,-79.5767576,2,Eringate Drive (841),a,Eringate Drive,42,11284641,219389841,Toronto,131268
-43.6622052,-79.5851905,2,Bigham Crescent (166),a,Bigham Crescent,17,11288792,219523166,Toronto,131268
-43.6622052,-79.5851905,2,Elmbrook Crescent (169),a,Elmbrook Crescent,51,11288793,219523169,Toronto,131268
-43.6622052,-79.5851905,2,Hellensfield Crescent (256),a,Hellensfield Crescent,16,11288795,219523256,Toronto,131268
-43.6622636,-79.5849454,2,Elmbrook Crescent (742),a,Elmbrook Crescent,51,11288793,408562742,Toronto,131268
-43.6622827,-79.5874749,2,Bigham Crescent (156),a,Bigham Crescent,17,11288792,219523156,Toronto,131268
-43.6623317,-79.5874292,2,Bigham Crescent (157),a,Bigham Crescent,17,11288792,219523157,Toronto,131268
-43.6623347,-79.5846469,2,Elmbrook Crescent (871),a,Elmbrook Crescent,51,11288793,611455871,Toronto,131268
-43.6623433,-79.5846122,2,Elmbrook Crescent (870),a,Elmbrook Crescent,51,11288793,611455870,Toronto,131268
-43.6623616,-79.5819848,2,Wellesworth Drive (245),a,Wellesworth Drive,80,11284656,219390245,Toronto,131268
-43.6623822,-79.5844552,2,Renforth Drive (412),a,Renforth Drive,327,11279308,218763412,Toronto,131268
-43.6623822,-79.5844552,2,Renforth Drive (509),a,Renforth Drive,327,11279308,218763509,Toronto,131268
-43.6623822,-79.5844552,2,Elmbrook Crescent (167),a,Elmbrook Crescent,51,11288793,219523167,Toronto,131268
-43.6623826,-79.5911223,2,Eglinton Avenue West (667),a,Eglinton Avenue West,890,11280434,318981667,Toronto,131268
-43.6623863,-79.5873412,2,Bigham Crescent (158),a,Bigham Crescent,17,11288792,219523158,Toronto,131268
-43.6624199,-79.5872643,2,Bigham Crescent (159),a,Bigham Crescent,17,11288792,219523159,Toronto,131268
-43.6624515,-79.5910449,2,Eglinton Avenue West (668),a,Eglinton Avenue West,890,11280434,318981668,Toronto,131268
-43.6624515,-79.5910449,2,Eglinton Avenue West (683),a,Eglinton Avenue West,890,11280434,318981683,Toronto,131268
-43.6624515,-79.5910449,2,Commerce Boulevard (823),a,Commerce Boulevard,1,18697707,391666823,Toronto,131268
-43.6624601,-79.583463,2,Brancaster Court (980),a,Brancaster Court,16,11288785,219522980,Toronto,131268
-43.6625444,-79.5909406,2,Eglinton Avenue West (684),a,Eglinton Avenue West,890,11280434,318981684,Toronto,131268
-43.6626155,-79.583527,2,Brancaster Court (981),a,Brancaster Court,16,11288785,219522981,Toronto,131268
-43.66266,-79.5835393,2,Brancaster Court (982),a,Brancaster Court,16,11288785,219522982,Toronto,131268
-43.6626734,-79.5854176,2,Bigham Crescent (165),a,Bigham Crescent,17,11288792,219523165,Toronto,131268
-43.6626816,-79.5835393,2,Brancaster Court (983),a,Brancaster Court,16,11288785,219522983,Toronto,131268
-43.6626832,-79.5820884,2,Wellesworth Drive (246),a,Wellesworth Drive,80,11284656,219390246,Toronto,131268
-43.6626993,-79.5835322,2,Brancaster Court (984),a,Brancaster Court,16,11288785,219522984,Toronto,131268
-43.6627136,-79.5835171,2,Brancaster Court (985),a,Brancaster Court,16,11288785,219522985,Toronto,131268
-43.6627265,-79.5834985,2,Brancaster Court (986),a,Brancaster Court,16,11288785,219522986,Toronto,131268
-43.6627368,-79.5854409,2,Bigham Crescent (164),a,Bigham Crescent,17,11288792,219523164,Toronto,131268
-43.6627434,-79.58344,2,Brancaster Court (987),a,Brancaster Court,16,11288785,219522987,Toronto,131268
-43.6627506,-79.5821101,2,Wellesworth Drive (247),a,Wellesworth Drive,80,11284656,219390247,Toronto,131268
-43.6627655,-79.583318,2,Brancaster Court (988),a,Brancaster Court,16,11288785,219522988,Toronto,131268
-43.662767,-79.5857007,2,Bigham Crescent (160),a,Bigham Crescent,17,11288792,219523160,Toronto,131268
-43.6627729,-79.5854525,2,Bigham Crescent (163),a,Bigham Crescent,17,11288792,219523163,Toronto,131268
-43.662789,-79.5831204,2,Brancaster Court (989),a,Brancaster Court,16,11288785,219522989,Toronto,131268
-43.6627928,-79.5856008,2,Bigham Crescent (161),a,Bigham Crescent,17,11288792,219523161,Toronto,131268
-43.662795,-79.5906591,2,Eglinton Avenue West (685),a,Eglinton Avenue West,890,11280434,318981685,Toronto,131268
-43.6628007,-79.5855138,2,Bigham Crescent (162),a,Bigham Crescent,17,11288792,219523162,Toronto,131268
-43.6628044,-79.5846435,2,Renforth Drive (472),a,Renforth Drive,327,11279308,218763472,Toronto,131268
-43.6628044,-79.5846435,2,Renforth Drive (508),a,Renforth Drive,327,11279308,218763508,Toronto,131268
-43.6628406,-79.5829207,2,Brancaster Court (990),a,Brancaster Court,16,11288785,219522990,Toronto,131268
-43.6628659,-79.5827837,2,Brancaster Court (991),a,Brancaster Court,16,11288785,219522991,Toronto,131268
-43.6628908,-79.5826095,2,Brancaster Court (992),a,Brancaster Court,16,11288785,219522992,Toronto,131268
-43.6629174,-79.590627,2,Eglinton Avenue West (265),a,Eglinton Avenue West,890,11280434,318960265,Toronto,131268
-43.6629174,-79.590627,2,Eglinton Avenue West (686),a,Eglinton Avenue West,890,11280434,318981686,Toronto,131268
-43.6629174,-79.590627,2,Eglinton Avenue West (873),a,Eglinton Avenue West,890,11280434,611455873,Toronto,131268
-43.6629235,-79.5823483,2,Brancaster Court (993),a,Brancaster Court,16,11288785,219522993,Toronto,131268
-43.6629295,-79.582289,2,Brancaster Court (994),a,Brancaster Court,16,11288785,219522994,Toronto,131268
-43.6629463,-79.5821225,2,Wellesworth Drive (248),a,Wellesworth Drive,80,11284656,219390248,Toronto,131268
-43.6629463,-79.5821225,2,Brancaster Court (995),a,Brancaster Court,16,11288785,219522995,Toronto,131268
-43.6630435,-79.5904886,2,Eglinton Avenue West (958),a,Eglinton Avenue West,890,11280434,555157958,Toronto,131268
-43.6630435,-79.5904886,2,Eglinton Avenue West (998),a,Eglinton Avenue West,890,11280434,555157998,Toronto,131268
-43.6634487,-79.5840351,2,Risdon Court (031),a,Risdon Court,38,11288787,219523031,Toronto,131268
-43.6634517,-79.5900407,2,Eglinton Avenue West (886),a,Eglinton Avenue West,890,11280434,318969886,Toronto,131268
-43.6634517,-79.5900407,2,Eglinton Avenue West (691),a,Eglinton Avenue West,890,11280434,318981691,Toronto,131268
-43.6634517,-79.5900407,2,Eglinton Avenue West (720),a,Eglinton Avenue West,890,11280434,318981720,Toronto,131268
-43.663459,-79.5841465,2,Risdon Court (032),a,Risdon Court,38,11288787,219523032,Toronto,131268
-43.6634664,-79.5849489,2,Renforth Drive (411),a,Renforth Drive,327,11279308,218763411,Toronto,131268
-43.6634664,-79.5849489,2,Renforth Drive (471),a,Renforth Drive,327,11279308,218763471,Toronto,131268
-43.6634743,-79.5839229,2,Risdon Court (030),a,Risdon Court,38,11288787,219523030,Toronto,131268
-43.6634861,-79.5899443,2,Eglinton Avenue West (721),a,Eglinton Avenue West,890,11280434,318981721,Toronto,131268
-43.6635138,-79.5842072,2,Risdon Court (033),a,Risdon Court,38,11288787,219523033,Toronto,131268
-43.6635268,-79.5837976,2,Risdon Court (029),a,Risdon Court,38,11288787,219523029,Toronto,131268
-43.6635951,-79.5842301,2,Risdon Court (034),a,Risdon Court,38,11288787,219523034,Toronto,131268
-43.6636207,-79.5833861,2,Risdon Court (028),a,Risdon Court,38,11288787,219523028,Toronto,131268
-43.6636468,-79.5833111,2,Risdon Court (027),a,Risdon Court,38,11288787,219523027,Toronto,131268
-43.6636583,-79.584241,2,Risdon Court (035),a,Risdon Court,38,11288787,219523035,Toronto,131268
-43.6636724,-79.5831988,2,Risdon Court (026),a,Risdon Court,38,11288787,219523026,Toronto,131268
-43.6636767,-79.5897383,2,Eglinton Avenue West (724),a,Eglinton Avenue West,890,11280434,318981724,Toronto,131268
-43.6636767,-79.5897383,2,Eglinton Avenue West (857),a,Eglinton Avenue West,890,11280434,611455857,Toronto,131268
-43.6636892,-79.5830992,2,Risdon Court (025),a,Risdon Court,38,11288787,219523025,Toronto,131268
-43.6637146,-79.5829746,2,Risdon Court (024),a,Risdon Court,38,11288787,219523024,Toronto,131268
-43.6637226,-79.5828876,2,Risdon Court (023),a,Risdon Court,38,11288787,219523023,Toronto,131268
-43.6637303,-79.5827882,2,Risdon Court (022),a,Risdon Court,38,11288787,219523022,Toronto,131268
-43.6637305,-79.5842517,2,Risdon Court (036),a,Risdon Court,38,11288787,219523036,Toronto,131268
-43.6637328,-79.5822106,2,Wellesworth Drive (249),a,Wellesworth Drive,80,11284656,219390249,Toronto,131268
-43.6637328,-79.5822106,2,Risdon Court (019),a,Risdon Court,38,11288787,219523019,Toronto,131268
-43.6637348,-79.58239,2,Risdon Court (020),a,Risdon Court,38,11288787,219523020,Toronto,131268
-43.6637381,-79.5826888,2,Risdon Court (021),a,Risdon Court,38,11288787,219523021,Toronto,131268
-43.6638437,-79.5851237,2,Renforth Drive (509),a,Renforth Drive,327,11279308,391666509,Toronto,131268
-43.6638899,-79.5895081,2,Eglinton Avenue West (734),a,Eglinton Avenue West,890,11280434,461542734,Toronto,131268
-43.6638899,-79.5895081,2,Eglinton Avenue West (735),a,Eglinton Avenue West,890,11280434,461542735,Toronto,131268
-43.6639628,-79.5822163,2,Wellesworth Drive (250),a,Wellesworth Drive,80,11284656,219390250,Toronto,131268
-43.6639932,-79.584382,2,Risdon Court (037),a,Risdon Court,38,11288787,219523037,Toronto,131268
-43.6639938,-79.5851912,2,Renforth Drive (410),a,Renforth Drive,327,11279308,218763410,Toronto,131268
-43.6640158,-79.5811195,2,Danish Crescent (804),a,Danish Crescent,32,11288775,219522804,Toronto,131268
-43.6640164,-79.5811691,2,Danish Crescent (803),a,Danish Crescent,32,11288775,219522803,Toronto,131268
-43.6640238,-79.5810449,2,Danish Crescent (805),a,Danish Crescent,32,11288775,219522805,Toronto,131268
-43.6640539,-79.5812922,2,Danish Crescent (802),a,Danish Crescent,32,11288775,219522802,Toronto,131268
-43.6640565,-79.5844053,2,Risdon Court (038),a,Risdon Court,38,11288787,219523038,Toronto,131268
-43.6640592,-79.5809944,2,Danish Crescent (806),a,Danish Crescent,32,11288775,219522806,Toronto,131268
-43.664064,-79.585222,2,Renforth Drive (409),a,Renforth Drive,327,11279308,218763409,Toronto,131268
-43.664064,-79.585222,2,Renforth Drive (470),a,Renforth Drive,327,11279308,218763470,Toronto,131268
-43.6640828,-79.5814404,2,Danish Crescent (801),a,Danish Crescent,32,11288775,219522801,Toronto,131268
-43.6641041,-79.580981,2,Danish Crescent (807),a,Danish Crescent,32,11288775,219522807,Toronto,131268
-43.6641204,-79.5844782,2,Risdon Court (039),a,Risdon Court,38,11288787,219523039,Toronto,131268
-43.6641704,-79.5820659,2,Danish Crescent (511),a,Danish Crescent,32,11288775,359114511,Toronto,131268
-43.6641761,-79.5809793,2,Danish Crescent (808),a,Danish Crescent,32,11288775,219522808,Toronto,131268
-43.6641839,-79.5845139,2,Risdon Court (040),a,Risdon Court,38,11288787,219523040,Toronto,131268
-43.6641877,-79.5821891,2,Wellesworth Drive (251),a,Wellesworth Drive,80,11284656,219390251,Toronto,131268
-43.6641877,-79.5821891,2,Danish Crescent (800),a,Danish Crescent,32,11288775,219522800,Toronto,131268
-43.6642469,-79.5845124,2,Risdon Court (041),a,Risdon Court,38,11288787,219523041,Toronto,131268
-43.6642763,-79.5821666,2,Wellesworth Drive (252),a,Wellesworth Drive,80,11284656,219390252,Toronto,131268
-43.6642912,-79.5844494,2,Risdon Court (042),a,Risdon Court,38,11288787,219523042,Toronto,131268
-43.6643171,-79.5843619,2,Risdon Court (043),a,Risdon Court,38,11288787,219523043,Toronto,131268
-43.6643193,-79.5809139,2,Danish Crescent (809),a,Danish Crescent,32,11288775,219522809,Toronto,131268
-43.6643339,-79.5842623,2,Risdon Court (044),a,Risdon Court,38,11288787,219523044,Toronto,131268
-43.6643506,-79.5841627,2,Risdon Court (045),a,Risdon Court,38,11288787,219523045,Toronto,131268
-43.664359,-79.5841129,2,Risdon Court (046),a,Risdon Court,38,11288787,219523046,Toronto,131268
-43.6643997,-79.5808624,2,Danish Crescent (810),a,Danish Crescent,32,11288775,219522810,Toronto,131268
-43.6645068,-79.5807854,2,Danish Crescent (811),a,Danish Crescent,32,11288775,219522811,Toronto,131268
-43.6645283,-79.5888184,2,Eglinton Avenue West (733),a,Eglinton Avenue West,890,11280434,461542733,Toronto,131268
-43.6645405,-79.5820497,2,Wellesworth Drive (253),a,Wellesworth Drive,80,11284656,219390253,Toronto,131268
-43.6645405,-79.5820497,2,Risdon Court (055),a,Risdon Court,38,11288787,219523055,Toronto,131268
-43.6645629,-79.5821648,2,Risdon Court (514),a,Risdon Court,38,11288787,359114514,Toronto,131268
-43.664567,-79.5887766,2,Eglinton Avenue West (732),a,Eglinton Avenue West,890,11280434,461542732,Toronto,131268
-43.6645694,-79.5821979,2,Risdon Court (054),a,Risdon Court,38,11288787,219523054,Toronto,131268
-43.6645888,-79.5830408,2,Risdon Court (047),a,Risdon Court,38,11288787,219523047,Toronto,131268
-43.6645979,-79.5823213,2,Risdon Court (053),a,Risdon Court,38,11288787,219523053,Toronto,131268
-43.6646142,-79.5829038,2,Risdon Court (048),a,Risdon Court,38,11288787,219523048,Toronto,131268
-43.6646172,-79.58242,2,Risdon Court (052),a,Risdon Court,38,11288787,219523052,Toronto,131268
-43.6646216,-79.5827796,2,Risdon Court (049),a,Risdon Court,38,11288787,219523049,Toronto,131268
-43.6646226,-79.5806835,2,Danish Crescent (812),a,Danish Crescent,32,11288775,219522812,Toronto,131268
-43.6646274,-79.582519,2,Risdon Court (051),a,Risdon Court,38,11288787,219523051,Toronto,131268
-43.6646379,-79.5826428,2,Risdon Court (050),a,Risdon Court,38,11288787,219523050,Toronto,131268
-43.6646536,-79.5887587,2,Eglinton Avenue West (249),a,Eglinton Avenue West,890,11280434,218846249,Toronto,131268
-43.6646536,-79.5887587,2,Eglinton Avenue West (858),a,Eglinton Avenue West,890,11280434,611455858,Toronto,131268
-43.6646536,-79.5887587,2,Eglinton Avenue West (859),a,Eglinton Avenue West,890,11280434,611455859,Toronto,131268
-43.6647303,-79.5886768,2,Eglinton Avenue West (248),a,Eglinton Avenue West,890,11280434,218846248,Toronto,131268
-43.6647469,-79.5805441,2,Danish Crescent (813),a,Danish Crescent,32,11288775,219522813,Toronto,131268
-43.6648267,-79.580443,2,Danish Crescent (814),a,Danish Crescent,32,11288775,219522814,Toronto,131268
-43.6648757,-79.5818605,2,Wellesworth Drive (254),a,Wellesworth Drive,80,11284656,219390254,Toronto,131268
-43.6649104,-79.5856117,2,Renforth Drive (333),a,Renforth Drive,327,11279308,218763333,Toronto,131268
-43.6649104,-79.5856117,2,Renforth Drive (469),a,Renforth Drive,327,11279308,218763469,Toronto,131268
-43.6649104,-79.5856117,2,Gentian Drive (279),a,Gentian Drive,22,11288797,219523279,Toronto,131268
-43.6649152,-79.5803169,2,Danish Crescent (815),a,Danish Crescent,32,11288775,219522815,Toronto,131268
-43.6649307,-79.5884794,2,Eglinton Avenue West (247),a,Eglinton Avenue West,890,11280434,218846247,Toronto,131268
-43.6649488,-79.5854524,2,Gentian Drive (860),a,Gentian Drive,22,11288797,611455860,Toronto,131268
-43.6649524,-79.5854376,2,Gentian Drive (280),a,Gentian Drive,22,11288797,219523280,Toronto,131268
-43.6649945,-79.5801786,2,Danish Crescent (816),a,Danish Crescent,32,11288775,219522816,Toronto,131268
-43.6650124,-79.5856634,2,Renforth Drive (332),a,Renforth Drive,327,11279308,218763332,Toronto,131268
-43.6650508,-79.5883476,2,Eglinton Avenue West (246),a,Eglinton Avenue West,890,11280434,218846246,Toronto,131268
-43.6650508,-79.5883476,2,Eglinton Avenue West (854),a,Eglinton Avenue West,890,11280434,611455854,Toronto,131268
-43.6650508,-79.5883476,2,Eglinton Avenue West (856),a,Eglinton Avenue West,890,11280434,611455856,Toronto,131268
-43.6650647,-79.5800281,2,Danish Crescent (817),a,Danish Crescent,32,11288775,219522817,Toronto,131268
-43.6650879,-79.5848027,2,Sagamore Crescent (920),a,Sagamore Crescent,21,11288781,219522920,Toronto,131268
-43.6650879,-79.5848027,2,Gentian Drive (261),a,Gentian Drive,22,11288797,219523261,Toronto,131268
-43.6650879,-79.5848027,2,Gentian Drive (281),a,Gentian Drive,22,11288797,219523281,Toronto,131268
-43.6651255,-79.579853,2,Danish Crescent (818),a,Danish Crescent,32,11288775,219522818,Toronto,131268
-43.6651328,-79.5797164,2,Danish Crescent (820),a,Danish Crescent,32,11288775,219522820,Toronto,131268
-43.6651338,-79.5797908,2,Danish Crescent (819),a,Danish Crescent,32,11288775,219522819,Toronto,131268
-43.6651362,-79.5881816,2,Eglinton Avenue West (796),a,Eglinton Avenue West,890,11280434,318967796,Toronto,131268
-43.6651501,-79.579654,2,Danish Crescent (821),a,Danish Crescent,32,11288775,219522821,Toronto,131268
-43.6651761,-79.5857718,2,Renforth Drive (331),a,Renforth Drive,327,11279308,218763331,Toronto,131268
-43.6651765,-79.5796038,2,Danish Crescent (822),a,Danish Crescent,32,11288775,219522822,Toronto,131268
-43.6651894,-79.5883196,2,Eglinton Avenue West (879),a,Eglinton Avenue West,890,11280434,318950879,Toronto,131268
-43.665221,-79.5795655,2,Danish Crescent (823),a,Danish Crescent,32,11288775,219522823,Toronto,131268
-43.6652299,-79.5815476,2,Wellesworth Drive (200),a,Wellesworth Drive,80,11284656,219390200,Toronto,131268
-43.6652299,-79.5815476,2,Wellesworth Drive (255),a,Wellesworth Drive,80,11284656,219390255,Toronto,131268
-43.6652299,-79.5815476,2,Gentian Drive (278),a,Gentian Drive,22,11288797,219523278,Toronto,131268
-43.6652422,-79.585822,2,Renforth Drive (023),a,Renforth Drive,327,11279308,477473023,Toronto,131268
-43.665266,-79.5795644,2,Danish Crescent (824),a,Danish Crescent,32,11288775,219522824,Toronto,131268
-43.6652702,-79.5816449,2,Gentian Drive (277),a,Gentian Drive,22,11288797,219523277,Toronto,131268
-43.6652931,-79.5816971,2,Gentian Drive (276),a,Gentian Drive,22,11288797,219523276,Toronto,131268
-43.6653023,-79.5795884,2,Danish Crescent (825),a,Danish Crescent,32,11288775,219522825,Toronto,131268
-43.6653035,-79.5882338,2,Eglinton Avenue West (097),a,Eglinton Avenue West,890,11280434,218846097,Toronto,131268
-43.6653359,-79.5859096,2,Renforth Drive (330),a,Renforth Drive,327,11279308,218763330,Toronto,131268
-43.6653567,-79.5818214,2,Gentian Drive (275),a,Gentian Drive,22,11288797,219523275,Toronto,131268
-43.6653661,-79.5796489,2,Danish Crescent (826),a,Danish Crescent,32,11288775,219522826,Toronto,131268
-43.6653876,-79.5835554,2,Ashfield Drive (941),a,Ashfield Drive,25,11288782,219522941,Toronto,131268
-43.6653876,-79.5835554,2,Gentian Drive (262),a,Gentian Drive,22,11288797,219523262,Toronto,131268
-43.6653998,-79.581918,2,Gentian Drive (274),a,Gentian Drive,22,11288797,219523274,Toronto,131268
-43.6654237,-79.5860061,2,Renforth Drive (434),a,Renforth Drive,327,11279308,555156434,Toronto,131268
-43.6654312,-79.5819916,2,Gentian Drive (273),a,Gentian Drive,22,11288797,219523273,Toronto,131268
-43.6654479,-79.579709,2,Danish Crescent (827),a,Danish Crescent,32,11288775,219522827,Toronto,131268
-43.6654593,-79.5820777,2,Gentian Drive (272),a,Gentian Drive,22,11288797,219523272,Toronto,131268
-43.66549,-79.5821768,2,Gentian Drive (271),a,Gentian Drive,22,11288797,219523271,Toronto,131268
-43.6655012,-79.5878793,2,Eglinton Avenue West (797),a,Eglinton Avenue West,890,11280434,318967797,Toronto,131268
-43.6655067,-79.5822751,2,Gentian Drive (270),a,Gentian Drive,22,11288797,219523270,Toronto,131268
-43.665507,-79.5830192,2,Gentian Drive (263),a,Gentian Drive,22,11288797,219523263,Toronto,131268
-43.6655109,-79.5811543,2,Wellesworth Drive (201),a,Wellesworth Drive,80,11284656,219390201,Toronto,131268
-43.6655149,-79.5829322,2,Gentian Drive (264),a,Gentian Drive,22,11288797,219523264,Toronto,131268
-43.665517,-79.582374,2,Gentian Drive (269),a,Gentian Drive,22,11288797,219523269,Toronto,131268
-43.6655247,-79.5861329,2,Renforth Drive (242),a,Renforth Drive,327,11279308,218763242,Toronto,131268
-43.6655247,-79.5861329,2,Renforth Drive (329),a,Renforth Drive,327,11279308,218763329,Toronto,131268
-43.6655247,-79.5861329,2,Renforth Drive (334),a,Renforth Drive,327,11279308,218763334,Toronto,131268
-43.6655272,-79.582473,2,Gentian Drive (268),a,Gentian Drive,22,11288797,219523268,Toronto,131268
-43.6655314,-79.5828078,2,Gentian Drive (265),a,Gentian Drive,22,11288797,219523265,Toronto,131268
-43.6655382,-79.5811075,2,Wellesworth Drive (202),a,Wellesworth Drive,80,11284656,219390202,Toronto,131268
-43.665539,-79.582696,2,Gentian Drive (266),a,Gentian Drive,22,11288797,219523266,Toronto,131268
-43.6655399,-79.5825797,2,Gentian Drive (267),a,Gentian Drive,22,11288797,219523267,Toronto,131268
-43.6655676,-79.5862963,2,Renforth Drive (241),a,Renforth Drive,327,11279308,218763241,Toronto,131268
-43.6655767,-79.5850145,2,Sagamore Crescent (921),a,Sagamore Crescent,21,11288781,219522921,Toronto,131268
-43.6656246,-79.5861709,2,Renforth Drive (335),a,Renforth Drive,327,11279308,218763335,Toronto,131268
-43.6656403,-79.5850626,2,Sagamore Crescent (922),a,Sagamore Crescent,21,11288781,219522922,Toronto,131268
-43.665648,-79.5879857,2,Eglinton Avenue West (096),a,Eglinton Avenue West,890,11280434,218846096,Toronto,131268
-43.665704,-79.5851108,2,Sagamore Crescent (923),a,Sagamore Crescent,21,11288781,219522923,Toronto,131268
-43.6657136,-79.583709,2,Ashfield Drive (942),a,Ashfield Drive,25,11288782,219522942,Toronto,131268
-43.6657177,-79.5865729,2,Renforth Drive (240),a,Renforth Drive,327,11279308,218763240,Toronto,131268
-43.665771,-79.580708,2,Wellesworth Drive (203),a,Wellesworth Drive,80,11284656,219390203,Toronto,131268
-43.6657763,-79.5851339,2,Sagamore Crescent (924),a,Sagamore Crescent,21,11288781,219522924,Toronto,131268
-43.6657769,-79.5837323,2,Ashfield Drive (943),a,Ashfield Drive,25,11288782,219522943,Toronto,131268
-43.6657995,-79.5867825,2,Renforth Drive (424),a,Renforth Drive,327,11279308,555156424,Toronto,131268
-43.6658,-79.586473,2,Renforth Drive (336),a,Renforth Drive,327,11279308,218763336,Toronto,131268
-43.6658206,-79.5877039,2,Eglinton Avenue West (281),a,Eglinton Avenue West,890,11280434,218846281,Toronto,131268
-43.6658393,-79.5851324,2,Sagamore Crescent (925),a,Sagamore Crescent,21,11288781,219522925,Toronto,131268
-43.6658402,-79.5837556,2,Ashfield Drive (944),a,Ashfield Drive,25,11288782,219522944,Toronto,131268
-43.6658481,-79.5804928,2,Wellesworth Drive (092),a,Wellesworth Drive,80,11284656,357403092,Toronto,131268
-43.6658568,-79.5878758,2,Eglinton Avenue West (095),a,Eglinton Avenue West,890,11280434,218846095,Toronto,131268
-43.6658676,-79.5869951,2,Renforth Drive (239),a,Renforth Drive,327,11279308,218763239,Toronto,131268
-43.6658748,-79.5850943,2,Sagamore Crescent (926),a,Sagamore Crescent,21,11288781,219522926,Toronto,131268
-43.6658772,-79.5866734,2,Renforth Drive (337),a,Renforth Drive,327,11279308,218763337,Toronto,131268
-43.665883,-79.5799468,2,Danish Crescent (828),a,Danish Crescent,32,11288775,219522828,Toronto,131268
-43.6658854,-79.5837669,2,Ashfield Drive (945),a,Ashfield Drive,25,11288782,219522945,Toronto,131268
-43.6659059,-79.5876561,2,Eglinton Avenue West (282),a,Eglinton Avenue West,890,11280434,218846282,Toronto,131268
-43.66592,-79.5872057,2,Renforth Drive (238),a,Renforth Drive,327,11279308,218763238,Toronto,131268
-43.6659215,-79.5802877,2,Wellesworth Drive (204),a,Wellesworth Drive,80,11284656,219390204,Toronto,131268
-43.6659314,-79.5876429,2,Eglinton Avenue West (510),a,Eglinton Avenue West,890,11280434,391666510,Toronto,131268
-43.6659371,-79.5850309,2,Sagamore Crescent (927),a,Sagamore Crescent,21,11288781,219522927,Toronto,131268
-43.6659393,-79.5837533,2,Ashfield Drive (946),a,Ashfield Drive,25,11288782,219522946,Toronto,131268
-43.6659421,-79.587839,2,Eglinton Avenue West (878),a,Eglinton Avenue West,890,11280434,318950878,Toronto,131268
-43.6659541,-79.5799834,2,Danish Crescent (553),a,Danish Crescent,32,11288775,561865553,Toronto,131268
-43.665958,-79.587376,2,Renforth Drive (237),a,Renforth Drive,327,11279308,218763237,Toronto,131268
-43.6659677,-79.5878244,2,Eglinton Avenue West (214),a,Eglinton Avenue West,890,11280434,391666214,Toronto,131268
-43.6659681,-79.5869549,2,Renforth Drive (338),a,Renforth Drive,327,11279308,218763338,Toronto,131268
-43.6659748,-79.5837152,2,Ashfield Drive (947),a,Ashfield Drive,25,11288782,219522947,Toronto,131268
-43.6659752,-79.5874501,2,Renforth Drive (803),a,Renforth Drive,327,11279308,318915803,Toronto,131268
-43.6659834,-79.5874854,2,Renforth Drive (601),a,Renforth Drive,327,11279308,391664601,Toronto,131268
-43.6659834,-79.5874854,2,Renforth Drive (862),a,Renforth Drive,327,11279308,611455862,Toronto,131268
-43.6659993,-79.5849674,2,Sagamore Crescent (928),a,Sagamore Crescent,21,11288781,219522928,Toronto,131268
-43.666013,-79.5875994,2,Renforth Drive (505),a,Renforth Drive,327,11279308,218763505,Toronto,131268
-43.666013,-79.5875994,2,Renforth Drive (861),a,Renforth Drive,327,11279308,611455861,Toronto,131268
-43.666013,-79.5875994,2,Eglinton Avenue West (093),a,Eglinton Avenue West,890,11280434,218846093,Toronto,131268
-43.666013,-79.5875994,2,Eglinton Avenue West (283),a,Eglinton Avenue West,890,11280434,218846283,Toronto,131268
-43.666019,-79.5800169,2,Wellesworth Drive (205),a,Wellesworth Drive,80,11284656,219390205,Toronto,131268
-43.666019,-79.5800169,2,Danish Crescent (829),a,Danish Crescent,32,11288775,219522829,Toronto,131268
-43.666028,-79.583652,2,Ashfield Drive (948),a,Ashfield Drive,25,11288782,219522948,Toronto,131268
-43.6660319,-79.5876742,2,Renforth Drive (466),a,Renforth Drive,327,11279308,218763466,Toronto,131268
-43.6660319,-79.5876742,2,Renforth Drive (504),a,Renforth Drive,327,11279308,218763504,Toronto,131268
-43.6660319,-79.5876742,2,Eglinton Avenue West (560),a,Eglinton Avenue West,890,11280434,218846560,Toronto,131268
-43.6660596,-79.5877792,2,Renforth Drive (322),a,Renforth Drive,327,11279308,218763322,Toronto,131268
-43.6660596,-79.5877792,2,Renforth Drive (465),a,Renforth Drive,327,11279308,218763465,Toronto,131268
-43.6660596,-79.5877792,2,Eglinton Avenue West (399),a,Eglinton Avenue West,890,11280434,218846399,Toronto,131268
-43.6660596,-79.5877792,2,Eglinton Avenue West (855),a,Eglinton Avenue West,890,11280434,611455855,Toronto,131268
-43.6660887,-79.5878901,2,Renforth Drive (321),a,Renforth Drive,327,11279308,218763321,Toronto,131268
-43.666092,-79.5873837,2,Renforth Drive (340),a,Renforth Drive,327,11279308,218763340,Toronto,131268
-43.6661005,-79.5797543,2,Wellesworth Drive (093),a,Wellesworth Drive,80,11284656,357403093,Toronto,131268
-43.6661016,-79.5874197,2,Renforth Drive (318),a,Renforth Drive,327,11279308,391666318,Toronto,131268
-43.6661016,-79.5874197,2,Renforth Drive (863),a,Renforth Drive,327,11279308,611455863,Toronto,131268
-43.6661123,-79.5879802,2,Renforth Drive (320),a,Renforth Drive,327,11279308,218763320,Toronto,131268
-43.6661123,-79.5879802,2,Renforth Drive (484),a,Renforth Drive,327,11279308,218763484,Toronto,131268
-43.6661339,-79.5875343,2,Renforth Drive (341),a,Renforth Drive,327,11279308,218763341,Toronto,131268
-43.6661339,-79.5875343,2,Renforth Drive (864),a,Renforth Drive,327,11279308,611455864,Toronto,131268
-43.6661339,-79.5875343,2,Eglinton Avenue West (094),a,Eglinton Avenue West,890,11280434,218846094,Toronto,131268
-43.6661339,-79.5875343,2,Eglinton Avenue West (185),a,Eglinton Avenue West,890,11280434,218846185,Toronto,131268
-43.6661478,-79.5881029,2,Renforth Drive (483),a,Renforth Drive,327,11279308,218763483,Toronto,131268
-43.6661478,-79.5881029,2,Renforth Drive (486),a,Renforth Drive,327,11279308,218763486,Toronto,131268
-43.6661576,-79.5876171,2,Renforth Drive (342),a,Renforth Drive,327,11279308,218763342,Toronto,131268
-43.6661576,-79.5876171,2,Renforth Drive (506),a,Renforth Drive,327,11279308,218763506,Toronto,131268
-43.6661576,-79.5876171,2,Eglinton Avenue West (559),a,Eglinton Avenue West,890,11280434,218846559,Toronto,131268
-43.6661828,-79.5877142,2,Renforth Drive (243),a,Renforth Drive,327,11279308,218763243,Toronto,131268
-43.6661828,-79.5877142,2,Renforth Drive (507),a,Renforth Drive,327,11279308,218763507,Toronto,131268
-43.6661828,-79.5877142,2,Eglinton Avenue West (123),a,Eglinton Avenue West,890,11280434,218846123,Toronto,131268
-43.6661828,-79.5877142,2,Eglinton Avenue West (398),a,Eglinton Avenue West,890,11280434,218846398,Toronto,131268
-43.6662091,-79.5874988,2,Eglinton Avenue West (186),a,Eglinton Avenue West,890,11280434,218846186,Toronto,131268
-43.6662102,-79.5878308,2,Renforth Drive (244),a,Renforth Drive,327,11279308,218763244,Toronto,131268
-43.6662126,-79.5883696,2,Renforth Drive (485),a,Renforth Drive,327,11279308,218763485,Toronto,131268
-43.6662126,-79.5883696,2,Renforth Drive (497),a,Renforth Drive,327,11279308,218763497,Toronto,131268
-43.6662309,-79.5875841,2,Eglinton Avenue West (508),a,Eglinton Avenue West,890,11280434,318976508,Toronto,131268
-43.6662548,-79.5876841,2,Eglinton Avenue West (122),a,Eglinton Avenue West,890,11280434,218846122,Toronto,131268
-43.6662655,-79.5880521,2,Renforth Drive (245),a,Renforth Drive,327,11279308,218763245,Toronto,131268
-43.6662655,-79.5880521,2,Renforth Drive (327),a,Renforth Drive,327,11279308,218763327,Toronto,131268
-43.666343,-79.5888224,2,Renforth Drive (496),a,Renforth Drive,327,11279308,218763496,Toronto,131268
-43.6663466,-79.5883326,2,Renforth Drive (328),a,Renforth Drive,327,11279308,218763328,Toronto,131268
-43.6663466,-79.5883326,2,Renforth Drive (481),a,Renforth Drive,327,11279308,218763481,Toronto,131268
-43.6664213,-79.5834194,2,Sagamore Crescent (940),a,Sagamore Crescent,21,11288781,219522940,Toronto,131268
-43.6664213,-79.5834194,2,Ashfield Drive (949),a,Ashfield Drive,25,11288782,219522949,Toronto,131268
-43.6664307,-79.5887403,2,Renforth Drive (482),a,Renforth Drive,327,11279308,218763482,Toronto,131268
-43.6664307,-79.5887403,2,Renforth Drive (498),a,Renforth Drive,327,11279308,218763498,Toronto,131268
-43.6664481,-79.5896076,2,Matheson Boulevard East (972),a,Matheson Boulevard East,26,11284016,219367972,Toronto,131268
-43.6664481,-79.5896076,2,Matheson Boulevard East (986),a,Matheson Boulevard East,26,11284016,219367986,Toronto,131268
-43.6664901,-79.5893396,2,Renforth Drive (480),a,Renforth Drive,327,11279308,218763480,Toronto,131268
-43.6664901,-79.5893396,2,Renforth Drive (495),a,Renforth Drive,327,11279308,218763495,Toronto,131268
-43.6665207,-79.5894403,2,Renforth Drive (479),a,Renforth Drive,327,11279308,218763479,Toronto,131268
-43.6665222,-79.5891063,2,Renforth Drive (487),a,Renforth Drive,327,11279308,218763487,Toronto,131268
-43.6665222,-79.5891063,2,Renforth Drive (499),a,Renforth Drive,327,11279308,218763499,Toronto,131268
-43.6665616,-79.5875627,2,Eglinton Avenue West (121),a,Eglinton Avenue West,890,11280434,218846121,Toronto,131268
-43.6665616,-79.5875627,2,Eglinton Avenue West (531),a,Eglinton Avenue West,890,11280434,218846531,Toronto,131268
-43.6665621,-79.5846069,2,Sagamore Crescent (929),a,Sagamore Crescent,21,11288781,219522929,Toronto,131268
-43.6666083,-79.5896856,2,Renforth Drive (478),a,Renforth Drive,327,11279308,218763478,Toronto,131268
-43.6666156,-79.589436,2,Renforth Drive (488),a,Renforth Drive,327,11279308,218763488,Toronto,131268
-43.6666338,-79.5845804,2,Sagamore Crescent (930),a,Sagamore Crescent,21,11288781,219522930,Toronto,131268
-43.6666917,-79.5841697,2,Sagamore Crescent (939),a,Sagamore Crescent,21,11288781,219522939,Toronto,131268
-43.6666962,-79.5895865,2,Renforth Drive (489),a,Renforth Drive,327,11279308,218763489,Toronto,131268
-43.6666967,-79.5845665,2,Sagamore Crescent (931),a,Sagamore Crescent,21,11288781,219522931,Toronto,131268
-43.666701,-79.5841943,2,Sagamore Crescent (938),a,Sagamore Crescent,21,11288781,219522938,Toronto,131268
-43.6667164,-79.5898999,2,Renforth Drive (477),a,Renforth Drive,327,11279308,218763477,Toronto,131268
-43.6667197,-79.5842435,2,Sagamore Crescent (937),a,Sagamore Crescent,21,11288781,219522937,Toronto,131268
-43.6667504,-79.5845404,2,Sagamore Crescent (932),a,Sagamore Crescent,21,11288781,219522932,Toronto,131268
-43.6667563,-79.5842922,2,Sagamore Crescent (936),a,Sagamore Crescent,21,11288781,219522936,Toronto,131268
-43.6667661,-79.5893477,2,Matheson Boulevard East (973),a,Matheson Boulevard East,26,11284016,219367973,Toronto,131268
-43.6667661,-79.5893477,2,Matheson Boulevard East (987),a,Matheson Boulevard East,26,11284016,219367987,Toronto,131268
-43.6667712,-79.5896998,2,Renforth Drive (490),a,Renforth Drive,327,11279308,218763490,Toronto,131268
-43.6667766,-79.5844778,2,Sagamore Crescent (933),a,Sagamore Crescent,21,11288781,219522933,Toronto,131268
-43.6667839,-79.5843412,2,Sagamore Crescent (935),a,Sagamore Crescent,21,11288781,219522935,Toronto,131268
-43.666787,-79.587336,2,Eglinton Avenue West (507),a,Eglinton Avenue West,890,11280434,318976507,Toronto,131268
-43.6667937,-79.584403,2,Sagamore Crescent (934),a,Sagamore Crescent,21,11288781,219522934,Toronto,131268
-43.666822,-79.5873334,2,Eglinton Avenue West (529),a,Eglinton Avenue West,890,11280434,218846529,Toronto,131268
-43.666822,-79.5873334,2,Eglinton Avenue West (496),a,Eglinton Avenue West,890,11280434,611455496,Toronto,131268
-43.6668346,-79.589801,2,Renforth Drive (491),a,Renforth Drive,327,11279308,218763491,Toronto,131268
-43.6668383,-79.5874149,2,Eglinton Avenue West (530),a,Eglinton Avenue West,890,11280434,218846530,Toronto,131268
-43.6668383,-79.5874149,2,Eglinton Avenue West (567),a,Eglinton Avenue West,890,11280434,218846567,Toronto,131268
-43.6668491,-79.5873347,2,Eglinton Avenue West (528),a,Eglinton Avenue West,890,11280434,218846528,Toronto,131268
-43.6668565,-79.5872125,2,Eglinton Avenue West (187),a,Eglinton Avenue West,890,11280434,218846187,Toronto,131268
-43.6668565,-79.5872125,2,Eglinton Avenue West (520),a,Eglinton Avenue West,890,11280434,218846520,Toronto,131268
-43.6668741,-79.5901239,2,Renforth Drive (476),a,Renforth Drive,327,11279308,218763476,Toronto,131268
-43.6669354,-79.5899325,2,Renforth Drive (492),a,Renforth Drive,327,11279308,218763492,Toronto,131268
-43.6669541,-79.5873553,2,Eglinton Avenue West (527),a,Eglinton Avenue West,890,11280434,218846527,Toronto,131268
-43.6669541,-79.5873553,2,Eglinton Avenue West (565),a,Eglinton Avenue West,890,11280434,218846565,Toronto,131268
-43.6669541,-79.5873553,2,Eglinton Avenue West (566),a,Eglinton Avenue West,890,11280434,218846566,Toronto,131268
-43.6670842,-79.5900998,2,Renforth Drive (493),a,Renforth Drive,327,11279308,218763493,Toronto,131268
-43.667126,-79.5870995,2,Eglinton Avenue West (521),a,Eglinton Avenue West,890,11280434,218846521,Toronto,131268
-43.667126,-79.5870995,2,Eglinton Avenue West (522),a,Eglinton Avenue West,890,11280434,218846522,Toronto,131268
-43.6671475,-79.5901591,2,Renforth Drive (323),a,Renforth Drive,327,11279308,218763323,Toronto,131268
-43.6671475,-79.5901591,2,Renforth Drive (494),a,Renforth Drive,327,11279308,218763494,Toronto,131268
-43.6671699,-79.5872529,2,Eglinton Avenue West (190),a,Eglinton Avenue West,890,11280434,218846190,Toronto,131268
-43.6671699,-79.5872529,2,Eglinton Avenue West (564),a,Eglinton Avenue West,890,11280434,218846564,Toronto,131268
-43.6672308,-79.5889649,2,Matheson Boulevard East (974),a,Matheson Boulevard East,26,11284016,219367974,Toronto,131268
-43.6672818,-79.5902824,2,Renforth Drive (324),a,Renforth Drive,327,11279308,218763324,Toronto,131268
-43.6673212,-79.5871799,2,Eglinton Avenue West (189),a,Eglinton Avenue West,890,11280434,218846189,Toronto,131268
-43.6674085,-79.5903816,2,Renforth Drive (325),a,Renforth Drive,327,11279308,218763325,Toronto,131268
-43.6675807,-79.5868918,2,Eglinton Avenue West (523),a,Eglinton Avenue West,890,11280434,218846523,Toronto,131268
-43.6677052,-79.5905626,2,Renforth Drive (326),a,Renforth Drive,327,11279308,218763326,Toronto,131268
-43.6677052,-79.5905626,2,Renforth Drive (392),a,Renforth Drive,327,11279308,218763392,Toronto,131268
-43.667823,-79.5884662,2,Matheson Boulevard East (975),a,Matheson Boulevard East,26,11284016,219367975,Toronto,131268
-43.6678383,-79.5868878,2,Eglinton Avenue West (906),a,Eglinton Avenue West,890,11280434,218845906,Toronto,131268
-43.6678383,-79.5868878,2,Eglinton Avenue West (188),a,Eglinton Avenue West,890,11280434,218846188,Toronto,131268
-43.6678653,-79.5906571,2,Renforth Drive (438),a,Renforth Drive,327,11279308,555156438,Toronto,131268
-43.6678746,-79.5867588,2,Eglinton Avenue West (524),a,Eglinton Avenue West,890,11280434,218846524,Toronto,131268
-43.6679014,-79.590679,2,Renforth Drive (201),a,Renforth Drive,327,11279308,218763201,Toronto,131268
-43.6679014,-79.590679,2,Renforth Drive (393),a,Renforth Drive,327,11279308,218763393,Toronto,131268
-43.6679325,-79.5883559,2,Matheson Boulevard East (976),a,Matheson Boulevard East,26,11284016,219367976,Toronto,131268
-43.6680527,-79.588224,2,Matheson Boulevard East (977),a,Matheson Boulevard East,26,11284016,219367977,Toronto,131268
-43.6681095,-79.5823254,2,Ashfield Drive (953),a,Ashfield Drive,25,11288782,219522953,Toronto,131268
-43.6681147,-79.5865677,2,Eglinton Avenue West (525),a,Eglinton Avenue West,890,11280434,218846525,Toronto,131268
-43.6681542,-79.5866786,2,Eglinton Avenue West (905),a,Eglinton Avenue West,890,11280434,218845905,Toronto,131268
-43.6681687,-79.5880591,2,Matheson Boulevard East (978),a,Matheson Boulevard East,26,11284016,219367978,Toronto,131268
-43.6681687,-79.5880591,2,Matheson Boulevard East (493),a,Matheson Boulevard East,26,11284016,611455493,Toronto,131268
-43.6681839,-79.586519,2,Eglinton Avenue West (116),a,Eglinton Avenue West,890,11280434,218846116,Toronto,131268
-43.6681839,-79.586519,2,Eglinton Avenue West (526),a,Eglinton Avenue West,890,11280434,218846526,Toronto,131268
-43.6681839,-79.586519,2,Matheson Boulevard East (966),a,Matheson Boulevard East,26,11284016,219367966,Toronto,131268
-43.6682079,-79.5866497,2,Eglinton Avenue West (904),a,Eglinton Avenue West,890,11280434,218845904,Toronto,131268
-43.6682079,-79.5866497,2,Matheson Boulevard East (965),a,Matheson Boulevard East,26,11284016,219367965,Toronto,131268
-43.6682079,-79.5866497,2,Matheson Boulevard East (991),a,Matheson Boulevard East,26,11284016,219367991,Toronto,131268
-43.668223,-79.5879493,2,Matheson Boulevard East (574),a,Matheson Boulevard East,26,11284016,496701574,Toronto,131268
-43.6682236,-79.5867317,2,Matheson Boulevard East (990),a,Matheson Boulevard East,26,11284016,219367990,Toronto,131268
-43.6682521,-79.5870122,2,Matheson Boulevard East (989),a,Matheson Boulevard East,26,11284016,219367989,Toronto,131268
-43.6682672,-79.5864562,2,Eglinton Avenue West (929),a,Eglinton Avenue West,890,11280434,318950929,Toronto,131268
-43.6682672,-79.5864562,2,Matheson Boulevard (737),a,Matheson Boulevard,5,15615145,318981737,Toronto,131268
-43.6682692,-79.5877976,2,Matheson Boulevard East (572),a,Matheson Boulevard East,26,11284016,496701572,Toronto,131268
-43.6682893,-79.5865976,2,Matheson Boulevard (738),a,Matheson Boulevard,5,15615145,318981738,Toronto,131268
-43.6682915,-79.5870939,2,Matheson Boulevard East (988),a,Matheson Boulevard East,26,11284016,219367988,Toronto,131268
-43.6682915,-79.5870939,2,Matheson Boulevard East (994),a,Matheson Boulevard East,26,11284016,219367994,Toronto,131268
-43.6682915,-79.5870939,2,Matheson Boulevard (741),a,Matheson Boulevard,5,15615145,318981741,Toronto,131268
-43.6682973,-79.5875984,2,Matheson Boulevard East (573),a,Matheson Boulevard East,26,11284016,496701573,Toronto,131268
-43.6683002,-79.5866847,2,Matheson Boulevard (739),a,Matheson Boulevard,5,15615145,318981739,Toronto,131268
-43.6683045,-79.58717,2,Matheson Boulevard East (993),a,Matheson Boulevard East,26,11284016,219367993,Toronto,131268
-43.6683111,-79.5875064,2,Matheson Boulevard East (576),a,Matheson Boulevard East,26,11284016,496701576,Toronto,131268
-43.6683123,-79.587255,2,Matheson Boulevard East (992),a,Matheson Boulevard East,26,11284016,219367992,Toronto,131268
-43.6683123,-79.587255,2,Matheson Boulevard East (494),a,Matheson Boulevard East,26,11284016,611455494,Toronto,131268
-43.6683135,-79.5870307,2,Matheson Boulevard (740),a,Matheson Boulevard,5,15615145,318981740,Toronto,131268
-43.6683159,-79.5873401,2,Matheson Boulevard East (575),a,Matheson Boulevard East,26,11284016,496701575,Toronto,131268
-43.6683188,-79.5874223,2,Matheson Boulevard East (571),a,Matheson Boulevard East,26,11284016,496701571,Toronto,131268
-43.668547,-79.5910788,2,Renforth Drive (203),a,Renforth Drive,327,11279308,218763203,Toronto,131268
-43.668547,-79.5910788,2,Renforth Drive (394),a,Renforth Drive,327,11279308,218763394,Toronto,131268
-43.6685624,-79.5861556,2,Eglinton Avenue West (118),a,Eglinton Avenue West,890,11280434,218846118,Toronto,131268
-43.6685984,-79.5912843,2,Renforth Drive (379),a,Renforth Drive,327,11279308,318872379,Toronto,131268
-43.6685984,-79.5912843,2,Renforth Drive (659),a,Renforth Drive,327,11279308,318981659,Toronto,131268
-43.6687736,-79.5860692,2,Eglinton Avenue West (139),a,Eglinton Avenue West,890,11280434,218846139,Toronto,131268
-43.6688484,-79.5858034,2,Eglinton Avenue West (119),a,Eglinton Avenue West,890,11280434,218846119,Toronto,131268
-43.6689117,-79.5858956,2,Eglinton Avenue West (138),a,Eglinton Avenue West,890,11280434,218846138,Toronto,131268
-43.6690724,-79.5854654,2,Eglinton Avenue West (120),a,Eglinton Avenue West,890,11280434,218846120,Toronto,131268
-43.6692539,-79.5916745,2,Renforth Drive (204),a,Renforth Drive,327,11279308,218763204,Toronto,131268
-43.6692539,-79.5916745,2,Renforth Drive (495),a,Renforth Drive,327,11279308,611455495,Toronto,131268
-43.6693181,-79.59153,2,Renforth Drive (206),a,Renforth Drive,327,11279308,218763206,Toronto,131268
-43.6693181,-79.59153,2,Renforth Drive (395),a,Renforth Drive,327,11279308,218763395,Toronto,131268
-43.6695948,-79.5917006,2,Renforth Drive (207),a,Renforth Drive,327,11279308,218763207,Toronto,131268
-43.6695948,-79.5917006,2,Renforth Drive (396),a,Renforth Drive,327,11279308,218763396,Toronto,131268
-43.670053,-79.5919804,2,Renforth Drive (397),a,Renforth Drive,327,11279308,218763397,Toronto,131268
-43.6712738,-79.5927117,2,Renforth Drive (439),a,Renforth Drive,327,11279308,555156439,Toronto,131268
-43.6712738,-79.5927117,2,Renforth Drive (470),a,Renforth Drive,327,11279308,555156470,Toronto,131268
-43.6712989,-79.5927265,2,Renforth Drive (468),a,Renforth Drive,327,11279308,555156468,Toronto,131268
-43.6720668,-79.5931781,2,Renforth Drive (469),a,Renforth Drive,327,11279308,555156469,Toronto,131268
-43.6761832,-79.5553375,2,Eglinton Avenue West (402),a,Eglinton Avenue West,890,11280434,436332402,Toronto,131268
-43.677253,-79.550673,2,Eglinton Avenue West (855),a,Eglinton Avenue West,890,11280434,418041855,Toronto,131268
-43.6774988,-79.5495879,2,Eglinton Avenue West (277),a,Eglinton Avenue West,890,11280434,218846277,Toronto,131268
-43.6774988,-79.5495879,2,Eglinton Avenue West (073),a,Eglinton Avenue West,890,11280434,611452073,Toronto,131268
-43.6775415,-79.5494153,2,Eglinton Avenue West (850),a,Eglinton Avenue West,890,11280434,485215850,Toronto,131268
-43.6776226,-79.5490881,2,Eglinton Avenue West (278),a,Eglinton Avenue West,890,11280434,218846278,Toronto,131268
-43.6776226,-79.5490881,2,Eglinton Avenue West (386),a,Eglinton Avenue West,890,11280434,218846386,Toronto,131268
-43.6777212,-79.5486304,2,Eglinton Avenue West (385),a,Eglinton Avenue West,890,11280434,218846385,Toronto,131268
-43.6777212,-79.5486304,2,Eglinton Avenue West (040),a,Eglinton Avenue West,890,11280434,611452040,Toronto,131268
-43.6800855,-79.537784,2,Eglinton Avenue West (342),a,Eglinton Avenue West,890,11280434,218846342,Toronto,131268
-43.6800855,-79.537784,2,Eglinton Avenue West (177),a,Eglinton Avenue West,890,11280434,611448177,Toronto,131268
-43.6804587,-79.5359939,2,Eglinton Avenue West (598),a,Eglinton Avenue West,890,11280434,418041598,Toronto,131268
-43.6827001,-79.5247785,2,Eglinton Avenue West (156),a,Eglinton Avenue West,890,11280434,218846156,Toronto,131268
-43.6833442,-79.5206505,2,Eglinton Avenue West (841),a,Eglinton Avenue West,890,11280434,418041841,Toronto,131268
-43.6833442,-79.5206505,2,Eglinton Avenue West (842),a,Eglinton Avenue West,890,11280434,418041842,Toronto,131268
-43.6833603,-79.5202953,2,Eglinton Avenue West (924),a,Eglinton Avenue West,890,11280434,561863924,Toronto,131268
-43.6833759,-79.5199525,2,Eglinton Avenue West (090),a,Eglinton Avenue West,890,11280434,218846090,Toronto,131268
-43.6833759,-79.5199525,2,Eglinton Avenue West (867),a,Eglinton Avenue West,890,11280434,611449867,Toronto,131268
-43.6833955,-79.5194662,2,Eglinton Avenue West (089),a,Eglinton Avenue West,890,11280434,218846089,Toronto,131268
-43.683431,-79.5172536,2,Eglinton Avenue West (864),a,Eglinton Avenue West,890,11280434,611449864,Toronto,131268
+43.6038771,-79.5517023,2,Mitcham Drive (943),a,Mitcham Drive,28,11284380,650181943,Toronto,131268
+43.603911,-79.5515521,2,Mitcham Drive (942),a,Mitcham Drive,28,11284380,650181942,Toronto,131268
+43.6039194,-79.5515145,2,Mitcham Drive (941),a,Mitcham Drive,28,11284380,650181941,Toronto,131268
+43.6039454,-79.5513993,2,Mitcham Drive (940),a,Mitcham Drive,28,11284380,650181940,Toronto,131268
+43.6039516,-79.551372,2,Mitcham Drive (939),a,Mitcham Drive,28,11284380,650181939,Toronto,131268
+43.6083678,-79.5634114,2,Sherway Drive (698),a,Sherway Drive,58,11285088,650182698,Toronto,131268
+43.6083678,-79.5634114,2,Sherway Drive (719),a,Sherway Drive,58,11285088,650182719,Toronto,131268
+43.608371,-79.5634899,2,Sherway Drive (699),a,Sherway Drive,58,11285088,650182699,Toronto,131268
+43.6084075,-79.5635459,2,Sherway Drive (700),a,Sherway Drive,58,11285088,650182700,Toronto,131268
+43.6084541,-79.5630231,2,Sherway Drive (718),a,Sherway Drive,58,11285088,650182718,Toronto,131268
+43.6085494,-79.5626046,2,Sherway Drive (717),a,Sherway Drive,58,11285088,650182717,Toronto,131268
+43.6086136,-79.562329,2,Sherway Drive (716),a,Sherway Drive,58,11285088,650182716,Toronto,131268
+43.6086355,-79.5622337,2,Sherway Drive (715),a,Sherway Drive,58,11285088,650182715,Toronto,131268
+43.6087542,-79.5617189,2,Sherway Drive (714),a,Sherway Drive,58,11285088,650182714,Toronto,131268
+43.6088242,-79.5614869,2,Sherway Drive (713),a,Sherway Drive,58,11285088,650182713,Toronto,131268
+43.6091249,-79.5638984,2,Sherway Drive (701),a,Sherway Drive,58,11285088,650182701,Toronto,131268
+43.6096232,-79.5641447,2,Sherway Drive (702),a,Sherway Drive,58,11285088,650182702,Toronto,131268
+43.609827,-79.5641826,2,Sherway Drive (703),a,Sherway Drive,58,11285088,650182703,Toronto,131268
+43.6098953,-79.5641953,2,Sherway Drive (704),a,Sherway Drive,58,11285088,650182704,Toronto,131268
+43.6101545,-79.564001,2,Sherway Drive (705),a,Sherway Drive,58,11285088,650182705,Toronto,131268
+43.6105108,-79.5636871,2,Sherway Drive (706),a,Sherway Drive,58,11285088,650182706,Toronto,131268
+43.6108601,-79.5633791,2,Sherway Drive (707),a,Sherway Drive,58,11285088,650182707,Toronto,131268
+43.6109436,-79.5632242,2,Sherway Drive (708),a,Sherway Drive,58,11285088,650182708,Toronto,131268
+43.6157951,-79.5035076,2,St George Street (576),a,St George Street,10,15615042,650178576,Toronto,131268
+43.6158633,-79.5035363,2,St George Street (577),a,St George Street,10,15615042,650178577,Toronto,131268
+43.6158633,-79.5035363,2,St George Street (091),a,St George Street,10,15615042,650182091,Toronto,131268
+43.6165412,-79.535166,2,Fordhouse Boulevard (063),a,Fordhouse Boulevard,11,11290159,650182063,Toronto,131268
+43.6168498,-79.5335298,2,Fordhouse Boulevard (064),a,Fordhouse Boulevard,11,11290159,650182064,Toronto,131268
+43.6231398,-79.5112094,2,Canmotor Avenue (125),a,Canmotor Avenue,13,11284421,650178125,Toronto,131268
+43.6232944,-79.5112709,2,Canmotor Avenue (126),a,Canmotor Avenue,13,11284421,650178126,Toronto,131268
+43.6479351,-79.3730126,2,Farquhars Lane (588),a,Farquhars Lane,6,11283912,650174588,Toronto,131268
+43.6479351,-79.3730126,2,Farquhars Lane (589),a,Farquhars Lane,6,11283912,650174589,Toronto,131268
+43.6481005,-79.3506209,2,Villiers Street (129),a,Villiers Street,21,11283272,611429129,Toronto,131268
+43.6482841,-79.3501891,2,Villiers Street (463),a,Villiers Street,21,11283272,650175463,Toronto,131268
+43.6483822,-79.3499585,2,Villiers Street (130),a,Villiers Street,21,11283272,611429130,Toronto,131268
+43.6485642,-79.3659213,2,Pebbles Ln (946),a,Pebbles Ln,8,25581345,650175946,Toronto,131268
+43.6503373,-79.547846,2,Appleby Road (209),a,Appleby Road,11,11284230,650178209,Toronto,131268
+43.6513737,-79.5483104,2,Appleby Road (210),a,Appleby Road,11,11284230,650178210,Toronto,131268
+43.6519218,-79.5485369,2,Appleby Road (211),a,Appleby Road,11,11284230,650178211,Toronto,131268
+43.6583937,-79.3409354,2,Sunday Mews (317),a,Sunday Mews,2,25581346,650176317,Toronto,131268
+43.6589639,-79.5104815,2,Government Road (228),a,Government Road,45,11284682,650181228,Toronto,131268
+43.6592544,-79.5091423,2,Government Road (201),a,Government Road,45,11284682,650181201,Toronto,131268
+43.6597433,-79.3438625,2,Sister Gwen Smith Lane (458),a,Sister Gwen Smith Lane,5,25581342,650175458,Toronto,131268
+43.659816,-79.5065733,2,Government Road (195),a,Government Road,45,11284682,650181195,Toronto,131268
+43.6598311,-79.506508,2,Government Road (196),a,Government Road,45,11284682,650181196,Toronto,131268
+43.6598441,-79.506445,2,Government Road (197),a,Government Road,45,11284682,650181197,Toronto,131268
+43.6598582,-79.5063772,2,Government Road (198),a,Government Road,45,11284682,650181198,Toronto,131268
+43.6598807,-79.5062684,2,Government Road (199),a,Government Road,45,11284682,650181199,Toronto,131268
+43.6602138,-79.3417011,2,Sunday Mews (318),a,Sunday Mews,2,25581346,650176318,Toronto,131268
+43.6614605,-79.3601981,2,Ratna Lane (466),a,Ratna Lane,16,21090245,650175466,Toronto,131268
+43.6614764,-79.360127,2,Ratna Lane (467),a,Ratna Lane,16,21090245,650175467,Toronto,131268
+43.6614764,-79.360127,2,Ratna Lane (969),a,Ratna Lane,16,21090245,650175969,Toronto,131268
+43.661683,-79.518295,2,Humbertown Way (530),a,Humbertown Way,8,25581348,650177530,Toronto,131268
+43.6617059,-79.518199,2,Humbertown Way (528),a,Humbertown Way,8,25581348,650177528,Toronto,131268
+43.6617059,-79.518199,2,Humbertown Way (529),a,Humbertown Way,8,25581348,650177529,Toronto,131268
+43.6623265,-79.3326234,2,Valerie Mah Lane (615),a,Valerie Mah Lane,3,25581343,650175615,Toronto,131268
+43.664349,-79.4115376,2,Honest Ed's Alley (766),a,Honest Ed's Alley,3,25581354,650179766,Toronto,131268
+43.6721009,-79.5514615,2,Ashford Drive (853),a,Ashford Drive,24,11288240,650177853,Toronto,131268
+43.6722059,-79.5515055,2,Ashford Drive (828),a,Ashford Drive,24,11288240,650177828,Toronto,131268
+43.6722059,-79.5515055,2,Ashford Drive (854),a,Ashford Drive,24,11288240,650177854,Toronto,131268
+43.6728872,-79.5573692,2,Dewsbury Crescent (822),a,Dewsbury Crescent,21,11288253,650177822,Toronto,131268
+43.6729383,-79.5575485,2,Dewsbury Crescent (823),a,Dewsbury Crescent,21,11288253,650177823,Toronto,131268
+43.6730089,-79.5577708,2,Dewsbury Crescent (824),a,Dewsbury Crescent,21,11288253,650177824,Toronto,131268
+43.6751651,-79.5458616,2,Tettenhall Road (099),a,Tettenhall Road,11,11287899,650177099,Toronto,131268
+43.6757596,-79.5453009,2,Tettenhall Road (100),a,Tettenhall Road,11,11287899,650177100,Toronto,131268
+43.68167,-79.5438676,2,Strathdee Drive (389),a,Strathdee Drive,15,11280824,650178389,Toronto,131268
+43.6816959,-79.5435197,2,Strathdee Drive (390),a,Strathdee Drive,15,11280824,650178390,Toronto,131268
+43.6857128,-79.5376721,2,Sun Row Drive (309),a,Sun Row Drive,49,11280720,218856309,Toronto,131268
+43.6859662,-79.5390743,2,Brook Tree Crescent (979),a,Brook Tree Crescent,16,11280839,650176979,Toronto,131268
+43.6860309,-79.5389052,2,Brook Tree Crescent (978),a,Brook Tree Crescent,16,11280839,650176978,Toronto,131268
+43.6862834,-79.3386655,2,Marlow Avenue (997),a,Marlow Avenue,20,11279675,650175997,Toronto,131268
+43.6867981,-79.3388793,2,Marlow Avenue (996),a,Marlow Avenue,20,11279675,650175996,Toronto,131268
+43.6872635,-79.3390713,2,Marlow Avenue (995),a,Marlow Avenue,20,11279675,650175995,Toronto,131268
+43.687844,-79.3487924,2,Lippert Lane (010),a,Lippert Lane,3,21447798,650176010,Toronto,131268
+43.6903376,-79.5415234,2,Sun Row Drive (706),a,Sun Row Drive,49,11280720,650178706,Toronto,131268
+43.6907436,-79.5417039,2,Sun Row Drive (707),a,Sun Row Drive,49,11280720,650178707,Toronto,131268
+43.6909469,-79.5417764,2,Sun Row Drive (708),a,Sun Row Drive,49,11280720,650178708,Toronto,131268
+43.6911507,-79.5418353,2,Sun Row Drive (288),a,Sun Row Drive,49,11280720,611448288,Toronto,131268
+43.691417,-79.5418975,2,Sun Row Drive (709),a,Sun Row Drive,49,11280720,650178709,Toronto,131268
+43.691636,-79.5419371,2,Sun Row Drive (710),a,Sun Row Drive,49,11280720,650178710,Toronto,131268
+43.6918962,-79.3397754,2,Cadorna Avenue (519),a,Cadorna Avenue,26,11279684,650175519,Toronto,131268
+43.692898,-79.3358655,2,Athlone Road (325),a,Athlone Road,13,11279794,650176325,Toronto,131268
+43.6932082,-79.3403108,2,Cadorna Avenue (520),a,Cadorna Avenue,26,11279684,650175520,Toronto,131268
+43.6934172,-79.3360675,2,Athlone Road (326),a,Athlone Road,13,11279794,650176326,Toronto,131268
+43.6937206,-79.3405142,2,Cadorna Avenue (521),a,Cadorna Avenue,26,11279684,650175521,Toronto,131268
+43.6939702,-79.4703611,2,Glenhaven Street (328),a,Glenhaven Street,21,11288561,650180328,Toronto,131268
+43.6939865,-79.3362889,2,Athlone Road (327),a,Athlone Road,13,11279794,650176327,Toronto,131268
+43.6942561,-79.3396864,2,St. Hubert Avenue (004),a,St. Hubert Avenue,18,11279683,650176004,Toronto,131268
+43.6949433,-79.3399548,2,St. Hubert Avenue (005),a,St. Hubert Avenue,18,11279683,650176005,Toronto,131268
+43.6950347,-79.4705963,2,Glenhaven Street (521),a,Glenhaven Street,21,11288561,561865521,Toronto,131268
+43.6951814,-79.5205145,2,Caspian Lane (405),a,Caspian Lane,5,25581362,650180405,Toronto,131268
+43.6954883,-79.520856,2,Caspian Lane (406),a,Caspian Lane,5,25581362,650180406,Toronto,131268
+43.6955895,-79.470719,2,Glenhaven Street (329),a,Glenhaven Street,21,11288561,650180329,Toronto,131268
+43.6957524,-79.3369785,2,Athlone Road (329),a,Athlone Road,13,11279794,650176329,Toronto,131268
+43.6999813,-79.3552476,2,Redway Water Treatment Service Road (572),a,Redway Water Treatment Service Road,62,11283840,650182572,Toronto,131268
+43.7000042,-79.3552661,2,Redway Water Treatment Service Road (571),a,Redway Water Treatment Service Road,62,11283840,650182571,Toronto,131268
+43.7000235,-79.3552829,2,Redway Water Treatment Service Road (570),a,Redway Water Treatment Service Road,62,11283840,650182570,Toronto,131268
+43.7000437,-79.3553011,2,Redway Water Treatment Service Road (569),a,Redway Water Treatment Service Road,62,11283840,650182569,Toronto,131268
+43.7000555,-79.3553115,2,Redway Water Treatment Service Road (568),a,Redway Water Treatment Service Road,62,11283840,650182568,Toronto,131268
+43.7000695,-79.3553243,2,Redway Water Treatment Service Road (567),a,Redway Water Treatment Service Road,62,11283840,650182567,Toronto,131268
+43.7000776,-79.3553321,2,Redway Water Treatment Service Road (566),a,Redway Water Treatment Service Road,62,11283840,650182566,Toronto,131268
+43.7000855,-79.3553403,2,Redway Water Treatment Service Road (565),a,Redway Water Treatment Service Road,62,11283840,650182565,Toronto,131268
+43.7000925,-79.3553482,2,Redway Water Treatment Service Road (564),a,Redway Water Treatment Service Road,62,11283840,650182564,Toronto,131268
+43.7000999,-79.3553578,2,Redway Water Treatment Service Road (563),a,Redway Water Treatment Service Road,62,11283840,650182563,Toronto,131268
+43.7001036,-79.3553632,2,Redway Water Treatment Service Road (562),a,Redway Water Treatment Service Road,62,11283840,650182562,Toronto,131268
+43.7001073,-79.3553694,2,Redway Water Treatment Service Road (561),a,Redway Water Treatment Service Road,62,11283840,650182561,Toronto,131268
+43.7001108,-79.3553758,2,Redway Water Treatment Service Road (560),a,Redway Water Treatment Service Road,62,11283840,650182560,Toronto,131268
+43.7001143,-79.3553834,2,Redway Water Treatment Service Road (559),a,Redway Water Treatment Service Road,62,11283840,650182559,Toronto,131268
+43.7001194,-79.3553956,2,Redway Water Treatment Service Road (558),a,Redway Water Treatment Service Road,62,11283840,650182558,Toronto,131268
+43.7001256,-79.3554107,2,Redway Water Treatment Service Road (557),a,Redway Water Treatment Service Road,62,11283840,650182557,Toronto,131268
+43.7001279,-79.3554173,2,Redway Water Treatment Service Road (556),a,Redway Water Treatment Service Road,62,11283840,650182556,Toronto,131268
+43.7001307,-79.3554263,2,Redway Water Treatment Service Road (555),a,Redway Water Treatment Service Road,62,11283840,650182555,Toronto,131268
+43.7001344,-79.3554403,2,Redway Water Treatment Service Road (554),a,Redway Water Treatment Service Road,62,11283840,650182554,Toronto,131268
+43.7001369,-79.3554511,2,Redway Water Treatment Service Road (553),a,Redway Water Treatment Service Road,62,11283840,650182553,Toronto,131268
+43.7001383,-79.3554575,2,Redway Water Treatment Service Road (552),a,Redway Water Treatment Service Road,62,11283840,650182552,Toronto,131268
+43.7001394,-79.3554642,2,Redway Water Treatment Service Road (551),a,Redway Water Treatment Service Road,62,11283840,650182551,Toronto,131268
+43.7001406,-79.355473,2,Redway Water Treatment Service Road (550),a,Redway Water Treatment Service Road,62,11283840,650182550,Toronto,131268
+43.7001424,-79.3554887,2,Redway Water Treatment Service Road (549),a,Redway Water Treatment Service Road,62,11283840,650182549,Toronto,131268
+43.7001451,-79.3555145,2,Redway Water Treatment Service Road (548),a,Redway Water Treatment Service Road,62,11283840,650182548,Toronto,131268
+43.7001526,-79.3555939,2,Redway Water Treatment Service Road (547),a,Redway Water Treatment Service Road,62,11283840,650182547,Toronto,131268
+43.7001587,-79.3556426,2,Redway Water Treatment Service Road (546),a,Redway Water Treatment Service Road,62,11283840,650182546,Toronto,131268
+43.7001778,-79.3557951,2,Redway Water Treatment Service Road (545),a,Redway Water Treatment Service Road,62,11283840,650182545,Toronto,131268
+43.7096044,-79.3139917,2,Cranfield Road (313),a,Cranfield Road,35,11281178,611433313,Toronto,131268
+43.7123918,-79.3117821,2,Cranfield Road (578),a,Cranfield Road,35,11281178,650175578,Toronto,131268
+43.7125739,-79.3116385,2,Cranfield Road (579),a,Cranfield Road,35,11281178,650175579,Toronto,131268
+43.712608,-79.3116116,2,Cranfield Road (580),a,Cranfield Road,35,11281178,650175580,Toronto,131268
+43.7127511,-79.3114987,2,Cranfield Road (581),a,Cranfield Road,35,11281178,650175581,Toronto,131268
+43.7128972,-79.3113835,2,Cranfield Road (582),a,Cranfield Road,35,11281178,650175582,Toronto,131268
+43.7132521,-79.3111037,2,Cranfield Road (583),a,Cranfield Road,35,11281178,650175583,Toronto,131268
+43.7135422,-79.3108749,2,Cranfield Road (584),a,Cranfield Road,35,11281178,650175584,Toronto,131268
+43.7253077,-79.4596427,2,Glengate Street (108),a,Glengate Street,7,25581340,650175108,Toronto,131268
+43.7253483,-79.4596867,2,Glengate Street (107),a,Glengate Street,7,25581340,650175107,Toronto,131268
+43.7254939,-79.458646,2,York Heights Terrace (109),a,York Heights Terrace,4,25581341,650175109,Toronto,131268
+43.7254939,-79.458646,2,York Garden Way (251),a,York Garden Way,6,25581361,650180251,Toronto,131268
+43.7256804,-79.4588725,2,York Garden Way (250),a,York Garden Way,6,25581361,650180250,Toronto,131268
+43.7257667,-79.4591073,2,York Garden Way (249),a,York Garden Way,6,25581361,650180249,Toronto,131268
+43.7257902,-79.459805,2,Glengate Street (106),a,Glengate Street,7,25581340,650175106,Toronto,131268
+43.7257902,-79.459805,2,York Garden Way (246),a,York Garden Way,6,25581361,650180246,Toronto,131268
+43.725817,-79.4596127,2,York Garden Way (247),a,York Garden Way,6,25581361,650180247,Toronto,131268
+43.7258196,-79.4593583,2,York Garden Way (248),a,York Garden Way,6,25581361,650180248,Toronto,131268
+43.7276298,-79.4647167,2,Whitley Avenue (942),a,Whitley Avenue,9,11283738,650180942,Toronto,131268
+43.733166,-79.4325457,2,Dunblaine Avenue (546),a,Dunblaine Avenue,24,11282941,502699546,Toronto,131268
+43.733178,-79.4324919,2,Dunblaine Avenue (547),a,Dunblaine Avenue,24,11282941,502699547,Toronto,131268
+43.7348135,-79.4328827,2,Carmichael Avenue (316),a,Carmichael Avenue,19,11282958,490048316,Toronto,131268
+43.7348636,-79.4326715,2,Carmichael Avenue (912),a,Carmichael Avenue,19,11282958,650174912,Toronto,131268
+43.7357807,-79.420727,2,Dunblaine Avenue (235),a,Dunblaine Avenue,24,11282941,650174235,Toronto,131268
+43.7390222,-79.4614505,2,rwy 15/33 (932),a,rwy 15/33,2,25581363,650180932,Toronto,131268
+43.7425371,-79.2645362,2,Tara Avenue (119),a,Tara Avenue,15,11285801,219437119,Toronto,131268
+43.7427774,-79.2634176,2,Tara Avenue (009),a,Tara Avenue,15,11285801,650180009,Toronto,131268
+43.743004,-79.6221286,2,Huddersfield Road (181),a,Huddersfield Road,11,11284223,318913181,Toronto,131268
+43.7430557,-79.4658661,2,rwy 15/33 (931),a,rwy 15/33,2,25581363,650180931,Toronto,131268
+43.7431957,-79.621317,2,Huddersfield Road (757),a,Huddersfield Road,11,11284223,650182757,Toronto,131268
+43.7454949,-79.5366117,2,Rivalda Road (229),a,Rivalda Road,34,11287591,650176229,Toronto,131268
+43.745971,-79.5367199,2,Rivalda Road (230),a,Rivalda Road,34,11287591,650176230,Toronto,131268
+43.7461201,-79.5367538,2,Rivalda Road (231),a,Rivalda Road,34,11287591,650176231,Toronto,131268
+43.7465522,-79.536852,2,Rivalda Road (361),a,Rivalda Road,34,11287591,219500361,Toronto,131268
+43.7585842,-79.5049734,2,Black Creek Trail (382),a,Black Creek Trail,5,11287202,561865382,Toronto,131268
+43.7590135,-79.5050271,2,Black Creek Trail (383),a,Black Creek Trail,5,11287202,561865383,Toronto,131268
+43.7591894,-79.5050736,2,Black Creek Trail (384),a,Black Creek Trail,5,11287202,561865384,Toronto,131268
+43.760112,-79.4852429,2,Ceramic Road (649),a,Ceramic Road,8,11280212,650181649,Toronto,131268
+43.7716093,-79.4186493,2,Johnson Farm Lane (859),a,Johnson Farm Lane,5,11290059,650174859,Toronto,131268
+43.7717575,-79.3680451,2,Green Trail Court (791),a,Green Trail Court,11,25581344,650175791,Toronto,131268
+43.7718698,-79.3681266,2,Green Trail Court (792),a,Green Trail Court,11,25581344,650175792,Toronto,131268
+43.7720036,-79.3681638,2,Green Trail Court (793),a,Green Trail Court,11,25581344,650175793,Toronto,131268
+43.7722332,-79.3682003,2,Green Trail Court (794),a,Green Trail Court,11,25581344,650175794,Toronto,131268
+43.7725273,-79.3682662,2,Green Trail Court (787),a,Green Trail Court,11,25581344,650175787,Toronto,131268
+43.7725273,-79.3682662,2,Green Trail Court (795),a,Green Trail Court,11,25581344,650175795,Toronto,131268
+43.7728574,-79.3683154,2,Green Trail Court (786),a,Green Trail Court,11,25581344,650175786,Toronto,131268
+43.7730225,-79.3682884,2,Green Trail Court (785),a,Green Trail Court,11,25581344,650175785,Toronto,131268
+43.7824694,-79.1667303,2,Lawson Road (266),a,Lawson Road,78,11282370,218917266,Toronto,131268
+43.7826288,-79.1664813,2,Lawson Road (693),a,Lawson Road,78,11282370,413335693,Toronto,131268
+43.7849265,-79.1658632,2,White Tail Crescent (697),a,White Tail Crescent,5,25581364,650181697,Toronto,131268
+43.7854743,-79.1664021,2,White Tail Crescent (696),a,White Tail Crescent,5,25581364,650181696,Toronto,131268
+43.7882788,-79.1471666,2,Lawson Road (811),a,Lawson Road,78,11282370,506895811,Toronto,131268
+43.7882788,-79.1471666,2,Lawson Road (813),a,Lawson Road,78,11282370,506895813,Toronto,131268
+43.7886572,-79.1454502,2,Lawson Road (453),a,Lawson Road,78,11282370,650181453,Toronto,131268
+43.788675,-79.1453692,2,Lawson Road (980),a,Lawson Road,78,11282370,611470980,Toronto,131268
+43.7886993,-79.1452589,2,Lawson Road (981),a,Lawson Road,78,11282370,611470981,Toronto,131268
+43.7887209,-79.1451593,2,Lawson Road (454),a,Lawson Road,78,11282370,650181454,Toronto,131268
+43.7899521,-79.1919902,2,Pan Am Drive (781),a,Pan Am Drive,40,11290141,650181781,Toronto,131268
+43.7900962,-79.1920702,2,Pan Am Drive (782),a,Pan Am Drive,40,11290141,650181782,Toronto,131268
+43.7901919,-79.1905604,2,Pan Am Drive (778),a,Pan Am Drive,40,11290141,650181778,Toronto,131268
+43.7902331,-79.1905912,2,Pan Am Drive (779),a,Pan Am Drive,40,11290141,650181779,Toronto,131268
+43.7902531,-79.1906503,2,Pan Am Drive (780),a,Pan Am Drive,40,11290141,650181780,Toronto,131268
+43.7914548,-79.1443903,2,Rozell Road (716),a,Rozell Road,9,11288940,650181716,Toronto,131268
+43.7914626,-79.1443068,2,Rozell Road (715),a,Rozell Road,9,11288940,650181715,Toronto,131268

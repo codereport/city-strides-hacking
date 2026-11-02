@@ -622,8 +622,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8394297,-79.4370401,2,Pearson Avenue (567),a,Pearson Avenue,48,5446816,328453567,Richmond Hill,37878
 43.8394416,-79.448743,2,Westwood Lane (108),a,Westwood Lane,47,5446819,397278108,Richmond Hill,37878
 43.8394477,-79.4295862,2,Yonge Street (213),a,Yonge Street,890,5446601,392305213,Richmond Hill,37878
-43.8394495,-79.4143177,2,Silver Linden Drive (143),a,Silver Linden Drive,84,5446931,579527143,Richmond Hill,37878
-43.8394622,-79.4141935,2,Silver Linden Drive (924),a,Silver Linden Drive,84,5446931,328453924,Richmond Hill,37878
 43.8394716,-79.4206221,2,Red Maple Road (164),a,Red Maple Road,110,5447164,328453164,Richmond Hill,37878
 43.8394732,-79.4486145,2,Denham Drive (553),a,Denham Drive,59,5447462,328451553,Richmond Hill,37878
 43.8394949,-79.44872,2,Westwood Lane (585),a,Westwood Lane,47,5446819,328453585,Richmond Hill,37878
@@ -633,9 +631,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8395583,-79.4065278,2,Bayview Avenue (025),a,Bayview Avenue,592,5447186,98385025,Richmond Hill,37878
 43.8395583,-79.4065278,2,Bayview Avenue (804),a,Bayview Avenue,592,5447186,630428804,Richmond Hill,37878
 43.839589,-79.4454575,2,Denham Drive (516),a,Denham Drive,59,5447462,98984516,Richmond Hill,37878
-43.8395893,-79.4143449,2,Silver Linden Drive (229),a,Silver Linden Drive,84,5446931,328451229,Richmond Hill,37878
-43.8395893,-79.4143449,2,Silver Linden Drive (142),a,Silver Linden Drive,84,5446931,579527142,Richmond Hill,37878
-43.8396052,-79.4142235,2,Silver Linden Drive (925),a,Silver Linden Drive,84,5446931,328453925,Richmond Hill,37878
 43.8396419,-79.4328552,2,Eleanor Circle (851),a,Eleanor Circle,42,5446848,95743851,Richmond Hill,37878
 43.8396431,-79.4329422,2,Eleanor Circle (850),a,Eleanor Circle,42,5446848,95743850,Richmond Hill,37878
 43.8396481,-79.4451698,2,Denham Drive (517),a,Denham Drive,59,5447462,98984517,Richmond Hill,37878
@@ -643,13 +638,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8396649,-79.4296284,2,Yonge Street (214),a,Yonge Street,890,5446601,392305214,Richmond Hill,37878
 43.8396712,-79.4330161,2,Eleanor Circle (849),a,Eleanor Circle,42,5446848,95743849,Richmond Hill,37878
 43.8396712,-79.4298894,2,Yonge Street (561),a,Yonge Street,890,5446601,297028561,Richmond Hill,37878
-43.839679,-79.4143623,2,Silver Linden Drive (608),a,Silver Linden Drive,84,5446931,96680608,Richmond Hill,37878
 43.8396806,-79.4370822,2,Pearson Avenue (566),a,Pearson Avenue,48,5446816,328453566,Richmond Hill,37878
 43.8396897,-79.448653,2,Westwood Lane (584),a,Westwood Lane,47,5446819,328453584,Richmond Hill,37878
 43.8396902,-79.4449573,2,Denham Drive (518),a,Denham Drive,59,5447462,98984518,Richmond Hill,37878
-43.8396941,-79.4142456,2,Silver Linden Drive (926),a,Silver Linden Drive,84,5446931,328453926,Richmond Hill,37878
 43.8397,-79.4207254,2,Red Maple Road (165),a,Red Maple Road,110,5447164,328453165,Richmond Hill,37878
-43.8397039,-79.4065646,2,Bayview Avenue (024),a,Bayview Avenue,592,5447186,98385024,Richmond Hill,37878
 43.8397041,-79.429636,2,Yonge Street (965),a,Yonge Street,890,5446601,392304965,Richmond Hill,37878
 43.8397041,-79.429636,2,Yonge Street (215),a,Yonge Street,890,5446601,392305215,Richmond Hill,37878
 43.839708,-79.4330774,2,Eleanor Circle (848),a,Eleanor Circle,42,5446848,95743848,Richmond Hill,37878
@@ -662,21 +654,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8398085,-79.444382,2,Denham Drive (522),a,Denham Drive,59,5447462,98984522,Richmond Hill,37878
 43.8398262,-79.437065,2,Pearson Avenue (565),a,Pearson Avenue,48,5446816,328453565,Richmond Hill,37878
 43.8398341,-79.4442818,2,Denham Drive (523),a,Denham Drive,59,5447462,98984523,Richmond Hill,37878
-43.8398518,-79.414409,2,Silver Linden Drive (609),a,Silver Linden Drive,84,5446931,96680609,Richmond Hill,37878
 43.8398546,-79.4208333,2,Red Maple Road (167),a,Red Maple Road,110,5447164,328453167,Richmond Hill,37878
 43.8398594,-79.4441568,2,Denham Drive (524),a,Denham Drive,59,5447462,98984524,Richmond Hill,37878
-43.8398595,-79.4142794,2,Silver Linden Drive (927),a,Silver Linden Drive,84,5446931,328453927,Richmond Hill,37878
 43.8398764,-79.4440817,2,Denham Drive (525),a,Denham Drive,59,5447462,98984525,Richmond Hill,37878
-43.8399003,-79.406614,2,Bayview Avenue (022),a,Bayview Avenue,592,5447186,98385022,Richmond Hill,37878
-43.8399003,-79.406614,2,Bayview Avenue (031),a,Bayview Avenue,592,5447186,98385031,Richmond Hill,37878
 43.8399114,-79.4440061,2,Denham Drive (526),a,Denham Drive,59,5447462,98984526,Richmond Hill,37878
 43.8399117,-79.4296763,2,Yonge Street (966),a,Yonge Street,890,5446601,392304966,Richmond Hill,37878
 43.8399464,-79.4439306,2,Denham Drive (527),a,Denham Drive,59,5447462,98984527,Richmond Hill,37878
 43.8399481,-79.4370159,2,Pearson Avenue (564),a,Pearson Avenue,48,5446816,328453564,Richmond Hill,37878
 43.8399899,-79.4438175,2,Denham Drive (528),a,Denham Drive,59,5447462,98984528,Richmond Hill,37878
-43.8399903,-79.4143774,2,Silver Linden Drive (228),a,Silver Linden Drive,84,5446931,328451228,Richmond Hill,37878
-43.8399903,-79.4143774,2,Silver Linden Drive (928),a,Silver Linden Drive,84,5446931,328453928,Richmond Hill,37878
-43.8399903,-79.4143774,2,Silver Linden Drive (929),a,Silver Linden Drive,84,5446931,328453929,Richmond Hill,37878
 43.8400043,-79.4568944,2,Bathurst Street (610),a,Bathurst Street,380,5446829,408997610,Richmond Hill,37878
 43.8400139,-79.4310915,2,Eleanor Circle (853),a,Eleanor Circle,42,5446848,95743853,Richmond Hill,37878
 43.8400183,-79.4209534,2,Red Maple Road (168),a,Red Maple Road,110,5447164,328453168,Richmond Hill,37878
@@ -690,8 +675,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8401218,-79.4435902,2,Denham Drive (531),a,Denham Drive,59,5447462,98984531,Richmond Hill,37878
 43.8401254,-79.4483854,2,Westwood Lane (583),a,Westwood Lane,47,5446819,328453583,Richmond Hill,37878
 43.8401355,-79.4420956,2,Roosevelt Drive (111),a,Roosevelt Drive,18,5446817,95166111,Richmond Hill,37878
-43.8401371,-79.4144147,2,Silver Linden Drive (624),a,Silver Linden Drive,84,5446931,96680624,Richmond Hill,37878
-43.8401371,-79.4144147,2,Silver Linden Drive (139),a,Silver Linden Drive,84,5446931,579527139,Richmond Hill,37878
 43.8401416,-79.4414003,2,Roosevelt Drive (114),a,Roosevelt Drive,18,5446817,95166114,Richmond Hill,37878
 43.8401473,-79.4569271,2,Bathurst Street (611),a,Bathurst Street,380,5446829,408997611,Richmond Hill,37878
 43.8401473,-79.4569271,2,Bathurst Street (664),a,Bathurst Street,380,5446829,408997664,Richmond Hill,37878
@@ -706,21 +689,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.840209,-79.4308749,2,Eleanor Circle (858),a,Eleanor Circle,42,5446848,95743858,Richmond Hill,37878
 43.8402371,-79.4434628,2,Denham Drive (533),a,Denham Drive,59,5447462,98984533,Richmond Hill,37878
 43.8402407,-79.4424045,2,Roosevelt Drive (110),a,Roosevelt Drive,18,5446817,95166110,Richmond Hill,37878
-43.8402467,-79.4144443,2,Silver Linden Drive (625),a,Silver Linden Drive,84,5446931,96680625,Richmond Hill,37878
 43.8402903,-79.4433992,2,Denham Drive (534),a,Denham Drive,59,5447462,98984534,Richmond Hill,37878
-43.8402978,-79.4067151,2,Bayview Avenue (030),a,Bayview Avenue,592,5447186,98385030,Richmond Hill,37878
 43.8402984,-79.4569539,2,Bathurst Street (665),a,Bathurst Street,380,5446829,408997665,Richmond Hill,37878
 43.8403094,-79.4213394,2,Red Maple Road (170),a,Red Maple Road,110,5447164,328453170,Richmond Hill,37878
 43.8403123,-79.4338079,2,Eleanor Circle (846),a,Eleanor Circle,42,5446848,95743846,Richmond Hill,37878
 43.8403395,-79.4213927,2,Red Maple Road (171),a,Red Maple Road,110,5447164,328453171,Richmond Hill,37878
-43.840343,-79.4067266,2,Bayview Avenue (029),a,Bayview Avenue,592,5447186,98385029,Richmond Hill,37878
-43.840343,-79.4067266,2,Bayview Avenue (052),a,Bayview Avenue,592,5447186,98385052,Richmond Hill,37878
 43.8403438,-79.4433605,2,Denham Drive (535),a,Denham Drive,59,5447462,98984535,Richmond Hill,37878
-43.8403564,-79.4065473,2,Bayview Avenue (635),a,Bayview Avenue,592,5447186,98384635,Richmond Hill,37878
-43.8403816,-79.4144713,2,Silver Linden Drive (613),a,Silver Linden Drive,84,5446931,96680613,Richmond Hill,37878
-43.8403816,-79.4144713,2,Silver Linden Drive (626),a,Silver Linden Drive,84,5446931,96680626,Richmond Hill,37878
-43.8403933,-79.4065572,2,Bayview Avenue (638),a,Bayview Avenue,592,5447186,98384638,Richmond Hill,37878
-43.8403933,-79.4065572,2,Bayview Avenue (010),a,Bayview Avenue,592,5447186,98385010,Richmond Hill,37878
 43.8403973,-79.4433218,2,Denham Drive (536),a,Denham Drive,59,5447462,98984536,Richmond Hill,37878
 43.8404078,-79.4480608,2,Westwood Lane (582),a,Westwood Lane,47,5446819,328453582,Richmond Hill,37878
 43.8404261,-79.4367885,2,Pearson Avenue (562),a,Pearson Avenue,48,5446816,328453562,Richmond Hill,37878
@@ -754,14 +728,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8406493,-79.4368278,2,Pearson Avenue (561),a,Pearson Avenue,48,5446816,328453561,Richmond Hill,37878
 43.8406545,-79.4496592,2,Pebblelane Court (929),a,Pebblelane Court,11,5447124,97953929,Richmond Hill,37878
 43.8406594,-79.434172,2,Eleanor Circle (843),a,Eleanor Circle,42,5446848,95743843,Richmond Hill,37878
-43.84066,-79.4145,2,Silver Linden Drive (614),a,Silver Linden Drive,84,5446931,96680614,Richmond Hill,37878
 43.8406638,-79.4220559,2,Red Maple Road (120),a,Red Maple Road,110,5447164,98239120,Richmond Hill,37878
 43.8406864,-79.4341713,2,Eleanor Circle (842),a,Eleanor Circle,42,5446848,95743842,Richmond Hill,37878
 43.8407134,-79.4341706,2,Eleanor Circle (841),a,Eleanor Circle,42,5446848,95743841,Richmond Hill,37878
 43.8407492,-79.4341572,2,Eleanor Circle (840),a,Eleanor Circle,42,5446848,95743840,Richmond Hill,37878
 43.8407607,-79.4475115,2,Westwood Lane (537),a,Westwood Lane,47,5446819,95182537,Richmond Hill,37878
 43.8407607,-79.4475115,2,Maryvale Crescent (378),a,Maryvale Crescent,58,5446992,97106378,Richmond Hill,37878
-43.8407737,-79.4144853,2,Silver Linden Drive (615),a,Silver Linden Drive,84,5446931,96680615,Richmond Hill,37878
 43.8407871,-79.431009,2,Eleanor Circle (859),a,Eleanor Circle,42,5446848,95743859,Richmond Hill,37878
 43.8408003,-79.443162,2,Denham Drive (497),a,Denham Drive,59,5447462,98984497,Richmond Hill,37878
 43.8408022,-79.4340812,2,Eleanor Circle (839),a,Eleanor Circle,42,5446848,95743839,Richmond Hill,37878
@@ -780,7 +752,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8409009,-79.4479113,2,Pebblelane Court (917),a,Pebblelane Court,11,5447124,97953917,Richmond Hill,37878
 43.8409018,-79.4328098,2,Eleanor Circle (874),a,Eleanor Circle,42,5446848,95743874,Richmond Hill,37878
 43.8409171,-79.4431466,2,Denham Drive (498),a,Denham Drive,59,5447462,98984498,Richmond Hill,37878
-43.840923,-79.4067042,2,Bayview Avenue (783),a,Bayview Avenue,592,5447186,328452783,Richmond Hill,37878
 43.8409251,-79.4472153,2,Westwood Lane (536),a,Westwood Lane,47,5446819,95182536,Richmond Hill,37878
 43.840929,-79.4328215,2,Eleanor Circle (875),a,Eleanor Circle,42,5446848,95743875,Richmond Hill,37878
 43.8409372,-79.4334184,2,Eleanor Circle (883),a,Eleanor Circle,42,5446848,95743883,Richmond Hill,37878
@@ -788,18 +759,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8409372,-79.4334184,2,Silverview Gate (129),a,Silverview Gate,4,5447731,99485129,Richmond Hill,37878
 43.8409375,-79.4068776,2,Bayview Avenue (787),a,Bayview Avenue,592,5447186,328452787,Richmond Hill,37878
 43.8409653,-79.4328454,2,Eleanor Circle (876),a,Eleanor Circle,42,5446848,95743876,Richmond Hill,37878
-43.84097,-79.41446,2,Silver Linden Drive (616),a,Silver Linden Drive,84,5446931,96680616,Richmond Hill,37878
 43.8409708,-79.4332433,2,Eleanor Circle (882),a,Eleanor Circle,42,5446848,95743882,Richmond Hill,37878
 43.8409719,-79.4478348,2,Maryvale Crescent (340),a,Maryvale Crescent,58,5446992,97106340,Richmond Hill,37878
 43.8409719,-79.4478348,2,Maryvale Crescent (380),a,Maryvale Crescent,58,5446992,97106380,Richmond Hill,37878
 43.8409719,-79.4478348,2,Pebblelane Court (914),a,Pebblelane Court,11,5447124,97953914,Richmond Hill,37878
-43.8409832,-79.406719,2,Bayview Avenue (577),a,Bayview Avenue,592,5447186,485663577,Richmond Hill,37878
 43.8409966,-79.4331556,2,Eleanor Circle (881),a,Eleanor Circle,42,5446848,95743881,Richmond Hill,37878
 43.8410019,-79.4328818,2,Eleanor Circle (877),a,Eleanor Circle,42,5446848,95743877,Richmond Hill,37878
 43.8410033,-79.4225196,2,Red Maple Road (122),a,Red Maple Road,110,5447164,98239122,Richmond Hill,37878
 43.8410131,-79.4330432,2,Eleanor Circle (880),a,Eleanor Circle,42,5446848,95743880,Richmond Hill,37878
 43.8410205,-79.432931,2,Eleanor Circle (878),a,Eleanor Circle,42,5446848,95743878,Richmond Hill,37878
-43.8410257,-79.418786,2,Red Cedar Avenue (404),a,Red Cedar Avenue,5,5446820,95186404,Richmond Hill,37878
 43.8410302,-79.4329806,2,Eleanor Circle (879),a,Eleanor Circle,42,5446848,95743879,Richmond Hill,37878
 43.8410329,-79.4334559,2,Silverview Gate (130),a,Silverview Gate,4,5447731,99485130,Richmond Hill,37878
 43.8410341,-79.4431435,2,Denham Drive (499),a,Denham Drive,59,5447462,98984499,Richmond Hill,37878
@@ -808,15 +776,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8410918,-79.4370218,2,Roosevelt Drive (116),a,Roosevelt Drive,18,5446817,95166116,Richmond Hill,37878
 43.841109,-79.4369307,2,Pearson Avenue (559),a,Pearson Avenue,48,5446816,328453559,Richmond Hill,37878
 43.841109,-79.4369307,2,Roosevelt Drive (117),a,Roosevelt Drive,18,5446817,95166117,Richmond Hill,37878
-43.8411128,-79.4067545,2,Bayview Avenue (578),a,Bayview Avenue,592,5447186,485663578,Richmond Hill,37878
-43.8411322,-79.4188104,2,Red Cedar Avenue (020),a,Red Cedar Avenue,5,5446820,328449020,Richmond Hill,37878
 43.8411404,-79.4226653,2,Red Maple Road (123),a,Red Maple Road,110,5447164,98239123,Richmond Hill,37878
 43.8411698,-79.4431897,2,Denham Drive (500),a,Denham Drive,59,5447462,98984500,Richmond Hill,37878
 43.8411731,-79.4533776,2,Moodie Drive (919),a,Moodie Drive,30,5447108,97826919,Richmond Hill,37878
 43.8412016,-79.4481772,2,Maryvale Crescent (343),a,Maryvale Crescent,58,5446992,97106343,Richmond Hill,37878
-43.8412241,-79.406785,2,Bayview Avenue (016),a,Bayview Avenue,592,5447186,98385016,Richmond Hill,37878
-43.8412241,-79.406785,2,Bayview Avenue (250),a,Bayview Avenue,592,5447186,98385250,Richmond Hill,37878
-43.84127,-79.41444,2,Silver Linden Drive (617),a,Silver Linden Drive,84,5446931,96680617,Richmond Hill,37878
 43.8413101,-79.4535234,2,Moodie Drive (920),a,Moodie Drive,30,5447108,97826920,Richmond Hill,37878
 43.8413146,-79.4432482,2,Denham Drive (501),a,Denham Drive,59,5447462,98984501,Richmond Hill,37878
 43.8413177,-79.4300209,2,Yonge Street (004),a,Yonge Street,890,5446601,392305004,Richmond Hill,37878
@@ -834,7 +797,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8414478,-79.4302969,2,Yonge Street (130),a,Yonge Street,890,5446601,630429130,Richmond Hill,37878
 43.8414478,-79.4302969,2,Yonge Street (142),a,Yonge Street,890,5446601,630429142,Richmond Hill,37878
 43.8414478,-79.4302969,2,High Tech Road (143),a,High Tech Road,137,5447300,630429143,Richmond Hill,37878
-43.84146,-79.41445,2,Silver Linden Drive (618),a,Silver Linden Drive,84,5446931,96680618,Richmond Hill,37878
 43.8414611,-79.4276451,2,High Tech Road (737),a,High Tech Road,137,5447300,98666737,Richmond Hill,37878
 43.8414693,-79.4301955,2,High Tech Road (144),a,High Tech Road,137,5447300,630429144,Richmond Hill,37878
 43.8414693,-79.4301955,2,High Tech Road (145),a,High Tech Road,137,5447300,630429145,Richmond Hill,37878
@@ -855,8 +817,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8415421,-79.4281654,2,High Tech Road (736),a,High Tech Road,137,5447300,98666736,Richmond Hill,37878
 43.8415478,-79.4537909,2,Moodie Drive (922),a,Moodie Drive,30,5447108,97826922,Richmond Hill,37878
 43.8415615,-79.4251297,2,High Tech Road (686),a,High Tech Road,137,5447300,98666686,Richmond Hill,37878
-43.8415651,-79.4070637,2,Bayview Avenue (051),a,Bayview Avenue,592,5447186,98385051,Richmond Hill,37878
-43.8415651,-79.4070637,2,Bayview Avenue (716),a,Bayview Avenue,592,5447186,579525716,Richmond Hill,37878
 43.8415672,-79.4229277,2,Red Maple Road (063),a,Red Maple Road,110,5447164,98239063,Richmond Hill,37878
 43.8415672,-79.4229277,2,Red Maple Road (108),a,Red Maple Road,110,5447164,98239108,Richmond Hill,37878
 43.8415672,-79.4229277,2,Red Maple Road (125),a,Red Maple Road,110,5447164,98239125,Richmond Hill,37878
@@ -864,7 +824,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8415716,-79.4299256,2,High Tech Road (749),a,High Tech Road,137,5447300,392304749,Richmond Hill,37878
 43.8415776,-79.4486774,2,Maryvale Crescent (348),a,Maryvale Crescent,58,5446992,97106348,Richmond Hill,37878
 43.8415779,-79.4298906,2,High Tech Road (719),a,High Tech Road,137,5447300,98666719,Richmond Hill,37878
-43.8415835,-79.414449,2,Silver Linden Drive (619),a,Silver Linden Drive,84,5446931,96680619,Richmond Hill,37878
 43.8415927,-79.4295107,2,High Tech Road (716),a,High Tech Road,137,5447300,98666716,Richmond Hill,37878
 43.8415927,-79.4295107,2,High Tech Road (717),a,High Tech Road,137,5447300,98666717,Richmond Hill,37878
 43.8415927,-79.4295107,2,High Tech Road (730),a,High Tech Road,137,5447300,98666730,Richmond Hill,37878
@@ -888,7 +847,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8417404,-79.4435094,2,Westwood Lane (534),a,Westwood Lane,47,5446819,95182534,Richmond Hill,37878
 43.8417404,-79.4435094,2,Denham Drive (504),a,Denham Drive,59,5447462,98984504,Richmond Hill,37878
 43.8417404,-79.4435094,2,Denham Drive (549),a,Denham Drive,59,5447462,98984549,Richmond Hill,37878
-43.84175,-79.41446,2,Silver Linden Drive (620),a,Silver Linden Drive,84,5446931,96680620,Richmond Hill,37878
 43.8417519,-79.4434546,2,Westwood Lane (107),a,Westwood Lane,47,5446819,397278107,Richmond Hill,37878
 43.841774,-79.4538721,2,Jenkins Drive (268),a,Jenkins Drive,31,5446954,96808268,Richmond Hill,37878
 43.8417852,-79.4540336,2,Moodie Drive (937),a,Moodie Drive,30,5447108,97826937,Richmond Hill,37878
@@ -904,7 +862,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8418265,-79.4537588,2,Jenkins Drive (270),a,Jenkins Drive,31,5446954,96808270,Richmond Hill,37878
 43.8418331,-79.4489321,2,Maryvale Crescent (353),a,Maryvale Crescent,58,5446992,97106353,Richmond Hill,37878
 43.8418505,-79.4436216,2,Denham Drive (000),a,Denham Drive,59,5447462,328452000,Richmond Hill,37878
-43.8418505,-79.4069523,2,Bayview Avenue (251),a,Bayview Avenue,592,5447186,98385251,Richmond Hill,37878
 43.8418584,-79.4541187,2,Moodie Drive (938),a,Moodie Drive,30,5447108,97826938,Richmond Hill,37878
 43.8418596,-79.423016,2,Red Maple Road (281),a,Red Maple Road,110,5447164,328451281,Richmond Hill,37878
 43.8418617,-79.4536957,2,Jenkins Drive (271),a,Jenkins Drive,31,5446954,96808271,Richmond Hill,37878
@@ -999,87 +956,43 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8424388,-79.4305457,2,Yonge Street (598),a,Yonge Street,890,5446601,92566598,Richmond Hill,37878
 43.8424388,-79.4305457,2,Yonge Street (470),a,Yonge Street,890,5446601,579527470,Richmond Hill,37878
 43.8424388,-79.4305457,2,Roosevelt Drive (657),a,Roosevelt Drive,18,5446817,392304657,Richmond Hill,37878
-43.8424468,-79.4207774,2,High Tech Road (241),a,High Tech Road,137,5447300,328451241,Richmond Hill,37878
 43.8424519,-79.4400961,2,Westwood Lane (115),a,Westwood Lane,47,5446819,630429115,Richmond Hill,37878
 43.8424625,-79.4548495,2,Moodie Drive (947),a,Moodie Drive,30,5447108,97826947,Richmond Hill,37878
 43.8424688,-79.4533193,2,Jenkins Drive (284),a,Jenkins Drive,31,5446954,96808284,Richmond Hill,37878
-43.8424732,-79.4206107,2,High Tech Road (242),a,High Tech Road,137,5447300,328451242,Richmond Hill,37878
 43.842479,-79.4303274,2,Yonge Street (409),a,Yonge Street,890,5446601,424871409,Richmond Hill,37878
-43.8424858,-79.4073061,2,Bayview Avenue (046),a,Bayview Avenue,592,5447186,98385046,Richmond Hill,37878
 43.8424947,-79.4347211,2,Sunnywood Crescent (136),a,Sunnywood Crescent,15,5446977,96976136,Richmond Hill,37878
-43.8424962,-79.4204659,2,High Tech Road (243),a,High Tech Road,137,5447300,328451243,Richmond Hill,37878
 43.8425022,-79.4398453,2,Westwood Lane (114),a,Westwood Lane,47,5446819,630429114,Richmond Hill,37878
-43.8425042,-79.4146475,2,Silver Linden Drive (364),a,Silver Linden Drive,84,5446931,328453364,Richmond Hill,37878
-43.8425042,-79.4146475,2,Silver Linden Drive (072),a,Silver Linden Drive,84,5446931,328454072,Richmond Hill,37878
-43.8425042,-79.4146475,2,Silver Linden Drive (075),a,Silver Linden Drive,84,5446931,328454075,Richmond Hill,37878
-43.8425093,-79.4071317,2,Bayview Avenue (252),a,Bayview Avenue,592,5447186,98385252,Richmond Hill,37878
 43.8425133,-79.4532808,2,Jenkins Drive (286),a,Jenkins Drive,31,5446954,96808286,Richmond Hill,37878
 43.8425163,-79.4256012,2,Oneida Crescent (555),a,Oneida Crescent,19,5447182,98319555,Richmond Hill,37878
 43.8425163,-79.4256012,2,Oneida Crescent (556),a,Oneida Crescent,19,5447182,98319556,Richmond Hill,37878
 43.8425188,-79.4254758,2,Oneida Crescent (554),a,Oneida Crescent,19,5447182,98319554,Richmond Hill,37878
 43.8425223,-79.4234347,2,Red Maple Road (057),a,Red Maple Road,110,5447164,98239057,Richmond Hill,37878
-43.8425311,-79.4191307,2,Red Cedar Avenue (403),a,Red Cedar Avenue,5,5446820,95186403,Richmond Hill,37878
-43.8425379,-79.4202027,2,High Tech Road (244),a,High Tech Road,137,5447300,328451244,Richmond Hill,37878
 43.8425392,-79.4253219,2,Oneida Crescent (553),a,Oneida Crescent,19,5447182,98319553,Richmond Hill,37878
 43.8425441,-79.4396359,2,Westwood Lane (113),a,Westwood Lane,47,5446819,630429113,Richmond Hill,37878
 43.8425492,-79.4532674,2,Jenkins Drive (287),a,Jenkins Drive,31,5446954,96808287,Richmond Hill,37878
 43.8425555,-79.4358764,2,Sunnywood Crescent (155),a,Sunnywood Crescent,15,5446977,96976155,Richmond Hill,37878
-43.8425578,-79.4200252,2,High Tech Road (997),a,High Tech Road,137,5447300,397277997,Richmond Hill,37878
-43.8425657,-79.4191386,2,Red Cedar Avenue (019),a,Red Cedar Avenue,5,5446820,328449019,Richmond Hill,37878
-43.84257,-79.4199158,2,Nahanni Drive (004),a,Nahanni Drive,28,5446899,96380004,Richmond Hill,37878
-43.84257,-79.4199158,2,High Tech Road (245),a,High Tech Road,137,5447300,328451245,Richmond Hill,37878
 43.8425756,-79.4532294,2,Jenkins Drive (288),a,Jenkins Drive,31,5446954,96808288,Richmond Hill,37878
-43.8425763,-79.4073304,2,Creswick Road (096),a,Creswick Road,45,5446946,96776096,Richmond Hill,37878
-43.8425763,-79.4073304,2,Bayview Avenue (007),a,Bayview Avenue,592,5447186,98385007,Richmond Hill,37878
-43.8425763,-79.4073304,2,Bayview Avenue (045),a,Bayview Avenue,592,5447186,98385045,Richmond Hill,37878
 43.8425811,-79.4256749,2,Oneida Crescent (557),a,Oneida Crescent,19,5447182,98319557,Richmond Hill,37878
-43.8425893,-79.4147464,2,Silver Linden Drive (074),a,Silver Linden Drive,84,5446931,328454074,Richmond Hill,37878
-43.8425924,-79.414605,2,Silver Linden Drive (837),a,Silver Linden Drive,84,5446931,473374837,Richmond Hill,37878
-43.8425986,-79.4071533,2,Creswick Road (097),a,Creswick Road,45,5446946,96776097,Richmond Hill,37878
-43.8425986,-79.4071533,2,Creswick Road (100),a,Creswick Road,45,5446946,96776100,Richmond Hill,37878
-43.8425986,-79.4071533,2,Bayview Avenue (640),a,Bayview Avenue,592,5447186,98384640,Richmond Hill,37878
-43.8425986,-79.4071533,2,Bayview Avenue (253),a,Bayview Avenue,592,5447186,98385253,Richmond Hill,37878
 43.8426004,-79.424859,2,Oneida Crescent (552),a,Oneida Crescent,19,5447182,98319552,Richmond Hill,37878
 43.8426012,-79.4491361,2,Maryvale Crescent (364),a,Maryvale Crescent,58,5446992,97106364,Richmond Hill,37878
 43.842606,-79.4393274,2,Westwood Lane (112),a,Westwood Lane,47,5446819,630429112,Richmond Hill,37878
 43.8426111,-79.4531912,2,Jenkins Drive (289),a,Jenkins Drive,31,5446954,96808289,Richmond Hill,37878
-43.8426123,-79.4070439,2,Creswick Road (101),a,Creswick Road,45,5446946,96776101,Richmond Hill,37878
-43.8426383,-79.4068358,2,Creswick Road (102),a,Creswick Road,45,5446946,96776102,Richmond Hill,37878
 43.8426466,-79.453153,2,Jenkins Drive (290),a,Jenkins Drive,31,5446954,96808290,Richmond Hill,37878
 43.8426583,-79.4390663,2,Westwood Lane (399),a,Westwood Lane,47,5446819,579527399,Richmond Hill,37878
-43.8426664,-79.4073544,2,Bayview Avenue (003),a,Bayview Avenue,592,5447186,98385003,Richmond Hill,37878
-43.8426664,-79.4073544,2,Bayview Avenue (768),a,Bayview Avenue,592,5447186,579525768,Richmond Hill,37878
 43.8426668,-79.4390249,2,Westwood Lane (111),a,Westwood Lane,47,5446819,630429111,Richmond Hill,37878
-43.8426753,-79.4191637,2,Red Cedar Avenue (402),a,Red Cedar Avenue,5,5446820,95186402,Richmond Hill,37878
-43.8426753,-79.4191637,2,High Tech Road (246),a,High Tech Road,137,5447300,328451246,Richmond Hill,37878
-43.8426757,-79.4199415,2,Nahanni Drive (137),a,Nahanni Drive,28,5446899,328449137,Richmond Hill,37878
 43.8426769,-79.4553913,2,Tennison Road (663),a,Tennison Road,8,5447050,97396663,Richmond Hill,37878
 43.8426769,-79.4553913,2,Moodie Drive (925),a,Moodie Drive,30,5447108,97826925,Richmond Hill,37878
 43.8426769,-79.4553913,2,Moodie Drive (948),a,Moodie Drive,30,5447108,97826948,Richmond Hill,37878
 43.8426814,-79.4242461,2,Oneida Crescent (551),a,Oneida Crescent,19,5447182,98319551,Richmond Hill,37878
 43.8426821,-79.4531147,2,Jenkins Drive (291),a,Jenkins Drive,31,5446954,96808291,Richmond Hill,37878
 43.8426844,-79.3920005,2,Valleymede Drive (105),a,Valleymede Drive,134,5447474,99019105,Richmond Hill,37878
-43.8426849,-79.4071739,2,Creswick Road (070),a,Creswick Road,45,5446946,96776070,Richmond Hill,37878
-43.8426849,-79.4071739,2,Bayview Avenue (643),a,Bayview Avenue,592,5447186,98384643,Richmond Hill,37878
-43.8426849,-79.4071739,2,Bayview Avenue (048),a,Bayview Avenue,592,5447186,98385048,Richmond Hill,37878
-43.842688,-79.4180342,2,High Tech Road (249),a,High Tech Road,137,5447300,328451249,Richmond Hill,37878
 43.8426922,-79.4241647,2,Oneida Crescent (550),a,Oneida Crescent,19,5447182,98319550,Richmond Hill,37878
 43.8426944,-79.391906,2,Valleymede Drive (112),a,Valleymede Drive,134,5447474,99019112,Richmond Hill,37878
-43.8426959,-79.4070667,2,Creswick Road (067),a,Creswick Road,45,5446946,96776067,Richmond Hill,37878
-43.8426962,-79.4067343,2,Creswick Road (063),a,Creswick Road,45,5446946,96776063,Richmond Hill,37878
-43.8426962,-79.4067343,2,Creswick Road (103),a,Creswick Road,45,5446946,96776103,Richmond Hill,37878
-43.8426962,-79.4067343,2,Creswick Road (137),a,Creswick Road,45,5446946,96776137,Richmond Hill,37878
-43.8426963,-79.4186311,2,High Tech Road (248),a,High Tech Road,137,5447300,328451248,Richmond Hill,37878
 43.8426981,-79.4469939,2,Bryson Drive (549),a,Bryson Drive,18,5447383,98837549,Richmond Hill,37878
 43.8426993,-79.447081,2,Bryson Drive (548),a,Bryson Drive,18,5447383,98837548,Richmond Hill,37878
 43.842701,-79.4472053,2,Bryson Drive (547),a,Bryson Drive,18,5447383,98837547,Richmond Hill,37878
-43.8427013,-79.4189917,2,High Tech Road (247),a,High Tech Road,137,5447300,328451247,Richmond Hill,37878
-43.8427052,-79.4065632,2,Creswick Road (138),a,Creswick Road,45,5446946,96776138,Richmond Hill,37878
-43.8427052,-79.4065632,2,Creswick Road (102),a,Creswick Road,45,5446946,579526102,Richmond Hill,37878
 43.8427133,-79.446782,2,Bryson Drive (550),a,Bryson Drive,18,5447383,98837550,Richmond Hill,37878
-43.8427169,-79.4068619,2,Creswick Road (065),a,Creswick Road,45,5446946,96776065,Richmond Hill,37878
 43.8427209,-79.4473416,2,Bryson Drive (546),a,Bryson Drive,18,5447383,98837546,Richmond Hill,37878
-43.8427233,-79.4199531,2,Nahanni Drive (006),a,Nahanni Drive,28,5446899,96380006,Richmond Hill,37878
 43.8427265,-79.4530638,2,Jenkins Drive (292),a,Jenkins Drive,31,5446954,96808292,Richmond Hill,37878
 43.8427303,-79.4306238,2,Yonge Street (983),a,Yonge Street,890,5446601,500828983,Richmond Hill,37878
 43.8427511,-79.4555512,2,Moodie Drive (926),a,Moodie Drive,30,5447108,97826926,Richmond Hill,37878
@@ -1088,14 +1001,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8427619,-79.4238241,2,Oneida Crescent (461),a,Oneida Crescent,19,5447182,451763461,Richmond Hill,37878
 43.8427664,-79.4553517,2,Tennison Road (664),a,Tennison Road,8,5447050,97396664,Richmond Hill,37878
 43.8427707,-79.4237811,2,Oneida Crescent (997),a,Oneida Crescent,19,5447182,328449997,Richmond Hill,37878
-43.8427711,-79.4147871,2,Silver Linden Drive (073),a,Silver Linden Drive,84,5446931,328454073,Richmond Hill,37878
 43.8427719,-79.4491068,2,Maryvale Crescent (366),a,Maryvale Crescent,58,5446992,97106366,Richmond Hill,37878
 43.8427745,-79.3919829,2,Valleymede Drive (104),a,Valleymede Drive,134,5447474,99019104,Richmond Hill,37878
 43.8427745,-79.3919829,2,Valleymede Drive (113),a,Valleymede Drive,134,5447474,99019113,Richmond Hill,37878
 43.8427745,-79.3919829,2,Valleymede Drive (319),a,Valleymede Drive,134,5447474,579527319,Richmond Hill,37878
 43.8427798,-79.4530127,2,Jenkins Drive (293),a,Jenkins Drive,31,5446954,96808293,Richmond Hill,37878
-43.842781,-79.4065408,2,Creswick Road (434),a,Creswick Road,45,5446946,530161434,Richmond Hill,37878
-43.8428045,-79.4146458,2,Silver Linden Drive (838),a,Silver Linden Drive,84,5446931,473374838,Richmond Hill,37878
 43.8428056,-79.4383456,2,Westwood Lane (578),a,Westwood Lane,47,5446819,328453578,Richmond Hill,37878
 43.8428071,-79.455699,2,Moodie Drive (927),a,Moodie Drive,30,5447108,97826927,Richmond Hill,37878
 43.8428103,-79.4426619,2,Orlon Crescent (302),a,Orlon Crescent,29,5446889,96233302,Richmond Hill,37878
@@ -1110,24 +1020,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8428468,-79.4330707,2,Sunnywood Crescent (128),a,Sunnywood Crescent,15,5446977,630429128,Richmond Hill,37878
 43.8428509,-79.4463057,2,Bryson Drive (552),a,Bryson Drive,18,5447383,98837552,Richmond Hill,37878
 43.8428516,-79.4529984,2,Jenkins Drive (294),a,Jenkins Drive,31,5446954,96808294,Richmond Hill,37878
-43.8428615,-79.4065476,2,Creswick Road (435),a,Creswick Road,45,5446946,530161435,Richmond Hill,37878
 43.8428641,-79.4552497,2,Tennison Road (666),a,Tennison Road,8,5447050,97396666,Richmond Hill,37878
 43.8428671,-79.4428719,2,Orlon Crescent (306),a,Orlon Crescent,29,5446889,96233306,Richmond Hill,37878
 43.8428722,-79.4558466,2,Moodie Drive (929),a,Moodie Drive,30,5447108,97826929,Richmond Hill,37878
-43.8428741,-79.4145956,2,High Tech Road (626),a,High Tech Road,137,5447300,98666626,Richmond Hill,37878
 43.8428888,-79.3920108,2,Valleymede Drive (174),a,Valleymede Drive,134,5447474,560838174,Richmond Hill,37878
 43.8428916,-79.4575962,2,Bathurst Street (628),a,Bathurst Street,380,5446829,408997628,Richmond Hill,37878
 43.8428916,-79.4575962,2,Bathurst Street (491),a,Bathurst Street,380,5446829,630428491,Richmond Hill,37878
 43.8428916,-79.4575962,2,Bathurst Street (492),a,Bathurst Street,380,5446829,630428492,Richmond Hill,37878
 43.842893,-79.4236317,2,Red Maple Road (205),a,Red Maple Road,110,5447164,328451205,Richmond Hill,37878
 43.8428991,-79.4551741,2,Tennison Road (667),a,Tennison Road,8,5447050,97396667,Richmond Hill,37878
-43.8428992,-79.4065549,2,Creswick Road (436),a,Creswick Road,45,5446946,530161436,Richmond Hill,37878
 43.8429022,-79.4408184,2,Claridge Drive (584),a,Claridge Drive,37,5446857,95870584,Richmond Hill,37878
 43.8429033,-79.4428834,2,Orlon Crescent (308),a,Orlon Crescent,29,5446889,96233308,Richmond Hill,37878
 43.8429083,-79.4478841,2,Bryson Drive (543),a,Bryson Drive,18,5447383,98837543,Richmond Hill,37878
 43.8429085,-79.4306716,2,Yonge Street (982),a,Yonge Street,890,5446601,500828982,Richmond Hill,37878
 43.8429182,-79.45592,2,Moodie Drive (930),a,Moodie Drive,30,5447108,97826930,Richmond Hill,37878
-43.8429319,-79.4141963,2,High Tech Road (627),a,High Tech Road,137,5447300,98666627,Richmond Hill,37878
 43.8429332,-79.4490528,2,Maryvale Crescent (369),a,Maryvale Crescent,58,5446992,97106369,Richmond Hill,37878
 43.8429395,-79.4428949,2,Orlon Crescent (309),a,Orlon Crescent,29,5446889,96233309,Richmond Hill,37878
 43.8429416,-79.4529961,2,Jenkins Drive (295),a,Jenkins Drive,31,5446954,96808295,Richmond Hill,37878
@@ -1135,63 +1041,38 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8429475,-79.3920252,2,Valleymede Drive (732),a,Valleymede Drive,134,5447474,328451732,Richmond Hill,37878
 43.8429503,-79.4575463,2,Bathurst Street (791),a,Bathurst Street,380,5446829,95472791,Richmond Hill,37878
 43.8429547,-79.4559564,2,Moodie Drive (931),a,Moodie Drive,30,5447108,97826931,Richmond Hill,37878
-43.842968,-79.4200127,2,Nahanni Drive (776),a,Nahanni Drive,28,5446899,397277776,Richmond Hill,37878
 43.8429707,-79.4375324,2,Westwood Lane (577),a,Westwood Lane,47,5446819,328453577,Richmond Hill,37878
-43.8429847,-79.4141078,2,High Tech Road (628),a,High Tech Road,137,5447300,98666628,Richmond Hill,37878
-43.8429847,-79.4141078,2,High Tech Road (631),a,High Tech Road,137,5447300,98666631,Richmond Hill,37878
-43.8429847,-79.4141078,2,High Tech Road (443),a,High Tech Road,137,5447300,579526443,Richmond Hill,37878
 43.8429893,-79.437435,2,Pearson Avenue (558),a,Pearson Avenue,48,5446816,328453558,Richmond Hill,37878
 43.8429893,-79.437435,2,Westwood Lane (576),a,Westwood Lane,47,5446819,328453576,Richmond Hill,37878
-43.8430307,-79.420028,2,Nahanni Drive (008),a,Nahanni Drive,28,5446899,96380008,Richmond Hill,37878
-43.8430307,-79.420028,2,Nahanni Drive (009),a,Nahanni Drive,28,5446899,96380009,Richmond Hill,37878
-43.8430307,-79.420028,2,Waterton Crescent (639),a,Waterton Crescent,21,5446998,97139639,Richmond Hill,37878
-43.8430321,-79.4142118,2,High Tech Road (632),a,High Tech Road,137,5447300,98666632,Richmond Hill,37878
 43.8430365,-79.4560165,2,Moodie Drive (932),a,Moodie Drive,30,5447108,97826932,Richmond Hill,37878
-43.8430444,-79.419941,2,Waterton Crescent (459),a,Waterton Crescent,21,5446998,451763459,Richmond Hill,37878
 43.8430721,-79.4374776,2,Pearson Avenue (557),a,Pearson Avenue,48,5446816,328453557,Richmond Hill,37878
 43.8430782,-79.4320125,2,Rosewater Street (134),a,Rosewater Street,3,25180141,630429134,Richmond Hill,37878
 43.8430884,-79.3920597,2,Valleymede Drive (733),a,Valleymede Drive,134,5447474,328451733,Richmond Hill,37878
 43.8430939,-79.4489491,2,Maryvale Crescent (371),a,Maryvale Crescent,58,5446992,97106371,Richmond Hill,37878
-43.8430946,-79.4066036,2,Creswick Road (112),a,Creswick Road,45,5446946,96776112,Richmond Hill,37878
-43.8430946,-79.4066036,2,Creswick Road (142),a,Creswick Road,45,5446946,96776142,Richmond Hill,37878
-43.8430946,-79.4066036,2,Creswick Road (103),a,Creswick Road,45,5446946,579526103,Richmond Hill,37878
 43.8430969,-79.4412363,2,Orlon Crescent (296),a,Orlon Crescent,29,5446889,96233296,Richmond Hill,37878
 43.8431216,-79.4409062,2,Claridge Drive (042),a,Claridge Drive,37,5446857,397278042,Richmond Hill,37878
 43.843136,-79.4560513,2,Moodie Drive (933),a,Moodie Drive,30,5447108,97826933,Richmond Hill,37878
 43.8431382,-79.441046,2,Orlon Crescent (074),a,Orlon Crescent,29,5446889,415067074,Richmond Hill,37878
 43.8431446,-79.4304838,2,Yonge Street (407),a,Yonge Street,890,5446601,424871407,Richmond Hill,37878
-43.8431466,-79.419291,2,Waterton Crescent (640),a,Waterton Crescent,21,5446998,97139640,Richmond Hill,37878
 43.8431479,-79.4482884,2,Bryson Drive (542),a,Bryson Drive,18,5447383,98837542,Richmond Hill,37878
-43.8431529,-79.4184449,2,Waterton Crescent (643),a,Waterton Crescent,21,5446998,97139643,Richmond Hill,37878
-43.8431627,-79.4191537,2,Waterton Crescent (641),a,Waterton Crescent,21,5446998,97139641,Richmond Hill,37878
 43.8431647,-79.4409235,2,Claridge Drive (581),a,Claridge Drive,37,5446857,95870581,Richmond Hill,37878
 43.8431647,-79.4409235,2,Claridge Drive (585),a,Claridge Drive,37,5446857,95870585,Richmond Hill,37878
 43.8431647,-79.4409235,2,Orlon Crescent (293),a,Orlon Crescent,29,5446889,96233293,Richmond Hill,37878
-43.8431695,-79.4183449,2,Waterton Crescent (644),a,Waterton Crescent,21,5446998,97139644,Richmond Hill,37878
-43.8431701,-79.4190416,2,Waterton Crescent (642),a,Waterton Crescent,21,5446998,97139642,Richmond Hill,37878
-43.8431731,-79.4062012,2,Creswick Road (113),a,Creswick Road,45,5446946,96776113,Richmond Hill,37878
 43.8431865,-79.4307461,2,Yonge Street (414),a,Yonge Street,890,5446601,328453414,Richmond Hill,37878
 43.8431997,-79.4258307,2,Oneida Crescent (558),a,Oneida Crescent,19,5447182,98319558,Richmond Hill,37878
-43.8432136,-79.4182816,2,Waterton Crescent (645),a,Waterton Crescent,21,5446998,97139645,Richmond Hill,37878
 43.8432167,-79.4454006,2,Bryson Drive (553),a,Bryson Drive,18,5447383,98837553,Richmond Hill,37878
 43.8432173,-79.4360404,2,Sunnywood Crescent (258),a,Sunnywood Crescent,15,5446977,328449258,Richmond Hill,37878
 43.843226,-79.4126833,2,High Tech Road (257),a,High Tech Road,137,5447300,328451257,Richmond Hill,37878
 43.8432275,-79.4488462,2,Maryvale Crescent (374),a,Maryvale Crescent,58,5446992,97106374,Richmond Hill,37878
-43.8432392,-79.4058658,2,Creswick Road (115),a,Creswick Road,45,5446946,96776115,Richmond Hill,37878
 43.8432395,-79.4576163,2,Bathurst Street (793),a,Bathurst Street,380,5446829,95472793,Richmond Hill,37878
 43.8432582,-79.4361629,2,Westwood Lane (110),a,Westwood Lane,47,5446819,630429110,Richmond Hill,37878
-43.8432675,-79.4182677,2,Waterton Crescent (646),a,Waterton Crescent,21,5446998,97139646,Richmond Hill,37878
-43.8432745,-79.4058151,2,Creswick Road (116),a,Creswick Road,45,5446946,96776116,Richmond Hill,37878
 43.8432808,-79.4360562,2,Westwood Lane (575),a,Westwood Lane,47,5446819,328453575,Richmond Hill,37878
 43.8432808,-79.4360562,2,Sunnywood Crescent (157),a,Sunnywood Crescent,15,5446977,96976157,Richmond Hill,37878
 43.843302,-79.4359557,2,Westwood Lane (109),a,Westwood Lane,47,5446819,630429109,Richmond Hill,37878
 43.8433034,-79.4485896,2,Bryson Drive (099),a,Bryson Drive,18,5447383,415067099,Richmond Hill,37878
 43.8433258,-79.448633,2,Bryson Drive (918),a,Bryson Drive,18,5447383,397277918,Richmond Hill,37878
-43.8433306,-79.4182785,2,Waterton Crescent (647),a,Waterton Crescent,21,5446998,97139647,Richmond Hill,37878
 43.8433347,-79.4375683,2,Pearson Avenue (556),a,Pearson Avenue,48,5446816,328453556,Richmond Hill,37878
-43.8433371,-79.4057886,2,Creswick Road (119),a,Creswick Road,45,5446946,96776119,Richmond Hill,37878
 43.8433372,-79.4532424,2,Tennison Road (669),a,Tennison Road,8,5447050,97396669,Richmond Hill,37878
-43.8433504,-79.4057919,2,Creswick Road (573),a,Creswick Road,45,5446946,485663573,Richmond Hill,37878
 43.8433663,-79.4531095,2,Jenkins Drive (264),a,Jenkins Drive,31,5446954,96808264,Richmond Hill,37878
 43.8433663,-79.4531095,2,Jenkins Drive (296),a,Jenkins Drive,31,5446954,96808296,Richmond Hill,37878
 43.8433663,-79.4531095,2,Tennison Road (670),a,Tennison Road,8,5447050,97396670,Richmond Hill,37878
@@ -1199,14 +1080,12 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8433698,-79.4487181,2,Maryvale Crescent (376),a,Maryvale Crescent,58,5446992,97106376,Richmond Hill,37878
 43.8433698,-79.4487181,2,Bryson Drive (541),a,Bryson Drive,18,5447383,98837541,Richmond Hill,37878
 43.8433744,-79.4123435,2,High Tech Road (258),a,High Tech Road,137,5447300,328451258,Richmond Hill,37878
-43.8433823,-79.4057998,2,Creswick Road (121),a,Creswick Road,45,5446946,96776121,Richmond Hill,37878
 43.8433851,-79.4576536,2,Bathurst Street (794),a,Bathurst Street,380,5446829,95472794,Richmond Hill,37878
 43.8433851,-79.4576536,2,Bathurst Street (796),a,Bathurst Street,380,5446829,95472796,Richmond Hill,37878
 43.8433851,-79.4576536,2,Teefy Avenue (550),a,Teefy Avenue,14,5447266,98590550,Richmond Hill,37878
 43.8433851,-79.4576536,2,Teefy Avenue (524),a,Teefy Avenue,14,5447266,630429524,Richmond Hill,37878
 43.8433914,-79.4576245,2,Teefy Avenue (551),a,Teefy Avenue,14,5447266,98590551,Richmond Hill,37878
 43.8434132,-79.4575045,2,Teefy Avenue (552),a,Teefy Avenue,14,5447266,98590552,Richmond Hill,37878
-43.843421,-79.418301,2,Waterton Crescent (648),a,Waterton Crescent,21,5446998,97139648,Richmond Hill,37878
 43.8434398,-79.4305515,2,Yonge Street (042),a,Yonge Street,890,5446601,92567042,Richmond Hill,37878
 43.8434398,-79.4305515,2,Yonge Street (454),a,Yonge Street,890,5446601,579527454,Richmond Hill,37878
 43.8434493,-79.4486041,2,Maryvale Crescent (241),a,Maryvale Crescent,58,5446992,97106241,Richmond Hill,37878
@@ -1218,68 +1097,45 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8435165,-79.4576803,2,Bathurst Street (797),a,Bathurst Street,380,5446829,95472797,Richmond Hill,37878
 43.8435272,-79.4239686,2,Red Maple Road (206),a,Red Maple Road,110,5447164,328451206,Richmond Hill,37878
 43.8435286,-79.4484776,2,Maryvale Crescent (244),a,Maryvale Crescent,58,5446992,97106244,Richmond Hill,37878
-43.8435477,-79.4183474,2,Waterton Crescent (649),a,Waterton Crescent,21,5446998,97139649,Richmond Hill,37878
 43.8435565,-79.4445707,2,Bryson Drive (554),a,Bryson Drive,18,5447383,98837554,Richmond Hill,37878
 43.8435586,-79.4322468,2,Rosewater Street (133),a,Rosewater Street,3,25180141,630429133,Richmond Hill,37878
 43.8435866,-79.4444642,2,Bryson Drive (882),a,Bryson Drive,18,5447383,328450882,Richmond Hill,37878
 43.8435986,-79.4562406,2,Moodie Drive (934),a,Moodie Drive,30,5447108,97826934,Richmond Hill,37878
 43.8435991,-79.4483638,2,Maryvale Crescent (246),a,Maryvale Crescent,58,5446992,97106246,Richmond Hill,37878
-43.8436003,-79.4201996,2,Nahanni Drive (011),a,Nahanni Drive,28,5446899,96380011,Richmond Hill,37878
-43.8436003,-79.4201996,2,Nahanni Drive (013),a,Nahanni Drive,28,5446899,96380013,Richmond Hill,37878
-43.8436003,-79.4201996,2,Waterton Crescent (657),a,Waterton Crescent,21,5446998,97139657,Richmond Hill,37878
 43.8436167,-79.4443577,2,Bryson Drive (555),a,Bryson Drive,18,5447383,98837555,Richmond Hill,37878
 43.8436167,-79.4443577,2,Denham Drive (547),a,Denham Drive,59,5447462,98984547,Richmond Hill,37878
 43.8436167,-79.4443577,2,Silkstone Gate (117),a,Silkstone Gate,6,5447494,99058117,Richmond Hill,37878
-43.8436167,-79.4200862,2,Waterton Crescent (460),a,Waterton Crescent,21,5446998,451763460,Richmond Hill,37878
 43.8436287,-79.4442947,2,Silkstone Gate (007),a,Silkstone Gate,6,5447494,328452007,Richmond Hill,37878
 43.8436363,-79.4442553,2,Silkstone Gate (008),a,Silkstone Gate,6,5447494,328452008,Richmond Hill,37878
 43.8436486,-79.3921906,2,Valleymede Drive (734),a,Valleymede Drive,134,5447474,328451734,Richmond Hill,37878
 43.8436662,-79.4074183,2,Bayview Avenue (049),a,Bayview Avenue,592,5447186,98385049,Richmond Hill,37878
 43.8436662,-79.4074183,2,Bayview Avenue (189),a,Bayview Avenue,592,5447186,98385189,Richmond Hill,37878
-43.8436663,-79.4202169,2,Nahanni Drive (885),a,Nahanni Drive,28,5446899,397277885,Richmond Hill,37878
 43.8436758,-79.4443814,2,Denham Drive (014),a,Denham Drive,59,5447462,397278014,Richmond Hill,37878
 43.8436784,-79.4482374,2,Maryvale Crescent (249),a,Maryvale Crescent,58,5446992,97106249,Richmond Hill,37878
 43.8436792,-79.4562736,2,Moodie Drive (935),a,Moodie Drive,30,5447108,97826935,Richmond Hill,37878
 43.8436792,-79.4562736,2,Teefy Avenue (554),a,Teefy Avenue,14,5447266,98590554,Richmond Hill,37878
 43.8436792,-79.4562736,2,Teefy Avenue (562),a,Teefy Avenue,14,5447266,98590562,Richmond Hill,37878
-43.8437012,-79.4183806,2,Waterton Crescent (650),a,Waterton Crescent,21,5446998,97139650,Richmond Hill,37878
-43.8437318,-79.419288,2,Waterton Crescent (656),a,Waterton Crescent,21,5446998,97139656,Richmond Hill,37878
 43.8437491,-79.448136,2,Maryvale Crescent (252),a,Maryvale Crescent,58,5446992,97106252,Richmond Hill,37878
-43.8437627,-79.4059638,2,Creswick Road (124),a,Creswick Road,45,5446946,96776124,Richmond Hill,37878
 43.8437726,-79.4577383,2,Bathurst Street (799),a,Bathurst Street,380,5446829,95472799,Richmond Hill,37878
-43.8437827,-79.4184158,2,Waterton Crescent (651),a,Waterton Crescent,21,5446998,97139651,Richmond Hill,37878
-43.8437847,-79.4059882,2,Creswick Road (125),a,Creswick Road,45,5446946,96776125,Richmond Hill,37878
-43.8437931,-79.4067774,2,Creswick Road (131),a,Creswick Road,45,5446946,96776131,Richmond Hill,37878
-43.8437931,-79.4067774,2,Creswick Road (134),a,Creswick Road,45,5446946,96776134,Richmond Hill,37878
-43.8437931,-79.4067774,2,Creswick Road (143),a,Creswick Road,45,5446946,96776143,Richmond Hill,37878
 43.8438018,-79.4433829,2,Silkstone Gate (106),a,Silkstone Gate,6,5447494,415067106,Richmond Hill,37878
 43.8438025,-79.4519426,2,Udine Court (609),a,Udine Court,25,5446853,354033609,Richmond Hill,37878
 43.8438028,-79.4518928,2,Udine Court (129),a,Udine Court,25,5446853,95794129,Richmond Hill,37878
 43.8438046,-79.4259878,2,Oneida Crescent (056),a,Oneida Crescent,19,5447182,397278056,Richmond Hill,37878
-43.8438104,-79.4184648,2,Waterton Crescent (652),a,Waterton Crescent,21,5446998,97139652,Richmond Hill,37878
 43.8438132,-79.4433285,2,Silkstone Gate (017),a,Silkstone Gate,6,5447494,397278017,Richmond Hill,37878
-43.8438132,-79.4186638,2,Waterton Crescent (655),a,Waterton Crescent,21,5446998,97139655,Richmond Hill,37878
 43.8438141,-79.4518488,2,Udine Court (130),a,Udine Court,25,5446853,95794130,Richmond Hill,37878
 43.8438142,-79.4519896,2,Udine Court (608),a,Udine Court,25,5446853,354033608,Richmond Hill,37878
 43.8438168,-79.4578042,2,Bathurst Street (631),a,Bathurst Street,380,5446829,408997631,Richmond Hill,37878
 43.8438168,-79.4578042,2,Bathurst Street (673),a,Bathurst Street,380,5446829,579525673,Richmond Hill,37878
 43.8438168,-79.4578042,2,Bathurst Street (526),a,Bathurst Street,380,5446829,630429526,Richmond Hill,37878
-43.8438176,-79.4060246,2,Creswick Road (126),a,Creswick Road,45,5446946,96776126,Richmond Hill,37878
-43.8438203,-79.4185268,2,Waterton Crescent (653),a,Waterton Crescent,21,5446998,97139653,Richmond Hill,37878
-43.8438213,-79.4186014,2,Waterton Crescent (654),a,Waterton Crescent,21,5446998,97139654,Richmond Hill,37878
 43.8438268,-79.4432575,2,Orlon Crescent (258),a,Orlon Crescent,29,5446889,96233258,Richmond Hill,37878
 43.8438268,-79.4432575,2,Orlon Crescent (311),a,Orlon Crescent,29,5446889,96233311,Richmond Hill,37878
 43.8438268,-79.4432575,2,Silkstone Gate (120),a,Silkstone Gate,6,5447494,99058120,Richmond Hill,37878
 43.8438286,-79.448022,2,Maryvale Crescent (255),a,Maryvale Crescent,58,5446992,97106255,Richmond Hill,37878
-43.8438319,-79.4060596,2,Creswick Road (127),a,Creswick Road,45,5446946,96776127,Richmond Hill,37878
 43.8438348,-79.4518119,2,Udine Court (131),a,Udine Court,25,5446853,95794131,Richmond Hill,37878
 43.8438365,-79.4520285,2,Udine Court (607),a,Udine Court,25,5446853,354033607,Richmond Hill,37878
 43.8438541,-79.4309191,2,Yonge Street (165),a,Yonge Street,890,5446601,392305165,Richmond Hill,37878
 43.8438628,-79.451786,2,Udine Court (133),a,Udine Court,25,5446853,95794133,Richmond Hill,37878
 43.843867,-79.4520548,2,Udine Court (606),a,Udine Court,25,5446853,354033606,Richmond Hill,37878
-43.8438678,-79.4063965,2,Creswick Road (130),a,Creswick Road,45,5446946,96776130,Richmond Hill,37878
-43.8438829,-79.4061846,2,Creswick Road (128),a,Creswick Road,45,5446946,96776128,Richmond Hill,37878
-43.8438844,-79.4062965,2,Creswick Road (129),a,Creswick Road,45,5446946,96776129,Richmond Hill,37878
 43.84389,-79.42601,2,Oneida Crescent (559),a,Oneida Crescent,19,5447182,98319559,Richmond Hill,37878
 43.84389,-79.42601,2,Oneida Crescent (560),a,Oneida Crescent,19,5447182,98319560,Richmond Hill,37878
 43.8438954,-79.4517736,2,Udine Court (598),a,Udine Court,25,5446853,354033598,Richmond Hill,37878
@@ -1292,7 +1148,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.843935,-79.4419485,2,Colby Lane (032),a,Colby Lane,16,5447158,98201032,Richmond Hill,37878
 43.8439363,-79.4420479,2,Colby Lane (037),a,Colby Lane,16,5447158,98201037,Richmond Hill,37878
 43.8439377,-79.452059,2,Udine Court (604),a,Udine Court,25,5446853,354033604,Richmond Hill,37878
-43.8439467,-79.4068156,2,Creswick Road (135),a,Creswick Road,45,5446946,96776135,Richmond Hill,37878
 43.8439523,-79.4418982,2,Colby Lane (030),a,Colby Lane,16,5447158,98201030,Richmond Hill,37878
 43.843955,-79.4378076,2,Pearson Avenue (555),a,Pearson Avenue,48,5446816,328453555,Richmond Hill,37878
 43.843955,-79.4378076,2,MacKay Drive (070),a,MacKay Drive,8,15729453,328450070,Richmond Hill,37878
@@ -1331,34 +1186,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.84414,-79.4477527,2,Maryvale Crescent (267),a,Maryvale Crescent,58,5446992,97106267,Richmond Hill,37878
 43.8441507,-79.4412586,2,Claridge Drive (566),a,Claridge Drive,37,5446857,95870566,Richmond Hill,37878
 43.8441586,-79.4309887,2,Yonge Street (030),a,Yonge Street,890,5446601,92567030,Richmond Hill,37878
-43.8441606,-79.4203465,2,Nahanni Drive (015),a,Nahanni Drive,28,5446899,96380015,Richmond Hill,37878
-43.8441606,-79.4203465,2,Nahanni Drive (041),a,Nahanni Drive,28,5446899,96380041,Richmond Hill,37878
-43.8441606,-79.4203465,2,Grasslands Avenue (299),a,Grasslands Avenue,13,5447272,98602299,Richmond Hill,37878
-43.8441769,-79.4202303,2,Grasslands Avenue (465),a,Grasslands Avenue,13,5447272,451763465,Richmond Hill,37878
 43.8441804,-79.4077498,2,Bayview Avenue (034),a,Bayview Avenue,592,5447186,98385034,Richmond Hill,37878
 43.8441847,-79.4307233,2,Yonge Street (043),a,Yonge Street,890,5446601,92567043,Richmond Hill,37878
 43.8441986,-79.4316253,2,Westwood Lane (105),a,Westwood Lane,47,5446819,481627105,Richmond Hill,37878
 43.8442139,-79.4412455,2,Claridge Drive (567),a,Claridge Drive,37,5446857,95870567,Richmond Hill,37878
-43.8442263,-79.4068852,2,Creswick Road (574),a,Creswick Road,45,5446946,485663574,Richmond Hill,37878
-43.8442291,-79.4203658,2,Nahanni Drive (923),a,Nahanni Drive,28,5446899,397277923,Richmond Hill,37878
 43.8442348,-79.4314497,2,Westwood Lane (533),a,Westwood Lane,47,5446819,95182533,Richmond Hill,37878
 43.8442348,-79.4314497,2,Westwood Lane (398),a,Westwood Lane,47,5446819,579527398,Richmond Hill,37878
 43.8442369,-79.4533328,2,Jenkins Drive (265),a,Jenkins Drive,31,5446954,96808265,Richmond Hill,37878
 43.8442724,-79.4312836,2,Westwood Lane (149),a,Westwood Lane,47,5446819,392305149,Richmond Hill,37878
-43.844273,-79.4071868,2,Creswick Road (932),a,Creswick Road,45,5446946,328453932,Richmond Hill,37878
 43.8442743,-79.4412368,2,Claridge Drive (568),a,Claridge Drive,37,5446857,95870568,Richmond Hill,37878
-43.8442896,-79.4073399,2,Creswick Road (931),a,Creswick Road,45,5446946,328453931,Richmond Hill,37878
-43.8442965,-79.4070002,2,Creswick Road (576),a,Creswick Road,45,5446946,485663576,Richmond Hill,37878
-43.8442985,-79.4073812,2,Creswick Road (930),a,Creswick Road,45,5446946,328453930,Richmond Hill,37878
 43.8442992,-79.4311656,2,Westwood Lane (532),a,Westwood Lane,47,5446819,95182532,Richmond Hill,37878
 43.8443009,-79.4476614,2,Maryvale Crescent (269),a,Maryvale Crescent,58,5446992,97106269,Richmond Hill,37878
-43.8443076,-79.4075871,2,Bayview Avenue (181),a,Bayview Avenue,592,5447186,328453181,Richmond Hill,37878
 43.8443109,-79.4533518,2,Jenkins Drive (266),a,Jenkins Drive,31,5446954,96808266,Richmond Hill,37878
 43.8443109,-79.4533518,2,Teefy Avenue (555),a,Teefy Avenue,14,5447266,98590555,Richmond Hill,37878
 43.8443109,-79.4533518,2,Teefy Avenue (560),a,Teefy Avenue,14,5447266,98590560,Richmond Hill,37878
-43.8443161,-79.406907,2,Creswick Road (132),a,Creswick Road,45,5446946,96776132,Richmond Hill,37878
-43.8443161,-79.406907,2,Creswick Road (136),a,Creswick Road,45,5446946,96776136,Richmond Hill,37878
-43.8443161,-79.406907,2,Creswick Road (101),a,Creswick Road,45,5446946,579526101,Richmond Hill,37878
 43.8443193,-79.4310185,2,Yonge Street (029),a,Yonge Street,890,5446601,92567029,Richmond Hill,37878
 43.8443193,-79.4310185,2,Yonge Street (492),a,Yonge Street,890,5446601,579527492,Richmond Hill,37878
 43.8443193,-79.4310185,2,Westwood Lane (531),a,Westwood Lane,47,5446819,95182531,Richmond Hill,37878
@@ -1372,7 +1213,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.844388,-79.4304685,2,Beresford Drive (006),a,Beresford Drive,26,5447781,392305006,Richmond Hill,37878
 43.8444106,-79.4579358,2,Bathurst Street (525),a,Bathurst Street,380,5446829,630429525,Richmond Hill,37878
 43.8444193,-79.430772,2,Yonge Street (198),a,Yonge Street,890,5446601,392305198,Richmond Hill,37878
-43.844426,-79.406394,2,Creswick Road (133),a,Creswick Road,45,5446946,96776133,Richmond Hill,37878
 43.8444281,-79.4301453,2,Baffin Court (137),a,Baffin Court,23,5446949,630429137,Richmond Hill,37878
 43.8444281,-79.4301453,2,Beresford Drive (942),a,Beresford Drive,26,5447781,630428942,Richmond Hill,37878
 43.8444281,-79.4301453,2,Beresford Drive (136),a,Beresford Drive,26,5447781,630429136,Richmond Hill,37878
@@ -1401,7 +1241,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8445782,-79.4475298,2,Maryvale Crescent (275),a,Maryvale Crescent,58,5446992,97106275,Richmond Hill,37878
 43.8445799,-79.3820911,2,Highway 7 (621),a,Highway 7,63,5446603,92701621,Richmond Hill,37878
 43.8445853,-79.4295582,2,Baffin Court (642),a,Baffin Court,23,5446949,579525642,Richmond Hill,37878
-43.8446035,-79.4204716,2,Nahanni Drive (045),a,Nahanni Drive,28,5446899,96380045,Richmond Hill,37878
 43.8446135,-79.3822846,2,Leslie Street (246),a,Leslie Street,580,5446825,95412246,Richmond Hill,37878
 43.8446146,-79.440948,2,Claridge Drive (572),a,Claridge Drive,37,5446857,95870572,Richmond Hill,37878
 43.8446171,-79.4579816,2,Bathurst Street (406),a,Bathurst Street,380,5446829,560837406,Richmond Hill,37878
@@ -1410,7 +1249,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8446407,-79.4284271,2,Beresford Drive (857),a,Beresford Drive,26,5447781,579525857,Richmond Hill,37878
 43.8446498,-79.4408849,2,Claridge Drive (573),a,Claridge Drive,37,5446857,95870573,Richmond Hill,37878
 43.8446499,-79.4284073,2,Beresford Drive (128),a,Beresford Drive,26,5447781,99587128,Richmond Hill,37878
-43.8446575,-79.4204702,2,Nahanni Drive (048),a,Nahanni Drive,28,5446899,96380048,Richmond Hill,37878
 43.8446583,-79.4474655,2,Maryvale Crescent (278),a,Maryvale Crescent,58,5446992,97106278,Richmond Hill,37878
 43.8446707,-79.4408243,2,Claridge Drive (574),a,Claridge Drive,37,5446857,95870574,Richmond Hill,37878
 43.8446707,-79.4408243,2,Claridge Drive (575),a,Claridge Drive,37,5446857,95870575,Richmond Hill,37878
@@ -1419,7 +1257,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8446764,-79.4283693,2,Beresford Drive (129),a,Beresford Drive,26,5447781,99587129,Richmond Hill,37878
 43.8446869,-79.4436083,2,Orlon Crescent (261),a,Orlon Crescent,29,5446889,96233261,Richmond Hill,37878
 43.8446888,-79.4407588,2,Claridge Drive (905),a,Claridge Drive,37,5446857,397277905,Richmond Hill,37878
-43.8446935,-79.4204693,2,Nahanni Drive (050),a,Nahanni Drive,28,5446899,96380050,Richmond Hill,37878
 43.8447016,-79.4407218,2,Claridge Drive (576),a,Claridge Drive,37,5446857,95870576,Richmond Hill,37878
 43.8447165,-79.4561426,2,Bay Lily Crescent (560),a,Bay Lily Crescent,5,5447831,99658560,Richmond Hill,37878
 43.844721,-79.4283432,2,Beresford Drive (130),a,Beresford Drive,26,5447781,99587130,Richmond Hill,37878
@@ -1427,11 +1264,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8447321,-79.4436196,2,Orlon Crescent (262),a,Orlon Crescent,29,5446889,96233262,Richmond Hill,37878
 43.8447388,-79.4474261,2,Maryvale Crescent (280),a,Maryvale Crescent,58,5446992,97106280,Richmond Hill,37878
 43.8447425,-79.4424002,2,Colby Lane (044),a,Colby Lane,16,5447158,98201044,Richmond Hill,37878
-43.8447468,-79.4204181,2,Nahanni Drive (052),a,Nahanni Drive,28,5446899,96380052,Richmond Hill,37878
 43.8447488,-79.4448119,2,Denham Drive (546),a,Denham Drive,59,5447462,98984546,Richmond Hill,37878
 43.8447624,-79.3812973,2,Highway 7 (620),a,Highway 7,63,5446603,92701620,Richmond Hill,37878
 43.8447627,-79.4409131,2,Orlon Crescent (065),a,Orlon Crescent,29,5446889,415067065,Richmond Hill,37878
-43.8447634,-79.4203181,2,Nahanni Drive (053),a,Nahanni Drive,28,5446899,96380053,Richmond Hill,37878
 43.844766,-79.4381216,2,Pearson Avenue (553),a,Pearson Avenue,48,5446816,328453553,Richmond Hill,37878
 43.844766,-79.428342,2,Beresford Drive (131),a,Beresford Drive,26,5447781,99587131,Richmond Hill,37878
 43.8447771,-79.4436184,2,Orlon Crescent (264),a,Orlon Crescent,29,5446889,96233264,Richmond Hill,37878
@@ -1442,89 +1277,48 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8448202,-79.4283531,2,Beresford Drive (132),a,Beresford Drive,26,5447781,99587132,Richmond Hill,37878
 43.8448309,-79.4436046,2,Orlon Crescent (266),a,Orlon Crescent,29,5446889,96233266,Richmond Hill,37878
 43.8448373,-79.4401087,2,Claridge Drive (578),a,Claridge Drive,37,5446857,95870578,Richmond Hill,37878
-43.8448549,-79.4197338,2,Nahanni Drive (924),a,Nahanni Drive,28,5446899,397277924,Richmond Hill,37878
 43.8448571,-79.4435417,2,Orlon Crescent (268),a,Orlon Crescent,29,5446889,96233268,Richmond Hill,37878
 43.8448635,-79.4550401,2,Bay Lily Crescent (562),a,Bay Lily Crescent,5,5447831,99658562,Richmond Hill,37878
-43.844871,-79.4196311,2,Nahanni Drive (016),a,Nahanni Drive,28,5446899,96380016,Richmond Hill,37878
-43.844871,-79.4196311,2,Nahanni Drive (055),a,Nahanni Drive,28,5446899,96380055,Richmond Hill,37878
-43.844871,-79.4196311,2,Sibley Street (964),a,Sibley Street,8,5446957,96822964,Richmond Hill,37878
 43.8448906,-79.4245432,2,Red Maple Road (451),a,Red Maple Road,110,5447164,530161451,Richmond Hill,37878
 43.8448912,-79.443404,2,Orlon Crescent (270),a,Orlon Crescent,29,5446889,96233270,Richmond Hill,37878
 43.8448948,-79.4410278,2,Orlon Crescent (277),a,Orlon Crescent,29,5446889,96233277,Richmond Hill,37878
 43.8448998,-79.4473473,2,Maryvale Crescent (285),a,Maryvale Crescent,58,5446992,97106285,Richmond Hill,37878
 43.8449158,-79.4381216,2,Pearson Avenue (743),a,Pearson Avenue,48,5446816,95159743,Richmond Hill,37878
 43.8449158,-79.4381216,2,Scott Drive (771),a,Scott Drive,15,5447432,98919771,Richmond Hill,37878
-43.8449173,-79.4079487,2,Bayview Avenue (033),a,Bayview Avenue,592,5447186,98385033,Richmond Hill,37878
-43.8449287,-79.4088687,2,High Tech Road (801),a,High Tech Road,137,5447300,630428801,Richmond Hill,37878
-43.8449296,-79.4196468,2,Sibley Street (792),a,Sibley Street,8,5446957,397277792,Richmond Hill,37878
 43.8449303,-79.4379841,2,Scott Drive (158),a,Scott Drive,15,5447432,560838158,Richmond Hill,37878
 43.8449305,-79.4396833,2,Claridge Drive (579),a,Claridge Drive,37,5446857,95870579,Richmond Hill,37878
-43.8449353,-79.40882,2,High Tech Road (802),a,High Tech Road,137,5447300,630428802,Richmond Hill,37878
-43.8449463,-79.4077542,2,Bayview Avenue (871),a,Bayview Avenue,592,5447186,473374871,Richmond Hill,37878
 43.8449478,-79.4396331,2,Claridge Drive (538),a,Claridge Drive,37,5446857,95870538,Richmond Hill,37878
 43.8449478,-79.4396331,2,Claridge Drive (580),a,Claridge Drive,37,5446857,95870580,Richmond Hill,37878
 43.8449478,-79.4396331,2,Trimingham Court (163),a,Trimingham Court,4,5447421,98902163,Richmond Hill,37878
 43.8449556,-79.4283744,2,Beresford Drive (133),a,Beresford Drive,26,5447781,99587133,Richmond Hill,37878
-43.8449595,-79.4196548,2,Sibley Street (458),a,Sibley Street,8,5446957,451763458,Richmond Hill,37878
-43.8449665,-79.408363,2,High Tech Road (724),a,High Tech Road,137,5447300,98666724,Richmond Hill,37878
 43.8449713,-79.4473081,2,Maryvale Crescent (288),a,Maryvale Crescent,58,5446992,97106288,Richmond Hill,37878
 43.8449758,-79.3823822,2,Leslie Street (248),a,Leslie Street,580,5446825,95412248,Richmond Hill,37878
-43.8449764,-79.4187948,2,Nahanni Drive (019),a,Nahanni Drive,28,5446899,96380019,Richmond Hill,37878
 43.844982,-79.4296426,2,Baffin Court (604),a,Baffin Court,23,5446949,96787604,Richmond Hill,37878
-43.8449845,-79.4085334,2,High Tech Road (722),a,High Tech Road,137,5447300,98666722,Richmond Hill,37878
-43.8449845,-79.4085334,2,High Tech Road (444),a,High Tech Road,137,5447300,579526444,Richmond Hill,37878
-43.8449845,-79.4085334,2,High Tech Road (803),a,High Tech Road,137,5447300,630428803,Richmond Hill,37878
 43.8449888,-79.4381216,2,Pearson Avenue (742),a,Pearson Avenue,48,5446816,95159742,Richmond Hill,37878
-43.8449904,-79.4081385,2,High Tech Road (725),a,High Tech Road,137,5447300,98666725,Richmond Hill,37878
-43.8449999,-79.4080772,2,High Tech Road (726),a,High Tech Road,137,5447300,98666726,Richmond Hill,37878
 43.8450043,-79.4425166,2,Colby Lane (070),a,Colby Lane,16,5447158,415067070,Richmond Hill,37878
-43.8450105,-79.4079717,2,Bayview Avenue (032),a,Bayview Avenue,592,5447186,98385032,Richmond Hill,37878
-43.8450105,-79.4079717,2,Bayview Avenue (737),a,Bayview Avenue,592,5447186,579525737,Richmond Hill,37878
-43.8450105,-79.4079717,2,High Tech Road (727),a,High Tech Road,137,5447300,98666727,Richmond Hill,37878
-43.8450105,-79.4079717,2,High Tech Road (792),a,High Tech Road,137,5447300,630428792,Richmond Hill,37878
 43.845025,-79.3801475,2,Highway 7 (687),a,Highway 7,63,5446603,297028687,Richmond Hill,37878
 43.8450312,-79.4411237,2,Orlon Crescent (279),a,Orlon Crescent,29,5446889,96233279,Richmond Hill,37878
-43.8450334,-79.4077745,2,Bayview Avenue (789),a,Bayview Avenue,592,5447186,630428789,Richmond Hill,37878
-43.8450334,-79.4077745,2,Bayview Avenue (799),a,Bayview Avenue,592,5447186,630428799,Richmond Hill,37878
-43.8450334,-79.4077745,2,High Tech Road (793),a,High Tech Road,137,5447300,630428793,Richmond Hill,37878
 43.8450436,-79.437401,2,Scott Drive (769),a,Scott Drive,15,5447432,98919769,Richmond Hill,37878
 43.845045,-79.4448034,2,Denham Drive (545),a,Denham Drive,59,5447462,98984545,Richmond Hill,37878
 43.8450461,-79.4396994,2,Trimingham Court (101),a,Trimingham Court,4,5447421,415067101,Richmond Hill,37878
 43.8450517,-79.4472563,2,Maryvale Crescent (290),a,Maryvale Crescent,58,5446992,97106290,Richmond Hill,37878
 43.8450526,-79.439394,2,Claridge Drive (541),a,Claridge Drive,37,5446857,95870541,Richmond Hill,37878
-43.8450579,-79.408359,2,High Tech Road (937),a,High Tech Road,137,5447300,328453937,Richmond Hill,37878
 43.8450595,-79.4425412,2,Orlon Crescent (272),a,Orlon Crescent,29,5446889,96233272,Richmond Hill,37878
 43.8450595,-79.4425412,2,Orlon Crescent (291),a,Orlon Crescent,29,5446889,96233291,Richmond Hill,37878
 43.8450595,-79.4425412,2,Colby Lane (046),a,Colby Lane,16,5447158,98201046,Richmond Hill,37878
-43.8450746,-79.4180831,2,Nahanni Drive (020),a,Nahanni Drive,28,5446899,96380020,Richmond Hill,37878
-43.8450801,-79.4081469,2,High Tech Road (936),a,High Tech Road,137,5447300,328453936,Richmond Hill,37878
-43.8450859,-79.408097,2,High Tech Road (935),a,High Tech Road,137,5447300,328453935,Richmond Hill,37878
 43.845092,-79.4502285,2,Cividale Court (121),a,Cividale Court,13,5446994,97118121,Richmond Hill,37878
-43.8450979,-79.4079956,2,Bayview Avenue (786),a,Bayview Avenue,592,5447186,328452786,Richmond Hill,37878
-43.8450979,-79.4079956,2,Bayview Avenue (736),a,Bayview Avenue,592,5447186,579525736,Richmond Hill,37878
-43.8450979,-79.4079956,2,High Tech Road (934),a,High Tech Road,137,5447300,328453934,Richmond Hill,37878
-43.8450979,-79.4079956,2,High Tech Road (798),a,High Tech Road,137,5447300,630428798,Richmond Hill,37878
 43.8451002,-79.4284203,2,Beresford Drive (134),a,Beresford Drive,26,5447781,99587134,Richmond Hill,37878
-43.845106,-79.407931,2,High Tech Road (797),a,High Tech Road,137,5447300,630428797,Richmond Hill,37878
 43.8451083,-79.4580904,2,Bathurst Street (674),a,Bathurst Street,380,5446829,579525674,Richmond Hill,37878
 43.8451083,-79.4580904,2,Bathurst Street (527),a,Bathurst Street,380,5446829,630429527,Richmond Hill,37878
 43.8451083,-79.4580904,2,Birch Avenue (952),a,Birch Avenue,15,5447324,98718952,Richmond Hill,37878
 43.8451083,-79.4580904,2,Mitchell Reaman Gate (493),a,Mitchell Reaman Gate,1,25180127,630428493,Richmond Hill,37878
 43.8451097,-79.3867725,2,Wertheim Court (835),a,Wertheim Court,8,5446824,95227835,Richmond Hill,37878
 43.84511,-79.43029,2,Baffin Court (607),a,Baffin Court,23,5446949,96787607,Richmond Hill,37878
-43.8451105,-79.4078956,2,High Tech Road (796),a,High Tech Road,137,5447300,630428796,Richmond Hill,37878
-43.8451231,-79.4077955,2,Bayview Avenue (769),a,Bayview Avenue,592,5447186,630428769,Richmond Hill,37878
-43.8451231,-79.4077955,2,Bayview Avenue (790),a,Bayview Avenue,592,5447186,630428790,Richmond Hill,37878
-43.8451231,-79.4077955,2,High Tech Road (795),a,High Tech Road,137,5447300,630428795,Richmond Hill,37878
-43.8451249,-79.4178081,2,Nahanni Drive (022),a,Nahanni Drive,28,5446899,96380022,Richmond Hill,37878
 43.845132,-79.4472044,2,Maryvale Crescent (293),a,Maryvale Crescent,58,5446992,97106293,Richmond Hill,37878
 43.8451386,-79.4579397,2,Birch Avenue (083),a,Birch Avenue,15,5447324,328451083,Richmond Hill,37878
 43.84514,-79.42968,2,Baffin Court (602),a,Baffin Court,23,5446949,96787602,Richmond Hill,37878
 43.84514,-79.42968,2,Baffin Court (605),a,Baffin Court,23,5446949,96787605,Richmond Hill,37878
 43.84514,-79.42968,2,Beresford Drive (142),a,Beresford Drive,26,5447781,99587142,Richmond Hill,37878
-43.8451489,-79.417596,2,Nahanni Drive (027),a,Nahanni Drive,28,5446899,96380027,Richmond Hill,37878
-43.8451489,-79.417596,2,Nahanni Drive (030),a,Nahanni Drive,28,5446899,96380030,Richmond Hill,37878
-43.8451489,-79.417596,2,Liana Street (489),a,Liana Street,11,5447002,97153489,Richmond Hill,37878
 43.8451499,-79.4295984,2,Beresford Drive (141),a,Beresford Drive,26,5447781,99587141,Richmond Hill,37878
 43.8451516,-79.4578752,2,Birch Avenue (953),a,Birch Avenue,15,5447324,98718953,Richmond Hill,37878
 43.8451528,-79.4295746,2,Beresford Drive (062),a,Beresford Drive,26,5447781,355881062,Richmond Hill,37878
@@ -1536,14 +1330,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8452088,-79.4291142,2,Beresford Drive (140),a,Beresford Drive,26,5447781,99587140,Richmond Hill,37878
 43.8452118,-79.4471153,2,Maryvale Crescent (295),a,Maryvale Crescent,58,5446992,97106295,Richmond Hill,37878
 43.8452157,-79.4316034,2,MacKay Drive (424),a,MacKay Drive,8,15729453,488873424,Richmond Hill,37878
-43.8452166,-79.4176122,2,Liana Street (803),a,Liana Street,11,5447002,397277803,Richmond Hill,37878
 43.8452179,-79.428467,2,Beresford Drive (135),a,Beresford Drive,26,5447781,99587135,Richmond Hill,37878
 43.8452309,-79.4412429,2,Orlon Crescent (282),a,Orlon Crescent,29,5446889,96233282,Richmond Hill,37878
 43.8452316,-79.4392051,2,Claridge Drive (091),a,Claridge Drive,37,5446857,328449091,Richmond Hill,37878
-43.8452335,-79.4078241,2,Bayview Avenue (462),a,Bayview Avenue,592,5447186,424871462,Richmond Hill,37878
 43.8452546,-79.4285158,2,Beresford Drive (136),a,Beresford Drive,26,5447781,99587136,Richmond Hill,37878
 43.8452553,-79.4314082,2,MacKay Drive (010),a,MacKay Drive,8,15729453,355881010,Richmond Hill,37878
-43.8452633,-79.4176234,2,Liana Street (490),a,Liana Street,11,5447002,97153490,Richmond Hill,37878
 43.8452644,-79.4285706,2,Beresford Drive (858),a,Beresford Drive,26,5447781,579525858,Richmond Hill,37878
 43.8452652,-79.4286275,2,Beresford Drive (138),a,Beresford Drive,26,5447781,99587138,Richmond Hill,37878
 43.8452664,-79.4287146,2,Beresford Drive (139),a,Beresford Drive,26,5447781,99587139,Richmond Hill,37878
@@ -1579,11 +1370,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8454154,-79.4256609,2,Bantry Avenue (019),a,Bantry Avenue,107,5447433,630429019,Richmond Hill,37878
 43.845417,-79.4259239,2,Bantry Avenue (503),a,Bantry Avenue,107,5447433,98925503,Richmond Hill,37878
 43.8454205,-79.3779264,2,Commerce Valley Drive East (352),a,Commerce Valley Drive East,2,25180143,630429352,Richmond Hill,37878
-43.8454222,-79.4197783,2,Bassett Avenue (163),a,Bassett Avenue,12,5446893,96282163,Richmond Hill,37878
-43.8454222,-79.4197783,2,Sibley Street (971),a,Sibley Street,8,5446957,96822971,Richmond Hill,37878
-43.8454222,-79.4197783,2,Sibley Street (973),a,Sibley Street,8,5446957,96822973,Richmond Hill,37878
 43.845427,-79.4246617,2,Red Maple Road (452),a,Red Maple Road,110,5447164,530161452,Richmond Hill,37878
-43.8454362,-79.4196837,2,Bassett Avenue (164),a,Bassett Avenue,12,5446893,96282164,Richmond Hill,37878
 43.8454383,-79.4362512,2,Scott Drive (762),a,Scott Drive,15,5447432,98919762,Richmond Hill,37878
 43.8454407,-79.4564679,2,Birch Avenue (954),a,Birch Avenue,15,5447324,98718954,Richmond Hill,37878
 43.8454407,-79.4564679,2,Bay Lily Crescent (558),a,Bay Lily Crescent,5,5447831,99658558,Richmond Hill,37878
@@ -1603,11 +1390,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8454839,-79.3781328,2,Highway 7 (362),a,Highway 7,63,5446603,630429362,Richmond Hill,37878
 43.8454839,-79.3781328,2,East Beaver Creek Road (345),a,East Beaver Creek Road,149,5447485,630429345,Richmond Hill,37878
 43.8454839,-79.3781328,2,East Beaver Creek Road (349),a,East Beaver Creek Road,149,5447485,630429349,Richmond Hill,37878
-43.8454848,-79.4080924,2,Bayview Avenue (768),a,Bayview Avenue,592,5447186,630428768,Richmond Hill,37878
 43.8454965,-79.4310426,2,Yonge Street (195),a,Yonge Street,890,5446601,355881195,Richmond Hill,37878
 43.8454965,-79.4310426,2,Yonge Street (495),a,Yonge Street,890,5446601,579527495,Richmond Hill,37878
 43.8455067,-79.4390214,2,Claridge Drive (547),a,Claridge Drive,37,5446857,95870547,Richmond Hill,37878
-43.8455072,-79.4078875,2,Bayview Avenue (770),a,Bayview Avenue,592,5447186,630428770,Richmond Hill,37878
 43.8455168,-79.4248829,2,Bantry Avenue (500),a,Bantry Avenue,107,5447433,98925500,Richmond Hill,37878
 43.8455196,-79.4465724,2,Maryvale Crescent (308),a,Maryvale Crescent,58,5446992,97106308,Richmond Hill,37878
 43.8455196,-79.4399665,2,Trimingham Court (165),a,Trimingham Court,4,5447421,98902165,Richmond Hill,37878
@@ -1618,7 +1403,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8455222,-79.377963,2,Commerce Valley Drive East (353),a,Commerce Valley Drive East,2,25180143,630429353,Richmond Hill,37878
 43.8455416,-79.4444801,2,Maryvale Crescent (337),a,Maryvale Crescent,58,5446992,97106337,Richmond Hill,37878
 43.8455416,-79.4444801,2,Denham Drive (543),a,Denham Drive,59,5447462,98984543,Richmond Hill,37878
-43.8455457,-79.4189415,2,Bassett Avenue (165),a,Bassett Avenue,12,5446893,96282165,Richmond Hill,37878
 43.8455471,-79.4247031,2,Red Maple Road (905),a,Red Maple Road,110,5447164,328449905,Richmond Hill,37878
 43.8455471,-79.4247031,2,Red Maple Road (064),a,Red Maple Road,110,5447164,579527064,Richmond Hill,37878
 43.8455471,-79.4247031,2,Bantry Avenue (493),a,Bantry Avenue,107,5447433,98925493,Richmond Hill,37878
@@ -1638,25 +1422,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8456128,-79.446147,2,Maryvale Crescent (316),a,Maryvale Crescent,58,5446992,97106316,Richmond Hill,37878
 43.8456143,-79.378003,2,East Beaver Creek Road (350),a,East Beaver Creek Road,149,5447485,630429350,Richmond Hill,37878
 43.8456553,-79.4459593,2,Maryvale Crescent (318),a,Maryvale Crescent,58,5446992,97106318,Richmond Hill,37878
-43.8456553,-79.4080283,2,Bayview Avenue (036),a,Bayview Avenue,592,5447186,98385036,Richmond Hill,37878
-43.8456553,-79.4080283,2,Bayview Avenue (041),a,Bayview Avenue,592,5447186,98385041,Richmond Hill,37878
-43.8456553,-79.4080283,2,Bayview Avenue (731),a,Bayview Avenue,592,5447186,579525731,Richmond Hill,37878
 43.8456563,-79.4500148,2,Cividale Court (128),a,Cividale Court,13,5446994,97118128,Richmond Hill,37878
 43.8456664,-79.424734,2,Red Maple Road (906),a,Red Maple Road,110,5447164,328449906,Richmond Hill,37878
-43.8456687,-79.4180674,2,Bassett Avenue (166),a,Bassett Avenue,12,5446893,96282166,Richmond Hill,37878
-43.845688,-79.4179061,2,Bassett Avenue (167),a,Bassett Avenue,12,5446893,96282167,Richmond Hill,37878
-43.8456968,-79.4178325,2,Bassett Avenue (874),a,Bassett Avenue,12,5446893,397277874,Richmond Hill,37878
 43.8456981,-79.4313439,2,Yonge Street (536),a,Yonge Street,890,5446601,473374536,Richmond Hill,37878
 43.8457017,-79.4447389,2,Maryvale Crescent (332),a,Maryvale Crescent,58,5446992,97106332,Richmond Hill,37878
 43.8457064,-79.4457464,2,Maryvale Crescent (321),a,Maryvale Crescent,58,5446992,97106321,Richmond Hill,37878
-43.845709,-79.4177304,2,Bassett Avenue (159),a,Bassett Avenue,12,5446893,96282159,Richmond Hill,37878
-43.845709,-79.4177304,2,Bassett Avenue (168),a,Bassett Avenue,12,5446893,96282168,Richmond Hill,37878
-43.845709,-79.4177304,2,Liana Street (491),a,Liana Street,11,5447002,97153491,Richmond Hill,37878
-43.845709,-79.4177304,2,Liana Street (492),a,Liana Street,11,5447002,97153492,Richmond Hill,37878
 43.8457127,-79.3770989,2,Highway 7 (578),a,Highway 7,63,5446603,473374578,Richmond Hill,37878
 43.8457149,-79.4441715,2,Denham Drive (542),a,Denham Drive,59,5447462,98984542,Richmond Hill,37878
 43.8457193,-79.4500132,2,Cividale Court (129),a,Cividale Court,13,5446994,97118129,Richmond Hill,37878
-43.8457219,-79.4176388,2,Bassett Avenue (160),a,Bassett Avenue,12,5446893,96282160,Richmond Hill,37878
 43.8457334,-79.4550388,2,Birch Avenue (955),a,Birch Avenue,15,5447324,98718955,Richmond Hill,37878
 43.8457572,-79.4448494,2,Maryvale Crescent (329),a,Maryvale Crescent,58,5446992,97106329,Richmond Hill,37878
 43.8457638,-79.4387285,2,Claridge Drive (553),a,Claridge Drive,37,5446857,95870553,Richmond Hill,37878
@@ -1665,13 +1438,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8457827,-79.4500364,2,Cividale Court (130),a,Cividale Court,13,5446994,97118130,Richmond Hill,37878
 43.8457834,-79.4276809,2,Bantry Avenue (475),a,Bantry Avenue,107,5447433,98925475,Richmond Hill,37878
 43.8457834,-79.4276809,2,Bantry Avenue (543),a,Bantry Avenue,107,5447433,98925543,Richmond Hill,37878
-43.8457842,-79.4177481,2,Liana Street (841),a,Liana Street,11,5447002,397277841,Richmond Hill,37878
-43.84579,-79.41989,2,Sibley Street (975),a,Sibley Street,8,5446957,96822975,Richmond Hill,37878
-43.84579,-79.41989,2,Lane F (318),a,Lane F,5,5447440,98943318,Richmond Hill,37878
 43.8457929,-79.4277179,2,Bantry Avenue (476),a,Bantry Avenue,107,5447433,98925476,Richmond Hill,37878
 43.8457933,-79.4439555,2,Denham Drive (999),a,Denham Drive,59,5447462,328451999,Richmond Hill,37878
 43.8457946,-79.444948,2,Maryvale Crescent (327),a,Maryvale Crescent,58,5446992,97106327,Richmond Hill,37878
-43.8458042,-79.4197919,2,Lane F (319),a,Lane F,5,5447440,98943319,Richmond Hill,37878
 43.8458161,-79.4452086,2,Maryvale Crescent (322),a,Maryvale Crescent,58,5446992,97106322,Richmond Hill,37878
 43.8458231,-79.4450592,2,Maryvale Crescent (324),a,Maryvale Crescent,58,5446992,97106324,Richmond Hill,37878
 43.8458277,-79.4437383,2,Edgar Avenue (259),a,Edgar Avenue,11,5446818,95176259,Richmond Hill,37878
@@ -1691,9 +1460,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8458832,-79.3763228,2,Highway 7 (679),a,Highway 7,63,5446603,297028679,Richmond Hill,37878
 43.8458832,-79.3763228,2,Highway 7 (712),a,Highway 7,63,5446603,297028712,Richmond Hill,37878
 43.8458861,-79.4437525,2,Avenue Road (134),a,Avenue Road,57,5447833,397278134,Richmond Hill,37878
-43.8459005,-79.4221215,2,Bantry Avenue (527),a,Bantry Avenue,107,5447433,98925527,Richmond Hill,37878
-43.8459005,-79.4221215,2,Bantry Avenue (021),a,Bantry Avenue,107,5447433,630429021,Richmond Hill,37878
-43.8459005,-79.4221215,2,Fundy Street (660),a,Fundy Street,7,5447441,98944660,Richmond Hill,37878
 43.8459115,-79.378288,2,East Beaver Creek Road (549),a,East Beaver Creek Road,149,5447485,328453549,Richmond Hill,37878
 43.8459188,-79.4382144,2,Claridge Drive (561),a,Claridge Drive,37,5446857,95870561,Richmond Hill,37878
 43.8459297,-79.4380675,2,Claridge Drive (092),a,Claridge Drive,37,5446857,328449092,Richmond Hill,37878
@@ -1709,18 +1475,14 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8459699,-79.4248507,2,Red Maple Road (907),a,Red Maple Road,110,5447164,328449907,Richmond Hill,37878
 43.8459699,-79.4248507,2,Lane K (113),a,Lane K,6,5447205,98442113,Richmond Hill,37878
 43.8459699,-79.4248507,2,Lane J (456),a,Lane J,14,5447400,98865456,Richmond Hill,37878
-43.8459867,-79.4157516,2,Bassett Avenue (161),a,Bassett Avenue,12,5446893,96282161,Richmond Hill,37878
 43.8459905,-79.3827211,2,Leslie Street (376),a,Leslie Street,580,5446825,95412376,Richmond Hill,37878
 43.8459905,-79.3827211,2,Leslie Street (844),a,Leslie Street,580,5446825,95412844,Richmond Hill,37878
-43.8459941,-79.4156992,2,Bassett Avenue (129),a,Bassett Avenue,12,5446893,328449129,Richmond Hill,37878
 43.8460006,-79.424705,2,Lane K (086),a,Lane K,6,5447205,328450086,Richmond Hill,37878
 43.8460087,-79.4501052,2,Cividale Court (132),a,Cividale Court,13,5446994,97118132,Richmond Hill,37878
 43.8460099,-79.4246604,2,Lane K (087),a,Lane K,6,5447205,328450087,Richmond Hill,37878
 43.84601,-79.43047,2,Baffin Court (591),a,Baffin Court,23,5446949,96787591,Richmond Hill,37878
 43.8460126,-79.4299475,2,Baffin Court (597),a,Baffin Court,23,5446949,96787597,Richmond Hill,37878
-43.8460221,-79.4221522,2,Fundy Street (001),a,Fundy Street,7,5447441,397278001,Richmond Hill,37878
 43.8460234,-79.4304522,2,Baffin Court (592),a,Baffin Court,23,5446949,96787592,Richmond Hill,37878
-43.8460249,-79.4212309,2,Bantry Avenue (528),a,Bantry Avenue,107,5447433,98925528,Richmond Hill,37878
 43.846031,-79.4286696,2,Bantry Avenue (479),a,Bantry Avenue,107,5447433,98925479,Richmond Hill,37878
 43.846031,-79.4286696,2,Bantry Avenue (544),a,Bantry Avenue,107,5447433,98925544,Richmond Hill,37878
 43.8460378,-79.4300144,2,Baffin Court (641),a,Baffin Court,23,5446949,579525641,Richmond Hill,37878
@@ -1729,38 +1491,22 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.84605,-79.42601,2,Lane J (463),a,Lane J,14,5447400,98865463,Richmond Hill,37878
 43.84605,-79.42447,2,Lane K (114),a,Lane K,6,5447205,98442114,Richmond Hill,37878
 43.8460592,-79.430175,2,Baffin Court (595),a,Baffin Court,23,5446949,96787595,Richmond Hill,37878
-43.8460599,-79.4221618,2,Fundy Street (661),a,Fundy Street,7,5447441,98944661,Richmond Hill,37878
 43.8460608,-79.4331993,2,Scott Drive (107),a,Scott Drive,15,5447432,579527107,Richmond Hill,37878
-43.8460642,-79.4179979,2,Lane F (320),a,Lane F,5,5447440,98943320,Richmond Hill,37878
 43.84607,-79.43033,2,Baffin Court (594),a,Baffin Court,23,5446949,96787594,Richmond Hill,37878
 43.8460736,-79.4331367,2,Clinton Drive (421),a,Clinton Drive,8,5446926,96631421,Richmond Hill,37878
 43.8460736,-79.4331367,2,Scott Drive (760),a,Scott Drive,15,5447432,98919760,Richmond Hill,37878
-43.8460748,-79.4179247,2,Lane F (999),a,Lane F,5,5447440,397277999,Richmond Hill,37878
 43.8460838,-79.4533651,2,Birch Avenue (752),a,Birch Avenue,15,5447324,384336752,Richmond Hill,37878
 43.8460845,-79.4379499,2,Pearson Avenue (738),a,Pearson Avenue,48,5446816,95159738,Richmond Hill,37878
-43.84609,-79.41782,2,Liana Street (493),a,Liana Street,11,5447002,97153493,Richmond Hill,37878
-43.84609,-79.41782,2,Liana Street (494),a,Liana Street,11,5447002,97153494,Richmond Hill,37878
-43.84609,-79.41782,2,Lane D (120),a,Lane D,5,5447438,98940120,Richmond Hill,37878
-43.84609,-79.41782,2,Lane F (321),a,Lane F,5,5447440,98943321,Richmond Hill,37878
-43.8460948,-79.4199583,2,Sibley Street (825),a,Sibley Street,8,5446957,397277825,Richmond Hill,37878
-43.8461007,-79.4177426,2,Lane D (121),a,Lane D,5,5447438,98940121,Richmond Hill,37878
 43.8461042,-79.3783654,2,East Beaver Creek Road (250),a,East Beaver Creek Road,149,5447485,99042250,Richmond Hill,37878
 43.8461046,-79.3782157,2,East Beaver Creek Road (147),a,East Beaver Creek Road,149,5447485,99042147,Richmond Hill,37878
-43.8461357,-79.4204375,2,Bantry Avenue (529),a,Bantry Avenue,107,5447433,98925529,Richmond Hill,37878
 43.84614,-79.42599,2,Lane J (464),a,Lane J,14,5447400,98865464,Richmond Hill,37878
 43.8461687,-79.4249338,2,Red Maple Road (908),a,Red Maple Road,110,5447164,328449908,Richmond Hill,37878
 43.8461814,-79.4331722,2,Clinton Drive (422),a,Clinton Drive,8,5446926,96631422,Richmond Hill,37878
-43.8461851,-79.4200835,2,Bantry Avenue (530),a,Bantry Avenue,107,5447433,98925530,Richmond Hill,37878
 43.8461866,-79.4259609,2,Lane J (470),a,Lane J,14,5447400,451763470,Richmond Hill,37878
 43.8461984,-79.4324851,2,Scott Drive (132),a,Scott Drive,15,5447432,328451132,Richmond Hill,37878
-43.8461993,-79.4199817,2,Sibley Street (979),a,Sibley Street,8,5446957,96822979,Richmond Hill,37878
-43.8461993,-79.4199817,2,Melville Street (462),a,Melville Street,13,5447011,97188462,Richmond Hill,37878
-43.8461993,-79.4199817,2,Bantry Avenue (511),a,Bantry Avenue,107,5447433,98925511,Richmond Hill,37878
-43.8461993,-79.4199817,2,Bantry Avenue (531),a,Bantry Avenue,107,5447433,98925531,Richmond Hill,37878
 43.8462045,-79.4314474,2,Yonge Street (219),a,Yonge Street,890,5446601,392305219,Richmond Hill,37878
 43.8462075,-79.4290631,2,Bantry Avenue (521),a,Bantry Avenue,107,5447433,98925521,Richmond Hill,37878
 43.8462075,-79.4290631,2,Bantry Avenue (545),a,Bantry Avenue,107,5447433,98925545,Richmond Hill,37878
-43.8462128,-79.4198881,2,Bantry Avenue (987),a,Bantry Avenue,107,5447433,397277987,Richmond Hill,37878
 43.8462201,-79.4259399,2,Lane J (465),a,Lane J,14,5447400,98865465,Richmond Hill,37878
 43.8462253,-79.4257783,2,King William Crescent (665),a,King William Crescent,23,5447163,98223665,Richmond Hill,37878
 43.8462301,-79.4312214,2,Yonge Street (225),a,Yonge Street,890,5446601,392305225,Richmond Hill,37878
@@ -1783,34 +1529,21 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.846325,-79.4533447,2,Sala Drive (584),a,Sala Drive,26,5446835,354033584,Richmond Hill,37878
 43.846325,-79.4533447,2,Sala Drive (105),a,Sala Drive,26,5446835,579527105,Richmond Hill,37878
 43.8463255,-79.4535843,2,Sala Drive (593),a,Sala Drive,26,5446835,354033593,Richmond Hill,37878
-43.8463281,-79.4200142,2,Melville Street (062),a,Melville Street,13,5447011,397278062,Richmond Hill,37878
 43.8463355,-79.4251687,2,King William Crescent (901),a,King William Crescent,23,5447163,328449901,Richmond Hill,37878
 43.8463422,-79.4251372,2,King William Crescent (902),a,King William Crescent,23,5447163,328449902,Richmond Hill,37878
-43.8463446,-79.4223733,2,Lane K (115),a,Lane K,6,5447205,98442115,Richmond Hill,37878
-43.8463472,-79.4189576,2,Baltic Street (561),a,Baltic Street,10,5447381,98831561,Richmond Hill,37878
-43.8463472,-79.4189576,2,Bantry Avenue (473),a,Bantry Avenue,107,5447433,98925473,Richmond Hill,37878
-43.8463472,-79.4189576,2,Bantry Avenue (512),a,Bantry Avenue,107,5447433,98925512,Richmond Hill,37878
 43.8463536,-79.4533347,2,Sala Drive (585),a,Sala Drive,26,5446835,354033585,Richmond Hill,37878
 43.8463572,-79.4535944,2,Sala Drive (592),a,Sala Drive,26,5446835,354033592,Richmond Hill,37878
-43.8463583,-79.4158766,2,Lane D (122),a,Lane D,5,5447438,98940122,Richmond Hill,37878
 43.8463599,-79.3783166,2,East Beaver Creek Road (148),a,East Beaver Creek Road,149,5447485,99042148,Richmond Hill,37878
 43.8463631,-79.4316258,2,Scott Drive (963),a,Scott Drive,15,5447432,630428963,Richmond Hill,37878
-43.8463636,-79.4222385,2,Lane K (116),a,Lane K,6,5447205,98442116,Richmond Hill,37878
-43.8463636,-79.4222385,2,Lane L (982),a,Lane L,6,5447287,98631982,Richmond Hill,37878
-43.8463636,-79.4222385,2,Fundy Street (662),a,Fundy Street,7,5447441,98944662,Richmond Hill,37878
 43.8463679,-79.4250157,2,King William Crescent (667),a,King William Crescent,23,5447163,98223667,Richmond Hill,37878
 43.8463679,-79.4250157,2,Red Maple Road (909),a,Red Maple Road,110,5447164,328449909,Richmond Hill,37878
 43.8463708,-79.3741036,2,Highway 7 (586),a,Highway 7,63,5446603,92701586,Richmond Hill,37878
 43.8463708,-79.3741036,2,Highway 7 (448),a,Highway 7,63,5446603,579526448,Richmond Hill,37878
-43.8463719,-79.4221802,2,Lane L (903),a,Lane L,6,5447287,397277903,Richmond Hill,37878
-43.8463768,-79.4221462,2,Lane L (983),a,Lane L,6,5447287,98631983,Richmond Hill,37878
-43.8463782,-79.4178902,2,Liana Street (495),a,Liana Street,11,5447002,97153495,Richmond Hill,37878
 43.8463829,-79.4533375,2,Sala Drive (586),a,Sala Drive,26,5446835,354033586,Richmond Hill,37878
 43.8463838,-79.4314925,2,Yonge Street (959),a,Yonge Street,890,5446601,630428959,Richmond Hill,37878
 43.8463838,-79.4314925,2,Yonge Street (960),a,Yonge Street,890,5446601,630428960,Richmond Hill,37878
 43.8463838,-79.4314925,2,Scott Drive (964),a,Scott Drive,15,5447432,630428964,Richmond Hill,37878
 43.8463838,-79.4314925,2,Bantry Avenue (956),a,Bantry Avenue,107,5447433,630428956,Richmond Hill,37878
-43.846384,-79.4178916,2,Liana Street (000),a,Liana Street,11,5447002,397278000,Richmond Hill,37878
 43.8463895,-79.4535889,2,Sala Drive (591),a,Sala Drive,26,5446835,354033591,Richmond Hill,37878
 43.8463961,-79.4310911,2,Bantry Avenue (481),a,Bantry Avenue,107,5447433,98925481,Richmond Hill,37878
 43.8463985,-79.431391,2,Bantry Avenue (955),a,Bantry Avenue,107,5447433,630428955,Richmond Hill,37878
@@ -1830,16 +1563,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8464534,-79.4534939,2,Sala Drive (137),a,Sala Drive,26,5446835,95609137,Richmond Hill,37878
 43.8464534,-79.4534939,2,Sala Drive (146),a,Sala Drive,26,5446835,95609146,Richmond Hill,37878
 43.8464555,-79.4534532,2,Sala Drive (590),a,Sala Drive,26,5446835,354033590,Richmond Hill,37878
-43.8464723,-79.4189873,2,Baltic Street (917),a,Baltic Street,10,5447381,397277917,Richmond Hill,37878
 43.8464837,-79.4311151,2,Bantry Avenue (534),a,Bantry Avenue,107,5447433,98925534,Richmond Hill,37878
 43.8464858,-79.4250748,2,Red Maple Road (910),a,Red Maple Road,110,5447164,328449910,Richmond Hill,37878
-43.8464877,-79.4180284,2,Bantry Avenue (967),a,Bantry Avenue,107,5447433,397277967,Richmond Hill,37878
 43.8464987,-79.4299387,2,Bantry Avenue (525),a,Bantry Avenue,107,5447433,98925525,Richmond Hill,37878
-43.8465029,-79.4189946,2,Baltic Street (562),a,Baltic Street,10,5447381,98831562,Richmond Hill,37878
-43.846504,-79.4179209,2,Frobisher Street (171),a,Frobisher Street,12,5446929,96651171,Richmond Hill,37878
-43.846504,-79.4179209,2,Liana Street (496),a,Liana Street,11,5447002,97153496,Richmond Hill,37878
-43.846504,-79.4179209,2,Bantry Avenue (474),a,Bantry Avenue,107,5447433,98925474,Richmond Hill,37878
-43.846504,-79.4179209,2,Bantry Avenue (484),a,Bantry Avenue,107,5447433,98925484,Richmond Hill,37878
 43.8465099,-79.4307026,2,Bantry Avenue (483),a,Bantry Avenue,107,5447433,98925483,Richmond Hill,37878
 43.8465099,-79.4307026,2,Bantry Avenue (532),a,Bantry Avenue,107,5447433,98925532,Richmond Hill,37878
 43.8465099,-79.4307026,2,Bantry Avenue (645),a,Bantry Avenue,107,5447433,579525645,Richmond Hill,37878
@@ -1849,11 +1575,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8465378,-79.4301616,2,Ellesmere Street (947),a,Ellesmere Street,19,5446979,96987947,Richmond Hill,37878
 43.8465378,-79.4301616,2,Bantry Avenue (526),a,Bantry Avenue,107,5447433,98925526,Richmond Hill,37878
 43.8465378,-79.4301616,2,Bantry Avenue (646),a,Bantry Avenue,107,5447433,579525646,Richmond Hill,37878
-43.8465396,-79.423905,2,Selkirk Drive (607),a,Selkirk Drive,13,5447302,98672607,Richmond Hill,37878
 43.8465407,-79.430373,2,Bantry Avenue (016),a,Bantry Avenue,107,5447433,355881016,Richmond Hill,37878
 43.8465465,-79.4277847,2,King William Crescent (679),a,King William Crescent,23,5447163,98223679,Richmond Hill,37878
 43.8465513,-79.4315302,2,Yonge Street (204),a,Yonge Street,890,5446601,392305204,Richmond Hill,37878
-43.8465551,-79.4240596,2,Selkirk Drive (608),a,Selkirk Drive,13,5447302,98672608,Richmond Hill,37878
 43.8465631,-79.4278867,2,King William Crescent (680),a,King William Crescent,23,5447163,98223680,Richmond Hill,37878
 43.846578,-79.4313005,2,Yonge Street (202),a,Yonge Street,890,5446601,392305202,Richmond Hill,37878
 43.846595,-79.425159,2,Red Maple Road (911),a,Red Maple Road,110,5447164,328449911,Richmond Hill,37878
@@ -1862,44 +1586,25 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8466008,-79.4509129,2,Birch Avenue (946),a,Birch Avenue,15,5447324,98718946,Richmond Hill,37878
 43.8466016,-79.4274538,2,King William Crescent (678),a,King William Crescent,23,5447163,98223678,Richmond Hill,37878
 43.8466062,-79.4279204,2,King William Crescent (681),a,King William Crescent,23,5447163,98223681,Richmond Hill,37878
-43.84662,-79.4179484,2,Frobisher Street (786),a,Frobisher Street,12,5446929,397277786,Richmond Hill,37878
-43.8466358,-79.4179522,2,Frobisher Street (172),a,Frobisher Street,12,5446929,96651172,Richmond Hill,37878
 43.8466401,-79.4301306,2,Ellesmere Street (807),a,Ellesmere Street,19,5446979,397277807,Richmond Hill,37878
-43.8466428,-79.4168971,2,Ludford Drive (125),a,Ludford Drive,17,5447114,97889125,Richmond Hill,37878
-43.8466428,-79.4168971,2,Bantry Avenue (485),a,Bantry Avenue,107,5447433,98925485,Richmond Hill,37878
-43.8466428,-79.4168971,2,Bantry Avenue (489),a,Bantry Avenue,107,5447433,98925489,Richmond Hill,37878
-43.8466487,-79.4202487,2,Lane L (984),a,Lane L,6,5447287,98631984,Richmond Hill,37878
-43.8466555,-79.4202011,2,Lane L (904),a,Lane L,6,5447287,397277904,Richmond Hill,37878
 43.846659,-79.4252319,2,Red Maple Road (912),a,Red Maple Road,110,5447164,328449912,Richmond Hill,37878
-43.8466699,-79.4201004,2,Melville Street (458),a,Melville Street,13,5447011,97188458,Richmond Hill,37878
-43.8466699,-79.4201004,2,Melville Street (463),a,Melville Street,13,5447011,97188463,Richmond Hill,37878
-43.8466699,-79.4201004,2,Lane L (985),a,Lane L,6,5447287,98631985,Richmond Hill,37878
 43.8466722,-79.4301208,2,Ellesmere Street (948),a,Ellesmere Street,19,5446979,96987948,Richmond Hill,37878
 43.8466787,-79.4439456,2,Avenue Road (027),a,Avenue Road,57,5447833,328454027,Richmond Hill,37878
-43.8466848,-79.4223308,2,Fundy Street (663),a,Fundy Street,7,5447441,98944663,Richmond Hill,37878
 43.8467004,-79.378451,2,East Beaver Creek Road (149),a,East Beaver Creek Road,149,5447485,99042149,Richmond Hill,37878
 43.846704,-79.4449492,2,Trilogy Court (823),a,Trilogy Court,6,5447730,99482823,Richmond Hill,37878
 43.846706,-79.4503982,2,Cividale Court (133),a,Cividale Court,13,5446994,97118133,Richmond Hill,37878
 43.846706,-79.4503982,2,Birch Avenue (945),a,Birch Avenue,15,5447324,98718945,Richmond Hill,37878
 43.846706,-79.4503982,2,Birch Avenue (947),a,Birch Avenue,15,5447324,98718947,Richmond Hill,37878
 43.8467109,-79.4569338,2,Winterport Court (922),a,Winterport Court,4,5446872,96029922,Richmond Hill,37878
-43.8467155,-79.4223396,2,Fundy Street (002),a,Fundy Street,7,5447441,397278002,Richmond Hill,37878
 43.8467502,-79.4253166,2,Red Maple Road (913),a,Red Maple Road,110,5447164,328449913,Richmond Hill,37878
 43.8467514,-79.4265083,2,King William Crescent (676),a,King William Crescent,23,5447163,98223676,Richmond Hill,37878
 43.8467529,-79.4300938,2,Ellesmere Street (949),a,Ellesmere Street,19,5446979,96987949,Richmond Hill,37878
 43.8467585,-79.3786161,2,East Beaver Creek Road (237),a,East Beaver Creek Road,149,5447485,99042237,Richmond Hill,37878
 43.8467585,-79.3786161,2,East Beaver Creek Road (249),a,East Beaver Creek Road,149,5447485,99042249,Richmond Hill,37878
-43.8467646,-79.416932,2,Ludford Drive (839),a,Ludford Drive,17,5447114,397277839,Richmond Hill,37878
-43.8467712,-79.4223556,2,Selkirk Drive (606),a,Selkirk Drive,13,5447302,98672606,Richmond Hill,37878
-43.8467712,-79.4223556,2,Selkirk Drive (615),a,Selkirk Drive,13,5447302,98672615,Richmond Hill,37878
-43.8467712,-79.4223556,2,Fundy Street (664),a,Fundy Street,7,5447441,98944664,Richmond Hill,37878
-43.8467718,-79.4190584,2,Baltic Street (563),a,Baltic Street,10,5447381,98831563,Richmond Hill,37878
 43.8467724,-79.4346158,2,Clinton Drive (707),a,Clinton Drive,8,5446926,630426707,Richmond Hill,37878
 43.8467777,-79.4266289,2,King William Crescent (677),a,King William Crescent,23,5447163,98223677,Richmond Hill,37878
-43.8467804,-79.4159391,2,Bantry Avenue (136),a,Bantry Avenue,107,5447433,328451136,Richmond Hill,37878
 43.8467836,-79.3784822,2,East Beaver Creek Road (150),a,East Beaver Creek Road,149,5447485,99042150,Richmond Hill,37878
 43.8467836,-79.3784822,2,East Beaver Creek Road (257),a,East Beaver Creek Road,149,5447485,99042257,Richmond Hill,37878
-43.8467848,-79.4169378,2,Ludford Drive (130),a,Ludford Drive,17,5447114,97889130,Richmond Hill,37878
 43.8467892,-79.3722953,2,Highway 7 (810),a,Highway 7,63,5446603,92701810,Richmond Hill,37878
 43.8467892,-79.3722953,2,Highway 7 (463),a,Highway 7,63,5446603,579526463,Richmond Hill,37878
 43.8467906,-79.4446981,2,Trilogy Court (824),a,Trilogy Court,6,5447730,99482824,Richmond Hill,37878
@@ -1909,11 +1614,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8468226,-79.3829338,2,Leslie Street (378),a,Leslie Street,580,5446825,95412378,Richmond Hill,37878
 43.8468226,-79.3829338,2,Leslie Street (845),a,Leslie Street,580,5446825,95412845,Richmond Hill,37878
 43.8468341,-79.4333884,2,Clinton Drive (423),a,Clinton Drive,8,5446926,96631423,Richmond Hill,37878
-43.8468417,-79.4169541,2,Ludford Drive (133),a,Ludford Drive,17,5447114,97889133,Richmond Hill,37878
 43.8468509,-79.4254384,2,Red Maple Road (914),a,Red Maple Road,110,5447164,328449914,Richmond Hill,37878
 43.8468521,-79.4301036,2,Ellesmere Street (950),a,Ellesmere Street,19,5446979,96987950,Richmond Hill,37878
 43.846859,-79.4444351,2,Trilogy Court (825),a,Trilogy Court,6,5447730,99482825,Richmond Hill,37878
-43.8468668,-79.4242687,2,Selkirk Drive (609),a,Selkirk Drive,13,5447302,98672609,Richmond Hill,37878
 43.8468755,-79.4389833,2,Pearson Avenue (319),a,Pearson Avenue,48,5446816,328449319,Richmond Hill,37878
 43.8468776,-79.4301106,2,Ellesmere Street (047),a,Ellesmere Street,19,5446979,429948047,Richmond Hill,37878
 43.8468942,-79.3786515,2,East Beaver Creek Road (236),a,East Beaver Creek Road,149,5447485,99042236,Richmond Hill,37878
@@ -1921,8 +1624,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.846913,-79.4441585,2,Trilogy Court (781),a,Trilogy Court,6,5447730,328452781,Richmond Hill,37878
 43.8469199,-79.4389903,2,Pearson Avenue (320),a,Pearson Avenue,48,5446816,328449320,Richmond Hill,37878
 43.8469225,-79.4441101,2,Trilogy Court (782),a,Trilogy Court,6,5447730,328452782,Richmond Hill,37878
-43.8469285,-79.4180217,2,Frobisher Street (173),a,Frobisher Street,12,5446929,96651173,Richmond Hill,37878
-43.8469312,-79.4158428,2,Silver Linden Drive (521),a,Silver Linden Drive,84,5446931,328449521,Richmond Hill,37878
 43.8469348,-79.4440475,2,Trilogy Court (826),a,Trilogy Court,6,5447730,99482826,Richmond Hill,37878
 43.8469348,-79.4440475,2,Avenue Road (026),a,Avenue Road,57,5447833,328454026,Richmond Hill,37878
 43.8469398,-79.438138,2,Pearson Avenue (552),a,Pearson Avenue,48,5446816,328453552,Richmond Hill,37878
@@ -1952,18 +1653,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8470408,-79.3772447,2,York Boulevard (082),a,York Boulevard,39,5447486,99045082,Richmond Hill,37878
 43.8470457,-79.378529,2,East Beaver Creek Road (242),a,East Beaver Creek Road,149,5447485,99042242,Richmond Hill,37878
 43.8470457,-79.378529,2,East Beaver Creek Road (260),a,East Beaver Creek Road,149,5447485,99042260,Richmond Hill,37878
-43.8470463,-79.4203711,2,Selkirk Drive (617),a,Selkirk Drive,13,5447302,98672617,Richmond Hill,37878
-43.8470583,-79.4202848,2,Selkirk Drive (063),a,Selkirk Drive,13,5447302,397278063,Richmond Hill,37878
 43.8470601,-79.4307475,2,Lane B (203),a,Lane B,11,5447252,98553203,Richmond Hill,37878
 43.847065,-79.4313958,2,Yonge Street (200),a,Yonge Street,890,5446601,355881200,Richmond Hill,37878
-43.8470703,-79.420198,2,Melville Street (456),a,Melville Street,13,5447011,97188456,Richmond Hill,37878
-43.8470703,-79.420198,2,Melville Street (459),a,Melville Street,13,5447011,97188459,Richmond Hill,37878
-43.8470703,-79.420198,2,Selkirk Drive (619),a,Selkirk Drive,13,5447302,98672619,Richmond Hill,37878
 43.8470786,-79.377302,2,York Boulevard (081),a,York Boulevard,39,5447486,99045081,Richmond Hill,37878
-43.8470803,-79.4146869,2,Yukon Drive (065),a,Yukon Drive,13,5447795,397278065,Richmond Hill,37878
 43.8470813,-79.3786688,2,East Beaver Creek Road (234),a,East Beaver Creek Road,149,5447485,99042234,Richmond Hill,37878
 43.8470913,-79.4390173,2,Pearson Avenue (721),a,Pearson Avenue,48,5446816,95159721,Richmond Hill,37878
-43.8470946,-79.4170096,2,Ludford Drive (135),a,Ludford Drive,17,5447114,97889135,Richmond Hill,37878
 43.8471042,-79.376984,2,York Boulevard (083),a,York Boulevard,39,5447486,99045083,Richmond Hill,37878
 43.8471194,-79.4280475,2,King William Crescent (668),a,King William Crescent,23,5447163,98223668,Richmond Hill,37878
 43.8471194,-79.4280475,2,King William Crescent (682),a,King William Crescent,23,5447163,98223682,Richmond Hill,37878
@@ -1978,7 +1672,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8471427,-79.3772479,2,York Boulevard (361),a,York Boulevard,39,5447486,630429361,Richmond Hill,37878
 43.8471455,-79.3772569,2,York Boulevard (064),a,York Boulevard,39,5447486,99045064,Richmond Hill,37878
 43.8471473,-79.4276467,2,MacGregor Avenue (945),a,MacGregor Avenue,7,5447177,98297945,Richmond Hill,37878
-43.8471487,-79.4147029,2,Yukon Drive (473),a,Yukon Drive,13,5447795,451763473,Richmond Hill,37878
 43.8471491,-79.3769122,2,York Boulevard (357),a,York Boulevard,39,5447486,630429357,Richmond Hill,37878
 43.8471512,-79.4584738,2,Bathurst Street (714),a,Bathurst Street,380,5446829,328453714,Richmond Hill,37878
 43.8471755,-79.3786606,2,East Beaver Creek Road (233),a,East Beaver Creek Road,149,5447485,99042233,Richmond Hill,37878
@@ -1986,10 +1679,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.847184,-79.3775212,2,York Boulevard (079),a,York Boulevard,39,5447486,99045079,Richmond Hill,37878
 43.8472115,-79.3785065,2,East Beaver Creek Road (244),a,East Beaver Creek Road,149,5447485,99042244,Richmond Hill,37878
 43.8472266,-79.3829654,2,Leslie Street (382),a,Leslie Street,580,5446825,95412382,Richmond Hill,37878
-43.8472275,-79.4232131,2,Rideau Drive (797),a,Rideau Drive,19,5447058,97458797,Richmond Hill,37878
-43.8472379,-79.4233381,2,Rideau Drive (799),a,Rideau Drive,19,5447058,97458799,Richmond Hill,37878
 43.8472423,-79.3776206,2,York Boulevard (078),a,York Boulevard,39,5447486,99045078,Richmond Hill,37878
-43.8472494,-79.4246354,2,Selkirk Drive (610),a,Selkirk Drive,13,5447302,98672610,Richmond Hill,37878
 43.8472558,-79.4316988,2,Yonge Street (032),a,Yonge Street,890,5446601,334957032,Richmond Hill,37878
 43.8472558,-79.4316988,2,Yonge Street (493),a,Yonge Street,890,5446601,579527493,Richmond Hill,37878
 43.8472605,-79.3786413,2,East Beaver Creek Road (232),a,East Beaver Creek Road,149,5447485,99042232,Richmond Hill,37878
@@ -1999,14 +1689,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8473083,-79.4259613,2,Red Maple Road (917),a,Red Maple Road,110,5447164,328449917,Richmond Hill,37878
 43.8473174,-79.4539557,2,Winterport Court (708),a,Winterport Court,4,5446872,384336708,Richmond Hill,37878
 43.847326,-79.3775901,2,York Boulevard (067),a,York Boulevard,39,5447486,99045067,Richmond Hill,37878
-43.8473373,-79.4234972,2,Rideau Drive (801),a,Rideau Drive,19,5447058,97458801,Richmond Hill,37878
 43.847338,-79.4538528,2,Sala Drive (144),a,Sala Drive,26,5446835,95609144,Richmond Hill,37878
 43.847338,-79.4538528,2,Sala Drive (147),a,Sala Drive,26,5446835,95609147,Richmond Hill,37878
 43.847338,-79.4538528,2,Winterport Court (925),a,Winterport Court,4,5446872,96029925,Richmond Hill,37878
 43.847338,-79.4538528,2,Camgreen Court (652),a,Camgreen Court,25,5447137,98092652,Richmond Hill,37878
 43.8473446,-79.4308252,2,Lane B (048),a,Lane B,11,5447252,429948048,Richmond Hill,37878
-43.8473472,-79.4122045,2,Bantry Avenue (715),a,Bantry Avenue,107,5447433,630426715,Richmond Hill,37878
-43.8473472,-79.4122045,2,Bantry Avenue (718),a,Bantry Avenue,107,5447433,630426718,Richmond Hill,37878
 43.8473557,-79.3786065,2,East Beaver Creek Road (231),a,East Beaver Creek Road,149,5447485,99042231,Richmond Hill,37878
 43.8473568,-79.4537715,2,Camgreen Court (736),a,Camgreen Court,25,5447137,384336736,Richmond Hill,37878
 43.8473631,-79.3784571,2,East Beaver Creek Road (246),a,East Beaver Creek Road,149,5447485,99042246,Richmond Hill,37878
@@ -2018,7 +1705,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8473895,-79.4390967,2,Pearson Avenue (724),a,Pearson Avenue,48,5446816,95159724,Richmond Hill,37878
 43.8473965,-79.4529124,2,Camgreen Court (849),a,Camgreen Court,25,5447137,473374849,Richmond Hill,37878
 43.8474022,-79.4527118,2,Camgreen Court (768),a,Camgreen Court,25,5447137,354033768,Richmond Hill,37878
-43.8474062,-79.4118664,2,Bantry Avenue (517),a,Bantry Avenue,107,5447433,98925517,Richmond Hill,37878
 43.847412,-79.4302258,2,Coburg Crescent (147),a,Coburg Crescent,24,5446973,96930147,Richmond Hill,37878
 43.847412,-79.4302258,2,Ellesmere Street (946),a,Ellesmere Street,19,5446979,96987946,Richmond Hill,37878
 43.847412,-79.4302258,2,Ellesmere Street (952),a,Ellesmere Street,19,5446979,96987952,Richmond Hill,37878
@@ -2034,7 +1720,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8474529,-79.4529531,2,Camgreen Court (848),a,Camgreen Court,25,5447137,473374848,Richmond Hill,37878
 43.8474575,-79.3831648,2,Leslie Street (234),a,Leslie Street,580,5446825,95412234,Richmond Hill,37878
 43.8474608,-79.4526775,2,Camgreen Court (770),a,Camgreen Court,25,5447137,354033770,Richmond Hill,37878
-43.8474671,-79.4192017,2,Baltic Street (564),a,Baltic Street,10,5447381,98831564,Richmond Hill,37878
 43.8474692,-79.4262146,2,MacGregor Avenue (946),a,MacGregor Avenue,7,5447177,98297946,Richmond Hill,37878
 43.847473,-79.4302425,2,Ellesmere Street (826),a,Ellesmere Street,19,5446979,397277826,Richmond Hill,37878
 43.8474732,-79.4261967,2,MacGregor Avenue (974),a,MacGregor Avenue,7,5447177,328449974,Richmond Hill,37878
@@ -2047,8 +1732,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8474851,-79.4529529,2,Camgreen Court (984),a,Camgreen Court,25,5447137,579525984,Richmond Hill,37878
 43.8474901,-79.4531149,2,Camgreen Court (660),a,Camgreen Court,25,5447137,98092660,Richmond Hill,37878
 43.847493,-79.4526813,2,Camgreen Court (771),a,Camgreen Court,25,5447137,354033771,Richmond Hill,37878
-43.8474931,-79.4249985,2,Selkirk Drive (611),a,Selkirk Drive,13,5447302,98672611,Richmond Hill,37878
-43.8475012,-79.4236298,2,Rideau Drive (802),a,Rideau Drive,19,5447058,97458802,Richmond Hill,37878
 43.8475041,-79.4260594,2,Red Maple Road (918),a,Red Maple Road,110,5447164,328449918,Richmond Hill,37878
 43.8475041,-79.4260594,2,MacGregor Avenue (947),a,MacGregor Avenue,7,5447177,98297947,Richmond Hill,37878
 43.8475174,-79.4529371,2,Camgreen Court (764),a,Camgreen Court,25,5447137,354033764,Richmond Hill,37878
@@ -2074,7 +1757,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8475853,-79.4290767,2,Coburg Crescent (151),a,Coburg Crescent,24,5446973,96930151,Richmond Hill,37878
 43.8475872,-79.4308876,2,Lane B (205),a,Lane B,11,5447252,98553205,Richmond Hill,37878
 43.8475898,-79.3761728,2,York Boulevard (084),a,York Boulevard,39,5447486,99045084,Richmond Hill,37878
-43.8475963,-79.4084664,2,Bayview Avenue (062),a,Bayview Avenue,592,5447186,98385062,Richmond Hill,37878
 43.8476021,-79.3831263,2,Leslie Street (232),a,Leslie Street,580,5446825,95412232,Richmond Hill,37878
 43.8476021,-79.3831263,2,Leslie Street (385),a,Leslie Street,580,5446825,95412385,Richmond Hill,37878
 43.8476021,-79.3831263,2,Leslie Street (388),a,Leslie Street,580,5446825,95412388,Richmond Hill,37878
@@ -2084,39 +1766,28 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8476099,-79.4317834,2,Yonge Street (419),a,Yonge Street,890,5446601,328453419,Richmond Hill,37878
 43.8476165,-79.4261149,2,Red Maple Road (919),a,Red Maple Road,110,5447164,328449919,Richmond Hill,37878
 43.8476208,-79.4290384,2,Coburg Crescent (152),a,Coburg Crescent,24,5446973,96930152,Richmond Hill,37878
-43.8476226,-79.420469,2,Rideau Drive (565),a,Rideau Drive,19,5447058,490773565,Richmond Hill,37878
 43.8476243,-79.3782231,2,York Boulevard (153),a,York Boulevard,39,5447486,328453153,Richmond Hill,37878
-43.8476276,-79.4204345,2,Rideau Drive (916),a,Rideau Drive,19,5447058,397277916,Richmond Hill,37878
 43.8476321,-79.3784462,2,East Beaver Creek Road (230),a,East Beaver Creek Road,149,5447485,328453230,Richmond Hill,37878
 43.8476322,-79.4585672,2,Bathurst Street (716),a,Bathurst Street,380,5446829,328453716,Richmond Hill,37878
 43.8476322,-79.4585672,2,Bathurst Street (176),a,Bathurst Street,380,5446829,328454176,Richmond Hill,37878
 43.8476322,-79.4585672,2,Carrville Road (733),a,Carrville Road,116,5447246,328453733,Richmond Hill,37878
 43.8476322,-79.4585672,2,Rutherford Road (531),a,Rutherford Road,1,25180149,630429531,Richmond Hill,37878
 43.8476346,-79.3779912,2,York Boulevard (069),a,York Boulevard,39,5447486,99045069,Richmond Hill,37878
-43.8476411,-79.4106012,2,Bantry Avenue (711),a,Bantry Avenue,107,5447433,630426711,Richmond Hill,37878
-43.8476411,-79.4106012,2,Bantry Avenue (717),a,Bantry Avenue,107,5447433,630426717,Richmond Hill,37878
 43.8476415,-79.4390901,2,Pearson Avenue (728),a,Pearson Avenue,48,5446816,95159728,Richmond Hill,37878
-43.8476446,-79.4203167,2,Melville Street (454),a,Melville Street,13,5447011,97188454,Richmond Hill,37878
-43.8476446,-79.4203167,2,Melville Street (457),a,Melville Street,13,5447011,97188457,Richmond Hill,37878
-43.8476446,-79.4203167,2,Rideau Drive (795),a,Rideau Drive,19,5447058,97458795,Richmond Hill,37878
 43.8476464,-79.4281319,2,King William Crescent (670),a,King William Crescent,23,5447163,98223670,Richmond Hill,37878
 43.8476468,-79.3782792,2,East Beaver Creek Road (238),a,East Beaver Creek Road,149,5447485,99042238,Richmond Hill,37878
 43.8476468,-79.3782792,2,East Beaver Creek Road (248),a,East Beaver Creek Road,149,5447485,99042248,Richmond Hill,37878
 43.8476468,-79.3782792,2,York Boulevard (073),a,York Boulevard,39,5447486,99045073,Richmond Hill,37878
 43.8476522,-79.4281193,2,King William Crescent (899),a,King William Crescent,23,5447163,397277899,Richmond Hill,37878
-43.8476565,-79.4237874,2,Rideau Drive (804),a,Rideau Drive,19,5447058,97458804,Richmond Hill,37878
 43.8476589,-79.4584526,2,Carrville Road (734),a,Carrville Road,116,5447246,328453734,Richmond Hill,37878
 43.8476605,-79.4457703,2,Birch Avenue (949),a,Birch Avenue,15,5447324,98718949,Richmond Hill,37878
-43.8476615,-79.4105004,2,Bantry Avenue (537),a,Bantry Avenue,107,5447433,98925537,Richmond Hill,37878
 43.8476711,-79.3780571,2,York Boulevard (070),a,York Boulevard,39,5447486,99045070,Richmond Hill,37878
 43.8476748,-79.429037,2,Coburg Crescent (153),a,Coburg Crescent,24,5446973,96930153,Richmond Hill,37878
-43.8476752,-79.4160238,2,Silver Linden Drive (520),a,Silver Linden Drive,84,5446931,328449520,Richmond Hill,37878
 43.847677,-79.456263,2,Stallibrass Lane (483),a,Stallibrass Lane,3,15729461,328453483,Richmond Hill,37878
 43.8476894,-79.4280383,2,King William Crescent (671),a,King William Crescent,23,5447163,98223671,Richmond Hill,37878
 43.8476962,-79.3784027,2,East Beaver Creek Road (228),a,East Beaver Creek Road,149,5447485,99042228,Richmond Hill,37878
 43.8476962,-79.3784027,2,East Beaver Creek Road (256),a,East Beaver Creek Road,149,5447485,99042256,Richmond Hill,37878
 43.8476976,-79.3781203,2,York Boulevard (071),a,York Boulevard,39,5447486,99045071,Richmond Hill,37878
-43.8477072,-79.4251584,2,Selkirk Drive (612),a,Selkirk Drive,13,5447302,98672612,Richmond Hill,37878
 43.8477133,-79.3781633,2,York Boulevard (152),a,York Boulevard,39,5447486,328453152,Richmond Hill,37878
 43.8477218,-79.4390382,2,Pearson Avenue (729),a,Pearson Avenue,48,5446816,95159729,Richmond Hill,37878
 43.8477283,-79.3868235,2,West Pearce Street (753),a,West Pearce Street,35,5446607,92967753,Richmond Hill,37878
@@ -2132,14 +1803,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8477599,-79.4585987,2,Carrville Road (529),a,Carrville Road,116,5447246,630429529,Richmond Hill,37878
 43.8477817,-79.4584807,2,Carrville Road (181),a,Carrville Road,116,5447246,328454181,Richmond Hill,37878
 43.8477826,-79.3783441,2,East Beaver Creek Road (255),a,East Beaver Creek Road,149,5447485,99042255,Richmond Hill,37878
-43.8477833,-79.4239648,2,Rideau Drive (806),a,Rideau Drive,19,5447058,97458806,Richmond Hill,37878
 43.847803,-79.3781712,2,East Beaver Creek Road (272),a,East Beaver Creek Road,149,5447485,328453272,Richmond Hill,37878
 43.8478083,-79.386462,2,West Pearce Street (857),a,West Pearce Street,35,5446607,411693857,Richmond Hill,37878
 43.8478103,-79.4290708,2,Coburg Crescent (154),a,Coburg Crescent,24,5446973,96930154,Richmond Hill,37878
 43.8478183,-79.3762288,2,York Boulevard (359),a,York Boulevard,39,5447486,630429359,Richmond Hill,37878
 43.8478198,-79.438961,2,Pearson Avenue (730),a,Pearson Avenue,48,5446816,95159730,Richmond Hill,37878
-43.8478268,-79.4098791,2,Bantry Avenue (089),a,Bantry Avenue,107,5447433,397278089,Richmond Hill,37878
-43.8478285,-79.4192917,2,Baltic Street (565),a,Baltic Street,10,5447381,98831565,Richmond Hill,37878
 43.8478329,-79.4580199,2,Carrville Road (985),a,Carrville Road,116,5447246,328451985,Richmond Hill,37878
 43.8478329,-79.4580199,2,Carrville Road (736),a,Carrville Road,116,5447246,328453736,Richmond Hill,37878
 43.8478329,-79.4580199,2,Carrville Road (179),a,Carrville Road,116,5447246,328454179,Richmond Hill,37878
@@ -2148,13 +1816,9 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8478451,-79.3862956,2,West Pearce Street (853),a,West Pearce Street,35,5446607,297028853,Richmond Hill,37878
 43.8478485,-79.3782973,2,East Beaver Creek Road (680),a,East Beaver Creek Road,149,5447485,328453680,Richmond Hill,37878
 43.8478529,-79.3862605,2,West Pearce Street (754),a,West Pearce Street,35,5446607,92967754,Richmond Hill,37878
-43.8478535,-79.417201,2,Ludford Drive (136),a,Ludford Drive,17,5447114,97889136,Richmond Hill,37878
 43.8478575,-79.4586205,2,Bathurst Street (738),a,Bathurst Street,380,5446829,328453738,Richmond Hill,37878
-43.847868,-79.4182456,2,Frobisher Street (174),a,Frobisher Street,12,5446929,96651174,Richmond Hill,37878
 43.8478692,-79.3861871,2,West Pearce Street (858),a,West Pearce Street,35,5446607,411693858,Richmond Hill,37878
 43.8478713,-79.4447198,2,Birch Avenue (950),a,Birch Avenue,15,5447324,98718950,Richmond Hill,37878
-43.8478939,-79.4241318,2,Rideau Drive (808),a,Rideau Drive,19,5447058,97458808,Richmond Hill,37878
-43.8478977,-79.409491,2,Bantry Avenue (547),a,Bantry Avenue,107,5447433,98925547,Richmond Hill,37878
 43.8479034,-79.3860335,2,West Pearce Street (859),a,West Pearce Street,35,5446607,411693859,Richmond Hill,37878
 43.847911,-79.450156,2,Petrolia Court (770),a,Petrolia Court,14,5447911,384336770,Richmond Hill,37878
 43.8479176,-79.4445153,2,Birch Avenue (911),a,Birch Avenue,15,5447324,328450911,Richmond Hill,37878
@@ -2169,41 +1833,28 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8479728,-79.4291038,2,Coburg Crescent (155),a,Coburg Crescent,24,5446973,96930155,Richmond Hill,37878
 43.847976,-79.4573421,2,Carrville Road (799),a,Carrville Road,116,5447246,98534799,Richmond Hill,37878
 43.8479983,-79.4388444,2,Pearson Avenue (732),a,Pearson Avenue,48,5446816,95159732,Richmond Hill,37878
-43.8479994,-79.4089342,2,Bantry Avenue (546),a,Bantry Avenue,107,5447433,98925546,Richmond Hill,37878
-43.8480045,-79.4089065,2,Bantry Avenue (390),a,Bantry Avenue,107,5447433,328453390,Richmond Hill,37878
 43.8480095,-79.4264427,2,King William Crescent (673),a,King William Crescent,23,5447163,98223673,Richmond Hill,37878
-43.848017,-79.4264077,2,King William Crescent (287),a,King William Crescent,23,5447163,328450287,Richmond Hill,37878
 43.8480288,-79.433183,2,Edgar Avenue (249),a,Edgar Avenue,11,5446818,95176249,Richmond Hill,37878
 43.8480288,-79.433183,2,Frontier Drive (015),a,Frontier Drive,13,5447220,98472015,Richmond Hill,37878
 43.8480339,-79.3854466,2,West Pearce Street (860),a,West Pearce Street,35,5446607,411693860,Richmond Hill,37878
 43.8480356,-79.430396,2,Ellesmere Street (953),a,Ellesmere Street,19,5446979,96987953,Richmond Hill,37878
 43.8480356,-79.430396,2,Ellesmere Street (954),a,Ellesmere Street,19,5446979,96987954,Richmond Hill,37878
 43.8480356,-79.430396,2,Merrill Avenue (548),a,Merrill Avenue,6,5447171,98270548,Richmond Hill,37878
-43.848045,-79.4262757,2,Rideau Drive (786),a,Rideau Drive,19,5447058,97458786,Richmond Hill,37878
-43.848045,-79.4262757,2,King William Crescent (674),a,King William Crescent,23,5447163,98223674,Richmond Hill,37878
-43.848045,-79.4262757,2,Red Maple Road (920),a,Red Maple Road,110,5447164,328449920,Richmond Hill,37878
 43.8480491,-79.4302927,2,Merrill Avenue (859),a,Merrill Avenue,6,5447171,397277859,Richmond Hill,37878
 43.8480496,-79.3779991,2,East Beaver Creek Road (240),a,East Beaver Creek Road,149,5447485,99042240,Richmond Hill,37878
 43.8480513,-79.4302754,2,Merrill Avenue (551),a,Merrill Avenue,6,5447171,98270551,Richmond Hill,37878
 43.8480521,-79.4388306,2,Pearson Avenue (733),a,Pearson Avenue,48,5446816,95159733,Richmond Hill,37878
-43.8480558,-79.4242453,2,Rideau Drive (810),a,Rideau Drive,19,5447058,97458810,Richmond Hill,37878
-43.8480747,-79.426142,2,Rideau Drive (539),a,Rideau Drive,19,5447058,328449539,Richmond Hill,37878
 43.8480753,-79.432955,2,Edgar Avenue (247),a,Edgar Avenue,11,5446818,95176247,Richmond Hill,37878
-43.8480787,-79.4227663,2,Quetico Drive (948),a,Quetico Drive,12,5446878,96096948,Richmond Hill,37878
 43.8480793,-79.4568051,2,Carrville Road (798),a,Carrville Road,116,5447246,98534798,Richmond Hill,37878
 43.8480793,-79.4568051,2,Sombrero Lane (484),a,Sombrero Lane,3,15729462,328453484,Richmond Hill,37878
-43.848081,-79.4261136,2,Rideau Drive (790),a,Rideau Drive,19,5447058,97458790,Richmond Hill,37878
 43.8480831,-79.4331907,2,Frontier Drive (876),a,Frontier Drive,13,5447220,397277876,Richmond Hill,37878
 43.8480867,-79.3852087,2,West Pearce Street (854),a,West Pearce Street,35,5446607,297028854,Richmond Hill,37878
 43.8480897,-79.3833312,2,Leslie Street (260),a,Leslie Street,580,5446825,95412260,Richmond Hill,37878
-43.8480906,-79.4262932,2,Red Maple Road (851),a,Red Maple Road,110,5447164,397277851,Richmond Hill,37878
 43.8480932,-79.4331921,2,Frontier Drive (016),a,Frontier Drive,13,5447220,98472016,Richmond Hill,37878
 43.8480943,-79.4328625,2,Edgar Avenue (926),a,Edgar Avenue,11,5446818,363930926,Richmond Hill,37878
-43.8480996,-79.4229374,2,Quetico Drive (949),a,Quetico Drive,12,5446878,96096949,Richmond Hill,37878
 43.8481031,-79.3781167,2,East Beaver Creek Road (254),a,East Beaver Creek Road,149,5447485,99042254,Richmond Hill,37878
 43.8481062,-79.383175,2,Leslie Street (765),a,Leslie Street,580,5446825,95412765,Richmond Hill,37878
 43.8481086,-79.3765462,2,York Boulevard (055),a,York Boulevard,39,5447486,99045055,Richmond Hill,37878
-43.8481087,-79.4193714,2,Baltic Street (566),a,Baltic Street,10,5447381,98831566,Richmond Hill,37878
 43.8481153,-79.4388413,2,Pearson Avenue (734),a,Pearson Avenue,48,5446816,95159734,Richmond Hill,37878
 43.8481208,-79.4586898,2,Bathurst Street (739),a,Bathurst Street,380,5446829,328453739,Richmond Hill,37878
 43.8481227,-79.3780985,2,East Beaver Creek Road (341),a,East Beaver Creek Road,149,5447485,630429341,Richmond Hill,37878
@@ -2213,33 +1864,25 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8481351,-79.3849912,2,West Pearce Street (855),a,West Pearce Street,35,5446607,297028855,Richmond Hill,37878
 43.8481422,-79.3849594,2,West Pearce Street (367),a,West Pearce Street,35,5446607,490773367,Richmond Hill,37878
 43.848148,-79.44901,2,Petrolia Court (769),a,Petrolia Court,14,5447911,384336769,Richmond Hill,37878
-43.8481606,-79.4172675,2,Ludford Drive (138),a,Ludford Drive,17,5447114,97889138,Richmond Hill,37878
-43.8481643,-79.414941,2,Yukon Drive (981),a,Yukon Drive,13,5447795,99613981,Richmond Hill,37878
 43.848166,-79.44892,2,Petrolia Court (768),a,Petrolia Court,14,5447911,384336768,Richmond Hill,37878
 43.8481783,-79.4388397,2,Pearson Avenue (735),a,Pearson Avenue,48,5446816,95159735,Richmond Hill,37878
-43.8481803,-79.4253267,2,Selkirk Drive (648),a,Selkirk Drive,13,5447302,490773648,Richmond Hill,37878
 43.8481814,-79.4292857,2,Merrill Avenue (553),a,Merrill Avenue,6,5447171,98270553,Richmond Hill,37878
 43.8481852,-79.4292572,2,Merrill Avenue (860),a,Merrill Avenue,6,5447171,397277860,Richmond Hill,37878
 43.8481863,-79.4562486,2,Carrville Road (995),a,Carrville Road,116,5447246,579525995,Richmond Hill,37878
 43.8481863,-79.4562486,2,Carrville Road (006),a,Carrville Road,116,5447246,579526006,Richmond Hill,37878
 43.8481882,-79.3766363,2,York Boulevard (360),a,York Boulevard,39,5447486,630429360,Richmond Hill,37878
 43.848189,-79.448833,2,Petrolia Court (767),a,Petrolia Court,14,5447911,384336767,Richmond Hill,37878
-43.8481934,-79.4183366,2,Frobisher Street (175),a,Frobisher Street,12,5446929,96651175,Richmond Hill,37878
 43.8481945,-79.384724,2,West Pearce Street (856),a,West Pearce Street,35,5446607,297028856,Richmond Hill,37878
 43.8481954,-79.4291797,2,Coburg Crescent (156),a,Coburg Crescent,24,5446973,96930156,Richmond Hill,37878
 43.8481954,-79.4291797,2,Coburg Crescent (157),a,Coburg Crescent,24,5446973,96930157,Richmond Hill,37878
 43.8481954,-79.4291797,2,Merrill Avenue (555),a,Merrill Avenue,6,5447171,98270555,Richmond Hill,37878
 43.848216,-79.448747,2,Petrolia Court (766),a,Petrolia Court,14,5447911,384336766,Richmond Hill,37878
-43.848229,-79.425344,2,Rideau Drive (792),a,Rideau Drive,19,5447058,97458792,Richmond Hill,37878
-43.848229,-79.425344,2,Rideau Drive (818),a,Rideau Drive,19,5447058,97458818,Richmond Hill,37878
-43.848229,-79.425344,2,Selkirk Drive (614),a,Selkirk Drive,13,5447302,98672614,Richmond Hill,37878
 43.8482493,-79.4587769,2,Bathurst Street (740),a,Bathurst Street,380,5446829,328453740,Richmond Hill,37878
 43.8482493,-79.4587769,2,Bathurst Street (665),a,Bathurst Street,380,5446829,579525665,Richmond Hill,37878
 43.8482493,-79.4587769,2,Bathurst Street (530),a,Bathurst Street,380,5446829,630429530,Richmond Hill,37878
 43.8482592,-79.3844331,2,West Pearce Street (755),a,West Pearce Street,35,5446607,92967755,Richmond Hill,37878
 43.8482674,-79.4320789,2,Edgar Avenue (994),a,Edgar Avenue,11,5446818,355880994,Richmond Hill,37878
 43.8482744,-79.4320233,2,Edgar Avenue (244),a,Edgar Avenue,11,5446818,95176244,Richmond Hill,37878
-43.8482804,-79.4161695,2,Silver Linden Drive (519),a,Silver Linden Drive,84,5446931,328449519,Richmond Hill,37878
 43.8482828,-79.4319441,2,Yonge Street (595),a,Yonge Street,890,5446601,297028595,Richmond Hill,37878
 43.8482828,-79.4319441,2,Edgar Avenue (015),a,Edgar Avenue,11,5446818,328449015,Richmond Hill,37878
 43.8482865,-79.3843147,2,West Pearce Street (857),a,West Pearce Street,35,5446607,297028857,Richmond Hill,37878
@@ -2264,21 +1907,15 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.848329,-79.4283072,2,Revelstoke Crescent (785),a,Revelstoke Crescent,23,5446865,397277785,Richmond Hill,37878
 43.84833,-79.448467,2,Petrolia Court (764),a,Petrolia Court,14,5447911,384336764,Richmond Hill,37878
 43.8483378,-79.4278876,2,Revelstoke Crescent (946),a,Revelstoke Crescent,23,5446865,630428946,Richmond Hill,37878
-43.8483415,-79.4173249,2,Ludford Drive (140),a,Ludford Drive,17,5447114,97889140,Richmond Hill,37878
 43.8483448,-79.3840841,2,West Pearce Street (743),a,West Pearce Street,35,5446607,92967743,Richmond Hill,37878
 43.8483448,-79.3840841,2,West Pearce Street (749),a,West Pearce Street,35,5446607,92967749,Richmond Hill,37878
 43.8483448,-79.3840841,2,West Pearce Street (756),a,West Pearce Street,35,5446607,92967756,Richmond Hill,37878
-43.8483467,-79.4204989,2,Melville Street (804),a,Melville Street,13,5447011,397277804,Richmond Hill,37878
 43.84835,-79.448399,2,Petrolia Court (763),a,Petrolia Court,14,5447911,384336763,Richmond Hill,37878
 43.8483533,-79.3834058,2,Leslie Street (258),a,Leslie Street,580,5446825,95412258,Richmond Hill,37878
 43.8483535,-79.428339,2,Revelstoke Crescent (952),a,Revelstoke Crescent,23,5446865,630428952,Richmond Hill,37878
 43.8483538,-79.4506355,2,Duncombe Lane (141),a,Duncombe Lane,23,5447910,99736141,Richmond Hill,37878
-43.8483572,-79.4232356,2,Quetico Drive (950),a,Quetico Drive,12,5446878,96096950,Richmond Hill,37878
 43.848359,-79.4506851,2,Duncombe Lane (142),a,Duncombe Lane,23,5447910,99736142,Richmond Hill,37878
-43.8483654,-79.4243619,2,Rideau Drive (812),a,Rideau Drive,19,5447058,97458812,Richmond Hill,37878
-43.8483668,-79.4206674,2,Quetico Drive (456),a,Quetico Drive,12,5446878,451763456,Richmond Hill,37878
 43.848368,-79.44833,2,Petrolia Court (762),a,Petrolia Court,14,5447911,384336762,Richmond Hill,37878
-43.8483735,-79.4206183,2,Quetico Drive (775),a,Quetico Drive,12,5446878,397277775,Richmond Hill,37878
 43.8483752,-79.383243,2,Leslie Street (766),a,Leslie Street,580,5446825,95412766,Richmond Hill,37878
 43.8483796,-79.3837516,2,West Pearce Street (750),a,West Pearce Street,35,5446607,92967750,Richmond Hill,37878
 43.8483825,-79.3778563,2,East Beaver Creek Road (204),a,East Beaver Creek Road,149,5447485,99042204,Richmond Hill,37878
@@ -2286,9 +1923,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8483825,-79.3778563,2,East Beaver Creek Road (340),a,East Beaver Creek Road,149,5447485,630429340,Richmond Hill,37878
 43.8483831,-79.4507124,2,Duncombe Lane (143),a,Duncombe Lane,23,5447910,99736143,Richmond Hill,37878
 43.8483832,-79.4283539,2,Revelstoke Crescent (607),a,Revelstoke Crescent,23,5446865,95952607,Richmond Hill,37878
-43.8483884,-79.4205097,2,Quetico Drive (947),a,Quetico Drive,12,5446878,96096947,Richmond Hill,37878
-43.8483884,-79.4205097,2,Melville Street (455),a,Melville Street,13,5447011,97188455,Richmond Hill,37878
-43.8483884,-79.4205097,2,Melville Street (460),a,Melville Street,13,5447011,97188460,Richmond Hill,37878
 43.8483951,-79.43107,2,Lane B (206),a,Lane B,11,5447252,98553206,Richmond Hill,37878
 43.8483951,-79.43107,2,Dalemount Gate (868),a,Dalemount Gate,8,5447799,99618868,Richmond Hill,37878
 43.8483951,-79.43107,2,Dalemount Gate (869),a,Dalemount Gate,8,5447799,99618869,Richmond Hill,37878
@@ -2296,10 +1930,7 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8484006,-79.377844,2,East Beaver Creek Road (951),a,East Beaver Creek Road,149,5447485,392304951,Richmond Hill,37878
 43.8484105,-79.4507394,2,Duncombe Lane (144),a,Duncombe Lane,23,5447910,99736144,Richmond Hill,37878
 43.8484108,-79.455471,2,Carrville Road (003),a,Carrville Road,116,5447246,579526003,Richmond Hill,37878
-43.8484188,-79.424543,2,Rideau Drive (816),a,Rideau Drive,19,5447058,97458816,Richmond Hill,37878
 43.8484243,-79.3835645,2,West Pearce Street (751),a,West Pearce Street,35,5446607,92967751,Richmond Hill,37878
-43.8484254,-79.4244355,2,Rideau Drive (814),a,Rideau Drive,19,5447058,97458814,Richmond Hill,37878
-43.8484441,-79.423279,2,Quetico Drive (951),a,Quetico Drive,12,5446878,96096951,Richmond Hill,37878
 43.8484522,-79.4543113,2,Sala Drive (227),a,Sala Drive,26,5446835,328450227,Richmond Hill,37878
 43.8484527,-79.4479231,2,Petrolia Court (106),a,Petrolia Court,14,5447911,397278106,Richmond Hill,37878
 43.8484568,-79.430634,2,Dalemount Gate (870),a,Dalemount Gate,8,5447799,99618870,Richmond Hill,37878
@@ -2307,7 +1938,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8484575,-79.3834263,2,West Pearce Street (752),a,West Pearce Street,35,5446607,92967752,Richmond Hill,37878
 43.8484575,-79.3834263,2,Leslie Street (256),a,Leslie Street,580,5446825,95412256,Richmond Hill,37878
 43.8484575,-79.3834263,2,Leslie Street (267),a,Leslie Street,580,5446825,95412267,Richmond Hill,37878
-43.8484588,-79.4173467,2,Ludford Drive (142),a,Ludford Drive,17,5447114,97889142,Richmond Hill,37878
 43.8484609,-79.4557534,2,Okanagan Drive (954),a,Okanagan Drive,18,5446778,328448954,Richmond Hill,37878
 43.8484609,-79.4305922,2,Dalemount Gate (076),a,Dalemount Gate,8,5447799,397278076,Richmond Hill,37878
 43.8484612,-79.4507592,2,Duncombe Lane (145),a,Duncombe Lane,23,5447910,99736145,Richmond Hill,37878
@@ -2333,7 +1963,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8485144,-79.3831323,2,East Pearce Street (878),a,East Pearce Street,23,5447337,98745878,Richmond Hill,37878
 43.8485182,-79.3835911,2,West Pearce Street (741),a,West Pearce Street,35,5446607,92967741,Richmond Hill,37878
 43.8485394,-79.4478479,2,Myers Boulevard (720),a,Myers Boulevard,6,5446971,384336720,Richmond Hill,37878
-43.8485491,-79.4173692,2,Ludford Drive (145),a,Ludford Drive,17,5447114,97889145,Richmond Hill,37878
 43.8485495,-79.3834511,2,West Pearce Street (740),a,West Pearce Street,35,5446607,92967740,Richmond Hill,37878
 43.8485495,-79.3834511,2,West Pearce Street (745),a,West Pearce Street,35,5446607,92967745,Richmond Hill,37878
 43.8485495,-79.3834511,2,Leslie Street (264),a,Leslie Street,580,5446825,95412264,Richmond Hill,37878
@@ -2343,8 +1972,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8485587,-79.439004,2,Oak Avenue (291),a,Oak Avenue,11,5447165,98242291,Richmond Hill,37878
 43.8485587,-79.439004,2,Oak Avenue (292),a,Oak Avenue,11,5447165,98242292,Richmond Hill,37878
 43.8485615,-79.4332934,2,Frontier Drive (018),a,Frontier Drive,13,5447220,98472018,Richmond Hill,37878
-43.8485619,-79.4150424,2,Yukon Drive (983),a,Yukon Drive,13,5447795,99613983,Richmond Hill,37878
-43.8485729,-79.4184225,2,Frobisher Street (787),a,Frobisher Street,12,5446929,397277787,Richmond Hill,37878
 43.848574,-79.4543614,2,Sala Drive (145),a,Sala Drive,26,5446835,95609145,Richmond Hill,37878
 43.848574,-79.4543614,2,Carrville Road (789),a,Carrville Road,116,5447246,98534789,Richmond Hill,37878
 43.848574,-79.4543614,2,Carrville Road (796),a,Carrville Road,116,5447246,98534796,Richmond Hill,37878
@@ -2355,35 +1982,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8485932,-79.4333013,2,Frontier Drive (931),a,Frontier Drive,13,5447220,363930931,Richmond Hill,37878
 43.8485969,-79.3827964,2,East Pearce Street (879),a,East Pearce Street,23,5447337,98745879,Richmond Hill,37878
 43.8485986,-79.3831633,2,East Pearce Street (869),a,East Pearce Street,23,5447337,98745869,Richmond Hill,37878
-43.8486018,-79.4162349,2,Silver Linden Drive (810),a,Silver Linden Drive,84,5446931,397277810,Richmond Hill,37878
 43.848603,-79.4545662,2,Carrville Road (790),a,Carrville Road,116,5447246,98534790,Richmond Hill,37878
 43.8486059,-79.426635,2,Revelstoke Crescent (167),a,Revelstoke Crescent,23,5446865,328449167,Richmond Hill,37878
-43.8486147,-79.4233382,2,Quetico Drive (952),a,Quetico Drive,12,5446878,96096952,Richmond Hill,37878
 43.8486225,-79.3771282,2,York Boulevard (057),a,York Boulevard,39,5447486,99045057,Richmond Hill,37878
 43.8486317,-79.454081,2,Carrville Road (521),a,Carrville Road,116,5447246,630429521,Richmond Hill,37878
 43.8486317,-79.454081,2,Carrville Road (522),a,Carrville Road,116,5447246,630429522,Richmond Hill,37878
 43.848633,-79.4265016,2,Revelstoke Crescent (603),a,Revelstoke Crescent,23,5446865,95952603,Richmond Hill,37878
-43.848633,-79.4265016,2,Silver Linden Drive (556),a,Silver Linden Drive,84,5446931,96680556,Richmond Hill,37878
 43.848633,-79.4265016,2,Red Maple Road (921),a,Red Maple Road,110,5447164,328449921,Richmond Hill,37878
-43.848636,-79.4184368,2,Frobisher Street (176),a,Frobisher Street,12,5446929,96651176,Richmond Hill,37878
-43.848636,-79.4184368,2,Frobisher Street (177),a,Frobisher Street,12,5446929,96651177,Richmond Hill,37878
-43.848636,-79.4184368,2,Ludford Drive (157),a,Ludford Drive,17,5447114,97889157,Richmond Hill,37878
-43.8486397,-79.4174041,2,Ludford Drive (147),a,Ludford Drive,17,5447114,97889147,Richmond Hill,37878
 43.8486464,-79.4469355,2,Petrolia Court (099),a,Petrolia Court,14,5447911,397278099,Richmond Hill,37878
-43.8486491,-79.4183339,2,Ludford Drive (600),a,Ludford Drive,17,5447114,490773600,Richmond Hill,37878
 43.8486499,-79.3771624,2,York Boulevard (058),a,York Boulevard,39,5447486,99045058,Richmond Hill,37878
-43.8486526,-79.4150898,2,Yukon Drive (985),a,Yukon Drive,13,5447795,99613985,Richmond Hill,37878
-43.8486596,-79.4162466,2,Silver Linden Drive (518),a,Silver Linden Drive,84,5446931,328449518,Richmond Hill,37878
-43.8486596,-79.4162466,2,Yukon Drive (990),a,Yukon Drive,13,5447795,99613990,Richmond Hill,37878
-43.8486621,-79.4263841,2,Silver Linden Drive (494),a,Silver Linden Drive,84,5446931,328449494,Richmond Hill,37878
 43.8486624,-79.3834802,2,Leslie Street (824),a,Leslie Street,580,5446825,95412824,Richmond Hill,37878
 43.848671,-79.3828168,2,East Pearce Street (868),a,East Pearce Street,23,5447337,98745868,Richmond Hill,37878
 43.8486726,-79.3772051,2,York Boulevard (059),a,York Boulevard,39,5447486,99045059,Richmond Hill,37878
 43.848675,-79.4490607,2,Duncombe Lane (140),a,Duncombe Lane,23,5447910,99736140,Richmond Hill,37878
-43.8486787,-79.4161143,2,Yukon Drive (066),a,Yukon Drive,13,5447795,328453066,Richmond Hill,37878
 43.8486792,-79.3833195,2,Leslie Street (219),a,Leslie Street,580,5446825,95412219,Richmond Hill,37878
-43.8486843,-79.4160759,2,Yukon Drive (065),a,Yukon Drive,13,5447795,328453065,Richmond Hill,37878
-43.8486855,-79.4174651,2,Ludford Drive (149),a,Ludford Drive,17,5447114,97889149,Richmond Hill,37878
 43.8486897,-79.4588934,2,Bathurst Street (718),a,Bathurst Street,380,5446829,328453718,Richmond Hill,37878
 43.8486897,-79.4588934,2,Bathurst Street (669),a,Bathurst Street,380,5446829,579525669,Richmond Hill,37878
 43.8486937,-79.449,2,Duncombe Lane (139),a,Duncombe Lane,23,5447910,99736139,Richmond Hill,37878
@@ -2391,24 +2003,16 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8487018,-79.3825151,2,East Pearce Street (867),a,East Pearce Street,23,5447337,98745867,Richmond Hill,37878
 43.8487018,-79.3825151,2,East Pearce Street (871),a,East Pearce Street,23,5447337,98745871,Richmond Hill,37878
 43.8487018,-79.3825151,2,East Pearce Street (880),a,East Pearce Street,23,5447337,98745880,Richmond Hill,37878
-43.8487042,-79.4175144,2,Ludford Drive (151),a,Ludford Drive,17,5447114,97889151,Richmond Hill,37878
 43.8487067,-79.3772922,2,York Boulevard (061),a,York Boulevard,39,5447486,99045061,Richmond Hill,37878
-43.848708,-79.4151878,2,Yukon Drive (986),a,Yukon Drive,13,5447795,99613986,Richmond Hill,37878
 43.84871,-79.446609,2,Petrolia Court (397),a,Petrolia Court,14,5447911,99738397,Richmond Hill,37878
 43.8487152,-79.4536749,2,Carrville Road (519),a,Carrville Road,116,5447246,630429519,Richmond Hill,37878
 43.8487152,-79.4536749,2,Carrville Road (520),a,Carrville Road,116,5447246,630429520,Richmond Hill,37878
-43.8487253,-79.4177378,2,Ludford Drive (155),a,Ludford Drive,17,5447114,97889155,Richmond Hill,37878
-43.8487328,-79.4176256,2,Ludford Drive (153),a,Ludford Drive,17,5447114,97889153,Richmond Hill,37878
 43.848736,-79.3823585,2,East Pearce Street (872),a,East Pearce Street,23,5447337,98745872,Richmond Hill,37878
-43.8487369,-79.4153239,2,Yukon Drive (987),a,Yukon Drive,13,5447795,99613987,Richmond Hill,37878
 43.8487385,-79.4489627,2,Duncombe Lane (138),a,Duncombe Lane,23,5447910,99736138,Richmond Hill,37878
-43.84875,-79.4156221,2,Yukon Drive (989),a,Yukon Drive,13,5447795,99613989,Richmond Hill,37878
 43.848754,-79.453488,2,Carrville Road (518),a,Carrville Road,116,5447246,630429518,Richmond Hill,37878
 43.8487623,-79.4589034,2,Bathurst Street (399),a,Bathurst Street,380,5446829,560837399,Richmond Hill,37878
 43.8487623,-79.4589034,2,Bathurst Street (400),a,Bathurst Street,380,5446829,560837400,Richmond Hill,37878
-43.848766,-79.4154724,2,Yukon Drive (988),a,Yukon Drive,13,5447795,99613988,Richmond Hill,37878
 43.8487689,-79.3774524,2,York Boulevard (938),a,York Boulevard,39,5447486,328451938,Richmond Hill,37878
-43.8487715,-79.4233617,2,Quetico Drive (953),a,Quetico Drive,12,5446878,96096953,Richmond Hill,37878
 43.8487855,-79.4489461,2,Duncombe Lane (137),a,Duncombe Lane,23,5447910,99736137,Richmond Hill,37878
 43.8487862,-79.4533315,2,Carrville Road (809),a,Carrville Road,116,5447246,98534809,Richmond Hill,37878
 43.8487862,-79.4533315,2,Carrville Road (001),a,Carrville Road,116,5447246,579526001,Richmond Hill,37878
@@ -2442,13 +2046,10 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8489172,-79.4448295,2,Avenue Road (023),a,Avenue Road,57,5447833,328454023,Richmond Hill,37878
 43.8489197,-79.4283699,2,Prince Patrick Avenue (364),a,Prince Patrick Avenue,7,5447401,98867364,Richmond Hill,37878
 43.8489236,-79.4334332,2,Frontier Drive (021),a,Frontier Drive,13,5447220,98472021,Richmond Hill,37878
-43.8489286,-79.4233433,2,Quetico Drive (112),a,Quetico Drive,12,5446878,328449112,Richmond Hill,37878
 43.8489336,-79.4335076,2,Frontier Drive (022),a,Frontier Drive,13,5447220,98472022,Richmond Hill,37878
 43.8489346,-79.4335822,2,Frontier Drive (023),a,Frontier Drive,13,5447220,98472023,Richmond Hill,37878
 43.8489395,-79.457003,2,Okanagan Drive (405),a,Okanagan Drive,18,5446778,94691405,Richmond Hill,37878
 43.8489485,-79.453382,2,Ayr Road (906),a,Ayr Road,6,5447780,328452906,Richmond Hill,37878
-43.8489541,-79.4233403,2,Quetico Drive (113),a,Quetico Drive,12,5446878,328449113,Richmond Hill,37878
-43.848976,-79.4163377,2,Silver Linden Drive (517),a,Silver Linden Drive,84,5446931,328449517,Richmond Hill,37878
 43.8489803,-79.4369153,2,Oak Avenue (293),a,Oak Avenue,11,5447165,98242293,Richmond Hill,37878
 43.8489844,-79.4293385,2,Coburg Crescent (158),a,Coburg Crescent,24,5446973,96930158,Richmond Hill,37878
 43.8489945,-79.4527459,2,Carrville Road (039),a,Carrville Road,116,5447246,560838039,Richmond Hill,37878
@@ -2457,32 +2058,17 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8489983,-79.4533975,2,Ayr Road (050),a,Ayr Road,6,5447780,99580050,Richmond Hill,37878
 43.8490027,-79.4527059,2,Carrville Road (855),a,Carrville Road,116,5447246,98534855,Richmond Hill,37878
 43.8490042,-79.4571234,2,Okanagan Drive (407),a,Okanagan Drive,18,5446778,94691407,Richmond Hill,37878
-43.8490129,-79.4222588,2,Silver Linden Drive (497),a,Silver Linden Drive,84,5446931,328449497,Richmond Hill,37878
-43.8490173,-79.4219227,2,Silver Linden Drive (499),a,Silver Linden Drive,84,5446931,328449499,Richmond Hill,37878
-43.8490176,-79.4219476,2,Silver Linden Drive (498),a,Silver Linden Drive,84,5446931,328449498,Richmond Hill,37878
-43.8490294,-79.424759,2,Silver Linden Drive (558),a,Silver Linden Drive,84,5446931,96680558,Richmond Hill,37878
 43.8490399,-79.3816401,2,Fulton Way (768),a,Fulton Way,37,5447157,98198768,Richmond Hill,37878
 43.8490401,-79.4589637,2,Bathurst Street (018),a,Bathurst Street,380,5446829,497565018,Richmond Hill,37878
 43.8490401,-79.4589637,2,Bathurst Street (020),a,Bathurst Street,380,5446829,497565020,Richmond Hill,37878
-43.8490406,-79.4233302,2,Quetico Drive (954),a,Quetico Drive,12,5446878,96096954,Richmond Hill,37878
-43.8490406,-79.4233302,2,Silver Linden Drive (496),a,Silver Linden Drive,84,5446931,328449496,Richmond Hill,37878
-43.8490412,-79.4216982,2,Silver Linden Drive (500),a,Silver Linden Drive,84,5446931,328449500,Richmond Hill,37878
 43.8490543,-79.4319349,2,Yonge Street (203),a,Yonge Street,890,5446601,392305203,Richmond Hill,37878
 43.8490543,-79.4319349,2,Yonge Street (227),a,Yonge Street,890,5446601,392305227,Richmond Hill,37878
-43.8490629,-79.4239245,2,Silver Linden Drive (495),a,Silver Linden Drive,84,5446931,328449495,Richmond Hill,37878
-43.8490643,-79.424024,2,Silver Linden Drive (561),a,Silver Linden Drive,84,5446931,96680561,Richmond Hill,37878
 43.849065,-79.4266864,2,Red Maple Road (922),a,Red Maple Road,110,5447164,328449922,Richmond Hill,37878
-43.8490664,-79.4241733,2,Silver Linden Drive (560),a,Silver Linden Drive,84,5446931,96680560,Richmond Hill,37878
 43.8490728,-79.4559769,2,Okanagan Drive (399),a,Okanagan Drive,18,5446778,94691399,Richmond Hill,37878
-43.8490752,-79.4206783,2,Melville Street (365),a,Melville Street,13,5447011,328450365,Richmond Hill,37878
 43.8490768,-79.4516865,2,Carrville Road (829),a,Carrville Road,116,5447246,98534829,Richmond Hill,37878
-43.849079,-79.4244342,2,Silver Linden Drive (559),a,Silver Linden Drive,84,5446931,96680559,Richmond Hill,37878
-43.8490814,-79.4212849,2,Silver Linden Drive (501),a,Silver Linden Drive,84,5446931,328449501,Richmond Hill,37878
 43.8490865,-79.3773691,2,East Beaver Creek Road (206),a,East Beaver Creek Road,149,5447485,99042206,Richmond Hill,37878
-43.8490885,-79.4212117,2,Silver Linden Drive (502),a,Silver Linden Drive,84,5446931,328449502,Richmond Hill,37878
 43.8490927,-79.4589764,2,Bathurst Street (017),a,Bathurst Street,380,5446829,497565017,Richmond Hill,37878
 43.8490927,-79.4589764,2,Bathurst Street (019),a,Bathurst Street,380,5446829,497565019,Richmond Hill,37878
-43.8490937,-79.4163844,2,Silver Linden Drive (516),a,Silver Linden Drive,84,5446931,328449516,Richmond Hill,37878
 43.8491214,-79.456133,2,Okanagan Drive (075),a,Okanagan Drive,18,5446778,389655075,Richmond Hill,37878
 43.8491254,-79.3806406,2,East Pearce Street (162),a,East Pearce Street,23,5447337,497565162,Richmond Hill,37878
 43.8491285,-79.4438163,2,Spruce Avenue (866),a,Spruce Avenue,13,5446943,96751866,Richmond Hill,37878
@@ -2495,9 +2081,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8491483,-79.4560045,2,Okanagan Drive (403),a,Okanagan Drive,18,5446778,94691403,Richmond Hill,37878
 43.8491483,-79.4560045,2,Skaha Court (734),a,Skaha Court,22,5446781,473374734,Richmond Hill,37878
 43.8491484,-79.4510287,2,Duncombe Lane (488),a,Duncombe Lane,23,5447910,328453488,Richmond Hill,37878
-43.8491625,-79.4206997,2,Silver Linden Drive (503),a,Silver Linden Drive,84,5446931,328449503,Richmond Hill,37878
-43.8491625,-79.4206997,2,Melville Street (461),a,Melville Street,13,5447011,97188461,Richmond Hill,37878
-43.8491666,-79.4164447,2,Silver Linden Drive (515),a,Silver Linden Drive,84,5446931,328449515,Richmond Hill,37878
 43.8491811,-79.4492689,2,Duncombe Lane (160),a,Duncombe Lane,23,5447910,415067160,Richmond Hill,37878
 43.8491832,-79.3834555,2,Leslie Street (220),a,Leslie Street,580,5446825,95412220,Richmond Hill,37878
 43.8491879,-79.4492361,2,Duncombe Lane (098),a,Duncombe Lane,23,5447910,397278098,Richmond Hill,37878
@@ -2506,13 +2089,11 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8491945,-79.4268934,2,Prince Patrick Avenue (366),a,Prince Patrick Avenue,7,5447401,98867366,Richmond Hill,37878
 43.8491956,-79.4517691,2,Carrville Road (853),a,Carrville Road,116,5447246,98534853,Richmond Hill,37878
 43.8492001,-79.4557053,2,Skaha Court (573),a,Skaha Court,22,5446781,354033573,Richmond Hill,37878
-43.8492011,-79.4196275,2,Baltic Street (567),a,Baltic Street,10,5447381,98831567,Richmond Hill,37878
 43.8492026,-79.4268579,2,Prince Patrick Avenue (973),a,Prince Patrick Avenue,7,5447401,328450973,Richmond Hill,37878
 43.8492031,-79.4557531,2,Skaha Court (574),a,Skaha Court,22,5446781,354033574,Richmond Hill,37878
 43.8492042,-79.4517234,2,Carrville Road (852),a,Carrville Road,116,5447246,98534852,Richmond Hill,37878
 43.8492088,-79.4556588,2,Skaha Court (582),a,Skaha Court,22,5446781,354033582,Richmond Hill,37878
 43.8492088,-79.4556588,2,Skaha Court (145),a,Skaha Court,22,5446781,579527145,Richmond Hill,37878
-43.8492092,-79.4196294,2,Baltic Street (865),a,Baltic Street,10,5447381,328450865,Richmond Hill,37878
 43.8492114,-79.3836012,2,Leslie Street (230),a,Leslie Street,580,5446825,95412230,Richmond Hill,37878
 43.8492114,-79.3836012,2,Leslie Street (823),a,Leslie Street,580,5446825,95412823,Richmond Hill,37878
 43.8492115,-79.4306764,2,Coburg Crescent (167),a,Coburg Crescent,24,5446973,96930167,Richmond Hill,37878
@@ -2523,7 +2104,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8492119,-79.4491204,2,Duncombe Lane (135),a,Duncombe Lane,23,5447910,99736135,Richmond Hill,37878
 43.8492174,-79.4557967,2,Skaha Court (575),a,Skaha Court,22,5446781,354033575,Richmond Hill,37878
 43.8492206,-79.3773033,2,East Beaver Creek Road (207),a,East Beaver Creek Road,149,5447485,99042207,Richmond Hill,37878
-43.8492216,-79.4165179,2,Silver Linden Drive (514),a,Silver Linden Drive,84,5446931,328449514,Richmond Hill,37878
 43.8492283,-79.4556192,2,Skaha Court (881),a,Skaha Court,22,5446781,94723881,Richmond Hill,37878
 43.8492345,-79.4305314,2,Coburg Crescent (166),a,Coburg Crescent,24,5446973,96930166,Richmond Hill,37878
 43.8492353,-79.4267151,2,Levellands Crescent (694),a,Levellands Crescent,13,5447096,97738694,Richmond Hill,37878
@@ -2539,28 +2119,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8492705,-79.4558514,2,Skaha Court (874),a,Skaha Court,22,5446781,94723874,Richmond Hill,37878
 43.8492851,-79.4355015,2,Oak Avenue (294),a,Oak Avenue,11,5447165,98242294,Richmond Hill,37878
 43.8492856,-79.4267289,2,Red Maple Road (924),a,Red Maple Road,110,5447164,328449924,Richmond Hill,37878
-43.8492862,-79.4197632,2,Silver Linden Drive (808),a,Silver Linden Drive,84,5446931,397277808,Richmond Hill,37878
 43.8492894,-79.4555772,2,Skaha Court (879),a,Skaha Court,22,5446781,94723879,Richmond Hill,37878
-43.849295,-79.4166154,2,Silver Linden Drive (513),a,Silver Linden Drive,84,5446931,328449513,Richmond Hill,37878
 43.8492952,-79.454145,2,Aranka Court (642),a,Aranka Court,9,5446782,94727642,Richmond Hill,37878
-43.849301,-79.4196509,2,Silver Linden Drive (504),a,Silver Linden Drive,84,5446931,328449504,Richmond Hill,37878
-43.849301,-79.4196509,2,Baltic Street (568),a,Baltic Street,10,5447381,98831568,Richmond Hill,37878
 43.8493026,-79.4558581,2,Skaha Court (875),a,Skaha Court,22,5446781,94723875,Richmond Hill,37878
-43.8493153,-79.4185968,2,Frobisher Street (178),a,Frobisher Street,12,5446929,96651178,Richmond Hill,37878
 43.849324,-79.4555798,2,Skaha Court (878),a,Skaha Court,22,5446781,94723878,Richmond Hill,37878
 43.8493309,-79.4534156,2,Ayr Road (051),a,Ayr Road,6,5447780,99580051,Richmond Hill,37878
 43.8493309,-79.4534156,2,Michael Drive (417),a,Michael Drive,13,5447783,99594417,Richmond Hill,37878
 43.8493318,-79.3883356,2,Reid Street (720),a,Reid Street,19,5447426,98910720,Richmond Hill,37878
 43.8493345,-79.4558504,2,Skaha Court (876),a,Skaha Court,22,5446781,94723876,Richmond Hill,37878
 43.8493393,-79.4322103,2,Yonge Street (594),a,Yonge Street,890,5446601,297028594,Richmond Hill,37878
-43.8493416,-79.4167262,2,Silver Linden Drive (512),a,Silver Linden Drive,84,5446931,328449512,Richmond Hill,37878
-43.8493418,-79.4186033,2,Frobisher Street (161),a,Frobisher Street,12,5446929,328450161,Richmond Hill,37878
 43.8493456,-79.4294161,2,Coburg Crescent (160),a,Coburg Crescent,24,5446973,96930160,Richmond Hill,37878
 43.8493481,-79.4533177,2,Michael Drive (418),a,Michael Drive,13,5447783,99594418,Richmond Hill,37878
 43.8493559,-79.4555983,2,Skaha Court (877),a,Skaha Court,22,5446781,94723877,Richmond Hill,37878
 43.8493618,-79.3772579,2,East Beaver Creek Road (208),a,East Beaver Creek Road,149,5447485,99042208,Richmond Hill,37878
 43.8493631,-79.4558291,2,Skaha Court (576),a,Skaha Court,22,5446781,354033576,Richmond Hill,37878
-43.849375,-79.4191389,2,Silver Linden Drive (505),a,Silver Linden Drive,84,5446931,328449505,Richmond Hill,37878
 43.8493765,-79.3834996,2,Leslie Street (221),a,Leslie Street,580,5446825,95412221,Richmond Hill,37878
 43.8493801,-79.4556281,2,Skaha Court (581),a,Skaha Court,22,5446781,354033581,Richmond Hill,37878
 43.8493854,-79.4557965,2,Skaha Court (577),a,Skaha Court,22,5446781,354033577,Richmond Hill,37878
@@ -2573,26 +2145,20 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.8494002,-79.429452,2,Coburg Crescent (161),a,Coburg Crescent,24,5446973,96930161,Richmond Hill,37878
 43.8494029,-79.4557111,2,Skaha Court (579),a,Skaha Court,22,5446781,354033579,Richmond Hill,37878
 43.8494115,-79.3882464,2,Reid Street (721),a,Reid Street,19,5447426,98910721,Richmond Hill,37878
-43.8494168,-79.4169606,2,Silver Linden Drive (511),a,Silver Linden Drive,84,5446931,328449511,Richmond Hill,37878
 43.8494178,-79.3793612,2,East Pearce Street (757),a,East Pearce Street,23,5447337,392304757,Richmond Hill,37878
 43.8494216,-79.4297003,2,Coburg Crescent (165),a,Coburg Crescent,24,5446973,96930165,Richmond Hill,37878
-43.8494266,-79.4187322,2,Silver Linden Drive (809),a,Silver Linden Drive,84,5446931,397277809,Richmond Hill,37878
 43.8494295,-79.4296254,2,Coburg Crescent (164),a,Coburg Crescent,24,5446973,96930164,Richmond Hill,37878
 43.8494347,-79.4267265,2,Red Maple Road (925),a,Red Maple Road,110,5447164,328449925,Richmond Hill,37878
 43.8494357,-79.3817284,2,Fulton Way (770),a,Fulton Way,37,5447157,98198770,Richmond Hill,37878
 43.849437,-79.4295133,2,Coburg Crescent (162),a,Coburg Crescent,24,5446973,96930162,Richmond Hill,37878
 43.8494374,-79.4295413,2,Coburg Crescent (912),a,Coburg Crescent,24,5446973,397277912,Richmond Hill,37878
 43.8494377,-79.429563,2,Coburg Crescent (163),a,Coburg Crescent,24,5446973,96930163,Richmond Hill,37878
-43.8494399,-79.4186271,2,Frobisher Street (179),a,Frobisher Street,12,5446929,96651179,Richmond Hill,37878
-43.8494399,-79.4186271,2,Silver Linden Drive (506),a,Silver Linden Drive,84,5446931,328449506,Richmond Hill,37878
 43.8494561,-79.4542995,2,Aranka Court (641),a,Aranka Court,9,5446782,94727641,Richmond Hill,37878
 43.8494634,-79.4492162,2,Duncombe Lane (760),a,Duncombe Lane,23,5447910,384336760,Richmond Hill,37878
 43.8494718,-79.4307573,2,Ellesmere Street (438),a,Ellesmere Street,19,5446979,424871438,Richmond Hill,37878
 43.8494793,-79.4345842,2,Oak Avenue (958),a,Oak Avenue,11,5447165,328450958,Richmond Hill,37878
 43.8494908,-79.4496988,2,Carrville Road (841),a,Carrville Road,116,5447246,98534841,Richmond Hill,37878
 43.849491,-79.3881323,2,Reid Street (722),a,Reid Street,19,5447426,98910722,Richmond Hill,37878
-43.849493,-79.4172572,2,Silver Linden Drive (510),a,Silver Linden Drive,84,5446931,328449510,Richmond Hill,37878
-43.8494972,-79.418215,2,Silver Linden Drive (507),a,Silver Linden Drive,84,5446931,328449507,Richmond Hill,37878
 43.8494995,-79.4285832,2,Revelstoke Crescent (599),a,Revelstoke Crescent,23,5446865,95952599,Richmond Hill,37878
 43.8495037,-79.4492354,2,Duncombe Lane (487),a,Duncombe Lane,23,5447910,328453487,Richmond Hill,37878
 43.8495103,-79.3772164,2,East Beaver Creek Road (209),a,East Beaver Creek Road,149,5447485,99042209,Richmond Hill,37878
@@ -2604,8 +2170,6 @@ lat,lon,sz,names,len_cat,street,street_nodes,street_id,node_id,source_city,sourc
 43.84953,-79.3788594,2,East Pearce Street (098),a,East Pearce Street,23,5447337,481627098,Richmond Hill,37878
 43.8495326,-79.4343281,2,Oak Avenue (959),a,Oak Avenue,11,5447165,328450959,Richmond Hill,37878
 43.8495366,-79.4586512,2,Keremeos Crescent (868),a,Keremeos Crescent,10,5446779,94699868,Richmond Hill,37878
-43.8495374,-79.4178656,2,Silver Linden Drive (508),a,Silver Linden Drive,84,5446931,328449508,Richmond Hill,37878
-43.8495421,-79.4175544,2,Silver Linden Drive (509),a,Silver Linden Drive,84,5446931,328449509,Richmond Hill,37878
 43.8495449,-79.4285664,2,Revelstoke Crescent (704),a,Revelstoke Crescent,23,5446865,630426704,Richmond Hill,37878
 43.8495603,-79.4266983,2,Red Maple Road (926),a,Red Maple Road,110,5447164,328449926,Richmond Hill,37878
 43.8495625,-79.4285388,2,Revelstoke Crescent (705),a,Revelstoke Crescent,23,5446865,630426705,Richmond Hill,37878

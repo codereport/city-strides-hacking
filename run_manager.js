@@ -1,6 +1,7 @@
 (() => {
   const isFilePage = location.protocol === "file:";
-  const isPlannerPage = location.pathname === "/upcoming";
+  const isPlannerPage = ["http:", "https:"].includes(location.protocol)
+    && ["127.0.0.1", "localhost", "[::1]"].includes(location.hostname);
   if (!isFilePage && !isPlannerPage) return;
 
   const apiRoot = isFilePage
@@ -25,7 +26,9 @@
   const status = document.createElement("div");
   status.className = "local-manager";
   status.textContent = page === "upcoming"
-    ? "Local run management is enabled. Keep the route planner server running on port 8765."
+    ? (isFilePage
+      ? "Local run management is enabled. Keep the route planner server running on port 8765."
+      : "Local run management is enabled.")
     : "Completed runs are sorted by the time they were marked complete.";
   document.querySelector("header").append(status);
 

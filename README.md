@@ -73,10 +73,11 @@ clicked point, including areas without an OSM path. **Undo last** removes it.
 
 Phone-ready route exports from the private planner are written to the public
 `upcoming_runs/` directory and automatically listed by the repository-root
-`index.html` page. When that page is opened locally with a `file://` URL, it
-shows controls for moving a run to the completion-sorted `past_runs.html` page
-when it is completed. Keep the planner server running on its default port while
-using that local control; the published Pages site remains read-only.
+`index.html` page. Open **Upcoming runs** from Route Lab to mark a run completed
+and move it to the completion-sorted `past_runs.html` page. These controls also
+work when opening `index.html` with a `file://` URL; keep the planner server
+running on its default port for that option. The published Pages site remains
+read-only.
 
 ## GitHub Pages
 

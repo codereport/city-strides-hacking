@@ -27,7 +27,7 @@ are ignored by Git. Stop the command to cancel a pending login.
 3. Add a `parameters.yaml`. Example below.
 
 ```yaml
-map_style: 'open-street-map'
+map_style: 'https://tiles.openfreemap.org/styles/liberty'
 heat_map_max_length: 1
 heat_map_exclude_csnodes: false
 ```
@@ -39,9 +39,29 @@ heat_map_exclude_csnodes: false
    * Pass several cities, such as `./create_heat_map.py tiny midland`, to create
      a combined heat map. Use `--output path.html` to choose another destination.
 
+Heat maps use [OpenFreeMap](https://openfreemap.org/) for the street basemap,
+including when opened directly as local HTML files. No API key is needed.
+The old `map_style: 'open-street-map'` setting also uses OpenFreeMap, since
+OpenStreetMap's standard tile service requires a web referrer. Other Plotly
+style names and custom style URLs can still be set with `map_style`.
+Standalone exports pin the Plotly browser runtime to 3.6.0 because 4.1.1's map
+worker stalls when the page is opened from disk.
+
 For a city without an OSM dataset, `./get_data_for_new_city.py CITY` downloads
 it. `./add_new_city.py CITY` registers a new CityStrides city and bounding box
 with the node downloader.
+
+`--relation-id` requires an OSM boundary **relation** ID; node and way IDs do
+not identify a city area. Cape Town uses the City of Cape Town boundary,
+relation `79604`, automatically:
+
+```bash
+./get_data_for_new_city.py cape_town
+./create_heat_map.py cape_town
+```
+
+Empty or incomplete Overpass downloads are rejected. An unusable existing
+dataset is downloaded again automatically; use `--force` to replace a valid one.
 
 The two repository-root download commands are compatibility launchers. Their
 single canonical implementations live in `city-strides-route-planner/`, so

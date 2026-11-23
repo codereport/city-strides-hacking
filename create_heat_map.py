@@ -18,6 +18,10 @@ from tqdm import tqdm
 
 ROOT = Path(__file__).resolve().parent
 NODE_COLUMNS = ["lat", "lon", "sz", "names", "len_cat"]
+DEFAULT_MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty"
+# Plotly 4.1.1's map worker stalls on file:// pages; use the working runtime
+# for standalone exports so both vector basemaps and heat-map nodes render.
+STANDALONE_PLOTLY_JS = "https://cdn.plot.ly/plotly-3.6.0.min.js"
 
 # City aliases used by CityStrides CSV filenames.
 CITY_ALIASES = {
@@ -37,7 +41,7 @@ def citystrides_city_name(city: str) -> str:
 
 def load_settings(path: Path) -> dict:
     defaults = {
-        "map_style": "open-street-map",
+        "map_style": DEFAULT_MAP_STYLE,
         "heat_map_max_length": 1.0,
         "heat_map_exclude_csnodes": True,
     }
@@ -295,6 +299,13 @@ def write_heat_map_html(frame: pd.DataFrame, map_style: str, output: Path) -> No
     if frame.empty:
         raise ValueError("No nodes matched the configured heat-map filters")
 
+    # Local HTML files cannot send the Referer required by OSM's tile service.
+    # Keep existing parameters.yaml files working with an OSM-based provider
+    # that supports these standalone maps and includes attribution in its style.
+    if map_style == "open-street-map":
+        print("ℹ Using OpenFreeMap for the legacy open-street-map setting")
+        map_style = DEFAULT_MAP_STYLE
+
     figure = px.scatter_map(
         frame,
         lat="lat",
@@ -337,7 +348,7 @@ def write_heat_map_html(frame: pd.DataFrame, map_style: str, output: Path) -> No
     }
 
     html = figure.to_html(
-        include_plotlyjs="cdn", config=config, div_id="heat-map-div"
+        include_plotlyjs=STANDALONE_PLOTLY_JS, config=config, div_id="heat-map-div"
     )
     data_script = f"<script>window.originalData = {original_data_json(frame)};</script>"
     html = html.replace("</head>", f"{CUSTOM_PAGE}\n{data_script}\n</head>")

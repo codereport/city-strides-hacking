@@ -1,0 +1,11 @@
+{
+  "city": "aurora",
+  "city_id": "37870",
+  "download_strategy": "adaptive_quadtree",
+  "generated_at": "2026-11-28T04:57:47.130721+00:00",
+  "node_count": 13518,
+  "schema_version": 1,
+  "sha256": "cf13eaa0c1ed6807be7fb9244bb3e538b4a5b92f34be200cf1b06062255a2ed6",
+  "source_city": "Aurora",
+  "street_count": 558
+}
